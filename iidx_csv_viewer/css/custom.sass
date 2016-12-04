@@ -1,0 +1,504 @@
+$side_padding: 5px
+
+*
+  box-sizing: border-box
+  font-family: meiryo
+html,body
+  height: 100%
+body
+  position: relative
+  overflow-y: scroll
+  background: #222222
+  padding: 0 $side_padding
+  font-size: 95%
+  max-width: 1280px
+  margin: auto
+  &:not(.with_old)
+    table
+      td
+        &.play_count, &.miss, &.notes
+          padding-right: 1em
+  .with_old
+    table
+      td
+        &.play_count, &.miss, &.notes
+          .current, .old
+            padding-right: 1em
+
+#score_table_filter
+  display: none
+#score_table_length
+  display: none
+#score_table_paginate
+  position: absolute
+  top: 0.5em
+  right: $side_padding
+  color: white
+  .ellipsis
+    display: inline-block
+    text-align: center
+    padding-left: 0
+    padding-right: 0
+    width: 2.5em
+    margin-left: 2px
+  .paginate_button
+    display: inline-block
+    background: transparent
+    border: 1px solid rgba(white, 0.8)
+    color: white !important
+    text-align: center
+    width: 2.5em
+    padding: 0.5em 0
+    margin-left: 2px
+    border-radius: 4px
+    &.previous, &.next
+      width: 5.5em
+    &.disabled
+      color: #888888 !important
+      border: 1px solid rgba(white, 0.3)
+    &.current
+      background: #777777
+    &:not(.current):not(.disabled)
+      cursor: pointer
+      &:hover
+        background: #999999
+#score_table_info
+  position: absolute
+  top: 3.2em
+  right: $side_padding
+  color: white
+
+$header_height: 5em
+.filter_header
+  display: none
+  background: #222222
+  z-index: 2
+  position: fixed
+  top: 0
+  left: 0
+  height: $header_height
+  width: 100%
+  padding: 0.5em
+  margin: auto
+  .inner
+    max-width: 1280px - ($side_padding * 2)
+    position: relative
+    margin: auto
+  input
+    font-size: 100%
+    padding-left: 0.2em
+.table_container
+  min-height: 100%
+  display: none
+  overflow: hidden
+  padding-top: $header_height
+
+#score_table
+  width: 100% !important
+table.dataTable
+  table-layout: fixed
+  td, th
+    position: relative
+    vertical-align: middle
+    min-width: auto !important
+    &.version
+      width: 5em !important
+    &.difficulty
+      width: 3em !important
+    &.clear_type
+      width: 6em !important
+    &.level
+      width: 3em !important
+    &.miss
+      width: 3em !important
+    &.notes
+      width: 4em !important
+    &.rank
+      width: 3em !important
+    &.around_rank, &.next_rank, &.prev_rank
+      width: 5em !important
+    &.title
+      width: 14em !important
+    &.score_diff
+      width: 3.5em !important
+    &.date, &.play_count
+      width: 3em !important
+  th
+    &.score_bar, &.score_rate
+      width: 6em !important
+    &.around_rank, &.next_rank, &.prev_rank
+      &:hover:before
+        content: "右クリックで切り替わります。 Switch by right click."
+        position: absolute
+        bottom: 110%
+        left: 0
+        background: whitesmoke
+        color: black
+        box-shadow: 0 0 2px 2px rgba(white, 0.3)
+        border-radius: 5px
+        z-index: 3
+        width: 15em
+        padding: 0.5em 1em
+        text-align: left
+  td
+    &.score_bar
+      width: 12em !important
+  thead
+    th
+      font-weight: normal
+      background: #111111
+      color: white
+      border: none
+      padding: 1em 0.5em
+      position: relative
+      &:not(.sorting_disabled):hover
+        background-color: #2A2A2A
+      &.searched:before
+        display: inline-block
+        content: ''
+        position: absolute
+        background: rgb(240, 10, 10)
+        width: 94%
+        height: 2px
+        bottom: 0
+        left: 50%
+        transform: translateX(-50%)
+    .sorting
+      background-image: none
+    .sorting_desc, .sorting_asc
+      background-position: bottom
+    .sorting_disabled
+      background: #1a1a1a
+  tr:nth-child(even)
+    td
+      background: #222222
+      color: white
+  tr:nth-child(odd)
+    td
+      background: #444444
+      color: white
+  tr:hover
+    td:after
+      display: inline-block
+      content: ''
+      position: absolute
+      background: rgb(240, 10, 10)
+      width: 100%
+      height: 2px
+      bottom: -1px
+      left: 0
+  tr
+    td
+      height: 3em
+      border-bottom: 1px solid rgba(white, 0.3)
+      &.no_padding
+        padding: 0
+      .inner
+        display: flex
+        flex-direction: column
+        height: 100%
+        justify-content: space-around
+        .split_line
+          height: 1px
+          background: rgba(white, 0.1)
+        .current, .old
+          padding: 0 0.5em
+          min-height: 1em
+          height: 50%
+          display: flex
+          align-items: center
+        .old
+          opacity: 0.3
+          background: rgba(#ED342F, 0.1)
+      &.score_bar
+        .current, .old
+          padding: 0
+    td.score_diff
+      &.minus
+        color: red
+    td
+      &.next_rank, &.prev_rank, &.around_rank
+        &:before
+          content: attr(rank)
+        .current, .old
+          &:before
+            content: attr(rank)
+    td.clear_type
+      font-weight: bold
+      &.hard, .hard
+        color: #FF2F2F
+      &.ex_hard, .ex_hard
+        color: #FFCE00
+      &.fullcombo, .fullcombo
+        color: #4E9BFF
+      &.clear, .clear
+        color: #01dce1
+      &.assist, .assist
+        color: #AF6DFF
+      &.failed, .failed
+        color: #F44109
+      &.easy, .easy
+        color: #00D991
+      &.no_play, .no_play
+        color: #BFBFBF
+    td.rank
+      font-weight: bold
+      background-size: 90% 90%;
+      background-repeat: no-repeat;
+      background-position: center;
+      &.aaa, .aaa
+        color: gold
+      &.aa, .aa
+        color: silver
+      &.a, .a
+        color: #50C1BA
+    &:nth-child(odd)
+      td.score_bar
+        background: #1a1a1a
+    &:nth-child(even)
+      td.score_bar
+        background: #0a0a0a
+    td.score_bar
+      padding: 0
+      position: relative
+      .line
+        content: ''
+        border-left: 1px dotted rgba(255, 255, 0, 0.4)
+        height: 100%
+        position: absolute
+        top: 0
+        &.a
+          left: 66.66%
+        &.aa
+          left: 77.77%
+        &.aaa
+          left: 88.88%
+      .score_bar_container
+        white-space: nowrap
+        width: 100%
+        padding: 0.5em 0
+        .bar
+          width: 0
+          height: 100%
+          background: rgba(#ED342F, 0.7)
+          padding: 0.3em 0
+          > *
+            position: relative
+            color: white
+            padding: 0 0.3em
+          .rate
+            font-size: 120%
+            &:after
+              content: '%'
+          .value
+            opacity: 0.8
+    td.difficulty
+      &.normal
+        color: #4E9BFF
+      &.hyper
+        color: #FFCE00
+      &.another
+        color: #FF2F2F
+    td.score_rate
+      display: none
+    td
+      &.play_count, &.miss, &.notes
+        .current, .old
+          padding-right: 1em
+      &.version, &.level, &.difficulty, &.rank, &.prev_rank, &.next_rank, &.around_rank, &.clear_type, &.date
+        text-align: center
+        justify-content: center
+        .current, .old
+          text-align: center
+          justify-content: center
+      &.play_count, &.notes, &.miss, &.score_diff
+        justify-content: flex-end
+        text-align: right
+        .current, .old
+          justify-content: flex-end
+          text-align: right
+
+.filter_header
+  .score_bar_container
+    display: none
+.checkbox
+  white-space: nowrap
+  display: none
+  color: white
+  position: absolute
+  top: 100%
+  left: 10%
+  z-index: 1
+  background: rgba(0, 0, 0, 0.8)
+  flex-direction: column
+  padding: 1em
+  box-shadow: 0 0 2px 2px rgba(white, 0.3)
+  border-radius: 5px
+  $triangle_size: 0.5em
+  &:before
+    position: absolute
+    content: ''
+    width: $triangle_size
+    height: $triangle_size
+    background: rgba(0, 0, 0, 0.7)
+    left: 1em
+    top: -#{$triangle_size / 2}
+    transform-origin: center
+    box-shadow: 1px -1px 1px 1px rgba(white, 0.3)
+    transform: rotate(-45deg)
+  .all
+    text-align: left
+  .check_container
+    display: flex
+    > *
+      display: flex
+      flex-direction: column
+      text-align: left
+      padding-right: 1em
+      > *
+        label
+          &:hover
+            text-decoration: underline
+        &.disabled
+          color: gray
+  input
+    width: 2em
+    height: 2em
+    margin-right: 0.7em
+
+th:hover .checkbox, th.filter_visible .checkbox
+  display: flex
+
+.score_tooltip
+  display: none
+td.notes:hover
+  .score_tooltip
+    $tooltip_color: #111111
+    position: absolute
+    display: flex
+    flex-direction: column
+    top: calc(50% - 2em)
+    right: calc(50% + 2.5em)
+    background: $tooltip_color
+    padding: 1em
+    z-index: 1
+    box-shadow: 0 0 2px 2px rgba(white, 0.3)
+    border-radius: 5px
+    $triangle_size: 1em
+    &:before
+      position: absolute
+      content: ''
+      width: $triangle_size
+      height: $triangle_size
+      background: $tooltip_color
+      left: calc(100% - #{$triangle_size / 2})
+      top: 1.45em
+      transform-origin: center
+      box-shadow: 2px 2px 0px 0px rgba(255, 255, 255, 0.3)
+      transform: rotate(-45deg)
+    > *
+      white-space: nowrap
+
+.loading_message
+  text-align: center
+  z-index: 2
+  display: none
+  padding: 1em
+  color: white
+  font-size: 130%
+  position: absolute
+  top: 0
+  left: 0
+content
+  display: none
+  &.index
+    color: white
+    padding: 1.5em 1em
+    .title
+      display: flex
+      font-size: 150%
+      height: 1.3em
+      h1
+        display: inline-block
+        margin-right: 1em
+        line-height: 1.3em
+        height: 1.3em
+      iframe
+        vertical-align: middle
+    p
+      line-height: 1.2em
+      &.e
+        color: #aaaaaa
+    .description
+      padding: 0.5em
+      color: white
+      .message
+        margin-bottom: 0.5em
+      a
+        color: #AE2C29
+    ol
+      margin-top: 0.5em
+      counter-reset: li
+      list-style: none
+      padding-left: 0
+      li
+        position: relative
+        margin-bottom: .5em
+        padding: 0.5em 1.5em
+        &:before
+          content: counter(li) ""
+          counter-increment: li
+          position: absolute
+          left: 0
+          text-align: center
+          color: silver
+        input
+          display: none
+        label
+          $label_color: #AE2C29
+          margin-top: 0.5em
+          cursor: pointer
+          padding: 1em
+          display: inline-block
+          background: $label_color
+          color: white
+          border-radius: 3px
+          &:hover
+            background: rgba($label_color, 0.7)
+          &.disabled
+            cursor: auto
+            background: #444444
+            color: gray
+
+.developer
+  position: fixed
+  top: 1em
+  right: 1em
+  > *
+    text-align: right
+    margin-bottom: 0.5em
+  .github, .twitter
+    height: 2em
+    display: flex
+    vertical-align: middle
+    align-items: center
+    justify-content: flex-end
+    .label
+      margin-right: 0.5em
+  .twitter
+    .btn
+      a
+        text-decoration: none
+        padding: 0.3em 0.5em
+        background: #1B95E0
+        color: white
+        border-radius: 5px
+        &:hover
+          background: #0c7abf
+
+.other_links
+  a
+    color: #AE2C29
+  .site
+    margin-top: 0.5em
+    padding-left: 1.5em

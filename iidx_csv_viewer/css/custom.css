@@ -1,0 +1,718 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box;
+  font-family: meiryo;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  overflow-y: scroll;
+  background: #222222;
+  padding: 0 5px;
+  font-size: 95%;
+  max-width: 1280px;
+  margin: auto;
+}
+
+body:not(.with_old) table td.play_count, body:not(.with_old) table td.miss, body:not(.with_old) table td.notes {
+  padding-right: 1em;
+}
+
+body .with_old table td.play_count .current, body .with_old table td.play_count .old, body .with_old table td.miss .current, body .with_old table td.miss .old, body .with_old table td.notes .current, body .with_old table td.notes .old {
+  padding-right: 1em;
+}
+
+#score_table_filter {
+  display: none;
+}
+
+#score_table_length {
+  display: none;
+}
+
+#score_table_paginate {
+  position: absolute;
+  top: 0.5em;
+  right: 5px;
+  color: white;
+}
+
+#score_table_paginate .ellipsis {
+  display: inline-block;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  width: 2.5em;
+  margin-left: 2px;
+}
+
+#score_table_paginate .paginate_button {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  color: white !important;
+  text-align: center;
+  width: 2.5em;
+  padding: 0.5em 0;
+  margin-left: 2px;
+  border-radius: 4px;
+}
+
+#score_table_paginate .paginate_button.previous, #score_table_paginate .paginate_button.next {
+  width: 5.5em;
+}
+
+#score_table_paginate .paginate_button.disabled {
+  color: #888888 !important;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#score_table_paginate .paginate_button.current {
+  background: #777777;
+}
+
+#score_table_paginate .paginate_button:not(.current):not(.disabled) {
+  cursor: pointer;
+}
+
+#score_table_paginate .paginate_button:not(.current):not(.disabled):hover {
+  background: #999999;
+}
+
+#score_table_info {
+  position: absolute;
+  top: 3.2em;
+  right: 5px;
+  color: white;
+}
+
+.filter_header {
+  display: none;
+  background: #222222;
+  z-index: 2;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5em;
+  width: 100%;
+  padding: 0.5em;
+  margin: auto;
+}
+
+.filter_header .inner {
+  max-width: 1270px;
+  position: relative;
+  margin: auto;
+}
+
+.filter_header input {
+  font-size: 100%;
+  padding-left: 0.2em;
+}
+
+.table_container {
+  min-height: 100%;
+  display: none;
+  overflow: hidden;
+  padding-top: 5em;
+}
+
+#score_table {
+  width: 100% !important;
+}
+
+table.dataTable {
+  table-layout: fixed;
+}
+
+table.dataTable td, table.dataTable th {
+  position: relative;
+  vertical-align: middle;
+  min-width: auto !important;
+}
+
+table.dataTable td.version, table.dataTable th.version {
+  width: 5em !important;
+}
+
+table.dataTable td.difficulty, table.dataTable th.difficulty {
+  width: 3em !important;
+}
+
+table.dataTable td.clear_type, table.dataTable th.clear_type {
+  width: 6em !important;
+}
+
+table.dataTable td.level, table.dataTable th.level {
+  width: 3em !important;
+}
+
+table.dataTable td.miss, table.dataTable th.miss {
+  width: 3em !important;
+}
+
+table.dataTable td.notes, table.dataTable th.notes {
+  width: 4em !important;
+}
+
+table.dataTable td.rank, table.dataTable th.rank {
+  width: 3em !important;
+}
+
+table.dataTable td.around_rank, table.dataTable td.next_rank, table.dataTable td.prev_rank, table.dataTable th.around_rank, table.dataTable th.next_rank, table.dataTable th.prev_rank {
+  width: 5em !important;
+}
+
+table.dataTable td.title, table.dataTable th.title {
+  width: 14em !important;
+}
+
+table.dataTable td.score_diff, table.dataTable th.score_diff {
+  width: 3.5em !important;
+}
+
+table.dataTable td.date, table.dataTable td.play_count, table.dataTable th.date, table.dataTable th.play_count {
+  width: 3em !important;
+}
+
+table.dataTable th.score_bar, table.dataTable th.score_rate {
+  width: 6em !important;
+}
+
+table.dataTable th.around_rank:hover:before, table.dataTable th.next_rank:hover:before, table.dataTable th.prev_rank:hover:before {
+  content: "右クリックで切り替わります。 Switch by right click.";
+  position: absolute;
+  bottom: 110%;
+  left: 0;
+  background: whitesmoke;
+  color: black;
+  box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  z-index: 3;
+  width: 15em;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+table.dataTable td.score_bar {
+  width: 12em !important;
+}
+
+table.dataTable thead th {
+  font-weight: normal;
+  background: #111111;
+  color: white;
+  border: none;
+  padding: 1em 0.5em;
+  position: relative;
+}
+
+table.dataTable thead th:not(.sorting_disabled):hover {
+  background-color: #2A2A2A;
+}
+
+table.dataTable thead th.searched:before {
+  display: inline-block;
+  content: '';
+  position: absolute;
+  background: #f00a0a;
+  width: 94%;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+table.dataTable thead .sorting {
+  background-image: none;
+}
+
+table.dataTable thead .sorting_desc, table.dataTable thead .sorting_asc {
+  background-position: bottom;
+}
+
+table.dataTable thead .sorting_disabled {
+  background: #1a1a1a;
+}
+
+table.dataTable tr:nth-child(even) td {
+  background: #222222;
+  color: white;
+}
+
+table.dataTable tr:nth-child(odd) td {
+  background: #444444;
+  color: white;
+}
+
+table.dataTable tr:hover td:after {
+  display: inline-block;
+  content: '';
+  position: absolute;
+  background: #f00a0a;
+  width: 100%;
+  height: 2px;
+  bottom: -1px;
+  left: 0;
+}
+
+table.dataTable tr td {
+  height: 3em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+table.dataTable tr td.no_padding {
+  padding: 0;
+}
+
+table.dataTable tr td .inner {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-around;
+}
+
+table.dataTable tr td .inner .split_line {
+  height: 1px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+table.dataTable tr td .inner .current, table.dataTable tr td .inner .old {
+  padding: 0 0.5em;
+  min-height: 1em;
+  height: 50%;
+  display: flex;
+  align-items: center;
+}
+
+table.dataTable tr td .inner .old {
+  opacity: 0.3;
+  background: rgba(237, 52, 47, 0.1);
+}
+
+table.dataTable tr td.score_bar .current, table.dataTable tr td.score_bar .old {
+  padding: 0;
+}
+
+table.dataTable tr td.score_diff.minus {
+  color: red;
+}
+
+table.dataTable tr td.next_rank:before, table.dataTable tr td.prev_rank:before, table.dataTable tr td.around_rank:before {
+  content: attr(rank);
+}
+
+table.dataTable tr td.next_rank .current:before, table.dataTable tr td.next_rank .old:before, table.dataTable tr td.prev_rank .current:before, table.dataTable tr td.prev_rank .old:before, table.dataTable tr td.around_rank .current:before, table.dataTable tr td.around_rank .old:before {
+  content: attr(rank);
+}
+
+table.dataTable tr td.clear_type {
+  font-weight: bold;
+}
+
+table.dataTable tr td.clear_type.hard, table.dataTable tr td.clear_type .hard {
+  color: #FF2F2F;
+}
+
+table.dataTable tr td.clear_type.ex_hard, table.dataTable tr td.clear_type .ex_hard {
+  color: #FFCE00;
+}
+
+table.dataTable tr td.clear_type.fullcombo, table.dataTable tr td.clear_type .fullcombo {
+  color: #4E9BFF;
+}
+
+table.dataTable tr td.clear_type.clear, table.dataTable tr td.clear_type .clear {
+  color: #01dce1;
+}
+
+table.dataTable tr td.clear_type.assist, table.dataTable tr td.clear_type .assist {
+  color: #AF6DFF;
+}
+
+table.dataTable tr td.clear_type.failed, table.dataTable tr td.clear_type .failed {
+  color: #F44109;
+}
+
+table.dataTable tr td.clear_type.easy, table.dataTable tr td.clear_type .easy {
+  color: #00D991;
+}
+
+table.dataTable tr td.clear_type.no_play, table.dataTable tr td.clear_type .no_play {
+  color: #BFBFBF;
+}
+
+table.dataTable tr td.rank {
+  font-weight: bold;
+  background-size: 90% 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+table.dataTable tr td.rank.aaa, table.dataTable tr td.rank .aaa {
+  color: gold;
+}
+
+table.dataTable tr td.rank.aa, table.dataTable tr td.rank .aa {
+  color: silver;
+}
+
+table.dataTable tr td.rank.a, table.dataTable tr td.rank .a {
+  color: #50C1BA;
+}
+
+table.dataTable tr:nth-child(odd) td.score_bar {
+  background: #1a1a1a;
+}
+
+table.dataTable tr:nth-child(even) td.score_bar {
+  background: #0a0a0a;
+}
+
+table.dataTable tr td.score_bar {
+  padding: 0;
+  position: relative;
+}
+
+table.dataTable tr td.score_bar .line {
+  content: '';
+  border-left: 1px dotted rgba(255, 255, 0, 0.4);
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+table.dataTable tr td.score_bar .line.a {
+  left: 66.66%;
+}
+
+table.dataTable tr td.score_bar .line.aa {
+  left: 77.77%;
+}
+
+table.dataTable tr td.score_bar .line.aaa {
+  left: 88.88%;
+}
+
+table.dataTable tr td.score_bar .score_bar_container {
+  white-space: nowrap;
+  width: 100%;
+  padding: 0.5em 0;
+}
+
+table.dataTable tr td.score_bar .score_bar_container .bar {
+  width: 0;
+  height: 100%;
+  background: rgba(237, 52, 47, 0.7);
+  padding: 0.3em 0;
+}
+
+table.dataTable tr td.score_bar .score_bar_container .bar > * {
+  position: relative;
+  color: white;
+  padding: 0 0.3em;
+}
+
+table.dataTable tr td.score_bar .score_bar_container .bar .rate {
+  font-size: 120%;
+}
+
+table.dataTable tr td.score_bar .score_bar_container .bar .rate:after {
+  content: '%';
+}
+
+table.dataTable tr td.score_bar .score_bar_container .bar .value {
+  opacity: 0.8;
+}
+
+table.dataTable tr td.difficulty.normal {
+  color: #4E9BFF;
+}
+
+table.dataTable tr td.difficulty.hyper {
+  color: #FFCE00;
+}
+
+table.dataTable tr td.difficulty.another {
+  color: #FF2F2F;
+}
+
+table.dataTable tr td.score_rate {
+  display: none;
+}
+
+table.dataTable tr td.play_count .current, table.dataTable tr td.play_count .old, table.dataTable tr td.miss .current, table.dataTable tr td.miss .old, table.dataTable tr td.notes .current, table.dataTable tr td.notes .old {
+  padding-right: 1em;
+}
+
+table.dataTable tr td.version, table.dataTable tr td.level, table.dataTable tr td.difficulty, table.dataTable tr td.rank, table.dataTable tr td.prev_rank, table.dataTable tr td.next_rank, table.dataTable tr td.around_rank, table.dataTable tr td.clear_type, table.dataTable tr td.date {
+  text-align: center;
+  justify-content: center;
+}
+
+table.dataTable tr td.version .current, table.dataTable tr td.version .old, table.dataTable tr td.level .current, table.dataTable tr td.level .old, table.dataTable tr td.difficulty .current, table.dataTable tr td.difficulty .old, table.dataTable tr td.rank .current, table.dataTable tr td.rank .old, table.dataTable tr td.prev_rank .current, table.dataTable tr td.prev_rank .old, table.dataTable tr td.next_rank .current, table.dataTable tr td.next_rank .old, table.dataTable tr td.around_rank .current, table.dataTable tr td.around_rank .old, table.dataTable tr td.clear_type .current, table.dataTable tr td.clear_type .old, table.dataTable tr td.date .current, table.dataTable tr td.date .old {
+  text-align: center;
+  justify-content: center;
+}
+
+table.dataTable tr td.play_count, table.dataTable tr td.notes, table.dataTable tr td.miss, table.dataTable tr td.score_diff {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+table.dataTable tr td.play_count .current, table.dataTable tr td.play_count .old, table.dataTable tr td.notes .current, table.dataTable tr td.notes .old, table.dataTable tr td.miss .current, table.dataTable tr td.miss .old, table.dataTable tr td.score_diff .current, table.dataTable tr td.score_diff .old {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.filter_header .score_bar_container {
+  display: none;
+}
+
+.checkbox {
+  white-space: nowrap;
+  display: none;
+  color: white;
+  position: absolute;
+  top: 100%;
+  left: 10%;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.8);
+  flex-direction: column;
+  padding: 1em;
+  box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+}
+
+.checkbox:before {
+  position: absolute;
+  content: '';
+  width: 0.5em;
+  height: 0.5em;
+  background: rgba(0, 0, 0, 0.7);
+  left: 1em;
+  top: -0.25em;
+  transform-origin: center;
+  box-shadow: 1px -1px 1px 1px rgba(255, 255, 255, 0.3);
+  transform: rotate(-45deg);
+}
+
+.checkbox .all {
+  text-align: left;
+}
+
+.checkbox .check_container {
+  display: flex;
+}
+
+.checkbox .check_container > * {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding-right: 1em;
+}
+
+.checkbox .check_container > * > * label:hover {
+  text-decoration: underline;
+}
+
+.checkbox .check_container > * > *.disabled {
+  color: gray;
+}
+
+.checkbox input {
+  width: 2em;
+  height: 2em;
+  margin-right: 0.7em;
+}
+
+th:hover .checkbox, th.filter_visible .checkbox {
+  display: flex;
+}
+
+.score_tooltip {
+  display: none;
+}
+
+td.notes:hover .score_tooltip {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: calc(50% - 2em);
+  right: calc(50% + 2.5em);
+  background: #111111;
+  padding: 1em;
+  z-index: 1;
+  box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+}
+
+td.notes:hover .score_tooltip:before {
+  position: absolute;
+  content: '';
+  width: 1em;
+  height: 1em;
+  background: #111111;
+  left: calc(100% - 0.5em);
+  top: 1.45em;
+  transform-origin: center;
+  box-shadow: 2px 2px 0px 0px rgba(255, 255, 255, 0.3);
+  transform: rotate(-45deg);
+}
+
+td.notes:hover .score_tooltip > * {
+  white-space: nowrap;
+}
+
+.loading_message {
+  text-align: center;
+  z-index: 2;
+  display: none;
+  padding: 1em;
+  color: white;
+  font-size: 130%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+content {
+  display: none;
+}
+
+content.index {
+  color: white;
+  padding: 1.5em 1em;
+}
+
+content.index .title {
+  display: flex;
+  font-size: 150%;
+  height: 1.3em;
+}
+
+content.index .title h1 {
+  display: inline-block;
+  margin-right: 1em;
+  line-height: 1.3em;
+  height: 1.3em;
+}
+
+content.index .title iframe {
+  vertical-align: middle;
+}
+
+content.index p {
+  line-height: 1.2em;
+}
+
+content.index p.e {
+  color: #aaaaaa;
+}
+
+content.index .description {
+  padding: 0.5em;
+  color: white;
+}
+
+content.index .description .message {
+  margin-bottom: 0.5em;
+}
+
+content.index .description a {
+  color: #AE2C29;
+}
+
+content.index ol {
+  margin-top: 0.5em;
+  counter-reset: li;
+  list-style: none;
+  padding-left: 0;
+}
+
+content.index ol li {
+  position: relative;
+  margin-bottom: .5em;
+  padding: 0.5em 1.5em;
+}
+
+content.index ol li:before {
+  content: counter(li) "";
+  counter-increment: li;
+  position: absolute;
+  left: 0;
+  text-align: center;
+  color: silver;
+}
+
+content.index ol li input {
+  display: none;
+}
+
+content.index ol li label {
+  margin-top: 0.5em;
+  cursor: pointer;
+  padding: 1em;
+  display: inline-block;
+  background: #AE2C29;
+  color: white;
+  border-radius: 3px;
+}
+
+content.index ol li label:hover {
+  background: rgba(174, 44, 41, 0.7);
+}
+
+content.index ol li label.disabled {
+  cursor: auto;
+  background: #444444;
+  color: gray;
+}
+
+.developer {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+}
+
+.developer > * {
+  text-align: right;
+  margin-bottom: 0.5em;
+}
+
+.developer .github, .developer .twitter {
+  height: 2em;
+  display: flex;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.developer .github .label, .developer .twitter .label {
+  margin-right: 0.5em;
+}
+
+.developer .twitter .btn a {
+  text-decoration: none;
+  padding: 0.3em 0.5em;
+  background: #1B95E0;
+  color: white;
+  border-radius: 5px;
+}
+
+.developer .twitter .btn a:hover {
+  background: #0c7abf;
+}
+
+.other_links a {
+  color: #AE2C29;
+}
+
+.other_links .site {
+  margin-top: 0.5em;
+  padding-left: 1.5em;
+}
