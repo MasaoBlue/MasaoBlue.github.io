@@ -1,0 +1,26 @@
+!!!
+%html
+  %head
+    %meta{:charset => "UTF-8"}
+    %title develop@MasaoBlue
+    %link{:href => "css/reset.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/custom.css", :rel => "stylesheet", :type => "text/css"}/
+  %body
+    %h1 Developed tools
+    .description
+      開発したものを公開していく場所・・・になる予定です。
+    %h2 Tools
+    %ul
+      %li
+        %a{href: './iidx_csv_viewer/score.html'} IIDX CSV Viewer (Beta)
+    %h2 Samples with My data
+    %ul
+      %li
+        %a{href: './iidx_csv_viewer/score.html?csv=20161203.csv&debug=true'} IIDX CSV Viewer (Single file)
+        %p - 1つのファイル(SINOBUZのもの)を表示します。
+        %p.e - Display SINOBUZ data.
+      %li
+        %a{href: './iidx_csv_viewer/score.html?csv=20161203.csv&old_csv=20161024.csv&debug=true'} IIDX CSV Viewer (Compare 2 files)
+        %p - copula終了時点のものと、SINOBUZの最新データを比較します。
+        %p.e - Comparison between copula and SINOBUZ.
+    =Haml::Engine.new(File.read(File.expand_path('../ads.haml', __FILE__))).render
