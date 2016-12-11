@@ -32,6 +32,8 @@ class TableManager
       '超!!遠距離らぶメ～ル': '超!!遠距離らぶ♡メ～ル'
       '表裏一体！？怪盗いいんちょの悩み': '表裏一体！？怪盗いいんちょの悩み♥'
       '!Viva!': '¡Viva!'
+      '火影': '焱影'
+      'Verflucht†LEGGENDARIA': 'Verflucht †LEGGENDARIA'
     }[title] or title
 
   # バージョン名を番号に変換
