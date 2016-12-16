@@ -87,6 +87,22 @@ $header_height: 5em
   input
     font-size: 100%
     padding-left: 0.2em
+  .file_names
+    margin-bottom: 0.5em
+    > *
+      display: inline-block
+      color: rgba(#ED342F, 0.7)
+      &:before
+        opacity: 0.5
+        color: white
+    .current_file
+      &:not(:empty):before
+        content: 'current: '
+    .old_file
+      &:not(:empty):before
+        content: 'old: '
+  .score_bar_container
+    display: none
 .table_container
   min-height: 100%
   display: none
@@ -318,9 +334,6 @@ table.dataTable
           justify-content: flex-end
           text-align: right
 
-.filter_header
-  .score_bar_container
-    display: none
 .checkbox
   white-space: nowrap
   display: none

@@ -114,6 +114,32 @@ body .with_old table td.play_count .current, body .with_old table td.play_count 
   padding-left: 0.2em;
 }
 
+.filter_header .file_names {
+  margin-bottom: 0.5em;
+}
+
+.filter_header .file_names > * {
+  display: inline-block;
+  color: rgba(237, 52, 47, 0.7);
+}
+
+.filter_header .file_names > *:before {
+  opacity: 0.5;
+  color: white;
+}
+
+.filter_header .file_names .current_file:not(:empty):before {
+  content: 'current: ';
+}
+
+.filter_header .file_names .old_file:not(:empty):before {
+  content: 'old: ';
+}
+
+.filter_header .score_bar_container {
+  display: none;
+}
+
 .table_container {
   min-height: 100%;
   display: none;
@@ -467,10 +493,6 @@ table.dataTable tr td.play_count, table.dataTable tr td.notes, table.dataTable t
 table.dataTable tr td.play_count .current, table.dataTable tr td.play_count .old, table.dataTable tr td.notes .current, table.dataTable tr td.notes .old, table.dataTable tr td.miss .current, table.dataTable tr td.miss .old, table.dataTable tr td.score_diff .current, table.dataTable tr td.score_diff .old {
   justify-content: flex-end;
   text-align: right;
-}
-
-.filter_header .score_bar_container {
-  display: none;
 }
 
 .checkbox {

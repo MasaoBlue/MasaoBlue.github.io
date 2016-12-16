@@ -474,6 +474,11 @@ class TableManager
               td.append(value)
                 .addClass(cls.join(' '))
                 .attr(attrs)
+    vname = _(csv).last()[common_column_indexes.version]
+    @header.find('.current_file').text(@csv_name + '(' + vname + ')')
+    if @with_old
+      old_vname = _(old_csv).last()[common_column_indexes.version]
+      @header.find('.old_file').text(@old_csv_name + '(' + old_vname + ')')
     @init_data_table()
     @init_filter()
 
@@ -704,10 +709,12 @@ class TableManager
         fr.onload = (fe) =>
           input.closest('label').find('.button').text('[' + file.name + '] selected')
           if input.is('.current_csv')
+            @csv_name = file.name
             @csv_data = fe.target.result
             $('input.old_csv').prop(disabled: false).closest('label').removeClass('disabled')
             view_score.removeClass('disabled')
           else
+            @old_csv_name = file.name
             @with_old = true
             @old_csv_data = fe.target.result
         fr.readAsText(file)
