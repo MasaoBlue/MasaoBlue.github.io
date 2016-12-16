@@ -139,6 +139,9 @@
         rank: {
           sortable: !this.with_old
         },
+        rank_filter: {
+          visible: false
+        },
         next_rank: {
           visible: false,
           sortable: !this.with_old
@@ -154,8 +157,14 @@
           sortable: !this.with_old,
           orderSequence: reverse_order
         },
+        miss_filter: {
+          visible: false
+        },
         clear_type: {
           sortable: !this.with_old
+        },
+        clear_type_filter: {
+          visible: false
         },
         play_count: {
           sortable: !this.with_old,
@@ -361,7 +370,7 @@
                 window.undefined_title.push(common_values.title);
               }
               return _(_this.column_defs).each(function(opt, name) {
-                var attrs, cls, container, create_next_rank, create_score_bar, inner, interval, line_scores, max_score, old_attrs, old_cls, old_container, old_flg, old_score, old_v, old_value, score, score_diff, split, td, v, value;
+                var attrs, clear_diff, cls, container, create_next_rank, create_score_bar, current_rank, inner, interval, line_scores, max_score, miss_diff, old_attrs, old_cls, old_container, old_flg, old_rank, old_score, old_v, old_value, rank_diff, score, score_diff, split, td, v, value;
                 old_flg = false;
                 td = $('<td>').appendTo(tr);
                 value = common_values[name];
@@ -399,6 +408,10 @@
                       if (parseInt(old_value) < 0) {
                         old_value = '';
                       }
+                      break;
+                    case 'miss_filter':
+                      miss_diff = parseInt(get_value('miss')) - parseInt(get_old_value('miss'));
+                      value = miss_diff < 0 ? 'win' : miss_diff > 0 ? 'lose' : 'even';
                       break;
                     case 'difficulty':
                       value = diff.substr(0, 1);
@@ -553,12 +566,14 @@
                       break;
                     case 'clear_type':
                       old_flg = true;
-                      value || (value = '');
-                      old_value || (old_value = '');
-                      value = value === 'CLEAR' ? value : value.replace(' CLEAR', '');
-                      old_value = old_value === 'CLEAR' ? old_value : old_value.replace(' CLEAR', '');
+                      value = _this.clear_types[value] || '';
+                      old_value = _this.clear_types[old_value] || '';
                       cls.push(value.replace(/ /g, '_').toLowerCase());
                       old_cls.push(old_value.replace(/ /g, '_').toLowerCase());
+                      break;
+                    case 'clear_type_filter':
+                      clear_diff = _this.long_clear_types.indexOf(get_value('clear_type')) - _this.long_clear_types.indexOf(get_old_value('clear_type'));
+                      value = clear_diff > 0 ? 'win' : clear_diff < 0 ? 'lose' : 'even';
                       break;
                     case 'version_number':
                       value = _this.to_version_num(common_values.version);
@@ -576,6 +591,18 @@
                       if (old_value) {
                         old_cls.push(old_value.toLowerCase());
                       }
+                      break;
+                    case 'rank_filter':
+                      current_rank = get_value('rank');
+                      old_rank = get_old_value('rank');
+                      if (_.isEmpty(old_rank)) {
+                        old_score = parseInt(get_old_value('score'));
+                        if (old_score > 0) {
+                          old_rank = _this.score_to_rank(old_score, notes);
+                        }
+                      }
+                      rank_diff = _this.rank_names.indexOf(current_rank) - _this.rank_names.indexOf(old_rank);
+                      value = rank_diff > 0 ? 'win' : rank_diff < 0 ? 'lose' : 'even';
                   }
                 }
                 if (old_flg && _this.with_old) {
@@ -644,18 +671,39 @@
     TableManager.prototype.init_filter = function() {
       var filter_columns, filter_toggle, refresh_check, search_field, search_title, template;
       filter_columns = {
-        version: null,
-        difficulty: null,
-        level: null,
-        score_diff: 'score_diff_filter'
+        version: {},
+        difficulty: {
+          reverse: true
+        },
+        level: {
+          sort: 'integer',
+          reverse: true
+        },
+        rank: {
+          sort: this.rank_names
+        },
+        clear_type: {
+          sort: _(this.clear_types).values()
+        }
       };
-      if (!this.with_old) {
-        filter_columns.rank = null;
-        filter_columns.clear_type = null;
+      if (this.with_old) {
+        filter_columns.score_diff = {
+          target: 'score_diff_filter'
+        };
+        filter_columns.rank = {
+          target: 'rank_filter'
+        };
+        filter_columns.miss = {
+          target: 'miss_filter'
+        };
+        filter_columns.clear_type = {
+          target: 'clear_type_filter'
+        };
       }
       _(filter_columns).each((function(_this) {
-        return function(target, header) {
-          return filter_columns[header] || (filter_columns[header] = header);
+        return function(config, header) {
+          var base;
+          return (base = filter_columns[header]).target || (base.target = header);
         };
       })(this));
       template = this.header.find('.checkbox');
@@ -671,8 +719,9 @@
       })(this);
       refresh_check = (function(_this) {
         return function(exclude_column) {
-          return _(filter_columns).each(function(target_name, header_name) {
-            var column, counts, current_search, data, header_column;
+          return _(filter_columns).each(function(config, header_name) {
+            var column, counts, current_search, data, header_column, target_name;
+            target_name = config.target;
             column = window.dt.column(target_name + ':name', {
               search: 'applied'
             });
@@ -707,8 +756,9 @@
         return search_title();
       });
       _(filter_columns).each((function(_this) {
-        return function(target_name, header_name) {
-          var all_check, checkboxes, column, container, counts, data, header_column, i, search_column, th;
+        return function(config, header_name) {
+          var all_check, checkboxes, column, container, counts, data, header_column, i, search_column, target_name, th;
+          target_name = config.target;
           column = window.dt.column(target_name + ':name');
           header_column = window.dt.column(header_name + ':name');
           th = $(header_column.header());
@@ -746,11 +796,29 @@
             return refresh_check(column);
           };
           data = column.data();
-          counts = _(data).countBy();
+          counts = _(data).chain().countBy().map(function(v, k) {
+            return {
+              key: k,
+              value: v
+            };
+          });
+          console.log(header_name, config);
+          if (config.sort) {
+            counts = counts.sortBy(function(c) {
+              if (config.sort === 'integer') {
+                return parseInt(c.key);
+              } else {
+                return -config.sort.indexOf(c.key);
+              }
+            });
+          }
+          counts = counts.value();
           container = void 0;
           i = 0;
-          return _(counts).each(function(count, value) {
-            var input, input_row, label;
+          return _(counts).each(function(c) {
+            var count, input, input_row, label, value;
+            value = c.key;
+            count = c.value;
             if (i % 12 === 0) {
               container = $('<div>');
               checkboxes.append(container);
@@ -763,7 +831,7 @@
             });
             label = $('<label>');
             input_row = $('<div>').append(input).append(label);
-            if (_(['difficulty', 'level']).include(header_name)) {
+            if (config.reverse) {
               container.prepend(input_row);
             } else {
               container.append(input_row);
@@ -812,6 +880,17 @@
       console.log('start', +(new Date));
       window.notes_csv = this.notes_csv = this.parse_csv(notes_data);
       this.rank_names = ['MIN', 'F', 'E', 'D', 'C', 'B', 'A', 'AA', 'AAA', 'MAX'];
+      this.clear_types = {
+        'NO PLAY': 'NO PLAY',
+        'FAILED': 'FAILED',
+        'ASSIST CLEAR': 'ASSIST',
+        'EASY CLEAR': 'EASY',
+        'CLEAR': 'CLEAR',
+        'HARD CLEAR': 'HARD',
+        'EX HARD CLEAR': 'EX HARD',
+        'FULLCOMBO CLEAR': 'FULLCOMBO'
+      };
+      this.long_clear_types = _(this.clear_types).keys();
       tooltip = $('.score_tooltip');
       $(document).on('mouseover', 'td.notes', function() {
         var interval, line_scores, max_score, split;

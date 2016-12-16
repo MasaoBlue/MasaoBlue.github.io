@@ -117,6 +117,8 @@ class TableManager
         visible: false
       rank:
         sortable: !@with_old
+      rank_filter:
+        visible: false
       next_rank:
         visible: false
         sortable: !@with_old
@@ -128,8 +130,12 @@ class TableManager
       miss:
         sortable: !@with_old
         orderSequence: reverse_order
+      miss_filter:
+        visible: false
       clear_type:
         sortable: !@with_old
+      clear_type_filter:
+        visible: false
       play_count:
         sortable: !@with_old
         orderSequence: reverse_order
@@ -323,6 +329,12 @@ class TableManager
                   old_flg = true
                   value = '' if value == '---'
                   old_value = '' if parseInt(old_value) < 0
+                when 'miss_filter'
+                  miss_diff = parseInt(get_value('miss')) - parseInt(get_old_value('miss'))
+                  value =
+                    if miss_diff < 0 then 'win'
+                    else if miss_diff > 0 then 'lose'
+                    else 'even'
                 when 'difficulty'
                   value = diff.substr(0, 1)
                   cls.push(difficulty)
@@ -438,12 +450,16 @@ class TableManager
                     else 'even'
                 when 'clear_type'
                   old_flg = true
-                  value ||= ''
-                  old_value ||= ''
-                  value = if value == 'CLEAR' then value else value.replace(' CLEAR', '')
-                  old_value = if old_value == 'CLEAR' then old_value else old_value.replace(' CLEAR', '')
+                  value = @clear_types[value] || ''
+                  old_value = @clear_types[old_value] || ''
                   cls.push(value.replace(/ /g, '_').toLowerCase())
                   old_cls.push(old_value.replace(/ /g, '_').toLowerCase())
+                when 'clear_type_filter'
+                  clear_diff = @long_clear_types.indexOf(get_value('clear_type')) - @long_clear_types.indexOf(get_old_value('clear_type'))
+                  value =
+                    if clear_diff > 0 then 'win'
+                    else if clear_diff < 0 then 'lose'
+                    else 'even'
                 when 'version_number'
                   value = @to_version_num(common_values.version)
                 when 'rank'
@@ -454,6 +470,18 @@ class TableManager
                     old_value = @score_to_rank(old_score, notes)
                   cls.push(value.toLowerCase()) if value
                   old_cls.push(old_value.toLowerCase()) if old_value
+                when 'rank_filter'
+                  current_rank = get_value('rank')
+                  old_rank = get_old_value('rank')
+                  if _.isEmpty(old_rank)
+                    old_score = parseInt(get_old_value('score'))
+                    if old_score > 0
+                      old_rank = @score_to_rank(old_score, notes)
+                  rank_diff = @rank_names.indexOf(current_rank) - @rank_names.indexOf(old_rank)
+                  value =
+                    if rank_diff > 0 then 'win'
+                    else if rank_diff < 0 then 'lose'
+                    else 'even'
             if old_flg && @with_old
               td.addClass('no_padding')
               inner = $('<div>').addClass('inner').appendTo(td)
@@ -522,15 +550,27 @@ class TableManager
   init_filter: =>
     # 検索可能な項目を定義
     filter_columns =
-      version: null
-      difficulty: null
-      level: null
-      score_diff: 'score_diff_filter'
-    unless @with_old
-      filter_columns.rank = null
-      filter_columns.clear_type = null
-    _(filter_columns).each (target, header) =>
-      filter_columns[header] ||= header
+      version: {}
+      difficulty:
+        reverse: true
+      level:
+        sort: 'integer'
+        reverse: true
+      rank:
+        sort: @rank_names
+      clear_type:
+        sort: _(@clear_types).values()
+    if @with_old
+      filter_columns.score_diff =
+        target: 'score_diff_filter'
+      filter_columns.rank =
+        target: 'rank_filter'
+      filter_columns.miss =
+        target: 'miss_filter'
+      filter_columns.clear_type =
+        target: 'clear_type_filter'
+    _(filter_columns).each (config, header) =>
+      filter_columns[header].target ||= header
     template = @header.find('.checkbox')
 
     # drawするとtableが再作成されて表示中のfilterが消えてしまうため、
@@ -546,7 +586,8 @@ class TableManager
 
     # 検索後、count表示を再計算する
     refresh_check = (exclude_column) =>
-      _(filter_columns).each (target_name, header_name) =>
+      _(filter_columns).each (config, header_name) =>
+        target_name = config.target
         column = window.dt.column(target_name + ':name', search: 'applied')
         header_column = window.dt.column(header_name + ':name', search: 'applied')
         return if exclude_column && exclude_column.index() == column.index()
@@ -571,7 +612,8 @@ class TableManager
       search_title()
 
     # チェックボックス初期化
-    _(filter_columns).each (target_name, header_name) =>
+    _(filter_columns).each (config, header_name) =>
+      target_name = config.target
       column = window.dt.column(target_name + ':name')
       header_column = window.dt.column(header_name + ':name')
       th = $(header_column.header())
@@ -603,10 +645,21 @@ class TableManager
         refresh_check(column)
 
       data = column.data()
-      counts = _(data).countBy()
+      counts = _(data).chain().countBy().map (v, k) =>
+          {key: k, value: v}
+      console.log header_name, config
+      if config.sort
+        counts = counts.sortBy (c) =>
+          if config.sort == 'integer'
+            parseInt(c.key)
+          else
+            -config.sort.indexOf(c.key)
+      counts = counts.value()
       container = undefined
       i = 0
-      _(counts).each (count, value) ->
+      _(counts).each (c) ->
+        value = c.key
+        count = c.value
         if i % 12 == 0
           container = $('<div>')
           checkboxes.append container
@@ -617,7 +670,7 @@ class TableManager
           value: value
         label = $('<label>')
         input_row = $('<div>').append(input).append(label)
-        if _(['difficulty', 'level']).include(header_name)
+        if config.reverse
           container.prepend input_row
         else
           container.append input_row
@@ -659,6 +712,17 @@ class TableManager
       'AAA'
       'MAX'
     ]
+
+    @clear_types =
+      'NO PLAY': 'NO PLAY'
+      'FAILED': 'FAILED'
+      'ASSIST CLEAR': 'ASSIST'
+      'EASY CLEAR': 'EASY'
+      'CLEAR': 'CLEAR'
+      'HARD CLEAR': 'HARD'
+      'EX HARD CLEAR': 'EX HARD'
+      'FULLCOMBO CLEAR': 'FULLCOMBO'
+    @long_clear_types = _(@clear_types).keys()
 
     # ノーツ数にカーソル当てたらツールチップ表示
     tooltip = $('.score_tooltip')
