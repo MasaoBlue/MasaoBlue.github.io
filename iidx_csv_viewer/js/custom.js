@@ -194,7 +194,7 @@
     };
 
     TableManager.prototype.create_table = function() {
-      var common_column_indexes, common_columns, csv, csv_columns, dates, indexes, initial_date, old_common_column_indexes, old_csv, old_csv_columns, old_indexes, tbody, thead;
+      var common_column_indexes, common_columns, csv, csv_columns, dates, indexes, initial_date, old_common_column_indexes, old_csv, old_csv_columns, old_indexes, old_vname, tbody, thead, vname;
       this.with_old = !!this.with_old;
       $('body').toggleClass('with_old', this.with_old);
       this.init_column_defs();
@@ -594,6 +594,12 @@
           }
         };
       })(this));
+      vname = _(csv).last()[common_column_indexes.version];
+      this.header.find('.current_file').text(this.csv_name + '(' + vname + ')');
+      if (this.with_old) {
+        old_vname = _(old_csv).last()[common_column_indexes.version];
+        this.header.find('.old_file').text(this.old_csv_name + '(' + old_vname + ')');
+      }
       this.init_data_table();
       return this.init_filter();
     };
@@ -868,12 +874,14 @@
             fr.onload = function(fe) {
               input.closest('label').find('.button').text('[' + file.name + '] selected');
               if (input.is('.current_csv')) {
+                _this.csv_name = file.name;
                 _this.csv_data = fe.target.result;
                 $('input.old_csv').prop({
                   disabled: false
                 }).closest('label').removeClass('disabled');
                 return view_score.removeClass('disabled');
               } else {
+                _this.old_csv_name = file.name;
                 _this.with_old = true;
                 return _this.old_csv_data = fe.target.result;
               }
