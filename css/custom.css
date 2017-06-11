@@ -35,3 +35,36 @@ body {
         line-height: 1.2em; }
         body ul li p.e {
           color: #aaaaaa; }
+
+.developer {
+  position: fixed;
+  top: 1em;
+  right: 1em; }
+  .developer > * {
+    text-align: right;
+    margin-bottom: 0.5em; }
+  .developer .github, .developer .twitter {
+    height: 2em;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    vertical-align: middle;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end; }
+    .developer .github .label, .developer .twitter .label {
+      margin-right: 0.5em; }
+  .developer .twitter .btn a {
+    text-decoration: none;
+    padding: 0.3em 0.5em;
+    background: #1B95E0;
+    color: white;
+    border-radius: 5px; }
+    .developer .twitter .btn a:hover {
+      background: #0c7abf; }
