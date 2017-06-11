@@ -1,53 +1,37 @@
 * {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  font-family: meiryo;
-}
+  font-family: meiryo; }
 
 body {
   background: #222222;
   padding: 1em;
-  color: white;
-}
-
-body h1 {
-  font-size: 150%;
-  margin-bottom: 0.5em;
-}
-
-body h2 {
-  color: white;
-  margin-bottom: 0.5em;
-}
-
-body .description {
-  margin-bottom: 2em;
-}
-
-body ul {
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-body ul li {
-  padding-left: 1em;
-  margin-bottom: 1em;
-}
-
-body ul li a {
-  display: inline-block;
-  color: #AE2C29;
-  margin-bottom: 0.3em;
-}
-
-body ul li a:hover {
-  color: gray;
-}
-
-body ul li p {
-  padding-left: 0.5em;
-  line-height: 1.2em;
-}
-
-body ul li p.e {
-  color: #aaaaaa;
-}
+  color: white; }
+  body h1 {
+    font-size: 150%;
+    margin-bottom: 0.5em; }
+  body h2 {
+    color: white;
+    margin-bottom: 0.5em; }
+  body .description {
+    margin-bottom: 2em; }
+  body ul {
+    list-style-type: none;
+    margin-bottom: 2em; }
+    body ul li {
+      padding-left: 1em;
+      margin-bottom: 1em; }
+      body ul li a {
+        display: inline-block;
+        color: #AE2C29;
+        margin-bottom: 0.3em;
+        font-size: 120%; }
+        body ul li a.new {
+          font-weight: bold; }
+        body ul li a:hover {
+          color: gray; }
+      body ul li p {
+        padding-left: 0.5em;
+        line-height: 1.2em; }
+        body ul li p.e {
+          color: #aaaaaa; }
