@@ -24,19 +24,19 @@ html
     h2 Tools
     ul
       li
-        a IIDX CSV Viewer (Beta)
+        a(href='./iidx_csv_viewer/score.html') IIDX CSV Viewer (Beta)
     h2 Samples with My data
     ul
       li
-        a IIDX CSV Viewer (Single file)
+        a(href='./iidx_csv_viewer/score.html?csv=20161203.csv&debug=true') IIDX CSV Viewer (Single file)
         p - 1つのファイル(SINOBUZのもの)を表示します。
         p.e - Display SINOBUZ data.
       li
-        a IIDX CSV Viewer (Compare 2 files)
+        a(href='./iidx_csv_viewer/score.html?csv=20161203.csv&old_csv=20161024.csv&debug=true') IIDX CSV Viewer (Compare 2 files)
         p - copula終了時点のものと、SINOBUZの最新データを比較します。
         p.e - Comparison between copula and SINOBUZ.
       li
-        a My score CSV
+        a(href='https://github.com/MasaoBlue/iidx_score_csv') My score CSV
         p - 私の過去データを公開しています。比較の確認用などに。
         p.e - Published my history files.
     include _ads.pug
