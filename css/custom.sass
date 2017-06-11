@@ -33,3 +33,29 @@ body
         line-height: 1.2em
         &.e
           color: #aaaaaa
+
+.developer
+  position: fixed
+  top: 1em
+  right: 1em
+  > *
+    text-align: right
+    margin-bottom: 0.5em
+  .github, .twitter
+    height: 2em
+    display: flex
+    vertical-align: middle
+    align-items: center
+    justify-content: flex-end
+    .label
+      margin-right: 0.5em
+  .twitter
+    .btn
+      a
+        text-decoration: none
+        padding: 0.3em 0.5em
+        background: #1B95E0
+        color: white
+        border-radius: 5px
+        &:hover
+          background: #0c7abf
