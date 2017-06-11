@@ -546,6 +546,8 @@ class TableManager
 
     $('#score_table_paginate, #score_table_info').appendTo(@header)
 
+    console.log('notes data not found', undefined_title)
+
   # 列フィルタを定義
   init_filter: =>
     # 検索可能な項目を定義
@@ -788,4 +790,8 @@ class TableManager
           @create_table_with_timeout()
 
 $ ->
-  new TableManager()
+  $.ajax
+    url: 'csv/notes.csv'
+    success: (data) ->
+      window.notes_data = data
+      new TableManager()

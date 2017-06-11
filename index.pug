@@ -1,0 +1,42 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(content='IIDX CSV Viewer (Beta)', property='og:title')
+    meta(content='beatmania IIDXの公式CSVを見やすく表示するツールです。', property='og:description')
+    meta(content='website', property='og:type')
+    meta(content='https://masaoblue.github.io/', property='og:url')
+    meta(content='https://masaoblue.github.io/images/iidx_csv_viewer.png', property='og:image')
+    meta(content='IIDX CSV Viewer (Beta)', property='og:site_name')
+    meta(content='summary_large_image', name='twitter:card')
+    meta(content='@masaoblue', name='twitter:creator')
+    meta(content='IIDX CSV Viewer (Beta)', name='twitter:title')
+    meta(content='beatmania IIDXの公式CSVを見やすく表示するツールです。', name='twitter:description')
+    meta(content='https://masaoblue.github.io/images/iidx_csv_viewer.png', name='twitter:image:src')
+    title IIDX CSV Viewer
+    link(href='images/favicon.png?', rel='shortcut icon', type='image/png')
+    link(href='css/reset.css', rel='stylesheet', type='text/css')
+    link(href='css/custom.css', rel='stylesheet', type='text/css')
+  body
+    h1 Developed tools
+    .description
+      | 開発したものを公開していく場所・・・になる予定です。
+    h2 Tools
+    ul
+      li
+        a IIDX CSV Viewer (Beta)
+    h2 Samples with My data
+    ul
+      li
+        a IIDX CSV Viewer (Single file)
+        p - 1つのファイル(SINOBUZのもの)を表示します。
+        p.e - Display SINOBUZ data.
+      li
+        a IIDX CSV Viewer (Compare 2 files)
+        p - copula終了時点のものと、SINOBUZの最新データを比較します。
+        p.e - Comparison between copula and SINOBUZ.
+      li
+        a My score CSV
+        p - 私の過去データを公開しています。比較の確認用などに。
+        p.e - Published my history files.
+    include _ads.pug
