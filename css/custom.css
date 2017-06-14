@@ -21,11 +21,14 @@ body {
     body ul li {
       padding-left: 1em;
       margin-bottom: 1em; }
+      body ul li .detail {
+        font-size: 90%; }
       body ul li a {
         display: inline-block;
         color: #AE2C29;
         margin-bottom: 0.3em;
-        font-size: 120%; }
+        font-size: 120%;
+        text-decoration: none; }
         body ul li a.new {
           font-weight: bold; }
         body ul li a:hover {
