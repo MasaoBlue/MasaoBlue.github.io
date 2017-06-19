@@ -18,6 +18,8 @@ body {
   body ul {
     list-style-type: none;
     margin-bottom: 2em; }
+    body ul.old {
+      font-size: 90%; }
     body ul li {
       padding-left: 1em;
       margin-bottom: 1em; }
