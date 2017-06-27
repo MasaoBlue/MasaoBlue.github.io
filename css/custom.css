@@ -17,7 +17,7 @@ body {
     margin-bottom: 2em; }
   body ul {
     list-style-type: none;
-    margin-bottom: 2em; }
+    margin-bottom: 1em; }
     body ul.old {
       font-size: 90%; }
     body ul li {
@@ -31,15 +31,40 @@ body {
         margin-bottom: 0.3em;
         font-size: 120%;
         text-decoration: none; }
-        body ul li a.new {
+        body ul li a.new .name {
           font-weight: bold; }
         body ul li a:hover {
-          color: gray; }
+          color: rgba(174, 44, 41, 0.7); }
       body ul li p {
         padding-left: 0.5em;
         line-height: 1.2em; }
         body ul li p.e {
           color: #aaaaaa; }
+    body ul.tools li {
+      display: inline-block;
+      vertical-align: top;
+      width: 400px;
+      background: black;
+      padding: 1em; }
+      body ul.tools li .name {
+        margin-bottom: 0.5em; }
+      body ul.tools li img {
+        width: 100%; }
+      body ul.tools li a {
+        position: relative; }
+      body ul.tools li .detail {
+        color: white;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.8);
+        padding: 0.8em 0.5em;
+        white-space: pre-line;
+        bottom: 0;
+        left: 0;
+        height: 22%; }
+      body ul.tools li:hover {
+        opacity: 0.8; }
+        body ul.tools li:hover a {
+          color: #AE2C29; }
 
 .developer {
   position: fixed;
@@ -73,3 +98,7 @@ body {
     border-radius: 5px; }
     .developer .twitter .btn a:hover {
       background: #0c7abf; }
+
+.adsense {
+  margin: 1em 0;
+  margin-top: 1em !important; }

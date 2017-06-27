@@ -25,25 +25,33 @@ html
           a(href='https://twitter.com/masaoblue', target='_blank') @masaoblue
     h1 Developed tools
     .description
-      | 開発したものを公開していく場所・・・になる予定です。
+      | 開発したものを公開していく場所です。
     h2 Tools
-    ul
+    ul.tools
+      li
+        a.new(href='./files/iidx_key_logger_v03.zip')
+          .name IIDX Key Logger v03 (2017/06/27)
+          img(src='images/iidx_key_logger.png')
+          .detail
+            | IIDX専用コントローラの入力を見える化するツールです。二重階段を無限に自動生成して練習できる機能を追加。
+      li
+        a(href='./iidx_csv_viewer/score.html')
+          .name IIDX CSV Viewer (Beta)
+          img(src='images/iidx_csv_viewer.png')
+          .detail IIDXの公式CSVを読み込んで一覧表示するツールです。
+    h2 Old Version
+    ul.old
       li
         a.new(href='./files/iidx_key_logger_v02.zip') IIDX Key Logger v02 (2017/06/19)
         .detail
-          p IIDXの専用コントローラの入力を見える化するツールです。
           p 階段譜面を無限に自動生成して練習できる機能を実装。
-      li
-        a(href='./iidx_csv_viewer/score.html') IIDX CSV Viewer (Beta)
-        .detail IIDXの公式CSVを読み込んで一覧表示するツールです。
-    h2 Old Version
-    ul.old
       li
         a(href='./files/iidx_key_logger_v01.zip') IIDX Key Logger v01 (2017/06/15)
         .detail お手本通りに押してタスクをクリアしていく版。
       li
         a(href='./files/iidx_key_logger_v00.zip') IIDX Key Logger v00 (2017/06/12)
         .detail IIDXの専用コントローラの入力を見える化するツールです。
+    include _ads.pug
     h2 Samples with My data
     ul
       li
@@ -58,4 +66,3 @@ html
         a(href='https://github.com/MasaoBlue/iidx_score_csv') My score CSV
         p - 私の過去データを公開しています。比較の確認用などに。
         p.e - Published my history files.
-    include _ads.pug
