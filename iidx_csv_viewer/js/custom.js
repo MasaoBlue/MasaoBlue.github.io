@@ -101,11 +101,13 @@
                 "表裏一体！？怪盗いいんちょの悩み": "表裏一体！？怪盗いいんちょの悩み♥",
                 "!Viva!": "¡Viva!",
                 "火影": "焱影",
-                "Verflucht†LEGGENDARIA": "Verflucht †LEGGENDARIA"
+                "Verflucht†LEGGENDARIA": "Verflucht †LEGGENDARIA",
+                'Amor De Verao': 'Amor De Verão',
+                '草原の王女-軌跡を辿って-': '草原の王女 -奇跡を辿って-',
             }[e] || e;
         }, e.prototype.to_version_num = function(e) {
             var t;
-            return t = [ "IIDX RED", "HAPPY SKY", "DistorteD", "GOLD", "DJ TROOPERS", "EMPRESS", "SIRIUS", "Resort Anthem", "Lincle", "tricoro", "SPADA", "PENDUAL", "copula", "SINOBUZ" ], 
+            return t = [ "IIDX RED", "HAPPY SKY", "DistorteD", "GOLD", "DJ TROOPERS", "EMPRESS", "SIRIUS", "Resort Anthem", "Lincle", "tricoro", "SPADA", "PENDUAL", "copula", "SINOBUZ", "CANNON BALLERS" ], 
             void 0, t.indexOf(e) >= 0 ? t.indexOf(e) + 11 : e.match("\\d+")[0];
         }, e.prototype.to_version_label = function(e) {
             var t;
@@ -319,26 +321,26 @@
                             return e[0] === p.title;
                         }), l = "not found", u ? l = parseInt(u[v + 1]) : window.undefined_title.push(p.title), 
                         _(n.column_defs).each(function(e, r) {
-                            var o, c, u, d, h, f, v, b, k, g, y, x, I, A, D, E, L, C, R, S, O, T, M, H, P, U;
-                            if (D = !1, H = $("<td>").appendTo(w), U = p[r], u = [], I = [], o = {}, x = {}, 
-                            _.isUndefined(U)) switch (P = s(r), _.isUndefined(P) || (U = P), C = a(r), _.isUndefined(C) || (R = C), 
+                            var o, c, u, d, h, f, v, b, k, g, y, x, I, A, L, E, C, D, R, S, O, T, M, H, P, N;
+                            if (L = !1, H = $("<td>").appendTo(w), N = p[r], u = [], I = [], o = {}, x = {}, 
+                            _.isUndefined(N)) switch (P = s(r), _.isUndefined(P) || (N = P), D = a(r), _.isUndefined(D) || (R = D), 
                             r) {
                               case "miss":
-                                D = !0, "---" === U && (U = ""), parseInt(R) < 0 && (R = "");
+                                L = !0, "---" === N && (N = ""), parseInt(R) < 0 && (R = "");
                                 break;
 
                               case "miss_filter":
-                                U = (y = parseInt(s("miss")) - parseInt(a("miss"))) < 0 ? "win" : y > 0 ? "lose" : "even";
+                                N = (y = parseInt(s("miss")) - parseInt(a("miss"))) < 0 ? "win" : y > 0 ? "lose" : "even";
                                 break;
 
                               case "difficulty":
-                                U = i.substr(0, 1), u.push(t);
+                                N = i.substr(0, 1), u.push(t);
                                 break;
 
                               case "next_rank":
-                                D = !0, U = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
+                                L = !0, N = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
                                     return Math.ceil(b * (e + 1));
-                                }), U = (d = function(e, t) {
+                                }), N = (d = function(e, t) {
                                     var r, i, a;
                                     if ((a = parseInt(e("score"))) > 0) return i = _(k).find(function(e) {
                                         return e > a;
@@ -347,9 +349,9 @@
                                 break;
 
                               case "prev_rank":
-                                D = !0, U = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
+                                L = !0, N = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
                                     return Math.ceil(b * (e + 1));
-                                }), U = (d = function(e, t) {
+                                }), N = (d = function(e, t) {
                                     var r, i, a;
                                     if ((a = parseInt(e("score"))) > 0) return i = _(k).find(function(e, t) {
                                         return k[t + 1] > a;
@@ -358,9 +360,9 @@
                                 break;
 
                               case "around_rank":
-                                D = !0, U = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
+                                L = !0, N = R = "", l > 0 && (b = (g = 2 * l) / (M = 9), k = _(M).times(function(e) {
                                     return Math.ceil(b * (e + 1));
-                                }), U = (d = function(e, t) {
+                                }), N = (d = function(e, t) {
                                     var r, i, a, s, o, c;
                                     if ((c = parseInt(e("score"))) > 0) return s = _(k).find(function(e) {
                                         return e > c;
@@ -370,19 +372,19 @@
                                 break;
 
                               case "notes":
-                                U = l;
+                                N = l;
                                 break;
 
                               case "score_rate":
-                                D = !0, U = 0, (O = parseInt(s("score"))) > 0 && (U = O / (g = 2 * l) * 100);
+                                L = !0, N = 0, (O = parseInt(s("score"))) > 0 && (N = O / (g = 2 * l) * 100);
                                 break;
 
                               case "score_bar":
-                                D = !0, H.attr({
+                                L = !0, H.attr({
                                     colspan: 2
                                 }), _([ "a", "aa", "aaa" ]).each(function(e) {
                                     return H.append($("<div>").addClass("line " + e));
-                                }), U = (h = function(e) {
+                                }), N = (h = function(e) {
                                     var t, r, i;
                                     return i = e("score"), r = 0, O = parseInt(i), t = n.header.find(".score_bar_container").clone(), 
                                     O > 0 && (r = O / (g = 2 * l) * 100), _.isUndefined(i) ? P = r = "---" : (P = i + "(" + e("p_great") + "/" + e("great") + ")", 
@@ -393,47 +395,47 @@
                                 break;
 
                               case "score_diff":
-                                (U = parseInt(s("score")) - parseInt(a("score"))) > 0 ? U = "+" + U : U < 0 && u.push("minus");
+                                (N = parseInt(s("score")) - parseInt(a("score"))) > 0 ? N = "+" + N : N < 0 && u.push("minus");
                                 break;
 
                               case "score_diff_filter":
-                                U = (T = parseInt(s("score")) - parseInt(a("score"))) > 0 ? "win" : T < 0 ? "lose" : "even";
+                                N = (T = parseInt(s("score")) - parseInt(a("score"))) > 0 ? "win" : T < 0 ? "lose" : "even";
                                 break;
 
                               case "clear_type":
-                                D = !0, U = n.clear_types[U] || "", R = n.clear_types[R] || "", u.push(U.replace(/ /g, "_").toLowerCase()), 
+                                L = !0, N = n.clear_types[N] || "", R = n.clear_types[R] || "", u.push(N.replace(/ /g, "_").toLowerCase()), 
                                 I.push(R.replace(/ /g, "_").toLowerCase());
                                 break;
 
                               case "clear_type_filter":
-                                U = (c = n.long_clear_types.indexOf(s("clear_type")) - n.long_clear_types.indexOf(a("clear_type"))) > 0 ? "win" : c < 0 ? "lose" : "even";
+                                N = (c = n.long_clear_types.indexOf(s("clear_type")) - n.long_clear_types.indexOf(a("clear_type"))) > 0 ? "win" : c < 0 ? "lose" : "even";
                                 break;
 
                               case "version_number":
-                                U = n.to_version_num(p.version);
+                                N = n.to_version_num(p.version);
                                 break;
 
                               case "rank":
-                                D = !0, O = parseInt(s("score")), (L = parseInt(a("score"))) > 0 && _.isEmpty(R) && (R = n.score_to_rank(L, l)), 
-                                U && u.push(U.toLowerCase()), R && I.push(R.toLowerCase());
+                                L = !0, O = parseInt(s("score")), (C = parseInt(a("score"))) > 0 && _.isEmpty(R) && (R = n.score_to_rank(C, l)), 
+                                N && u.push(N.toLowerCase()), R && I.push(R.toLowerCase());
                                 break;
 
                               case "rank_filter":
-                                f = s("rank"), E = a("rank"), _.isEmpty(E) && (L = parseInt(a("score"))) > 0 && (E = n.score_to_rank(L, l)), 
-                                U = (S = n.rank_names.indexOf(f) - n.rank_names.indexOf(E)) > 0 ? "win" : S < 0 ? "lose" : "even";
+                                f = s("rank"), E = a("rank"), _.isEmpty(E) && (C = parseInt(a("score"))) > 0 && (E = n.score_to_rank(C, l)), 
+                                N = (S = n.rank_names.indexOf(f) - n.rank_names.indexOf(E)) > 0 ? "win" : S < 0 ? "lose" : "even";
                             } else switch (R = m[r], r) {
                               case "date":
                               case "play_count":
-                                D = !0;
+                                L = !0;
                                 break;
 
                               case "version":
-                                U = n.to_version_label(U);
+                                N = n.to_version_label(N);
                             }
-                            return D && n.with_old ? (H.addClass("no_padding"), v = $("<div>").addClass("inner").appendTo(H), 
+                            return L && n.with_old ? (H.addClass("no_padding"), v = $("<div>").addClass("inner").appendTo(H), 
                             A = $("<div>").addClass("old").appendTo(v).addClass(I.join(" ")).attr(x), $("<div>").addClass("split_line").appendTo(v), 
-                            $("<div>").addClass("current").appendTo(v).addClass(u.join(" ")).attr(o).append(U), 
-                            A.append(R)) : H.append(U).addClass(u.join(" ")).attr(o);
+                            $("<div>").addClass("current").appendTo(v).addClass(u.join(" ")).attr(o).append(N), 
+                            A.append(R)) : H.append(N).addClass(u.join(" ")).attr(o);
                         });
                     }));
                 };

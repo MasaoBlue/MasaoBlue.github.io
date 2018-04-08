@@ -34,6 +34,8 @@ class TableManager
       '!Viva!': '¡Viva!'
       '火影': '焱影'
       'Verflucht†LEGGENDARIA': 'Verflucht †LEGGENDARIA'
+      'Amor De Verao': 'Amor De Verão'
+      '草原の王女-軌跡を辿って-': '草原の王女 -軌跡を辿って-'
     }[title] or title
 
   # バージョン名を番号に変換
@@ -53,6 +55,7 @@ class TableManager
       'PENDUAL'
       'copula'
       'SINOBUZ'
+      'CANNON BALLERS'
     ]
     result = undefined
     if versions.indexOf(v) >= 0 then versions.indexOf(v) + 11 else v.match('\\d+')[0]
