@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" href="/stylesheets/reset.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="/stylesheets/index.css">
+    <!-- foreignObjectの中でcssを読み込むと適用に時間がかかることがあるので-->
+    <!-- 親html側で一度読み込んでおく-->
+    <link rel="stylesheet" href="/stylesheets/foreign.css">
+  </head>
+  <body>
+    <div id="app" v-on:click="onAppClick" v-on:mouseover="onGridMouseOver">
+      <div class="message">
+        <p><a href="https://note.mu/tck/n/nb76ac2c2a709">ビジネスモデル図解ツール</a>をSVGで実装してみたサンプルです。</p>
+        <p>ソースコードは<a href="https://github.com/MasaoBlue/business_zukai_svg">こちら</a></p>
+      </div>
+      <svg :viewbox="[0, 0, svg.width, svg.height].join(',')" :width="svg.width" :height="svg.height" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <marker id="arrowMarker" markerunits="strokeWidth" markerwidth="7" markerheight="7" viewbox="0 0 30 30" refx="15" refy="15" orient="auto">
+            <polygon points="0,0 15,15 0,30 30,15 " fill="#000000"></polygon>
+          </marker>
+        </defs>
+        <g class="gridContainer" :class="{lineDrawing: lineDrawing}" :transform="'translate(' + [margin.left, margin.top] + ')'">
+          <g class="grid" v-for="grid in grids" :transform="'translate(' + [grid.x, grid.y] + ')'" v-on:mouseover="onGridMouseOver" v-on:contextmenu="onGridContextMenu" :class="{active: grid.active, empty: !grid.image.src}">
+            <rect class="bg" :width="grid.width" :height="grid.height"></rect>
+            <image v-if="!!grid.image.src" :xlink:href="grid.image.src" :width="grid.image.width" :height="grid.image.height" :x="grid.image.x" :y="grid.image.y"></image>
+            <g :transform="'translate(' + [grid.width / 2, textField.y + textField.height / 2] + ')'">
+              <text class="label" v-if="!!grid.image.src">{{ grid.text }}</text>
+            </g>
+            <text class="placeholder" :x="grid.width / 2" :y="grid.height / 2">右クリックで要素を追加</text>
+            <foreignObject v-if="!!grid.image.src &amp;&amp; grid.active" :width="textField.width" :height="textField.height" :x="textField.x" :y="textField.y">
+              <head>
+                <link rel="stylesheet" href="/stylesheets/foreign.css">
+              </head>
+              <body class="svgForeignObject" xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%;">
+                <input type="text" style="width: 100%; height: 100%;" v-model="grid.text">
+              </body>
+            </foreignObject>
+            <g class="linePoints">
+              <circle v-for="point in linePoints" :r="linePointSize" :cx="point[0]" :cy="point[1]" v-on:click="onLinePointClick"></circle>
+            </g>
+          </g>
+        </g>
+        <g class="lineContainer" :transform="'translate(' + [margin.left, margin.top] + ')'">
+          <path v-for="line in lines" :d="'M' + line" marker-end="url(#arrowMarker)"></path>
+        </g>
+      </svg>
+      <div class="imageListContainer" :class="{visible: imageList.visible}">
+        <div class="imageList" :style="{left: imageList.x + 'px', top: imageList.y + 'px'}">
+          <div class="cell" v-for="image in images" v-on:click="onImageCellClick">
+            <div class="image"><img v-if="image.name != 'delete'" :src="image.src"></div>
+            <div class="label">{{ image.label }}</div>
+          </div>
+        </div>
+      </div>
+      <div class="exportOverlay" :class="{open: exportImage}">
+        <div class="exportImage">
+          <div class="image"></div>
+          <div class="close" v-on:click="onExportImageClose">×</div>
+        </div>
+      </div>
+      <div class="buttons">
+        <button v-on:click="onDrawLineClick">線で繋ぐ</button>
+        <button v-on:click="onExportClick">画像として出力</button>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="/javascripts/index.js"></script>
+  </body>
+</html>
