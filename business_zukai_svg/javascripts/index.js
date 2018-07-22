@@ -110,7 +110,7 @@ $(() => {
       return opt
     }),
     images: images.map((image, i) => {
-      image.src = '/images/' + ('0000' + (i + 1)).substr(-5) + '.png'
+      image.src = './images/' + ('0000' + (i + 1)).substr(-5) + '.png'
       return image
     }),
     imageList: {
