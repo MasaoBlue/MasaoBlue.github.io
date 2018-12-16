@@ -56,6 +56,7 @@ class TableManager
       'copula'
       'SINOBUZ'
       'CANNON BALLERS'
+      'Rootage'
     ]
     result = undefined
     if versions.indexOf(v) >= 0 then versions.indexOf(v) + 11 else v.match('\\d+')[0]
