@@ -30,12 +30,16 @@ class TableManager
       'Close the World feat. a☆ru': 'Close the World feat.a☆ru'
       '旋律のドグマ～Miserables～': '旋律のドグマ～Misérables～'
       '超!!遠距離らぶメ～ル': '超!!遠距離らぶ♡メ～ル'
+      '超!!遠距離らぶ?メ～ル': '超!!遠距離らぶ♡メ～ル'
       '表裏一体！？怪盗いいんちょの悩み': '表裏一体！？怪盗いいんちょの悩み♥'
       '!Viva!': '¡Viva!'
       '火影': '焱影'
-      'Verflucht†LEGGENDARIA': 'Verflucht †LEGGENDARIA'
+      '炎影': '焱影'
+      'Verflucht†LEGGENDARIA': 'Verflucht †LEGGENDARIA'
       'Amor De Verao': 'Amor De Verão'
-      '草原の王女-軌跡を辿って-': '草原の王女 -軌跡を辿って-'
+      '草原の王女-軌跡を辿って-': '草原の王女-奇跡を辿って-'
+      'ROCK女 feat. 大山愛未， Ken': 'ROCK女 feat. 大山愛未, Ken'
+      'Xlo': 'Xlø'
     }[title] or title
 
   # バージョン名を番号に変換
@@ -81,7 +85,7 @@ class TableManager
 
   # CSV文字列を配列に変換
   parse_csv: (text='') =>
-    Papa.parse(text.trim()).data
+    Papa.parse(text.trim().replace(/\u00A0/gm, " ")).data
 
   # CSVをロードする
   load_current_csv: =>
@@ -299,6 +303,10 @@ class TableManager
           # ノーツ数取得
           notes_row = _.find @notes_csv, (n_row) ->
             n_row[0] == common_values.title
+          if !notes_row
+            title_trim = common_values.title.replace(/ /g, "").toLowerCase()
+            notes_row = _.find @notes_csv, (n_row) ->
+              n_row[0].replace(/ /g, "").toLowerCase() == title_trim
           notes = 'not found'
           if notes_row
             notes = parseInt(notes_row[diff_index + 1])
