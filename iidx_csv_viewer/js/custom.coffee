@@ -17,6 +17,7 @@ class TableManager
       'never…': 'never...'
       '花吹雪 ～ IIDX LIMITED ～': '花吹雪 ～IIDX LIMITED～'
       'Ubertreffen': 'Übertreffen'
+      'Ubertreffen†': 'Übertreffen†'
       'Punch Love 仮面': 'Punch Love♡仮面'
       'Raison d\'etre～交差する宿命～': 'Raison d\'être～交差する宿命～'
       'ワルツ第17番 ト短調”大犬のワルツ”': 'ワルツ第17番 ト短調"大犬のワルツ"'
