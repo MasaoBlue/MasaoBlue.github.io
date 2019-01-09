@@ -35,7 +35,7 @@ html
           .detail
             | IIDX専用コントローラの入力を見える化するツールです。二重階段を無限に自動生成して練習できる機能を追加。
       li
-        a(href='./iidx_csv_viewer/score.html')
+        a(href='./iidx_csv_viewer/index.html')
           .name IIDX CSV Viewer (Beta)
           img(src='images/iidx_csv_viewer.png')
           .detail IIDXの公式CSVを読み込んで一覧表示するツールです。
@@ -51,18 +51,21 @@ html
       li
         a(href='./files/iidx_key_logger_v00.zip') IIDX Key Logger v00 (2017/06/12)
         .detail IIDXの専用コントローラの入力を見える化するツールです。
+      li
+        a(href='./old/iidx_csv_viewer_b01/score.html') IIDX CSV Viewer Beta1 (～2019/01/09)
+        .detail IIDXの公式CSVを読み込んで一覧表示するツールの古い版です。
     include _ads.pug
     h2 Samples with My data
     ul
       li
-        a(href='./iidx_csv_viewer/score.html?csv=20161203.csv&debug=true') IIDX CSV Viewer (Single file)
+        a(href='./iidx_csv_viewer/?csv=20161203') IIDX CSV Viewer (Single file)
         p - 1つのファイル(SINOBUZのもの)を表示します。
         p.e - Display SINOBUZ data.
       li
-        a(href='./iidx_csv_viewer/score.html?csv=20161203.csv&old_csv=20161024.csv&debug=true') IIDX CSV Viewer (Compare 2 files)
+        a(href='./iidx_csv_viewer/?csv=20161203&oldCsv=20161024') IIDX CSV Viewer (Compare 2 files)
         p - copula終了時点のものと、SINOBUZの最新データを比較します。
         p.e - Comparison between copula and SINOBUZ.
       li
         a(href='https://github.com/MasaoBlue/iidx_score_csv') My score CSV
-        p - 私の過去データを公開しています。比較の確認用などに。
+        p - 過去作のTOPRANKERのデータと、私の過去の記録を公開しています。比較の確認用などに。
         p.e - Published my history files.
