@@ -5,9 +5,12 @@ html
     script(async="" src="https://www.googletagmanager.com/gtag/js?id=UA-75039302-2")
     script.
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
-      gtag('config', 'UA-75039302-2');
+
+      gtag('config', 'UA-75039302-3');
     meta(charset='UTF-8')
     meta(content='MasaoBlue developed tools', property='og:title')
     meta(content='開発したもの置き場です', property='og:description')
@@ -36,16 +39,21 @@ html
     h2 Tools
     ul.tools
       li
-        a.new(href='./files/iidx_key_logger_v03.zip')
-          .name IIDX Key Logger v03 (2017/06/27)
-          img(src='images/iidx_key_logger.png')
-          .detail
-            | IIDX専用コントローラの入力を見える化するツールです。二重階段を無限に自動生成して練習できる機能を追加。
-      li
         a(href='./iidx_csv_viewer')
           .name IIDX CSV Viewer (Beta)
           img(src='images/iidx_csv_viewer.png')
           .detail IIDXの公式CSVを読み込んで一覧表示するツールです。
+      li
+        a.new(href='./iidx_csv_viewer/#/toprankers')
+          .name IIDX CSV Viewer for Top Rankers
+          img(src='images/toprankers.png')
+          .detail IIDXの公式ページで公開されているTopRankerの情報を一覧表示・比較するツールです。
+      li
+        a(href='./files/iidx_key_logger_v03.zip')
+          .name IIDX Key Logger v03 (2017/06/27)
+          img(src='images/iidx_key_logger.png')
+          .detail
+            | IIDX専用コントローラの入力を見える化するツールです。二重階段を無限に自動生成して練習できる機能を追加。
     h2 Old Version
     ul.old
       li
