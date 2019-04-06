@@ -462,8 +462,6 @@ MIT
 
 @angular/material/tooltip
 
-@angular/material/sort
-
 @angular/material/table
 
 @angular/material/core
@@ -475,6 +473,8 @@ MIT
 @angular/material/button
 
 @angular/material/paginator
+
+@angular/material/sort
 
 zone.js
 MIT
