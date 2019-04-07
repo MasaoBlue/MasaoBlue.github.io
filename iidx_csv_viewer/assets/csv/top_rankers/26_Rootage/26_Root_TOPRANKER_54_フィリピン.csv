@@ -103,7 +103,7 @@
 7th style,Love Me Do,0,,未設定,1263,ZEECH,フィリピン,2079,NAPPA,フィリピン
 7th style,Let the Snow Paint Me,0,,未設定,0,,未設定,1207,NAPPA,フィリピン
 7th style,Last Message,518,FNL.S.,フィリピン,1121,RAPTOR,フィリピン,1546,NAPPA,フィリピン
-7th style,Happy Wedding,553,RAIN,フィリピン,0,,未設定,1758,HEISEI,フィリピン
+7th style,Happy Wedding,553,RAIN,フィリピン,1417,POP.N,フィリピン,1758,HEISEI,フィリピン
 7th style,Glorious Days,0,,未設定,480,AAAAAA,フィリピン,888,KENBAN,フィリピン
 7th style,foreplay,0,,未設定,653,AKARIN,フィリピン,0,,未設定
 7th style,DESTINY,495,TENKO,フィリピン,462,SIL80,フィリピン,1775,KABAOB,フィリピン
@@ -149,7 +149,7 @@
 9th style,STAR FIELD,230,IONOS,フィリピン,1159,AKARIN,フィリピン,1815,NAPPA,フィリピン
 9th style,SNOW,0,,未設定,881,AKARIN,フィリピン,1850,HEISEI,フィリピン
 9th style,Silvia Drive,0,,未設定,1454,KABAOZ,フィリピン,1997,NAPPA,フィリピン
-9th style,rottel-the-Mercury,571,RAIN,フィリピン,1774,ZEKKU*,フィリピン,2196,NAPPA,フィリピン
+9th style,rottel-the-Mercury,571,RAIN,フィリピン,1774,ZEKKU*,フィリピン,2216,NAPPA,フィリピン
 9th style,RISLIM -Remix-,0,,未設定,0,,未設定,1818,NAPPA,フィリピン
 9th style,Really Love,0,,未設定,891,HEISEI,フィリピン,1666,A.HPPR,フィリピン
 9th style,Quickening,555,RENIER,フィリピン,1434,SIMANO,フィリピン,2025,A.HPPR,フィリピン
@@ -265,7 +265,7 @@ HAPPY SKY,PLASMA,0,,未設定,1297,!CCC!,フィリピン,2220,NAPPA,フィリピ
 HAPPY SKY,Pink Rose,332,UNT,フィリピン,869,NANA$Y,フィリピン,1371,SGGEX,フィリピン
 HAPPY SKY,MOON RACE,0,,未設定,537,NKORLL,フィリピン,1821,NAPPA,フィリピン
 HAPPY SKY,Love Magic,0,,未設定,1554,#TA-K,フィリピン,1780,ONAFO,フィリピン
-HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3685,NAPPA,フィリピン
+HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3698,NAPPA,フィリピン
 HAPPY SKY,Little Little Princess,900,00000,フィリピン,1957,MAYAMA,フィリピン,2701,NAPPA,フィリピン
 HAPPY SKY,LESSON 5,0,,未設定,1376,DANCHO,フィリピン,2436,NAPPA,フィリピン
 HAPPY SKY,INAZUMA,1073,BC,フィリピン,1666,TEN,フィリピン,2625,A.HPPR,フィリピン
@@ -335,7 +335,7 @@ GOLD,X-rated,0,,未設定,1119,TJBA01,フィリピン,1922,TEN,フィリピン
 GOLD,With your Smile,540,FUMIKA,フィリピン,1109,SIMANO,フィリピン,1549,SGGEX,フィリピン
 GOLD,Watch out!!,333,96,フィリピン,881,NANA$Y,フィリピン,1536,MOMO,フィリピン
 GOLD,VANESSA†,0,,未設定,0,,未設定,3157,X-LIFE,フィリピン
-GOLD,VANESSA,1077,283.,フィリピン,1671,HWR,フィリピン,2207,A.HPPR,フィリピン
+GOLD,VANESSA,1077,283.,フィリピン,1731,HWR,フィリピン,2207,A.HPPR,フィリピン
 GOLD,TRANOID,565,NANA$Y,フィリピン,1635,TEN,フィリピン,2118,NEKO38,フィリピン
 GOLD,The Smile of You,118,KYU,フィリピン,1176,GOBOW*,フィリピン,1600,NAPPA,フィリピン
 GOLD,the shadow,701,RAIN,フィリピン,1898,TEN,フィリピン,2795,MOMO,フィリピン
@@ -442,7 +442,7 @@ EMPRESS,Secrets,0,,未設定,2189,TEN,フィリピン,3028,A.HPPR,フィリピ�
 EMPRESS,Queen's Tragedy,0,,未設定,1013,AKARIN,フィリピン,2102,ONAFO,フィリピン
 EMPRESS,Punch Love 仮面,0,,未設定,1591,HANBTO,フィリピン,2418,NAPPA,フィリピン
 EMPRESS,Programmed World,0,,未設定,1583,MAYAMA,フィリピン,2231,A.HPPR,フィリピン
-EMPRESS,NΦ CRIME,0,,未設定,997,AKARIN,フィリピン,1846,NAPPA,フィリピン
+EMPRESS,NΦ CRIME,0,,未設定,1242,POP.N,フィリピン,1846,NAPPA,フィリピン
 EMPRESS,neogenesis,752,DAN,フィリピン,802,RAIN,フィリピン,1679,NAPPA,フィリピン
 EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2375,MOMO,フィリピン
 EMPRESS,naughty girl@Queen's Palace,749,!CCC!,フィリピン,1532,X-LIFE,フィリピン,2018,A.HPPR,フィリピン
@@ -566,7 +566,7 @@ Resort Anthem,Everlasting Resort,562,UNT,フィリピン,901,AKARIN,フィリピ
 Resort Anthem,Eternal Tears,404,!CCC!,フィリピン,659,FNL.S.,フィリピン,1335,UNAGI.,フィリピン
 Resort Anthem,Energy Drive,672,HIMI,フィリピン,995,AKARIN,フィリピン,2122,NAPPA,フィリピン
 Resort Anthem,ELECTRIC MASSIVE DIVER,0,,未設定,2221,UNCO,フィリピン,3519,NAPPA,フィリピン
-Resort Anthem,DM STAR～関西 energy style～,647,*TORI*,フィリピン,1762,WAF,フィリピン,2325,A.HPPR,フィリピン
+Resort Anthem,DM STAR～関西 energy style～,647,*TORI*,フィリピン,1762,WAF,フィリピン,2343,NAPPA,フィリピン
 Resort Anthem,Destiny Sword,599,YUU7.Y,フィリピン,1339,ASHLEY,フィリピン,2293,NAPPA,フィリピン
 Resort Anthem,DAYDREAMER,876,AKARIN,フィリピン,1262,A,フィリピン,2478,NAPPA,フィリピン
 Resort Anthem,Dances with Snow Fairies,1228,!CCC!,フィリピン,2001,HANBTO,フィリピン,2930,A.HPPR,フィリピン
@@ -612,7 +612,7 @@ Lincle,Round and Round,458,96,フィリピン,1119,!CCC!,フィリピン,2068,NA
 Lincle,RESISTANCE,0,,未設定,966,JIRO,フィリピン,2105,83WA25,フィリピン
 Lincle,Release The Music,0,,未設定,978,AKARIN,フィリピン,2002,ONAFO,フィリピン
 Lincle,Quick Silver,0,,未設定,1507,ZG-240,フィリピン,2590,NAPPA,フィリピン
-Lincle,quaver♪,708,KENBAN,フィリピン,2005,YUU7.Y,フィリピン,3276,NAPPA,フィリピン
+Lincle,quaver♪,708,KENBAN,フィリピン,2005,YUU7.Y,フィリピン,3307,SGGEX,フィリピン
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3419,NAPPA,フィリピン
 Lincle,QUANTUM TELEPORTATION,1234,WANI,フィリピン,1800,#TA-K,フィリピン,2796,NAPPA,フィリピン
 Lincle,prompt,598,96,フィリピン,1463,R5,フィリピン,2729,X-LIFE,フィリピン
@@ -645,7 +645,7 @@ Lincle,ANAGRAMS I to Y,583,CROSS,フィリピン,1337,GOBOW*,フィリピン,240
 Lincle,Almace,207,ABLOYY,フィリピン,1248,RAPTOR,フィリピン,1924,NAPPA,フィリピン
 Lincle,532nm,540,83WA25,フィリピン,1165,BDK,フィリピン,2578,A.HPPR,フィリピン
 Lincle,24th Century BOY,0,,未設定,1742,ZEKKU*,フィリピン,2755,NAPPA,フィリピン
-tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3068,KABAOB,フィリピン
+tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3230,NAPPA,フィリピン
 tricoro,龍と少女とデコヒーレンス,540,96,フィリピン,1375,!CCC!,フィリピン,2911,A.HPPR,フィリピン
 tricoro,音楽,789,HEISEI,フィリピン,1820,KABAOZ,フィリピン,2577,X-LIFE,フィリピン
 tricoro,狂イ咲ケ焔ノ華,1039,00000,フィリピン,2225,YUU7.Y,フィリピン,3504,X-LIFE,フィリピン
@@ -674,11 +674,11 @@ tricoro,YELLOW FROG from Steel Chronicle,218,BASACC,フィリピン,960,OG,フ�
 tricoro,VEGA,764,BLITZ,フィリピン,1877,RAPTOR,フィリピン,3033,A.HPPR,フィリピン
 tricoro,VALLIS-NERIA,1051,GOBOW*,フィリピン,1814,RAPTOR,フィリピン,2831,NAPPA,フィリピン
 tricoro,Valanga,1207,WANI,フィリピン,1934,#TA-K,フィリピン,3129,NAPPA,フィリピン
-tricoro,True Blue,971,GOBOW*,フィリピン,2338,7-INCH,フィリピン,3614,X-LIFE,フィリピン
+tricoro,True Blue,971,GOBOW*,フィリピン,2338,7-INCH,フィリピン,3633,SGGEX,フィリピン
 tricoro,To my star,0,,未設定,992,JIRO,フィリピン,1715,A.HPPR,フィリピン
 tricoro,Timepiece phase II (CN Ver.),919,SIMANO,フィリピン,1607,*774#,フィリピン,2760,X-LIFE,フィリピン
-tricoro,Timepiece phase II,0,,未設定,2073,MAT.N2,フィリピン,3012,NAPPA,フィリピン
-tricoro,Time To Empress,677,JIKYEO,フィリピン,1758,TOKIIN,フィリピン,2502,KABAOB,フィリピン
+tricoro,Timepiece phase II,0,,未設定,2073,MAT.N2,フィリピン,3039,X-LIFE,フィリピン
+tricoro,Time To Empress,677,JIKYEO,フィリピン,1758,TOKIIN,フィリピン,2539,NAPPA,フィリピン
 tricoro,Thor's Hammer,758,00000,フィリピン,1592,RAPTOR,フィリピン,2845,X-LIFE,フィリピン
 tricoro,Take My Life,430,96,フィリピン,1367,RENIER,フィリピン,2810,NAPPA,フィリピン
 tricoro,Synergy For Angels,696,CROSS,フィリピン,1235,ESPADA,フィリピン,2702,A.HPPR,フィリピン
@@ -745,12 +745,12 @@ SPADA,旋律のドグマ～Miserables～,987,PAZOOK,フィリピン,2285,YUU7.Y,
 SPADA,廿†,0,,未設定,0,,未設定,3069,KABAOB,フィリピン
 SPADA,廿,0,,未設定,1365,RAPTOR,フィリピン,2224,MUTSU,フィリピン
 SPADA,幻想系世界修復少女,373,FNL.S.,フィリピン,850,AKARIN,フィリピン,1920,KABAOB,フィリピン
-SPADA,バンブーソード・ガール,21,FNL.S.,フィリピン,1635,KABAOZ,フィリピン,2277,ONAFO,フィリピン
+SPADA,バンブーソード・ガール,21,FNL.S.,フィリピン,1635,KABAOZ,フィリピン,2344,NAPPA,フィリピン
 SPADA,デッドボヲルdeホームラン,0,,未設定,1415,RAPTOR,フィリピン,2653,NAPPA,フィリピン
 SPADA,アルストロメリア,727,OG,フィリピン,1438,RAPTOR,フィリピン,2335,KABAOB,フィリピン
 SPADA,お願いアインシュタイン,0,,未設定,1281,GOBOW*,フィリピン,2051,NAPPA,フィリピン
 SPADA,Wonder Girl feat. Kanae Asaba,534,TAKUM!,フィリピン,743,FNL.S.,フィリピン,2735,NAPPA,フィリピン
-SPADA,VOX UP,1207,AAAAAA,フィリピン,2660,HWR,フィリピン,3365,NAPPA,フィリピン
+SPADA,VOX UP,1210,TJBA01,フィリピン,2660,HWR,フィリピン,3365,NAPPA,フィリピン
 SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4505,X-LIFE,フィリピン
 SPADA,Verflucht,1112,GOBOW*,フィリピン,2057,MOMO,フィリピン,3430,X-LIFE,フィリピン
 SPADA,Valgus,0,,未設定,835,AKARIN,フィリピン,2086,HEISEI,フィリピン
@@ -790,7 +790,7 @@ SPADA,Insane Techniques,486,MONIKA,フィリピン,1149,RAPTOR,フィリピン,2
 SPADA,Immortal,0,,未設定,0,,未設定,3022,NAPPA,フィリピン
 SPADA,Idola,786,OG,フィリピン,2198,KABAOZ,フィリピン,3473,NAPPA,フィリピン
 SPADA,I will be back -オレは帰ってきた-,727,KEI,フィリピン,1659,SIMANO,フィリピン,2834,NAPPA,フィリピン
-SPADA,Hypersonik,542,FENIX7,フィリピン,1581,RAPTOR,フィリピン,2361,ONAFO,フィリピン
+SPADA,Hypersonik,542,FENIX7,フィリピン,1581,RAPTOR,フィリピン,2411,NAPPA,フィリピン
 SPADA,HYENA,815,PAZOOK,フィリピン,1222,-NARU-,フィリピン,2704,A.HPPR,フィリピン
 SPADA,Funny shuffle,528,AKARIN,フィリピン,979,83WA25,フィリピン,2206,A.HPPR,フィリピン
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4088,X-LIFE,フィリピン
@@ -840,11 +840,11 @@ PENDUAL,ベィスドロップ・フリークス,465,CROSS,フィリピン,1196,R
 PENDUAL,パ→ピ→プ→Yeah!,894,777,フィリピン,1483,KABAOZ,フィリピン,2449,NAPPA,フィリピン
 PENDUAL,ドッキン☆サマーあばんちゅーる,617,SIL80,フィリピン,1445,!CCC!,フィリピン,2727,NAPPA,フィリピン
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,未設定,1823,HANBTO,フィリピン,2553,NAPPA,フィリピン
-PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,未設定,1315,GOBOW*,フィリピン,2410,KABAOB,フィリピン
+PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,未設定,1315,GOBOW*,フィリピン,2501,NAPPA,フィリピン
 PENDUAL,とろぴかる倶楽部,0,,未設定,1287,GGGGGG,フィリピン,2151,NAPPA,フィリピン
 PENDUAL,それは花火のような恋,1102,00000,フィリピン,2240,ZG-240,フィリピン,3706,NAPPA,フィリピン
 PENDUAL,ZZ,0,,未設定,1878,283.,フィリピン,2912,NAPPA,フィリピン
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,649,*TORI*,フィリピン,1935,#TA-K,フィリピン,3489,NAPPA,フィリピン
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,779,CROSS,フィリピン,1935,#TA-K,フィリピン,3489,NAPPA,フィリピン
 PENDUAL,Vulkan,0,,未設定,1818,SKAR,フィリピン,2937,NAPPA,フィリピン
 PENDUAL,TOXIC VIBRATION,1315,00000,フィリピン,2119,HANBTO,フィリピン,3623,X-LIFE,フィリピン
 PENDUAL,TIEFSEE,838,SIL80,フィリピン,1863,#TA-K,フィリピン,3284,NAPPA,フィリピン
@@ -853,7 +853,7 @@ PENDUAL,TA・DA ☆ YO・SHI,739,FNL.S.,フィリピン,1501,YUU7.Y,フィリピ
 PENDUAL,Symmetry,1068,GOBOW*,フィリピン,1836,RAPTOR,フィリピン,3092,NAPPA,フィリピン
 PENDUAL,Sweet Radar,562,TAKUM!,フィリピン,1291,SATSU4,フィリピン,1985,NAPPA,フィリピン
 PENDUAL,SpaceLand☆TOYBOX,0,,未設定,1531,*774#,フィリピン,2834,NAPPA,フィリピン
-PENDUAL,Sounds Of Summer,792,-NARU-,フィリピン,1925,RAPTOR,フィリピン,2828,KABAOB,フィリピン
+PENDUAL,Sounds Of Summer,833,CROSS,フィリピン,1925,RAPTOR,フィリピン,2828,KABAOB,フィリピン
 PENDUAL,Shooting Fireball,820,JIRO,フィリピン,2200,UNAGI.,フィリピン,3732,A.HPPR,フィリピン
 PENDUAL,Scars of FAUNA,637,YUKARI,フィリピン,1520,BART!!,フィリピン,2775,NEKO38,フィリピン
 PENDUAL,Scarlet Moon,807,BURNEK,フィリピン,1658,RAPTOR,フィリピン,2613,NAPPA,フィリピン
@@ -905,7 +905,7 @@ PENDUAL,Broken Sword,943,-NARU-,フィリピン,2007,SGGEX,フィリピン,3584,
 PENDUAL,BLUE MIRAGE,851,777,フィリピン,1488,-.-,フィリピン,2708,NEKO38,フィリピン
 PENDUAL,Blaze it UP!,412,96,フィリピン,1670,WANI,フィリピン,2874,KABAOB,フィリピン
 PENDUAL,Beyond The Earth,0,,未設定,1761,283.,フィリピン,3079,NAPPA,フィリピン
-PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3446,NAPPA,フィリピン
+PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3513,NAPPA,フィリピン
 PENDUAL,Beat Radiance,603,RAIN,フィリピン,1471,YUU7.Y,フィリピン,2525,SGGEX,フィリピン
 PENDUAL,Amnolys,0,,未設定,1243,00000,フィリピン,2572,NAPPA,フィリピン
 PENDUAL,AFRO KNUCKLE,0,,未設定,1551,RAPTOR,フィリピン,2312,NAPPA,フィリピン
@@ -942,7 +942,7 @@ copula,Super Duper Racers,309,SAM,フィリピン,1469,BART!!,フィリピン,22
 copula,StrayedCatz,806,KEI,フィリピン,1931,SGGEX,フィリピン,2702,NAPPA,フィリピン
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3135,NAPPA,フィリピン
 copula,STARLIGHT DANCEHALL,906,AKARIN,フィリピン,1691,283.,フィリピン,2558,NAPPA,フィリピン
-copula,STARLiGHT,546,MANG,フィリピン,1588,RENIER,フィリピン,2698,A.HPPR,フィリピン
+copula,STARLiGHT,798,CROSS,フィリピン,1588,RENIER,フィリピン,2698,A.HPPR,フィリピン
 copula,SHELTER OF THE MIND,1122,OG,フィリピン,1839,RAPTOR,フィリピン,2890,KABAOZ,フィリピン
 copula,Set U Free feat. Kanae Asaba,0,,未設定,731,UNT,フィリピン,2165,MAYAMA,フィリピン
 copula,Sephirot,589,CROSS,フィリピン,1302,!CCC!,フィリピン,2206,NAPPA,フィリピン
@@ -961,7 +961,7 @@ copula,NO LIMIT -オレ達に限界は無い-,355,96,フィリピン,895,00000,�
 copula,NINJA IS DEAD IIDX ver.,1146,WANI,フィリピン,1651,SKAR,フィリピン,2856,NAPPA,フィリピン
 copula,Nightmare before oversleep,1070,GOBOW*,フィリピン,1714,ZEKKU*,フィリピン,2850,NAPPA,フィリピン
 copula,NANAIRO,479,96,フィリピン,1738,UNAGI.,フィリピン,2492,NAPPA,フィリピン
-copula,Musik LoverZ,636,FENIX7,フィリピン,1288,RAPTOR,フィリピン,2259,KABAOZ,フィリピン
+copula,Musik LoverZ,841,CROSS,フィリピン,1288,RAPTOR,フィリピン,2259,KABAOZ,フィリピン
 copula,M4K3 1T B0UNC3,1022,OG,フィリピン,1919,UNCO,フィリピン,2931,NAPPA,フィリピン
 copula,La dolce primavera,0,,未設定,994,AKARIN,フィリピン,2092,NAPPA,フィリピン
 copula,Konzert V,1063,777,フィリピン,2079,#TA-K,フィリピン,3164,NAPPA,フィリピン
@@ -972,7 +972,7 @@ copula,Grand Chariot,957,DAN,フィリピン,1732,AMURO,フィリピン,3267,NAP
 copula,Godspeed,880,777,フィリピン,1780,7-INCH,フィリピン,2940,SGGEX,フィリピン
 copula,GOBBLE,0,,未設定,642,RAPTOR,フィリピン,1629,A.HPPR,フィリピン
 copula,Go Faraway,524,96,フィリピン,1217,DANCHO,フィリピン,2420,NAPPA,フィリピン
-copula,Glitch Nerds,529,CROSS,フィリピン,964,AKARIN,フィリピン,2119,NAPPA,フィリピン
+copula,Glitch Nerds,712,CROSS,フィリピン,964,AKARIN,フィリピン,2119,NAPPA,フィリピン
 copula,GET READY!!,640,RAIN,フィリピン,1384,YUU7.Y,フィリピン,2378,ONAFO,フィリピン
 copula,GENERATE feat.綾倉盟,488,96,フィリピン,1677,KABAOZ,フィリピン,2290,KABAOB,フィリピン
 copula,Exchange Place,455,CROSS,フィリピン,974,AKARIN,フィリピン,1725,NAPPA,フィリピン
@@ -1087,7 +1087,7 @@ SINOBUZ,BabeL ～Grand Story～,838,KEI,フィリピン,1959,7-INCH,フィリピ
 SINOBUZ,AsiaN distractive,0,,未設定,1162,AKARIN,フィリピン,2479,KABAOB,フィリピン
 SINOBUZ,Around The Galaxy,875,KEI,フィリピン,1935,HANBTO,フィリピン,3267,KABAOB,フィリピン
 SINOBUZ,Apocalypse,1035,OKIN.N,フィリピン,2015,HEISEI,フィリピン,3422,NAPPA,フィリピン
-SINOBUZ,AO-∞,671,CROSS,フィリピン,1499,7-INCH,フィリピン,2491,NAPPA,フィリピン
+SINOBUZ,AO-∞,768,CROSS,フィリピン,1499,7-INCH,フィリピン,2491,NAPPA,フィリピン
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3083,NAPPA,フィリピン
 SINOBUZ,Amazing Mirage,590,TAKUM!,フィリピン,1643,HANBTO,フィリピン,2487,KABAOB,フィリピン
 SINOBUZ,Affection,0,,未設定,1111,BDK,フィリピン,1994,NAPPA,フィリピン
@@ -1115,7 +1115,7 @@ CANNON BALLERS,Usual Days-remix,1027,SATSU4,フィリピン,1363,WAF,フィリ�
 CANNON BALLERS,UMMU,1154,KABAOB,フィリピン,2002,X-LIFE,フィリピン,2907,NAPPA,フィリピン
 CANNON BALLERS,The Revolution (VIP Mix),0,,未設定,1407,WANI,フィリピン,1777,MUTSU,フィリピン
 CANNON BALLERS,The Chase,446,YVESEO,フィリピン,1232,KABAOZ,フィリピン,1886,NEKO38,フィリピン
-CANNON BALLERS,THE CANNONBALLER,1026,FUMIKA,フィリピン,2190,UNCO,フィリピン,3280,NAPPA,フィリピン
+CANNON BALLERS,THE CANNONBALLER,1026,FUMIKA,フィリピン,2190,UNCO,フィリピン,3301,NAPPA,フィリピン
 CANNON BALLERS,Temple of Anubis,504,MANG,フィリピン,1068,LILY,フィリピン,2543,MOMO,フィリピン
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,未設定,0,,未設定,2410,HWR,フィリピン
 CANNON BALLERS,Static State,643,RAIN,フィリピン,1556,RAPTOR,フィリピン,2241,NAPPA,フィリピン
@@ -1154,7 +1154,7 @@ CANNON BALLERS,From Time To Time,0,,未設定,0,,未設定,2365,X-LIFE,フィリ
 CANNON BALLERS,FREEDOM,708,ANCLE,フィリピン,1186,AKARIN,フィリピン,2835,NAPPA,フィリピン
 CANNON BALLERS,FIRE BALL,0,,未設定,1511,TEN,フィリピン,2336,NAPPA,フィリピン
 CANNON BALLERS,Fervidex,0,,未設定,1745,KABAOZ,フィリピン,2645,A.HPPR,フィリピン
-CANNON BALLERS,Expanded !!,452,TLCOCK,フィリピン,1347,R5,フィリピン,2540,NAPPA,フィリピン
+CANNON BALLERS,Expanded !!,452,TLCOCK,フィリピン,1347,R5,フィリピン,2570,NAPPA,フィリピン
 CANNON BALLERS,Exhaust Hype,754,TAKUM!,フィリピン,1858,KABAOZ,フィリピン,2730,NAPPA,フィリピン
 CANNON BALLERS,encounter,0,,未設定,1632,AMURO,フィリピン,3140,NAPPA,フィリピン
 CANNON BALLERS,EMERALDAS,1243,MAYAMA,フィリピン,2246,NEKO38,フィリピン,3293,NAPPA,フィリピン
@@ -1195,13 +1195,13 @@ Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,672,WANI,フィリピ�
 Rootage,ミストレス・アンに花束を,398,CROSS,フィリピン,937,"",フィリピン,1411,NAPPA,フィリピン
 Rootage,ハードベース・フェスタ,1019,ONAFO,フィリピン,1747,UNAGI.,フィリピン,2735,A.HPPR,フィリピン
 Rootage,セカンドピアス,564,KABAOZ,フィリピン,1046,"",フィリピン,1979,NAPPA,フィリピン
-Rootage,サクラあっぱれーしょん,597,KABAOZ,フィリピン,1482,KABAOZ,フィリピン,2271,A.HPPR,フィリピン
+Rootage,サクラあっぱれーしょん,597,KABAOZ,フィリピン,1482,KABAOZ,フィリピン,2273,NAPPA,フィリピン
 Rootage,グラナダの風,714,GOBOW*,フィリピン,1108,WANI,フィリピン,1799,NAPPA,フィリピン
 Rootage,Yum Yum Jelly,740,MU4-!?,フィリピン,1508,UNAGI.,フィリピン,2292,NAPPA,フィリピン
 Rootage,Xlo,1387,WANI,フィリピン,2417,A.HPPR,フィリピン,3680,WRIST,フィリピン
 Rootage,Wonderland,734,CROSS,フィリピン,1802,POCOPS,フィリピン,2675,MUTSU,フィリピン
 Rootage,Won(*3*)Chu KissMe!,891,SIMANO,フィリピン,1342,"",フィリピン,2424,A.HPPR,フィリピン
-Rootage,Wolf 1061,0,,未設定,1608,#TA-K,フィリピン,2999,NAPPA,フィリピン
+Rootage,Wolf 1061,782,CROSS,フィリピン,1608,#TA-K,フィリピン,2999,NAPPA,フィリピン
 Rootage,Wing of Hearts,1035,R5,フィリピン,1695,HANBTO,フィリピン,2840,MUTSU,フィリピン
 Rootage,Urban Constellations,337,JYLEN,フィリピン,1427,HEISEI,フィリピン,2190,NAPPA,フィリピン
 Rootage,UNDERWORLD HOLOGRAPHY,1069,GOBOW*,フィリピン,1967,TEN,フィリピン,3125,SGGEX,フィリピン
@@ -1226,9 +1226,9 @@ Rootage,Playing With Fire,896,!CCC!,フィリピン,1597,UNAGI.,フィリピン,
 Rootage,Particle Arts,820,RENIER,フィリピン,1527,#TA-K,フィリピン,2390,A.HPPR,フィリピン
 Rootage,Painful Fate,1221,HEISEI,フィリピン,2212,NEKO38,フィリピン,3168,NAPPA,フィリピン
 Rootage,OVER TIME,561,83WA25,フィリピン,947,HWR,フィリピン,1531,NAPPA,フィリピン
-Rootage,Necroxis Girl,0,,未設定,1743,HANBTO,フィリピン,2690,NAPPA,フィリピン
+Rootage,Necroxis Girl,0,,未設定,1824,YUU7.Y,フィリピン,2690,NAPPA,フィリピン
 Rootage,Macho Monky,0,,未設定,2014,MUTSU,フィリピン,2851,NAPPA,フィリピン
-Rootage,LOST TECHNOLOGIE,1009,RENIER,フィリピン,1853,MUTSU,フィリピン,3265,A.HPPR,フィリピン
+Rootage,LOST TECHNOLOGIE,1029,YUU7.Y,フィリピン,1853,MUTSU,フィリピン,3265,A.HPPR,フィリピン
 Rootage,Level One,1112,777,フィリピン,2224,MOMO,フィリピン,3233,A.HPPR,フィリピン
 Rootage,Let me be your cure,1063,GOBOW*,フィリピン,1405,X-LIFE,フィリピン,2602,NAPPA,フィリピン
 Rootage,LADYBIRD,1077,MUTSU,フィリピン,1576,MUTSU,フィリピン,2355,A.HPPR,フィリピン
