@@ -1,5 +1,5 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
-1st&substream,THE EARTH LIGHT,0,,未設定,982,ES.,滋賀県,1125,8VSZU4,滋賀県
+1st&substream,THE EARTH LIGHT,556,OGI,滋賀県,982,ES.,滋賀県,1125,8VSZU4,滋賀県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,2045,AAAAAA,滋賀県
 1st&substream,RUGGED ASH,358,HARE-L,滋賀県,391,APPY,滋賀県,1092,AAAAAA,滋賀県
 1st&substream,R3,532,XX02,滋賀県,671,N,滋賀県,889,D1353L,滋賀県
@@ -15,7 +15,7 @@
 1st&substream,22DUNK,465,N,滋賀県,0,,未設定,639,NOCCHI,滋賀県
 2nd style,SP-TRIP MACHINE(for beatmania II),474,REN,滋賀県,548,SOLID,滋賀県,636,HARE-L,滋賀県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,858,AAAAAA,滋賀県,0,,未設定
-2nd style,Indigo Vision(full flavour hide around mix),858,INANNA,滋賀県,860,SOLID,滋賀県,1194,NOCCHI,滋賀県
+2nd style,Indigo Vision(full flavour hide around mix),858,INANNA,滋賀県,860,SOLID,滋賀県,1198,HIKO,滋賀県
 2nd style,I Was The One,530,INANNA,滋賀県,565,ASS0,滋賀県,666,APPY,滋賀県
 2nd style,Electro Tuned(the SubS mix),0,,未設定,681,KUMA,滋賀県,1040,YUHEY.,滋賀県
 2nd style,Digital MinD(A/T Libra mix),708,INANNA,滋賀県,843,OGI,滋賀県,1070,N.KJ,滋賀県
@@ -40,7 +40,7 @@
 4th style,minimalian,494,N,滋賀県,807,NYET,滋賀県,1366,PUSSY-,滋賀県
 4th style,LOVE WILL・・・,236,GRR-G,滋賀県,733,SHUKA,滋賀県,1450,AAAAAA,滋賀県
 4th style,KAMIKAZE,774,KUMA,滋賀県,1393,INANNA,滋賀県,2254,HA,滋賀県
-4th style,Jam&Marmalade,575,MANA,滋賀県,602,KUMA,滋賀県,988,PUSSY-,滋賀県
+4th style,Jam&Marmalade,575,MANA,滋賀県,736,HAL.2,滋賀県,1006,PUSSY-,滋賀県
 4th style,Hitch Hiker2,108,ABC,滋賀県,1092,N,滋賀県,1303,HIKO,滋賀県
 4th style,HIGHER,306,ISUTA,滋賀県,908,INANNA,滋賀県,1264,D1353L,滋賀県
 4th style,FLOWERS for ALBION,208,HITOM1,滋賀県,431,AAAAAA,滋賀県,0,,未設定
@@ -81,7 +81,7 @@
 6th style,SOMETHING WONDERFUL,860,N,滋賀県,1258,NR*,滋賀県,1961,NOCCHI,滋賀県
 6th style,route 80s,0,,未設定,925,SOLID,滋賀県,1487,57*FBK,滋賀県
 6th style,rottel-da-sun,820,B-RABI,滋賀県,1280,KOTARO,滋賀県,1815,57*FBK,滋賀県
-6th style,NEMESIS,860,N,滋賀県,1269,KEI,滋賀県,1855,AAAAAA,滋賀県
+6th style,NEMESIS,860,N,滋賀県,1271,ICECCA,滋賀県,1855,AAAAAA,滋賀県
 6th style,Linus,634,KUMA,滋賀県,1445,KNT$R,滋賀県,2160,D1353L,滋賀県
 6th style,G2,1110,HAL.2,滋賀県,1556,INRTIA,滋賀県,2316,AAAAAA,滋賀県
 6th style,Frozen Ray (original mix),0,,未設定,1301,SOLID,滋賀県,1771,KU-NEF,滋賀県
@@ -100,7 +100,7 @@
 7th style,stoic,1553,Z.O.O,滋賀県,2225,ELISE,滋賀県,2484,PUSSY-,滋賀県
 7th style,Spica,569,IIDX22,滋賀県,1199,KAZU,滋賀県,2208,D1353L,滋賀県
 7th style,MAX 300,975,NAWONO,滋賀県,1908,NOCCHI,滋賀県,0,,未設定
-7th style,Love Me Do,735,KUMA,滋賀県,1651,INANNA,滋賀県,2086,HA,滋賀県
+7th style,Love Me Do,1010,XX02,滋賀県,1651,INANNA,滋賀県,2086,HA,滋賀県
 7th style,Let the Snow Paint Me,0,,未設定,974,RIVEN,滋賀県,1222,D1353L,滋賀県
 7th style,Last Message,0,,未設定,1267,HARE-L,滋賀県,1600,D1353L,滋賀県
 7th style,Happy Wedding,711,K.,滋賀県,1633,8VSZU4,滋賀県,1815,G-RABI,滋賀県
@@ -114,7 +114,7 @@
 7th style,AVE DE RAPINA,1330,INANNA,滋賀県,1574,Z.O.O,滋賀県,1817,AAAAAA,滋賀県
 7th style,A,873,KUMA,滋賀県,1842,INANNA,滋賀県,2465,AAAAAA,滋賀県
 8th style,蒼い衝動,749,KUMA,滋賀県,1272,BRK,滋賀県,1581,AAAAAA,滋賀県
-8th style,桜,726,R00T.M,滋賀県,1433,APPY,滋賀県,2068,YUHEY.,滋賀県
+8th style,桜,743,IIDX26,滋賀県,1433,APPY,滋賀県,2068,YUHEY.,滋賀県
 8th style,xenon,858,KILM1N,滋賀県,1686,-SB-,滋賀県,2726,AAAAAA,滋賀県
 8th style,World Wide Love,685,INANNA,滋賀県,662,MANA,滋賀県,1108,-SB-,滋賀県
 8th style,WAR GAME,945,INANNA,滋賀県,1568,B-RABI,滋賀県,2137,B-RABI,滋賀県
@@ -122,7 +122,7 @@
 8th style,symbolic,1377,INANNA,滋賀県,1724,YADO,滋賀県,2242,AAAAAA,滋賀県
 8th style,STAR DREAM,626,IKARI,滋賀県,1250,NR*,滋賀県,1424,NOCCHI,滋賀県
 8th style,rainbow flyer,619,MR.814,滋賀県,1435,GOTCHI,滋賀県,2106,AAAAAA,滋賀県
-8th style,PLEASE DON'T GO,668,K.,滋賀県,572,ARISA,滋賀県,2367,AAAAAA,滋賀県
+8th style,PLEASE DON'T GO,668,K.,滋賀県,1051,NYET,滋賀県,2367,AAAAAA,滋賀県
 8th style,MUSIC TO YOUR HEAD,0,,未設定,1140,GORI3,滋賀県,1598,HA,滋賀県
 8th style,murmur twins,739,A,滋賀県,1573,10$,滋賀県,2385,AAAAAA,滋賀県
 8th style,Monkey Dance,0,,未設定,1271,BRK,滋賀県,1905,*JY*,滋賀県
@@ -194,7 +194,7 @@
 10th style,Freezing atmosphere,365,ISUTA,滋賀県,564,A,滋賀県,1494,AAAAAA,滋賀県
 10th style,FEEL IT,612,REON,滋賀県,1571,INRTIA,滋賀県,1982,D1353L,滋賀県
 10th style,Feedback,0,,未設定,1551,-SB-,滋賀県,1941,AAAAAA,滋賀県
-10th style,EXE,396,CHIZ,滋賀県,1465,HARE-L,滋賀県,2206,NOCCHI,滋賀県
+10th style,EXE,396,CHIZ,滋賀県,1465,HARE-L,滋賀県,2208,PUSSY-,滋賀県
 10th style,DoLL,917,XECTY1,滋賀県,1208,HARE-L,滋賀県,1593,YU,滋賀県
 10th style,desolation,482,INANNA,滋賀県,577,SNUF*,滋賀県,748,INANNA,滋賀県
 10th style,Debtty Daddy,0,,未設定,1830,Z.O.O,滋賀県,2644,D1353L,滋賀県
@@ -257,7 +257,7 @@ HAPPY SKY,SigSig,692,BARO,滋賀県,1643,INANNA,滋賀県,2587,D1353L,滋賀県
 HAPPY SKY,Scripted Connection⇒ N mix,1120,YNS,滋賀県,1501,U.M.,滋賀県,2031,HIKO,滋賀県
 HAPPY SKY,Scripted Connection⇒ H mix,1607,INANNA,滋賀県,1852,ELISE,滋賀県,2446,HIKO,滋賀県
 HAPPY SKY,Scripted Connection⇒ A mix,1548,INANNA,滋賀県,1697,SHIKI,滋賀県,3053,AAAAAA,滋賀県
-HAPPY SKY,SCREAM SQUAD,918,KUMA,滋賀県,1328,MJ,滋賀県,2027,AAAAAA,滋賀県
+HAPPY SKY,SCREAM SQUAD,918,KUMA,滋賀県,1407,JUN!?,滋賀県,2027,AAAAAA,滋賀県
 HAPPY SKY,rage against usual,960,IIDX26,滋賀県,1879,APPY,滋賀県,2890,AAAAAA,滋賀県
 HAPPY SKY,POODLE,0,,未設定,1838,INANNA,滋賀県,2275,D1353L,滋賀県
 HAPPY SKY,Pollinosis,0,,未設定,656,BLACK,滋賀県,2441,PUSSY-,滋賀県
@@ -327,7 +327,7 @@ DistorteD,ALFARSHEAR 双神威に廻る夢,845,KAMTEM,滋賀県,1573,INANNA,滋�
 GOLD,電人、暁に斃れる。,1405,10$,滋賀県,2118,Z.O.O,滋賀県,3340,AAAAAA,滋賀県
 GOLD,零 - ZERO -,1124,BRK,滋賀県,1796,B-RABI,滋賀県,2300,B-RABI,滋賀県
 GOLD,花吹雪 ～ IIDX LIMITED ～,396,GRR-G,滋賀県,1044,SPIRIT,滋賀県,1386,BABEL,滋賀県
-GOLD,星をこの手に,1069,SHIKI,滋賀県,1603,TYRAN,滋賀県,2123,D1353L,滋賀県
+GOLD,星をこの手に,1073,IIDX26,滋賀県,1603,TYRAN,滋賀県,2123,D1353L,滋賀県
 GOLD,リグレット,0,,未設定,1558,AI-R,滋賀県,2394,NOCCHI,滋賀県
 GOLD,ヨシダさん,677,MR.814,滋賀県,1383,10$,滋賀県,1947,11KING,滋賀県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,557,TAKYAO,滋賀県,1369,N,滋賀県,2263,AAAAAA,滋賀県
@@ -335,7 +335,7 @@ GOLD,X-rated,309,GRR-G,滋賀県,1453,U.M.,滋賀県,2065,HA,滋賀県
 GOLD,With your Smile,687,NYARO,滋賀県,1150,INANNA,滋賀県,1554,D1353L,滋賀県
 GOLD,Watch out!!,532,IIDX22,滋賀県,830,FCOH,滋賀県,1593,G-RABI,滋賀県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3214,57*FBK,滋賀県
-GOLD,VANESSA,1042,10$,滋賀県,1815,AAAAAA,滋賀県,2243,HA,滋賀県
+GOLD,VANESSA,1042,10$,滋賀県,1815,AAAAAA,滋賀県,2254,YUHEY.,滋賀県
 GOLD,TRANOID,0,,未設定,1495,SHIKI,滋賀県,2192,AAAAAA,滋賀県
 GOLD,The Smile of You,924,INANNA,滋賀県,1260,SHUKA,滋賀県,1626,G-RABI,滋賀県
 GOLD,the shadow,957,MR.814,滋賀県,1865,Z.O.O,滋賀県,2907,AAAAAA,滋賀県
@@ -365,7 +365,7 @@ GOLD,Cyber Force,1220,INANNA,滋賀県,1863,AAAAAA,滋賀県,2379,AAAAAA,滋賀�
 GOLD,CROSSROAD ～Left Story～,501,AKI,滋賀県,1691,HARE-L,滋賀県,2178,B-RABI,滋賀県
 GOLD,CaptivAte～誓い～,854,MR.814,滋賀県,1832,10$,滋賀県,2220,G-RABI,滋賀県
 GOLD,CaptivAte～裁き～,520,HI1N4,滋賀県,1309,B-RABI,滋賀県,1759,B-RABI,滋賀県
-GOLD,Candy Galy,1389,KWTK3,滋賀県,2365,N.KJ,滋賀県,3483,AAAAAA,滋賀県
+GOLD,Candy Galy,1451,N,滋賀県,2365,N.KJ,滋賀県,3483,AAAAAA,滋賀県
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1323,IIDX26,滋賀県,1916,KANATA,滋賀県,2451,D1353L,滋賀県
 GOLD,ANDROMEDA II,772,MR.814,滋賀県,1693,TYRAN,滋賀県,2422,HA,滋賀県
 GOLD,Air Bell,828,QT,滋賀県,0,,未設定,1698,11KING,滋賀県
@@ -374,8 +374,8 @@ DJ TROOPERS,華爛漫 -Flowers-,999,8VSZU4,滋賀県,1494,10$,滋賀県,2021,D13
 DJ TROOPERS,少年A,0,,未設定,1896,ELISE,滋賀県,2707,PUSSY-,滋賀県
 DJ TROOPERS,ミラージュ・レジデンス,867,K.,滋賀県,2016,APPY,滋賀県,2557,HA,滋賀県
 DJ TROOPERS,マチ子の唄,543,TAKYAO,滋賀県,1255,BRK,滋賀県,1774,PUSSY-,滋賀県
-DJ TROOPERS,エコ爺,349,GRR-G,滋賀県,823,MANA,滋賀県,1824,G-RABI,滋賀県
-DJ TROOPERS,Wanna Party?,0,,未設定,1178,8VSZU4,滋賀県,1510,G-RABI,滋賀県
+DJ TROOPERS,エコ爺,349,GRR-G,滋賀県,855,MANA,滋賀県,1824,G-RABI,滋賀県
+DJ TROOPERS,Wanna Party?,701,XX02,滋賀県,1178,8VSZU4,滋賀県,1510,G-RABI,滋賀県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3172,57*FBK,滋賀県
 DJ TROOPERS,Ubertreffen,985,ASS0,滋賀県,1834,RYO*,滋賀県,2480,AAAAAA,滋賀県
 DJ TROOPERS,TROOPERS,640,DYUKU,滋賀県,2140,I*RIS.,滋賀県,2917,B-RABI,滋賀県
@@ -386,35 +386,35 @@ DJ TROOPERS,THE DEEP STRIKER,1006,N,滋賀県,2002,INANNA,滋賀県,2979,AAAAAA,
 DJ TROOPERS,switch,0,,未設定,1444,KOTARO,滋賀県,2076,AAAAAA,滋賀県
 DJ TROOPERS,STEEL NEEDLE,541,REON,滋賀県,1758,HITOM1,滋賀県,2474,AAAAAA,滋賀県
 DJ TROOPERS,State Of The Art,969,IIDX26,滋賀県,1486,INRTIA,滋賀県,3078,AAAAAA,滋賀県
-DJ TROOPERS,SOUND OF GIALLARHORN,1312,INANNA,滋賀県,2650,W8,滋賀県,3240,D1353L,滋賀県
-DJ TROOPERS,scar in the earth,636,INANNA,滋賀県,709,CRAN6K,滋賀県,1466,YUHEY.,滋賀県
+DJ TROOPERS,SOUND OF GIALLARHORN,1312,INANNA,滋賀県,2650,W8,滋賀県,3285,AAAAAA,滋賀県
+DJ TROOPERS,scar in the earth,636,INANNA,滋賀県,709,CRAN6K,滋賀県,1479,52KING,滋賀県
 DJ TROOPERS,satfinal,714,INAMI,滋賀県,1219,YNS,滋賀県,1909,D1353L,滋賀県
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",634,A,滋賀県,1681,KWTK3,滋賀県,2476,D1353L,滋賀県
 DJ TROOPERS,Ristaccia,0,,未設定,1771,ELISE,滋賀県,2685,D1353L,滋賀県
 DJ TROOPERS,REMINISCENCE,1278,B-RABI,滋賀県,1850,B-RABI,滋賀県,2310,G-RABI,滋賀県
 DJ TROOPERS,PROMISE FOR LIFE,415,7K,滋賀県,1435,BRK,滋賀県,1730,31337,滋賀県
-DJ TROOPERS,PARANOiA ～HADES～,1069,AAAAAA,滋賀県,1710,YU,滋賀県,2644,PUSSY-,滋賀県
+DJ TROOPERS,PARANOiA ～HADES～,1069,AAAAAA,滋賀県,1804,AAAAAA,滋賀県,2644,PUSSY-,滋賀県
 DJ TROOPERS,oratio,1064,KUMA,滋賀県,1779,INANNA,滋賀県,2910,AAAAAA,滋賀県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,38,HIGANA,滋賀県,1803,P0NZU,滋賀県,2438,YUHEY.,滋賀県
 DJ TROOPERS,MENTAL MELTDOWN,265,HIGANA,滋賀県,1898,AAAAAA,滋賀県,2726,AAAAAA,滋賀県
-DJ TROOPERS,MENDES,1073,INANNA,滋賀県,2507,YU,滋賀県,3431,AAAAAA,滋賀県
+DJ TROOPERS,MENDES,1073,INANNA,滋賀県,2507,YU,滋賀県,3432,AAAAAA,滋賀県
 DJ TROOPERS,MAX LOVE,1417,INANNA,滋賀県,2092,INANNA,滋賀県,2653,D1353L,滋賀県
 DJ TROOPERS,LOVELY STORM,698,CRAN6K,滋賀県,2087,INANNA,滋賀県,2773,52KING,滋賀県
 DJ TROOPERS,Kick Out 仮面,1150,INANNA,滋賀県,1498,AAAAAA,滋賀県,1988,HA,滋賀県
 DJ TROOPERS,in the Sky,1368,W8,滋賀県,2047,INANNA,滋賀県,2507,D1353L,滋賀県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3461,D1353L,滋賀県
 DJ TROOPERS,ICARUS,1138,XX02,滋賀県,1830,N.KJ,滋賀県,2366,D1353L,滋賀県
-DJ TROOPERS,Freeway Shuffle,0,,未設定,911,NORIZO,滋賀県,1852,G-RABI,滋賀県
+DJ TROOPERS,Freeway Shuffle,754,OGI,滋賀県,911,NORIZO,滋賀県,1852,G-RABI,滋賀県
 DJ TROOPERS,four pieces of heaven,619,MANA,滋賀県,1635,KOTARO,滋賀県,2274,AAAAAA,滋賀県
 DJ TROOPERS,evergreen,904,N,滋賀県,962,OGI,滋賀県,1946,AAAAAA,滋賀県
-DJ TROOPERS,end of world,644,NEKO,滋賀県,1565,XYZZY,滋賀県,2278,APPY,滋賀県
+DJ TROOPERS,end of world,644,NEKO,滋賀県,1565,XYZZY,滋賀県,2321,APPY,滋賀県
 DJ TROOPERS,Do it!! Do it!!,939,U.M.,滋賀県,1300,U.M.,滋賀県,1880,AAAAAA,滋賀県
 DJ TROOPERS,Digitank System,928,AAAAAA,滋賀県,1535,AAAAAA,滋賀県,2097,AAAAAA,滋賀県
 DJ TROOPERS,Dazzlin' Darlin,825,OGI,滋賀県,1381,HARE-L,滋賀県,2204,HA,滋賀県
 DJ TROOPERS,Darling my LUV,297,CHIZ,滋賀県,533,MANA,滋賀県,1370,B-RABI,滋賀県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3139,BABEL,滋賀県
 DJ TROOPERS,Blue Rain,552,REON,滋賀県,1377,AAAAAA,滋賀県,2270,AAAAAA,滋賀県
-DJ TROOPERS,beatonic nation,1236,INANNA,滋賀県,1827,INANNA,滋賀県,2128,B-RABI,滋賀県
+DJ TROOPERS,beatonic nation,1236,INANNA,滋賀県,1827,INANNA,滋賀県,2133,PUSSY-,滋賀県
 DJ TROOPERS,Be OK,0,,未設定,1668,SHUKA,滋賀県,2382,D1353L,滋賀県
 DJ TROOPERS,avant-guerre,597,#D.D.J,滋賀県,670,REON,滋賀県,1908,AAAAAA,滋賀県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",492,HITSEA,滋賀県,1953,AAAAAA,滋賀県,2821,D1353L,滋賀県
@@ -428,7 +428,7 @@ EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3139,D1353L,
 EMPRESS,凛として咲く花の如く,1120,MAPLE,滋賀県,2157,B-RABI,滋賀県,2748,HIKO,滋賀県
 EMPRESS,不沈艦CANDY,774,MANA,滋賀県,1818,ELISE,滋賀県,3235,AAAAAA,滋賀県
 EMPRESS,ミッドナイト堕天使,911,QT,滋賀県,1569,INANNA,滋賀県,2754,D1353L,滋賀県
-EMPRESS,ハリツヤランデヴー,953,52KING,滋賀県,2040,INANNA,滋賀県,2471,PUSSY-,滋賀県
+EMPRESS,ハリツヤランデヴー,959,HA,滋賀県,2040,INANNA,滋賀県,2471,PUSSY-,滋賀県
 EMPRESS,まほろば,405,REON,滋賀県,1342,MYAKO*,滋賀県,2027,D1353L,滋賀県
 EMPRESS,"You'll say ""Now!""",893,IIDX26,滋賀県,1680,ELISE,滋賀県,2493,AAAAAA,滋賀県
 EMPRESS,Y&Co. is dead or alive,1070,YADO,滋賀県,1719,D1353L,滋賀県,2657,NOCCHI,滋賀県
@@ -445,13 +445,13 @@ EMPRESS,Programmed World,0,,未設定,1577,FALCON,滋賀県,2295,AAAAAA,滋賀�
 EMPRESS,NΦ CRIME,306,GRR-G,滋賀県,1450,B-RABI,滋賀県,1883,PUSSY-,滋賀県
 EMPRESS,neogenesis,975,INANNA,滋賀県,1293,BRK,滋賀県,1681,NOCCHI,滋賀県
 EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2582,AAAAAA,滋賀県
-EMPRESS,naughty girl@Queen's Palace,745,SOLID,滋賀県,1556,INANNA,滋賀県,2089,D1353L,滋賀県
+EMPRESS,naughty girl@Queen's Palace,784,IIDX26,滋賀県,1556,INANNA,滋賀県,2089,D1353L,滋賀県
 EMPRESS,Monkey Dance '09,283,CHIZ,滋賀県,1739,B-RABI,滋賀県,2212,HIKO,滋賀県
 EMPRESS,Mind Mapping,605,PHYRY,滋賀県,1172,BRK,滋賀県,1807,HIKO,滋賀県
 EMPRESS,Kung-fu Empire†,0,,未設定,0,,未設定,3797,57*FBK,滋賀県
 EMPRESS,Kung-fu Empire,1467,INANNA,滋賀県,2503,YU,滋賀県,3255,AAAAAA,滋賀県
-EMPRESS,Just a Little Smile,760,45KING,滋賀県,1040,NYET,滋賀県,2438,AAAAAA,滋賀県
-EMPRESS,Jack,0,,未設定,825,$0-Y41,滋賀県,2070,TMKING,滋賀県
+EMPRESS,Just a Little Smile,760,45KING,滋賀県,1114,NYET,滋賀県,2438,AAAAAA,滋賀県
+EMPRESS,Jack,536,HAD,滋賀県,1090,NYET,滋賀県,2070,TMKING,滋賀県
 EMPRESS,I'm Screaming LOVE,0,,未設定,1204,TYRAN,滋賀県,1677,HIKO,滋賀県
 EMPRESS,HYPERION,0,,未設定,1836,FALCON,滋賀県,2709,D1353L,滋賀県
 EMPRESS,Go Beyond!!,851,SOLID,滋賀県,1627,N.KJ,滋賀県,2136,AAAAAA,滋賀県
@@ -464,7 +464,7 @@ EMPRESS,BRIDAL FESTIVAL !!!,925,INANNA,滋賀県,1276,310,滋賀県,2060,YUHEY.,
 EMPRESS,BITTER CHOCOLATE STRIKER,495,$8,滋賀県,2103,*JY*,滋賀県,3873,AAAAAA,滋賀県
 EMPRESS,Bahram Attack-猫叉Master Remix-,1043,INANNA,滋賀県,1885,45KING,滋賀県,2594,D1353L,滋賀県
 EMPRESS,B4U(BEMANI FOR YOU MIX),932,KUMA,滋賀県,2168,INANNA,滋賀県,3524,AAAAAA,滋賀県
-EMPRESS,Arabian Rave Night,1158,XX02,滋賀県,2034,10$,滋賀県,2881,D1353L,滋賀県
+EMPRESS,Arabian Rave Night,1158,XX02,滋賀県,2095,INANNA,滋賀県,2881,D1353L,滋賀県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,未設定,1597,NAWONO,滋賀県,2501,PUSSY-,滋賀県
 EMPRESS,ALL I NEED YOUR LOVE,779,KUMA,滋賀県,1615,INANNA,滋賀県,2121,AAAAAA,滋賀県
 EMPRESS,3y3s,1217,HITOM1,滋賀県,2336,#YMT,滋賀県,3454,AAAAAA,滋賀県
@@ -475,7 +475,7 @@ SIRIUS,バビロニア,731,#D.D.J,滋賀県,1081,KUMA,滋賀県,1834,YUHEY.,滋�
 SIRIUS,サヨナラ・ヘヴン,893,INANNA,滋賀県,1341,INANNA,滋賀県,1671,G-RABI,滋賀県
 SIRIUS,コスモス,865,N,滋賀県,1451,ELISE,滋賀県,2076,D1353L,滋賀県
 SIRIUS,たからもの,1238,N,滋賀県,1838,INANNA,滋賀県,2238,B-RABI,滋賀県
-SIRIUS,かずあそび,0,,未設定,1140,SPIRIT,滋賀県,1658,HA,滋賀県
+SIRIUS,かずあそび,0,,未設定,1140,SPIRIT,滋賀県,1663,YUHEY.,滋賀県
 SIRIUS,The Story Begins,787,KU-NEF,滋賀県,1733,INANNA,滋賀県,2397,HIKO,滋賀県
 SIRIUS,THE LAST STRIKER,1372,INANNA,滋賀県,1867,INANNA,滋賀県,2609,AAAAAA,滋賀県
 SIRIUS,Special One,634,KUMA,滋賀県,1009,NYET,滋賀県,1755,AAAAAA,滋賀県
@@ -517,7 +517,7 @@ SIRIUS,bloomin' feeling,1219,10$,滋賀県,1947,B-RABI,滋賀県,2591,AAAAAA,滋
 SIRIUS,being torn the sky,479,INAMI,滋賀県,1118,ROOT,滋賀県,1963,D1353L,滋賀県
 SIRIUS,BEAUTIFUL ANGEL,451,IIDX24,滋賀県,1730,INANNA,滋賀県,2413,YUHEY.,滋賀県
 SIRIUS,beatchic☆仮面～好き、でいさせて～,835,MANA,滋賀県,1551,HARE-L,滋賀県,2012,B-RABI,滋賀県
-SIRIUS,bass 2 bass,604,REON,滋賀県,1239,*JY*,滋賀県,1868,G-RABI,滋賀県
+SIRIUS,bass 2 bass,705,N,滋賀県,1239,*JY*,滋賀県,1868,G-RABI,滋賀県
 SIRIUS,Bad Maniacs,1105,XYZZY,滋賀県,1695,INANNA,滋賀県,3151,AAAAAA,滋賀県
 SIRIUS,Almagest,950,AI-R,滋賀県,2224,AAAAAA,滋賀県,3052,AAAAAA,滋賀県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1125,N,滋賀県,1573,Z.O.O,滋賀県,2293,PUSSY-,滋賀県
@@ -537,7 +537,7 @@ Resort Anthem,Watch Out Pt.2,902,KILM1N,滋賀県,1857,52KING,滋賀県,2762,AAA
 Resort Anthem,Vermillion,0,,未設定,844,CRAN6K,滋賀県,2023,G-RABI,滋賀県
 Resort Anthem,Tropical April,1362,MIZ,滋賀県,2107,ELISE,滋賀県,2682,HIKO,滋賀県
 Resort Anthem,THE FALLEN,494,REON,滋賀県,1415,NR*,滋賀県,2674,AAAAAA,滋賀県
-Resort Anthem,THE DOOR INTO RAINBOW,751,XX02,滋賀県,1300,KOBAGA,滋賀県,2141,HIKO,滋賀県
+Resort Anthem,THE DOOR INTO RAINBOW,751,XX02,滋賀県,1300,KOBAGA,滋賀県,2164,AAAAAA,滋賀県
 Resort Anthem,THE BLACK KNIGHT,698,TUKURI,滋賀県,1885,NAWONO,滋賀県,2900,AAAAAA,滋賀県
 Resort Anthem,STELLAR WIND,446,KUMA,滋賀県,1691,SPIRIT,滋賀県,2675,AAAAAA,滋賀県
 Resort Anthem,Stay my side,473,ES,滋賀県,1037,N,滋賀県,1331,HIKO,滋賀県
@@ -548,7 +548,7 @@ Resort Anthem,sakura storm,1056,B-RABI,滋賀県,1336,B-RABI,滋賀県,2381,AAAA
 Resort Anthem,Sakura Reflection,373,IIDX24,滋賀県,1517,SPIRIT,滋賀県,2337,HIKO,滋賀県
 Resort Anthem,SABER WING,494,N,滋賀県,1749,*JY*,滋賀県,2779,D1353L,滋賀県
 Resort Anthem,Rock Da House,181,AAA$$,滋賀県,1538,N,滋賀県,2217,D1353L,滋賀県
-Resort Anthem,reunion,1304,10$,滋賀県,2285,31337,滋賀県,3187,AAAAAA,滋賀県
+Resort Anthem,reunion,1304,10$,滋賀県,2296,SASAKI,滋賀県,3187,AAAAAA,滋賀県
 Resort Anthem,Programmed Life,0,,未設定,1582,Z.O.O,滋賀県,2317,D1353L,滋賀県
 Resort Anthem,perditus†paradisus,1090,SHIKI,滋賀県,2390,YU,滋賀県,3738,AAAAAA,滋賀県
 Resort Anthem,passionate fate,862,MR.814,滋賀県,1509,BRK,滋賀県,2093,D1353L,滋賀県
@@ -556,14 +556,14 @@ Resort Anthem,PARADISE LOST,1282,NR*,滋賀県,2321,AAAAAA,滋賀県,3240,AAAAAA
 Resort Anthem,Never Fade Away,459,KAYANO,滋賀県,1645,KOTARO,滋賀県,3012,AAAAAA,滋賀県
 Resort Anthem,Mermaid girl,897,XX02,滋賀県,1626,BRK,滋賀県,2201,G-RABI,滋賀県
 Resort Anthem,Medicine of love,658,B-RABI,滋賀県,848,KIOSK,滋賀県,1712,YUHEY.,滋賀県
-Resort Anthem,Let The Track Flow,973,XX02,滋賀県,1474,SHIKI,滋賀県,2571,PUSSY-,滋賀県
+Resort Anthem,Let The Track Flow,973,XX02,滋賀県,1684,FALCON,滋賀県,2571,PUSSY-,滋賀県
 Resort Anthem,Kailua,473,YNS,滋賀県,1316,N.KJ,滋賀県,2141,AAAAAA,滋賀県
 Resort Anthem,I FIGHT ME,629,B-RABI,滋賀県,1193,YNS,滋賀県,2111,B-RABI,滋賀県
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2349,D1353L,滋賀県
 Resort Anthem,Golden Palms,706,N,滋賀県,1197,YNS,滋賀県,1986,G-RABI,滋賀県
 Resort Anthem,Fantasia,386,NYARO,滋賀県,1485,BRK,滋賀県,2230,B-RABI,滋賀県
 Resort Anthem,Everlasting Resort,254,GRR-G,滋賀県,1224,N,滋賀県,1884,AAAAAA,滋賀県
-Resort Anthem,Eternal Tears,433,INANNA,滋賀県,0,,未設定,1338,HA,滋賀県
+Resort Anthem,Eternal Tears,433,INANNA,滋賀県,0,,未設定,1363,HIKO,滋賀県
 Resort Anthem,Energy Drive,665,MANA,滋賀県,888,I.F,滋賀県,2202,AAAAAA,滋賀県
 Resort Anthem,ELECTRIC MASSIVE DIVER,1076,NEGINE,滋賀県,2324,INANNA,滋賀県,3661,AAAAAA,滋賀県
 Resort Anthem,DM STAR～関西 energy style～,794,KUMA,滋賀県,1918,B-RABI,滋賀県,2372,G-RABI,滋賀県
@@ -601,7 +601,7 @@ Lincle,TITANS RETURN,582,IXMEL,滋賀県,1406,NR*,滋賀県,2365,31337,滋賀県
 Lincle,Thunderbolt,685,ERRUE.,滋賀県,1718,IXMEL,滋賀県,3679,D1353L,滋賀県
 Lincle,The Sampling Paradise,533,FIXYYY,滋賀県,1707,OTHRX,滋賀県,2929,PUSSY-,滋賀県
 Lincle,The Limbo,948,IKARI,滋賀県,1948,W8,滋賀県,3277,AAAAAA,滋賀県
-Lincle,Star Trail,299,7K,滋賀県,1107,SPIRIT,滋賀県,1845,G-RABI,滋賀県
+Lincle,Star Trail,403,7K,滋賀県,1107,SPIRIT,滋賀県,1845,G-RABI,滋賀県
 Lincle,Snow Goose,353,MOMOSE,滋賀県,1265,FALCON,滋賀県,2419,AAAAAA,滋賀県
 Lincle,Snake Stick,857,SOLID,滋賀県,2020,AAAAAA,滋賀県,2621,AAAAAA,滋賀県
 Lincle,SHADE,521,7K,滋賀県,1931,INRTIA,滋賀県,2889,AAAAAA,滋賀県
@@ -622,7 +622,7 @@ Lincle,Miami Sunset Drive,0,,未設定,681,MANA,滋賀県,1627,HIKO,滋賀県
 Lincle,Mermaid girl-秋葉工房 MIX-,467,U,滋賀県,1257,BRK,滋賀県,2045,NOCCHI,滋賀県
 Lincle,Lucky Days,427,7K,滋賀県,1091,KROBAY,滋賀県,2120,45KING,滋賀県
 Lincle,LOVE B.B.B,419,CHIZ,滋賀県,1430,46TAMA,滋賀県,2012,AAAAAA,滋賀県
-Lincle,Liquid Crystal Girl feat. echo,413,INANNA,滋賀県,880,KUMA,滋賀県,1934,APPY,滋賀県
+Lincle,Liquid Crystal Girl feat. echo,413,INANNA,滋賀県,893,KUMA,滋賀県,1934,APPY,滋賀県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,未設定,1585,HARE-L,滋賀県,2176,HA,滋賀県
 Lincle,LAX5 feat.Ryota Yoshinari,0,,未設定,2140,B-RABI,滋賀県,2792,BABEL,滋賀県
 Lincle,Infinite cave,820,SOLID,滋賀県,1461,PUSSY-,滋賀県,1964,KU-NEF,滋賀県
@@ -634,19 +634,19 @@ Lincle,Flip Flap,454,K.,滋賀県,1345,NR*,滋賀県,2234,D1353L,滋賀県
 Lincle,fffff,762,ASS0,滋賀県,1869,APPY,滋賀県,3088,AAAAAA,滋賀県
 Lincle,Far east nightbird,524,HARE-L,滋賀県,1111,YNS,滋賀県,2022,AAAAAA,滋賀県
 Lincle,F,975,ROOT,滋賀県,1989,ES.,滋賀県,3536,AAAAAA,滋賀県
-Lincle,Express Emotion,502,U,滋賀県,995,SHUKA,滋賀県,2485,G-RABI,滋賀県
+Lincle,Express Emotion,507,7K,滋賀県,995,SHUKA,滋賀県,2485,G-RABI,滋賀県
 Lincle,Drive Me Crazy,722,B-RABI,滋賀県,1404,B-RABI,滋賀県,2292,B-RABI,滋賀県
 Lincle,DIAVOLO,809,NEKO,滋賀県,1759,U.M.,滋賀県,3121,AAAAAA,滋賀県
 Lincle,Change the World,612,KUMA,滋賀県,1328,BRK,滋賀県,1844,AAAAAA,滋賀県
 Lincle,Castle on the Moon,496,SGYN,滋賀県,1453,MYAKO*,滋賀県,2353,D1353L,滋賀県
-Lincle,CALL,310,ES,滋賀県,0,,未設定,1436,11KING,滋賀県
+Lincle,CALL,310,ES,滋賀県,729,SOLID,滋賀県,1436,11KING,滋賀県
 Lincle,BLACK.by X-Cross Fade,927,SOLID,滋賀県,2161,D1353L,滋賀県,3260,PUSSY-,滋賀県
 Lincle,ANAGRAMS I to Y,889,INANNA,滋賀県,1624,INANNA,滋賀県,2463,B-RABI,滋賀県
 Lincle,Almace,397,CHIZ,滋賀県,1221,TYRAN,滋賀県,1938,HIKO,滋賀県
 Lincle,532nm,418,HEY.,滋賀県,1207,SASAKI,滋賀県,2637,AAAAAA,滋賀県
 Lincle,24th Century BOY,738,KBGA*L,滋賀県,1751,DP8DAN,滋賀県,2832,AAAAAA,滋賀県
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3254,D1353L,滋賀県
-tricoro,龍と少女とデコヒーレンス,646,MR.814,滋賀県,1538,TYRAN,滋賀県,2988,AAAAAA,滋賀県
+tricoro,龍と少女とデコヒーレンス,758,IIDX26,滋賀県,1538,TYRAN,滋賀県,2988,AAAAAA,滋賀県
 tricoro,音楽,516,FIXYYY,滋賀県,1958,BABEL,滋賀県,2690,AAAAAA,滋賀県
 tricoro,狂イ咲ケ焔ノ華,909,REON,滋賀県,2348,W8,滋賀県,3556,AAAAAA,滋賀県
 tricoro,梅雪夜,883,B-RABI,滋賀県,1500,B-RABI,滋賀県,2130,B-RABI,滋賀県
@@ -680,10 +680,10 @@ tricoro,Timepiece phase II (CN Ver.),590,KIOSK,滋賀県,1748,APPY,滋賀県,287
 tricoro,Timepiece phase II,448,REON,滋賀県,2009,SASAKI,滋賀県,3169,AAAAAA,滋賀県
 tricoro,Time To Empress,914,INANNA,滋賀県,1906,57*FBK,滋賀県,2598,D1353L,滋賀県
 tricoro,Thor's Hammer,583,NEKO,滋賀県,1783,N.KJ,滋賀県,2913,AAAAAA,滋賀県
-tricoro,Take My Life,465,SUMIDA,滋賀県,1514,ELISE,滋賀県,2827,HIKO,滋賀県
+tricoro,Take My Life,597,7K,滋賀県,1514,ELISE,滋賀県,2827,HIKO,滋賀県
 tricoro,Synergy For Angels,906,INANNA,滋賀県,1570,FALCON,滋賀県,2715,D1353L,滋賀県
 tricoro,SYNC-ANTHEM,579,RURU,滋賀県,2284,BLACK.,滋賀県,3583,AAAAAA,滋賀県
-tricoro,STULTI,0,,未設定,1218,HITOM1,滋賀県,2622,AAAAAA,滋賀県
+tricoro,STULTI,0,,未設定,1257,HITOM1,滋賀県,2622,AAAAAA,滋賀県
 tricoro,Sol Cosine Job 2,0,,未設定,1528,XYZZY,滋賀県,3027,AAAAAA,滋賀県
 tricoro,SHION,671,B-RABI,滋賀県,1305,B-RABI,滋賀県,2679,B-RABI,滋賀県
 tricoro,Shining World,0,,未設定,1558,SHUKA,滋賀県,1932,D1353L,滋賀県
@@ -699,13 +699,13 @@ tricoro,planarian,475,INAMI,滋賀県,1670,N.KJ,滋賀県,2488,HA,滋賀県
 tricoro,Plan 8,700,REON,滋賀県,2108,N.KJ,滋賀県,3030,AAAAAA,滋賀県
 tricoro,New Lights,672,TAMAMO,滋賀県,1718,MIRIA,滋賀県,2430,NOCCHI,滋賀県
 tricoro,New Decade IIDX Edition,0,,未設定,1835,INANNA,滋賀県,2975,AAAAAA,滋賀県
-tricoro,neu,986,INANNA,滋賀県,2120,N.KJ,滋賀県,3846,D1353L,滋賀県
+tricoro,neu,986,INANNA,滋賀県,2120,N.KJ,滋賀県,3850,AAAAAA,滋賀県
 tricoro,Neonlights,323,AG-MA,滋賀県,1438,U.M.,滋賀県,2203,AAAAAA,滋賀県
 tricoro,mnemoniq,0,,未設定,663,MANA,滋賀県,1306,AAAAAA,滋賀県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2727,HIKO,滋賀県
 tricoro,LUV CAN SAVE U,450,PHYRY,滋賀県,1382,SHUKA,滋賀県,2106,NOCCHI,滋賀県
 tricoro,Little Star,638,SOSDAN,滋賀県,1783,B-RABI,滋賀県,3135,AAAAAA,滋賀県
-tricoro,Light and Cyber…,1020,N,滋賀県,1809,HITOM1,滋賀県,3092,D1353L,滋賀県
+tricoro,Light and Cyber…,1020,N,滋賀県,1849,FALCON,滋賀県,3092,D1353L,滋賀県
 tricoro,Liberation,1465,INANNA,滋賀県,2308,RAIN,滋賀県,3626,D1353L,滋賀県
 tricoro,JOMANDA,916,SOUNDT,滋賀県,2210,KOTARO,滋賀県,3496,D1353L,滋賀県
 tricoro,In Heaven,484,7K,滋賀県,1397,SHUKA,滋賀県,2114,G-RABI,滋賀県
@@ -742,10 +742,10 @@ SPADA,牧神笛吹きて,492,ISUTA,滋賀県,1142,AAAAAA,滋賀県,2044,D1353L,�
 SPADA,煉獄のエルフェリア,1093,SOLID,滋賀県,2214,N.KJ,滋賀県,3815,AAAAAA,滋賀県
 SPADA,海神,1030,HITOM1,滋賀県,2018,RAIN,滋賀県,3107,AAAAAA,滋賀県
 SPADA,旋律のドグマ～Miserables～,879,HEY.,滋賀県,2316,339R*,滋賀県,3901,AAAAAA,滋賀県
-SPADA,廿†,0,,未設定,0,,未設定,3030,31337,滋賀県
+SPADA,廿†,0,,未設定,0,,未設定,3058,YUHEY.,滋賀県
 SPADA,廿,0,,未設定,1577,U.M.,滋賀県,2337,AAAAAA,滋賀県
 SPADA,幻想系世界修復少女,592,IIDX26,滋賀県,1176,B-RABI,滋賀県,1920,31337,滋賀県
-SPADA,バンブーソード・ガール,1022,B-RABI,滋賀県,1534,FCOH,滋賀県,2371,D1353L,滋賀県
+SPADA,バンブーソード・ガール,1022,B-RABI,滋賀県,1538,ROOT,滋賀県,2371,D1353L,滋賀県
 SPADA,デッドボヲルdeホームラン,335,U,滋賀県,1491,KNT$R,滋賀県,2732,AAAAAA,滋賀県
 SPADA,アルストロメリア,944,SASAKI,滋賀県,1358,ENJI,滋賀県,2439,D1353L,滋賀県
 SPADA,お願いアインシュタイン,743,KUMA,滋賀県,1465,8VSZU4,滋賀県,2095,D1353L,滋賀県
@@ -770,7 +770,7 @@ SPADA,PUNISHER,0,,未設定,2017,INANNA,滋賀県,3525,D1353L,滋賀県
 SPADA,Pharaoh,645,INANNA,滋賀県,1105,LI*A,滋賀県,2418,D1353L,滋賀県
 SPADA,Overload Frontier,716,YNS,滋賀県,1763,INANNA,滋賀県,2573,AAAAAA,滋賀県
 SPADA,Odin,755,N,滋賀県,1078,XX02,滋賀県,2023,D1353L,滋賀県
-SPADA,NPC World,0,,未設定,1300,GORI3,滋賀県,2176,NOCCHI,滋賀県
+SPADA,NPC World,0,,未設定,1482,FALCON,滋賀県,2176,NOCCHI,滋賀県
 SPADA,Miracle 5ympho X,605,LEON,滋賀県,1247,SHUKA,滋賀県,2500,31337,滋賀県
 SPADA,MAGIC & LOVE,1028,B-RABI,滋賀県,1863,B-RABI,滋賀県,2880,D1353L,滋賀県
 SPADA,MAD ATTACK,671,INANNA,滋賀県,1200,SHUKA,滋賀県,1901,NOCCHI,滋賀県
@@ -779,7 +779,7 @@ SPADA,M.D.Injection,224,U,滋賀県,1087,AI-R,滋賀県,2363,NOCCHI,滋賀県
 SPADA,Lighting Shower,573,NEKO,滋賀県,624,A,滋賀県,2367,D1353L,滋賀県
 SPADA,Last Dance,1017,MOMOSE,滋賀県,1931,N.KJ,滋賀県,3195,AAAAAA,滋賀県
 SPADA,LA FESTA LA VITA!!,646,MANA,滋賀県,1583,FKAKEN,滋賀県,2850,D1353L,滋賀県
-SPADA,KHAMEN BREAK,295,CHIZ,滋賀県,719,REON,滋賀県,2430,D1353L,滋賀県
+SPADA,KHAMEN BREAK,295,CHIZ,滋賀県,898,CRAN6K,滋賀県,2430,D1353L,滋賀県
 SPADA,KAISER PHOENIX,1305,APPY,滋賀県,2248,BABEL,滋賀県,3209,AAAAAA,滋賀県
 SPADA,IX,1140,YNS,滋賀県,2360,52KING,滋賀県,3737,AAAAAA,滋賀県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3279,HA,滋賀県
@@ -807,17 +807,17 @@ SPADA,Critical Crystal,899,YNS,滋賀県,1753,INANNA,滋賀県,2807,D1353L,滋�
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3722,57*FBK,滋賀県
 SPADA,Close the World feat. a☆ru,611,TAKYAO,滋賀県,2028,N.KJ,滋賀県,3374,AAAAAA,滋賀県
 SPADA,Cleopatrysm,273,CHIZ,滋賀県,1277,SHIKI,滋賀県,2432,HIKO,滋賀県
-SPADA,Claiomh Solais,281,TAKYAO,滋賀県,1392,INANNA,滋賀県,1983,U.M.,滋賀県
+SPADA,Claiomh Solais,308,KEI,滋賀県,1392,INANNA,滋賀県,1983,U.M.,滋賀県
 SPADA,BRAVE OUT,0,,未設定,1408,ELISE,滋賀県,2117,HIKO,滋賀県
 SPADA,BRAINSTORM,569,YNS,滋賀県,1754,Z.O.O,滋賀県,2771,AAAAAA,滋賀県
-SPADA,BLUE DRAGON(雷龍RemixIIDX),1406,10$,滋賀県,1983,SPIRIT,滋賀県,3299,AAAAAA,滋賀県
+SPADA,BLUE DRAGON(雷龍RemixIIDX),1406,10$,滋賀県,2093,INANNA,滋賀県,3299,AAAAAA,滋賀県
 SPADA,Atropos,729,KIOSK,滋賀県,1531,U.M.,滋賀県,2300,D1353L,滋賀県
 SPADA,ATHER,1023,B-RABI,滋賀県,1360,JUN!?,滋賀県,2771,B-RABI,滋賀県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4107,D1353L,滋賀県
 SPADA,Ancient Scapes,752,I.F,滋賀県,1932,INANNA,滋賀県,3435,AAAAAA,滋賀県
 SPADA,ALBA -黎明-,521,TUKURI,滋賀県,1548,B-RABI,滋賀県,3215,AAAAAA,滋賀県
 SPADA,Adularia,704,SKKITZ,滋賀県,1663,339R*,滋賀県,2805,AAAAAA,滋賀県
-PENDUAL,Ｘ↑Ｘ↓,0,,未設定,1410,IIDX26,滋賀県,2840,NOCCHI,滋賀県
+PENDUAL,Ｘ↑Ｘ↓,500,7K,滋賀県,1410,IIDX26,滋賀県,2840,NOCCHI,滋賀県
 PENDUAL,鬼天,821,IXMEL,滋賀県,1612,HIKO,滋賀県,2466,AAAAAA,滋賀県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,4015,AAAAAA,滋賀県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,990,MYAKO*,滋賀県,1986,N.KJ,滋賀県,2647,NOCCHI,滋賀県
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,789,MR.814,滋賀県,1548,46TAMA,滋�
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,819,SHIKI,滋賀県,1759,ELI.A3,滋賀県,2998,D1353L,滋賀県
 PENDUAL,取り残された美術(Arranged:HiZuMi),909,5DAN,滋賀県,1724,8VSZU4,滋賀県,2183,D1353L,滋賀県
 PENDUAL,千年ノ理,1166,APPY,滋賀県,1879,APPY,滋賀県,3177,AAAAAA,滋賀県
-PENDUAL,十六夜セツナ,721,INAMI,滋賀県,1543,INANNA,滋賀県,2219,D1353L,滋賀県
+PENDUAL,十六夜セツナ,721,INAMI,滋賀県,1586,11KING,滋賀県,2219,D1353L,滋賀県
 PENDUAL,共鳴遊戯の華,955,KUMA,滋賀県,2205,U.M.,滋賀県,3733,AAAAAA,滋賀県
 PENDUAL,リリーゼと炎龍レーヴァテイン,835,LEON,滋賀県,2193,KOTARO,滋賀県,3344,57*FBK,滋賀県
 PENDUAL,ベィスドロップ・フリークス,462,LAC-BA,滋賀県,1237,APPY,滋賀県,2256,AAAAAA,滋賀県
@@ -844,14 +844,14 @@ PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,65
 PENDUAL,とろぴかる倶楽部,0,,未設定,1320,U.M.,滋賀県,2213,D1353L,滋賀県
 PENDUAL,それは花火のような恋,1038,TERA*,滋賀県,2549,52KING,滋賀県,3793,D1353L,滋賀県
 PENDUAL,ZZ,819,REON,滋賀県,1944,46TAMA,滋賀県,3003,AAAAAA,滋賀県
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,876,IKARI,滋賀県,2022,INANNA,滋賀県,3577,D1353L,滋賀県
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,876,IKARI,滋賀県,2209,APPY,滋賀県,3577,D1353L,滋賀県
 PENDUAL,Vulkan,832,KIOSK,滋賀県,1625,GORI3,滋賀県,2970,AAAAAA,滋賀県
 PENDUAL,TOXIC VIBRATION,1584,INANNA,滋賀県,2221,Z.O.O,滋賀県,3728,AAAAAA,滋賀県
 PENDUAL,TIEFSEE,1088,UINYAN,滋賀県,1979,INANNA,滋賀県,3442,AAAAAA,滋賀県
 PENDUAL,The Least 100sec,573,KUMA,滋賀県,1237,N,滋賀県,2749,D1353L,滋賀県
 PENDUAL,TA・DA ☆ YO・SHI,783,NEKO,滋賀県,1436,5DAN,滋賀県,2279,D1353L,滋賀県
 PENDUAL,Symmetry,1056,SHIKI,滋賀県,2036,N.KJ,滋賀県,3233,AAAAAA,滋賀県
-PENDUAL,Sweet Radar,513,TUKURI,滋賀県,1356,11KING,滋賀県,2020,NOCCHI,滋賀県
+PENDUAL,Sweet Radar,513,TUKURI,滋賀県,1357,11KING,滋賀県,2020,NOCCHI,滋賀県
 PENDUAL,SpaceLand☆TOYBOX,545,REON,滋賀県,1606,NHK.42,滋賀県,2903,AAAAAA,滋賀県
 PENDUAL,Sounds Of Summer,1202,YUKI.,滋賀県,2048,N.KJ,滋賀県,2938,AAAAAA,滋賀県
 PENDUAL,Shooting Fireball,756,IKARI,滋賀県,1967,IIDX26,滋賀県,3831,AAAAAA,滋賀県
@@ -863,7 +863,7 @@ PENDUAL,Sakura Mirage,903,N,滋賀県,1297,KOTARO,滋賀県,2291,D1353L,滋賀�
 PENDUAL,Reflux,457,INAMI,滋賀県,1566,RAIN,滋賀県,2976,AAAAAA,滋賀県
 PENDUAL,Realize Maze,1132,MOMOSE,滋賀県,1894,5DAN,滋賀県,2960,AAAAAA,滋賀県
 PENDUAL,Rave*it!! Rave*it!!,828,KIOSK,滋賀県,1624,APPY,滋賀県,3172,AAAAAA,滋賀県
-PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),0,,未設定,1122,KOBAGA,滋賀県,2254,AAAAAA,滋賀県
+PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),0,,未設定,1247,MIZ,滋賀県,2254,AAAAAA,滋賀県
 PENDUAL,PENDUAL TALISMAN,1012,YUKI.,滋賀県,1532,YUKI.,滋賀県,2576,D1353L,滋賀県
 PENDUAL,On My Wings(Hardstyle IIDX),770,MR.814,滋賀県,1191,SHUKA,滋賀県,1970,AAAAAA,滋賀県
 PENDUAL,No Tears,1208,B-RABI,滋賀県,1995,INANNA,滋賀県,2495,B-RABI,滋賀県
@@ -872,7 +872,7 @@ PENDUAL,NEO GENERATOR SEVEN,773,MR.814,滋賀県,1804,SPIRIT,滋賀県,3249,AAAA
 PENDUAL,Monopole.,490,REON,滋賀県,1681,B-RABI,滋賀県,3279,AAAAAA,滋賀県
 PENDUAL,m1dy Festival,663,TOMO,滋賀県,1559,AKANE,滋賀県,2421,D1353L,滋賀県
 PENDUAL,Line 4 Ruin,619,SOUNDT,滋賀県,1794,HIKO,滋賀県,2782,AAAAAA,滋賀県
-PENDUAL,IXION,910,IKARI,滋賀県,1702,10$,滋賀県,2133,HIKO,滋賀県
+PENDUAL,IXION,910,IKARI,滋賀県,1702,10$,滋賀県,2138,PUSSY-,滋賀県
 PENDUAL,Invitation from Mr.C,834,KUMA,滋賀県,1544,RAIN,滋賀県,2565,HA,滋賀県
 PENDUAL,In The Breeze,300,GRR-G,滋賀県,1081,N,滋賀県,1752,AAAAAA,滋賀県
 PENDUAL,IMPLANTATION,592,IIDX26,滋賀県,1407,GOTCHI,滋賀県,2283,AAAAAA,滋賀県
@@ -913,7 +913,7 @@ PENDUAL,#The_Relentless,853,CRAN6K,滋賀県,1822,FALCON,滋賀県,2856,G-RABI,�
 copula,麗 ～うらら～,783,REON,滋賀県,1723,KANATA,滋賀県,2609,AAAAAA,滋賀県
 copula,駅猫のワルツ,688,SOSDAN,滋賀県,2080,52KING,滋賀県,2779,AAAAAA,滋賀県
 copula,量子の海のリントヴルム,717,CHALA?,滋賀県,1578,HITOM1,滋賀県,2847,HIKO,滋賀県
-copula,追想快晴テーマパーク,847,TAMAMO,滋賀県,1941,ELISE,滋賀県,3034,D1353L,滋賀県
+copula,追想快晴テーマパーク,847,TAMAMO,滋賀県,1946,ES.,滋賀県,3034,D1353L,滋賀県
 copula,紫陽花 -AZISAI-,1052,IIDX26,滋賀県,2050,52KING,滋賀県,2851,AAAAAA,滋賀県
 copula,真 地獄超特急 -HELL or HELL-,1298,10$,滋賀県,2101,GINCH4,滋賀県,3138,AAAAAA,滋賀県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),1314,INANNA,滋賀県,1730,XYZZY,滋賀県,2546,PUSSY-,滋賀県
@@ -921,7 +921,7 @@ copula,灼熱 Pt.2 Long Train Running,1199,FALCON,滋賀県,2054,AAAAAA,滋賀�
 copula,朝焼けから始まるボクらの小さな旅,0,,未設定,1370,NWO,滋賀県,2499,D1353L,滋賀県
 copula,星屑ディスタンシア,467,LAC-BA,滋賀県,917,KIOSK,滋賀県,2060,G-RABI,滋賀県
 copula,明鏡止水,699,MANA,滋賀県,1455,GORI3,滋賀県,2771,AAAAAA,滋賀県
-copula,少女アリスと箱庭幻想コンチェルト,509,HI1N4,滋賀県,1216,AKIRA.,滋賀県,2082,HIKO,滋賀県
+copula,少女アリスと箱庭幻想コンチェルト,509,HI1N4,滋賀県,1327,NAWONO,滋賀県,2082,HIKO,滋賀県
 copula,セロトニン,806,REON,滋賀県,1634,10$,滋賀県,2336,AAAAAA,滋賀県
 copula,シュッパツシンコウ・シサカンコ,864,LEON,滋賀県,1723,INANNA,滋賀県,2407,HA,滋賀県
 copula,ギョギョっと人魚 爆婚ブライダル,433,TAKYAO,滋賀県,1360,10$,滋賀県,2330,HIKO,滋賀県
@@ -930,7 +930,7 @@ copula,めいさいアイドル☆あいむちゃん♪,1022,RURU,滋賀県,2117
 copula,か・し・ま・し☆PUMP UP！,1209,B-RABI,滋賀県,1593,FALCON,滋賀県,2751,HIKO,滋賀県
 copula,ZEPHYRANTHES,1027,B-RABI,滋賀県,1674,.TAMA,滋賀県,2941,PUSSY-,滋賀県
 copula,X,1559,INANNA,滋賀県,2369,APPY,滋賀県,3815,AAAAAA,滋賀県
-copula,Welcome,481,7K,滋賀県,1688,T.S,滋賀県,2571,HIKO,滋賀県
+copula,Welcome,510,7K,滋賀県,1688,T.S,滋賀県,2571,HIKO,滋賀県
 copula,Violet Rose,929,XX02,滋賀県,1632,GOTCHI,滋賀県,2527,D1353L,滋賀県
 copula,Violet Pulse,417,INANNA,滋賀県,1350,SOLID,滋賀県,2416,AAAAAA,滋賀県
 copula,Uh-Oh,831,ARISA,滋賀県,1609,10$,滋賀県,2381,D1353L,滋賀県
@@ -978,8 +978,8 @@ copula,GENERATE feat.綾倉盟,1024,NYARO,滋賀県,1667,AAAAAA,滋賀県,2320,N
 copula,Exchange Place,0,,未設定,864,LIKE,滋賀県,1790,AAAAAA,滋賀県
 copula,Everlasting Last,355,GRR-G,滋賀県,1498,RYO*,滋賀県,2172,N.KJ,滋賀県
 copula,Dynamite,1033,A-NEVE,滋賀県,2458,D1353L,滋賀県,3757,57*FBK,滋賀県
-copula,Donkey Donk,1082,YUKI.,滋賀県,1431,N,滋賀県,2254,AAAAAA,滋賀県
-copula,do the thing feat. Kanae Asaba,425,PHYRY,滋賀県,1391,SHUKA,滋賀県,2260,D1353L,滋賀県
+copula,Donkey Donk,1082,YUKI.,滋賀県,1472,HITOM1,滋賀県,2254,AAAAAA,滋賀県
+copula,do the thing feat. Kanae Asaba,425,PHYRY,滋賀県,1391,SHUKA,滋賀県,2264,HIKO,滋賀県
 copula,DIAMOND CROSSING,823,CONRAD,滋賀県,1710,INRTIA,滋賀県,2989,AAAAAA,滋賀県
 copula,Devil's Gear,764,KIOSK,滋賀県,2052,KOTARO,滋賀県,3432,AAAAAA,滋賀県
 copula,Derelict Star feat. Ryu*,1389,INANNA,滋賀県,1598,FU,滋賀県,2588,D1353L,滋賀県
@@ -998,7 +998,7 @@ copula,Angelic Jelly,1155,B-RABI,滋賀県,1977,KOTARO,滋賀県,2670,AAAAAA,滋
 copula,Acid Pumper,537,SGYN,滋賀県,1463,INANNA,滋賀県,2447,AAAAAA,滋賀県
 copula,199024club -Re:BounceKiller-,412,TERA*,滋賀県,1535,SASAKI,滋賀県,2304,G-RABI,滋賀県
 SINOBUZ,鴉,1423,10$,滋賀県,2071,ELISE,滋賀県,2659,B-RABI,滋賀県
-SINOBUZ,童話回廊,740,MR.814,滋賀県,1566,RAIN,滋賀県,3014,D1353L,滋賀県
+SINOBUZ,童話回廊,825,XX02,滋賀県,1566,RAIN,滋賀県,3014,D1353L,滋賀県
 SINOBUZ,禍根,613,KUMA,滋賀県,1196,ROOT,滋賀県,2561,AAAAAA,滋賀県
 SINOBUZ,獅子霞麗ノ舞,387,TUKURI,滋賀県,816,KUMA,滋賀県,1732,AAAAAA,滋賀県
 SINOBUZ,焔極OVERKILL,920,KOZZZZ,滋賀県,2115,52KING,滋賀県,3532,AAAAAA,滋賀県
@@ -1021,7 +1021,7 @@ SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),633,KOZZZZ,滋賀県,1654,10$,滋賀県,288
 SINOBUZ,yamabiko (SINOBUZ Edition),761,MANA,滋賀県,1486,10$,滋賀県,2624,AAAAAA,滋賀県
 SINOBUZ,XINOBIKILL,636,HI1N4,滋賀県,1636,10$,滋賀県,2862,AAAAAA,滋賀県
 SINOBUZ,Warrior,799,KOZZZZ,滋賀県,1653,5DAN,滋賀県,2441,PUSSY-,滋賀県
-SINOBUZ,Vermilion,830,YUKI.,滋賀県,1321,RAIN,滋賀県,1973,G-RABI,滋賀県
+SINOBUZ,Vermilion,830,YUKI.,滋賀県,1321,RAIN,滋賀県,2017,AAAAAA,滋賀県
 SINOBUZ,Venom,1029,YNS,滋賀県,1995,SPIRIT,滋賀県,3092,BABEL,滋賀県
 SINOBUZ,Umbral,290,PHYRY,滋賀県,1289,S.YUKI,滋賀県,1885,D1353L,滋賀県
 SINOBUZ,TOGAKUSHI,704,TUKURI,滋賀県,1739,Z.O.O,滋賀県,2540,AAAAAA,滋賀県
@@ -1032,7 +1032,7 @@ SINOBUZ,Summerlights(IIDX Edition),953,SOUNDT,滋賀県,1768,KOTARO,滋賀県,30
 SINOBUZ,Summer,643,INANNA,滋賀県,1333,SHUKA,滋賀県,1983,AAAAAA,滋賀県
 SINOBUZ,Steel Edge,701,MANA,滋賀県,1394,10$,滋賀県,3121,AAAAAA,滋賀県
 SINOBUZ,Snakey Kung-fu,964,KOZZZZ,滋賀県,2048,ES.,滋賀県,3379,AAAAAA,滋賀県
-SINOBUZ,Sky High,1164,-A39-,滋賀県,2142,Z.O.O,滋賀県,3764,AAAAAA,滋賀県
+SINOBUZ,Sky High,1164,-A39-,滋賀県,2288,11KING,滋賀県,3764,AAAAAA,滋賀県
 SINOBUZ,SINOBUZ Fantasy,1041,B-RABI,滋賀県,1714,B-RABI,滋賀県,2412,B-RABI,滋賀県
 SINOBUZ,shuriken,666,A-NEVE,滋賀県,1009,NYET,滋賀県,2514,D1353L,滋賀県
 SINOBUZ,Shoot'Em All,799,INANNA,滋賀県,945,$0-Y41,滋賀県,2439,D1353L,滋賀県
@@ -1061,7 +1061,7 @@ SINOBUZ,Mare Nectaris,1314,SHIKI,滋賀県,2146,AAAAAA,滋賀県,3618,AAAAAA,滋
 SINOBUZ,Magical,820,B-RABI,滋賀県,1201,B-RABI,滋賀県,1993,AAAAAA,滋賀県
 SINOBUZ,Macuilxochitl,1187,YNS,滋賀県,2168,*JY*,滋賀県,3293,AAAAAA,滋賀県
 SINOBUZ,Lost wing at.0,905,YUKI.,滋賀県,1318,RAIN,滋賀県,2367,PUSSY-,滋賀県
-SINOBUZ,INVISIBLE STRIX,898,KOZZZZ,滋賀県,1862,ES.,滋賀県,2564,D1353L,滋賀県
+SINOBUZ,INVISIBLE STRIX,898,KOZZZZ,滋賀県,1976,KOTARO,滋賀県,2564,D1353L,滋賀県
 SINOBUZ,Honey Trap,694,MANA,滋賀県,1544,10$,滋賀県,2517,AAAAAA,滋賀県
 SINOBUZ,HAPPY★RUSH,720,IIDX26,滋賀県,1759,#YMT,滋賀県,2843,D1353L,滋賀県
 SINOBUZ,HADES,750,TUKURI,滋賀県,1717,Z.O.O,滋賀県,3063,AAAAAA,滋賀県
@@ -1082,7 +1082,7 @@ SINOBUZ,BREAK OVER,546,ISLAND,滋賀県,1277,MOMOSE,滋賀県,2336,AAAAAA,滋賀
 SINOBUZ,Beyond The Seven,581,K.,滋賀県,1270,10$,滋賀県,2690,AAAAAA,滋賀県
 SINOBUZ,Believe in you,1204,B-RABI,滋賀県,1833,INANNA,滋賀県,2399,52KING,滋賀県
 SINOBUZ,Beat Juggling Mix,796,YNS,滋賀県,1481,11KING,滋賀県,2131,NOCCHI,滋賀県
-SINOBUZ,Be A Star,947,INANNA,滋賀県,1725,ELISE,滋賀県,2762,D1353L,滋賀県
+SINOBUZ,Be A Star,947,INANNA,滋賀県,1725,ELISE,滋賀県,2790,AAAAAA,滋賀県
 SINOBUZ,BabeL ～Grand Story～,1003,KOZZZZ,滋賀県,1937,SH0RE,滋賀県,2769,AAAAAA,滋賀県
 SINOBUZ,AsiaN distractive,1179,INANNA,滋賀県,1453,YNS,滋賀県,2614,AAAAAA,滋賀県
 SINOBUZ,Around The Galaxy,912,MR.814,滋賀県,1938,AAAAAA,滋賀県,3332,D1353L,滋賀県
@@ -1108,7 +1108,7 @@ CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,833,NYARO,滋賀県,1530,HARE
 CANNON BALLERS,ナイトシティー・アヴァンチュール,976,SHIKI,滋賀県,1544,B-RABI,滋賀県,2072,D1353L,滋賀県
 CANNON BALLERS,シムルグの目醒め,1421,B-RABI,滋賀県,2351,B-RABI,滋賀県,3383,AAAAAA,滋賀県
 CANNON BALLERS,エディブルフラワーの独白,821,B-RABI,滋賀県,1514,HARE-L,滋賀県,2181,57*FBK,滋賀県
-CANNON BALLERS,うさ☆かめ 大戦争！,692,TERA*,滋賀県,1432,ELISE,滋賀県,2466,BABEL,滋賀県
+CANNON BALLERS,うさ☆かめ 大戦争！,838,FCOH,滋賀県,1432,ELISE,滋賀県,2466,BABEL,滋賀県
 CANNON BALLERS,Xperanza,1396,B-RABI,滋賀県,2412,B-RABI,滋賀県,3135,AAAAAA,滋賀県
 CANNON BALLERS,VOX RUSH,1080,IIDX26,滋賀県,2170,KOTARO,滋賀県,3305,AAAAAA,滋賀県
 CANNON BALLERS,Usual Days-remix,775,HI1N4,滋賀県,1461,G-RABI,滋賀県,2631,AAAAAA,滋賀県
@@ -1116,7 +1116,7 @@ CANNON BALLERS,UMMU,950,IIDX26,滋賀県,1912,Z.O.O,滋賀県,3078,AAAAAA,滋賀
 CANNON BALLERS,The Revolution (VIP Mix),0,,未設定,1365,#D.D.J,滋賀県,1833,D1353L,滋賀県
 CANNON BALLERS,The Chase,649,NHK.42,滋賀県,1300,W8,滋賀県,2076,PUSSY-,滋賀県
 CANNON BALLERS,THE CANNONBALLER,1472,INANNA,滋賀県,2262,N.KJ,滋賀県,3401,AAAAAA,滋賀県
-CANNON BALLERS,Temple of Anubis,0,,未設定,1417,10$,滋賀県,2623,AAAAAA,滋賀県
+CANNON BALLERS,Temple of Anubis,538,7K,滋賀県,1417,10$,滋賀県,2623,AAAAAA,滋賀県
 CANNON BALLERS,SUNLiGHT (IIDX Mix),1138,YADO,滋賀県,1752,D1353L,滋賀県,2639,D1353L,滋賀県
 CANNON BALLERS,Static State,955,MOMOSE,滋賀県,1458,MOMOSE,滋賀県,2374,AAAAAA,滋賀県
 CANNON BALLERS,STARLIGHT JUNCTION,582,DYUKU,滋賀県,1545,RAIN,滋賀県,2254,HIKO,滋賀県
@@ -1128,9 +1128,9 @@ CANNON BALLERS,SHOX,0,,未設定,1049,U.M.,滋賀県,1632,-A39-,滋賀県
 CANNON BALLERS,Rise Circuit,0,,未設定,1513,Z.O.O,滋賀県,2162,YU,滋賀県
 CANNON BALLERS,Raspberry Railgun,0,,未設定,2009,ELISE,滋賀県,3091,PUSSY-,滋賀県
 CANNON BALLERS,Rampage,1207,.TAMA,滋賀県,2367,Z.O.O,滋賀県,3586,D1353L,滋賀県
-CANNON BALLERS,Persephone,0,,未設定,1935,8VSZU4,滋賀県,2973,AAAAAA,滋賀県
+CANNON BALLERS,Persephone,0,,未設定,1935,8VSZU4,滋賀県,2976,AAAAAA,滋賀県
 CANNON BALLERS,Papilio ulysses,1212,N.KJ,滋賀県,2063,HA,滋賀県,2836,AAAAAA,滋賀県
-CANNON BALLERS,Only for now,596,BARO,滋賀県,1420,5DAN,滋賀県,2246,D1353L,滋賀県
+CANNON BALLERS,Only for now,596,BARO,滋賀県,1481,GOAT,滋賀県,2246,D1353L,滋賀県
 CANNON BALLERS,O/D*20,692,REON,滋賀県,1685,-SB-,滋賀県,2107,D1353L,滋賀県
 CANNON BALLERS,Nothing but Theory,614,BARO,滋賀県,1525,HARE-L,滋賀県,2797,D1353L,滋賀県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,868,IXMEL,滋賀県,1512,HARE-L,滋賀県,2325,AAAAAA,滋賀県
@@ -1141,7 +1141,7 @@ CANNON BALLERS,Midnight Lady,428,HEY.,滋賀県,922,YNS,滋賀県,1901,52KING,�
 CANNON BALLERS,LUV DRIVE,815,HARE-L,滋賀県,1345,HARE-L,滋賀県,2014,N.KJ,滋賀県
 CANNON BALLERS,LIGHTS ft. EVO+,721,YADO,滋賀県,1389,INRTIA,滋賀県,2350,HIKO,滋賀県
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1194,MERURU,滋賀県,1723,SHI4TQ,滋賀県,3385,AAAAAA,滋賀県
-CANNON BALLERS,Initiation,1375,BRK,滋賀県,2403,HA,滋賀県,3844,AAAAAA,滋賀県
+CANNON BALLERS,Initiation,1375,BRK,滋賀県,2403,HA,滋賀県,3867,AAAAAA,滋賀県
 CANNON BALLERS,Illusionary Waterlily,0,,未設定,1844,5DAN,滋賀県,3477,AAAAAA,滋賀県
 CANNON BALLERS,I'm Coming (2017 Version),614,XYZZY,滋賀県,1306,-SB-,滋賀県,2030,HA,滋賀県
 CANNON BALLERS,I Love You,0,,未設定,1753,-W-,滋賀県,2708,AAAAAA,滋賀県
@@ -1157,7 +1157,7 @@ CANNON BALLERS,Fervidex,859,N.KJ,滋賀県,1818,B-RABI,滋賀県,2690,AAAAAA,滋
 CANNON BALLERS,Expanded !!,645,MOMOSE,滋賀県,1483,ELISE,滋賀県,2598,52KING,滋賀県
 CANNON BALLERS,Exhaust Hype,841,MANA,滋賀県,1916,52KING,滋賀県,2797,AAAAAA,滋賀県
 CANNON BALLERS,encounter,984,B-RABI,滋賀県,1657,SPIRIT,滋賀県,3240,AAAAAA,滋賀県
-CANNON BALLERS,EMERALDAS,1237,XECTY1,滋賀県,2361,PUSSY-,滋賀県,3426,AAAAAA,滋賀県
+CANNON BALLERS,EMERALDAS,1237,XECTY1,滋賀県,2411,PUSSY-,滋賀県,3426,AAAAAA,滋賀県
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,未設定,1325,N,滋賀県,2580,AAAAAA,滋賀県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1175,HAL.2,滋賀県,2249,RYO*,滋賀県,3873,AAAAAA,滋賀県
 CANNON BALLERS,DEADHEAT,1086,AKIRA.,滋賀県,1909,Z.O.O,滋賀県,3254,57*FBK,滋賀県
@@ -1177,14 +1177,14 @@ CANNON BALLERS,Arca,819,IKARI,滋賀県,1782,10$,滋賀県,3088,AAAAAA,滋賀県
 CANNON BALLERS,Antigravity,0,,未設定,1960,HA,滋賀県,2975,AAAAAA,滋賀県
 CANNON BALLERS,ANCHOR,1338,52KING,滋賀県,2442,52KING,滋賀県,3507,AAAAAA,滋賀県
 CANNON BALLERS,ANAGMA,585,RURU,滋賀県,1725,INANNA,滋賀県,2527,8VSZU4,滋賀県
-CANNON BALLERS,Amor De Verao,622,IIDX26,滋賀県,1407,8VSZU4,滋賀県,2241,BABEL,滋賀県
+CANNON BALLERS,Amor De Verao,622,IIDX26,滋賀県,1407,8VSZU4,滋賀県,2318,AAAAAA,滋賀県
 CANNON BALLERS,Alpheratz,432,HARE-L,滋賀県,1019,YUHEY.,滋賀県,2062,BABEL,滋賀県
 CANNON BALLERS,Acidiva 303,694,KILM1N,滋賀県,1292,FALCON,滋賀県,2240,57*FBK,滋賀県
 CANNON BALLERS,ACCELERATE,935,KUMA,滋賀県,1418,GORI3,滋賀県,2471,HIKO,滋賀県
 CANNON BALLERS,Abraxas,600,TUKURI,滋賀県,1636,HIKO,滋賀県,2405,D1353L,滋賀県
 CANNON BALLERS,AA -rebuild-,1223,10$,滋賀県,2095,NHK.42,滋賀県,3492,D1353L,滋賀県
 CANNON BALLERS,255,672,MR.814,滋賀県,1596,D1353L,滋賀県,3183,AAAAAA,滋賀県
-CANNON BALLERS,2 Player,477,KILICA,滋賀県,1512,10$,滋賀県,2507,PUSSY-,滋賀県
+CANNON BALLERS,2 Player,806,CONRAD,滋賀県,1512,10$,滋賀県,2507,PUSSY-,滋賀県
 CANNON BALLERS,1001 -ESCAPE-,880,KILM1N,滋賀県,1640,10$,滋賀県,2590,G-RABI,滋賀県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1110,YADO,滋賀県,2354,D1353L,滋賀県,3182,AAAAAA,滋賀県
 Rootage,金野火織の金色提言,1259,NOCCHI,滋賀県,2259,D1353L,滋賀県,3033,AAAAAA,滋賀県
@@ -1238,7 +1238,7 @@ Rootage,IDOL syndrome.,761,B-RABI,滋賀県,1461,B-RABI,滋賀県,2183,AAAAAA,�
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1042,HARE-L,滋賀県,1481,RAIN,滋賀県,2144,AAAAAA,滋賀県
 Rootage,Hurry Hurry,755,N.KJ,滋賀県,1045,8VSZU4,滋賀県,2072,AAAAAA,滋賀県
 Rootage,HOT LIMIT,1063,B-RABI,滋賀県,1729,B-RABI,滋賀県,2505,AAAAAA,滋賀県
-Rootage,HEISEI,1129,INANNA,滋賀県,1938,D1353L,滋賀県,2551,AAAAAA,滋賀県
+Rootage,HEISEI,1168,B-RABI,滋賀県,1942,B-RABI,滋賀県,2551,AAAAAA,滋賀県
 Rootage,Glory,777,B-RABI,滋賀県,1633,N.KJ,滋賀県,2324,AAAAAA,滋賀県
 Rootage,GIGA THRASH,1251,52KING,滋賀県,1836,N.KJ,滋賀県,2702,AAAAAA,滋賀県
 Rootage,EVANESCENT,1235,YADO,滋賀県,2333,D1353L,滋賀県,3482,AAAAAA,滋賀県
@@ -1256,4 +1256,7 @@ Rootage,BLOSSOM,1066,Z.O.O,滋賀県,1645,W8,滋賀県,2512,AAAAAA,滋賀県
 Rootage,Angels & Demons,935,B-RABI,滋賀県,1793,B-RABI,滋賀県,2429,AAAAAA,滋賀県
 Rootage,AGAiN,1031,B-RABI,滋賀県,1626,B-RABI,滋賀県,2298,B-RABI,滋賀県
 Rootage,A Tale Hidden In The Abyss,946,INANNA,滋賀県,1723,D1353L,滋賀県,2615,AAAAAA,滋賀県
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,862,KUMA,滋賀県,1594,RAIN,滋賀県,2556,YUHEY.,滋賀県
+Rootage,50th Memorial Songs -The BEMANI History-,948,XX02,滋賀県,1568,RAIN,滋賀県,2608,AAAAAA,滋賀県
+Rootage,50th Memorial Songs -Flagship medley-,805,KEI,滋賀県,1475,RAIN,滋賀県,2236,HIKO,滋賀県
 Rootage,50th Memorial Songs -Beginning Story-,814,YADO,滋賀県,1599,RAIN,滋賀県,2683,AAAAAA,滋賀県
