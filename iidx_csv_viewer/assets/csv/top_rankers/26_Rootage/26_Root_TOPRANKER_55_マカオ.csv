@@ -1,5 +1,5 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
-1st&substream,THE EARTH LIGHT,550,MASIRO,マカオ,758,10K1PN,マカオ,1064,MS.04,マカオ
+1st&substream,THE EARTH LIGHT,595,MIRUKU,マカオ,758,10K1PN,マカオ,1064,MS.04,マカオ
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1912,ROCHER,マカオ
 1st&substream,RUGGED ASH,111,BRAXXX,マカオ,212,AGIIIJ,マカオ,1022,BOZU#,マカオ
 1st&substream,R3,0,,未設定,667,A$AMI*,マカオ,775,.,マカオ
@@ -11,7 +11,7 @@
 1st&substream,GAMBOL,272,ROCHER,マカオ,274,ROCHER,マカオ,0,,未設定
 1st&substream,Dr.LOVE,0,,未設定,231,KSM555,マカオ,572,ROCHER,マカオ
 1st&substream,deep in you,0,,未設定,0,,未設定,639,KORINS,マカオ
-1st&substream,5.1.1.,178,SUZU*A,マカオ,767,10K1PN,マカオ,1513,ZIP.,マカオ
+1st&substream,5.1.1.,193,BOOT,マカオ,767,10K1PN,マカオ,1513,ZIP.,マカオ
 1st&substream,22DUNK,116,SK12,マカオ,0,,未設定,570,MACH.,マカオ
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,未設定,0,,未設定,636,ZIP.,マカオ
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),353,EIFFEL,マカオ,775,B4TTZ,マカオ,0,,未設定
@@ -49,7 +49,7 @@
 4th style,DXY!,0,,未設定,1512,MACH.,マカオ,2161,ROCHER,マカオ
 4th style,Clione†,0,,未設定,0,,未設定,2044,ZIP.,マカオ
 4th style,Clione,481,TEITO.,マカオ,0,,未設定,1584,ROCHER,マカオ
-4th style,CHECKING YOU OUT,635,ROCHER,マカオ,758,ZIP.,マカオ,1273,ROCHER,マカオ
+4th style,CHECKING YOU OUT,635,ROCHER,マカオ,836,ROCHER,マカオ,1273,ROCHER,マカオ
 4th style,Burnin' The Floor,517,TEITO.,マカオ,0,,未設定,1400,ZIP.,マカオ
 4th style,Broken My Heart,160,K4ZN##,マカオ,0,,未設定,1780,ROCHER,マカオ
 4th style,B4U,627,MASIRO,マカオ,1435,MS.04,マカオ,1828,EROGAL,マカオ
@@ -84,10 +84,10 @@
 6th style,NEMESIS,857,MACH.,マカオ,1584,ROCHER,マカオ,1772,.,マカオ
 6th style,Linus,0,,未設定,1162,C4Z.VI,マカオ,2157,ROCHER,マカオ
 6th style,G2,806,MASIRO,マカオ,1697,YANKUK,マカオ,2192,ROCHER,マカオ
-6th style,Frozen Ray (original mix),501,MASIRO,マカオ,1439,C4Z.VI,マカオ,1703,NCT-TY,マカオ
+6th style,Frozen Ray (original mix),501,MASIRO,マカオ,1651,YANKUK,マカオ,1703,NCT-TY,マカオ
 6th style,Free Style,0,,未設定,954,C4Z.VI,マカオ,1270,ROCHER,マカオ
 6th style,fly through the night,0,,未設定,952,C4Z.VI,マカオ,1586,MS.04,マカオ
-6th style,DIVE ～INTO YOUR HEART～,0,,未設定,1692,MS.04,マカオ,2036,ROCHER,マカオ
+6th style,DIVE ～INTO YOUR HEART～,0,,未設定,1692,MS.04,マカオ,2053,ROCHER,マカオ
 6th style,Colors (radio edit),927,ULTIMA,マカオ,1864,KORINS,マカオ,2309,ROCHER,マカオ
 6th style,Buffalo,0,,未設定,1191,C4Z.VI,マカオ,1762,ROCHER,マカオ
 6th style,Blueberry Stream,0,,未設定,1098,HOON,マカオ,1616,ROCHER,マカオ
@@ -96,9 +96,9 @@
 7th style,革命,0,,未設定,1711,MS.SJV,マカオ,2173,ZIP.,マカオ
 7th style,ZERO-ONE,586,YAVAPE,マカオ,1637,ROCHER,マカオ,2108,EROGAL,マカオ
 7th style,traces,0,,未設定,1879,ROCHER,マカオ,1958,EROGAL,マカオ
-7th style,Tomorrow Perfume,829,ULTIMA,マカオ,1553,C4Z.VI,マカオ,1911,VA-M,マカオ
+7th style,Tomorrow Perfume,829,ULTIMA,マカオ,1553,C4Z.VI,マカオ,1949,MS.04,マカオ
 7th style,stoic,1541,MS.04,マカオ,1995,SUZU*A,マカオ,2453,ROCHER,マカオ
-7th style,Spica,219,AOI,マカオ,1364,RE,マカオ,2114,ROCHER,マカオ
+7th style,Spica,219,AOI,マカオ,1403,MS.04,マカオ,2114,ROCHER,マカオ
 7th style,MAX 300,860,TCSPW,マカオ,1688,!?,マカオ,0,,未設定
 7th style,Love Me Do,601,MIRAI,マカオ,1515,C4Z.VI,マカオ,2106,ROCHER,マカオ
 7th style,Let the Snow Paint Me,0,,未設定,913,C4Z.VI,マカオ,1238,ROCHER,マカオ
@@ -129,7 +129,7 @@
 8th style,memories,0,,未設定,2038,ROCHER,マカオ,2122,AHONDR,マカオ
 8th style,Luv 2 Feel Your Body,752,MP4-6,マカオ,975,MP4-6,マカオ,1499,AA-VIP,マカオ
 8th style,LOVE IS ORANGE,373,JYNX,マカオ,955,MHBNT,マカオ,1749,SUSIE,マカオ
-8th style,LAB,845,ULTIMA,マカオ,1957,ROCHER,マカオ,2058,ROCHER,マカオ
+8th style,LAB,983,OHOHOI,マカオ,1957,ROCHER,マカオ,2058,ROCHER,マカオ
 8th style,HYPER BOUNDARY GATE,1135,MACH.,マカオ,1801,MS.04,マカオ,2054,MS.04,マカオ
 8th style,Halfway of promise,494,KSM555,マカオ,1430,MS.04,マカオ,1766,ROCHER,マカオ
 8th style,Giudecca,0,,未設定,1884,ROCHER,マカオ,2511,.,マカオ
@@ -165,7 +165,7 @@
 9th style,Karma,0,,未設定,1408,MACH.,マカオ,1632,LUDI.,マカオ
 9th style,I Was The One (80's EUROBEAT STYLE),0,,未設定,1119,GIZUMO,マカオ,1437,ROCHER,マカオ
 9th style,HYPER EUROBEAT (2DX style),462,SHAKE,マカオ,1157,B-MIGI,マカオ,1930,ROCHER,マカオ
-9th style,Golden Horn,0,,未設定,1013,C4Z.VI,マカオ,1242,B4TTZ,マカオ
+9th style,Golden Horn,0,,未設定,1013,C4Z.VI,マカオ,1259,010,マカオ
 9th style,e-motion 2003 -romantic extra-,0,,未設定,1545,KORINS,マカオ,1857,ZIP.,マカオ
 9th style,Distress,1061,HOON,マカオ,1734,RETEYA,マカオ,0,,未設定
 9th style,Cradle,758,*,マカオ,1347,MS.04,マカオ,1516,RETEYA,マカオ
@@ -180,7 +180,7 @@
 10th style,SHOOTING STAR,711,YSYYSY,マカオ,1596,KORINS,マカオ,2236,ROCHER,マカオ
 10th style,Rise'n Beauty,0,,未設定,1626,ROCHER,マカオ,1965,MS.04,マカオ
 10th style,rainbow rainbow,1179,10K1PN,マカオ,2008,MS.SJV,マカオ,2591,ROCHER,マカオ
-10th style,pandora,0,,未設定,1404,C4Z.VI,マカオ,1725,ZIP.,マカオ
+10th style,pandora,0,,未設定,1404,C4Z.VI,マカオ,1757,BOOT,マカオ
 10th style,One More Lovely,0,,未設定,1634,ROCHER,マカオ,2670,RETEYA,マカオ
 10th style,No.13,1183,BIO,マカオ,2455,YANKUK,マカオ,3013,ROCHER,マカオ
 10th style,Narcissus At Oasis,0,,未設定,1411,YANKUK,マカオ,1648,ROCHER,マカオ
@@ -203,7 +203,7 @@
 10th style,Boundary,659,TEITO.,マカオ,1786,ROCHER,マカオ,1940,ZIP.,マカオ
 10th style,Back Into The Light,0,,未設定,935,ULTIMA,マカオ,2086,BUDDAH,マカオ
 10th style,BABY LOVE,0,,未設定,1339,HOON,マカオ,2112,ROCHER,マカオ
-10th style,ASTRAL VOYAGE,364,JASON,マカオ,907,MASIRO,マカオ,1599,SUZU*A,マカオ
+10th style,ASTRAL VOYAGE,364,JASON,マカオ,907,MASIRO,マカオ,1681,B4TTZ,マカオ
 10th style,ALIEN TEMPLE,958,KORINS,マカオ,903,MASIRO,マカオ,1986,ROCHER,マカオ
 10th style,1st Samurai,364,KSM555,マカオ,1730,RE,マカオ,2258,MS.04,マカオ
 IIDX RED,ＵＬＴｉＭΛＴＥ,313,6LM4ST,マカオ,1377,MS.04,マカオ,1950,ZIP.,マカオ
@@ -225,7 +225,7 @@ IIDX RED,NEBULA GRASPER,0,,未設定,1979,ROCHER,マカオ,2261,.,マカオ
 IIDX RED,KEY,637,YSYYSY,マカオ,1672,FIRE,マカオ,2763,RETEYA,マカオ
 IIDX RED,HORIZON,521,6LM4ST,マカオ,1233,ROBO,マカオ,1937,ROCHER,マカオ
 IIDX RED,gigadelic,1258,MACH.,マカオ,2062,ROCHER,マカオ,2374,ROCHER,マカオ
-IIDX RED,GENOCIDE,862,DAAAAA,マカオ,1707,C4Z.VI,マカオ,2237,ROCHER,マカオ
+IIDX RED,GENOCIDE,862,DAAAAA,マカオ,1819,HANAXO,マカオ,2237,ROCHER,マカオ
 IIDX RED,Fly Away To India,0,,未設定,0,,未設定,1315,.,マカオ
 IIDX RED,FAKE TIME,275,KSM555,マカオ,1594,ULTIMA,マカオ,2239,RETEYA,マカオ
 IIDX RED,earth scape,189,YURIKA,マカオ,144,RS.,マカオ,1234,ROCHER,マカオ
@@ -258,7 +258,7 @@ HAPPY SKY,Scripted Connection⇒ N mix,778,MASIRO,マカオ,1280,MMMINT,マカ�
 HAPPY SKY,Scripted Connection⇒ H mix,1267,10K1PN,マカオ,1821,RE,マカオ,2437,ROCHER,マカオ
 HAPPY SKY,Scripted Connection⇒ A mix,1257,L1CHT.,マカオ,1866,B4TTZ,マカオ,2993,HUUUGE,マカオ
 HAPPY SKY,SCREAM SQUAD,749,-.-,マカオ,1173,81*,マカオ,1898,RETEYA,マカオ
-HAPPY SKY,rage against usual,869,MASIRO,マカオ,0,,未設定,2712,ROCHER,マカオ
+HAPPY SKY,rage against usual,869,MASIRO,マカオ,1936,BOOT,マカオ,2712,ROCHER,マカオ
 HAPPY SKY,POODLE,757,MASIRO,マカオ,1665,K010R1,マカオ,2275,ROCHER,マカオ
 HAPPY SKY,Pollinosis,0,,未設定,753,MASIRO,マカオ,2309,SUSIE,マカオ
 HAPPY SKY,PLASMA,527,JASON,マカオ,893,MASIRO,マカオ,2251,ROCHER,マカオ
@@ -272,7 +272,7 @@ HAPPY SKY,INAZUMA,857,TEITO.,マカオ,1772,ROCHER,マカオ,2662,ROCHER,マカ�
 HAPPY SKY,in motion,0,,未設定,1061,ROCHER,マカオ,1172,Y.C.,マカオ
 HAPPY SKY,I am,0,,未設定,1593,MS.04,マカオ,2028,ZIP.,マカオ
 HAPPY SKY,HAPPY☆ANGEL,791,MASIRO,マカオ,1546,ROCHER,マカオ,2011,.,マカオ
-HAPPY SKY,Get'em up to R.A.V.E,0,,未設定,1521,NARC17,マカオ,2207,ROCHER,マカオ
+HAPPY SKY,Get'em up to R.A.V.E,0,,未設定,1521,NARC17,マカオ,2224,ROCHER,マカオ
 HAPPY SKY,garden,0,,未設定,1289,C4Z.VI,マカオ,2110,ROCHER,マカオ
 HAPPY SKY,First Resolution,0,,未設定,0,,未設定,2132,ROCHER,マカオ
 HAPPY SKY,EMPTY OF THE SKY,356,KATATE,マカオ,621,KATATE,マカオ,1672,ROCHER,マカオ
@@ -291,7 +291,7 @@ DistorteD,嘆きの樹,1585,B-MIGI,マカオ,2354,.,マカオ,3772,HUUUGE,マカ
 DistorteD,タシカナモノ,793,TEITO.,マカオ,1283,SUZU*A,マカオ,1892,NCT-TY,マカオ
 DistorteD,カゴノトリ～弐式～,602,0120,マカオ,1743,NCT-TY,マカオ,2525,RETEYA,マカオ
 DistorteD,Zenius -I- vanisher,0,,未設定,1327,DAAAAA,マカオ,2366,ROCHER,マカオ
-DistorteD,with you…,266,AAAAAA,マカオ,821,MASIRO,マカオ,1760,ROCHER,マカオ
+DistorteD,with you…,710,TEITO.,マカオ,821,MASIRO,マカオ,1760,ROCHER,マカオ
 DistorteD,WISH(EUROBEAT MIX),447,ABEWHH,マカオ,1491,KORINS,マカオ,1947,ROCHER,マカオ
 DistorteD,Why did you go away,806,10K1PN,マカオ,1696,KORINS,マカオ,2286,ROCHER,マカオ
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3768,RETEYA,マカオ
@@ -299,8 +299,8 @@ DistorteD,waxing and wanding,1098,10K1PN,マカオ,1890,KOGAMI,マカオ,2797,RE
 DistorteD,TYPE MARS(G-Style Mix),0,,未設定,1816,ROCHER,マカオ,2326,HUUUGE,マカオ
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,未設定,1762,YANKUK,マカオ,2343,RETEYA,マカオ
 DistorteD,This is Love,0,,未設定,1576,HALPIG,マカオ,2430,ROCHER,マカオ
-DistorteD,The Dirty of Loudness,1150,MACH.,マカオ,1701,FIRE,マカオ,2488,ROCHER,マカオ
-DistorteD,Sun Field,0,,未設定,0,,未設定,2375,ROCHER,マカオ
+DistorteD,The Dirty of Loudness,1290,SUZU*A,マカオ,1701,FIRE,マカオ,2488,ROCHER,マカオ
+DistorteD,Sun Field,0,,未設定,864,MASIRO,マカオ,2375,ROCHER,マカオ
 DistorteD,So Fabulous !!,0,,未設定,1385,BOZU#,マカオ,2299,ROCHER,マカオ
 DistorteD,Power of Love,850,*,マカオ,1372,MACH.,マカオ,2090,ROCHER,マカオ
 DistorteD,MOON,0,,未設定,1623,L1CHT.,マカオ,2111,ZIP.,マカオ
@@ -325,7 +325,7 @@ DistorteD,BALLAD THE FEATHERS,618,TEITO.,マカオ,437,YSYYSY,マカオ,1402,ZIP
 DistorteD,Apocalypse ～dirge of swans～,688,10K1PN,マカオ,1755,ROCHER,マカオ,2213,.,マカオ
 DistorteD,ALFARSHEAR 双神威に廻る夢,913,TEITO.,マカオ,1333,10K1PN,マカオ,2048,ROCHER,マカオ
 GOLD,電人、暁に斃れる。,1130,HOON,マカオ,2180,NCT-TY,マカオ,3166,ROCHER,マカオ
-GOLD,零 - ZERO -,984,TEITO.,マカオ,1683,BOZU#,マカオ,2211,RETEYA,マカオ
+GOLD,零 - ZERO -,994,SKA,マカオ,1683,BOZU#,マカオ,2211,RETEYA,マカオ
 GOLD,花吹雪 ～ IIDX LIMITED ～,437,??????,マカオ,444,EIFFEL,マカオ,1419,ROCHER,マカオ
 GOLD,星をこの手に,990,10K1PN,マカオ,1797,ROCHER,マカオ,2007,KON,マカオ
 GOLD,リグレット,0,,未設定,1616,BOZU#,マカオ,2337,EROGAL,マカオ
@@ -345,8 +345,8 @@ GOLD,Sense 2007,1445,MS.04,マカオ,2128,ROCHER,マカオ,2834,HUUUGE,マカオ
 GOLD,Second Heaven,444,ABEWHH,マカオ,1515,RED*,マカオ,2098,ROCHER,マカオ
 GOLD,Roulette,380,K4ZN##,マカオ,1228,FIRE,マカオ,2020,ZIP.,マカオ
 GOLD,PHOTONGENIC,931,10K1PN,マカオ,1870,MDMA,マカオ,2288,ROCHER,マカオ
-GOLD,op.31 叙情,575,ROCHER,マカオ,1261,ROCHER,マカオ,1518,ROCHER,マカオ
-GOLD,never…,0,,未設定,909,MASIRO,マカオ,1794,ROCHER,マカオ
+GOLD,op.31 叙情,575,ROCHER,マカオ,1261,ROCHER,マカオ,1544,ROCHER,マカオ
+GOLD,never…,0,,未設定,909,MASIRO,マカオ,1804,ROCHER,マカオ
 GOLD,METALLIC MIND,589,MASIRO,マカオ,1357,MS.04,マカオ,1587,ROCHER,マカオ
 GOLD,Make Me Your Own,326,N.SPD,マカオ,1494,MP4-6,マカオ,2078,ROCHER,マカオ
 GOLD,Love Again...,540,TEITO.,マカオ,752,IIDX26,マカオ,1052,ROCHER,マカオ
@@ -366,7 +366,7 @@ GOLD,CROSSROAD ～Left Story～,519,N.SPD,マカオ,1705,RED*,マカオ,2181,ROC
 GOLD,CaptivAte～誓い～,655,YSYYSY,マカオ,1791,NARC17,マカオ,2215,ROCHER,マカオ
 GOLD,CaptivAte～裁き～,558,IIDX25,マカオ,1131,HALPIG,マカオ,1632,NCT-TY,マカオ
 GOLD,Candy Galy,1376,A,マカオ,2340,YANKUK,マカオ,3286,ROCHER,マカオ
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1136,-.-,マカオ,1761,MHBNT,マカオ,2440,ROCHER,マカオ
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1136,-.-,マカオ,1784,MS.04,マカオ,2440,ROCHER,マカオ
 GOLD,ANDROMEDA II,638,MASIRO,マカオ,1684,LUDI.,マカオ,2371,RETEYA,マカオ
 GOLD,Air Bell,0,,未設定,873,ARIA,マカオ,1705,ROCHER,マカオ
 DJ TROOPERS,走馬灯 -The Last Song-,483,TEITO.,マカオ,846,IIDX26,マカオ,1328,ROCHER,マカオ
@@ -378,7 +378,7 @@ DJ TROOPERS,エコ爺,503,EIFFEL,マカオ,754,EIFFEL,マカオ,1818,ROCHER,マ�
 DJ TROOPERS,Wanna Party?,0,,未設定,903,10K1PN,マカオ,1515,ROCHER,マカオ
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3082,SUSIE,マカオ
 DJ TROOPERS,Ubertreffen,1047,SINSIL,マカオ,1652,MHBNT,マカオ,2400,RETEYA,マカオ
-DJ TROOPERS,TROOPERS,522,MASIRO,マカオ,1991,SUZU*A,マカオ,2782,ROCHER,マカオ
+DJ TROOPERS,TROOPERS,522,MASIRO,マカオ,2082,OHOHOI,マカオ,2782,ROCHER,マカオ
 DJ TROOPERS,Time to Air,1133,MACH.,マカオ,1975,NARC17,マカオ,2727,ROCHER,マカオ
 DJ TROOPERS,the trigger of innocence,348,KSM555,マカオ,1114,A,マカオ,1848,ROCHER,マカオ
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3312,ROCHER,マカオ
@@ -386,7 +386,7 @@ DJ TROOPERS,THE DEEP STRIKER,736,TEITO.,マカオ,2038,RED*,マカオ,2942,ROCHE
 DJ TROOPERS,switch,688,TEITO.,マカオ,1331,BOZU#,マカオ,2018,ROCHER,マカオ
 DJ TROOPERS,STEEL NEEDLE,938,SKA,マカオ,1913,YANKUK,マカオ,2344,SUSIE,マカオ
 DJ TROOPERS,State Of The Art,1046,MP4-6,マカオ,1459,MS.04,マカオ,3026,ROCHER,マカオ
-DJ TROOPERS,SOUND OF GIALLARHORN,1151,SKA,マカオ,2094,A,マカオ,3162,ROCHER,マカオ
+DJ TROOPERS,SOUND OF GIALLARHORN,1151,SKA,マカオ,2223,RY0HMA,マカオ,3162,ROCHER,マカオ
 DJ TROOPERS,scar in the earth,0,,未設定,791,ARIA,マカオ,1504,ROCHER,マカオ
 DJ TROOPERS,satfinal,688,JASON,マカオ,1108,10K1PN,マカオ,1911,ROCHER,マカオ
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,未設定,1906,ROCHER,マカオ,2365,EROGAL,マカオ
@@ -405,7 +405,7 @@ DJ TROOPERS,in the Sky,919,MASIRO,マカオ,2102,ROCHER,マカオ,2423,IIDX26,�
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3254,ROCHER,マカオ
 DJ TROOPERS,ICARUS,844,4PRIM.,マカオ,2029,ROCHER,マカオ,2326,ROCHER,マカオ
 DJ TROOPERS,Freeway Shuffle,226,JYNX,マカオ,1016,10K1PN,マカオ,1723,NCT-TY,マカオ
-DJ TROOPERS,four pieces of heaven,0,,未設定,1281,RY0HMA,マカオ,2192,ROCHER,マカオ
+DJ TROOPERS,four pieces of heaven,0,,未設定,1374,K010R1,マカオ,2192,ROCHER,マカオ
 DJ TROOPERS,evergreen,568,FREE,マカオ,1146,NARC17,マカオ,1893,ROCHER,マカオ
 DJ TROOPERS,end of world,911,RE9*,マカオ,1786,ROCHER,マカオ,2264,.,マカオ
 DJ TROOPERS,Do it!! Do it!!,960,MS.04,マカオ,1449,BOOT,マカオ,1823,ROCHER,マカオ
@@ -453,7 +453,7 @@ EMPRESS,Kung-fu Empire,1375,HALPIG,マカオ,2448,RETEYA,マカオ,3147,ROCHER,�
 EMPRESS,Just a Little Smile,787,ZIP.,マカオ,1217,URADVD,マカオ,2318,ROCHER,マカオ
 EMPRESS,Jack,602,JACK,マカオ,958,MASIRO,マカオ,2135,ROCHER,マカオ
 EMPRESS,I'm Screaming LOVE,559,TEITO.,マカオ,1162,DAAAAA,マカオ,1687,ROCHER,マカオ
-EMPRESS,HYPERION,0,,未設定,2023,ROCHER,マカオ,2703,ROCHER,マカオ
+EMPRESS,HYPERION,700,!!!!!!,マカオ,2023,ROCHER,マカオ,2703,ROCHER,マカオ
 EMPRESS,Go Beyond!!,565,MASIRO,マカオ,1611,???,マカオ,1980,SUSIE,マカオ
 EMPRESS,Fly Above,912,MHBNT,マカオ,1304,10K1PN,マカオ,2028,ROCHER,マカオ
 EMPRESS,Flash Back 90's,404,TORI,マカオ,1700,BOZU#,マカオ,2302,ROCHER,マカオ
@@ -466,7 +466,7 @@ EMPRESS,Bahram Attack-猫叉Master Remix-,984,SKA,マカオ,1866,NCT-TY,マカ�
 EMPRESS,B4U(BEMANI FOR YOU MIX),954,SKA,マカオ,2046,ECCHI,マカオ,3409,ROCHER,マカオ
 EMPRESS,Arabian Rave Night,1077,SKA,マカオ,1889,K010R1,マカオ,2802,RETEYA,マカオ
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,858,ARIA,マカオ,1792,ROCHER,マカオ,2449,ROCHER,マカオ
-EMPRESS,ALL I NEED YOUR LOVE,0,,未設定,1259,HOON,マカオ,2046,RETEYA,マカオ
+EMPRESS,ALL I NEED YOUR LOVE,953,SKA,マカオ,1259,HOON,マカオ,2080,ROCHER,マカオ
 EMPRESS,3y3s,1261,HALPIG,マカオ,2298,NCT-TY,マカオ,3174,SUSIE,マカオ
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",588,TEITO.,マカオ,1589,KORINS,マカオ,2009,ROCHER,マカオ
 SIRIUS,未来のプリズム,0,,未設定,1031,10K1PN,マカオ,1756,ROCHER,マカオ
@@ -481,16 +481,16 @@ SIRIUS,THE LAST STRIKER,225,BABROH,マカオ,1809,BOZU#,マカオ,2525,RETEYA,�
 SIRIUS,Special One,0,,未設定,921,10K1PN,マカオ,1638,NCT-TY,マカオ
 SIRIUS,Sorrows,743,SKA,マカオ,1477,RE9*,マカオ,2453,ROCHER,マカオ
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3370,ROCHER,マカオ
-SIRIUS,SOLID STATE SQUAD,810,SKA,マカオ,1832,APINA*,マカオ,3356,ROCHER,マカオ
+SIRIUS,SOLID STATE SQUAD,810,SKA,マカオ,1832,AMETO!,マカオ,3356,ROCHER,マカオ
 SIRIUS,She is my wife,610,2.1CH*,マカオ,1365,IIDX26,マカオ,1834,MS.04,マカオ
 SIRIUS,Session 1 -Genesis-,680,TEITO.,マカオ,1307,FIRE,マカオ,2351,ROCHER,マカオ
 SIRIUS,Roots of my way!,461,KSM555,マカオ,1280,MP4-6,マカオ,2015,ROCHER,マカオ
-SIRIUS,Red. by Full Metal Jacket,952,A,マカオ,1873,G4-D.F,マカオ,2978,HUUUGE,マカオ
+SIRIUS,Red. by Full Metal Jacket,952,A,マカオ,1876,HANAXO,マカオ,2978,HUUUGE,マカオ
 SIRIUS,Raison d'?tre～交差する宿命～,1043,SKA,マカオ,1954,NOSHOW,マカオ,2570,SUSIE,マカオ
 SIRIUS,quell～the seventh slave～,807,TEITO.,マカオ,1496,KOOOHA,マカオ,3035,HUUUGE,マカオ
 SIRIUS,Programmed Sun,0,,未設定,1837,ROCHER,マカオ,2506,ROCHER,マカオ
 SIRIUS,NoN-Fiction Story!,653,MACH.,マカオ,1271,MHBNT,マカオ,2184,ROCHER,マカオ
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,736,FREE,マカオ,1995,OOOSH,マカオ,2615,ROCHER,マカオ
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1040,SKA,マカオ,1995,OOOSH,マカオ,2625,ROCHER,マカオ
 SIRIUS,mosaic,1393,HALPIG,マカオ,1979,???,マカオ,2976,ROCHER,マカオ
 SIRIUS,MIRACLE MEETS,0,,未設定,1459,BOZU#,マカオ,2188,ROCHER,マカオ
 SIRIUS,Light Shine,0,,未設定,1033,HALPIG,マカオ,1924,ROCHER,マカオ
@@ -510,14 +510,14 @@ SIRIUS,DROP,227,INIR,マカオ,1739,B4TTZ,マカオ,2555,ROCHER,マカオ
 SIRIUS,DOMINION,1097,SKA,マカオ,2105,SUZU*A,マカオ,3077,SUSIE,マカオ
 SIRIUS,DESIRE,551,6LM4ST,マカオ,1469,*,マカオ,2774,ROCHER,マカオ
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,428,JASON,マカオ,1392,BOZU#,マカオ,2067,ROCHER,マカオ
-SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1334,SKA,マカオ,2684,ROCHER,マカオ,3058,ROCHER,マカオ
-SIRIUS,D,1211,APINA*,マカオ,1563,AOBA,マカオ,2407,ROCHER,マカオ
+SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1359,SKA,マカオ,2684,ROCHER,マカオ,3058,ROCHER,マカオ
+SIRIUS,D,1211,AMETO!,マカオ,1563,AOBA,マカオ,2450,ROCHER,マカオ
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),877,SKA,マカオ,1513,BOZU#,マカオ,2419,ROCHER,マカオ
 SIRIUS,bloomin' feeling,1203,MIU,マカオ,1861,MHBNT,マカオ,2545,ROCHER,マカオ
 SIRIUS,being torn the sky,629,TEITO.,マカオ,1111,MHBNT,マカオ,1971,ROCHER,マカオ
 SIRIUS,BEAUTIFUL ANGEL,428,JASON,マカオ,1474,MS.HEI,マカオ,2349,BUDDAH,マカオ
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,未設定,1545,BOZU#,マカオ,1969,ROCHER,マカオ
-SIRIUS,bass 2 bass,669,AOBA,マカオ,935,ULTIMA,マカオ,1838,ROCHER,マカオ
+SIRIUS,bass 2 bass,669,AOBA,マカオ,1091,MACH.,マカオ,1838,ROCHER,マカオ
 SIRIUS,Bad Maniacs,1115,DAAAAA,マカオ,1652,NARC17,マカオ,3053,HUUUGE,マカオ
 SIRIUS,Almagest,848,KMKT.*,マカオ,2004,.,マカオ,3044,HUUUGE,マカオ
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1026,DAAAAA,マカオ,1831,ROCHER,マカオ,2223,.,マカオ
@@ -526,8 +526,8 @@ Resort Anthem,灼熱Beach Side Bunny,970,A,マカオ,1833,OMANK,マカオ,2861,H
 Resort Anthem,旅人リラン,974,PT9,マカオ,1810,AYABE7,マカオ,2556,ROCHER,マカオ
 Resort Anthem,夕焼け ～Fading Day～,0,,未設定,2043,ROCHER,マカオ,2732,ROCHER,マカオ
 Resort Anthem,中華急行,307,A,マカオ,1379,BOZU#,マカオ,2235,CAP!!!,マカオ
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,637,YAVAPE,マカオ,1236,MHBNT,マカオ,1683,FF.XIV,マカオ
-Resort Anthem,おおきなこえで,191,SK12,マカオ,746,B-MIGI,マカオ,1472,ROCHER,マカオ
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,637,YAVAPE,マカオ,1236,MHBNT,マカオ,1749,MS.04,マカオ
+Resort Anthem,おおきなこえで,191,SK12,マカオ,803,RY0HMA,マカオ,1472,ROCHER,マカオ
 Resort Anthem,ZETA～素数の世界と超越者～,540,TEITO.,マカオ,1858,HALPIG,マカオ,2994,ROCHER,マカオ
 Resort Anthem,XANADU OF TWO,880,SKA,マカオ,1648,KORINS,マカオ,2706,ROCHER,マカオ
 Resort Anthem,Wuv U,386,TEITO.,マカオ,1172,MHBNT,マカオ,1681,ROCHER,マカオ
@@ -543,7 +543,7 @@ Resort Anthem,STELLAR WIND,309,BABROH,マカオ,1679,NARC17,マカオ,2524,ROCHE
 Resort Anthem,Stay my side,570,TEITO.,マカオ,919,TEITO.,マカオ,1335,ROCHER,マカオ
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,669,TEITO.,マカオ,1439,MHBNT,マカオ,2872,ROCHER,マカオ
 Resort Anthem,Space Time,0,,未設定,1104,FIORE,マカオ,2116,ROCHER,マカオ
-Resort Anthem,Session 9 -Chronicles-,425,KSM555,マカオ,2020,APINA*,マカオ,3375,5RAGE,マカオ
+Resort Anthem,Session 9 -Chronicles-,425,KSM555,マカオ,2020,AMETO!,マカオ,3375,428,マカオ
 Resort Anthem,sakura storm,964,81*,マカオ,1230,MHBNT,マカオ,2301,ROCHER,マカオ
 Resort Anthem,Sakura Reflection,466,TEITO.,マカオ,1604,ROCHER,マカオ,2306,RETEYA,マカオ
 Resort Anthem,SABER WING,462,TEITO.,マカオ,1605,FIRE,マカオ,2761,ROCHER,マカオ
@@ -552,7 +552,7 @@ Resort Anthem,reunion,1298,HALPIG,マカオ,2243,SEXM4N,マカオ,3043,HUUUGE,�
 Resort Anthem,Programmed Life,0,,未設定,1795,ROCHER,マカオ,2152,SUSIE,マカオ
 Resort Anthem,perditus†paradisus,1034,DAAAAA,マカオ,2348,ROCHER,マカオ,3643,HUUUGE,マカオ
 Resort Anthem,passionate fate,898,TEITO.,マカオ,1496,MHBNT,マカオ,2105,ROCHER,マカオ
-Resort Anthem,PARADISE LOST,1088,SKA,マカオ,1933,APINA*,マカオ,3178,HUUUGE,マカオ
+Resort Anthem,PARADISE LOST,1088,SKA,マカオ,1940,OHOHOI,マカオ,3178,HUUUGE,マカオ
 Resort Anthem,Never Fade Away,0,,未設定,1169,MASIRO,マカオ,2935,ROCHER,マカオ
 Resort Anthem,Mermaid girl,817,KATATE,マカオ,1597,MHBNT,マカオ,2199,ROCHER,マカオ
 Resort Anthem,Medicine of love,327,XE-CUB,マカオ,665,6LM4ST,マカオ,1723,ROCHER,マカオ
@@ -585,8 +585,8 @@ Lincle,衰色小町メランコリア,544,JASON,マカオ,1329,HALPIG,マカオ,
 Lincle,蛇神,696,TEITO.,マカオ,1390,BOZU#,マカオ,2673,ROCHER,マカオ
 Lincle,聖人の塔,82,MASIRO,マカオ,1459,AAAAAA,マカオ,2780,ROCHER,マカオ
 Lincle,突撃!ガラスのニーソ姫!,599,TEITO.,マカオ,1072,HALPIG,マカオ,1993,.,マカオ
-Lincle,恋する☆宇宙戦争っ！！,739,XE-CUB,マカオ,1637,HALPIG,マカオ,3288,5RAGE,マカオ
-Lincle,子供の落書き帳,587,MASIRO,マカオ,1819,.,マカオ,2416,5RAGE,マカオ
+Lincle,恋する☆宇宙戦争っ！！,739,XE-CUB,マカオ,1637,HALPIG,マカオ,3288,428,マカオ
+Lincle,子供の落書き帳,587,MASIRO,マカオ,1819,.,マカオ,2416,428,マカオ
 Lincle,天空の夜明け,1115,DAAAAA,マカオ,2032,MACHI5,マカオ,3928,HUUUGE,マカオ
 Lincle,君のハートにロックオン,413,JASON,マカオ,1663,BOOT,マカオ,2534,RETEYA,マカオ
 Lincle,ユミル,377,BABROH,マカオ,1192,RE9*,マカオ,2759,ROCHER,マカオ
@@ -632,7 +632,7 @@ Lincle,HAERETICUS,0,,未設定,1741,VA-M,マカオ,2898,SUSIE,マカオ
 Lincle,Follow Tomorrow,780,TEITO.,マカオ,1404,BOZU#,マカオ,2247,ROCHER,マカオ
 Lincle,Flip Flap,531,TEITO.,マカオ,1111,10K1PN,マカオ,2210,ROCHER,マカオ
 Lincle,fffff,738,2.1CH*,マカオ,1906,ZIP.,マカオ,2999,HUUUGE,マカオ
-Lincle,Far east nightbird,500,TEITO.,マカオ,1070,SKA,マカオ,1975,ROCHER,マカオ
+Lincle,Far east nightbird,500,TEITO.,マカオ,1070,SKA,マカオ,1991,ROCHER,マカオ
 Lincle,F,971,SKA,マカオ,2033,MS.04,マカオ,3374,ROCHER,マカオ
 Lincle,Express Emotion,697,TEITO.,マカオ,942,SKA,マカオ,2486,ROCHER,マカオ
 Lincle,Drive Me Crazy,453,!!!!!!,マカオ,1292,MHBNT,マカオ,2282,ROCHER,マカオ
@@ -659,7 +659,7 @@ tricoro,仮想空間の旅人たち,1043,TEITO.,マカオ,1878,RE9*,マカオ,28
 tricoro,下弦の月,702,ARIA,マカオ,1346,MHBNT,マカオ,1962,ROCHER,マカオ
 tricoro,ラキラキ,496,FREE,マカオ,1348,BOZU#,マカオ,1960,ROCHER,マカオ
 tricoro,メイメツ、フラグメンツ,460,??????,マカオ,1236,KORINS,マカオ,1916,ROCHER,マカオ
-tricoro,トリカゴノ鳳凰,687,JACK,マカオ,1619,HALPIG,マカオ,3550,ROCHER,マカオ
+tricoro,トリカゴノ鳳凰,687,JACK,マカオ,1619,HALPIG,マカオ,3574,RETEYA,マカオ
 tricoro,シュレーディンガーの猫,865,MIZ-T,マカオ,2164,KENTO,マカオ,3193,RETEYA,マカオ
 tricoro,キャトられ恋はモ～モク,1281,DAAAAA,マカオ,2450,YANKUK,マカオ,3432,RETEYA,マカオ
 tricoro,カジノファイヤーことみちゃん,364,KSM555,マカオ,1195,A,マカオ,2291,ROCHER,マカオ
@@ -676,10 +676,10 @@ tricoro,VALLIS-NERIA,881,ARIA,マカオ,1914,VA-M,マカオ,2870,ROCHER,マカ�
 tricoro,Valanga,1175,DAAAAA,マカオ,2018,KORINS,マカオ,3064,SUSIE,マカオ
 tricoro,True Blue,951,TEITO.,マカオ,2160,MHBNT,マカオ,3605,ROCHER,マカオ
 tricoro,To my star,360,UPON?,マカオ,0,,未設定,1732,ROCHER,マカオ
-tricoro,Timepiece phase II (CN Ver.),831,DAAAAA,マカオ,1832,ROCHER,マカオ,2947,HUUUGE,マカオ
+tricoro,Timepiece phase II (CN Ver.),831,DAAAAA,マカオ,1852,ROCHER,マカオ,2947,HUUUGE,マカオ
 tricoro,Timepiece phase II,800,MASIRO,マカオ,2179,ROCHER,マカオ,3011,RETEYA,マカオ
 tricoro,Time To Empress,831,TEITO.,マカオ,1939,ROCHER,マカオ,2581,ROCHER,マカオ
-tricoro,Thor's Hammer,770,SKA,マカオ,1560,MHBNT,マカオ,2890,HUUUGE,マカオ
+tricoro,Thor's Hammer,770,SKA,マカオ,1636,MHBNT,マカオ,2890,HUUUGE,マカオ
 tricoro,Take My Life,857,TEITO.,マカオ,1311,10K1PN,マカオ,2838,ROCHER,マカオ
 tricoro,Synergy For Angels,0,,未設定,1584,BOZU#,マカオ,2641,RETEYA,マカオ
 tricoro,SYNC-ANTHEM,842,TEITO.,マカオ,2304,ULTIMA,マカオ,3476,RETEYA,マカオ
@@ -689,14 +689,14 @@ tricoro,SHION,647,TEITO.,マカオ,1179,B4TTZ,マカオ,2674,ROCHER,マカオ
 tricoro,Shining World,1068,ULTIMA,マカオ,1427,???,マカオ,1938,ROCHER,マカオ
 tricoro,Saturn,820,MASIRO,マカオ,1917,KORINS,マカオ,2530,ROCHER,マカオ
 tricoro,S!ck,724,SL.07X,マカオ,1396,HALPIG,マカオ,2561,SUSIE,マカオ
-tricoro,rumrum triplets,860,TEITO.,マカオ,1752,FIRE,マカオ,2883,RETEYA,マカオ
+tricoro,rumrum triplets,860,TEITO.,マカオ,1938,MS.04,マカオ,2883,RETEYA,マカオ
 tricoro,Re:GENERATION,804,ULTIMA,マカオ,1416,HALPIG,マカオ,2101,KON,マカオ
 tricoro,Rainbow after snow,676,TEITO.,マカオ,1353,MHBNT,マカオ,2136,ROCHER,マカオ
 tricoro,Proof of the existence,1052,SKA,マカオ,1748,MHBNT,マカオ,3038,RETEYA,マカオ
 tricoro,Praludium,479,!!!!!!,マカオ,1202,DAAAAA,マカオ,2244,ROCHER,マカオ
 tricoro,POINT ZERO,394,KSM555,マカオ,1115,RAGEO.,マカオ,2007,ROCHER,マカオ
 tricoro,planarian,645,TEITO.,マカオ,1508,MACH.,マカオ,2496,ROCHER,マカオ
-tricoro,Plan 8,1002,SKA,マカオ,1915,APINA*,マカオ,2856,SUSIE,マカオ
+tricoro,Plan 8,1002,SKA,マカオ,1915,AMETO!,マカオ,2856,SUSIE,マカオ
 tricoro,New Lights,1006,HALPIG,マカオ,1811,ROCHER,マカオ,2292,KON,マカオ
 tricoro,New Decade IIDX Edition,635,AAA,マカオ,1931,ROCHER,マカオ,2752,RETEYA,マカオ
 tricoro,neu,773,MIZ-T,マカオ,2049,VA-M,マカオ,3735,SUSIE,マカオ
@@ -714,7 +714,7 @@ tricoro,ILIAS,0,,未設定,1174,MHBNT,マカオ,2157,ROCHER,マカオ
 tricoro,I know You know,0,,未設定,0,,未設定,1842,ROCHER,マカオ
 tricoro,Howling†,0,,未設定,0,,未設定,2527,ROCHER,マカオ
 tricoro,Howling,445,MIZ-T,マカオ,1082,10K1PN,マカオ,2007,ZIP.,マカオ
-tricoro,Hollywood Galaxy,928,TEITO.,マカオ,1719,FIRE,マカオ,2547,5RAGE,マカオ
+tricoro,Hollywood Galaxy,928,TEITO.,マカオ,1719,FIRE,マカオ,2547,428,マカオ
 tricoro,GRADIUS 2012,819,TEITO.,マカオ,1575,BOZU#,マカオ,2547,ZIP.,マカオ
 tricoro,GAIA,886,SKA,マカオ,1974,VA-M,マカオ,3125,ROCHER,マカオ
 tricoro,Fly you to the star,708,TEITO.,マカオ,1548,BOZU#,マカオ,2235,ROCHER,マカオ
@@ -735,16 +735,16 @@ tricoro,8bit Princess,624,TEITO.,マカオ,0,,未設定,2611,ROCHER,マカオ
 tricoro,405nm (Ryu☆mix),789,KOMEDA,マカオ,1566,BOZU#,マカオ,2498,ROCHER,マカオ
 SPADA,轟け！恋のビーンボール！！,909,DAAAAA,マカオ,1809,AYASE,マカオ,3323,SUSIE,マカオ
 SPADA,超!!遠距離らぶ?メ～ル,431,ARIA,マカオ,1261,10K1PN,マカオ,2593,ROCHER,マカオ
-SPADA,罪と罰,897,TEITO.,マカオ,1210,GIGI.,マカオ,2091,ROCHER,マカオ
+SPADA,罪と罰,897,TEITO.,マカオ,1377,ROCHER,マカオ,2091,ROCHER,マカオ
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3119,SUSIE,マカオ
 SPADA,疾風迅雷,863,SKA,マカオ,2027,ROCHER,マカオ,2731,ROCHER,マカオ
 SPADA,牧神笛吹きて,434,KSM555,マカオ,1084,DAAAAA,マカオ,2008,ROCHER,マカオ
-SPADA,煉獄のエルフェリア,1025,10K1PN,マカオ,2108,APINA*,マカオ,3611,RETEYA,マカオ
+SPADA,煉獄のエルフェリア,1025,10K1PN,マカオ,2108,AMETO!,マカオ,3611,RETEYA,マカオ
 SPADA,海神,953,ULTIMA,マカオ,1899,SEXM4N,マカオ,2974,ROCHER,マカオ
 SPADA,旋律のドグマ～Miserables～,1100,SKA,マカオ,2260,MHBNT,マカオ,3713,RETEYA,マカオ
 SPADA,廿†,0,,未設定,0,,未設定,3090,ROCHER,マカオ
 SPADA,廿,471,KSM555,マカオ,1605,MS.04,マカオ,2264,ROCHER,マカオ
-SPADA,幻想系世界修復少女,444,ARIA,マカオ,717,CHRONO,マカオ,1855,MS.BJV,マカオ
+SPADA,幻想系世界修復少女,444,ARIA,マカオ,717,CHRONO,マカオ,1872,ZIP.,マカオ
 SPADA,バンブーソード・ガール,729,NATA8,マカオ,1822,ROCHER,マカオ,2262,.,マカオ
 SPADA,デッドボヲルdeホームラン,355,*,マカオ,1384,MHBNT,マカオ,2597,ROCHER,マカオ
 SPADA,アルストロメリア,755,ARIA,マカオ,1417,MACH.,マカオ,2441,ROCHER,マカオ
@@ -755,8 +755,8 @@ SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4175,SUSIE,マカオ
 SPADA,Verflucht,1068,SKA,マカオ,1939,VA-M,マカオ,3293,RETEYA,マカオ
 SPADA,Valgus,523,SL.07X,マカオ,1229,RE9*,マカオ,2321,ROCHER,マカオ
 SPADA,Unicorn tail,670,*,マカオ,2067,ROCHER,マカオ,3023,ROCHER,マカオ
-SPADA,THE DETONATOR,1319,DAAAAA,マカオ,2256,VA-M,マカオ,3029,.,マカオ
-SPADA,Squeeze,0,,未設定,1110,DAAAAA,マカオ,2286,.,マカオ
+SPADA,THE DETONATOR,1319,DAAAAA,マカオ,2348,MS.04,マカオ,3029,.,マカオ
+SPADA,Squeeze,0,,未設定,1230,B,マカオ,2286,.,マカオ
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,3861,SUSIE,マカオ
 SPADA,Sigmund,1343,IIDX26,マカオ,2144,MS.04,マカオ,3439,RETEYA,マカオ
 SPADA,SCHWARZSCHILD FIELD,716,TEITO.,マカオ,1603,ROCHER,マカオ,2204,SUSIE,マカオ
@@ -775,7 +775,7 @@ SPADA,Miracle 5ympho X,543,10K1PN,マカオ,1161,RE9*,マカオ,2553,ROCHER,マ�
 SPADA,MAGIC & LOVE,663,JASON,マカオ,1818,ROCHER,マカオ,2815,ROCHER,マカオ
 SPADA,MAD ATTACK,302,BABROH,マカオ,0,,未設定,1900,ROCHER,マカオ
 SPADA,m1dy Deluxe,748,SL.07X,マカオ,1758,ROCHER,マカオ,2330,SUSIE,マカオ
-SPADA,M.D.Injection,204,KSM555,マカオ,0,,未設定,2295,SUSIE,マカオ
+SPADA,M.D.Injection,204,KSM555,マカオ,0,,未設定,2344,ROCHER,マカオ
 SPADA,Lighting Shower,679,TEITO.,マカオ,894,MASIRO,マカオ,2205,RETEYA,マカオ
 SPADA,Last Dance,1045,NARC17,マカオ,1905,NCT-TY,マカオ,3113,ROCHER,マカオ
 SPADA,LA FESTA LA VITA!!,0,,未設定,1789,ROCHER,マカオ,2728,SUSIE,マカオ
@@ -794,14 +794,14 @@ SPADA,Hypersonik,0,,未設定,1502,MACH.,マカオ,2401,IIDX26,マカオ
 SPADA,HYENA,805,MIZ-T,マカオ,1952,ROCHER,マカオ,2692,ROCHER,マカオ
 SPADA,Funny shuffle,548,TEITO.,マカオ,1060,YANKUK,マカオ,2198,SUSIE,マカオ
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,3780,RETEYA,マカオ
-SPADA,Feel The Beat,1092,SKA,マカオ,2031,KORINS,マカオ,3403,HUUUGE,マカオ
+SPADA,Feel The Beat,1107,DAAAAA,マカオ,2031,KORINS,マカオ,3403,HUUUGE,マカオ
 SPADA,EXTREME MACH COLLIDER,288,6LM4ST,マカオ,1365,BOZU#,マカオ,2508,ROCHER,マカオ
 SPADA,Engraved Mark,700,TEITO.,マカオ,985,10K1PN,マカオ,2235,RETEYA,マカオ
 SPADA,Element of SPADA,673,TEITO.,マカオ,1345,RED*,マカオ,2074,ROCHER,マカオ
 SPADA,Elektrick U-Phoria,1036,SKA,マカオ,1987,ROCHER,マカオ,2934,.,マカオ
-SPADA,diagram,600,TEITO.,マカオ,644,ABEWHH,マカオ,2760,ROCHER,マカオ
+SPADA,diagram,600,TEITO.,マカオ,1129,MACH.,マカオ,2760,ROCHER,マカオ
 SPADA,Devilz Sacrifice -贖罪の羊-,420,MIRAI,マカオ,1243,BIO,マカオ,2406,ROCHER,マカオ
-SPADA,DARK LEGACY,987,F.,マカオ,1771,MHBNT,マカオ,3387,5RAGE,マカオ
+SPADA,DARK LEGACY,987,F.,マカオ,1771,MHBNT,マカオ,3387,428,マカオ
 SPADA,Dark Fall,420,6LM4ST,マカオ,1447,MS.04,マカオ,2611,ROCHER,マカオ
 SPADA,Critical Crystal,935,-.-,マカオ,1744,MS.04,マカオ,2726,ROCHER,マカオ
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3399,RETEYA,マカオ
@@ -825,10 +825,10 @@ PENDUAL,表裏一体！？怪盗いいんちょの悩み,466,6LM4ST,マカオ,21
 PENDUAL,紅牡丹,864,KATATE,マカオ,1768,RED*,マカオ,2750,ROCHER,マカオ
 PENDUAL,白露の風,470,ROCHER,マカオ,882,KATATE,マカオ,2007,ROCHER,マカオ
 PENDUAL,時空トラベローグ,0,,未設定,1741,MS.04,マカオ,2556,ROCHER,マカオ
-PENDUAL,打打打打打打打打打打,733,ULTIMA,マカオ,1144,MHBNT,マカオ,2581,ROCHER,マカオ
+PENDUAL,打打打打打打打打打打,733,ULTIMA,マカオ,1144,MHBNT,マカオ,2596,ROCHER,マカオ
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2693,ROCHER,マカオ
 PENDUAL,恋は白帯、サンシロー,750,ROCHER,マカオ,943,MASIRO,マカオ,2021,ROCHER,マカオ
-PENDUAL,少年は空を辿る,938,TEITO.,マカオ,1901,VA-M,マカオ,3009,5RAGE,マカオ
+PENDUAL,少年は空を辿る,938,TEITO.,マカオ,1901,VA-M,マカオ,3035,RETEYA,マカオ
 PENDUAL,妖隠し -あやかしかくし-,893,KOOOHA,マカオ,1579,ROCHER,マカオ,2161,ROCHER,マカオ
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,760,MIZ-T,マカオ,1714,MS.BJV,マカオ,2870,ROCHER,マカオ
 PENDUAL,取り残された美術(Arranged:HiZuMi),888,SKA,マカオ,1618,KORINS,マカオ,2185,ROCHER,マカオ
@@ -839,10 +839,10 @@ PENDUAL,リリーゼと炎龍レーヴァテイン,958,FIRE,マカオ,2120,NCT-T
 PENDUAL,ベィスドロップ・フリークス,543,PT9,マカオ,1176,NARC17,マカオ,2172,ROCHER,マカオ
 PENDUAL,パ→ピ→プ→Yeah!,912,ARIA,マカオ,1593,ROCHER,マカオ,2491,ROCHER,マカオ
 PENDUAL,ドッキン☆サマーあばんちゅーる,899,PT9,マカオ,1542,-,マカオ,2739,ROCHER,マカオ
-PENDUAL,もっと！モット！ときめき feat. 松下,1198,FIRE,マカオ,2056,ROCHER,マカオ,2543,ROCHER,マカオ
+PENDUAL,もっと！モット！ときめき feat. 松下,1198,FIRE,マカオ,2056,ROCHER,マカオ,2569,ROCHER,マカオ
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,454,KSM555,マカオ,1432,RETEYA,マカオ,2403,RETEYA,マカオ
 PENDUAL,とろぴかる倶楽部,0,,未設定,1371,ROCHER,マカオ,2178,ROCHER,マカオ
-PENDUAL,それは花火のような恋,1068,ULTIMA,マカオ,2316,ECCHI,マカオ,3609,RETEYA,マカオ
+PENDUAL,それは花火のような恋,1068,ULTIMA,マカオ,2348,BOOT,マカオ,3609,RETEYA,マカオ
 PENDUAL,ZZ,983,ARIA,マカオ,1982,YANKUK,マカオ,2901,ROCHER,マカオ
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,729,ZYUNKY,マカオ,2081,BOZU#,マカオ,3409,RETEYA,マカオ
 PENDUAL,Vulkan,662,21,マカオ,2015,ROCHER,マカオ,2872,SUSIE,マカオ
@@ -853,7 +853,7 @@ PENDUAL,TA・DA ☆ YO・SHI,963,TEITO.,マカオ,1607,MS.04,マカオ,2243,ROCH
 PENDUAL,Symmetry,0,,未設定,1953,NCT-TY,マカオ,3094,ROCHER,マカオ
 PENDUAL,Sweet Radar,399,AAAAAA,マカオ,1218,???,マカオ,2020,ROCHER,マカオ
 PENDUAL,SpaceLand☆TOYBOX,639,JACK,マカオ,1583,KORINS,マカオ,2778,ROCHER,マカオ
-PENDUAL,Sounds Of Summer,881,MIZ-T,マカオ,2012,SUSIE,マカオ,2812,NAMA-3,マカオ
+PENDUAL,Sounds Of Summer,881,MIZ-T,マカオ,2031,BOOT,マカオ,2812,NAMA-3,マカオ
 PENDUAL,Shooting Fireball,891,SKA,マカオ,2128,NCT-TY,マカオ,3703,ROCHER,マカオ
 PENDUAL,Scars of FAUNA,718,TEITO.,マカオ,1642,MS.04,マカオ,2790,ROCHER,マカオ
 PENDUAL,Scarlet Moon,947,DAAAAA,マカオ,1940,ROCHER,マカオ,2555,RETEYA,マカオ
@@ -873,7 +873,7 @@ PENDUAL,Monopole.,568,JASON,マカオ,1599,MUSCLE,マカオ,3106,RETEYA,マカ�
 PENDUAL,m1dy Festival,0,,未設定,1333,ARYWS,マカオ,2317,ROCHER,マカオ
 PENDUAL,Line 4 Ruin,635,DAAAAA,マカオ,1786,ZIP.,マカオ,2761,ROCHER,マカオ
 PENDUAL,IXION,910,TEITO.,マカオ,1315,10K1PN,マカオ,2151,ROCHER,マカオ
-PENDUAL,Invitation from Mr.C,714,C4Z.VI,マカオ,1570,ROCHER,マカオ,2523,5RAGE,マカオ
+PENDUAL,Invitation from Mr.C,714,C4Z.VI,マカオ,1570,ROCHER,マカオ,2523,428,マカオ
 PENDUAL,In The Breeze,486,KAI*CI,マカオ,1063,MACH.,マカオ,1632,RETEYA,マカオ
 PENDUAL,IMPLANTATION,513,GIGI.,マカオ,1563,NARC17,マカオ,2242,HUUUGE,マカオ
 PENDUAL,illuminate,0,,未設定,1280,HALPIG,マカオ,2144,MIKU-P,マカオ
@@ -883,7 +883,7 @@ PENDUAL,GUILTY,0,,未設定,930,FIORE,マカオ,1753,.,マカオ
 PENDUAL,Gravigazer,708,4PRIM.,マカオ,1453,YUUKI,マカオ,2778,RETEYA,マカオ
 PENDUAL,Flashes,796,TEITO.,マカオ,1718,NARC17,マカオ,3081,SUSIE,マカオ
 PENDUAL,FANTASTIC THREE,0,,未設定,2043,KORINS,マカオ,2998,ROCHER,マカオ
-PENDUAL,fallen leaves -IIDX edition-,1022,SKA,マカオ,1741,MP4-6,マカオ,3177,RETEYA,マカオ
+PENDUAL,fallen leaves -IIDX edition-,1022,SKA,マカオ,1869,OHOHOI,マカオ,3177,RETEYA,マカオ
 PENDUAL,Erosion Mark,600,MIZ-T,マカオ,1335,MACH.,マカオ,2065,SUSIE,マカオ
 PENDUAL,entelecheia,915,SKA,マカオ,2005,ULTIMA,マカオ,3121,RETEYA,マカオ
 PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3070,ROCHER,マカオ
@@ -903,21 +903,21 @@ PENDUAL,chrono diver -fragment-,685,ROCHER,マカオ,1088,HALPIG,マカオ,1784,
 PENDUAL,Chain of pain,0,,未設定,1369,KOOOHA,マカオ,2115,.,マカオ
 PENDUAL,Broken Sword,1056,KATATE,マカオ,1917,MAPLE,マカオ,3540,ROCHER,マカオ
 PENDUAL,BLUE MIRAGE,317,MIRAI,マカオ,1898,MS.04,マカオ,2649,ROCHER,マカオ
-PENDUAL,Blaze it UP!,855,TEITO.,マカオ,1660,RE9*,マカオ,2889,ROCHER,マカオ
+PENDUAL,Blaze it UP!,855,TEITO.,マカオ,1660,RE9*,マカオ,2901,ROCHER,マカオ
 PENDUAL,Beyond The Earth,783,10K1PN,マカオ,1923,MAPLE,マカオ,3015,ROCHER,マカオ
-PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3401,5RAGE,マカオ
+PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3401,428,マカオ
 PENDUAL,Beat Radiance,854,TEITO.,マカオ,1496,MHBNT,マカオ,2520,ZIP.,マカオ
 PENDUAL,Amnolys,0,,未設定,1503,FIRE,マカオ,2468,ZIP.,マカオ
-PENDUAL,AFRO KNUCKLE,388,BIO,マカオ,1669,KORINS,マカオ,2339,ROCHER,マカオ
+PENDUAL,AFRO KNUCKLE,388,BIO,マカオ,1669,KORINS,マカオ,2362,ROCHER,マカオ
 PENDUAL,#The_Relentless,904,SKA,マカオ,2003,ROCHER,マカオ,2841,ROCHER,マカオ
 copula,麗 ～うらら～,1003,-.-,マカオ,1781,ROCHER,マカオ,2564,ROCHER,マカオ
-copula,駅猫のワルツ,835,BIO,マカオ,1840,NCT-TY,マカオ,2589,HUUUGE,マカオ
+copula,駅猫のワルツ,835,BIO,マカオ,1890,MS.04,マカオ,2589,HUUUGE,マカオ
 copula,量子の海のリントヴルム,766,TEITO.,マカオ,1650,MS.04,マカオ,2865,ROCHER,マカオ
 copula,追想快晴テーマパーク,0,,未設定,1852,C4Z.VI,マカオ,2864,ZIP.,マカオ
 copula,紫陽花 -AZISAI-,939,MIZ-T,マカオ,1909,NCT-TY,マカオ,2700,ROCHER,マカオ
 copula,真 地獄超特急 -HELL or HELL-,1271,MACH.,マカオ,2077,OOOSH,マカオ,3018,SUSIE,マカオ
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),846,MASIRO,マカオ,2078,ROCHER,マカオ,2391,.,マカオ
-copula,灼熱 Pt.2 Long Train Running,1149,MS.04,マカオ,1967,ROCHER,マカオ,2838,ROCHER,マカオ
+copula,灼熱 Pt.2 Long Train Running,1209,NOSHOW,マカオ,1967,ROCHER,マカオ,2838,ROCHER,マカオ
 copula,朝焼けから始まるボクらの小さな旅,0,,未設定,1632,ROCHER,マカオ,2325,ROCHER,マカオ
 copula,星屑ディスタンシア,635,NARC17,マカオ,452,ABEWHH,マカオ,1965,ZIP.,マカオ
 copula,明鏡止水,737,TEITO.,マカオ,1863,ROCHER,マカオ,2693,HUUUGE,マカオ
@@ -930,7 +930,7 @@ copula,めいさいアイドル☆あいむちゃん♪,1224,HOON,マカオ,2089
 copula,か・し・ま・し☆PUMP UP！,661,FREE,マカオ,1845,ROCHER,マカオ,2564,.,マカオ
 copula,ZEPHYRANTHES,976,MP4-6,マカオ,1819,ROCHER,マカオ,2831,RETEYA,マカオ
 copula,X,1359,10K1PN,マカオ,2375,MS.04,マカオ,3613,NAMA-3,マカオ
-copula,Welcome,0,,未設定,1607,MS.SJV,マカオ,2540,ROCHER,マカオ
+copula,Welcome,0,,未設定,1607,MS.SJV,マカオ,2583,ROCHER,マカオ
 copula,Violet Rose,984,DJDJDJ,マカオ,1964,ROCHER,マカオ,2492,ROCHER,マカオ
 copula,Violet Pulse,410,TEITO.,マカオ,1199,FIORE,マカオ,2207,ZIP.,マカオ
 copula,Uh-Oh,1009,DAAAAA,マカオ,1595,MS.04,マカオ,2233,ZIP.,マカオ
@@ -941,7 +941,7 @@ copula,SURVIVOR,295,K4ZN##,マカオ,1094,YUUKI,マカオ,1994,ROCHER,マカオ
 copula,Super Duper Racers,855,SKA,マカオ,1458,MS.04,マカオ,2205,RETEYA,マカオ
 copula,StrayedCatz,885,ARIA,マカオ,1886,MACHI5,マカオ,2649,SUSIE,マカオ
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3097,ROCHER,マカオ
-copula,STARLIGHT DANCEHALL,1033,ULTIMA,マカオ,1831,ROCHER,マカオ,2464,RETEYA,マカオ
+copula,STARLIGHT DANCEHALL,1033,ULTIMA,マカオ,1831,ROCHER,マカオ,2535,ROCHER,マカオ
 copula,STARLiGHT,645,MIZ-T,マカオ,1785,ROCHER,マカオ,2513,ZIP.,マカオ
 copula,SHELTER OF THE MIND,1279,SKA,マカオ,2014,ROCHER,マカオ,2861,ZIP.,マカオ
 copula,Set U Free feat. Kanae Asaba,274,KSM555,マカオ,1036,LSP*,マカオ,2419,ROCHER,マカオ
@@ -951,12 +951,12 @@ copula,Routing,502,FIORE,マカオ,1640,ROCHER,マカオ,2441,ROCHER,マカオ
 copula,Rock It,0,,未設定,1494,RE9*,マカオ,2779,RETEYA,マカオ
 copula,refrain,1152,A,マカオ,2149,NCT-TY,マカオ,3411,ROCHER,マカオ
 copula,quick master (reform version),160,ROCHER,マカオ,268,BIO,マカオ,526,ROCHER,マカオ
-copula,POSSESSION,1365,ROCHER,マカオ,1924,APINA*,マカオ,2850,ROCHER,マカオ
+copula,POSSESSION,1365,ROCHER,マカオ,1924,AMETO!,マカオ,2850,ROCHER,マカオ
 copula,OUTER LIMITS ALTERNATIVE,0,,未設定,1430,DAAAAA,マカオ,2506,.,マカオ
 copula,Outbreak,726,21,マカオ,1836,ROCHER,マカオ,2868,SUSIE,マカオ
 copula,On the FM,711,YSYYSY,マカオ,1530,MS.04,マカオ,2624,SUSIE,マカオ
 copula,NZM,0,,未設定,1597,ROCHER,マカオ,3120,RETEYA,マカオ
-copula,Nowhere,754,MACH.,マカオ,0,,未設定,2140,ROCHER,マカオ
+copula,Nowhere,754,MACH.,マカオ,918,MASIRO,マカオ,2140,ROCHER,マカオ
 copula,NO LIMIT -オレ達に限界は無い-,750,MACH.,マカオ,797,MASIRO,マカオ,2223,ROCHER,マカオ
 copula,NINJA IS DEAD IIDX ver.,728,F.,マカオ,1883,ROCHER,マカオ,2809,ROCHER,マカオ
 copula,Nightmare before oversleep,1017,10K1PN,マカオ,1658,W,マカオ,2793,NAMA-3,マカオ
@@ -988,7 +988,7 @@ copula,Damage Per Second,411,JASON,マカオ,901,AAAAA,マカオ,2011,ROCHER,マ
 copula,Daily Lunch Special,883,TEITO.,マカオ,2107,ROCHER,マカオ,2845,ROCHER,マカオ
 copula,CODE:1 [revision1.0.1],0,,未設定,1742,ROCHER,マカオ,2896,ROCHER,マカオ
 copula,chaos eater -IIDX edition-,0,,未設定,1686,ROCHER,マカオ,2543,SUSIE,マカオ
-copula,Central Station,955,MACH.,マカオ,1496,MS.04,マカオ,2281,5RAGE,マカオ
+copula,Central Station,955,MACH.,マカオ,1496,MS.04,マカオ,2281,428,マカオ
 copula,Blue Spring Express,1206,KENTO,マカオ,1890,NCT-TY,マカオ,3017,ROCHER,マカオ
 copula,Battle Train -IIDX Edition-,294,INIR,マカオ,2235,MACHI5,マカオ,3018,.,マカオ
 copula,Aublia,573,KAI*CI,マカオ,1492,RED*,マカオ,2461,ROCHER,マカオ
@@ -998,8 +998,8 @@ copula,Angelic Jelly,424,YSYYSY,マカオ,2055,ROCHER,マカオ,2432,MS.04,マ�
 copula,Acid Pumper,424,EIFFEL,マカオ,1398,MHBNT,マカオ,2360,ROCHER,マカオ
 copula,199024club -Re:BounceKiller-,391,N.SPD,マカオ,1438,OHOHOI,マカオ,2161,ROCHER,マカオ
 SINOBUZ,鴉,1184,10K1PN,マカオ,2053,MACHI5,マカオ,2597,SUSIE,マカオ
-SINOBUZ,童話回廊,704,FIORE,マカオ,1745,ROCHER,マカオ,2948,ROCHER,マカオ
-SINOBUZ,禍根,584,BIO,マカオ,1348,ROCHER,マカオ,2487,ROCHER,マカオ
+SINOBUZ,童話回廊,848,MACH.,マカオ,1745,ROCHER,マカオ,2948,ROCHER,マカオ
+SINOBUZ,禍根,584,BIO,マカオ,1348,ROCHER,マカオ,2494,ROCHER,マカオ
 SINOBUZ,獅子霞麗ノ舞,467,TEITO.,マカオ,661,ARIA,マカオ,1695,ROCHER,マカオ
 SINOBUZ,焔極OVERKILL,918,SKA,マカオ,2072,ROCHER,マカオ,3340,SUSIE,マカオ
 SINOBUZ,炎影,394,KSM555,マカオ,1376,ROCHER,マカオ,2556,ROCHER,マカオ
@@ -1024,20 +1024,20 @@ SINOBUZ,Warrior,0,,未設定,1723,RED*,マカオ,2391,SUSIE,マカオ
 SINOBUZ,Vermilion,825,BOZU#,マカオ,1324,RED*,マカオ,1956,ROCHER,マカオ
 SINOBUZ,Venom,0,,未設定,1994,RED*,マカオ,3030,ROCHER,マカオ
 SINOBUZ,Umbral,552,TEITO.,マカオ,1114,HOON,マカオ,1899,ROCHER,マカオ
-SINOBUZ,TOGAKUSHI,448,MIRAI,マカオ,1792,NCT-TY,マカオ,2415,RETEYA,マカオ
+SINOBUZ,TOGAKUSHI,448,MIRAI,マカオ,1814,BOOT,マカオ,2415,RETEYA,マカオ
 SINOBUZ,The Commanders,842,SKA,マカオ,1352,???,マカオ,2437,ROCHER,マカオ
 SINOBUZ,Sweet Clapper,548,TEITO.,マカオ,1156,MHBNT,マカオ,1893,ROCHER,マカオ
 SINOBUZ,Super Rush,874,TEITO.,マカオ,1842,ROCHER,マカオ,3346,ROCHER,マカオ
 SINOBUZ,Summerlights(IIDX Edition),0,,未設定,1832,ROCHER,マカオ,2907,RETEYA,マカオ
 SINOBUZ,Summer,534,TEITO.,マカオ,1052,KMKT.*,マカオ,1933,ROCHER,マカオ
 SINOBUZ,Steel Edge,529,MIRAI,マカオ,1414,NCT-TY,マカオ,3026,SUSIE,マカオ
-SINOBUZ,Snakey Kung-fu,1032,MP4-6,マカオ,2057,NCT-TY,マカオ,3220,ROCHER,マカオ
+SINOBUZ,Snakey Kung-fu,1032,MP4-6,マカオ,2167,ROCHER,マカオ,3266,ROCHER,マカオ
 SINOBUZ,Sky High,832,MIZ-T,マカオ,2235,IIDX26,マカオ,3587,ROCHER,マカオ
 SINOBUZ,SINOBUZ Fantasy,657,FREE,マカオ,1709,ROCHER,マカオ,2327,MS.04,マカオ
 SINOBUZ,shuriken,457,*,マカオ,895,YUUKI,マカオ,2469,ROCHER,マカオ
 SINOBUZ,Shoot'Em All,0,,未設定,1449,RED*,マカオ,2284,.,マカオ
 SINOBUZ,SEQUENCE CAT,0,,未設定,2039,NCT-TY,マカオ,2745,RETEYA,マカオ
-SINOBUZ,Selfish Sweet,477,GIZUMO,マカオ,863,A$AMI*,マカオ,1591,BUDDAH,マカオ
+SINOBUZ,Selfish Sweet,477,GIZUMO,マカオ,863,A$AMI*,マカオ,1686,ROCHER,マカオ
 SINOBUZ,Seize the Day,681,*,マカオ,1245,BOZU#,マカオ,2102,ROCHER,マカオ
 SINOBUZ,Seaside Labyrinth,390,MIZ-T,マカオ,449,MASIRO,マカオ,1676,KUANOK,マカオ
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,0,,未設定,1413,ALE.G,マカオ,1982,WACCAS,マカオ
@@ -1063,14 +1063,14 @@ SINOBUZ,Macuilxochitl,1075,10K1PN,マカオ,2096,RED*,マカオ,3204,ROCHER,マ�
 SINOBUZ,Lost wing at.0,0,,未設定,1413,RED*,マカオ,2255,NAMA-3,マカオ
 SINOBUZ,INVISIBLE STRIX,1108,MP4-6,マカオ,1812,MS.SJV,マカオ,2471,SUSIE,マカオ
 SINOBUZ,Honey Trap,748,TEITO.,マカオ,1286,10K1PN,マカオ,2444,ROCHER,マカオ
-SINOBUZ,HAPPY★RUSH,663,TEITO.,マカオ,1891,ROCHER,マカオ,2671,RETEYA,マカオ
+SINOBUZ,HAPPY★RUSH,663,TEITO.,マカオ,1891,ROCHER,マカオ,2711,RETEYA,マカオ
 SINOBUZ,HADES,807,ARIA,マカオ,1856,ROCHER,マカオ,2860,SUSIE,マカオ
 SINOBUZ,GuNGNiR,1073,MR.LOS,マカオ,2298,VA-M,マカオ,3697,SUSIE,マカオ
 SINOBUZ,Go Ahead!!,734,10K1PN,マカオ,1471,???,マカオ,2392,SUSIE,マカオ
 SINOBUZ,FUZIN RIZIN,1039,TEITO.,マカオ,1892,RED*,マカオ,3644,ROCHER,マカオ
 SINOBUZ,elemental bender feat. Kanae Asaba,299,RU****,マカオ,985,DEZ,マカオ,1614,ROCHER,マカオ
 SINOBUZ,Egret and Willow,451,YKC*YD,マカオ,1625,RED*,マカオ,2637,ROCHER,マカオ
-SINOBUZ,ECHIDNA,1248,MP4-6,マカオ,1927,NCT-TY,マカオ,3049,5RAGE,マカオ
+SINOBUZ,ECHIDNA,1248,MP4-6,マカオ,1927,NCT-TY,マカオ,3049,428,マカオ
 SINOBUZ,DORNWALD ～Junge～,1103,TEITO.,マカオ,2110,NCT-TY,マカオ,3366,RETEYA,マカオ
 SINOBUZ,DISAPPEAR feat. koyomin,426,JASON,マカオ,1866,ROCHER,マカオ,2726,ROCHER,マカオ
 SINOBUZ,Cyber True Color,156,AAAAAA,マカオ,1675,ROCHER,マカオ,2197,BUDDAH,マカオ
@@ -1084,10 +1084,10 @@ SINOBUZ,Believe in you,1032,TEITO.,マカオ,1798,BOZU#,マカオ,2291,NCT-TY,�
 SINOBUZ,Beat Juggling Mix,873,MP4-6,マカオ,1286,MS.SJV,マカオ,2080,ROCHER,マカオ
 SINOBUZ,Be A Star,890,TEITO.,マカオ,1834,ROCHER,マカオ,2770,ROCHER,マカオ
 SINOBUZ,BabeL ～Grand Story～,632,YSYYSY,マカオ,2079,ROCHER,マカオ,2673,ROCHER,マカオ
-SINOBUZ,AsiaN distractive,0,,未設定,1351,MR.LOS,マカオ,2556,ROCHER,マカオ
+SINOBUZ,AsiaN distractive,0,,未設定,1392,10K1PN,マカオ,2556,ROCHER,マカオ
 SINOBUZ,Around The Galaxy,522,KSM555,マカオ,2092,ROCHER,マカオ,3252,RETEYA,マカオ
 SINOBUZ,Apocalypse,1107,FIRE,マカオ,2140,ROCHER,マカオ,3369,ROCHER,マカオ
-SINOBUZ,AO-∞,890,ARIA,マカオ,1830,ROCHER,マカオ,2340,NCT-TY,マカオ
+SINOBUZ,AO-∞,953,TEITO.,マカオ,1830,ROCHER,マカオ,2340,NCT-TY,マカオ
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3112,ROCHER,マカオ
 SINOBUZ,Amazing Mirage,787,TEITO.,マカオ,1756,ROCHER,マカオ,2545,ROCHER,マカオ
 SINOBUZ,Affection,284,ALMN.,マカオ,771,JACK,マカオ,2010,RETEYA,マカオ
@@ -1109,14 +1109,14 @@ CANNON BALLERS,ナイトシティー・アヴァンチュール,884,PT9,マカ�
 CANNON BALLERS,シムルグの目醒め,1164,ULTIMA,マカオ,2222,OOOSH,マカオ,3150,SUSIE,マカオ
 CANNON BALLERS,エディブルフラワーの独白,725,10K1PN,マカオ,1428,MHBNT,マカオ,2187,ROCHER,マカオ
 CANNON BALLERS,うさ☆かめ 大戦争！,643,NATA8,マカオ,1347,HALPIG,マカオ,2418,ROCHER,マカオ
-CANNON BALLERS,Xperanza,1293,MHBNT,マカオ,2289,MS.BJV,マカオ,2897,RETEYA,マカオ
-CANNON BALLERS,VOX RUSH,1016,SKA,マカオ,2153,OOOSH,マカオ,3025,RETEYA,マカオ
+CANNON BALLERS,Xperanza,1293,MHBNT,マカオ,2289,MS.BJV,マカオ,2901,ROCHER,マカオ
+CANNON BALLERS,VOX RUSH,1019,SKA,マカオ,2153,OOOSH,マカオ,3025,RETEYA,マカオ
 CANNON BALLERS,Usual Days-remix,0,,未設定,1475,ROCHER,マカオ,2597,ROCHER,マカオ
 CANNON BALLERS,UMMU,925,ULTIMA,マカオ,1999,RETEYA,マカオ,2880,ROCHER,マカオ
 CANNON BALLERS,The Revolution (VIP Mix),0,,未設定,1213,KMKT.*,マカオ,1842,ROCHER,マカオ
-CANNON BALLERS,The Chase,0,,未設定,1201,MACHI5,マカオ,1912,ROCHER,マカオ
+CANNON BALLERS,The Chase,0,,未設定,1207,HANAXO,マカオ,1912,ROCHER,マカオ
 CANNON BALLERS,THE CANNONBALLER,1121,MASIRO,マカオ,2294,RED*,マカオ,3318,ROCHER,マカオ
-CANNON BALLERS,Temple of Anubis,791,ARIA,マカオ,1479,RED*,マカオ,2453,RETEYA,マカオ
+CANNON BALLERS,Temple of Anubis,791,ARIA,マカオ,1479,RED*,マカオ,2611,ROCHER,マカオ
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,未設定,1785,ROCHER,マカオ,2490,.,マカオ
 CANNON BALLERS,Static State,678,YSYYSY,マカオ,1560,WACCAS,マカオ,2094,ZIP.,マカオ
 CANNON BALLERS,STARLIGHT JUNCTION,665,FIORE,マカオ,1491,BOZU#,マカオ,2248,ROCHER,マカオ
@@ -1146,7 +1146,7 @@ CANNON BALLERS,Illusionary Waterlily,1194,B4TTZ,マカオ,2099,.,マカオ,3272,
 CANNON BALLERS,I'm Coming (2017 Version),306,RU****,マカオ,1124,DAAAAA,マカオ,2086,ROCHER,マカオ
 CANNON BALLERS,I Love You,899,TEITO.,マカオ,1869,ROCHER,マカオ,2681,ROCHER,マカオ
 CANNON BALLERS,HYPE THE CORE,532,NORI**,マカオ,1792,VA-M,マカオ,2787,RETEYA,マカオ
-CANNON BALLERS,Hella Deep,602,MP4-6,マカオ,969,ROCHER,マカオ,1803,ROCHER,マカオ
+CANNON BALLERS,Hella Deep,631,NCT-TY,マカオ,969,ROCHER,マカオ,1803,ROCHER,マカオ
 CANNON BALLERS,HAT TRICK,785,MHBNT,マカオ,1390,RED*,マカオ,2194,ROCHER,マカオ
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,未設定,1105,NAMA-3,マカオ,1849,ROCHER,マカオ
 CANNON BALLERS,FUTURE is Dead,711,TEITO.,マカオ,1403,YANKUK,マカオ,2136,ROCHER,マカオ
@@ -1156,8 +1156,8 @@ CANNON BALLERS,FIRE BALL,0,,未設定,1642,ROCHER,マカオ,2383,ROCHER,マカ�
 CANNON BALLERS,Fervidex,435,ABEWHH,マカオ,1817,ROCHER,マカオ,2645,ROCHER,マカオ
 CANNON BALLERS,Expanded !!,635,TEITO.,マカオ,1110,MR.LOS,マカオ,2528,SUSIE,マカオ
 CANNON BALLERS,Exhaust Hype,910,TEITO.,マカオ,1735,BOZU#,マカオ,2745,ROCHER,マカオ
-CANNON BALLERS,encounter,692,MIRAI,マカオ,1744,ROCHER,マカオ,3128,ROCHER,マカオ
-CANNON BALLERS,EMERALDAS,1144,B4TTZ,マカオ,2391,ROCHER,マカオ,3108,5RAGE,マカオ
+CANNON BALLERS,encounter,855,TEITO.,マカオ,1744,ROCHER,マカオ,3128,ROCHER,マカオ
+CANNON BALLERS,EMERALDAS,1144,B4TTZ,マカオ,2391,ROCHER,マカオ,3108,428,マカオ
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,未設定,1143,GIGI.,マカオ,2451,ROCHER,マカオ
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1129,TEITO.,マカオ,2188,VA-M,マカオ,3761,SUSIE,マカオ
 CANNON BALLERS,DEADHEAT,1087,JC!,マカオ,1782,NAKI,マカオ,3079,SUSIE,マカオ
@@ -1166,7 +1166,7 @@ CANNON BALLERS,City Never Sleeps (IIDX Edition),910,KMKT.*,マカオ,1899,ROCHER
 CANNON BALLERS,Chemical Cookie,598,4PRIM.,マカオ,1325,MHBNT,マカオ,2093,ROCHER,マカオ
 CANNON BALLERS,ChaserXX,769,10K1PN,マカオ,1910,ROCHER,マカオ,2712,ROCHER,マカオ
 CANNON BALLERS,Break Stasis,1076,TEITO.,マカオ,1915,ROCHER,マカオ,2247,HANAXO,マカオ
-CANNON BALLERS,Boomy and The Boost,809,SKA,マカオ,1987,ROCHER,マカオ,3320,ROCHER,マカオ
+CANNON BALLERS,Boomy and The Boost,838,SKA,マカオ,1987,ROCHER,マカオ,3320,ROCHER,マカオ
 CANNON BALLERS,Best of Me,756,TEITO.,マカオ,1557,RED*,マカオ,2058,IX,マカオ
 CANNON BALLERS,Beast mode,650,ZYUNKY,マカオ,1542,ROCHER,マカオ,2467,MS.04,マカオ
 CANNON BALLERS,Be a Hero!,698,TEITO.,マカオ,1954,ROCHER,マカオ,2765,MS.04,マカオ
@@ -1183,7 +1183,7 @@ CANNON BALLERS,Acidiva 303,757,TEITO.,マカオ,1008,ARIA,マカオ,2178,.,マ�
 CANNON BALLERS,ACCELERATE,0,,未設定,1371,HOON,マカオ,2315,KUANOK,マカオ
 CANNON BALLERS,Abraxas,570,XE-CUB,マカオ,1511,STR!VE,マカオ,2341,ROCHER,マカオ
 CANNON BALLERS,AA -rebuild-,1059,DAAAAA,マカオ,2173,RED*,マカオ,3315,SUSIE,マカオ
-CANNON BALLERS,255,0,,未設定,1508,MS.04,マカオ,3017,5RAGE,マカオ
+CANNON BALLERS,255,0,,未設定,1508,MS.04,マカオ,3017,428,マカオ
 CANNON BALLERS,2 Player,0,,未設定,1464,A$AMI*,マカオ,2484,ROCHER,マカオ
 CANNON BALLERS,1001 -ESCAPE-,946,IIDX26,マカオ,1455,MHBNT,マカオ,2609,ROCHER,マカオ
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1054,MACH.,マカオ,2312,ROCHER,マカオ,3156,ROCHER,マカオ
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1302,ROCHER,マカオ,2287,ROCHER,マカ�
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,652,BOZU#,マカオ,1522,ROCHER,マカオ,2529,ROCHER,マカオ
 Rootage,ミストレス・アンに花束を,533,IIDX26,マカオ,994,RED*,マカオ,1422,ROCHER,マカオ
 Rootage,ハードベース・フェスタ,1058,MACH.,マカオ,1803,ROCHER,マカオ,2773,ROCHER,マカオ
-Rootage,セカンドピアス,570,APINA*,マカオ,1094,RED*,マカオ,1998,ROCHER,マカオ
+Rootage,セカンドピアス,570,AMETO!,マカオ,1094,RED*,マカオ,1998,ROCHER,マカオ
 Rootage,サクラあっぱれーしょん,631,ROCHER,マカオ,1553,ROCHER,マカオ,2298,ROCHER,マカオ
 Rootage,グラナダの風,776,MP4-6,マカオ,1236,ROCHER,マカオ,1824,ROCHER,マカオ
 Rootage,Yum Yum Jelly,744,MP4-6,マカオ,1584,ROCHER,マカオ,2304,ROCHER,マカオ
@@ -1226,19 +1226,19 @@ Rootage,Playing With Fire,920,RE9*,マカオ,1666,ROCHER,マカオ,2262,ROCHER,�
 Rootage,Particle Arts,820,MP4-6,マカオ,1637,ROCHER,マカオ,2446,ROCHER,マカオ
 Rootage,Painful Fate,1149,MP4-6,マカオ,2131,MS.04,マカオ,3073,RETEYA,マカオ
 Rootage,OVER TIME,555,MP4-6,マカオ,969,RED*,マカオ,1542,ROCHER,マカオ
-Rootage,Necroxis Girl,1087,MP4-6,マカオ,1956,ROCHER,マカオ,2656,ROCHER,マカオ
+Rootage,Necroxis Girl,1087,MP4-6,マカオ,1956,ROCHER,マカオ,2664,SUSIE,マカオ
 Rootage,Macho Monky,1394,MP4-6,マカオ,1991,ZIP.,マカオ,2812,SUSIE,マカオ
 Rootage,LOST TECHNOLOGIE,1095,OOOSH,マカオ,1850,ROCHER,マカオ,3246,SUSIE,マカオ
-Rootage,Level One,1160,MS.04,マカオ,2168,0120,マカオ,3128,SUSIE,マカオ
+Rootage,Level One,1219,NOSHOW,マカオ,2168,0120,マカオ,3128,SUSIE,マカオ
 Rootage,Let me be your cure,1093,MP4-6,マカオ,1413,RED*,マカオ,2628,ROCHER,マカオ
 Rootage,LADYBIRD,1049,IIDX26,マカオ,1669,ROCHER,マカオ,2354,ROCHER,マカオ
 Rootage,L.F.O,833,MP4-6,マカオ,1750,ROCHER,マカオ,3145,ROCHER,マカオ
-Rootage,KILL EACH OTHER,1294,MP4-6,マカオ,2277,RETEYA,マカオ,3542,ROCHER,マカオ
+Rootage,KILL EACH OTHER,1294,MP4-6,マカオ,2277,RETEYA,マカオ,3546,SUSIE,マカオ
 Rootage,IDOL syndrome.,726,BOZU#,マカオ,1462,ROCHER,マカオ,2173,ROCHER,マカオ
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),982,MS.04,マカオ,1553,ROCHER,マカオ,2096,ROCHER,マカオ
 Rootage,Hurry Hurry,712,MP4-6,マカオ,1042,RED*,マカオ,2068,ROCHER,マカオ
 Rootage,HOT LIMIT,950,B4TTZ,マカオ,1717,ROCHER,マカオ,2491,ROCHER,マカオ
-Rootage,HEISEI,1000,B4TTZ,マカオ,1825,MS.BJV,マカオ,2495,ROCHER,マカオ
+Rootage,HEISEI,1136,OOOSH,マカオ,1845,MS.04,マカオ,2495,ROCHER,マカオ
 Rootage,Glory,733,MP4-6,マカオ,1623,RED*,マカオ,2271,ROCHER,マカオ
 Rootage,GIGA THRASH,1175,MP4-6,マカオ,1874,ROCHER,マカオ,2641,ROCHER,マカオ
 Rootage,EVANESCENT,1232,MP4-6,マカオ,2209,.,マカオ,3340,ROCHER,マカオ
@@ -1251,9 +1251,12 @@ Rootage,dAuntl3ss,1032,RE9*,マカオ,1917,RED*,マカオ,3332,ROCHER,マカオ
 Rootage,Cranberry City ft. Luschel,774,B4TTZ,マカオ,1601,ROCHER,マカオ,2335,ROCHER,マカオ
 Rootage,CoMAAAAAAA,1141,MHBNT,マカオ,2094,ROCHER,マカオ,2378,ROCHER,マカオ
 Rootage,Catch Our Fire!,1315,MP4-6,マカオ,2188,MIKU-P,マカオ,3454,RETEYA,マカオ
-Rootage,Carmina,1196,MP4-6,マカオ,2146,NCT-TY,マカオ,3334,5RAGE,マカオ
+Rootage,Carmina,1196,MP4-6,マカオ,2146,NCT-TY,マカオ,3343,SUSIE,マカオ
 Rootage,BLOSSOM,1049,MP4-6,マカオ,1641,ROCHER,マカオ,2448,ROCHER,マカオ
 Rootage,Angels & Demons,859,MP4-6,マカオ,1769,ROCHER,マカオ,2383,ROCHER,マカオ
 Rootage,AGAiN,995,MP4-6,マカオ,1604,ROCHER,マカオ,2261,ROCHER,マカオ
 Rootage,A Tale Hidden In The Abyss,897,MP4-6,マカオ,1736,ROCHER,マカオ,2556,ROCHER,マカオ
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,927,MASIRO,マカオ,1622,ROCHER,マカオ,2561,ROCHER,マカオ
+Rootage,50th Memorial Songs -The BEMANI History-,0,,未設定,1644,ROCHER,マカオ,2470,ROCHER,マカオ
+Rootage,50th Memorial Songs -Flagship medley-,0,,未設定,1419,ROCHER,マカオ,2100,ZIP.,マカオ
 Rootage,50th Memorial Songs -Beginning Story-,773,MP4-6,マカオ,1656,ROCHER,マカオ,2642,ROCHER,マカオ

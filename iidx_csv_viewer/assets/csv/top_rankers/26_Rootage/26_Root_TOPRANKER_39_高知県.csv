@@ -1,9 +1,9 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
-1st&substream,THE EARTH LIGHT,752,6E-U,高知県,876,EIKI,高知県,1106,SHAULA,高知県
+1st&substream,THE EARTH LIGHT,752,6E-U,高知県,892,6E-U,高知県,1106,SHAULA,高知県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1949,FF7,高知県
 1st&substream,RUGGED ASH,270,LILIA,高知県,0,,未設定,1054,SHAULA,高知県
 1st&substream,R3,0,,未設定,584,ENJOI,高知県,887,SHAULA,高知県
-1st&substream,PARANOIA MAX～DIRTY MIX～,0,,未設定,628,KOMODO,高知県,1038,SHAULA,高知県
+1st&substream,PARANOIA MAX～DIRTY MIX～,0,,未設定,672,KOMODO,高知県,1038,SHAULA,高知県
 1st&substream,Macho Gang,342,RAAJJE,高知県,921,TOGE,高知県,1512,SHAULA,高知県
 1st&substream,KEEP ON MOVIN',0,,未設定,239,NO-KEN,高知県,0,,未設定
 1st&substream,GRADIUSIC CYBER,0,,未設定,907,EIKI,高知県,1165,SHAULA,高知県
@@ -15,7 +15,7 @@
 1st&substream,22DUNK,0,,未設定,578,ILLYA.,高知県,632,SHAULA,高知県
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,未設定,435,KOMODO,高知県,631,SHAULA,高知県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,837,SHAULA,高知県,0,,未設定
-2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,0,,未設定,1165,13TREE,高知県
+2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,0,,未設定,1176,NO-KEN,高知県
 2nd style,I Was The One,0,,未設定,0,,未設定,676,SHAULA,高知県
 2nd style,Electro Tuned(the SubS mix),0,,未設定,807,SEA&,高知県,1055,SHAULA,高知県
 2nd style,Digital MinD(A/T Libra mix),0,,未設定,908,SEA&,高知県,1100,SHAULA,高知県
@@ -50,14 +50,14 @@
 4th style,Clione†,0,,未設定,0,,未設定,2018,SHAULA,高知県
 4th style,Clione,0,,未設定,128,BLASTS,高知県,1566,SHAULA,高知県
 4th style,CHECKING YOU OUT,0,,未設定,764,MAHO.,高知県,1229,SHAULA,高知県
-4th style,Burnin' The Floor,0,,未設定,913,U*K1,高知県,1420,SHAULA,高知県
+4th style,Burnin' The Floor,139,AETHER,高知県,913,U*K1,高知県,1420,SHAULA,高知県
 4th style,Broken My Heart,0,,未設定,0,,未設定,1765,SHAULA,高知県
 4th style,B4U,0,,未設定,1475,Z,高知県,1940,SHAULA,高知県
-4th style,ABSOLUTE†,0,,未設定,0,,未設定,2546,MAHO.,高知県
+4th style,ABSOLUTE†,0,,未設定,0,,未設定,2557,13TREE,高知県
 4th style,ABSOLUTE,0,,未設定,1765,Z,高知県,2322,SHAULA,高知県
 4th style,250bpm,0,,未設定,734,PALUX,高知県,1349,FF7,高知県
 5th style,V,808,KOMODO,高知県,2371,OFF-0,高知県,2907,FF7,高知県
-5th style,THE SHINING POLARIS,0,,未設定,1039,44110*,高知県,1542,FF7,高知県
+5th style,THE SHINING POLARIS,0,,未設定,1039,XIERA*,高知県,1542,FF7,高知県
 5th style,THE CUBE,0,,未設定,1155,TACA,高知県,1342,SHAULA,高知県
 5th style,sync,1059,ILLYA.,高知県,1568,UTUME,高知県,2314,FF7,高知県
 5th style,still my words,0,,未設定,1217,SHAULA,高知県,0,,未設定
@@ -96,7 +96,7 @@
 7th style,革命,665,AYASOL,高知県,1692,INI,高知県,2239,FF7,高知県
 7th style,ZERO-ONE,0,,未設定,1279,UTUME,高知県,2164,XI988,高知県
 7th style,traces,0,,未設定,1574,CENTO,高知県,2089,SHAULA,高知県
-7th style,Tomorrow Perfume,0,,未設定,1280,ISOJIN,高知県,2043,NOIK.S,高知県
+7th style,Tomorrow Perfume,0,,未設定,1585,UTUME,高知県,2043,NOIK.S,高知県
 7th style,stoic,1112,PALUX,高知県,2116,283PRO,高知県,2405,FF7,高知県
 7th style,Spica,0,,未設定,1316,TOSAKA,高知県,2045,SHAULA,高知県
 7th style,MAX 300,1079,OFF-0,高知県,1849,SHAULA,高知県,0,,未設定
@@ -112,7 +112,7 @@
 7th style,Burning Heat! (Full Option Mix),0,,未設定,782,SEA&,高知県,1436,SHAULA,高知県
 7th style,Bad Routine,640,REMONU,高知県,0,,未設定,1871,SHAULA,高知県
 7th style,AVE DE RAPINA,0,,未設定,1421,NEKO,高知県,1817,NOIK.S,高知県
-7th style,A,1249,ILLYA.,高知県,1889,KOMEO,高知県,2283,SHAULA,高知県
+7th style,A,1249,ILLYA.,高知県,1889,KOMEO,高知県,2312,Z,高知県
 8th style,蒼い衝動,764,ILLYA.,高知県,1281,ILLYA.,高知県,1567,SHAULA,高知県
 8th style,桜,0,,未設定,1389,BALSAN,高知県,1955,NO-KEN,高知県
 8th style,xenon,646,YTNPNP,高知県,1539,INI,高知県,2632,FF7,高知県
@@ -128,7 +128,7 @@
 8th style,Monkey Dance,0,,未設定,1264,ILLYA.,高知県,1930,SHAULA,高知県
 8th style,memories,0,,未設定,1833,TACA,高知県,2150,SHAULA,高知県
 8th style,Luv 2 Feel Your Body,703,IIDX26,高知県,901,PANDA*,高知県,1603,SHAULA,高知県
-8th style,LOVE IS ORANGE,596,YTNPNP,高知県,980,ILLYA.,高知県,1748,NO-KEN,高知県
+8th style,LOVE IS ORANGE,596,YTNPNP,高知県,980,ILLYA.,高知県,1776,NO-KEN,高知県
 8th style,LAB,1026,ILLYA.,高知県,1767,INI,高知県,2095,NOIK.S,高知県
 8th style,HYPER BOUNDARY GATE,1010,*TEAR*,高知県,1784,CREAM*,高知県,2151,SHAULA,高知県
 8th style,Halfway of promise,0,,未設定,1431,HAWK-I,高知県,1773,SHAULA,高知県
@@ -151,7 +151,7 @@
 9th style,Silvia Drive,0,,未設定,1453,HAWK-I,高知県,1979,SHAULA,高知県
 9th style,rottel-the-Mercury,770,AOYM,高知県,1810,ILLYA.,高知県,2223,SHAULA,高知県
 9th style,RISLIM -Remix-,0,,未設定,0,,未設定,1802,FF7,高知県
-9th style,Really Love,0,,未設定,916,PLAYER,高知県,1645,MAHO.,高知県
+9th style,Really Love,0,,未設定,916,PLAYER,高知県,1667,NO-KEN,高知県
 9th style,Quickening,0,,未設定,1543,ILLYA.,高知県,2028,SHAULA,高知県
 9th style,quasar,643,UOM,高知県,1650,CREAM*,高知県,2257,XI988,高知県
 9th style,one or eight,1241,ILLYA.,高知県,1713,Z,高知県,2107,NO-KEN,高知県
@@ -165,7 +165,7 @@
 9th style,Karma,1224,AYASOL,高知県,1466,AYASOL,高知県,1748,SHAULA,高知県
 9th style,I Was The One (80's EUROBEAT STYLE),0,,未設定,1280,ILLYA.,高知県,1425,SHAULA,高知県
 9th style,HYPER EUROBEAT (2DX style),0,,未設定,1582,HAWK-I,高知県,1889,SHAULA,高知県
-9th style,Golden Horn,0,,未設定,986,TOGE,高知県,1411,SHAULA,高知県
+9th style,Golden Horn,0,,未設定,986,TOGE,高知県,1436,SHAULA,高知県
 9th style,e-motion 2003 -romantic extra-,656,UOM,高知県,0,,未設定,1941,SHAULA,高知県
 9th style,Distress,797,KIRO.,高知県,1795,SHAULA,高知県,0,,未設定
 9th style,Cradle,0,,未設定,1298,UTUME,高知県,1523,OFF-0,高知県
@@ -184,12 +184,12 @@
 10th style,One More Lovely,0,,未設定,1533,ILLYA.,高知県,2707,MAHO.,高知県
 10th style,No.13,1128,KOMODO,高知県,2238,INI,高知県,3037,FF7,高知県
 10th style,Narcissus At Oasis,594,KIRO.,高知県,1444,INI,高知県,1553,SHAULA,高知県
-10th style,Lucy,816,KIRO.,高知県,1594,CREAM*,高知県,2233,SHAULA,高知県
+10th style,Lucy,816,KIRO.,高知県,1594,CREAM*,高知県,2247,NO-KEN,高知県
 10th style,LOW,0,,未設定,0,,未設定,1677,SHAULA,高知県
 10th style,Love Is Eternity,0,,未設定,1791,ILLYA.,高知県,2291,SHAULA,高知県
 10th style,Innocent Walls,1487,ILLYA.,高知県,2378,RARUKA,高知県,2615,NO-KEN,高知県
 10th style,HIGH,0,,未設定,1795,CREAM*,高知県,2111,NO-KEN,高知県
-10th style,GRADIUS -FULL SPEED-,640,CREAM*,高知県,909,501,高知県,1934,NO-KEN,高知県
+10th style,GRADIUS -FULL SPEED-,640,CREAM*,高知県,909,501,高知県,1940,SHAULA,高知県
 10th style,GHOST REVIVAL,0,,未設定,1336,IIDX26,高知県,2454,NO-KEN,高知県
 10th style,Freezing atmosphere,0,,未設定,0,,未設定,1441,SHAULA,高知県
 10th style,FEEL IT,582,REN222,高知県,1465,TOGE,高知県,1831,SHAULA,高知県
@@ -231,14 +231,14 @@ IIDX RED,FAKE TIME,0,,未設定,1677,HAWK-I,高知県,2236,SHAULA,高知県
 IIDX RED,earth scape,0,,未設定,945,CANON*,高知県,1225,SHAULA,高知県
 IIDX RED,Don't be afraid myself,584,YTNPNP,高知県,1645,TOGE,高知県,2211,NOIK.S,高知県
 IIDX RED,D.A.N.C.E.!,0,,未設定,0,,未設定,1566,SHAULA,高知県
-IIDX RED,Close my Eyes for Me,0,,未設定,592,KOMODO,高知県,1720,SHAULA,高知県
+IIDX RED,Close my Eyes for Me,0,,未設定,592,KOMODO,高知県,1756,13TREE,高知県
 IIDX RED,Click Again,0,,未設定,0,,未設定,2046,SHAULA,高知県
 IIDX RED,BREATH,883,ILLYA.,高知県,0,,未設定,1654,SHAULA,高知県
 IIDX RED,BLOCKS,0,,未設定,1194,Z,高知県,1888,SHAULA,高知県
 IIDX RED,Be quiet,881,SEA&,高知県,1554,TOGE,高知県,2151,SHAULA,高知県
 IIDX RED,awakening,634,REMONU,高知県,1290,TOGE,高知県,1654,RARUKA,高知県
 IIDX RED,ANDROMEDA,565,REMONU,高知県,1717,Z,高知県,2781,XI988,高知県
-IIDX RED,AGEHA,572,REMONU,高知県,1490,PANDA*,高知県,1837,FF7,高知県
+IIDX RED,AGEHA,572,REMONU,高知県,1588,CREAM*,高知県,1837,FF7,高知県
 IIDX RED,AA,1174,EIKI,高知県,2589,Z,高知県,3487,FF7,高知県
 HAPPY SKY,月光,497,UOM,高知県,1664,U*K1,高知県,2374,XI988,高知県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),1017,AYASOL,高知県,1476,ILLYA.,高知県,1836,SHAULA,高知県
@@ -267,11 +267,11 @@ HAPPY SKY,MOON RACE,0,,未設定,560,KAGA3N,高知県,1846,NO-KEN,高知県
 HAPPY SKY,Love Magic,0,,未設定,0,,未設定,1897,NOIK.S,高知県
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3603,MAHO.,高知県
 HAPPY SKY,Little Little Princess,719,YTNPNP,高知県,2102,NAP,高知県,2680,XI988,高知県
-HAPPY SKY,LESSON 5,579,UOM,高知県,1707,Z,高知県,2389,SHAULA,高知県
+HAPPY SKY,LESSON 5,579,UOM,高知県,1707,Z,高知県,2438,NO-KEN,高知県
 HAPPY SKY,INAZUMA,0,,未設定,1720,Z,高知県,2599,FF7,高知県
 HAPPY SKY,in motion,715,SEA&,高知県,715,WATA,高知県,1286,NO-KEN,高知県
 HAPPY SKY,I am,792,KIRO.,高知県,1456,PANDA*,高知県,2070,XI988,高知県
-HAPPY SKY,HAPPY☆ANGEL,0,,未設定,1383,6E-U,高知県,2059,NO-KEN,高知県
+HAPPY SKY,HAPPY☆ANGEL,0,,未設定,1397,6E-U,高知県,2059,NO-KEN,高知県
 HAPPY SKY,Get'em up to R.A.V.E,0,,未設定,1010,KYIIII,高知県,2204,NOIK.S,高知県
 HAPPY SKY,garden,617,AKATUK,高知県,1380,UTUME,高知県,2089,SHAULA,高知県
 HAPPY SKY,First Resolution,0,,未設定,661,KIRO.,高知県,2095,SHAULA,高知県
@@ -333,7 +333,7 @@ GOLD,ヨシダさん,607,KEN*2,高知県,1407,ILLYA.,高知県,1956,SHAULA,高�
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,0,,未設定,1362,ILLYA.,高知県,2197,FF7,高知県
 GOLD,X-rated,0,,未設定,1530,ILLYA.,高知県,2062,SHAULA,高知県
 GOLD,With your Smile,495,BISCO,高知県,1145,ILLYA.,高知県,1555,NO-KEN,高知県
-GOLD,Watch out!!,0,,未設定,882,CENTO,高知県,1533,SHAULA,高知県
+GOLD,Watch out!!,0,,未設定,882,RKS-31,高知県,1533,SHAULA,高知県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3067,NO-KEN,高知県
 GOLD,VANESSA,1056,TOGE,高知県,1668,OFF-0,高知県,2235,FF7,高知県
 GOLD,TRANOID,0,,未設定,1353,ILLYA.,高知県,1992,HAWK-I,高知県
@@ -360,7 +360,7 @@ GOLD,GRID KNIGHT,504,KYIIII,高知県,1634,UTUME,高知県,2557,SHAULA,高知県
 GOLD,GOLD RUSH,1166,ILLYA.,高知県,1329,CELICA,高知県,2280,POIFUL,高知県
 GOLD,four-leaf,0,,未設定,0,,未設定,1680,SHAULA,高知県
 GOLD,FIRE FIRE,935,KOMODO,高知県,1631,ILLYA.,高知県,2595,XI988,高知県
-GOLD,Fascination MAXX,826,Z,高知県,1578,OFF-0,高知県,2276,YUK*,高知県
+GOLD,Fascination MAXX,886,OFF-0,高知県,1578,OFF-0,高知県,2276,YUK*,高知県
 GOLD,Cyber Force,0,,未設定,1812,ILLYA.,高知県,2325,NOIK.S,高知県
 GOLD,CROSSROAD ～Left Story～,0,,未設定,1701,ILLYA.,高知県,2168,POIFUL,高知県
 GOLD,CaptivAte～誓い～,744,SHIKI,高知県,1733,TACA,高知県,2179,SHAULA,高知県
@@ -401,8 +401,8 @@ DJ TROOPERS,MENDES,1100,ILLYA.,高知県,2490,XI988,高知県,3362,FF7,高知県
 DJ TROOPERS,MAX LOVE,815,EISUKE,高知県,2129,ESO,高知県,2619,NO-KEN,高知県
 DJ TROOPERS,LOVELY STORM,652,BISCO,高知県,2135,Z,高知県,2766,XI988,高知県
 DJ TROOPERS,Kick Out 仮面,0,,未設定,1422,CANON*,高知県,1937,SHAULA,高知県
-DJ TROOPERS,in the Sky,1042,SHIEVA,高知県,1974,CREAM*,高知県,2469,NO-KEN,高知県
-DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3316,MAHO.,高知県
+DJ TROOPERS,in the Sky,1181,SHIEVA,高知県,1974,CREAM*,高知県,2469,NO-KEN,高知県
+DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3333,NO-KEN,高知県
 DJ TROOPERS,ICARUS,1189,ILLYA.,高知県,1785,INI,高知県,2201,MAHO.,高知県
 DJ TROOPERS,Freeway Shuffle,388,UOM,高知県,997,PANDA*,高知県,1804,FF7,高知県
 DJ TROOPERS,four pieces of heaven,0,,未設定,1488,CELICA,高知県,2186,NO-KEN,高知県
@@ -420,7 +420,7 @@ DJ TROOPERS,avant-guerre,750,ILLYA.,高知県,891,PALUX,高知県,1821,SHAULA,�
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1051,SEA&,高知県,1931,INI,高知県,2778,FF7,高知県
 DJ TROOPERS,2 tribe 4 K,0,,未設定,1215,Z,高知県,2674,NO-KEN,高知県
 EMPRESS,鉄甲乙女-under the steel-,570,NONAME,高知県,1582,ILLYA.,高知県,2130,POIFUL,高知県
-EMPRESS,翼,666,YRS,高知県,1479,CREAM*,高知県,1927,FF7,高知県
+EMPRESS,翼,666,YRS,高知県,1479,CREAM*,高知県,1928,NO-KEN,高知県
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,未設定,794,AZURA#,高知県,1977,NO-KEN,高知県
 EMPRESS,天空脳番長危機十六連打,0,,未設定,1873,TOSAKA,高知県,2476,XI988,高知県
 EMPRESS,卑弥呼,1204,ILLYA.,高知県,2521,Z,高知県,3714,MAHO.,高知県
@@ -450,7 +450,7 @@ EMPRESS,Monkey Dance '09,819,ACRUX,高知県,1627,ILLYA.,高知県,2152,SHAULA,�
 EMPRESS,Mind Mapping,0,,未設定,1178,UTUME,高知県,1779,FF7,高知県
 EMPRESS,Kung-fu Empire†,0,,未設定,0,,未設定,3704,NO-KEN,高知県
 EMPRESS,Kung-fu Empire,1039,GURA,高知県,2501,HAWK-I,高知県,3096,NO-KEN,高知県
-EMPRESS,Just a Little Smile,0,,未設定,1276,ILLYA.,高知県,2304,RARUKA,高知県
+EMPRESS,Just a Little Smile,0,,未設定,1276,ILLYA.,高知県,2323,13TREE,高知県
 EMPRESS,Jack,0,,未設定,811,KIRO.,高知県,2099,SHAULA,高知県
 EMPRESS,I'm Screaming LOVE,470,UOM,高知県,1294,ILLYA.,高知県,1664,SHAULA,高知県
 EMPRESS,HYPERION,814,AOYM,高知県,1757,16-BIT,高知県,2636,XI988,高知県
@@ -470,7 +470,7 @@ EMPRESS,ALL I NEED YOUR LOVE,1016,S,高知県,1592,ILLYA.,高知県,2086,SHAULA,
 EMPRESS,3y3s,1339,TACA,高知県,2398,Z,高知県,3361,RARUKA,高知県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,未設定,1559,ILLYA.,高知県,2032,RARUKA,高知県
 SIRIUS,未来のプリズム,537,REN222,高知県,1167,ACRUX,高知県,1732,SHAULA,高知県
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,715,GURA,高知県,1991,OFF-0,高知県,3001,NO-KEN,高知県
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,715,GURA,高知県,2002,HAWK-I,高知県,3001,NO-KEN,高知県
 SIRIUS,バビロニア,830,ILLYA.,高知県,575,TAC-8,高知県,1816,SHAULA,高知県
 SIRIUS,サヨナラ・ヘヴン,900,ILLYA.,高知県,1306,TOGE,高知県,1606,SHAULA,高知県
 SIRIUS,コスモス,668,EISUKE,高知県,1497,ILLYA.,高知県,2053,SHAULA,高知県
@@ -481,7 +481,7 @@ SIRIUS,THE LAST STRIKER,780,BISCO,高知県,1789,ILLYA.,高知県,2546,FF7,高�
 SIRIUS,Special One,438,NIRAAA,高知県,1102,TOGE,高知県,1734,SHAULA,高知県
 SIRIUS,Sorrows,0,,未設定,1639,HAWK-I,高知県,2397,SHAULA,高知県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3425,FF7,高知県
-SIRIUS,SOLID STATE SQUAD,529,BISCO,高知県,2207,Z,高知県,3429,FF7,高知県
+SIRIUS,SOLID STATE SQUAD,1041,NO-KEN,高知県,2207,Z,高知県,3429,FF7,高知県
 SIRIUS,She is my wife,686,ILLYA.,高知県,1421,CREAM*,高知県,1845,SHAULA,高知県
 SIRIUS,Session 1 -Genesis-,591,LILIA,高知県,1328,TOGE,高知県,2377,FF7,高知県
 SIRIUS,Roots of my way!,0,,未設定,1273,ILLYA.,高知県,1968,SHAULA,高知県
@@ -493,7 +493,7 @@ SIRIUS,NoN-Fiction Story!,0,,未設定,1337,ILLYA.,高知県,2155,FF7,高知県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,未設定,1916,CREAM*,高知県,2560,SHIMO,高知県
 SIRIUS,mosaic,1108,AOYM,高知県,2025,HAWK-I,高知県,2952,POIFUL,高知県
 SIRIUS,MIRACLE MEETS,634,BISCO,高知県,1453,501,高知県,2140,13TREE,高知県
-SIRIUS,Light Shine,435,AOYM,高知県,964,44110*,高知県,1910,NO-KEN,高知県
+SIRIUS,Light Shine,435,AOYM,高知県,964,XIERA*,高知県,1910,NO-KEN,高知県
 SIRIUS,Last Burning,621,KAP,高知県,1477,TOGE,高知県,2290,SHAULA,高知県
 SIRIUS,Keep it-秋葉工房mix-,0,,未設定,1452,ACRUX,高知県,1808,SHAULA,高知県
 SIRIUS,IN THE NAME OF LOVE,0,,未設定,1277,TOGE,高知県,1876,YUK*,高知県
@@ -533,7 +533,7 @@ Resort Anthem,XANADU OF TWO,996,ILLYA.,高知県,1681,HAWK-I,高知県,2690,FF7,
 Resort Anthem,Wuv U,0,,未設定,1244,ILLYA.,高知県,1677,SHAULA,高知県
 Resort Anthem,WISE UP!,0,,未設定,885,PALUX,高知県,1565,FF7,高知県
 Resort Anthem,WE LOVE SHONAN,0,,未設定,1339,YJSNPY,高知県,2101,NO-KEN,高知県
-Resort Anthem,Watch Out Pt.2,571,BISCO,高知県,1812,Z,高知県,2575,NO-KEN,高知県
+Resort Anthem,Watch Out Pt.2,746,KIRO.,高知県,1812,Z,高知県,2575,NO-KEN,高知県
 Resort Anthem,Vermillion,426,WATA,高知県,0,,未設定,1987,SHAULA,高知県
 Resort Anthem,Tropical April,1517,6E-U,高知県,2087,CREAM*,高知県,2621,NO-KEN,高知県
 Resort Anthem,THE FALLEN,472,YUKI,高知県,984,KYIIII,高知県,2585,SHAULA,高知県
@@ -592,7 +592,7 @@ Lincle,君のハートにロックオン,0,,未設定,1660,XI988,高知県,2566,
 Lincle,ユミル,0,,未設定,1343,ILLYA.,高知県,2717,NO-KEN,高知県
 Lincle,ビューティフルレシート,225,TMEKA,高知県,1094,PANDA*,高知県,1855,SHAULA,高知県
 Lincle,Yellow Sunrise,0,,未設定,0,,未設定,2231,NOIK.S,高知県
-Lincle,yellow head joe,226,IIDX26,高知県,1452,ILLYA.,高知県,2125,SHAULA,高知県
+Lincle,yellow head joe,226,IIDX26,高知県,1452,ILLYA.,高知県,2194,NO-KEN,高知県
 Lincle,YAKSHA,835,KIRO.,高知県,2083,CREAM*,高知県,3705,FF7,高知県
 Lincle,WONDER WALKER,0,,未設定,1793,CREAM*,高知県,3677,RARUKA,高知県
 Lincle,Voxane,0,,未設定,1208,Z,高知県,1726,SHAULA,高知県
@@ -617,7 +617,7 @@ Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3468,RARUKA,高知県
 Lincle,QUANTUM TELEPORTATION,0,,未設定,2021,CREAM*,高知県,2754,NO-KEN,高知県
 Lincle,prompt,0,,未設定,1561,ILLYA.,高知県,2722,XI988,高知県
 Lincle,Phoenix,535,WATA,高知県,1182,ILLYA.,高知県,2374,SHAULA,高知県
-Lincle,NNRT,1046,SHIEVA,高知県,2045,UTUME,高知県,3329,FF7,高知県
+Lincle,NNRT,1046,SHIEVA,高知県,2313,CREAM*,高知県,3329,FF7,高知県
 Lincle,Miami Sunset Drive,0,,未設定,669,WATA,高知県,1592,HAWK-I,高知県
 Lincle,Mermaid girl-秋葉工房 MIX-,579,AOYM,高知県,965,WATA,高知県,2024,SHAULA,高知県
 Lincle,Lucky Days,0,,未設定,1421,TOGE,高知県,2117,SHAULA,高知県
@@ -647,7 +647,7 @@ Lincle,532nm,0,,未設定,884,AOYM,高知県,2556,FF7,高知県
 Lincle,24th Century BOY,0,,未設定,1854,Z,高知県,2781,FF7,高知県
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3155,NO-KEN,高知県
 tricoro,龍と少女とデコヒーレンス,654,BULL-D,高知県,1440,NONAME,高知県,2874,NOIK.S,高知県
-tricoro,音楽,0,,未設定,1677,ASA.S,高知県,2632,NO-KEN,高知県
+tricoro,音楽,0,,未設定,1677,ASA.S,高知県,2649,NO-KEN,高知県
 tricoro,狂イ咲ケ焔ノ華,1215,ILLYA.,高知県,2340,Z,高知県,3486,POIFUL,高知県
 tricoro,梅雪夜,678,KIRO.,高知県,1415,HAWK-I,高知県,2075,SHAULA,高知県
 tricoro,朧†,0,,未設定,0,,未設定,2402,SHAULA,高知県
@@ -669,9 +669,9 @@ tricoro,お米の美味しい炊き方、そしてお米を食べることによ
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),430,KIRO.,高知県,1588,HAWK-I,高知県,3396,FF7,高知県
 tricoro,ΕΛΠΙΣ,1132,ILLYA.,高知県,2024,Z,高知県,3032,XI988,高知県
 tricoro,Zirkfied,970,S,高知県,1878,OFF-0,高知県,3606,NO-KEN,高知県
-tricoro,ZED,778,SHIEVA,高知県,1440,6E-U,高知県,2660,XI988,高知県
+tricoro,ZED,797,SHIEVA,高知県,1440,6E-U,高知県,2660,XI988,高知県
 tricoro,YELLOW FROG from Steel Chronicle,0,,未設定,785,REKI,高知県,1875,SHAULA,高知県
-tricoro,VEGA,0,,未設定,1929,SHIKAO,高知県,2979,NO-KEN,高知県
+tricoro,VEGA,0,,未設定,1952,CREAM*,高知県,2979,NO-KEN,高知県
 tricoro,VALLIS-NERIA,830,SENKO,高知県,1969,HAWK-I,高知県,2758,POIFUL,高知県
 tricoro,Valanga,1278,ILLYA.,高知県,2043,HAWK-I,高知県,3119,FF7,高知県
 tricoro,True Blue,799,CYBER,高知県,2451,Z,高知県,3576,NO-KEN,高知県
@@ -701,14 +701,14 @@ tricoro,New Lights,0,,未設定,1276,SHIEVA,高知県,2374,NO-KEN,高知県
 tricoro,New Decade IIDX Edition,751,WATA,高知県,1680,ACRUX,高知県,2886,FF7,高知県
 tricoro,neu,920,EIKI,高知県,2132,HAWK-I,高知県,3748,NO-KEN,高知県
 tricoro,Neonlights,0,,未設定,1523,U*K1,高知県,2131,SHAULA,高知県
-tricoro,mnemoniq,0,,未設定,0,,未設定,1264,SHAULA,高知県
+tricoro,mnemoniq,0,,未設定,461,DMC,高知県,1264,SHAULA,高知県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2701,RARUKA,高知県
 tricoro,LUV CAN SAVE U,549,TACA,高知県,1343,6E-U,高知県,2096,SHAULA,高知県
 tricoro,Little Star,683,BISCO,高知県,1672,CREAM*,高知県,3011,XI988,高知県
 tricoro,Light and Cyber…,0,,未設定,1874,ILLYA.,高知県,3008,NO-KEN,高知県
 tricoro,Liberation,0,,未設定,2296,Z,高知県,3576,XI988,高知県
 tricoro,JOMANDA,849,WATA,高知県,2064,INI,高知県,3362,RARUKA,高知県
-tricoro,In Heaven,322,UOM,高知県,1256,44110*,高知県,2089,FF7,高知県
+tricoro,In Heaven,322,UOM,高知県,1256,XIERA*,高知県,2089,FF7,高知県
 tricoro,Illegal Function Call,0,,未設定,1739,OFF-0,高知県,2493,NO-KEN,高知県
 tricoro,ILIAS,0,,未設定,1041,KORIN!,高知県,2112,SHAULA,高知県
 tricoro,I know You know,248,HINAKI,高知県,0,,未設定,1818,RARUKA,高知県
@@ -780,7 +780,7 @@ SPADA,Lighting Shower,373,UOM,高知県,1257,ILLYA.,高知県,2284,NO-KEN,高知
 SPADA,Last Dance,543,BISCO,高知県,1924,Z,高知県,3110,NO-KEN,高知県
 SPADA,LA FESTA LA VITA!!,524,WATA,高知県,1729,ILLYA.,高知県,2752,HAWK-I,高知県
 SPADA,KHAMEN BREAK,0,,未設定,1032,AOYM,高知県,2424,XI988,高知県
-SPADA,KAISER PHOENIX,1097,*TEAR*,高知県,2100,U*K1,高知県,3079,FF7,高知県
+SPADA,KAISER PHOENIX,1097,*TEAR*,高知県,2106,13TREE,高知県,3079,FF7,高知県
 SPADA,IX,1249,ILLYA.,高知県,2306,MAHO.,高知県,3587,FF7,高知県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3325,NO-KEN,高知県
 SPADA,invoker,705,AAAAAA,高知県,1148,NO.14?,高知県,3008,MAHO.,高知県
@@ -806,11 +806,11 @@ SPADA,Dark Fall,0,,未設定,1313,AYASOL,高知県,2627,NO-KEN,高知県
 SPADA,Critical Crystal,784,ORUKE6,高知県,1560,UTUME,高知県,2805,FF7,高知県
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3598,NO-KEN,高知県
 SPADA,Close the World feat. a☆ru,745,AOYM,高知県,1977,Z,高知県,3292,FF7,高知県
-SPADA,Cleopatrysm,412,UOM,高知県,1046,AOYM,高知県,2316,283PRO,高知県
+SPADA,Cleopatrysm,412,UOM,高知県,1046,AOYM,高知県,2381,SHAULA,高知県
 SPADA,Claiomh Solais,322,IIDX26,高知県,0,,未設定,2030,SHAULA,高知県
 SPADA,BRAVE OUT,946,Z,高知県,1475,HAWK-I,高知県,2058,SHAULA,高知県
 SPADA,BRAINSTORM,71,ILLYA.,高知県,1753,CREAM*,高知県,2658,SHAULA,高知県
-SPADA,BLUE DRAGON(雷龍RemixIIDX),1241,ORUKE6,高知県,2104,13TREE,高知県,3103,MAHO.,高知県
+SPADA,BLUE DRAGON(雷龍RemixIIDX),1452,ILLYA.,高知県,2104,13TREE,高知県,3103,MAHO.,高知県
 SPADA,Atropos,636,BISCO,高知県,1483,ILLYA.,高知県,2224,MAHO.,高知県
 SPADA,ATHER,576,AOYM,高知県,1521,ILLYA.,高知県,2729,NO-KEN,高知県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4018,FF7,高知県
@@ -820,9 +820,9 @@ SPADA,Adularia,514,BISCO,高知県,1734,HAWK-I,高知県,2722,FF7,高知県
 PENDUAL,Ｘ↑Ｘ↓,520,NIRAAA,高知県,1391,13,高知県,2712,SHAULA,高知県
 PENDUAL,鬼天,754,AOYM,高知県,1534,OFF-0,高知県,2346,FF7,高知県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3872,RARUKA,高知県
-PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1006,OFF-0,高知県,1950,U*K1,高知県,2630,NO-KEN,高知県
+PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1006,OFF-0,高知県,1950,U*K1,高知県,2633,NO-KEN,高知県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,962,AYASOL,高知県,2060,Z,高知県,3378,XI988,高知県
-PENDUAL,紅牡丹,693,BISCO,高知県,1698,ILLYA.,高知県,2750,NO-KEN,高知県
+PENDUAL,紅牡丹,803,KIRO.,高知県,1698,ILLYA.,高知県,2750,NO-KEN,高知県
 PENDUAL,白露の風,447,IIDX26,高知県,1126,ACRUX,高知県,1957,SHAULA,高知県
 PENDUAL,時空トラベローグ,629,BISCO,高知県,1542,CANON*,高知県,2540,NO-KEN,高知県
 PENDUAL,打打打打打打打打打打,653,WATA,高知県,1190,UTUME,高知県,2515,POIFUL,高知県
@@ -859,7 +859,7 @@ PENDUAL,Scars of FAUNA,701,WATA,高知県,1625,HAWK-I,高知県,2745,NO-KEN,高�
 PENDUAL,Scarlet Moon,887,AOYM,高知県,1677,CELICA,高知県,2646,FF7,高知県
 PENDUAL,Say YEEEAHH,0,,未設定,1789,Z,高知県,3100,NO-KEN,高知県
 PENDUAL,SAMSARA,421,AOYM,高知県,1266,CANON*,高知県,2014,YUK*,高知県
-PENDUAL,Sakura Mirage,722,AOYM,高知県,1253,ILLYA.,高知県,2164,OFF-0,高知県
+PENDUAL,Sakura Mirage,749,CYBER,高知県,1253,ILLYA.,高知県,2164,OFF-0,高知県
 PENDUAL,Reflux,0,,未設定,1481,ILLYA.,高知県,2843,NO-KEN,高知県
 PENDUAL,Realize Maze,1170,TACA,高知県,1901,CREAM*,高知県,2847,SHAULA,高知県
 PENDUAL,Rave*it!! Rave*it!!,792,KORIN!,高知県,1587,ILLYA.,高知県,3136,RARUKA,高知県
@@ -867,7 +867,7 @@ PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),0,,未設定,1450,Z,高�
 PENDUAL,PENDUAL TALISMAN,0,,未設定,1492,TMEKA,高知県,2532,SHAULA,高知県
 PENDUAL,On My Wings(Hardstyle IIDX),0,,未設定,1238,ILLYA.,高知県,1931,POIFUL,高知県
 PENDUAL,No Tears,0,,未設定,1339,KYIIII,高知県,2462,SHAULA,高知県
-PENDUAL,Night sky,859,WATA,高知県,1779,CREAM*,高知県,2767,FF7,高知県
+PENDUAL,Night sky,1149,BALSAN,高知県,1779,CREAM*,高知県,2767,FF7,高知県
 PENDUAL,NEO GENERATOR SEVEN,557,UOM,高知県,1677,ILLYA.,高知県,3162,FF7,高知県
 PENDUAL,Monopole.,483,N4HH4,高知県,0,,未設定,3083,MAHO.,高知県
 PENDUAL,m1dy Festival,723,KIRO.,高知県,1448,ILLYA.,高知県,2303,SHAULA,高知県
@@ -918,7 +918,7 @@ copula,紫陽花 -AZISAI-,845,AOYM,高知県,2020,XI988,高知県,2698,FF7,高�
 copula,真 地獄超特急 -HELL or HELL-,1351,ILLYA.,高知県,2104,CREAM*,高知県,2985,NO-KEN,高知県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,未設定,1871,ILLYA.,高知県,2452,SHAULA,高知県
 copula,灼熱 Pt.2 Long Train Running,1253,ILLYA.,高知県,1873,HAWK-I,高知県,2856,NO-KEN,高知県
-copula,朝焼けから始まるボクらの小さな旅,907,S,高知県,1365,ORUKE6,高知県,2334,NO-KEN,高知県
+copula,朝焼けから始まるボクらの小さな旅,907,S,高知県,1585,OFF-0,高知県,2334,NO-KEN,高知県
 copula,星屑ディスタンシア,356,NONAME,高知県,832,AOYM,高知県,2020,SHAULA,高知県
 copula,明鏡止水,577,YTNPNP,高知県,1663,ILLYA.,高知県,2672,FF7,高知県
 copula,少女アリスと箱庭幻想コンチェルト,382,N4HH4,高知県,1414,HAWK-I,高知県,2007,SHAULA,高知県
@@ -929,11 +929,11 @@ copula,オルタネイトβ,788,501,高知県,1391,ILLYA.,高知県,2215,RARUKA,
 copula,めいさいアイドル☆あいむちゃん♪,1058,AOYM,高知県,2264,Z,高知県,3186,NO-KEN,高知県
 copula,か・し・ま・し☆PUMP UP！,730,YUNA.,高知県,1435,6E-U,高知県,2678,MAHO.,高知県
 copula,ZEPHYRANTHES,992,ILLYA.,高知県,1745,CREAM*,高知県,2877,FF7,高知県
-copula,X,1554,ILLYA.,高知県,2452,13TREE,高知県,3721,FF7,高知県
+copula,X,1575,ILLYA.,高知県,2452,13TREE,高知県,3721,FF7,高知県
 copula,Welcome,0,,未設定,1693,ASA.S,高知県,2497,FF7,高知県
 copula,Violet Rose,569,BISCO,高知県,1723,CREAM*,高知県,2444,MAHO.,高知県
 copula,Violet Pulse,352,IIDX26,高知県,1579,S,高知県,2321,SHAULA,高知県
-copula,Uh-Oh,850,RAPINA,高知県,1641,ILLYA.,高知県,2252,POIFUL,高知県
+copula,Uh-Oh,888,EOLL,高知県,1641,ILLYA.,高知県,2252,POIFUL,高知県
 copula,Triple Counter,1203,AOYM,高知県,2063,CREAM*,高知県,3746,POIFUL,高知県
 copula,Transport,0,,未設定,1329,UTUME,高知県,2085,SHAULA,高知県
 copula,Tori-no-kimochi,255,ACRUX,高知県,1162,UTUME,高知県,1921,NO-KEN,高知県
@@ -950,7 +950,7 @@ copula,SEITEN NO TERIYAKI,376,UOM,高知県,767,KAP,高知県,2078,MAHO.,高知�
 copula,Routing,629,WATA,高知県,1590,HAWK-I,高知県,2377,NO-KEN,高知県
 copula,Rock It,0,,未設定,1615,ILLYA.,高知県,2848,XI988,高知県
 copula,refrain,645,UOM,高知県,2263,Z,高知県,3425,XI988,高知県
-copula,quick master (reform version),156,ILLYA.,高知県,0,,未設定,511,SHAULA,高知県
+copula,quick master (reform version),156,ILLYA.,高知県,285,YRS,高知県,511,SHAULA,高知県
 copula,POSSESSION,1308,M1NO-A,高知県,2045,13TREE,高知県,2752,MAHO.,高知県
 copula,OUTER LIMITS ALTERNATIVE,0,,未設定,1325,*TEAR*,高知県,2644,SHAULA,高知県
 copula,Outbreak,1212,NONAME,高知県,1796,ILLYA.,高知県,2909,POIFUL,高知県
@@ -958,7 +958,7 @@ copula,On the FM,711,TAKAKO,高知県,1556,ILLYA.,高知県,2668,NO-KEN,高知�
 copula,NZM,898,*TEAR*,高知県,1363,UTUME,高知県,3250,FF7,高知県
 copula,Nowhere,775,M1NO-A,高知県,1367,ILLYA.,高知県,2090,SHAULA,高知県
 copula,NO LIMIT -オレ達に限界は無い-,0,,未設定,1224,ILLYA.,高知県,2202,SHAULA,高知県
-copula,NINJA IS DEAD IIDX ver.,624,BISCO,高知県,1672,ILLYA.,高知県,2860,XI988,高知県
+copula,NINJA IS DEAD IIDX ver.,624,BISCO,高知県,1672,ILLYA.,高知県,2878,NO-KEN,高知県
 copula,Nightmare before oversleep,1157,ILLYA.,高知県,1856,XI988,高知県,2827,FF7,高知県
 copula,NANAIRO,0,,未設定,1692,ILLYA.,高知県,2450,SHAULA,高知県
 copula,Musik LoverZ,557,AOYM,高知県,1047,AOYM,高知県,2439,SHAULA,高知県
@@ -1009,8 +1009,8 @@ SINOBUZ,月雪に舞う華のように,576,YTNPNP,高知県,1247,PLAYER,高知�
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,920,AYASOL,高知県,1489,Z,高知県,2380,XI988,高知県
 SINOBUZ,忍恋花,437,TAC-8,高知県,1529,ILLYA.,高知県,2168,FF7,高知県
 SINOBUZ,刃図羅,1171,6E-U,高知県,2039,XI988,高知県,3261,NO-KEN,高知県
-SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2922,RARUKA,高知県
-SINOBUZ,冬椿 ft. Kanae Asaba,947,ILLYA.,高知県,1188,6E-U,高知県,2238,NOIK.S,高知県
+SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2926,NO-KEN,高知県
+SINOBUZ,冬椿 ft. Kanae Asaba,947,ILLYA.,高知県,1200,CREAM*,高知県,2238,NOIK.S,高知県
 SINOBUZ,九尾狐夜行,847,ILLYA.,高知県,1623,CREAM*,高知県,2853,NO-KEN,高知県
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,454,YTNPNP,高知県,1351,ILLYA.,高知県,2291,MAHO.,高知県
 SINOBUZ,イザナミノナゲキ,765,UOM,高知県,1805,INI,高知県,3073,NO-KEN,高知県
@@ -1031,7 +1031,7 @@ SINOBUZ,Super Rush,858,*TEAR*,高知県,1840,HAWK-I,高知県,3432,RARUKA,高知
 SINOBUZ,Summerlights(IIDX Edition),822,IIDX26,高知県,1765,HAWK-I,高知県,2916,XI988,高知県
 SINOBUZ,Summer,0,,未設定,1372,Z,高知県,1959,NOIK.S,高知県
 SINOBUZ,Steel Edge,602,AAAAAA,高知県,1411,HAWK-I,高知県,2964,SHAULA,高知県
-SINOBUZ,Snakey Kung-fu,1090,6E-U,高知県,2093,XI988,高知県,3195,MAHO.,高知県
+SINOBUZ,Snakey Kung-fu,1090,6E-U,高知県,2093,XI988,高知県,3202,NO-KEN,高知県
 SINOBUZ,Sky High,1058,CANON*,高知県,2281,XI988,高知県,3646,FF7,高知県
 SINOBUZ,SINOBUZ Fantasy,0,,未設定,1614,ILLYA.,高知県,2362,SHAULA,高知県
 SINOBUZ,shuriken,0,,未設定,1067,UTUME,高知県,2394,SHAULA,高知県
@@ -1041,7 +1041,7 @@ SINOBUZ,Selfish Sweet,0,,未設定,0,,未設定,1644,SHAULA,高知県
 SINOBUZ,Seize the Day,748,LFGR,高知県,1316,HAWK-I,高知県,2072,SHAULA,高知県
 SINOBUZ,Seaside Labyrinth,405,YTNPNP,高知県,1144,PANDA*,高知県,1834,SHAULA,高知県
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,613,YTNPNP,高知県,1113,KORIN!,高知県,2267,SHAULA,高知県
-SINOBUZ,SAY BAY,601,AAAAAA,高知県,1388,ILLYA.,高知県,2569,13TREE,高知県
+SINOBUZ,SAY BAY,601,AAAAAA,高知県,1388,ILLYA.,高知県,2601,NO-KEN,高知県
 SINOBUZ,Sarutobi Champion is 拙者,0,,未設定,965,PALUX,高知県,2091,SHAULA,高知県
 SINOBUZ,SAMURAI-Scramble,847,13,高知県,1555,HAWK-I,高知県,2225,NO-KEN,高知県
 SINOBUZ,ROTTERDAM SHOGUN,694,BISCO,高知県,1771,ILLYA.,高知県,2509,FF7,高知県
@@ -1081,18 +1081,18 @@ SINOBUZ,Breakin' Chain,578,KIRO.,高知県,1219,AYASOL,高知県,2257,SHAULA,高
 SINOBUZ,BREAK OVER,0,,未設定,1353,TOGE,高知県,2283,SHAULA,高知県
 SINOBUZ,Beyond The Seven,0,,未設定,1289,ILLYA.,高知県,2619,SHAULA,高知県
 SINOBUZ,Believe in you,687,UOM,高知県,1770,6E-U,高知県,2369,SHAULA,高知県
-SINOBUZ,Beat Juggling Mix,832,SEA&,高知県,1470,HAWK-I,高知県,2077,SHAULA,高知県
+SINOBUZ,Beat Juggling Mix,832,SEA&,高知県,1493,CREAM*,高知県,2077,SHAULA,高知県
 SINOBUZ,Be A Star,627,NIRAAA,高知県,1723,ILLYA.,高知県,2708,NO-KEN,高知県
 SINOBUZ,BabeL ～Grand Story～,614,BISCO,高知県,2038,13TREE,高知県,2656,FF7,高知県
 SINOBUZ,AsiaN distractive,702,YTNPNP,高知県,1671,ILLYA.,高知県,2470,SHAULA,高知県
 SINOBUZ,Around The Galaxy,671,YTNPNP,高知県,2070,Z,高知県,3276,NO-KEN,高知県
 SINOBUZ,Apocalypse,1058,AYASOL,高知県,2111,Z,高知県,3440,NO-KEN,高知県
-SINOBUZ,AO-∞,667,UOM,高知県,1524,UTUME,高知県,2550,SHAULA,高知県
+SINOBUZ,AO-∞,776,CYBER,高知県,1524,UTUME,高知県,2550,SHAULA,高知県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3067,NO-KEN,高知県
 SINOBUZ,Amazing Mirage,537,REMONU,高知県,1570,CREAM*,高知県,2465,XI988,高知県
 SINOBUZ,Affection,0,,未設定,1152,ILLYA.,高知県,2042,SHAULA,高知県
 SINOBUZ,(This Is Not) The Angels,543,CREAM*,高知県,1359,ILLYA.,高知県,2555,FF7,高知県
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,901,AOYM,高知県,1942,POIFUL,高知県,3238,NO-KEN,高知県
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,901,AOYM,高知県,1942,POIFUL,高知県,3247,NO-KEN,高知県
 SINOBUZ,!Viva!,776,KYIIII,高知県,1492,CREAM*,高知県,1960,SHAULA,高知県
 CANNON BALLERS,草原の王女-軌跡を辿って-,594,KIRO.,高知県,1188,ILLYA.,高知県,2226,Z,高知県
 CANNON BALLERS,純真可憐デザイア,611,SENERU,高知県,1570,HAWK-I,高知県,2255,SHAULA,高知県
@@ -1104,11 +1104,11 @@ CANNON BALLERS,ラストセンチュリーメランコリック,793,TACA,高知�
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),878,*TEAR*,高知県,1747,ILLYA.,高知県,2651,SHAULA,高知県
 CANNON BALLERS,バスルーム ロマンス,0,,未設定,1408,Z,高知県,2336,13TREE,高知県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,667,AOYM,高知県,1769,13TREE,高知県,2442,SHAULA,高知県
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,593,UOM,高知県,1422,6E-U,高知県,2354,SHAULA,高知県
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,865,Z,高知県,1422,6E-U,高知県,2354,SHAULA,高知県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,1028,ILLYA.,高知県,1519,ILLYA.,高知県,2057,SHAULA,高知県
-CANNON BALLERS,シムルグの目醒め,850,YTNPNP,高知県,2107,INI,高知県,3289,NO-KEN,高知県
+CANNON BALLERS,シムルグの目醒め,850,YTNPNP,高知県,2205,13TREE,高知県,3289,NO-KEN,高知県
 CANNON BALLERS,エディブルフラワーの独白,341,N4HH4,高知県,1491,CREAM*,高知県,2138,POIFUL,高知県
-CANNON BALLERS,うさ☆かめ 大戦争！,769,AOYM,高知県,1514,HAWK-I,高知県,2367,XI988,高知県
+CANNON BALLERS,うさ☆かめ 大戦争！,769,AOYM,高知県,1527,ILLYA.,高知県,2367,XI988,高知県
 CANNON BALLERS,Xperanza,1364,HAWK-I,高知県,2376,XI988,高知県,2991,NO-KEN,高知県
 CANNON BALLERS,VOX RUSH,1028,AOYM,高知県,2057,ILLYA.,高知県,3089,MAHO.,高知県
 CANNON BALLERS,Usual Days-remix,0,,未設定,1405,PLAYER,高知県,2515,NO-KEN,高知県
@@ -1117,19 +1117,19 @@ CANNON BALLERS,The Revolution (VIP Mix),698,*TEAR*,高知県,1342,PANDA*,高知�
 CANNON BALLERS,The Chase,563,*TEAR*,高知県,1267,WYRM*,高知県,1957,SHAULA,高知県
 CANNON BALLERS,THE CANNONBALLER,1495,ILLYA.,高知県,2197,INI,高知県,3284,NOIK.S,高知県
 CANNON BALLERS,Temple of Anubis,0,,未設定,1473,ILLYA.,高知県,2569,RARUKA,高知県
-CANNON BALLERS,SUNLiGHT (IIDX Mix),1125,TOGE,高知県,1441,SHANTK,高知県,2364,OFF-0,高知県
+CANNON BALLERS,SUNLiGHT (IIDX Mix),1125,TOGE,高知県,1602,TACA,高知県,2364,OFF-0,高知県
 CANNON BALLERS,Static State,426,UOM,高知県,1368,ISOJIN,高知県,2280,SHAULA,高知県
 CANNON BALLERS,STARLIGHT JUNCTION,733,*TEAR*,高知県,1526,U*K1,高知県,2200,NO-KEN,高知県
 CANNON BALLERS,SPEED DEMON,510,WATA,高知県,1345,S,高知県,2187,SHAULA,高知県
 CANNON BALLERS,SPEED,0,,未設定,1542,ILLYA.,高知県,2514,SHAULA,高知県
-CANNON BALLERS,"Son, not gabba now",0,,未設定,1268,NONAME,高知県,2315,SHAULA,高知県
+CANNON BALLERS,"Son, not gabba now",723,*TEAR*,高知県,1268,NONAME,高知県,2315,SHAULA,高知県
 CANNON BALLERS,Slipstream,962,NONAME,高知県,1911,IXIXI,高知県,3315,NO-KEN,高知県
 CANNON BALLERS,SHOX,0,,未設定,1105,ILLYA.,高知県,1640,SHAULA,高知県
 CANNON BALLERS,Rise Circuit,0,,未設定,0,,未設定,2168,NO-KEN,高知県
 CANNON BALLERS,Raspberry Railgun,0,,未設定,2173,13TREE,高知県,3007,XI988,高知県
 CANNON BALLERS,Rampage,965,CYBER,高知県,2392,HAWK-I,高知県,3511,RARUKA,高知県
 CANNON BALLERS,Persephone,993,NO.14?,高知県,1953,SHAULA,高知県,2811,NO-KEN,高知県
-CANNON BALLERS,Papilio ulysses,957,*TEAR*,高知県,1879,HAWK-I,高知県,2620,MAHO.,高知県
+CANNON BALLERS,Papilio ulysses,957,*TEAR*,高知県,2025,13TREE,高知県,2620,MAHO.,高知県
 CANNON BALLERS,Only for now,816,IIDX26,高知県,1518,LMIE,高知県,2223,SHAULA,高知県
 CANNON BALLERS,O/D*20,0,,未設定,1590,CREAM*,高知県,2070,SHAULA,高知県
 CANNON BALLERS,Nothing but Theory,0,,未設定,1452,CREAM*,高知県,2767,NO-KEN,高知県
@@ -1148,7 +1148,7 @@ CANNON BALLERS,I Love You,0,,未設定,1594,ACRUX,高知県,2624,SHAULA,高知�
 CANNON BALLERS,HYPE THE CORE,880,*TEAR*,高知県,1717,FKK22,高知県,2862,NO-KEN,高知県
 CANNON BALLERS,Hella Deep,0,,未設定,1030,Z,高知県,1737,13TREE,高知県
 CANNON BALLERS,HAT TRICK,444,AOYM,高知県,1382,ILLYA.,高知県,2143,RARUKA,高知県
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,未設定,0,,未設定,1762,SHAULA,高知県
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,未設定,0,,未設定,1767,MAHO.,高知県
 CANNON BALLERS,FUTURE is Dead,0,,未設定,1365,ILLYA.,高知県,2033,MAHO.,高知県
 CANNON BALLERS,From Time To Time,708,*TEAR*,高知県,0,,未設定,2455,NO-KEN,高知県
 CANNON BALLERS,FREEDOM,629,UOM,高知県,1309,*TEAR*,高知県,2818,NO-KEN,高知県
@@ -1183,7 +1183,7 @@ CANNON BALLERS,Acidiva 303,493,REMONU,高知県,1288,ACRUX,高知県,2208,SHAULA
 CANNON BALLERS,ACCELERATE,0,,未設定,1649,ILLYA.,高知県,2440,SHAULA,高知県
 CANNON BALLERS,Abraxas,626,Z,高知県,1510,ILLYA.,高知県,2295,SHAULA,高知県
 CANNON BALLERS,AA -rebuild-,1028,ILLYA.,高知県,2294,Z,高知県,3480,FF7,高知県
-CANNON BALLERS,255,783,AYASOL,高知県,1488,PITA,高知県,3074,NO-KEN,高知県
+CANNON BALLERS,255,783,AYASOL,高知県,1488,PITA,高知県,3101,NO-KEN,高知県
 CANNON BALLERS,2 Player,753,IIDX26,高知県,1498,ILLYA.,高知県,2436,13TREE,高知県
 CANNON BALLERS,1001 -ESCAPE-,0,,未設定,1628,Z,高知県,2504,SHAULA,高知県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1140,RARUKA,高知県,2315,RARUKA,高知県,3136,RARUKA,高知県
@@ -1227,7 +1227,7 @@ Rootage,Particle Arts,869,RARUKA,高知県,1641,RARUKA,高知県,2399,NO-KEN,高
 Rootage,Painful Fate,1259,RARUKA,高知県,2253,RARUKA,高知県,3110,NO-KEN,高知県
 Rootage,OVER TIME,574,RARUKA,高知県,969,SHAULA,高知県,1537,NOIK.S,高知県
 Rootage,Necroxis Girl,1162,SHAULA,高知県,1973,RARUKA,高知県,2693,NO-KEN,高知県
-Rootage,Macho Monky,1450,SHAULA,高知県,2060,13TREE,高知県,2844,NO-KEN,高知県
+Rootage,Macho Monky,1450,SHAULA,高知県,2067,13TREE,高知県,2844,NO-KEN,高知県
 Rootage,LOST TECHNOLOGIE,1148,SHAULA,高知県,1853,SHAULA,高知県,3254,NO-KEN,高知県
 Rootage,Level One,1243,SHAULA,高知県,2253,SHAULA,高知県,3185,NO-KEN,高知県
 Rootage,Let me be your cure,1135,RARUKA,高知県,1431,NOIK.S,高知県,2608,NOIK.S,高知県
@@ -1244,7 +1244,7 @@ Rootage,GIGA THRASH,1243,RARUKA,高知県,1894,RARUKA,高知県,2605,NOIK.S,高�
 Rootage,EVANESCENT,1257,RARUKA,高知県,2249,SHAULA,高知県,3338,MAHO.,高知県
 Rootage,Ember Lights,952,RARUKA,高知県,1647,RARUKA,高知県,2638,RARUKA,高知県
 Rootage,DRUNK MONKY,983,RARUKA,高知県,1584,RARUKA,高知県,2206,NO-KEN,高知県
-Rootage,Drastic Dramatic,1548,RARUKA,高知県,2354,RARUKA,高知県,3340,NO-KEN,高知県
+Rootage,Drastic Dramatic,1548,RARUKA,高知県,2354,RARUKA,高知県,3344,NO-KEN,高知県
 Rootage,Dr. Chemical & Killing Machine,1120,RARUKA,高知県,1877,RARUKA,高知県,3246,RARUKA,高知県
 Rootage,Digital Skipper,993,SHAULA,高知県,1574,RARUKA,高知県,2189,RARUKA,高知県
 Rootage,dAuntl3ss,1073,RARUKA,高知県,1991,NOIK.S,高知県,3350,RARUKA,高知県
@@ -1256,4 +1256,7 @@ Rootage,BLOSSOM,1077,SHAULA,高知県,1635,SHAULA,高知県,2441,13TREE,高知�
 Rootage,Angels & Demons,915,RARUKA,高知県,1756,RARUKA,高知県,2373,RARUKA,高知県
 Rootage,AGAiN,1019,RARUKA,高知県,1597,SHAULA,高知県,2252,NOIK.S,高知県
 Rootage,A Tale Hidden In The Abyss,944,SHAULA,高知県,1699,RARUKA,高知県,2511,NO-KEN,高知県
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1222,SHAULA,高知県,1622,SHAULA,高知県,2544,NO-KEN,高知県
+Rootage,50th Memorial Songs -The BEMANI History-,1070,SHAULA,高知県,1622,SHAULA,高知県,2521,NO-KEN,高知県
+Rootage,50th Memorial Songs -Flagship medley-,884,SHAULA,高知県,1398,16-BIT,高知県,2187,NO-KEN,高知県
 Rootage,50th Memorial Songs -Beginning Story-,823,SHAULA,高知県,1651,RARUKA,高知県,2622,NO-KEN,高知県
