@@ -1,7 +1,7 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
 1st&substream,THE EARTH LIGHT,728,MARISA,埼玉県,1033,6MURT!,埼玉県,1155,87PECO,埼玉県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,2011,LOBMAG,埼玉県
-1st&substream,RUGGED ASH,364,SYOW,埼玉県,396,FLORT,埼玉県,1094,K.F,埼玉県
+1st&substream,RUGGED ASH,364,SYOW,埼玉県,396,YU-!,埼玉県,1094,K.F,埼玉県
 1st&substream,R3,625,AAA,埼玉県,732,IIDXXX,埼玉県,899,ROUGAI,埼玉県
 1st&substream,PARANOIA MAX～DIRTY MIX～,530,AL.,埼玉県,722,JOLMIN,埼玉県,1106,ROUGAI,埼玉県
 1st&substream,Macho Gang,373,AZARA4,埼玉県,998,JOLMIN,埼玉県,1611,ROUGAI,埼玉県
@@ -24,7 +24,7 @@
 3rd style,Tangerine Stream,275,JOLMIN,埼玉県,388,★,埼玉県,0,,未設定
 3rd style,Skyscraper,701,JOLMIN,埼玉県,1140,JOLMIN,埼玉県,1250,SERENA,埼玉県
 3rd style,Schlagwerk,801,BENK,埼玉県,1252,SUGA.G,埼玉県,1687,1-PIN,埼玉県
-3rd style,REINCARNATION,812,BENK,埼玉県,962,A96BAT,埼玉県,1271,SERENA,埼玉県
+3rd style,REINCARNATION,813,SYOW,埼玉県,962,A96BAT,埼玉県,1271,SERENA,埼玉県
 3rd style,R5,770,ROUGAI,埼玉県,1154,IIPIN,埼玉県,1759,SETZ,埼玉県
 3rd style,Presto,502,JOLMIN,埼玉県,945,XEXION,埼玉県,1011,SERENA,埼玉県
 3rd style,LEADING CYBER,830,$AI.,埼玉県,1171,IIDXXX,埼玉県,1270,CHERRY,埼玉県
@@ -242,7 +242,7 @@ IIDX RED,AGEHA,1019,ISAOX*,埼玉県,1692,LL,埼玉県,1885,ROUGAI,埼玉県
 IIDX RED,AA,1259,EZ2AC,埼玉県,2681,AZARA4,埼玉県,3625,YUI.OR,埼玉県
 HAPPY SKY,月光,882,EZR,埼玉県,1670,BUTATA,埼玉県,2470,YUI.OR,埼玉県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),1075,MI-PAN,埼玉県,1455,NECO-Q,埼玉県,1911,TANMEN,埼玉県
-HAPPY SKY,冥,1059,WA$DEE,埼玉県,2045,T.FULL,埼玉県,3803,TANMEN,埼玉県
+HAPPY SKY,冥,1082,K.F,埼玉県,2045,T.FULL,埼玉県,3803,TANMEN,埼玉県
 HAPPY SKY,ラクエン,577,LV77,埼玉県,852,MYUTAN,埼玉県,1994,TANMEN,埼玉県
 HAPPY SKY,ヒマワリ,559,EZR,埼玉県,1816,NABE,埼玉県,2072,LOBMAG,埼玉県
 HAPPY SKY,オレはビートマニア！お前は何マニア？,813,K.F,埼玉県,1464,87PECO,埼玉県,1676,T.FULL,埼玉県
@@ -286,7 +286,7 @@ HAPPY SKY,Agnus Dei,858,MI-PAN,埼玉県,1556,LL,埼玉県,2060,.LA,埼玉県
 HAPPY SKY,100％ minimoo-G,896,MI-PAN,埼玉県,1602,Y&CCO.,埼玉県,1713,A,埼玉県
 DistorteD,虹色,914,KEI,埼玉県,1521,XEXION,埼玉県,1853,ROUGAI,埼玉県
 DistorteD,華蝶風雪,1127,BLANK,埼玉県,2074,AZARA4,埼玉県,2976,TANMEN,埼玉県
-DistorteD,罠,547,JOLMIN,埼玉県,1461,JOLMIN,埼玉県,2454,1-PIN,埼玉県
+DistorteD,罠,557,WA$DEE,埼玉県,1461,JOLMIN,埼玉県,2454,1-PIN,埼玉県
 DistorteD,嘆きの樹,1707,CHA*MA,埼玉県,2492,1-PIN,埼玉県,3860,TANMEN,埼玉県
 DistorteD,タシカナモノ,934,EZR,埼玉県,1425,39RAGI,埼玉県,2023,AZARA4,埼玉県
 DistorteD,カゴノトリ～弐式～,1073,MARISA,埼玉県,1846,AZARA4,埼玉県,2611,CHERRY,埼玉県
@@ -321,7 +321,7 @@ DistorteD,Concertino in Blue,810,JOLMIN,埼玉県,1568,STAFFY,埼玉県,2493,TAN
 DistorteD,Broadbanded,880,BENK,埼玉県,1395,AZARA4,埼玉県,2011,CHERRY,埼玉県
 DistorteD,BOOM BOOM DISCO NIGHT,934,RECSEA,埼玉県,1846,AZARA4,埼玉県,2277,SERENA,埼玉県
 DistorteD,Bloody Tears(IIDX EDITION),1079,H.IKA,埼玉県,1864,BULLET,埼玉県,2171,1-PIN,埼玉県
-DistorteD,BALLAD THE FEATHERS,715,SYOW,埼玉県,1046,$AI.,埼玉県,1511,SERENA,埼玉県
+DistorteD,BALLAD THE FEATHERS,715,SYOW,埼玉県,1054,SYOW,埼玉県,1511,SERENA,埼玉県
 DistorteD,Apocalypse ～dirge of swans～,940,AIR-3R,埼玉県,1695,DIO!!,埼玉県,2388,K.F,埼玉県
 DistorteD,ALFARSHEAR 双神威に廻る夢,1076,EZR,埼玉県,1618,VILLA.,埼玉県,2077,LOBMAG,埼玉県
 GOLD,電人、暁に斃れる。,1492,YAKSHA,埼玉県,2357,AZARA4,埼玉県,3397,YUI.OR,埼玉県
@@ -488,7 +488,7 @@ SIRIUS,Roots of my way!,888,12345$,埼玉県,1290,OUF,埼玉県,2042,1-PIN,埼�
 SIRIUS,Red. by Full Metal Jacket,999,12345$,埼玉県,2081,ROUGAI,埼玉県,3158,TANMEN,埼玉県
 SIRIUS,Raison d'?tre～交差する宿命～,1190,EZ2AC,埼玉県,2180,NABE,埼玉県,2744,TANMEN,埼玉県
 SIRIUS,quell～the seventh slave～,972,EZ2AC,埼玉県,1805,AZARA4,埼玉県,3171,YUI.OR,埼玉県
-SIRIUS,Programmed Sun,1068,DEZIST,埼玉県,1818,NABE,埼玉県,2603,TANMEN,埼玉県
+SIRIUS,Programmed Sun,1080,MOOG56,埼玉県,1818,NABE,埼玉県,2603,TANMEN,埼玉県
 SIRIUS,NoN-Fiction Story!,714,EZR,埼玉県,1328,OUF,埼玉県,2213,1-PIN,埼玉県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1251,KEIKO!,埼玉県,1991,-KMBK-,埼玉県,2668,1-PIN,埼玉県
 SIRIUS,mosaic,1460,DEZIST,埼玉県,2058,1-PIN,埼玉県,2994,1-PIN,埼玉県
@@ -576,8 +576,8 @@ Resort Anthem,Breaking the ground,1182,EZ2AC,埼玉県,1766,M.RIDE,埼玉県,251
 Resort Anthem,Bounce Bounce Bounce,1075,EZR,埼玉県,1702,AZARA4,埼玉県,2453,TANMEN,埼玉県
 Resort Anthem,BLUST OF WIND,813,DEZIST,埼玉県,1533,OSU.MI,埼玉県,2116,ROUGAI,埼玉県
 Resort Anthem,Believe In Me,972,VAKA,埼玉県,1760,-KMBK-,埼玉県,2375,YUI.OR,埼玉県
-Resort Anthem,ANTHEM LANDING,936,DEZIST,埼玉県,1928,AZARA4,埼玉県,2953,YUI.OR,埼玉県
-Resort Anthem,Answer,780,EZR,埼玉県,1434,SYOW,埼玉県,2433,SERENA,埼玉県
+Resort Anthem,ANTHEM LANDING,936,DEZIST,埼玉県,1950,K.F,埼玉県,2953,YUI.OR,埼玉県
+Resort Anthem,Answer,780,EZR,埼玉県,1445,EZR,埼玉県,2433,SERENA,埼玉県
 Resort Anthem,ALBIDA,1058,HANA,埼玉県,1951,AZARA4,埼玉県,2994,YUI.OR,埼玉県
 Resort Anthem,Aegis,846,ZYX,埼玉県,1413,87PECO,埼玉県,2347,YUI.OR,埼玉県
 Lincle,陽炎,634,12345$,埼玉県,1174,SYOW,埼玉県,2011,SERENA,埼玉県
@@ -595,7 +595,7 @@ Lincle,Yellow Sunrise,740,Y.U.K!,埼玉県,1431,NOTCH,埼玉県,2267,KIDO..,埼�
 Lincle,yellow head joe,750,Y.U.K!,埼玉県,1434,YAKSHA,埼玉県,2244,K.F,埼玉県
 Lincle,YAKSHA,1204,AIR-3R,埼玉県,2256,NABE,埼玉県,3887,TANMEN,埼玉県
 Lincle,WONDER WALKER,988,EZR,埼玉県,1946,AZARA4,埼玉県,3804,YUI.OR,埼玉県
-Lincle,Voxane,620,EZR,埼玉県,1215,FLORT,埼玉県,1750,MIKU.N,埼玉県
+Lincle,Voxane,620,EZR,埼玉県,1215,YU-!,埼玉県,1750,MIKU.N,埼玉県
 Lincle,Todestrieb,1104,EZR,埼玉県,1922,-KMBK-,埼玉県,3425,YUI.OR,埼玉県
 Lincle,TITANS RETURN,610,JOLMIN,埼玉県,1497,YAKSHA,埼玉県,2482,MIKU.N,埼玉県
 Lincle,Thunderbolt,1017,JOLMIN,埼玉県,1873,-KMBK-,埼玉県,3740,TANMEN,埼玉県
@@ -675,7 +675,7 @@ tricoro,VEGA,1095,Y.U.K!,埼玉県,1998,CHAMA.,埼玉県,3093,1-PIN,埼玉県
 tricoro,VALLIS-NERIA,1151,VAKA,埼玉県,2068,-KMBK-,埼玉県,2902,KIDO..,埼玉県
 tricoro,Valanga,1277,$AI.,埼玉県,2152,HAZARD,埼玉県,3244,TANMEN,埼玉県
 tricoro,True Blue,1087,12345$,埼玉県,2497,T.FULL,埼玉県,3729,1-PIN,埼玉県
-tricoro,To my star,600,EZR,埼玉県,1241,FLORT,埼玉県,1753,SERENA,埼玉県
+tricoro,To my star,600,EZR,埼玉県,1241,YU-!,埼玉県,1753,SERENA,埼玉県
 tricoro,Timepiece phase II (CN Ver.),939,Y.U.K!,埼玉県,1869,.PRIMA,埼玉県,2974,TANMEN,埼玉県
 tricoro,Timepiece phase II,1009,Y.U.K!,埼玉県,2168,AZARA4,埼玉県,3238,TANMEN,埼玉県
 tricoro,Time To Empress,916,EZR,埼玉県,1913,.,埼玉県,2621,YUI.OR,埼玉県
@@ -695,7 +695,7 @@ tricoro,Rainbow after snow,736,EZ2AC,埼玉県,1467,AZARA4,埼玉県,2165,K.F,�
 tricoro,Proof of the existence,1176,EZR,埼玉県,2060,AZARA4,埼玉県,3218,YUI.OR,埼玉県
 tricoro,Praludium,706,EZR,埼玉県,1377,BUTATA,埼玉県,2290,YUI.OR,埼玉県
 tricoro,POINT ZERO,734,EZR,埼玉県,1268,AZARA4,埼玉県,2087,TANMEN,埼玉県
-tricoro,planarian,719,EZR,埼玉県,1630,YAKSHA,埼玉県,2528,ROUGAI,埼玉県
+tricoro,planarian,719,EZR,埼玉県,1630,YAKSHA,埼玉県,2535,1-PIN,埼玉県
 tricoro,Plan 8,1114,KM,埼玉県,2179,KIRIMI,埼玉県,3078,TANMEN,埼玉県
 tricoro,New Lights,1003,Y.U.K!,埼玉県,1739,MI-PAN,埼玉県,2475,ROUGAI,埼玉県
 tricoro,New Decade IIDX Edition,949,Y.U.K!,埼玉県,1814,-ASK-.,埼玉県,3007,YUI.OR,埼玉県
@@ -803,7 +803,7 @@ SPADA,diagram,629,EZR,埼玉県,1294,AZARA4,埼玉県,2882,TANMEN,埼玉県
 SPADA,Devilz Sacrifice -贖罪の羊-,949,B0Y.,埼玉県,1783,AZARA4,埼玉県,2477,FENNEC,埼玉県
 SPADA,DARK LEGACY,1289,ELF,埼玉県,2025,-KMBK-,埼玉県,3553,TANMEN,埼玉県
 SPADA,Dark Fall,851,Y.U.K!,埼玉県,1560,-KMBK-,埼玉県,2755,1-PIN,埼玉県
-SPADA,Critical Crystal,1002,JOLMIN,埼玉県,1781,CHA*MA,埼玉県,2909,TANMEN,埼玉県
+SPADA,Critical Crystal,1004,MHLEE,埼玉県,1781,CHA*MA,埼玉県,2909,TANMEN,埼玉県
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3826,TANMEN,埼玉県
 SPADA,Close the World feat. a☆ru,1128,JOLMIN,埼玉県,2057,T.FULL,埼玉県,3413,YUI.OR,埼玉県
 SPADA,Cleopatrysm,812,EZR,埼玉県,1367,OSU.MI,埼玉県,2569,MIKU.N,埼玉県
@@ -957,7 +957,7 @@ copula,Outbreak,1318,EZR,埼玉県,1818,B0Y.,埼玉県,3003,1-PIN,埼玉県
 copula,On the FM,1104,EZR,埼玉県,1541,JOLMIN,埼玉県,2775,1-PIN,埼玉県
 copula,NZM,1068,SH,埼玉県,1583,*LAB*,埼玉県,3415,TANMEN,埼玉県
 copula,Nowhere,848,EZR,埼玉県,1476,AZARA4,埼玉県,2174,TANMEN,埼玉県
-copula,NO LIMIT -オレ達に限界は無い-,818,EZR,埼玉県,1199,DEZIST,埼玉県,2255,1-PIN,埼玉県
+copula,NO LIMIT -オレ達に限界は無い-,818,EZR,埼玉県,1213,SYOW,埼玉県,2255,1-PIN,埼玉県
 copula,NINJA IS DEAD IIDX ver.,1181,SH,埼玉県,1840,LEMON,埼玉県,2977,1-PIN,埼玉県
 copula,Nightmare before oversleep,1182,EZR,埼玉県,1919,AZARA4,埼玉県,2948,TANMEN,埼玉県
 copula,NANAIRO,1043,EZR,埼玉県,1816,AZARA4,埼玉県,2566,1-PIN,埼玉県
@@ -993,7 +993,7 @@ copula,Blue Spring Express,1281,DEZIST,埼玉県,2053,AZARA4,埼玉県,3273,YUI.
 copula,Battle Train -IIDX Edition-,869,BENK,埼玉県,2467,NANPIN,埼玉県,3239,LOBMAG,埼玉県
 copula,Aublia,960,EZR,埼玉県,1494,$AI.,埼玉県,2509,ROUGAI,埼玉県
 copula,Arcana,1176,MI-PAN,埼玉県,1766,AZARA4,埼玉県,2271,SERENA,埼玉県
-copula,AO-1,1214,MARISA,埼玉県,1871,CHA*MA,埼玉県,2804,TANMEN,埼玉県
+copula,AO-1,1214,MARISA,埼玉県,1894,-KMBK-,埼玉県,2804,TANMEN,埼玉県
 copula,Angelic Jelly,1136,EZR,埼玉県,1986,08??,埼玉県,2721,3STARS,埼玉県
 copula,Acid Pumper,685,EZR,埼玉県,1573,IIDXXX,埼玉県,2454,TANMEN,埼玉県
 copula,199024club -Re:BounceKiller-,664,EZR,埼玉県,1631,M-JET.,埼玉県,2364,TANMEN,埼玉県
@@ -1256,7 +1256,7 @@ Rootage,BLOSSOM,1081,Y&CCO.,埼玉県,1655,IIDXXX,埼玉県,2523,1-PIN,埼玉県
 Rootage,Angels & Demons,934,96BEE,埼玉県,1799,IIDXXX,埼玉県,2450,TANMEN,埼玉県
 Rootage,AGAiN,1012,12345$,埼玉県,1611,KIDO..,埼玉県,2321,TANMEN,埼玉県
 Rootage,A Tale Hidden In The Abyss,949,BRAVO.,埼玉県,1713,BLUE#,埼玉県,2658,TANMEN,埼玉県
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1224,B0Y.,埼玉県,1609,ARISA.,埼玉県,2571,K.F,埼玉県
-Rootage,50th Memorial Songs -The BEMANI History-,1063,J.G,埼玉県,1588,2439-R,埼玉県,2549,BT,埼玉県
-Rootage,50th Memorial Songs -Flagship medley-,912,MARISA,埼玉県,1480,2439-R,埼玉県,2236,BT,埼玉県
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1224,B0Y.,埼玉県,1609,ARISA.,埼玉県,2588,SAMES,埼玉県
+Rootage,50th Memorial Songs -The BEMANI History-,1063,J.G,埼玉県,1597,BITAO4,埼玉県,2549,BT,埼玉県
+Rootage,50th Memorial Songs -Flagship medley-,918,JIVE,埼玉県,1480,2439-R,埼玉県,2236,BT,埼玉県
 Rootage,50th Memorial Songs -Beginning Story-,827,12345$,埼玉県,1637,BLUE#,埼玉県,2707,CHERRY,埼玉県
