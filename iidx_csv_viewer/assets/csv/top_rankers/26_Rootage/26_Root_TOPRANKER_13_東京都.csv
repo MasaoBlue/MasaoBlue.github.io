@@ -92,7 +92,7 @@
 6th style,Buffalo,1007,Y.TAE,東京都,1446,Y.TAE,東京都,1804,K-,東京都
 6th style,Blueberry Stream,844,Y.TAE,東京都,1499,Y.TAE,東京都,1661,MIKAMO,東京都
 6th style,BALLAD FOR YOU～想いの雨～,588,Y.TAE,東京都,772,Y.TAE,東京都,1073,Y.TAE,東京都
-6th style,"19,November",1106,Y.TAE,東京都,1453,Y.TAE,東京都,1790,BABA.G,東京都
+6th style,"19,November",1106,Y.TAE,東京都,1453,Y.TAE,東京都,1797,MIKAMO,東京都
 7th style,革命,762,Y.TAE,東京都,1938,Y.TAE,東京都,2345,1048,東京都
 7th style,ZERO-ONE,1084,Y.TAE,東京都,1697,Y.TAE,東京都,2243,MIKAMO,東京都
 7th style,traces,1532,Y.TAE,東京都,1940,Y.TAE,東京都,2149,MIKAMO,東京都
@@ -222,7 +222,7 @@ IIDX RED,RED ZONE†,0,,未設定,0,,未設定,3105,MIKAMO,東京都
 IIDX RED,RED ZONE,1124,Y.TAE,東京都,1910,Y.TAE,東京都,2340,1048,東京都
 IIDX RED,Raspberry Heart(English version),1032,Y.TAE,東京都,1574,Y.TAE,東京都,1852,ALIKIA,東京都
 IIDX RED,NEBULA GRASPER,1362,Y.TAE,東京都,2000,Y.TAE,東京都,2462,S-RAN,東京都
-IIDX RED,KEY,1121,Y.TAE,東京都,1880,Y.TAE,東京都,2837,RIDDLE,東京都
+IIDX RED,KEY,1121,Y.TAE,東京都,1880,Y.TAE,東京都,2840,.,東京都
 IIDX RED,HORIZON,1082,IIDX26,東京都,1558,Y.TAE,東京都,1969,MIKAMO,東京都
 IIDX RED,gigadelic,1513,Y.TAE,東京都,2193,MIKAMO,東京都,2537,SHONO,東京都
 IIDX RED,GENOCIDE,1151,SHINPO,東京都,2110,Y.TAE,東京都,2415,MIKAMO,東京都
@@ -338,7 +338,7 @@ GOLD,VANESSA†,0,,未設定,0,,未設定,3364,RAG*,東京都
 GOLD,VANESSA,1160,Y.TAE,東京都,1822,*TA93N,東京都,2429,MIKAMO,東京都
 GOLD,TRANOID,807,Y.TAE,東京都,1798,Y.TAE,東京都,2230,RAG*,東京都
 GOLD,The Smile of You,933,Y.TAE,東京都,1312,Y.TAE,東京都,1627,GP03-D,東京都
-GOLD,the shadow,1226,SHINPO,東京都,2124,Y.TAE,東京都,2912,MIKAMO,東京都
+GOLD,the shadow,1226,SHINPO,東京都,2124,Y.TAE,東京都,2924,MIKAMO,東京都
 GOLD,snow storm,795,Y.TAE,東京都,2293,Y.TAE,東京都,2792,S-RAN,東京都
 GOLD,smile,1478,Y.TAE,東京都,2179,Y.TAE,東京都,2885,MI7RAI,東京都
 GOLD,Sense 2007,1548,MI7RAI,東京都,2233,Y.TAE,東京都,2969,1048,東京都
@@ -368,7 +368,7 @@ GOLD,CaptivAte～裁き～,861,DICE,東京都,1310,DICE,東京都,1788,MIKAMO,�
 GOLD,Candy Galy,1572,Y.TAE,東京都,2558,Y.TAE,東京都,3549,1048,東京都
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1344,Y.TAE,東京都,1971,Y.TAE,東京都,2479,RAG*,東京都
 GOLD,ANDROMEDA II,985,Y.TAE,東京都,1939,Y.TAE,東京都,2470,Y.TAE,東京都
-GOLD,Air Bell,985,Y.TAE,東京都,1348,Y.TAE,東京都,1719,RAQUEL,東京都
+GOLD,Air Bell,987,SUBARU,東京都,1348,Y.TAE,東京都,1719,RAQUEL,東京都
 DJ TROOPERS,走馬灯 -The Last Song-,509,TOBI*R,東京都,917,Y.TAE,東京都,1338,GP03-D,東京都
 DJ TROOPERS,華爛漫 -Flowers-,1014,Y.TAE,東京都,1584,Y.TAE,東京都,2046,1048,東京都
 DJ TROOPERS,少年A,1254,Y.TAE,東京都,2191,Y.TAE,東京都,2828,MI7RAI,東京都
@@ -425,7 +425,7 @@ EMPRESS,山岡晃の「クイズ！家事都合！」,673,Y.TAE,東京都,1378,Y
 EMPRESS,天空脳番長危機十六連打,1036,SHINPO,東京都,2179,Y.TAE,東京都,2599,MIKAMO,東京都
 EMPRESS,卑弥呼,1264,DICE,東京都,2760,MI7RAI,東京都,4048,RAG*,東京都
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3175,RIDDLE,東京都
-EMPRESS,凛として咲く花の如く,1333,Y.TAE,東京都,2145,Y.TAE,東京都,2779,S-RAN,東京都
+EMPRESS,凛として咲く花の如く,1333,Y.TAE,東京都,2145,Y.TAE,東京都,2782,MIKAMO,東京都
 EMPRESS,不沈艦CANDY,1182,Y.TAE,東京都,1982,Y.TAE,東京都,3305,RAG*,東京都
 EMPRESS,ミッドナイト堕天使,997,IN-PO,東京都,1638,Y.TAE,東京都,2778,RIDDLE,東京都
 EMPRESS,ハリツヤランデヴー,953,SAFARI,東京都,2127,Y.TAE,東京都,2491,MIKAMO,東京都
@@ -536,7 +536,7 @@ Resort Anthem,WE LOVE SHONAN,801,Y.TAE,東京都,1702,Y.TAE,東京都,2184,S-RAN
 Resort Anthem,Watch Out Pt.2,1159,Y.TAE,東京都,1981,Y.TAE,東京都,2920,RIDDLE,東京都
 Resort Anthem,Vermillion,543,Y.TAE,東京都,1162,Y.TAE,東京都,2047,RIDDLE,東京都
 Resort Anthem,Tropical April,1631,Y.TAE,東京都,2310,Y.TAE,東京都,2752,MIKAMO,東京都
-Resort Anthem,THE FALLEN,921,Y.TAE,東京都,1519,Y.TAE,東京都,2677,MI7RAI,東京都
+Resort Anthem,THE FALLEN,921,Y.TAE,東京都,1519,Y.TAE,東京都,2706,MIKAMO,東京都
 Resort Anthem,THE DOOR INTO RAINBOW,811,Y.TAE,東京都,1717,Y.TAE,東京都,2165,34,東京都
 Resort Anthem,THE BLACK KNIGHT,920,Y.TAE,東京都,2110,Y.TAE,東京都,2926,MIKAMO,東京都
 Resort Anthem,STELLAR WIND,639,Y.TAE,東京都,1879,Y.TAE,東京都,2670,1048,東京都
@@ -628,7 +628,7 @@ Lincle,LAX5 feat.Ryota Yoshinari,1068,Y.TAE,東京都,2137,Y.TAE,東京都,2818,
 Lincle,Infinite cave,1037,Y.TAE,東京都,1543,Y.TAE,東京都,2051,Y.TAE,東京都
 Lincle,In the Blackest Den,884,Y.TAE,東京都,1609,BANGA1,東京都,2626,MIKAMO,東京都
 Lincle,I'm so Happy,420,LEONE,東京都,1401,Y.TAE,東京都,2341,MIKAMO,東京都
-Lincle,HAERETICUS,866,Y.TAE,東京都,1923,Y.TAE,東京都,3049,SHONO,東京都
+Lincle,HAERETICUS,866,Y.TAE,東京都,1923,Y.TAE,東京都,3053,MIKAMO,東京都
 Lincle,Follow Tomorrow,898,Y.TAE,東京都,1496,IN-PO,東京都,2258,Y.TAE,東京都
 Lincle,Flip Flap,587,Y.TAE,東京都,1395,Y.TAE,東京都,2235,Y.TAE,東京都
 Lincle,fffff,852,Y.TAE,東京都,2143,Y.TAE,東京都,3167,MIKAMO,東京都
@@ -759,7 +759,7 @@ SPADA,THE DETONATOR,1631,Y.TAE,東京都,2500,Y.TAE,東京都,3212,1048,東京�
 SPADA,Squeeze,847,Y.TAE,東京都,1481,Y.TAE,東京都,2467,S-RAN,東京都
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4245,SHONO,東京都
 SPADA,Sigmund,1571,Y.TAE,東京都,2372,Y.TAE,東京都,3889,SHONO,東京都
-SPADA,SCHWARZSCHILD FIELD,937,Y.TAE,東京都,1649,Y.TAE,東京都,2389,MIKAMO,東京都
+SPADA,SCHWARZSCHILD FIELD,937,Y.TAE,東京都,1649,Y.TAE,東京都,2412,MIKAMO,東京都
 SPADA,RIZING YOU UP,1055,Y.TAE,東京都,2096,Y.TAE,東京都,2577,1048,東京都
 SPADA,RISE,942,SHINPO,東京都,1386,Y.TAE,東京都,1884,Y.TAE,東京都
 SPADA,refractive index,741,Y.TAE,東京都,1443,Y.TAE,東京都,2682,BANGA1,東京都
@@ -820,7 +820,7 @@ SPADA,Adularia,1073,Y.TAE,東京都,1916,EXY,東京都,2855,MIKAMO,東京都
 PENDUAL,Ｘ↑Ｘ↓,942,Y.TAE,東京都,1779,Y.TAE,東京都,2903,MI7RAI,東京都
 PENDUAL,鬼天,1018,Y.TAE,東京都,1716,Y.TAE,東京都,2481,MIKAMO,東京都
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,4090,MIKAMO,東京都
-PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1059,Y.TAE,東京都,2040,RAVELL,東京都,2689,1048,東京都
+PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1059,Y.TAE,東京都,2053,RIDDLE,東京都,2689,1048,東京都
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1146,Y.TAE,東京都,2196,Y.TAE,東京都,3577,S-RAN,東京都
 PENDUAL,紅牡丹,1076,Y.TAE,東京都,1832,Y.TAE,東京都,2861,1048,東京都
 PENDUAL,白露の風,477,Y.TAE,東京都,1262,Y.TAE,東京都,2023,ODEN.,東京都
@@ -932,7 +932,7 @@ copula,ZEPHYRANTHES,1018,Y.TAE,東京都,1868,Y.TAE,東京都,2955,MIKAMO,東京
 copula,X,1607,Y.TAE,東京都,2513,Y.TAE,東京都,3855,RAG*,東京都
 copula,Welcome,866,Y.TAE,東京都,1817,Y.TAE,東京都,2677,1048,東京都
 copula,Violet Rose,1256,Y.TAE,東京都,2028,Y.TAE,東京都,2596,RIDDLE,東京都
-copula,Violet Pulse,429,DICE,東京都,1724,Y.TAE,東京都,2460,MIKAMO,東京都
+copula,Violet Pulse,429,DICE,東京都,1724,Y.TAE,東京都,2463,MIKAMO,東京都
 copula,Uh-Oh,1126,SHINPO,東京都,1754,Y.TAE,東京都,2423,RIDDLE,東京都
 copula,Triple Counter,1417,Y.TAE,東京都,2245,Y.TAE,東京都,3961,MIKAMO,東京都
 copula,Transport,1009,JEFTY,東京都,1527,Y.TAE,東京都,2155,*TA93N,東京都
@@ -1086,7 +1086,7 @@ SINOBUZ,Be A Star,961,Y.TAE,東京都,1829,Y.TAE,東京都,2805,MIKAMO,東京都
 SINOBUZ,BabeL ～Grand Story～,1307,Y.TAE,東京都,2125,Y.TAE,東京都,2796,RAG*,東京都
 SINOBUZ,AsiaN distractive,1206,ARCANA,東京都,1788,Y.TAE,東京都,2627,MIKAMO,東京都
 SINOBUZ,Around The Galaxy,1125,Y.TAE,東京都,2128,Y.TAE,東京都,3382,NAOTIN,東京都
-SINOBUZ,Apocalypse,1149,Y.TAE,東京都,2149,Y.TAE,東京都,3566,MI7RAI,東京都
+SINOBUZ,Apocalypse,1149,Y.TAE,東京都,2149,Y.TAE,東京都,3569,MIKAMO,東京都
 SINOBUZ,AO-∞,1173,.ZIP,東京都,1867,Y.TAE,東京都,2681,1048,東京都
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3301,MIKAMO,東京都
 SINOBUZ,Amazing Mirage,910,IIDX26,東京都,1749,Y.TAE,東京都,2648,MIKAMO,東京都
@@ -1251,7 +1251,7 @@ Rootage,dAuntl3ss,1080,Y13,東京都,2007,EXY,東京都,3496,MIKAMO,東京都
 Rootage,Cranberry City ft. Luschel,858,Y.TAE,東京都,1618,Y.TAE,東京都,2427,1048,東京都
 Rootage,CoMAAAAAAA,1272,Y13,東京都,2091,Y.TAE,東京都,2408,RIDDLE,東京都
 Rootage,Catch Our Fire!,1373,LEONE,東京都,2313,Y.TAE,東京都,3725,MIKAMO,東京都
-Rootage,Carmina,1338,Y.TAE,東京都,2540,MIKAMO,東京都,3807,MIKAMO,東京都
+Rootage,Carmina,1338,Y.TAE,東京都,2543,MIKAMO,東京都,3807,MIKAMO,東京都
 Rootage,BLOSSOM,1095,IN-PO,東京都,1668,IN-PO,東京都,2548,1048,東京都
 Rootage,Angels & Demons,933,DICE,東京都,1789,SHINPO,東京都,2454,MIKAMO,東京都
 Rootage,AGAiN,1033,Y.TAE,東京都,1618,IN-PO,東京都,2310,MIKAMO,東京都
