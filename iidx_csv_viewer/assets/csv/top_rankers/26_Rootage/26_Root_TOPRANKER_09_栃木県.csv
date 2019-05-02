@@ -24,7 +24,7 @@
 3rd style,Tangerine Stream,278,Z,栃木県,392,SALAMA,栃木県,0,,未設定
 3rd style,Skyscraper,530,TAKE,栃木県,1149,UZ,栃木県,1231,SALAMA,栃木県
 3rd style,Schlagwerk,719,WHITE,栃木県,1147,Q-RTN-,栃木県,1662,SALAMA,栃木県
-3rd style,REINCARNATION,0,,未設定,1011,SAYA..,栃木県,1265,A-BLUE,栃木県
+3rd style,REINCARNATION,369,T.R,栃木県,1011,SAYA..,栃木県,1265,A-BLUE,栃木県
 3rd style,R5,754,AISHIA,栃木県,1161,SALAMA,栃木県,1750,C.L#EA,栃木県
 3rd style,Presto,514,GRACKY,栃木県,941,R.F,栃木県,993,DAIMON,栃木県
 3rd style,LEADING CYBER,426,SALT,栃木県,1095,DDRMIX,栃木県,1261,SALAMA,栃木県
@@ -56,7 +56,7 @@
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2598,SLEEPY,栃木県
 4th style,ABSOLUTE,988,SHOU09,栃木県,1603,SIA,栃木県,2343,A-BLUE,栃木県
 4th style,250bpm,643,AISHIA,栃木県,893,LANSER,栃木県,1387,SALAMA,栃木県
-5th style,V,1204,U.,栃木県,2477,SLEEPY,栃木県,2961,HERMIT,栃木県
+5th style,V,1204,U.,栃木県,2477,SLEEPY,栃木県,2964,HERMIT,栃木県
 5th style,THE SHINING POLARIS,691,ESPOIR,栃木県,1271,SAYA..,栃木県,1577,SALAMA,栃木県
 5th style,THE CUBE,680,M*,栃木県,1146,AISHIA,栃木県,1333,DAIMON,栃木県
 5th style,sync,1024,GRACKY,栃木県,1781,UZ,栃木県,2327,SLEEPY,栃木県
@@ -140,7 +140,7 @@
 8th style,bit mania,856,M-ZERO,栃木県,1255,SAYA..,栃木県,1857,A-BLUE,栃木県
 8th style,Attitude,982,BLANKA,栃木県,1306,BLANKA,栃木県,1722,SLEEPY,栃木県
 8th style,ALL RIGHT,810,PAERIA,栃木県,1205,ICE.,栃木県,1604,DAIMON,栃木県
-8th style,airflow,521,M-ZERO,栃木県,706,NOOO,栃木県,1400,FMO,栃木県
+8th style,airflow,521,M-ZERO,栃木県,706,NOOO,栃木県,1405,DAIMON,栃木県
 8th style,abstract,1148,PAERIA,栃木県,1454,HELL2A,栃木県,1850,SALAMA,栃木県
 9th style,真夏の花・真夏の夢,786,AISHIA,栃木県,1031,H.S,栃木県,1468,COLCA,栃木県
 9th style,ライオン好き,599,SASAMI,栃木県,1091,DDRMIX,栃木県,1484,DAIKI.,栃木県
@@ -170,7 +170,7 @@
 9th style,Distress,899,RAVEN,栃木県,1808,DAIMON,栃木県,0,,未設定
 9th style,Cradle,805,SASAMI,栃木県,1418,BLANKA,栃木県,1581,A-BLUE,栃木県
 9th style,BRIGHTNESS DARKNESS,449,TAKE,栃木県,1344,LANSER,栃木県,1736,4CKAWA,栃木県
-9th style,bag,842,M*,栃木県,1110,DDRMIX,栃木県,1862,DISKIA,栃木県
+9th style,bag,842,M*,栃木県,1110,DDRMIX,栃木県,1870,SLEEPY,栃木県
 9th style,BAD BOY BASS!! (dj Remo-con MIX),870,SASAMI,栃木県,1271,JAN8,栃木県,1780,DAIMON,栃木県
 9th style,ACT,981,4649**,栃木県,1642,S*RAN,栃木県,1785,KAVAN.,栃木県
 9th style,Abyss -The Heavens Remix-,1408,GRACKY,栃木県,1801,RYO-XI,栃木県,2339,A-BLUE,栃木県
@@ -192,9 +192,9 @@
 10th style,GRADIUS -FULL SPEED-,713,HERMIT,栃木県,1131,44TAKA,栃木県,2016,DAIKI.,栃木県
 10th style,GHOST REVIVAL,0,,未設定,1863,&-MO&,栃木県,2513,A-BLUE,栃木県
 10th style,Freezing atmosphere,711,PAERIA,栃木県,1061,MINATO,栃木県,1448,DAIKI.,栃木県
-10th style,FEEL IT,486,CRY$IS,栃木県,1592,D,栃木県,1931,46GAL,栃木県
+10th style,FEEL IT,486,CRY$IS,栃木県,1592,REIWA,栃木県,1931,46GAL,栃木県
 10th style,Feedback,291,JIN,栃木県,1515,UZ,栃木県,1901,SALAMA,栃木県
-10th style,EXE,770,PAERIA,栃木県,1505,N-M.I,栃木県,2223,WAMM,栃木県
+10th style,EXE,794,SASAMI,栃木県,1505,N-M.I,栃木県,2223,WAMM,栃木県
 10th style,DoLL,914,44TAKA,栃木県,1157,RIO,栃木県,1610,DAIMON,栃木県
 10th style,desolation,457,PAERIA,栃木県,617,PAERIA,栃木県,758,SALAMA,栃木県
 10th style,Debtty Daddy,489,M.M,栃木県,1819,UZ,栃木県,2650,A-BLUE,栃木県
@@ -249,7 +249,7 @@ HAPPY SKY,オレはビートマニア！お前は何マニア？,782,AISHIA,栃�
 HAPPY SKY,Xepher,1078,SUZUHO,栃木県,2001,910HR*,栃木県,2924,A-BLUE,栃木県
 HAPPY SKY,We are Disっ娘よっつ打ち命,552,SASAMI,栃木県,946,ZABTON,栃木県,1633,SALAMA,栃木県
 HAPPY SKY,Votum stellarum,720,M*,栃木県,1503,XIAO*,栃木県,1910,SALAMA,栃木県
-HAPPY SKY,vault of heaven,532,MAYO,栃木県,1302,N.CHI*,栃木県,1990,A-BLUE,栃木県
+HAPPY SKY,vault of heaven,723,LMO?,栃木県,1302,N.CHI*,栃木県,1990,A-BLUE,栃木県
 HAPPY SKY,Under the Sky,788,ESPOIR,栃木県,1371,SAYA..,栃木県,1725,DAIMON,栃木県
 HAPPY SKY,Twelfth Style,946,K42U,栃木県,1370,JAN8,栃木県,2016,DAIMON,栃木県
 HAPPY SKY,Tizona d'El Cid,856,M-ZERO,栃木県,1690,R.F,栃木県,2305,DAIMON,栃木県
@@ -257,7 +257,7 @@ HAPPY SKY,SigSig,999,DDRMIX,栃木県,1677,KOTA,栃木県,2584,DAIMON,栃木県
 HAPPY SKY,Scripted Connection⇒ N mix,943,DD8,栃木県,1584,RYO-XI,栃木県,2073,SALAMA,栃木県
 HAPPY SKY,Scripted Connection⇒ H mix,1227,H.S,栃木県,1881,10MO.,栃木県,2446,4CKAWA,栃木県
 HAPPY SKY,Scripted Connection⇒ A mix,1449,AISHIA,栃木県,2039,KSG,栃木県,2992,C.L#EA,栃木県
-HAPPY SKY,SCREAM SQUAD,970,RASIS,栃木県,1545,KSG,栃木県,2004,HERMIT,栃木県
+HAPPY SKY,SCREAM SQUAD,970,RASIS,栃木県,1572,RYO-XI,栃木県,2004,HERMIT,栃木県
 HAPPY SKY,rage against usual,949,DD8,栃木県,1887,AYUMI,栃木県,2892,HERMIT,栃木県
 HAPPY SKY,POODLE,0,,未設定,1773,LANSER,栃木県,2291,DAIMON,栃木県
 HAPPY SKY,Pollinosis,757,YO7923,栃木県,1057,ARIKIA,栃木県,2421,COLCA,栃木県
@@ -283,7 +283,7 @@ HAPPY SKY,CaptivAte～浄化～,985,44TAKA,栃木県,1688,E.XIA,栃木県,2444,H
 HAPPY SKY,Aurora,1267,*PEACH,栃木県,2028,MINATO,栃木県,2499,C.L#EA,栃木県
 HAPPY SKY,alla turca con passione,765,M*,栃木県,1486,UZ,栃木県,2168,COLCA,栃木県
 HAPPY SKY,Agnus Dei,849,M*,栃木県,1526,E.XIA,栃木県,2057,DAIMON,栃木県
-HAPPY SKY,100％ minimoo-G,834,PON16,栃木県,1579,JAN8,栃木県,1667,HERMIT,栃木県
+HAPPY SKY,100％ minimoo-G,834,PON16,栃木県,1579,JAN8,栃木県,1669,SALAMA,栃木県
 DistorteD,虹色,790,NATUHI,栃木県,1438,YUKKE,栃木県,1821,4CKAWA,栃木県
 DistorteD,華蝶風雪,1107,MD,栃木県,1969,GON,栃木県,2960,HERMIT,栃木県
 DistorteD,罠,524,PAERIA,栃木県,1496,SAYA..,栃木県,2452,HERMIT,栃木県
@@ -314,7 +314,7 @@ DistorteD,Ganymede,1007,K42U,栃木県,1701,A-BLUE,栃木県,2246,HERMIT,栃木�
 DistorteD,EURO-ROMANCE,716,UZUG,栃木県,1745,SAYA..,栃木県,2071,4CKAWA,栃木県
 DistorteD,DUE TOMORROW,845,GANEJI,栃木県,1275,4CKAWA,栃木県,1924,HERMIT,栃木県
 DistorteD,Double Loving Heart,359,MAYO,栃木県,1212,Q-RTN-,栃木県,1803,DAIMON,栃木県
-DistorteD,D.C.fish,0,,未設定,1701,*PEACH,栃木県,2296,SLEEPY,栃木県
+DistorteD,D.C.fish,547,DADA,栃木県,1701,*PEACH,栃木県,2296,SLEEPY,栃木県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2729,HERMIT,栃木県
 DistorteD,CONTRACT,1138,AISHIA,栃木県,1553,ROLAND,栃木県,1982,MOKOU.,栃木県
 DistorteD,Concertino in Blue,810,M*,栃木県,1530,KSG,栃木県,2407,HERMIT,栃木県
@@ -332,7 +332,7 @@ GOLD,リグレット,1284,MINATO,栃木県,1677,SAYA..,栃木県,2396,COLCA,栃�
 GOLD,ヨシダさん,834,YU-ING,栃木県,1437,HERMIT,栃木県,1967,COLCA,栃木県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,956,MINATO,栃木県,1434,M-ETAL,栃木県,2222,A-BLUE,栃木県
 GOLD,X-rated,828,M-ZERO,栃木県,1488,AISHIA,栃木県,2103,C.L#EA,栃木県
-GOLD,With your Smile,717,MINATO,栃木県,1132,3324KI,栃木県,1566,4CKAWA,栃木県
+GOLD,With your Smile,717,MINATO,栃木県,1157,KOKO.,栃木県,1566,4CKAWA,栃木県
 GOLD,Watch out!!,705,MINATO,栃木県,972,SAYA..,栃木県,1528,A-BLUE,栃木県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3255,HERMIT,栃木県
 GOLD,VANESSA,1066,MINATO,栃木県,1767,A-BLUE,栃木県,2360,HERMIT,栃木県
@@ -359,7 +359,7 @@ GOLD,heaven above,802,MINATO,栃木県,1239,BENI,栃木県,1831,DAIMON,栃木県
 GOLD,GRID KNIGHT,801,MINATO,栃木県,1877,MINATO,栃木県,2603,DAIMON,栃木県
 GOLD,GOLD RUSH,1190,SAYA..,栃木県,1453,RYO-XI,栃木県,2329,DAIMON,栃木県
 GOLD,four-leaf,740,MINATO,栃木県,1130,BENI,栃木県,1679,SLEEPY,栃木県
-GOLD,FIRE FIRE,1165,ZABTON,栃木県,1619,ROLAND,栃木県,2670,DAIMON,栃木県
+GOLD,FIRE FIRE,1165,ZABTON,栃木県,1775,S*RAN,栃木県,2670,DAIMON,栃木県
 GOLD,Fascination MAXX,938,DAIMON,栃木県,1659,WAMM,栃木県,2338,HERMIT,栃木県
 GOLD,Cyber Force,1227,MINATO,栃木県,1760,*PEACH,栃木県,2355,DAIMON,栃木県
 GOLD,CROSSROAD ～Left Story～,1100,MINATO,栃木県,1720,SAYA..,栃木県,2182,HERMIT,栃木県
@@ -384,7 +384,7 @@ DJ TROOPERS,the trigger of innocence,870,MINATO,栃木県,1127,BIRD,栃木県,18
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3330,SALAMA,栃木県
 DJ TROOPERS,THE DEEP STRIKER,1053,MINATO,栃木県,1996,E.XIA,栃木県,2954,DAIMON,栃木県
 DJ TROOPERS,switch,780,MINATO,栃木県,1526,KOTA,栃木県,2073,A-BLUE,栃木県
-DJ TROOPERS,STEEL NEEDLE,1077,MINATO,栃木県,1931,HAMHAM,栃木県,2360,C.L#EA,栃木県
+DJ TROOPERS,STEEL NEEDLE,1077,MINATO,栃木県,1931,HAMHAM,栃木県,2379,DAIMON,栃木県
 DJ TROOPERS,State Of The Art,1067,MINATO,栃木県,1548,4CKAWA,栃木県,3067,OHIRO,栃木県
 DJ TROOPERS,SOUND OF GIALLARHORN,1321,MINATO,栃木県,2613,46GAL,栃木県,3239,DAIMON,栃木県
 DJ TROOPERS,scar in the earth,636,MINATO,栃木県,998,M*,栃木県,1511,DAIMON,栃木県
@@ -421,7 +421,7 @@ DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1130,PAERIA,栃木県,20
 DJ TROOPERS,2 tribe 4 K,862,MINATO,栃木県,1201,M-ZERO,栃木県,2709,DAIMON,栃木県
 EMPRESS,鉄甲乙女-under the steel-,909,M-ZERO,栃木県,1583,46GAL,栃木県,2179,DAIMON,栃木県
 EMPRESS,翼,882,MINATO,栃木県,1491,SAYA..,栃木県,1959,DAIMON,栃木県
-EMPRESS,山岡晃の「クイズ！家事都合！」,658,MINATO,栃木県,1256,POPIO.,栃木県,2003,SLEEPY,栃木県
+EMPRESS,山岡晃の「クイズ！家事都合！」,658,MINATO,栃木県,1256,POPIO.,栃木県,2015,SLEEPY,栃木県
 EMPRESS,天空脳番長危機十六連打,998,MINATO,栃木県,1947,MAME2B,栃木県,2537,DAIMON,栃木県
 EMPRESS,卑弥呼,1227,WAMM,栃木県,2622,SLEEPY,栃木県,3892,HERMIT,栃木県
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3141,DAIMON,栃木県
@@ -430,10 +430,10 @@ EMPRESS,不沈艦CANDY,1089,MARLEY,栃木県,1881,XIAO*,栃木県,3267,HERMIT,�
 EMPRESS,ミッドナイト堕天使,958,AISHIA,栃木県,1558,MINATO,栃木県,2749,A-BLUE,栃木県
 EMPRESS,ハリツヤランデヴー,957,HERMIT,栃木県,2076,MINATO,栃木県,2458,SLEEPY,栃木県
 EMPRESS,まほろば,762,MINATO,栃木県,1411,KOTA,栃木県,2035,A-BLUE,栃木県
-EMPRESS,"You'll say ""Now!""",1167,AISHIA,栃木県,1708,D,栃木県,2464,DAIMON,栃木県
+EMPRESS,"You'll say ""Now!""",1167,AISHIA,栃木県,1708,REIWA,栃木県,2464,DAIMON,栃木県
 EMPRESS,Y&Co. is dead or alive,1056,AISHIA,栃木県,1636,MINATO,栃木県,2675,DAIMON,栃木県
 EMPRESS,V2,1428,RYO-XI,栃木県,3095,ZABTON,栃木県,3501,DAIMON,栃木県
-EMPRESS,Turii ～Panta rhei～,845,M-ZERO,栃木県,1901,SAYA..,栃木県,2641,HERMIT,栃木県
+EMPRESS,Turii ～Panta rhei～,845,M-ZERO,栃木県,1918,M-ETAL,栃木県,2641,HERMIT,栃木県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2862,SLEEPY,栃木県
 EMPRESS,THANK YOU FOR PLAYING,735,H.S,栃木県,1592,46GAL,栃木県,2114,DAIMON,栃木県
 EMPRESS,SOLITON BEAM,1407,MINATO,栃木県,2028,RYO-XI,栃木県,2294,KAVAN.,栃木県
@@ -461,7 +461,7 @@ EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1082,AISHIA,栃木県,1831,HINA-A,栃�
 EMPRESS,Colorful Cookie,1061,DC2-VT,栃木県,2241,SLEEPY,栃木県,3455,HERMIT,栃木県
 EMPRESS,CaptivAte2～覚醒～,1067,MINATO,栃木県,1604,GRACKY,栃木県,2380,HERMIT,栃木県
 EMPRESS,BRIDAL FESTIVAL !!!,925,MINATO,栃木県,1419,UZ,栃木県,2103,DAIMON,栃木県
-EMPRESS,BITTER CHOCOLATE STRIKER,1033,MIKUMO,栃木県,2079,MINATO,栃木県,3875,HERMIT,栃木県
+EMPRESS,BITTER CHOCOLATE STRIKER,1033,MIKUMO,栃木県,2119,MINATO,栃木県,3875,HERMIT,栃木県
 EMPRESS,Bahram Attack-猫叉Master Remix-,1040,MINATO,栃木県,1908,TM*,栃木県,2598,SLEEPY,栃木県
 EMPRESS,B4U(BEMANI FOR YOU MIX),1171,MINATO,栃木県,2222,RYO-XI,栃木県,3479,DAIMON,栃木県
 EMPRESS,Arabian Rave Night,1276,MINATO,栃木県,2191,ZABTON,栃木県,2891,HERMIT,栃木県
@@ -519,9 +519,9 @@ SIRIUS,BEAUTIFUL ANGEL,608,MINATO,栃木県,1721,ICE.,栃木県,2420,SLEEPY,栃�
 SIRIUS,beatchic☆仮面～好き、でいさせて～,985,MINATO,栃木県,1534,LANSER,栃木県,2005,COLCA,栃木県
 SIRIUS,bass 2 bass,711,MINATO,栃木県,1255,DAIKI.,栃木県,1837,SLEEPY,栃木県
 SIRIUS,Bad Maniacs,1225,AISHIA,栃木県,1777,ROLAND,栃木県,3065,KAVAN.,栃木県
-SIRIUS,Almagest,970,AISHIA,栃木県,2143,4CKAWA,栃木県,3072,HERMIT,栃木県
+SIRIUS,Almagest,970,AISHIA,栃木県,2143,4CKAWA,栃木県,3107,HERMIT,栃木県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1097,SASAMI,栃木県,1654,M-ETAL,栃木県,2295,DAIMON,栃木県
-Resort Anthem,黒髪乱れし修羅となりて,798,MINATO,栃木県,1960,GRACKY,栃木県,3394,C.L#EA,栃木県
+Resort Anthem,黒髪乱れし修羅となりて,798,MINATO,栃木県,1992,A-BLUE,栃木県,3394,C.L#EA,栃木県
 Resort Anthem,灼熱Beach Side Bunny,1062,MOMIZI,栃木県,1908,SLEEPY,栃木県,2878,C.L#EA,栃木県
 Resort Anthem,旅人リラン,1125,MINATO,栃木県,1903,SLEEPY,栃木県,2569,A-BLUE,栃木県
 Resort Anthem,夕焼け ～Fading Day～,944,MINATO,栃木県,1909,VAGI.7,栃木県,2718,KAVAN.,栃木県
@@ -565,7 +565,7 @@ Resort Anthem,Fantasia,396,SAYA..,栃木県,1472,SIA,栃木県,2234,SLEEPY,栃�
 Resort Anthem,Everlasting Resort,859,MINATO,栃木県,1200,AISHIA,栃木県,1885,DAIMON,栃木県
 Resort Anthem,Eternal Tears,438,LMO?,栃木県,1084,44TAKA,栃木県,1368,DAIMON,栃木県
 Resort Anthem,Energy Drive,799,M*,栃木県,1371,AISHIA,栃木県,2182,DAIMON,栃木県
-Resort Anthem,ELECTRIC MASSIVE DIVER,1283,AISHIA,栃木県,2333,MOMIZI,栃木県,3642,HERMIT,栃木県
+Resort Anthem,ELECTRIC MASSIVE DIVER,1283,AISHIA,栃木県,2356,A-GLAS,栃木県,3642,HERMIT,栃木県
 Resort Anthem,DM STAR～関西 energy style～,1094,MINATO,栃木県,1887,MOMIZI,栃木県,2388,A-BLUE,栃木県
 Resort Anthem,Destiny Sword,866,MINATO,栃木県,1621,COQ,栃木県,2364,SLEEPY,栃木県
 Resort Anthem,DAYDREAMER,1145,MINATO,栃木県,1716,ROLAND,栃木県,2502,DAIKI.,栃木県
@@ -577,7 +577,7 @@ Resort Anthem,Bounce Bounce Bounce,1055,MINATO,栃木県,1634,MOMIZI,栃木県,2
 Resort Anthem,BLUST OF WIND,826,MINATO,栃木県,1529,WISH,栃木県,2107,A-BLUE,栃木県
 Resort Anthem,Believe In Me,1025,MINATO,栃木県,1533,MIR1N.,栃木県,2314,SLEEPY,栃木県
 Resort Anthem,ANTHEM LANDING,935,MINATO,栃木県,1862,ZXT00W,栃木県,2923,SLEEPY,栃木県
-Resort Anthem,Answer,779,SAYA..,栃木県,1397,MAKOTO,栃木県,2383,SLEEPY,栃木県
+Resort Anthem,Answer,779,SAYA..,栃木県,1397,MAKOTO,栃木県,2398,SLEEPY,栃木県
 Resort Anthem,ALBIDA,1089,MINATO,栃木県,1887,RYO-XI,栃木県,2968,HERMIT,栃木県
 Resort Anthem,Aegis,858,MINATO,栃木県,1290,NEKO,栃木県,2293,C.L#EA,栃木県
 Lincle,陽炎,620,ZABTON,栃木県,1105,SASAMI,栃木県,1997,DAIMON,栃木県
@@ -631,7 +631,7 @@ Lincle,I'm so Happy,412,ZABTON,栃木県,1350,KOTA,栃木県,2320,DAIMON,栃木�
 Lincle,HAERETICUS,818,*PEACH,栃木県,1828,RYO-XI,栃木県,3004,HERMIT,栃木県
 Lincle,Follow Tomorrow,897,MINATO,栃木県,1455,MOMIZI,栃木県,2229,SLEEPY,栃木県
 Lincle,Flip Flap,578,MINATO,栃木県,1347,M-ETAL,栃木県,2188,OHIRO,栃木県
-Lincle,fffff,833,ZABTON,栃木県,1895,D,栃木県,3074,HERMIT,栃木県
+Lincle,fffff,833,ZABTON,栃木県,1895,REIWA,栃木県,3074,HERMIT,栃木県
 Lincle,Far east nightbird,518,MINATO,栃木県,1264,Q-RTN-,栃木県,2006,A-BLUE,栃木県
 Lincle,F,1046,MINATO,栃木県,2055,ODY,栃木県,3451,DAIMON,栃木県
 Lincle,Express Emotion,751,MINATO,栃木県,1036,SAYA..,栃木県,2493,A-BLUE,栃木県
@@ -640,7 +640,7 @@ Lincle,DIAVOLO,1272,MINATO,栃木県,1806,SODANE,栃木県,3106,HERMIT,栃木県
 Lincle,Change the World,801,MINATO,栃木県,1295,MIR1N.,栃木県,1829,COLCA,栃木県
 Lincle,Castle on the Moon,634,MINATO,栃木県,1608,SAYA..,栃木県,2356,DAIMON,栃木県
 Lincle,CALL,361,ZABTON,栃木県,818,AWO!,栃木県,1453,DAIMON,栃木県
-Lincle,BLACK.by X-Cross Fade,1002,XYZ,栃木県,2093,SLEEPY,栃木県,3198,DAIMON,栃木県
+Lincle,BLACK.by X-Cross Fade,1002,XYZ,栃木県,2093,SLEEPY,栃木県,3244,DAIMON,栃木県
 Lincle,ANAGRAMS I to Y,889,MINATO,栃木県,1645,SAYA..,栃木県,2455,A-BLUE,栃木県
 Lincle,Almace,850,MINATO,栃木県,1225,NOOO,栃木県,1978,C.L#EA,栃木県
 Lincle,532nm,566,MINATO,栃木県,1233,SAYA..,栃木県,2603,DAIMON,栃木県
@@ -648,7 +648,7 @@ Lincle,24th Century BOY,845,MINATO,栃木県,1829,GRACKY,栃木県,2801,DAIMON,�
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3281,HERMIT,栃木県
 tricoro,龍と少女とデコヒーレンス,826,MINATO,栃木県,1535,LAVA*,栃木県,2925,DAIMON,栃木県
 tricoro,音楽,800,MINATO,栃木県,1873,MINATO,栃木県,2686,A-BLUE,栃木県
-tricoro,狂イ咲ケ焔ノ華,1204,E.XIA,栃木県,2282,44TAKA,栃木県,3576,HERMIT,栃木県
+tricoro,狂イ咲ケ焔ノ華,1204,E.XIA,栃木県,2306,KOSMOS,栃木県,3576,HERMIT,栃木県
 tricoro,梅雪夜,863,MINATO,栃木県,1434,46GAL,栃木県,2117,A-BLUE,栃木県
 tricoro,朧†,0,,未設定,0,,未設定,2517,DAIMON,栃木県
 tricoro,朧,778,ZABTON,栃木県,1475,MOMIZI,栃木県,2104,HERMIT,栃木県
@@ -659,10 +659,10 @@ tricoro,仮想空間の旅人たち,1151,MINATO,栃木県,2094,46GAL,栃木県,2
 tricoro,下弦の月,928,MINATO,栃木県,1381,*PEACH,栃木県,1977,DAIMON,栃木県
 tricoro,ラキラキ,639,MINATO,栃木県,1360,LANSER,栃木県,1954,SALAMA,栃木県
 tricoro,メイメツ、フラグメンツ,607,M*,栃木県,1254,MOMIZI,栃木県,1933,A-BLUE,栃木県
-tricoro,トリカゴノ鳳凰,1133,MINATO,栃木県,1886,XIAO*,栃木県,3719,HERMIT,栃木県
+tricoro,トリカゴノ鳳凰,1133,MINATO,栃木県,1886,XIAO*,栃木県,3727,HERMIT,栃木県
 tricoro,シュレーディンガーの猫,1108,MINATO,栃木県,2285,MAME2B,栃木県,3356,HERMIT,栃木県
 tricoro,キャトられ恋はモ～モク,1459,MINATO,栃木県,2496,ROLAND,栃木県,3746,HERMIT,栃木県
-tricoro,カジノファイヤーことみちゃん,622,MINATO,栃木県,1243,LANSER,栃木県,2290,SALAMA,栃木県
+tricoro,カジノファイヤーことみちゃん,622,MINATO,栃木県,1336,KIRIKA,栃木県,2290,SALAMA,栃木県
 tricoro,アストライアの双皿,668,MINATO,栃木県,1974,46GAL,栃木県,3042,HERMIT,栃木県
 tricoro,たまゆら,1154,MINATO,栃木県,1799,YUKKE,栃木県,2660,A-BLUE,栃木県
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,876,MINATO,栃木県,1471,KOSMOS,栃木県,2126,SALAMA,栃木県
@@ -671,7 +671,7 @@ tricoro,ΕΛΠΙΣ,1130,MINATO,栃木県,1975,MINATO,栃木県,3096,HERMIT,栃�
 tricoro,Zirkfied,1012,MINATO,栃木県,1998,SLEEPY,栃木県,3725,HERMIT,栃木県
 tricoro,ZED,784,CHOME,栃木県,1590,AISHIA,栃木県,2714,C.L#EA,栃木県
 tricoro,YELLOW FROG from Steel Chronicle,405,MAYO,栃木県,1205,AISHIA,栃木県,1903,SALAMA,栃木県
-tricoro,VEGA,1135,MINATO,栃木県,1892,M-ETAL,栃木県,3078,A-BLUE,栃木県
+tricoro,VEGA,1135,MINATO,栃木県,1975,XIAO*,栃木県,3078,A-BLUE,栃木県
 tricoro,VALLIS-NERIA,1193,MINATO,栃木県,1939,ROLAND,栃木県,2901,HERMIT,栃木県
 tricoro,Valanga,1200,K42U,栃木県,2045,YUKKE,栃木県,3201,HERMIT,栃木県
 tricoro,True Blue,1081,MINATO,栃木県,2441,IIDX26,栃木県,3710,HERMIT,栃木県
@@ -729,7 +729,7 @@ tricoro,Confiserie,943,MINATO,栃木県,1961,ROLAND,栃木県,3481,HERMIT,栃木
 tricoro,CONCEPTUAL,806,MINATO,栃木県,1173,H.S,栃木県,2690,HERMIT,栃木県
 tricoro,BRAVE GLOW,812,MINATO,栃木県,1640,46GAL,栃木県,2475,WAMM,栃木県
 tricoro,BLUE STRAGGLER,483,TORO,栃木県,1193,H.S,栃木県,2505,KAVAN.,栃木県
-tricoro,Beastie Starter,527,MINATO,栃木県,1254,MACHI8,栃木県,2008,SLEEPY,栃木県
+tricoro,Beastie Starter,527,MINATO,栃木県,1291,SALAMA,栃木県,2008,SLEEPY,栃木県
 tricoro,Ascalon,1089,MINATO,栃木県,1650,LANSER,栃木県,2256,KAVAN.,栃木県
 tricoro,8bit Princess,578,MAYO,栃木県,1273,LINOP,栃木県,2621,A-BLUE,栃木県
 tricoro,405nm (Ryu☆mix),858,DDRMIX,栃木県,1639,SIGNAL,栃木県,2543,A-BLUE,栃木県
@@ -752,7 +752,7 @@ SPADA,お願いアインシュタイン,894,MINATO,栃木県,1457,MOMIZI,栃木�
 SPADA,Wonder Girl feat. Kanae Asaba,712,MINATO,栃木県,1236,SAYA..,栃木県,2767,HERMIT,栃木県
 SPADA,VOX UP,1468,MINATO,栃木県,2721,HERMIT,栃木県,3464,DAIMON,栃木県
 SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4542,HERMIT,栃木県
-SPADA,Verflucht,1254,MINATO,栃木県,2059,MOKOU.,栃木県,3495,HERMIT,栃木県
+SPADA,Verflucht,1254,MINATO,栃木県,2059,MOKOU.,栃木県,3496,HERMIT,栃木県
 SPADA,Valgus,637,MINATO,栃木県,1292,TACA,栃木県,2347,HERMIT,栃木県
 SPADA,Unicorn tail,846,MINATO,栃木県,1953,M-ETAL,栃木県,3100,DAIMON,栃木県
 SPADA,THE DETONATOR,1590,MINATO,栃木県,2287,YULA,栃木県,3143,DAIMON,栃木県
@@ -818,7 +818,7 @@ SPADA,Ancient Scapes,1146,MINATO,栃木県,1936,RYO-XI,栃木県,3382,A-BLUE,栃
 SPADA,ALBA -黎明-,626,M*,栃木県,1494,ZABTON,栃木県,3175,HERMIT,栃木県
 SPADA,Adularia,1056,MINATO,栃木県,1635,LANSER,栃木県,2808,HERMIT,栃木県
 PENDUAL,Ｘ↑Ｘ↓,721,DIO,栃木県,1563,NOOO,栃木県,2799,SALAMA,栃木県
-PENDUAL,鬼天,1004,MINATO,栃木県,1447,MIKUMO,栃木県,2415,HERMIT,栃木県
+PENDUAL,鬼天,1004,MINATO,栃木県,1716,HERMIT,栃木県,2415,HERMIT,栃木県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3970,HERMIT,栃木県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1028,MINATO,栃木県,2007,KAVAN.,栃木県,2653,SLEEPY,栃木県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1066,H.S,栃木県,2107,DOKIN3,栃木県,3521,HERMIT,栃木県
@@ -843,7 +843,7 @@ PENDUAL,もっと！モット！ときめき feat. 松下,1323,AISHIA,栃木県,
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,453,GRAND,栃木県,1397,AISHIA,栃木県,2505,COLCA,栃木県
 PENDUAL,とろぴかる倶楽部,703,HINE,栃木県,1343,ICE.,栃木県,2225,DAIMON,栃木県
 PENDUAL,それは花火のような恋,1259,MINATO,栃木県,2418,ROLAND,栃木県,3821,HERMIT,栃木県
-PENDUAL,ZZ,1266,VIOLA,栃木県,1996,MOMIZI,栃木県,2987,HERMIT,栃木県
+PENDUAL,ZZ,1266,VIOLA,栃木県,1996,MOMIZI,栃木県,3019,HERMIT,栃木県
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1137,MINATO,栃木県,2176,ODY,栃木県,3672,HERMIT,栃木県
 PENDUAL,Vulkan,1041,RYO-XI,栃木県,1889,XIAO*,栃木県,2916,C.L#EA,栃木県
 PENDUAL,TOXIC VIBRATION,1585,MINATO,栃木県,2405,HERMIT,栃木県,3714,HERMIT,栃木県
@@ -867,7 +867,7 @@ PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),718,M*,栃木県,1403,LA
 PENDUAL,PENDUAL TALISMAN,1028,MINATO,栃木県,1601,MINATO,栃木県,2587,HERMIT,栃木県
 PENDUAL,On My Wings(Hardstyle IIDX),900,SAYA..,栃木県,1269,KOTA,栃木県,1980,DAIMON,栃木県
 PENDUAL,No Tears,1121,DDRMIX,栃木県,1849,MIR1N.,栃木県,2483,WAMM,栃木県
-PENDUAL,Night sky,1119,FLUB,栃木県,1712,LAVA*,栃木県,2777,DAIKI.,栃木県
+PENDUAL,Night sky,1119,FLUB,栃木県,1712,LAVA*,栃木県,2795,SALAMA,栃木県
 PENDUAL,NEO GENERATOR SEVEN,917,MINATO,栃木県,1716,TEAD,栃木県,3148,GAMAS,栃木県
 PENDUAL,Monopole.,713,KJK,栃木県,1483,2SEC.,栃木県,3266,HERMIT,栃木県
 PENDUAL,m1dy Festival,973,MINATO,栃木県,1516,ICE.,栃木県,2409,C.L#EA,栃木県
@@ -951,7 +951,7 @@ copula,Routing,932,MINATO,栃木県,1632,A-BLUE,栃木県,2467,DAIMON,栃木県
 copula,Rock It,1125,MINATO,栃木県,1577,LANSER,栃木県,2909,DAIMON,栃木県
 copula,refrain,1217,MINATO,栃木県,2222,RINO*,栃木県,3570,HERMIT,栃木県
 copula,quick master (reform version),160,LMO?,栃木県,346,MINATO,栃木県,517,DAIKI.,栃木県
-copula,POSSESSION,1354,DAIKI.,栃木県,1999,M-ETAL,栃木県,2911,HERMIT,栃木県
+copula,POSSESSION,1354,DAIKI.,栃木県,2049,S*RAN,栃木県,2911,HERMIT,栃木県
 copula,OUTER LIMITS ALTERNATIVE,1140,MINATO,栃木県,1638,5MOON*,栃木県,2566,KAVAN.,栃木県
 copula,Outbreak,1332,MINATO,栃木県,1827,SAYA..,栃木県,2990,HERMIT,栃木県
 copula,On the FM,1111,MINATO,栃木県,1486,SIA,栃木県,2736,DAIMON,栃木県
@@ -1086,7 +1086,7 @@ SINOBUZ,Be A Star,959,MINATO,栃木県,1781,33TREE,栃木県,2778,A-BLUE,栃木�
 SINOBUZ,BabeL ～Grand Story～,1262,MINATO,栃木県,2082,HINA-A,栃木県,2713,HINA-A,栃木県
 SINOBUZ,AsiaN distractive,1187,MINATO,栃木県,1645,SASAMI,栃木県,2562,DAIMON,栃木県
 SINOBUZ,Around The Galaxy,1095,MINATO,栃木県,2009,XIAO*,栃木県,3329,SLEEPY,栃木県
-SINOBUZ,Apocalypse,1143,MINATO,栃木県,2098,IIDX26,栃木県,3515,HERMIT,栃木県
+SINOBUZ,Apocalypse,1143,MINATO,栃木県,2098,IIDX26,栃木県,3523,HERMIT,栃木県
 SINOBUZ,AO-∞,1160,FMO,栃木県,1758,SENNA,栃木県,2632,C.L#EA,栃木県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3193,DAIMON,栃木県
 SINOBUZ,Amazing Mirage,901,MINATO,栃木県,1658,GRACKY,栃木県,2578,A-BLUE,栃木県
@@ -1096,9 +1096,9 @@ SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,1161,MINATO,栃木県,1926,MALON,栃木県,3386,
 SINOBUZ,!Viva!,954,DEARKA,栃木県,1559,46GAL,栃木県,1998,DAIMON,栃木県
 CANNON BALLERS,草原の王女-軌跡を辿って-,694,AISHIA,栃木県,1201,TATIKO,栃木県,2282,A-BLUE,栃木県
 CANNON BALLERS,純真可憐デザイア,819,AISHIA,栃木県,1552,BLANKA,栃木県,2322,HERMIT,栃木県
-CANNON BALLERS,神謳 -RESONANCE-,1324,*PEACH,栃木県,2540,C.L#EA,栃木県,3990,HERMIT,栃木県
+CANNON BALLERS,神謳 -RESONANCE-,1324,*PEACH,栃木県,2540,C.L#EA,栃木県,3995,HERMIT,栃木県
 CANNON BALLERS,東京神話,1006,AISHIA,栃木県,1640,TACA,栃木県,2764,HERMIT,栃木県
-CANNON BALLERS,命の標本,716,AISHIA,栃木県,1517,YOUNG,栃木県,2644,HERMIT,栃木県
+CANNON BALLERS,命の標本,732,MINATO,栃木県,1517,YOUNG,栃木県,2644,HERMIT,栃木県
 CANNON BALLERS,共犯へヴンズコード,489,MINATO,栃木県,1267,E.XIA,栃木県,2231,4CKAWA,栃木県
 CANNON BALLERS,ラストセンチュリーメランコリック,840,AISHIA,栃木県,1534,XIAO*,栃木県,2146,DAIMON,栃木県
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),991,MOLMOL,栃木県,1842,MOLMOL,栃木県,2759,HERMIT,栃木県
@@ -1107,7 +1107,7 @@ CANNON BALLERS,バ→ビ→ブ→Bomb!,804,AISHIA,栃木県,1730,XIAO*,栃木県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,866,Z,栃木県,1530,SAYA..,栃木県,2427,A-BLUE,栃木県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,991,AISHIA,栃木県,1454,TATIKO,栃木県,2086,A-BLUE,栃木県
 CANNON BALLERS,シムルグの目醒め,1353,MILL,栃木県,2228,ROLAND,栃木県,3388,HERMIT,栃木県
-CANNON BALLERS,エディブルフラワーの独白,789,M*,栃木県,1450,ARIKIA,栃木県,2182,DAIMON,栃木県
+CANNON BALLERS,エディブルフラワーの独白,810,MINATO,栃木県,1450,ARIKIA,栃木県,2182,DAIMON,栃木県
 CANNON BALLERS,うさ☆かめ 大戦争！,813,*3710*,栃木県,1444,LANSER,栃木県,2498,DAIMON,栃木県
 CANNON BALLERS,Xperanza,1306,AISHA,栃木県,2279,RYO-XI,栃木県,3088,HERMIT,栃木県
 CANNON BALLERS,VOX RUSH,1202,TATIKO,栃木県,2182,MAME2B,栃木県,3120,SLEEPY,栃木県
@@ -1124,18 +1124,18 @@ CANNON BALLERS,SPEED DEMON,741,AISHIA,栃木県,1386,BLANKA,栃木県,2244,4CKAW
 CANNON BALLERS,SPEED,848,AISHIA,栃木県,1481,TATIKO,栃木県,2606,DAIMON,栃木県
 CANNON BALLERS,"Son, not gabba now",875,MINATO,栃木県,1441,ARIKIA,栃木県,2299,SLEEPY,栃木県
 CANNON BALLERS,Slipstream,946,DDRMIX,栃木県,2004,HINA-A,栃木県,3462,HERMIT,栃木県
-CANNON BALLERS,SHOX,830,AISHIA,栃木県,1047,DDRMIX,栃木県,1698,SALAMA,栃木県
+CANNON BALLERS,SHOX,843,MINATO,栃木県,1047,DDRMIX,栃木県,1698,SALAMA,栃木県
 CANNON BALLERS,Rise Circuit,911,AISHIA,栃木県,1437,SCOT*R,栃木県,2206,SALAMA,栃木県
 CANNON BALLERS,Raspberry Railgun,1303,AISHA,栃木県,2100,O3,栃木県,3054,SLEEPY,栃木県
 CANNON BALLERS,Rampage,1268,AISHIA,栃木県,2465,A-BLUE,栃木県,3573,HERMIT,栃木県
 CANNON BALLERS,Persephone,992,PIA*RH,栃木県,1838,XIAO*,栃木県,2883,SLEEPY,栃木県
 CANNON BALLERS,Papilio ulysses,1095,KANATA,栃木県,1971,RYO-XI,栃木県,2785,DAIMON,栃木県
-CANNON BALLERS,Only for now,853,M*,栃木県,1548,4CKAWA,栃木県,2259,C.L#EA,栃木県
+CANNON BALLERS,Only for now,881,MINATO,栃木県,1548,4CKAWA,栃木県,2259,C.L#EA,栃木県
 CANNON BALLERS,O/D*20,1111,TATIKO,栃木県,1654,SAYA..,栃木県,2108,A-BLUE,栃木県
 CANNON BALLERS,Nothing but Theory,1068,AISHIA,栃木県,1562,D-LAND,栃木県,2837,DAIMON,栃木県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,853,HAMHAM,栃木県,1451,LANSER,栃木県,2315,DAIMON,栃木県
 CANNON BALLERS,NITROUS CANNON,1296,AISHIA,栃木県,1898,E.XIA,栃木県,3516,HERMIT,栃木県
-CANNON BALLERS,n'pa pa BBQ,913,AISHIA,栃木県,1696,XIAO*,栃木県,2734,SLEEPY,栃木県
+CANNON BALLERS,n'pa pa BBQ,915,MINATO,栃木県,1696,XIAO*,栃木県,2734,SLEEPY,栃木県
 CANNON BALLERS,Mira,936,SAYA..,栃木県,1649,DDRMIX,栃木県,3029,DAIMON,栃木県
 CANNON BALLERS,Midnight Lady,630,MINATO,栃木県,1152,SAYA..,栃木県,1940,DAIMON,栃木県
 CANNON BALLERS,LUV DRIVE,821,AISHIA,栃木県,1327,SAYA..,栃木県,2112,DAIMON,栃木県
@@ -1149,7 +1149,7 @@ CANNON BALLERS,HYPE THE CORE,1042,SUZUHO,栃木県,1870,KIRSME,栃木県,2867,KA
 CANNON BALLERS,Hella Deep,624,MINATO,栃木県,1059,DAIMON,栃木県,1774,HERMIT,栃木県
 CANNON BALLERS,HAT TRICK,818,F-LIL,栃木県,1414,4CKAWA,栃木県,2210,DAIMON,栃木県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,577,MINATO,栃木県,1137,TATIKO,栃木県,1874,A-BLUE,栃木県
-CANNON BALLERS,FUTURE is Dead,853,44TAKA,栃木県,1408,MAME2B,栃木県,2132,HERMIT,栃木県
+CANNON BALLERS,FUTURE is Dead,893,MINATO,栃木県,1408,MAME2B,栃木県,2132,HERMIT,栃木県
 CANNON BALLERS,From Time To Time,789,MINATO,栃木県,1867,KAVAN.,栃木県,2456,HERMIT,栃木県
 CANNON BALLERS,FREEDOM,982,AISHIA,栃木県,1689,SAYA..,栃木県,2882,A-BLUE,栃木県
 CANNON BALLERS,FIRE BALL,851,AISHIA,栃木県,1515,NEKO,栃木県,2241,KSG,栃木県
@@ -1161,7 +1161,7 @@ CANNON BALLERS,EMERALDAS,1299,TATIKO,栃木県,2319,SLEEPY,栃木県,3417,HERMIT
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,935,AISHIA,栃木県,1333,SUZUHO,栃木県,2525,SLEEPY,栃木県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1376,MINATO,栃木県,2332,FMO,栃木県,3855,HERMIT,栃木県
 CANNON BALLERS,DEADHEAT,898,YUDOFU,栃木県,1927,DISKIA,栃木県,3221,DAIMON,栃木県
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,725,M*,栃木県,1367,TATIKO,栃木県,2082,4CKAWA,栃木県
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,753,MINATO,栃木県,1367,TATIKO,栃木県,2082,4CKAWA,栃木県
 CANNON BALLERS,City Never Sleeps (IIDX Edition),1195,DDRMIX,栃木県,1757,2511,栃木県,2624,HERMIT,栃木県
 CANNON BALLERS,Chemical Cookie,825,AISHIA,栃木県,1390,UZ,栃木県,2102,SLEEPY,栃木県
 CANNON BALLERS,ChaserXX,951,SASAMI,栃木県,1723,MIKUMO,栃木県,2761,DAIMON,栃木県
@@ -1175,7 +1175,7 @@ CANNON BALLERS,Back Spin Sweeper,823,AISHIA,栃木県,1312,MAME2B,栃木県,2239
 CANNON BALLERS,Around the Future,1015,PAERIA,栃木県,1598,MAME2B,栃木県,2556,DAIMON,栃木県
 CANNON BALLERS,Arca,905,SAYA..,栃木県,1817,IIDX26,栃木県,3100,HERMIT,栃木県
 CANNON BALLERS,Antigravity,956,PAERIA,栃木県,1913,RYO-XI,栃木県,3021,HERMIT,栃木県
-CANNON BALLERS,ANCHOR,1292,D,栃木県,2367,O3,栃木県,3530,HERMIT,栃木県
+CANNON BALLERS,ANCHOR,1292,REIWA,栃木県,2367,O3,栃木県,3530,HERMIT,栃木県
 CANNON BALLERS,ANAGMA,1006,AISHIA,栃木県,1760,MAME2B,栃木県,2571,SLEEPY,栃木県
 CANNON BALLERS,Amor De Verao,794,S*RAN,栃木県,1342,TATIKO,栃木県,2306,DAIMON,栃木県
 CANNON BALLERS,Alpheratz,434,LMO?,栃木県,988,GRACKY,栃木県,2085,DAIMON,栃木県
