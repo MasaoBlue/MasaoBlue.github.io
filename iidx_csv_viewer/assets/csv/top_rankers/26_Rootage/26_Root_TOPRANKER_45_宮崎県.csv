@@ -45,7 +45,7 @@
 4th style,HIGHER,0,,未設定,0,,未設定,1244,ELISE*,宮崎県
 4th style,FLOWERS for ALBION,191,RIDER1,宮崎県,422,NANA*4,宮崎県,0,,未設定
 4th style,era (step mix),224,NONN,宮崎県,991,HIIRO.,宮崎県,1598,PC....,宮崎県
-4th style,empathy,672,RIDER1,宮崎県,0,,未設定,1353,ELISE*,宮崎県
+4th style,empathy,672,RIDER1,宮崎県,814,LOUVR.,宮崎県,1353,ELISE*,宮崎県
 4th style,DXY!,777,KLOCK,宮崎県,615,ASK,宮崎県,2054,ELISE*,宮崎県
 4th style,Clione†,0,,未設定,0,,未設定,2064,ABYSS.,宮崎県
 4th style,Clione,206,NONN,宮崎県,743,HIIRO.,宮崎県,1554,CH1NO,宮崎県
@@ -54,7 +54,7 @@
 4th style,Broken My Heart,596,IKAROS,宮崎県,0,,未設定,1645,ELISE*,宮崎県
 4th style,B4U,255,NONN,宮崎県,1271,EXCS,宮崎県,1904,ELISE*,宮崎県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2510,ABYSS.,宮崎県
-4th style,ABSOLUTE,636,SUTUNU,宮崎県,1401,KISNDO,宮崎県,2223,TRAVIS,宮崎県
+4th style,ABSOLUTE,722,KLOCK,宮崎県,1401,KISNDO,宮崎県,2223,TRAVIS,宮崎県
 4th style,250bpm,0,,未設定,731,KISNDO,宮崎県,1316,AZUSA,宮崎県
 5th style,V,848,HILAGI,宮崎県,2318,ABYSS.,宮崎県,2848,CH1NO,宮崎県
 5th style,THE SHINING POLARIS,0,,未設定,0,,未設定,1540,ELISE*,宮崎県
@@ -103,7 +103,7 @@
 7th style,Love Me Do,0,,未設定,0,,未設定,2053,ELISE*,宮崎県
 7th style,Let the Snow Paint Me,0,,未設定,691,IKAROS,宮崎県,1181,ELISE*,宮崎県
 7th style,Last Message,829,RIDER1,宮崎県,1083,KATU,宮崎県,1503,ELISE*,宮崎県
-7th style,Happy Wedding,0,,未設定,689,SATOMO,宮崎県,1776,AZUSA,宮崎県
+7th style,Happy Wedding,0,,未設定,909,KLOCK,宮崎県,1776,AZUSA,宮崎県
 7th style,Glorious Days,281,TA,宮崎県,548,IKAROS,宮崎県,867,TRAVIS,宮崎県
 7th style,foreplay,0,,未設定,0,,未設定,1248,ELISE*,宮崎県
 7th style,DESTINY,91,DOOOOO,宮崎県,731,IKAROS,宮崎県,1770,ELISE*,宮崎県
@@ -227,7 +227,7 @@ IIDX RED,HORIZON,191,NONN,宮崎県,0,,未設定,1933,ELISE*,宮崎県
 IIDX RED,gigadelic,1191,EXCS,宮崎県,2001,CH1NO,宮崎県,2264,ELISE*,宮崎県
 IIDX RED,GENOCIDE,351,HILAGI,宮崎県,1559,4SE1.3,宮崎県,2292,CH1NO,宮崎県
 IIDX RED,Fly Away To India,590,RIDER1,宮崎県,632,IKAROS,宮崎県,1311,ELISE*,宮崎県
-IIDX RED,FAKE TIME,0,,未設定,1627,NANA*4,宮崎県,2290,ABYSS.,宮崎県
+IIDX RED,FAKE TIME,0,,未設定,1652,ISUMI,宮崎県,2290,ABYSS.,宮崎県
 IIDX RED,earth scape,355,HIIRO.,宮崎県,0,,未設定,1230,NANA*4,宮崎県
 IIDX RED,Don't be afraid myself,242,NONN,宮崎県,1664,ISUMI,宮崎県,2220,ABYSS.,宮崎県
 IIDX RED,D.A.N.C.E.!,0,,未設定,0,,未設定,1531,COBOL,宮崎県
@@ -279,7 +279,7 @@ HAPPY SKY,EMPTY OF THE SKY,246,NOSAMO,宮崎県,0,,未設定,1641,ELISE*,宮崎�
 HAPPY SKY,EDEN,830,IKAROS,宮崎県,1763,417,宮崎県,2654,ABYSS.,宮崎県
 HAPPY SKY,double thrash,968,NANA*4,宮崎県,863,3KAREA,宮崎県,2224,CH1NO,宮崎県
 HAPPY SKY,Catch Me,363,DJ320,宮崎県,1158,MEA10A,宮崎県,1674,TRAVIS,宮崎県
-HAPPY SKY,CaptivAte～浄化～,0,,未設定,1662,MIYO.H,宮崎県,2388,ABYSS.,宮崎県
+HAPPY SKY,CaptivAte～浄化～,0,,未設定,1662,MIYO.H,宮崎県,2409,ABYSS.,宮崎県
 HAPPY SKY,Aurora,987,*EX!A*,宮崎県,1987,YUU39N,宮崎県,2446,ABYSS.,宮崎県
 HAPPY SKY,alla turca con passione,547,HILAGI,宮崎県,1195,KUMA,宮崎県,2097,ABYSS.,宮崎県
 HAPPY SKY,Agnus Dei,373,L,宮崎県,1258,RIDER1,宮崎県,1993,ABYSS.,宮崎県
@@ -299,7 +299,7 @@ DistorteD,waxing and wanding,1075,RIDER1,宮崎県,1911,GYUDON,宮崎県,2824,CH
 DistorteD,TYPE MARS(G-Style Mix),0,,未設定,1443,POPPIN,宮崎県,2337,CH1NO,宮崎県
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,未設定,1692,4SE1.3,宮崎県,2347,CH1NO,宮崎県
 DistorteD,This is Love,248,NONN,宮崎県,1468,HIIRO.,宮崎県,2337,GYUDON,宮崎県
-DistorteD,The Dirty of Loudness,971,RIDER1,宮崎県,1789,CLR-SM,宮崎県,2467,ABYSS.,宮崎県
+DistorteD,The Dirty of Loudness,987,SAYATO,宮崎県,1789,CLR-SM,宮崎県,2467,ABYSS.,宮崎県
 DistorteD,Sun Field,0,,未設定,878,RIDER1,宮崎県,2324,CH1NO,宮崎県
 DistorteD,So Fabulous !!,624,HILAGI,宮崎県,1471,BCD,宮崎県,2295,ABYSS.,宮崎県
 DistorteD,Power of Love,0,,未設定,919,RIDER1,宮崎県,2015,ELISE*,宮崎県
@@ -378,7 +378,7 @@ DJ TROOPERS,エコ爺,0,,未設定,0,,未設定,1795,AZUSA,宮崎県
 DJ TROOPERS,Wanna Party?,0,,未設定,1034,4SE1.3,宮崎県,1461,CH1NO,宮崎県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3175,CH1NO,宮崎県
 DJ TROOPERS,Ubertreffen,877,RIDER1,宮崎県,1591,R,宮崎県,2434,CH1NO,宮崎県
-DJ TROOPERS,TROOPERS,812,HILAGI,宮崎県,2008,3KAREA,宮崎県,2731,ARIA-P,宮崎県
+DJ TROOPERS,TROOPERS,921,ASK,宮崎県,2008,3KAREA,宮崎県,2731,ARIA-P,宮崎県
 DJ TROOPERS,Time to Air,1062,RIDER1,宮崎県,1872,4SE1.3,宮崎県,2713,CH1NO,宮崎県
 DJ TROOPERS,the trigger of innocence,652,P*REAF,宮崎県,1156,YUU39N,宮崎県,1842,ABYSS.,宮崎県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,2959,ELISE*,宮崎県
@@ -393,7 +393,7 @@ DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,未設定,1623,4SE1.3,宮�
 DJ TROOPERS,Ristaccia,806,MERIMO,宮崎県,1831,ARIA-P,宮崎県,2549,TRAVIS,宮崎県
 DJ TROOPERS,REMINISCENCE,899,IKAROS,宮崎県,1439,POPPIN,宮崎県,2192,YOHANE,宮崎県
 DJ TROOPERS,PROMISE FOR LIFE,186,IIDX26,宮崎県,1080,HILAGI,宮崎県,1726,ELISE*,宮崎県
-DJ TROOPERS,PARANOiA ～HADES～,1022,COBOL,宮崎県,1540,ARIA-P,宮崎県,2502,CH1NO,宮崎県
+DJ TROOPERS,PARANOiA ～HADES～,1022,COBOL,宮崎県,1541,RYOTA,宮崎県,2502,CH1NO,宮崎県
 DJ TROOPERS,oratio,991,RIDER1,宮崎県,1822,MIYO.H,宮崎県,2799,CH1NO,宮崎県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,879,RIDER1,宮崎県,1671,FIA,宮崎県,2391,ELISE*,宮崎県
 DJ TROOPERS,MENTAL MELTDOWN,0,,未設定,1556,*BLUE*,宮崎県,2601,CH1NO,宮崎県
@@ -459,7 +459,7 @@ EMPRESS,Fly Above,0,,未設定,1565,ELISE*,宮崎県,2004,ABYSS.,宮崎県
 EMPRESS,Flash Back 90's,492,HILAGI,宮崎県,1635,4SE1.3,宮崎県,2245,CH1NO,宮崎県
 EMPRESS,Cyber Force -DJ Yoshitaka Remix-,0,,未設定,1438,EXCS,宮崎県,2448,CH1NO,宮崎県
 EMPRESS,Colorful Cookie,1012,RIDER1,宮崎県,2175,PEKKI-,宮崎県,3367,CH1NO,宮崎県
-EMPRESS,CaptivAte2～覚醒～,825,RIDER1,宮崎県,1502,SIE,宮崎県,2243,ABYSS.,宮崎県
+EMPRESS,CaptivAte2～覚醒～,825,RIDER1,宮崎県,1502,SIE,宮崎県,2252,ABYSS.,宮崎県
 EMPRESS,BRIDAL FESTIVAL !!!,0,,未設定,1343,4SE1.3,宮崎県,2049,CH1NO,宮崎県
 EMPRESS,BITTER CHOCOLATE STRIKER,942,RIDER1,宮崎県,1724,EXCS,宮崎県,3669,ABYSS.,宮崎県
 EMPRESS,Bahram Attack-猫叉Master Remix-,556,*C-GE*,宮崎県,1728,4SE1.3,宮崎県,2577,ABYSS.,宮崎県
@@ -503,7 +503,7 @@ SIRIUS,GALGALIM,478,HILAGI,宮崎県,0,,未設定,2246,CH1NO,宮崎県
 SIRIUS,G59,1568,SKY,宮崎県,1924,3KAREA,宮崎県,3718,CH1NO,宮崎県
 SIRIUS,EXUSIA,1054,RIDER1,宮崎県,2220,SIE,宮崎県,3706,CH1NO,宮崎県
 SIRIUS,Evans,1071,SAYATO,宮崎県,1963,YUU39N,宮崎県,2579,CH1NO,宮崎県
-SIRIUS,eRAseRmOToRpHAntOM,1087,RIDER1,宮崎県,2128,NANA*4,宮崎県,2585,K.J38,宮崎県
+SIRIUS,eRAseRmOToRpHAntOM,1087,RIDER1,宮崎県,2128,NANA*4,宮崎県,2609,PEKKI-,宮崎県
 SIRIUS,Empire State Glory,956,RIDER1,宮崎県,1582,SHU-KA,宮崎県,2574,ABYSS.,宮崎県
 SIRIUS,Elisha,825,HERO,宮崎県,1379,3KAREA,宮崎県,2125,ARIA-P,宮崎県
 SIRIUS,DROP,365,00F,宮崎県,1735,SIE,宮崎県,2536,CH1NO,宮崎県
@@ -576,7 +576,7 @@ Resort Anthem,Breaking the ground,475,G-REN,宮崎県,1521,RIDER1,宮崎県,2430
 Resort Anthem,Bounce Bounce Bounce,0,,未設定,1511,FIA,宮崎県,2291,AZUSA,宮崎県
 Resort Anthem,BLUST OF WIND,626,P*REAF,宮崎県,1101,RIDER1,宮崎県,2004,ELISE*,宮崎県
 Resort Anthem,Believe In Me,544,HILAGI,宮崎県,1657,RA,宮崎県,2253,CH1NO,宮崎県
-Resort Anthem,ANTHEM LANDING,753,RIDER1,宮崎県,1888,CH1NO,宮崎県,2877,ABYSS.,宮崎県
+Resort Anthem,ANTHEM LANDING,753,RIDER1,宮崎県,1888,CH1NO,宮崎県,2899,ABYSS.,宮崎県
 Resort Anthem,Answer,565,MERIMO,宮崎県,1316,SEISUI,宮崎県,2333,COBOL,宮崎県
 Resort Anthem,ALBIDA,945,RIDER1,宮崎県,1735,YUU39N,宮崎県,2810,CH1NO,宮崎県
 Resort Anthem,Aegis,522,HILAGI,宮崎県,937,HACHI,宮崎県,2203,ABYSS.,宮崎県
@@ -704,12 +704,12 @@ tricoro,Neonlights,421,HIROTI,宮崎県,1102,00F,宮崎県,2083,ELISE*,宮崎県
 tricoro,mnemoniq,300,CHLOE,宮崎県,862,417,宮崎県,1242,AZUSA,宮崎県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2678,ABYSS.,宮崎県
 tricoro,LUV CAN SAVE U,331,SPIDER,宮崎県,1153,YKRMRS,宮崎県,2071,CH1NO,宮崎県
-tricoro,Little Star,0,,未設定,1555,POPPIN,宮崎県,2911,GYUDON,宮崎県
+tricoro,Little Star,0,,未設定,1610,EXCS,宮崎県,2911,GYUDON,宮崎県
 tricoro,Light and Cyber…,934,RIDER1,宮崎県,1752,SKY,宮崎県,3029,CH1NO,宮崎県
 tricoro,Liberation,1275,RIDER1,宮崎県,2337,CH1NO,宮崎県,3561,ABYSS.,宮崎県
 tricoro,JOMANDA,930,SAYATO,宮崎県,1831,MIYO.H,宮崎県,3451,CH1NO,宮崎県
 tricoro,In Heaven,679,RIDER1,宮崎県,1310,TENGA,宮崎県,2068,CH1NO,宮崎県
-tricoro,Illegal Function Call,0,,未設定,1706,ISUMI,宮崎県,2506,CH1NO,宮崎県
+tricoro,Illegal Function Call,682,MACCYO,宮崎県,1706,ISUMI,宮崎県,2506,CH1NO,宮崎県
 tricoro,ILIAS,707,LUST,宮崎県,1119,YKRMRS,宮崎県,2061,ELISE*,宮崎県
 tricoro,I know You know,451,P*REAF,宮崎県,886,00F,宮崎県,1772,ELISE*,宮崎県
 tricoro,Howling†,0,,未設定,0,,未設定,2429,ELISE*,宮崎県
@@ -725,7 +725,7 @@ tricoro,Devilz Staircase,351,KEI,宮崎県,1810,4SE1.3,宮崎県,3073,AR2,宮崎
 tricoro,DAY DREAM,529,ABYSS.,宮崎県,1103,GYUDON,宮崎県,1725,GYUDON,宮崎県
 tricoro,Cookie Bouquets,504,HILAGI,宮崎県,1869,POPPIN,宮崎県,3285,CH1NO,宮崎県
 tricoro,connective,297,SPIDER,宮崎県,836,KO-NO,宮崎県,1585,AR2,宮崎県
-tricoro,Confiserie,623,HILAGI,宮崎県,1705,841***,宮崎県,3351,CH1NO,宮崎県
+tricoro,Confiserie,623,HILAGI,宮崎県,1828,Y0TIKO,宮崎県,3351,CH1NO,宮崎県
 tricoro,CONCEPTUAL,537,P*REAF,宮崎県,1074,RIDER1,宮崎県,2622,CH1NO,宮崎県
 tricoro,BRAVE GLOW,0,,未設定,1288,SAYATO,宮崎県,2361,CH1NO,宮崎県
 tricoro,BLUE STRAGGLER,290,CHLOE,宮崎県,0,,未設定,2498,CH1NO,宮崎県
@@ -756,21 +756,21 @@ SPADA,Verflucht,1010,RIDER1,宮崎県,2039,CH1NO,宮崎県,3449,CH1NO,宮崎県
 SPADA,Valgus,469,P*REAF,宮崎県,1039,HIIRO.,宮崎県,2265,AZUSA,宮崎県
 SPADA,Unicorn tail,0,,未設定,1815,EXCS,宮崎県,2953,ELISE*,宮崎県
 SPADA,THE DETONATOR,843,HIROTI,宮崎県,2166,FIA,宮崎県,3066,ABYSS.,宮崎県
-SPADA,Squeeze,0,,未設定,1022,00F,宮崎県,2348,CH1NO,宮崎県
+SPADA,Squeeze,0,,未設定,1185,REV,宮崎県,2348,CH1NO,宮崎県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4039,CH1NO,宮崎県
 SPADA,Sigmund,1112,RIDER1,宮崎県,1862,BENT,宮崎県,3633,CH1NO,宮崎県
-SPADA,SCHWARZSCHILD FIELD,0,,未設定,1213,TENGA,宮崎県,2232,CH1NO,宮崎県
+SPADA,SCHWARZSCHILD FIELD,0,,未設定,1273,TENGA,宮崎県,2232,CH1NO,宮崎県
 SPADA,RIZING YOU UP,607,IKAROS,宮崎県,1786,F00T-4,宮崎県,2418,ELISE*,宮崎県
 SPADA,RISE,0,,未設定,973,00F,宮崎県,1794,ELISE*,宮崎県
 SPADA,refractive index,575,P*REAF,宮崎県,1355,SHU-KA,宮崎県,2605,ABYSS.,宮崎県
-SPADA,Recollection,0,,未設定,0,,未設定,2195,ELISE*,宮崎県
+SPADA,Recollection,895,ASK,宮崎県,0,,未設定,2195,ELISE*,宮崎県
 SPADA,rainbow guitar weeps,857,P*REAF,宮崎県,1651,KEYMAN,宮崎県,2669,CH1NO,宮崎県
 SPADA,ra'am,810,AVANTG,宮崎県,1480,NANA*4,宮崎県,2547,CH1NO,宮崎県
 SPADA,PUNISHER,0,,未設定,1807,POPPIN,宮崎県,3350,ABYSS.,宮崎県
 SPADA,Pharaoh,171,CAPTN,宮崎県,1279,4SE1.3,宮崎県,2284,TRAVIS,宮崎県
-SPADA,Overload Frontier,528,P*REAF,宮崎県,1521,KATU,宮崎県,2374,CH1NO,宮崎県
+SPADA,Overload Frontier,528,P*REAF,宮崎県,1521,KATU,宮崎県,2406,ABYSS.,宮崎県
 SPADA,Odin,0,,未設定,1286,KATU,宮崎県,1989,ELISE*,宮崎県
-SPADA,NPC World,516,HILAGI,宮崎県,1037,AVANTG,宮崎県,2100,ELISE*,宮崎県
+SPADA,NPC World,516,HILAGI,宮崎県,1216,EN*K,宮崎県,2100,ELISE*,宮崎県
 SPADA,Miracle 5ympho X,585,AMMMMM,宮崎県,1232,WAS,宮崎県,2469,ELISE*,宮崎県
 SPADA,MAGIC & LOVE,755,P*REAF,宮崎県,1743,NANA*4,宮崎県,2805,CH1NO,宮崎県
 SPADA,MAD ATTACK,0,,未設定,738,IKAROS,宮崎県,1775,ISUMI,宮崎県
@@ -782,7 +782,7 @@ SPADA,LA FESTA LA VITA!!,651,ASK,宮崎県,1595,SHU-KA,宮崎県,2632,ELISE*,宮
 SPADA,KHAMEN BREAK,404,TKP,宮崎県,1099,HIIRO.,宮崎県,2234,ELISE*,宮崎県
 SPADA,KAISER PHOENIX,1098,TAKESI,宮崎県,2050,RYOTA,宮崎県,2849,48TA28,宮崎県
 SPADA,IX,1117,PISTON,宮崎県,2139,K.J38,宮崎県,3639,CH1NO,宮崎県
-SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3189,ELISE*,宮崎県
+SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3192,ABYSS.,宮崎県
 SPADA,invoker,838,P*REAF,宮崎県,1775,LEAFA,宮崎県,2975,GYUDON,宮崎県
 SPADA,into the battlefield,0,,未設定,1179,Y-ASU,宮崎県,2316,CH1NO,宮崎県
 SPADA,INSOMNIA,715,RIDER1,宮崎県,1436,KISNDO,宮崎県,2818,GYUDON,宮崎県
@@ -806,7 +806,7 @@ SPADA,Dark Fall,411,TEEMO,宮崎県,1285,KATU,宮崎県,2493,GYUDON,宮崎県
 SPADA,Critical Crystal,809,P*REAF,宮崎県,1610,KATU,宮崎県,2748,ABYSS.,宮崎県
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3710,CH1NO,宮崎県
 SPADA,Close the World feat. a☆ru,727,00F,宮崎県,1928,CARREY,宮崎県,3131,ABYSS.,宮崎県
-SPADA,Cleopatrysm,0,,未設定,1012,00F,宮崎県,2346,ELISE*,宮崎県
+SPADA,Cleopatrysm,315,HI67,宮崎県,1012,00F,宮崎県,2346,ELISE*,宮崎県
 SPADA,Claiomh Solais,290,LUST,宮崎県,1228,RIDER1,宮崎県,2036,MISAWA,宮崎県
 SPADA,BRAVE OUT,0,,未設定,1098,00F,宮崎県,2091,CH1NO,宮崎県
 SPADA,BRAINSTORM,676,RIDER1,宮崎県,1672,4SE1.3,宮崎県,2656,CH1NO,宮崎県
@@ -859,7 +859,7 @@ PENDUAL,Scars of FAUNA,751,SUTUNU,宮崎県,1430,C0C0,宮崎県,2678,48TA28,宮�
 PENDUAL,Scarlet Moon,951,SAMI,宮崎県,1532,417,宮崎県,2564,TRAVIS,宮崎県
 PENDUAL,Say YEEEAHH,742,HILAGI,宮崎県,1574,4SE1.3,宮崎県,3051,ABYSS.,宮崎県
 PENDUAL,SAMSARA,0,,未設定,1221,YKRMRS,宮崎県,1960,MISAWA,宮崎県
-PENDUAL,Sakura Mirage,778,RIDER1,宮崎県,1058,SAO-00,宮崎県,2118,ELISE*,宮崎県
+PENDUAL,Sakura Mirage,816,AMMMMM,宮崎県,1058,SAO-00,宮崎県,2118,ELISE*,宮崎県
 PENDUAL,Reflux,461,HIROTI,宮崎県,1314,KATU,宮崎県,2799,CH1NO,宮崎県
 PENDUAL,Realize Maze,677,HIGH*,宮崎県,1804,KEYMAN,宮崎県,2844,CH1NO,宮崎県
 PENDUAL,Rave*it!! Rave*it!!,624,HILAGI,宮崎県,1563,4SE1.3,宮崎県,3049,ABYSS.,宮崎県
@@ -872,7 +872,7 @@ PENDUAL,NEO GENERATOR SEVEN,826,P*REAF,宮崎県,1397,Y-ASU,宮崎県,3090,CH1NO
 PENDUAL,Monopole.,508,SPIDER,宮崎県,1209,RIDER1,宮崎県,3139,CH1NO,宮崎県
 PENDUAL,m1dy Festival,0,,未設定,1528,SHU-KA,宮崎県,2195,YUU39N,宮崎県
 PENDUAL,Line 4 Ruin,293,HILAGI,宮崎県,1769,ABYSS.,宮崎県,2718,ABYSS.,宮崎県
-PENDUAL,IXION,313,AKA,宮崎県,1262,A.,宮崎県,2109,CH1NO,宮崎県
+PENDUAL,IXION,313,AKA,宮崎県,1268,A.,宮崎県,2109,CH1NO,宮崎県
 PENDUAL,Invitation from Mr.C,755,HILAGI,宮崎県,1409,KEYMAN,宮崎県,2484,ABYSS.,宮崎県
 PENDUAL,In The Breeze,0,,未設定,876,RIDER1,宮崎県,1618,ELISE*,宮崎県
 PENDUAL,IMPLANTATION,0,,未設定,1480,MIYO.H,宮崎県,2117,CH1NO,宮崎県
@@ -892,7 +892,7 @@ PENDUAL,Discloze,645,IKAROS,宮崎県,1458,4SE1.3,宮崎県,2473,CH1NO,宮崎県
 PENDUAL,Despair of ELFERIA,1097,RIDER1,宮崎県,2057,EXCS,宮崎県,3944,CH1NO,宮崎県
 PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3047,ABYSS.,宮崎県
 PENDUAL,Cosmic Cat,711,IKAROS,宮崎県,1620,NOZPAK,宮崎県,2237,ABYSS.,宮崎県
-PENDUAL,COLOSSEUM,357,CHLOE,宮崎県,1057,RIDER1,宮崎県,2208,ELISE*,宮崎県
+PENDUAL,COLOSSEUM,357,CHLOE,宮崎県,1086,TENGA,宮崎県,2208,ELISE*,宮崎県
 PENDUAL,cinder,525,OSATO,宮崎県,1658,POPPIN,宮崎県,2909,GYUDON,宮崎県
 PENDUAL,Chronos,430,00F,宮崎県,1296,YUU39N,宮崎県,2198,ABYSS.,宮崎県
 PENDUAL,Chrono Diver -PENDULUMs-,1381,MTRK,宮崎県,2627,CH1NO,宮崎県,4090,CH1NO,宮崎県
@@ -916,7 +916,7 @@ copula,量子の海のリントヴルム,683,AMMMMM,宮崎県,1418,KUMA,宮崎�
 copula,追想快晴テーマパーク,1010,SAMI,宮崎県,1738,POPPIN,宮崎県,2832,ELISE*,宮崎県
 copula,紫陽花 -AZISAI-,1060,KON,宮崎県,1893,RA,宮崎県,2674,CH1NO,宮崎県
 copula,真 地獄超特急 -HELL or HELL-,1139,RIDER1,宮崎県,2045,ARIA-P,宮崎県,2799,CH1NO,宮崎県
-copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,未設定,1226,YKRMRS,宮崎県,2416,ELISE*,宮崎県
+copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,未設定,1510,TENGA,宮崎県,2416,ELISE*,宮崎県
 copula,灼熱 Pt.2 Long Train Running,1037,RIDER1,宮崎県,1961,AZUSA,宮崎県,2683,CH1NO,宮崎県
 copula,朝焼けから始まるボクらの小さな旅,0,,未設定,1373,POPPIN,宮崎県,2249,GYUDON,宮崎県
 copula,星屑ディスタンシア,424,CHLOE,宮崎県,1087,841***,宮崎県,2027,AZUSA,宮崎県
@@ -929,7 +929,7 @@ copula,オルタネイトβ,0,,未設定,1352,ELISE*,宮崎県,2193,CH1NO,宮崎
 copula,めいさいアイドル☆あいむちゃん♪,1148,SAMI,宮崎県,2173,NANA*4,宮崎県,3199,CH1NO,宮崎県
 copula,か・し・ま・し☆PUMP UP！,1139,NANA*4,宮崎県,1577,FIA,宮崎県,2623,ELISE*,宮崎県
 copula,ZEPHYRANTHES,535,AKA,宮崎県,1521,KISNDO,宮崎県,2842,CH1NO,宮崎県
-copula,X,1319,RIDER1,宮崎県,2227,KEN*2,宮崎県,3715,CH1NO,宮崎県
+copula,X,1319,RIDER1,宮崎県,2252,RYOTA,宮崎県,3715,CH1NO,宮崎県
 copula,Welcome,550,HILAGI,宮崎県,1583,BENT,宮崎県,2547,CH1NO,宮崎県
 copula,Violet Rose,0,,未設定,1114,EXCS,宮崎県,2419,CH1NO,宮崎県
 copula,Violet Pulse,288,SPIDER,宮崎県,1464,FIA,宮崎県,2327,CH1NO,宮崎県
@@ -950,7 +950,7 @@ copula,SEITEN NO TERIYAKI,425,MUSIC,宮崎県,1037,YKRMRS,宮崎県,2072,ELISE*,
 copula,Routing,565,HILAGI,宮崎県,1450,YUU39N,宮崎県,2282,CH1NO,宮崎県
 copula,Rock It,733,P*REAF,宮崎県,1493,POPPIN,宮崎県,2832,CH1NO,宮崎県
 copula,refrain,564,DJ320,宮崎県,1725,EXCS,宮崎県,3451,ABYSS.,宮崎県
-copula,quick master (reform version),143,RIDER1,宮崎県,0,,未設定,501,S.RUKI,宮崎県
+copula,quick master (reform version),143,RIDER1,宮崎県,285,EN*K,宮崎県,501,S.RUKI,宮崎県
 copula,POSSESSION,1244,SAYATO,宮崎県,1917,MEA10A,宮崎県,2808,ABYSS.,宮崎県
 copula,OUTER LIMITS ALTERNATIVE,0,,未設定,1416,RIDER1,宮崎県,2457,ELISE*,宮崎県
 copula,Outbreak,0,,未設定,1736,MTRK,宮崎県,2869,CH1NO,宮崎県
@@ -1005,12 +1005,12 @@ SINOBUZ,焔極OVERKILL,1133,FIA,宮崎県,1976,RYOTA,宮崎県,3344,CH1NO,宮崎
 SINOBUZ,炎影,508,P*REAF,宮崎県,1059,KUMA,宮崎県,2461,AR2,宮崎県
 SINOBUZ,津軽雪,1462,FIA,宮崎県,2007,WAS,宮崎県,3643,CH1NO,宮崎県
 SINOBUZ,次葉 -turn the page-,351,HILAGI,宮崎県,1329,POPPIN,宮崎県,1939,TRAVIS,宮崎県
-SINOBUZ,月雪に舞う華のように,450,AKA,宮崎県,751,IKAROS,宮崎県,1911,YUU39N,宮崎県
+SINOBUZ,月雪に舞う華のように,450,AKA,宮崎県,823,EN*K,宮崎県,1911,YUU39N,宮崎県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,739,2000,宮崎県,1352,SIE,宮崎県,2294,ELISE*,宮崎県
 SINOBUZ,忍恋花,753,IKAROS,宮崎県,1323,CAT503,宮崎県,2146,CH1NO,宮崎県
 SINOBUZ,刃図羅,1177,SIE,宮崎県,1979,PC....,宮崎県,3197,48TA28,宮崎県
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2959,ABYSS.,宮崎県
-SINOBUZ,冬椿 ft. Kanae Asaba,0,,未設定,1211,NANA*4,宮崎県,2224,TRAVIS,宮崎県
+SINOBUZ,冬椿 ft. Kanae Asaba,0,,未設定,1211,NANA*4,宮崎県,2253,ABYSS.,宮崎県
 SINOBUZ,九尾狐夜行,312,CHLOE,宮崎県,1572,417,宮崎県,2737,ELISE*,宮崎県
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,638,4SE1.3,宮崎県,1131,EN*K,宮崎県,2273,ELISE*,宮崎県
 SINOBUZ,イザナミノナゲキ,897,IIDX26,宮崎県,1844,ISUMI,宮崎県,2965,ELISE*,宮崎県
@@ -1200,7 +1200,7 @@ Rootage,グラナダの風,707,RIDER1,宮崎県,1141,KEYMAN,宮崎県,1785,AZUSA
 Rootage,Yum Yum Jelly,770,FIA,宮崎県,1501,RYOTA,宮崎県,2261,ABYSS.,宮崎県
 Rootage,Xlo,1455,ARIA-P,宮崎県,2382,AZUSA,宮崎県,3454,ABYSS.,宮崎県
 Rootage,Wonderland,839,RIDER1,宮崎県,1711,FIA,宮崎県,2658,ABYSS.,宮崎県
-Rootage,Won(*3*)Chu KissMe!,884,SIE,宮崎県,1330,FIA,宮崎県,2428,ABYSS.,宮崎県
+Rootage,Won(*3*)Chu KissMe!,925,FIA,宮崎県,1330,FIA,宮崎県,2444,ABYSS.,宮崎県
 Rootage,Wolf 1061,935,POPPIN,宮崎県,1654,ISUMI,宮崎県,2968,ABYSS.,宮崎県
 Rootage,Wing of Hearts,1047,SIE,宮崎県,1652,SHU-KA,宮崎県,2852,AZUSA,宮崎県
 Rootage,Urban Constellations,624,RIDER1,宮崎県,1427,SILVIA,宮崎県,2161,CH1NO,宮崎県

@@ -11,7 +11,7 @@
 1st&substream,GAMBOL,256,PETZ4,徳島県,274,L#...Y,徳島県,0,,未設定
 1st&substream,Dr.LOVE,332,TIKUWA,徳島県,456,DESUNO,徳島県,570,L#...Y,徳島県
 1st&substream,deep in you,371,TIKUWA,徳島県,386,TIKUWA,徳島県,649,MIZZET,徳島県
-1st&substream,5.1.1.,0,,未設定,943,NEMO,徳島県,1549,L#...Y,徳島県
+1st&substream,5.1.1.,189,PIRO.2,徳島県,943,NEMO,徳島県,1549,L#...Y,徳島県
 1st&substream,22DUNK,435,TIKUWA,徳島県,536,SKCHZK,徳島県,534,DESUNO,徳島県
 2nd style,SP-TRIP MACHINE(for beatmania II),462,TIKUWA,徳島県,0,,未設定,641,L#...Y,徳島県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),496,NEMO,徳島県,814,MA-KUN,徳島県,0,,未設定
@@ -51,7 +51,7 @@
 4th style,Clione,292,ZEITA9,徳島県,0,,未設定,1523,MIZZET,徳島県
 4th style,CHECKING YOU OUT,607,CROSS,徳島県,781,L#...Y,徳島県,1165,EDF-R,徳島県
 4th style,Burnin' The Floor,510,DESUNO,徳島県,698,HIFUMI,徳島県,1386,RIN5*,徳島県
-4th style,Broken My Heart,441,KBGUM1,徳島県,1091,AAAAAA,徳島県,1575,AKI,徳島県
+4th style,Broken My Heart,441,KBGUM1,徳島県,1091,AAAAAA,徳島県,1739,GOQURI,徳島県
 4th style,B4U,631,MISTY*,徳島県,1382,AKI,徳島県,1809,U6NCHA,徳島県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2629,MIZZET,徳島県
 4th style,ABSOLUTE,781,GALE,徳島県,1333,CHIYO,徳島県,2195,FEN!,徳島県
@@ -85,7 +85,7 @@
 6th style,Linus,0,,未設定,1186,HIFUMI,徳島県,2146,L#...Y,徳島県
 6th style,G2,0,,未設定,1262,SHIA,徳島県,2050,12EX27,徳島県
 6th style,Frozen Ray (original mix),874,GLA,徳島県,1507,AAAAAA,徳島県,1743,MIZZET,徳島県
-6th style,Free Style,0,,未設定,675,KZY221,徳島県,1216,12EX27,徳島県
+6th style,Free Style,383,GHQ,徳島県,675,KZY221,徳島県,1216,12EX27,徳島県
 6th style,fly through the night,0,,未設定,799,AAAAAA,徳島県,1672,L#...Y,徳島県
 6th style,DIVE ～INTO YOUR HEART～,456,NEPUKO,徳島県,1215,AAAAAA,徳島県,1999,RIN5*,徳島県
 6th style,Colors (radio edit),946,AXWXD,徳島県,1687,EDF-R,徳島県,2304,MIZZET,徳島県
@@ -94,9 +94,9 @@
 6th style,BALLAD FOR YOU～想いの雨～,549,PIRO.2,徳島県,593,AZI3,徳島県,1026,AKI,徳島県
 6th style,"19,November",814,TIKUWA,徳島県,925,NKMR,徳島県,1725,RIN5*,徳島県
 7th style,革命,623,DESUNO,徳島県,1794,PETZ4,徳島県,2251,MIZZET,徳島県
-7th style,ZERO-ONE,0,,未設定,1213,AAAAAA,徳島県,2179,L#...Y,徳島県
+7th style,ZERO-ONE,0,,未設定,1444,TA.,徳島県,2179,L#...Y,徳島県
 7th style,traces,1090,LISP-R,徳島県,1597,SHIA,徳島県,2076,MIZZET,徳島県
-7th style,Tomorrow Perfume,0,,未設定,1149,NA,徳島県,1710,AKI,徳島県
+7th style,Tomorrow Perfume,0,,未設定,1490,QUE,徳島県,1710,AKI,徳島県
 7th style,stoic,1233,K,徳島県,2009,TAKE,徳島県,2194,DCMINI,徳島県
 7th style,Spica,0,,未設定,924,CHIYO,徳島県,1870,TKSRNZ,徳島県
 7th style,MAX 300,888,768BH,徳島県,1778,12EX27,徳島県,0,,未設定
@@ -145,7 +145,7 @@
 9th style,真夏の花・真夏の夢,0,,未設定,613,RJ,徳島県,1457,CROSS,徳島県
 9th style,ライオン好き,330,SOUKA,徳島県,899,GLA,徳島県,1467,RAPPY,徳島県
 9th style,SWEETEST SAVAGE,0,,未設定,980,SKCHZK,徳島県,1735,CROSS,徳島県
-9th style,Sweet Sweet Magic,0,,未設定,1154,ESIZON,徳島県,1866,RAPPY,徳島県
+9th style,Sweet Sweet Magic,0,,未設定,1368,RAPPY,徳島県,1866,RAPPY,徳島県
 9th style,STAR FIELD,518,TIKUWA,徳島県,1269,RICH,徳島県,1856,L#...Y,徳島県
 9th style,SNOW,0,,未設定,1246,AREST,徳島県,1868,12EX27,徳島県
 9th style,Silvia Drive,503,GALE,徳島県,1051,341,徳島県,2017,L#...Y,徳島県
@@ -255,13 +255,13 @@ HAPPY SKY,Twelfth Style,0,,未設定,920,KZY221,徳島県,1945,RIN5*,徳島県
 HAPPY SKY,Tizona d'El Cid,803,768BH,徳島県,1762,LKAR,徳島県,2228,MIZZET,徳島県
 HAPPY SKY,SigSig,731,ZEITA9,徳島県,1419,AAAAAA,徳島県,2418,RAPPY,徳島県
 HAPPY SKY,Scripted Connection⇒ N mix,525,ZELDA,徳島県,726,GINITY,徳島県,1775,LOTE,徳島県
-HAPPY SKY,Scripted Connection⇒ H mix,1006,LEAF,徳島県,1800,AREST,徳島県,2097,DCMINI,徳島県
+HAPPY SKY,Scripted Connection⇒ H mix,1006,LEAF,徳島県,1800,AREST,徳島県,2337,GOQURI,徳島県
 HAPPY SKY,Scripted Connection⇒ A mix,1224,NULL,徳島県,1880,TAKE,徳島県,2893,RIN5*,徳島県
 HAPPY SKY,SCREAM SQUAD,0,,未設定,1373,TKSRNZ,徳島県,1900,L#...Y,徳島県
 HAPPY SKY,rage against usual,729,KBGUM1,徳島県,1905,L#MELL,徳島県,2706,NIGIRI,徳島県
 HAPPY SKY,POODLE,0,,未設定,1526,AAAAAA,徳島県,2157,RAPPY,徳島県
 HAPPY SKY,Pollinosis,0,,未設定,577,IIDX26,徳島県,2293,NIGIRI,徳島県
-HAPPY SKY,PLASMA,0,,未設定,1277,NA,徳島県,2251,L#...Y,徳島県
+HAPPY SKY,PLASMA,0,,未設定,1286,QUE,徳島県,2251,L#...Y,徳島県
 HAPPY SKY,Pink Rose,134,RENA,徳島県,849,DESUNO,徳島県,1397,L#...Y,徳島県
 HAPPY SKY,MOON RACE,394,XENYU,徳島県,965,ORE,徳島県,1715,L#MELL,徳島県
 HAPPY SKY,Love Magic,542,CLOW,徳島県,1142,NA,徳島県,1844,AOBRNK,徳島県
@@ -339,7 +339,7 @@ GOLD,VANESSA,1080,FEN!,徳島県,1399,LOTE,徳島県,2253,NIGIRI,徳島県
 GOLD,TRANOID,381,SOUKA,徳島県,1516,AREST,徳島県,1878,MIX,徳島県
 GOLD,The Smile of You,740,MISTY*,徳島県,1080,TIKUWA,徳島県,1622,L#...Y,徳島県
 GOLD,the shadow,1108,K,徳島県,1992,LKAR,徳島県,2783,NIGIRI,徳島県
-GOLD,snow storm,727,CHIYO,徳島県,1863,TA.,徳島県,2745,RIN5*,徳島県
+GOLD,snow storm,727,CHIYO,徳島県,2077,AREST,徳島県,2745,RIN5*,徳島県
 GOLD,smile,1209,CHIYO,徳島県,2049,LKAR,徳島県,2755,RIN5*,徳島県
 GOLD,Sense 2007,1340,AREST,徳島県,1884,RICK,徳島県,2678,MIZZET,徳島県
 GOLD,Second Heaven,773,YASUO#,徳島県,1473,FEN!,徳島県,2061,NIGIRI,徳島県
@@ -360,7 +360,7 @@ GOLD,GRID KNIGHT,686,K,徳島県,1745,AREST,徳島県,2440,LKAR,徳島県
 GOLD,GOLD RUSH,934,MNM,徳島県,1386,FEN!,徳島県,2235,IIDX26,徳島県
 GOLD,four-leaf,0,,未設定,887,HIFUMI,徳島県,1575,12EX27,徳島県
 GOLD,FIRE FIRE,902,CHIYO,徳島県,1699,LKAR,徳島県,2633,MIZZET,徳島県
-GOLD,Fascination MAXX,727,768BH,徳島県,1592,RIN5*,徳島県,2192,L#...Y,徳島県
+GOLD,Fascination MAXX,767,GOQURI,徳島県,1592,RIN5*,徳島県,2192,L#...Y,徳島県
 GOLD,Cyber Force,875,KBGUM1,徳島県,1773,MARU,徳島県,2327,RIN5*,徳島県
 GOLD,CROSSROAD ～Left Story～,1001,K,徳島県,1633,AREST,徳島県,2152,NIGIRI,徳島県
 GOLD,CaptivAte～誓い～,806,GLA,徳島県,1765,TAKE,徳島県,2114,LUBU,徳島県
@@ -378,13 +378,13 @@ DJ TROOPERS,エコ爺,545,RAISU,徳島県,1092,NULL,徳島県,1794,L#MELL,徳島
 DJ TROOPERS,Wanna Party?,0,,未設定,1033,ORE,徳島県,1512,L#...Y,徳島県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3007,GOQURI,徳島県
 DJ TROOPERS,Ubertreffen,916,31.25,徳島県,1501,TA.,徳島県,2445,NIGIRI,徳島県
-DJ TROOPERS,TROOPERS,628,RJ,徳島県,2196,LKAR,徳島県,2695,EDF-R,徳島県
+DJ TROOPERS,TROOPERS,628,RJ,徳島県,2196,LKAR,徳島県,2735,GOQURI,徳島県
 DJ TROOPERS,Time to Air,880,GLA,徳島県,1975,RAPPY,徳島県,2728,MIZZET,徳島県
 DJ TROOPERS,the trigger of innocence,0,,未設定,1036,LISP-L,徳島県,1840,MIZZET,徳島県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3120,LUBU,徳島県
 DJ TROOPERS,THE DEEP STRIKER,670,ZELDA,徳島県,1823,MT-P.A,徳島県,2933,L#...Y,徳島県
 DJ TROOPERS,switch,499,GLA,徳島県,1108,K,徳島県,1962,GOQURI,徳島県
-DJ TROOPERS,STEEL NEEDLE,617,KBGUM1,徳島県,1847,ORE,徳島県,2164,LUBU,徳島県
+DJ TROOPERS,STEEL NEEDLE,912,31.25,徳島県,1847,ORE,徳島県,2190,SHO!!!,徳島県
 DJ TROOPERS,State Of The Art,992,HIFUMI,徳島県,1215,HIFUMI,徳島県,3031,RIN5*,徳島県
 DJ TROOPERS,SOUND OF GIALLARHORN,666,KBGUM1,徳島県,2474,LKAR,徳島県,3013,96S,徳島県
 DJ TROOPERS,scar in the earth,486,GLA,徳島県,677,RJ,徳島県,1468,NIGIRI,徳島県
@@ -413,7 +413,7 @@ DJ TROOPERS,Digitank System,575,KBGUM1,徳島県,1297,TKSRNZ,徳島県,2000,MIZZ
 DJ TROOPERS,Dazzlin' Darlin,341,PRENAL,徳島県,1161,CHIYO,徳島県,2196,MIZZET,徳島県
 DJ TROOPERS,Darling my LUV,246,PRENAL,徳島県,460,RAISU,徳島県,1339,L#MELL,徳島県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3129,RIN5*,徳島県
-DJ TROOPERS,Blue Rain,700,CHIYO,徳島県,1384,AKE,徳島県,2084,LUBU,徳島県
+DJ TROOPERS,Blue Rain,700,CHIYO,徳島県,1384,AKE,徳島県,2096,AOBRNK,徳島県
 DJ TROOPERS,beatonic nation,968,GLA,徳島県,1738,AREST,徳島県,2034,RAPPY,徳島県
 DJ TROOPERS,Be OK,0,,未設定,1358,K,徳島県,2214,LUBU,徳島県
 DJ TROOPERS,avant-guerre,468,YASUO#,徳島県,1042,TKSRNZ,徳島県,1881,L#...Y,徳島県
@@ -440,7 +440,7 @@ EMPRESS,SOLITON BEAM,649,KBGUM1,徳島県,2013,LKAR,徳島県,2237,L#...Y,徳島
 EMPRESS,smooooch・∀・,686,RINNE,徳島県,1591,RAPPY,徳島県,2054,NIGIRI,徳島県
 EMPRESS,Secrets,643,KBGUM1,徳島県,2262,LKAR,徳島県,2987,RIN5*,徳島県
 EMPRESS,Queen's Tragedy,0,,未設定,1558,AREST,徳島県,2085,IIDX26,徳島県
-EMPRESS,Punch Love 仮面,0,,未設定,1577,AREST,徳島県,2482,L#...Y,徳島県
+EMPRESS,Punch Love 仮面,873,MISTY*,徳島県,1577,AREST,徳島県,2482,L#...Y,徳島県
 EMPRESS,Programmed World,594,GLA,徳島県,1718,LKAR,徳島県,2197,NIGIRI,徳島県
 EMPRESS,NΦ CRIME,657,GLA,徳島県,843,KBGUM1,徳島県,1793,12EX27,徳島県
 EMPRESS,neogenesis,734,GLA,徳島県,1061,TIKUWA,徳島県,1669,NIGIRI,徳島県
@@ -465,7 +465,7 @@ EMPRESS,BITTER CHOCOLATE STRIKER,900,TIKUWA,徳島県,1967,RAPPY,徳島県,3624,
 EMPRESS,Bahram Attack-猫叉Master Remix-,790,GLA,徳島県,1818,AREST,徳島県,2508,GOQURI,徳島県
 EMPRESS,B4U(BEMANI FOR YOU MIX),919,MISTY*,徳島県,2099,RAPPY,徳島県,3163,LUBU,徳島県
 EMPRESS,Arabian Rave Night,1116,TIKUWA,徳島県,2098,FELMA,徳島県,2823,MIZZET,徳島県
-EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,703,KZY221,徳島県,1753,LKAR,徳島県,2262,LUBU,徳島県
+EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,751,MISTY*,徳島県,1753,LKAR,徳島県,2262,LUBU,徳島県
 EMPRESS,ALL I NEED YOUR LOVE,889,TIKUWA,徳島県,1399,DESUNO,徳島県,1957,LKAR,徳島県
 EMPRESS,3y3s,1332,KIRIN,徳島県,2458,RIN5*,徳島県,3374,L#...Y,徳島県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",395,GLA,徳島県,1216,K,徳島県,2002,RIN5*,徳島県
@@ -528,7 +528,7 @@ Resort Anthem,夕焼け ～Fading Day～,852,K,徳島県,1933,LKAR,徳島県,268
 Resort Anthem,中華急行,302,TAKA*,徳島県,1467,RAPPY,徳島県,2236,MIZZET,徳島県
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,0,,未設定,1196,AREST,徳島県,1842,L#MELL,徳島県
 Resort Anthem,おおきなこえで,289,DX.CL,徳島県,815,HIFUMI,徳島県,1473,L#...Y,徳島県
-Resort Anthem,ZETA～素数の世界と超越者～,478,GLA,徳島県,1680,SHIA,徳島県,2764,96S,徳島県
+Resort Anthem,ZETA～素数の世界と超越者～,478,GLA,徳島県,1680,SHIA,徳島県,2917,GOQURI,徳島県
 Resort Anthem,XANADU OF TWO,723,ZEITA9,徳島県,1684,INC,徳島県,2677,L#...Y,徳島県
 Resort Anthem,Wuv U,375,D-A,徳島県,1107,LEON,徳島県,1702,L#...Y,徳島県
 Resort Anthem,WISE UP!,297,PRENAL,徳島県,943,768BH,徳島県,1577,L#...Y,徳島県
@@ -575,7 +575,7 @@ Resort Anthem,Broken,921,MOMA,徳島県,1966,INC,徳島県,3062,RIN5*,徳島県
 Resort Anthem,Breaking the ground,920,KZETTM,徳島県,1644,ORE,徳島県,2462,L#...Y,徳島県
 Resort Anthem,Bounce Bounce Bounce,318,PRENAL,徳島県,1568,AREST,徳島県,2324,L#...Y,徳島県
 Resort Anthem,BLUST OF WIND,0,,未設定,1329,RICH,徳島県,1944,12EX27,徳島県
-Resort Anthem,Believe In Me,0,,未設定,1713,EDF-R,徳島県,2283,RIN5*,徳島県
+Resort Anthem,Believe In Me,649,KA,徳島県,1713,EDF-R,徳島県,2283,RIN5*,徳島県
 Resort Anthem,ANTHEM LANDING,781,K,徳島県,1768,AKE,徳島県,2846,NIGIRI,徳島県
 Resort Anthem,Answer,0,,未設定,1125,TIKUWA,徳島県,2274,LKAR,徳島県
 Resort Anthem,ALBIDA,833,GLA,徳島県,1868,AOBRNK,徳島県,2692,LUBU,徳島県
@@ -595,7 +595,7 @@ Lincle,Yellow Sunrise,414,PRENAL,徳島県,1224,ARES,徳島県,2107,DCMINI,徳�
 Lincle,yellow head joe,618,ES,徳島県,1433,FEN!,徳島県,2155,RIN5*,徳島県
 Lincle,YAKSHA,816,GALE,徳島県,2189,12EX27,徳島県,3407,GOQURI,徳島県
 Lincle,WONDER WALKER,584,GLIA,徳島県,1843,FEN!,徳島県,3663,RIN5*,徳島県
-Lincle,Voxane,240,PRENAL,徳島県,850,KZY221,徳島県,1727,L#...Y,徳島県
+Lincle,Voxane,480,TIKUWA,徳島県,850,KZY221,徳島県,1727,L#...Y,徳島県
 Lincle,Todestrieb,1066,CHI*,徳島県,1821,LKAR,徳島県,3292,NIGIRI,徳島県
 Lincle,TITANS RETURN,459,RAISU,徳島県,1231,AAAAAA,徳島県,2125,12EX27,徳島県
 Lincle,Thunderbolt,696,KBGUM1,徳島県,1829,LKAR,徳島県,3465,RIN5*,徳島県
@@ -624,7 +624,7 @@ Lincle,Lucky Days,500,DX.CL,徳島県,1216,MARU.R,徳島県,2176,L#...Y,徳島�
 Lincle,LOVE B.B.B,520,MOB,徳島県,1420,AREST,徳島県,1880,MARU,徳島県
 Lincle,Liquid Crystal Girl feat. echo,348,TIKUWA,徳島県,1020,HIFUMI,徳島県,1901,12EX27,徳島県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,704,GALE,徳島県,1577,LKAR,徳島県,2143,NIGIRI,徳島県
-Lincle,LAX5 feat.Ryota Yoshinari,0,,未設定,1874,TA.,徳島県,2804,L#...Y,徳島県
+Lincle,LAX5 feat.Ryota Yoshinari,0,,未設定,1885,TA.,徳島県,2804,L#...Y,徳島県
 Lincle,Infinite cave,762,GLA,徳島県,1372,5039EX,徳島県,1952,GOQURI,徳島県
 Lincle,In the Blackest Den,602,GALE,徳島県,1289,QUE,徳島県,2508,L#...Y,徳島県
 Lincle,I'm so Happy,316,HIYOKO,徳島県,1289,ORE,徳島県,2087,LUBU,徳島県
@@ -676,7 +676,7 @@ tricoro,VALLIS-NERIA,953,768BH,徳島県,1873,TAKU#F,徳島県,2669,IIDX26,徳�
 tricoro,Valanga,1132,MERURU,徳島県,1972,FIN,徳島県,3141,L#...Y,徳島県
 tricoro,True Blue,745,GLA,徳島県,2408,AOBRNK,徳島県,3595,RIN5*,徳島県
 tricoro,To my star,0,,未設定,0,,未設定,1666,12EX27,徳島県
-tricoro,Timepiece phase II (CN Ver.),568,AZI3,徳島県,1433,PIRO.2,徳島県,2536,NIGIRI,徳島県
+tricoro,Timepiece phase II (CN Ver.),568,AZI3,徳島県,1500,TA.,徳島県,2536,NIGIRI,徳島県
 tricoro,Timepiece phase II,921,CHIYO,徳島県,1715,AKE,徳島県,2527,EMITZ,徳島県
 tricoro,Time To Empress,0,,未設定,1829,FEN!,徳島県,2594,L#...Y,徳島県
 tricoro,Thor's Hammer,0,,未設定,1517,TAKE,徳島県,2706,L#...Y,徳島県
@@ -704,9 +704,9 @@ tricoro,Neonlights,0,,未設定,1318,HIFUMI,徳島県,2136,CROSS,徳島県
 tricoro,mnemoniq,0,,未設定,513,AZI3,徳島県,1266,MIZZET,徳島県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2493,12EX27,徳島県
 tricoro,LUV CAN SAVE U,481,TIKUWA,徳島県,982,RYOMA,徳島県,2000,U6NCHA,徳島県
-tricoro,Little Star,717,KBGUM1,徳島県,1612,DESUNO,徳島県,2955,NIGIRI,徳島県
+tricoro,Little Star,799,MISTY*,徳島県,1612,DESUNO,徳島県,2955,NIGIRI,徳島県
 tricoro,Light and Cyber…,0,,未設定,1739,LEON,徳島県,3002,RIN5*,徳島県
-tricoro,Liberation,1374,K83,徳島県,1979,LEON,徳島県,3311,AOBRNK,徳島県
+tricoro,Liberation,1374,K83,徳島県,1979,LEON,徳島県,3460,GOQURI,徳島県
 tricoro,JOMANDA,1042,AREST,徳島県,1907,MIX,徳島県,3292,NIGIRI,徳島県
 tricoro,In Heaven,624,GLA,徳島県,1328,SKCHZK,徳島県,2039,GOQURI,徳島県
 tricoro,Illegal Function Call,646,AZI3,徳島県,1684,96S,徳島県,2392,CROSS,徳島県
@@ -714,7 +714,7 @@ tricoro,ILIAS,506,KBGUM1,徳島県,894,KBGUM1,徳島県,2167,L#...Y,徳島県
 tricoro,I know You know,0,,未設定,1169,L#...Y,徳島県,1737,MARU,徳島県
 tricoro,Howling†,0,,未設定,0,,未設定,2509,MIZZET,徳島県
 tricoro,Howling,434,BA?*-!,徳島県,1141,ESIZON,徳島県,1825,AREST,徳島県
-tricoro,Hollywood Galaxy,620,KBGUM1,徳島県,1746,TAKE,徳島県,2482,RIN5*,徳島県
+tricoro,Hollywood Galaxy,627,GLIA,徳島県,1746,TAKE,徳島県,2482,RIN5*,徳島県
 tricoro,GRADIUS 2012,680,LEAF,徳島県,1301,RIB,徳島県,2442,RAPPY,徳島県
 tricoro,GAIA,959,DESUNO,徳島県,2047,LKAR,徳島県,3182,L#...Y,徳島県
 tricoro,Fly you to the star,633,ZEITA9,徳島県,1478,AKE,徳島県,2145,U6NCHA,徳島県
@@ -746,7 +746,7 @@ SPADA,廿†,0,,未設定,0,,未設定,2994,GOQURI,徳島県
 SPADA,廿,775,TIKUWA,徳島県,1318,KISHI,徳島県,2280,CROSS,徳島県
 SPADA,幻想系世界修復少女,510,YASUO#,徳島県,1001,MERURU,徳島県,1848,LUBU,徳島県
 SPADA,バンブーソード・ガール,771,YASUO#,徳島県,1584,ORE,徳島県,2121,96S,徳島県
-SPADA,デッドボヲルdeホームラン,400,ZEITA9,徳島県,1412,MOMA,徳島県,2561,NIGIRI,徳島県
+SPADA,デッドボヲルdeホームラン,523,TIKUWA,徳島県,1412,MOMA,徳島県,2561,NIGIRI,徳島県
 SPADA,アルストロメリア,706,GLA,徳島県,1357,RICH,徳島県,2263,FEN!,徳島県
 SPADA,お願いアインシュタイン,0,,未設定,822,MISTY*,徳島県,2047,NIGIRI,徳島県
 SPADA,Wonder Girl feat. Kanae Asaba,366,ZEITA9,徳島県,745,MISTY*,徳島県,2725,L#...Y,徳島県
@@ -767,7 +767,7 @@ SPADA,Recollection,0,,未設定,0,,未設定,2126,12EX27,徳島県
 SPADA,rainbow guitar weeps,900,MARU.R,徳島県,1779,PEI,徳島県,2674,L#...Y,徳島県
 SPADA,ra'am,669,GINITY,徳島県,1595,LOTE,徳島県,2304,LUBU,徳島県
 SPADA,PUNISHER,0,,未設定,1531,NA,徳島県,3306,GOQURI,徳島県
-SPADA,Pharaoh,0,,未設定,1189,AL,徳島県,2349,RIN5*,徳島県
+SPADA,Pharaoh,493,TIKUWA,徳島県,1189,AL,徳島県,2349,RIN5*,徳島県
 SPADA,Overload Frontier,0,,未設定,1540,KIRIN,徳島県,2394,NIGIRI,徳島県
 SPADA,Odin,0,,未設定,791,RYOMA,徳島県,1992,NIGIRI,徳島県
 SPADA,NPC World,693,GINITY,徳島県,1239,HIFUMI,徳島県,2190,MIZZET,徳島県
@@ -779,7 +779,7 @@ SPADA,M.D.Injection,0,,未設定,0,,未設定,2333,NIGIRI,徳島県
 SPADA,Lighting Shower,0,,未設定,1171,KIRIN,徳島県,2159,LUBU,徳島県
 SPADA,Last Dance,426,KBGUM1,徳島県,1810,12EX27,徳島県,2812,LUBU,徳島県
 SPADA,LA FESTA LA VITA!!,626,KBGUM1,徳島県,1565,LEON,徳島県,2760,MIZZET,徳島県
-SPADA,KHAMEN BREAK,491,TIKUWA,徳島県,1290,FUCHY,徳島県,2190,LUBU,徳島県
+SPADA,KHAMEN BREAK,491,TIKUWA,徳島県,1290,FUCHY,徳島県,2310,GOQURI,徳島県
 SPADA,KAISER PHOENIX,1214,DESUNO,徳島県,2008,FEN!,徳島県,2963,NIGIRI,徳島県
 SPADA,IX,943,CHIYO,徳島県,2189,RAPPY,徳島県,3671,L#...Y,徳島県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3097,LUBU,徳島県
@@ -791,7 +791,7 @@ SPADA,Immortal,0,,未設定,1499,TATO2,徳島県,2838,GOQURI,徳島県
 SPADA,Idola,989,CHIYO,徳島県,1991,R-18,徳島県,3394,NIGIRI,徳島県
 SPADA,I will be back -オレは帰ってきた-,774,KZY221,徳島県,1681,KIRIN,徳島県,2766,MIZZET,徳島県
 SPADA,Hypersonik,0,,未設定,1559,R-18,徳島県,2446,L#...Y,徳島県
-SPADA,HYENA,759,AZI3,徳島県,1479,341,徳島県,2654,MIZZET,徳島県
+SPADA,HYENA,780,DAISON,徳島県,1479,341,徳島県,2654,MIZZET,徳島県
 SPADA,Funny shuffle,306,PRENAL,徳島県,1023,HIFUMI,徳島県,2171,NIGIRI,徳島県
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,3870,NIGIRI,徳島県
 SPADA,Feel The Beat,859,RYOMA,徳島県,1919,MIX,徳島県,3309,NIGIRI,徳島県
@@ -818,7 +818,7 @@ SPADA,Ancient Scapes,730,KBGUM1,徳島県,1766,DCMINI,徳島県,3226,NIGIRI,徳�
 SPADA,ALBA -黎明-,514,AXWXD,徳島県,1245,K,徳島県,3038,NIGIRI,徳島県
 SPADA,Adularia,667,RYOMA,徳島県,1682,12EX27,徳島県,2649,NIGIRI,徳島県
 PENDUAL,Ｘ↑Ｘ↓,597,SOUKA,徳島県,1407,ESIZON,徳島県,2644,LUBU,徳島県
-PENDUAL,鬼天,742,E7&W7,徳島県,1303,KIRIN,徳島県,2272,GOQURI,徳島県
+PENDUAL,鬼天,742,E7&W7,徳島県,1372,TA.,徳島県,2272,GOQURI,徳島県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3744,RIN5*,徳島県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,773,KZY221,徳島県,1969,MIZZET,徳島県,2632,L#...Y,徳島県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,769,HIBATI,徳島県,1885,5039EX,徳島県,3370,NIGIRI,徳島県
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,768,GLA,徳島県,1459,BECE,徳島県,
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,554,RUE,徳島県,1801,PETZ4,徳島県,2764,LUBU,徳島県
 PENDUAL,取り残された美術(Arranged:HiZuMi),836,GLA,徳島県,1516,AKE,徳島県,2128,NIGIRI,徳島県
 PENDUAL,千年ノ理,1109,AREST,徳島県,1803,FEN!,徳島県,3092,RIN5*,徳島県
-PENDUAL,十六夜セツナ,714,DAISON,徳島県,1399,K,徳島県,2197,L#...Y,徳島県
+PENDUAL,十六夜セツナ,822,MISTY*,徳島県,1399,K,徳島県,2197,L#...Y,徳島県
 PENDUAL,共鳴遊戯の華,1141,K,徳島県,2187,12EX27,徳島県,3550,L#...Y,徳島県
 PENDUAL,リリーゼと炎龍レーヴァテイン,818,E7&W7,徳島県,2173,RAPPY,徳島県,3287,L#...Y,徳島県
 PENDUAL,ベィスドロップ・フリークス,496,RAISU,徳島県,1134,SHIA,徳島県,2195,L#...Y,徳島県
@@ -859,7 +859,7 @@ PENDUAL,Scars of FAUNA,695,RINNE,徳島県,1548,PIRO.2,徳島県,2750,NIGIRI,徳
 PENDUAL,Scarlet Moon,814,ZEITA9,徳島県,1401,341,徳島県,2621,NIGIRI,徳島県
 PENDUAL,Say YEEEAHH,951,31.25,徳島県,1658,R-18,徳島県,2880,LUBU,徳島県
 PENDUAL,SAMSARA,0,,未設定,1303,DESUNO,徳島県,1925,RAPPY,徳島県
-PENDUAL,Sakura Mirage,990,LKAR,徳島県,1266,BECE,徳島県,2111,LUBU,徳島県
+PENDUAL,Sakura Mirage,990,LKAR,徳島県,1266,BECE,徳島県,2150,GOQURI,徳島県
 PENDUAL,Reflux,636,TIKUWA,徳島県,1541,12EX27,徳島県,2897,L#...Y,徳島県
 PENDUAL,Realize Maze,903,AXWXD,徳島県,1823,LEON,徳島県,2863,MIZZET,徳島県
 PENDUAL,Rave*it!! Rave*it!!,648,DAISON,徳島県,1568,MT-P.A,徳島県,2976,NIGIRI,徳島県
@@ -908,7 +908,7 @@ PENDUAL,Beyond The Earth,885,GLA,徳島県,1846,TAKE,徳島県,3079,L#...Y,徳�
 PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3334,96S,徳島県
 PENDUAL,Beat Radiance,559,GGGGGG,徳島県,1337,TIKUWA,徳島県,2490,12EX27,徳島県
 PENDUAL,Amnolys,609,AXWXD,徳島県,1415,K,徳島県,2448,LUBU,徳島県
-PENDUAL,AFRO KNUCKLE,722,RYOMA,徳島県,1276,CHIYO,徳島県,2292,NIGIRI,徳島県
+PENDUAL,AFRO KNUCKLE,722,RYOMA,徳島県,1392,AZU*,徳島県,2292,NIGIRI,徳島県
 PENDUAL,#The_Relentless,499,RUE,徳島県,1821,AREST,徳島県,2758,MIZZET,徳島県
 copula,麗 ～うらら～,793,DAISON,徳島県,1654,96S,徳島県,2495,NIGIRI,徳島県
 copula,駅猫のワルツ,788,YASUO#,徳島県,2087,L#...Y,徳島県,2600,L#...Y,徳島県
@@ -996,7 +996,7 @@ copula,Arcana,877,AXWXD,徳島県,1113,ESIZON,徳島県,2202,NIGIRI,徳島県
 copula,AO-1,803,KZY221,徳島県,1813,FEN!,徳島県,2546,NIGIRI,徳島県
 copula,Angelic Jelly,861,LEUCIS,徳島県,1818,TAKA*,徳島県,2494,LUBU,徳島県
 copula,Acid Pumper,0,,未設定,1467,TAKE,徳島県,2310,MIZZET,徳島県
-copula,199024club -Re:BounceKiller-,531,KBGUM1,徳島県,1574,EDF-R,徳島県,2132,MIZZET,徳島県
+copula,199024club -Re:BounceKiller-,607,K,徳島県,1574,EDF-R,徳島県,2132,MIZZET,徳島県
 SINOBUZ,鴉,1152,TIKUWA,徳島県,2115,EDF-R,徳島県,2564,NIGIRI,徳島県
 SINOBUZ,童話回廊,887,ORE,徳島県,1510,LOTE,徳島県,2633,GOQURI,徳島県
 SINOBUZ,禍根,694,HIFUMI,徳島県,1304,RAPPY,徳島県,2251,AOBRNK,徳島県
@@ -1006,7 +1006,7 @@ SINOBUZ,炎影,531,YASUO#,徳島県,1259,12EX27,徳島県,2560,L#...Y,徳島県
 SINOBUZ,津軽雪,1261,HIFUMI,徳島県,2105,LKAR,徳島県,3679,L#...Y,徳島県
 SINOBUZ,次葉 -turn the page-,656,DAISON,徳島県,1383,RYOHEI,徳島県,1936,NIGIRI,徳島県
 SINOBUZ,月雪に舞う華のように,555,HIFUMI,徳島県,1022,CHIYO,徳島県,1967,12EX27,徳島県
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,896,HIFUMI,徳島県,1293,TKSRNZ,徳島県,2386,NIGIRI,徳島県
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,896,HIFUMI,徳島県,1398,6RA9MO,徳島県,2386,NIGIRI,徳島県
 SINOBUZ,忍恋花,701,MISTY*,徳島県,1489,R-18,徳島県,2063,NIGIRI,徳島県
 SINOBUZ,刃図羅,1071,HIFUMI,徳島県,1952,12EX27,徳島県,3149,NIGIRI,徳島県
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2968,L#...Y,徳島県
@@ -1015,7 +1015,7 @@ SINOBUZ,九尾狐夜行,698,YASUO#,徳島県,1506,AL,徳島県,2615,96S,徳島�
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,617,31.25,徳島県,1263,K83,徳島県,2136,LKAR,徳島県
 SINOBUZ,イザナミノナゲキ,1082,HIFUMI,徳島県,1831,AREST,徳島県,3157,L#...Y,徳島県
 SINOBUZ,ちらちら・はらはら,382,DESUNO,徳島県,777,YASUO#,徳島県,1407,CBR650,徳島県
-SINOBUZ,お命ちょうDAI！901娘,0,,未設定,1410,MERURU,徳島県,2226,MIZZET,徳島県
+SINOBUZ,お命ちょうDAI！901娘,508,KA,徳島県,1410,MERURU,徳島県,2226,MIZZET,徳島県
 SINOBUZ,〆,971,HIFUMI,徳島県,2123,LKAR,徳島県,3385,NIGIRI,徳島県
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),634,HIFUMI,徳島県,1505,TA.,徳島県,2447,12EX27,徳島県
 SINOBUZ,yamabiko (SINOBUZ Edition),816,HIFUMI,徳島県,1570,RIN5*,徳島県,2477,NIGIRI,徳島県
@@ -1046,7 +1046,7 @@ SINOBUZ,Sarutobi Champion is 拙者,639,KZY221,徳島県,1247,NEMO,徳島県,171
 SINOBUZ,SAMURAI-Scramble,762,HIFUMI,徳島県,1551,RAPPY,徳島県,2292,L#...Y,徳島県
 SINOBUZ,ROTTERDAM SHOGUN,1032,K83,徳島県,1494,QUE,徳島県,2458,NIGIRI,徳島県
 SINOBUZ,RISING FIRE HAWK,760,HIFUMI,徳島県,1392,REEVE,徳島県,2460,LUBU,徳島県
-SINOBUZ,Remedy feat. Kanae Asaba,724,YASUO#,徳島県,1209,31.25,徳島県,1958,AKI,徳島県
+SINOBUZ,Remedy feat. Kanae Asaba,724,YASUO#,徳島県,1209,31.25,徳島県,2044,AOBRNK,徳島県
 SINOBUZ,Rave Cannon,900,HIFUMI,徳島県,1758,12EX27,徳島県,3241,L#...Y,徳島県
 SINOBUZ,RAIN,1022,HIFUMI,徳島県,1688,PETZ4,徳島県,3099,L#...Y,徳島県
 SINOBUZ,Quakes,937,HIFUMI,徳島県,1914,LOTE,徳島県,2857,NIGIRI,徳島県
@@ -1060,7 +1060,7 @@ SINOBUZ,Modular Technology,675,GALE,徳島県,1734,TKSRNZ,徳島県,2197,12EX27,
 SINOBUZ,Mare Nectaris,1280,TKSRNZ,徳島県,2017,CROSS,徳島県,3304,NIGIRI,徳島県
 SINOBUZ,Magical,484,ZEITA9,徳島県,685,KUROS,徳島県,1974,L#...Y,徳島県
 SINOBUZ,Macuilxochitl,1097,HIFUMI,徳島県,2042,RAPPY,徳島県,2836,FIN,徳島県
-SINOBUZ,Lost wing at.0,856,ORE,徳島県,1276,AREST,徳島県,2200,AOBRNK,徳島県
+SINOBUZ,Lost wing at.0,856,ORE,徳島県,1276,AREST,徳島県,2213,AOBRNK,徳島県
 SINOBUZ,INVISIBLE STRIX,978,HIFUMI,徳島県,1791,R-18,徳島県,2517,MIZZET,徳島県
 SINOBUZ,Honey Trap,712,HIFUMI,徳島県,1513,R-18,徳島県,2400,MIZZET,徳島県
 SINOBUZ,HAPPY★RUSH,660,HIFUMI,徳島県,1563,KIRIN,徳島県,2621,LUBU,徳島県
@@ -1068,7 +1068,7 @@ SINOBUZ,HADES,876,HIFUMI,徳島県,1752,LKAR,徳島県,2833,MIZZET,徳島県
 SINOBUZ,GuNGNiR,1194,HIFUMI,徳島県,2363,AOBRNK,徳島県,3682,L#...Y,徳島県
 SINOBUZ,Go Ahead!!,783,KISHI,徳島県,1423,12EX27,徳島県,2562,L#...Y,徳島県
 SINOBUZ,FUZIN RIZIN,1109,HIFUMI,徳島県,1836,AREST,徳島県,3612,L#...Y,徳島県
-SINOBUZ,elemental bender feat. Kanae Asaba,135,RENA,徳島県,653,MYK,徳島県,1586,NIGIRI,徳島県
+SINOBUZ,elemental bender feat. Kanae Asaba,541,TIKUWA,徳島県,653,MYK,徳島県,1586,NIGIRI,徳島県
 SINOBUZ,Egret and Willow,848,HIFUMI,徳島県,1531,AREST,徳島県,2621,NIGIRI,徳島県
 SINOBUZ,ECHIDNA,932,HIFUMI,徳島県,2002,CROSS,徳島県,3160,L#...Y,徳島県
 SINOBUZ,DORNWALD ～Junge～,1107,HIFUMI,徳島県,2062,12EX27,徳島県,3335,NIGIRI,徳島県
@@ -1093,7 +1093,7 @@ SINOBUZ,Amazing Mirage,609,AXWXD,徳島県,1536,R-18,徳島県,2470,NIGIRI,徳�
 SINOBUZ,Affection,501,TIKUWA,徳島県,1189,LKAR,徳島県,1957,12EX27,徳島県
 SINOBUZ,(This Is Not) The Angels,519,NEMO,徳島県,1362,LKAR,徳島県,2604,L#...Y,徳島県
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,916,RYOMA,徳島県,1897,ITALY3,徳島県,3236,L#...Y,徳島県
-SINOBUZ,!Viva!,626,2,徳島県,1253,QUE,徳島県,1931,NIGIRI,徳島県
+SINOBUZ,!Viva!,626,2,徳島県,1330,JOJI,徳島県,1931,NIGIRI,徳島県
 CANNON BALLERS,草原の王女-軌跡を辿って-,599,TIKUWA,徳島県,1052,RICH,徳島県,2208,NIGIRI,徳島県
 CANNON BALLERS,純真可憐デザイア,435,MISTY*,徳島県,1499,R-18,徳島県,2306,L#...Y,徳島県
 CANNON BALLERS,神謳 -RESONANCE-,1306,AREST,徳島県,2339,AREST,徳島県,3817,NIGIRI,徳島県
@@ -1126,7 +1126,7 @@ CANNON BALLERS,"Son, not gabba now",0,,未設定,1247,CHIYO,徳島県,2142,RAPPY
 CANNON BALLERS,Slipstream,984,AKI,徳島県,1936,RAPPY,徳島県,3111,LUBU,徳島県
 CANNON BALLERS,SHOX,0,,未設定,954,SKCHZK,徳島県,1513,12EX27,徳島県
 CANNON BALLERS,Rise Circuit,0,,未設定,1348,AL,徳島県,2194,CROSS,徳島県
-CANNON BALLERS,Raspberry Railgun,1278,AKI,徳島県,1879,TKSRNZ,徳島県,3052,L#...Y,徳島県
+CANNON BALLERS,Raspberry Railgun,1278,AKI,徳島県,2017,AREST,徳島県,3052,L#...Y,徳島県
 CANNON BALLERS,Rampage,966,KBGUM1,徳島県,2345,GOQURI,徳島県,3481,NIGIRI,徳島県
 CANNON BALLERS,Persephone,1066,HIFUMI,徳島県,1743,12EX27,徳島県,2803,NIGIRI,徳島県
 CANNON BALLERS,Papilio ulysses,1121,AKI,徳島県,1962,12EX27,徳島県,2612,MIZZET,徳島県
@@ -1142,14 +1142,14 @@ CANNON BALLERS,LUV DRIVE,575,LISA.,徳島県,1238,AREST,徳島県,1983,RIN5*,徳
 CANNON BALLERS,LIGHTS ft. EVO+,705,AKI,徳島県,1361,AKI,徳島県,2170,12EX27,徳島県
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",640,KBGUM1,徳島県,1817,12EX27,徳島県,3284,L#...Y,徳島県
 CANNON BALLERS,Initiation,1354,TKSRNZ,徳島県,2326,12EX27,徳島県,3699,L#...Y,徳島県
-CANNON BALLERS,Illusionary Waterlily,1232,AKI,徳島県,2068,12EX27,徳島県,2920,LUBU,徳島県
-CANNON BALLERS,I'm Coming (2017 Version),0,,未設定,992,ARES,徳島県,1927,12EX27,徳島県
+CANNON BALLERS,Illusionary Waterlily,1232,AKI,徳島県,2068,12EX27,徳島県,2932,96S,徳島県
+CANNON BALLERS,I'm Coming (2017 Version),529,TIKUWA,徳島県,992,ARES,徳島県,1927,12EX27,徳島県
 CANNON BALLERS,I Love You,713,GINITY,徳島県,1773,LKAR,徳島県,2632,RIN5*,徳島県
 CANNON BALLERS,HYPE THE CORE,923,HIFUMI,徳島県,1729,TA.,徳島県,2945,L#...Y,徳島県
 CANNON BALLERS,Hella Deep,623,EDF-R,徳島県,729,KBGUM1,徳島県,1660,12EX27,徳島県
 CANNON BALLERS,HAT TRICK,600,ZEITA9,徳島県,1308,AREST,徳島県,2155,L#...Y,徳島県
-CANNON BALLERS,Get Up! feat. Kanae Asaba,296,PRENAL,徳島県,515,ZEITA9,徳島県,1693,AREST,徳島県
-CANNON BALLERS,FUTURE is Dead,468,KBGUM1,徳島県,1279,TKSRNZ,徳島県,2060,NIGIRI,徳島県
+CANNON BALLERS,Get Up! feat. Kanae Asaba,511,TIKUWA,徳島県,943,SKCHZK,徳島県,1693,AREST,徳島県
+CANNON BALLERS,FUTURE is Dead,468,KBGUM1,徳島県,1310,6RA9MO,徳島県,2060,NIGIRI,徳島県
 CANNON BALLERS,From Time To Time,670,HIFUMI,徳島県,1743,EDF-R,徳島県,2379,NIGIRI,徳島県
 CANNON BALLERS,FREEDOM,0,,未設定,1613,AREST,徳島県,2877,L#...Y,徳島県
 CANNON BALLERS,FIRE BALL,446,RAISU,徳島県,944,SYANA,徳島県,2287,LUBU,徳島県
@@ -1178,7 +1178,7 @@ CANNON BALLERS,Antigravity,954,AKI,徳島県,1866,12EX27,徳島県,2843,L#...Y,�
 CANNON BALLERS,ANCHOR,1290,AKI,徳島県,2301,12EX27,徳島県,3319,NIGIRI,徳島県
 CANNON BALLERS,ANAGMA,0,,未設定,1185,CHIYO,徳島県,2487,CROSS,徳島県
 CANNON BALLERS,Amor De Verao,628,TIKUWA,徳島県,1268,DESUNO,徳島県,2246,L#...Y,徳島県
-CANNON BALLERS,Alpheratz,349,LEUCIS,徳島県,929,JOJI,徳島県,1965,RAPPY,徳島県
+CANNON BALLERS,Alpheratz,349,LEUCIS,徳島県,929,JOJI,徳島県,1989,12EX27,徳島県
 CANNON BALLERS,Acidiva 303,0,,未設定,1136,NA,徳島県,2247,MIZZET,徳島県
 CANNON BALLERS,ACCELERATE,834,RYOMA,徳島県,1644,AREST,徳島県,2251,AREST,徳島県
 CANNON BALLERS,Abraxas,638,RYOMA,徳島県,1502,FELMA,徳島県,2327,L#...Y,徳島県
@@ -1258,5 +1258,5 @@ Rootage,AGAiN,971,LKAR,徳島県,1536,LKAR,徳島県,2206,MIZZET,徳島県
 Rootage,A Tale Hidden In The Abyss,920,LKAR,徳島県,1654,LKAR,徳島県,2592,L#...Y,徳島県
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1215,LKAR,徳島県,1593,LKAR,徳島県,2562,L#...Y,徳島県
 Rootage,50th Memorial Songs -The BEMANI History-,1042,BECE,徳島県,1527,LKAR,徳島県,2554,L#...Y,徳島県
-Rootage,50th Memorial Songs -Flagship medley-,899,LKAR,徳島県,1391,RAPPY,徳島県,2101,RAPPY,徳島県
+Rootage,50th Memorial Songs -Flagship medley-,899,LKAR,徳島県,1394,AREST,徳島県,2101,RAPPY,徳島県
 Rootage,50th Memorial Songs -Beginning Story-,797,LKAR,徳島県,1596,LKAR,徳島県,2672,L#...Y,徳島県
