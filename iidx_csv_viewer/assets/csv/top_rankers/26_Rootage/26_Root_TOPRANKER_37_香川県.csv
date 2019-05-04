@@ -1,9 +1,9 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
 1st&substream,THE EARTH LIGHT,592,NAKA,香川県,977,TOMY,香川県,1094,RENZI,香川県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1975,RMA,香川県
-1st&substream,RUGGED ASH,352,KTZW-3,香川県,401,GO-10-,香川県,937,KANUNU,香川県
+1st&substream,RUGGED ASH,352,KTZW-3,香川県,401,GO-10-,香川県,978,KULYON,香川県
 1st&substream,R3,527,NAKA,香川県,710,TTT,香川県,886,GO-10-,香川県
-1st&substream,PARANOIA MAX～DIRTY MIX～,445,IIDX26,香川県,733,KIKYO,香川県,1093,GNSCCI,香川県
+1st&substream,PARANOIA MAX～DIRTY MIX～,531,256.,香川県,733,KIKYO,香川県,1093,GNSCCI,香川県
 1st&substream,Macho Gang,362,LCHE-U,香川県,1058,GO-10-,香川県,1593,RMA,香川県
 1st&substream,KEEP ON MOVIN',189,MATO,香川県,232,KYLE.A,香川県,0,,未設定
 1st&substream,GRADIUSIC CYBER,616,SHELA,香川県,932,H1RO,香川県,1139,73K,香川県
@@ -214,7 +214,7 @@ IIDX RED,Wonder Bullfighter,0,,未設定,1373,*AINA*,香川県,1972,RMA,香川�
 IIDX RED,The Hope of Tomorrow,823,NAKA,香川県,1463,NAGISA,香川県,1933,RMA,香川県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3705,ENBRY,香川県
 IIDX RED,spiral galaxy,795,JAM.M,香川県,1916,TOMY,香川県,2484,GNSCCI,香川県
-IIDX RED,Sphere,762,NAKA,香川県,1628,MAPLE,香川県,2128,ENBRY,香川県
+IIDX RED,Sphere,762,NAKA,香川県,1628,MAPLE,香川県,2166,ENBRY,香川県
 IIDX RED,SPEEDY CAT,859,NAKA,香川県,1568,TOMY,香川県,1970,GO-10-,香川県
 IIDX RED,Secret of Love,683,NAKA,香川県,878,JAM.M,香川県,1989,ENBRY,香川県
 IIDX RED,RESONATE 1794,748,JAM.M,香川県,1355,NAGISA,香川県,1859,RMA,香川県
@@ -225,12 +225,12 @@ IIDX RED,NEBULA GRASPER,1270,MAGURO,香川県,1677,TOMY,香川県,2446,RMA,香�
 IIDX RED,KEY,923,KAMURA,香川県,1739,TOMY,香川県,2790,RENZI,香川県
 IIDX RED,HORIZON,782,LASK.,香川県,1457,TOMY,香川県,1887,TM,香川県
 IIDX RED,gigadelic,1305,AJIMI,香川県,2073,GNSCCI,香川県,2370,WF*,香川県
-IIDX RED,GENOCIDE,894,ARIA,香川県,1931,LCHE-U,香川県,2238,LL,香川県
+IIDX RED,GENOCIDE,894,ARIA,香川県,1931,LCHE-U,香川県,2332,ENBRY,香川県
 IIDX RED,Fly Away To India,388,IIDX26,香川県,666,JATTO,香川県,1326,M-2-BR,香川県
 IIDX RED,FAKE TIME,90,104,香川県,1669,TM,香川県,2289,RMA,香川県
 IIDX RED,earth scape,227,K,香川県,724,TKHIME,香川県,1238,TOMYZ,香川県
 IIDX RED,Don't be afraid myself,709,NAKA,香川県,1835,M-2-BR,香川県,2201,TSRM,香川県
-IIDX RED,D.A.N.C.E.!,435,SHELA,香川県,813,JACK,香川県,1522,TM,香川県
+IIDX RED,D.A.N.C.E.!,435,SHELA,香川県,813,JACK,香川県,1540,TT,香川県
 IIDX RED,Close my Eyes for Me,740,NAKA,香川県,1357,JACK,香川県,1727,GO-10-,香川県
 IIDX RED,Click Again,620,NAKA,香川県,1281,MEG,香川県,1962,RENZI,香川県
 IIDX RED,BREATH,859,TOMY,香川県,1096,J877,香川県,1604,TOMYZ,香川県
@@ -285,7 +285,7 @@ HAPPY SKY,alla turca con passione,574,NAKA,香川県,1462,TOMY,香川県,2113,M-
 HAPPY SKY,Agnus Dei,694,NAKA,香川県,1505,KURYON,香川県,2054,RMA,香川県
 HAPPY SKY,100％ minimoo-G,700,NAKA,香川県,1435,TOMY,香川県,1685,RMA,香川県
 DistorteD,虹色,689,NAKA,香川県,1449,TOMY,香川県,1761,TOMYZ,香川県
-DistorteD,華蝶風雪,970,KAMURA,香川県,1988,NAGISA,香川県,2954,ENBRY,香川県
+DistorteD,華蝶風雪,970,KAMURA,香川県,2008,KANUNU,香川県,2954,ENBRY,香川県
 DistorteD,罠,518,KMTN.,香川県,1408,TOMY,香川県,2430,ENBRY,香川県
 DistorteD,嘆きの樹,1678,KTZW-3,香川県,2346,LCHE-U,香川県,3804,RMA,香川県
 DistorteD,タシカナモノ,804,SHELA,香川県,1356,TOMY,香川県,2000,GNSCCI,香川県
@@ -301,20 +301,20 @@ DistorteD,tripping contact(teranoid&MC Natsack Remix),817,NAKA,香川県,1586,HA
 DistorteD,This is Love,691,NAKA,香川県,1749,M-2-BR,香川県,2424,GNSCCI,香川県
 DistorteD,The Dirty of Loudness,1355,TOMY,香川県,2033,Y.AO-1,香川県,2526,WF*,香川県
 DistorteD,Sun Field,412,NAKA,香川県,1301,4770MA,香川県,2430,RMA,香川県
-DistorteD,So Fabulous !!,893,SHELA,香川県,1471,73K,香川県,2318,ENBRY,香川県
+DistorteD,So Fabulous !!,893,SHELA,香川県,1483,KANUNU,香川県,2318,ENBRY,香川県
 DistorteD,Power of Love,775,BAGO,香川県,1615,KIKYO,香川県,2024,M-2-BR,香川県
 DistorteD,MOON,705,NAKA,香川県,1925,KT-BEL,香川県,2166,ENBRY,香川県
 DistorteD,MINT,667,NAKA,香川県,1727,M-2-BR,香川県,2261,TT,香川県
 DistorteD,Melody Life,633,NAKA,香川県,1273,TOMY,香川県,1783,NA,香川県
 DistorteD,Leaving...,553,NAKA,香川県,1337,KIKYO,香川県,2183,RMA,香川県
-DistorteD,INFERNO,0,,未設定,0,,未設定,1931,GO-10-,香川県
+DistorteD,INFERNO,0,,未設定,1385,SERIKA,香川県,1943,GO-10-,香川県
 DistorteD,Heavenly Sun (IIDX VERSION),642,NAKA,香川県,1505,NAGISA,香川県,2085,WL1,香川県
 DistorteD,Harmony and Lovely,786,ARIA,香川県,1649,TOMY,香川県,2202,GO-10-,香川県
 DistorteD,Ganymede,795,JAM.M,香川県,1452,TOMY,香川県,2256,RMA,香川県
 DistorteD,EURO-ROMANCE,904,73K,香川県,1722,73K,香川県,2080,RMA,香川県
 DistorteD,DUE TOMORROW,595,4KEMU,香川県,1373,GO-10-,香川県,2018,RMA,香川県
 DistorteD,Double Loving Heart,554,TTT,香川県,1295,KIKYO,香川県,1781,TT,香川県
-DistorteD,D.C.fish,0,,未設定,1794,*AINA*,香川県,2301,WF*,香川県
+DistorteD,D.C.fish,0,,未設定,1794,*AINA*,香川県,2318,ENBRY,香川県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2737,ENBRY,香川県
 DistorteD,CONTRACT,1131,HPKN-2,香川県,1490,KT-BEL,香川県,1980,GNSCCI,香川県
 DistorteD,Concertino in Blue,648,8.9,香川県,1470,DAHLIA,香川県,2309,RENZI,香川県
@@ -412,7 +412,7 @@ DJ TROOPERS,Do it!! Do it!!,629,FUCA3*,香川県,1484,LCHE-U,香川県,1895,RMA,
 DJ TROOPERS,Digitank System,691,8.9,香川県,1585,RMA,香川県,2076,TT,香川県
 DJ TROOPERS,Dazzlin' Darlin,733,NAKA,香川県,1361,34.*S2,香川県,2221,GO-10-,香川県
 DJ TROOPERS,Darling my LUV,0,,未設定,620,JATTO,香川県,1355,GO-10-,香川県
-DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3224,ENBRY,香川県
+DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3229,ENBRY,香川県
 DJ TROOPERS,Blue Rain,809,NAKA,香川県,1467,TOMY,香川県,2213,ENBRY,香川県
 DJ TROOPERS,beatonic nation,1070,LASK.,香川県,1721,TOMY,香川県,2119,GNSCCI,香川県
 DJ TROOPERS,Be OK,737,NAKA,香川県,1630,73K,香川県,2302,LCHE-U,香川県
@@ -467,7 +467,7 @@ EMPRESS,B4U(BEMANI FOR YOU MIX),1170,TOMY,香川県,2317,GNSCCI,香川県,3418,G
 EMPRESS,Arabian Rave Night,1066,X10A,香川県,2078,NAGISA,香川県,2845,GNSCCI,香川県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,729,NAKA,香川県,1497,MRMAIN,香川県,2544,RMA,香川県
 EMPRESS,ALL I NEED YOUR LOVE,852,JAM.M,香川県,1644,KIKYO,香川県,2073,WL1,香川県
-EMPRESS,3y3s,1398,TOMY,香川県,2329,NEKO!,香川県,3386,RMA,香川県
+EMPRESS,3y3s,1403,73K,香川県,2329,NEKO!,香川県,3386,RMA,香川県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",599,JAM.M,香川県,1591,M-2-BR,香川県,1896,L#CAMI,香川県
 SIRIUS,未来のプリズム,618,SHELA,香川県,1281,NAGISA,香川県,1713,TT,香川県
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1234,GO-10-,香川県,2151,LCHE-U,香川県,3139,RMA,香川県
@@ -493,7 +493,7 @@ SIRIUS,NoN-Fiction Story!,621,NAKA,香川県,1341,RIS*KY,香川県,2171,ENBRY,�
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1231,TOMY,香川県,1952,NAGISA,香川県,2560,GNSCCI,香川県
 SIRIUS,mosaic,1406,34.*S2,香川県,2004,KYLE.A,香川県,2960,RMA,香川県
 SIRIUS,MIRACLE MEETS,696,NAKA,香川県,1449,TOMY,香川県,2195,RMA,香川県
-SIRIUS,Light Shine,648,IIDX26,香川県,1077,TOMY,香川県,1950,RMA,香川県
+SIRIUS,Light Shine,668,IIDX26,香川県,1077,TOMY,香川県,1950,RMA,香川県
 SIRIUS,Last Burning,717,NAKA,香川県,1550,KIKYO,香川県,2331,WL1,香川県
 SIRIUS,Keep it-秋葉工房mix-,834,0TY4!?,香川県,1395,MEG,香川県,1785,M-2-BR,香川県
 SIRIUS,IN THE NAME OF LOVE,389,WASSY,香川県,713,VEIN,香川県,1870,GNSCCI,香川県
@@ -511,7 +511,7 @@ SIRIUS,DOMINION,1195,TOMY,香川県,2158,KT-BEL,香川県,3114,RMA,香川県
 SIRIUS,DESIRE,730,SHELA,香川県,1867,JACK,香川県,2796,ENBRY,香川県
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,641,0TY4!?,香川県,1425,TOMY,香川県,1970,KYLE.A,香川県
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1590,TOMY,香川県,2674,GNSCCI,香川県,3085,ENBRY,香川県
-SIRIUS,D,1087,ARIA,香川県,1745,TM,香川県,2478,RMA,香川県
+SIRIUS,D,1087,ARIA,香川県,1785,M-2-BR,香川県,2478,RMA,香川県
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),810,0TY4!?,香川県,1528,TOMY,香川県,2379,GNSCCI,香川県
 SIRIUS,bloomin' feeling,1237,TOMY,香川県,1863,73K,香川県,2546,TT,香川県
 SIRIUS,being torn the sky,341,IIDX26,香川県,1177,TOMY,香川県,1966,TT,香川県
@@ -532,7 +532,7 @@ Resort Anthem,ZETA～素数の世界と超越者～,574,TOMYZ,香川県,1760,ARI
 Resort Anthem,XANADU OF TWO,968,TOMY,香川県,1638,TOMY,香川県,2667,GNSCCI,香川県
 Resort Anthem,Wuv U,349,LASK.,香川県,1210,IIDX26,香川県,1635,TM,香川県
 Resort Anthem,WISE UP!,319,YUZU,香川県,1080,TOMY,香川県,1522,TOMYZ,香川県
-Resort Anthem,WE LOVE SHONAN,354,K501,香川県,1267,MOFMOF,香川県,2149,RMA,香川県
+Resort Anthem,WE LOVE SHONAN,354,K501,香川県,1330,AT*OT.,香川県,2149,RMA,香川県
 Resort Anthem,Watch Out Pt.2,800,4KEMU,香川県,1881,JACK,香川県,2754,TT,香川県
 Resort Anthem,Vermillion,409,NAKA,香川県,1121,KIKYO,香川県,1924,TM,香川県
 Resort Anthem,Tropical April,1562,TOMY,香川県,2098,CORONA,香川県,2669,TT,香川県
@@ -689,7 +689,7 @@ tricoro,SHION,584,NAKA,香川県,1278,TOMY,香川県,2649,GNSCCI,香川県
 tricoro,Shining World,864,NAKA,香川県,1483,TOMY,香川県,1909,TT,香川県
 tricoro,Saturn,1110,ARIA,香川県,1635,JSTIR?,香川県,2617,RMA,香川県
 tricoro,S!ck,630,#X3X#,香川県,1466,TOMY,香川県,2629,ENBRY,香川県
-tricoro,rumrum triplets,754,NAKA,香川県,1831,CORONA,香川県,2952,ENBRY,香川県
+tricoro,rumrum triplets,754,NAKA,香川県,1900,DAHLIA,香川県,2952,ENBRY,香川県
 tricoro,Re:GENERATION,487,WASSY,香川県,1475,TOMY,香川県,2135,TM,香川県
 tricoro,Rainbow after snow,660,LASK.,香川県,1430,MEG,香川県,2155,ENBRY,香川県
 tricoro,Proof of the existence,1012,X10A,香川県,1967,KTZW-3,香川県,3131,RMA,香川県
@@ -727,14 +727,14 @@ tricoro,Cookie Bouquets,618,NAKA,香川県,1990,TOMY,香川県,3309,WF*,香川�
 tricoro,connective,206,#X3X#,香川県,1088,TOMY,香川県,1548,GO-10-,香川県
 tricoro,Confiserie,803,X10A,香川県,1923,KANUNU,香川県,3442,RMA,香川県
 tricoro,CONCEPTUAL,666,NAKA,香川県,1146,POYO,香川県,2564,GNSCCI,香川県
-tricoro,BRAVE GLOW,670,JAM.M,香川県,1552,TOMY,香川県,2437,GNSCCI,香川県
+tricoro,BRAVE GLOW,670,JAM.M,香川県,1552,TOMY,香川県,2443,GNSCCI,香川県
 tricoro,BLUE STRAGGLER,612,NAKA,香川県,796,VEIN,香川県,2179,DAHLIA,香川県
 tricoro,Beastie Starter,465,NAKA,香川県,1261,MATO,香川県,2090,ENBRY,香川県
 tricoro,Ascalon,1097,KIKYO,香川県,1644,TOMY,香川県,2089,73K,香川県
 tricoro,8bit Princess,484,IIDX26,香川県,1340,KTZW-3,香川県,2606,ENBRY,香川県
 tricoro,405nm (Ryu☆mix),902,KTZW-3,香川県,1639,KTZW-3,香川県,2522,ENBRY,香川県
 SPADA,轟け！恋のビーンボール！！,955,AAA,香川県,1795,NEKO!,香川県,3331,RMA,香川県
-SPADA,超!!遠距離らぶ?メ～ル,313,KAYAK,香川県,1470,TOMY,香川県,2561,TT,香川県
+SPADA,超!!遠距離らぶ?メ～ル,386,RICKY,香川県,1470,TOMY,香川県,2561,TT,香川県
 SPADA,罪と罰,1047,TOMY,香川県,1317,TOMY,香川県,2087,ENBRY,香川県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3115,RMA,香川県
 SPADA,疾風迅雷,973,KINZO,香川県,2042,RMA,香川県,2765,LL,香川県
@@ -758,7 +758,7 @@ SPADA,Unicorn tail,648,JAM.M,香川県,1910,TOMY,香川県,3089,RMA,香川県
 SPADA,THE DETONATOR,1508,ADB,香川県,2348,KT-BEL,香川県,3081,GNSCCI,香川県
 SPADA,Squeeze,609,NAKA,香川県,1258,HAKU,香川県,2287,TSRM,香川県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,3872,RMA,香川県
-SPADA,Sigmund,1403,TOMY,香川県,2128,KTZW-3,香川県,3675,RMA,香川県
+SPADA,Sigmund,1403,TOMY,香川県,2141,MACHI8,香川県,3675,RMA,香川県
 SPADA,SCHWARZSCHILD FIELD,905,KIKYO,香川県,1406,CORONA,香川県,2391,RMA,香川県
 SPADA,RIZING YOU UP,914,FUCA3*,香川県,1977,TOMY,香川県,2479,RENZI,香川県
 SPADA,RISE,897,KIKYO,香川県,1074,N!RA,香川県,1720,H1RO,香川県
@@ -844,12 +844,12 @@ PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,71
 PENDUAL,とろぴかる倶楽部,802,KIKYO,香川県,1342,TOMY,香川県,2221,RMA,香川県
 PENDUAL,それは花火のような恋,1244,TOMY,香川県,2331,NEKO!,香川県,3755,ENBRY,香川県
 PENDUAL,ZZ,1097,FUCA3*,香川県,1903,S*SU4,香川県,2955,WF*,香川県
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1101,KIKYO,香川県,2078,NAGISA,香川県,3425,GNSCCI,香川県
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1101,KIKYO,香川県,2118,KT-BEL,香川県,3425,GNSCCI,香川県
 PENDUAL,Vulkan,1023,KIKYO,香川県,1834,TOMY,香川県,2889,GNSCCI,香川県
 PENDUAL,TOXIC VIBRATION,1320,SIO,香川県,2273,NEKO!,香川県,3700,ENBRY,香川県
 PENDUAL,TIEFSEE,1138,ARIA,香川県,2140,GNSCCI,香川県,3289,GNSCCI,香川県
 PENDUAL,The Least 100sec,735,R,香川県,1387,KIKYO,香川県,2697,RENZI,香川県
-PENDUAL,TA・DA ☆ YO・SHI,812,NAKA,香川県,1492,TOMY,香川県,2189,TSRM,香川県
+PENDUAL,TA・DA ☆ YO・SHI,812,NAKA,香川県,1492,TOMY,香川県,2210,GO-10-,香川県
 PENDUAL,Symmetry,1105,R,香川県,1947,DAHLIA,香川県,3056,WF*,香川県
 PENDUAL,Sweet Radar,671,KIKYO,香川県,1186,MILK,香川県,1956,ANCHAN,香川県
 PENDUAL,SpaceLand☆TOYBOX,862,NAKA,香川県,1515,MAPLE,香川県,2841,RMA,香川県
@@ -874,7 +874,7 @@ PENDUAL,m1dy Festival,966,KIKYO,香川県,1519,MEG,香川県,2195,NAGISA,香川�
 PENDUAL,Line 4 Ruin,654,HAKU,香川県,1779,LL,香川県,2778,RMA,香川県
 PENDUAL,IXION,729,NAKA,香川県,1734,JACK,香川県,2159,RMA,香川県
 PENDUAL,Invitation from Mr.C,1079,R,香川県,1496,KIKYO,香川県,2619,RMA,香川県
-PENDUAL,In The Breeze,468,LASK.,香川県,886,TENORI,香川県,1692,GO-10-,香川県
+PENDUAL,In The Breeze,468,LASK.,香川県,886,TENORI,香川県,1694,GO-10-,香川県
 PENDUAL,IMPLANTATION,631,ADB,香川県,1625,M-2-BR,香川県,2276,RMA,香川県
 PENDUAL,illuminate,423,IIDX26,香川県,1410,TOMY,香川県,2186,TM,香川県
 PENDUAL,Hello Happiness,503,283,香川県,1462,TOMY,香川県,2250,ENBRY,香川県
@@ -883,10 +883,10 @@ PENDUAL,GUILTY,615,NAKA,香川県,1357,KTZW-3,香川県,1736,TM,香川県
 PENDUAL,Gravigazer,569,LASK.,香川県,1758,OPI.TQ,香川県,2978,RMA,香川県
 PENDUAL,Flashes,837,KAMURA,香川県,1632,*AINA*,香川県,3227,RMA,香川県
 PENDUAL,FANTASTIC THREE,1094,POYO,香川県,2000,KT-BEL,香川県,3131,RMA,香川県
-PENDUAL,fallen leaves -IIDX edition-,887,KINZO,香川県,1951,DAHLIA,香川県,3043,RENZI,香川県
+PENDUAL,fallen leaves -IIDX edition-,887,KINZO,香川県,1951,DAHLIA,香川県,3102,RENZI,香川県
 PENDUAL,Erosion Mark,794,KIKYO,香川県,1438,TOMY,香川県,2147,RMA,香川県
 PENDUAL,entelecheia,731,NAKA,香川県,2038,VAN0,香川県,3100,HSMY,香川県
-PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3028,NA,香川県
+PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3055,73K,香川県
 PENDUAL,EBONY & IVORY,922,SIO,香川県,1586,R,香川県,2854,RMA,香川県
 PENDUAL,Discloze,905,R,香川県,1599,KIKYO,香川県,2551,RMA,香川県
 PENDUAL,Despair of ELFERIA,1171,DDLC,香川県,2277,NAYUKI,香川県,4006,ENBRY,香川県
@@ -937,17 +937,17 @@ copula,Uh-Oh,871,NAKA,香川県,1681,VAN0,香川県,2250,GNSCCI,香川県
 copula,Triple Counter,1344,TOMY,香川県,2125,LCHE-U,香川県,3814,RMA,香川県
 copula,Transport,1009,KIKYO,香川県,1326,HAKU,香川県,1990,TM,香川県
 copula,Tori-no-kimochi,259,R,香川県,835,NAKA,香川県,1976,RMA,香川県
-copula,SURVIVOR,560,NAKA,香川県,1189,TOMY,香川県,1939,TM,香川県
+copula,SURVIVOR,560,NAKA,香川県,1189,TOMY,香川県,1965,TT,香川県
 copula,Super Duper Racers,939,KIKYO,香川県,1532,JACK,香川県,2308,GNSCCI,香川県
 copula,StrayedCatz,877,KAMURA,香川県,1815,NAYUKI,香川県,2694,ENBRY,香川県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3125,GO-10-,香川県
 copula,STARLIGHT DANCEHALL,1189,HPKN-2,香川県,1650,KULYON,香川県,2486,RENZI,香川県
 copula,STARLiGHT,714,NAKA,香川県,1708,KT-BEL,香川県,2727,RMA,香川県
 copula,SHELTER OF THE MIND,1097,LASK.,香川県,1854,⎳,香川県,2996,ENBRY,香川県
-copula,Set U Free feat. Kanae Asaba,712,NAKA,香川県,1228,MILLE*,香川県,2462,RMA,香川県
+copula,Set U Free feat. Kanae Asaba,712,NAKA,香川県,1454,KIKYO,香川県,2462,RMA,香川県
 copula,Sephirot,934,KIKYO,香川県,1584,KIKYO,香川県,2332,RMA,香川県
 copula,SEITEN NO TERIYAKI,728,KIKYO,香川県,968,MOMIZI,香川県,2210,ENBRY,香川県
-copula,Routing,907,KIKYO,香川県,1448,CORONA,香川県,2432,GO-10-,香川県
+copula,Routing,907,KIKYO,香川県,1542,M-2-BR,香川県,2432,GO-10-,香川県
 copula,Rock It,742,NAKA,香川県,1608,KIKYO,香川県,2920,ENBRY,香川県
 copula,refrain,617,YZ.,香川県,2242,73K,香川県,3553,RMA,香川県
 copula,quick master (reform version),153,AREMA,香川県,331,R,香川県,512,TM,香川県
@@ -955,8 +955,8 @@ copula,POSSESSION,1318,TM,香川県,2011,VAN0,香川県,2905,ENBRY,香川県
 copula,OUTER LIMITS ALTERNATIVE,1097,PEKO,香川県,1653,TOMY,香川県,2665,RMA,香川県
 copula,Outbreak,1039,NAKA,香川県,1737,TOMY,香川県,2984,ENBRY,香川県
 copula,On the FM,1092,KIKYO,香川県,1547,TOMY,香川県,2772,ENBRY,香川県
-copula,NZM,936,KAMURA,香川県,1484,KANUNU,香川県,3323,RMA,香川県
-copula,Nowhere,844,KIKYO,香川県,1249,MEG,香川県,1974,TOMYZ,香川県
+copula,NZM,936,KAMURA,香川県,1514,KANUNU,香川県,3323,RMA,香川県
+copula,Nowhere,844,KIKYO,香川県,1325,KIKYO,香川県,1974,TOMYZ,香川県
 copula,NO LIMIT -オレ達に限界は無い-,683,JAM.M,香川県,1173,KANUNU,香川県,2220,TT,香川県
 copula,NINJA IS DEAD IIDX ver.,1106,DDLC,香川県,1836,VAN0,香川県,2897,ENBRY,香川県
 copula,Nightmare before oversleep,1065,DDLC,香川県,1765,CORONA,香川県,2885,ENBRY,香川県
@@ -979,19 +979,19 @@ copula,Exchange Place,755,KIKYO,香川県,1239,KIKYO,香川県,1757,GO-10-,香�
 copula,Everlasting Last,716,SHELA,香川県,1529,TOMY,香川県,2198,ENBRY,香川県
 copula,Dynamite,1161,TOMY,香川県,2320,JACK,香川県,3512,WF*,香川県
 copula,Donkey Donk,1111,TOMY,香川県,1566,MOASH,香川県,2227,TT,香川県
-copula,do the thing feat. Kanae Asaba,625,R,香川県,1426,NAGISA,香川県,2087,L#CAMI,香川県
+copula,do the thing feat. Kanae Asaba,625,R,香川県,1458,KIKYO,香川県,2087,L#CAMI,香川県
 copula,DIAMOND CROSSING,956,TOMY,香川県,1634,NEKO!,香川県,3019,RMA,香川県
 copula,Devil's Gear,829,JAM.M,香川県,2038,DAHLIA,香川県,3200,RENZI,香川県
 copula,Derelict Star feat. Ryu*,1356,KIKYO,香川県,1533,KULYON,香川県,2613,RMA,香川県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2186,TOMYZ,香川県
 copula,Damage Per Second,704,NAKA,香川県,1150,MILK,香川県,2016,ENBRY,香川県
-copula,Daily Lunch Special,905,LASK.,香川県,2031,GNSCCI,香川県,2820,GNSCCI,香川県
+copula,Daily Lunch Special,905,LASK.,香川県,2062,KANUNU,香川県,2820,GNSCCI,香川県
 copula,CODE:1 [revision1.0.1],805,NAKA,香川県,1687,RMA,香川県,3083,RMA,香川県
 copula,chaos eater -IIDX edition-,932,NAKA,香川県,1571,TOMY,香川県,2554,RMA,香川県
 copula,Central Station,1030,KIKYO,香川県,1460,TOMY,香川県,2213,TM,香川県
 copula,Blue Spring Express,1100,SAKU!!,香川県,1747,CORONA,香川県,3172,RMA,香川県
 copula,Battle Train -IIDX Edition-,736,LASK.,香川県,2114,TOMY,香川県,3121,GO-10-,香川県
-copula,Aublia,745,NAKA,香川県,1409,TOMY,香川県,2351,REM,香川県
+copula,Aublia,745,NAKA,香川県,1432,KTZW-3,香川県,2351,REM,香川県
 copula,Arcana,1137,KIKYO,香川県,1506,R,香川県,2187,LL,香川県
 copula,AO-1,1174,ADB,香川県,1795,SULA,香川県,2649,ENBRY,香川県
 copula,Angelic Jelly,1087,KIKYO,香川県,1971,DAHLIA,香川県,2646,ENBRY,香川県
@@ -1007,7 +1007,7 @@ SINOBUZ,津軽雪,1456,TOMY,香川県,2139,TM,香川県,3811,RMA,香川県
 SINOBUZ,次葉 -turn the page-,708,NAKA,香川県,1361,TOMY,香川県,1966,ENBRY,香川県
 SINOBUZ,月雪に舞う華のように,568,K*M,香川県,1241,TOMY,香川県,1951,MAKI.N,香川県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,982,DAHLIA,香川県,1465,TOMY,香川県,2359,L#1K,香川県
-SINOBUZ,忍恋花,601,ALS,香川県,1466,TOMY,香川県,2196,ENBRY,香川県
+SINOBUZ,忍恋花,1003,KIKYO,香川県,1466,TOMY,香川県,2196,ENBRY,香川県
 SINOBUZ,刃図羅,1202,DAHLIA,香川県,1973,DAHLIA,香川県,3316,WF*,香川県
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2977,ENBRY,香川県
 SINOBUZ,冬椿 ft. Kanae Asaba,860,ARIA,香川県,1192,TOMY,香川県,2196,GNSCCI,香川県
@@ -1020,7 +1020,7 @@ SINOBUZ,〆,1253,TOMY,香川県,2335,GNSCCI,香川県,3539,ENBRY,香川県
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),765,KIKYO,香川県,1712,KIKYO,香川県,2750,GO-10-,香川県
 SINOBUZ,yamabiko (SINOBUZ Edition),954,DAHLIA,香川県,1503,KTZW-3,香川県,2622,RMA,香川県
 SINOBUZ,XINOBIKILL,973,TOMY,香川県,1523,TOMY,香川県,2830,RMA,香川県
-SINOBUZ,Warrior,839,NAKA,香川県,1367,POYO,香川県,2405,GO-10-,香川県
+SINOBUZ,Warrior,995,KIKYO,香川県,1367,POYO,香川県,2405,GO-10-,香川県
 SINOBUZ,Vermilion,870,DAHLIA,香川県,1348,DAHLIA,香川県,1899,TM,香川県
 SINOBUZ,Venom,1247,DAHLIA,香川県,2013,DAHLIA,香川県,3016,GNSCCI,香川県
 SINOBUZ,Umbral,602,R,香川県,1292,TOMY,香川県,1815,TOMYZ,香川県
@@ -1049,7 +1049,7 @@ SINOBUZ,RISING FIRE HAWK,736,K.S.,香川県,1453,KIKYO,香川県,2694,RMA,香川
 SINOBUZ,Remedy feat. Kanae Asaba,762,NAKA,香川県,1601,M-2-BR,香川県,2151,GO-10-,香川県
 SINOBUZ,Rave Cannon,1038,DAHLIA,香川県,1767,KIKYO,香川県,3281,RMA,香川県
 SINOBUZ,RAIN,1131,DAHLIA,香川県,1714,KIKYO,香川県,3253,RMA,香川県
-SINOBUZ,Quakes,948,FUCA3*,香川県,1817,KT-BEL,香川県,3058,RMA,香川県
+SINOBUZ,Quakes,948,FUCA3*,香川県,1884,MACHI8,香川県,3058,RMA,香川県
 SINOBUZ,Piano Samurai,771,NAKA,香川県,1585,CORONA,香川県,2302,L#CAMI,香川県
 SINOBUZ,PAPAYAPA BASS,643,JAM.M,香川県,1468,TOMY,香川県,2723,ENBRY,香川県
 SINOBUZ,OTENAMI Hurricane,986,JAM.M,香川県,1983,ORIGIN,香川県,3050,ENBRY,香川県
@@ -1087,7 +1087,7 @@ SINOBUZ,BabeL ～Grand Story～,1089,FUCA3*,香川県,2020,SULA,香川県,2635,N
 SINOBUZ,AsiaN distractive,723,JAM.M,香川県,1633,TOMY,香川県,2605,RMA,香川県
 SINOBUZ,Around The Galaxy,864,NAKA,香川県,1895,TOMY,香川県,3346,RMA,香川県
 SINOBUZ,Apocalypse,1117,DAHLIA,香川県,2141,GNSCCI,香川県,3452,RMA,香川県
-SINOBUZ,AO-∞,887,KINZO,香川県,1641,TOMY,香川県,2639,GNSCCI,香川県
+SINOBUZ,AO-∞,1139,KIKYO,香川県,1641,TOMY,香川県,2639,GNSCCI,香川県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3183,RMA,香川県
 SINOBUZ,Amazing Mirage,832,MAPLE,香川県,1545,TOMY,香川県,2555,TT,香川県
 SINOBUZ,Affection,586,R,香川県,1182,TOMY,香川県,1940,KANUNU,香川県
@@ -1122,7 +1122,7 @@ CANNON BALLERS,Static State,1029,DAHLIA,香川県,1679,DAHLIA,香川県,2274,GO-
 CANNON BALLERS,STARLIGHT JUNCTION,887,KIKYO,香川県,1454,TOMY,香川県,2216,GNSCCI,香川県
 CANNON BALLERS,SPEED DEMON,694,ARIA,香川県,1379,TOMY,香川県,2194,MATO,香川県
 CANNON BALLERS,SPEED,872,NAGISA,香川県,1514,TOMY,香川県,2526,GNSCCI,香川県
-CANNON BALLERS,"Son, not gabba now",765,SHELA,香川県,1538,DAHLIA,香川県,1958,34.*S2,香川県
+CANNON BALLERS,"Son, not gabba now",765,SHELA,香川県,1538,DAHLIA,香川県,2015,34.*S2,香川県
 CANNON BALLERS,Slipstream,945,X10A,香川県,1953,DAHLIA,香川県,3267,RENZI,香川県
 CANNON BALLERS,SHOX,819,DAHLIA,香川県,1124,KIKYO,香川県,1708,RMA,香川県
 CANNON BALLERS,Rise Circuit,0,,未設定,1488,TOMY,香川県,2113,TM,香川県
@@ -1141,7 +1141,7 @@ CANNON BALLERS,Midnight Lady,395,IIDX26,香川県,1087,AREMA,香川県,1925,GO-1
 CANNON BALLERS,LUV DRIVE,748,SAKU!!,香川県,1302,DAHLIA,香川県,2086,GO-10-,香川県
 CANNON BALLERS,LIGHTS ft. EVO+,737,DAHLIA,香川県,1341,TOMY,香川県,2252,LCHE-U,香川県
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1135,TANKEN,香川県,1843,KANUNU,香川県,3363,ENBRY,香川県
-CANNON BALLERS,Initiation,1431,TOMY,香川県,2330,VAN0,香川県,3870,RMA,香川県
+CANNON BALLERS,Initiation,1459,KIKYO,香川県,2330,VAN0,香川県,3870,RMA,香川県
 CANNON BALLERS,Illusionary Waterlily,959,JAM.M,香川県,2025,DAHLIA,香川県,3408,RMA,香川県
 CANNON BALLERS,I'm Coming (2017 Version),623,TM,香川県,1118,MILK,香川県,2017,GNSCCI,香川県
 CANNON BALLERS,I Love You,427,283,香川県,1751,DAHLIA,香川県,2683,RMA,香川県
@@ -1251,7 +1251,7 @@ Rootage,dAuntl3ss,1067,DAHLIA,香川県,1963,GNSCCI,香川県,3461,RMA,香川県
 Rootage,Cranberry City ft. Luschel,848,DAHLIA,香川県,1530,NAGISA,香川県,2348,RMA,香川県
 Rootage,CoMAAAAAAA,1209,TM,香川県,2020,GNSCCI,香川県,2400,RMA,香川県
 Rootage,Catch Our Fire!,1319,NAGISA,香川県,2216,GNSCCI,香川県,3645,RMA,香川県
-Rootage,Carmina,1224,H1RO,香川県,2242,KANUNU,香川県,3525,ENBRY,香川県
+Rootage,Carmina,1260,KIKYO,香川県,2242,KANUNU,香川県,3525,ENBRY,香川県
 Rootage,BLOSSOM,1062,TOMY,香川県,1583,H1RO,香川県,2491,RMA,香川県
 Rootage,Angels & Demons,916,NAGISA,香川県,1713,NAGISA,香川県,2431,RMA,香川県
 Rootage,AGAiN,993,KIKYO,香川県,1556,H1RO,香川県,2306,RMA,香川県
@@ -1259,4 +1259,4 @@ Rootage,A Tale Hidden In The Abyss,927,TOMY,香川県,1670,*AINA*,香川県,2605
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1209,H1RO,香川県,1587,NAGISA,香川県,2567,GO-10-,香川県
 Rootage,50th Memorial Songs -The BEMANI History-,1058,H1RO,香川県,1576,NAGISA,香川県,2534,ENBRY,香川県
 Rootage,50th Memorial Songs -Flagship medley-,939,H1RO,香川県,1417,TOMYZ,香川県,2101,NA,香川県
-Rootage,50th Memorial Songs -Beginning Story-,812,DAHLIA,香川県,1618,DAHLIA,香川県,2685,RMA,香川県
+Rootage,50th Memorial Songs -Beginning Story-,818,KIKYO,香川県,1618,DAHLIA,香川県,2685,RMA,香川県
