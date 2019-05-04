@@ -220,7 +220,7 @@ IIDX RED,Secret of Love,1044,MO-ZE.,愛知県,1459,MONO,愛知県,2027,PEACE,愛
 IIDX RED,RESONATE 1794,882,ABQ26R,愛知県,1446,HELPME,愛知県,1880,KUREI,愛知県
 IIDX RED,RED ZONE†,0,,未設定,0,,未設定,3044,KUREI,愛知県
 IIDX RED,RED ZONE,1078,MO-ZE.,愛知県,1919,HELPME,愛知県,2338,PEACE,愛知県
-IIDX RED,Raspberry Heart(English version),1043,CID*,愛知県,1536,AA-HDA,愛知県,1856,KUREI,愛知県
+IIDX RED,Raspberry Heart(English version),1043,CID*,愛知県,1549,$DIVE$,愛知県,1856,KUREI,愛知県
 IIDX RED,NEBULA GRASPER,1305,ABQ26R,愛知県,1923,M-N.06,愛知県,2457,NA!,愛知県
 IIDX RED,KEY,1083,XION,愛知県,1855,GOWAS,愛知県,2853,KUREI,愛知県
 IIDX RED,HORIZON,1027,MO-ZE.,愛知県,1547,MONO,愛知県,1963,RKS-32,愛知県
@@ -232,7 +232,7 @@ IIDX RED,earth scape,450,AA-HDA,愛知県,1038,MONO,愛知県,1275,AA-HDA,愛知
 IIDX RED,Don't be afraid myself,1084,TMR089,愛知県,1870,HELPME,愛知県,2288,RKS-32,愛知県
 IIDX RED,D.A.N.C.E.!,576,M-N.06,愛知県,834,MONO,愛知県,1624,PEACE,愛知県
 IIDX RED,Close my Eyes for Me,1027,ALPACA,愛知県,1448,ALPACA,愛知県,1821,UNA-10,愛知県
-IIDX RED,Click Again,846,MO-ZE.,愛知県,1448,MONO,愛知県,2139,PEACE,愛知県
+IIDX RED,Click Again,846,MO-ZE.,愛知県,1448,MONO,愛知県,2140,RKS-32,愛知県
 IIDX RED,BREATH,901,02564!,愛知県,1311,MONO,愛知県,1732,RKS-32,愛知県
 IIDX RED,BLOCKS,801,MO-ZE.,愛知県,1301,MONO,愛知県,1986,KUREI,愛知県
 IIDX RED,Be quiet,1010,MO-ZE.,愛知県,1735,HELPME,愛知県,2209,PEACE,愛知県
@@ -373,7 +373,7 @@ DJ TROOPERS,走馬灯 -The Last Song-,505,TMR089,愛知県,923,MONO,愛知県,13
 DJ TROOPERS,華爛漫 -Flowers-,957,SASA,愛知県,1584,MONO,愛知県,2048,PEACE,愛知県
 DJ TROOPERS,少年A,1220,VEGETA,愛知県,2204,HELPME,愛知県,2786,RKS-32,愛知県
 DJ TROOPERS,ミラージュ・レジデンス,1071,MO-ZE.,愛知県,2091,MONO,愛知県,2649,PEACE,愛知県
-DJ TROOPERS,マチ子の唄,530,STL,愛知県,1318,MONO,愛知県,1792,NA!,愛知県
+DJ TROOPERS,マチ子の唄,730,IWASHI,愛知県,1318,MONO,愛知県,1792,NA!,愛知県
 DJ TROOPERS,エコ爺,705,KON,愛知県,1343,MONO,愛知県,1837,KUREI,愛知県
 DJ TROOPERS,Wanna Party?,765,110359,愛知県,1181,MONO,愛知県,1523,UNA-10,愛知県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3242,UNA-10,愛知県
@@ -395,7 +395,7 @@ DJ TROOPERS,REMINISCENCE,1227,02564!,愛知県,1842,MONO,愛知県,2327,NA!,愛�
 DJ TROOPERS,PROMISE FOR LIFE,596,TMR089,愛知県,1498,MONO,愛知県,1746,RIS.BN,愛知県
 DJ TROOPERS,PARANOiA ～HADES～,1087,RIS.BN,愛知県,1813,JINRO!,愛知県,2709,KABA40,愛知県
 DJ TROOPERS,oratio,1404,02564!,愛知県,2041,MONO,愛知県,2940,PEACE,愛知県
-DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,1040,CID*,愛知県,1920,MONO,愛知県,2560,PURIN,愛知県
+DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,1040,CID*,愛知県,1932,ALPACA,愛知県,2560,PURIN,愛知県
 DJ TROOPERS,MENTAL MELTDOWN,1081,02564!,愛知県,2178,MONO,愛知県,2784,RKS-32,愛知県
 DJ TROOPERS,MENDES,1140,BLAZE*,愛知県,2608,PURIN,愛知県,3552,RKS-32,愛知県
 DJ TROOPERS,MAX LOVE,1402,MO-ZE.,愛知県,2167,KABAOH,愛知県,2678,PEACE,愛知県
@@ -672,7 +672,7 @@ tricoro,Zirkfied,1018,RAI.S,愛知県,2058,HELPME,愛知県,3732,RKS-32,愛知�
 tricoro,ZED,753,F8,愛知県,1719,MONO,愛知県,2772,PEACE,愛知県
 tricoro,YELLOW FROG from Steel Chronicle,451,ZOO,愛知県,1279,MONO,愛知県,1914,PEACE,愛知県
 tricoro,VEGA,1090,K-OGE,愛知県,2083,HELPME,愛知県,3119,PEACE,愛知県
-tricoro,VALLIS-NERIA,1147,02564!,愛知県,2131,RIS.ZN,愛知県,2941,PEACE,愛知県
+tricoro,VALLIS-NERIA,1208,ALICE.,愛知県,2131,RIS.ZN,愛知県,2941,PEACE,愛知県
 tricoro,Valanga,1309,CID*,愛知県,2212,HELPME,愛知県,3239,RKS-32,愛知県
 tricoro,True Blue,1080,OMEGA,愛知県,2551,HELPME,愛知県,3746,PEACE,愛知県
 tricoro,To my star,604,TMR089,愛知県,1267,MONO,愛知県,1752,PEACE,愛知県
@@ -1192,7 +1192,7 @@ Rootage,花冠 feat.Aikapin,999,TMR089,愛知県,1684,IIDX25,愛知県,2617,UNA-
 Rootage,爆ゼニ☆がってんワーカー,1249,IIDX25,愛知県,1928,IIDX25,愛知県,2709,RKS-32,愛知県
 Rootage,抱きしめてモナムール,1318,ALICE.,愛知県,2336,KUREI,愛知県,4115,RKS-32,愛知県
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,693,TMR089,愛知県,1551,RIS.ZN,愛知県,2558,NA!,愛知県
-Rootage,ミストレス・アンに花束を,582,ALICE.,愛知県,1017,BLAZE*,愛知県,1431,UNA-10,愛知県
+Rootage,ミストレス・アンに花束を,582,ALICE.,愛知県,1021,DEVI-3,愛知県,1431,UNA-10,愛知県
 Rootage,ハードベース・フェスタ,1147,42731,愛知県,1842,PEACE,愛知県,2858,RKS-32,愛知県
 Rootage,セカンドピアス,604,TMR089,愛知県,1107,MONO,愛知県,2019,UNA-10,愛知県
 Rootage,サクラあっぱれーしょん,632,KABAOH,愛知県,1556,MONO,愛知県,2329,PEACE,愛知県

@@ -110,7 +110,7 @@
 7th style,D2R,863,KAZ64,長野県,1091,LYNORA,長野県,1593,.$TORM,長野県
 7th style,Cheer Train,855,YOWAIP,長野県,1036,TROMBE,長野県,1711,PPJT,長野県
 7th style,Burning Heat! (Full Option Mix),693,YOWAIP,長野県,862,FF87,長野県,1455,PPJT,長野県
-7th style,Bad Routine,960,TROMBE,長野県,1281,TROMBE,長野県,1896,PPJT,長野県
+7th style,Bad Routine,960,TROMBE,長野県,1326,25MAKI,長野県,1896,PPJT,長野県
 7th style,AVE DE RAPINA,952,HSYGG,長野県,1595,PASTEL,長野県,1781,ASMR18,長野県
 7th style,A,1214,YOWAIP,長野県,2028,JZA80,長野県,2424,PPJT,長野県
 8th style,蒼い衝動,864,25MAKI,長野県,1302,PASTEL,長野県,1585,PPJT,長野県
@@ -213,14 +213,14 @@ IIDX RED,ピアノ協奏曲第１番”蠍火”,755,TROMBE,長野県,1967,NORI2
 IIDX RED,Wonder Bullfighter,656,1090P,長野県,1151,GEO,長野県,1994,PPJT,長野県
 IIDX RED,The Hope of Tomorrow,1003,YOWAIP,長野県,1582,PASTEL,長野県,1871,A4KAGA,長野県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3621,PPJT,長野県
-IIDX RED,spiral galaxy,1022,YOWAIP,長野県,1812,SI-,長野県,2566,PPJT,長野県
+IIDX RED,spiral galaxy,1022,YOWAIP,長野県,1861,KNOB.A,長野県,2566,PPJT,長野県
 IIDX RED,Sphere,973,TROMBE,長野県,1711,YOWAIP,長野県,2174,AZURE*,長野県
 IIDX RED,SPEEDY CAT,665,SEN,長野県,1677,AZURE*,長野県,1972,M0K0U,長野県
 IIDX RED,Secret of Love,0,,未設定,1351,YOWAIP,長野県,1938,SOOR&,長野県
 IIDX RED,RESONATE 1794,896,YOWAIP,長野県,1406,3NATSU,長野県,1809,MIMIQ,長野県
 IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2973,PPJT,長野県
 IIDX RED,RED ZONE,1033,25MAKI,長野県,1725,40KNOT,長野県,2243,TES2,長野県
-IIDX RED,Raspberry Heart(English version),963,KAZ64,長野県,1413,SN###,長野県,1843,PPJT,長野県
+IIDX RED,Raspberry Heart(English version),1010,YOWAIP,長野県,1413,SN###,長野県,1843,PPJT,長野県
 IIDX RED,NEBULA GRASPER,1294,YOWAIP,長野県,1838,25MAKI,長野県,2406,PPJT,長野県
 IIDX RED,KEY,1092,YOWAIP,長野県,1802,PASTEL,長野県,2823,PPJT,長野県
 IIDX RED,HORIZON,688,NAOKI,長野県,1450,25MAKI,長野県,1887,!G4M0N,長野県
@@ -237,7 +237,7 @@ IIDX RED,BREATH,872,LETUSS,長野県,1281,PASTEL,長野県,1719,PPJT,長野県
 IIDX RED,BLOCKS,783,YOWAIP,長野県,1083,S.HIRO,長野県,1960,PPJT,長野県
 IIDX RED,Be quiet,1051,CALPIS,長野県,1548,*6,長野県,2172,PPJT,長野県
 IIDX RED,awakening,1039,YOWAIP,長野県,1254,APPLE*,長野県,1703,PPJT,長野県
-IIDX RED,ANDROMEDA,961,TROMBE,長野県,1807,PASTEL,長野県,2829,$KIVRI,長野県
+IIDX RED,ANDROMEDA,961,TROMBE,長野県,1877,AZURE*,長野県,2829,$KIVRI,長野県
 IIDX RED,AGEHA,1012,.,長野県,1679,INYUK,長野県,1853,ERUA$A,長野県
 IIDX RED,AA,1206,25MAKI,長野県,2551,AREX,長野県,3602,PPJT,長野県
 HAPPY SKY,月光,866,KOGANE,長野県,1566,DNCHAN,長野県,2386,242-ME,長野県
@@ -274,7 +274,7 @@ HAPPY SKY,I am,1088,PASTEL,長野県,1710,PASTEL,長野県,2159,PPJT,長野県
 HAPPY SKY,HAPPY☆ANGEL,1010,KAZ64,長野県,1514,PASTEL,長野県,2084,PPJT,長野県
 HAPPY SKY,Get'em up to R.A.V.E,1065,KAZ64,長野県,1600,YOWAIP,長野県,2222,AZURE*,長野県
 HAPPY SKY,garden,564,HIYUKI,長野県,1413,YOWAIP,長野県,2092,AZURE*,長野県
-HAPPY SKY,First Resolution,768,KAZ64,長野県,1563,PASTEL,長野県,2134,AZURE*,長野県
+HAPPY SKY,First Resolution,768,KAZ64,長野県,1605,AZURE*,長野県,2134,AZURE*,長野県
 HAPPY SKY,EMPTY OF THE SKY,386,CORONA,長野県,993,HIROTA,長野県,1662,ASMR18,長野県
 HAPPY SKY,EDEN,1262,25MAKI,長野県,1879,PASTEL,長野県,2711,PPJT,長野県
 HAPPY SKY,double thrash,964,YOWAIP,長野県,1905,ZAKA73,長野県,2340,PPJT,長野県
@@ -283,12 +283,12 @@ HAPPY SKY,CaptivAte～浄化～,583,NAOKI,長野県,1829,AZURE*,長野県,2449,P
 HAPPY SKY,Aurora,1200,KMP,長野県,2038,JZA80,長野県,2520,PPJT,長野県
 HAPPY SKY,alla turca con passione,423,ROMAN3,長野県,1448,YOWAIP,長野県,2072,YKR,長野県
 HAPPY SKY,Agnus Dei,851,YOWAIP,長野県,1561,YOWAIP,長野県,2038,PPJT,長野県
-HAPPY SKY,100％ minimoo-G,480,SEVEN,長野県,1601,JZA80,長野県,1676,A4KAGA,長野県
+HAPPY SKY,100％ minimoo-G,480,SEVEN,長野県,1601,JZA80,長野県,1677,A4KAGA,長野県
 DistorteD,虹色,599,KASIMA,長野県,1448,YOWAIP,長野県,1840,PPJT,長野県
 DistorteD,華蝶風雪,939,4*5,長野県,2037,DNCHAN,長野県,2932,PPJT,長野県
 DistorteD,罠,551,HIROTA,長野県,1485,PASTEL,長野県,2438,ASMR18,長野県
 DistorteD,嘆きの樹,1739,PASTEL,長野県,2464,$KIVRI,長野県,3798,PPJT,長野県
-DistorteD,タシカナモノ,644,TIBI,長野県,1400,PASTEL,長野県,2018,$KIVRI,長野県
+DistorteD,タシカナモノ,644,TIBI,長野県,1400,PASTEL,長野県,2025,AZURE*,長野県
 DistorteD,カゴノトリ～弐式～,1061,YOWAIP,長野県,1707,0$D,長野県,2519,GAZER,長野県
 DistorteD,Zenius -I- vanisher,949,YOWAIP,長野県,1480,YOWAIP,長野県,2357,$KIVRI,長野県
 DistorteD,with you…,751,YOWAIP,長野県,1055,YOWAIP,長野県,1726,M416,長野県
@@ -359,7 +359,7 @@ GOLD,heaven above,775,TROMBE,長野県,1325,25MAKI,長野県,1784,AZURE*,長野�
 GOLD,GRID KNIGHT,802,YOWAIP,長野県,1880,PASTEL,長野県,2564,ASMR18,長野県
 GOLD,GOLD RUSH,1138,YOWAIP,長野県,1371,0$D,長野県,2354,PPJT,長野県
 GOLD,four-leaf,669,ZED,長野県,1118,NATSU,長野県,1652,TES2,長野県
-GOLD,FIRE FIRE,1120,TROMBE,長野県,1708,JZA80,長野県,2635,PPJT,長野県
+GOLD,FIRE FIRE,1120,TROMBE,長野県,1713,BOJI*2,長野県,2635,PPJT,長野県
 GOLD,Fascination MAXX,917,YOWAIP,長野県,1598,PPJT,長野県,2421,PPJT,長野県
 GOLD,Cyber Force,1209,25MAKI,長野県,1794,0$D,長野県,2297,AZURE*,長野県
 GOLD,CROSSROAD ～Left Story～,1106,YOWAIP,長野県,1724,PASTEL,長野県,2176,OBINEX,長野県
@@ -421,7 +421,7 @@ DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1245,PASTEL,長野県,20
 DJ TROOPERS,2 tribe 4 K,822,TROMBE,長野県,1172,KMP,長野県,2701,$KIVRI,長野県
 EMPRESS,鉄甲乙女-under the steel-,933,PASTEL,長野県,1597,PASTEL,長野県,2146,ASMR18,長野県
 EMPRESS,翼,873,YOWAIP,長野県,1422,25MAKI,長野県,1960,PPJT,長野県
-EMPRESS,山岡晃の「クイズ！家事都合！」,440,KARAS.,長野県,875,BONTAN,長野県,1976,ASMR18,長野県
+EMPRESS,山岡晃の「クイズ！家事都合！」,440,KARAS.,長野県,944,GETTI,長野県,1976,ASMR18,長野県
 EMPRESS,天空脳番長危機十六連打,942,KAZ64,長野県,2057,SAZA73,長野県,2537,PPJT,長野県
 EMPRESS,卑弥呼,1250,PPJT,長野県,2746,PPJT,長野県,3921,PPJT,長野県
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3130,AZURE*,長野県
@@ -507,7 +507,7 @@ SIRIUS,eRAseRmOToRpHAntOM,1466,YOWAIP,長野県,2366,ATU,長野県,3165,PPJT,長
 SIRIUS,Empire State Glory,1103,YUCHA*,長野県,1668,25MAKI,長野県,2623,PPJT,長野県
 SIRIUS,Elisha,911,PASTEL,長野県,1431,YOU.,長野県,2212,PPJT,長野県
 SIRIUS,DROP,784,LETUSS,長野県,1883,DEBU,長野県,2617,PPJT,長野県
-SIRIUS,DOMINION,1225,PASTEL,長野県,2230,JZA80,長野県,3034,OBINEX,長野県
+SIRIUS,DOMINION,1225,PASTEL,長野県,2230,JZA80,長野県,3075,AZURE*,長野県
 SIRIUS,DESIRE,443,100081,長野県,1855,0$D,長野県,2825,PPJT,長野県
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,712,ZED,長野県,1381,DNCHAN,長野県,2082,PPJT,長野県
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1623,PASTEL,長野県,2563,0$D,長野県,3091,PPJT,長野県
@@ -600,7 +600,7 @@ Lincle,Todestrieb,1117,PASTEL,長野県,1856,ABE,長野県,3409,PPJT,長野県
 Lincle,TITANS RETURN,491,MSRO,長野県,1477,YASSU-,長野県,2479,PPJT,長野県
 Lincle,Thunderbolt,807,SRTK46,長野県,1789,AKIKAN,長野県,3661,$KIVRI,長野県
 Lincle,The Sampling Paradise,775,KAZ64,長野県,1715,SIYU,長野県,2970,PPJT,長野県
-Lincle,The Limbo,990,ZED,長野県,1909,0$D,長野県,3309,PPJT,長野県
+Lincle,The Limbo,990,ZED,長野県,1937,AZURE*,長野県,3309,PPJT,長野県
 Lincle,Star Trail,448,YAMI-?,長野県,1109,KRO,長野県,1806,ASMR18,長野県
 Lincle,Snow Goose,376,HIROTA,長野県,1245,25MAKI,長野県,2400,PPJT,長野県
 Lincle,Snake Stick,1005,YOWAIP,長野県,1890,PPJT,長野県,2637,PPJT,長野県
@@ -825,7 +825,7 @@ PENDUAL,表裏一体！？怪盗いいんちょの悩み,1053,E-4ON,長野県,20
 PENDUAL,紅牡丹,1049,YOWAIP,長野県,1732,0$D,長野県,2835,PPJT,長野県
 PENDUAL,白露の風,480,HIROTA,長野県,1010,FALO,長野県,2016,PPJT,長野県
 PENDUAL,時空トラベローグ,1077,0$D,長野県,1762,ATU,長野県,2667,PPJT,長野県
-PENDUAL,打打打打打打打打打打,770,LETUSS,長野県,1308,PASTEL,長野県,2592,PPJT,長野県
+PENDUAL,打打打打打打打打打打,800,YOWAIP,長野県,1308,PASTEL,長野県,2592,PPJT,長野県
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2674,AZURE*,長野県
 PENDUAL,恋は白帯、サンシロー,737,YOWAIP,長野県,1250,PASTEL,長野県,2021,PPJT,長野県
 PENDUAL,少年は空を辿る,1232,PASTEL,長野県,1964,JZA80,長野県,3148,$KIVRI,長野県
@@ -864,7 +864,7 @@ PENDUAL,Reflux,756,JOE,長野県,1546,S.O.S.,長野県,2962,PPJT,長野県
 PENDUAL,Realize Maze,1237,0$D,長野県,1994,PASTEL,長野県,2966,PPJT,長野県
 PENDUAL,Rave*it!! Rave*it!!,1017,PASTEL,長野県,1591,YOWAIP,長野県,3138,$KIVRI,長野県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),353,TSUTHI,長野県,1370,YOWAIP,長野県,2256,PPJT,長野県
-PENDUAL,PENDUAL TALISMAN,1040,PASTEL,長野県,1624,PASTEL,長野県,2509,OBINEX,長野県
+PENDUAL,PENDUAL TALISMAN,1040,PASTEL,長野県,1624,PASTEL,長野県,2522,OBINEX,長野県
 PENDUAL,On My Wings(Hardstyle IIDX),899,PASTEL,長野県,1246,PASTEL,長野県,1906,SOOR&,長野県
 PENDUAL,No Tears,1183,0$D,長野県,1987,PASTEL,長野県,2522,PPJT,長野県
 PENDUAL,Night sky,1166,GEMINI,長野県,1840,.,長野県,2853,$KIVRI,長野県
@@ -941,7 +941,7 @@ copula,SURVIVOR,456,SION,長野県,1206,JOE,長野県,2001,ASMR18,長野県
 copula,Super Duper Racers,946,PPJT,長野県,1588,PPJT,長野県,2346,PPJT,長野県
 copula,StrayedCatz,1055,PPJT,長野県,1948,PPJT,長野県,2608,AZURE*,長野県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3176,PPJT,長野県
-copula,STARLIGHT DANCEHALL,1271,PPJT,長野県,1598,AMANDA,長野県,2628,PPJT,長野県
+copula,STARLIGHT DANCEHALL,1271,PPJT,長野県,1673,TAKA,長野県,2628,PPJT,長野県
 copula,STARLiGHT,959,PPJT,長野県,1857,PPJT,長野県,2759,PPJT,長野県
 copula,SHELTER OF THE MIND,1410,YOWAIP,長野県,1865,SIYU,長野県,2950,A4KAGA,長野県
 copula,Set U Free feat. Kanae Asaba,935,PPJT,長野県,1392,YOWAIP,長野県,2374,INAMAN,長野県
