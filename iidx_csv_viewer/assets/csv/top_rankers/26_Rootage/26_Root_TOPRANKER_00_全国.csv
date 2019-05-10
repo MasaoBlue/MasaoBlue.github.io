@@ -57,7 +57,7 @@
 4th style,ABSOLUTE,1319,2TINO5,東京都,1835,1048,東京都,2412,TANMEN,韓国
 4th style,250bpm,694,DICE,東京都,1025,2TINO5,東京都,1424,1048,東京都
 5th style,V,1286,M.F.K,兵庫県,2522,1-PIN,埼玉県,3024,YYY,兵庫県
-5th style,THE SHINING POLARIS,950,LAYER,千葉県,1329,N!?,北海道,1592,PEACE,愛知県
+5th style,THE SHINING POLARIS,956,GES8RO,千葉県,1329,N!?,北海道,1592,PEACE,愛知県
 5th style,THE CUBE,740,2TINO5,東京都,1279,N!?,北海道,1358,N!?,北海道
 5th style,sync,1089,DICE,東京都,1944,N!?,北海道,2380,MN.IGW,神奈川県
 5th style,still my words,919,2TINO5,東京都,1235,N!?,北海道,0,,未設定
@@ -517,8 +517,8 @@ SIRIUS,bloomin' feeling,1276,2TINO5,東京都,1957,N!?,北海道,2621,DOLCE.,岩
 SIRIUS,being torn the sky,662,CHCOOH,神奈川県,1218,GOEMON,神奈川県,1993,MACAOF,韓国
 SIRIUS,BEAUTIFUL ANGEL,642,CHCOOH,神奈川県,1831,N!?,北海道,2497,TANMEN,韓国
 SIRIUS,beatchic☆仮面～好き、でいさせて～,1013,17GO!?,神奈川県,1657,TMHGKG,香港,2024,1-PIN,埼玉県
-SIRIUS,bass 2 bass,732,IMOTO*,大阪府,1270,MONO,愛知県,1912,MACAO6,韓国
-SIRIUS,Bad Maniacs,1297,2TINO5,東京都,1893,HELPME,愛知県,3270,U*TAKA,千葉県
+SIRIUS,bass 2 bass,732,IMOTO*,大阪府,1271,*ALEX*,静岡県,1912,MACAO6,韓国
+SIRIUS,Bad Maniacs,1297,2TINO5,東京都,1900,2TINO5,東京都,3270,U*TAKA,千葉県
 SIRIUS,Almagest,1033,N!?,北海道,2265,TANMEN,韓国,3189,KKM*,韓国
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1172,2TINO5,東京都,1885,2TINO5,東京都,2359,TANMEN,埼玉県
 Resort Anthem,黒髪乱れし修羅となりて,815,IMOTO*,大阪府,2129,GG*-*!,韓国,3473,TANMEN,韓国
@@ -671,7 +671,7 @@ tricoro,ΕΛΠΙΣ,1164,IN-PO,東京都,2121,2TINO5,東京都,3166,HAWKS*,韓国
 tricoro,Zirkfied,1040,2TINO5,東京都,2058,HELPME,愛知県,3874,KKM*,韓国
 tricoro,ZED,934,KI.,千葉県,1728,2TINO5,東京都,2781,TANMEN,韓国
 tricoro,YELLOW FROG from Steel Chronicle,590,IMOTO*,大阪府,1284,GENO,岡山県,1924,MIKAMO,東京都
-tricoro,VEGA,1151,2TINO5,東京都,2083,HELPME,愛知県,3146,TANMEN,韓国
+tricoro,VEGA,1151,2TINO5,東京都,2092,2TINO5,東京都,3146,TANMEN,韓国
 tricoro,VALLIS-NERIA,1230,B-RABI,滋賀県,2131,RIS.ZN,愛知県,2975,TANMEN,韓国
 tricoro,Valanga,1343,N!?,北海道,2234,WOORI2,韓国,3271,DOLCE.,岩手県
 tricoro,True Blue,1102,IN-PO,東京都,2551,HELPME,愛知県,3773,TANMEN,韓国
@@ -1186,7 +1186,7 @@ CANNON BALLERS,AA -rebuild-,1273,2TINO5,東京都,2465,HELPME,愛知県,3610,TAK
 CANNON BALLERS,255,930,17GO!?,神奈川県,1622,MASAKI,秋田県,3283,DINASO,神奈川県
 CANNON BALLERS,2 Player,1008,17GO!?,神奈川県,1653,EBI,宮城県,2580,TANMEN,韓国
 CANNON BALLERS,1001 -ESCAPE-,1046,IMOTO*,大阪府,1722,2TINO5,東京都,2641,LC,大阪府
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1151,N!?,北海道,2366,GSIGSI,韓国,3221,TANMEN,韓国
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1151,N!?,北海道,2368,SERENA,埼玉県,3221,TANMEN,韓国
 Rootage,金野火織の金色提言,1279,Y13,東京都,2293,PPJT,長野県,3175,MEI385,韓国
 Rootage,花冠 feat.Aikapin,1024,SADAKO,神奈川県,1716,N!?,北海道,2669,DOLCE.,岩手県
 Rootage,爆ゼニ☆がってんワーカー,1262,17GO!?,神奈川県,1950,CHINO,大分県,2751,DOLCE.,岩手県
@@ -1258,5 +1258,5 @@ Rootage,AGAiN,1034,RIOO,富山県,1638,IMOTO*,大阪府,2321,TANMEN,埼玉県
 Rootage,A Tale Hidden In The Abyss,956,GES8RO,千葉県,1759,CHINO,大分県,2660,WOORI2,韓国
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1241,17GO!?,神奈川県,1661,N!?,北海道,2610,MOKA.A,茨城県
 Rootage,50th Memorial Songs -The BEMANI History-,1088,17GO!?,神奈川県,1678,N!?,北海道,2660,TANMEN,韓国
-Rootage,50th Memorial Songs -Flagship medley-,977,MYZ,和歌山県,1553,N!?,北海道,2288,WOORI2,韓国
+Rootage,50th Memorial Songs -Flagship medley-,979,GES8RO,千葉県,1553,N!?,北海道,2288,WOORI2,韓国
 Rootage,50th Memorial Songs -Beginning Story-,834,CARROT,福岡県,1686,N!?,北海道,2726,DINASO,神奈川県

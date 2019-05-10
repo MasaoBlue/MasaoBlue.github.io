@@ -57,7 +57,7 @@
 4th style,ABSOLUTE,1310,LAYER,千葉県,1752,LAYER,千葉県,2376,U*TAKA,千葉県
 4th style,250bpm,678,LAYER,千葉県,983,LAYER,千葉県,1379,GDDELF,千葉県
 5th style,V,1257,LAYER,千葉県,2474,GES8RO,千葉県,3016,U*TAKA,千葉県
-5th style,THE SHINING POLARIS,950,LAYER,千葉県,1313,GES8RO,千葉県,1576,GES8RO,千葉県
+5th style,THE SHINING POLARIS,956,GES8RO,千葉県,1313,GES8RO,千葉県,1576,GES8RO,千葉県
 5th style,THE CUBE,728,A.CRYS,千葉県,1252,MIYAKO,千葉県,1342,5.9161,千葉県
 5th style,sync,1075,LAYER,千葉県,1872,NILG,千葉県,2367,MNT1O,千葉県
 5th style,still my words,918,LAYER,千葉県,1226,GDDELF,千葉県,0,,未設定
@@ -178,9 +178,9 @@
 10th style,システムロマンス,907,KI.,千葉県,1754,NILG,千葉県,2024,0KRUSH,千葉県
 10th style,SPACE FIGHT,654,LAYER,千葉県,1507,AGUILA,千葉県,2208,PRECOG,千葉県
 10th style,SHOOTING STAR,1258,LAYER,千葉県,1640,LAYER,千葉県,2250,1FJUMP,千葉県
-10th style,Rise'n Beauty,1264,LAYER,千葉県,1630,GES8RO,千葉県,2142,O-.-O,千葉県
+10th style,Rise'n Beauty,1264,LAYER,千葉県,1645,GES8RO,千葉県,2142,O-.-O,千葉県
 10th style,rainbow rainbow,1541,LAYER,千葉県,2142,FUYOSH,千葉県,2679,0KRUSH,千葉県
-10th style,pandora,892,LAYER,千葉県,1600,LAYER,千葉県,1832,RIS.DG,千葉県
+10th style,pandora,892,LAYER,千葉県,1626,LAYER,千葉県,1832,RIS.DG,千葉県
 10th style,One More Lovely,864,GF-NAE,千葉県,1649,RIS.DG,千葉県,2855,U*TAKA,千葉県
 10th style,No.13,1603,GF-NAE,千葉県,2656,RIS.DG,千葉県,3127,SEIRYU,千葉県
 10th style,Narcissus At Oasis,765,LAYER,千葉県,1510,A.CRYS,千葉県,1634,REZERO,千葉県
@@ -211,7 +211,7 @@ IIDX RED,太陽～T・A・I・Y・O～,817,LAYER,千葉県,1404,NYARU.,千葉県
 IIDX RED,大桟橋,485,LAYER,千葉県,1122,PRI,千葉県,1837,0KRUSH,千葉県
 IIDX RED,ピアノ協奏曲第１番”蠍火”,816,LAYER,千葉県,2070,FUNYA-,千葉県,2687,U*TAKA,千葉県
 IIDX RED,Wonder Bullfighter,941,LAYER,千葉県,1436,LAYER,千葉県,1994,U*TAKA,千葉県
-IIDX RED,The Hope of Tomorrow,1051,GES8RO,千葉県,1708,GES8RO,千葉県,1926,O-.-O,千葉県
+IIDX RED,The Hope of Tomorrow,1060,GES8RO,千葉県,1708,GES8RO,千葉県,1926,O-.-O,千葉県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3727,FREAKY,千葉県
 IIDX RED,spiral galaxy,1073,LAYER,千葉県,2037,QALFY,千葉県,2565,FREAKY,千葉県
 IIDX RED,Sphere,1047,LAYER,千葉県,1861,8-UT,千葉県,2164,PSY6CK,千葉県
@@ -361,7 +361,7 @@ GOLD,GOLD RUSH,1183,GF-NAE,千葉県,1461,LAYER,千葉県,2340,PRECOG,千葉県
 GOLD,four-leaf,753,LAYER,千葉県,1218,LAYER,千葉県,1700,PSY6CK,千葉県
 GOLD,FIRE FIRE,1167,LAYER,千葉県,1779,GES8RO,千葉県,2715,PRECOG,千葉県
 GOLD,Fascination MAXX,932,BALDER,千葉県,1632,BALDER,千葉県,2518,U*TAKA,千葉県
-GOLD,Cyber Force,1248,LAYER,千葉県,1909,QALFY,千葉県,2363,1FJUMP,千葉県
+GOLD,Cyber Force,1248,LAYER,千葉県,1922,GES8RO,千葉県,2363,1FJUMP,千葉県
 GOLD,CROSSROAD ～Left Story～,1134,LAYER,千葉県,1730,JCDK,千葉県,2190,YAMA*S,千葉県
 GOLD,CaptivAte～誓い～,1311,LAYER,千葉県,1951,LAYER,千葉県,2223,MNT1O,千葉県
 GOLD,CaptivAte～裁き～,843,LAYER,千葉県,1257,LAYER,千葉県,1765,REZERO,千葉県
@@ -437,7 +437,7 @@ EMPRESS,Turii ～Panta rhei～,890,JCDK,千葉県,2051,EXP*.*,千葉県,2657,MNT
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2950,U*TAKA,千葉県
 EMPRESS,THANK YOU FOR PLAYING,793,LAYER,千葉県,1638,GF-NAE,千葉県,2116,PSY6CK,千葉県
 EMPRESS,SOLITON BEAM,1432,NILG,千葉県,2050,8-UT,千葉県,2330,PSY6CK,千葉県
-EMPRESS,smooooch・∀・,829,LAYER,千葉県,1599,SIN,千葉県,2130,PRECOG,千葉県
+EMPRESS,smooooch・∀・,829,LAYER,千葉県,1610,GF-NAE,千葉県,2130,PRECOG,千葉県
 EMPRESS,Secrets,1255,LAYER,千葉県,2456,AGUILA,千葉県,3127,0KRUSH,千葉県
 EMPRESS,Queen's Tragedy,847,LAYER,千葉県,1613,LAYER,千葉県,2216,GDDELF,千葉県
 EMPRESS,Punch Love 仮面,1104,LAYER,千葉県,1693,A.CRYS,千葉県,2509,U*TAKA,千葉県
@@ -455,7 +455,7 @@ EMPRESS,Jack,915,LAYER,千葉県,1371,LAYER,千葉県,2146,PRECOG,千葉県
 EMPRESS,I'm Screaming LOVE,615,LAYER,千葉県,1321,AGUILA,千葉県,1698,PRECOG,千葉県
 EMPRESS,HYPERION,1125,LAYER,千葉県,2057,QALFY,千葉県,2723,PRECOG,千葉県
 EMPRESS,Go Beyond!!,1062,LAYER,千葉県,1713,HARU,千葉県,2199,U*TAKA,千葉県
-EMPRESS,Fly Above,961,GES8RO,千葉県,1610,LAYER,千葉県,2031,KONOMI,千葉県
+EMPRESS,Fly Above,961,GES8RO,千葉県,1621,GES8RO,千葉県,2031,KONOMI,千葉県
 EMPRESS,Flash Back 90's,924,KI.,千葉県,1835,NILG,千葉県,2314,PRECOG,千葉県
 EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1079,LAYER,千葉県,1844,QALFY,千葉県,2493,5.9161,千葉県
 EMPRESS,Colorful Cookie,1127,LAYER,千葉県,2248,RIS.DG,千葉県,3508,U*TAKA,千葉県
@@ -620,7 +620,7 @@ Lincle,Phoenix,889,MOGRA3,千葉県,1193,LAYER,千葉県,2443,NYARU.,千葉県
 Lincle,NNRT,1259,GES8RO,千葉県,2424,HASH.,千葉県,3496,U*TAKA,千葉県
 Lincle,Miami Sunset Drive,636,LAYER,千葉県,1064,MOGRA3,千葉県,1650,AGUILA,千葉県
 Lincle,Mermaid girl-秋葉工房 MIX-,820,LAYER,千葉県,1346,GES8RO,千葉県,2051,O-.-O,千葉県
-Lincle,Lucky Days,659,GES8RO,千葉県,1486,OKE3,千葉県,2187,PRECOG,千葉県
+Lincle,Lucky Days,659,GES8RO,千葉県,1514,GES8RO,千葉県,2187,PRECOG,千葉県
 Lincle,LOVE B.B.B,773,LAYER,千葉県,1521,AGUILA,千葉県,2007,PRECOG,千葉県
 Lincle,Liquid Crystal Girl feat. echo,414,LAYER,千葉県,1121,GES8RO,千葉県,1996,PRECOG,千葉県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,1031,GES8RO,千葉県,1613,LAYER,千葉県,2209,U*TAKA,千葉県
@@ -708,7 +708,7 @@ tricoro,Little Star,972,LAYER,千葉県,1763,GES8RO,千葉県,3158,YAMA*S,千葉
 tricoro,Light and Cyber…,1059,LAYER,千葉県,1959,8-UT,千葉県,3126,U*TAKA,千葉県
 tricoro,Liberation,1478,LAYER,千葉県,2364,QALFY,千葉県,3753,U*TAKA,千葉県
 tricoro,JOMANDA,1142,N,千葉県,2355,NYARU.,千葉県,3741,U*TAKA,千葉県
-tricoro,In Heaven,762,MOGRA3,千葉県,1459,KI.,千葉県,2118,O-.-O,千葉県
+tricoro,In Heaven,762,MOGRA3,千葉県,1478,GES8RO,千葉県,2118,O-.-O,千葉県
 tricoro,Illegal Function Call,998,LAYER,千葉県,1807,86*,千葉県,2656,U*TAKA,千葉県
 tricoro,ILIAS,803,GES8RO,千葉県,1325,GES8RO,千葉県,2169,U*TAKA,千葉県
 tricoro,I know You know,605,LAYER,千葉県,1181,LAYER,千葉県,1873,PSY6CK,千葉県
@@ -717,7 +717,7 @@ tricoro,Howling,548,MOGRA3,千葉県,1344,LAYER,千葉県,2096,NYARU.,千葉県
 tricoro,Hollywood Galaxy,1117,LAYER,千葉県,2010,HARU,千葉県,2738,U*TAKA,千葉県
 tricoro,GRADIUS 2012,917,LAYER,千葉県,1648,LAYER,千葉県,2671,SEIRYU,千葉県
 tricoro,GAIA,1021,LAYER,千葉県,2243,PRECOG,千葉県,3316,U*TAKA,千葉県
-tricoro,Fly you to the star,779,MOGRA3,千葉県,1593,KI.,千葉県,2258,PRECOG,千葉県
+tricoro,Fly you to the star,779,MOGRA3,千葉県,1612,GES8RO,千葉県,2258,PRECOG,千葉県
 tricoro,FLOWER,1128,LAYER,千葉県,1788,QALFY,千葉県,2843,0KRUSH,千葉県
 tricoro,examination leave,1112,LAYER,千葉県,1901,DARK-I,千葉県,3395,U*TAKA,千葉県
 tricoro,Elemental Creation,1483,GES8RO,千葉県,2382,HARU,千葉県,4127,U*TAKA,千葉県
@@ -735,7 +735,7 @@ tricoro,8bit Princess,654,GES8RO,千葉県,1370,GES8RO,千葉県,2628,SEIRYU,千
 tricoro,405nm (Ryu☆mix),925,LAYER,千葉県,1658,8-UT,千葉県,2567,U*TAKA,千葉県
 SPADA,轟け！恋のビーンボール！！,1041,CHEESE,千葉県,1899,HARU,千葉県,3577,U*TAKA,千葉県
 SPADA,超!!遠距離らぶ?メ～ル,572,LAYER,千葉県,1554,AGUILA,千葉県,2625,PSY6CK,千葉県
-SPADA,罪と罰,1084,LAYER,千葉県,1382,LAYER,千葉県,2135,REZERO,千葉県
+SPADA,罪と罰,1084,LAYER,千葉県,1400,GES8RO,千葉県,2135,REZERO,千葉県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3412,U*TAKA,千葉県
 SPADA,疾風迅雷,1153,GF-NAE,千葉県,2106,SEIRYU,千葉県,2911,U*TAKA,千葉県
 SPADA,牧神笛吹きて,746,LAYER,千葉県,1345,LAYER,千葉県,2022,MNT1O,千葉県
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,958,LAYER,千葉県,1591,AGUILA,千葉
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,969,LAYER,千葉県,1917,HARU,千葉県,3119,U*TAKA,千葉県
 PENDUAL,取り残された美術(Arranged:HiZuMi),970,LAYER,千葉県,1743,AGUILA,千葉県,2191,RIS.DG,千葉県
 PENDUAL,千年ノ理,1202,GES8RO,千葉県,1977,AGUILA,千葉県,3183,U*TAKA,千葉県
-PENDUAL,十六夜セツナ,1013,LAYER,千葉県,1611,LAYER,千葉県,2226,YAMA*S,千葉県
+PENDUAL,十六夜セツナ,1013,LAYER,千葉県,1621,GES8RO,千葉県,2226,YAMA*S,千葉県
 PENDUAL,共鳴遊戯の華,1294,LAYER,千葉県,2431,HARU,千葉県,3856,U*TAKA,千葉県
 PENDUAL,リリーゼと炎龍レーヴァテイン,1001,LAYER,千葉県,2259,MINCHO,千葉県,3476,U*TAKA,千葉県
 PENDUAL,ベィスドロップ・フリークス,631,MOGRA3,千葉県,1261,LAYER,千葉県,2210,PSY6CK,千葉県
@@ -855,7 +855,7 @@ PENDUAL,Sweet Radar,672,LAYER,千葉県,1372,GES8RO,千葉県,2029,PRECOG,千葉
 PENDUAL,SpaceLand☆TOYBOX,1085,LAYER,千葉県,1733,HARU,千葉県,2913,FREAKY,千葉県
 PENDUAL,Sounds Of Summer,1239,LAYER,千葉県,2085,HARU,千葉県,2940,U*TAKA,千葉県
 PENDUAL,Shooting Fireball,942,LAYER,千葉県,2261,HARU,千葉県,3894,U*TAKA,千葉県
-PENDUAL,Scars of FAUNA,856,LAYER,千葉県,1705,GES8RO,千葉県,2855,PRECOG,千葉県
+PENDUAL,Scars of FAUNA,862,GES8RO,千葉県,1705,GES8RO,千葉県,2855,PRECOG,千葉県
 PENDUAL,Scarlet Moon,1069,LAYER,千葉県,1850,QALFY,千葉県,2737,U*TAKA,千葉県
 PENDUAL,Say YEEEAHH,1167,LAYER,千葉県,1847,HARU,千葉県,3246,U*TAKA,千葉県
 PENDUAL,SAMSARA,854,GES8RO,千葉県,1446,GES8RO,千葉県,2031,REZERO,千葉県
@@ -938,7 +938,7 @@ copula,Triple Counter,1386,JK16,千葉県,2222,0KRUSH,千葉県,3924,U*TAKA,千�
 copula,Transport,1023,LAYER,千葉県,1496,LAYER,千葉県,2124,RIS.DG,千葉県
 copula,Tori-no-kimochi,265,N,千葉県,1287,LAYER,千葉県,1999,U*TAKA,千葉県
 copula,SURVIVOR,699,MOGRA3,千葉県,1281,LAYER,千葉県,2003,PSY6CK,千葉県
-copula,Super Duper Racers,947,NILG,千葉県,1564,LAYER,千葉県,2337,PSY6CK,千葉県
+copula,Super Duper Racers,947,NILG,千葉県,1587,GES8RO,千葉県,2337,PSY6CK,千葉県
 copula,StrayedCatz,1089,LAYER,千葉県,1911,DREAM,千葉県,2866,U*TAKA,千葉県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3313,U*TAKA,千葉県
 copula,STARLIGHT DANCEHALL,1201,3MAME,千葉県,1773,LAYER,千葉県,2653,U*TAKA,千葉県
@@ -949,7 +949,7 @@ copula,Sephirot,955,LAYER,千葉県,1580,LAYER,千葉県,2345,U*TAKA,千葉県
 copula,SEITEN NO TERIYAKI,735,LAYER,千葉県,1285,LAYER,千葉県,2238,U*TAKA,千葉県
 copula,Routing,940,LAYER,千葉県,1624,LAYER,千葉県,2457,PSY6CK,千葉県
 copula,Rock It,1159,MOGRA3,千葉県,1639,LAYER,千葉県,2877,REZERO,千葉県
-copula,refrain,1217,LAYER,千葉県,2317,HARU,千葉県,3604,U*TAKA,千葉県
+copula,refrain,1224,GES8RO,千葉県,2317,HARU,千葉県,3604,U*TAKA,千葉県
 copula,quick master (reform version),160,GES8RO,千葉県,347,LAYER,千葉県,525,GIL*SR,千葉県
 copula,POSSESSION,1360,SUGIYA,千葉県,2093,A.CRYS,千葉県,3011,U*TAKA,千葉県
 copula,OUTER LIMITS ALTERNATIVE,1171,NILG,千葉県,1724,LAYER,千葉県,2654,MNT1O,千葉県
@@ -1003,7 +1003,7 @@ SINOBUZ,禍根,810,LAYER,千葉県,1347,QALFY,千葉県,2580,U*TAKA,千葉県
 SINOBUZ,獅子霞麗ノ舞,495,MOGRA3,千葉県,1055,KINOKO,千葉県,1722,PRECOG,千葉県
 SINOBUZ,焔極OVERKILL,1141,LAYER,千葉県,2102,MINCHO,千葉県,3616,U*TAKA,千葉県
 SINOBUZ,炎影,718,LAYER,千葉県,1394,GDDELF,千葉県,2714,U*TAKA,千葉県
-SINOBUZ,津軽雪,1501,FATE,千葉県,2183,KI.,千葉県,3846,U*TAKA,千葉県
+SINOBUZ,津軽雪,1501,FATE,千葉県,2189,GES8RO,千葉県,3846,U*TAKA,千葉県
 SINOBUZ,次葉 -turn the page-,840,MOGRA3,千葉県,1402,LAYER,千葉県,1969,RIS.DG,千葉県
 SINOBUZ,月雪に舞う華のように,839,LAYER,千葉県,1291,LAYER,千葉県,2073,KRAG20,千葉県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,1013,LAYER,千葉県,1589,GES8RO,千葉県,2445,0KRUSH,千葉県
@@ -1053,7 +1053,7 @@ SINOBUZ,Quakes,1121,LAYER,千葉県,2077,HARU,千葉県,3192,U*TAKA,千葉県
 SINOBUZ,Piano Samurai,1064,GF-NAE,千葉県,1776,GES8RO,千葉県,2459,5.9161,千葉県
 SINOBUZ,PAPAYAPA BASS,778,LAYER,千葉県,1544,TAKAVO,千葉県,2791,PRECOG,千葉県
 SINOBUZ,OTENAMI Hurricane,1278,LAYER,千葉県,2139,HARU,千葉県,3161,U*TAKA,千葉県
-SINOBUZ,OOO,692,NILG,千葉県,1458,LAYER,千葉県,2051,1FJUMP,千葉県
+SINOBUZ,OOO,692,NILG,千葉県,1464,GES8RO,千葉県,2051,1FJUMP,千葉県
 SINOBUZ,nostos,898,MOGRA3,千葉県,1298,LAYER,千葉県,2627,U*TAKA,千葉県
 SINOBUZ,Music is The Answer,778,LAYER,千葉県,1395,XAN.96,千葉県,1877,5.9161,千葉県
 SINOBUZ,Modular Technology,1232,LAYER,千葉県,1862,TOMATO,千葉県,2638,PRECOG,千葉県
@@ -1105,7 +1105,7 @@ CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short V
 CANNON BALLERS,バスルーム ロマンス,969,LAYER,千葉県,1422,MOGRA3,千葉県,2406,PSY6CK,千葉県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,823,MOGRA3,千葉県,1774,8-UT,千葉県,2510,PRECOG,千葉県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,871,JCDK,千葉県,1539,LAYER,千葉県,2435,YAMA*S,千葉県
-CANNON BALLERS,ナイトシティー・アヴァンチュール,1034,GES8RO,千葉県,1530,LAYER,千葉県,2071,REZERO,千葉県
+CANNON BALLERS,ナイトシティー・アヴァンチュール,1034,GES8RO,千葉県,1532,GES8RO,千葉県,2071,REZERO,千葉県
 CANNON BALLERS,シムルグの目醒め,1422,SMILY.,千葉県,2363,HARU,千葉県,3464,U*TAKA,千葉県
 CANNON BALLERS,エディブルフラワーの独白,815,N,千葉県,1522,LAYER,千葉県,2189,O-.-O,千葉県
 CANNON BALLERS,うさ☆かめ 大戦争！,929,LAYER,千葉県,1582,LAYER,千葉県,2483,0KRUSH,千葉県
@@ -1256,7 +1256,7 @@ Rootage,BLOSSOM,1095,GES8RO,千葉県,1654,GES8RO,千葉県,2515,MNT1O,千葉県
 Rootage,Angels & Demons,928,GES8RO,千葉県,1790,PRECOG,千葉県,2430,PRECOG,千葉県
 Rootage,AGAiN,1032,GES8RO,千葉県,1623,GES8RO,千葉県,2300,U*TAKA,千葉県
 Rootage,A Tale Hidden In The Abyss,956,GES8RO,千葉県,1722,DARK-I,千葉県,2621,SEIRYU,千葉県
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1237,DARK-I,千葉県,1647,GES8RO,千葉県,2595,KONOMI,千葉県
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1240,GES8RO,千葉県,1647,GES8RO,千葉県,2595,KONOMI,千葉県
 Rootage,50th Memorial Songs -The BEMANI History-,1082,GES8RO,千葉県,1641,86*,千葉県,2587,MNT1O,千葉県
-Rootage,50th Memorial Songs -Flagship medley-,966,DARK-I,千葉県,1534,DARK-I,千葉県,2253,KONOMI,千葉県
+Rootage,50th Memorial Songs -Flagship medley-,979,GES8RO,千葉県,1534,DARK-I,千葉県,2253,KONOMI,千葉県
 Rootage,50th Memorial Songs -Beginning Story-,829,GES8RO,千葉県,1654,GES8RO,千葉県,2694,PRECOG,千葉県

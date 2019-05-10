@@ -24,7 +24,7 @@
 3rd style,Tangerine Stream,275,PLASTA,広島県,396,44KING,広島県,0,,未設定
 3rd style,Skyscraper,680,*ASPN*,広島県,1133,SA-77D,広島県,1190,TATSU*,広島県
 3rd style,Schlagwerk,736,MAHA,広島県,1176,FL.SQ,広島県,1666,YU-HI,広島県
-3rd style,REINCARNATION,840,44KING,広島県,889,INOZOO,広島県,1202,SUMIRE,広島県
+3rd style,REINCARNATION,840,44KING,広島県,889,INOZOO,広島県,1227,TATSU*,広島県
 3rd style,R5,772,44KING,広島県,1155,44KING,広島県,1758,NKNFAL,広島県
 3rd style,Presto,527,YU-HI,広島県,971,NATTSU,広島県,999,SHORT,広島県
 3rd style,LEADING CYBER,749,*ASPN*,広島県,1058,3439,広島県,1264,NKNFAL,広島県
@@ -178,7 +178,7 @@
 10th style,システムロマンス,852,3439,広島県,1583,VIRUS,広島県,2025,A,広島県
 10th style,SPACE FIGHT,581,*ASPN*,広島県,1468,NATTSU,広島県,2206,NKNFAL,広島県
 10th style,SHOOTING STAR,1057,NOIRE,広島県,1659,NATTSU,広島県,2220,SHORT,広島県
-10th style,Rise'n Beauty,1131,*ASPN*,広島県,1473,R.STR,広島県,2063,ROBBY,広島県
+10th style,Rise'n Beauty,1131,*ASPN*,広島県,1473,R.STR,広島県,2074,ROBBY,広島県
 10th style,rainbow rainbow,1382,OFUJI,広島県,2132,S-RAN,広島県,2606,UBSACK,広島県
 10th style,pandora,0,,未設定,1636,NATTSU,広島県,1786,ESPRIT,広島県
 10th style,One More Lovely,802,*ASPN*,広島県,1611,-AKI-,広島県,2728,NKNFAL,広島県
@@ -399,7 +399,7 @@ DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,992,3439,広島�
 DJ TROOPERS,MENTAL MELTDOWN,1123,KAERU3,広島県,2073,YASDA.,広島県,2719,NKNFAL,広島県
 DJ TROOPERS,MENDES,1127,44KING,広島県,2436,KENRYU,広島県,3511,NKNFAL,広島県
 DJ TROOPERS,MAX LOVE,1409,K.N,広島県,2125,NATTSU,広島県,2655,A,広島県
-DJ TROOPERS,LOVELY STORM,1236,KAERU3,広島県,2154,NATTSU,広島県,2729,24KEN,広島県
+DJ TROOPERS,LOVELY STORM,1236,KAERU3,広島県,2154,NATTSU,広島県,2731,SILVI,広島県
 DJ TROOPERS,Kick Out 仮面,1153,KAERU3,広島県,1505,MEIMAX,広島県,2024,NKNFAL,広島県
 DJ TROOPERS,in the Sky,1320,KAERU3,広島県,2113,NATTSU,広島県,2529,NKNFAL,広島県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3332,UBSACK,広島県
@@ -492,13 +492,13 @@ SIRIUS,Programmed Sun,1034,KAERU3,広島県,1739,TERA.P,広島県,2503,ROBBY,広
 SIRIUS,NoN-Fiction Story!,687,KAERU3,広島県,1359,TERA.P,広島県,2199,NKNFAL,広島県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1208,KAERU3,広島県,1974,MYNEEZ,広島県,2631,-AKI-,広島県
 SIRIUS,mosaic,1470,MYNEEZ,広島県,2011,MYNEEZ,広島県,3001,NKNFAL,広島県
-SIRIUS,MIRACLE MEETS,895,KAERU3,広島県,1482,K.N,広島県,2161,NKNFAL,広島県
+SIRIUS,MIRACLE MEETS,895,KAERU3,広島県,1515,NATTSU,広島県,2161,NKNFAL,広島県
 SIRIUS,Light Shine,755,KAERU3,広島県,1071,3439,広島県,1915,-AKI-,広島県
 SIRIUS,Last Burning,833,KAERU3,広島県,1476,FL.SQ,広島県,2315,YU-HI,広島県
 SIRIUS,Keep it-秋葉工房mix-,979,3439,広島県,1566,UMR,広島県,1812,TKHR,広島県
 SIRIUS,IN THE NAME OF LOVE,722,KAERU3,広島県,1199,*ASPN*,広島県,1862,TATSU*,広島県
 SIRIUS,Hydrogen Blueback,987,KAERU3,広島県,1670,NATTSU,広島県,2302,NKNFAL,広島県
-SIRIUS,GOLDEN CROSS,1047,KAERU3,広島県,1926,MELT,広島県,3449,NKNFAL,広島県
+SIRIUS,GOLDEN CROSS,1047,KAERU3,広島県,2002,NATTSU,広島県,3449,NKNFAL,広島県
 SIRIUS,GALGALIM,1318,KAERU3,広島県,1849,MYNEEZ,広島県,2249,ELMO.,広島県
 SIRIUS,G59,1685,KAERU3,広島県,2246,MELT,広島県,3836,NKNFAL,広島県
 SIRIUS,EXUSIA,1158,8RUT0,広島県,2708,-AKI-,広島県,3739,NKNFAL,広島県
@@ -540,7 +540,7 @@ Resort Anthem,THE FALLEN,864,KAERU3,広島県,1495,NATTSU,広島県,2551,MYNEEZ,
 Resort Anthem,THE DOOR INTO RAINBOW,780,KAERU3,広島県,1707,NATTSU,広島県,2039,NATTSU,広島県
 Resort Anthem,THE BLACK KNIGHT,878,KAERU3,広島県,1916,SHUTRA,広島県,2748,SGEA,広島県
 Resort Anthem,STELLAR WIND,576,KAERU3,広島県,1808,NATTSU,広島県,2510,ROBBY,広島県
-Resort Anthem,Stay my side,628,KAERU3,広島県,845,SADMAC,広島県,1325,NATTSU,広島県
+Resort Anthem,Stay my side,628,KAERU3,広島県,947,55*,広島県,1325,NATTSU,広島県
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,693,KAERU3,広島県,1607,NATTSU,広島県,2852,M1917,広島県
 Resort Anthem,Space Time,607,KAERU3,広島県,1661,NATTSU,広島県,2121,ELMO.,広島県
 Resort Anthem,Session 9 -Chronicles-,737,KAERU3,広島県,2176,CORGI,広島県,3403,SIN16U,広島県
@@ -642,7 +642,7 @@ Lincle,Castle on the Moon,638,KAERU3,広島県,1590,NATTSU,広島県,2310,YU-HI,
 Lincle,CALL,357,MEIMAX,広島県,809,KAERU3,広島県,1445,SILVI,広島県
 Lincle,BLACK.by X-Cross Fade,1013,TERA.P,広島県,2098,S-RAN,広島県,3204,NKNFAL,広島県
 Lincle,ANAGRAMS I to Y,890,3439,広島県,1545,NOIRE,広島県,2424,FANZA,広島県
-Lincle,Almace,754,V2ABG,広島県,1289,NATTSU,広島県,1924,SUMIRE,広島県
+Lincle,Almace,754,V2ABG,広島県,1289,NATTSU,広島県,1930,YASDA.,広島県
 Lincle,532nm,519,EA*T.K,広島県,1189,3439,広島県,2627,NKNFAL,広島県
 Lincle,24th Century BOY,826,KAERU3,広島県,1776,KOJI,広島県,2750,UBSACK,広島県
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3126,KEH,広島県
@@ -664,7 +664,7 @@ tricoro,シュレーディンガーの猫,1098,KAERU3,広島県,2281,PYU-,広島
 tricoro,キャトられ恋はモ～モク,1429,KAERU3,広島県,2545,*M1,広島県,3585,UBSACK,広島県
 tricoro,カジノファイヤーことみちゃん,622,KAERU3,広島県,1425,NATTSU,広島県,2294,KEH,広島県
 tricoro,アストライアの双皿,674,TERA.P,広島県,1945,TOM,広島県,3000,KEH,広島県
-tricoro,たまゆら,1133,KAERU3,広島県,1785,MYNEEZ,広島県,2672,UBSACK,広島県
+tricoro,たまゆら,1133,KAERU3,広島県,1800,*AAA*,広島県,2672,UBSACK,広島県
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,868,KAERU3,広島県,1571,NATTSU,広島県,2144,YU-HI,広島県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),403,?,広島県,1606,2-4K,広島県,3450,NKNFAL,広島県
 tricoro,ΕΛΠΙΣ,1112,KAERU3,広島県,1993,MELT,広島県,3017,UBSACK,広島県
@@ -719,7 +719,7 @@ tricoro,GRADIUS 2012,882,KAERU3,広島県,1711,NATTSU,広島県,2612,TKHR,広島
 tricoro,GAIA,1000,KAERU3,広島県,2094,NATTSU,広島県,3227,NKNFAL,広島県
 tricoro,Fly you to the star,758,KAERU3,広島県,1606,NATTSU,広島県,2208,ROBBY,広島県
 tricoro,FLOWER,1069,KAERU3,広島県,1677,MATURI,広島県,2863,NKNFAL,広島県
-tricoro,examination leave,1087,KAERU3,広島県,1832,KAERU3,広島県,3331,A,広島県
+tricoro,examination leave,1087,KAERU3,広島県,1860,NATTSU,広島県,3331,A,広島県
 tricoro,Elemental Creation,1423,KAERU3,広島県,2295,NATTSU,広島県,3855,UBSACK,広島県
 tricoro,Devilz Staircase,584,CHILL,広島県,2035,NATTSU,広島県,3101,UBSACK,広島県
 tricoro,DAY DREAM,528,3439,広島県,1226,YASDA.,広島県,1916,NKNFAL,広島県
@@ -857,7 +857,7 @@ PENDUAL,Sounds Of Summer,1175,3439,広島県,2033,TERA.P,広島県,2883,-AKI-,�
 PENDUAL,Shooting Fireball,948,O7KYUN,広島県,2215,BPM255,広島県,3736,UBSACK,広島県
 PENDUAL,Scars of FAUNA,826,3439,広島県,1672,NATTSU,広島県,2846,NKNFAL,広島県
 PENDUAL,Scarlet Moon,963,*ASPN*,広島県,1654,INOZOO,広島県,2626,SIN16U,広島県
-PENDUAL,Say YEEEAHH,1013,*ASPN*,広島県,1792,SHIELD,広島県,3238,NKNFAL,広島県
+PENDUAL,Say YEEEAHH,1013,*ASPN*,広島県,1796,NATTSU,広島県,3238,NKNFAL,広島県
 PENDUAL,SAMSARA,820,KAERU3,広島県,1323,YOH,広島県,2024,TKHR,広島県
 PENDUAL,Sakura Mirage,917,WOORLD,広島県,1359,NATTSU,広島県,2180,SUMIRE,広島県
 PENDUAL,Reflux,574,YOPPY?,広島県,1564,NATTSU,広島県,2900,UBSACK,広島県
@@ -1044,7 +1044,7 @@ SINOBUZ,SCREAM THE LIFE FEAT.KYONO,698,TNT,広島県,1586,NATTSU,広島県,2264,
 SINOBUZ,SAY BAY,781,R,広島県,1492,NATTSU,広島県,2696,NKNFAL,広島県
 SINOBUZ,Sarutobi Champion is 拙者,939,3439,広島県,1508,NATTSU,広島県,2106,SIN16U,広島県
 SINOBUZ,SAMURAI-Scramble,853,INOZOO,広島県,1664,-AKI-,広島県,2298,KKR,広島県
-SINOBUZ,ROTTERDAM SHOGUN,935,4YA,広島県,1775,NATTSU,広島県,2464,UBSACK,広島県
+SINOBUZ,ROTTERDAM SHOGUN,1064,VIRUS,広島県,1775,NATTSU,広島県,2464,UBSACK,広島県
 SINOBUZ,RISING FIRE HAWK,801,8RU3ME,広島県,1484,NATTSU,広島県,2569,-AKI-,広島県
 SINOBUZ,Remedy feat. Kanae Asaba,640,C0TA2,広島県,1630,NATTSU,広島県,2167,TKHR,広島県
 SINOBUZ,Rave Cannon,1013,KAERU3,広島県,1862,NATTSU,広島県,3174,SHORT,広島県
@@ -1072,7 +1072,7 @@ SINOBUZ,elemental bender feat. Kanae Asaba,581,*ASPN*,広島県,1176,MELT,広島
 SINOBUZ,Egret and Willow,610,MMY787,広島県,1657,NATTSU,広島県,2656,A,広島県
 SINOBUZ,ECHIDNA,1139,NOIRE,広島県,2100,-AKI-,広島県,3206,NKNFAL,広島県
 SINOBUZ,DORNWALD ～Junge～,1074,MHI-T,広島県,2129,SILVI,広島県,3455,UBSACK,広島県
-SINOBUZ,DISAPPEAR feat. koyomin,657,V2ABG,広島県,1746,NATTSU,広島県,2678,SUMIRE,広島県
+SINOBUZ,DISAPPEAR feat. koyomin,657,V2ABG,広島県,1746,NATTSU,広島県,2681,ROBBY,広島県
 SINOBUZ,Cyber True Color,936,NOMA,広島県,1665,A,広島県,2259,A,広島県
 SINOBUZ,crew,622,TERA.P,広島県,1739,NATTSU,広島県,2827,UBSACK,広島県
 SINOBUZ,Caterpillar,1149,3439,広島県,2166,SILVI,広島県,2825,SIN16U,広島県
@@ -1192,7 +1192,7 @@ Rootage,花冠 feat.Aikapin,961,NATTSU,広島県,1678,NATTSU,広島県,2471,SIN1
 Rootage,爆ゼニ☆がってんワーカー,1249,NATTSU,広島県,1892,A,広島県,2617,-AKI-,広島県
 Rootage,抱きしめてモナムール,1315,NATTSU,広島県,2314,-AKI-,広島県,3894,UBSACK,広島県
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,685,NATTSU,広島県,1538,A,広島県,2533,TKHR,広島県
-Rootage,ミストレス・アンに花束を,578,NATTSU,広島県,1019,A,広島県,1416,NKNFAL,広島県
+Rootage,ミストレス・アンに花束を,578,NATTSU,広島県,1019,A,広島県,1417,SILVI,広島県
 Rootage,ハードベース・フェスタ,1142,NATTSU,広島県,1808,NATTSU,広島県,2813,NKNFAL,広島県
 Rootage,セカンドピアス,602,NATTSU,広島県,1100,NATTSU,広島県,2010,NKNFAL,広島県
 Rootage,サクラあっぱれーしょん,631,MELT,広島県,1538,NATTSU,広島県,2305,NKNFAL,広島県
