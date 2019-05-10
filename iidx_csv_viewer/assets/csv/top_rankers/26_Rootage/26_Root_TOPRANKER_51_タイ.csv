@@ -13,7 +13,7 @@
 1st&substream,deep in you,0,,未設定,0,,未設定,636,PU2ANA,タイ
 1st&substream,5.1.1.,192,CAVIAR,タイ,939,CAVIAR,タイ,1511,CAVIAR,タイ
 1st&substream,22DUNK,0,,未設定,0,,未設定,614,PU2ANA,タイ
-2nd style,SP-TRIP MACHINE(for beatmania II),479,HYPER,タイ,0,,未設定,640,PU2ANA,タイ
+2nd style,SP-TRIP MACHINE(for beatmania II),479,HYPER,タイ,599,KKMTC*,タイ,640,PU2ANA,タイ
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,813,HAMM,タイ,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,998,HYPER,タイ,1172,PU2ANA,タイ
 2nd style,I Was The One,433,*TRAN*,タイ,0,,未設定,677,PU2ANA,タイ
@@ -57,7 +57,7 @@
 4th style,ABSOLUTE,1117,ZEE,タイ,1728,SPIKE!,タイ,2275,CAVIAR,タイ
 4th style,250bpm,0,,未設定,804,ZEE,タイ,1214,SPIKE!,タイ
 5th style,V,1038,ZEE,タイ,2358,NART!!,タイ,2791,UNGAAA,タイ
-5th style,THE SHINING POLARIS,0,,未設定,1172,HYPER,タイ,1528,CAVIAR,タイ
+5th style,THE SHINING POLARIS,0,,未設定,1172,HYPER,タイ,1545,PU2ANA,タイ
 5th style,THE CUBE,0,,未設定,0,,未設定,1290,PL.DN.,タイ
 5th style,sync,897,ZEE,タイ,1418,ZEE,タイ,2279,PL.DN.,タイ
 5th style,still my words,0,,未設定,1177,PU2ANA,タイ,0,,未設定
@@ -135,7 +135,7 @@
 8th style,Giudecca,0,,未設定,1755,KKMTC*,タイ,2556,CAVIAR,タイ
 8th style,dual control,0,,未設定,1315,KKMTC*,タイ,1837,H0STC,タイ
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,未設定,1785,84*,タイ,2128,CAVIAR,タイ
-8th style,CELEBRATE NITE,0,,未設定,0,,未設定,1411,H0STC,タイ
+8th style,CELEBRATE NITE,0,,未設定,1083,SPIKE!,タイ,1411,H0STC,タイ
 8th style,Blame,0,,未設定,1162,ZEE,タイ,1816,PL.DN.,タイ
 8th style,bit mania,0,,未設定,1231,SPIKE!,タイ,1828,H0STC,タイ
 8th style,Attitude,0,,未設定,1212,HYPER,タイ,1724,H0STC,タイ
@@ -211,7 +211,7 @@ IIDX RED,太陽～T・A・I・Y・O～,493,XXXXXX,タイ,1174,ZEE,タイ,1585,EA
 IIDX RED,大桟橋,263,VALL,タイ,1024,SPIKE!,タイ,1810,AYA.K,タイ
 IIDX RED,ピアノ協奏曲第１番”蠍火”,533,YUUGEN,タイ,1979,UNGAAA,タイ,2537,AYA.K,タイ
 IIDX RED,Wonder Bullfighter,760,ZEE,タイ,1103,ZEE,タイ,1868,CAVIAR,タイ
-IIDX RED,The Hope of Tomorrow,0,,未設定,1652,PU2ANA,タイ,1793,PU2ANA,タイ
+IIDX RED,The Hope of Tomorrow,687,GUEST,タイ,1652,PU2ANA,タイ,1836,PU2ANA,タイ
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3468,UNGAAA,タイ
 IIDX RED,spiral galaxy,981,HYPER,タイ,1710,ZK-2.,タイ,2443,PU2ANA,タイ
 IIDX RED,Sphere,0,,未設定,1892,H0STC,タイ,2072,AYA.K,タイ
@@ -264,7 +264,7 @@ HAPPY SKY,Pollinosis,0,,未設定,0,,未設定,2325,EARTH!,タイ
 HAPPY SKY,PLASMA,0,,未設定,1268,ZEE,タイ,2168,TORO,タイ
 HAPPY SKY,Pink Rose,423,IIDX26,タイ,879,84*,タイ,1402,H0STC,タイ
 HAPPY SKY,MOON RACE,0,,未設定,978,ZEE,タイ,1830,PU2ANA,タイ
-HAPPY SKY,Love Magic,0,,未設定,1710,PU2ANA,タイ,1771,PU2ANA,タイ
+HAPPY SKY,Love Magic,0,,未設定,1710,PU2ANA,タイ,1772,PU2ANA,タイ
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3698,AYA.K,タイ
 HAPPY SKY,Little Little Princess,0,,未設定,1910,R3333,タイ,2684,PL.DN.,タイ
 HAPPY SKY,LESSON 5,0,,未設定,1420,ZEE,タイ,2410,PU2ANA,タイ
@@ -329,7 +329,7 @@ GOLD,零 - ZERO -,0,,未設定,1748,SPIKE!,タイ,2266,H0STC,タイ
 GOLD,花吹雪 ～ IIDX LIMITED ～,608,ZEE,タイ,0,,未設定,1418,H0STC,タイ
 GOLD,星をこの手に,1155,SPIKE!,タイ,1665,ASF410,タイ,2060,PU2ANA,タイ
 GOLD,リグレット,0,,未設定,1497,84*,タイ,2363,PU2ANA,タイ
-GOLD,ヨシダさん,0,,未設定,1294,ZEE,タイ,1939,H0STC,タイ
+GOLD,ヨシダさん,366,!?!?,タイ,1294,ZEE,タイ,1939,H0STC,タイ
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,924,POCOPL,タイ,1511,AYA.K,タイ,2225,AYA.K,タイ
 GOLD,X-rated,0,,未設定,1509,KKMTC*,タイ,1990,PU2ANA,タイ
 GOLD,With your Smile,379,ZEE,タイ,1010,ZEE,タイ,1512,UNGAAA,タイ
@@ -362,7 +362,7 @@ GOLD,four-leaf,543,L15TL5,タイ,0,,未設定,1680,H0STC,タイ
 GOLD,FIRE FIRE,1080,HYPER,タイ,1569,ZAKO,タイ,2538,CAVIAR,タイ
 GOLD,Fascination MAXX,896,CAVIAR,タイ,1631,UNGAAA,タイ,2221,UNGAAA,タイ
 GOLD,Cyber Force,1014,HYPER,タイ,1618,HYPER,タイ,2255,CAVIAR,タイ
-GOLD,CROSSROAD ～Left Story～,961,ZEE,タイ,1648,84*,タイ,2158,EARTH!,タイ
+GOLD,CROSSROAD ～Left Story～,961,ZEE,タイ,1648,84*,タイ,2159,PU2ANA,タイ
 GOLD,CaptivAte～誓い～,813,FREDX,タイ,1885,SPIKE!,タイ,2222,H0STC,タイ
 GOLD,CaptivAte～裁き～,514,FREDX,タイ,1194,YOD00,タイ,1751,H0STC,タイ
 GOLD,Candy Galy,1346,GABEON,タイ,2247,SPIKE!,タイ,3488,AYA.K,タイ
@@ -435,7 +435,7 @@ EMPRESS,Y&Co. is dead or alive,0,,未設定,1436,POCOPL,タイ,2559,AYA.K,タイ
 EMPRESS,V2,1211,ZEE,タイ,2834,UNGAAA,タイ,3467,AYA.K,タイ
 EMPRESS,Turii ～Panta rhei～,473,NOBAR!,タイ,1926,SPIKE!,タイ,2580,AYA.K,タイ
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2825,AYA.K,タイ
-EMPRESS,THANK YOU FOR PLAYING,634,GUEST,タイ,1424,C*SHIN,タイ,2006,PU2ANA,タイ
+EMPRESS,THANK YOU FOR PLAYING,691,GUEST,タイ,1424,C*SHIN,タイ,2006,PU2ANA,タイ
 EMPRESS,SOLITON BEAM,0,,未設定,1758,HAMM,タイ,2241,PU2ANA,タイ
 EMPRESS,smooooch・∀・,683,BLAZEX,タイ,1578,SPIKE!,タイ,2067,PU2ANA,タイ
 EMPRESS,Secrets,4,ASF410,タイ,2368,CAVIAR,タイ,2952,TORO,タイ
@@ -461,7 +461,7 @@ EMPRESS,Cyber Force -DJ Yoshitaka Remix-,0,,未設定,1609,HYPER,タイ,2425,PU2
 EMPRESS,Colorful Cookie,937,MIMO$A,タイ,2229,PU2ANA,タイ,3358,AYA.K,タイ
 EMPRESS,CaptivAte2～覚醒～,912,ZEE,タイ,1679,SPIKE!,タイ,2334,AYA.K,タイ
 EMPRESS,BRIDAL FESTIVAL !!!,440,MNRT.P,タイ,1352,84*,タイ,2040,PU2ANA,タイ
-EMPRESS,BITTER CHOCOLATE STRIKER,795,MIMO$A,タイ,2088,SPIKE!,タイ,3657,AYA.K,タイ
+EMPRESS,BITTER CHOCOLATE STRIKER,898,ZEE,タイ,2088,SPIKE!,タイ,3657,AYA.K,タイ
 EMPRESS,Bahram Attack-猫叉Master Remix-,273,JFRJER,タイ,1948,H0STC,タイ,2563,TORO,タイ
 EMPRESS,B4U(BEMANI FOR YOU MIX),642,NOBAR!,タイ,1985,AXID,タイ,3364,PL.DN.,タイ
 EMPRESS,Arabian Rave Night,1024,MDHPPO,タイ,2140,SPIKE!,タイ,2842,AYA.K,タイ
@@ -532,7 +532,7 @@ Resort Anthem,ZETA～素数の世界と超越者～,425,NOBAR!,タイ,2002,SPIKE
 Resort Anthem,XANADU OF TWO,798,XXXXXX,タイ,1581,84*,タイ,2651,NART!!,タイ
 Resort Anthem,Wuv U,330,DECEP,タイ,1137,YOD00,タイ,1649,PU2ANA,タイ
 Resort Anthem,WISE UP!,0,,未設定,822,NASUME,タイ,1497,MM.COM,タイ
-Resort Anthem,WE LOVE SHONAN,297,RIF,タイ,1213,ZEE,タイ,2039,PU2ANA,タイ
+Resort Anthem,WE LOVE SHONAN,297,RIF,タイ,1467,SPIKE!,タイ,2039,PU2ANA,タイ
 Resort Anthem,Watch Out Pt.2,926,LOADIN,タイ,1884,34?-R,タイ,2687,H0STC,タイ
 Resort Anthem,Vermillion,437,DECEP,タイ,894,LOADIN,タイ,1962,AYA.K,タイ
 Resort Anthem,Tropical April,1352,POOM*H,タイ,2155,PL.DN.,タイ,2610,CAVIAR,タイ
@@ -620,7 +620,7 @@ Lincle,Phoenix,810,84*,タイ,0,,未設定,2244,PU2ANA,タイ
 Lincle,NNRT,1054,ZEE,タイ,2414,SPIKE!,タイ,3367,AYA.K,タイ
 Lincle,Miami Sunset Drive,0,,未設定,0,,未設定,1587,NART!!,タイ
 Lincle,Mermaid girl-秋葉工房 MIX-,681,XXXXXX,タイ,1214,HYPER,タイ,2004,TORO,タイ
-Lincle,Lucky Days,343,SATI$,タイ,1384,HYPER,タイ,2124,CAVIAR,タイ
+Lincle,Lucky Days,536,GUEST,タイ,1384,HYPER,タイ,2124,CAVIAR,タイ
 Lincle,LOVE B.B.B,465,*P*,タイ,1384,YOD00,タイ,1968,H0STC,タイ
 Lincle,Liquid Crystal Girl feat. echo,0,,未設定,1046,ZEE,タイ,1997,H0STC,タイ
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,1009,AYA.K,タイ,1507,BOYDTR,タイ,2153,H0STC,タイ
@@ -666,7 +666,7 @@ tricoro,カジノファイヤーことみちゃん,0,,未設定,1329,ASF410,タ�
 tricoro,アストライアの双皿,298,KATAUA,タイ,1576,ZEE,タイ,2856,CAVIAR,タイ
 tricoro,たまゆら,0,,未設定,1802,NART!!,タイ,2622,CAVIAR,タイ
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,未設定,1331,ZEE,タイ,2022,PU2ANA,タイ
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),392,GUEST,タイ,1564,AYA.K,タイ,3446,AYA.K,タイ
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),392,GUEST,タイ,1585,SPIKE!,タイ,3446,AYA.K,タイ
 tricoro,ΕΛΠΙΣ,760,DECEP,タイ,1907,ENAKO.,タイ,2972,PL.DN.,タイ
 tricoro,Zirkfied,727,DECEP,タイ,1929,34?-R,タイ,3572,AYA.K,タイ
 tricoro,ZED,0,,未設定,1519,CC,タイ,2629,CAVIAR,タイ
@@ -681,7 +681,7 @@ tricoro,Timepiece phase II,0,,未設定,1985,AYA.K,タイ,2861,EARTH!,タイ
 tricoro,Time To Empress,0,,未設定,1884,PU2ANA,タイ,2485,PU2ANA,タイ
 tricoro,Thor's Hammer,911,84*,タイ,1392,AZVW-2,タイ,2700,AYA.K,タイ
 tricoro,Take My Life,0,,未設定,1279,MIKA.,タイ,2790,PL.DN.,タイ
-tricoro,Synergy For Angels,0,,未設定,1433,ZEE,タイ,2657,AYA.K,タイ
+tricoro,Synergy For Angels,0,,未設定,1653,SPIKE!,タイ,2657,AYA.K,タイ
 tricoro,SYNC-ANTHEM,0,,未設定,2364,SPIKE!,タイ,3460,CAVIAR,タイ
 tricoro,STULTI,351,TISAK,タイ,1548,SPIKE!,タイ,2555,AYA.K,タイ
 tricoro,Sol Cosine Job 2,684,WATA,タイ,1575,ASF410,タイ,2879,CAVIAR,タイ
@@ -924,7 +924,7 @@ copula,明鏡止水,539,AAAAAA,タイ,1740,SPIKE!,タイ,2533,PU2ANA,タイ
 copula,少女アリスと箱庭幻想コンチェルト,604,YOKZAR,タイ,1378,ASF410,タイ,2007,UNGAAA,タイ
 copula,セロトニン,967,BE158,タイ,1602,YOD00,タイ,2217,CAVIAR,タイ
 copula,シュッパツシンコウ・シサカンコ,478,Q,タイ,1744,NART!!,タイ,2372,PL.DN.,タイ
-copula,ギョギョっと人魚 爆婚ブライダル,666,GUEST,タイ,1307,ASF410,タイ,2233,PU2ANA,タイ
+copula,ギョギョっと人魚 爆婚ブライダル,666,GUEST,タイ,1344,SPIKE!,タイ,2233,PU2ANA,タイ
 copula,オルタネイトβ,755,ZEE,タイ,1235,ZEE,タイ,2201,AYA.K,タイ
 copula,めいさいアイドル☆あいむちゃん♪,1350,ZEE,タイ,2306,AYA.K,タイ,3215,AYA.K,タイ
 copula,か・し・ま・し☆PUMP UP！,638,GUEST,タイ,1550,YOD00,タイ,2653,PU2ANA,タイ
@@ -1103,7 +1103,7 @@ CANNON BALLERS,共犯へヴンズコード,387,*P*,タイ,1319,GABEON,タイ,214
 CANNON BALLERS,ラストセンチュリーメランコリック,775,SHINON,タイ,1192,CND9,タイ,2024,TORO,タイ
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,未設定,1681,YOD00,タイ,2605,UNGAAA,タイ
 CANNON BALLERS,バスルーム ロマンス,0,,未設定,1300,HYPER,タイ,2287,EARTH!,タイ
-CANNON BALLERS,バ→ビ→ブ→Bomb!,599,GUEST,タイ,1644,YOD00,タイ,2440,CAVIAR,タイ
+CANNON BALLERS,バ→ビ→ブ→Bomb!,623,GUEST,タイ,1644,YOD00,タイ,2440,CAVIAR,タイ
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,843,PU2ANA,タイ,1247,FIRZTS,タイ,2324,PL.DN.,タイ
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,未設定,1340,ZEE,タイ,2049,PL.DN.,タイ
 CANNON BALLERS,シムルグの目醒め,1298,SHINON,タイ,2249,AYA.K,タイ,3298,AYA.K,タイ

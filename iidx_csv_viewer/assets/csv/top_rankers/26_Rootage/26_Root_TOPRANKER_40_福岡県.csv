@@ -8,10 +8,10 @@
 1st&substream,KEEP ON MOVIN',196,CARROT,福岡県,244,CARROT,福岡県,0,,未設定
 1st&substream,GRADIUSIC CYBER,847,IIDX26,福岡県,977,Y05,福岡県,1185,U.VIVI,福岡県
 1st&substream,GENOM SCREAMS,389,OCHIAI,福岡県,806,NOYAN,福岡県,1059,SOMORI,福岡県
-1st&substream,GAMBOL,271,KABAOK,福岡県,274,CARROT,福岡県,0,,未設定
+1st&substream,GAMBOL,271,KOH,福岡県,274,CARROT,福岡県,0,,未設定
 1st&substream,Dr.LOVE,406,CARROT,福岡県,486,K&K&K?,福岡県,577,CARROT,福岡県
 1st&substream,deep in you,465,CHOMO,福岡県,457,KONNO,福岡県,660,CARROT,福岡県
-1st&substream,5.1.1.,195,KABAOK,福岡県,980,83ABE,福岡県,1558,MR2N,福岡県
+1st&substream,5.1.1.,195,KOH,福岡県,980,83ABE,福岡県,1558,MR2N,福岡県
 1st&substream,22DUNK,453,IPEPE,福岡県,621,TK,福岡県,653,CARROT,福岡県
 2nd style,SP-TRIP MACHINE(for beatmania II),493,TEXT!!,福岡県,557,YUKI,福岡県,646,CARROT,福岡県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),543,NORTH,福岡県,853,IIDX43,福岡県,0,,未設定
@@ -178,7 +178,7 @@
 10th style,システムロマンス,592,TETO,福岡県,1679,WATER1,福岡県,2029,MASSY.,福岡県
 10th style,SPACE FIGHT,593,BALDEZ,福岡県,1410,AOGUMI,福岡県,2207,CARROT,福岡県
 10th style,SHOOTING STAR,1056,*YURI*,福岡県,1624,D.C.II,福岡県,2235,MASSY.,福岡県
-10th style,Rise'n Beauty,1046,MARU-9,福岡県,1628,ACRUX*,福岡県,2144,U.K.2,福岡県
+10th style,Rise'n Beauty,1158,OCHIAI,福岡県,1628,ACRUX*,福岡県,2144,U.K.2,福岡県
 10th style,rainbow rainbow,1392,KYUKAN,福岡県,2119,IIDX26,福岡県,2680,MR2N,福岡県
 10th style,pandora,680,SUSUME,福岡県,1491,SATY,福岡県,1842,U.VIVI,福岡県
 10th style,One More Lovely,796,MO-CRO,福岡県,1553,PRIRIZ,福岡県,2840,SOMORI,福岡県
@@ -255,7 +255,7 @@ HAPPY SKY,Twelfth Style,1144,FU,福岡県,1346,YUKINO,福岡県,2024,MASSY.,福�
 HAPPY SKY,Tizona d'El Cid,849,TAITYO,福岡県,1715,GREASE,福岡県,2309,MASSY.,福岡県
 HAPPY SKY,SigSig,1028,FC2,福岡県,1667,TOKKEY,福岡県,2589,U.VIVI,福岡県
 HAPPY SKY,Scripted Connection⇒ N mix,1068,TO-TU,福岡県,1486,ROA.23,福岡県,2107,SOSEI,福岡県
-HAPPY SKY,Scripted Connection⇒ H mix,1481,YUDAYA,福岡県,1983,KABAOK,福岡県,2493,MASSY.,福岡県
+HAPPY SKY,Scripted Connection⇒ H mix,1481,YUDAYA,福岡県,1983,KOH,福岡県,2493,MASSY.,福岡県
 HAPPY SKY,Scripted Connection⇒ A mix,1450,YUDAYA,福岡県,2173,TARKUS,福岡県,3051,YAALF,福岡県
 HAPPY SKY,SCREAM SQUAD,933,WINTOS,福岡県,1578,83NABE,福岡県,2049,YAALF,福岡県
 HAPPY SKY,rage against usual,1107,PLUME,福岡県,1962,8N240U,福岡県,2880,KENTAN,福岡県
@@ -264,7 +264,7 @@ HAPPY SKY,Pollinosis,732,PENCIL,福岡県,852,RHP...,福岡県,2461,MASSY.,福�
 HAPPY SKY,PLASMA,869,MOMIJI,福岡県,1634,ACRUX*,福岡県,2273,SOSEI,福岡県
 HAPPY SKY,Pink Rose,566,TKTBEX,福岡県,862,ZIN07,福岡県,1407,KENTAN,福岡県
 HAPPY SKY,MOON RACE,738,SSD,福岡県,1027,S-CAT,福岡県,1879,MASSY.,福岡県
-HAPPY SKY,Love Magic,781,RAMEL,福岡県,1650,DO-S,福岡県,1921,DETTEU,福岡県
+HAPPY SKY,Love Magic,796,SUSUME,福岡県,1650,DO-S,福岡県,1938,LOOT,福岡県
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3760,YAALF,福岡県
 HAPPY SKY,Little Little Princess,1028,NAGOMI,福岡県,2114,Y-4X15,福岡県,2753,U.VIVI,福岡県
 HAPPY SKY,LESSON 5,1165,TEXT!!,福岡県,1676,ROA.23,福岡県,2480,MASSY.,福岡県
@@ -379,7 +379,7 @@ DJ TROOPERS,Wanna Party?,751,KAEDE,福岡県,1183,DETTEU,福岡県,1515,MASSY.,�
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3154,YAALF,福岡県
 DJ TROOPERS,Ubertreffen,1048,TEXT!!,福岡県,1836,RINA-S,福岡県,2503,MASSY.,福岡県
 DJ TROOPERS,TROOPERS,1013,YAKTHE,福岡県,2210,GG-RAY,福岡県,2922,YAALF,福岡県
-DJ TROOPERS,Time to Air,1083,YUNI,福岡県,2030,KABAOK,福岡県,2850,SOSEI,福岡県
+DJ TROOPERS,Time to Air,1083,YUNI,福岡県,2030,KOH,福岡県,2850,SOSEI,福岡県
 DJ TROOPERS,the trigger of innocence,834,PUNITA,福岡県,1159,YUKINO,福岡県,1848,USA,福岡県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3368,CARROT,福岡県
 DJ TROOPERS,THE DEEP STRIKER,1025,BAGGIO,福岡県,2009,GG-RAY,福岡県,3015,KENTAN,福岡県
@@ -560,7 +560,7 @@ Resort Anthem,Let The Track Flow,1013,OCHIAI,福岡県,1746,DO-S,福岡県,2630,
 Resort Anthem,Kailua,509,DO-S,福岡県,1228,12064,福岡県,2189,SOMORI,福岡県
 Resort Anthem,I FIGHT ME,591,TKTBEX,福岡県,1297,KURO,福岡県,2130,KENTAN,福岡県
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2349,MASSY.,福岡県
-Resort Anthem,Golden Palms,572,KJUSNO,福岡県,1378,KABAOK,福岡県,2009,MASSY.,福岡県
+Resort Anthem,Golden Palms,572,KJUSNO,福岡県,1378,KOH,福岡県,2009,MASSY.,福岡県
 Resort Anthem,Fantasia,387,NOPO,福岡県,1489,CITRUS,福岡県,2236,KENTAN,福岡県
 Resort Anthem,Everlasting Resort,749,KASIWA,福岡県,1227,CLOUD,福岡県,1886,MASSY.,福岡県
 Resort Anthem,Eternal Tears,444,CARROT,福岡県,1080,SSS,福岡県,1368,KENTAN,福岡県
@@ -602,7 +602,7 @@ Lincle,Thunderbolt,943,AKARI*,福岡県,1795,O.T!,福岡県,3684,YAALF,福岡県
 Lincle,The Sampling Paradise,711,RENA-P,福岡県,1728,8N240U,福岡県,2986,MASSY.,福岡県
 Lincle,The Limbo,1096,MARU-9,福岡県,1927,YUKINO,福岡県,3310,SOMORI,福岡県
 Lincle,Star Trail,559,RAMEL,福岡県,1123,KEUR,福岡県,1862,MASSY.,福岡県
-Lincle,Snow Goose,364,NORTH,福岡県,1312,KABAOK,福岡県,2413,KENTAN,福岡県
+Lincle,Snow Goose,364,NORTH,福岡県,1312,KOH,福岡県,2413,KENTAN,福岡県
 Lincle,Snake Stick,954,KYUKAN,福岡県,1909,TOKKEY,福岡県,2671,KENTAN,福岡県
 Lincle,SHADE,1033,YUDAYA,福岡県,1957,8N240U,福岡県,2889,DETTEU,福岡県
 Lincle,Several Words,610,NOESIS,福岡県,1347,16BIT,福岡県,2181,IIDX43,福岡県
@@ -621,7 +621,7 @@ Lincle,NNRT,1131,K-TOMY,福岡県,2365,PUNITA,福岡県,3426,KENTAN,福岡県
 Lincle,Miami Sunset Drive,547,RAMEL,福岡県,989,YUDAYA,福岡県,1646,CARROT,福岡県
 Lincle,Mermaid girl-秋葉工房 MIX-,792,FINE,福岡県,1265,SHION,福岡県,2055,KENTAN,福岡県
 Lincle,Lucky Days,633,TAITYO,福岡県,1410,ROA.23,福岡県,2183,U.VIVI,福岡県
-Lincle,LOVE B.B.B,763,MITOS.,福岡県,1503,KABAOK,福岡県,2011,MASSY.,福岡県
+Lincle,LOVE B.B.B,763,MITOS.,福岡県,1503,KOH,福岡県,2011,MASSY.,福岡県
 Lincle,Liquid Crystal Girl feat. echo,418,CARROT,福岡県,1096,POND-L,福岡県,2005,SOSEI,福岡県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,961,YUDAYA,福岡県,1534,CITRUS,福岡県,2202,SUZAKU,福岡県
 Lincle,LAX5 feat.Ryota Yoshinari,1026,MIMIGE,福岡県,2054,REN.A,福岡県,2825,DETTEU,福岡県
@@ -659,7 +659,7 @@ tricoro,仮想空間の旅人たち,1033,RENA-P,福岡県,2053,IRI#S,福岡県,2
 tricoro,下弦の月,803,NONO,福岡県,1346,CCC,福岡県,1965,YAALF,福岡県
 tricoro,ラキラキ,546,RYO,福岡県,1209,BALDEZ,福岡県,1976,YAALF,福岡県
 tricoro,メイメツ、フラグメンツ,634,*GGXX*,福岡県,1230,CITRUS,福岡県,1949,U.VIVI,福岡県
-tricoro,トリカゴノ鳳凰,1027,TOM&JR,福岡県,1958,KABAOK,福岡県,3708,MASSY.,福岡県
+tricoro,トリカゴノ鳳凰,1027,TOM&JR,福岡県,1958,KOH,福岡県,3708,MASSY.,福岡県
 tricoro,シュレーディンガーの猫,1036,TANAKA,福岡県,2294,NOYAN,福岡県,3364,SOMORI,福岡県
 tricoro,キャトられ恋はモ～モク,1435,MADOKA,福岡県,2549,MADOKA,福岡県,3825,SOMORI,福岡県
 tricoro,カジノファイヤーことみちゃん,544,SUSUME,福岡県,1257,LOST,福岡県,2412,YAALF,福岡県
@@ -673,7 +673,7 @@ tricoro,ZED,841,KOH-,福岡県,1569,UIRO,福岡県,2738,MASSY.,福岡県
 tricoro,YELLOW FROG from Steel Chronicle,543,TKTBEX,福岡県,1142,CLOMU,福岡県,1905,U.VIVI,福岡県
 tricoro,VEGA,1041,K-TOMY,福岡県,1978,DO-S,福岡県,3108,YAALF,福岡県
 tricoro,VALLIS-NERIA,1066,K-TOMY,福岡県,1920,ROA.23,福岡県,2903,MASSY.,福岡県
-tricoro,Valanga,1243,MARU-9,福岡県,2127,KABAOK,福岡県,3214,SOMORI,福岡県
+tricoro,Valanga,1243,MARU-9,福岡県,2127,KOH,福岡県,3214,SOMORI,福岡県
 tricoro,True Blue,1051,Y-4X15,福岡県,2362,HANAMI,福岡県,3701,YAALF,福岡県
 tricoro,To my star,600,SSS,福岡県,1242,SSS,福岡県,1747,83NABE,福岡県
 tricoro,Timepiece phase II (CN Ver.),819,CELL*,福岡県,1686,A.U,福岡県,2968,SOMORI,福岡県
@@ -705,7 +705,7 @@ tricoro,mnemoniq,511,SORA,福岡県,858,NAGOMI,福岡県,1302,CARROT,福岡県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2765,MASSY.,福岡県
 tricoro,LUV CAN SAVE U,573,CUPNU$,福岡県,1327,MARU-9,福岡県,2122,SOSEI,福岡県
 tricoro,Little Star,859,MOMIJI,福岡県,1637,*GGXX*,福岡県,3169,YAALF,福岡県
-tricoro,Light and Cyber…,933,MOMIJI,福岡県,1867,UIRO,福岡県,3108,KENTAN,福岡県
+tricoro,Light and Cyber…,933,MOMIJI,福岡県,1873,DAICHI,福岡県,3108,KENTAN,福岡県
 tricoro,Liberation,1251,MOMIJI,福岡県,2256,8N240U,福岡県,3676,YAALF,福岡県
 tricoro,JOMANDA,1020,K-TOMY,福岡県,2210,SUZAKU,福岡県,3613,SOMORI,福岡県
 tricoro,In Heaven,724,16BIT,福岡県,1398,*GGXX*,福岡県,2119,SOSEI,福岡県
@@ -735,7 +735,7 @@ tricoro,8bit Princess,617,TKTBEX,福岡県,1354,FC2,福岡県,2612,DETTEU,福岡
 tricoro,405nm (Ryu☆mix),877,FC2,福岡県,1662,AOGUMI,福岡県,2553,SOMORI,福岡県
 SPADA,轟け！恋のビーンボール！！,946,NAGOMI,福岡県,1847,MADOKA,福岡県,3523,SOMORI,福岡県
 SPADA,超!!遠距離らぶ?メ～ル,535,BALDEZ,福岡県,1474,MISAKI,福岡県,2616,CARROT,福岡県
-SPADA,罪と罰,986,NAGOMI,福岡県,1272,SHIZU*,福岡県,2148,KENTAN,福岡県
+SPADA,罪と罰,1025,OCHIAI,福岡県,1377,D.C.II,福岡県,2148,KENTAN,福岡県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3448,SOMORI,福岡県
 SPADA,疾風迅雷,1036,MARU-9,福岡県,2117,SOMORI,福岡県,2854,DETTEU,福岡県
 SPADA,牧神笛吹きて,672,SUSUME,福岡県,1210,SYNTH,福岡県,2046,MASSY.,福岡県
@@ -768,7 +768,7 @@ SPADA,rainbow guitar weeps,926,OCHIAI,福岡県,1766,3BM,福岡県,2728,YAALF,�
 SPADA,ra'am,1029,MI$ERY,福岡県,1701,GG-RAY,福岡県,2752,SOMORI,福岡県
 SPADA,PUNISHER,1000,K.2.K.,福岡県,1993,AQUA.,福岡県,3503,MASSY.,福岡県
 SPADA,Pharaoh,624,NORTH,福岡県,1328,12064,福岡県,2405,U.VIVI,福岡県
-SPADA,Overload Frontier,628,LIZIA,福岡県,1734,KABAOK,福岡県,2567,MASSY.,福岡県
+SPADA,Overload Frontier,628,LIZIA,福岡県,1734,KOH,福岡県,2567,MASSY.,福岡県
 SPADA,Odin,743,NOESIS,福岡県,1321,SORA,福岡県,2042,U.VIVI,福岡県
 SPADA,NPC World,764,RAMEL,福岡県,1536,UDK,福岡県,2259,SOSEI,福岡県
 SPADA,Miracle 5ympho X,694,01245,福岡県,1217,RIZIN,福岡県,2600,YAALF,福岡県
@@ -821,7 +821,7 @@ PENDUAL,Ｘ↑Ｘ↓,760,BUG,福岡県,1651,REN.A,福岡県,2883,MASSY.,福岡�
 PENDUAL,鬼天,912,NAGATO,福岡県,1475,12064,福岡県,2434,MASSY.,福岡県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,4021,YAALF,福岡県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,964,TANAKA,福岡県,2028,ALTIMA,福岡県,2676,KENTAN,福岡県
-PENDUAL,表裏一体！？怪盗いいんちょの悩み,1064,MISAKI,福岡県,2068,KABAOK,福岡県,3525,MASSY.,福岡県
+PENDUAL,表裏一体！？怪盗いいんちょの悩み,1064,MISAKI,福岡県,2068,KOH,福岡県,3525,MASSY.,福岡県
 PENDUAL,紅牡丹,1035,KA-KUN,福岡県,1810,YAALF,福岡県,2851,KENTAN,福岡県
 PENDUAL,白露の風,479,CARROT,福岡県,1194,MISAKI,福岡県,2020,USA,福岡県
 PENDUAL,時空トラベローグ,987,MISAKI,福岡県,1775,PANA-N,福岡県,2611,IIDX43,福岡県
@@ -867,7 +867,7 @@ PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),453,PHILIA,福岡県,126
 PENDUAL,PENDUAL TALISMAN,1047,CARROT,福岡県,1586,MITOS.,福岡県,2584,CARROT,福岡県
 PENDUAL,On My Wings(Hardstyle IIDX),924,CARROT,福岡県,1236,D.C.II,福岡県,1987,SOSEI,福岡県
 PENDUAL,No Tears,1013,CROIT,福岡県,1946,56NEKO,福岡県,2517,U.VIVI,福岡県
-PENDUAL,Night sky,1146,*NOBU*,福岡県,1845,KABAOK,福岡県,2870,YAALF,福岡県
+PENDUAL,Night sky,1146,*NOBU*,福岡県,1845,KOH,福岡県,2870,YAALF,福岡県
 PENDUAL,NEO GENERATOR SEVEN,746,SUSUME,福岡県,1748,GREASE,福岡県,3251,KENTAN,福岡県
 PENDUAL,Monopole.,770,NAGOMI,福岡県,1550,ROA.23,福岡県,3226,KENTAN,福岡県
 PENDUAL,m1dy Festival,1015,CARROT,福岡県,1518,MISAKI,福岡県,2407,MASSY.,福岡県
@@ -973,7 +973,7 @@ copula,Godspeed,1017,*GGXX*,福岡県,1829,NOYAN,福岡県,3091,SOMORI,福岡県
 copula,GOBBLE,442,KYUKAN,福岡県,664,YA,福岡県,1684,KENTAN,福岡県
 copula,Go Faraway,1037,CARROT,福岡県,1379,REN.A,福岡県,2474,DETTEU,福岡県
 copula,Glitch Nerds,956,AR,福岡県,1458,CARROT,福岡県,2228,MASSY.,福岡県
-copula,GET READY!!,1040,KABAOK,福岡県,1402,GREASE,福岡県,2650,KENTAN,福岡県
+copula,GET READY!!,1040,KOH,福岡県,1402,GREASE,福岡県,2650,KENTAN,福岡県
 copula,GENERATE feat.綾倉盟,1143,CARROT,福岡県,1714,D.C.II,福岡県,2344,SOSEI,福岡県
 copula,Exchange Place,774,CARROT,福岡県,1091,IPEPE,福岡県,1779,USA,福岡県
 copula,Everlasting Last,787,IPEPE,福岡県,1519,O.T!,福岡県,2209,USA,福岡県
@@ -1036,7 +1036,7 @@ SINOBUZ,Sky High,1125,900D73,福岡県,2350,CARROT,福岡県,3742,MASSY.,福岡�
 SINOBUZ,SINOBUZ Fantasy,988,MISAKI,福岡県,1580,NAGATO,福岡県,2419,CARROT,福岡県
 SINOBUZ,shuriken,681,RENA-P,福岡県,1083,MISAKI,福岡県,2492,CARROT,福岡県
 SINOBUZ,Shoot'Em All,806,CARROT,福岡県,1478,CARROT,福岡県,2464,MASSY.,福岡県
-SINOBUZ,SEQUENCE CAT,1021,900D73,福岡県,2082,JUNGLE,福岡県,2841,MASSY.,福岡県
+SINOBUZ,SEQUENCE CAT,1021,900D73,福岡県,2094,ROZ,福岡県,2841,MASSY.,福岡県
 SINOBUZ,Selfish Sweet,621,NORTH,福岡県,881,NAGOMI,福岡県,1719,KENTAN,福岡県
 SINOBUZ,Seize the Day,704,AR,福岡県,1231,AR,福岡県,2157,MASSY.,福岡県
 SINOBUZ,Seaside Labyrinth,517,SUSUME,福岡県,1305,CARROT,福岡県,1867,CARROT,福岡県
@@ -1104,7 +1104,7 @@ CANNON BALLERS,ラストセンチュリーメランコリック,790,TAITYO,福�
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),868,SUSUME,福岡県,1743,REN.A,福岡県,2740,IIDX43,福岡県
 CANNON BALLERS,バスルーム ロマンス,864,MOMIJI,福岡県,1377,MISAKI,福岡県,2411,CARROT,福岡県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,688,AKI,福岡県,1737,NORTH,福岡県,2512,YAALF,福岡県
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,859,TAG,福岡県,1454,TERA.,福岡県,2420,YAALF,福岡県
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,859,TAG,福岡県,1463,PUNITA,福岡県,2420,YAALF,福岡県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,981,IPEPE,福岡県,1489,S-CAT,福岡県,2081,IIDX43,福岡県
 CANNON BALLERS,シムルグの目醒め,1314,74A,福岡県,2320,CARROT,福岡県,3467,SOMORI,福岡県
 CANNON BALLERS,エディブルフラワーの独白,742,KANAYA,福岡県,1525,YUKINO,福岡県,2190,IIDX43,福岡県
