@@ -198,10 +198,10 @@
 10th style,DoLL,875,ASDC,和歌山県,1243,MA-CHA,和歌山県,1600,Q-NO,和歌山県
 10th style,desolation,437,SASORI,和歌山県,350,KON.,和歌山県,741,SUSO,和歌山県
 10th style,Debtty Daddy,882,SASORI,和歌山県,1630,2E?,和歌山県,2663,GIGANT,和歌山県
-10th style,Daisuke,993,ST#UF,和歌山県,1490,TSWMOG,和歌山県,2377,MYZ,和歌山県
+10th style,Daisuke,1140,UME,和歌山県,1490,TSWMOG,和歌山県,2377,MYZ,和歌山県
 10th style,CARRY ON NIGHT (English version),915,SASORI,和歌山県,1202,TSWMOG,和歌山県,2031,MYZ,和歌山県
 10th style,Boundary,819,SASORI,和歌山県,1806,GIGANT,和歌山県,2022,GIGANT,和歌山県
-10th style,Back Into The Light,1014,SASORI,和歌山県,1563,T.T,和歌山県,2120,T.S.M,和歌山県
+10th style,Back Into The Light,1014,SASORI,和歌山県,1589,MOBE,和歌山県,2120,T.S.M,和歌山県
 10th style,BABY LOVE,1090,SASORI,和歌山県,1695,MA-CHA,和歌山県,2126,MYZ,和歌山県
 10th style,ASTRAL VOYAGE,886,SASORI,和歌山県,1267,TSWMOG,和歌山県,1730,T.T,和歌山県
 10th style,ALIEN TEMPLE,840,SASORI,和歌山県,1662,GIGANT,和歌山県,2014,GIGANT,和歌山県
@@ -448,7 +448,7 @@ EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2572,IRM,和歌
 EMPRESS,naughty girl@Queen's Palace,794,SASORI,和歌山県,1709,GIGANT,和歌山県,2080,GIGANT,和歌山県
 EMPRESS,Monkey Dance '09,828,SASORI,和歌山県,1684,HERNIA,和歌山県,2227,MYZ,和歌山県
 EMPRESS,Mind Mapping,0,,未設定,1244,GIGANT,和歌山県,1830,GIGANT,和歌山県
-EMPRESS,Kung-fu Empire†,0,,未設定,0,,未設定,3804,MYZ,和歌山県
+EMPRESS,Kung-fu Empire†,0,,未設定,0,,未設定,3819,MYZ,和歌山県
 EMPRESS,Kung-fu Empire,1413,T.T,和歌山県,2539,MA-CHA,和歌山県,3152,RAITO.,和歌山県
 EMPRESS,Just a Little Smile,746,SASORI,和歌山県,1255,NIKURO,和歌山県,2414,GIGANT,和歌山県
 EMPRESS,Jack,830,SASORI,和歌山県,0,,未設定,2155,MYZ,和歌山県
@@ -620,7 +620,7 @@ Lincle,Phoenix,563,ONO,和歌山県,866,YUSK,和歌山県,2442,RAITO.,和歌山�
 Lincle,NNRT,1060,890016,和歌山県,2272,NIKURO,和歌山県,3345,RAITO.,和歌山県
 Lincle,Miami Sunset Drive,0,,未設定,967,SASORI,和歌山県,1600,RAITO.,和歌山県
 Lincle,Mermaid girl-秋葉工房 MIX-,785,SASORI,和歌山県,1347,MA-CHA,和歌山県,2044,T.S.M,和歌山県
-Lincle,Lucky Days,636,SASORI,和歌山県,1485,VIET7M,和歌山県,2127,T.S.M,和歌山県
+Lincle,Lucky Days,636,SASORI,和歌山県,1485,VIET7M,和歌山県,2176,MYZ,和歌山県
 Lincle,LOVE B.B.B,739,SASORI,和歌山県,1405,NIKURO,和歌山県,1986,T.S.M,和歌山県
 Lincle,Liquid Crystal Girl feat. echo,372,CALDNA,和歌山県,1059,SASORI,和歌山県,1956,Q-NO,和歌山県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,957,96SK,和歌山県,1588,MA-CHA,和歌山県,2178,MA-CHA,和歌山県
@@ -962,7 +962,7 @@ copula,NINJA IS DEAD IIDX ver.,1199,T.T,和歌山県,1769,NIKURO,和歌山県,28
 copula,Nightmare before oversleep,1142,NIKURO,和歌山県,1788,NIKURO,和歌山県,2864,MYZ,和歌山県
 copula,NANAIRO,966,SASORI,和歌山県,1821,GIGANT,和歌山県,2369,SUSO,和歌山県
 copula,Musik LoverZ,1017,SASORI,和歌山県,1360,NIKURO,和歌山県,2330,NERO,和歌山県
-copula,M4K3 1T B0UNC3,1359,MOBE,和歌山県,1738,DCP,和歌山県,2938,MYZ,和歌山県
+copula,M4K3 1T B0UNC3,1364,MOBE,和歌山県,1738,DCP,和歌山県,2938,MYZ,和歌山県
 copula,La dolce primavera,697,T.T,和歌山県,1273,YUSUKE,和歌山県,2124,GIGANT,和歌山県
 copula,Konzert V,1244,NIKURO,和歌山県,2173,NIKURO,和歌山県,3237,LI-LIF,和歌山県
 copula,Journey,677,ASDC,和歌山県,1230,VIET7M,和歌山県,1840,RAITO.,和歌山県
@@ -1187,7 +1187,7 @@ CANNON BALLERS,255,913,HUYU15,和歌山県,1617,GIGANT,和歌山県,3053,MYZ,和
 CANNON BALLERS,2 Player,950,T.T,和歌山県,1515,HERNIA,和歌山県,2396,MOBE,和歌山県
 CANNON BALLERS,1001 -ESCAPE-,934,SASORI,和歌山県,1716,MA-CHA,和歌山県,2592,MA-CHA,和歌山県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1148,MA-CHA,和歌山県,2344,MA-CHA,和歌山県,3150,IRM,和歌山県
-Rootage,金野火織の金色提言,1238,Q-NO,和歌山県,2237,MYZ,和歌山県,2924,MYZ,和歌山県
+Rootage,金野火織の金色提言,1249,MYZ,和歌山県,2237,MYZ,和歌山県,2924,MYZ,和歌山県
 Rootage,花冠 feat.Aikapin,1000,MYZ,和歌山県,1635,MYZ,和歌山県,2500,GIGANT,和歌山県
 Rootage,爆ゼニ☆がってんワーカー,1249,MYZ,和歌山県,1840,YUURA,和歌山県,2669,IRM,和歌山県
 Rootage,抱きしめてモナムール,1316,MYZ,和歌山県,2335,MA-CHA,和歌山県,3954,MYZ,和歌山県
@@ -1255,7 +1255,7 @@ Rootage,Carmina,1320,MYZ,和歌山県,2440,MA-CHA,和歌山県,3439,MYZ,和歌�
 Rootage,BLOSSOM,1092,MYZ,和歌山県,1668,MA-CHA,和歌山県,2516,MYZ,和歌山県
 Rootage,Angels & Demons,931,GIGANT,和歌山県,1799,GIGANT,和歌山県,2425,MYZ,和歌山県
 Rootage,AGAiN,1024,MYZ,和歌山県,1632,MA-CHA,和歌山県,2290,MYZ,和歌山県
-Rootage,A Tale Hidden In The Abyss,919,T.T,和歌山県,1700,NERO,和歌山県,2576,MYZ,和歌山県
+Rootage,A Tale Hidden In The Abyss,935,MYZ,和歌山県,1700,NERO,和歌山県,2576,MYZ,和歌山県
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1218,MYZ,和歌山県,1641,MA-CHA,和歌山県,2581,MYZ,和歌山県
 Rootage,50th Memorial Songs -The BEMANI History-,1084,MYZ,和歌山県,1659,MYZ,和歌山県,2565,IRM,和歌山県
 Rootage,50th Memorial Songs -Flagship medley-,977,MYZ,和歌山県,1541,MYZ,和歌山県,2235,MYZ,和歌山県

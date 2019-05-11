@@ -187,7 +187,7 @@
 10th style,Lucy,569,MAROTH,石川県,1540,KEY&CO,石川県,2296,6UNIX9,石川県
 10th style,LOW,634,K-NA,石川県,1293,KEY&CO,石川県,1705,AIO2KA,石川県
 10th style,Love Is Eternity,1135,DUKE,石川県,1683,ARCIE.,石川県,2354,6UNIX9,石川県
-10th style,Innocent Walls,1427,D*MRLS,石川県,2368,1048?,石川県,2696,T9BKGA,石川県
+10th style,Innocent Walls,1427,D*MRLS,石川県,2368,1048,石川県,2696,T9BKGA,石川県
 10th style,HIGH,887,CUR*RY,石川県,1741,RYOKI.,石川県,2139,ZXCV,石川県
 10th style,GRADIUS -FULL SPEED-,708,T9BKGA,石川県,956,KEY&CO,石川県,2054,T9BKGA,石川県
 10th style,GHOST REVIVAL,619,4423,石川県,1568,KEY&CO,石川県,2537,6UNIX9,石川県
@@ -253,7 +253,7 @@ HAPPY SKY,vault of heaven,719,K-NA,石川県,1237,KEY&CO,石川県,1966,JUNA*,�
 HAPPY SKY,Under the Sky,751,POINTY,石川県,1340,KT-UMA,石川県,1714,6UNIX9,石川県
 HAPPY SKY,Twelfth Style,1100,DUKE,石川県,1416,12YUJ!,石川県,1977,JUNA*,石川県
 HAPPY SKY,Tizona d'El Cid,905,DUKE,石川県,1781,BONYO!,石川県,2309,6UNIX9,石川県
-HAPPY SKY,SigSig,1079,AIO2KA,石川県,1498,YASAKA,石川県,2583,6UNIX9,石川県
+HAPPY SKY,SigSig,1079,AIO2KA,石川県,1537,D*MRLS,石川県,2583,6UNIX9,石川県
 HAPPY SKY,Scripted Connection⇒ N mix,898,KOKOA0,石川県,1447,VINCE,石川県,2091,6UNIX9,石川県
 HAPPY SKY,Scripted Connection⇒ H mix,1504,RYOKI.,石川県,1853,EBI.,石川県,2457,T9BKGA,石川県
 HAPPY SKY,Scripted Connection⇒ A mix,1389,D*MRLS,石川県,2052,ALICEK,石川県,2979,FAL4,石川県
@@ -362,7 +362,7 @@ GOLD,four-leaf,709,K-NA,石川県,1068,RYOKI.,石川県,1705,6UNIX9,石川県
 GOLD,FIRE FIRE,1080,R-PACA,石川県,1718,MOMO.S,石川県,2699,6UNIX9,石川県
 GOLD,Fascination MAXX,881,6UNIX9,石川県,1580,FAL4,石川県,2347,JUNA*,石川県
 GOLD,Cyber Force,995,4423,石川県,1854,NNNN,石川県,2354,6UNIX9,石川県
-GOLD,CROSSROAD ～Left Story～,1030,K-NA,石川県,1729,NANOU.,石川県,2187,6UNIX9,石川県
+GOLD,CROSSROAD ～Left Story～,1115,NANOU.,石川県,1729,NANOU.,石川県,2187,6UNIX9,石川県
 GOLD,CaptivAte～誓い～,1140,ATLETI,石川県,1833,12YUJ!,石川県,2234,6UNIX9,石川県
 GOLD,CaptivAte～裁き～,690,YUKKI,石川県,1267,AIO2KA,石川県,1776,6UNIX9,石川県
 GOLD,Candy Galy,1454,RYOKI.,石川県,2361,ALICEK,石川県,3445,6UNIX9,石川県
@@ -431,7 +431,7 @@ EMPRESS,ミッドナイト堕天使,948,12YUJ!,石川県,1503,B2,石川県,2752,
 EMPRESS,ハリツヤランデヴー,926,S.CROW,石川県,1940,RYOKI.,石川県,2476,6UNIX9,石川県
 EMPRESS,まほろば,762,KEY&CO,石川県,1308,D*MRLS,石川県,2030,6UNIX9,石川県
 EMPRESS,"You'll say ""Now!""",844,AND506,石川県,1709,16-CHA,石川県,2439,6UNIX9,石川県
-EMPRESS,Y&Co. is dead or alive,1069,1048?,石川県,1607,RIS.KS,石川県,2676,6UNIX9,石川県
+EMPRESS,Y&Co. is dead or alive,1069,1048,石川県,1607,RIS.KS,石川県,2676,6UNIX9,石川県
 EMPRESS,V2,1469,FAL4,石川県,3074,JUNA*,石川県,3438,T9BKGA,石川県
 EMPRESS,Turii ～Panta rhei～,829,12YUJ!,石川県,1887,EDEN,石川県,2650,6UNIX9,石川県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2832,6UNIX9,石川県
@@ -526,7 +526,7 @@ Resort Anthem,灼熱Beach Side Bunny,1035,KEY&CO,石川県,1887,6UNIX9,石川県
 Resort Anthem,旅人リラン,987,4423,石川県,1888,AIO2KA,石川県,2552,FAL4,石川県
 Resort Anthem,夕焼け ～Fading Day～,855,QQQQQQ,石川県,1829,RIBA,石川県,2739,T9BKGA,石川県
 Resort Anthem,中華急行,328,AIO2KA,石川県,1454,TOMO,石川県,2293,T9BKGA,石川県
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,741,POINTY,石川県,1344,AIO2KA,石川県,1870,1048?,石川県
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,741,POINTY,石川県,1344,AIO2KA,石川県,1870,1048,石川県
 Resort Anthem,おおきなこえで,439,DUKE,石川県,878,KEY&CO,石川県,1491,6UNIX9,石川県
 Resort Anthem,ZETA～素数の世界と超越者～,294,KUROMA,石川県,1984,B2,石川県,3055,HAREN,石川県
 Resort Anthem,XANADU OF TWO,1000,AIO2KA,石川県,1666,J-.-J,石川県,2715,6UNIX9,石川県
@@ -536,7 +536,7 @@ Resort Anthem,WE LOVE SHONAN,0,,未設定,1459,B2,石川県,2152,6UNIX9,石川�
 Resort Anthem,Watch Out Pt.2,892,YUYU,石川県,1906,AIO2KA,石川県,2659,T9BKGA,石川県
 Resort Anthem,Vermillion,446,POINTY,石川県,1009,KEY&CO,石川県,2012,T9BKGA,石川県
 Resort Anthem,Tropical April,1453,KEY&CO,石川県,2203,ALICEK,石川県,2707,RIS.KS,石川県
-Resort Anthem,THE FALLEN,752,POINTY,石川県,1309,KEY&CO,石川県,2589,1048?,石川県
+Resort Anthem,THE FALLEN,752,POINTY,石川県,1309,KEY&CO,石川県,2589,1048,石川県
 Resort Anthem,THE DOOR INTO RAINBOW,126,0S*00,石川県,1563,12YUJ!,石川県,2121,T9BKGA,石川県
 Resort Anthem,THE BLACK KNIGHT,733,POINTY,石川県,1937,EBI.,石川県,2840,FAL4,石川県
 Resort Anthem,STELLAR WIND,389,SXLFA,石川県,1575,D*MRLS,石川県,2595,FAL4,石川県
@@ -547,10 +547,10 @@ Resort Anthem,Session 9 -Chronicles-,748,DUKE,石川県,2170,B9U,石川県,3365,
 Resort Anthem,sakura storm,1043,AIO2KA,石川県,1226,27MA4O,石川県,2336,T9BKGA,石川県
 Resort Anthem,Sakura Reflection,472,DUKE,石川県,1504,RANGEO,石川県,2333,HAREN,石川県
 Resort Anthem,SABER WING,500,DUKE,石川県,1797,NANOU.,石川県,2727,FAL4,石川県
-Resort Anthem,Rock Da House,873,DUKE,石川県,1516,B2,石川県,2198,1048?,石川県
+Resort Anthem,Rock Da House,873,DUKE,石川県,1516,B2,石川県,2198,1048,石川県
 Resort Anthem,reunion,1293,D*MRLS,石川県,2313,AIO2KA,石川県,3099,RIS.KS,石川県
 Resort Anthem,Programmed Life,609,YINU,石川県,1558,RANGEO,石川県,2341,AIO2KA,石川県
-Resort Anthem,perditus†paradisus,1170,RYOKI.,石川県,2392,1048?,石川県,3630,FAL4,石川県
+Resort Anthem,perditus†paradisus,1170,RYOKI.,石川県,2392,1048,石川県,3630,FAL4,石川県
 Resort Anthem,passionate fate,916,KOBATO,石川県,1531,12YUJ!,石川県,2122,6UNIX9,石川県
 Resort Anthem,PARADISE LOST,1221,RYOKI.,石川県,2259,AIO2KA,石川県,3096,T9BKGA,石川県
 Resort Anthem,Never Fade Away,431,RICE,石川県,1526,RUMMY.,石川県,2927,6UNIX9,石川県
@@ -588,7 +588,7 @@ Lincle,突撃!ガラスのニーソ姫!,649,AIO2KA,石川県,1131,EDEN,石川県
 Lincle,恋する☆宇宙戦争っ！！,896,DUKE,石川県,1684,D*MRLS,石川県,3480,T9BKGA,石川県
 Lincle,子供の落書き帳,827,RYOKI.,石川県,1614,893,石川県,2522,T9BKGA,石川県
 Lincle,天空の夜明け,1173,QUARTZ,石川県,2165,6UNIX9,石川県,3799,FAL4,石川県
-Lincle,君のハートにロックオン,0,,未設定,1459,KEY&CO,石川県,2517,1048?,石川県
+Lincle,君のハートにロックオン,0,,未設定,1459,KEY&CO,石川県,2517,1048,石川県
 Lincle,ユミル,644,DUKE,石川県,1332,MOMO.S,石川県,2766,ZXCV,石川県
 Lincle,ビューティフルレシート,511,DUKE,石川県,1103,KEY&CO,石川県,1877,AIO2KA,石川県
 Lincle,Yellow Sunrise,486,HIBIKI,石川県,1354,KEY&CO,石川県,2242,JUNA*,石川県
@@ -702,7 +702,7 @@ tricoro,New Decade IIDX Edition,829,YUKKI,石川県,1641,TETORA,石川県,2863,F
 tricoro,neu,955,DUKE,石川県,2130,16-CHA,石川県,3738,FAL4,石川県
 tricoro,Neonlights,497,MU6,石川県,1364,RUMMY.,石川県,2192,6UNIX9,石川県
 tricoro,mnemoniq,0,,未設定,904,EDEN,石川県,1278,BONYO!,石川県
-tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2719,1048?,石川県
+tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2719,1048,石川県
 tricoro,LUV CAN SAVE U,563,DUKE,石川県,1256,KEY&CO,石川県,2100,6UNIX9,石川県
 tricoro,Little Star,870,POINTY,石川県,1681,NANOU.,石川県,3084,T9BKGA,石川県
 tricoro,Light and Cyber…,933,POINTY,石川県,1773,RYOKI.,石川県,3014,FAL4,石川県
@@ -745,7 +745,7 @@ SPADA,旋律のドグマ～Miserables～,1185,A,石川県,2367,16-CHA,石川県,
 SPADA,廿†,0,,未設定,0,,未設定,3094,HAREN,石川県
 SPADA,廿,816,POINTY,石川県,1483,KEY&CO,石川県,2311,RIS.KS,石川県
 SPADA,幻想系世界修復少女,446,HIBIKI,石川県,1094,RYOKI.,石川県,1938,JUNA*,石川県
-SPADA,バンブーソード・ガール,949,12YUJ!,石川県,1698,12YUJ!,石川県,2285,1048?,石川県
+SPADA,バンブーソード・ガール,949,12YUJ!,石川県,1698,12YUJ!,石川県,2285,1048,石川県
 SPADA,デッドボヲルdeホームラン,592,DUKE,石川県,1360,I,石川県,2554,FAL4,石川県
 SPADA,アルストロメリア,845,ATLETI,石川県,1458,TOMO,石川県,2412,AIO2KA,石川県
 SPADA,お願いアインシュタイン,729,POINTY,石川県,1372,EDEN,石川県,2085,0-NICA,石川県
@@ -816,7 +816,7 @@ SPADA,ATHER,882,ATLETI,石川県,1455,RYOKI.,石川県,2755,RIS.KS,石川県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4030,FAL4,石川県
 SPADA,Ancient Scapes,1048,DUKE,石川県,1937,EBI.,石川県,3339,FAL4,石川県
 SPADA,ALBA -黎明-,554,POINTY,石川県,1480,NANOU.,石川県,3137,JUNA*,石川県
-SPADA,Adularia,1027,DUKE,石川県,1803,1048?,石川県,2739,FAL4,石川県
+SPADA,Adularia,1027,DUKE,石川県,1803,1048,石川県,2739,FAL4,石川県
 PENDUAL,Ｘ↑Ｘ↓,768,POINTY,石川県,1523,KEY&CO,石川県,2820,FAL4,石川県
 PENDUAL,鬼天,915,CUR*RY,石川県,1480,RIBA,石川県,2398,FAL4,石川県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3897,T9BKGA,石川県
@@ -857,7 +857,7 @@ PENDUAL,Sounds Of Summer,1162,K-NA,石川県,2041,EDEN,石川県,2867,FAL4,石�
 PENDUAL,Shooting Fireball,903,D*MRLS,石川県,2193,NANOU.,石川県,3757,FAL4,石川県
 PENDUAL,Scars of FAUNA,807,893,石川県,1616,EDEN,石川県,2795,FAL4,石川県
 PENDUAL,Scarlet Moon,877,KAKIP,石川県,1799,EDEN,石川県,2677,RIS.KS,石川県
-PENDUAL,Say YEEEAHH,988,KEY&CO,石川県,1795,1048?,石川県,3090,FAL4,石川県
+PENDUAL,Say YEEEAHH,988,KEY&CO,石川県,1795,1048,石川県,3090,FAL4,石川県
 PENDUAL,SAMSARA,0,,未設定,1334,EDEN,石川県,2032,6UNIX9,石川県
 PENDUAL,Sakura Mirage,827,POINTY,石川県,1195,RYOKI.,石川県,2268,JUNA*,石川県
 PENDUAL,Reflux,548,4423,石川県,1473,MOMIJI,石川県,2846,FAL4,石川県
@@ -909,7 +909,7 @@ PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3454,KOTO02,石川県
 PENDUAL,Beat Radiance,817,77KI,石川県,1570,U-KO3,石川県,2597,JUNA*,石川県
 PENDUAL,Amnolys,686,POINTY,石川県,1585,TOMO,石川県,2563,RIS.KS,石川県
 PENDUAL,AFRO KNUCKLE,901,DUKE,石川県,1671,RYOKI.,石川県,2338,T9BKGA,石川県
-PENDUAL,#The_Relentless,886,NUUMA,石川県,1975,KYON,石川県,2843,FAL4,石川県
+PENDUAL,#The_Relentless,931,KOBATO,石川県,1975,KYON,石川県,2843,FAL4,石川県
 copula,麗 ～うらら～,834,PARUKU,石川県,1750,JUNA*,石川県,2575,6UNIX9,石川県
 copula,駅猫のワルツ,857,D*MRLS,石川県,2043,NANOU.,石川県,2607,T9BKGA,石川県
 copula,量子の海のリントヴルム,774,SATOLA,石川県,1616,KEY&CO,石川県,2868,FAL4,石川県
@@ -989,7 +989,7 @@ copula,Daily Lunch Special,936,KUMA,石川県,2140,JUNA*,石川県,2868,FAL4,石
 copula,CODE:1 [revision1.0.1],892,QQQQQQ,石川県,1653,73,石川県,2985,FAL4,石川県
 copula,chaos eater -IIDX edition-,999,POINTY,石川県,1603,12YUJ!,石川県,2492,BONYO!,石川県
 copula,Central Station,886,ATLETI,石川県,1412,KEY&CO,石川県,2296,AIO2KA,石川県
-copula,Blue Spring Express,1086,4423,石川県,1886,ALICEK,石川県,3126,RIS.KS,石川県
+copula,Blue Spring Express,1168,D*MRLS,石川県,1886,ALICEK,石川県,3126,RIS.KS,石川県
 copula,Battle Train -IIDX Edition-,868,DUKE,石川県,2202,YASAKA,石川県,3140,T9BKGA,石川県
 copula,Aublia,718,POINTY,石川県,1423,TOMO,石川県,2438,FAL4,石川県
 copula,Arcana,1105,DUKE,石川県,1614,RYOKI.,石川県,2212,AIO2KA,石川県
@@ -1052,7 +1052,7 @@ SINOBUZ,RAIN,1035,CORAL,石川県,1721,KEIKO,石川県,3148,FAL4,石川県
 SINOBUZ,Quakes,816,JORI,石川県,1967,EBI.,石川県,2994,FAL4,石川県
 SINOBUZ,Piano Samurai,892,PARUKU,石川県,1567,S.CROW,石川県,2387,AIO2KA,石川県
 SINOBUZ,PAPAYAPA BASS,767,DUKE,石川県,1426,KEY&CO,石川県,2727,AIO2KA,石川県
-SINOBUZ,OTENAMI Hurricane,1179,A,石川県,2123,1048?,石川県,2939,FAL4,石川県
+SINOBUZ,OTENAMI Hurricane,1179,A,石川県,2123,1048,石川県,2939,FAL4,石川県
 SINOBUZ,OOO,672,DUKE,石川県,1414,KEY&CO,石川県,2054,6UNIX9,石川県
 SINOBUZ,nostos,726,POINTY,石川県,1192,CLEA,石川県,2492,AIO2KA,石川県
 SINOBUZ,Music is The Answer,769,DUKE,石川県,1311,RYOKI.,石川県,1846,AIO2KA,石川県
