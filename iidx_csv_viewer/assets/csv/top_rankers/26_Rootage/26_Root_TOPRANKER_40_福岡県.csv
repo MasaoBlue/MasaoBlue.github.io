@@ -26,7 +26,7 @@
 3rd style,Schlagwerk,770,NAGOMI,福岡県,1147,MARU-9,福岡県,1666,MR2N,福岡県
 3rd style,REINCARNATION,603,JNX24,福岡県,957,FC2,福岡県,1263,USA,福岡県
 3rd style,R5,689,TORA,福岡県,1145,TNK12,福岡県,1763,YAALF,福岡県
-3rd style,Presto,501,NORTH,福岡県,881,GABAOY,福岡県,1007,DETTEU,福岡県
+3rd style,Presto,501,NORTH,福岡県,881,045,福岡県,1007,DETTEU,福岡県
 3rd style,LEADING CYBER,816,F.,福岡県,1158,NOYAN,福岡県,1250,IIDX43,福岡県
 3rd style,Holic,745,ROZ,福岡県,1148,A.U,福岡県,1702,MASSY.,福岡県
 3rd style,era (nostalmix),848,U.VIVI,福岡県,1076,SUZAKU,福岡県,1518,YAALF,福岡県
@@ -72,7 +72,7 @@
 5th style,QQQ,1115,TEXT!!,福岡県,1764,ROA.23,福岡県,2122,IIDX43,福岡県
 5th style,outer wall,799,IPEPE,福岡県,1262,PUNITA,福岡県,1762,CARROT,福岡県
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,678,LIZIA,福岡県,875,IPEPE,福岡県,1118,MR2N,福岡県
-5th style,in my eyes,504,BATAC,福岡県,1440,ACRUX*,福岡県,1579,SOSEI,福岡県
+5th style,in my eyes,669,RYO,福岡県,1440,ACRUX*,福岡県,1579,SOSEI,福岡県
 5th style,Abyss,1145,LIZIA,福岡県,1563,TOKKEY,福岡県,1866,SOSEI,福岡県
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),699,IIDX26,福岡県,1576,YAALF,福岡県,0,,未設定
 6th style,こっちを向いてよ,674,SUSUME,福岡県,950,TO-TU,福岡県,1361,YAALF,福岡県
@@ -342,7 +342,7 @@ GOLD,the shadow,1122,OCHIAI,福岡県,1888,KAQMEI,福岡県,2896,KENTAN,福岡�
 GOLD,snow storm,720,LAKS,福岡県,2111,KARIN,福岡県,2771,MASSY.,福岡県
 GOLD,smile,1340,RIHA,福岡県,2055,UDK,福岡県,2890,KENTAN,福岡県
 GOLD,Sense 2007,1534,CARROT,福岡県,2236,CARROT,福岡県,2939,SOMORI,福岡県
-GOLD,Second Heaven,812,SHOW,福岡県,1528,ACRUX*,福岡県,2102,KENTAN,福岡県
+GOLD,Second Heaven,870,NAGOMI,福岡県,1528,ACRUX*,福岡県,2102,KENTAN,福岡県
 GOLD,Roulette,790,SHOW,福岡県,1323,YUDAYA,福岡県,2104,SOSEI,福岡県
 GOLD,PHOTONGENIC,1183,MARU-9,福岡県,1930,ACRUX*,福岡県,2301,DETTEU,福岡県
 GOLD,op.31 叙情,557,CARROT,福岡県,1188,3KEDON,福岡県,1547,KENTAN,福岡県
@@ -478,7 +478,7 @@ SIRIUS,たからもの,1220,MO-CRO,福岡県,1825,MISAKI,福岡県,2232,IIDX43,�
 SIRIUS,かずあそび,464,MERCLE,福岡県,1088,OTYUA,福岡県,1683,IIDX43,福岡県
 SIRIUS,The Story Begins,791,KYUKAN,福岡県,1683,DO-S,福岡県,2420,MASSY.,福岡県
 SIRIUS,THE LAST STRIKER,1159,TAITYO,福岡県,1838,REN.A,福岡県,2600,MASSY.,福岡県
-SIRIUS,Special One,651,RAMEL,福岡県,1089,SHION,福岡県,1756,SUZAKU,福岡県
+SIRIUS,Special One,758,NAGOMI,福岡県,1089,SHION,福岡県,1756,SUZAKU,福岡県
 SIRIUS,Sorrows,741,GORI3*,福岡県,1628,CITRUS,福岡県,2458,IIDX43,福岡県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3572,YAALF,福岡県
 SIRIUS,SOLID STATE SQUAD,935,TOM&JR,福岡県,2251,ACRUX*,福岡県,3520,YAALF,福岡県
@@ -672,7 +672,7 @@ tricoro,Zirkfied,924,TOUFU,福岡県,1996,YAALF,福岡県,3754,SOMORI,福岡県
 tricoro,ZED,841,KOH-,福岡県,1569,UIRO,福岡県,2738,MASSY.,福岡県
 tricoro,YELLOW FROG from Steel Chronicle,543,TKTBEX,福岡県,1142,CLOMU,福岡県,1905,U.VIVI,福岡県
 tricoro,VEGA,1041,K-TOMY,福岡県,1978,DO-S,福岡県,3108,YAALF,福岡県
-tricoro,VALLIS-NERIA,1066,K-TOMY,福岡県,1920,ROA.23,福岡県,2903,MASSY.,福岡県
+tricoro,VALLIS-NERIA,1066,K-TOMY,福岡県,1920,ROA.23,福岡県,2907,SOMORI,福岡県
 tricoro,Valanga,1243,MARU-9,福岡県,2127,KOH,福岡県,3214,SOMORI,福岡県
 tricoro,True Blue,1051,Y-4X15,福岡県,2362,HANAMI,福岡県,3701,YAALF,福岡県
 tricoro,To my star,600,SSS,福岡県,1242,SSS,福岡県,1747,83NABE,福岡県
@@ -889,7 +889,7 @@ PENDUAL,entelecheia,959,MOMIJI,福岡県,2046,LAO,福岡県,3259,SOMORI,福岡�
 PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3473,YAALF,福岡県
 PENDUAL,EBONY & IVORY,834,DAEMON,福岡県,1577,GREASE,福岡県,2986,KENTAN,福岡県
 PENDUAL,Discloze,939,LIM2U.,福岡県,1614,LIM2U.,福岡県,2598,MASSY.,福岡県
-PENDUAL,Despair of ELFERIA,1137,KC9130,福岡県,2289,IRI#S,福岡県,3974,SUZAKU,福岡県
+PENDUAL,Despair of ELFERIA,1137,KC9130,福岡県,2289,IRI#S,福岡県,4001,SOMORI,福岡県
 PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3234,SOMORI,福岡県
 PENDUAL,Cosmic Cat,896,GNK,福岡県,1602,WATER1,福岡県,2303,MASSY.,福岡県
 PENDUAL,COLOSSEUM,347,IIDX26,福岡県,1224,SOMORI,福岡県,2261,CARROT,福岡県
@@ -924,7 +924,7 @@ copula,明鏡止水,794,OCHIAI,福岡県,1760,AOGUMI,福岡県,2780,MASSY.,福�
 copula,少女アリスと箱庭幻想コンチェルト,682,MOMIJI,福岡県,1399,YUKINO,福岡県,2127,MASSY.,福岡県
 copula,セロトニン,1349,CARROT,福岡県,1767,8N240U,福岡県,2316,MASSY.,福岡県
 copula,シュッパツシンコウ・シサカンコ,1119,SSS,福岡県,1746,SSS,福岡県,2429,U.VIVI,福岡県
-copula,ギョギョっと人魚 爆婚ブライダル,784,*GGXX*,福岡県,1420,MADOKA,福岡県,2368,SOMORI,福岡県
+copula,ギョギョっと人魚 爆婚ブライダル,790,OCHIAI,福岡県,1420,MADOKA,福岡県,2368,SOMORI,福岡県
 copula,オルタネイトβ,816,MITOS.,福岡県,1357,KAZAMI,福岡県,2256,SOSEI,福岡県
 copula,めいさいアイドル☆あいむちゃん♪,1454,KAEDE,福岡県,2130,FINE,福岡県,3319,KENTAN,福岡県
 copula,か・し・ま・し☆PUMP UP！,1078,MISAKI,福岡県,1644,3BM,福岡県,2811,MASSY.,福岡県
@@ -942,7 +942,7 @@ copula,Super Duper Racers,956,CARROT,福岡県,1556,ACRUX*,福岡県,2352,SOSEI,
 copula,StrayedCatz,1015,MISAKI,福岡県,1850,TAG,福岡県,2781,SOMORI,福岡県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3239,KENTAN,福岡県
 copula,STARLIGHT DANCEHALL,1182,MISAKI,福岡県,1724,MADOKA,福岡県,2623,MASSY.,福岡県
-copula,STARLiGHT,832,KASIWA,福岡県,1763,CHANKO,福岡県,2735,KENTAN,福岡県
+copula,STARLiGHT,859,NAGOMI,福岡県,1763,CHANKO,福岡県,2735,KENTAN,福岡県
 copula,SHELTER OF THE MIND,1333,TAITYO,福岡県,1890,REN.A,福岡県,3018,MASSY.,福岡県
 copula,Set U Free feat. Kanae Asaba,725,RHP...,福岡県,1412,ZZZ,福岡県,2518,DETTEU,福岡県
 copula,Sephirot,797,YU-KI,福岡県,1539,MISAKI,福岡県,2333,U.VIVI,福岡県
