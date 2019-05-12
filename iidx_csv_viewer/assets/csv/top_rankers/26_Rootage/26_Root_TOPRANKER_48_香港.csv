@@ -13,7 +13,7 @@
 1st&substream,deep in you,0,,未設定,482,QUARK,香港,628,TQ,香港
 1st&substream,5.1.1.,188,AKINA*,香港,956,QUARK,香港,1554,TMHGKG,香港
 1st&substream,22DUNK,108,CHING,香港,618,NOB---,香港,611,NOB---,香港
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,未設定,607,QUARK,香港,624,NOB---,香港
+2nd style,SP-TRIP MACHINE(for beatmania II),491,KAMEAS,香港,607,QUARK,香港,624,NOB---,香港
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,442,AKINO*,香港,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),828,AKINA*,香港,1088,QUARK,香港,1144,TQ,香港
 2nd style,I Was The One,516,FLORIT,香港,216,ROVER,香港,683,1605-Y,香港
@@ -146,7 +146,7 @@
 9th style,ライオン好き,617,NOB---,香港,1157,QUARK,香港,1447,ONION,香港
 9th style,SWEETEST SAVAGE,0,,未設定,1298,FLORIT,香港,1800,TMHGKG,香港
 9th style,Sweet Sweet Magic,733,999999,香港,1432,FLORIT,香港,2026,TMHGKG,香港
-9th style,STAR FIELD,676,FLORIT,香港,1507,FLORIT,香港,1777,FLORIT,香港
+9th style,STAR FIELD,676,FLORIT,香港,1507,FLORIT,香港,1806,BPM150,香港
 9th style,SNOW,1017,FLORIT,香港,1069,SHUM,香港,1897,ONION,香港
 9th style,Silvia Drive,802,AKINA*,香港,1487,FLORIT,香港,2001,RRRRRR,香港
 9th style,rottel-the-Mercury,947,KAMEAS,香港,1829,NOB---,香港,2251,TMHGKG,香港
@@ -164,7 +164,7 @@
 9th style,Let The Snow Paint Me -Y&Co. Remix-,514,XUN,香港,1215,FLORIT,香港,1745,RRRRRR,香港
 9th style,Karma,1304,FLORIT,香港,1211,RELAX*,香港,1669,NOB---,香港
 9th style,I Was The One (80's EUROBEAT STYLE),568,999999,香港,1245,NOB---,香港,1422,TMHGKG,香港
-9th style,HYPER EUROBEAT (2DX style),878,ED,香港,1584,FLORIT,香港,1885,G,香港
+9th style,HYPER EUROBEAT (2DX style),878,ED,香港,1584,FLORIT,香港,1897,BPM150,香港
 9th style,Golden Horn,674,AKINA*,香港,1111,BBB,香港,1396,FLORIT,香港
 9th style,e-motion 2003 -romantic extra-,0,,未設定,1369,THE.G,香港,1932,BPM150,香港
 9th style,Distress,939,STWM,香港,1707,ZZYZX,香港,0,,未設定
@@ -253,7 +253,7 @@ HAPPY SKY,vault of heaven,757,FLORIT,香港,1417,TMHGKG,香港,1904,ONION,香港
 HAPPY SKY,Under the Sky,871,TAK,香港,1373,FLORIT,香港,1703,RRRRRR,香港
 HAPPY SKY,Twelfth Style,1134,TAK,香港,1441,FLORIT,香港,2017,TMHGKG,香港
 HAPPY SKY,Tizona d'El Cid,891,TAK,香港,1643,QUATRE,香港,2298,TMHGKG,香港
-HAPPY SKY,SigSig,1041,NOB---,香港,1639,FLORIT,香港,2480,ONION,香港
+HAPPY SKY,SigSig,1041,NOB---,香港,1639,FLORIT,香港,2541,TMHGKG,香港
 HAPPY SKY,Scripted Connection⇒ N mix,912,ED,香港,1570,FLORIT,香港,1891,RAPI*T,香港
 HAPPY SKY,Scripted Connection⇒ H mix,1637,FLORIT,香港,2056,TMHGKG,香港,2472,TMHGKG,香港
 HAPPY SKY,Scripted Connection⇒ A mix,1599,FLORIT,香港,2053,100YEN,香港,2976,RRRRRR,香港
@@ -436,7 +436,7 @@ EMPRESS,V2,1317,AKINA*,香港,2935,G,香港,3489,RRRRRR,香港
 EMPRESS,Turii ～Panta rhei～,719,CREAMY,香港,1923,100YEN,香港,2584,2046.5,香港
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2841,RRRRRR,香港
 EMPRESS,THANK YOU FOR PLAYING,776,FLORIT,香港,1480,EVLEND,香港,2086,RRRRRR,香港
-EMPRESS,SOLITON BEAM,0,,未設定,2011,FLORIT,香港,2190,CPL,香港
+EMPRESS,SOLITON BEAM,0,,未設定,2011,FLORIT,香港,2319,TMHGKG,香港
 EMPRESS,smooooch・∀・,702,ED,香港,1576,FLORIT,香港,2093,TMHGKG,香港
 EMPRESS,Secrets,1033,ED,香港,2277,IKUZU*,香港,3084,RRRRRR,香港
 EMPRESS,Queen's Tragedy,771,PSYK,香港,1597,SYNTAX,香港,2179,TMHGKG,香港
@@ -771,7 +771,7 @@ SPADA,Pharaoh,327,BUKI,香港,1385,FLORIT,香港,2422,TMHGKG,香港
 SPADA,Overload Frontier,660,999999,香港,1756,FLORIT,香港,2542,TMHGKG,香港
 SPADA,Odin,507,LCWING,香港,1321,PANTA*,香港,2033,TMHGKG,香港
 SPADA,NPC World,803,ED,香港,1622,TMHGKG,香港,2102,NOB---,香港
-SPADA,Miracle 5ympho X,516,H2M,香港,1171,DREAM,香港,2523,ONION,香港
+SPADA,Miracle 5ympho X,516,H2M,香港,1191,DON,香港,2523,ONION,香港
 SPADA,MAGIC & LOVE,0,,未設定,1513,G.17BA,香港,2866,TMHGKG,香港
 SPADA,MAD ATTACK,338,BUKI,香港,1039,998011,香港,1930,ROTTEN,香港
 SPADA,m1dy Deluxe,971,ED,香港,1449,ONLUN9,香港,2536,TMHGKG,香港
@@ -1108,7 +1108,7 @@ CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,837,TAK,香港,1520,FLORIT,�
 CANNON BALLERS,ナイトシティー・アヴァンチュール,773,ICHIKA,香港,1509,FLORIT,香港,2062,RRRRRR,香港
 CANNON BALLERS,シムルグの目醒め,1360,FLORIT,香港,2346,TMHGKG,香港,3325,RRRRRR,香港
 CANNON BALLERS,エディブルフラワーの独白,804,FLORIT,香港,1538,LOK,香港,2187,TMHGKG,香港
-CANNON BALLERS,うさ☆かめ 大戦争！,681,NAVI,香港,1062,MOTAI,香港,2363,ONION,香港
+CANNON BALLERS,うさ☆かめ 大戦争！,881,TAK,香港,1062,MOTAI,香港,2363,ONION,香港
 CANNON BALLERS,Xperanza,1361,FLORIT,香港,2366,QUATRE,香港,3076,TMHGKG,香港
 CANNON BALLERS,VOX RUSH,1119,SHUM,香港,2085,FLORIT,香港,3278,TMHGKG,香港
 CANNON BALLERS,Usual Days-remix,1021,FLORIT,香港,1487,TMHGKG,香港,2602,TMHGKG,香港

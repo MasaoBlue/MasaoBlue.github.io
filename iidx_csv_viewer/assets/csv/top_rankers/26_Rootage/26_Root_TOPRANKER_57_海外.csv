@@ -170,7 +170,7 @@
 9th style,Distress,1210,SIG,海外,1783,------,海外,0,,未設定
 9th style,Cradle,0,,未設定,1293,LYCOS,海外,1581,IZUNA.,海外
 9th style,BRIGHTNESS DARKNESS,711,CR.R,海外,1345,LILIAN,海外,1758,EGYPT,海外
-9th style,bag,481,$PEEDY,海外,0,,未設定,1878,ADA.W*,海外
+9th style,bag,481,$PEEDY,海外,479,$PEEDY,海外,1878,ADA.W*,海外
 9th style,BAD BOY BASS!! (dj Remo-con MIX),748,CATAT,海外,1175,PO!,海外,1731,------,海外
 9th style,ACT,627,KERO,海外,1613,A*NAL,海外,1790,------,海外
 9th style,Abyss -The Heavens Remix-,1366,CANAAN,海外,1789,CR.R,海外,2345,EGYPT,海外
@@ -178,7 +178,7 @@
 10th style,システムロマンス,892,CR.R,海外,1756,CR.R,海外,1961,------,海外
 10th style,SPACE FIGHT,590,LYCOS,海外,1281,LILIAN,海外,2203,ADA.W*,海外
 10th style,SHOOTING STAR,1112,TOTTIE,海外,1529,Y.,海外,2170,------,海外
-10th style,Rise'n Beauty,1065,TOTTIE,海外,1401,5ONODA,海外,2151,DT-G5Q,海外
+10th style,Rise'n Beauty,1065,TOTTIE,海外,1423,IIDX24,海外,2151,DT-G5Q,海外
 10th style,rainbow rainbow,1403,SIG,海外,2108,HRT,海外,2679,EGYPT,海外
 10th style,pandora,483,SUNAMI,海外,1356,KSDKT,海外,1835,EGYPT,海外
 10th style,One More Lovely,658,SUZUME,海外,1593,------,海外,2768,EGYPT,海外
@@ -249,7 +249,7 @@ HAPPY SKY,オレはビートマニア！お前は何マニア？,675,LYCOS,海�
 HAPPY SKY,Xepher,1011,PROG,海外,1988,BALLS,海外,2972,EGYPT,海外
 HAPPY SKY,We are Disっ娘よっつ打ち命,659,CR.R,海外,880,BRGNLI,海外,1661,EGYPT,海外
 HAPPY SKY,Votum stellarum,343,CHODEE,海外,1428,YUKI,海外,1946,JGA#77,海外
-HAPPY SKY,vault of heaven,751,TOTTIE,海外,1301,GEN1RO,海外,1940,------,海外
+HAPPY SKY,vault of heaven,751,TOTTIE,海外,1301,2GERU7,海外,1940,------,海外
 HAPPY SKY,Under the Sky,875,ONKYO,海外,1374,ONKYO,海外,1700,ADA.W*,海外
 HAPPY SKY,Twelfth Style,1163,PROG,海外,1299,KTGR,海外,2017,EGYPT,海外
 HAPPY SKY,Tizona d'El Cid,0,,未設定,1666,YUKI,海外,2311,EGYPT,海外
@@ -258,7 +258,7 @@ HAPPY SKY,Scripted Connection⇒ N mix,1058,FKSHN*,海外,1525,Y.,海外,1904,FU
 HAPPY SKY,Scripted Connection⇒ H mix,1686,CR.R,海外,1795,MONICA,海外,2428,LUKA,海外
 HAPPY SKY,Scripted Connection⇒ A mix,1655,CR.R,海外,2137,------,海外,3062,EGYPT,海外
 HAPPY SKY,SCREAM SQUAD,767,DEIKI,海外,1627,------,海外,1972,IZUNA.,海外
-HAPPY SKY,rage against usual,1176,KATANA,海外,1840,-KYO-,海外,2904,EGYPT,海外
+HAPPY SKY,rage against usual,1176,KATANA,海外,1925,------,海外,2904,EGYPT,海外
 HAPPY SKY,POODLE,881,IPPEI!,海外,1877,CR.R,海外,2269,JGA#77,海外
 HAPPY SKY,Pollinosis,650,RCHE,海外,864,PENGIN,海外,2481,EGYPT,海外
 HAPPY SKY,PLASMA,938,CR.R,海外,1501,NOM,海外,2223,------,海外
@@ -437,7 +437,7 @@ EMPRESS,Turii ～Panta rhei～,883,3SYA9G,海外,1876,NOM,海外,2652,DT-G5Q,海
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2789,ERA,海外
 EMPRESS,THANK YOU FOR PLAYING,786,PROG,海外,1539,AMAO,海外,2130,EGYPT,海外
 EMPRESS,SOLITON BEAM,1422,CR.R,海外,2058,U.N.K,海外,2210,U.N.K,海外
-EMPRESS,smooooch・∀・,772,TOTTIE,海外,1526,QQ36,海外,2126,EGYPT,海外
+EMPRESS,smooooch・∀・,772,TOTTIE,海外,1530,CHI4KO,海外,2126,EGYPT,海外
 EMPRESS,Secrets,1003,MICHAE,海外,2401,CR.R,海外,3137,EGYPT,海外
 EMPRESS,Queen's Tragedy,821,PROG,海外,1478,LILIAN,海外,2181,DT-G5Q,海外
 EMPRESS,Punch Love 仮面,951,CATAT,海外,1576,GMOVER,海外,2504,LUKA,海外
@@ -602,7 +602,7 @@ Lincle,Thunderbolt,787,UVWXYZ,海外,1720,KATANA,海外,3745,EGYPT,海外
 Lincle,The Sampling Paradise,775,SSS,海外,1697,DDDDX,海外,2867,36RA51,海外
 Lincle,The Limbo,1107,QQ36,海外,1759,NOM,海外,3314,EGYPT,海外
 Lincle,Star Trail,442,RUSHIE,海外,1015,HONK!,海外,1798,U.N.K,海外
-Lincle,Snow Goose,331,SGG-EX,海外,1260,GEN1RO,海外,2417,EGYPT,海外
+Lincle,Snow Goose,331,SGG-EX,海外,1260,2GERU7,海外,2417,EGYPT,海外
 Lincle,Snake Stick,917,404,海外,2029,DT-G5Q,海外,2647,EGYPT,海外
 Lincle,SHADE,865,MYIDAL,海外,2000,AOKO,海外,2848,DT-G5Q,海外
 Lincle,Several Words,0,,未設定,1361,*ITO.*,海外,2168,EGYPT,海外
@@ -700,7 +700,7 @@ tricoro,Plan 8,1062,FKSHN*,海外,2050,CHI4KO,海外,3049,EGYPT,海外
 tricoro,New Lights,471,CHODEE,海外,1601,AELLY7,海外,2347,U.N.K,海外
 tricoro,New Decade IIDX Edition,905,FKSHN*,海外,1734,NOM,海外,3000,EGYPT,海外
 tricoro,neu,671,3Y3S,海外,2039,YOMI-*,海外,3828,EGYPT,海外
-tricoro,Neonlights,586,ZHI,海外,1451,*ITO.*,海外,2193,DT-G5Q,海外
+tricoro,Neonlights,586,ZHI,海外,1487,DDDDX,海外,2193,DT-G5Q,海外
 tricoro,mnemoniq,0,,未設定,790,404,海外,1278,JGA#77,海外
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2642,CR.R,海外
 tricoro,LUV CAN SAVE U,496,SORA*,海外,1360,KATANA,海外,2074,JGA#77,海外
@@ -851,7 +851,7 @@ PENDUAL,TIEFSEE,1208,QQ36,海外,2120,CR.R,海外,3318,LUKA,海外
 PENDUAL,The Least 100sec,632,GMOVER,海外,1232,-O-,海外,2822,EGYPT,海外
 PENDUAL,TA・DA ☆ YO・SHI,957,ZHI,海外,1534,GMOVER,海外,2273,CYBERX,海外
 PENDUAL,Symmetry,772,THREAT,海外,1964,YOMI-*,海外,3115,LUKA,海外
-PENDUAL,Sweet Radar,502,EUUUGE,海外,1198,HUZAIR,海外,2027,EGYPT,海外
+PENDUAL,Sweet Radar,502,EUUUGE,海外,1275,CRAM,海外,2027,EGYPT,海外
 PENDUAL,SpaceLand☆TOYBOX,902,NI9DSN,海外,1703,U.N.K,海外,2818,36RA51,海外
 PENDUAL,Sounds Of Summer,1183,QQ36,海外,1953,KAGA*N,海外,2951,EGYPT,海外
 PENDUAL,Shooting Fireball,908,FKSHN*,海外,2267,ADA.W*,海外,3875,EGYPT,海外
@@ -868,7 +868,7 @@ PENDUAL,PENDUAL TALISMAN,975,PENGIN,海外,1500,AELLY7,海外,2574,36RA51,海外
 PENDUAL,On My Wings(Hardstyle IIDX),664,MAORA.,海外,1248,JGA#77,海外,1959,LUKA,海外
 PENDUAL,No Tears,1027,NI9DSN,海外,2072,STEVEN,海外,2521,EGYPT,海外
 PENDUAL,Night sky,1133,SIG,海外,1727,CHI4KO,海外,2871,EGYPT,海外
-PENDUAL,NEO GENERATOR SEVEN,395,CLKISO,海外,1799,ERA,海外,3109,IZUNA.,海外
+PENDUAL,NEO GENERATOR SEVEN,560,MANASE,海外,1799,ERA,海外,3109,IZUNA.,海外
 PENDUAL,Monopole.,497,E.M.T,海外,1519,LILIAN,海外,3313,EGYPT,海外
 PENDUAL,m1dy Festival,888,QQ36,海外,1530,LILIAN,海外,2324,36RA51,海外
 PENDUAL,Line 4 Ruin,549,IHSUDN,海外,1792,2NOMAE,海外,2763,EGYPT,海外
@@ -925,7 +925,7 @@ copula,少女アリスと箱庭幻想コンチェルト,693,SHIRYU,海外,1317,L
 copula,セロトニン,974,SUZUME,海外,1652,Y.,海外,2269,36RA51,海外
 copula,シュッパツシンコウ・シサカンコ,1085,SHIRYU,海外,1703,CHI4KO,海外,2404,JGA#77,海外
 copula,ギョギョっと人魚 爆婚ブライダル,768,LYCOS,海外,1323,LILIAN,海外,2343,EGYPT,海外
-copula,オルタネイトβ,827,2NOMAE,海外,1320,LYCOS,海外,2229,JGA#77,海外
+copula,オルタネイトβ,827,2NOMAE,海外,1338,CRAM,海外,2229,JGA#77,海外
 copula,めいさいアイドル☆あいむちゃん♪,1340,KTGR,海外,2133,HRT,海外,3338,EGYPT,海外
 copula,か・し・ま・し☆PUMP UP！,1051,QQ36,海外,1558,KATANA,海外,2730,36RA51,海外
 copula,ZEPHYRANTHES,702,RUSHIE,海外,1816,ONKYO,海外,2838,LUKA,海外
@@ -957,7 +957,7 @@ copula,Outbreak,1252,KBTI3I,海外,1821,3SYA9G,海外,2991,EGYPT,海外
 copula,On the FM,1051,FKSHN*,海外,1433,TI-HSP,海外,2692,CYBERX,海外
 copula,NZM,602,RYO,海外,1484,CHI4KO,海外,3331,EGYPT,海外
 copula,Nowhere,0,,未設定,1237,HONK!,海外,1987,CR.R,海外
-copula,NO LIMIT -オレ達に限界は無い-,778,SHIRYU,海外,1113,404,海外,2159,CR.R,海外
+copula,NO LIMIT -オレ達に限界は無い-,778,SHIRYU,海外,1113,404,海外,2195,------,海外
 copula,NINJA IS DEAD IIDX ver.,1151,SHIRYU,海外,1760,NOM,海外,2974,EGYPT,海外
 copula,Nightmare before oversleep,1007,CONY**,海外,1735,KAGA*N,海外,2930,EGYPT,海外
 copula,NANAIRO,948,QQ36,海外,1679,FISH*,海外,2474,CR.R,海外
@@ -1038,7 +1038,7 @@ SINOBUZ,shuriken,769,Y.,海外,941,SAKU.K,海外,2548,EGYPT,海外
 SINOBUZ,Shoot'Em All,790,CR.R,海外,1185,KTGR,海外,2435,EGYPT,海外
 SINOBUZ,SEQUENCE CAT,1009,QQ36,海外,2180,BALLS,海外,2859,EGYPT,海外
 SINOBUZ,Selfish Sweet,319,22,海外,889,LILIAN,海外,1651,U.N.K,海外
-SINOBUZ,Seize the Day,716,SHIRYU,海外,1245,M.S.R.,海外,2043,2NOMAE,海外
+SINOBUZ,Seize the Day,716,SHIRYU,海外,1245,M.S.R.,海外,2072,------,海外
 SINOBUZ,Seaside Labyrinth,307,TONTO,海外,1104,KATANA,海外,1866,EGYPT,海外
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,419,CLKISO,海外,1484,LILIAN,海外,2123,DA**AN,海外
 SINOBUZ,SAY BAY,753,ZHI,海外,1383,CHI4KO,海外,2802,EGYPT,海外
@@ -1126,7 +1126,7 @@ CANNON BALLERS,"Son, not gabba now",819,404,海外,1495,YXZH,海外,2360,CYBERX,
 CANNON BALLERS,Slipstream,998,QQ36,海外,1972,DT-G5Q,海外,3353,IZUNA.,海外
 CANNON BALLERS,SHOX,743,QQ36,海外,884,WD-40,海外,1515,U.N.K,海外
 CANNON BALLERS,Rise Circuit,882,404,海外,1448,KATANA,海外,2287,DT-G5Q,海外
-CANNON BALLERS,Raspberry Railgun,1239,QQ36,海外,1975,SIG,海外,3058,36RA51,海外
+CANNON BALLERS,Raspberry Railgun,1239,QQ36,海外,2019,BALLS,海外,3058,36RA51,海外
 CANNON BALLERS,Rampage,1218,QQ36,海外,2482,IZUNA.,海外,3539,IZUNA.,海外
 CANNON BALLERS,Persephone,1018,PENGIN,海外,1747,DDDDX,海外,2988,EGYPT,海外
 CANNON BALLERS,Papilio ulysses,966,NIKI*,海外,2111,DT-G5Q,海外,2870,EGYPT,海外

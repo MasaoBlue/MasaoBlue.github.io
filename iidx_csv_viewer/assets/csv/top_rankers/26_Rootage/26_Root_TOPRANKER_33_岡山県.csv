@@ -13,9 +13,9 @@
 1st&substream,deep in you,461,N-ART.,岡山県,450,KAZU,岡山県,653,GENO,岡山県
 1st&substream,5.1.1.,198,GENO,岡山県,1013,GENO,岡山県,1550,GENO,岡山県
 1st&substream,22DUNK,465,RAL,岡山県,585,0S4,岡山県,648,GENO,岡山県
-2nd style,SP-TRIP MACHINE(for beatmania II),485,Z-32.,岡山県,598,ZENON,岡山県,634,-DAI-,岡山県
+2nd style,SP-TRIP MACHINE(for beatmania II),485,Z-32.,岡山県,598,ZENON,岡山県,635,-DAI-,岡山県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),293,METRO,岡山県,853,-DAI-,岡山県,0,,未設定
-2nd style,Indigo Vision(full flavour hide around mix),231,METRO,岡山県,999,IKA.,岡山県,1193,INDIUM,岡山県
+2nd style,Indigo Vision(full flavour hide around mix),780,KAZU,岡山県,999,IKA.,岡山県,1193,INDIUM,岡山県
 2nd style,I Was The One,508,KA74MI,岡山県,599,ASHI,岡山県,687,PAUL-B,岡山県
 2nd style,Electro Tuned(the SubS mix),710,ZENON,岡山県,827,YMGTN,岡山県,1051,-DAI-,岡山県
 2nd style,Digital MinD(A/T Libra mix),675,KAZU,岡山県,911,ATPS,岡山県,1122,-DAI-,岡山県
@@ -478,7 +478,7 @@ SIRIUS,たからもの,1237,ROCO,岡山県,1821,TORO,岡山県,2230,GENO,岡山�
 SIRIUS,かずあそび,493,COA,岡山県,1085,KAZU,岡山県,1620,NICOL,岡山県
 SIRIUS,The Story Begins,799,Y.TSRN,岡山県,1709,M.,岡山県,2394,GRATAN,岡山県
 SIRIUS,THE LAST STRIKER,1367,TORO,岡山県,1908,M.,岡山県,2571,CORIVE,岡山県
-SIRIUS,Special One,704,COA,岡山県,964,O-S,岡山県,1682,LAIR,岡山県
+SIRIUS,Special One,704,COA,岡山県,964,O-S,岡山県,1688,-DAI-,岡山県
 SIRIUS,Sorrows,804,TORO,岡山県,1686,GENO,岡山県,2467,GENO,岡山県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3468,MOEL53,岡山県
 SIRIUS,SOLID STATE SQUAD,977,TORO,岡山県,2065,M.,岡山県,3456,MOEL53,岡山県
@@ -571,7 +571,7 @@ Resort Anthem,Destiny Sword,518,AA,岡山県,1662,UMR-N,岡山県,2318,GENO,岡�
 Resort Anthem,DAYDREAMER,1134,ZAKO4.,岡山県,1658,*MAKI*,岡山県,2509,GENO,岡山県
 Resort Anthem,Dances with Snow Fairies,1215,ATPS,岡山県,2085,KURO,岡山県,2970,BLDZR.,岡山県
 Resort Anthem,BROKEN EDEN,918,ZENON,岡山県,1477,GARO,岡山県,2261,GENO,岡山県
-Resort Anthem,Broken,974,DO2*NZ,岡山県,1988,PINPON,岡山県,3054,BLDZR.,岡山県
+Resort Anthem,Broken,1023,KAZU,岡山県,1988,PINPON,岡山県,3054,BLDZR.,岡山県
 Resort Anthem,Breaking the ground,1141,KAZU,岡山県,1690,ZENON,岡山県,2489,GRATAN,岡山県
 Resort Anthem,Bounce Bounce Bounce,1034,KAZU,岡山県,1637,M.,岡山県,2374,BLDZR.,岡山県
 Resort Anthem,BLUST OF WIND,826,M.,岡山県,1501,TORO,岡山県,2094,BLDZR.,岡山県
@@ -781,7 +781,7 @@ SPADA,Last Dance,1159,TORO,岡山県,1859,SHO-U,岡山県,3124,BLDZR.,岡山県
 SPADA,LA FESTA LA VITA!!,829,GERMAN,岡山県,1672,AGARI,岡山県,2825,BLDZR.,岡山県
 SPADA,KHAMEN BREAK,571,KAZU,岡山県,1102,YUSUKE,岡山県,2324,GYAN3,岡山県
 SPADA,KAISER PHOENIX,1198,ABI,岡山県,2172,PINPON,岡山県,3148,IGLIMA,岡山県
-SPADA,IX,1248,M.,岡山県,2322,SIBATA,岡山県,3624,IGLIMA,岡山県
+SPADA,IX,1248,M.,岡山県,2322,SIBATA,岡山県,3646,3710.Y,岡山県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3401,BLDZR.,岡山県
 SPADA,invoker,871,R*LYGZ,岡山県,1908,CUFF,岡山県,3122,BLDZR.,岡山県
 SPADA,into the battlefield,692,ZENON,岡山県,1404,DRMNG,岡山県,2356,BLDZR.,岡山県
@@ -808,7 +808,7 @@ SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3685,B
 SPADA,Close the World feat. a☆ru,1123,AIKA,岡山県,1967,GYA-!?,岡山県,3292,3710.Y,岡山県
 SPADA,Cleopatrysm,728,Y.TSRN,岡山県,1303,ZENON,岡山県,2448,MOEL53,岡山県
 SPADA,Claiomh Solais,346,GENO,岡山県,1315,ZENON,岡山県,2085,GENO,岡山県
-SPADA,BRAVE OUT,699,INUDO,岡山県,1542,GENO,岡山県,2123,GENO,岡山県
+SPADA,BRAVE OUT,1008,KAZU,岡山県,1542,GENO,岡山県,2123,GENO,岡山県
 SPADA,BRAINSTORM,730,TORO,岡山県,1963,3710.Y,岡山県,2738,MOEL53,岡山県
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1283,ATPS,岡山県,2150,PINPON,岡山県,3190,CORIVE,岡山県
 SPADA,Atropos,965,ZENON,岡山県,1597,DRMNG,岡山県,2174,TEN-1,岡山県
@@ -876,7 +876,7 @@ PENDUAL,IXION,926,COA,岡山県,1565,O-S,岡山県,2134,GENO,岡山県
 PENDUAL,Invitation from Mr.C,1118,FURIE,岡山県,1482,RYU,岡山県,2605,BLDZR.,岡山県
 PENDUAL,In The Breeze,653,TORO,岡山県,1093,TORO,岡山県,1691,MOEL53,岡山県
 PENDUAL,IMPLANTATION,599,Y.TSRN,岡山県,1543,LYUCA,岡山県,2234,BLDZR.,岡山県
-PENDUAL,illuminate,382,TIAMAT,岡山県,1449,0S4,岡山県,2258,GENO,岡山県
+PENDUAL,illuminate,585,KAZU,岡山県,1449,0S4,岡山県,2258,GENO,岡山県
 PENDUAL,Hello Happiness,516,KO-KI.,岡山県,1536,L.MSK,岡山県,2261,BLDZR.,岡山県
 PENDUAL,HELL SCAPER -Last Escape Remix-,838,ATPS,岡山県,1586,GARO,岡山県,2761,MOEL53,岡山県
 PENDUAL,GUILTY,0,,未設定,1259,ATPS,岡山県,1811,CUFF,岡山県
@@ -924,7 +924,7 @@ copula,明鏡止水,779,COA,岡山県,1668,YU-NO,岡山県,2719,BLDZR.,岡山県
 copula,少女アリスと箱庭幻想コンチェルト,704,ATPS,岡山県,1280,O-S,岡山県,2108,IGLIMA,岡山県
 copula,セロトニン,580,ABC123,岡山県,1713,ADEL3X,岡山県,2272,BLDZR.,岡山県
 copula,シュッパツシンコウ・シサカンコ,978,SUZU,岡山県,1798,GENO,岡山県,2416,GENO,岡山県
-copula,ギョギョっと人魚 爆婚ブライダル,782,ABI,岡山県,1383,AIKA,岡山県,2273,CORIVE,岡山県
+copula,ギョギョっと人魚 爆婚ブライダル,804,AGARI,岡山県,1383,AIKA,岡山県,2273,CORIVE,岡山県
 copula,オルタネイトβ,806,ZENON,岡山県,1444,GENO,岡山県,2242,GENO,岡山県
 copula,めいさいアイドル☆あいむちゃん♪,1264,4M!N0,岡山県,2254,AQSB,岡山県,3234,BLDZR.,岡山県
 copula,か・し・ま・し☆PUMP UP！,965,-7-,岡山県,1774,PINPON,岡山県,2664,O.N.O.,岡山県
@@ -965,7 +965,7 @@ copula,Musik LoverZ,956,RAL,岡山県,1129,MONZE2,岡山県,2430,IGLIMA,岡山�
 copula,M4K3 1T B0UNC3,1306,TORO,岡山県,2044,CUFF,岡山県,2923,IGLIMA,岡山県
 copula,La dolce primavera,691,TORO,岡山県,1367,CUFF,岡山県,2133,MOEL53,岡山県
 copula,Konzert V,1190,ZENON,岡山県,2146,HNBRK,岡山県,3168,IGLIMA,岡山県
-copula,Journey,616,RAL,岡山県,1154,ZENON,岡山県,1864,BLDZR.,岡山県
+copula,Journey,664,KAZU,岡山県,1154,ZENON,岡山県,1864,BLDZR.,岡山県
 copula,Inner Spirit,788,COA,岡山県,1882,CUFF,岡山県,2716,MOEL53,岡山県
 copula,Highcharge Divolt,831,ATPS,岡山県,1594,MITTUN,岡山県,2698,IGLIMA,岡山県
 copula,Grand Chariot,1037,O-S,岡山県,1761,ADEL3X,岡山県,3276,MOEL53,岡山県
@@ -1026,7 +1026,7 @@ SINOBUZ,Venom,1043,AIRM,岡山県,2093,CUFF,岡山県,3101,CORIVE,岡山県
 SINOBUZ,Umbral,399,OOOOOO,岡山県,1191,O-S,岡山県,1883,CUFF,岡山県
 SINOBUZ,TOGAKUSHI,921,ATPS,岡山県,1613,A-BOX,岡山県,2509,CORIVE,岡山県
 SINOBUZ,The Commanders,694,K-NETS,岡山県,1492,PINPON,岡山県,2423,MOEL53,岡山県
-SINOBUZ,Sweet Clapper,320,NYN,岡山県,1242,GENO,岡山県,1898,GRATAN,岡山県
+SINOBUZ,Sweet Clapper,364,METRO,岡山県,1242,GENO,岡山県,1898,GRATAN,岡山県
 SINOBUZ,Super Rush,1036,GRATAN,岡山県,1853,CUFF,岡山県,3455,IGLIMA,岡山県
 SINOBUZ,Summerlights(IIDX Edition),880,KASANE,岡山県,1743,0S4,岡山県,2994,BLDZR.,岡山県
 SINOBUZ,Summer,443,DIO,岡山県,1423,GENO,岡山県,1936,GENO,岡山県
@@ -1108,7 +1108,7 @@ CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,843,ZENON,岡山県,1560,GENO
 CANNON BALLERS,ナイトシティー・アヴァンチュール,952,RAL,岡山県,1544,GENO,岡山県,2078,GENO,岡山県
 CANNON BALLERS,シムルグの目醒め,1343,ASHI,岡山県,2253,OFFTON,岡山県,3262,MOEL53,岡山県
 CANNON BALLERS,エディブルフラワーの独白,813,TORO,岡山県,1539,GRATAN,岡山県,2172,GRATAN,岡山県
-CANNON BALLERS,うさ☆かめ 大戦争！,865,ZENON,岡山県,1419,ZENON,岡山県,2473,BLDZR.,岡山県
+CANNON BALLERS,うさ☆かめ 大戦争！,865,ZENON,岡山県,1488,M.,岡山県,2473,BLDZR.,岡山県
 CANNON BALLERS,Xperanza,1305,TORO,岡山県,2343,ZATO1,岡山県,3039,MOEL53,岡山県
 CANNON BALLERS,VOX RUSH,1175,O-S,岡山県,2263,GRATAN,岡山県,3256,BLDZR.,岡山県
 CANNON BALLERS,Usual Days-remix,994,ATPS,岡山県,1379,-2,岡山県,2583,BLDZR.,岡山県
