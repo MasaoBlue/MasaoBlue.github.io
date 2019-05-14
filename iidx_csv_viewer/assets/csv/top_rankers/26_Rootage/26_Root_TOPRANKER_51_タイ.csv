@@ -12,7 +12,7 @@
 1st&substream,Dr.LOVE,205,PHI,タイ,277,VALL,タイ,536,PU2ANA,タイ
 1st&substream,deep in you,0,,未設定,0,,未設定,636,PU2ANA,タイ
 1st&substream,5.1.1.,192,CAVIAR,タイ,939,CAVIAR,タイ,1511,CAVIAR,タイ
-1st&substream,22DUNK,0,,未設定,0,,未設定,614,PU2ANA,タイ
+1st&substream,22DUNK,0,,未設定,0,,未設定,627,UNGAAA,タイ
 2nd style,SP-TRIP MACHINE(for beatmania II),479,HYPER,タイ,599,KKMTC*,タイ,640,PU2ANA,タイ
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,813,HAMM,タイ,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,998,HYPER,タイ,1172,PU2ANA,タイ
@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,1009,ZEE,タイ,1690,PL.DN.,タイ,0,,未設定
 3rd style,Tangerine Stream,0,,未設定,140,DJPXID,タイ,0,,未設定
 3rd style,Skyscraper,0,,未設定,1011,AZVW-2,タイ,1027,CC,タイ
-3rd style,Schlagwerk,0,,未設定,0,,未設定,1550,ME!JI,タイ
+3rd style,Schlagwerk,0,,未設定,0,,未設定,1572,UNGAAA,タイ
 3rd style,REINCARNATION,0,,未設定,838,ZEE,タイ,706,BE158,タイ
 3rd style,R5,686,ZEE,タイ,1050,84*,タイ,1727,PL.DN.,タイ
 3rd style,Presto,155,KATAUA,タイ,816,ZEE,タイ,959,SPIKE!,タイ
@@ -49,7 +49,7 @@
 4th style,DXY!,0,,未設定,1437,EYE,タイ,2143,AYA.K,タイ
 4th style,Clione†,0,,未設定,0,,未設定,2019,UNGAAA,タイ
 4th style,Clione,474,ZEE,タイ,818,ZEE,タイ,1533,PU2ANA,タイ
-4th style,CHECKING YOU OUT,485,ZEE,タイ,796,CAVIAR,タイ,1240,T*KORO,タイ
+4th style,CHECKING YOU OUT,485,ZEE,タイ,820,SPIKE!,タイ,1240,T*KORO,タイ
 4th style,Burnin' The Floor,539,HYPER,タイ,0,,未設定,1363,UNGAAA,タイ
 4th style,Broken My Heart,0,,未設定,1216,ZEE,タイ,1713,UNGAAA,タイ
 4th style,B4U,434,MIMO$A,タイ,1366,YOD00,タイ,1882,PU2ANA,タイ
@@ -101,7 +101,7 @@
 7th style,Spica,600,HYPER,タイ,1234,ME!JI,タイ,2078,UNGAAA,タイ
 7th style,MAX 300,1061,UNGAAA,タイ,1879,H0STC,タイ,0,,未設定
 7th style,Love Me Do,0,,未設定,1663,AYA.K,タイ,2060,PU2ANA,タイ
-7th style,Let the Snow Paint Me,0,,未設定,0,,未設定,1187,PU2ANA,タイ
+7th style,Let the Snow Paint Me,0,,未設定,995,SPIKE!,タイ,1187,PU2ANA,タイ
 7th style,Last Message,0,,未設定,1033,ZEE,タイ,1550,PU2ANA,タイ
 7th style,Happy Wedding,0,,未設定,1611,SPIKE!,タイ,1753,NART!!,タイ
 7th style,Glorious Days,246,KATAUA,タイ,0,,未設定,833,EARTH!,タイ
@@ -112,7 +112,7 @@
 7th style,Burning Heat! (Full Option Mix),383,NOBAR!,タイ,727,LOLICZ,タイ,1133,ZK-2.,タイ
 7th style,Bad Routine,0,,未設定,1323,SPIKE!,タイ,1828,TORO,タイ
 7th style,AVE DE RAPINA,0,,未設定,1315,ZEE,タイ,1754,PU2ANA,タイ
-7th style,A,503,RIF,タイ,1954,T*KORO,タイ,2338,AYA.K,タイ
+7th style,A,503,RIF,タイ,1996,CAVIAR,タイ,2338,AYA.K,タイ
 8th style,蒼い衝動,828,ZEE,タイ,1129,ZEE,タイ,1567,H0STC,タイ
 8th style,桜,872,84*,タイ,1520,AYA.K,タイ,1986,AYA.K,タイ
 8th style,xenon,907,NN*,タイ,1622,SPIKE!,タイ,2605,CAVIAR,タイ
@@ -264,7 +264,7 @@ HAPPY SKY,Pollinosis,0,,未設定,0,,未設定,2325,EARTH!,タイ
 HAPPY SKY,PLASMA,0,,未設定,1370,ZEE,タイ,2168,TORO,タイ
 HAPPY SKY,Pink Rose,423,IIDX26,タイ,879,84*,タイ,1402,H0STC,タイ
 HAPPY SKY,MOON RACE,0,,未設定,978,ZEE,タイ,1830,PU2ANA,タイ
-HAPPY SKY,Love Magic,0,,未設定,1710,PU2ANA,タイ,1772,PU2ANA,タイ
+HAPPY SKY,Love Magic,0,,未設定,1710,PU2ANA,タイ,1821,PL.DN.,タイ
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3698,AYA.K,タイ
 HAPPY SKY,Little Little Princess,0,,未設定,1910,R3333,タイ,2684,PL.DN.,タイ
 HAPPY SKY,LESSON 5,0,,未設定,1420,ZEE,タイ,2410,PU2ANA,タイ
@@ -281,18 +281,18 @@ HAPPY SKY,double thrash,0,,未設定,1924,SPIKE!,タイ,2222,PL.DN.,タイ
 HAPPY SKY,Catch Me,0,,未設定,977,ZEE,タイ,1651,PU2ANA,タイ
 HAPPY SKY,CaptivAte～浄化～,514,FREDX,タイ,1710,SPIKE!,タイ,2362,AYA.K,タイ
 HAPPY SKY,Aurora,1198,ZEE,タイ,2147,AYA.K,タイ,2472,AYA.K,タイ
-HAPPY SKY,alla turca con passione,705,ZEE,タイ,1261,ZEE,タイ,2083,CAVIAR,タイ
+HAPPY SKY,alla turca con passione,705,ZEE,タイ,1319,HYPER,タイ,2083,CAVIAR,タイ
 HAPPY SKY,Agnus Dei,214,SK,タイ,1405,GURI,タイ,1939,CAVIAR,タイ
 HAPPY SKY,100％ minimoo-G,0,,未設定,1567,SPIKE!,タイ,1582,NART!!,タイ
 DistorteD,虹色,728,MIMO$A,タイ,1372,84*,タイ,1803,CAVIAR,タイ
 DistorteD,華蝶風雪,0,,未設定,1929,POCOPL,タイ,2895,PL.DN.,タイ
 DistorteD,罠,0,,未設定,1302,ZEE,タイ,2424,TORO,タイ
-DistorteD,嘆きの樹,1578,HYPER,タイ,2357,UNGAAA,タイ,3625,AYA.K,タイ
+DistorteD,嘆きの樹,1726,SPIKE!,タイ,2357,UNGAAA,タイ,3625,AYA.K,タイ
 DistorteD,タシカナモノ,816,ZEE,タイ,0,,未設定,2003,AYA.K,タイ
 DistorteD,カゴノトリ～弐式～,0,,未設定,1527,C*SHIN,タイ,2487,PL.DN.,タイ
 DistorteD,Zenius -I- vanisher,879,ZEE,タイ,1385,84*,タイ,2344,AYA.K,タイ
 DistorteD,with you…,0,,未設定,0,,未設定,1726,PU2ANA,タイ
-DistorteD,WISH(EUROBEAT MIX),784,ALFOU,タイ,1151,ZEE,タイ,1895,PU2ANA,タイ
+DistorteD,WISH(EUROBEAT MIX),784,ALFOU,タイ,1260,ZEE,タイ,1895,PU2ANA,タイ
 DistorteD,Why did you go away,0,,未設定,1532,BOYDTR,タイ,2231,AYA.K,タイ
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3876,AYA.K,タイ
 DistorteD,waxing and wanding,997,FIRZTS,タイ,1934,NART!!,タイ,2816,AYA.K,タイ
@@ -301,12 +301,12 @@ DistorteD,tripping contact(teranoid&MC Natsack Remix),1097,GABEON,タイ,1815,SP
 DistorteD,This is Love,0,,未設定,1372,ZEE,タイ,2308,PU2ANA,タイ
 DistorteD,The Dirty of Loudness,1226,ZEE,タイ,1960,ME!JI,タイ,2475,AYA.K,タイ
 DistorteD,Sun Field,0,,未設定,1370,YOD00,タイ,2279,PL.DN.,タイ
-DistorteD,So Fabulous !!,868,GUEST,タイ,1322,ZEE,タイ,2288,AYA.K,タイ
+DistorteD,So Fabulous !!,903,GUEST,タイ,1322,ZEE,タイ,2288,AYA.K,タイ
 DistorteD,Power of Love,0,,未設定,0,,未設定,2024,PU2ANA,タイ
 DistorteD,MOON,753,2*MERO,タイ,1779,YOD00,タイ,2100,PU2ANA,タイ
 DistorteD,MINT,760,ZEE,タイ,1761,CAVIAR,タイ,2238,CAVIAR,タイ
 DistorteD,Melody Life,0,,未設定,0,,未設定,1790,NART!!,タイ
-DistorteD,Leaving...,664,ZEE,タイ,1082,ZEE,タイ,2039,PL.DN.,タイ
+DistorteD,Leaving...,664,ZEE,タイ,1082,ZEE,タイ,2116,AYA.K,タイ
 DistorteD,INFERNO,0,,未設定,1467,ME!JI,タイ,1896,PU2ANA,タイ
 DistorteD,Heavenly Sun (IIDX VERSION),413,KALBSS,タイ,1484,ENAKO.,タイ,2006,N3333T,タイ
 DistorteD,Harmony and Lovely,0,,未設定,1510,C*SHIN,タイ,2197,AYA.K,タイ
@@ -342,7 +342,7 @@ GOLD,the shadow,0,,未設定,1976,SPIKE!,タイ,2772,CAVIAR,タイ
 GOLD,snow storm,713,ZEE,タイ,2148,SPIKE!,タイ,2697,AYA.K,タイ
 GOLD,smile,1073,DECEP,タイ,1586,ZEE,タイ,2826,AYA.K,タイ
 GOLD,Sense 2007,1392,YOD00,タイ,2117,T*KORO,タイ,2647,CAVIAR,タイ
-GOLD,Second Heaven,894,ZK-2.,タイ,1397,YOD00,タイ,2054,PU2ANA,タイ
+GOLD,Second Heaven,894,ZK-2.,タイ,1397,YOD00,タイ,2075,PU2ANA,タイ
 GOLD,Roulette,722,DECEP,タイ,1120,MIKA.,タイ,1949,EARTH!,タイ
 GOLD,PHOTONGENIC,1064,ZEE,タイ,1672,84*,タイ,2276,AYA.K,タイ
 GOLD,op.31 叙情,490,POCOPL,タイ,956,AYA.K,タイ,1457,H0STC,タイ
@@ -371,7 +371,7 @@ GOLD,ANDROMEDA II,560,FREDX,タイ,1528,ZEE,タイ,2420,CAVIAR,タイ
 GOLD,Air Bell,0,,未設定,740,MDHPPO,タイ,1676,H0STC,タイ
 DJ TROOPERS,走馬灯 -The Last Song-,222,KATAUA,タイ,0,,未設定,1300,AYA.K,タイ
 DJ TROOPERS,華爛漫 -Flowers-,0,,未設定,1523,NART!!,タイ,2004,AYA.K,タイ
-DJ TROOPERS,少年A,0,,未設定,1974,SPIKE!,タイ,2595,UNGAAA,タイ
+DJ TROOPERS,少年A,778,ALFOU,タイ,1974,SPIKE!,タイ,2595,UNGAAA,タイ
 DJ TROOPERS,ミラージュ・レジデンス,0,,未設定,1717,KKMTC*,タイ,2406,AYA.K,タイ
 DJ TROOPERS,マチ子の唄,0,,未設定,0,,未設定,1765,AYA.K,タイ
 DJ TROOPERS,エコ爺,0,,未設定,1240,HYPER,タイ,1777,SPIKE!,タイ
@@ -411,7 +411,7 @@ DJ TROOPERS,end of world,755,CND9,タイ,1381,ZEE,タイ,2121,R3333,タイ
 DJ TROOPERS,Do it!! Do it!!,780,CC,タイ,1174,SHINON,タイ,1813,AYA.K,タイ
 DJ TROOPERS,Digitank System,797,HYPER,タイ,1381,KKMTC*,タイ,1964,PL.DN.,タイ
 DJ TROOPERS,Dazzlin' Darlin,551,XXXXXX,タイ,1306,ZEE,タイ,2201,PU2ANA,タイ
-DJ TROOPERS,Darling my LUV,0,,未設定,634,XXXXXX,タイ,1278,POCOPL,タイ
+DJ TROOPERS,Darling my LUV,570,ALFOU,タイ,634,XXXXXX,タイ,1346,PU2ANA,タイ
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3135,CAVIAR,タイ
 DJ TROOPERS,Blue Rain,839,ZEE,タイ,1538,GABEON,タイ,2197,AYA.K,タイ
 DJ TROOPERS,beatonic nation,0,,未設定,1589,ZEE,タイ,2035,PU2ANA,タイ
@@ -457,7 +457,7 @@ EMPRESS,HYPERION,395,FH.PNK,タイ,1898,YOD00,タイ,2588,CAVIAR,タイ
 EMPRESS,Go Beyond!!,887,LOADIN,タイ,1604,ASF410,タイ,2071,AYA.K,タイ
 EMPRESS,Fly Above,844,BOYDTR,タイ,1614,GABEON,タイ,2000,AYA.K,タイ
 EMPRESS,Flash Back 90's,0,,未設定,1537,84*,タイ,2204,PU2ANA,タイ
-EMPRESS,Cyber Force -DJ Yoshitaka Remix-,0,,未設定,1609,HYPER,タイ,2425,PU2ANA,タイ
+EMPRESS,Cyber Force -DJ Yoshitaka Remix-,633,FREDX,タイ,1609,HYPER,タイ,2425,PU2ANA,タイ
 EMPRESS,Colorful Cookie,937,MIMO$A,タイ,2229,PU2ANA,タイ,3358,AYA.K,タイ
 EMPRESS,CaptivAte2～覚醒～,912,ZEE,タイ,1679,SPIKE!,タイ,2334,AYA.K,タイ
 EMPRESS,BRIDAL FESTIVAL !!!,603,GUEST,タイ,1352,84*,タイ,2040,PU2ANA,タイ
@@ -478,7 +478,7 @@ SIRIUS,たからもの,956,YUUGEN,タイ,1788,34?-R,タイ,2217,H0STC,タイ
 SIRIUS,かずあそび,243,SE3P,タイ,1091,BOYDTR,タイ,1667,AYA.K,タイ
 SIRIUS,The Story Begins,705,CND9,タイ,1620,YOD00,タイ,2341,PU2ANA,タイ
 SIRIUS,THE LAST STRIKER,1213,ZEE,タイ,1742,AXID,タイ,2515,CAVIAR,タイ
-SIRIUS,Special One,738,ZEE,タイ,50,ASF410,タイ,1766,H0STC,タイ
+SIRIUS,Special One,738,ZEE,タイ,1035,ZEE,タイ,1766,H0STC,タイ
 SIRIUS,Sorrows,0,,未設定,1527,ZEE,タイ,2416,PL.DN.,タイ
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3447,AYA.K,タイ
 SIRIUS,SOLID STATE SQUAD,868,BOYDTR,タイ,2167,NART!!,タイ,3336,CAVIAR,タイ
@@ -502,7 +502,7 @@ SIRIUS,GOLDEN CROSS,0,,未設定,1711,C*SHIN,タイ,3364,AYA.K,タイ
 SIRIUS,GALGALIM,1208,BOYDTR,タイ,1704,ME!JI,タイ,2234,NART!!,タイ
 SIRIUS,G59,1503,ZEE,タイ,2217,NART!!,タイ,3757,CAVIAR,タイ
 SIRIUS,EXUSIA,1047,BOYDTR,タイ,2636,AYA.K,タイ,3667,AYA.K,タイ
-SIRIUS,Evans,910,FREDX,タイ,2113,CAVIAR,タイ,2632,CAVIAR,タイ
+SIRIUS,Evans,914,FREDX,タイ,2113,CAVIAR,タイ,2632,CAVIAR,タイ
 SIRIUS,eRAseRmOToRpHAntOM,1327,BOYDTR,タイ,2082,84*,タイ,2987,CAVIAR,タイ
 SIRIUS,Empire State Glory,969,ZEE,タイ,1747,SPIKE!,タイ,2543,PL.DN.,タイ
 SIRIUS,Elisha,705,DECEP,タイ,1461,NART!!,タイ,2208,NART!!,タイ
@@ -512,7 +512,7 @@ SIRIUS,DESIRE,0,,未設定,1887,SPIKE!,タイ,2742,CAVIAR,タイ
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,692,ZEE,タイ,1376,84*,タイ,2016,CAVIAR,タイ
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1503,BOYDTR,タイ,2655,CAVIAR,タイ,3038,CAVIAR,タイ
 SIRIUS,D,1387,SPIKE!,タイ,1789,SPIKE!,タイ,2410,AYA.K,タイ
-SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),924,BOYDTR,タイ,1584,SPIKE!,タイ,2304,PU2ANA,タイ
+SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),924,BOYDTR,タイ,1584,SPIKE!,タイ,2327,CAVIAR,タイ
 SIRIUS,bloomin' feeling,1185,ZEE,タイ,1808,YOD00,タイ,2517,AYA.K,タイ
 SIRIUS,being torn the sky,538,ZEE,タイ,922,KONGNK,タイ,1938,H0STC,タイ
 SIRIUS,BEAUTIFUL ANGEL,492,ZEE,タイ,1695,KKMTC*,タイ,2402,CAVIAR,タイ
@@ -620,7 +620,7 @@ Lincle,Phoenix,810,84*,タイ,0,,未設定,2244,PU2ANA,タイ
 Lincle,NNRT,1054,ZEE,タイ,2414,SPIKE!,タイ,3367,AYA.K,タイ
 Lincle,Miami Sunset Drive,0,,未設定,0,,未設定,1587,NART!!,タイ
 Lincle,Mermaid girl-秋葉工房 MIX-,681,XXXXXX,タイ,1214,HYPER,タイ,2004,TORO,タイ
-Lincle,Lucky Days,536,GUEST,タイ,1384,HYPER,タイ,2124,CAVIAR,タイ
+Lincle,Lucky Days,617,HYPER,タイ,1384,HYPER,タイ,2124,CAVIAR,タイ
 Lincle,LOVE B.B.B,465,*P*,タイ,1384,YOD00,タイ,1968,H0STC,タイ
 Lincle,Liquid Crystal Girl feat. echo,0,,未設定,1046,ZEE,タイ,1997,H0STC,タイ
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,1009,AYA.K,タイ,1507,BOYDTR,タイ,2153,H0STC,タイ
@@ -655,7 +655,7 @@ tricoro,朧,729,ZEE,タイ,1306,ZEE,タイ,2059,PU2ANA,タイ
 tricoro,即席！脳直★ミュージックシステム,843,Z3T,タイ,1845,ASF410,タイ,3314,CAVIAR,タイ
 tricoro,創世ノート,356,8556,タイ,1481,ZEE,タイ,2750,UNGAAA,タイ
 tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3700,AYA.K,タイ
-tricoro,仮想空間の旅人たち,0,,未設定,1861,HYPER,タイ,2833,H0STC,タイ
+tricoro,仮想空間の旅人たち,0,,未設定,2139,NART!!,タイ,2833,H0STC,タイ
 tricoro,下弦の月,0,,未設定,1287,ZEE,タイ,1925,PU2ANA,タイ
 tricoro,ラキラキ,352,DARKIZ,タイ,1269,C*SHIN,タイ,1925,PU2ANA,タイ
 tricoro,メイメツ、フラグメンツ,0,,未設定,1207,GURI,タイ,1875,PL.DN.,タイ
@@ -678,7 +678,7 @@ tricoro,True Blue,956,0NZK,タイ,2313,ENAKO.,タイ,3614,AYA.K,タイ
 tricoro,To my star,393,VALL,タイ,1153,GABEON,タイ,1676,EARTH!,タイ
 tricoro,Timepiece phase II (CN Ver.),0,,未設定,1635,POCOPL,タイ,2698,CAVIAR,タイ
 tricoro,Timepiece phase II,0,,未設定,1985,AYA.K,タイ,2861,EARTH!,タイ
-tricoro,Time To Empress,891,HYPER,タイ,1884,PU2ANA,タイ,2485,PU2ANA,タイ
+tricoro,Time To Empress,891,HYPER,タイ,1884,PU2ANA,タイ,2518,PU2ANA,タイ
 tricoro,Thor's Hammer,911,84*,タイ,1392,AZVW-2,タイ,2700,AYA.K,タイ
 tricoro,Take My Life,0,,未設定,1279,MIKA.,タイ,2790,PL.DN.,タイ
 tricoro,Synergy For Angels,0,,未設定,1653,SPIKE!,タイ,2657,AYA.K,タイ
@@ -703,7 +703,7 @@ tricoro,neu,933,84*,タイ,1950,AXID,タイ,3676,PL.DN.,タイ
 tricoro,Neonlights,635,84*,タイ,1416,HYPER,タイ,2042,CAVIAR,タイ
 tricoro,mnemoniq,0,,未設定,0,,未設定,1263,PU2ANA,タイ
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2654,PL.DN.,タイ
-tricoro,LUV CAN SAVE U,0,,未設定,1213,MIKA.,タイ,2073,PU2ANA,タイ
+tricoro,LUV CAN SAVE U,0,,未設定,1247,LOADIN,タイ,2073,PU2ANA,タイ
 tricoro,Little Star,779,ZAKO,タイ,1739,SPIKE!,タイ,3009,CAVIAR,タイ
 tricoro,Light and Cyber…,0,,未設定,1932,HAMM,タイ,3034,CAVIAR,タイ
 tricoro,Liberation,0,,未設定,2185,NART!!,タイ,3537,CAVIAR,タイ
@@ -718,7 +718,7 @@ tricoro,Hollywood Galaxy,682,S3ZE,タイ,1824,ZK-2.,タイ,2606,CAVIAR,タイ
 tricoro,GRADIUS 2012,672,GUEST,タイ,1542,84*,タイ,2552,PU2ANA,タイ
 tricoro,GAIA,765,XXXXXX,タイ,2147,SPIKE!,タイ,3104,CAVIAR,タイ
 tricoro,Fly you to the star,702,ZEE,タイ,1428,ZEE,タイ,2182,CAVIAR,タイ
-tricoro,FLOWER,828,-?!?-,タイ,1643,YOD00,タイ,2770,CAVIAR,タイ
+tricoro,FLOWER,1038,ZEE,タイ,1643,YOD00,タイ,2770,CAVIAR,タイ
 tricoro,examination leave,0,,未設定,1813,FAKE,タイ,3322,AYA.K,タイ
 tricoro,Elemental Creation,1206,ZEE,タイ,2080,AXID,タイ,3909,AYA.K,タイ
 tricoro,Devilz Staircase,512,YOKZAR,タイ,1947,ME!JI,タイ,3104,AYA.K,タイ
@@ -733,9 +733,9 @@ tricoro,Beastie Starter,357,DECEP,タイ,1247,SPIKE!,タイ,2042,AYA.K,タイ
 tricoro,Ascalon,870,DECEP,タイ,1333,ZEE,タイ,2183,CAVIAR,タイ
 tricoro,8bit Princess,397,8556,タイ,1356,UNGAAA,タイ,2556,TORO,タイ
 tricoro,405nm (Ryu☆mix),731,XXXXXX,タイ,1677,SPIKE!,タイ,2486,CAVIAR,タイ
-SPADA,轟け！恋のビーンボール！！,676,GUEST,タイ,1841,ASF410,タイ,3267,CAVIAR,タイ
+SPADA,轟け！恋のビーンボール！！,676,GUEST,タイ,1841,ASF410,タイ,3269,PU2ANA,タイ
 SPADA,超!!遠距離らぶ?メ～ル,0,,未設定,1356,SHINON,タイ,2569,PU2ANA,タイ
-SPADA,罪と罰,0,,未設定,1317,SPIKE!,タイ,2072,PU2ANA,タイ
+SPADA,罪と罰,762,GUEST,タイ,1317,SPIKE!,タイ,2072,PU2ANA,タイ
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3160,AYA.K,タイ
 SPADA,疾風迅雷,0,,未設定,2009,CAVIAR,タイ,2782,AYA.K,タイ
 SPADA,牧神笛吹きて,688,ZEE,タイ,1044,ZEE,タイ,1914,PL.DN.,タイ
@@ -821,7 +821,7 @@ PENDUAL,Ｘ↑Ｘ↓,604,L15TL5,タイ,1687,ASF410,タイ,2770,CAVIAR,タイ
 PENDUAL,鬼天,0,,未設定,1516,YOD00,タイ,2310,PL.DN.,タイ
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3875,AYA.K,タイ
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,942,ZEE,タイ,1973,SPIKE!,タイ,2632,AYA.K,タイ
-PENDUAL,表裏一体！？怪盗いいんちょの悩み,761,AUGU5T,タイ,1964,ASF410,タイ,3372,CAVIAR,タイ
+PENDUAL,表裏一体！？怪盗いいんちょの悩み,761,AUGU5T,タイ,1964,ASF410,タイ,3397,PU2ANA,タイ
 PENDUAL,紅牡丹,892,2*MERO,タイ,1800,PL.DN.,タイ,2710,PL.DN.,タイ
 PENDUAL,白露の風,0,,未設定,1141,84*,タイ,1948,PU2ANA,タイ
 PENDUAL,時空トラベローグ,0,,未設定,1609,C*SHIN,タイ,2475,AYA.K,タイ
@@ -835,7 +835,7 @@ PENDUAL,取り残された美術(Arranged:HiZuMi),864,ZEE,タイ,1688,SPIKE!,タ
 PENDUAL,千年ノ理,965,FIRZTS,タイ,1862,NART!!,タイ,3105,AYA.K,タイ
 PENDUAL,十六夜セツナ,944,SHINON,タイ,1467,84*,タイ,2133,UNGAAA,タイ
 PENDUAL,共鳴遊戯の華,1160,ZEE,タイ,2348,AYA.K,タイ,3660,AYA.K,タイ
-PENDUAL,リリーゼと炎龍レーヴァテイン,796,GUEST,タイ,2071,GURI,タイ,3346,AYA.K,タイ
+PENDUAL,リリーゼと炎龍レーヴァテイン,807,GUEST,タイ,2071,GURI,タイ,3346,AYA.K,タイ
 PENDUAL,ベィスドロップ・フリークス,606,BOYDTR,タイ,1069,POOM*H,タイ,2134,PU2ANA,タイ
 PENDUAL,パ→ピ→プ→Yeah!,850,XXXXXX,タイ,1495,C*SHIN,タイ,2447,PL.DN.,タイ
 PENDUAL,ドッキン☆サマーあばんちゅーる,779,AUGU5T,タイ,1717,ASF410,タイ,2677,PL.DN.,タイ
@@ -844,7 +844,7 @@ PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,34
 PENDUAL,とろぴかる倶楽部,0,,未設定,1412,34?-R,タイ,2144,CAVIAR,タイ
 PENDUAL,それは花火のような恋,1167,NART!!,タイ,2502,AYA.K,タイ,3695,AYA.K,タイ
 PENDUAL,ZZ,457,IIDX26,タイ,2004,PL.DN.,タイ,2933,AYA.K,タイ
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1083,ASF410,タイ,2280,AYA.K,タイ,3400,CAVIAR,タイ
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1083,ASF410,タイ,2280,AYA.K,タイ,3401,AYA.K,タイ
 PENDUAL,Vulkan,524,AAAAAA,タイ,1940,NART!!,タイ,2884,CAVIAR,タイ
 PENDUAL,TOXIC VIBRATION,1299,MAME,タイ,2276,NART!!,タイ,3468,PL.DN.,タイ
 PENDUAL,TIEFSEE,839,KIRBY,タイ,1818,C*SHIN,タイ,3281,AYA.K,タイ
@@ -864,7 +864,7 @@ PENDUAL,Reflux,0,,未設定,1449,ZK-2.,タイ,2833,CAVIAR,タイ
 PENDUAL,Realize Maze,1196,SPIKE!,タイ,1628,ZEE,タイ,2875,AYA.K,タイ
 PENDUAL,Rave*it!! Rave*it!!,629,-?!?-,タイ,1629,SPIKE!,タイ,3077,AYA.K,タイ
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),0,,未設定,1212,BORN,タイ,2167,CAVIAR,タイ
-PENDUAL,PENDUAL TALISMAN,805,GUEST,タイ,1588,NART!!,タイ,2515,CAVIAR,タイ
+PENDUAL,PENDUAL TALISMAN,859,GUEST,タイ,1588,NART!!,タイ,2515,CAVIAR,タイ
 PENDUAL,On My Wings(Hardstyle IIDX),673,ALFOU,タイ,978,MIKA.,タイ,1910,PU2ANA,タイ
 PENDUAL,No Tears,807,DECEP,タイ,1821,YOD00,タイ,2424,CAVIAR,タイ
 PENDUAL,Night sky,1132,T*KORO,タイ,1709,EARTH!,タイ,2750,CAVIAR,タイ
@@ -879,7 +879,7 @@ PENDUAL,IMPLANTATION,0,,未設定,1582,SPIKE!,タイ,2183,AYA.K,タイ
 PENDUAL,illuminate,324,KATAUA,タイ,1259,84*,タイ,2185,PU2ANA,タイ
 PENDUAL,Hello Happiness,0,,未設定,1599,SPIKE!,タイ,2185,CAVIAR,タイ
 PENDUAL,HELL SCAPER -Last Escape Remix-,741,DECEP,タイ,1525,HYPER,タイ,2725,CAVIAR,タイ
-PENDUAL,GUILTY,0,,未設定,1167,ZEE,タイ,1434,KKMTC*,タイ
+PENDUAL,GUILTY,0,,未設定,1167,ZEE,タイ,1788,PU2ANA,タイ
 PENDUAL,Gravigazer,563,WATA,タイ,1632,GURI,タイ,2769,CAVIAR,タイ
 PENDUAL,Flashes,685,ZAKO,タイ,1736,NART!!,タイ,3132,CAVIAR,タイ
 PENDUAL,FANTASTIC THREE,0,,未設定,2146,PL.DN.,タイ,2997,CAVIAR,タイ
@@ -927,7 +927,7 @@ copula,シュッパツシンコウ・シサカンコ,478,Q,タイ,1744,NART!!,�
 copula,ギョギョっと人魚 爆婚ブライダル,666,GUEST,タイ,1344,SPIKE!,タイ,2271,PU2ANA,タイ
 copula,オルタネイトβ,755,ZEE,タイ,1235,ZEE,タイ,2201,AYA.K,タイ
 copula,めいさいアイドル☆あいむちゃん♪,1350,ZEE,タイ,2306,AYA.K,タイ,3215,AYA.K,タイ
-copula,か・し・ま・し☆PUMP UP！,638,GUEST,タイ,1550,YOD00,タイ,2653,PU2ANA,タイ
+copula,か・し・ま・し☆PUMP UP！,777,GUEST,タイ,1550,YOD00,タイ,2653,PU2ANA,タイ
 copula,ZEPHYRANTHES,942,BOYDTR,タイ,1635,YOD00,タイ,2857,AYA.K,タイ
 copula,X,1377,ZEE,タイ,2411,AYA.K,タイ,3772,AYA.K,タイ
 copula,Welcome,620,DECEP,タイ,1785,AYA.K,タイ,2574,CAVIAR,タイ
@@ -976,10 +976,10 @@ copula,Glitch Nerds,812,L15TL5,タイ,1119,SOGONO,タイ,1986,ME!JI,タイ
 copula,GET READY!!,1012,NART!!,タイ,1538,SPIKE!,タイ,2560,CAVIAR,タイ
 copula,GENERATE feat.綾倉盟,0,,未設定,1580,YOD00,タイ,2271,SPIKE!,タイ
 copula,Exchange Place,524,XXXXXX,タイ,1148,GURI,タイ,1577,GURI,タイ
-copula,Everlasting Last,608,YOKZAR,タイ,1355,ZEE,タイ,2131,PU2ANA,タイ
+copula,Everlasting Last,680,GUEST,タイ,1355,ZEE,タイ,2131,PU2ANA,タイ
 copula,Dynamite,1049,MIMO$A,タイ,2423,NART!!,タイ,3645,H0STC,タイ
 copula,Donkey Donk,810,LOADIN,タイ,1658,NART!!,タイ,2135,CAVIAR,タイ
-copula,do the thing feat. Kanae Asaba,516,HYPER,タイ,1258,HYPER,タイ,2076,EARTH!,タイ
+copula,do the thing feat. Kanae Asaba,516,HYPER,タイ,1279,ZEE,タイ,2076,EARTH!,タイ
 copula,DIAMOND CROSSING,889,ZEE,タイ,1688,AYA.K,タイ,2875,CAVIAR,タイ
 copula,Devil's Gear,821,DECEP,タイ,2160,AYA.K,タイ,3252,AYA.K,タイ
 copula,Derelict Star feat. Ryu*,860,-?!?-,タイ,1643,KKMTC*,タイ,2461,PL.DN.,タイ
@@ -998,7 +998,7 @@ copula,Angelic Jelly,885,L15TL5,タイ,1902,ASF410,タイ,2575,CAVIAR,タイ
 copula,Acid Pumper,609,ZEE,タイ,1397,GURI,タイ,2290,CAVIAR,タイ
 copula,199024club -Re:BounceKiller-,0,,未設定,1455,KKMTC*,タイ,2104,CAVIAR,タイ
 SINOBUZ,鴉,1393,ZEE,タイ,2180,NART!!,タイ,2620,PL.DN.,タイ
-SINOBUZ,童話回廊,330,YAJUSP,タイ,1299,HYPER,タイ,2785,PU2ANA,タイ
+SINOBUZ,童話回廊,330,YAJUSP,タイ,1299,HYPER,タイ,2862,UNGAAA,タイ
 SINOBUZ,禍根,0,,未設定,1199,84*,タイ,2407,PU2ANA,タイ
 SINOBUZ,獅子霞麗ノ舞,449,HYPER,タイ,564,YUUGEN,タイ,1664,PU2ANA,タイ
 SINOBUZ,焔極OVERKILL,831,-?!?-,タイ,2067,NART!!,タイ,3402,AYA.K,タイ
@@ -1056,7 +1056,7 @@ SINOBUZ,OTENAMI Hurricane,676,-?!?-,タイ,1572,ZEE,タイ,2960,CAVIAR,タイ
 SINOBUZ,OOO,515,*P*,タイ,1296,ZEE,タイ,1990,SPIKE!,タイ
 SINOBUZ,nostos,587,XXXXXX,タイ,1126,HYPER,タイ,2376,NART!!,タイ
 SINOBUZ,Music is The Answer,561,DECEP,タイ,1116,ZEE,タイ,1752,PU2ANA,タイ
-SINOBUZ,Modular Technology,708,-?!?-,タイ,1726,039!??,タイ,2479,PL.DN.,タイ
+SINOBUZ,Modular Technology,708,-?!?-,タイ,1850,SPIKE!,タイ,2479,PL.DN.,タイ
 SINOBUZ,Mare Nectaris,1422,UNGAAA,タイ,2086,AYA.K,タイ,3461,AYA.K,タイ
 SINOBUZ,Magical,0,,未設定,0,,未設定,1948,PU2ANA,タイ
 SINOBUZ,Macuilxochitl,1269,ZEE,タイ,1095,84*,タイ,3049,PL.DN.,タイ
@@ -1131,7 +1131,7 @@ CANNON BALLERS,Rampage,1098,MIKA.,タイ,2427,NART!!,タイ,3416,CAVIAR,タイ
 CANNON BALLERS,Persephone,1162,HYPER,タイ,1548,BOYDTR,タイ,2758,EARTH!,タイ
 CANNON BALLERS,Papilio ulysses,1009,MIKA.,タイ,2027,SPIKE!,タイ,2718,CAVIAR,タイ
 CANNON BALLERS,Only for now,0,,未設定,1367,ZEE,タイ,2220,PL.DN.,タイ
-CANNON BALLERS,O/D*20,769,-?!?-,タイ,1223,LOADIN,タイ,2041,TORO,タイ
+CANNON BALLERS,O/D*20,769,-?!?-,タイ,1223,LOADIN,タイ,2069,PU2ANA,タイ
 CANNON BALLERS,Nothing but Theory,655,MELON*,タイ,1326,ZEE,タイ,2693,PL.DN.,タイ
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,未設定,1237,ZEE,タイ,2248,PL.DN.,タイ
 CANNON BALLERS,NITROUS CANNON,1176,BOYDTR,タイ,1713,MI-YAN,タイ,3360,CAVIAR,タイ
@@ -1156,7 +1156,7 @@ CANNON BALLERS,FIRE BALL,0,,未設定,1348,HYPER,タイ,2349,CAVIAR,タイ
 CANNON BALLERS,Fervidex,764,ZEE,タイ,1757,PL.DN.,タイ,2628,PL.DN.,タイ
 CANNON BALLERS,Expanded !!,613,HYPER,タイ,1437,C*SHIN,タイ,2505,CAVIAR,タイ
 CANNON BALLERS,Exhaust Hype,0,,未設定,1633,84*,タイ,2681,PL.DN.,タイ
-CANNON BALLERS,encounter,896,ZEE,タイ,1595,YOD00,タイ,3030,PL.DN.,タイ
+CANNON BALLERS,encounter,896,ZEE,タイ,1595,YOD00,タイ,3035,CAVIAR,タイ
 CANNON BALLERS,EMERALDAS,1237,POCOPL,タイ,2286,NART!!,タイ,3274,AYA.K,タイ
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,875,ZEE,タイ,1303,KKMTC*,タイ,2469,CAVIAR,タイ
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1268,BOYDTR,タイ,2399,AYA.K,タイ,3773,AYA.K,タイ
@@ -1164,7 +1164,7 @@ CANNON BALLERS,DEADHEAT,826,YUUUUU,タイ,1851,GURI,タイ,3022,CAVIAR,タイ
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,687,ZEE,タイ,1298,ZEE,タイ,2050,CAVIAR,タイ
 CANNON BALLERS,City Never Sleeps (IIDX Edition),1162,BOYDTR,タイ,1623,YOD00,タイ,2543,TORO,タイ
 CANNON BALLERS,Chemical Cookie,645,KIRBY,タイ,1264,YOD00,タイ,2005,SPIKE!,タイ
-CANNON BALLERS,ChaserXX,767,DONNIE,タイ,1608,AXID,タイ,2637,CAVIAR,タイ
+CANNON BALLERS,ChaserXX,767,DONNIE,タイ,1608,AXID,タイ,2643,PU2ANA,タイ
 CANNON BALLERS,Break Stasis,1246,84*,タイ,1707,84*,タイ,2381,CAVIAR,タイ
 CANNON BALLERS,Boomy and The Boost,790,GUEST,タイ,2012,TORO,タイ,3270,CAVIAR,タイ
 CANNON BALLERS,Best of Me,258,AKE,タイ,1334,IIDX26,タイ,2095,PL.DN.,タイ
@@ -1257,6 +1257,6 @@ Rootage,Angels & Demons,866,KKMTC*,タイ,1753,H0STC,タイ,2385,H0STC,タイ
 Rootage,AGAiN,989,KKMTC*,タイ,1615,H0STC,タイ,2258,H0STC,タイ
 Rootage,A Tale Hidden In The Abyss,833,LOADIN,タイ,1725,H0STC,タイ,2585,H0STC,タイ
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1201,KKMTC*,タイ,1562,SPIKE!,タイ,2500,CAVIAR,タイ
-Rootage,50th Memorial Songs -The BEMANI History-,942,LOADIN,タイ,1572,SPIKE!,タイ,2486,UNGAAA,タイ
+Rootage,50th Memorial Songs -The BEMANI History-,1013,84*,タイ,1572,SPIKE!,タイ,2486,UNGAAA,タイ
 Rootage,50th Memorial Songs -Flagship medley-,795,84*,タイ,1383,SPIKE!,タイ,2147,CAVIAR,タイ
 Rootage,50th Memorial Songs -Beginning Story-,827,H0STC,タイ,1542,SPIKE!,タイ,2651,H0STC,タイ
