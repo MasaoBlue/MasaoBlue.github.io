@@ -66,7 +66,7 @@
 5th style,RISLIM,0,,未設定,1160,9610,島根県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1729,NACHT,島根県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),783,YUA,島根県,0,,未設定,1616,1SARAI,島根県
-5th style,Regulus,30,BRH-AO,島根県,0,,未設定,1507,GEN,島根県
+5th style,Regulus,30,BRH-AO,島根県,244,KURAN.,島根県,1507,GEN,島根県
 5th style,Real,0,,未設定,0,,未設定,1608,GEN,島根県
 5th style,Radical Faith,0,,未設定,1403,KEN705,島根県,1164,YUA,島根県
 5th style,QQQ,0,,未設定,1742,YUA,島根県,2093,1SARAI,島根県
@@ -80,7 +80,7 @@
 6th style,Summer Vacation(CU mix),0,,未設定,1762,1SARAI,島根県,0,,未設定
 6th style,SOMETHING WONDERFUL,0,,未設定,765,LEVI*,島根県,1775,9610,島根県
 6th style,route 80s,0,,未設定,774,FICKLE,島根県,1269,YURI-H,島根県
-6th style,rottel-da-sun,94,ZOMVIR,島根県,1252,YURI-H,島根県,1710,HACKA,島根県
+6th style,rottel-da-sun,378,ZOMVIR,島根県,1252,YURI-H,島根県,1710,HACKA,島根県
 6th style,NEMESIS,499,IIDX26,島根県,0,,未設定,1588,Z*,島根県
 6th style,Linus,0,,未設定,1312,RIKKI.,島根県,2085,HACK3,島根県
 6th style,G2,0,,未設定,1029,REIMU,島根県,2163,1SARAI,島根県
@@ -353,7 +353,7 @@ GOLD,Love Again...,0,,未設定,0,,未設定,986,AAAAAA,島根県
 GOLD,LASER CRUSTER,0,,未設定,2204,KEN705,島根県,3012,HACKA,島根県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3383,1SARAI,島根県
 GOLD,KAMAITACHI,0,,未設定,1813,CONG,島根県,2541,1SARAI,島根県
-GOLD,INORI,1074,YUKINO,島根県,2204,K*N.SY,島根県,2920,1SARAI,島根県
+GOLD,INORI,1074,YUKINO,島根県,2204,K*N.SY,島根県,3014,1SARAI,島根県
 GOLD,High School Love,654,AGO58,島根県,1061,HUKI,島根県,2138,1SARAI,島根県
 GOLD,heaven above,0,,未設定,1123,SUSA.G,島根県,1785,1SARAI,島根県
 GOLD,GRID KNIGHT,0,,未設定,1552,REVIS,島根県,2513,1SARAI,島根県
@@ -383,7 +383,7 @@ DJ TROOPERS,Time to Air,1168,3YR.S,島根県,1943,YUA,島根県,2675,SPARK,島�
 DJ TROOPERS,the trigger of innocence,492,FIRU,島根県,0,,未設定,1819,1SARAI,島根県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3220,1SARAI,島根県
 DJ TROOPERS,THE DEEP STRIKER,816,REFLET,島根県,1708,ARUMU-,島根県,2796,HACK3,島根県
-DJ TROOPERS,switch,0,,未設定,0,,未設定,1933,NACHT,島根県
+DJ TROOPERS,switch,0,,未設定,1255,ARUMU-,島根県,1933,NACHT,島根県
 DJ TROOPERS,STEEL NEEDLE,890,YUMEMI,島根県,1547,T0R1.,島根県,2309,NACHT,島根県
 DJ TROOPERS,State Of The Art,0,,未設定,1482,DUXY,島根県,2956,DUXY,島根県
 DJ TROOPERS,SOUND OF GIALLARHORN,1270,YUA,島根県,0,,未設定,3073,NACHT,島根県
@@ -717,7 +717,7 @@ tricoro,Howling,449,ASAHI,島根県,0,,未設定,1901,TOGE,島根県
 tricoro,Hollywood Galaxy,1000,3YR.S,島根県,1763,NEMU,島根県,2576,1SARAI,島根県
 tricoro,GRADIUS 2012,669,ANNKOO,島根県,1194,I*O,島根県,2626,1SARAI,島根県
 tricoro,GAIA,962,KL8NB,島根県,2063,HACK3,島根県,3094,1SARAI,島根県
-tricoro,Fly you to the star,613,THUBO,島根県,1433,3YR.S,島根県,2168,1SARAI,島根県
+tricoro,Fly you to the star,613,THUBO,島根県,1473,RYUTO,島根県,2168,1SARAI,島根県
 tricoro,FLOWER,694,ZAK,島根県,1620,SUKEDE,島根県,2688,DUXY,島根県
 tricoro,examination leave,0,,未設定,1760,YURI-H,島根県,3290,1SARAI,島根県
 tricoro,Elemental Creation,1219,SUSA.G,島根県,2197,HACK3,島根県,3726,1SARAI,島根県
@@ -735,7 +735,7 @@ tricoro,8bit Princess,248,MAYU,島根県,853,ANNKOO,島根県,2568,1SARAI,島根
 tricoro,405nm (Ryu☆mix),718,PHIBKI,島根県,1473,REVIS,島根県,2461,1SARAI,島根県
 SPADA,轟け！恋のビーンボール！！,881,3YR.S,島根県,1841,HACK3,島根県,3256,1SARAI,島根県
 SPADA,超!!遠距離らぶ?メ～ル,337,AGO58,島根県,0,,未設定,2535,NACHT,島根県
-SPADA,罪と罰,782,S4HOTO,島根県,1119,AMELIA,島根県,2036,NACHT,島根県
+SPADA,罪と罰,782,S4HOTO,島根県,1163,RYUTO,島根県,2036,NACHT,島根県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,2943,NACHT,島根県
 SPADA,疾風迅雷,1049,3YR.S,島根県,1975,1SARAI,島根県,2717,NACHT,島根県
 SPADA,牧神笛吹きて,0,,未設定,1174,2KAPON,島根県,1895,GEN,島根県
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,713,PHIBKI,島根県,1401,RYUTO,島根
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,833,AMELIA,島根県,1842,HACK3,島根県,2798,1SARAI,島根県
 PENDUAL,取り残された美術(Arranged:HiZuMi),741,P...,島根県,1357,NNAAAA,島根県,2080,1SARAI,島根県
 PENDUAL,千年ノ理,787,PHIBKI,島根県,1777,KL8NB,島根県,3046,HACKA,島根県
-PENDUAL,十六夜セツナ,736,HUKI,島根県,1377,3YR.S,島根県,2140,1SARAI,島根県
+PENDUAL,十六夜セツナ,736,HUKI,島根県,1421,RYUTO,島根県,2140,1SARAI,島根県
 PENDUAL,共鳴遊戯の華,1104,3YR.S,島根県,2023,XVIDEO,島根県,3529,1SARAI,島根県
 PENDUAL,リリーゼと炎龍レーヴァテイン,775,CYAIM,島根県,2120,KEN705,島根県,3258,1SARAI,島根県
 PENDUAL,ベィスドロップ・フリークス,482,BRH-AO,島根県,957,S-TN-E,島根県,2179,DUXY,島根県
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1288,DUXY,島根県,2237,DUXY,島根県,3
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,632,JMMNNN,島根県,1532,DUXY,島根県,2514,1SARAI,島根県
 Rootage,ミストレス・アンに花束を,375,PHIBKI,島根県,1000,NACHT,島根県,1400,DUXY,島根県
 Rootage,ハードベース・フェスタ,1003,AMELIA,島根県,1777,DUXY,島根県,2745,1SARAI,島根県
-Rootage,セカンドピアス,556,HONJO,島根県,1063,NACHT,島根県,1975,HACKA,島根県
+Rootage,セカンドピアス,565,YUA,島根県,1063,NACHT,島根県,1975,HACKA,島根県
 Rootage,サクラあっぱれーしょん,598,YUA,島根県,1501,9610,島根県,2275,1SARAI,島根県
 Rootage,グラナダの風,679,SUSA.G,島根県,1203,DUXY,島根県,1780,DUXY,島根県
 Rootage,Yum Yum Jelly,770,YUA,島根県,1520,DUXY,島根県,2286,1SARAI,島根県
