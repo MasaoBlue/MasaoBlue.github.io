@@ -11,14 +11,14 @@
 1st&substream,GAMBOL,256,SLP,福井県,271,TAIZ,福井県,0,,未設定
 1st&substream,Dr.LOVE,271,SLY,福井県,180,OXYGEN,福井県,569,TAIZ,福井県
 1st&substream,deep in you,294,TAKAM,福井県,430,L.D.S,福井県,650,KEN-JI,福井県
-1st&substream,5.1.1.,188,DWU,福井県,934,W,福井県,1545,PON-B,福井県
+1st&substream,5.1.1.,198,TAIZ,福井県,934,W,福井県,1545,PON-B,福井県
 1st&substream,22DUNK,473,*YOU3*,福井県,633,KEN-JI,福井県,643,IWAZO,福井県
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,未設定,610,RANZEF,福井県,637,KEN-JI,福井県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,835,TAIZ,福井県,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),667,9ANTUM,福井県,856,RIA,福井県,1147,NA7MI*,福井県
 2nd style,I Was The One,449,OXYGEN,福井県,560,YAGO,福井県,673,KEN-JI,福井県
 2nd style,Electro Tuned(the SubS mix),320,SLY,福井県,804,72KAWA,福井県,1028,L.D.S,福井県
-2nd style,Digital MinD(A/T Libra mix),397,SLY,福井県,598,NARUTI,福井県,1069,RGV,福井県
+2nd style,Digital MinD(A/T Libra mix),397,SLY,福井県,598,NARUTI,福井県,1078,TAIZ,福井県
 2nd style,.59,673,TUINTR,福井県,943,AZC,福井県,1099,R-ALI,福井県
 3rd style,THE SAFARI,916,CY8ER,福井県,1702,RANZEF,福井県,0,,未設定
 3rd style,Tangerine Stream,219,9ANTUM,福井県,392,TAIZ,福井県,0,,未設定
@@ -145,7 +145,7 @@
 9th style,真夏の花・真夏の夢,0,,未設定,1098,TUINTR,福井県,1451,RANZEF,福井県
 9th style,ライオン好き,546,OXYGEN,福井県,1116,TETTLY,福井県,1460,MA$AK1,福井県
 9th style,SWEETEST SAVAGE,330,SLY,福井県,1250,NUMATA,福井県,1771,KEN-JI,福井県
-9th style,Sweet Sweet Magic,0,,未設定,1369,TOTO,福井県,1992,RANZEF,福井県
+9th style,Sweet Sweet Magic,359,HOMU*,福井県,1369,TOTO,福井県,1992,RANZEF,福井県
 9th style,STAR FIELD,674,.K3,福井県,1361,SUI,福井県,1833,KEN-JI,福井県
 9th style,SNOW,951,SANCHA,福井県,827,9ANTUM,福井県,1928,RGV,福井県
 9th style,Silvia Drive,439,SLY,福井県,1301,HOYO,福井県,1955,KEN-JI,福井県
@@ -174,7 +174,7 @@
 9th style,BAD BOY BASS!! (dj Remo-con MIX),878,SANCHA,福井県,1240,H-ROSE,福井県,1741,KEN-JI,福井県
 9th style,ACT,958,HOYO,福井県,1302,SHIHO,福井県,1712,RGV,福井県
 9th style,Abyss -The Heavens Remix-,1364,TUINTR,福井県,1708,TETTLY,福井県,2323,RANZEF,福井県
-10th style,雪月花,1083,HOYO,福井県,1760,KETER,福井県,2390,RANZEF,福井県
+10th style,雪月花,1083,HOYO,福井県,1760,KETER,福井県,2402,RANZEF,福井県
 10th style,システムロマンス,845,SANCHA,福井県,1457,H-ROSE,福井県,1990,L.D.S,福井県
 10th style,SPACE FIGHT,561,SANCHA,福井県,1258,HOYO,福井県,2153,KEN-JI,福井県
 10th style,SHOOTING STAR,0,,未設定,1380,2HOU,福井県,2204,MA$AK1,福井県
@@ -230,7 +230,7 @@ IIDX RED,Fly Away To India,640,SANCHA,福井県,1015,H-ROSE,福井県,1321,KINOK
 IIDX RED,FAKE TIME,853,RIA,福井県,1656,DEUU*,福井県,2259,COZY,福井県
 IIDX RED,earth scape,397,RANZEF,福井県,956,H-ROSE,福井県,1245,KEN-JI,福井県
 IIDX RED,Don't be afraid myself,991,HO4M1*,福井県,1642,MAHU,福井県,2213,RANZEF,福井県
-IIDX RED,D.A.N.C.E.!,260,OXYGEN,福井県,718,H-ROSE,福井県,1566,RANZEF,福井県
+IIDX RED,D.A.N.C.E.!,516,M.RIKK,福井県,718,H-ROSE,福井県,1566,RANZEF,福井県
 IIDX RED,Close my Eyes for Me,0,,未設定,1274,TETTLY,福井県,1772,RANZEF,福井県
 IIDX RED,Click Again,656,RIA,福井県,1326,TUINTR,福井県,2035,RANZEF,福井県
 IIDX RED,BREATH,806,HOYO,福井県,1260,TETTLY,福井県,1639,RGV,福井県
@@ -243,14 +243,14 @@ IIDX RED,AA,857,9ANTUM,福井県,2626,IWAZO,福井県,3536,F.,福井県
 HAPPY SKY,月光,690,I4CHAN,福井県,1611,AZC,福井県,2389,RANZEF,福井県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,未設定,1405,HO4M1*,福井県,1835,MA$AK1,福井県
 HAPPY SKY,冥,1044,TAIZ,福井県,1892,KEN-JI,福井県,3546,F.,福井県
-HAPPY SKY,ラクエン,244,MIYABE,福井県,841,HOYO,福井県,1890,IWAZO,福井県
+HAPPY SKY,ラクエン,244,MIYABE,福井県,882,TAIZ,福井県,1890,IWAZO,福井県
 HAPPY SKY,ヒマワリ,437,SATORU,福井県,1798,UPA,福井県,2034,RANZEF,福井県
 HAPPY SKY,オレはビートマニア！お前は何マニア？,580,OXYGEN,福井県,1259,TOTO,福井県,1655,IWAZO,福井県
 HAPPY SKY,Xepher,1082,TAIZ,福井県,1970,MU-RAI,福井県,2899,RANZEF,福井県
 HAPPY SKY,We are Disっ娘よっつ打ち命,563,I4CHAN,福井県,861,HO4M1*,福井県,1606,R-ALI,福井県
 HAPPY SKY,Votum stellarum,356,MORI,福井県,1442,YAKU,福井県,1932,SUTABA,福井県
 HAPPY SKY,vault of heaven,721,SANCHA,福井県,1189,OMGWTF,福井県,1959,RANZEF,福井県
-HAPPY SKY,Under the Sky,769,I4CHAN,福井県,1035,I4CHAN,福井県,1712,RANZEF,福井県
+HAPPY SKY,Under the Sky,769,I4CHAN,福井県,1097,I4CHAN,福井県,1712,RANZEF,福井県
 HAPPY SKY,Twelfth Style,1129,HO4M1*,福井県,1291,H-ROSE,福井県,1986,RANZEF,福井県
 HAPPY SKY,Tizona d'El Cid,877,SANCHA,福井県,1555,SHIHO,福井県,2289,RANZEF,福井県
 HAPPY SKY,SigSig,1027,SANCHA,福井県,1575,M0LFO!,福井県,2557,RANZEF,福井県
@@ -375,7 +375,7 @@ DJ TROOPERS,少年A,1165,HOYO,福井県,1809,HO4M1*,福井県,2715,SUTABA,福井
 DJ TROOPERS,ミラージュ・レジデンス,924,RIA,福井県,1876,SLP,福井県,2588,F.,福井県
 DJ TROOPERS,マチ子の唄,0,,未設定,1183,H-ROSE,福井県,1771,TATSU4,福井県
 DJ TROOPERS,エコ爺,704,I4CHAN,福井県,1220,H-ROSE,福井県,1799,IWAZO,福井県
-DJ TROOPERS,Wanna Party?,714,TETTLY,福井県,1128,AZC,福井県,1503,KEN-JI,福井県
+DJ TROOPERS,Wanna Party?,763,TAIZ,福井県,1128,AZC,福井県,1503,KEN-JI,福井県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3073,RANZEF,福井県
 DJ TROOPERS,Ubertreffen,1034,HOYO,福井県,1692,SLP,福井県,2476,RANZEF,福井県
 DJ TROOPERS,TROOPERS,1196,HOYO,福井県,2220,RUBY,福井県,2831,RANZEF,福井県
@@ -409,7 +409,7 @@ DJ TROOPERS,four pieces of heaven,633,RIA,福井県,1628,KEN-JI,福井県,2158,R
 DJ TROOPERS,evergreen,894,SANCHA,福井県,689,TENA,福井県,1867,RANZEF,福井県
 DJ TROOPERS,end of world,884,HOYO,福井県,1668,DAIKON,福井県,2413,RANZEF,福井県
 DJ TROOPERS,Do it!! Do it!!,977,TETTLY,福井県,1439,RUBY,福井県,1779,IWAZO,福井県
-DJ TROOPERS,Digitank System,845,HOYO,福井県,1515,RANZEF,福井県,2009,RANZEF,福井県
+DJ TROOPERS,Digitank System,845,HOYO,福井県,1515,RANZEF,福井県,2024,ICHIRO,福井県
 DJ TROOPERS,Dazzlin' Darlin,904,KEN-JI,福井県,1375,AZC,福井県,2191,RANZEF,福井県
 DJ TROOPERS,Darling my LUV,601,M.RIKK,福井県,897,HOYO,福井県,1331,NK,福井県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3166,SUTABA,福井県
@@ -430,7 +430,7 @@ EMPRESS,不沈艦CANDY,1109,HOYO,福井県,1744,MAHU,福井県,3186,F.,福井県
 EMPRESS,ミッドナイト堕天使,846,RIA,福井県,1397,SHIHO,福井県,2732,MA$AK1,福井県
 EMPRESS,ハリツヤランデヴー,831,RIA,福井県,2030,PEN,福井県,2443,IWAZO,福井県
 EMPRESS,まほろば,630,I4CHAN,福井県,1303,TOTO,福井県,2007,RANZEF,福井県
-EMPRESS,"You'll say ""Now!""",1051,HOYO,福井県,1728,RUBY,福井県,2396,RANZEF,福井県
+EMPRESS,"You'll say ""Now!""",1051,HOYO,福井県,1728,RUBY,福井県,2406,RANZEF,福井県
 EMPRESS,Y&Co. is dead or alive,1026,NA7MI*,福井県,1668,M0LFO!,福井県,2541,RANZEF,福井県
 EMPRESS,V2,1438,TAIZ,福井県,3005,L.D.S,福井県,3427,F.,福井県
 EMPRESS,Turii ～Panta rhei～,653,DOVSIN,福井県,1856,MAHU,福井県,2599,RANZEF,福井県
@@ -514,7 +514,7 @@ SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1423,M.RIKK,福井県,2674,L.D.S,福井県,3059
 SIRIUS,D,1351,SHI60N,福井県,1754,KEN-JI,福井県,2438,F.,福井県
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),961,HOYO,福井県,1575,TETTLY,福井県,2322,MONAR,福井県
 SIRIUS,bloomin' feeling,1201,SANCHA,福井県,1887,CINDER,福井県,2558,F.,福井県
-SIRIUS,being torn the sky,450,MORI,福井県,1004,HOYO,福井県,1939,HATCH,福井県
+SIRIUS,being torn the sky,450,MORI,福井県,1004,HOYO,福井県,1960,ICHIRO,福井県
 SIRIUS,BEAUTIFUL ANGEL,416,SLY,福井県,1761,DAIKON,福井県,2409,RANZEF,福井県
 SIRIUS,beatchic☆仮面～好き、でいさせて～,945,SANCHA,福井県,1565,AZC,福井県,1993,RANZEF,福井県
 SIRIUS,bass 2 bass,662,OXYGEN,福井県,1201,SANCHA,福井県,1830,PON-B,福井県
@@ -623,7 +623,7 @@ Lincle,Mermaid girl-秋葉工房 MIX-,754,IIDX26,福井県,1181,HOYO,福井県,2
 Lincle,Lucky Days,624,SANCHA,福井県,1427,H-ROSE,福井県,2108,KEN-JI,福井県
 Lincle,LOVE B.B.B,738,2HOU,福井県,1360,TETTLY,福井県,1947,NK,福井県
 Lincle,Liquid Crystal Girl feat. echo,373,OXYGEN,福井県,1061,SANCHA,福井県,1949,KEN-JI,福井県
-Lincle,LETHEBOLG ～双神威に斬り咲けり～,877,I4CHAN,福井県,1522,ROKU,福井県,2164,RANZEF,福井県
+Lincle,LETHEBOLG ～双神威に斬り咲けり～,877,I4CHAN,福井県,1600,TAIZ,福井県,2164,RANZEF,福井県
 Lincle,LAX5 feat.Ryota Yoshinari,998,HOYO,福井県,1946,CHROME,福井県,2787,RANZEF,福井県
 Lincle,Infinite cave,957,HOYO,福井県,1448,TAIZ,福井県,1982,KEN-JI,福井県
 Lincle,In the Blackest Den,755,I4CHAN,福井県,1260,H-ROSE,福井県,2456,RANZEF,福井県
@@ -649,7 +649,7 @@ tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3209,S
 tricoro,龍と少女とデコヒーレンス,570,DEDEP,福井県,1595,TETTLY,福井県,2903,RANZEF,福井県
 tricoro,音楽,834,.K3,福井県,1880,M0LFO!,福井県,2617,F.,福井県
 tricoro,狂イ咲ケ焔ノ華,1116,SANCHA,福井県,2385,L.D.S,福井県,3435,RANZEF,福井県
-tricoro,梅雪夜,623,TORCH,福井県,1361,H-ROSE,福井県,2107,RANZEF,福井県
+tricoro,梅雪夜,669,AGTIK,福井県,1361,H-ROSE,福井県,2107,RANZEF,福井県
 tricoro,朧†,0,,未設定,0,,未設定,2494,F.,福井県
 tricoro,朧,768,TEKKA3,福井県,1435,H-ROSE,福井県,2079,RANZEF,福井県
 tricoro,即席！脳直★ミュージックシステム,1004,SANCHA,福井県,1875,TETTLY,福井県,3379,RANZEF,福井県
@@ -701,7 +701,7 @@ tricoro,New Lights,963,HOYO,福井県,1671,MAHU,福井県,2379,KEN-JI,福井県
 tricoro,New Decade IIDX Edition,808,RIA,福井県,1886,R-ALI,福井県,2866,RANZEF,福井県
 tricoro,neu,960,RUSE,福井県,2047,SHI60N,福井県,3801,RANZEF,福井県
 tricoro,Neonlights,462,PIGEON,福井県,1345,IIDX26,福井県,2141,NK,福井県
-tricoro,mnemoniq,522,SANCHA,福井県,0,,未設定,1295,IWAZO,福井県
+tricoro,mnemoniq,522,SANCHA,福井県,910,TAIZ,福井県,1295,IWAZO,福井県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2690,SUTABA,福井県
 tricoro,LUV CAN SAVE U,568,SANCHA,福井県,1360,SANCHA,福井県,2105,RANZEF,福井県
 tricoro,Little Star,904,M.RIKK,福井県,1678,DEUU*,福井県,3002,RANZEF,福井県
@@ -1065,7 +1065,7 @@ SINOBUZ,INVISIBLE STRIX,1050,HOYO,福井県,1914,KOBA84,福井県,2518,RANZEF,�
 SINOBUZ,Honey Trap,781,M.RIKK,福井県,1485,IIDX26,福井県,2442,RANZEF,福井県
 SINOBUZ,HAPPY★RUSH,711,M.RIKK,福井県,1817,IMOYA*,福井県,2763,RANZEF,福井県
 SINOBUZ,HADES,890,M.RIKK,福井県,1638,MAHU,福井県,2924,RANZEF,福井県
-SINOBUZ,GuNGNiR,1187,M.RIKK,福井県,2395,RYCHN,福井県,3724,F.,福井県
+SINOBUZ,GuNGNiR,1187,M.RIKK,福井県,2440,RGV,福井県,3724,F.,福井県
 SINOBUZ,Go Ahead!!,945,TETTLY,福井県,1489,RYCHN,福井県,2549,F.,福井県
 SINOBUZ,FUZIN RIZIN,1110,TETTLY,福井県,1909,DAIKON,福井県,3625,RANZEF,福井県
 SINOBUZ,elemental bender feat. Kanae Asaba,627,OKERA,福井県,1074,HOYO,福井県,1615,MA$AK1,福井県
@@ -1156,7 +1156,7 @@ CANNON BALLERS,FIRE BALL,386,YUU256,福井県,1395,TOTO,福井県,2278,KEN-JI,�
 CANNON BALLERS,Fervidex,812,M.RIKK,福井県,1781,KINOKO,福井県,2653,RANZEF,福井県
 CANNON BALLERS,Expanded !!,549,SLY,福井県,1486,TETTLY,福井県,2560,RANZEF,福井県
 CANNON BALLERS,Exhaust Hype,906,MEGURI,福井県,1881,DAIKON,福井県,2730,F.,福井県
-CANNON BALLERS,encounter,613,SLY,福井県,1595,82JUNA,福井県,3138,RANZEF,福井県
+CANNON BALLERS,encounter,613,SLY,福井県,1595,82JUNA,福井県,3145,F.,福井県
 CANNON BALLERS,EMERALDAS,1223,72KAWA,福井県,2271,MA$AK1,福井県,3351,F.,福井県
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,721,I4CHAN,福井県,1347,TETTLY,福井県,2502,RANZEF,福井県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1295,M0LFO!,福井県,2407,MA$AK1,福井県,3818,F.,福井県
@@ -1173,7 +1173,7 @@ CANNON BALLERS,Be a Hero!,489,PIGEON,福井県,1750,TETTLY,福井県,2980,RANZEF
 CANNON BALLERS,Battleground,1081,HOYO,福井県,1614,M.RIKK,福井県,2613,RANZEF,福井県
 CANNON BALLERS,Back Spin Sweeper,786,HO4M1*,福井県,1328,DEUU*,福井県,2193,MA$AK1,福井県
 CANNON BALLERS,Around the Future,959,HOYO,福井県,1447,SUI,福井県,2479,MA$AK1,福井県
-CANNON BALLERS,Arca,871,M.RIKK,福井県,1783,DEUU*,福井県,2987,F.,福井県
+CANNON BALLERS,Arca,871,M.RIKK,福井県,1783,DEUU*,福井県,3033,F.,福井県
 CANNON BALLERS,Antigravity,950,HOYO,福井県,1927,SA-9N.,福井県,2898,RANZEF,福井県
 CANNON BALLERS,ANCHOR,1246,M.RIKK,福井県,2378,SA-9N.,福井県,3454,F.,福井県
 CANNON BALLERS,ANAGMA,537,TENA,福井県,1774,L.D.S,福井県,2517,NK,福井県
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1298,MA$AK1,福井県,2286,MA$AK1,福井�
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,688,MA$AK1,福井県,1540,MA$AK1,福井県,2523,RANZEF,福井県
 Rootage,ミストレス・アンに花束を,583,MA$AK1,福井県,1026,MA$AK1,福井県,1410,RANZEF,福井県
 Rootage,ハードベース・フェスタ,1142,MA$AK1,福井県,1823,MA$AK1,福井県,2772,RANZEF,福井県
-Rootage,セカンドピアス,602,MA$AK1,福井県,1102,MA$AK1,福井県,1998,MA$AK1,福井県
+Rootage,セカンドピアス,602,MA$AK1,福井県,1106,MA$AK1,福井県,1998,MA$AK1,福井県
 Rootage,サクラあっぱれーしょん,628,MA$AK1,福井県,1526,MA$AK1,福井県,2281,RANZEF,福井県
 Rootage,グラナダの風,812,MA$AK1,福井県,1218,MA$AK1,福井県,1808,MA$AK1,福井県
 Rootage,Yum Yum Jelly,785,MA$AK1,福井県,1538,MA$AK1,福井県,2309,F.,福井県
@@ -1215,7 +1215,7 @@ Rootage,The Best of Both Worlds,598,MA$AK1,福井県,1374,MA$AK1,福井県,2157,
 Rootage,Starry Night,921,MA$AK1,福井県,1658,MA$AK1,福井県,2474,RANZEF,福井県
 Rootage,SPEED ROCKER,922,MA$AK1,福井県,1697,MA$AK1,福井県,2270,RANZEF,福井県
 Rootage,SIGMA,834,MA$AK1,福井県,1576,MA$AK1,福井県,2612,RANZEF,福井県
-Rootage,Sidechained Threats,1169,2HOU,福井県,1920,MA$AK1,福井県,2368,SUTABA,福井県
+Rootage,Sidechained Threats,1215,MA$AK1,福井県,1920,MA$AK1,福井県,2368,SUTABA,福井県
 Rootage,Serious?,591,MA$AK1,福井県,1183,RANZEF,福井県,2184,RANZEF,福井県
 Rootage,R∞tAge,1101,MA$AK1,福井県,1658,MA$AK1,福井県,2925,F.,福井県
 Rootage,ROZA DE ANDALUCIA,1301,MA$AK1,福井県,2042,MA$AK1,福井県,2974,RANZEF,福井県
@@ -1226,8 +1226,8 @@ Rootage,Playing With Fire,964,TETTLY,福井県,1656,MA$AK1,福井県,2270,RANZEF
 Rootage,Particle Arts,897,MA$AK1,福井県,1649,MA$AK1,福井県,2399,RANZEF,福井県
 Rootage,Painful Fate,1255,MA$AK1,福井県,2226,SA-9N.,福井県,3182,F.,福井県
 Rootage,OVER TIME,584,TAIZ,福井県,976,MA$AK1,福井県,1539,MA$AK1,福井県
-Rootage,Necroxis Girl,1075,2HOU,福井県,1952,MA$AK1,福井県,2713,F.,福井県
-Rootage,Macho Monky,1326,2HOU,福井県,2037,MA$AK1,福井県,2873,RANZEF,福井県
+Rootage,Necroxis Girl,1162,MA$AK1,福井県,1952,MA$AK1,福井県,2713,F.,福井県
+Rootage,Macho Monky,1460,MA$AK1,福井県,2037,MA$AK1,福井県,2873,RANZEF,福井県
 Rootage,LOST TECHNOLOGIE,1155,MA$AK1,福井県,1845,MA$AK1,福井県,3341,RANZEF,福井県
 Rootage,Level One,1248,MA$AK1,福井県,2286,MA$AK1,福井県,3187,RANZEF,福井県
 Rootage,Let me be your cure,1141,MA$AK1,福井県,1427,MA$AK1,福井県,2635,RANZEF,福井県
@@ -1251,12 +1251,12 @@ Rootage,dAuntl3ss,1073,MA$AK1,福井県,2003,F.,福井県,3380,F.,福井県
 Rootage,Cranberry City ft. Luschel,855,MA$AK1,福井県,1605,MA$AK1,福井県,2372,RANZEF,福井県
 Rootage,CoMAAAAAAA,1247,MA$AK1,福井県,2080,L.D.S,福井県,2381,F.,福井県
 Rootage,Catch Our Fire!,1365,MA$AK1,福井県,2218,L.D.S,福井県,3554,F.,福井県
-Rootage,Carmina,1216,HO4M1*,福井県,2354,MA$AK1,福井県,3534,F.,福井県
+Rootage,Carmina,1295,MA$AK1,福井県,2354,MA$AK1,福井県,3534,F.,福井県
 Rootage,BLOSSOM,1066,MA$AK1,福井県,1616,MA$AK1,福井県,2484,RANZEF,福井県
 Rootage,Angels & Demons,923,MA$AK1,福井県,1780,MA$AK1,福井県,2414,RANZEF,福井県
 Rootage,AGAiN,1012,MA$AK1,福井県,1622,MA$AK1,福井県,2275,RANZEF,福井県
 Rootage,A Tale Hidden In The Abyss,948,MA$AK1,福井県,1727,MA$AK1,福井県,2557,RANZEF,福井県
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1234,MA$AK1,福井県,1628,MA$AK1,福井県,2565,RANZEF,福井県
-Rootage,50th Memorial Songs -The BEMANI History-,1018,2HOU,福井県,1632,MA$AK1,福井県,2566,F.,福井県
-Rootage,50th Memorial Songs -Flagship medley-,942,KEN-JI,福井県,1529,MA$AK1,福井県,2209,RANZEF,福井県
-Rootage,50th Memorial Songs -Beginning Story-,817,MA$AK1,福井県,1480,SOMA.,福井県,2627,MA$AK1,福井県
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1234,MA$AK1,福井県,1646,MA$AK1,福井県,2565,RANZEF,福井県
+Rootage,50th Memorial Songs -The BEMANI History-,1076,MA$AK1,福井県,1632,MA$AK1,福井県,2566,F.,福井県
+Rootage,50th Memorial Songs -Flagship medley-,942,KEN-JI,福井県,1535,MA$AK1,福井県,2209,RANZEF,福井県
+Rootage,50th Memorial Songs -Beginning Story-,817,MA$AK1,福井県,1653,MA$AK1,福井県,2627,MA$AK1,福井県

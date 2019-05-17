@@ -25,7 +25,7 @@
 3rd style,Skyscraper,740,DICE,東京都,1209,LAHAR*,東京都,1247,BABA.G,東京都
 3rd style,Schlagwerk,820,LAHAR*,東京都,1310,SHINPO,東京都,1682,BABA.G,東京都
 3rd style,REINCARNATION,841,LAHAR*,東京都,1036,LAHAR*,東京都,1268,1048,東京都
-3rd style,R5,767,T-ELOS,東京都,1168,LAHAR*,東京都,1770,RIDDLE,東京都
+3rd style,R5,767,ERIS,東京都,1168,LAHAR*,東京都,1770,RIDDLE,東京都
 3rd style,Presto,534,LAHAR*,東京都,980,LAHAR*,東京都,1011,BABA.G,東京都
 3rd style,LEADING CYBER,846,LAHAR*,東京都,1198,LAHAR*,東京都,1266,MIKAMO,東京都
 3rd style,Holic,775,LAHAR*,東京都,1222,LAHAR*,東京都,1728,MIKAMO,東京都
@@ -222,7 +222,7 @@ IIDX RED,RED ZONE†,0,,未設定,0,,未設定,3105,MIKAMO,東京都
 IIDX RED,RED ZONE,1124,LAHAR*,東京都,1910,LAHAR*,東京都,2340,1048,東京都
 IIDX RED,Raspberry Heart(English version),1034,DICE,東京都,1574,LAHAR*,東京都,1852,ALIKIA,東京都
 IIDX RED,NEBULA GRASPER,1362,LAHAR*,東京都,2000,LAHAR*,東京都,2462,54GAYA,東京都
-IIDX RED,KEY,1121,LAHAR*,東京都,1880,LAHAR*,東京都,2843,.,東京都
+IIDX RED,KEY,1121,LAHAR*,東京都,1880,LAHAR*,東京都,2846,KT4ER1,東京都
 IIDX RED,HORIZON,1082,IIDX26,東京都,1558,LAHAR*,東京都,1969,MIKAMO,東京都
 IIDX RED,gigadelic,1513,LAHAR*,東京都,2193,MIKAMO,東京都,2537,SHONO,東京都
 IIDX RED,GENOCIDE,1151,SHINPO,東京都,2132,LAHAR*,東京都,2415,MIKAMO,東京都
@@ -314,7 +314,7 @@ DistorteD,Ganymede,1132,LAHAR*,東京都,1731,LAHAR*,東京都,2355,MIKAMO,東�
 DistorteD,EURO-ROMANCE,982,DICE,東京都,1826,LAHAR*,東京都,2093,XXXXXX,東京都
 DistorteD,DUE TOMORROW,902,LAHAR*,東京都,1507,MI7RAI,東京都,2006,MI7RAI,東京都
 DistorteD,Double Loving Heart,583,LAHAR*,東京都,1332,LAHAR*,東京都,1813,BABA.G,東京都
-DistorteD,D.C.fish,1020,LAHAR*,東京都,1963,LAHAR*,東京都,2343,1048,東京都
+DistorteD,D.C.fish,1020,LAHAR*,東京都,1974,LAHAR*,東京都,2343,1048,東京都
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2763,SHONO,東京都
 DistorteD,CONTRACT,1268,LAHAR*,東京都,1682,LAHAR*,東京都,2077,*TA93N,東京都
 DistorteD,Concertino in Blue,898,SHINPO,東京都,1732,LAHAR*,東京都,2526,MIKAMO,東京都
@@ -361,7 +361,7 @@ GOLD,GOLD RUSH,1206,LAHAR*,東京都,1498,LAHAR*,東京都,2375,MIKAMO,東京都
 GOLD,four-leaf,766,DICE,東京都,1267,LAHAR*,東京都,1721,MIKAMO,東京都
 GOLD,FIRE FIRE,1209,LAHAR*,東京都,1832,LAHAR*,東京都,2766,1048,東京都
 GOLD,Fascination MAXX,995,YASU,東京都,1689,LAHAR*,東京都,2472,LAHAR*,東京都
-GOLD,Cyber Force,1261,DICE,東京都,1935,LAHAR*,東京都,2376,1048,東京都
+GOLD,Cyber Force,1263,IN-PO,東京都,1935,LAHAR*,東京都,2376,1048,東京都
 GOLD,CROSSROAD ～Left Story～,1145,IN-PO,東京都,1744,LAHAR*,東京都,2188,MIKAMO,東京都
 GOLD,CaptivAte～誓い～,1323,LAHAR*,東京都,2000,LAHAR*,東京都,2239,MIKAMO,東京都
 GOLD,CaptivAte～裁き～,861,DICE,東京都,1310,DICE,東京都,1788,MIKAMO,東京都
@@ -437,7 +437,7 @@ EMPRESS,Turii ～Panta rhei～,894,DICE,東京都,2079,LAHAR*,東京都,2678,MIK
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2996,RIDDLE,東京都
 EMPRESS,THANK YOU FOR PLAYING,806,LAHAR*,東京都,1683,LAHAR*,東京都,2141,MIKAMO,東京都
 EMPRESS,SOLITON BEAM,1462,LAHAR*,東京都,2104,LAHAR*,東京都,2347,BT-42,東京都
-EMPRESS,smooooch・∀・,819,LAHAR*,東京都,1655,LAHAR*,東京都,2150,MIKAMO,東京都
+EMPRESS,smooooch・∀・,820,JEFTY,東京都,1655,LAHAR*,東京都,2150,MIKAMO,東京都
 EMPRESS,Secrets,1275,IN-PO,東京都,2465,LAHAR*,東京都,3160,MIKAMO,東京都
 EMPRESS,Queen's Tragedy,846,LAHAR*,東京都,1724,LAHAR*,東京都,2248,*TA93N,東京都
 EMPRESS,Punch Love 仮面,1125,IN-PO,東京都,1746,LAHAR*,東京都,2525,MIKAMO,東京都
@@ -478,7 +478,7 @@ SIRIUS,たからもの,1282,LAHAR*,東京都,1876,LAHAR*,東京都,2238,MIKAMO,�
 SIRIUS,かずあそび,526,LAHAR*,東京都,1185,LAHAR*,東京都,1697,MIKAMO,東京都
 SIRIUS,The Story Begins,846,*39RA*,東京都,1836,LAHAR*,東京都,2451,MIKAMO,東京都
 SIRIUS,THE LAST STRIKER,1409,LAHAR*,東京都,1958,LAHAR*,東京都,2631,54GAYA,東京都
-SIRIUS,Special One,862,LAHAR*,東京都,1218,LAHAR*,東京都,1776,1048,東京都
+SIRIUS,Special One,862,LAHAR*,東京都,1218,LAHAR*,東京都,1777,1048,東京都
 SIRIUS,Sorrows,811,IIDX26,東京都,1678,LAHAR*,東京都,2475,RIDDLE,東京都
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3638,MIKAMO,東京都
 SIRIUS,SOLID STATE SQUAD,1058,DICE,東京都,2310,LAHAR*,東京都,3584,MIKAMO,東京都
@@ -491,12 +491,12 @@ SIRIUS,quell～the seventh slave～,965,LAHAR*,東京都,1808,LAHAR*,東京都,3
 SIRIUS,Programmed Sun,1113,LAHAR*,東京都,1901,LAHAR*,東京都,2583,1048,東京都
 SIRIUS,NoN-Fiction Story!,714,LAHAR*,東京都,1397,IN-PO,東京都,2208,BANGA1,東京都
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1273,LAHAR*,東京都,2048,LAHAR*,東京都,2687,MIKAMO,東京都
-SIRIUS,mosaic,1490,LAHAR*,東京都,2050,KIM.47,東京都,3004,MIKAMO,東京都
+SIRIUS,mosaic,1490,LAHAR*,東京都,2050,OBISEX,東京都,3004,MIKAMO,東京都
 SIRIUS,MIRACLE MEETS,963,LAHAR*,東京都,1587,LAHAR*,東京都,2242,MIKAMO,東京都
 SIRIUS,Light Shine,826,LAHAR*,東京都,1149,DICE,東京都,1956,1048,東京都
 SIRIUS,Last Burning,872,LAHAR*,東京都,1645,LAHAR*,東京都,2367,BANGA1,東京都
 SIRIUS,Keep it-秋葉工房mix-,1034,LAHAR*,東京都,1700,LAHAR*,東京都,1870,MIKAMO,東京都
-SIRIUS,IN THE NAME OF LOVE,755,LAHAR*,東京都,1418,LAHAR*,東京都,1930,MIKAMO,東京都
+SIRIUS,IN THE NAME OF LOVE,755,LAHAR*,東京都,1418,LAHAR*,東京都,1931,IIDX25,東京都
 SIRIUS,Hydrogen Blueback,1039,IN-PO,東京都,1701,LAHAR*,東京都,2303,LAHAR*,東京都
 SIRIUS,GOLDEN CROSS,1115,LAHAR*,東京都,2112,LAHAR*,東京都,3493,MIKAMO,東京都
 SIRIUS,GALGALIM,1456,LAHAR*,東京都,2027,LAHAR*,東京都,2389,1048,東京都
@@ -521,10 +521,10 @@ SIRIUS,bass 2 bass,728,LAHAR*,東京都,1268,DICE,東京都,1909,MIKAMO,東京�
 SIRIUS,Bad Maniacs,1297,LAHAR*,東京都,1900,LAHAR*,東京都,3252,RAG*,東京都
 SIRIUS,Almagest,1031,LAHAR*,東京都,2224,54GAYA,東京都,3141,MIKAMO,東京都
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1172,LAHAR*,東京都,1885,LAHAR*,東京都,2357,MIKAMO,東京都
-Resort Anthem,黒髪乱れし修羅となりて,814,IIDX26,東京都,2114,LAHAR*,東京都,3450,MIKAMO,東京都
+Resort Anthem,黒髪乱れし修羅となりて,814,IIDX26,東京都,2114,LAHAR*,東京都,3464,1048,東京都
 Resort Anthem,灼熱Beach Side Bunny,1118,IN-PO,東京都,1960,SHINPO,東京都,3195,MIKAMO,東京都
 Resort Anthem,旅人リラン,1147,LAHAR*,東京都,1975,LAHAR*,東京都,2643,1048,東京都
-Resort Anthem,夕焼け ～Fading Day～,987,SUKE-6,東京都,2077,LAHAR*,東京都,2817,MIKAMO,東京都
+Resort Anthem,夕焼け ～Fading Day～,987,SUKE-6,東京都,2079,LAHAR*,東京都,2817,MIKAMO,東京都
 Resort Anthem,中華急行,328,DICE,東京都,1528,LAHAR*,東京都,2311,MIKAMO,東京都
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,884,LAHAR*,東京都,1388,LAHAR*,東京都,1939,MIKAMO,東京都
 Resort Anthem,おおきなこえで,456,LAHAR*,東京都,995,LAHAR*,東京都,1495,MIKAMO,東京都
@@ -568,10 +568,10 @@ Resort Anthem,Energy Drive,889,LAHAR*,東京都,1498,LAHAR*,東京都,2219,*TA93
 Resort Anthem,ELECTRIC MASSIVE DIVER,1344,DICE,東京都,2525,LAHAR*,東京都,3700,MIKAMO,東京都
 Resort Anthem,DM STAR～関西 energy style～,1124,IN-PO,東京都,1941,ALIKIA,東京都,2395,*TA93N,東京都
 Resort Anthem,Destiny Sword,899,DICE,東京都,1818,LAHAR*,東京都,2402,MIKAMO,東京都
-Resort Anthem,DAYDREAMER,1180,LAHAR*,東京都,1759,KIM.47,東京都,2519,*TA93N,東京都
+Resort Anthem,DAYDREAMER,1180,LAHAR*,東京都,1759,OBISEX,東京都,2519,*TA93N,東京都
 Resort Anthem,Dances with Snow Fairies,1459,LAHAR*,東京都,2268,S-RAN*,東京都,3145,MIKAMO,東京都
 Resort Anthem,BROKEN EDEN,1071,LAHAR*,東京都,1799,LAHAR*,東京都,2321,RIDDLE,東京都
-Resort Anthem,Broken,1084,DICE,東京都,2045,DICE,東京都,3161,MIKAMO,東京都
+Resort Anthem,Broken,1084,DICE,東京都,2045,DICE,東京都,3177,1048,東京都
 Resort Anthem,Breaking the ground,1186,LAHAR*,東京都,1785,LAHAR*,東京都,2527,1048,東京都
 Resort Anthem,Bounce Bounce Bounce,1104,LAHAR*,東京都,1762,LAHAR*,東京都,2504,MIKAMO,東京都
 Resort Anthem,BLUST OF WIND,835,LAHAR*,東京都,1588,SHINPO,東京都,2128,MIKAMO,東京都
@@ -592,12 +592,12 @@ Lincle,君のハートにロックオン,717,LAHAR*,東京都,1755,HO4.KT,東京
 Lincle,ユミル,661,LAHAR*,東京都,1366,DICE,東京都,2837,MIKAMO,東京都
 Lincle,ビューティフルレシート,517,DICE,東京都,1228,LAHAR*,東京都,1933,MIKAMO,東京都
 Lincle,Yellow Sunrise,765,IN-PO,東京都,1439,SUKE-6,東京都,2275,54GAYA,東京都
-Lincle,yellow head joe,800,IN-PO,東京都,1522,LAHAR*,東京都,2283,MIKAMO,東京都
+Lincle,yellow head joe,800,IN-PO,東京都,1532,LAHAR*,東京都,2283,MIKAMO,東京都
 Lincle,YAKSHA,1253,DICE,東京都,2369,LAHAR*,東京都,3871,RIDDLE,東京都
 Lincle,WONDER WALKER,983,SUKE-6,東京都,1941,LAHAR*,東京都,3793,MIKAMO,東京都
 Lincle,Voxane,619,LAHAR*,東京都,1250,LAHAR*,東京都,1751,IIDX25,東京都
 Lincle,Todestrieb,1123,DICE,東京都,1930,LAHAR*,東京都,3434,MIKAMO,東京都
-Lincle,TITANS RETURN,634,LAHAR*,東京都,1567,LAHAR*,東京都,2511,MIKAMO,東京都
+Lincle,TITANS RETURN,634,LAHAR*,東京都,1575,LAHAR*,東京都,2511,MIKAMO,東京都
 Lincle,Thunderbolt,1036,LAHAR*,東京都,1915,LAHAR*,東京都,3779,MIKAMO,東京都
 Lincle,The Sampling Paradise,871,IN-PO,東京都,1853,LAHAR*,東京都,3054,MIKAMO,東京都
 Lincle,The Limbo,1195,LAHAR*,東京都,2038,LAHAR*,東京都,3340,RAG*,東京都
@@ -660,7 +660,7 @@ tricoro,下弦の月,946,LAHAR*,東京都,1471,LAHAR*,東京都,1983,MIKAMO,東�
 tricoro,ラキラキ,655,LAHAR*,東京都,1477,LAHAR*,東京都,1986,RAQUEL,東京都
 tricoro,メイメツ、フラグメンツ,648,LAHAR*,東京都,1311,LAHAR*,東京都,1959,MIKAMO,東京都
 tricoro,トリカゴノ鳳凰,1150,LAHAR*,東京都,2083,LAHAR*,東京都,3784,MIKAMO,東京都
-tricoro,シュレーディンガーの猫,1142,LAHAR*,東京都,2409,LAHAR*,東京都,3400,SHONO,東京都
+tricoro,シュレーディンガーの猫,1142,LAHAR*,東京都,2422,*OREO*,東京都,3400,SHONO,東京都
 tricoro,キャトられ恋はモ～モク,1479,LAHAR*,東京都,2640,LAHAR*,東京都,3854,RAG*,東京都
 tricoro,カジノファイヤーことみちゃん,660,LAHAR*,東京都,1439,LAHAR*,東京都,2443,MIKAMO,東京都
 tricoro,アストライアの双皿,685,LAHAR*,東京都,2169,LAHAR*,東京都,3180,MIKAMO,東京都
@@ -799,13 +799,13 @@ SPADA,EXTREME MACH COLLIDER,1039,SHINPO,東京都,1508,1048,東京都,2558,54GAY
 SPADA,Engraved Mark,825,IN-PO,東京都,1367,LAHAR*,東京都,2418,MIKAMO,東京都
 SPADA,Element of SPADA,709,RAG*,東京都,1364,LAHAR*,東京都,2086,MIKAMO,東京都
 SPADA,Elektrick U-Phoria,1180,LAHAR*,東京都,1991,LAHAR*,東京都,3101,MI7RAI,東京都
-SPADA,diagram,636,RAG*,東京都,1305,LAHAR*,東京都,2865,MIKAMO,東京都
+SPADA,diagram,636,RAG*,東京都,1305,LAHAR*,東京都,2874,1048,東京都
 SPADA,Devilz Sacrifice -贖罪の羊-,955,LAHAR*,東京都,1829,LAHAR*,東京都,2499,RIDDLE,東京都
 SPADA,DARK LEGACY,1338,LAHAR*,東京都,2107,LAHAR*,東京都,3590,MIKAMO,東京都
 SPADA,Dark Fall,889,SHINPO,東京都,1656,LAHAR*,東京都,2751,NAOTIN,東京都
 SPADA,Critical Crystal,1107,LAHAR*,東京都,1871,LAHAR*,東京都,2932,MIKAMO,東京都
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3872,RAG*,東京都
-SPADA,Close the World feat. a☆ru,1137,LAHAR*,東京都,2096,LAHAR*,東京都,3410,MIKAMO,東京都
+SPADA,Close the World feat. a☆ru,1137,LAHAR*,東京都,2113,LAHAR*,東京都,3410,MIKAMO,東京都
 SPADA,Cleopatrysm,817,LAHAR*,東京都,1483,LAHAR*,東京都,2579,MIKAMO,東京都
 SPADA,Claiomh Solais,345,LAHAR*,東京都,1432,LAHAR*,東京都,2090,54GAYA,東京都
 SPADA,BRAVE OUT,1043,LAHAR*,東京都,1541,LAHAR*,東京都,2165,ALIKIA,東京都
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,970,DICE,東京都,1588,LAHAR*,東京�
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,986,LAHAR*,東京都,1998,LAHAR*,東京都,3115,MIKAMO,東京都
 PENDUAL,取り残された美術(Arranged:HiZuMi),976,LAHAR*,東京都,1750,LAHAR*,東京都,2212,*TA93N,東京都
 PENDUAL,千年ノ理,1203,MIKAMO,東京都,1979,LAHAR*,東京都,3194,MIKAMO,東京都
-PENDUAL,十六夜セツナ,1027,LAHAR*,東京都,1619,LAHAR*,東京都,2242,MIKAMO,東京都
+PENDUAL,十六夜セツナ,1027,LAHAR*,東京都,1619,LAHAR*,東京都,2247,1048,東京都
 PENDUAL,共鳴遊戯の華,1311,LAHAR*,東京都,2483,LAHAR*,東京都,3857,RAG*,東京都
 PENDUAL,リリーゼと炎龍レーヴァテイン,1000,LAHAR*,東京都,2326,LAHAR*,東京都,3471,MIKAMO,東京都
 PENDUAL,ベィスドロップ・フリークス,641,LAHAR*,東京都,1283,LAHAR*,東京都,2269,MIKAMO,東京都
@@ -924,7 +924,7 @@ copula,明鏡止水,866,DICE,東京都,1913,LAHAR*,東京都,2819,MIKAMO,東京�
 copula,少女アリスと箱庭幻想コンチェルト,769,LAHAR*,東京都,1506,LAHAR*,東京都,2166,RIDDLE,東京都
 copula,セロトニン,1342,LAHAR*,東京都,1861,LAHAR*,東京都,2340,MIKAMO,東京都
 copula,シュッパツシンコウ・シサカンコ,1134,LAHAR*,東京都,1799,*405*,東京都,2445,54GAYA,東京都
-copula,ギョギョっと人魚 爆婚ブライダル,828,LAHAR*,東京都,1449,LAHAR*,東京都,2390,MIKAMO,東京都
+copula,ギョギョっと人魚 爆婚ブライダル,828,LAHAR*,東京都,1458,LAHAR*,東京都,2390,MIKAMO,東京都
 copula,オルタネイトβ,844,IN-PO,東京都,1437,IN-PO,東京都,2257,MIKAMO,東京都
 copula,めいさいアイドル☆あいむちゃん♪,1539,LAHAR*,東京都,2344,LAHAR*,東京都,3356,SHONO,東京都
 copula,か・し・ま・し☆PUMP UP！,1199,DICE,東京都,1902,LAHAR*,東京都,2856,MIKAMO,東京都
@@ -955,7 +955,7 @@ copula,POSSESSION,1381,LAHAR*,東京都,2132,LAHAR*,東京都,2981,ALIKIA,東京
 copula,OUTER LIMITS ALTERNATIVE,1184,LAHAR*,東京都,1759,LAHAR*,東京都,2694,MIKAMO,東京都
 copula,Outbreak,1336,DICE,東京都,1851,LAHAR*,東京都,3020,MIKAMO,東京都
 copula,On the FM,1140,LAHAR*,東京都,1620,LAHAR*,東京都,2800,MIKAMO,東京都
-copula,NZM,1086,LAHAR*,東京都,1620,LAHAR*,東京都,3467,MIKAMO,東京都
+copula,NZM,1086,LAHAR*,東京都,1632,LAHAR*,東京都,3467,MIKAMO,東京都
 copula,Nowhere,875,LAHAR*,東京都,1481,LAHAR*,東京都,2166,BABA.G,東京都
 copula,NO LIMIT -オレ達に限界は無い-,837,LAHAR*,東京都,1250,LAHAR*,東京都,2282,MIKAMO,東京都
 copula,NINJA IS DEAD IIDX ver.,1235,LAHAR*,東京都,1927,LAHAR*,東京都,2996,54GAYA,東京都
@@ -997,7 +997,7 @@ copula,AO-1,1271,LAHAR*,東京都,1950,LAHAR*,東京都,2808,MI7RAI,東京都
 copula,Angelic Jelly,1142,LAHAR*,東京都,2089,LAHAR*,東京都,2731,GURA,東京都
 copula,Acid Pumper,690,LAHAR*,東京都,1605,LAHAR*,東京都,2486,MIKAMO,東京都
 copula,199024club -Re:BounceKiller-,697,SHINPO,東京都,1679,LAHAR*,東京都,2406,RIDDLE,東京都
-SINOBUZ,鴉,1507,LAHAR*,東京都,2223,LAHAR*,東京都,2683,MIKAMO,東京都
+SINOBUZ,鴉,1507,LAHAR*,東京都,2235,DELAY,東京都,2683,MIKAMO,東京都
 SINOBUZ,童話回廊,954,LAHAR*,東京都,1784,LAHAR*,東京都,3108,MIKAMO,東京都
 SINOBUZ,禍根,808,LAHAR*,東京都,1376,LAHAR*,東京都,2626,MIKAMO,東京都
 SINOBUZ,獅子霞麗ノ舞,498,LAHAR*,東京都,1093,LAHAR*,東京都,1733,LAHAR*,東京都
@@ -1020,7 +1020,7 @@ SINOBUZ,〆,1291,LAHAR*,東京都,2348,LAHAR*,東京都,3673,MIKAMO,東京都
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),766,LAHAR*,東京都,1854,LAHAR*,東京都,2877,54GAYA,東京都
 SINOBUZ,yamabiko (SINOBUZ Edition),985,LAHAR*,東京都,1616,LAHAR*,東京都,2654,RIDDLE,東京都
 SINOBUZ,XINOBIKILL,1003,LAHAR*,東京都,1769,LAHAR*,東京都,2902,MIKAMO,東京都
-SINOBUZ,Warrior,1030,LAHAR*,東京都,1797,DICE,東京都,2490,1048,東京都
+SINOBUZ,Warrior,1030,LAHAR*,東京都,1802,LAHAR*,東京都,2490,1048,東京都
 SINOBUZ,Vermilion,893,SUBARU,東京都,1388,SHINPO,東京都,2042,LAHAR*,東京都
 SINOBUZ,Venom,1296,LAHAR*,東京都,2149,LAHAR*,東京都,3202,MIKAMO,東京都
 SINOBUZ,Umbral,615,LAHAR*,東京都,1421,LAHAR*,東京都,1924,MIKAMO,東京都
@@ -1059,7 +1059,7 @@ SINOBUZ,Music is The Answer,792,LAHAR*,東京都,1424,LAHAR*,東京都,1905,LAHA
 SINOBUZ,Modular Technology,1262,LAHAR*,東京都,1964,LAHAR*,東京都,2702,RIDDLE,東京都
 SINOBUZ,Mare Nectaris,1484,54GAYA,東京都,2177,MIKAMO,東京都,3835,MIKAMO,東京都
 SINOBUZ,Magical,811,LAHAR*,東京都,1195,DICE,東京都,1994,BABA.G,東京都
-SINOBUZ,Macuilxochitl,1478,LAHAR*,東京都,2256,LAHAR*,東京都,3316,1048,東京都
+SINOBUZ,Macuilxochitl,1478,LAHAR*,東京都,2256,LAHAR*,東京都,3318,1048,東京都
 SINOBUZ,Lost wing at.0,936,LAHAR*,東京都,1473,LAHAR*,東京都,2457,MIKAMO,東京都
 SINOBUZ,INVISIBLE STRIX,1182,LAHAR*,東京都,2092,LAHAR*,東京都,2599,54GAYA,東京都
 SINOBUZ,Honey Trap,840,SHINPO,東京都,1625,LAHAR*,東京都,2519,BANGA1,東京都
@@ -1171,7 +1171,7 @@ CANNON BALLERS,Best of Me,816,LAHAR*,東京都,1597,LAHAR*,東京都,2212,LAHAR*
 CANNON BALLERS,Beast mode,1062,284KYO,東京都,1569,LAHAR*,東京都,2763,MIKAMO,東京都
 CANNON BALLERS,Be a Hero!,786,LAHAR*,東京都,1956,LAHAR*,東京都,3126,MIKAMO,東京都
 CANNON BALLERS,Battleground,1183,LAHAR*,東京都,1899,LAHAR*,東京都,2689,1048,東京都
-CANNON BALLERS,Back Spin Sweeper,862,LAHAR*,東京都,1412,LAHAR*,東京都,2232,34,東京都
+CANNON BALLERS,Back Spin Sweeper,862,LAHAR*,東京都,1412,LAHAR*,東京都,2234,BT-42,東京都
 CANNON BALLERS,Around the Future,1102,DICE,東京都,1736,DICE,東京都,2584,54GAYA,東京都
 CANNON BALLERS,Arca,925,LAHAR*,東京都,1902,LAHAR*,東京都,3133,RIDDLE,東京都
 CANNON BALLERS,Antigravity,1044,LAHAR*,東京都,2008,LAHAR*,東京都,3072,*TA93N,東京都
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1321,Y13,東京都,2321,LAHAR*,東京都,
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,694,IN-PO,東京都,1553,IN-PO,東京都,2553,BANGA1,東京都
 Rootage,ミストレス・アンに花束を,583,LAHAR*,東京都,1025,*405*,東京都,1429,MIKAMO,東京都
 Rootage,ハードベース・フェスタ,1153,Y13,東京都,1836,LAHAR*,東京都,2863,1048,東京都
-Rootage,セカンドピアス,604,LAHAR*,東京都,1106,Y13,東京都,2025,RIDDLE,東京都
+Rootage,セカンドピアス,604,LAHAR*,東京都,1107,KT4ER1,東京都,2025,RIDDLE,東京都
 Rootage,サクラあっぱれーしょん,632,IN-PO,東京都,1567,LAHAR*,東京都,2324,MIKAMO,東京都
 Rootage,グラナダの風,818,LAHAR*,東京都,1239,LAHAR*,東京都,1873,MIKAMO,東京都
 Rootage,Yum Yum Jelly,796,IN-PO,東京都,1584,LAHAR*,東京都,2394,MIKAMO,東京都
