@@ -16,7 +16,7 @@
 2nd style,SP-TRIP MACHINE(for beatmania II),505,TKY,京都府,624,TKY,京都府,644,TKY,京都府
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),570,TKY,京都府,846,FFFFFF,京都府,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),860,TKY,京都府,700,EVM*,京都府,1211,FFFFFF,京都府
-2nd style,I Was The One,532,TKY,京都府,575,KYU3,京都府,682,RINDO*,京都府
+2nd style,I Was The One,532,TKY,京都府,643,TKY,京都府,682,RINDO*,京都府
 2nd style,Electro Tuned(the SubS mix),765,TKY,京都府,931,TKY,京都府,1053,FFFFFF,京都府
 2nd style,Digital MinD(A/T Libra mix),727,TKY,京都府,1036,TKY,京都府,1135,FFFFFF,京都府
 2nd style,.59,703,TKY,京都府,996,TKY,京都府,1137,AQUA-Z,京都府
@@ -39,11 +39,11 @@
 4th style,Mr.T.(take me higher),836,TKY,京都府,992,TKY,京都府,1734,FFFFFF,京都府
 4th style,minimalian,536,TKY,京都府,1072,TKY,京都府,1383,FFFFFF,京都府
 4th style,LOVE WILL・・・,550,TKY,京都府,745,TKY,京都府,1447,FFFFFF,京都府
-4th style,KAMIKAZE,1015,TKY,京都府,1444,TKY,京都府,2265,FFFFFF,京都府
+4th style,KAMIKAZE,1015,TKY,京都府,1444,TKY,京都府,2282,FFFFFF,京都府
 4th style,Jam&Marmalade,773,TKY,京都府,891,TKY,京都府,1009,FFFFFF,京都府
 4th style,Hitch Hiker2,820,TKY,京都府,1183,TKY,京都府,1313,ELINA,京都府
 4th style,HIGHER,536,TKY,京都府,922,TKY,京都府,1266,ELINA,京都府
-4th style,FLOWERS for ALBION,178,TOUYA,京都府,442,FFFFFF,京都府,0,,未設定
+4th style,FLOWERS for ALBION,240,TKY,京都府,442,FFFFFF,京都府,0,,未設定
 4th style,era (step mix),892,SIVILL,京都府,1398,TKY,京都府,1680,TKY,京都府
 4th style,empathy,828,TKY,京都府,1352,TKY,京都府,1405,TKY,京都府
 4th style,DXY!,1261,TKY,京都府,1821,TKY,京都府,2203,Q,京都府
@@ -158,7 +158,7 @@
 9th style,moon_child,1009,TO10,京都府,1916,TKY,京都府,2511,ELINA,京都府
 9th style,MARIA (I believe... ),668,RYU,京都府,1567,TKY,京都府,1939,FFFFFF,京都府
 9th style,Make A Difference,857,TKY,京都府,1590,TKY,京都府,2210,FFFFFF,京都府
-9th style,lower world,1344,TKY,京都府,1864,TKY,京都府,2228,Q,京都府
+9th style,lower world,1365,TKY,京都府,1864,TKY,京都府,2228,Q,京都府
 9th style,LOVE SHINE,744,KAREN,京都府,1817,TKY,京都府,2079,ELINA,京都府
 9th style,lights,695,TKY,京都府,1451,RINDO*,京都府,1778,FFFFFF,京都府
 9th style,Let The Snow Paint Me -Y&Co. Remix-,835,TKY,京都府,1258,TKY,京都府,1796,Q,京都府
@@ -228,9 +228,9 @@ IIDX RED,gigadelic,1461,TKY,京都府,2127,Q,京都府,2381,TETRIS,京都府
 IIDX RED,GENOCIDE,845,SHUN,京都府,2028,TKY,京都府,2353,Q,京都府
 IIDX RED,Fly Away To India,682,TKY,京都府,1099,TKY,京都府,1406,FFFFFF,京都府
 IIDX RED,FAKE TIME,779,SY1045,京都府,1706,RINDO*,京都府,2289,RINDO*,京都府
-IIDX RED,earth scape,397,R,京都府,1007,TKY,京都府,1279,FFFFFF,京都府
+IIDX RED,earth scape,440,TKY,京都府,1007,TKY,京都府,1279,FFFFFF,京都府
 IIDX RED,Don't be afraid myself,1007,PLASTI,京都府,1843,TKY,京都府,2262,Q,京都府
-IIDX RED,D.A.N.C.E.!,436,ZHUKOV,京都府,640,KWSK,京都府,1542,*SORA*,京都府
+IIDX RED,D.A.N.C.E.!,436,ZHUKOV,京都府,730,SY1045,京都府,1542,*SORA*,京都府
 IIDX RED,Close my Eyes for Me,1033,TKY,京都府,1422,TKY,京都府,1819,Q,京都府
 IIDX RED,Click Again,892,TKY,京都府,1407,TKY,京都府,2106,FFFFFF,京都府
 IIDX RED,BREATH,917,TKY,京都府,1287,TKY,京都府,1688,FFFFFF,京都府
@@ -266,7 +266,7 @@ HAPPY SKY,Pink Rose,587,TKY,京都府,964,TKY,京都府,1403,FFFFFF,京都府
 HAPPY SKY,MOON RACE,851,TKY,京都府,1160,TKY,京都府,1884,FFFFFF,京都府
 HAPPY SKY,Love Magic,889,TERU,京都府,1725,TKY,京都府,1905,FFFFFF,京都府
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3664,BAE15,京都府
-HAPPY SKY,Little Little Princess,983,RYU,京都府,2051,TOMOYO,京都府,2743,ELINA,京都府
+HAPPY SKY,Little Little Princess,983,RYU,京都府,2062,YOURAY,京都府,2743,ELINA,京都府
 HAPPY SKY,LESSON 5,1280,TKY,京都府,1833,TKY,京都府,2467,FFFFFF,京都府
 HAPPY SKY,INAZUMA,1100,TKY,京都府,1775,TKY,京都府,2687,Q,京都府
 HAPPY SKY,in motion,854,TKY,京都府,1059,TKY,京都府,1305,FFFFFF,京都府
@@ -370,7 +370,7 @@ GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1332,TKY,京都府,1946,TKY,
 GOLD,ANDROMEDA II,977,TKY,京都府,1892,TKY,京都府,2442,FFFFFF,京都府
 GOLD,Air Bell,981,TKY,京都府,1351,TKY,京都府,1698,*SORA*,京都府
 DJ TROOPERS,走馬灯 -The Last Song-,502,TKY,京都府,906,TKY,京都府,1333,FFFFFF,京都府
-DJ TROOPERS,華爛漫 -Flowers-,1002,TKY,京都府,1565,TKY,京都府,2021,F.,京都府
+DJ TROOPERS,華爛漫 -Flowers-,1002,TKY,京都府,1565,TKY,京都府,2031,AQUA-Z,京都府
 DJ TROOPERS,少年A,1180,R.WELL,京都府,2122,TKY,京都府,2774,FFFFFF,京都府
 DJ TROOPERS,ミラージュ・レジデンス,1127,TKY,京都府,2084,TKY,京都府,2627,FFFFFF,京都府
 DJ TROOPERS,マチ子の唄,822,TKY,京都府,1304,TKY,京都府,1777,FFFFFF,京都府
@@ -440,7 +440,7 @@ EMPRESS,SOLITON BEAM,1425,TKY,京都府,2081,TKY,京都府,2320,*SORA*,京都府
 EMPRESS,smooooch・∀・,822,TKY,京都府,1606,TKY,京都府,2134,FFFFFF,京都府
 EMPRESS,Secrets,1240,TKY,京都府,2426,TKY,京都府,3111,FFFFFF,京都府
 EMPRESS,Queen's Tragedy,852,TKY,京都府,1679,TKY,京都府,2220,FFFFFF,京都府
-EMPRESS,Punch Love 仮面,1107,TKY,京都府,1710,TKY,京都府,2471,F.,京都府
+EMPRESS,Punch Love 仮面,1107,TKY,京都府,1710,TKY,京都府,2485,FFFFFF,京都府
 EMPRESS,Programmed World,935,TKY,京都府,1781,TKY,京都府,2280,FFFFFF,京都府
 EMPRESS,NΦ CRIME,811,TKY,京都府,1454,TKY,京都府,1877,AQUA-Z,京都府
 EMPRESS,neogenesis,1001,TKY,京都府,1347,TKY,京都府,1710,FFFFFF,京都府
@@ -476,7 +476,7 @@ SIRIUS,サヨナラ・ヘヴン,911,TKY,京都府,1363,TKY,京都府,1658,FFFFFF
 SIRIUS,コスモス,913,TKY,京都府,1503,TKY,京都府,2082,FFFFFF,京都府
 SIRIUS,たからもの,1186,ALICE*,京都府,1856,TKY,京都府,2223,TKY,京都府
 SIRIUS,かずあそび,526,TKY,京都府,1171,TKY,京都府,1681,FFFFFF,京都府
-SIRIUS,The Story Begins,842,TKY,京都府,1785,TKY,京都府,2411,FFFFFF,京都府
+SIRIUS,The Story Begins,842,TKY,京都府,1792,TKY,京都府,2411,FFFFFF,京都府
 SIRIUS,THE LAST STRIKER,1407,TKY,京都府,1930,TKY,京都府,2575,FFFFFF,京都府
 SIRIUS,Special One,848,TKY,京都府,1189,TKY,京都府,1759,AQUA-Z,京都府
 SIRIUS,Sorrows,786,YOURAY,京都府,1664,TKY,京都府,2450,F.,京都府
@@ -484,13 +484,13 @@ SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3525,FFFFFF,京都府
 SIRIUS,SOLID STATE SQUAD,996,MKTAXI,京都府,2268,TKY,京都府,3530,Q,京都府
 SIRIUS,She is my wife,615,NORTH,京都府,1534,TKY,京都府,1893,TKY,京都府
 SIRIUS,Session 1 -Genesis-,921,TKY,京都府,1625,TKY,京都府,2420,FFFFFF,京都府
-SIRIUS,Roots of my way!,801,RYU,京都府,1350,TKY,京都府,2009,TKY,京都府
+SIRIUS,Roots of my way!,801,RYU,京都府,1350,TKY,京都府,2028,TKY,京都府
 SIRIUS,Red. by Full Metal Jacket,1003,TKY,京都府,1973,TKY,京都府,3057,Q,京都府
 SIRIUS,Raison d'?tre～交差する宿命～,1074,RYU,京都府,2262,TKY,京都府,2635,*SORA*,京都府
 SIRIUS,quell～the seventh slave～,957,TKY,京都府,1780,TKY,京都府,3064,FFFFFF,京都府
 SIRIUS,Programmed Sun,1090,TKY,京都府,1842,TKY,京都府,2565,FFFFFF,京都府
 SIRIUS,NoN-Fiction Story!,705,TKY,京都府,1387,TKY,京都府,2174,FFFFFF,京都府
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1109,DAIKON,京都府,1999,TKY,京都府,2600,O&EE,京都府
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1109,DAIKON,京都府,1999,TKY,京都府,2613,AQUA-Z,京都府
 SIRIUS,mosaic,1485,TKY,京都府,2019,TKY,京都府,2981,F.,京都府
 SIRIUS,MIRACLE MEETS,953,TKY,京都府,1544,SAY*,京都府,2208,FFFFFF,京都府
 SIRIUS,Light Shine,822,TKY,京都府,1138,TKY,京都府,1951,FFFFFF,京都府
@@ -539,7 +539,7 @@ Resort Anthem,Tropical April,1599,TKY,京都府,2222,TKY,京都府,2672,FFFFFF,�
 Resort Anthem,THE FALLEN,630,HENCHI,京都府,1484,TKY,京都府,2580,RINDO*,京都府
 Resort Anthem,THE DOOR INTO RAINBOW,754,KAZEAZ,京都府,1677,TKY,京都府,2166,FFFFFF,京都府
 Resort Anthem,THE BLACK KNIGHT,918,TKY,京都府,2040,TKY,京都府,2855,F.,京都府
-Resort Anthem,STELLAR WIND,567,AO-K1,京都府,1829,TKY,京都府,2614,Q,京都府
+Resort Anthem,STELLAR WIND,639,TKY,京都府,1829,TKY,京都府,2614,Q,京都府
 Resort Anthem,Stay my side,637,TKY,京都府,1060,TKY,京都府,1343,FFFFFF,京都府
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,706,TKY,京都府,1599,TKY,京都府,2936,FFFFFF,京都府
 Resort Anthem,Space Time,621,TKY,京都府,1682,TKY,京都府,2180,Q,京都府
@@ -560,14 +560,14 @@ Resort Anthem,Let The Track Flow,1112,TKY,京都府,1811,TKY,京都府,2523,S.,�
 Resort Anthem,Kailua,528,TKY,京都府,1335,TKY,京都府,2099,TETRIS,京都府
 Resort Anthem,I FIGHT ME,625,TKY,京都府,1407,TKY,京都府,2123,FFFFFF,京都府
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2265,AQUA-Z,京都府
-Resort Anthem,Golden Palms,739,TKY,京都府,1427,FUNNY,京都府,1941,*SORA*,京都府
+Resort Anthem,Golden Palms,739,TKY,京都府,1427,FUNNY,京都府,1978,FFFFFF,京都府
 Resort Anthem,Fantasia,398,TKY,京都府,1546,TKY,京都府,2221,FFFFFF,京都府
 Resort Anthem,Everlasting Resort,887,TKY,京都府,1313,TKY,京都府,1883,FFFFFF,京都府
 Resort Anthem,Eternal Tears,425,#U3A8#,京都府,1081,TKY,京都府,1373,FFFFFF,京都府
 Resort Anthem,Energy Drive,688,UMINO,京都府,1444,TKY,京都府,2182,FFFFFF,京都府
 Resort Anthem,ELECTRIC MASSIVE DIVER,1335,TKY,京都府,2446,TKY,京都府,3647,FFFFFF,京都府
 Resort Anthem,DM STAR～関西 energy style～,1113,TKY,京都府,1913,TKY,京都府,2386,FFFFFF,京都府
-Resort Anthem,Destiny Sword,744,DAIKON,京都府,1743,TKY,京都府,2373,FFFFFF,京都府
+Resort Anthem,Destiny Sword,744,DAIKON,京都府,1755,TKY,京都府,2373,FFFFFF,京都府
 Resort Anthem,DAYDREAMER,1078,RYU,京都府,1734,TKY,京都府,2502,FFFFFF,京都府
 Resort Anthem,Dances with Snow Fairies,1448,TKY,京都府,2240,TKY,京都府,3042,FFFFFF,京都府
 Resort Anthem,BROKEN EDEN,1046,TKY,京都府,1774,TKY,京都府,2292,F.,京都府
@@ -580,17 +580,17 @@ Resort Anthem,ANTHEM LANDING,962,TKY,京都府,1915,TKY,京都府,2930,Q,京都�
 Resort Anthem,Answer,783,TKY,京都府,1477,TKY,京都府,2392,FFFFFF,京都府
 Resort Anthem,ALBIDA,1045,HOS1NO,京都府,1884,TKY,京都府,2939,FFFFFF,京都府
 Resort Anthem,Aegis,900,TKY,京都府,1352,TKY,京都府,2291,FFFFFF,京都府
-Lincle,陽炎,624,TKY,京都府,1182,TKY,京都府,2000,FFFFFF,京都府
+Lincle,陽炎,630,TKY,京都府,1182,TKY,京都府,2000,FFFFFF,京都府
 Lincle,衰色小町メランコリア,799,TKY,京都府,1396,TKY,京都府,2335,FFFFFF,京都府
 Lincle,蛇神,725,TKY,京都府,1500,TKY,京都府,2745,Q,京都府
 Lincle,聖人の塔,792,SHUN,京都府,1965,TKY,京都府,2809,RINDO*,京都府
 Lincle,突撃!ガラスのニーソ姫!,654,TKY,京都府,1156,TKY,京都府,2051,F.,京都府
 Lincle,恋する☆宇宙戦争っ！！,878,HAZUKI,京都府,1724,TKY,京都府,3336,S.,京都府
 Lincle,子供の落書き帳,698,SHUN,京都府,1808,UCHIDA,京都府,2579,F.,京都府
-Lincle,天空の夜明け,1347,TKY,京都府,2094,TKY,京都府,3927,ELINA,京都府
+Lincle,天空の夜明け,1347,TKY,京都府,2156,*SORA*,京都府,3927,ELINA,京都府
 Lincle,君のハートにロックオン,619,KAREN,京都府,1721,TKY,京都府,2636,FFFFFF,京都府
 Lincle,ユミル,658,TKY,京都府,1338,TKY,京都府,2797,Q,京都府
-Lincle,ビューティフルレシート,511,TKY,京都府,1217,TKY,京都府,1881,*SORA*,京都府
+Lincle,ビューティフルレシート,511,TKY,京都府,1217,TKY,京都府,1913,FFFFFF,京都府
 Lincle,Yellow Sunrise,755,TKY,京都府,1433,TKY,京都府,2236,*SORA*,京都府
 Lincle,yellow head joe,790,TKY,京都府,1485,TKY,京都府,2183,*SORA*,京都府
 Lincle,YAKSHA,1123,ALICE*,京都府,2288,TKY,京都府,3645,F.,京都府
@@ -620,7 +620,7 @@ Lincle,Phoenix,873,TKY,京都府,1172,TKY,京都府,2455,FFFFFF,京都府
 Lincle,NNRT,1031,SY1045,京都府,2467,TKY,京都府,3400,FFFFFF,京都府
 Lincle,Miami Sunset Drive,639,TKY,京都府,1059,TKY,京都府,1672,FFFFFF,京都府
 Lincle,Mermaid girl-秋葉工房 MIX-,822,TKY,京都府,1343,TKY,京都府,2049,FFFFFF,京都府
-Lincle,Lucky Days,662,TKY,京都府,1507,TKY,京都府,2173,FFFFFF,京都府
+Lincle,Lucky Days,662,TKY,京都府,1507,TKY,京都府,2178,AQUA-Z,京都府
 Lincle,LOVE B.B.B,775,TKY,京都府,1484,TKY,京都府,1989,*SORA*,京都府
 Lincle,Liquid Crystal Girl feat. echo,416,TKY,京都府,1104,TKY,京都府,1982,FFFFFF,京都府
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,1022,TKY,京都府,1621,TKY,京都府,2184,FFFFFF,京都府
@@ -687,7 +687,7 @@ tricoro,STULTI,705,RYU,京都府,1601,TKY,京都府,2645,FFFFFF,京都府
 tricoro,Sol Cosine Job 2,876,YUK!NE,京都府,1699,TKY,京都府,3038,F.,京都府
 tricoro,SHION,672,TKY,京都府,1297,TKY,京都府,2698,FFFFFF,京都府
 tricoro,Shining World,1250,TKY,京都府,1599,TKY,京都府,1942,Q,京都府
-tricoro,Saturn,1340,TKY,京都府,1990,TKY,京都府,2567,*SORA*,京都府
+tricoro,Saturn,1340,TKY,京都府,1990,TKY,京都府,2570,FFFFFF,京都府
 tricoro,S!ck,799,DAIKON,京都府,1561,TKY,京都府,2648,FFFFFF,京都府
 tricoro,rumrum triplets,852,A-CHO,京都府,1960,TKY,京都府,2951,TETRIS,京都府
 tricoro,Re:GENERATION,792,H.MACH,京都府,1537,KAMUI,京都府,2225,FFFFFF,京都府
@@ -725,7 +725,7 @@ tricoro,Devilz Staircase,659,TKY,京都府,2169,TKY,京都府,3080,RINDO*,京都
 tricoro,DAY DREAM,545,TKY,京都府,1239,TKY,京都府,1930,RINDO*,京都府
 tricoro,Cookie Bouquets,828,ALICE*,京都府,2090,TKY,京都府,3276,BAE15,京都府
 tricoro,connective,399,TKY,京都府,1105,TKY,京都府,1591,FFFFFF,京都府
-tricoro,Confiserie,830,ADUHAI,京都府,2044,RYOSHI,京都府,3361,F.,京都府
+tricoro,Confiserie,850,YUK!NE,京都府,2044,RYOSHI,京都府,3361,F.,京都府
 tricoro,CONCEPTUAL,646,AO-K1,京都府,1249,-*M*-,京都府,2656,F.,京都府
 tricoro,BRAVE GLOW,824,TKY,京都府,1690,TKY,京都府,2469,FFFFFF,京都府
 tricoro,BLUE STRAGGLER,736,ZHUKOV,京都府,1472,TKY,京都府,2487,AQUA-Z,京都府
@@ -789,10 +789,10 @@ SPADA,INSOMNIA,765,V4Z461,京都府,1797,TKY,京都府,3012,*SORA*,京都府
 SPADA,Insane Techniques,743,TKY,京都府,1307,TKY,京都府,2457,Q,京都府
 SPADA,Immortal,748,MENTI,京都府,1720,TKY,京都府,3100,FFFFFF,京都府
 SPADA,Idola,995,SPICA.,京都府,2273,TKY,京都府,3519,ELINA,京都府
-SPADA,I will be back -オレは帰ってきた-,971,MKTAXI,京都府,1948,TKY,京都府,2851,F.,京都府
+SPADA,I will be back -オレは帰ってきた-,971,MKTAXI,京都府,1948,TKY,京都府,2900,FFFFFF,京都府
 SPADA,Hypersonik,1011,TKY,京都府,1712,TKY,京都府,2501,FFFFFF,京都府
 SPADA,HYENA,1183,TKY,京都府,1988,TKY,京都府,2807,FFFFFF,京都府
-SPADA,Funny shuffle,608,TKY,京都府,1063,HAZUKI,京都府,2277,FFFFFF,京都府
+SPADA,Funny shuffle,608,TKY,京都府,1063,HAZUKI,京都府,2283,FFFFFF,京都府
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4203,NEFF,京都府
 SPADA,Feel The Beat,1344,TKY,京都府,2151,TKY,京都府,3464,FFFFFF,京都府
 SPADA,EXTREME MACH COLLIDER,1014,TKY,京都府,1474,TKY,京都府,2509,FFFFFF,京都府
@@ -802,7 +802,7 @@ SPADA,Elektrick U-Phoria,1161,TKY,京都府,1929,TKY,京都府,3054,Q,京都府
 SPADA,diagram,628,TKY,京都府,1276,TKY,京都府,2790,FFFFFF,京都府
 SPADA,Devilz Sacrifice -贖罪の羊-,755,UMINO,京都府,1771,TKY,京都府,2432,FFFFFF,京都府
 SPADA,DARK LEGACY,1110,TAKUMA,京都府,2054,TKY,京都府,3483,FFFFFF,京都府
-SPADA,Dark Fall,673,AO-K1,京都府,1592,TKY,京都府,2675,Q,京都府
+SPADA,Dark Fall,673,AO-K1,京都府,1592,TKY,京都府,2718,FFFFFF,京都府
 SPADA,Critical Crystal,919,GARU#,京都府,1825,TKY,京都府,2811,O&EE,京都府
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3714,FFFFFF,京都府
 SPADA,Close the World feat. a☆ru,1018,H.MACH,京都府,2053,TKY,京都府,3303,FFFFFF,京都府
@@ -811,7 +811,7 @@ SPADA,Claiomh Solais,343,TKY,京都府,1432,TKY,京都府,2058,FFFFFF,京都府
 SPADA,BRAVE OUT,1041,TKY,京都府,1508,TKY,京都府,2155,FFFFFF,京都府
 SPADA,BRAINSTORM,753,TKY,京都府,1921,TKY,京都府,2722,*SORA*,京都府
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1452,TKY,京都府,2165,Z-HARD,京都府,3218,F.,京都府
-SPADA,Atropos,865,ROTTO,京都府,1647,TKY,京都府,2253,AQUA-Z,京都府
+SPADA,Atropos,865,ROTTO,京都府,1647,TKY,京都府,2316,FFFFFF,京都府
 SPADA,ATHER,936,R.WELL,京都府,1601,TKY,京都府,2785,Q,京都府
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4105,FFFFFF,京都府
 SPADA,Ancient Scapes,1074,QQQ,京都府,1996,TKY,京都府,3365,Q,京都府
@@ -870,7 +870,7 @@ PENDUAL,No Tears,1199,TKY,京都府,2085,TKY,京都府,2521,FFFFFF,京都府
 PENDUAL,Night sky,1167,YOSANO,京都府,1842,TKY,京都府,2829,Q,京都府
 PENDUAL,NEO GENERATOR SEVEN,699,MENTI,京都府,1863,TKY,京都府,3230,FFFFFF,京都府
 PENDUAL,Monopole.,705,ZHUKOV,京都府,1451,DNA,京都府,3148,TETRIS,京都府
-PENDUAL,m1dy Festival,634,KAORU,京都府,1464,KAREN,京都府,2326,YOSANO,京都府
+PENDUAL,m1dy Festival,640,ZANKI,京都府,1464,KAREN,京都府,2326,YOSANO,京都府
 PENDUAL,Line 4 Ruin,722,TKY,京都府,1789,TKY,京都府,2767,Q,京都府
 PENDUAL,IXION,1124,TKY,京都府,1772,TKY,京都府,2135,TKY,京都府
 PENDUAL,Invitation from Mr.C,1149,TKY,京都府,1507,8BIRD,京都府,2639,FFFFFF,京都府
@@ -945,7 +945,7 @@ copula,STARLIGHT DANCEHALL,1246,TKY,京都府,1797,TKY,京都府,2637,FFFFFF,京
 copula,STARLiGHT,954,TKY,京都府,1806,TKY,京都府,2643,O&EE,京都府
 copula,SHELTER OF THE MIND,1429,TKY,京都府,1980,TKY,京都府,3007,FFFFFF,京都府
 copula,Set U Free feat. Kanae Asaba,934,TKY,京都府,1544,F.,京都府,2501,F.,京都府
-copula,Sephirot,958,TKY,京都府,1627,TKY,京都府,2320,FFFFFF,京都府
+copula,Sephirot,958,TKY,京都府,1649,TKY,京都府,2320,FFFFFF,京都府
 copula,SEITEN NO TERIYAKI,613,ZHUKOV,京都府,1024,NERUKO,京都府,2246,FFFFFF,京都府
 copula,Routing,943,TKY,京都府,1642,Q,京都府,2468,FFFFFF,京都府
 copula,Rock It,1084,PIECES,京都府,1660,TKY,京都府,2924,Q,京都府
@@ -975,7 +975,7 @@ copula,Go Faraway,1030,TKY,京都府,1503,TKY,京都府,2469,F.,京都府
 copula,Glitch Nerds,1036,TKY,京都府,1429,TKY,京都府,2223,Q,京都府
 copula,GET READY!!,744,MENTI,京都府,1592,TKY,京都府,2620,FFFFFF,京都府
 copula,GENERATE feat.綾倉盟,1126,TKY,京都府,1736,F.,京都府,2338,FFFFFF,京都府
-copula,Exchange Place,766,TKY,京都府,1264,TKY,京都府,1789,FFFFFF,京都府
+copula,Exchange Place,770,TKY,京都府,1264,TKY,京都府,1789,FFFFFF,京都府
 copula,Everlasting Last,835,TKY,京都府,1624,F.,京都府,2205,FFFFFF,京都府
 copula,Dynamite,1122,YU-RE.,京都府,2390,VARY,京都府,3672,TETRIS,京都府
 copula,Donkey Donk,1172,TKY,京都府,1700,TKY,京都府,2233,Q,京都府
@@ -988,9 +988,9 @@ copula,Damage Per Second,883,TKY,京都府,1407,TKY,京都府,2025,FFFFFF,京都
 copula,Daily Lunch Special,949,SHUN,京都府,2078,TKY,京都府,2889,AQUA-Z,京都府
 copula,CODE:1 [revision1.0.1],982,TKY,京都府,1708,TKY,京都府,3027,FFFFFF,京都府
 copula,chaos eater -IIDX edition-,1040,SHUN,京都府,1663,TKY,京都府,2568,FFFFFF,京都府
-copula,Central Station,989,MKTAXI,京都府,1561,F.,京都府,2297,TKY,京都府
+copula,Central Station,989,MKTAXI,京都府,1561,F.,京都府,2330,TKY,京都府
 copula,Blue Spring Express,1300,TKY,京都府,2014,TKY,京都府,3162,F.,京都府
-copula,Battle Train -IIDX Edition-,729,SHUN,京都府,2472,TKY,京都府,3115,RINDO*,京都府
+copula,Battle Train -IIDX Edition-,729,SHUN,京都府,2484,TKY,京都府,3115,RINDO*,京都府
 copula,Aublia,863,TOSHI,京都府,1531,TKY,京都府,2521,FFFFFF,京都府
 copula,Arcana,1209,TKY,京都府,1734,TKY,京都府,2264,FFFFFF,京都府
 copula,AO-1,926,KARIN,京都府,1903,F.,京都府,2613,TETRIS,京都府
@@ -1012,7 +1012,7 @@ SINOBUZ,刃図羅,1235,TKY,京都府,2051,TKY,京都府,3309,Q,京都府
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,3011,Q,京都府
 SINOBUZ,冬椿 ft. Kanae Asaba,887,RYU,京都府,1253,TKY,京都府,2257,Q,京都府
 SINOBUZ,九尾狐夜行,857,TKY,京都府,1768,TKY,京都府,2909,F.,京都府
-SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,698,DNA,京都府,1265,TOXIC.,京都府,2390,YOSANO,京都府
+SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,698,DNA,京都府,1338,-*M*-,京都府,2390,YOSANO,京都府
 SINOBUZ,イザナミノナゲキ,1128,ALICE*,京都府,1932,TKY,京都府,3194,FFFFFF,京都府
 SINOBUZ,ちらちら・はらはら,413,TKY,京都府,948,TKY,京都府,1419,FFFFFF,京都府
 SINOBUZ,お命ちょうDAI！901娘,877,REN,京都府,1589,TKY,京都府,2309,FFFFFF,京都府
@@ -1099,7 +1099,7 @@ CANNON BALLERS,純真可憐デザイア,834,TKY,京都府,1609,TKY,京都府,231
 CANNON BALLERS,神謳 -RESONANCE-,1391,TKY,京都府,2500,TKY,京都府,3921,F.,京都府
 CANNON BALLERS,東京神話,950,RUKI,京都府,1765,TKY,京都府,2750,FFFFFF,京都府
 CANNON BALLERS,命の標本,738,TKY,京都府,1663,TKY,京都府,2649,FFFFFF,京都府
-CANNON BALLERS,共犯へヴンズコード,505,F.,京都府,1218,GEEZ!,京都府,2249,FFFFFF,京都府
+CANNON BALLERS,共犯へヴンズコード,505,F.,京都府,1218,GEEZ!,京都府,2260,FFFFFF,京都府
 CANNON BALLERS,ラストセンチュリーメランコリック,804,ALICE*,京都府,1589,TKY,京都府,2158,FFFFFF,京都府
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),1039,TKY,京都府,1888,TKY,京都府,2724,Q,京都府
 CANNON BALLERS,バスルーム ロマンス,816,SHUN,京都府,1463,TKY,京都府,2413,Q,京都府
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1300,SKR,京都府,2308,AQUA-Z,京都府,
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,693,TKY,京都府,1536,TKY,京都府,2546,FFFFFF,京都府
 Rootage,ミストレス・アンに花束を,580,TKY,京都府,1014,TKY,京都府,1429,FFFFFF,京都府
 Rootage,ハードベース・フェスタ,1152,TKY,京都府,1811,ELINA,京都府,2841,FFFFFF,京都府
-Rootage,セカンドピアス,599,TKY,京都府,1099,TKY,京都府,2017,FFFFFF,京都府
+Rootage,セカンドピアス,599,TKY,京都府,1102,YAMADA,京都府,2017,FFFFFF,京都府
 Rootage,サクラあっぱれーしょん,627,TKY,京都府,1526,TKY,京都府,2308,FFFFFF,京都府
 Rootage,グラナダの風,809,TKY,京都府,1210,TKY,京都府,1842,Q,京都府
 Rootage,Yum Yum Jelly,785,TKY,京都府,1550,KAMUI,京都府,2341,Q,京都府
@@ -1221,7 +1221,7 @@ Rootage,R∞tAge,1099,RINDO*,京都府,1652,F.,京都府,2944,Q,京都府
 Rootage,ROZA DE ANDALUCIA,1297,TKY,京都府,1996,YOURAY,京都府,2995,FFFFFF,京都府
 Rootage,"ROCK女 feat. 大山愛未, Ken",1038,TKY,京都府,1765,TETRIS,京都府,2701,Q,京都府
 Rootage,Re:Story,430,TKY,京都府,1115,GOGO*T,京都府,1938,FFFFFF,京都府
-Rootage,Psycho Sheep Riddim,642,TKY,京都府,988,GOGO*T,京都府,1653,FFFFFF,京都府
+Rootage,Psycho Sheep Riddim,642,TKY,京都府,994,TKY,京都府,1653,FFFFFF,京都府
 Rootage,Playing With Fire,984,TKY,京都府,1650,TKY,京都府,2336,FFFFFF,京都府
 Rootage,Particle Arts,883,TKY,京都府,1644,F.,京都府,2454,FFFFFF,京都府
 Rootage,Painful Fate,1240,SKR,京都府,2217,TKY,京都府,3213,FFFFFF,京都府
@@ -1243,7 +1243,7 @@ Rootage,Glory,763,TKY,京都府,1628,TKY,京都府,2317,FFFFFF,京都府
 Rootage,GIGA THRASH,1227,3KNEKO,京都府,1801,YAMADA,京都府,2723,Q,京都府
 Rootage,EVANESCENT,1273,TKY,京都府,2289,TKY,京都府,3489,FFFFFF,京都府
 Rootage,Ember Lights,960,SKR,京都府,1621,TKY,京都府,2693,FFFFFF,京都府
-Rootage,DRUNK MONKY,991,TKY,京都府,1592,TETRIS,京都府,2256,TETRIS,京都府
+Rootage,DRUNK MONKY,1024,TKY,京都府,1592,TETRIS,京都府,2256,TETRIS,京都府
 Rootage,Drastic Dramatic,1548,TKY,京都府,2337,TKY,京都府,3459,FFFFFF,京都府
 Rootage,Dr. Chemical & Killing Machine,1118,TKY,京都府,1893,AQUA-Z,京都府,3318,FFFFFF,京都府
 Rootage,Digital Skipper,995,TKY,京都府,1561,F.,京都府,2232,Q,京都府
@@ -1257,6 +1257,6 @@ Rootage,Angels & Demons,918,TKY,京都府,1765,F.,京都府,2437,FFFFFF,京都�
 Rootage,AGAiN,1012,TKY,京都府,1590,TKY,京都府,2296,FFFFFF,京都府
 Rootage,A Tale Hidden In The Abyss,933,TKY,京都府,1710,FFFFFF,京都府,2612,FFFFFF,京都府
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1235,TKY,京都府,1637,TKY,京都府,2588,FFFFFF,京都府
-Rootage,50th Memorial Songs -The BEMANI History-,1074,TKY,京都府,1614,TKY,京都府,2566,Q,京都府
+Rootage,50th Memorial Songs -The BEMANI History-,1074,TKY,京都府,1614,TKY,京都府,2628,FFFFFF,京都府
 Rootage,50th Memorial Songs -Flagship medley-,968,TKY,京都府,1515,TKY,京都府,2224,FFFFFF,京都府
 Rootage,50th Memorial Songs -Beginning Story-,820,TKY,京都府,1634,TKY,京都府,2690,FFFFFF,京都府

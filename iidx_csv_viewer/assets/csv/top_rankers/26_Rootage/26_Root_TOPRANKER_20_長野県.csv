@@ -19,7 +19,7 @@
 2nd style,I Was The One,519,SNOW,長野県,634,S.O.S.,長野県,687,ASMR18,長野県
 2nd style,Electro Tuned(the SubS mix),508,MSRO,長野県,904,SNOW,長野県,1026,S.O.S.,長野県
 2nd style,Digital MinD(A/T Libra mix),697,SNOW,長野県,1021,S.O.S.,長野県,1072,S.O.S.,長野県
-2nd style,.59,658,SNOW,長野県,985,S.O.S.,長野県,1105,HUNT,長野県
+2nd style,.59,658,SNOW,長野県,1001,PPJT,長野県,1105,HUNT,長野県
 3rd style,THE SAFARI,1173,PASTEL,長野県,1706,ERUA$A,長野県,0,,未設定
 3rd style,Tangerine Stream,280,HIROTA,長野県,395,HIROTA,長野県,0,,未設定
 3rd style,Skyscraper,711,SNOW,長野県,1019,AMANDA,長野県,1167,S.O.S.,長野県
@@ -48,7 +48,7 @@
 4th style,empathy,742,RYO-TO,長野県,1251,KAOSU,長野県,1413,ASMR18,長野県
 4th style,DXY!,1187,TILIA,長野県,1820,AZURE*,長野県,2153,$KIVRI,長野県
 4th style,Clione†,0,,未設定,0,,未設定,2065,.$TORM,長野県
-4th style,Clione,495,SNOW,長野県,820,KMP,長野県,1575,2KADA.,長野県
+4th style,Clione,495,SNOW,長野県,841,KAZ64,長野県,1575,2KADA.,長野県
 4th style,CHECKING YOU OUT,592,NEV,長野県,881,PPJT,長野県,1296,PPJT,長野県
 4th style,Burnin' The Floor,229,CORONA,長野県,943,PASTEL,長野県,1413,AZURE*,長野県
 4th style,Broken My Heart,401,BLAST,長野県,1279,LYNORA,長野県,1759,3NATSU,長野県
@@ -96,7 +96,7 @@
 7th style,革命,679,TROMBE,長野県,1824,JZA80,長野県,2207,M416,長野県
 7th style,ZERO-ONE,982,KAZ64,長野県,1517,0$D,長野県,2109,IMOSY,長野県
 7th style,traces,1402,DESG59,長野県,1763,0$D,長野県,2087,$KIVRI,長野県
-7th style,Tomorrow Perfume,706,HSYGG,長野県,1634,SNOW,長野県,1905,GEMINI,長野県
+7th style,Tomorrow Perfume,706,HSYGG,長野県,1634,SNOW,長野県,1990,.,長野県
 7th style,stoic,1541,SNOW,長野県,2247,JZA80,長野県,2510,PPJT,長野県
 7th style,Spica,634,TROMBE,長野県,1259,SNOW,長野県,2233,PPJT,長野県
 7th style,MAX 300,1120,PPJT,長野県,1884,$KIVRI,長野県,0,,未設定
@@ -144,7 +144,7 @@
 8th style,abstract,879,ZED,長野県,1497,GEMINI,長野県,1783,INYUK,長野県
 9th style,真夏の花・真夏の夢,792,PASTEL,長野県,1047,KAZ64,長野県,1447,.$TORM,長野県
 9th style,ライオン好き,388,BLAST,長野県,1130,SNOW,長野県,1469,.$TORM,長野県
-9th style,SWEETEST SAVAGE,627,SNOW,長野県,1268,SNOW,長野県,1751,PPJT,長野県
+9th style,SWEETEST SAVAGE,627,SNOW,長野県,1268,SNOW,長野県,1774,PPJT,長野県
 9th style,Sweet Sweet Magic,946,SNOW,長野県,1377,25MAKI,長野県,1999,.$TORM,長野県
 9th style,STAR FIELD,680,SNOW,長野県,1355,324,長野県,1834,M416,長野県
 9th style,SNOW,1016,SNOW,長野県,1295,SNOW,長野県,2034,PPJT,長野県
@@ -205,7 +205,7 @@
 10th style,BABY LOVE,941,100081,長野県,1620,SNOW,長野県,2113,PPJT,長野県
 10th style,ASTRAL VOYAGE,637,HSYGG,長野県,879,HSYGG,長野県,1887,$KIVRI,長野県
 10th style,ALIEN TEMPLE,878,KAZ64,長野県,1527,SNOW,長野県,1952,.,長野県
-10th style,1st Samurai,791,HSYGG,長野県,1865,JZA80,長野県,2494,ASMR18,長野県
+10th style,1st Samurai,791,HSYGG,長野県,1865,JZA80,長野県,2591,PPJT,長野県
 IIDX RED,ＵＬＴｉＭΛＴＥ,892,SNOW,長野県,1445,PASTEL,長野県,1966,OBINEX,長野県
 IIDX RED,太陽～T・A・I・Y・O～,763,TROMBE,長野県,1272,SNOW,長野県,1687,AZURE*,長野県
 IIDX RED,大桟橋,472,SNOW,長野県,1083,DELTA,長野県,1837,PPJT,長野県
@@ -228,10 +228,10 @@ IIDX RED,gigadelic,1400,YASSU-,長野県,2102,PPJT,長野県,2411,AZURE*,長野�
 IIDX RED,GENOCIDE,811,POKA!?,長野県,1951,JZA80,長野県,2332,$KIVRI,長野県
 IIDX RED,Fly Away To India,648,25MAKI,長野県,1052,S.O.S.,長野県,1398,PPJT,長野県
 IIDX RED,FAKE TIME,981,SNOW,長野県,1744,PPJT,長野県,2308,$KIVRI,長野県
-IIDX RED,earth scape,458,HIROTA,長野県,1013,HIROTA,長野県,1260,ASMR18,長野県
+IIDX RED,earth scape,458,HIROTA,長野県,1019,HIROTA,長野県,1260,ASMR18,長野県
 IIDX RED,Don't be afraid myself,1049,25MAKI,長野県,1763,0$D,長野県,2260,PPJT,長野県
-IIDX RED,D.A.N.C.E.!,564,SNOW,長野県,792,NULLPO,長野県,1611,PPJT,長野県
-IIDX RED,Close my Eyes for Me,916,KAZ64,長野県,1268,SNOW,長野県,1721,INAMA2,長野県
+IIDX RED,D.A.N.C.E.!,564,SNOW,長野県,805,SNOW,長野県,1611,PPJT,長野県
+IIDX RED,Close my Eyes for Me,916,KAZ64,長野県,1268,SNOW,長野県,1823,PPJT,長野県
 IIDX RED,Click Again,730,RIKO,長野県,1204,AMANDA,長野県,2058,$KIVRI,長野県
 IIDX RED,BREATH,876,SNOW,長野県,1281,PASTEL,長野県,1719,PPJT,長野県
 IIDX RED,BLOCKS,783,SNOW,長野県,1083,S.HIRO,長野県,1960,PPJT,長野県
@@ -246,7 +246,7 @@ HAPPY SKY,冥,1087,PPJT,長野県,2111,PPJT,長野県,3741,PPJT,長野県
 HAPPY SKY,ラクエン,0,,未設定,778,GITEN,長野県,1914,ASMR18,長野県
 HAPPY SKY,ヒマワリ,533,HIROTA,長野県,1733,0$D,長野県,2009,ERUA$A,長野県
 HAPPY SKY,オレはビートマニア！お前は何マニア？,720,TROMBE,長野県,1349,SALT,長野県,1631,GAZER,長野県
-HAPPY SKY,Xepher,1072,SNOW,長野県,2030,JZA80,長野県,2946,PPJT,長野県
+HAPPY SKY,Xepher,1072,SNOW,長野県,2030,JZA80,長野県,2963,PPJT,長野県
 HAPPY SKY,We are Disっ娘よっつ打ち命,637,TROMBE,長野県,892,E-4ON,長野県,1646,PPJT,長野県
 HAPPY SKY,Votum stellarum,0,,未設定,1623,2KADA.,長野県,1835,GEMINI,長野県
 HAPPY SKY,vault of heaven,763,SNOW,長野県,1274,HAGU,長野県,1931,NONONO,長野県
@@ -286,7 +286,7 @@ HAPPY SKY,Agnus Dei,851,SNOW,長野県,1561,SNOW,長野県,2038,PPJT,長野県
 HAPPY SKY,100％ minimoo-G,480,SEVEN,長野県,1601,JZA80,長野県,1677,A4KAGA,長野県
 DistorteD,虹色,599,KASIMA,長野県,1448,SNOW,長野県,1840,PPJT,長野県
 DistorteD,華蝶風雪,939,4*5,長野県,2037,DNCHAN,長野県,2945,PPJT,長野県
-DistorteD,罠,551,HIROTA,長野県,1485,PASTEL,長野県,2438,ASMR18,長野県
+DistorteD,罠,561,HIROTA,長野県,1485,PASTEL,長野県,2438,ASMR18,長野県
 DistorteD,嘆きの樹,1739,PASTEL,長野県,2464,$KIVRI,長野県,3798,PPJT,長野県
 DistorteD,タシカナモノ,644,TIBI,長野県,1400,PASTEL,長野県,2025,AZURE*,長野県
 DistorteD,カゴノトリ～弐式～,1061,SNOW,長野県,1707,0$D,長野県,2519,GAZER,長野県
@@ -313,7 +313,7 @@ DistorteD,Harmony and Lovely,886,SNOW,長野県,1689,HICHEW,長野県,2192,PPJT,
 DistorteD,Ganymede,1090,SNOW,長野県,1616,INAMA2,長野県,2310,PPJT,長野県
 DistorteD,EURO-ROMANCE,763,HSYGG,長野県,1755,PASTEL,長野県,2067,$KIVRI,長野県
 DistorteD,DUE TOMORROW,909,PPJT,長野県,1443,PPJT,長野県,1974,PPJT,長野県
-DistorteD,Double Loving Heart,581,HIROTA,長野県,1188,KMP,長野県,1806,PPJT,長野県
+DistorteD,Double Loving Heart,581,HIROTA,長野県,1188,KMP,長野県,1809,PPJT,長野県
 DistorteD,D.C.fish,930,KAZ64,長野県,1831,SIYU,長野県,2323,PPJT,長野県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2656,PPJT,長野県
 DistorteD,CONTRACT,1204,SNOW,長野県,1590,JZA80,長野県,2042,AZURE*,長野県
@@ -327,11 +327,11 @@ DistorteD,ALFARSHEAR 双神威に廻る夢,890,I68S,長野県,1614,PASTEL,長野
 GOLD,電人、暁に斃れる。,1416,SNOW,長野県,2192,JZA80,長野県,3226,TES2,長野県
 GOLD,零 - ZERO -,1158,SNOW,長野県,1726,NATSU,長野県,2254,OBINEX,長野県
 GOLD,花吹雪 ～ IIDX LIMITED ～,718,SNOW,長野県,1014,E-4ON,長野県,1424,PPJT,長野県
-GOLD,星をこの手に,1156,SNOW,長野県,1684,0$D,長野県,2045,SOOR&,長野県
+GOLD,星をこの手に,1156,SNOW,長野県,1684,0$D,長野県,2055,4-EYES,長野県
 GOLD,リグレット,1127,KEI-T,長野県,1697,PASTEL,長野県,2421,$KIVRI,長野県
 GOLD,ヨシダさん,904,SNOW,長野県,1401,HIROTA,長野県,1940,CALPIS,長野県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,948,SNOW,長野県,1428,CLAIRE,長野県,2231,PPJT,長野県
-GOLD,X-rated,849,SNOW,長野県,1477,JOE,長野県,2053,242-ME,長野県
+GOLD,X-rated,849,SNOW,長野県,1477,JOE,長野県,2094,PPJT,長野県
 GOLD,With your Smile,577,LARVA,長野県,1136,PASTEL,長野県,1526,242-ME,長野県
 GOLD,Watch out!!,694,TROMBE,長野県,954,PASTEL,長野県,1550,PPJT,長野県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3129,RAZOR,長野県
@@ -341,7 +341,7 @@ GOLD,The Smile of You,926,PASTEL,長野県,1292,PASTEL,長野県,1620,PPJT,長�
 GOLD,the shadow,1191,PASTEL,長野県,1889,NATSU,長野県,2895,PPJT,長野県
 GOLD,snow storm,780,SNOW,長野県,2004,SNOW,長野県,2781,PPJT,長野県
 GOLD,smile,1441,PASTEL,長野県,2095,PASTEL,長野県,2873,PPJT,長野県
-GOLD,Sense 2007,1413,SNOW,長野県,2116,NORI2T,長野県,2803,$KIVRI,長野県
+GOLD,Sense 2007,1413,SNOW,長野県,2116,M321M,長野県,2834,PPJT,長野県
 GOLD,Second Heaven,851,LETUSS,長野県,1402,CELICA,長野県,2103,PPJT,長野県
 GOLD,Roulette,892,SNOW,長野県,1284,SNOW,長野県,2089,PPJT,長野県
 GOLD,PHOTONGENIC,1251,SNOW,長野県,1845,HICHEW,長野県,2271,242-ME,長野県
@@ -373,7 +373,7 @@ DJ TROOPERS,走馬灯 -The Last Song-,513,HIROTA,長野県,913,HIROTA,長野県,
 DJ TROOPERS,華爛漫 -Flowers-,961,SNOW,長野県,1519,INYUK,長野県,2031,PPJT,長野県
 DJ TROOPERS,少年A,1220,SNOW,長野県,2077,JZA80,長野県,2604,OBINEX,長野県
 DJ TROOPERS,ミラージュ・レジデンス,1018,JB23W,長野県,1953,0$D,長野県,2483,0DAICO,長野県
-DJ TROOPERS,マチ子の唄,454,BLAST,長野県,1296,PASTEL,長野県,1761,242-ME,長野県
+DJ TROOPERS,マチ子の唄,454,BLAST,長野県,1296,PASTEL,長野県,1767,242-ME,長野県
 DJ TROOPERS,エコ爺,366,KWAMIR,長野県,1183,COOL,長野県,1808,$KIVRI,長野県
 DJ TROOPERS,Wanna Party?,750,SNOW,長野県,1161,PASTEL,長野県,1493,$KIVRI,長野県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3216,PPJT,長野県
@@ -387,12 +387,12 @@ DJ TROOPERS,switch,785,242-ME,長野県,1426,VECTOR,長野県,2075,PPJT,長野�
 DJ TROOPERS,STEEL NEEDLE,1068,SNOW,長野県,2042,JZA80,長野県,2422,PPJT,長野県
 DJ TROOPERS,State Of The Art,1100,PPJT,長野県,1552,PPJT,長野県,3074,PPJT,長野県
 DJ TROOPERS,SOUND OF GIALLARHORN,1302,SNOW,長野県,2595,0$D,長野県,3187,.$TORM,長野県
-DJ TROOPERS,scar in the earth,642,SNOW,長野県,1024,SNOW,長野県,1478,2KADA.,長野県
+DJ TROOPERS,scar in the earth,642,SNOW,長野県,1024,SNOW,長野県,1511,PPJT,長野県
 DJ TROOPERS,satfinal,1075,PASTEL,長野県,1411,PASTEL,長野県,1898,MIMIQ,長野県
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",958,RAC.#9,長野県,1601,BOTSKA,長野県,2486,PPJT,長野県
 DJ TROOPERS,Ristaccia,1131,SNOW,長野県,1800,ATU,長野県,2693,PPJT,長野県
 DJ TROOPERS,REMINISCENCE,1089,LACHE,長野県,1696,SNOW,長野県,2261,ASMR18,長野県
-DJ TROOPERS,PROMISE FOR LIFE,601,HIROTA,長野県,1487,PASTEL,長野県,1728,PASTEL,長野県
+DJ TROOPERS,PROMISE FOR LIFE,601,HIROTA,長野県,1488,PASTEL,長野県,1728,PASTEL,長野県
 DJ TROOPERS,PARANOiA ～HADES～,992,0DAICO,長野県,1754,TES2,長野県,2626,PPJT,長野県
 DJ TROOPERS,oratio,1332,SNOW,長野県,1946,JZA80,長野県,2922,PPJT,長野県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,984,SNOW,長野県,1745,0$D,長野県,2581,PPJT,長野県
@@ -409,7 +409,7 @@ DJ TROOPERS,four pieces of heaven,848,KAZ64,長野県,1636,JZA80,長野県,2175,
 DJ TROOPERS,evergreen,934,TROMBE,長野県,980,GETTI,長野県,1885,ASMR18,長野県
 DJ TROOPERS,end of world,780,HSYGG,長野県,1578,SNOW,長野県,2466,PPJT,長野県
 DJ TROOPERS,Do it!! Do it!!,900,WAKA,長野県,1466,HOL*-X,長野県,1870,PPJT,長野県
-DJ TROOPERS,Digitank System,943,PPJT,長野県,1548,ASMR18,長野県,2057,PPJT,長野県
+DJ TROOPERS,Digitank System,943,PPJT,長野県,1559,PPJT,長野県,2057,PPJT,長野県
 DJ TROOPERS,Dazzlin' Darlin,827,HIROTA,長野県,1393,PASTEL,長野県,2214,$KIVRI,長野県
 DJ TROOPERS,Darling my LUV,674,SNOW,長野県,890,KNOB.A,長野県,1365,ASMR18,長野県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3277,PPJT,長野県
@@ -428,7 +428,7 @@ EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3130,AZURE*,
 EMPRESS,凛として咲く花の如く,1273,SNOW,長野県,2083,NONONO,長野県,2769,PPJT,長野県
 EMPRESS,不沈艦CANDY,1139,SNOW,長野県,1819,0$D,長野県,3308,PPJT,長野県
 EMPRESS,ミッドナイト堕天使,994,PPJT,長野県,1628,PPJT,長野県,2759,PPJT,長野県
-EMPRESS,ハリツヤランデヴー,954,ASMR18,長野県,2133,PPJT,長野県,2439,ASMR18,長野県
+EMPRESS,ハリツヤランデヴー,954,ASMR18,長野県,2133,PPJT,長野県,2482,PPJT,長野県
 EMPRESS,まほろば,760,3NATSU,長野県,1345,SNOW,長野県,1980,M416,長野県
 EMPRESS,"You'll say ""Now!""",1150,TROMBE,長野県,1720,JZA80,長野県,2490,PPJT,長野県
 EMPRESS,Y&Co. is dead or alive,1095,PPJT,長野県,1758,PPJT,長野県,2709,PPJT,長野県
@@ -461,10 +461,10 @@ EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1035,SNOW,長野県,1820,$KIVRI,長野�
 EMPRESS,Colorful Cookie,1132,PASTEL,長野県,2216,DNCHAN,長野県,3485,PPJT,長野県
 EMPRESS,CaptivAte2～覚醒～,1052,SNOW,長野県,1587,0$D,長野県,2394,PPJT,長野県
 EMPRESS,BRIDAL FESTIVAL !!!,913,SNOW,長野県,1388,VECTOR,長野県,2020,0DAICO,長野県
-EMPRESS,BITTER CHOCOLATE STRIKER,1082,PASTEL,長野県,2143,NORI2T,長野県,3822,$KIVRI,長野県
+EMPRESS,BITTER CHOCOLATE STRIKER,1082,PASTEL,長野県,2143,M321M,長野県,3822,$KIVRI,長野県
 EMPRESS,Bahram Attack-猫叉Master Remix-,1060,PASTEL,長野県,1874,PASTEL,長野県,2590,AZURE*,長野県
 EMPRESS,B4U(BEMANI FOR YOU MIX),1126,SNOW,長野県,2095,CLAIRE,長野県,3513,PPJT,長野県
-EMPRESS,Arabian Rave Night,1236,TROMBE,長野県,2118,JZA80,長野県,2945,PPJT,長野県
+EMPRESS,Arabian Rave Night,1236,TROMBE,長野県,2133,ATU,長野県,2945,PPJT,長野県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,993,TROMBE,長野県,1643,DEBU,長野県,2533,PPJT,長野県
 EMPRESS,ALL I NEED YOUR LOVE,1046,SNOW,長野県,1508,25MAKI,長野県,2110,PPJT,長野県
 EMPRESS,3y3s,1435,SNOW,長野県,2375,JZA80,長野県,3423,PPJT,長野県
@@ -489,7 +489,7 @@ SIRIUS,Red. by Full Metal Jacket,1014,PASTEL,長野県,1953,YOU.,長野県,3132,
 SIRIUS,Raison d'?tre～交差する宿命～,1206,PASTEL,長野県,2200,JZA80,長野県,2685,PPJT,長野県
 SIRIUS,quell～the seventh slave～,932,SNOW,長野県,1594,25MAKI,長野県,3134,PPJT,長野県
 SIRIUS,Programmed Sun,1055,SNOW,長野県,1703,J.H,長野県,2545,PPJT,長野県
-SIRIUS,NoN-Fiction Story!,699,HIROTA,長野県,1348,PASTEL,長野県,2191,PPJT,長野県
+SIRIUS,NoN-Fiction Story!,699,HIROTA,長野県,1348,PASTEL,長野県,2196,PPJT,長野県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1252,SNOW,長野県,1969,0DAICO,長野県,2660,PPJT,長野県
 SIRIUS,mosaic,1449,PASTEL,長野県,2008,DNCHAN,長野県,2988,PPJT,長野県
 SIRIUS,MIRACLE MEETS,907,SNOW,長野県,1486,SIYU,長野県,2210,$KIVRI,長野県
@@ -499,7 +499,7 @@ SIRIUS,Keep it-秋葉工房mix-,995,SNOW,長野県,1575,0$D,長野県,1852,PPJT,
 SIRIUS,IN THE NAME OF LOVE,725,25MAKI,長野県,1240,SNOW,長野県,1867,SOOR&,長野県
 SIRIUS,Hydrogen Blueback,992,SNOW,長野県,1516,LAVA,長野県,2191,GAZER,長野県
 SIRIUS,GOLDEN CROSS,1001,AMANDA,長野県,2018,4-EYES,長野県,3451,PPJT,長野県
-SIRIUS,GALGALIM,596,L.FORD,長野県,1856,JZA80,長野県,2331,PPJT,長野県
+SIRIUS,GALGALIM,596,L.FORD,長野県,1856,JZA80,長野県,2349,PPJT,長野県
 SIRIUS,G59,1693,SNOW,長野県,2168,JZA80,長野県,3827,PPJT,長野県
 SIRIUS,EXUSIA,1151,NATSU,長野県,2560,JZA80,長野県,3796,PPJT,長野県
 SIRIUS,Evans,1218,SNOW,長野県,2206,PPJT,長野県,2625,.$TORM,長野県
@@ -521,16 +521,16 @@ SIRIUS,bass 2 bass,705,SNOW,長野県,1195,Y!,長野県,1855,PPJT,長野県
 SIRIUS,Bad Maniacs,1260,SNOW,長野県,1765,JZA80,長野県,3220,PPJT,長野県
 SIRIUS,Almagest,994,PASTEL,長野県,2153,.$TORM,長野県,3080,PPJT,長野県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1152,SNOW,長野県,1719,0$D,長野県,2320,PPJT,長野県
-Resort Anthem,黒髪乱れし修羅となりて,542,HSYGG,長野県,1867,SKMT,長野県,3407,PPJT,長野県
+Resort Anthem,黒髪乱れし修羅となりて,784,SNOW,長野県,1867,SKMT,長野県,3407,PPJT,長野県
 Resort Anthem,灼熱Beach Side Bunny,1098,PASTEL,長野県,1926,PPJT,長野県,3059,PPJT,長野県
 Resort Anthem,旅人リラン,1124,0$D,長野県,1874,S.O.S.,長野県,2558,$KIVRI,長野県
 Resort Anthem,夕焼け ～Fading Day～,958,SNOW,長野県,1942,0$D,長野県,2772,PPJT,長野県
 Resort Anthem,中華急行,328,HIROTA,長野県,1467,SNOW,長野県,2306,PPJT,長野県
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,792,ZED,長野県,1305,SNOW,長野県,1743,SOOR&,長野県
-Resort Anthem,おおきなこえで,447,SNOW,長野県,980,PASTEL,長野県,1484,PPJT,長野県
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,792,ZED,長野県,1305,SNOW,長野県,1755,ATU,長野県
+Resort Anthem,おおきなこえで,452,PASTEL,長野県,980,PASTEL,長野県,1484,PPJT,長野県
 Resort Anthem,ZETA～素数の世界と超越者～,494,RAIN*,長野県,2063,PASTEL,長野県,3086,PPJT,長野県
 Resort Anthem,XANADU OF TWO,931,FF87,長野県,1720,PASTEL,長野県,2734,PPJT,長野県
-Resort Anthem,Wuv U,409,HIROTA,長野県,1252,SNOW,長野県,1669,M416,長野県
+Resort Anthem,Wuv U,415,HIROTA,長野県,1252,SNOW,長野県,1669,M416,長野県
 Resort Anthem,WISE UP!,331,BLAST,長野県,1134,PASTEL,長野県,1589,PPJT,長野県
 Resort Anthem,WE LOVE SHONAN,0,,未設定,1568,SNOW,長野県,2132,PPJT,長野県
 Resort Anthem,Watch Out Pt.2,1158,PASTEL,長野県,1818,GEMINI,長野県,2797,PPJT,長野県
@@ -597,7 +597,7 @@ Lincle,YAKSHA,1225,0$D,長野県,2223,JZA80,長野県,3869,PPJT,長野県
 Lincle,WONDER WALKER,807,KA?ME!,長野県,1816,CLAIRE,長野県,3758,PPJT,長野県
 Lincle,Voxane,306,YUKI,長野県,1121,GEO,長野県,1683,ASMR18,長野県
 Lincle,Todestrieb,1117,PASTEL,長野県,1856,ABE,長野県,3409,PPJT,長野県
-Lincle,TITANS RETURN,491,MSRO,長野県,1477,YASSU-,長野県,2479,PPJT,長野県
+Lincle,TITANS RETURN,491,MSRO,長野県,1477,YASSU-,長野県,2481,PPJT,長野県
 Lincle,Thunderbolt,955,KAZ64,長野県,1789,AKIKAN,長野県,3725,PPJT,長野県
 Lincle,The Sampling Paradise,775,KAZ64,長野県,1715,SIYU,長野県,2970,PPJT,長野県
 Lincle,The Limbo,1112,SNOW,長野県,1937,AZURE*,長野県,3309,PPJT,長野県
@@ -608,8 +608,8 @@ Lincle,SHADE,1052,PASTEL,長野県,1932,PASTEL,長野県,2884,PPJT,長野県
 Lincle,Several Words,613,SNOW,長野県,1389,SNOW,長野県,2172,PPJT,長野県
 Lincle,Scharfrichter,829,KAZ64,長野県,1534,SNOW,長野県,2848,$KIVRI,長野県
 Lincle,SA.YO.NA.RA. SUPER STAR,326,KASIMA,長野県,1191,SNOW,長野県,1633,.$TORM,長野県
-Lincle,Round and Round,782,SNOW,長野県,1195,PASTEL,長野県,2131,PPJT,長野県
-Lincle,RESISTANCE,584,ZED,長野県,1308,SNOW,長野県,2290,NORI2T,長野県
+Lincle,Round and Round,782,SNOW,長野県,1224,PASTEL,長野県,2131,PPJT,長野県
+Lincle,RESISTANCE,584,ZED,長野県,1308,SNOW,長野県,2290,M321M,長野県
 Lincle,Release The Music,684,HSYGG,長野県,1288,KMP,長野県,2121,PPJT,長野県
 Lincle,Quick Silver,739,AMANDA,長野県,1713,CLAIRE,長野県,2617,$KIVRI,長野県
 Lincle,quaver♪,704,HIROTA,長野県,2065,DNCHAN,長野県,3375,PPJT,長野県
@@ -714,7 +714,7 @@ tricoro,ILIAS,776,25MAKI,長野県,1216,25MAKI,長野県,2134,CALPIS,長野県
 tricoro,I know You know,479,Y.Y,長野県,943,GEO,長野県,1871,PPJT,長野県
 tricoro,Howling†,0,,未設定,0,,未設定,2574,PPJT,長野県
 tricoro,Howling,555,PASTEL,長野県,1207,KMP,長野県,2107,PPJT,長野県
-tricoro,Hollywood Galaxy,1066,25MAKI,長野県,1976,JZA80,長野県,2541,MIMIQ,長野県
+tricoro,Hollywood Galaxy,1066,25MAKI,長野県,1976,JZA80,長野県,2693,PPJT,長野県
 tricoro,GRADIUS 2012,892,TROMBE,長野県,1576,SNOW,長野県,2710,PPJT,長野県
 tricoro,GAIA,1002,TROMBE,長野県,2076,KAIGI,長野県,3283,PPJT,長野県
 tricoro,Fly you to the star,775,PASTEL,長野県,1589,PASTEL,長野県,2235,ERUA$A,長野県
@@ -766,20 +766,20 @@ SPADA,refractive index,725,HIROTA,長野県,1343,SNOW,長野県,2658,PPJT,長野
 SPADA,Recollection,1182,PASTEL,長野県,1724,PASTEL,長野県,2138,PASTEL,長野県
 SPADA,rainbow guitar weeps,816,TSUN,長野県,1634,GLICO3,長野県,2691,$KIVRI,長野県
 SPADA,ra'am,1161,SNOW,長野県,1770,JZA80,長野県,2673,PPJT,長野県
-SPADA,PUNISHER,1144,PASTEL,長野県,1966,0$D,長野県,3548,PPJT,長野県
+SPADA,PUNISHER,1144,PASTEL,長野県,1970,PASTEL,長野県,3548,PPJT,長野県
 SPADA,Pharaoh,627,SNOW,長野県,1311,SNOW,長野県,2450,PPJT,長野県
 SPADA,Overload Frontier,759,SNOW,長野県,1769,PASTEL,長野県,2512,$KIVRI,長野県
 SPADA,Odin,807,PASTEL,長野県,1411,PASTEL,長野県,1993,CALPIS,長野県
-SPADA,NPC World,659,MSRO,長野県,1470,SNOW,長野県,2151,8PIRON,長野県
+SPADA,NPC World,659,MSRO,長野県,1470,SNOW,長野県,2182,3NATSU,長野県
 SPADA,Miracle 5ympho X,720,KAZ64,長野県,1260,SNOW,長野県,2574,ERUA$A,長野県
 SPADA,MAGIC & LOVE,650,AAAAAA,長野県,1707,CLAIRE,長野県,2908,PPJT,長野県
-SPADA,MAD ATTACK,657,SNOW,長野県,1129,R.KUZE,長野県,1846,NORI2T,長野県
+SPADA,MAD ATTACK,682,PASTEL,長野県,1129,R.KUZE,長野県,1846,M321M,長野県
 SPADA,m1dy Deluxe,1098,SNOW,長野県,1710,0$D,長野県,2566,PPJT,長野県
 SPADA,M.D.Injection,596,HIROTA,長野県,1150,KRO,長野県,2423,PPJT,長野県
 SPADA,Lighting Shower,788,SNOW,長野県,1192,CATSBS,長野県,2212,SOOR&,長野県
 SPADA,Last Dance,1104,SNOW,長野県,2019,PPJT,長野県,3200,PPJT,長野県
 SPADA,LA FESTA LA VITA!!,826,SNOW,長野県,1665,SIYU,長野県,2748,RAZOR,長野県
-SPADA,KHAMEN BREAK,413,HIYUKI,長野県,1214,GITEN,長野県,2434,$KIVRI,長野県
+SPADA,KHAMEN BREAK,413,HIYUKI,長野県,1236,KMP,長野県,2434,$KIVRI,長野県
 SPADA,KAISER PHOENIX,1306,SNOW,長野県,2161,JZA80,長野県,3201,PPJT,長野県
 SPADA,IX,1264,SNOW,長野県,2337,SOOR&,長野県,3786,PPJT,長野県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3296,.$TORM,長野県
@@ -877,10 +877,10 @@ PENDUAL,Invitation from Mr.C,1122,JOE,長野県,1499,ATU,長野県,2622,$KIVRI,�
 PENDUAL,In The Breeze,636,SNOW,長野県,1125,SNOW,長野県,1768,PPJT,長野県
 PENDUAL,IMPLANTATION,643,SNOW,長野県,1590,JZA80,長野県,2195,$KIVRI,長野県
 PENDUAL,illuminate,610,TROMBE,長野県,1396,SNOW,長野県,2245,KAKA73,長野県
-PENDUAL,Hello Happiness,863,SNOW,長野県,1562,0$D,長野県,2325,PPJT,長野県
+PENDUAL,Hello Happiness,863,SNOW,長野県,1562,0$D,長野県,2334,PPJT,長野県
 PENDUAL,HELL SCAPER -Last Escape Remix-,941,SNOW,長野県,1724,SNOW,長野県,2788,PPJT,長野県
 PENDUAL,GUILTY,897,TROMBE,長野県,1293,APPLE*,長野県,1801,YKR,長野県
-PENDUAL,Gravigazer,903,TROMBE,長野県,1793,JZA80,長野県,2834,TES2,長野県
+PENDUAL,Gravigazer,903,TROMBE,長野県,1793,JZA80,長野県,2925,PPJT,長野県
 PENDUAL,Flashes,939,25MAKI,長野県,1690,0$D,長野県,3178,$KIVRI,長野県
 PENDUAL,FANTASTIC THREE,1129,GITEN,長野県,2150,JZA80,長野県,2955,GAZER,長野県
 PENDUAL,fallen leaves -IIDX edition-,1141,TROMBE,長野県,1941,HOL*-X,長野県,3324,PPJT,長野県
@@ -962,7 +962,7 @@ copula,NINJA IS DEAD IIDX ver.,1223,PPJT,長野県,1932,PPJT,長野県,2981,PPJT
 copula,Nightmare before oversleep,1151,SNOW,長野県,1832,JZA80,長野県,2928,PPJT,長野県
 copula,NANAIRO,998,GITEN,長野県,1653,EDMM,長野県,2546,PPJT,長野県
 copula,Musik LoverZ,1072,PPJT,長野県,1432,PPJT,長野県,2473,PPJT,長野県
-copula,M4K3 1T B0UNC3,1405,PPJT,長野県,2122,PPJT,長野県,2968,PPJT,長野県
+copula,M4K3 1T B0UNC3,1405,PPJT,長野県,2122,PPJT,長野県,3001,PPJT,長野県
 copula,La dolce primavera,715,PPJT,長野県,1381,PPJT,長野県,2161,PPJT,長野県
 copula,Konzert V,1276,PASTEL,長野県,2139,PASTEL,長野県,3289,PPJT,長野県
 copula,Journey,698,PPJT,長野県,1257,PPJT,長野県,1877,PPJT,長野県
@@ -972,10 +972,10 @@ copula,Grand Chariot,1162,PPJT,長野県,1896,PPJT,長野県,3422,PPJT,長野県
 copula,Godspeed,1079,PPJT,長野県,1869,ATU,長野県,3096,PPJT,長野県
 copula,GOBBLE,491,PPJT,長野県,723,PPJT,長野県,1613,SOOR&,長野県
 copula,Go Faraway,1037,PPJT,長野県,1524,PPJT,長野県,2472,PPJT,長野県
-copula,Glitch Nerds,1038,PPJT,長野県,1447,PPJT,長野県,2117,NORI2T,長野県
+copula,Glitch Nerds,1038,PPJT,長野県,1447,PPJT,長野県,2117,M321M,長野県
 copula,GET READY!!,1063,PPJT,長野県,1475,0$D,長野県,2625,$KIVRI,長野県
 copula,GENERATE feat.綾倉盟,1141,PPJT,長野県,1776,PPJT,長野県,2338,PPJT,長野県
-copula,Exchange Place,770,PPJT,長野県,1278,PPJT,長野県,1711,NORI2T,長野県
+copula,Exchange Place,770,PPJT,長野県,1278,PPJT,長野県,1711,M321M,長野県
 copula,Everlasting Last,840,PPJT,長野県,1605,INYUK,長野県,2203,PPJT,長野県
 copula,Dynamite,1213,PPJT,長野県,2380,TES2,長野県,3760,PPJT,長野県
 copula,Donkey Donk,1198,PPJT,長野県,1595,NOIX,長野県,2260,PPJT,長野県
@@ -1034,10 +1034,10 @@ SINOBUZ,Steel Edge,888,SNOW,長野県,1435,ATU,長野県,3088,$KIVRI,長野県
 SINOBUZ,Snakey Kung-fu,1043,25MAKI,長野県,2190,PPJT,長野県,3385,PPJT,長野県
 SINOBUZ,Sky High,1056,E-4ON,長野県,2379,PPJT,長野県,3771,PPJT,長野県
 SINOBUZ,SINOBUZ Fantasy,998,SNOW,長野県,1574,ATU,長野県,2309,*MIRY,長野県
-SINOBUZ,shuriken,778,PASTEL,長野県,1116,PASTEL,長野県,2545,PPJT,長野県
+SINOBUZ,shuriken,784,PASTEL,長野県,1116,PASTEL,長野県,2545,PPJT,長野県
 SINOBUZ,Shoot'Em All,783,SNOW,長野県,1318,JOE,長野県,2442,PPJT,長野県
 SINOBUZ,SEQUENCE CAT,1027,E-4ON,長野県,2221,PPJT,長野県,2841,PPJT,長野県
-SINOBUZ,Selfish Sweet,649,PPJT,長野県,929,PASTEL,長野県,1623,S.O.S.,長野県
+SINOBUZ,Selfish Sweet,649,PPJT,長野県,929,PASTEL,長野県,1693,PPJT,長野県
 SINOBUZ,Seize the Day,762,PASTEL,長野県,1313,PASTEL,長野県,2153,PPJT,長野県
 SINOBUZ,Seaside Labyrinth,632,SNOW,長野県,1155,KRO,長野県,1810,AZURE*,長野県
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,763,NEKO-K,長野県,1450,LAVA,長野県,2283,SOOR&,長野県
@@ -1082,7 +1082,7 @@ SINOBUZ,BREAK OVER,888,SNOW,長野県,1466,INAMA2,長野県,2341,PPJT,長野県
 SINOBUZ,Beyond The Seven,652,I68S,長野県,1260,LETUSS,長野県,2672,PPJT,長野県
 SINOBUZ,Believe in you,1154,SNOW,長野県,1826,PASTEL,長野県,2357,.$TORM,長野県
 SINOBUZ,Beat Juggling Mix,805,COOL,長野県,1478,SNOW,長野県,2144,PPJT,長野県
-SINOBUZ,Be A Star,952,SNOW,長野県,1826,PPJT,長野県,2792,PPJT,長野県
+SINOBUZ,Be A Star,952,SNOW,長野県,1826,PPJT,長野県,2794,PPJT,長野県
 SINOBUZ,BabeL ～Grand Story～,1135,KNOB.A,長野県,2130,PPJT,長野県,2770,PPJT,長野県
 SINOBUZ,AsiaN distractive,1179,SNOW,長野県,1653,PASTEL,長野県,2607,PPJT,長野県
 SINOBUZ,Around The Galaxy,1091,SNOW,長野県,1999,ATU,長野県,3262,RAZOR,長野県
@@ -1102,13 +1102,13 @@ CANNON BALLERS,命の標本,696,E-4ON,長野県,1558,25MAKI,長野県,2557,ASMR1
 CANNON BALLERS,共犯へヴンズコード,446,NEV,長野県,1211,O.R,長野県,2191,MIMIQ,長野県
 CANNON BALLERS,ラストセンチュリーメランコリック,811,SNOW,長野県,1453,TROMBE,長野県,2067,ASMR18,長野県
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),996,SNOW,長野県,1845,ATU,長野県,2779,PPJT,長野県
-CANNON BALLERS,バスルーム ロマンス,920,E-4ON,長野県,1269,CHAL.,長野県,2412,PPJT,長野県
+CANNON BALLERS,バスルーム ロマンス,920,E-4ON,長野県,1369,JOE,長野県,2412,PPJT,長野県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,800,E-4ON,長野県,1751,YKR,長野県,2529,PPJT,長野県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,846,SNOW,長野県,1517,PASTEL,長野県,2429,PPJT,長野県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,1001,SNOW,長野県,1478,25MAKI,長野県,2057,M416,長野県
 CANNON BALLERS,シムルグの目醒め,1387,YUCHA*,長野県,2360,PPJT,長野県,3391,PPJT,長野県
 CANNON BALLERS,エディブルフラワーの独白,784,SNOW,長野県,1476,HICHEW,長野県,2171,.,長野県
-CANNON BALLERS,うさ☆かめ 大戦争！,929,SNOW,長野県,1481,VISCOL,長野県,2463,PPJT,長野県
+CANNON BALLERS,うさ☆かめ 大戦争！,929,SNOW,長野県,1555,ATU,長野県,2463,PPJT,長野県
 CANNON BALLERS,Xperanza,1341,DNCHAN,長野県,2449,PPJT,長野県,3118,PPJT,長野県
 CANNON BALLERS,VOX RUSH,1171,KANATA,長野県,2291,PPJT,長野県,3282,PPJT,長野県
 CANNON BALLERS,Usual Days-remix,915,E-4ON,長野県,1441,0DAICO,長野県,2589,$KIVRI,長野県
@@ -1144,10 +1144,10 @@ CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1231,25MAKI,長野県,19
 CANNON BALLERS,Initiation,1502,PPJT,長野県,2489,PPJT,長野県,3849,PPJT,長野県
 CANNON BALLERS,Illusionary Waterlily,1130,E-4ON,長野県,2282,PPJT,長野県,3454,PPJT,長野県
 CANNON BALLERS,I'm Coming (2017 Version),614,TUGARU,長野県,1205,25MAKI,長野県,2049,ASMR18,長野県
-CANNON BALLERS,I Love You,979,KAZ64,長野県,1585,D-S,長野県,2599,A4KAGA,長野県
+CANNON BALLERS,I Love You,979,KAZ64,長野県,1650,SIYU,長野県,2599,A4KAGA,長野県
 CANNON BALLERS,HYPE THE CORE,1103,PASTEL,長野県,2037,PPJT,長野県,2990,PPJT,長野県
 CANNON BALLERS,Hella Deep,635,SNOW,長野県,1013,CALPIS,長野県,1721,SOOR&,長野県
-CANNON BALLERS,HAT TRICK,835,SNOW,長野県,1426,CALPIS,長野県,2206,PPJT,長野県
+CANNON BALLERS,HAT TRICK,870,PPJT,長野県,1426,CALPIS,長野県,2206,PPJT,長野県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,406,BLAST,長野県,1225,JOE,長野県,1824,$KIVRI,長野県
 CANNON BALLERS,FUTURE is Dead,747,HOLLY,長野県,1401,YUCHA*,長野県,2174,$KIVRI,長野県
 CANNON BALLERS,From Time To Time,797,SAZA73,長野県,1844,NONONO,長野県,2521,PPJT,長野県
@@ -1155,7 +1155,7 @@ CANNON BALLERS,FREEDOM,824,RAY-R,長野県,1614,SNOW,長野県,2897,PPJT,長野�
 CANNON BALLERS,FIRE BALL,808,E-4ON,長野県,1550,0$D,長野県,2321,RAZOR,長野県
 CANNON BALLERS,Fervidex,806,E-4ON,長野県,1796,ASMR18,長野県,2695,PPJT,長野県
 CANNON BALLERS,Expanded !!,652,E-4ON,長野県,1353,E-4ON,長野県,2511,HUNT,長野県
-CANNON BALLERS,Exhaust Hype,904,RAY-R,長野県,1836,ATU,長野県,2718,$KIVRI,長野県
+CANNON BALLERS,Exhaust Hype,904,RAY-R,長野県,1836,ATU,長野県,2801,PPJT,長野県
 CANNON BALLERS,encounter,905,JOE,長野県,1700,INAMA2,長野県,3099,.$TORM,長野県
 CANNON BALLERS,EMERALDAS,1307,0$D,長野県,2441,PPJT,長野県,3425,PPJT,長野県
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,897,E-4ON,長野県,1354,SNOW,長野県,2563,PPJT,長野県
@@ -1176,7 +1176,7 @@ CANNON BALLERS,Around the Future,958,APPLE*,長野県,1468,BOTSKA,長野県,2569
 CANNON BALLERS,Arca,896,SNOW,長野県,1764,DELTA,長野県,3105,PPJT,長野県
 CANNON BALLERS,Antigravity,923,E-4ON,長野県,2033,PPJT,長野県,3027,PPJT,長野県
 CANNON BALLERS,ANCHOR,1327,0$D,長野県,2528,PPJT,長野県,3537,PPJT,長野県
-CANNON BALLERS,ANAGMA,934,E-4ON,長野県,1776,47BBBB,長野県,2638,PPJT,長野県
+CANNON BALLERS,ANAGMA,934,E-4ON,長野県,1831,PPJT,長野県,2638,PPJT,長野県
 CANNON BALLERS,Amor De Verao,764,SNOW,長野県,1360,CLAIRE,長野県,2271,$KIVRI,長野県
 CANNON BALLERS,Alpheratz,436,HIROTA,長野県,1020,PASTEL,長野県,2076,PPJT,長野県
 CANNON BALLERS,Acidiva 303,522,NANAMI,長野県,1186,109,長野県,2184,SOOR&,長野県
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1292,PASTEL,長野県,2295,PPJT,長野県
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,691,PASTEL,長野県,1529,ASMR18,長野県,2550,PPJT,長野県
 Rootage,ミストレス・アンに花束を,578,MR.CID,長野県,1013,ASMR18,長野県,1423,PPJT,長野県
 Rootage,ハードベース・フェスタ,1136,ASMR18,長野県,1804,ASMR18,長野県,2837,PPJT,長野県
-Rootage,セカンドピアス,602,HIROTA,長野県,1104,ASMR18,長野県,2017,PPJT,長野県
+Rootage,セカンドピアス,603,PPJT,長野県,1108,PPJT,長野県,2019,PPJT,長野県
 Rootage,サクラあっぱれーしょん,632,PPJT,長野県,1561,PPJT,長野県,2317,PPJT,長野県
 Rootage,グラナダの風,786,0$D,長野県,1215,MIMIQ,長野県,1837,PPJT,長野県
 Rootage,Yum Yum Jelly,794,PPJT,長野県,1591,PPJT,長野県,2377,PPJT,長野県
@@ -1251,7 +1251,7 @@ Rootage,dAuntl3ss,1083,PPJT,長野県,1989,PPJT,長野県,3459,PPJT,長野県
 Rootage,Cranberry City ft. Luschel,851,MR.CID,長野県,1569,YOU.,長野県,2407,PPJT,長野県
 Rootage,CoMAAAAAAA,1236,JOE,長野県,2085,CALPIS,長野県,2383,PPJT,長野県
 Rootage,Catch Our Fire!,1299,SNOW,長野県,2303,PPJT,長野県,3685,PPJT,長野県
-Rootage,Carmina,1260,0$D,長野県,2341,ASMR18,長野県,3680,PPJT,長野県
+Rootage,Carmina,1260,0$D,長野県,2477,PPJT,長野県,3680,PPJT,長野県
 Rootage,BLOSSOM,1067,0$D,長野県,1645,ASMR18,長野県,2522,PPJT,長野県
 Rootage,Angels & Demons,925,PPJT,長野県,1797,PPJT,長野県,2433,PPJT,長野県
 Rootage,AGAiN,1013,0$D,長野県,1598,MIMIQ,長野県,2293,PPJT,長野県
