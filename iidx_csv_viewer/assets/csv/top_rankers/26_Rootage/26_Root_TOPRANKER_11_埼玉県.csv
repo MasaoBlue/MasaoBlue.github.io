@@ -81,9 +81,9 @@
 6th style,SOMETHING WONDERFUL,903,EZR,埼玉県,1335,AZARA4,埼玉県,1990,SERENA,埼玉県
 6th style,route 80s,864,JOLMIN,埼玉県,1122,CANYON,埼玉県,1510,SERENA,埼玉県
 6th style,rottel-da-sun,753,SCIAS,埼玉県,1247,HARU,埼玉県,1856,1-PIN,埼玉県
-6th style,NEMESIS,965,DEZIST,埼玉県,1444,KUROMI,埼玉県,1894,TAMNEN,埼玉県
+6th style,NEMESIS,965,DEZIST,埼玉県,1562,*LAB*,埼玉県,1894,TAMNEN,埼玉県
 6th style,Linus,938,DEZIST,埼玉県,1466,WA$DEE,埼玉県,2167,1-PIN,埼玉県
-6th style,G2,1340,JSN,埼玉県,1695,YUKI,埼玉県,2301,BISCOD,埼玉県
+6th style,G2,1340,JSN,埼玉県,1700,NABE,埼玉県,2301,BISCOD,埼玉県
 6th style,Frozen Ray (original mix),1293,AIRSUN,埼玉県,1700,-ASK-.,埼玉県,1787,BISCOD,埼玉県
 6th style,Free Style,879,DEZIST,埼玉県,1043,HIRO-G,埼玉県,1309,MIKU.N,埼玉県
 6th style,fly through the night,876,EZR,埼玉県,1328,AZARA4,埼玉県,1702,SERENA,埼玉県
@@ -95,7 +95,7 @@
 6th style,"19,November",1031,JOLMIN,埼玉県,1393,GANTAI,埼玉県,1788,SAMES,埼玉県
 7th style,革命,703,EZR,埼玉県,1891,VODKA,埼玉県,2335,BISCOD,埼玉県
 7th style,ZERO-ONE,1010,MARISA,埼玉県,1630,SH,埼玉県,2226,BISCOD,埼玉県
-7th style,traces,1500,WA$DEE,埼玉県,1761,IKALGA,埼玉県,2117,ROUGAI,埼玉県
+7th style,traces,1500,WA$DEE,埼玉県,1790,$AI.,埼玉県,2117,ROUGAI,埼玉県
 7th style,Tomorrow Perfume,1222,EZR,埼玉県,1854,-ASK-.,埼玉県,2103,ROUGAI,埼玉県
 7th style,stoic,1552,SNGK,埼玉県,2354,AZARA4,埼玉県,2559,TAMNEN,埼玉県
 7th style,Spica,642,EZR,埼玉県,1376,CANYON,埼玉県,2253,TAMNEN,埼玉県
@@ -143,7 +143,7 @@
 8th style,airflow,552,$AI.,埼玉県,743,DIO!!,埼玉県,1421,SERENA,埼玉県
 8th style,abstract,1226,EZR,埼玉県,1510,IIDX26,埼玉県,1883,BISCOD,埼玉県
 9th style,真夏の花・真夏の夢,815,EZR,埼玉県,1101,B0Y.,埼玉県,1472,K.F,埼玉県
-9th style,ライオン好き,646,EZR,埼玉県,1176,EZ2AC,埼玉県,1504,SERENA,埼玉県
+9th style,ライオン好き,653,EZ2AC,埼玉県,1176,EZ2AC,埼玉県,1504,SERENA,埼玉県
 9th style,SWEETEST SAVAGE,653,EZR,埼玉県,1370,AZARA4,埼玉県,1822,1-PIN,埼玉県
 9th style,Sweet Sweet Magic,995,EZR,埼玉県,1467,B0Y.,埼玉県,2041,1-PIN,埼玉県
 9th style,STAR FIELD,699,EZR,埼玉県,1528,OSU.MI,埼玉県,1883,SERENA,埼玉県
@@ -165,7 +165,7 @@
 9th style,Karma,1290,MI-PAN,埼玉県,1604,CANYON,埼玉県,1817,MIKU.N,埼玉県
 9th style,I Was The One (80's EUROBEAT STYLE),789,EZR,埼玉県,1313,XEXION,埼玉県,1448,SERENA,埼玉県
 9th style,HYPER EUROBEAT (2DX style),1085,MI-PAN,埼玉県,1534,12345$,埼玉県,1949,BISCOD,埼玉県
-9th style,Golden Horn,712,EZ2AC,埼玉県,1174,MARISA,埼玉県,1478,AZARA4,埼玉県
+9th style,Golden Horn,712,EZ2AC,埼玉県,1188,2439-R,埼玉県,1478,AZARA4,埼玉県
 9th style,e-motion 2003 -romantic extra-,1248,MI-PAN,埼玉県,1501,OSU.MI,埼玉県,1994,SERENA,埼玉県
 9th style,Distress,1266,MI-PAN,埼玉県,1818,AZARA4,埼玉県,0,,未設定
 9th style,Cradle,883,EZR,埼玉県,1344,OSU.MI,埼玉県,1587,TAMNEN,埼玉県
@@ -185,7 +185,7 @@
 10th style,No.13,1568,OSU.MI,埼玉県,2652,AZARA4,埼玉県,3160,TAMNEN,埼玉県
 10th style,Narcissus At Oasis,777,EZR,埼玉県,1537,AZARA4,埼玉県,1650,BISCOD,埼玉県
 10th style,Lucy,957,EZ2AC,埼玉県,1747,AZARA4,埼玉県,2324,TAMNEN,埼玉県
-10th style,LOW,676,EZR,埼玉県,1376,OSU.MI,埼玉県,1711,ROUGAI,埼玉県
+10th style,LOW,676,EZR,埼玉県,1376,OSU.MI,埼玉県,1727,BISCOD,埼玉県
 10th style,Love Is Eternity,1201,DEZIST,埼玉県,1970,AZARA4,埼玉県,2415,BISCOD,埼玉県
 10th style,Innocent Walls,1584,MIZ,埼玉県,2498,TAMNEN,埼玉県,2828,TAMNEN,埼玉県
 10th style,HIGH,910,VAKA,埼玉県,1870,LUM*,埼玉県,2157,1-PIN,埼玉県
@@ -316,7 +316,7 @@ DistorteD,DUE TOMORROW,868,MARISA,埼玉県,1461,ROUGAI,埼玉県,1969,.LA,埼�
 DistorteD,Double Loving Heart,581,12345$,埼玉県,1283,B0Y.,埼玉県,1814,SERENA,埼玉県
 DistorteD,D.C.fish,950,TOHOKU,埼玉県,1885,OUF,埼玉県,2343,BISCOD,埼玉県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2772,YUI.OR,埼玉県
-DistorteD,CONTRACT,1200,MI-PAN,埼玉県,1603,ZINOWA,埼玉県,2076,YUI.OR,埼玉県
+DistorteD,CONTRACT,1200,MI-PAN,埼玉県,1603,FEL,埼玉県,2076,YUI.OR,埼玉県
 DistorteD,Concertino in Blue,810,JOLMIN,埼玉県,1568,STAFFY,埼玉県,2503,TAMNEN,埼玉県
 DistorteD,Broadbanded,882,EZR,埼玉県,1395,AZARA4,埼玉県,2011,BISCOD,埼玉県
 DistorteD,BOOM BOOM DISCO NIGHT,934,RECSEA,埼玉県,1846,AZARA4,埼玉県,2277,SERENA,埼玉県
@@ -348,14 +348,14 @@ GOLD,PHOTONGENIC,1306,JOLMIN,埼玉県,1890,Y&CCO.,埼玉県,2302,LOBMAG,埼玉�
 GOLD,op.31 叙情,578,2439-R,埼玉県,1278,TAMNEN,埼玉県,1563,SERENA,埼玉県
 GOLD,never…,821,12345$,埼玉県,1293,JOLMIN,埼玉県,1814,SERENA,埼玉県
 GOLD,METALLIC MIND,866,EZR,埼玉県,1423,AZARA4,埼玉県,1625,ROUGAI,埼玉県
-GOLD,Make Me Your Own,849,ORAN-G,埼玉県,1596,AZARA4,埼玉県,2114,K.F,埼玉県
+GOLD,Make Me Your Own,849,ORAN-G,埼玉県,1596,AZARA4,埼玉県,2117,1-PIN,埼玉県
 GOLD,Love Again...,576,EZR,埼玉県,779,EZR,埼玉県,1070,LOBMAG,埼玉県
 GOLD,LASER CRUSTER,1386,YAKSHA,埼玉県,2414,JNN,埼玉県,3224,TAMNEN,埼玉県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3775,LOBMAG,埼玉県
 GOLD,KAMAITACHI,1196,IIPIN,埼玉県,2004,AZARA4,埼玉県,2702,YUI.OR,埼玉県
 GOLD,INORI,1361,EZR,埼玉県,2538,L*N**,埼玉県,3183,TAMNEN,埼玉県
 GOLD,High School Love,859,EZR,埼玉県,1558,IIDXXX,埼玉県,2209,SERENA,埼玉県
-GOLD,heaven above,805,MI-PAN,埼玉県,1306,MYUTAN,埼玉県,1837,JNN,埼玉県
+GOLD,heaven above,805,MI-PAN,埼玉県,1306,MYUTAN,埼玉県,1846,1-PIN,埼玉県
 GOLD,GRID KNIGHT,782,MI-PAN,埼玉県,1966,EZ2AC,埼玉県,2630,SERENA,埼玉県
 GOLD,GOLD RUSH,1188,XEXION,埼玉県,1489,AZARA4,埼玉県,2363,YUI.OR,埼玉県
 GOLD,four-leaf,754,EZR,埼玉県,1202,BUTATA,埼玉県,1721,SERENA,埼玉県
@@ -395,7 +395,7 @@ DJ TROOPERS,REMINISCENCE,1260,EZR,埼玉県,1824,NABE,埼玉県,2347,1-PIN,埼�
 DJ TROOPERS,PROMISE FOR LIFE,592,!,埼玉県,1485,-ASK-.,埼玉県,1750,SERENA,埼玉県
 DJ TROOPERS,PARANOiA ～HADES～,1003,IDW,埼玉県,1833,1-PIN,埼玉県,2690,1-PIN,埼玉県
 DJ TROOPERS,oratio,1383,YAKSHA,埼玉県,2063,AZARA4,埼玉県,2953,YUI.OR,埼玉県
-DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,993,AIR-3L,埼玉県,1948,AZARA4,埼玉県,2585,ROUGAI,埼玉県
+DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,993,AIR-3L,埼玉県,1948,AZARA4,埼玉県,2598,BISCOD,埼玉県
 DJ TROOPERS,MENTAL MELTDOWN,1043,JOLMIN,埼玉県,2250,AZARA4,埼玉県,2775,BISCOD,埼玉県
 DJ TROOPERS,MENDES,1099,XEXION,埼玉県,2619,1-PIN,埼玉県,3569,YUI.OR,埼玉県
 DJ TROOPERS,MAX LOVE,1453,EZ2AC,埼玉県,2110,EZ2AC,埼玉県,2672,1-PIN,埼玉県
@@ -409,7 +409,7 @@ DJ TROOPERS,four pieces of heaven,849,JOLMIN,埼玉県,1717,NABE,埼玉県,2341,
 DJ TROOPERS,evergreen,981,JOLMIN,埼玉県,1371,AZARA4,埼玉県,1951,K.F,埼玉県
 DJ TROOPERS,end of world,914,JOLMIN,埼玉県,1726,HIDE,埼玉県,2485,BISCOD,埼玉県
 DJ TROOPERS,Do it!! Do it!!,966,SCIAS,埼玉県,1537,AZARA4,埼玉県,1922,TAMNEN,埼玉県
-DJ TROOPERS,Digitank System,879,NABE,埼玉県,1559,1-PIN,埼玉県,2104,TAMNEN,埼玉県
+DJ TROOPERS,Digitank System,879,NABE,埼玉県,1588,1-PIN,埼玉県,2104,TAMNEN,埼玉県
 DJ TROOPERS,Dazzlin' Darlin,900,12345$,埼玉県,1395,NABE,埼玉県,2227,SERENA,埼玉県
 DJ TROOPERS,Darling my LUV,684,EZR,埼玉県,952,DELSOL,埼玉県,1386,1-PIN,埼玉県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3332,YUI.OR,埼玉県
@@ -478,7 +478,7 @@ SIRIUS,たからもの,1269,12345$,埼玉県,1873,NABE,埼玉県,2237,1-PIN,埼�
 SIRIUS,かずあそび,526,EZR,埼玉県,1165,SYOW,埼玉県,1693,ROUGAI,埼玉県
 SIRIUS,The Story Begins,840,EZR,埼玉県,1757,DEZIST,埼玉県,2436,BISCOD,埼玉県
 SIRIUS,THE LAST STRIKER,1387,EZR,埼玉県,1900,CHA*MA,埼玉県,2629,1-PIN,埼玉県
-SIRIUS,Special One,848,EZR,埼玉県,1149,2439-R,埼玉県,1771,BISCOD,埼玉県
+SIRIUS,Special One,848,EZR,埼玉県,1167,SYOW,埼玉県,1771,BISCOD,埼玉県
 SIRIUS,Sorrows,814,12345$,埼玉県,1680,NABE,埼玉県,2469,MI-SHA,埼玉県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3637,TAMNEN,埼玉県
 SIRIUS,SOLID STATE SQUAD,1011,$AI.,埼玉県,2296,AZARA4,埼玉県,3567,YUI.OR,埼玉県
@@ -651,7 +651,7 @@ tricoro,音楽,843,TANUKI,埼玉県,1949,F-ZE6,埼玉県,2810,3STARS,埼玉県
 tricoro,狂イ咲ケ焔ノ華,1221,12345$,埼玉県,2372,LUM*,埼玉県,3601,TAMNEN,埼玉県
 tricoro,梅雪夜,881,EZR,埼玉県,1466,S!N.S,埼玉県,2153,1-PIN,埼玉県
 tricoro,朧†,0,,未設定,0,,未設定,2527,LOBMAG,埼玉県
-tricoro,朧,787,EZR,埼玉県,1475,WA$DEE,埼玉県,2114,SERENA,埼玉県
+tricoro,朧,787,EZR,埼玉県,1503,1-PIN,埼玉県,2114,SERENA,埼玉県
 tricoro,即席！脳直★ミュージックシステム,1046,EZR,埼玉県,1982,AZARA4,埼玉県,3581,TAMNEN,埼玉県
 tricoro,創世ノート,853,EZR,埼玉県,1847,B0Y.,埼玉県,2967,MIKU.N,埼玉県
 tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3852,YUI.OR,埼玉県
@@ -672,7 +672,7 @@ tricoro,Zirkfied,1018,EZR,埼玉県,2000,TIN&PO,埼玉県,3785,TAMNEN,埼玉県
 tricoro,ZED,925,EZR,埼玉県,1707,AZARA4,埼玉県,2765,1-PIN,埼玉県
 tricoro,YELLOW FROG from Steel Chronicle,582,EZR,埼玉県,1240,JOLMIN,埼玉県,1917,1-PIN,埼玉県
 tricoro,VEGA,1137,EZR,埼玉県,1998,CHAMA.,埼玉県,3105,TAMNEN,埼玉県
-tricoro,VALLIS-NERIA,1151,VAKA,埼玉県,2068,-KMBK-,埼玉県,2911,BISCOD,埼玉県
+tricoro,VALLIS-NERIA,1151,VAKA,埼玉県,2068,-KMBK-,埼玉県,2918,1-PIN,埼玉県
 tricoro,Valanga,1303,EZR,埼玉県,2152,HAZARD,埼玉県,3244,TAMNEN,埼玉県
 tricoro,True Blue,1094,EZR,埼玉県,2497,T.FULL,埼玉県,3745,YUI.OR,埼玉県
 tricoro,To my star,600,EZR,埼玉県,1241,YU-!,埼玉県,1753,SERENA,埼玉県
@@ -704,7 +704,7 @@ tricoro,Neonlights,663,EZR,埼玉県,1535,YAKSHA,埼玉県,2224,YUI.OR,埼玉県
 tricoro,mnemoniq,536,EZR,埼玉県,920,GANTAI,埼玉県,1305,SERENA,埼玉県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2790,SERENA,埼玉県
 tricoro,LUV CAN SAVE U,584,EZR,埼玉県,1392,SYOW,埼玉県,2129,1-PIN,埼玉県
-tricoro,Little Star,979,EZR,埼玉県,1713,ERILIN,埼玉県,3156,LOBMAG,埼玉県
+tricoro,Little Star,979,EZR,埼玉県,1746,43,埼玉県,3156,LOBMAG,埼玉県
 tricoro,Light and Cyber…,1044,EZR,埼玉県,2006,AZARA4,埼玉県,3117,1-PIN,埼玉県
 tricoro,Liberation,1466,EZR,埼玉県,2391,-ENA-,埼玉県,3695,KIDO..,埼玉県
 tricoro,JOMANDA,1102,DEMI,埼玉県,2383,HAZARD,埼玉県,3659,TAMNEN,埼玉県
@@ -734,7 +734,7 @@ tricoro,Ascalon,1117,EZR,埼玉県,1702,JOLMIN,埼玉県,2293,ROUGAI,埼玉県
 tricoro,8bit Princess,650,EZR,埼玉県,1379,IIDXXX,埼玉県,2621,1-PIN,埼玉県
 tricoro,405nm (Ryu☆mix),918,EZR,埼玉県,1664,AIRI,埼玉県,2562,JNN,埼玉県
 SPADA,轟け！恋のビーンボール！！,1047,EZR,埼玉県,1884,MMTRQ,埼玉県,3567,TAMNEN,埼玉県
-SPADA,超!!遠距離らぶ?メ～ル,576,EZR,埼玉県,1480,YAKSHA,埼玉県,2670,TAMNEN,埼玉県
+SPADA,超!!遠距離らぶ?メ～ル,576,EZR,埼玉県,1502,LA,埼玉県,2670,TAMNEN,埼玉県
 SPADA,罪と罰,1081,EZR,埼玉県,1356,ELF,埼玉県,2165,SERENA,埼玉県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3380,TAMNEN,埼玉県
 SPADA,疾風迅雷,1146,LUM*,埼玉県,2133,TAMNEN,埼玉県,2869,1-PIN,埼玉県
@@ -788,7 +788,7 @@ SPADA,into the battlefield,741,EZR,埼玉県,1393,HIDE,埼玉県,2363,1-PIN,埼�
 SPADA,INSOMNIA,808,EZR,埼玉県,1828,AZARA4,埼玉県,3187,TAMNEN,埼玉県
 SPADA,Insane Techniques,745,EZR,埼玉県,1325,AZARA4,埼玉県,2449,BISCOD,埼玉県
 SPADA,Immortal,938,EZR,埼玉県,1717,BLYTHE,埼玉県,3126,1-PIN,埼玉県
-SPADA,Idola,1210,MI-PAN,埼玉県,2267,NABE,埼玉県,3584,TAMNEN,埼玉県
+SPADA,Idola,1210,MI-PAN,埼玉県,2273,-KMBK-,埼玉県,3584,TAMNEN,埼玉県
 SPADA,I will be back -オレは帰ってきた-,1008,EZR,埼玉県,1851,B0Y.,埼玉県,2928,BISCOD,埼玉県
 SPADA,Hypersonik,1016,EZR,埼玉県,1658,KM,埼玉県,2503,MIKU.N,埼玉県
 SPADA,HYENA,1158,DEZIST,埼玉県,1919,JOLMIN,埼玉県,2810,LOBMAG,埼玉県
@@ -896,7 +896,7 @@ PENDUAL,COLOSSEUM,583,EZR,埼玉県,1214,NABE,埼玉県,2290,1-PIN,埼玉県
 PENDUAL,cinder,852,EZR,埼玉県,1997,HAZARD,埼玉県,3124,TAMNEN,埼玉県
 PENDUAL,Chronos,866,EZR,埼玉県,1388,AZARA4,埼玉県,2352,BISCOD,埼玉県
 PENDUAL,Chrono Diver -PENDULUMs-,1425,96BEE,埼玉県,2729,UCHI-G,埼玉県,4313,TAMNEN,埼玉県
-PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4337,LOBMAG,埼玉県
+PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4342,1-PIN,埼玉県
 PENDUAL,CHRONO DIVER -NORNIR-,1163,B0Y.,埼玉県,2189,NICO,埼玉県,3094,TAMNEN,埼玉県
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2252,SERENA,埼玉県
 PENDUAL,chrono diver -fragment-,690,EZ2AC,埼玉県,1163,NABE,埼玉県,1789,SERENA,埼玉県
@@ -917,9 +917,9 @@ copula,追想快晴テーマパーク,1192,EZR,埼玉県,2015,CHA*MA,埼玉県,3
 copula,紫陽花 -AZISAI-,1239,EZR,埼玉県,2100,AZARA4,埼玉県,2891,TAMNEN,埼玉県
 copula,真 地獄超特急 -HELL or HELL-,1397,MI-PAN,埼玉県,2172,AZARA4,埼玉県,3257,TAMNEN,埼玉県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),1321,B0Y.,埼玉県,1966,CAL,埼玉県,2565,BISCOD,埼玉県
-copula,灼熱 Pt.2 Long Train Running,1323,SERENA,埼玉県,2025,ENGAWA,埼玉県,3382,MI-SHA,埼玉県
+copula,灼熱 Pt.2 Long Train Running,1323,SERENA,埼玉県,2061,1-PIN,埼玉県,3382,MI-SHA,埼玉県
 copula,朝焼けから始まるボクらの小さな旅,944,EZR,埼玉県,1705,K9999$,埼玉県,2493,JNN,埼玉県
-copula,星屑ディスタンシア,703,EZR,埼玉県,1190,JOLMIN,埼玉県,2106,SERENA,埼玉県
+copula,星屑ディスタンシア,703,EZR,埼玉県,1190,JOLMIN,埼玉県,2107,BISCOD,埼玉県
 copula,明鏡止水,840,EZR,埼玉県,1829,-KMBK-,埼玉県,2777,BISCOD,埼玉県
 copula,少女アリスと箱庭幻想コンチェルト,766,EZR,埼玉県,1412,MIDOMO,埼玉県,2140,K.F,埼玉県
 copula,セロトニン,1306,JOLMIN,埼玉県,1820,-KMBK-,埼玉県,2332,MIKU.N,埼玉県
@@ -933,7 +933,7 @@ copula,X,1570,MI-PAN,埼玉県,2421,-KMBK-,埼玉県,3852,YUI.OR,埼玉県
 copula,Welcome,876,EZR,埼玉県,1786,AZARA4,埼玉県,2666,YUI.OR,埼玉県
 copula,Violet Rose,1222,JOLMIN,埼玉県,1889,JOLMIN,埼玉県,2596,BISCOD,埼玉県
 copula,Violet Pulse,428,EZR,埼玉県,1694,AZARA4,埼玉県,2445,BISCOD,埼玉県
-copula,Uh-Oh,1126,EZR,埼玉県,1714,AZARA4,埼玉県,2382,1-PIN,埼玉県
+copula,Uh-Oh,1126,EZR,埼玉県,1714,AZARA4,埼玉県,2386,1-PIN,埼玉県
 copula,Triple Counter,1362,OSU.MI,埼玉県,2188,-KMBK-,埼玉県,3939,TAMNEN,埼玉県
 copula,Transport,1013,EZR,埼玉県,1468,JOLMIN,埼玉県,2163,YUI.OR,埼玉県
 copula,Tori-no-kimochi,265,EZR,埼玉県,1259,YMTT26,埼玉県,2013,MIKU.N,埼玉県
@@ -1023,7 +1023,7 @@ SINOBUZ,XINOBIKILL,999,EZR,埼玉県,1719,JOLMIN,埼玉県,2890,YUI.OR,埼玉県
 SINOBUZ,Warrior,1030,EZR,埼玉県,1723,B0Y.,埼玉県,2472,1-PIN,埼玉県
 SINOBUZ,Vermilion,877,KEU,埼玉県,1352,KIDO..,埼玉県,2034,TAMNEN,埼玉県
 SINOBUZ,Venom,1250,12345$,埼玉県,2154,SAVITA,埼玉県,3211,TAMNEN,埼玉県
-SINOBUZ,Umbral,620,12345$,埼玉県,1322,JOLMIN,埼玉県,1910,SERENA,埼玉県
+SINOBUZ,Umbral,620,12345$,埼玉県,1322,JOLMIN,埼玉県,1918,BISCOD,埼玉県
 SINOBUZ,TOGAKUSHI,1018,EZR,埼玉県,1859,.PRIMA,埼玉県,2598,TAMNEN,埼玉県
 SINOBUZ,The Commanders,963,EZR,埼玉県,1512,DEVI04,埼玉県,2449,YUI.OR,埼玉県
 SINOBUZ,Sweet Clapper,566,EZR,埼玉県,1234,EZR,埼玉県,1909,LOBMAG,埼玉県
@@ -1056,7 +1056,7 @@ SINOBUZ,OTENAMI Hurricane,1272,B0Y.,埼玉県,2100,4M4V37,埼玉県,3145,TAMNEN,
 SINOBUZ,OOO,695,EZR,埼玉県,1440,NABE,埼玉県,2061,1-PIN,埼玉県
 SINOBUZ,nostos,886,UCHI-G,埼玉県,1274,IIPIN,埼玉県,2619,TAMNEN,埼玉県
 SINOBUZ,Music is The Answer,792,EZR,埼玉県,1351,JOLMIN,埼玉県,1929,BISCOD,埼玉県
-SINOBUZ,Modular Technology,1201,B0Y.,埼玉県,1935,AZARA4,埼玉県,2651,1-PIN,埼玉県
+SINOBUZ,Modular Technology,1201,B0Y.,埼玉県,1935,AZARA4,埼玉県,2654,1-PIN,埼玉県
 SINOBUZ,Mare Nectaris,1476,1-PIN,埼玉県,2131,MI-SHA,埼玉県,3771,TAMNEN,埼玉県
 SINOBUZ,Magical,814,EZR,埼玉県,1186,YU-!,埼玉県,2009,MIKU.N,埼玉県
 SINOBUZ,Macuilxochitl,1459,ARSK,埼玉県,2248,AZARA4,埼玉県,3323,YUI.OR,埼玉県
@@ -1181,7 +1181,7 @@ CANNON BALLERS,Amor De Verao,793,EZR,埼玉県,1380,SYOW,埼玉県,2336,TAMNEN,�
 CANNON BALLERS,Alpheratz,433,EZR,埼玉県,1025,BLUE#,埼玉県,2082,1-PIN,埼玉県
 CANNON BALLERS,Acidiva 303,820,EZR,埼玉県,1380,AZARA4,埼玉県,2301,SERENA,埼玉県
 CANNON BALLERS,ACCELERATE,1177,EZR,埼玉県,1755,AZARA4,埼玉県,2509,BISCOD,埼玉県
-CANNON BALLERS,Abraxas,796,EZR,埼玉県,1628,IIDXXX,埼玉県,2397,1-PIN,埼玉県
+CANNON BALLERS,Abraxas,796,EZR,埼玉県,1628,IIDXXX,埼玉県,2403,1-PIN,埼玉県
 CANNON BALLERS,AA -rebuild-,1263,EZ2AC,埼玉県,2409,AZARA4,埼玉県,3595,YUI.OR,埼玉県
 CANNON BALLERS,255,905,DR.LUV,埼玉県,1546,SOV36B,埼玉県,3281,TAMNEN,埼玉県
 CANNON BALLERS,2 Player,961,OSU.MI,埼玉県,1586,NOBU,埼玉県,2549,MIKU.N,埼玉県
