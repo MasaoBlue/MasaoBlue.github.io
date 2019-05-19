@@ -1,7 +1,7 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
-1st&substream,THE EARTH LIGHT,0,,未設定,1037,ZEFF.,シンガポール,1085,INDEX,シンガポール
+1st&substream,THE EARTH LIGHT,331,S2VX,シンガポール,1037,ZEFF.,シンガポール,1085,INDEX,シンガポール
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1953,ZEFF.,シンガポール
-1st&substream,RUGGED ASH,39,RURRU,シンガポール,367,MUSTA,シンガポール,1037,PANSTO,シンガポール
+1st&substream,RUGGED ASH,39,RURRU,シンガポール,367,MUSTA,シンガポール,1070,ZEFF.,シンガポール
 1st&substream,R3,0,,未設定,666,MOTYO,シンガポール,894,ZEFF.,シンガポール
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,未設定,0,,未設定,1105,ZEFF.,シンガポール
 1st&substream,Macho Gang,360,INDEX,シンガポール,0,,未設定,1575,ZEFF.,シンガポール
@@ -12,7 +12,7 @@
 1st&substream,Dr.LOVE,0,,未設定,0,,未設定,571,ZEFF.,シンガポール
 1st&substream,deep in you,0,,未設定,321,GAYRO,シンガポール,621,D!!!!!,シンガポール
 1st&substream,5.1.1.,166,MUSTA,シンガポール,806,MUSTA,シンガポール,1546,ZEFF.,シンガポール
-1st&substream,22DUNK,466,OUDON,シンガポール,602,INC.,シンガポール,642,ZEFF.,シンガポール
+1st&substream,22DUNK,466,OUDON,シンガポール,602,INC.,シンガポール,646,ZEFF.,シンガポール
 2nd style,SP-TRIP MACHINE(for beatmania II),496,BBITTA,シンガポール,597,ERIRI.,シンガポール,643,ZEFF.,シンガポール
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),2,YIN.,シンガポール,847,ZEFF.,シンガポール,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,0,,未設定,1188,NOWARU,シンガポール
@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,904,LVN.RZ,シンガポール,1727,ZEFF.,シンガポール,0,,未設定
 3rd style,Tangerine Stream,0,,未設定,382,ERIRI.,シンガポール,0,,未設定
 3rd style,Skyscraper,0,,未設定,0,,未設定,1224,ZEFF.,シンガポール
-3rd style,Schlagwerk,718,USSR.,シンガポール,883,HIDARI,シンガポール,1607,PANSTO,シンガポール
+3rd style,Schlagwerk,718,USSR.,シンガポール,883,HIDARI,シンガポール,1646,ZEFF.,シンガポール
 3rd style,REINCARNATION,486,KAMMY.,シンガポール,454,KAMMY.,シンガポール,1245,ZEFF.,シンガポール
 3rd style,R5,0,,未設定,1121,INC.,シンガポール,1760,ZEFF.,シンガポール
 3rd style,Presto,490,GYUNIC,シンガポール,610,RASIN,シンガポール,1004,ZEFF.,シンガポール
@@ -304,7 +304,7 @@ DistorteD,Sun Field,0,,未設定,1238,OUDON,シンガポール,2428,ZEFF.,シン
 DistorteD,So Fabulous !!,770,GAYRO,シンガポール,1463,KIRBY,シンガポール,2304,ZEFF.,シンガポール
 DistorteD,Power of Love,968,BBITTA,シンガポール,1236,YIN.,シンガポール,2040,PANSTO,シンガポール
 DistorteD,MOON,827,HOSHEY,シンガポール,0,,未設定,2193,ZEFF.,シンガポール
-DistorteD,MINT,0,,未設定,1288,OUDON,シンガポール,2278,ZEFF.,シンガポール
+DistorteD,MINT,0,,未設定,1726,KIRBY,シンガポール,2278,ZEFF.,シンガポール
 DistorteD,Melody Life,0,,未設定,0,,未設定,1829,ZEFF.,シンガポール
 DistorteD,Leaving...,0,,未設定,0,,未設定,2111,3N,シンガポール
 DistorteD,INFERNO,0,,未設定,1348,OUDON,シンガポール,1971,ZEFF.,シンガポール
@@ -833,7 +833,7 @@ PENDUAL,妖隠し -あやかしかくし-,665,KAMMY.,シンガポール,1556,KUK
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,未設定,1371,POM*,シンガポール,2771,KIRBY,シンガポール
 PENDUAL,取り残された美術(Arranged:HiZuMi),969,BBITTA,シンガポール,1472,POM*,シンガポール,2179,ZEFF.,シンガポール
 PENDUAL,千年ノ理,1174,XI,シンガポール,1851,KIRBY,シンガポール,3120,NOWARU,シンガポール
-PENDUAL,十六夜セツナ,573,WING.K,シンガポール,1477,MOTYO,シンガポール,2179,NOWARU,シンガポール
+PENDUAL,十六夜セツナ,991,BBITTA,シンガポール,1477,MOTYO,シンガポール,2179,NOWARU,シンガポール
 PENDUAL,共鳴遊戯の華,1086,MUSTA,シンガポール,2398,KUKO,シンガポール,3651,3N,シンガポール
 PENDUAL,リリーゼと炎龍レーヴァテイン,912,POM*,シンガポール,2182,KUKO,シンガポール,3400,NOWARU,シンガポール
 PENDUAL,ベィスドロップ・フリークス,427,JIZZ,シンガポール,1121,SECURE,シンガポール,2185,NOWARU,シンガポール
@@ -1011,7 +1011,7 @@ SINOBUZ,忍恋花,997,HOSHEY,シンガポール,1562,M5-D05,シンガポール,2
 SINOBUZ,刃図羅,1185,INC.,シンガポール,1915,ANAL!,シンガポール,3291,NOWARU,シンガポール
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,3004,NOWARU,シンガポール
 SINOBUZ,冬椿 ft. Kanae Asaba,0,,未設定,1225,NOWARU,シンガポール,2235,ZEFF.,シンガポール
-SINOBUZ,九尾狐夜行,374,RINYON,シンガポール,1485,OUDON,シンガポール,2828,ZEFF.,シンガポール
+SINOBUZ,九尾狐夜行,374,RINYON,シンガポール,1485,OUDON,シンガポール,2875,ZEFF.,シンガポール
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,683,HOSHEY,シンガポール,1226,POM*,シンガポール,2417,ZEFF.,シンガポール
 SINOBUZ,イザナミノナゲキ,1092,POM*,シンガポール,1666,NYAMU*,シンガポール,3101,NOWARU,シンガポール
 SINOBUZ,ちらちら・はらはら,255,YEN!,シンガポール,876,HENTAI,シンガポール,1389,OKOME*,シンガポール
@@ -1036,7 +1036,7 @@ SINOBUZ,Sky High,884,RASIN,シンガポール,2200,KIRBY,シンガポール,3739
 SINOBUZ,SINOBUZ Fantasy,0,,未設定,1312,MUSTA,シンガポール,2330,KUKO,シンガポール
 SINOBUZ,shuriken,510,EXUSIA,シンガポール,0,,未設定,2438,ZEFF.,シンガポール
 SINOBUZ,Shoot'Em All,790,HOSHEY,シンガポール,1147,HIDARI,シンガポール,2395,NOWARU,シンガポール
-SINOBUZ,SEQUENCE CAT,0,,未設定,1753,NYAMU*,シンガポール,2698,MO9SAN,シンガポール
+SINOBUZ,SEQUENCE CAT,0,,未設定,1793,NYAMU*,シンガポール,2698,MO9SAN,シンガポール
 SINOBUZ,Selfish Sweet,620,HOSHEY,シンガポール,913,HOSHEY,シンガポール,1685,ZEFF.,シンガポール
 SINOBUZ,Seize the Day,488,HIPPO*,シンガポール,1054,RASIN,シンガポール,2126,ZEFF.,シンガポール
 SINOBUZ,Seaside Labyrinth,622,HOSHEY,シンガポール,819,AM.,シンガポール,1794,PANSTO,シンガポール
