@@ -13,11 +13,11 @@
 1st&substream,deep in you,485,MARIMO,宮城県,490,MARIMO,宮城県,648,1N319N,宮城県
 1st&substream,5.1.1.,198,MARIMO,宮城県,1009,EBI,宮城県,1556,MIYABI,宮城県
 1st&substream,22DUNK,519,MARIMO,宮城県,636,EBI,宮城県,642,1N319N,宮城県
-2nd style,SP-TRIP MACHINE(for beatmania II),502,MARIMO,宮城県,617,MARIMO,宮城県,647,UDON-G,宮城県
+2nd style,SP-TRIP MACHINE(for beatmania II),504,SKMMYP,宮城県,617,MARIMO,宮城県,647,UDON-G,宮城県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),567,MARIMO,宮城県,849,1N319N,宮城県,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),854,MARIMO,宮城県,950,GIN7,宮城県,1200,1N319N,宮城県
 2nd style,I Was The One,533,MARIMO,宮城県,631,KAIN,宮城県,689,1N319N,宮城県
-2nd style,Electro Tuned(the SubS mix),765,MARIMO,宮城県,0,,未設定,1055,1N319N,宮城県
+2nd style,Electro Tuned(the SubS mix),765,MARIMO,宮城県,760,H.R.T.,宮城県,1055,1N319N,宮城県
 2nd style,Digital MinD(A/T Libra mix),717,MARIMO,宮城県,1053,1N319N,宮城県,1111,1N319N,宮城県
 2nd style,.59,711,MARIMO,宮城県,1002,EBI,宮城県,1134,MIYABI,宮城県
 3rd style,THE SAFARI,1171,MARIMO,宮城県,1754,EBI,宮城県,0,,未設定
@@ -153,7 +153,7 @@
 9th style,RISLIM -Remix-,781,MARIMO,宮城県,906,ASA,宮城県,1849,EBI,宮城県
 9th style,Really Love,643,MARIMO,宮城県,931,ZIGIWO,宮城県,1712,TENKUN,宮城県
 9th style,Quickening,939,1N319N,宮城県,1710,1N319N,宮城県,2048,1N319N,宮城県
-9th style,quasar,1081,TUBAKI,宮城県,1673,BOOOO,宮城県,2275,K----L,宮城県
+9th style,quasar,1127,MARIMO,宮城県,1673,BOOOO,宮城県,2275,K----L,宮城県
 9th style,one or eight,1318,EBI,宮城県,1706,S.S-R1,宮城県,2202,IIDX21,宮城県
 9th style,moon_child,1022,MARIMO,宮城県,1861,AT-NAO,宮城県,2481,IIDX21,宮城県
 9th style,MARIA (I believe... ),737,MARIMO,宮城県,1341,VELIX,宮城県,1917,1N319N,宮城県
@@ -172,7 +172,7 @@
 9th style,BRIGHTNESS DARKNESS,720,MARIMO,宮城県,1345,KAIN,宮城県,1744,1N319N,宮城県
 9th style,bag,911,MARIMO,宮城県,880,GIN7,宮城県,1888,1N319N,宮城県
 9th style,BAD BOY BASS!! (dj Remo-con MIX),914,MARIMO,宮城県,1339,H-PORN,宮城県,1769,EBI,宮城県
-9th style,ACT,1011,KAIN,宮城県,1558,KAIN,宮城県,1799,1N319N,宮城県
+9th style,ACT,1011,KAIN,宮城県,1558,KAIN,宮城県,1801,ERIC*,宮城県
 9th style,Abyss -The Heavens Remix-,1453,MARIMO,宮城県,1747,IWSK3.,宮城県,2312,1N319N,宮城県
 10th style,雪月花,1236,1N319N,宮城県,1885,EBI,宮城県,2458,IIDX21,宮城県
 10th style,システムロマンス,899,MARIMO,宮城県,1681,MARIMO,宮城県,2017,1N319N,宮城県
@@ -269,9 +269,9 @@ HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3718,RETRO,宮城�
 HAPPY SKY,Little Little Princess,1090,MARIMO,宮城県,2104,HR-YMN,宮城県,2743,IIDX21,宮城県
 HAPPY SKY,LESSON 5,1273,MARIMO,宮城県,1765,LIERRE,宮城県,2434,1N319N,宮城県
 HAPPY SKY,INAZUMA,1074,EBI,宮城県,1801,EBI,宮城県,2657,1N319N,宮城県
-HAPPY SKY,in motion,852,1N319N,宮城県,1064,1N319N,宮城県,1296,1N319N,宮城県
+HAPPY SKY,in motion,852,1N319N,宮城県,1064,1N319N,宮城県,1297,1N319N,宮城県
 HAPPY SKY,I am,1096,MARIMO,宮城県,1639,D.LOK,宮城県,2132,YULI,宮城県
-HAPPY SKY,HAPPY☆ANGEL,1038,YUKI,宮城県,1482,KAIN,宮城県,2079,IIDX21,宮城県
+HAPPY SKY,HAPPY☆ANGEL,1078,MARIMO,宮城県,1482,KAIN,宮城県,2079,IIDX21,宮城県
 HAPPY SKY,Get'em up to R.A.V.E,1171,MARIMO,宮城県,1727,EBI,宮城県,2271,K----L,宮城県
 HAPPY SKY,garden,860,MARIMO,宮城県,1362,YUKI,宮城県,2129,IIDX21,宮城県
 HAPPY SKY,First Resolution,826,MARIMO,宮城県,1576,MARIMO,宮城県,2108,1N319N,宮城県
@@ -472,7 +472,7 @@ SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",697,MARIMO,宮城�
 SIRIUS,未来のプリズム,695,MARIMO,宮城県,1327,MARIMO,宮城県,1742,1N319N,宮城県
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1291,EBI,宮城県,2184,1N319N,宮城県,3002,YUTA.S,宮城県
 SIRIUS,バビロニア,836,MARIMO,宮城県,1368,MARIMO,宮城県,1853,1N319N,宮城県
-SIRIUS,サヨナラ・ヘヴン,920,1N319N,宮城県,1353,NEMOUS,宮城県,1663,1N319N,宮城県
+SIRIUS,サヨナラ・ヘヴン,920,1N319N,宮城県,1353,NEMOUS,宮城県,1667,1N319N,宮城県
 SIRIUS,コスモス,902,MARIMO,宮城県,1469,MARIMO,宮城県,2074,1N319N,宮城県
 SIRIUS,たからもの,1269,MARIMO,宮城県,1833,MARIMO,宮城県,2218,1N319N,宮城県
 SIRIUS,かずあそび,528,MARIMO,宮城県,1096,YUKI,宮城県,1683,1N319N,宮城県
@@ -578,7 +578,7 @@ Resort Anthem,BLUST OF WIND,823,MARIMO,宮城県,1523,3839,宮城県,2109,1N319N
 Resort Anthem,Believe In Me,1048,MARIMO,宮城県,1748,KAIN,宮城県,2322,1N319N,宮城県
 Resort Anthem,ANTHEM LANDING,959,KAZANE,宮城県,1915,D.LOK,宮城県,2910,MIYABI,宮城県
 Resort Anthem,Answer,780,MARIMO,宮城県,1462,MARIMO,宮城県,2396,K----L,宮城県
-Resort Anthem,ALBIDA,1056,YUKI,宮城県,1836,HR-YMN,宮城県,2940,RETRO,宮城県
+Resort Anthem,ALBIDA,1064,RILIX*,宮城県,1836,HR-YMN,宮城県,2940,RETRO,宮城県
 Resort Anthem,Aegis,858,INKYO.,宮城県,1296,AAAA,宮城県,2296,K----L,宮城県
 Lincle,陽炎,633,MARIMO,宮城県,1068,MARISA,宮城県,1987,1N319N,宮城県
 Lincle,衰色小町メランコリア,794,MARIMO,宮城県,1386,MARIMO,宮城県,2308,1N319N,宮城県
@@ -628,7 +628,7 @@ Lincle,LAX5 feat.Ryota Yoshinari,995,R.BER2,宮城県,2070,SKMMYP,宮城県,2809
 Lincle,Infinite cave,1008,MARIMO,宮城県,1368,HK7BP,宮城県,2015,1N319N,宮城県
 Lincle,In the Blackest Den,714,ALT,宮城県,1552,YULI,宮城県,2507,EBI,宮城県
 Lincle,I'm so Happy,422,MARIMO,宮城県,1334,D.LOK,宮城県,2333,K----L,宮城県
-Lincle,HAERETICUS,847,MARIMO,宮城県,1715,SKMMYP,宮城県,2930,AKN33,宮城県
+Lincle,HAERETICUS,847,MARIMO,宮城県,1730,CAG3,宮城県,2930,AKN33,宮城県
 Lincle,Follow Tomorrow,898,MARIMO,宮城県,1462,TENKUN,宮城県,2229,RETRO,宮城県
 Lincle,Flip Flap,582,MARIMO,宮城県,1354,MARIMO,宮城県,2233,YULI,宮城県
 Lincle,fffff,851,1N319N,宮城県,1975,1N319N,宮城県,2996,NEMOUS,宮城県
@@ -756,7 +756,7 @@ SPADA,Verflucht,1260,MARIMO,宮城県,2078,1N319N,宮城県,3406,MIYABI,宮城�
 SPADA,Valgus,655,MARIMO,宮城県,1346,1N319N,宮城県,2319,MIYABI,宮城県
 SPADA,Unicorn tail,864,1N319N,宮城県,2034,1N319N,宮城県,3082,EBI,宮城県
 SPADA,THE DETONATOR,1613,MARIMO,宮城県,2348,S.S-R1,宮城県,3108,1N319N,宮城県
-SPADA,Squeeze,627,TAKA!!,宮城県,1244,LIGHT,宮城県,2407,1N319N,宮城県
+SPADA,Squeeze,627,TAKA!!,宮城県,1268,TUBAKI,宮城県,2407,1N319N,宮城県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4069,RETRO,宮城県
 SPADA,Sigmund,1576,1N319N,宮城県,2348,1N319N,宮城県,3688,K----L,宮城県
 SPADA,SCHWARZSCHILD FIELD,926,MARIMO,宮城県,1586,1N319N,宮城県,2319,MIYABI,宮城県
@@ -913,7 +913,7 @@ PENDUAL,#The_Relentless,1204,1N319N,宮城県,2009,1N319N,宮城県,2867,MIYABI,
 copula,麗 ～うらら～,1124,MARIMO,宮城県,1718,MYNSS,宮城県,2603,K----L,宮城県
 copula,駅猫のワルツ,1134,MARIMO,宮城県,2161,EBI,宮城県,2713,RETRO,宮城県
 copula,量子の海のリントヴルム,918,MARIMO,宮城県,1668,LIERRE,宮城県,2900,K----L,宮城県
-copula,追想快晴テーマパーク,999,AOSK,宮城県,1979,NONA,宮城県,3009,1N319N,宮城県
+copula,追想快晴テーマパーク,1201,MARIMO,宮城県,1979,NONA,宮城県,3009,1N319N,宮城県
 copula,紫陽花 -AZISAI-,1246,MARIMO,宮城県,1967,KARAKE,宮城県,2794,K----L,宮城県
 copula,真 地獄超特急 -HELL or HELL-,1380,LIERRE,宮城県,2113,S.S-R1,宮城県,3172,K----L,宮城県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),1360,1N319N,宮城県,2047,1N319N,宮城県,2549,K----L,宮城県
@@ -922,7 +922,7 @@ copula,朝焼けから始まるボクらの小さな旅,931,MARIMO,宮城県,163
 copula,星屑ディスタンシア,691,MARIMO,宮城県,1168,H-PORN,宮城県,2104,K----L,宮城県
 copula,明鏡止水,859,1N319N,宮城県,1857,1N319N,宮城県,2714,1N319N,宮城県
 copula,少女アリスと箱庭幻想コンチェルト,763,1N319N,宮城県,1485,1N319N,宮城県,2130,K----L,宮城県
-copula,セロトニン,1263,INKYO.,宮城県,1691,ASA,宮城県,2259,1N319N,宮城県
+copula,セロトニン,1316,MARIMO,宮城県,1691,ASA,宮城県,2259,1N319N,宮城県
 copula,シュッパツシンコウ・シサカンコ,1125,MARIMO,宮城県,1771,1N319N,宮城県,2435,K----L,宮城県
 copula,ギョギョっと人魚 爆婚ブライダル,820,MARIMO,宮城県,1396,NEMOUS,宮城県,2342,K----L,宮城県
 copula,オルタネイトβ,833,MARIMO,宮城県,1396,MARIMO,宮城県,2247,K----L,宮城県
@@ -933,7 +933,7 @@ copula,X,1595,1N319N,宮城県,2471,1N319N,宮城県,3797,K----L,宮城県
 copula,Welcome,870,MARIMO,宮城県,1673,WRXSTI,宮城県,2610,K----L,宮城県
 copula,Violet Rose,1146,SIN,宮城県,1829,D,宮城県,2540,RETRO,宮城県
 copula,Violet Pulse,431,MARIMO,宮城県,1692,1N319N,宮城県,2406,K----L,宮城県
-copula,Uh-Oh,961,MASYU,宮城県,1640,*,宮城県,2372,K----L,宮城県
+copula,Uh-Oh,1121,MARIMO,宮城県,1640,*,宮城県,2372,K----L,宮城県
 copula,Triple Counter,1377,MARIMO,宮城県,2157,KAMIEL,宮城県,3822,K----L,宮城県
 copula,Transport,904,HEESE,宮城県,1523,EBI,宮城県,2143,K----L,宮城県
 copula,Tori-no-kimochi,266,MARIMO,宮城県,1286,1N319N,宮城県,1990,K----L,宮城県
@@ -945,7 +945,7 @@ copula,STARLIGHT DANCEHALL,1030,IIDX25,宮城県,1767,ASA,宮城県,2611,K----L,
 copula,STARLiGHT,949,MARIMO,宮城県,1696,KAIN,宮城県,2720,K----L,宮城県
 copula,SHELTER OF THE MIND,1421,1N319N,宮城県,1999,1N319N,宮城県,3029,K----L,宮城県
 copula,Set U Free feat. Kanae Asaba,917,MARIMO,宮城県,1167,GIN7,宮城県,2515,K----L,宮城県
-copula,Sephirot,925,INKYO.,宮城県,1565,LIERRE,宮城県,2309,K----L,宮城県
+copula,Sephirot,959,MARIMO,宮城県,1565,LIERRE,宮城県,2309,K----L,宮城県
 copula,SEITEN NO TERIYAKI,730,MARIMO,宮城県,1099,VELIX,宮城県,2244,K----L,宮城県
 copula,Routing,940,MARIMO,宮城県,1659,EBI,宮城県,2477,EBI,宮城県
 copula,Rock It,1153,MARIMO,宮城県,1656,LIERRE,宮城県,2909,K----L,宮城県
@@ -954,7 +954,7 @@ copula,quick master (reform version),160,MARIMO,宮城県,349,MARIMO,宮城県,5
 copula,POSSESSION,1360,INKYO.,宮城県,2089,1N319N,宮城県,2893,K----L,宮城県
 copula,OUTER LIMITS ALTERNATIVE,1162,MARIMO,宮城県,1656,LIERRE,宮城県,2671,K----L,宮城県
 copula,Outbreak,1328,EBI,宮城県,1834,NCG.SF,宮城県,3000,K----L,宮城県
-copula,On the FM,1090,INKYO.,宮城県,1563,LIERRE,宮城県,2757,K----L,宮城県
+copula,On the FM,1118,MARIMO,宮城県,1563,LIERRE,宮城県,2757,K----L,宮城県
 copula,NZM,1064,MARIMO,宮城県,1603,EBI,宮城県,3329,K----L,宮城県
 copula,Nowhere,867,1N319N,宮城県,1467,1N319N,宮城県,2155,K----L,宮城県
 copula,NO LIMIT -オレ達に限界は無い-,819,1N319N,宮城県,1235,1N319N,宮城県,2275,K----L,宮城県
@@ -973,7 +973,7 @@ copula,Godspeed,1057,1N319N,宮城県,1939,EBI,宮城県,3065,K----L,宮城県
 copula,GOBBLE,494,MARIMO,宮城県,715,1N319N,宮城県,1666,K----L,宮城県
 copula,Go Faraway,1025,1N319N,宮城県,1484,1N319N,宮城県,2479,K----L,宮城県
 copula,Glitch Nerds,1018,MARIMO,宮城県,1397,MARIMO,宮城県,2208,K----L,宮城県
-copula,GET READY!!,612,DNS,宮城県,1532,MARIMO,宮城県,2642,K----L,宮城県
+copula,GET READY!!,1046,MARIMO,宮城県,1532,MARIMO,宮城県,2642,K----L,宮城県
 copula,GENERATE feat.綾倉盟,1110,INKYO.,宮城県,1688,D.LOK,宮城県,2332,K----L,宮城県
 copula,Exchange Place,772,MARIMO,宮城県,1234,MARIMO,宮城県,1781,K----L,宮城県
 copula,Everlasting Last,846,MARIMO,宮城県,1642,EBI,宮城県,2207,K----L,宮城県
@@ -981,10 +981,10 @@ copula,Dynamite,1197,SIG,宮城県,2420,KAZANE,宮城県,3733,K----L,宮城県
 copula,Donkey Donk,1161,BURGER,宮城県,1598,MARIMO,宮城県,2238,EBI,宮城県
 copula,do the thing feat. Kanae Asaba,629,MARIMO,宮城県,1255,AOKABI,宮城県,2279,K----L,宮城県
 copula,DIAMOND CROSSING,984,LIERRE,宮城県,1699,S.S-R1,宮城県,2977,K----L,宮城県
-copula,Devil's Gear,847,VELIX,宮城県,2061,M4LL0W,宮城県,3389,K----L,宮城県
+copula,Devil's Gear,992,TUBAKI,宮城県,2061,M4LL0W,宮城県,3389,K----L,宮城県
 copula,Derelict Star feat. Ryu*,1403,MARIMO,宮城県,1799,LIERRE,宮城県,2561,1N319N,宮城県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2253,MIYABI,宮城県
-copula,Damage Per Second,887,MARIMO,宮城県,1360,MARIMO,宮城県,2027,K----L,宮城県
+copula,Damage Per Second,887,MARIMO,宮城県,1404,1N319N,宮城県,2027,K----L,宮城県
 copula,Daily Lunch Special,1074,MARIMO,宮城県,2052,KAMIEL,宮城県,2915,K----L,宮城県
 copula,CODE:1 [revision1.0.1],981,MARIMO,宮城県,1725,EBI,宮城県,3012,K----L,宮城県
 copula,chaos eater -IIDX edition-,1179,MARIMO,宮城県,1645,LIERRE,宮城県,2569,K----L,宮城県

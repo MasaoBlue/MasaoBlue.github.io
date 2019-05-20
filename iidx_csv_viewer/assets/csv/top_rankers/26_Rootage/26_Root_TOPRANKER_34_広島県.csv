@@ -55,7 +55,7 @@
 4th style,B4U,975,YOH,広島県,1521,NATTSU,広島県,2001,NKNFAL,広島県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2578,SHORT,広島県
 4th style,ABSOLUTE,1251,IETORA,広島県,1757,L3-VDT,広島県,2311,SIN16U,広島県
-4th style,250bpm,358,.S.,広島県,1017,NATTSU,広島県,1350,YU-HI,広島県
+4th style,250bpm,609,*ASPN*,広島県,1017,NATTSU,広島県,1350,YU-HI,広島県
 5th style,V,1228,ESPRIT,広島県,2476,-AKI-,広島県,2978,NKNFAL,広島県
 5th style,THE SHINING POLARIS,808,*ASPN*,広島県,1055,KOU*,広島県,1555,NATTSU,広島県
 5th style,THE CUBE,498,BC,広島県,1121,CHUY.B,広島県,1345,NKNFAL,広島県
@@ -96,7 +96,7 @@
 7th style,革命,669,*ASPN*,広島県,1787,YOU,広島県,2217,FANZA,広島県
 7th style,ZERO-ONE,514,MMY787,広島県,1579,TERA.P,広島県,2207,NKNFAL,広島県
 7th style,traces,1451,TEN-IN,広島県,1750,TERA.P,広島県,2058,KEH,広島県
-7th style,Tomorrow Perfume,933,*ASPN*,広島県,1583,108,広島県,1999,TKHR,広島県
+7th style,Tomorrow Perfume,1202,ARIA,広島県,1583,108,広島県,1999,TKHR,広島県
 7th style,stoic,1615,NATTSU,広島県,2285,CORGI,広島県,2457,YU-HI,広島県
 7th style,Spica,608,MURASA,広島県,1377,SANS,広島県,2170,YU-HI,広島県
 7th style,MAX 300,1080,NATTSU,広島県,1911,NKNFAL,広島県,0,,未設定
@@ -293,7 +293,7 @@ DistorteD,カゴノトリ～弐式～,1080,KAERU3,広島県,1762,MELT,広島県,
 DistorteD,Zenius -I- vanisher,946,KAERU3,広島県,1502,TERA.P,広島県,2384,NKNFAL,広島県
 DistorteD,with you…,733,KAERU3,広島県,960,*ASPN*,広島県,1743,YUZUKI,広島県
 DistorteD,WISH(EUROBEAT MIX),1014,KAERU3,広島県,1591,NATTSU,広島県,1907,SILVI,広島県
-DistorteD,Why did you go away,1056,KAERU3,広島県,1744,NATTSU,広島県,2293,NKNFAL,広島県
+DistorteD,Why did you go away,1066,TERA.P,広島県,1744,NATTSU,広島県,2293,NKNFAL,広島県
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3820,UBSACK,広島県
 DistorteD,waxing and wanding,1299,L3-VDT,広島県,1946,NATTSU,広島県,2837,UBSACK,広島県
 DistorteD,TYPE MARS(G-Style Mix),1055,KAERU3,広島県,1569,KW,広島県,2385,NKNFAL,広島県
@@ -352,7 +352,7 @@ GOLD,Make Me Your Own,784,KAERU3,広島県,1452,TERA.P,広島県,2019,YU-HI,広�
 GOLD,Love Again...,527,*ASPN*,広島県,743,MASO,広島県,1072,-AKI-,広島県
 GOLD,LASER CRUSTER,1387,KAERU3,広島県,2270,MYNEEZ,広島県,3085,KEH,広島県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3707,NKNFAL,広島県
-GOLD,KAMAITACHI,1154,KAERU3,広島県,1824,VIRUS,広島県,2618,-AKI-,広島県
+GOLD,KAMAITACHI,1163,VIRUS,広島県,1824,VIRUS,広島県,2618,-AKI-,広島県
 GOLD,INORI,1382,L3-VDT,広島県,2486,KIR*BY,広島県,3070,-AKI-,広島県
 GOLD,High School Love,829,KAERU3,広島県,1433,MASO,広島県,2180,COOK.M,広島県
 GOLD,heaven above,771,KAERU3,広島県,1261,3439,広島県,1830,NKNFAL,広島県
@@ -475,7 +475,7 @@ SIRIUS,バビロニア,812,KAERU3,広島県,1299,YOH,広島県,1840,-AKI-,広島
 SIRIUS,サヨナラ・ヘヴン,929,L3-VDT,広島県,1290,3439,広島県,1663,NKNFAL,広島県
 SIRIUS,コスモス,909,L3-VDT,広島県,1510,9APINE,広島県,2090,NKNFAL,広島県
 SIRIUS,たからもの,1190,WOORLD,広島県,1848,9APINE,広島県,2212,9APINE,広島県
-SIRIUS,かずあそび,481,EA*T.K,広島県,979,V2ABG,広島県,1695,NKNFAL,広島県
+SIRIUS,かずあそび,520,TERA.P,広島県,979,V2ABG,広島県,1695,NKNFAL,広島県
 SIRIUS,The Story Begins,815,KAERU3,広島県,1797,NATTSU,広島県,2419,NKNFAL,広島県
 SIRIUS,THE LAST STRIKER,1379,KAERU3,広島県,1908,NATTSU,広島県,2552,YU-HI,広島県
 SIRIUS,Special One,816,KAERU3,広島県,1090,C,広島県,1737,SHORT,広島県
@@ -664,7 +664,7 @@ tricoro,シュレーディンガーの猫,1098,KAERU3,広島県,2281,PYU-,広島
 tricoro,キャトられ恋はモ～モク,1429,KAERU3,広島県,2545,*M1,広島県,3585,UBSACK,広島県
 tricoro,カジノファイヤーことみちゃん,622,KAERU3,広島県,1425,NATTSU,広島県,2294,KEH,広島県
 tricoro,アストライアの双皿,674,TERA.P,広島県,1945,TOM,広島県,3000,KEH,広島県
-tricoro,たまゆら,1133,KAERU3,広島県,1800,*AAA*,広島県,2672,UBSACK,広島県
+tricoro,たまゆら,1133,KAERU3,広島県,1800,*AAA*,広島県,2687,UBSACK,広島県
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,868,KAERU3,広島県,1571,NATTSU,広島県,2144,YU-HI,広島県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),403,?,広島県,1627,NATTSU,広島県,3450,NKNFAL,広島県
 tricoro,ΕΛΠΙΣ,1112,KAERU3,広島県,1993,MELT,広島県,3017,UBSACK,広島県
@@ -733,7 +733,7 @@ tricoro,Beastie Starter,458,59RY,広島県,1204,MGRTTK,広島県,2018,SILVI,広�
 tricoro,Ascalon,1085,*M1,広島県,1784,NATTSU,広島県,2265,A,広島県
 tricoro,8bit Princess,635,TERA.P,広島県,1283,KEN!MA,広島県,2625,NKNFAL,広島県
 tricoro,405nm (Ryu☆mix),885,KAERU3,広島県,1696,G-END#,広島県,2524,SIN16U,広島県
-SPADA,轟け！恋のビーンボール！！,819,59RY,広島県,1879,MYNEEZ,広島県,3336,UBSACK,広島県
+SPADA,轟け！恋のビーンボール！！,938,*ASPN*,広島県,1879,MYNEEZ,広島県,3336,UBSACK,広島県
 SPADA,超!!遠距離らぶ?メ～ル,432,FIRION,広島県,1400,NOIRE,広島県,2638,NKNFAL,広島県
 SPADA,罪と罰,1085,L3-VDT,広島県,1323,KAERU3,広島県,2149,NKNFAL,広島県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3195,UBSACK,広島県
@@ -984,7 +984,7 @@ copula,DIAMOND CROSSING,936,VUEEEE,広島県,1705,CORGI,広島県,2930,NKNFAL,�
 copula,Devil's Gear,1041,MELT,広島県,2097,NATTSU,広島県,3379,NKNFAL,広島県
 copula,Derelict Star feat. Ryu*,1199,GY1W5,広島県,1843,NATTSU,広島県,2558,A,広島県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2259,-AKI-,広島県
-copula,Damage Per Second,785,V2ABG,広島県,1263,NOIRE,広島県,2006,UBSACK,広島県
+copula,Damage Per Second,785,V2ABG,広島県,1344,TERA.P,広島県,2006,UBSACK,広島県
 copula,Daily Lunch Special,1069,MELT,広島県,2142,A,広島県,2877,-AKI-,広島県
 copula,CODE:1 [revision1.0.1],908,*ASPN*,広島県,1708,NATTSU,広島県,2935,SIN16U,広島県
 copula,chaos eater -IIDX edition-,971,*ASPN*,広島県,1688,NATTSU,広島県,2542,UBSACK,広島県
