@@ -18,7 +18,7 @@
 2nd style,Indigo Vision(full flavour hide around mix),878,LAHAR*,東京都,1126,LAHAR*,東京都,1227,MIKAMO,東京都
 2nd style,I Was The One,544,NEODIO,青森県,651,N!?,北海道,693,CARROT,福岡県
 2nd style,Electro Tuned(the SubS mix),769,LAYER,千葉県,962,AGUILA,千葉県,1072,N!?,北海道
-2nd style,Digital MinD(A/T Libra mix),738,EZ2AC,埼玉県,1069,TMHGKG,香港,1135,Y,京都府
+2nd style,Digital MinD(A/T Libra mix),738,EZ2AC,埼玉県,1069,TMHGKG,香港,1135,FFFFFF,京都府
 2nd style,.59,715,*9N2*,神奈川県,1020,LAHAR*,東京都,1159,N!?,北海道
 3rd style,THE SAFARI,1227,LAHAR*,東京都,1784,TANMEN,韓国,0,,未設定
 3rd style,Tangerine Stream,282,IMOTO*,大阪府,396,IMOTO*,大阪府,0,,未設定
@@ -92,7 +92,7 @@
 6th style,Buffalo,1007,LAHAR*,東京都,1470,N!?,北海道,1830,CHARM,韓国
 6th style,Blueberry Stream,844,LAHAR*,東京都,1499,LAHAR*,東京都,1684,DINASO,神奈川県
 6th style,BALLAD FOR YOU～想いの雨～,594,L3-VDT,広島県,774,L3-VDT,広島県,1074,L3-VDT,広島県
-6th style,"19,November",1117,N!?,北海道,1461,N!?,北海道,1807,CHARM,韓国
+6th style,"19,November",1117,N!?,北海道,1461,N!?,北海道,1809,CHARM,韓国
 7th style,革命,762,LAHAR*,東京都,1983,N!?,北海道,2345,1048,東京都
 7th style,ZERO-ONE,1091,LAYER,千葉県,1717,N!?,北海道,2243,MIKAMO,東京都
 7th style,traces,1532,LAHAR*,東京都,1947,N!?,北海道,2149,MIKAMO,東京都
@@ -308,7 +308,7 @@ DistorteD,MINT,1026,LAHAR*,東京都,1811,YU.AR8,埼玉県,2310,RKS-32,愛知県
 DistorteD,Melody Life,787,TKY,京都府,1337,GENO,岡山県,1859,MIKAMO,東京都
 DistorteD,Leaving...,792,ZARBON,神奈川県,1411,N!?,北海道,2212,2KA3.N,愛知県
 DistorteD,INFERNO,1193,ZARBON,神奈川県,1648,N!?,北海道,2006,TANMEN,韓国
-DistorteD,Heavenly Sun (IIDX VERSION),832,LAHAR*,東京都,1605,N!?,北海道,2114,PEACE,愛知県
+DistorteD,Heavenly Sun (IIDX VERSION),832,LAHAR*,東京都,1605,N!?,北海道,2116,PEACE,愛知県
 DistorteD,Harmony and Lovely,914,CHCOOH,神奈川県,1798,N!?,北海道,2245,DINASO,神奈川県
 DistorteD,Ganymede,1135,REO,新潟県,1738,PEACE,愛知県,2355,MIKAMO,東京都
 DistorteD,EURO-ROMANCE,982,DICE,東京都,1853,N!?,北海道,2102,YUI.OR,埼玉県
@@ -342,7 +342,7 @@ GOLD,the shadow,1226,SHINPO,東京都,2129,N!?,北海道,2938,TANMEN,韓国
 GOLD,snow storm,806,IMOTO*,大阪府,2315,N!?,北海道,2803,TANMEN,韓国
 GOLD,smile,1481,N!?,北海道,2181,N!?,北海道,2903,CHARM,韓国
 GOLD,Sense 2007,1548,MI7RAI,東京都,2321,ATTIXX,韓国,2981,TANMEN,韓国
-GOLD,Second Heaven,993,MARO-N,神奈川県,1561,LAHAR*,東京都,2131,DINASO,神奈川県
+GOLD,Second Heaven,995,*ALEX*,静岡県,1561,LAHAR*,東京都,2131,DINASO,神奈川県
 GOLD,Roulette,915,IMOTO*,大阪府,1465,N!?,北海道,2130,DINASO,神奈川県
 GOLD,PHOTONGENIC,1390,N!?,北海道,1991,N!?,北海道,2316,RKS-32,愛知県
 GOLD,op.31 叙情,632,NEODIO,青森県,1351,GP03-D,東京都,1616,GP03-D,東京都
@@ -369,7 +369,7 @@ GOLD,Candy Galy,1590,N!?,北海道,2558,LAHAR*,東京都,3568,U*TAKA,千葉県
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1344,LAHAR*,東京都,1981,N!?,北海道,2479,RAG*,東京都
 GOLD,ANDROMEDA II,985,LAHAR*,東京都,1941,N!?,北海道,2492,HAWKS*,韓国
 GOLD,Air Bell,987,SUBARU,東京都,1365,GOEMON,神奈川県,1729,DINASO,神奈川県
-DJ TROOPERS,走馬灯 -The Last Song-,513,HIROTA,長野県,924,BECK69,広島県,1344,KOME-S,福島県
+DJ TROOPERS,走馬灯 -The Last Song-,513,HIROTA,長野県,924,BECK69,広島県,1346,UNA-10,愛知県
 DJ TROOPERS,華爛漫 -Flowers-,1014,LAHAR*,東京都,1596,N!?,北海道,2056,TANMEN,韓国
 DJ TROOPERS,少年A,1276,N!?,北海道,2252,A.SONC,北海道,2848,CHARM,韓国
 DJ TROOPERS,ミラージュ・レジデンス,1128,LAHAR*,東京都,2158,N!?,北海道,2673,TAMNEN,埼玉県
@@ -409,7 +409,7 @@ DJ TROOPERS,four pieces of heaven,955,NEODIO,青森県,1896,HELPME,愛知県,237
 DJ TROOPERS,evergreen,1004,LAHAR*,東京都,1426,N!?,北海道,1972,DINASO,神奈川県
 DJ TROOPERS,end of world,1032,ZARBON,神奈川県,1823,N!?,北海道,2508,IIDX26,神奈川県
 DJ TROOPERS,Do it!! Do it!!,1064,SHINPO,東京都,1578,LAHAR*,東京都,1953,KKM*,韓国
-DJ TROOPERS,Digitank System,954,NEODIO,青森県,1614,MN.SDK,神奈川県,2169,CHARM,韓国
+DJ TROOPERS,Digitank System,954,NEODIO,青森県,1614,MN.SDK,神奈川県,2170,CHARM,韓国
 DJ TROOPERS,Dazzlin' Darlin,910,IN-PO,東京都,1407,GENO,岡山県,2228,UNA-10,愛知県
 DJ TROOPERS,Darling my LUV,699,LAHAR*,東京都,1016,MONO,愛知県,1388,MACAOF,韓国
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3360,KKM*,韓国
@@ -436,7 +436,7 @@ EMPRESS,V2,1499,IMOTO*,大阪府,3181,STYU--,神奈川県,3604,RKS-32,愛知県
 EMPRESS,Turii ～Panta rhei～,898,CHCOOH,神奈川県,2089,N!?,北海道,2684,TANMEN,韓国
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,3021,KKM*,韓国
 EMPRESS,THANK YOU FOR PLAYING,818,T,青森県,1685,N!?,北海道,2150,MACAOF,韓国
-EMPRESS,SOLITON BEAM,1462,LAHAR*,東京都,2118,N!?,北海道,2359,NA!,愛知県
+EMPRESS,SOLITON BEAM,1462,LAHAR*,東京都,2118,N!?,北海道,2367,PEACE,愛知県
 EMPRESS,smooooch・∀・,836,CHCOOH,神奈川県,1655,LAHAR*,東京都,2159,TANMEN,韓国
 EMPRESS,Secrets,1275,IN-PO,東京都,2488,RIS.BN,愛知県,3173,TANMEN,韓国
 EMPRESS,Queen's Tragedy,852,TKY,京都府,1724,LAHAR*,東京都,2248,*TA93N,東京都
@@ -517,7 +517,7 @@ SIRIUS,bloomin' feeling,1276,LAHAR*,東京都,1957,N!?,北海道,2621,DOLCE.,岩
 SIRIUS,being torn the sky,662,CHCOOH,神奈川県,1220,*ALEX*,静岡県,1993,MACAOF,韓国
 SIRIUS,BEAUTIFUL ANGEL,642,CHCOOH,神奈川県,1831,N!?,北海道,2497,TANMEN,韓国
 SIRIUS,beatchic☆仮面～好き、でいさせて～,1013,ZARBON,神奈川県,1657,TMHGKG,香港,2024,1-PIN,埼玉県
-SIRIUS,bass 2 bass,732,IMOTO*,大阪府,1271,*ALEX*,静岡県,1912,MACAO6,韓国
+SIRIUS,bass 2 bass,732,IMOTO*,大阪府,1271,*ALEX*,静岡県,1915,CHARM,韓国
 SIRIUS,Bad Maniacs,1297,LAHAR*,東京都,1900,LAHAR*,東京都,3270,U*TAKA,千葉県
 SIRIUS,Almagest,1033,N!?,北海道,2265,TANMEN,韓国,3189,KKM*,韓国
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1172,LAHAR*,東京都,1885,LAHAR*,東京都,2359,TAMNEN,埼玉県
@@ -567,7 +567,7 @@ Resort Anthem,Eternal Tears,444,IMOTO*,大阪府,1100,LARK!M,神奈川県,1379,D
 Resort Anthem,Energy Drive,889,LAHAR*,東京都,1498,LAHAR*,東京都,2221,TANMEN,韓国
 Resort Anthem,ELECTRIC MASSIVE DIVER,1364,N!?,北海道,2525,LAHAR*,東京都,3716,F.XIII,韓国
 Resort Anthem,DM STAR～関西 energy style～,1124,IN-PO,東京都,1946,TAMNEN,埼玉県,2405,TANMEN,韓国
-Resort Anthem,Destiny Sword,899,DICE,東京都,1818,LAHAR*,東京都,2407,TANMEN,韓国
+Resort Anthem,Destiny Sword,899,DICE,東京都,1818,LAHAR*,東京都,2413,TANMEN,韓国
 Resort Anthem,DAYDREAMER,1193,ZARBON,神奈川県,1768,B-RABI,滋賀県,2525,MACAOF,韓国
 Resort Anthem,Dances with Snow Fairies,1459,ZARBON,神奈川県,2275,DT-G5Q,海外,3173,KKM*,韓国
 Resort Anthem,BROKEN EDEN,1071,LAHAR*,東京都,1799,LAHAR*,東京都,2343,TANMEN,韓国
@@ -618,7 +618,7 @@ Lincle,QUANTUM TELEPORTATION,1435,LAHAR*,東京都,2392,N!?,北海道,2955,MN.SD
 Lincle,prompt,962,IMOTO*,大阪府,1600,GENO,岡山県,2822,HAWKS*,韓国
 Lincle,Phoenix,906,IN-PO,東京都,1228,IN-PO,東京都,2496,MN.IGW,神奈川県
 Lincle,NNRT,1259,GES8RO,千葉県,2525,DONUTS,山形県,3514,HAWKS*,韓国
-Lincle,Miami Sunset Drive,641,LAHAR*,東京都,1085,LAHAR*,東京都,1672,*TA93N,東京都
+Lincle,Miami Sunset Drive,641,LAHAR*,東京都,1085,LAHAR*,東京都,1673,CHARM,韓国
 Lincle,Mermaid girl-秋葉工房 MIX-,830,IN-PO,東京都,1355,LAHAR*,東京都,2058,-ENA-,埼玉県
 Lincle,Lucky Days,666,IN-PO,東京都,1535,Y13,東京都,2209,DINASO,神奈川県
 Lincle,LOVE B.B.B,788,CHCOOH,神奈川県,1527,MONO,愛知県,2033,CHARM,韓国
@@ -807,7 +807,7 @@ SPADA,Critical Crystal,1107,LAHAR*,東京都,1871,LAHAR*,東京都,2945,TANMEN,�
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3907,U*TAKA,千葉県
 SPADA,Close the World feat. a☆ru,1156,IMOTO*,大阪府,2115,HELPME,愛知県,3430,U*TAKA,千葉県
 SPADA,Cleopatrysm,817,LAHAR*,東京都,1483,LAHAR*,東京都,2604,HAWKS*,韓国
-SPADA,Claiomh Solais,346,IMOTO*,大阪府,1434,MONO,愛知県,2093,MACAOF,韓国
+SPADA,Claiomh Solais,346,IMOTO*,大阪府,1434,MONO,愛知県,2095,IIDX25,東京都
 SPADA,BRAVE OUT,1053,GES8RO,千葉県,1542,GENO,岡山県,2173,CHARM,韓国
 SPADA,BRAINSTORM,767,DICE,東京都,2011,IIDX18,韓国,2839,DOLCE.,岩手県
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1520,N!?,北海道,2275,LAHAR*,東京都,3403,DOLCE.,岩手県
@@ -861,7 +861,7 @@ PENDUAL,Say YEEEAHH,1187,LAHAR*,東京都,1865,LAHAR*,東京都,3305,HAWKS*,韓�
 PENDUAL,SAMSARA,864,CHCOOH,神奈川県,1456,IN-PO,東京都,2056,NA!,愛知県
 PENDUAL,Sakura Mirage,1017,LAHAR*,東京都,1394,MONO,愛知県,2358,CHARM,韓国
 PENDUAL,Reflux,794,MOGRA3,千葉県,1629,HELPME,愛知県,3057,TANMEN,韓国
-PENDUAL,Realize Maze,1274,ZARBON,神奈川県,2098,N!?,北海道,2996,DOLCE.,岩手県
+PENDUAL,Realize Maze,1276,CARROT,福岡県,2098,N!?,北海道,2996,DOLCE.,岩手県
 PENDUAL,Rave*it!! Rave*it!!,1023,LAHAR*,東京都,1707,GIGANT,和歌山県,3291,MN.445,神奈川県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),778,EZR,埼玉県,1546,LAHAR*,東京都,2313,DINASO,神奈川県
 PENDUAL,PENDUAL TALISMAN,1047,CARROT,福岡県,1628,MONO,愛知県,2617,DINASO,神奈川県
@@ -899,7 +899,7 @@ PENDUAL,Chrono Diver -PENDULUMs-,1441,N!?,北海道,2806,TANMEN,韓国,4380,U*TA
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4400,U*TAKA,千葉県
 PENDUAL,CHRONO DIVER -NORNIR-,1173,LAYER,千葉県,2229,N!?,北海道,3107,ATTIXX,韓国
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2264,MIKAMO,東京都
-PENDUAL,chrono diver -fragment-,694,B-RABI,滋賀県,1176,GENO,岡山県,1792,G*,群馬県
+PENDUAL,chrono diver -fragment-,694,B-RABI,滋賀県,1176,GENO,岡山県,1796,HINATA,大分県
 PENDUAL,Chain of pain,784,LAHAR*,東京都,1555,LAHAR*,東京都,2241,MIKAMO,東京都
 PENDUAL,Broken Sword,1310,N!?,北海道,2088,HELPME,愛知県,3739,U*TAKA,千葉県
 PENDUAL,BLUE MIRAGE,1172,SHINPO,東京都,2123,87DD,埼玉県,3104,TANMEN,韓国
@@ -976,7 +976,7 @@ copula,Glitch Nerds,1046,SHINPO,富山県,1458,CARROT,福岡県,2271,KOMARI,静�
 copula,GET READY!!,1063,LAHAR*,東京都,1630,LAHAR*,東京都,2683,TANMEN,韓国
 copula,GENERATE feat.綾倉盟,1143,CARROT,福岡県,1776,LAHAR*,東京都,2359,MIKAMO,東京都
 copula,Exchange Place,776,CHCOOH,神奈川県,1283,LAHAR*,東京都,1801,RIOO,富山県
-copula,Everlasting Last,851,ZARBON,神奈川県,1656,*ALEX*,静岡県,2240,TANMEN,韓国
+copula,Everlasting Last,851,ZARBON,神奈川県,1662,*ALEX*,静岡県,2240,TANMEN,韓国
 copula,Dynamite,1217,ZARBON,神奈川県,2483,CHARM,韓国,3862,DOLCE.,岩手県
 copula,Donkey Donk,1204,LAHAR*,東京都,1763,LAHAR*,東京都,2282,CHARM,韓国
 copula,do the thing feat. Kanae Asaba,634,LAHAR*,東京都,1542,LAHAR*,東京都,2326,KOMARI,静岡県
@@ -1041,7 +1041,7 @@ SINOBUZ,Selfish Sweet,654,CHCOOH,神奈川県,977,ZARBON,神奈川県,1729,CHARM
 SINOBUZ,Seize the Day,775,ZARBON,神奈川県,1378,LAHAR*,東京都,2175,MIKAMO,東京都
 SINOBUZ,Seaside Labyrinth,651,LAYER,千葉県,1312,LAHAR*,東京都,1891,MIKAMO,東京都
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,886,CARROT,福岡県,1616,KAIFAN,北海道,2363,SIGSIG,韓国
-SINOBUZ,SAY BAY,849,LAHAR*,東京都,1516,LAHAR*,東京都,2854,HAWKS*,韓国
+SINOBUZ,SAY BAY,852,CARROT,福岡県,1516,LAHAR*,東京都,2854,HAWKS*,韓国
 SINOBUZ,Sarutobi Champion is 拙者,987,LAHAR*,東京都,1568,SHINPO,東京都,2250,DOLCE.,岩手県
 SINOBUZ,SAMURAI-Scramble,1017,CARROT,福岡県,1704,GIGANT,和歌山県,2431,CHARM,韓国
 SINOBUZ,ROTTERDAM SHOGUN,1134,LAHAR*,東京都,1842,*SHO*,新潟県,2581,CHARM,韓国
@@ -1170,7 +1170,7 @@ CANNON BALLERS,Boomy and The Boost,1068,LAHAR*,東京都,2064,N!?,北海道,3615
 CANNON BALLERS,Best of Me,826,ZARBON,神奈川県,1609,N!?,北海道,2240,CHARM,韓国
 CANNON BALLERS,Beast mode,1062,EZR,埼玉県,1570,8KITR1,大阪府,2769,MACAOF,韓国
 CANNON BALLERS,Be a Hero!,788,ZARBON,神奈川県,1974,N!?,北海道,3152,TANMEN,韓国
-CANNON BALLERS,Battleground,1185,ZARBON,神奈川県,1901,ROCHER,マカオ,2697,HAWKS*,韓国
+CANNON BALLERS,Battleground,1185,ZARBON,神奈川県,1901,ROCHER,マカオ,2701,TANMEN,韓国
 CANNON BALLERS,Back Spin Sweeper,862,LAHAR*,東京都,1415,HELPME,愛知県,2288,TANMEN,韓国
 CANNON BALLERS,Around the Future,1102,DICE,東京都,1742,AZARA4,埼玉県,2622,DOLCE.,岩手県
 CANNON BALLERS,Arca,928,KI.,千葉県,1902,LAHAR*,東京都,3169,TANMEN,韓国
@@ -1257,6 +1257,6 @@ Rootage,Angels & Demons,936,N!?,北海道,1809,MN.SDK,神奈川県,2457,MACAOF,�
 Rootage,AGAiN,1034,RIOO,富山県,1638,IMOTO*,大阪府,2321,TAMNEN,埼玉県
 Rootage,A Tale Hidden In The Abyss,956,GES8RO,千葉県,1759,HINATA,大分県,2660,CHARM,韓国
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1241,ZARBON,神奈川県,1661,N!?,北海道,2610,MOKA.A,茨城県
-Rootage,50th Memorial Songs -The BEMANI History-,1088,ZARBON,神奈川県,1678,N!?,北海道,2660,TANMEN,韓国
-Rootage,50th Memorial Songs -Flagship medley-,979,GES8RO,千葉県,1556,CHARM,韓国,2289,CHARM,韓国
+Rootage,50th Memorial Songs -The BEMANI History-,1089,CARROT,福岡県,1678,N!?,北海道,2660,TANMEN,韓国
+Rootage,50th Memorial Songs -Flagship medley-,986,CARROT,福岡県,1556,CHARM,韓国,2289,CHARM,韓国
 Rootage,50th Memorial Songs -Beginning Story-,834,CARROT,福岡県,1686,N!?,北海道,2726,DINASO,神奈川県

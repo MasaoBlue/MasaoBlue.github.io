@@ -110,7 +110,7 @@
 7th style,D2R,0,,未設定,732,KLOCK,宮崎県,1535,ELISE*,宮崎県
 7th style,Cheer Train,768,RIDER1,宮崎県,707,IKAROS,宮崎県,1647,S.RUKI,宮崎県
 7th style,Burning Heat! (Full Option Mix),295,MS-9,宮崎県,389,00F,宮崎県,1340,ELISE*,宮崎県
-7th style,Bad Routine,0,,未設定,0,,未設定,1838,ELISE*,宮崎県
+7th style,Bad Routine,0,,未設定,1200,AZUKI7,宮崎県,1838,ELISE*,宮崎県
 7th style,AVE DE RAPINA,0,,未設定,1299,KATU,宮崎県,1721,ELISE*,宮崎県
 7th style,A,768,IKAROS,宮崎県,2003,AIM,宮崎県,2290,ELISE*,宮崎県
 8th style,蒼い衝動,767,RIDER1,宮崎県,1200,KATU,宮崎県,1549,ELISE*,宮崎県
@@ -155,14 +155,14 @@
 9th style,Quickening,0,,未設定,1374,KATU,宮崎県,1980,TRAVIS,宮崎県
 9th style,quasar,924,RIDER1,宮崎県,1546,KEYMAN,宮崎県,2258,ABYSS.,宮崎県
 9th style,one or eight,875,RIDER1,宮崎県,1597,NANA*4,宮崎県,2108,ABYSS.,宮崎県
-9th style,moon_child,807,RIDER1,宮崎県,1745,KEYMAN,宮崎県,2332,ELISE*,宮崎県
+9th style,moon_child,807,RIDER1,宮崎県,1777,AZUKI7,宮崎県,2332,ELISE*,宮崎県
 9th style,MARIA (I believe... ),269,NONN,宮崎県,1172,00F,宮崎県,1861,ELISE*,宮崎県
 9th style,Make A Difference,256,NONN,宮崎県,1231,CAT503,宮崎県,2083,ELISE*,宮崎県
 9th style,lower world,0,,未設定,1412,KATU,宮崎県,2075,ELISE*,宮崎県
 9th style,LOVE SHINE,770,4SE1.3,宮崎県,1721,3KAREA,宮崎県,2035,ELISE*,宮崎県
 9th style,lights,0,,未設定,776,IKAROS,宮崎県,1657,ELISE*,宮崎県
 9th style,Let The Snow Paint Me -Y&Co. Remix-,0,,未設定,708,IKAROS,宮崎県,1743,CH1NO,宮崎県
-9th style,Karma,1080,SAYATO,宮崎県,1162,RIDER1,宮崎県,1724,CH1NO,宮崎県
+9th style,Karma,1080,SAYATO,宮崎県,1244,00F,宮崎県,1724,CH1NO,宮崎県
 9th style,I Was The One (80's EUROBEAT STYLE),306,CHLOE,宮崎県,1280,F,宮崎県,1370,ELISE*,宮崎県
 9th style,HYPER EUROBEAT (2DX style),0,,未設定,1352,EXCS,宮崎県,1864,ELISE*,宮崎県
 9th style,Golden Horn,580,RIDER1,宮崎県,0,,未設定,1360,ELISE*,宮崎県
@@ -240,7 +240,7 @@ IIDX RED,awakening,888,RIDER1,宮崎県,659,IKAROS,宮崎県,1620,ELISE*,宮崎�
 IIDX RED,ANDROMEDA,475,DJ320,宮崎県,1700,SHU-KA,宮崎県,2812,ABYSS.,宮崎県
 IIDX RED,AGEHA,760,KUMA,宮崎県,1263,RIDER1,宮崎県,1817,AZUSA,宮崎県
 IIDX RED,AA,995,AYU,宮崎県,2474,ARIA-P,宮崎県,3495,CH1NO,宮崎県
-HAPPY SKY,月光,454,AKA,宮崎県,1501,AZUKI7,宮崎県,2341,CH1NO,宮崎県
+HAPPY SKY,月光,454,AKA,宮崎県,1501,AZUKI7,宮崎県,2362,CH1NO,宮崎県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),930,RIDER1,宮崎県,1421,FIA,宮崎県,1824,CH1NO,宮崎県
 HAPPY SKY,冥,969,CH1NO,宮崎県,1907,ARIA-P,宮崎県,3446,CH1NO,宮崎県
 HAPPY SKY,ラクエン,0,,未設定,590,HILAGI,宮崎県,1837,AZUSA,宮崎県
@@ -353,7 +353,7 @@ GOLD,Love Again...,0,,未設定,0,,未設定,1043,ELISE*,宮崎県
 GOLD,LASER CRUSTER,1096,RIDER1,宮崎県,2338,CH1NO,宮崎県,3076,ABYSS.,宮崎県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3572,CH1NO,宮崎県
 GOLD,KAMAITACHI,1124,SIE,宮崎県,1768,KEYMAN,宮崎県,2602,CH1NO,宮崎県
-GOLD,INORI,1153,RIDER1,宮崎県,2237,KEYMAN,宮崎県,2946,CH1NO,宮崎県
+GOLD,INORI,1153,RIDER1,宮崎県,2237,KEYMAN,宮崎県,2982,CH1NO,宮崎県
 GOLD,High School Love,778,POPPIN,宮崎県,1351,POPPIN,宮崎県,2151,ELISE*,宮崎県
 GOLD,heaven above,587,HILAGI,宮崎県,1058,KATU,宮崎県,1784,CH1NO,宮崎県
 GOLD,GRID KNIGHT,625,P*REAF,宮崎県,1604,KATU,宮崎県,2497,CH1NO,宮崎県
@@ -587,7 +587,7 @@ Lincle,聖人の塔,840,RIDER1,宮崎県,1626,*BLUE*,宮崎県,2623,ELISE*,宮�
 Lincle,突撃!ガラスのニーソ姫!,601,RIDER1,宮崎県,1045,4SE1.3,宮崎県,2021,CH1NO,宮崎県
 Lincle,恋する☆宇宙戦争っ！！,870,RIDER1,宮崎県,1687,MONOBU,宮崎県,3375,CH1NO,宮崎県
 Lincle,子供の落書き帳,474,HIROTI,宮崎県,1532,KEYMAN,宮崎県,2492,CH1NO,宮崎県
-Lincle,天空の夜明け,1115,YKRMRS,宮崎県,1941,ARIA-P,宮崎県,3831,CH1NO,宮崎県
+Lincle,天空の夜明け,1115,YKRMRS,宮崎県,1941,ARIA-P,宮崎県,3846,CH1NO,宮崎県
 Lincle,君のハートにロックオン,411,CHLOE,宮崎県,1529,4SE1.3,宮崎県,2498,CH1NO,宮崎県
 Lincle,ユミル,0,,未設定,1104,TENGA,宮崎県,2731,ABYSS.,宮崎県
 Lincle,ビューティフルレシート,369,CMSAVE,宮崎県,1125,FIA,宮崎県,1841,MISAWA,宮崎県
@@ -648,7 +648,7 @@ Lincle,24th Century BOY,719,P*REAF,宮崎県,1674,POPPIN,宮崎県,2762,CH1NO,�
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3127,ABYSS.,宮崎県
 tricoro,龍と少女とデコヒーレンス,716,P*REAF,宮崎県,1448,KEYMAN,宮崎県,2909,CH1NO,宮崎県
 tricoro,音楽,0,,未設定,1776,NANA*4,宮崎県,2444,CH1NO,宮崎県
-tricoro,狂イ咲ケ焔ノ華,999,RIDER1,宮崎県,2161,FIA,宮崎県,3414,CH1NO,宮崎県
+tricoro,狂イ咲ケ焔ノ華,999,RIDER1,宮崎県,2161,FIA,宮崎県,3420,CH1NO,宮崎県
 tricoro,梅雪夜,715,P*REAF,宮崎県,1246,YKRMRS,宮崎県,2097,TRAVIS,宮崎県
 tricoro,朧†,0,,未設定,0,,未設定,2483,ABYSS.,宮崎県
 tricoro,朧,714,RIDER1,宮崎県,1386,AZUKI7,宮崎県,2079,ABYSS.,宮崎県
@@ -666,7 +666,7 @@ tricoro,カジノファイヤーことみちゃん,408,P*REAF,宮崎県,1237,F,�
 tricoro,アストライアの双皿,453,P*REAF,宮崎県,1495,HERO,宮崎県,2778,ELISE*,宮崎県
 tricoro,たまゆら,819,SHIN,宮崎県,1673,!*&$$$,宮崎県,2594,AZUSA,宮崎県
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,660,SUTUNU,宮崎県,1053,RIDER1,宮崎県,2032,ELISE*,宮崎県
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),465,P*REAF,宮崎県,1501,RYOTA,宮崎県,3351,CH1NO,宮崎県
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),465,P*REAF,宮崎県,1501,RYOTA,宮崎県,3390,CH1NO,宮崎県
 tricoro,ΕΛΠΙΣ,1010,RIDER1,宮崎県,1928,CARREY,宮崎県,3032,CH1NO,宮崎県
 tricoro,Zirkfied,866,RIDER1,宮崎県,1994,TRAVIS,宮崎県,3582,CH1NO,宮崎県
 tricoro,ZED,713,P*REAF,宮崎県,1455,R,宮崎県,2661,CH1NO,宮崎県
@@ -684,7 +684,7 @@ tricoro,Take My Life,521,HILAGI,宮崎県,1348,KATU,宮崎県,2694,AIM,宮崎県
 tricoro,Synergy For Angels,775,RIDER1,宮崎県,1465,417,宮崎県,2671,ABYSS.,宮崎県
 tricoro,SYNC-ANTHEM,825,RIDER1,宮崎県,2216,ISUMI,宮崎県,3510,CH1NO,宮崎県
 tricoro,STULTI,0,,未設定,1321,3KAREA,宮崎県,2581,CH1NO,宮崎県
-tricoro,Sol Cosine Job 2,682,HILAGI,宮崎県,0,,未設定,2966,CH1NO,宮崎県
+tricoro,Sol Cosine Job 2,682,HILAGI,宮崎県,0,,未設定,2967,CH1NO,宮崎県
 tricoro,SHION,551,P*REAF,宮崎県,1186,-8888,宮崎県,2605,ELISE*,宮崎県
 tricoro,Shining World,1141,4SE1.3,宮崎県,1402,POPPIN,宮崎県,1920,TRAVIS,宮崎県
 tricoro,Saturn,891,SAYATO,宮崎県,1702,FIA,宮崎県,2542,ABYSS.,宮崎県
@@ -720,13 +720,13 @@ tricoro,GAIA,835,RIDER1,宮崎県,1893,MTRK,宮崎県,3182,CH1NO,宮崎県
 tricoro,Fly you to the star,710,RIDER1,宮崎県,1483,4SE1.3,宮崎県,2210,CH1NO,宮崎県
 tricoro,FLOWER,878,P*REAF,宮崎県,1558,EXCS,宮崎県,2782,CH1NO,宮崎県
 tricoro,examination leave,728,HILAGI,宮崎県,1735,AZUKI7,宮崎県,3323,ABYSS.,宮崎県
-tricoro,Elemental Creation,1146,P*REAF,宮崎県,2234,ARIA-P,宮崎県,3884,CH1NO,宮崎県
+tricoro,Elemental Creation,1146,P*REAF,宮崎県,2234,ARIA-P,宮崎県,3947,CH1NO,宮崎県
 tricoro,Devilz Staircase,351,KEI,宮崎県,1932,F,宮崎県,3073,AR2,宮崎県
 tricoro,DAY DREAM,529,ABYSS.,宮崎県,1103,GYUDON,宮崎県,1725,GYUDON,宮崎県
 tricoro,Cookie Bouquets,504,HILAGI,宮崎県,1869,POPPIN,宮崎県,3285,CH1NO,宮崎県
 tricoro,connective,297,SPIDER,宮崎県,836,KO-NO,宮崎県,1585,AR2,宮崎県
 tricoro,Confiserie,811,P*REAF,宮崎県,1828,Y0TIKO,宮崎県,3351,CH1NO,宮崎県
-tricoro,CONCEPTUAL,537,P*REAF,宮崎県,1074,RIDER1,宮崎県,2622,CH1NO,宮崎県
+tricoro,CONCEPTUAL,537,P*REAF,宮崎県,1074,RIDER1,宮崎県,2633,CH1NO,宮崎県
 tricoro,BRAVE GLOW,0,,未設定,1288,SAYATO,宮崎県,2369,CH1NO,宮崎県
 tricoro,BLUE STRAGGLER,290,CHLOE,宮崎県,0,,未設定,2498,CH1NO,宮崎県
 tricoro,Beastie Starter,296,MS-9,宮崎県,1265,CH1NO,宮崎県,1934,CH1NO,宮崎県
@@ -1022,7 +1022,7 @@ SINOBUZ,yamabiko (SINOBUZ Edition),0,,未設定,1109,00F,宮崎県,2421,ELISE*,�
 SINOBUZ,XINOBIKILL,719,IKAROS,宮崎県,1611,MIYO.H,宮崎県,2671,ELISE*,宮崎県
 SINOBUZ,Warrior,987,FIA,宮崎県,1538,KATU,宮崎県,2354,AZUSA,宮崎県
 SINOBUZ,Vermilion,589,AMMMMM,宮崎県,1245,FIA,宮崎県,1892,CH1NO,宮崎県
-SINOBUZ,Venom,640,TAKESI,宮崎県,1899,MTRK,宮崎県,3051,CH1NO,宮崎県
+SINOBUZ,Venom,640,TAKESI,宮崎県,1899,MTRK,宮崎県,3059,CH1NO,宮崎県
 SINOBUZ,Umbral,270,TA,宮崎県,0,,未設定,1850,ELISE*,宮崎県
 SINOBUZ,TOGAKUSHI,0,,未設定,1356,EXCS,宮崎県,2360,CH1NO,宮崎県
 SINOBUZ,The Commanders,819,P*REAF,宮崎県,1269,K-CHEF,宮崎県,2401,CH1NO,宮崎県
@@ -1065,7 +1065,7 @@ SINOBUZ,INVISIBLE STRIX,866,REFKHP,宮崎県,1757,KEYMAN,宮崎県,2462,TRAVIS,�
 SINOBUZ,Honey Trap,595,P*REAF,宮崎県,1279,4MOTKN,宮崎県,2334,TRAVIS,宮崎県
 SINOBUZ,HAPPY★RUSH,525,OSATO,宮崎県,1656,POPPIN,宮崎県,2620,AZUSA,宮崎県
 SINOBUZ,HADES,737,P*REAF,宮崎県,1748,YUU39N,宮崎県,2876,ABYSS.,宮崎県
-SINOBUZ,GuNGNiR,1105,RIDER1,宮崎県,2329,KEN*2,宮崎県,3750,CH1NO,宮崎県
+SINOBUZ,GuNGNiR,1105,RIDER1,宮崎県,2346,ELISE*,宮崎県,3750,CH1NO,宮崎県
 SINOBUZ,Go Ahead!!,965,FIA,宮崎県,1433,YUU39N,宮崎県,2593,CH1NO,宮崎県
 SINOBUZ,FUZIN RIZIN,650,HILAGI,宮崎県,1777,417,宮崎県,3591,CH1NO,宮崎県
 SINOBUZ,elemental bender feat. Kanae Asaba,370,P*REAF,宮崎県,680,IKAROS,宮崎県,1578,ELISE*,宮崎県
@@ -1102,7 +1102,7 @@ CANNON BALLERS,命の標本,0,,未設定,1166,RIDER1,宮崎県,2490,TRAVIS,宮�
 CANNON BALLERS,共犯へヴンズコード,262,SPIDER,宮崎県,0,,未設定,2096,ELISE*,宮崎県
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,未設定,1324,C0C0,宮崎県,2039,ELISE*,宮崎県
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),889,00F,宮崎県,1482,SKY,宮崎県,2541,ELISE*,宮崎県
-CANNON BALLERS,バスルーム ロマンス,790,SUTUNU,宮崎県,1129,POPPIN,宮崎県,2308,TRAVIS,宮崎県
+CANNON BALLERS,バスルーム ロマンス,790,SUTUNU,宮崎県,1129,POPPIN,宮崎県,2325,CH1NO,宮崎県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,未設定,1502,SKY,宮崎県,2403,TRAVIS,宮崎県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,476,CHLOE,宮崎県,1413,ELISE*,宮崎県,2366,AZUSA,宮崎県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,489,RURI,宮崎県,1046,HILAGI,宮崎県,2046,COBOL,宮崎県

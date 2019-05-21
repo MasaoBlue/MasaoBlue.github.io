@@ -253,7 +253,7 @@ HAPPY SKY,vault of heaven,756,GHOST,北海道,1446,N!?,北海道,1993,N!?,北海
 HAPPY SKY,Under the Sky,915,N!?,北海道,1410,N!?,北海道,1731,N!?,北海道
 HAPPY SKY,Twelfth Style,1125,2BAME*,北海道,1343,3888M,北海道,2011,KAI,北海道
 HAPPY SKY,Tizona d'El Cid,904,2BAME*,北海道,1974,N!?,北海道,2328,N!?,北海道
-HAPPY SKY,SigSig,1062,NZ,北海道,1716,N!?,北海道,2585,KA10.T,北海道
+HAPPY SKY,SigSig,1062,NZ,北海道,1716,N!?,北海道,2595,A.SONC,北海道
 HAPPY SKY,Scripted Connection⇒ N mix,1235,NOZ,北海道,1704,N!?,北海道,2104,N!?,北海道
 HAPPY SKY,Scripted Connection⇒ H mix,1738,N!?,北海道,2082,N!?,北海道,2487,N!?,北海道
 HAPPY SKY,Scripted Connection⇒ A mix,1707,N!?,北海道,2242,N!?,北海道,3081,FENNEC,北海道
@@ -438,7 +438,7 @@ EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2910,DDH-15,北海道
 EMPRESS,THANK YOU FOR PLAYING,775,NYAMA,北海道,1685,N!?,北海道,2114,N!?,北海道
 EMPRESS,SOLITON BEAM,1400,REIN.D,北海道,2118,N!?,北海道,2339,N!?,北海道
 EMPRESS,smooooch・∀・,831,MISO,北海道,1648,N!?,北海道,2132,N!?,北海道
-EMPRESS,Secrets,1141,XIA,北海道,2480,N!?,北海道,3145,LEAF,北海道
+EMPRESS,Secrets,1235,NYAMA,北海道,2480,N!?,北海道,3145,LEAF,北海道
 EMPRESS,Queen's Tragedy,820,NAO!,北海道,1724,N!?,北海道,2236,N!?,北海道
 EMPRESS,Punch Love 仮面,1080,NAO!,北海道,1755,N!?,北海道,2499,FENNEC,北海道
 EMPRESS,Programmed World,923,IIDX01,北海道,1810,N!?,北海道,2282,A.SONC,北海道
@@ -453,17 +453,17 @@ EMPRESS,Kung-fu Empire,1478,BLAZE$,北海道,2571,FENNEC,北海道,3213,KAI,北�
 EMPRESS,Just a Little Smile,772,RUBY,北海道,1353,N!?,北海道,2452,KAI,北海道
 EMPRESS,Jack,894,NYAMA,北海道,1423,N!?,北海道,2145,3SAKI,北海道
 EMPRESS,I'm Screaming LOVE,604,HARURU,北海道,1268,KAWASE,北海道,1700,N!?,北海道
-EMPRESS,HYPERION,1047,NILM,北海道,2137,N!?,北海道,2733,LEAF,北海道
-EMPRESS,Go Beyond!!,1012,ZAKUR0,北海道,1681,MUCC,北海道,2242,FENNEC,北海道
+EMPRESS,HYPERION,1090,NYAMA,北海道,2137,N!?,北海道,2733,LEAF,北海道
+EMPRESS,Go Beyond!!,1043,NYAMA,北海道,1681,MUCC,北海道,2242,FENNEC,北海道
 EMPRESS,Fly Above,954,MISO,北海道,1606,T-A6.Y,北海道,2031,N!?,北海道
 EMPRESS,Flash Back 90's,910,REIN.D,北海道,1908,N!?,北海道,2324,N!?,北海道
 EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1050,NYAMA,北海道,1875,N!?,北海道,2520,N!?,北海道
 EMPRESS,Colorful Cookie,1095,YK,北海道,2272,N!?,北海道,3493,FENNEC,北海道
-EMPRESS,CaptivAte2～覚醒～,1040,NOZ,北海道,1764,N!?,北海道,2367,A.SONC,北海道
+EMPRESS,CaptivAte2～覚醒～,1068,NYAMA,北海道,1764,N!?,北海道,2367,A.SONC,北海道
 EMPRESS,BRIDAL FESTIVAL !!!,948,REIN.D,北海道,1510,N!?,北海道,2121,N!?,北海道
 EMPRESS,BITTER CHOCOLATE STRIKER,1059,NYAMA,北海道,2156,MUCC,北海道,3896,FENNEC,北海道
 EMPRESS,Bahram Attack-猫叉Master Remix-,1038,REIN.D,北海道,1981,N!?,北海道,2604,N!?,北海道
-EMPRESS,B4U(BEMANI FOR YOU MIX),1126,YUZURU,北海道,2364,N!?,北海道,3532,FENNEC,北海道
+EMPRESS,B4U(BEMANI FOR YOU MIX),1171,NYAMA,北海道,2364,N!?,北海道,3532,FENNEC,北海道
 EMPRESS,Arabian Rave Night,1260,NYAMA,北海道,2221,NYAMA,北海道,2909,KAI,北海道
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,986,YUZURU,北海道,1905,N!?,北海道,2548,A.SONC,北海道
 EMPRESS,ALL I NEED YOUR LOVE,1077,NYAMA,北海道,1720,N!?,北海道,2126,N!?,北海道
@@ -485,7 +485,7 @@ SIRIUS,SOLID STATE SQUAD,978,EMILIA,北海道,2328,N!?,北海道,3507,YKN.C,北�
 SIRIUS,She is my wife,699,L-DEN,北海道,1416,GUNSO-,北海道,1949,KAIFAN,北海道
 SIRIUS,Session 1 -Genesis-,871,NAO!,北海道,1551,BLAZ-,北海道,2434,KIRI,北海道
 SIRIUS,Roots of my way!,861,NAO!,北海道,1361,N!?,北海道,2041,N!?,北海道
-SIRIUS,Red. by Full Metal Jacket,1000,L-DEN,北海道,2075,N!?,北海道,3127,A.SONC,北海道
+SIRIUS,Red. by Full Metal Jacket,1000,L-DEN,北海道,2075,N!?,北海道,3137,A.SONC,北海道
 SIRIUS,Raison d'?tre～交差する宿命～,1140,YUZURU,北海道,2242,GILTAN,北海道,2721,KIRI,北海道
 SIRIUS,quell～the seventh slave～,957,REIN.D,北海道,1761,MUCC,北海道,3183,FENNEC,北海道
 SIRIUS,Programmed Sun,1032,CMG,北海道,1794,ZZZ..2,北海道,2552,*WOOL*,北海道
@@ -522,14 +522,14 @@ SIRIUS,Bad Maniacs,1257,LIZ.KM,北海道,1887,GILTAN,北海道,3232,FENNEC,北�
 SIRIUS,Almagest,1033,N!?,北海道,2202,HINO38,北海道,3162,FENNEC,北海道
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1118,NILM,北海道,1879,N!?,北海道,2329,KAI,北海道
 Resort Anthem,黒髪乱れし修羅となりて,784,YUZURU,北海道,2109,MUCC,北海道,3396,KAI,北海道
-Resort Anthem,灼熱Beach Side Bunny,1121,N!?,北海道,1986,N!?,北海道,3112,FENNEC,北海道
+Resort Anthem,灼熱Beach Side Bunny,1121,N!?,北海道,1986,N!?,北海道,3152,A.SONC,北海道
 Resort Anthem,旅人リラン,1085,PY0NNN,北海道,1949,MUCC,北海道,2639,FENNEC,北海道
 Resort Anthem,夕焼け ～Fading Day～,981,HARURU,北海道,2022,M.,北海道,2786,FENNEC,北海道
 Resort Anthem,中華急行,327,TIZE,北海道,1505,XAN.AM,北海道,2315,YKN.C,北海道
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,855,YUZURU,北海道,1321,KZ*JAM,北海道,1927,N!?,北海道
 Resort Anthem,おおきなこえで,437,YUZURU,北海道,981,HARURU,北海道,1495,N!?,北海道
 Resort Anthem,ZETA～素数の世界と超越者～,537,CHARL.,北海道,2170,N!?,北海道,3087,KAI,北海道
-Resort Anthem,XANADU OF TWO,992,RABBIT,北海道,1702,HIGEKI,北海道,2731,FENNEC,北海道
+Resort Anthem,XANADU OF TWO,992,RABBIT,北海道,1737,MACAOM,北海道,2731,FENNEC,北海道
 Resort Anthem,Wuv U,403,YUZURU,北海道,1253,MAI.K,北海道,1689,*WOOL*,北海道
 Resort Anthem,WISE UP!,474,YUZURU,北海道,1174,LIZ.KM,北海道,1600,N!?,北海道
 Resort Anthem,WE LOVE SHONAN,735,ALIOTH,北海道,1717,N!?,北海道,2165,A.SONC,北海道
@@ -936,7 +936,7 @@ copula,Violet Pulse,424,NAO!,北海道,1646,LIZ.KM,北海道,2401,KIRI,北海道
 copula,Uh-Oh,1044,K.,北海道,1701,CHUCHU,北海道,2394,A.SONC,北海道
 copula,Triple Counter,1332,XIA,北海道,2148,OTL,北海道,3931,FENNEC,北海道
 copula,Transport,985,K.,北海道,1517,BLAZE$,北海道,2123,MACAOM,北海道
-copula,Tori-no-kimochi,262,HARURU,北海道,1274,TO*RUN,北海道,1980,*WOOL*,北海道
+copula,Tori-no-kimochi,262,HARURU,北海道,1279,RABBIT,北海道,1980,*WOOL*,北海道
 copula,SURVIVOR,480,TETRA,北海道,1186,M.DICE,北海道,2019,N!?,北海道
 copula,Super Duper Racers,954,5.,北海道,1557,LIZ.KM,北海道,2337,KIRI,北海道
 copula,StrayedCatz,974,K.,北海道,1940,WA!!,北海道,2834,FENNEC,北海道
@@ -946,7 +946,7 @@ copula,STARLiGHT,905,YUZURU,北海道,1785,GUNSO-,北海道,2728,KIRI,北海道
 copula,SHELTER OF THE MIND,1395,REIN.D,北海道,1928,TCHX,北海道,3044,FENNEC,北海道
 copula,Set U Free feat. Kanae Asaba,918,REIN.D,北海道,1493,5*LEAF,北海道,2504,FENNEC,北海道
 copula,Sephirot,903,K.,北海道,1672,N!?,北海道,2329,N!?,北海道
-copula,SEITEN NO TERIYAKI,691,4829*,北海道,1181,*,北海道,2214,KAIFAN,北海道
+copula,SEITEN NO TERIYAKI,691,4829*,北海道,1266,RABBIT,北海道,2214,KAIFAN,北海道
 copula,Routing,863,K.,北海道,1689,N!?,北海道,2490,KAI,北海道
 copula,Rock It,1092,YUZURU,北海道,1559,CMG,北海道,2943,FENNEC,北海道
 copula,refrain,1221,RABBIT,北海道,2351,MACAOM,北海道,3606,FENNEC,北海道
@@ -963,7 +963,7 @@ copula,Nightmare before oversleep,1131,YUZURU,北海道,1857,HAROLD,北海道,29
 copula,NANAIRO,961,MARBLE,北海道,1771,RYUNO,北海道,2528,KAIFAN,北海道
 copula,Musik LoverZ,1004,YUZURU,北海道,1384,CHUCHU,北海道,2451,HINO38,北海道
 copula,M4K3 1T B0UNC3,1418,N!?,北海道,2082,ECO-G,北海道,3009,FENNEC,北海道
-copula,La dolce primavera,676,MARU9,北海道,1392,MACAOM,北海道,2157,MACAOM,北海道
+copula,La dolce primavera,676,MARU9,北海道,1395,MACAOM,北海道,2157,MACAOM,北海道
 copula,Konzert V,1179,ZE9ROM,北海道,2128,CMG,北海道,3348,FENNEC,北海道
 copula,Journey,676,MARU9,北海道,1229,LIZ.KM,北海道,1884,N!?,北海道
 copula,Inner Spirit,841,GHOST,北海道,1831,LIZ.KM,北海道,2806,A.SONC,北海道
@@ -988,7 +988,7 @@ copula,Damage Per Second,835,K.,北海道,1351,LIZ.KM,北海道,2039,N!?,北海�
 copula,Daily Lunch Special,1026,KIWAMU,北海道,2170,N!?,北海道,2892,*WOOL*,北海道
 copula,CODE:1 [revision1.0.1],952,3888M,北海道,1707,CIS,北海道,3062,HINO38,北海道
 copula,chaos eater -IIDX edition-,1115,ALIOTH,北海道,1641,A,北海道,2599,KAI,北海道
-copula,Central Station,1008,NAO!,北海道,1489,GUNSO-,北海道,2382,TEFNUT,北海道
+copula,Central Station,1008,NAO!,北海道,1554,RABBIT,北海道,2382,TEFNUT,北海道
 copula,Blue Spring Express,1321,N!?,北海道,2049,MUCC,北海道,3329,FENNEC,北海道
 copula,Battle Train -IIDX Edition-,863,YUZURU,北海道,2526,MACAOM,北海道,3194,KIRI,北海道
 copula,Aublia,881,LIZ.RP,北海道,1515,LIZ.KM,北海道,2515,KIRI,北海道
@@ -1082,7 +1082,7 @@ SINOBUZ,BREAK OVER,911,CHUCHU,北海道,1493,BAD-XO,北海道,2331,*WOOL*,北海
 SINOBUZ,Beyond The Seven,736,RABBIT,北海道,1258,HIGEKI,北海道,2693,YKN.C,北海道
 SINOBUZ,Believe in you,1159,NEGUSE,北海道,1899,N!?,北海道,2431,FENNEC,北海道
 SINOBUZ,Beat Juggling Mix,1020,*WOOL*,北海道,1630,N!?,北海道,2180,FENNEC,北海道
-SINOBUZ,Be A Star,956,REIN.D,北海道,1827,*JILL*,北海道,2772,*WOOL*,北海道
+SINOBUZ,Be A Star,956,REIN.D,北海道,1827,*JILL*,北海道,2776,MACAOM,北海道
 SINOBUZ,BabeL ～Grand Story～,1185,NOZ,北海道,2074,U.SUKE,北海道,2769,GILTAN,北海道
 SINOBUZ,AsiaN distractive,1152,GHOST,北海道,1806,N!?,北海道,2572,KIRI,北海道
 SINOBUZ,Around The Galaxy,1071,NAO!,北海道,2007,RAIN,北海道,3371,YKN.C,北海道
@@ -1127,7 +1127,7 @@ CANNON BALLERS,Slipstream,1035,MADMAX,北海道,2078,N!?,北海道,3475,KIRI,北
 CANNON BALLERS,SHOX,712,KOOK,北海道,1116,RABBIT,北海道,1739,N!?,北海道
 CANNON BALLERS,Rise Circuit,920,GHOST,北海道,1556,PONTAQ,北海道,2282,KIRI,北海道
 CANNON BALLERS,Raspberry Railgun,1427,N!?,北海道,2237,MACAOM,北海道,3126,FENNEC,北海道
-CANNON BALLERS,Rampage,1287,IIDX01,北海道,2455,G.BALL,北海道,3565,KIRI,北海道
+CANNON BALLERS,Rampage,1287,IIDX01,北海道,2468,MACAOM,北海道,3565,KIRI,北海道
 CANNON BALLERS,Persephone,1123,T.H,北海道,1903,BLAZ-,北海道,2979,FENNEC,北海道
 CANNON BALLERS,Papilio ulysses,1220,N!?,北海道,2066,MACAOM,北海道,2924,FENNEC,北海道
 CANNON BALLERS,Only for now,894,REIN.D,北海道,1487,HAMA,北海道,2260,N!?,北海道
@@ -1160,7 +1160,7 @@ CANNON BALLERS,encounter,890,CINA,北海道,1750,MUCC,北海道,3209,KIRI,北海
 CANNON BALLERS,EMERALDAS,1395,N!?,北海道,2389,A.SONC,北海道,3554,FENNEC,北海道
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,930,PY0NNN,北海道,1417,KAZZ,北海道,2564,A.SONC,北海道
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1382,LOZ,北海道,2429,MACAOM,北海道,4047,FENNEC,北海道
-CANNON BALLERS,DEADHEAT,1154,MARU9,北海道,2049,MACAOM,北海道,3324,FENNEC,北海道
+CANNON BALLERS,DEADHEAT,1154,MARU9,北海道,2051,MACAOM,北海道,3324,FENNEC,北海道
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,762,KAWASE,北海道,1392,LIZ.KM,北海道,2084,N!?,北海道
 CANNON BALLERS,City Never Sleeps (IIDX Edition),1258,REIN.D,北海道,1872,P*,北海道,2636,KIRI,北海道
 CANNON BALLERS,Chemical Cookie,793,YUZURU,北海道,1438,KAZZ,北海道,2139,FENNEC,北海道
@@ -1224,7 +1224,7 @@ Rootage,Re:Story,432,8CHULI,北海道,1137,N!?,北海道,1940,KABAN3,北海道
 Rootage,Psycho Sheep Riddim,645,8CHULI,北海道,1018,N!?,北海道,1668,N!?,北海道
 Rootage,Playing With Fire,1002,M.,北海道,1702,N!?,北海道,2326,YKN.C,北海道
 Rootage,Particle Arts,901,N!?,北海道,1676,N!?,北海道,2456,A.SONC,北海道
-Rootage,Painful Fate,1276,N!?,北海道,2281,N!?,北海道,3325,FENNEC,北海道
+Rootage,Painful Fate,1276,N!?,北海道,2284,MACAOM,北海道,3325,FENNEC,北海道
 Rootage,OVER TIME,586,N!?,北海道,984,N!?,北海道,1555,N!?,北海道
 Rootage,Necroxis Girl,1168,T-A6.Y,北海道,2010,N!?,北海道,2779,HINO38,北海道
 Rootage,Macho Monky,1488,N!?,北海道,2153,N!?,北海道,3009,KAI,北海道

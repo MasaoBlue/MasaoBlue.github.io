@@ -4,7 +4,7 @@
 1st&substream,RUGGED ASH,78,FRXX.,長崎県,390,L,長崎県,1046,ARCAEA,長崎県
 1st&substream,R3,0,,未設定,712,2HISOX,長崎県,879,HEIPON,長崎県
 1st&substream,PARANOIA MAX～DIRTY MIX～,506,KOTEKA,長崎県,435,TTZK,長崎県,1076,HEIPON,長崎県
-1st&substream,Macho Gang,319,KAJA,長崎県,945,DROP,長崎県,1480,KAEDE,長崎県
+1st&substream,Macho Gang,319,KAJA,長崎県,945,DROP,長崎県,1514,KAEDE,長崎県
 1st&substream,KEEP ON MOVIN',66,KITT..,長崎県,233,RAT*,長崎県,0,,未設定
 1st&substream,GRADIUSIC CYBER,0,,未設定,836,LATHAM,長崎県,1158,F,長崎県
 1st&substream,GENOM SCREAMS,0,,未設定,726,DROP,長崎県,1035,HEIPON,長崎県
@@ -66,7 +66,7 @@
 5th style,RISLIM,617,TTZK,長崎県,1173,UDA,長崎県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1742,HEIPON,長崎県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),814,0YASA1,長崎県,917,NAOMAR,長崎県,1691,HEIPON,長崎県
-5th style,Regulus,841,0YASA1,長崎県,1358,KERUNO,長崎県,1598,MOOON.,長崎県
+5th style,Regulus,841,0YASA1,長崎県,1358,KERUNO,長崎県,1612,KAEDE,長崎県
 5th style,Real,1041,HTS,長崎県,1558,SHIURA,長崎県,1735,HEIPON,長崎県
 5th style,Radical Faith,494,TKBZ2,長崎県,0,,未設定,1255,KAEDE,長崎県
 5th style,QQQ,0,,未設定,1748,SHIURA,長崎県,2090,HEIPON,長崎県
@@ -187,7 +187,7 @@
 10th style,Lucy,490,MORIZO,長崎県,1602,KIT2N.,長崎県,2262,UDA,長崎県
 10th style,LOW,0,,未設定,0,,未設定,1504,KAEDE,長崎県
 10th style,Love Is Eternity,1014,0YASA1,長崎県,1759,KIT2N.,長崎県,2326,STEAK,長崎県
-10th style,Innocent Walls,1344,BROLY,長崎県,2352,F,長崎県,2626,HEIPON,長崎県
+10th style,Innocent Walls,1442,Z-GIRL,長崎県,2352,F,長崎県,2626,HEIPON,長崎県
 10th style,HIGH,820,0YASA1,長崎県,1836,T41K1.,長崎県,2127,UDA,長崎県
 10th style,GRADIUS -FULL SPEED-,675,TAU,長崎県,926,DROP,長崎県,1957,HEIPON,長崎県
 10th style,GHOST REVIVAL,0,,未設定,1716,KIT2N.,長崎県,2339,2HISOX,長崎県
@@ -253,7 +253,7 @@ HAPPY SKY,vault of heaven,0,,未設定,1206,DROP,長崎県,1911,F,長崎県
 HAPPY SKY,Under the Sky,821,0YASA1,長崎県,1226,ZINN.,長崎県,1710,HEIPON,長崎県
 HAPPY SKY,Twelfth Style,0,,未設定,1203,0YASA1,長崎県,1945,HEIPON,長崎県
 HAPPY SKY,Tizona d'El Cid,559,TTZK,長崎県,1576,DOKATA,長崎県,2258,F,長崎県
-HAPPY SKY,SigSig,920,0YASA1,長崎県,1558,KIT2N.,長崎県,2546,STEAK,長崎県
+HAPPY SKY,SigSig,920,0YASA1,長崎県,1591,Z-GIRL,長崎県,2546,STEAK,長崎県
 HAPPY SKY,Scripted Connection⇒ N mix,691,KALK,長崎県,1460,9YU,長崎県,2026,STEAK,長崎県
 HAPPY SKY,Scripted Connection⇒ H mix,0,,未設定,1878,K.FLAN,長崎県,2380,STEAK,長崎県
 HAPPY SKY,Scripted Connection⇒ A mix,871,LOVELY,長崎県,1888,ABABA,長崎県,2959,AK-12,長崎県
@@ -373,7 +373,7 @@ DJ TROOPERS,走馬灯 -The Last Song-,435,PIPO,長崎県,821,NAOMAR,長崎県,13
 DJ TROOPERS,華爛漫 -Flowers-,923,0YASA1,長崎県,1409,KOTEKA,長崎県,2020,STEAK,長崎県
 DJ TROOPERS,少年A,0,,未設定,1706,KIT2N.,長崎県,2664,STEAK,長崎県
 DJ TROOPERS,ミラージュ・レジデンス,991,NAOMAR,長崎県,1939,SHIURA,長崎県,2461,KAEDE,長崎県
-DJ TROOPERS,マチ子の唄,0,,未設定,921,TRT,長崎県,1768,UDA,長崎県
+DJ TROOPERS,マチ子の唄,0,,未設定,1162,NAOMAR,長崎県,1768,UDA,長崎県
 DJ TROOPERS,エコ爺,311,R.S-05,長崎県,0,,未設定,1821,F,長崎県
 DJ TROOPERS,Wanna Party?,0,,未設定,990,BROLY,長崎県,1505,AK-12,長崎県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3110,AK-12,長崎県
@@ -588,13 +588,13 @@ Lincle,突撃!ガラスのニーソ姫!,602,NAOMAR,長崎県,1060,A.Y,長崎県,
 Lincle,恋する☆宇宙戦争っ！！,878,BROLY,長崎県,1686,ACBEXE,長崎県,3285,HEIPON,長崎県
 Lincle,子供の落書き帳,793,U46?,長崎県,1790,T41K1.,長崎県,2454,AK-12,長崎県
 Lincle,天空の夜明け,1122,NAOMAR,長崎県,2013,K.FLAN,長崎県,3826,AK-12,長崎県
-Lincle,君のハートにロックオン,664,ABABA,長崎県,1508,NVR510,長崎県,2540,AK-12,長崎県
+Lincle,君のハートにロックオン,664,ABABA,長崎県,1536,TOKE1,長崎県,2540,AK-12,長崎県
 Lincle,ユミル,233,AAAAAA,長崎県,1252,Z-GIRL,長崎県,2751,UDA,長崎県
 Lincle,ビューティフルレシート,394,TBS-TK,長崎県,1125,9YU,長崎県,1887,STEAK,長崎県
 Lincle,Yellow Sunrise,659,YU-HI,長崎県,1326,A.Y,長崎県,2238,STEAK,長崎県
 Lincle,yellow head joe,389,AAAAAA,長崎県,1324,9YU,長崎県,2109,2HISOX,長崎県
 Lincle,YAKSHA,1113,0YASA1,長崎県,2201,T41K1.,長崎県,3711,STEAK,長崎県
-Lincle,WONDER WALKER,644,KANON,長崎県,1633,DROP,長崎県,3575,UDA,長崎県
+Lincle,WONDER WALKER,644,KANON,長崎県,1705,TOKE1,長崎県,3575,UDA,長崎県
 Lincle,Voxane,0,,未設定,962,LOVELY,長崎県,1724,HEIPON,長崎県
 Lincle,Todestrieb,1015,0YASA1,長崎県,1815,ACBEXE,長崎県,3353,AK-12,長崎県
 Lincle,TITANS RETURN,564,YU-HI,長崎県,1418,9YU,長崎県,2413,STEAK,長崎県
@@ -901,7 +901,7 @@ PENDUAL,CHRONO DIVER -NORNIR-,1113,YU-HI,長崎県,2090,R1MU,長崎県,2923,MOOO
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2222,UDA,長崎県
 PENDUAL,chrono diver -fragment-,621,YU-HI,長崎県,1073,KONA2.,長崎県,1761,UDA,長崎県
 PENDUAL,Chain of pain,727,R1MU,長崎県,1360,9YU,長崎県,2102,MOOON.,長崎県
-PENDUAL,Broken Sword,1032,AWEI,長崎県,1982,T41K1.,長崎県,3591,AK-12,長崎県
+PENDUAL,Broken Sword,1119,NAOMAR,長崎県,1982,T41K1.,長崎県,3591,AK-12,長崎県
 PENDUAL,BLUE MIRAGE,891,YU-HI,長崎県,1669,KIT2N.,長崎県,2748,AK-12,長崎県
 PENDUAL,Blaze it UP!,817,YU-HI,長崎県,1806,Z-GIRL,長崎県,2898,STEAK,長崎県
 PENDUAL,Beyond The Earth,1041,YU-HI,長崎県,1736,KAJA,長崎県,3051,AK-12,長崎県
@@ -1118,7 +1118,7 @@ CANNON BALLERS,The Chase,469,1496,長崎県,1272,MOOON.,長崎県,1954,AK-12,長
 CANNON BALLERS,THE CANNONBALLER,1427,56LI*,長崎県,2314,T41K1.,長崎県,3330,STEAK,長崎県
 CANNON BALLERS,Temple of Anubis,617,TKBZ2,長崎県,1333,9YU,長崎県,2556,STEAK,長崎県
 CANNON BALLERS,SUNLiGHT (IIDX Mix),1169,HEIPON,長崎県,1709,HEIPON,長崎県,2605,STEAK,長崎県
-CANNON BALLERS,Static State,1017,56LI*,長崎県,1560,F-REO,長崎県,2163,TAU,長崎県
+CANNON BALLERS,Static State,1017,56LI*,長崎県,1560,F-REO,長崎県,2200,KAEDE,長崎県
 CANNON BALLERS,STARLIGHT JUNCTION,803,MMM01,長崎県,1436,RA,長崎県,2241,STEAK,長崎県
 CANNON BALLERS,SPEED DEMON,700,NOZOM!,長崎県,1363,CARLOS,長崎県,2158,DAIKI*,長崎県
 CANNON BALLERS,SPEED,765,NOZOM!,長崎県,1456,9YU,長崎県,2467,MOOON.,長崎県
