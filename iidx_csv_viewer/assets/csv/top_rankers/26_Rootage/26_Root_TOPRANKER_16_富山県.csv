@@ -52,7 +52,7 @@
 4th style,CHECKING YOU OUT,637,SHINPO,富山県,916,SHINPO,富山県,1329,RIOO,富山県
 4th style,Burnin' The Floor,570,FUCHI,富山県,947,EIKRA7,富山県,1432,RIOO,富山県
 4th style,Broken My Heart,733,OMEGA.,富山県,1393,FUCHI,富山県,1759,YMY,富山県
-4th style,B4U,1012,WWE,富山県,1454,LUV*WS,富山県,1951,MA2NO3,富山県
+4th style,B4U,1012,WWE,富山県,1512,WINBRT,富山県,1951,MA2NO3,富山県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2640,ZENI,富山県
 4th style,ABSOLUTE,1265,OYATSU,富山県,1716,AXEL,富山県,2330,MA2NO3,富山県
 4th style,250bpm,506,OMEGA.,富山県,849,ABCDEF,富山県,1326,UMEKOO,富山県
@@ -179,7 +179,7 @@
 10th style,SPACE FIGHT,638,EIKRA7,富山県,1275,QUINTO,富山県,2154,SHUN,富山県
 10th style,SHOOTING STAR,1055,Y.HIKI,富山県,1504,OYATSU,富山県,2217,REVIUS,富山県
 10th style,Rise'n Beauty,1205,YUNO*,富山県,1597,AXEL,富山県,2110,MA2NO3,富山県
-10th style,rainbow rainbow,1377,AN-BM-,富山県,2071,EIKRA7,富山県,2618,RISHA.,富山県
+10th style,rainbow rainbow,1500,YUNO*,富山県,2071,EIKRA7,富山県,2618,RISHA.,富山県
 10th style,pandora,874,SHINPO,富山県,1545,OYATSU,富山県,1781,YMY,富山県
 10th style,One More Lovely,865,EIKRA7,富山県,1600,LIME,富山県,2816,RIOO,富山県
 10th style,No.13,1295,REILA,富山県,2641,REVIUS,富山県,3157,RIOO,富山県
@@ -217,7 +217,7 @@ IIDX RED,spiral galaxy,989,DEATH,富山県,1920,YUNO*,富山県,2476,MA2NO3,富�
 IIDX RED,Sphere,1003,YUNO*,富山県,1806,YUNO*,富山県,2120,MA2NO3,富山県
 IIDX RED,SPEEDY CAT,973,Y.HIKI,富山県,1594,OYATSU,富山県,1979,UMEKOO,富山県
 IIDX RED,Secret of Love,1026,NYAN,富山県,1000,LIPDON,富山県,2016,RIOO,富山県
-IIDX RED,RESONATE 1794,930,EIKRA7,富山県,1206,SHIBA,富山県,1851,UMEKOO,富山県
+IIDX RED,RESONATE 1794,930,EIKRA7,富山県,1215,MA$A23,富山県,1851,UMEKOO,富山県
 IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2975,REVIUS,富山県
 IIDX RED,RED ZONE,1068,YUNO*,富山県,1821,LUV*WS,富山県,2266,YMY,富山県
 IIDX RED,Raspberry Heart(English version),1044,EIKRA7,富山県,1543,MEAN,富山県,1810,YMY,富山県
@@ -275,7 +275,7 @@ HAPPY SKY,HAPPY☆ANGEL,990,MSAYUK,富山県,1546,UMEKOO,富山県,2071,RISHA.,�
 HAPPY SKY,Get'em up to R.A.V.E,1170,EIKRA7,富山県,1390,ABCDEF,富山県,2278,RIOO,富山県
 HAPPY SKY,garden,253,SHO,富山県,1430,OZ,富山県,2169,RIOO,富山県
 HAPPY SKY,First Resolution,651,OMEGA.,富山県,1539,AXEL,富山県,2106,YMY,富山県
-HAPPY SKY,EMPTY OF THE SKY,652,OYATSU,富山県,1009,OYATSU,富山県,1665,B4,富山県
+HAPPY SKY,EMPTY OF THE SKY,652,OYATSU,富山県,1009,OYATSU,富山県,1671,B4,富山県
 HAPPY SKY,EDEN,1093,NAS.,富山県,1886,B4,富山県,2697,RISHA.,富山県
 HAPPY SKY,double thrash,865,Y.HIKI,富山県,1899,F2.NEO,富山県,2197,BEXTER,富山県
 HAPPY SKY,Catch Me,764,EIKRA7,富山県,1075,OYATSU,富山県,1831,RIOO,富山県
@@ -342,7 +342,7 @@ GOLD,the shadow,1160,WWE,富山県,2038,AXEL,富山県,2914,RIOO,富山県
 GOLD,snow storm,703,Y.HIKI,富山県,2268,REVIUS,富山県,2727,RISHA.,富山県
 GOLD,smile,1190,SHO,富山県,2086,AXEL,富山県,2892,RIOO,富山県
 GOLD,Sense 2007,1458,LUV*WS,富山県,2125,ZENI,富山県,2900,RIOO,富山県
-GOLD,Second Heaven,884,NAS.,富山県,1537,UMEKOO,富山県,2083,RISHA.,富山県
+GOLD,Second Heaven,972,YUNO*,富山県,1537,UMEKOO,富山県,2083,RISHA.,富山県
 GOLD,Roulette,818,AN-BM-,富山県,1378,EIKRA7,富山県,2047,MA2NO3,富山県
 GOLD,PHOTONGENIC,1294,YUNO*,富山県,1908,WINBRT,富山県,2266,RISHA.,富山県
 GOLD,op.31 叙情,590,K.,富山県,1270,K.,富山県,1552,RIOO,富山県
@@ -408,7 +408,7 @@ DJ TROOPERS,Freeway Shuffle,463,KEY,富山県,1196,OYATSU,富山県,1866,RIOO,�
 DJ TROOPERS,four pieces of heaven,0,,未設定,1593,NECOZE,富山県,2092,SENJU,富山県
 DJ TROOPERS,evergreen,990,K.,富山県,1387,SHINPO,富山県,1954,RIOO,富山県
 DJ TROOPERS,end of world,1028,SHINPO,富山県,1690,HIR-AI,富山県,2401,SHINPO,富山県
-DJ TROOPERS,Do it!! Do it!!,1029,EIKRA7,富山県,1384,ANNIE,富山県,1767,MA2NO3,富山県
+DJ TROOPERS,Do it!! Do it!!,1029,EIKRA7,富山県,1446,2SOCKS,富山県,1767,MA2NO3,富山県
 DJ TROOPERS,Digitank System,947,SHINPO,富山県,1581,RIOO,富山県,2053,SHINPO,富山県
 DJ TROOPERS,Dazzlin' Darlin,813,NAS.,富山県,1400,SHINPO,富山県,2211,UMEKOO,富山県
 DJ TROOPERS,Darling my LUV,534,KAZ123,富山県,963,OYATSU,富山県,1362,MEAN,富山県
@@ -717,7 +717,7 @@ tricoro,Howling,441,MIDUKI,富山県,1324,BEXTER,富山県,2045,UMEKOO,富山県
 tricoro,Hollywood Galaxy,1088,EIKRA7,富山県,1906,K.,富山県,2562,REVIUS,富山県
 tricoro,GRADIUS 2012,919,EIKRA7,富山県,1610,OYATSU,富山県,2613,ZENI,富山県
 tricoro,GAIA,1035,MEAN,富山県,2117,VOL,富山県,3293,RIOO,富山県
-tricoro,Fly you to the star,690,PM2.5,富山県,1603,UMEKOO,富山県,2241,RISHA.,富山県
+tricoro,Fly you to the star,731,AN-BM-,富山県,1603,UMEKOO,富山県,2241,RISHA.,富山県
 tricoro,FLOWER,1100,EIKRA7,富山県,1773,LIME,富山県,2886,RIOO,富山県
 tricoro,examination leave,944,Y.HIKI,富山県,1914,B4,富山県,3322,REVIUS,富山県
 tricoro,Elemental Creation,1451,EIKRA7,富山県,2341,YMY,富山県,4111,RIOO,富山県
@@ -872,7 +872,7 @@ PENDUAL,NEO GENERATOR SEVEN,930,EIKRA7,富山県,1830,LIME,富山県,3212,RIOO,�
 PENDUAL,Monopole.,493,TASIRO,富山県,1615,WINBRT,富山県,3360,RIOO,富山県
 PENDUAL,m1dy Festival,997,EIKRA7,富山県,1589,BEXTER,富山県,2384,REVIUS,富山県
 PENDUAL,Line 4 Ruin,606,CRZ-A.,富山県,1780,K.,富山県,2768,RIOO,富山県
-PENDUAL,IXION,1101,YUNO*,富山県,1722,AXEL,富山県,2117,UMEKOO,富山県
+PENDUAL,IXION,1101,YUNO*,富山県,1728,YUNO*,富山県,2117,UMEKOO,富山県
 PENDUAL,Invitation from Mr.C,1138,BEXTER,富山県,1587,SHINPO,富山県,2764,RIOO,富山県
 PENDUAL,In The Breeze,654,EIKRA7,富山県,1127,EIKRA7,富山県,1757,RIOO,富山県
 PENDUAL,IMPLANTATION,622,TAKI,富山県,1587,BEXTER,富山県,2271,RIOO,富山県
@@ -953,7 +953,7 @@ copula,refrain,1161,TAKI,富山県,2234,BEXTER,富山県,3417,ZENI,富山県
 copula,quick master (reform version),160,EIKRA7,富山県,349,OYATSU,富山県,516,K.,富山県
 copula,POSSESSION,1362,SHUN,富山県,2082,K.,富山県,2978,RIOO,富山県
 copula,OUTER LIMITS ALTERNATIVE,1157,EIKRA7,富山県,1671,BEXTER,富山県,2531,PREST,富山県
-copula,Outbreak,1329,BEXTER,富山県,1782,IIHITO,富山県,2940,REVIUS,富山県
+copula,Outbreak,1329,BEXTER,富山県,1795,YUNO*,富山県,2940,REVIUS,富山県
 copula,On the FM,1059,TAKI,富山県,1565,BEXTER,富山県,2671,REVIUS,富山県
 copula,NZM,1036,BEXTER,富山県,1556,WINBRT,富山県,3411,RIOO,富山県
 copula,Nowhere,831,OYATSU,富山県,1356,OYATSU,富山県,2173,RIOO,富山県
@@ -1041,7 +1041,7 @@ SINOBUZ,Selfish Sweet,642,OYATSU,富山県,940,OYATSU,富山県,1727,RIOO,富山
 SINOBUZ,Seize the Day,761,EIKRA7,富山県,1332,MEAN,富山県,2119,SHINPO,富山県
 SINOBUZ,Seaside Labyrinth,608,TAKI,富山県,1186,OK-ITO,富山県,1819,SENJU,富山県
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,881,EIKRA7,富山県,1563,VOL,富山県,2275,BEXTER,富山県
-SINOBUZ,SAY BAY,806,WWE,富山県,1465,UMEKOO,富山県,2828,RIOO,富山県
+SINOBUZ,SAY BAY,806,WWE,富山県,1474,YUNO*,富山県,2828,RIOO,富山県
 SINOBUZ,Sarutobi Champion is 拙者,917,SHINPO,富山県,1377,OYATSU,富山県,2055,K.,富山県
 SINOBUZ,SAMURAI-Scramble,1016,SHINPO,富山県,1635,UMEKOO,富山県,2396,RIOO,富山県
 SINOBUZ,ROTTERDAM SHOGUN,1139,EIKRA7,富山県,1811,LIME,富山県,2520,SHINPO,富山県
@@ -1144,7 +1144,7 @@ CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1247,VIB-R,富山県,183
 CANNON BALLERS,Initiation,1449,WINBRT,富山県,2393,UMEKOO,富山県,3907,RIOO,富山県
 CANNON BALLERS,Illusionary Waterlily,1248,OST.,富山県,2174,VOL,富山県,3517,RIOO,富山県
 CANNON BALLERS,I'm Coming (2017 Version),636,OYATSU,富山県,1267,OYATSU,富山県,2029,K.,富山県
-CANNON BALLERS,I Love You,1001,TAKI,富山県,1764,VOL,富山県,2654,REVIUS,富山県
+CANNON BALLERS,I Love You,1001,TAKI,富山県,1764,VOL,富山県,2668,YMY,富山県
 CANNON BALLERS,HYPE THE CORE,1093,VIB-R,富山県,1866,NECOZE,富山県,2962,RIOO,富山県
 CANNON BALLERS,Hella Deep,644,SHINPO,富山県,1024,SENJU,富山県,1839,RIOO,富山県
 CANNON BALLERS,HAT TRICK,847,OST.,富山県,1436,K.,富山県,2180,REVIUS,富山県

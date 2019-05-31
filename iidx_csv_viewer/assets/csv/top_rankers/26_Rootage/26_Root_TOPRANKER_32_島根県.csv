@@ -4,7 +4,7 @@
 1st&substream,RUGGED ASH,338,LU.PSJ,島根県,0,,未設定,937,YUA,島根県
 1st&substream,R3,539,LU.PSJ,島根県,0,,未設定,835,9610,島根県
 1st&substream,PARANOIA MAX～DIRTY MIX～,437,LEVI*,島根県,660,LU.PSJ,島根県,979,CONG,島根県
-1st&substream,Macho Gang,0,,未設定,794,AAAAAA,島根県,1314,YURI-H,島根県
+1st&substream,Macho Gang,149,AWASHA,島根県,794,AAAAAA,島根県,1314,YURI-H,島根県
 1st&substream,KEEP ON MOVIN',181,SPARK,島根県,232,CHARIN,島根県,0,,未設定
 1st&substream,GRADIUSIC CYBER,0,,未設定,933,9610,島根県,1143,DUXY,島根県
 1st&substream,GENOM SCREAMS,126,MAYU,島根県,419,LEVI*,島根県,943,ARUMU-,島根県
@@ -12,7 +12,7 @@
 1st&substream,Dr.LOVE,249,SIJIMI,島根県,471,AA3,島根県,514,YUA,島根県
 1st&substream,deep in you,253,SIJIMI,島根県,0,,未設定,644,DUXY,島根県
 1st&substream,5.1.1.,191,YUA,島根県,0,,未設定,1498,NACHT,島根県
-1st&substream,22DUNK,0,,未設定,601,HACKA,島根県,622,HACKA,島根県
+1st&substream,22DUNK,180,AWASHA,島根県,601,HACKA,島根県,622,HACKA,島根県
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,未設定,572,XVIDEO,島根県,629,GEN,島根県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,未設定,832,NACHT,島根県,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),0,,未設定,950,LU.PSJ,島根県,1108,YUA,島根県
@@ -496,7 +496,7 @@ SIRIUS,MIRACLE MEETS,624,*MIKO*,島根県,1426,ARUMU-,島根県,2139,DUXY,島根
 SIRIUS,Light Shine,698,I*O,島根県,988,AAAAAA,島根県,1885,1SARAI,島根県
 SIRIUS,Last Burning,0,,未設定,1130,R-RYZE,島根県,2231,KAKO,島根県
 SIRIUS,Keep it-秋葉工房mix-,555,*MIKO*,島根県,1527,ARUMU-,島根県,1700,GEN,島根県
-SIRIUS,IN THE NAME OF LOVE,0,,未設定,897,LEVI*,島根県,1634,T0R1.,島根県
+SIRIUS,IN THE NAME OF LOVE,0,,未設定,897,LEVI*,島根県,1721,1SARAI,島根県
 SIRIUS,Hydrogen Blueback,0,,未設定,1473,SH1R0,島根県,2078,KEN705,島根県
 SIRIUS,GOLDEN CROSS,982,3YR.S,島根県,1820,ARUMU-,島根県,3321,HACKA,島根県
 SIRIUS,GALGALIM,1293,YUA,島根県,1618,KRAD,島根県,1961,KAKO,島根県
@@ -532,7 +532,7 @@ Resort Anthem,ZETA～素数の世界と超越者～,336,AGO58,島根県,0,,未�
 Resort Anthem,XANADU OF TWO,757,*MIKO*,島根県,984,ZAK,島根県,2595,HACK3,島根県
 Resort Anthem,Wuv U,390,I*O,島根県,1149,SUKEDE,島根県,1636,1SARAI,島根県
 Resort Anthem,WISE UP!,0,,未設定,0,,未設定,1513,SPARK,島根県
-Resort Anthem,WE LOVE SHONAN,0,,未設定,0,,未設定,1844,CHARIN,島根県
+Resort Anthem,WE LOVE SHONAN,0,,未設定,1338,RIKKI.,島根県,1844,CHARIN,島根県
 Resort Anthem,Watch Out Pt.2,971,SUSA.G,島根県,1782,SPARK,島根県,2542,1SARAI,島根県
 Resort Anthem,Vermillion,0,,未設定,918,AAAAAA,島根県,1820,HACK3,島根県
 Resort Anthem,Tropical April,1504,YUA,島根県,2055,YUA,島根県,2619,1SARAI,島根県
@@ -579,7 +579,7 @@ Resort Anthem,Believe In Me,0,,未設定,1379,2KAPON,島根県,2277,DUXY,島根�
 Resort Anthem,ANTHEM LANDING,636,HUKI,島根県,1786,YUA,島根県,2876,1SARAI,島根県
 Resort Anthem,Answer,624,LEVI*,島根県,917,ZAK,島根県,2190,GEN,島根県
 Resort Anthem,ALBIDA,793,96KAZ,島根県,1876,HACK3,島根県,2837,HACKA,島根県
-Resort Anthem,Aegis,0,,未設定,986,2KAPON,島根県,2225,1SARAI,島根県
+Resort Anthem,Aegis,0,,未設定,1048,RIKKI.,島根県,2225,1SARAI,島根県
 Lincle,陽炎,592,I*O,島根県,1020,3YR.S,島根県,1882,9610,島根県
 Lincle,衰色小町メランコリア,0,,未設定,1214,FICKLE,島根県,2245,HACKA,島根県
 Lincle,蛇神,610,*MIKO*,島根県,1468,KL8NB,島根県,2657,1SARAI,島根県
@@ -727,14 +727,14 @@ tricoro,Cookie Bouquets,0,,未設定,1840,KRAD,島根県,3190,SPARK,島根県
 tricoro,connective,255,TED-TR,島根県,651,HRY04,島根県,1566,1SARAI,島根県
 tricoro,Confiserie,847,3YR.S,島根県,1854,KEN705,島根県,3216,1SARAI,島根県
 tricoro,CONCEPTUAL,642,DEEMO,島根県,964,*H,島根県,2592,1SARAI,島根県
-tricoro,BRAVE GLOW,0,,未設定,0,,未設定,2307,HACK3,島根県
+tricoro,BRAVE GLOW,0,,未設定,1167,3YR.S,島根県,2307,HACK3,島根県
 tricoro,BLUE STRAGGLER,0,,未設定,1322,AAAAAA,島根県,2286,HACK3,島根県
 tricoro,Beastie Starter,342,THUBO,島根県,639,ZAK,島根県,1975,NACHT,島根県
 tricoro,Ascalon,878,TRSN,島根県,1342,TSR-OK,島根県,2056,HACK3,島根県
 tricoro,8bit Princess,248,MAYU,島根県,853,ANNKOO,島根県,2568,1SARAI,島根県
 tricoro,405nm (Ryu☆mix),718,PHIBKI,島根県,1473,REVIS,島根県,2461,1SARAI,島根県
 SPADA,轟け！恋のビーンボール！！,881,3YR.S,島根県,1841,HACK3,島根県,3256,1SARAI,島根県
-SPADA,超!!遠距離らぶメ～ル,337,AGO58,島根県,0,,未設定,2535,NACHT,島根県
+SPADA,超!!遠距離らぶメ～ル,337,AGO58,島根県,1073,REIMU,島根県,2535,NACHT,島根県
 SPADA,罪と罰,782,S4HOTO,島根県,1163,RYUTO,島根県,2036,NACHT,島根県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,2943,NACHT,島根県
 SPADA,疾風迅雷,1049,3YR.S,島根県,1975,1SARAI,島根県,2717,NACHT,島根県
@@ -763,9 +763,9 @@ SPADA,SCHWARZSCHILD FIELD,580,9B,島根県,1345,O8SUN*,島根県,2148,NACHT,島�
 SPADA,RIZING YOU UP,713,EGG,島根県,1119,S-TN-E,島根県,2493,NACHT,島根県
 SPADA,RISE,451,9B,島根県,985,YUMEMI,島根県,1713,YURI-H,島根県
 SPADA,refractive index,374,ZEROMS,島根県,1238,RIKKI.,島根県,2576,DUXY,島根県
-SPADA,Recollection,0,,未設定,1717,Z*,島根県,2004,ARUMU-,島根県
+SPADA,Recollection,0,,未設定,1717,Z*,島根県,2044,CARRY,島根県
 SPADA,rainbow guitar weeps,796,I*O,島根県,1723,AROWND,島根県,2536,NACHT,島根県
-SPADA,ra'am,956,3YR.S,島根県,1689,KL8NB,島根県,2375,NACHT,島根県
+SPADA,ra'am,956,3YR.S,島根県,1695,CARRY,島根県,2375,NACHT,島根県
 SPADA,PUNISHER,0,,未設定,1975,KL8NB,島根県,3336,1SARAI,島根県
 SPADA,Pharaoh,639,KEN705,島根県,897,TRSN,島根県,2306,NACHT,島根県
 SPADA,Overload Frontier,565,NONNO,島根県,1097,A!ARON,島根県,2419,1SARAI,島根県
@@ -807,7 +807,7 @@ SPADA,Critical Crystal,874,TSR-OK,島根県,764,ZAK,島根県,2749,DUXY,島根�
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3499,1SARAI,島根県
 SPADA,Close the World feat. a☆ru,1054,3YR.S,島根県,1949,HACK3,島根県,3128,NACHT,島根県
 SPADA,Cleopatrysm,0,,未設定,1232,RIKKI.,島根県,2459,1SARAI,島根県
-SPADA,Claiomh Solais,242,9B,島根県,0,,未設定,1887,PORUTA,島根県
+SPADA,Claiomh Solais,242,9B,島根県,0,,未設定,1977,CARRY,島根県
 SPADA,BRAVE OUT,0,,未設定,1365,YUA,島根県,1941,KEN705,島根県
 SPADA,BRAINSTORM,0,,未設定,1875,HACK3,島根県,2686,1SARAI,島根県
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1252,SUSA.G,島根県,2162,NACHT,島根県,3114,1SARAI,島根県
@@ -853,7 +853,7 @@ PENDUAL,TA・DA ☆ YO・SHI,0,,未設定,1461,YURI-H,島根県,2122,NACHT,島�
 PENDUAL,Symmetry,0,,未設定,1892,KL8NB,島根県,3072,1SARAI,島根県
 PENDUAL,Sweet Radar,0,,未設定,901,SHUSA,島根県,1916,NACHT,島根県
 PENDUAL,SpaceLand☆TOYBOX,0,,未設定,1472,ARUMU-,島根県,2727,NACHT,島根県
-PENDUAL,Sounds Of Summer,710,HRY04,島根県,2013,KL8NB,島根県,2793,1SARAI,島根県
+PENDUAL,Sounds Of Summer,792,3YR.S,島根県,2013,KL8NB,島根県,2793,1SARAI,島根県
 PENDUAL,Shooting Fireball,877,3YR.S,島根県,2123,9610,島根県,3669,1SARAI,島根県
 PENDUAL,Scars of FAUNA,0,,未設定,1618,YUA,島根県,2623,NACHT,島根県
 PENDUAL,Scarlet Moon,915,REIMU,島根県,1172,S-TN-E,島根県,2619,1SARAI,島根県
@@ -864,7 +864,7 @@ PENDUAL,Reflux,0,,未設定,1343,SUKEDE,島根県,2760,1SARAI,島根県
 PENDUAL,Realize Maze,830,96KAZ,島根県,1993,HACK3,島根県,2805,DUXY,島根県
 PENDUAL,Rave*it!! Rave*it!!,834,3YR.S,島根県,1474,SUKEDE,島根県,3040,1SARAI,島根県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),0,,未設定,687,SIJIMI,島根県,2093,NACHT,島根県
-PENDUAL,PENDUAL TALISMAN,0,,未設定,1163,TIGMAN,島根県,2530,1SARAI,島根県
+PENDUAL,PENDUAL TALISMAN,0,,未設定,1428,3YR.S,島根県,2530,1SARAI,島根県
 PENDUAL,On My Wings(Hardstyle IIDX),788,I*O,島根県,971,I*O,島根県,1800,9610,島根県
 PENDUAL,No Tears,0,,未設定,1533,R-RYZE,島根県,2437,DUXY,島根県
 PENDUAL,Night sky,717,HRY04,島根県,1669,CARRY,島根県,2757,1SARAI,島根県
@@ -986,7 +986,7 @@ copula,Derelict Star feat. Ryu*,0,,未設定,1642,ARUMU-,島根県,2497,1SARAI,�
 copula,Damage Per Second†,0,,未設定,0,,未設定,2145,Z*,島根県
 copula,Damage Per Second,475,9B,島根県,1181,AAAAAA,島根県,1819,KL8NB,島根県
 copula,Daily Lunch Special,977,3YR.S,島根県,1968,SUKEDE,島根県,2826,NACHT,島根県
-copula,CODE:1 [revision1.0.1],806,TSR-OK,島根県,1419,417MTL,島根県,2875,1SARAI,島根県
+copula,CODE:1 [revision1.0.1],806,TSR-OK,島根県,1451,RIKKI.,島根県,2875,1SARAI,島根県
 copula,chaos eater -IIDX edition-,0,,未設定,1090,SUSA.G,島根県,2533,DUXY,島根県
 copula,Central Station,0,,未設定,1313,417MTL,島根県,2320,1SARAI,島根県
 copula,Blue Spring Express,1057,REIMU,島根県,1883,HACK3,島根県,3082,1SARAI,島根県

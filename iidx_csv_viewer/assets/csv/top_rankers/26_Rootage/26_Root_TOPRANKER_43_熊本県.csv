@@ -39,7 +39,7 @@
 4th style,Mr.T.(take me higher),829,31D,熊本県,970,SILVER,熊本県,1730,CHEMI,熊本県
 4th style,minimalian,481,DECIDE,熊本県,968,KEEN,熊本県,1384,YAMI,熊本県
 4th style,LOVE WILL・・・,535,SILVER,熊本県,715,SILVER,熊本県,1452,P.K.R.,熊本県
-4th style,KAMIKAZE,883,DECIDE,熊本県,1348,SILVER,熊本県,2249,GREEDY,熊本県
+4th style,KAMIKAZE,926,DECIDE,熊本県,1348,SILVER,熊本県,2249,GREEDY,熊本県
 4th style,Jam&Marmalade,733,SILVER,熊本県,813,SILVER,熊本県,981,E.JIMA,熊本県
 4th style,Hitch Hiker2,728,DECIDE,熊本県,933,SACHI,熊本県,1312,GREEDY,熊本県
 4th style,HIGHER,497,DECIDE,熊本県,896,SILVER,熊本県,1256,BIFU-R,熊本県
@@ -67,7 +67,7 @@
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1745,YM,熊本県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),809,DECIDE,熊本県,1006,SILVER,熊本県,1674,YM,熊本県
 5th style,Regulus,754,DECIDE,熊本県,1282,SKFB,熊本県,1659,P.K.R.,熊本県
-5th style,Real,935,KAZZY.,熊本県,1153,KRN,熊本県,1777,E.JIMA,熊本県
+5th style,Real,964,ZALMK,熊本県,1153,KRN,熊本県,1777,E.JIMA,熊本県
 5th style,Radical Faith,1109,SILVER,熊本県,1392,SILVER,熊本県,1287,E.JIMA,熊本県
 5th style,QQQ,1051,DECIDE,熊本県,1737,SILVER,熊本県,2111,P.K.R.,熊本県
 5th style,outer wall,873,SYUNNT,熊本県,1070,NEPIA,熊本県,1725,E.JIMA,熊本県
@@ -102,11 +102,11 @@
 7th style,MAX 300,1073,SHIFT,熊本県,1877,E.JIMA,熊本県,0,,未設定
 7th style,Love Me Do,1093,SILVER,熊本県,1528,CRADLE,熊本県,2095,E.JIMA,熊本県
 7th style,Let the Snow Paint Me,810,SILVER,熊本県,989,SILVER,熊本県,1236,GREEDY,熊本県
-7th style,Last Message,855,A,熊本県,1196,JSK,熊本県,1563,E.JIMA,熊本県
+7th style,Last Message,912,ZALMK,熊本県,1196,JSK,熊本県,1563,E.JIMA,熊本県
 7th style,Happy Wedding,1130,SILVER,熊本県,1502,SILVER,熊本県,1795,E.JIMA,熊本県
 7th style,Glorious Days,494,SILVER,熊本県,749,SILVER,熊本県,898,YAMI,熊本県
 7th style,foreplay,674,SILVER,熊本県,1141,SILVER,熊本県,1284,YAMI,熊本県
-7th style,DESTINY,931,GEN,熊本県,1204,B-TAI,熊本県,1813,E.JIMA,熊本県
+7th style,DESTINY,951,ZALMK,熊本県,1204,B-TAI,熊本県,1813,E.JIMA,熊本県
 7th style,D2R,935,SILVER,熊本県,1199,SILVER,熊本県,1587,P.K.R.,熊本県
 7th style,Cheer Train,818,ZALMK,熊本県,941,SAT-CY,熊本県,1690,E.JIMA,熊本県
 7th style,Burning Heat! (Full Option Mix),683,SILVER,熊本県,895,SILVER,熊本県,1435,E.JIMA,熊本県
@@ -280,7 +280,7 @@ HAPPY SKY,EDEN,1129,A,熊本県,1864,CLALA,熊本県,2697,GREEDY,熊本県
 HAPPY SKY,double thrash,996,47MON*,熊本県,1947,KARIQB,熊本県,2230,ARCUS2,熊本県
 HAPPY SKY,Catch Me,690,ZALMK,熊本県,1102,NJGAIA,熊本県,1755,E.JIMA,熊本県
 HAPPY SKY,CaptivAte～浄化～,1033,SILVER,熊本県,1644,NJGAIA,熊本県,2417,P.K.R.,熊本県
-HAPPY SKY,Aurora,1295,SILVER,熊本県,1985,ELFELY,熊本県,2466,P.K.R.,熊本県
+HAPPY SKY,Aurora,1295,SILVER,熊本県,2007,KARIQB,熊本県,2466,P.K.R.,熊本県
 HAPPY SKY,alla turca con passione,747,ZALMK,熊本県,1470,EVIL-S,熊本県,2129,P.K.R.,熊本県
 HAPPY SKY,Agnus Dei,822,SILVER,熊本県,1518,SILVER,熊本県,1974,ARCUS2,熊本県
 HAPPY SKY,100％ minimoo-G,873,SILVER,熊本県,1411,$,熊本県,1653,E.JIMA,熊本県
@@ -324,7 +324,7 @@ DistorteD,Bloody Tears(IIDX EDITION),969,DECIDE,熊本県,1858,DUNLOP,熊本県,
 DistorteD,BALLAD THE FEATHERS,699,SILVER,熊本県,1032,SILVER,熊本県,1487,723KAN,熊本県
 DistorteD,Apocalypse ～dirge of swans～,885,ZALMK,熊本県,1524,D-S,熊本県,2327,BIM,熊本県
 DistorteD,ALFARSHEAR 双神威に廻る夢,981,DECIDE,熊本県,1600,SILVER,熊本県,2054,GREEDY,熊本県
-GOLD,電人、暁に斃れる。,1214,DRACUL,熊本県,2146,FLAME5,熊本県,3192,PET4KI,熊本県
+GOLD,電人、暁に斃れる。,1231,ZALMK,熊本県,2146,FLAME5,熊本県,3192,PET4KI,熊本県
 GOLD,零 - ZERO -,1060,DECIDE,熊本県,1691,NJGAIA,熊本県,2276,YM,熊本県
 GOLD,花吹雪 ～ IIDX LIMITED ～,705,SILVER,熊本県,1105,EVIL-S,熊本県,1407,BIM,熊本県
 GOLD,星をこの手に,1157,SILVER,熊本県,1634,SILVER,熊本県,2101,PU2ANA,熊本県
@@ -408,7 +408,7 @@ DJ TROOPERS,Freeway Shuffle,786,SILVER,熊本県,1218,SILVER,熊本県,1848,GREE
 DJ TROOPERS,four pieces of heaven,849,SILVER,熊本県,1781,E.JIMA,熊本県,2205,P.K.R.,熊本県
 DJ TROOPERS,evergreen,966,SILVER,熊本県,1308,SILVER,熊本県,1914,E.JIMA,熊本県
 DJ TROOPERS,end of world,958,SILVER,熊本県,1679,KOUYA,熊本県,2388,E.JIMA,熊本県
-DJ TROOPERS,Do it!! Do it!!,994,SILVER,熊本県,1342,KARIQB,熊本県,1828,KARIQB,熊本県
+DJ TROOPERS,Do it!! Do it!!,994,SILVER,熊本県,1370,KARIQB,熊本県,1828,KARIQB,熊本県
 DJ TROOPERS,Digitank System,850,DECIDE,熊本県,1547,E.JIMA,熊本県,2050,E.JIMA,熊本県
 DJ TROOPERS,Dazzlin' Darlin,870,SILVER,熊本県,1314,801,熊本県,2217,P.K.R.,熊本県
 DJ TROOPERS,Darling my LUV,678,SILVER,熊本県,978,SILVER,熊本県,1376,BIM,熊本県
@@ -457,7 +457,7 @@ EMPRESS,HYPERION,952,BOB,熊本県,1818,KOUYA,熊本県,2639,E.JIMA,熊本県
 EMPRESS,Go Beyond!!,787,CTRS,熊本県,1614,K.,熊本県,2048,YM,熊本県
 EMPRESS,Fly Above,947,31D,熊本県,1604,GREEDY,熊本県,2024,PET4KI,熊本県
 EMPRESS,Flash Back 90's,905,31D,熊本県,1668,31D,熊本県,2296,P.K.R.,熊本県
-EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1014,ZALMK,熊本県,1621,SUMIKA,熊本県,2490,BIM,熊本県
+EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1014,ZALMK,熊本県,1693,NJGAIA,熊本県,2490,BIM,熊本県
 EMPRESS,Colorful Cookie,1130,BIM,熊本県,2213,$H!NA.,熊本県,3373,PET4KI,熊本県
 EMPRESS,CaptivAte2～覚醒～,934,A,熊本県,1521,CRADLE,熊本県,2328,YM,熊本県
 EMPRESS,BRIDAL FESTIVAL !!!,931,31D,熊本県,1416,31D,熊本県,2062,E.JIMA,熊本県
@@ -470,7 +470,7 @@ EMPRESS,ALL I NEED YOUR LOVE,983,DECIDE,熊本県,1606,SILVER,熊本県,2103,P.K
 EMPRESS,3y3s,1398,31D,熊本県,2323,.MAD,熊本県,3198,PET4KI,熊本県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",679,SILVER,熊本県,1573,EVIL-S,熊本県,2054,E.JIMA,熊本県
 SIRIUS,未来のプリズム,661,SILVER,熊本県,1320,SILVER,熊本県,1751,E.JIMA,熊本県
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1189,SILVER,熊本県,2025,ELFELY,熊本県,3024,E.JIMA,熊本県
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1189,SILVER,熊本県,2076,KARIQB,熊本県,3024,E.JIMA,熊本県
 SIRIUS,バビロニア,817,31D,熊本県,1318,SILVER,熊本県,1827,KARIQB,熊本県
 SIRIUS,サヨナラ・ヘヴン,903,31D,熊本県,1323,BIFU-R,熊本県,1649,GREEDY,熊本県
 SIRIUS,コスモス,907,EVIL-S,熊本県,1452,DUNLOP,熊本県,2076,E.JIMA,熊本県
@@ -660,7 +660,7 @@ tricoro,下弦の月,866,DECIDE,熊本県,1354,KOUYA,熊本県,1964,BIM,熊本�
 tricoro,ラキラキ,614,CHECK,熊本県,1257,MAROMI,熊本県,1956,BIM,熊本県
 tricoro,メイメツ、フラグメンツ,624,DECIDE,熊本県,1240,NJGAIA,熊本県,1920,YM,熊本県
 tricoro,トリカゴノ鳳凰,1132,SILVER,熊本県,1674,ATZKMW,熊本県,3599,PET4KI,熊本県
-tricoro,シュレーディンガーの猫,953,OHYAM?,熊本県,2272,DARU46,熊本県,3233,YAMI,熊本県
+tricoro,シュレーディンガーの猫,953,OHYAM?,熊本県,2334,KARIQB,熊本県,3233,YAMI,熊本県
 tricoro,キャトられ恋はモ～モク,1446,31D,熊本県,2589,GREEDY,熊本県,3455,YM,熊本県
 tricoro,カジノファイヤーことみちゃん,590,DECIDE,熊本県,1356,31D,熊本県,2269,PET4KI,熊本県
 tricoro,アストライアの双皿,663,SILVER,熊本県,1933,DARU46,熊本県,2937,P.K.R.,熊本県
@@ -766,7 +766,7 @@ SPADA,refractive index,714,SILVER,熊本県,1393,SILVER,熊本県,2623,E.JIMA,�
 SPADA,Recollection,1143,SILVER,熊本県,1690,SILVER,熊本県,2200,GREEDY,熊本県
 SPADA,rainbow guitar weeps,936,SILVER,熊本県,1718,HARU,熊本県,2681,BIM,熊本県
 SPADA,ra'am,1071,SILVER,熊本県,1706,$H!NA.,熊本県,2555,YAMI,熊本県
-SPADA,PUNISHER,1105,SILVER,熊本県,1888,SUNE-0,熊本県,3430,PET4KI,熊本県
+SPADA,PUNISHER,1105,SILVER,熊本県,1958,9SOKAS,熊本県,3430,PET4KI,熊本県
 SPADA,Pharaoh,617,DECIDE,熊本県,1332,SILVER,熊本県,2380,YM,熊本県
 SPADA,Overload Frontier,705,DECIDE,熊本県,1733,SILVER,熊本県,2492,E.JIMA,熊本県
 SPADA,Odin,762,SILVER,熊本県,1363,SILVER,熊本県,2014,YM,熊本県
@@ -787,8 +787,8 @@ SPADA,invoker,1046,SILVER,熊本県,1746,NJGAIA,熊本県,3076,E.JIMA,熊本県
 SPADA,into the battlefield,685,DECIDE,熊本県,1371,31D,熊本県,2327,YM,熊本県
 SPADA,INSOMNIA,764,DECIDE,熊本県,1698,EVIL-S,熊本県,3023,YM,熊本県
 SPADA,Insane Techniques,711,SILVER,熊本県,1259,SILVER,熊本県,2394,E.JIMA,熊本県
-SPADA,Immortal,846,DECIDE,熊本県,1649,EVIL-S,熊本県,2967,YM,熊本県
-SPADA,Idola,1000,DECIDE,熊本県,2203,CLALA,熊本県,3461,PET4KI,熊本県
+SPADA,Immortal,859,DECIDE,熊本県,1649,EVIL-S,熊本県,2967,YM,熊本県
+SPADA,Idola,1124,B-TAI,熊本県,2203,CLALA,熊本県,3461,PET4KI,熊本県
 SPADA,I will be back -オレは帰ってきた-,922,DECIDE,熊本県,1677,IFFY,熊本県,2813,E.JIMA,熊本県
 SPADA,Hypersonik,974,SILVER,熊本県,1617,SILVER,熊本県,2452,E.JIMA,熊本県
 SPADA,HYENA,1045,DECIDE,熊本県,1711,A2M,熊本県,2699,E.JIMA,熊本県
@@ -815,7 +815,7 @@ SPADA,Atropos,1029,31D,熊本県,1451,UNDTAL,熊本県,2255,E.JIMA,熊本県
 SPADA,ATHER,935,DECIDE,熊本県,1495,JUDAS.,熊本県,2742,YAMI,熊本県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4026,PET4KI,熊本県
 SPADA,Ancient Scapes,1130,SILVER,熊本県,1925,ELFELY,熊本県,3313,BIM,熊本県
-SPADA,ALBA -黎明-,613,DECIDE,熊本県,1528,GREEDY,熊本県,3125,PET4KI,熊本県
+SPADA,ALBA -黎明-,626,DECIDE,熊本県,1528,GREEDY,熊本県,3125,PET4KI,熊本県
 SPADA,Adularia,944,DECIDE,熊本県,1625,SWAKIT,熊本県,2740,PET4KI,熊本県
 PENDUAL,Ｘ↑Ｘ↓,885,DECIDE,熊本県,1624,$H!NA.,熊本県,2730,P.K.R.,熊本県
 PENDUAL,鬼天,948,SILVER,熊本県,1497,SILVER,熊本県,2376,BIM,熊本県
@@ -1246,7 +1246,7 @@ Rootage,Ember Lights,965,PET4KI,熊本県,1607,UD0NGE,熊本県,2645,PET4KI,熊�
 Rootage,DRUNK MONKY,1011,PET4KI,熊本県,1606,KARIQB,熊本県,2223,PET4KI,熊本県
 Rootage,Drastic Dramatic,1556,PET4KI,熊本県,2384,PET4KI,熊本県,3371,PET4KI,熊本県
 Rootage,Dr. Chemical & Killing Machine,1117,PET4KI,熊本県,1881,PET4KI,熊本県,3243,PET4KI,熊本県
-Rootage,Digital Skipper,998,PET4KI,熊本県,1497,SHIFT,熊本県,2204,P.K.R.,熊本県
+Rootage,Digital Skipper,1005,PET4KI,熊本県,1497,SHIFT,熊本県,2204,P.K.R.,熊本県
 Rootage,dAuntl3ss,1084,PET4KI,熊本県,2000,PET4KI,熊本県,3409,PET4KI,熊本県
 Rootage,Cranberry City ft. Luschel,859,PET4KI,熊本県,1577,GREEDY,熊本県,2360,P.K.R.,熊本県
 Rootage,CoMAAAAAAA,1263,PET4KI,熊本県,2035,GREEDY,熊本県,2375,YAMI,熊本県

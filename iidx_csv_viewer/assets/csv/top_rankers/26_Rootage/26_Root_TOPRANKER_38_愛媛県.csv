@@ -25,7 +25,7 @@
 3rd style,Skyscraper,606,UNI-19,愛媛県,843,TRASH,愛媛県,1198,TONKA2,愛媛県
 3rd style,Schlagwerk,717,Z.O.E.,愛媛県,1281,-KEN5-,愛媛県,1647,-KEN5-,愛媛県
 3rd style,REINCARNATION,0,,未設定,862,HIKE,愛媛県,1249,HIBARI,愛媛県
-3rd style,R5,680,BCCH,愛媛県,1073,KA5ME,愛媛県,1737,45NYAN,愛媛県
+3rd style,R5,680,BCCH,愛媛県,1073,KA5ME,愛媛県,1745,45NYAN,愛媛県
 3rd style,Presto,454,MIZUKI,愛媛県,864,MAKI,愛媛県,978,TONKA2,愛媛県
 3rd style,LEADING CYBER,594,310-IN,愛媛県,1177,-KEN5-,愛媛県,1218,-KEN5-,愛媛県
 3rd style,Holic,683,YOS,愛媛県,1087,BARY3,愛媛県,1707,45NYAN,愛媛県
@@ -55,7 +55,7 @@
 4th style,B4U,735,UNI-19,愛媛県,1400,MT2Y0H,愛媛県,1964,#IMO.,愛媛県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2576,KA2ME4,愛媛県
 4th style,ABSOLUTE,1086,T-TLN,愛媛県,1668,******,愛媛県,2291,KOUZI,愛媛県
-4th style,250bpm,355,RIVER,愛媛県,893,TOR,愛媛県,1292,PASHA,愛媛県
+4th style,250bpm,355,RIVER,愛媛県,893,TOR,愛媛県,1294,TONKA2,愛媛県
 5th style,V,1188,XU,愛媛県,2365,L#LUNA,愛媛県,2938,45NYAN,愛媛県
 5th style,THE SHINING POLARIS,0,,未設定,923,GIANT,愛媛県,1561,LEMON*,愛媛県
 5th style,THE CUBE,0,,未設定,1235,XU,愛媛県,1312,TONKO2,愛媛県
@@ -134,7 +134,7 @@
 8th style,Halfway of promise,907,AIR,愛媛県,1360,MAKI,愛媛県,1794,KA2ME4,愛媛県
 8th style,Giudecca,730,MIZUKI,愛媛県,1660,AMBASA,愛媛県,2604,#IMO.,愛媛県
 8th style,dual control,618,MIZUKI,愛媛県,822,HEXIM,愛媛県,1857,#IMO.,愛媛県
-8th style,Colors -Y&Co. Eurobeat Remix-,962,MIZUKI,愛媛県,1869,AMBASA,愛媛県,2120,#IMO.,愛媛県
+8th style,Colors -Y&Co. Eurobeat Remix-,962,MIZUKI,愛媛県,1869,AMBASA,愛媛県,2141,-KEN5-,愛媛県
 8th style,CELEBRATE NITE,762,U160R,愛媛県,889,MINATO,愛媛県,1369,HA4MOT,愛媛県
 8th style,Blame,989,U160R,愛媛県,1281,MOMO,愛媛県,1925,45NYAN,愛媛県
 8th style,bit mania,724,ERIWO,愛媛県,1043,TRASH,愛媛県,1830,B-777*,愛媛県
@@ -146,7 +146,7 @@
 9th style,ライオン好き,604,TAPI,愛媛県,1029,#RIKU,愛媛県,1473,TONKA2,愛媛県
 9th style,SWEETEST SAVAGE,628,XU,愛媛県,1209,CHOCO,愛媛県,1728,#IMO.,愛媛県
 9th style,Sweet Sweet Magic,856,BCCH,愛媛県,1056,310-IN,愛媛県,1986,MOMOMO,愛媛県
-9th style,STAR FIELD,583,310-IN,愛媛県,0,,未設定,1872,#IMO.,愛媛県
+9th style,STAR FIELD,583,310-IN,愛媛県,1030,NOMAT,愛媛県,1872,#IMO.,愛媛県
 9th style,SNOW,746,310-IN,愛媛県,1056,MIZUKI,愛媛県,1957,MASHU*,愛媛県
 9th style,Silvia Drive,346,W.S,愛媛県,1300,YOS,愛媛県,2019,#IMO.,愛媛県
 9th style,rottel-the-Mercury,819,BCCH,愛媛県,1831,XU,愛媛県,2247,KA2ME4,愛媛県
@@ -203,7 +203,7 @@
 10th style,Boundary,726,BCCH,愛媛県,1605,KYOBIQ,愛媛県,2018,TONKO2,愛媛県
 10th style,Back Into The Light,1090,MAKI,愛媛県,1490,MAKI,愛媛県,2146,#IMO.,愛媛県
 10th style,BABY LOVE,0,,未設定,0,,未設定,2129,#IMO.,愛媛県
-10th style,ASTRAL VOYAGE,772,UNI-19,愛媛県,0,,未設定,1897,#IMO.,愛媛県
+10th style,ASTRAL VOYAGE,772,UNI-19,愛媛県,1130,MIZUKI,愛媛県,1897,#IMO.,愛媛県
 10th style,ALIEN TEMPLE,376,W.S,愛媛県,1481,MAKI,愛媛県,2006,45NYAN,愛媛県
 10th style,1st Samurai,0,,未設定,1760,PASHA,愛媛県,2613,45NYAN,愛媛県
 IIDX RED,ＵＬＴｉＭΛＴＥ,773,AIR,愛媛県,1370,MAKI,愛媛県,1941,KOUZI,愛媛県
@@ -231,10 +231,10 @@ IIDX RED,FAKE TIME,769,MINATO,愛媛県,1677,KA2ME4,愛媛県,2284,KA2ME4,愛媛
 IIDX RED,earth scape,400,NOIR,愛媛県,850,SWITCH,愛媛県,1259,MOMOMO,愛媛県
 IIDX RED,Don't be afraid myself,920,MIZUKI,愛媛県,1679,K-EIRI,愛媛県,2217,-KEN5-,愛媛県
 IIDX RED,D.A.N.C.E.!,544,MAKI,愛媛県,692,Z.O.E.,愛媛県,1550,-KEN5-,愛媛県
-IIDX RED,Close my Eyes for Me,394,MAKI!M,愛媛県,1018,MIZUKI,愛媛県,1706,67ME4X,愛媛県
+IIDX RED,Close my Eyes for Me,394,MAKI!M,愛媛県,1018,MIZUKI,愛媛県,1740,TONKA2,愛媛県
 IIDX RED,Click Again,729,MINATO,愛媛県,534,FATCAT,愛媛県,1978,D!EBEN,愛媛県
 IIDX RED,BREATH,753,U160,愛媛県,1003,YUNKCY,愛媛県,1693,D!EBEN,愛媛県
-IIDX RED,BLOCKS,627,HIKE,愛媛県,1020,$ME$,愛媛県,1950,45NYAN,愛媛県
+IIDX RED,BLOCKS,627,HIKE,愛媛県,1020,$ME$,愛媛県,1960,45NYAN,愛媛県
 IIDX RED,Be quiet,480,FATCAT,愛媛県,1327,WORST,愛媛県,2198,45NYAN,愛媛県
 IIDX RED,awakening,862,BCCH,愛媛県,1230,SWITCH,愛媛県,1674,KA2ME4,愛媛県
 IIDX RED,ANDROMEDA,951,AIR,愛媛県,1760,POCOPY,愛媛県,2857,#IMO.,愛媛県
@@ -329,7 +329,7 @@ GOLD,零 - ZERO -,1089,BLACK,愛媛県,1650,MAKI,愛媛県,2286,-KEN5-,愛媛県
 GOLD,花吹雪 ～ IIDX LIMITED ～,625,BCCH,愛媛県,912,ZEZA,愛媛県,1403,KA2ME4,愛媛県
 GOLD,星をこの手に,1103,CHOCO,愛媛県,1659,CHOCO,愛媛県,2123,AAAAAA,愛媛県
 GOLD,リグレット,1158,MINATO,愛媛県,1510,BLACK,愛媛県,2400,KA2ME4,愛媛県
-GOLD,ヨシダさん,831,BLACK,愛媛県,1285,TINA,愛媛県,1940,TONKO2,愛媛県
+GOLD,ヨシダさん,831,BLACK,愛媛県,1344,TN.HDK,愛媛県,1940,TONKO2,愛媛県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,809,MINATO,愛媛県,1449,HA4MOT,愛媛県,2217,RIAMUY,愛媛県
 GOLD,X-rated,750,UNI-19,愛媛県,1475,AIR,愛媛県,2056,LEMON*,愛媛県
 GOLD,With your Smile,644,MINATO,愛媛県,1015,ZEZA,愛媛県,1563,KA2ME4,愛媛県
@@ -346,7 +346,7 @@ GOLD,Second Heaven,896,YOS,愛媛県,1457,ROD-DS,愛媛県,2086,#IMO.,愛媛県
 GOLD,Roulette,719,310-IN,愛媛県,1189,BLACK,愛媛県,2080,LEMON*,愛媛県
 GOLD,PHOTONGENIC,1057,MIZUKI,愛媛県,1703,A.K,愛媛県,2277,MOMOMO,愛媛県
 GOLD,op.31 叙情,561,KA2ME4,愛媛県,1061,TONKO2,愛媛県,1536,KA2ME4,愛媛県
-GOLD,never…,697,ERIWO,愛媛県,1223,0024,愛媛県,1781,D!EBEN,愛媛県
+GOLD,never…,697,ERIWO,愛媛県,1223,0024,愛媛県,1787,-KEN5-,愛媛県
 GOLD,METALLIC MIND,628,ERIWO,愛媛県,1024,AMS,愛媛県,1618,KA2ME4,愛媛県
 GOLD,Make Me Your Own,704,U160,愛媛県,1399,PEG11O,愛媛県,2070,#IMO.,愛媛県
 GOLD,Love Again...,479,ERIWO,愛媛県,730,YOS,愛媛県,1063,*PAPU*,愛媛県
@@ -479,7 +479,7 @@ SIRIUS,かずあそび,448,MAON,愛媛県,1030,MIZUKI,愛媛県,1680,KA2ME4,愛�
 SIRIUS,The Story Begins,752,BCCH,愛媛県,1594,SECT.9,愛媛県,2371,-KEN5-,愛媛県
 SIRIUS,THE LAST STRIKER,1323,J,愛媛県,1806,TAWA4,愛媛県,2557,HIBARI,愛媛県
 SIRIUS,Special One,773,YOS,愛媛県,1077,AIR,愛媛県,1717,U.59,愛媛県
-SIRIUS,Sorrows,748,BCCH,愛媛県,1534,MAKI,愛媛県,2425,AAAAAA,愛媛県
+SIRIUS,Sorrows,748,BCCH,愛媛県,1534,MAKI,愛媛県,2440,KOUZI,愛媛県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3419,KOUZI,愛媛県
 SIRIUS,SOLID STATE SQUAD,818,BCCH,愛媛県,2160,AKIYA,愛媛県,3437,#IMO.,愛媛県
 SIRIUS,She is my wife,587,MIZUKI,愛媛県,1331,RIN-K,愛媛県,1882,D!EBEN,愛媛県
@@ -500,7 +500,7 @@ SIRIUS,IN THE NAME OF LOVE,385,MAKI!M,愛媛県,1297,AIR,愛媛県,1898,*PAPU*,�
 SIRIUS,Hydrogen Blueback,945,AIR,愛媛県,1581,AIR,愛媛県,2223,DIGGY*,愛媛県
 SIRIUS,GOLDEN CROSS,977,MIZUKI,愛媛県,1884,L#TORI,愛媛県,3389,#IMO.,愛媛県
 SIRIUS,GALGALIM,1203,T-TLN,愛媛県,1658,AMBASA,愛媛県,2348,45NYAN,愛媛県
-SIRIUS,G59,1732,XU,愛媛県,2188,Z0RA,愛媛県,3694,#IMO.,愛媛県
+SIRIUS,G59,1732,XU,愛媛県,2188,Z0RA,愛媛県,3700,KA2ME4,愛媛県
 SIRIUS,EXUSIA,1178,GONTA#,愛媛県,2570,PASHA,愛媛県,3803,45NYAN,愛媛県
 SIRIUS,Evans,1191,AIR,愛媛県,2157,KA2ME4,愛媛県,2647,KA2ME4,愛媛県
 SIRIUS,eRAseRmOToRpHAntOM,1383,CHOCO,愛媛県,2349,HA4MOT,愛媛県,3037,-KEN5-,愛媛県
@@ -508,9 +508,9 @@ SIRIUS,Empire State Glory,856,ERIWO,愛媛県,1797,HIBARI,愛媛県,2565,KOUZI,�
 SIRIUS,Elisha,805,D$ZERO,愛媛県,1395,KWM-CH,愛媛県,2176,KA2ME4,愛媛県
 SIRIUS,DROP,733,UNI-19,愛媛県,1963,AKIYA,愛媛県,2590,#IMO.,愛媛県
 SIRIUS,DOMINION,1058,BLACK,愛媛県,2124,GONTA#,愛媛県,3178,45NYAN,愛媛県
-SIRIUS,DESIRE,456,CHANKO,愛媛県,1710,OKOJYO,愛媛県,2753,KA2ME4,愛媛県
+SIRIUS,DESIRE,456,CHANKO,愛媛県,1710,OKOJYO,愛媛県,2764,-KEN5-,愛媛県
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,704,SA,愛媛県,1394,******,愛媛県,2051,HIBARI,愛媛県
-SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1442,MIZUKI,愛媛県,2289,A01,愛媛県,3081,45NYAN,愛媛県
+SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1442,MIZUKI,愛媛県,2550,AMBASA,愛媛県,3083,45NYAN,愛媛県
 SIRIUS,D,1359,KANTOQ,愛媛県,1711,HA4MOT,愛媛県,2485,45NYAN,愛媛県
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),821,Q,愛媛県,1279,KWM-CH,愛媛県,2375,TONKO2,愛媛県
 SIRIUS,bloomin' feeling,1196,AIR,愛媛県,1852,SLIME,愛媛県,2521,KA2ME4,愛媛県
@@ -543,7 +543,7 @@ Resort Anthem,STELLAR WIND,572,MIZUKI,愛媛県,1543,CHOCOM,愛媛県,2540,MASHU
 Resort Anthem,Stay my side,394,NAGI,愛媛県,716,YIZE,愛媛県,1323,B-777*,愛媛県
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,411,MINATO,愛媛県,1227,KWM-CH,愛媛県,2807,TW90S,愛媛県
 Resort Anthem,Space Time,321,ROONEY,愛媛県,1483,CHOCO,愛媛県,2106,RIAMUY,愛媛県
-Resort Anthem,Session 9 -Chronicles-,668,MIZUKI,愛媛県,2170,PASHA,愛媛県,3368,#IMO.,愛媛県
+Resort Anthem,Session 9 -Chronicles-,668,MIZUKI,愛媛県,2170,PASHA,愛媛県,3369,KOUZI,愛媛県
 Resort Anthem,sakura storm,945,310-IN,愛媛県,1227,L#TORI,愛媛県,2344,KA2ME4,愛媛県
 Resort Anthem,Sakura Reflection,413,M1M0SA,愛媛県,1563,67ME4X,愛媛県,2333,KOUZI,愛媛県
 Resort Anthem,SABER WING,554,KA2ME4,愛媛県,1779,GYAREN,愛媛県,2801,45NYAN,愛媛県
@@ -580,7 +580,7 @@ Resort Anthem,ANTHEM LANDING,905,AIR,愛媛県,1867,HA4MOT,愛媛県,2923,#IMO.,
 Resort Anthem,Answer,514,K.I,愛媛県,1320,BLACK,愛媛県,2397,#IMO.,愛媛県
 Resort Anthem,ALBIDA,997,BCCH,愛媛県,1791,TAWA4,愛媛県,2853,KA2ME4,愛媛県
 Resort Anthem,Aegis,770,MINATO,愛媛県,1110,YOS,愛媛県,2326,45NYAN,愛媛県
-Lincle,陽炎,608,HI7TA.,愛媛県,1043,MIZUKI,愛媛県,1970,*PAPU*,愛媛県
+Lincle,陽炎,608,HI7TA.,愛媛県,1047,D$ZERO,愛媛県,1970,*PAPU*,愛媛県
 Lincle,衰色小町メランコリア,556,D,愛媛県,1170,YUMA,愛媛県,2341,#IMO.,愛媛県
 Lincle,蛇神,611,LANZE,愛媛県,1300,KWM-CH,愛媛県,2734,#IMO.,愛媛県
 Lincle,聖人の塔,870,MIZUKI,愛媛県,1838,PASHA,愛媛県,2830,RIAMUY,愛媛県
@@ -633,7 +633,7 @@ Lincle,Follow Tomorrow,832,MINATO,愛媛県,1460,HA4MOT,愛媛県,2207,KA2ME4,�
 Lincle,Flip Flap,526,UNI-19,愛媛県,1146,BLACK,愛媛県,2192,LEMON*,愛媛県
 Lincle,fffff,750,U160,愛媛県,1875,Z0RA,愛媛県,2982,45NYAN,愛媛県
 Lincle,Far east nightbird,487,TAPI,愛媛県,1198,KWM-CH,愛媛県,1990,RIAMUY,愛媛県
-Lincle,F,918,U160,愛媛県,2056,D!EBEN,愛媛県,3398,#IMO.,愛媛県
+Lincle,F,918,U160,愛媛県,2056,D!EBEN,愛媛県,3520,45NYAN,愛媛県
 Lincle,Express Emotion,734,MIZUKI,愛媛県,993,BARY3,愛媛県,2497,45NYAN,愛媛県
 Lincle,Drive Me Crazy,676,MIZUKI,愛媛県,1304,CHOCO,愛媛県,2266,LEMON*,愛媛県
 Lincle,DIAVOLO,1094,MIZUKI,愛媛県,1816,L#LUNA,愛媛県,3079,45NYAN,愛媛県
@@ -653,7 +653,7 @@ tricoro,梅雪夜,796,TA2,愛媛県,1396,AKIYA,愛媛県,2085,B-777*,愛媛県
 tricoro,朧†,0,,未設定,0,,未設定,2510,KA2ME4,愛媛県
 tricoro,朧,713,ZEZA,愛媛県,1413,K-EIRI,愛媛県,2094,#IMO.,愛媛県
 tricoro,即席！脳直★ミュージックシステム,912,BCCH,愛媛県,1905,HA4MOT,愛媛県,3342,KA2ME4,愛媛県
-tricoro,創世ノート,756,MIZUKI,愛媛県,1684,OYOYO,愛媛県,2829,DIGGY*,愛媛県
+tricoro,創世ノート,762,MIZUKI,愛媛県,1684,OYOYO,愛媛県,2829,DIGGY*,愛媛県
 tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3757,KA2ME4,愛媛県
 tricoro,仮想空間の旅人たち,1031,BCCH,愛媛県,1782,YOS,愛媛県,2850,#IMO.,愛媛県
 tricoro,下弦の月,581,A,愛媛県,1268,AGE*18,愛媛県,1942,TONKA2,愛媛県
@@ -696,7 +696,7 @@ tricoro,Proof of the existence,1031,310-IN,愛媛県,1976,XU,愛媛県,3026,RIAM
 tricoro,Praludium,591,MQ,愛媛県,1270,YOS,愛媛県,2229,TONKA2,愛媛県
 tricoro,POINT ZERO,491,LINCS*,愛媛県,947,PUNIS,愛媛県,2005,HA4MOT,愛媛県
 tricoro,planarian,692,XU,愛媛県,1502,KWM-CH,愛媛県,2483,RIAMUY,愛媛県
-tricoro,Plan 8,1081,MIZUKI,愛媛県,1958,AKIYA,愛媛県,3016,45NYAN,愛媛県
+tricoro,Plan 8,1081,MIZUKI,愛媛県,1964,Z0RA,愛媛県,3016,45NYAN,愛媛県
 tricoro,New Lights,650,W.S,愛媛県,1488,KYOBIQ,愛媛県,2413,AAAAAA,愛媛県
 tricoro,New Decade IIDX Edition,751,NEMUII,愛媛県,1659,KWM-CH,愛媛県,2999,45NYAN,愛媛県
 tricoro,neu,681,HKSI,愛媛県,2069,MT2Y0H,愛媛県,3728,#IMO.,愛媛県
@@ -716,7 +716,7 @@ tricoro,Howling†,0,,未設定,0,,未設定,2515,LEMON*,愛媛県
 tricoro,Howling,412,LINCS*,愛媛県,1174,D$ZERO,愛媛県,2058,HIBARI,愛媛県
 tricoro,Hollywood Galaxy,959,MIZUKI,愛媛県,1910,UME.,愛媛県,2589,KA2ME4,愛媛県
 tricoro,GRADIUS 2012,872,MAKI,愛媛県,1557,CHOCO,愛媛県,2580,DIGGY*,愛媛県
-tricoro,GAIA,783,LANZE,愛媛県,1996,WANPA9,愛媛県,3255,45NYAN,愛媛県
+tricoro,GAIA,783,LANZE,愛媛県,1996,WANPA9,愛媛県,3271,45NYAN,愛媛県
 tricoro,Fly you to the star,702,310-IN,愛媛県,1470,0024,愛媛県,2217,KOUZI,愛媛県
 tricoro,FLOWER,1048,AIR,愛媛県,1741,XU,愛媛県,2813,*PAPU*,愛媛県
 tricoro,examination leave,859,FIRIA,愛媛県,1754,KA5ME,愛媛県,3326,KA2ME4,愛媛県
@@ -758,15 +758,15 @@ SPADA,Unicorn tail,572,K.I,愛媛県,1852,PEACE,愛媛県,3035,TONKA2,愛媛県
 SPADA,THE DETONATOR,1290,BCCH,愛媛県,2198,RIN-K,愛媛県,3154,#IMO.,愛媛県
 SPADA,Squeeze,0,,未設定,1238,KWM-CH,愛媛県,2338,HA4MOT,愛媛県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4075,45NYAN,愛媛県
-SPADA,Sigmund,1509,XU,愛媛県,2278,MOMOMO,愛媛県,3618,#IMO.,愛媛県
+SPADA,Sigmund,1509,XU,愛媛県,2278,MOMOMO,愛媛県,3677,45NYAN,愛媛県
 SPADA,SCHWARZSCHILD FIELD,785,ZEZA,愛媛県,1326,CHOCOM,愛媛県,2306,U.59,愛媛県
 SPADA,RIZING YOU UP,816,NEKO,愛媛県,1843,RSN!,愛媛県,2530,TONKA2,愛媛県
-SPADA,RISE,410,MAKI!M,愛媛県,1046,KWM-CH,愛媛県,1732,HA4MOT,愛媛県
+SPADA,RISE,410,MAKI!M,愛媛県,1046,KWM-CH,愛媛県,1795,TONKA2,愛媛県
 SPADA,refractive index,656,BCCH,愛媛県,1319,MAKI,愛媛県,2659,#IMO.,愛媛県
 SPADA,Recollection,576,RIVER,愛媛県,1661,MAKI,愛媛県,2172,*PAPU*,愛媛県
 SPADA,rainbow guitar weeps,919,AIR,愛媛県,1598,KWM-CH,愛媛県,2717,#IMO.,愛媛県
 SPADA,ra'am,1084,CHOCO,愛媛県,1702,AKIYA,愛媛県,2688,45NYAN,愛媛県
-SPADA,PUNISHER,900,ERIWO,愛媛県,2001,MT2Y0H,愛媛県,3443,#IMO.,愛媛県
+SPADA,PUNISHER,900,ERIWO,愛媛県,2044,HI7TA.,愛媛県,3443,#IMO.,愛媛県
 SPADA,Pharaoh,572,BCCH,愛媛県,1051,310-IN,愛媛県,2442,45NYAN,愛媛県
 SPADA,Overload Frontier,579,ERIWO,愛媛県,1739,D!EBEN,愛媛県,2497,KA2ME4,愛媛県
 SPADA,Odin,447,LINCS*,愛媛県,1311,MAKI,愛媛県,1999,D!EBEN,愛媛県
@@ -895,7 +895,7 @@ PENDUAL,Cosmic Cat,886,REMON?,愛媛県,1562,RIN-K,愛媛県,2287,#IMO.,愛媛�
 PENDUAL,COLOSSEUM,486,BCCH,愛媛県,1128,CHOCO,愛媛県,2198,HA4MOT,愛媛県
 PENDUAL,cinder,727,BCCH,愛媛県,1739,PEACE,愛媛県,2954,RIAMUY,愛媛県
 PENDUAL,Chronos,466,KMNO4,愛媛県,1094,KWM-CH,愛媛県,2334,#IMO.,愛媛県
-PENDUAL,Chrono Diver -PENDULUMs-,1375,XU,愛媛県,2658,*PAPU*,愛媛県,4177,45NYAN,愛媛県
+PENDUAL,Chrono Diver -PENDULUMs-,1375,XU,愛媛県,2658,*PAPU*,愛媛県,4209,45NYAN,愛媛県
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4165,KA2ME4,愛媛県
 PENDUAL,CHRONO DIVER -NORNIR-,1087,MIZUKI,愛媛県,2040,MAKI,愛媛県,2972,*PAPU*,愛媛県
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2227,MOMOMO,愛媛県
@@ -912,7 +912,7 @@ PENDUAL,AFRO KNUCKLE,706,IIDX24,愛媛県,1564,K-EIRI,愛媛県,2373,#IMO.,愛�
 PENDUAL,#The_Relentless,834,NEKO,愛媛県,1611,Z.O.E.,愛媛県,2830,MASHU*,愛媛県
 copula,麗 ～うらら～,872,UNI-19,愛媛県,1733,TONKA2,愛媛県,2600,45NYAN,愛媛県
 copula,駅猫のワルツ,912,310-IN,愛媛県,2108,AAAAAA,愛媛県,2725,45NYAN,愛媛県
-copula,量子の海のリントヴルム,770,BCCH,愛媛県,1661,HIN,愛媛県,2908,#IMO.,愛媛県
+copula,量子の海のリントヴルム,906,XU,愛媛県,1661,HIN,愛媛県,2908,#IMO.,愛媛県
 copula,追想快晴テーマパーク,1087,U160,愛媛県,1939,POCOPY,愛媛県,2874,TONKO2,愛媛県
 copula,紫陽花 -AZISAI-,1116,Z.O.E.,愛媛県,1966,AKIYA,愛媛県,2743,#IMO.,愛媛県
 copula,真 地獄超特急 -HELL or HELL-,1168,KWM-CH,愛媛県,2051,AKIYA,愛媛県,3159,KA2ME4,愛媛県
@@ -972,7 +972,7 @@ copula,Grand Chariot,1001,MIZUKI,愛媛県,1854,TAKA.,愛媛県,3405,45NYAN,愛�
 copula,Godspeed,963,KWM-CH,愛媛県,1889,LEMON*,愛媛県,3037,#IMO.,愛媛県
 copula,GOBBLE,219,LINCS*,愛媛県,688,MT2Y0H,愛媛県,1621,KA2ME4,愛媛県
 copula,Go Faraway,917,MIZUKI,愛媛県,1322,AGE*18,愛媛県,2401,HA4MOT,愛媛県
-copula,Glitch Nerds,507,NAMEKO,愛媛県,1152,KKT,愛媛県,2125,TW90S,愛媛県
+copula,Glitch Nerds,507,NAMEKO,愛媛県,1152,KKT,愛媛県,2168,DIGGY*,愛媛県
 copula,GET READY!!,549,ZEET,愛媛県,1355,RIN-K,愛媛県,2577,KA2ME4,愛媛県
 copula,GENERATE feat.綾倉盟,906,UNI-19,愛媛県,1624,AK!,愛媛県,2316,LEMON*,愛媛県
 copula,Exchange Place,0,,未設定,1167,OKOJYO,愛媛県,1703,RIAMUY,愛媛県
@@ -1089,9 +1089,9 @@ SINOBUZ,Around The Galaxy,1082,XU,愛媛県,1904,CHOCO,愛媛県,3241,HIBARI,愛
 SINOBUZ,Apocalypse,1064,1338KH,愛媛県,1968,KWM-CH,愛媛県,3484,45NYAN,愛媛県
 SINOBUZ,AO-∞,949,MINATO,愛媛県,1701,KASAI3,愛媛県,2517,TW90S,愛媛県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3082,U.59,愛媛県
-SINOBUZ,Amazing Mirage,649,ERIWO,愛媛県,1423,MON,愛媛県,2589,#IMO.,愛媛県
+SINOBUZ,Amazing Mirage,649,ERIWO,愛媛県,1585,PEACE,愛媛県,2589,#IMO.,愛媛県
 SINOBUZ,Affection,578,TAPI,愛媛県,1102,ZAN.,愛媛県,2013,DIGGY*,愛媛県
-SINOBUZ,(This Is Not) The Angels,585,RIAMUY,愛媛県,1297,KA5ME,愛媛県,2647,KA2ME4,愛媛県
+SINOBUZ,(This Is Not) The Angels,585,RIAMUY,愛媛県,1297,KA5ME,愛媛県,2669,45NYAN,愛媛県
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,962,NEKO,愛媛県,1941,RIAMUY,愛媛県,3300,#IMO.,愛媛県
 SINOBUZ,!Viva!,948,XU,愛媛県,1403,K-EIRI,愛媛県,1932,TW90S,愛媛県
 CANNON BALLERS,草原の王女-軌跡を辿って-,634,REAL#G,愛媛県,1183,L#TORI,愛媛県,2292,#IMO.,愛媛県
@@ -1156,7 +1156,7 @@ CANNON BALLERS,FIRE BALL,703,UNI-19,愛媛県,1465,PEACE,愛媛県,2372,DIGGY*,�
 CANNON BALLERS,Fervidex,691,MINATO,愛媛県,1761,PASHA,愛媛県,2659,KA2ME4,愛媛県
 CANNON BALLERS,Expanded !!,650,OKOJYO,愛媛県,1400,KANA-L,愛媛県,2556,KA2ME4,愛媛県
 CANNON BALLERS,Exhaust Hype,823,NEKO,愛媛県,1836,PASHA,愛媛県,2708,*PAPU*,愛媛県
-CANNON BALLERS,encounter,132,AAAA??,愛媛県,1651,PASHA,愛媛県,3164,45NYAN,愛媛県
+CANNON BALLERS,encounter,132,AAAA??,愛媛県,1651,PASHA,愛媛県,3187,45NYAN,愛媛県
 CANNON BALLERS,EMERALDAS,1261,AKIYA,愛媛県,2221,TONKA2,愛媛県,3388,45NYAN,愛媛県
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,未設定,1325,CHOCO,愛媛県,2489,RIAMUY,愛媛県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1266,KYOBIQ,愛媛県,2321,AAAAAA,愛媛県,3918,45NYAN,愛媛県
