@@ -10,14 +10,14 @@
 1st&substream,GENOM SCREAMS,374,NOHNA,三重県,774,DJKEI,三重県,1056,ALI*CE,三重県
 1st&substream,GAMBOL,274,CIRNO9,三重県,274,CIRNO9,三重県,0,,未設定
 1st&substream,Dr.LOVE,324,VTEX,三重県,462,NOHNA,三重県,574,HAGGER,三重県
-1st&substream,deep in you,452,NOHNA,三重県,472,NOHNA,三重県,655,TOMICE,三重県
+1st&substream,deep in you,452,NOHNA,三重県,472,NOHNA,三重県,655,TOMI,三重県
 1st&substream,5.1.1.,198,.AKARI,三重県,1018,.AKARI,三重県,1562,A4NAGA,三重県
 1st&substream,22DUNK,482,SYOTA,三重県,609,WISTIA,三重県,646,HAGGER,三重県
 2nd style,SP-TRIP MACHINE(for beatmania II),473,NOHNA,三重県,624,A4NAGA,三重県,645,.FLRD,三重県
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),523,NOHNA,三重県,838,FURU,三重県,0,,未設定
 2nd style,Indigo Vision(full flavour hide around mix),808,SHINK*,三重県,0,,未設定,1214,ALI*CE,三重県
 2nd style,I Was The One,474,ZOE,三重県,598,NOHNA,三重県,687,HAGGER,三重県
-2nd style,Electro Tuned(the SubS mix),709,JIN,三重県,403,NOMA,三重県,1053,TOMICE,三重県
+2nd style,Electro Tuned(the SubS mix),709,JIN,三重県,403,NOMA,三重県,1053,TOMI,三重県
 2nd style,Digital MinD(A/T Libra mix),668,NOHNA,三重県,941,FIA,三重県,1087,FURU,三重県
 2nd style,.59,696,DJKEI,三重県,943,FIA,三重県,1135,ALI*CE,三重県
 3rd style,THE SAFARI,1047,QUON,三重県,1749,ALI*CE,三重県,0,,未設定
@@ -39,7 +39,7 @@
 4th style,Mr.T.(take me higher),755,NOHNA,三重県,625,ASUTA,三重県,1724,HAGGER,三重県
 4th style,minimalian,473,NOHNA,三重県,846,DEBUZD,三重県,1391,HAGGER,三重県
 4th style,LOVE WILL・・・,547,*LOVE*,三重県,719,FIA,三重県,1449,ALI*CE,三重県
-4th style,KAMIKAZE,816,TUKI,三重県,1432,CIRNO9,三重県,2255,TOMICE,三重県
+4th style,KAMIKAZE,816,TUKI,三重県,1432,CIRNO9,三重県,2255,TOMI,三重県
 4th style,Jam&Marmalade,603,MLSK,三重県,880,RIS.CT,三重県,990,HAGGER,三重県
 4th style,Hitch Hiker2,743,NOHNA,三重県,1110,510*,三重県,1296,HAGGER,三重県
 4th style,HIGHER,497,NOHNA,三重県,893,FIA,三重県,1269,HAGGER,三重県
@@ -61,7 +61,7 @@
 5th style,THE CUBE,708,KYOKIN,三重県,1240,*LOVE*,三重県,1329,HAGGER,三重県
 5th style,sync,998,T-TMY,三重県,1737,.JAM3.,三重県,2318,31337,三重県
 5th style,still my words,888,FSI.R,三重県,1204,FURU,三重県,0,,未設定
-5th style,STILL IN MY HEART,483,YOONS,三重県,1202,SULME,三重県,1886,TOMICE,三重県
+5th style,STILL IN MY HEART,483,YOONS,三重県,1202,SULME,三重県,1886,TOMI,三重県
 5th style,Spin the disc,593,MLSK,三重県,1092,ALPHA,三重県,1316,31337,三重県
 5th style,RISLIM,0,,未設定,1198,FURU,三重県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1771,ATRIX,三重県
@@ -86,7 +86,7 @@
 6th style,G2,1452,A4NAGA,三重県,1667,*BC*,三重県,2287,ALI*CE,三重県
 6th style,Frozen Ray (original mix),813,KRC,三重県,1648,WISTIA,三重県,1771,ALI*CE,三重県
 6th style,Free Style,626,KOTO.,三重県,666,PUGN,三重県,1267,T*CHA,三重県
-6th style,fly through the night,515,YUNAX2,三重県,1235,FIA,三重県,1697,ALI*CE,三重県
+6th style,fly through the night,603,JUN,三重県,1235,FIA,三重県,1697,ALI*CE,三重県
 6th style,DIVE ～INTO YOUR HEART～,1020,MLSK,三重県,1571,T-TMY,三重県,2056,31337,三重県
 6th style,Colors (radio edit),1118,2SALTY,三重県,1721,FIA,三重県,2389,KYOKIN,三重県
 6th style,Buffalo,845,KI9RIN,三重県,1140,KI9RIN,三重県,1781,31337,三重県
@@ -125,12 +125,12 @@
 8th style,PLEASE DON'T GO,418,YUNAX2,三重県,1278,FIA,三重県,2380,YUKKY,三重県
 8th style,MUSIC TO YOUR HEAD,691,DJKEI,三重県,1257,AGEPAN,三重県,1646,ALI*CE,三重県
 8th style,murmur twins,1045,NOHNA,三重県,1612,-.-A,三重県,2346,ATRIX,三重県
-8th style,Monkey Dance,663,MLSK,三重県,1267,SUGOC,三重県,1950,HAGGER,三重県
+8th style,Monkey Dance,677,ISENO,三重県,1267,SUGOC,三重県,1950,HAGGER,三重県
 8th style,memories,929,ISENO,三重県,1914,.JAM3.,三重県,2195,HAGGER,三重県
 8th style,Luv 2 Feel Your Body,823,QUERY,三重県,1025,TANATY,三重県,1595,YUKKY,三重県
 8th style,LOVE IS ORANGE,753,NOHNA,三重県,1016,TAKUTO,三重県,1772,HAGGER,三重県
 8th style,LAB,934,M.3RD,三重県,1913,0Z,三重県,2107,ALI*CE,三重県
-8th style,HYPER BOUNDARY GATE,899,PEACH.,三重県,1735,FIA,三重県,2186,31337,三重県
+8th style,HYPER BOUNDARY GATE,899,YO4DA3,三重県,1735,FIA,三重県,2186,31337,三重県
 8th style,Halfway of promise,905,NOHNA,三重県,1364,FIA,三重県,1746,NKMR-R,三重県
 8th style,Giudecca,847,NOHNA,三重県,1867,5NE5,三重県,2618,ALI*CE,三重県
 8th style,dual control,619,TRCX11,三重県,1117,DAN,三重県,1854,ERI.KM,三重県
@@ -150,7 +150,7 @@
 9th style,SNOW,623,ISENO,三重県,1132,MISA,三重県,2026,ATRIX,三重県
 9th style,Silvia Drive,773,NOHNA,三重県,1461,MASSH.,三重県,1995,YUKITO,三重県
 9th style,rottel-the-Mercury,726,LIESE,三重県,1838,FURU,三重県,2262,ERI.KM,三重県
-9th style,RISLIM -Remix-,343,100SP,三重県,791,KI9RIN,三重県,1851,ALI*CE,三重県
+9th style,RISLIM -Remix-,679,ISENO,三重県,828,T-TMY,三重県,1851,ALI*CE,三重県
 9th style,Really Love,0,,未設定,929,SELENE,三重県,1711,ALI*CE,三重県
 9th style,Quickening,627,KI9RIN,三重県,1650,AD08R,三重県,2077,ALI*CE,三重県
 9th style,quasar,867,ISENO,三重県,1725,TAKUTO,三重県,2292,ALI*CE,三重県
@@ -172,7 +172,7 @@
 9th style,BRIGHTNESS DARKNESS,683,NOHNA,三重県,1387,5NE5,三重県,1727,31337,三重県
 9th style,bag,757,TUKI,三重県,1035,T-TMY,三重県,1878,HAGGER,三重県
 9th style,BAD BOY BASS!! (dj Remo-con MIX),786,ISENO,三重県,1226,INO,三重県,1748,F44*S2,三重県
-9th style,ACT,809,MLSK,三重県,1507,BUNCHO,三重県,1812,HAGGER,三重県
+9th style,ACT,843,ISENO,三重県,1507,BUNCHO,三重県,1812,HAGGER,三重県
 9th style,Abyss -The Heavens Remix-,1366,NOHNA,三重県,1772,ATOZ,三重県,2349,ALI*CE,三重県
 10th style,雪月花,1085,LIG-T.,三重県,1867,HAGGER,三重県,2477,ALI*CE,三重県
 10th style,システムロマンス,758,ISENO,三重県,1562,QUON,三重県,1995,SELENE,三重県
@@ -182,12 +182,12 @@
 10th style,rainbow rainbow,1455,.JAM3.,三重県,1970,M-LEX,三重県,2599,SELENE,三重県
 10th style,pandora,0,,未設定,1534,SULME,三重県,1827,ALI*CE,三重県
 10th style,One More Lovely,803,NOHNA,三重県,1597,RIS.CT,三重県,2784,ERI.KM,三重県
-10th style,No.13,1386,IIDX26,三重県,2562,HAKU0,三重県,3112,ALI*CE,三重県
+10th style,No.13,1386,IIDX26,三重県,2578,TANATY,三重県,3112,ALI*CE,三重県
 10th style,Narcissus At Oasis,0,,未設定,1494,8KI29,三重県,1616,ATRIX,三重県
 10th style,Lucy,712,PAL,三重県,1616,SULME,三重県,2308,ALI*CE,三重県
 10th style,LOW,347,100SP,三重県,1438,5NE5,三重県,1678,T*CHA,三重県
 10th style,Love Is Eternity,890,ISENO,三重県,1938,A4NAGA,三重県,2355,ALI*CE,三重県
-10th style,Innocent Walls,1507,SULME,三重県,2335,TOMICE,三重県,2785,ALI*CE,三重県
+10th style,Innocent Walls,1507,SULME,三重県,2335,TOMI,三重県,2785,ALI*CE,三重県
 10th style,HIGH,884,.JAM3.,三重県,1866,SULME,三重県,2143,T*CHA,三重県
 10th style,GRADIUS -FULL SPEED-,731,.FLRD,三重県,756,ISENO,三重県,2036,ATRIX,三重県
 10th style,GHOST REVIVAL,605,HASAMI,三重県,1808,SUGOC,三重県,2541,ALI*CE,三重県
@@ -198,19 +198,19 @@
 10th style,DoLL,888,NOHNA,三重県,1238,*-*,三重県,1603,HAGGER,三重県
 10th style,desolation,352,IIDX26,三重県,561,9648*A,三重県,746,*LOVE*,三重県
 10th style,Debtty Daddy,580,MOSU,三重県,1830,YABIS,三重県,2691,ALI*CE,三重県
-10th style,Daisuke,1006,BC,三重県,1649,HOLST,三重県,2376,ATRIX,三重県
+10th style,Daisuke,1006,BC,三重県,1663,MAJIN!,三重県,2376,ATRIX,三重県
 10th style,CARRY ON NIGHT (English version),844,ISENO,三重県,1302,SULME,三重県,2023,ATRIX,三重県
 10th style,Boundary,681,ISENO,三重県,1612,510*,三重県,2038,ALI*CE,三重県
 10th style,Back Into The Light,1035,ADEL,三重県,1523,WISTIA,三重県,2144,ALI*CE,三重県
 10th style,BABY LOVE,982,KRC,三重県,1592,MASSH.,三重県,2139,ATRIX,三重県
-10th style,ASTRAL VOYAGE,711,S,三重県,1213,FIA,三重県,1831,.FLRD,三重県
+10th style,ASTRAL VOYAGE,862,ISENO,三重県,1213,FIA,三重県,1838,KZK,三重県
 10th style,ALIEN TEMPLE,781,JUN,三重県,1308,INO,三重県,1923,SELENE,三重県
-10th style,1st Samurai,732,KRC,三重県,1750,AD08R,三重県,2607,ALI*CE,三重県
+10th style,1st Samurai,732,KRC,三重県,1926,MAJIN!,三重県,2607,ALI*CE,三重県
 IIDX RED,ＵＬＴｉＭΛＴＥ,808,ISENO,三重県,1267,T-TMY,三重県,1980,ATRIX,三重県
 IIDX RED,太陽～T・A・I・Y・O～,777,IIDX,三重県,1367,BONA*C,三重県,1717,ATRIX,三重県
 IIDX RED,大桟橋,358,BIST,三重県,879,KI9RIN,三重県,1810,OP.31,三重県
 IIDX RED,ピアノ協奏曲第１番”蠍火”,684,MIEKEN,三重県,2075,KEIYAN,三重県,2579,ATRIX,三重県
-IIDX RED,Wonder Bullfighter,0,,未設定,1377,BONA*C,三重県,1950,TOMICE,三重県
+IIDX RED,Wonder Bullfighter,0,,未設定,1377,BONA*C,三重県,1950,TOMI,三重県
 IIDX RED,The Hope of Tomorrow,929,IIDX,三重県,1663,5NE5,三重県,1935,ERI.KM,三重県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3645,31337,三重県
 IIDX RED,spiral galaxy,748,ISENO,三重県,1943,SULME,三重県,2565,ALI*CE,三重県
@@ -254,7 +254,7 @@ HAPPY SKY,Under the Sky,478,Y.N,三重県,1376,TANATY,三重県,1715,ATRIX,三�
 HAPPY SKY,Twelfth Style,926,ISENO,三重県,1278,FEDKIA,三重県,2009,ALI*CE,三重県
 HAPPY SKY,Tizona d'El Cid,720,KI9RIN,三重県,1765,FSI.L,三重県,2293,31337,三重県
 HAPPY SKY,SigSig,1014,T-TMY,三重県,1540,YABIS,三重県,2585,ATRIX,三重県
-HAPPY SKY,Scripted Connection⇒ N mix,1015,MIEKEN,三重県,1593,T*CHA,三重県,1994,ATOZ,三重県
+HAPPY SKY,Scripted Connection⇒ N mix,1015,MIEKEN,三重県,1593,T*CHA,三重県,2008,TANATY,三重県
 HAPPY SKY,Scripted Connection⇒ H mix,1281,KI9RIN,三重県,1972,TANATY,三重県,2475,ALI*CE,三重県
 HAPPY SKY,Scripted Connection⇒ A mix,1132,KI9RIN,三重県,1829,QUERY,三重県,3036,ALI*CE,三重県
 HAPPY SKY,SCREAM SQUAD,1007,JIN,三重県,1518,F44*S2,三重県,2018,ERI.KM,三重県
@@ -297,7 +297,7 @@ DistorteD,Why did you go away,963,ISENO,三重県,1681,FIA,三重県,2254,FRIP,�
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3761,SELENE,三重県
 DistorteD,waxing and wanding,1255,KAZU,三重県,1957,ABCDEF,三重県,2864,ALI*CE,三重県
 DistorteD,TYPE MARS(G-Style Mix),675,S,三重県,1766,*-*,三重県,2380,ATRIX,三重県
-DistorteD,tripping contact(teranoid&MC Natsack Remix),881,CARRY,三重県,1647,FEDKIA,三重県,2422,ATRIX,三重県
+DistorteD,tripping contact(teranoid&MC Natsack Remix),944,ISENO,三重県,1647,FEDKIA,三重県,2422,ATRIX,三重県
 DistorteD,This is Love,758,ISENO,三重県,1327,S,三重県,2455,ATRIX,三重県
 DistorteD,The Dirty of Loudness,1296,NOHNA,三重県,2053,TAKUTO,三重県,2558,ATRIX,三重県
 DistorteD,Sun Field,527,NOHNA,三重県,1269,BB,三重県,2407,ALI*CE,三重県
@@ -312,7 +312,7 @@ DistorteD,Heavenly Sun (IIDX VERSION),0,,未設定,1529,FIA,三重県,2085,RIS.C
 DistorteD,Harmony and Lovely,733,ISENO,三重県,1724,HAGGER,三重県,2166,HAGGER,三重県
 DistorteD,Ganymede,901,METAL,三重県,1531,YUKKY,三重県,2265,ERI.KM,三重県
 DistorteD,EURO-ROMANCE,908,T-TMY,三重県,1654,TAKUTO,三重県,2086,ATRIX,三重県
-DistorteD,DUE TOMORROW,0,,未設定,1052,ALPHA,三重県,1966,ERI.KM,三重県
+DistorteD,DUE TOMORROW,479,ISENO,三重県,1052,ALPHA,三重県,1966,ERI.KM,三重県
 DistorteD,Double Loving Heart,563,RIS.CT,三重県,1251,WISTIA,三重県,1798,A4NAGA,三重県
 DistorteD,D.C.fish,755,S,三重県,1834,TAKUTO,三重県,2327,ALI*CE,三重県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2602,T*CHA,三重県
@@ -333,7 +333,7 @@ GOLD,ヨシダさん,767,ISENO,三重県,1403,FIA,三重県,1955,HAGGER,三重�
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,878,METAL,三重県,1374,712545,三重県,2219,FRIP,三重県
 GOLD,X-rated,773,ISENO,三重県,1426,TAKUTO,三重県,2069,31337,三重県
 GOLD,With your Smile,510,KOTO.,三重県,1111,MISA,三重県,1558,HAGGER,三重県
-GOLD,Watch out!!,439,PAL,三重県,630,PUGN,三重県,1499,TOMICE,三重県
+GOLD,Watch out!!,439,PAL,三重県,630,PUGN,三重県,1499,TOMI,三重県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3145,KYOKIN,三重県
 GOLD,VANESSA,1077,ARARA,三重県,1742,RIS.CT,三重県,2313,ALI*CE,三重県
 GOLD,TRANOID,714,JIN,三重県,1537,SHINK*,三重県,2102,ERI.KM,三重県
@@ -342,13 +342,13 @@ GOLD,the shadow,954,ISENO,三重県,2031,RIS.CT,三重県,2885,ALI*CE,三重県
 GOLD,snow storm,748,NOHNA,三重県,2173,TAKUTO,三重県,2769,ALI*CE,三重県
 GOLD,smile,1231,METAL,三重県,1895,RIVER*,三重県,2847,YUKKY,三重県
 GOLD,Sense 2007,1341,D.K$,三重県,2097,KAQNI,三重県,2840,ERI.KM,三重県
-GOLD,Second Heaven,737,JUN,三重県,1540,.AKARI,三重県,2108,ALI*CE,三重県
+GOLD,Second Heaven,764,PRO-E,三重県,1540,.AKARI,三重県,2108,ALI*CE,三重県
 GOLD,Roulette,867,PNP,三重県,1237,I58,三重県,2069,ALI*CE,三重県
 GOLD,PHOTONGENIC,943,METAL,三重県,1858,HAKU0,三重県,2287,31337,三重県
 GOLD,op.31 叙情,570,OP.31,三重県,1245,OP.31,三重県,1542,OP.31,三重県
 GOLD,never…,421,K.CUT,三重県,1149,URAOGI,三重県,1779,.FLRD,三重県
 GOLD,METALLIC MIND,0,,未設定,1345,SULME,三重県,1595,31337,三重県
-GOLD,Make Me Your Own,0,,未設定,1484,SULME,三重県,2038,TOMICE,三重県
+GOLD,Make Me Your Own,0,,未設定,1484,SULME,三重県,2038,TOMI,三重県
 GOLD,Love Again...,533,NOHNA,三重県,699,NAKA,三重県,1056,FURU,三重県
 GOLD,LASER CRUSTER,1163,2SALTY,三重県,2327,FURU,三重県,3160,ALI*CE,三重県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3588,ALI*CE,三重県
@@ -396,7 +396,7 @@ DJ TROOPERS,PROMISE FOR LIFE,579,NOHNA,三重県,1474,CIRNO9,三重県,1740,HAGG
 DJ TROOPERS,PARANOiA ～HADES～,830,2SALTY,三重県,1754,ARARA,三重県,2660,ALI*CE,三重県
 DJ TROOPERS,oratio,1101,ISENO,三重県,1938,TAKUTO,三重県,2882,31337,三重県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,879,ISENO,三重県,1864,FURU,三重県,2599,ATRIX,三重県
-DJ TROOPERS,MENTAL MELTDOWN,783,IIDX26,三重県,2056,SULME,三重県,2587,FURU,三重県
+DJ TROOPERS,MENTAL MELTDOWN,899,D-89,三重県,2056,SULME,三重県,2587,FURU,三重県
 DJ TROOPERS,MENDES,1105,ARARA,三重県,2465,ARARA,三重県,3428,ATRIX,三重県
 DJ TROOPERS,MAX LOVE,1087,PYU,三重県,2090,SULME,三重県,2645,YUKKY,三重県
 DJ TROOPERS,LOVELY STORM,929,IIDX26,三重県,2144,TANATY,三重県,2803,ATRIX,三重県
@@ -419,7 +419,7 @@ DJ TROOPERS,Be OK,534,COBRA,三重県,1658,MASSH.,三重県,2391,ATRIX,三重県
 DJ TROOPERS,avant-guerre,703,T-TMY,三重県,1175,INO,三重県,1858,HAGGER,三重県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1044,IIDX26,三重県,2067,TANATY,三重県,2819,ALI*CE,三重県
 DJ TROOPERS,2 tribe 4 K,688,MLSK,三重県,1107,URAOGI,三重県,2704,.32,三重県
-EMPRESS,鉄甲乙女-under the steel-,809,ISENO,三重県,1565,FIA,三重県,2142,HAGGER,三重県
+EMPRESS,鉄甲乙女-under the steel-,822,JUN,三重県,1565,FIA,三重県,2142,HAGGER,三重県
 EMPRESS,翼,755,ISENO,三重県,1511,TANATY,三重県,1966,ALI*CE,三重県
 EMPRESS,山岡晃の「クイズ！家事都合！」,600,ISENO,三重県,1279,AD08R,三重県,2031,HAGGER,三重県
 EMPRESS,天空脳番長危機十六連打,640,S,三重県,1878,SULME,三重県,2546,ALI*CE,三重県
@@ -429,13 +429,13 @@ EMPRESS,凛として咲く花の如く,1188,2SALTY,三重県,2117,TANATY,三重�
 EMPRESS,不沈艦CANDY,971,METAL,三重県,1771,KAZU,三重県,3235,ALI*CE,三重県
 EMPRESS,ミッドナイト堕天使,773,3CCTEA,三重県,1492,FIA,三重県,2765,ALI*CE,三重県
 EMPRESS,ハリツヤランデヴー,947,T*CHA,三重県,2088,HAGGER,三重県,2450,SELENE,三重県
-EMPRESS,まほろば,677,KI9RIN,三重県,1402,TANATY,三重県,2037,ALI*CE,三重県
+EMPRESS,まほろば,677,KI9RIN,三重県,1434,TANATY,三重県,2037,ALI*CE,三重県
 EMPRESS,"You'll say ""Now!""",1071,T-TMY,三重県,1580,AZW,三重県,2461,ALI*CE,三重県
 EMPRESS,Y&Co. is dead or alive,1077,T*CHA,三重県,1691,BONA*C,三重県,2665,ALI*CE,三重県
 EMPRESS,V2,1359,T-TMY,三重県,3102,MAJIN!,三重県,3486,ALI*CE,三重県
 EMPRESS,Turii ～Panta rhei～,842,T-TMY,三重県,1970,JUDY,三重県,2643,ALI*CE,三重県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2857,YUKKY,三重県
-EMPRESS,THANK YOU FOR PLAYING,705,ISENO,三重県,1483,YUKKY,三重県,2073,TOMICE,三重県
+EMPRESS,THANK YOU FOR PLAYING,705,ISENO,三重県,1483,YUKKY,三重県,2073,TOMI,三重県
 EMPRESS,SOLITON BEAM,1017,S-MINA,三重県,2054,5NE5,三重県,2341,ALI*CE,三重県
 EMPRESS,smooooch・∀・,800,NOHNA,三重県,1595,TANATY,三重県,2128,ALI*CE,三重県
 EMPRESS,Secrets,759,KOTO.,三重県,2273,SULME,三重県,3130,ALI*CE,三重県
@@ -490,11 +490,11 @@ SIRIUS,Raison d'etre～交差する宿命～,1144,T-TMY,三重県,2159,TAKUTO,�
 SIRIUS,quell～the seventh slave～,731,MAYU,三重県,1651,YABIS,三重県,3095,KYOKIN,三重県
 SIRIUS,Programmed Sun,911,ISENO,三重県,1637,M-LEX,三重県,2543,ALI*CE,三重県
 SIRIUS,NoN-Fiction Story!,679,ADEL,三重県,1342,AD08R,三重県,2190,ATRIX,三重県
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1189,NOHNA,三重県,1910,YOU!!,三重県,2653,ALI*CE,三重県
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1189,NOHNA,三重県,1944,TAKUTO,三重県,2653,ALI*CE,三重県
 SIRIUS,mosaic,1467,NKMR-R,三重県,2046,TANATY,三重県,2987,.32,三重県
 SIRIUS,MIRACLE MEETS,811,OROSHI,三重県,1543,HAGGER,三重県,2208,ALI*CE,三重県
 SIRIUS,Light Shine,738,ISENO,三重県,1148,HAGGER,三重県,1930,ALI*CE,三重県
-SIRIUS,Last Burning,797,ISENO,三重県,1490,510*,三重県,2303,SELENE,三重県
+SIRIUS,Last Burning,797,ISENO,三重県,1517,FIA,三重県,2303,SELENE,三重県
 SIRIUS,Keep it-秋葉工房mix-,803,ISENO,三重県,1519,FIA,三重県,1854,ALI*CE,三重県
 SIRIUS,IN THE NAME OF LOVE,457,K.CUT,三重県,1285,QUON,三重県,1895,HAGGER,三重県
 SIRIUS,Hydrogen Blueback,889,ISENO,三重県,1643,BONA*C,三重県,2284,ALI*CE,三重県
@@ -529,7 +529,7 @@ Resort Anthem,中華急行,327,RIS.CT,三重県,1512,TANATY,三重県,2301,ATRIX
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,682,KRC,三重県,1326,000888,三重県,1845,YUKITO,三重県
 Resort Anthem,おおきなこえで,418,NOHNA,三重県,940,SHINK*,三重県,1463,F44*S2,三重県
 Resort Anthem,ZETA～素数の世界と超越者～,405,ALL,三重県,2036,NKMR-R,三重県,3066,ATRIX,三重県
-Resort Anthem,XANADU OF TWO,947,T-TMY,三重県,1712,HOLST,三重県,2708,ALI*CE,三重県
+Resort Anthem,XANADU OF TWO,947,T-TMY,三重県,1725,TANATY,三重県,2708,ALI*CE,三重県
 Resort Anthem,Wuv U,385,ISENO,三重県,1241,TAKUTO,三重県,1690,HAGGER,三重県
 Resort Anthem,WISE UP!,465,NOHNA,三重県,1051,MANSR!,三重県,1565,SELENE,三重県
 Resort Anthem,WE LOVE SHONAN,561,KRC,三重県,1579,SULME,三重県,2036,F44*S2,三重県
@@ -542,7 +542,7 @@ Resort Anthem,THE BLACK KNIGHT,750,ISENO,三重県,1921,SUGOC,三重県,2871,ATR
 Resort Anthem,STELLAR WIND,569,ISENO,三重県,1805,HAGGER,三重県,2595,ATRIX,三重県
 Resort Anthem,Stay my side,576,ISENO,三重県,1011,WISTIA,三重県,1333,HAGGER,三重県
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,560,K.CUT,三重県,1241,NAKA,三重県,2907,ATRIX,三重県
-Resort Anthem,Space Time,545,ISENO,三重県,1451,NOHNA,三重県,2072,.FLRD,三重県
+Resort Anthem,Space Time,545,ISENO,三重県,1451,NOHNA,三重県,2114,YUKITO,三重県
 Resort Anthem,Session 9 -Chronicles-,704,NOHNA,三重県,2226,FSI.R,三重県,3489,ERI.KM,三重県
 Resort Anthem,sakura storm,1013,T-TMY,三重県,1307,HAGGER,三重県,2363,ATRIX,三重県
 Resort Anthem,Sakura Reflection,461,NOHNA,三重県,1529,.OGINE,三重県,2346,ATRIX,三重県
@@ -557,18 +557,18 @@ Resort Anthem,Never Fade Away,749,YUKKY,三重県,1697,BONA*C,三重県,2993,ATR
 Resort Anthem,Mermaid girl,855,ISENO,三重県,1665,BONA*C,三重県,2204,ALI*CE,三重県
 Resort Anthem,Medicine of love,531,KRC,三重県,1070,MAJIN!,三重県,1719,HAGGER,三重県
 Resort Anthem,Let The Track Flow,1114,T*CHA,三重県,1533,213,三重県,2613,ATRIX,三重県
-Resort Anthem,Kailua,441,ISENO,三重県,1286,TAKUTO,三重県,2142,ALI*CE,三重県
+Resort Anthem,Kailua,441,ISENO,三重県,1306,FIA,三重県,2142,ALI*CE,三重県
 Resort Anthem,I FIGHT ME,604,RIS.CT,三重県,1365,FIA,三重県,2116,T*CHA,三重県
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2246,A4NAGA,三重県
 Resort Anthem,Golden Palms,619,YOONS,三重県,1377,RIS.CT,三重県,1990,ATRIX,三重県
-Resort Anthem,Fantasia,384,RIS.CT,三重県,1546,TANATY,三重県,2234,ALI*CE,三重県
+Resort Anthem,Fantasia,384,RIS.CT,三重県,1549,TANATY,三重県,2234,ALI*CE,三重県
 Resort Anthem,Everlasting Resort,431,YUNAX2,三重県,1247,TAKUTO,三重県,1886,ATRIX,三重県
-Resort Anthem,Eternal Tears,439,TOMICE,三重県,1009,ISENO,三重県,1367,A4NAGA,三重県
+Resort Anthem,Eternal Tears,439,TOMI,三重県,1009,ISENO,三重県,1367,A4NAGA,三重県
 Resort Anthem,Energy Drive,782,ISENO,三重県,1410,SULME,三重県,2186,ATRIX,三重県
 Resort Anthem,ELECTRIC MASSIVE DIVER,1200,BUNCHO,三重県,2246,PATTUN,三重県,3630,ATRIX,三重県
 Resort Anthem,DM STAR～関西 energy style～,938,ISENO,三重県,1859,TANATY,三重県,2382,ATRIX,三重県
 Resort Anthem,Destiny Sword,865,ST-DST,三重県,1673,SULME,三重県,2371,ALI*CE,三重県
-Resort Anthem,DAYDREAMER,908,M!9,三重県,1737,TANATY,三重県,2500,T*CHA,三重県
+Resort Anthem,DAYDREAMER,1106,NOHNA,三重県,1758,TANATY,三重県,2500,T*CHA,三重県
 Resort Anthem,Dances with Snow Fairies,1279,MIEKEN,三重県,2116,TAKUTO,三重県,2970,ERI.KM,三重県
 Resort Anthem,BROKEN EDEN,902,1BUK1,三重県,1684,TAKUTO,三重県,2306,ALI*CE,三重県
 Resort Anthem,Broken,991,ISENO,三重県,2028,MAJIN!,三重県,3093,ATRIX,三重県
@@ -611,7 +611,7 @@ Lincle,SA.YO.NA.RA. SUPER STAR,339,NAT,三重県,1074,KANOKO,三重県,1598,SY.,
 Lincle,Round and Round,652,JUN,三重県,1107,MAJIN!,三重県,2094,FRIP,三重県
 Lincle,RESISTANCE,593,NOHNA,三重県,1253,TKS.N,三重県,2362,ATRIX,三重県
 Lincle,Release The Music,349,HAKA,三重県,1387,FIA,三重県,2061,T*CHA,三重県
-Lincle,Quick Silver,478,IIDX26,三重県,1751,TAKUTO,三重県,2628,ATRIX,三重県
+Lincle,Quick Silver,596,JUN,三重県,1751,TAKUTO,三重県,2628,ATRIX,三重県
 Lincle,quaver♪,647,ISENO,三重県,2079,TANATY,三重県,3371,ATRIX,三重県
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3501,ALI*CE,三重県
 Lincle,QUANTUM TELEPORTATION,1214,TODE,三重県,2188,DJKEI,三重県,2904,ALI*CE,三重県
@@ -638,7 +638,7 @@ Lincle,Express Emotion,719,NOHNA,三重県,1021,.FLRD,三重県,2473,KEDAMA,三�
 Lincle,Drive Me Crazy,673,MANAKA,三重県,1312,QUON,三重県,2274,HAGGER,三重県
 Lincle,DIAVOLO,1104,KI9RIN,三重県,1872,HAGGER,三重県,3118,KYOKIN,三重県
 Lincle,Change the World,696,JUN,三重県,1351,FIA,三重県,1806,HAGGER,三重県
-Lincle,Castle on the Moon,615,NOHNA,三重県,1459,NOHNA,三重県,2349,ATRIX,三重県
+Lincle,Castle on the Moon,615,NOHNA,三重県,1462,TOMI-L,三重県,2349,ATRIX,三重県
 Lincle,CALL,358,T-TMY,三重県,796,T-TMY,三重県,1435,SELENE,三重県
 Lincle,BLACK.by X-Cross Fade,972,WA,三重県,2051,OP.31,三重県,3281,ALI*CE,三重県
 Lincle,ANAGRAMS I to Y,866,NOHNA,三重県,1662,A4NAGA,三重県,2456,ATRIX,三重県
@@ -660,7 +660,7 @@ tricoro,下弦の月,762,M!9,三重県,1280,.KWBT,三重県,1945,OP.31,三重県
 tricoro,ラキラキ,578,ISENO,三重県,1350,SULME,三重県,1925,HAGGER,三重県
 tricoro,メイメツ、フラグメンツ,611,JIN,三重県,1209,MANSR!,三重県,1943,ALI*CE,三重県
 tricoro,トリカゴノ鳳凰,1011,ISENO,三重県,1909,TAKUTO,三重県,3670,ATRIX,三重県
-tricoro,シュレーディンガーの猫,809,ISENO,三重県,2268,X-A6MA,三重県,3322,YUKKY,三重県
+tricoro,シュレーディンガーの猫,809,ISENO,三重県,2329,HAKU0,三重県,3322,YUKKY,三重県
 tricoro,キャトられ恋はモ～モク,1280,ISENO,三重県,2526,F44*S2,三重県,3712,YUKKY,三重県
 tricoro,カジノファイヤーことみちゃん,489,JUN,三重県,1272,IIDX26,三重県,2322,31337,三重県
 tricoro,アストライアの双皿,486,YUU,三重県,2080,5NE5,三重県,3071,ALI*CE,三重県
@@ -677,8 +677,8 @@ tricoro,Valanga,1146,METAL,三重県,2134,MAJIN!,三重県,3194,ATRIX,三重県
 tricoro,True Blue,994,MIEKEN,三重県,2486,MAJIN!,三重県,3706,ATRIX,三重県
 tricoro,To my star,519,ISENO,三重県,1200,MANSR!,三重県,1733,A4NAGA,三重県
 tricoro,Timepiece phase II (CN Ver.),797,PUGN,三重県,1654,CALM,三重県,2832,ERI.KM,三重県
-tricoro,Timepiece phase II,618,HEBIYA,三重県,1997,TAKUTO,三重県,3021,31337,三重県
-tricoro,Time To Empress,864,OOESNR,三重県,1923,HAGGER,三重県,2589,ALI*CE,三重県
+tricoro,Timepiece phase II,618,HEBIYA,三重県,1997,TAKUTO,三重県,3026,HAKU0,三重県
+tricoro,Time To Empress,864,KRM.E,三重県,1923,HAGGER,三重県,2589,ALI*CE,三重県
 tricoro,Thor's Hammer,682,S,三重県,1776,TANATY,三重県,2909,KYOKIN,三重県
 tricoro,Take My Life,785,ISENO,三重県,1574,BONA*C,三重県,2864,ATRIX,三重県
 tricoro,Synergy For Angels,843,NOHNA,三重県,1641,FIA,三重県,2736,ATRIX,三重県
@@ -694,7 +694,7 @@ tricoro,Re:GENERATION,645,HIRI,三重県,1487,BONA*C,三重県,2232,ALI*CE,三�
 tricoro,Rainbow after snow,705,NOHNA,三重県,1404,AD08R,三重県,2155,ATRIX,三重県
 tricoro,Proof of the existence,1010,2SALTY,三重県,2091,HAGGER,三重県,3110,YUKKY,三重県
 tricoro,Praludium,455,MAPPY,三重県,1309,EIDOS,三重県,2205,HAGGER,三重県
-tricoro,POINT ZERO,501,YUU,三重県,1097,KI9RIN,三重県,2067,ATRIX,三重県
+tricoro,POINT ZERO,503,YUU,三重県,1097,KI9RIN,三重県,2067,ATRIX,三重県
 tricoro,planarian,637,NOHNA,三重県,1630,YABIS,三重県,2521,ATRIX,三重県
 tricoro,Plan 8,1128,712545,三重県,2089,TANATY,三重県,3039,ERI.KM,三重県
 tricoro,New Lights,928,RUMIA,三重県,1767,ABCDEF,三重県,2422,T*CHA,三重県
@@ -721,7 +721,7 @@ tricoro,Fly you to the star,747,NOHNA,三重県,1592,TANATY,三重県,2253,ALI*C
 tricoro,FLOWER,1105,DJKEI,三重県,1722,.AKARI,三重県,2839,ALI*CE,三重県
 tricoro,examination leave,893,IIDX26,三重県,1790,SULME,三重県,3369,ATRIX,三重県
 tricoro,Elemental Creation,1387,NOHNA,三重県,2278,.AKARI,三重県,4027,ERI.KM,三重県
-tricoro,Devilz Staircase,627,NOHNA,三重県,2053,TAKUTO,三重県,3157,YUKKY,三重県
+tricoro,Devilz Staircase,627,NOHNA,三重県,2176,MAJIN!,三重県,3157,YUKKY,三重県
 tricoro,DAY DREAM,534,A4NAGA,三重県,1206,5NE5,三重県,1957,ATRIX,三重県
 tricoro,Cookie Bouquets,674,MLSK,三重県,2040,SUGOC,三重県,3342,A4NAGA,三重県
 tricoro,connective,396,T*CHA,三重県,965,SYARO.,三重県,1580,HAGGER,三重県
@@ -738,7 +738,7 @@ SPADA,超!!遠距離らぶメ～ル,555,NOHNA,三重県,1426,NOHNA,三重県,260
 SPADA,罪と罰,1026,?,三重県,1372,MIEKEN,三重県,2136,ALI*CE,三重県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3284,KYOKIN,三重県
 SPADA,疾風迅雷,965,2SALTY,三重県,2082,ATRIX,三重県,2820,YUKKY,三重県
-SPADA,牧神笛吹きて,589,JUN,三重県,1176,T-TMY,三重県,2016,ATRIX,三重県
+SPADA,牧神笛吹きて,710,NOHNA,三重県,1176,T-TMY,三重県,2016,ATRIX,三重県
 SPADA,煉獄のエルフェリア,1233,FEDKIA,三重県,2305,HAGGER,三重県,3750,KYOKIN,三重県
 SPADA,海神,983,METAL,三重県,1954,TAKUTO,三重県,3077,ATRIX,三重県
 SPADA,旋律のドグマ～Miserables～,1132,KI9RIN,三重県,2363,TAKUTO,三重県,3844,ATRIX,三重県
@@ -769,13 +769,13 @@ SPADA,ra'am,1135,5NE5,三重県,1572,SYOTA,三重県,2570,CHAM,三重県
 SPADA,PUNISHER,966,ISENO,三重県,2092,MAJIN!,三重県,3511,ATRIX,三重県
 SPADA,Pharaoh,610,NOHNA,三重県,1237,712545,三重県,2404,ATRIX,三重県
 SPADA,Overload Frontier,489,CARRY,三重県,1724,FIA,三重県,2545,ALI*CE,三重県
-SPADA,Odin,655,ISENO,三重県,1252,NOHNA,三重県,2029,ATRIX,三重県
+SPADA,Odin,763,NOHNA,三重県,1252,NOHNA,三重県,2029,ATRIX,三重県
 SPADA,NPC World,701,KRC,三重県,1462,FIA,三重県,2255,ATRIX,三重県
 SPADA,Miracle 5ympho X,652,JUN,三重県,1239,BONA*C,三重県,2540,T*CHA,三重県
 SPADA,MAGIC & LOVE,895,KI9RIN,三重県,1813,5NE5,三重県,2865,ALI*CE,三重県
 SPADA,MAD ATTACK,626,NOHNA,三重県,1200,FIA,三重県,1883,FRIP,三重県
 SPADA,m1dy Deluxe,976,ISENO,三重県,1559,SUGOC,三重県,2445,ALI*CE,三重県
-SPADA,M.D.Injection,570,NOHNA,三重県,839,KURO,三重県,2355,ALI*CE,三重県
+SPADA,M.D.Injection,570,NOHNA,三重県,1025,ISENO,三重県,2355,ALI*CE,三重県
 SPADA,Lighting Shower,769,NOHNA,三重県,1294,YABIS,三重県,2394,ALI*CE,三重県
 SPADA,Last Dance,989,2SALTY,三重県,1906,TAKUTO,三重県,3144,ALI*CE,三重県
 SPADA,LA FESTA LA VITA!!,824,WISTIA,三重県,1633,ADEL,三重県,2805,.FLRD,三重県
@@ -795,7 +795,7 @@ SPADA,HYENA,891,PUGN,三重県,1838,HEKISA,三重県,2784,ATRIX,三重県
 SPADA,Funny shuffle,587,NOHNA,三重県,1069,FIA,三重県,2227,FRIP,三重県
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4164,YUKKY,三重県
 SPADA,Feel The Beat,1044,SUKE,三重県,2119,HAKU0,三重県,3481,YUKKY,三重県
-SPADA,EXTREME MACH COLLIDER,493,KUDO,三重県,1406,FIA,三重県,2552,ALI*CE,三重県
+SPADA,EXTREME MACH COLLIDER,753,ISENO,三重県,1406,FIA,三重県,2552,ALI*CE,三重県
 SPADA,Engraved Mark,774,NOHNA,三重県,1191,QUON,三重県,2373,ATRIX,三重県
 SPADA,Element of SPADA,678,NOHNA,三重県,1312,YUKKY,三重県,2060,TANATY,三重県
 SPADA,Elektrick U-Phoria,1039,.C,三重県,1899,-.-A,三重県,3076,ALI*CE,三重県
@@ -828,7 +828,7 @@ PENDUAL,時空トラベローグ,922,ISENO,三重県,1502,LYE,三重県,2611,313
 PENDUAL,打打打打打打打打打打,722,JUN,三重県,1356,BONA*C,三重県,2603,YUKKY,三重県
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2730,ATRIX,三重県
 PENDUAL,恋は白帯、サンシロー,683,NOHNA,三重県,1226,T-TMY,三重県,1994,HAGGER,三重県
-PENDUAL,少年は空を辿る,822,KIHARA,三重県,1961,ATOZ,三重県,3177,YUKKY,三重県
+PENDUAL,少年は空を辿る,822,KIHARA,三重県,1961,ATOZ,三重県,3205,KYOKIN,三重県
 PENDUAL,妖隠し -あやかしかくし-,859,ISENO,三重県,1552,HOLST,三重県,2175,ATRIX,三重県
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,717,MIA.,三重県,1758,PNP,三重県,3013,ATRIX,三重県
 PENDUAL,取り残された美術(Arranged:HiZuMi),842,ISENO,三重県,1698,BONA*C,三重県,2194,ALI*CE,三重県
@@ -837,7 +837,7 @@ PENDUAL,十六夜セツナ,942,NOHNA,三重県,1601,TANATY,三重県,2216,ATRIX,
 PENDUAL,共鳴遊戯の華,1141,MORISI,三重県,2373,ATOZ,三重県,3749,ATRIX,三重県
 PENDUAL,リリーゼと炎龍レーヴァテイン,824,PAN,三重県,2219,*LOVE*,三重県,3398,YUKKY,三重県
 PENDUAL,ベィスドロップ・フリークス,600,NOHNA,三重県,1196,FIA,三重県,2212,31337,三重県
-PENDUAL,パ→ピ→プ→Yeah!,897,BC,三重県,1554,TOMICE,三重県,2499,31337,三重県
+PENDUAL,パ→ピ→プ→Yeah!,897,BC,三重県,1554,TOMI,三重県,2499,31337,三重県
 PENDUAL,ドッキン☆サマーあばんちゅーる,944,JIN,三重県,1630,NEARCO,三重県,2760,YUKKY,三重県
 PENDUAL,もっと！モット！ときめき feat. 松下,1089,BC,三重県,1958,5NE5,三重県,2693,ALI*CE,三重県
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,未設定,1276,5L,三重県,2503,YUKKY,三重県
@@ -882,7 +882,7 @@ PENDUAL,HELL SCAPER -Last Escape Remix-,840,ISENO,三重県,1577,BUNCHO,三重�
 PENDUAL,GUILTY,660,IIDX26,三重県,1413,FIA,三重県,1882,ALI*CE,三重県
 PENDUAL,Gravigazer,778,ISENO,三重県,1793,TAKUTO,三重県,2868,ALI*CE,三重県
 PENDUAL,Flashes,918,LIG-T.,三重県,1676,TAKUTO,三重県,3170,ALI*CE,三重県
-PENDUAL,FANTASTIC THREE,1120,JIN,三重県,2194,HAGGER,三重県,2964,CHAM,三重県
+PENDUAL,FANTASTIC THREE,1120,JIN,三重県,2194,HAGGER,三重県,2985,T*CHA,三重県
 PENDUAL,fallen leaves -IIDX edition-,1057,ST-DST,三重県,1985,TAKUTO,三重県,3279,ATRIX,三重県
 PENDUAL,Erosion Mark,708,ISENO,三重県,1341,T-TMY,三重県,2160,ATRIX,三重県
 PENDUAL,entelecheia,919,2SALTY,三重県,2135,MAJIN!,三重県,3219,ALI*CE,三重県
@@ -890,7 +890,7 @@ PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3487,ALI*CE,三重県
 PENDUAL,EBONY & IVORY,797,PUGN,三重県,1725,HAGGER,三重県,2917,ATRIX,三重県
 PENDUAL,Discloze,617,S,三重県,1570,X-A6MA,三重県,2529,31337,三重県
 PENDUAL,Despair of ELFERIA,1114,MORISI,三重県,2347,5NE5,三重県,4009,YUKKY,三重県
-PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3088,TOMICE,三重県
+PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3088,TOMI,三重県
 PENDUAL,Cosmic Cat,915,D.K$,三重県,1683,5NE5,三重県,2292,ALI*CE,三重県
 PENDUAL,COLOSSEUM,485,ISENO,三重県,1177,HEKISA,三重県,2184,CHAM,三重県
 PENDUAL,cinder,559,S,三重県,1852,M-LEX,三重県,2995,HAKU0,三重県
@@ -924,7 +924,7 @@ copula,明鏡止水,669,ISENO,三重県,1830,0Z,三重県,2709,31337,三重県
 copula,少女アリスと箱庭幻想コンチェルト,686,ISENO,三重県,1415,TAKUTO,三重県,2110,ATRIX,三重県
 copula,セロトニン,935,IIDX26,三重県,1737,SULME,三重県,2272,YUKKY,三重県
 copula,シュッパツシンコウ・シサカンコ,1009,ISENO,三重県,1689,WISTIA,三重県,2427,ATRIX,三重県
-copula,ギョギョっと人魚 爆婚ブライダル,742,M.3RD,三重県,1388,ARARA,三重県,2336,ATRIX,三重県
+copula,ギョギョっと人魚 爆婚ブライダル,760,ADEL,三重県,1388,ARARA,三重県,2336,ATRIX,三重県
 copula,オルタネイトβ,799,NOHNA,三重県,1398,FIA,三重県,2238,ATRIX,三重県
 copula,めいさいアイドル☆あいむちゃん♪,1381,NOHNA,三重県,2265,*-*,三重県,3291,ALI*CE,三重県
 copula,か・し・ま・し☆PUMP UP！,1144,8KI29,三重県,1401,SAMUS,三重県,2786,ATRIX,三重県
@@ -957,7 +957,7 @@ copula,Outbreak,1071,JUN,三重県,1788,FIA,三重県,2954,31337,三重県
 copula,On the FM,990,ST-DST,三重県,1544,FIA,三重県,2692,ATRIX,三重県
 copula,NZM,951,2SALTY,三重県,1449,QUON,三重県,3312,YUKKY,三重県
 copula,Nowhere,770,NOHNA,三重県,1443,5NE5,三重県,2130,HAGGER,三重県
-copula,NO LIMIT -オレ達に限界は無い-,754,NOHNA,三重県,1185,MAJIN!,三重県,2188,Y-HTM,三重県
+copula,NO LIMIT -オレ達に限界は無い-,754,NOHNA,三重県,1185,MAJIN!,三重県,2194,4NOAYY,三重県
 copula,NINJA IS DEAD IIDX ver.,991,PUGN,三重県,1754,HEKISA,三重県,2915,YUKKY,三重県
 copula,Nightmare before oversleep,1055,FEN,三重県,1868,CHAM,三重県,2881,ATRIX,三重県
 copula,NANAIRO,899,ISENO,三重県,1650,ALPHA,三重県,2555,ATRIX,三重県
@@ -1010,7 +1010,7 @@ SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,960,QUERY,三重県,1565,
 SINOBUZ,忍恋花,924,SYARO.,三重県,1560,MASSH.,三重県,2225,ATRIX,三重県
 SINOBUZ,刃図羅,1183,NOHNA,三重県,2034,RIS.CT,三重県,3339,ATRIX,三重県
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,3001,ALI*CE,三重県
-SINOBUZ,冬椿 ft. Kanae Asaba,854,PEACH.,三重県,1210,TAKUTO,三重県,2263,ALI*CE,三重県
+SINOBUZ,冬椿 ft. Kanae Asaba,854,YO4DA3,三重県,1210,TAKUTO,三重県,2263,ALI*CE,三重県
 SINOBUZ,九尾狐夜行,656,ISENO,三重県,1725,CALM,三重県,2851,YUKKY,三重県
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,689,SHINK*,三重県,1356,SHINK*,三重県,2412,T*CHA,三重県
 SINOBUZ,イザナミノナゲキ,983,PUGN,三重県,1937,A4NAGA,三重県,3201,ATRIX,三重県
@@ -1059,7 +1059,7 @@ SINOBUZ,Music is The Answer,545,JUN,三重県,1361,A4NAGA,三重県,1863,YUKKY,�
 SINOBUZ,Modular Technology,883,KURAN,三重県,1774,FSI.R,三重県,2563,HAKU0,三重県
 SINOBUZ,Mare Nectaris,1415,ARARA,三重県,2004,SELENE,三重県,3767,KYOKIN,三重県
 SINOBUZ,Magical,550,YUNAX2,三重県,1129,T-TMY,三重県,1984,ATRIX,三重県
-SINOBUZ,Macuilxochitl,1105,KI9RIN,三重県,2205,5NE5,三重県,3264,ATRIX,三重県
+SINOBUZ,Macuilxochitl,1105,KI9RIN,三重県,2233,MAJIN!,三重県,3264,ATRIX,三重県
 SINOBUZ,Lost wing at.0,902,QUERY,三重県,1396,5NE5,三重県,2404,ATRIX,三重県
 SINOBUZ,INVISIBLE STRIX,964,.KWBT,三重県,1935,RIS.CT,三重県,2574,YUKKY,三重県
 SINOBUZ,Honey Trap,748,KI9RIN,三重県,1517,FIA,三重県,2474,ATRIX,三重県
@@ -1072,7 +1072,7 @@ SINOBUZ,elemental bender feat. Kanae Asaba,588,NOHNA,三重県,793,0736,三重�
 SINOBUZ,Egret and Willow,730,NAMATA,三重県,1465,510*,三重県,2685,YUKKY,三重県
 SINOBUZ,ECHIDNA,1216,QUERY,三重県,2047,HAKU0,三重県,3232,ERI.KM,三重県
 SINOBUZ,DORNWALD ～Junge～,1204,FEDKIA,三重県,2236,SELENE,三重県,3599,KYOKIN,三重県
-SINOBUZ,DISAPPEAR feat. koyomin,629,ISENO,三重県,1646,FIA,三重県,2707,TOMICE,三重県
+SINOBUZ,DISAPPEAR feat. koyomin,629,ISENO,三重県,1646,FIA,三重県,2707,TOMI,三重県
 SINOBUZ,Cyber True Color,957,QUERY,三重県,1601,5NE5,三重県,2320,ATRIX,三重県
 SINOBUZ,crew,606,M-LEX,三重県,1714,.AKARI,三重県,2894,ALI*CE,三重県
 SINOBUZ,Caterpillar,1023,ISENO,三重県,2155,HAKU0,三重県,2884,ATRIX,三重県
@@ -1119,7 +1119,7 @@ CANNON BALLERS,THE CANNONBALLER,1507,*-*,三重県,2391,MAJIN!,三重県,3372,AT
 CANNON BALLERS,Temple of Anubis,764,JOHNP,三重県,1474,5NE5,三重県,2608,ALI*CE,三重県
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,未設定,1718,HOLST,三重県,2622,ATRIX,三重県
 CANNON BALLERS,Static State,813,PUGN,三重県,1656,SULME,三重県,2228,KAQNI,三重県
-CANNON BALLERS,STARLIGHT JUNCTION,827,PEACH.,三重県,1585,MAJIN!,三重県,2269,ALI*CE,三重県
+CANNON BALLERS,STARLIGHT JUNCTION,827,YO4DA3,三重県,1585,MAJIN!,三重県,2269,ALI*CE,三重県
 CANNON BALLERS,SPEED DEMON,731,ST-DST,三重県,1368,QUERY,三重県,2231,T*CHA,三重県
 CANNON BALLERS,SPEED,0,,未設定,1612,HAGGER,三重県,2545,HAGGER,三重県
 CANNON BALLERS,"Son, not gabba now",0,,未設定,1523,QUERY,三重県,2367,HAGGER,三重県
@@ -1130,7 +1130,7 @@ CANNON BALLERS,Raspberry Railgun,0,,未設定,2106,X-A6MA,三重県,3084,YUKKY,�
 CANNON BALLERS,Rampage,1024,HIRI,三重県,2447,MAJIN!,三重県,3564,ALI*CE,三重県
 CANNON BALLERS,Persephone,736,2SALTY,三重県,1978,A4NAGA,三重県,2917,ATRIX,三重県
 CANNON BALLERS,Papilio ulysses,1033,METAL,三重県,2058,RIS.CT,三重県,2834,ALI*CE,三重県
-CANNON BALLERS,Only for now,850,PEACH.,三重県,1509,FIA,三重県,2254,ATRIX,三重県
+CANNON BALLERS,Only for now,850,YO4DA3,三重県,1509,FIA,三重県,2254,ATRIX,三重県
 CANNON BALLERS,O/D*20,855,TAKE.R,三重県,1623,TAKUTO,三重県,2109,ALI*CE,三重県
 CANNON BALLERS,Nothing but Theory,1007,ST-DST,三重県,1529,TAKUTO,三重県,2806,ATRIX,三重県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,650,S,三重県,1496,RIS.CT,三重県,2315,ALI*CE,三重県
@@ -1144,8 +1144,8 @@ CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",844,ASUTA,三重県,1820
 CANNON BALLERS,Initiation,1382,LIG-T.,三重県,2417,MAJIN!,三重県,3779,ALI*CE,三重県
 CANNON BALLERS,Illusionary Waterlily,1110,METAL,三重県,2214,RIS.CT,三重県,3414,ATRIX,三重県
 CANNON BALLERS,I'm Coming (2017 Version),600,NOHNA,三重県,1254,FIA,三重県,2048,HAGGER,三重県
-CANNON BALLERS,I Love You,931,PEACH.,三重県,1780,FIA,三重県,2712,ATRIX,三重県
-CANNON BALLERS,HYPE THE CORE,886,PEACH.,三重県,1801,KYURA,三重県,2947,ATRIX,三重県
+CANNON BALLERS,I Love You,931,YO4DA3,三重県,1780,FIA,三重県,2712,ATRIX,三重県
+CANNON BALLERS,HYPE THE CORE,886,YO4DA3,三重県,1801,KYURA,三重県,2947,ATRIX,三重県
 CANNON BALLERS,Hella Deep,639,T*CHA,三重県,1043,T*CHA,三重県,1729,FURU,三重県
 CANNON BALLERS,HAT TRICK,787,NOHNA,三重県,1379,QUERY,三重県,2194,ALI*CE,三重県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,561,INO,三重県,1117,QUON,三重県,1830,.FLRD,三重県
@@ -1176,7 +1176,7 @@ CANNON BALLERS,Around the Future,0,,未設定,1688,RIS.CT,三重県,2534,ATRIX,�
 CANNON BALLERS,Arca,814,ISENO,三重県,1821,ARARA,三重県,3067,ATRIX,三重県
 CANNON BALLERS,Antigravity,839,PUGN,三重県,1920,ATOZ,三重県,2975,YUKKY,三重県
 CANNON BALLERS,ANCHOR,1310,F44*S2,三重県,2473,RIS.CT,三重県,3507,YUKKY,三重県
-CANNON BALLERS,ANAGMA,894,PEACH.,三重県,1712,FIA,三重県,2601,ATRIX,三重県
+CANNON BALLERS,ANAGMA,894,YO4DA3,三重県,1712,FIA,三重県,2601,ATRIX,三重県
 CANNON BALLERS,Amor De Verao,691,NOHNA,三重県,1370,5NE5,三重県,2266,YUKKY,三重県
 CANNON BALLERS,Alpheratz,429,ALI*CE,三重県,962,T-TMY,三重県,2074,ALI*CE,三重県
 CANNON BALLERS,Acidiva 303,753,ST-DST,三重県,1266,QUON,三重県,2267,31337,三重県
@@ -1198,7 +1198,7 @@ Rootage,セカンドピアス,603,CIRNO9,三重県,1109,HAGGER,三重県,2008,A4
 Rootage,サクラあっぱれーしょん,632,HAGGER,三重県,1553,HAGGER,三重県,2300,ALI*CE,三重県
 Rootage,グラナダの風,816,HAGGER,三重県,1220,HAGGER,三重県,1823,ATRIX,三重県
 Rootage,Yum Yum Jelly,792,HAGGER,三重県,1564,HAGGER,三重県,2321,ATRIX,三重県
-Rootage,Xlo,1531,HAGGER,三重県,2447,TOMICE,三重県,3652,ALI*CE,三重県
+Rootage,Xlo,1531,HAGGER,三重県,2447,TOMI,三重県,3652,ALI*CE,三重県
 Rootage,Wonderland,1055,HAGGER,三重県,1854,HAGGER,三重県,2726,ATRIX,三重県
 Rootage,Won(*3*)Chu KissMe!,940,HAGGER,三重県,1400,HAGGER,三重県,2480,ATRIX,三重県
 Rootage,Wolf 1061,1003,F44*S2,三重県,1710,MAJIN!,三重県,3062,ATRIX,三重県
@@ -1235,7 +1235,7 @@ Rootage,LADYBIRD,1100,HAGGER,三重県,1661,HAGGER,三重県,2414,ATRIX,三重�
 Rootage,L.F.O,885,HAGGER,三重県,1755,HAGGER,三重県,3242,ATRIX,三重県
 Rootage,KILL EACH OTHER,1375,HAGGER,三重県,2378,HAGGER,三重県,3712,ATRIX,三重県
 Rootage,IDOL syndrome.,762,HAGGER,三重県,1463,HAGGER,三重県,2171,A4NAGA,三重県
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1055,HAGGER,三重県,1496,HAGGER,三重県,2096,TOMICE,三重県
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1055,HAGGER,三重県,1496,HAGGER,三重県,2096,TOMI,三重県
 Rootage,Hurry Hurry,754,HAGGER,三重県,1047,HAGGER,三重県,2070,A4NAGA,三重県
 Rootage,HOT LIMIT,1057,HAGGER,三重県,1716,HAGGER,三重県,2516,ALI*CE,三重県
 Rootage,HEISEI,1161,HAGGER,三重県,1922,HAGGER,三重県,2535,ATRIX,三重県
