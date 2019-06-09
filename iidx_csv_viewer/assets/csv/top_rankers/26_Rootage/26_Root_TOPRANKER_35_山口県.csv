@@ -1,9 +1,9 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
 1st&substream,THE EARTH LIGHT,654,IIDX24,山口県,1019,CPU-Z.,山口県,1115,TOUYA,山口県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1973,⏧,山口県
-1st&substream,RUGGED ASH,328,MER9RY,山口県,399,INUPAN,山口県,1076,TOUYA,山口県
+1st&substream,RUGGED ASH,357,YANMAR,山口県,399,INUPAN,山口県,1076,TOUYA,山口県
 1st&substream,R3,619,YUT,山口県,715,SIGEL,山口県,890,GOGO!,山口県
-1st&substream,PARANOIA MAX～DIRTY MIX～,520,MER9RY,山口県,724,KAYA,山口県,1082,TOUYA,山口県
+1st&substream,PARANOIA MAX～DIRTY MIX～,520,MER9RY,山口県,724,K,山口県,1082,TOUYA,山口県
 1st&substream,Macho Gang,352,FP.UFF,山口県,961,VELIER,山口県,1579,TOUYA,山口県
 1st&substream,KEEP ON MOVIN',184,MER9RY,山口県,236,MI-OH?,山口県,0,,未設定
 1st&substream,GRADIUSIC CYBER,688,IIDX24,山口県,924,AZM!,山口県,1165,MI-OH?,山口県
@@ -24,12 +24,12 @@
 3rd style,Tangerine Stream,262,VELIER,山口県,391,MI-OH?,山口県,0,,未設定
 3rd style,Skyscraper,619,IIDX24,山口県,1014,YU-KEY,山口県,1222,TOUYA,山口県
 3rd style,Schlagwerk,674,MER9RY,山口県,1127,D-A40,山口県,1620,TOUYA,山口県
-3rd style,REINCARNATION,658,IIDX24,山口県,958,KAYA,山口県,1243,CPU-Z.,山口県
-3rd style,R5,704,BOTAME,山口県,1158,CUVEX,山口県,1737,TOUYA,山口県
+3rd style,REINCARNATION,658,IIDX24,山口県,958,K,山口県,1243,CPU-Z.,山口県
+3rd style,R5,754,JUNCHI,山口県,1158,CUVEX,山口県,1737,TOUYA,山口県
 3rd style,Presto,447,SICK,山口県,934,INUPAN,山口県,999,⏧,山口県
 3rd style,LEADING CYBER,747,MER9RY,山口県,1121,VELIER,山口県,1233,TOUYA,山口県
 3rd style,Holic,725,YU-KEY,山口県,1118,FP.UFF,山口県,1667,TOUYA,山口県
-3rd style,era (nostalmix),778,FAL,山口県,1014,VELIER,山口県,1476,TOUYA,山口県
+3rd style,era (nostalmix),793,MER9RY,山口県,1014,VELIER,山口県,1476,TOUYA,山口県
 3rd style,Don't Stop!,686,IIDX24,山口県,840,CUVEX,山口県,890,TOUYA,山口県
 3rd style,CAN'T STOP FALLIN'IN LOVE,583,MER9RY,山口県,1216,TOUYA,山口県,0,,未設定
 4th style,Voltage (feat. Hidemaru),812,N.H.R,山口県,1162,INUPAN,山口県,1304,TOUYA,山口県
@@ -40,7 +40,7 @@
 4th style,minimalian,443,IIDX24,山口県,1025,VELIER,山口県,1349,TOUYA,山口県
 4th style,LOVE WILL・・・,229,S,山口県,714,JUNCHI,山口県,1436,CUVEX,山口県
 4th style,KAMIKAZE,792,K,山口県,1435,MI-OH?,山口県,2232,TOUYA,山口県
-4th style,Jam&Marmalade,697,MER9RY,山口県,852,KAYA,山口県,1009,TOUYA,山口県
+4th style,Jam&Marmalade,697,MER9RY,山口県,852,K,山口県,1009,TOUYA,山口県
 4th style,Hitch Hiker2,703,IIDX24,山口県,1062,VELIER,山口県,1278,TOUYA,山口県
 4th style,HIGHER,483,MER9RY,山口県,843,M.UNGA,山口県,1262,TOUYA,山口県
 4th style,FLOWERS for ALBION,203,SICK,山口県,427,CPU-Z.,山口県,0,,未設定
@@ -59,7 +59,7 @@
 5th style,V,1063,MER9RY,山口県,2444,CPU-Z.,山口県,2867,GOGO!,山口県
 5th style,THE SHINING POLARIS,548,4KAKEN,山口県,1167,D-A40,山口県,1541,CPU-Z.,山口県
 5th style,THE CUBE,663,SICK,山口県,1147,NIST,山口県,1337,TOUYA,山口県
-5th style,sync,997,KAYA,山口県,1771,VELIER,山口県,2327,CUVEX,山口県
+5th style,sync,997,K,山口県,1771,VELIER,山口県,2327,CUVEX,山口県
 5th style,still my words,819,ROIKUN,山口県,1197,TOUYA,山口県,0,,未設定
 5th style,STILL IN MY HEART,671,WBMOCH,山口県,1225,MATA-Z,山口県,1884,CUVEX,山口県
 5th style,Spin the disc,473,4KAKEN,山口県,1171,NIST,山口県,1301,TOUYA,山口県
@@ -67,10 +67,10 @@
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1672,TOUYA,山口県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),449,WBMOCH,山口県,373,4KAKEN,山口県,1671,TOUYA,山口県
 5th style,Regulus,767,SKYL.K,山口県,1370,VELIER,山口県,1629,CPU-Z.,山口県
-5th style,Real,977,FAL,山口県,1523,VELIER,山口県,1736,TOUYA,山口県
+5th style,Real,997,FU2KE1,山口県,1523,VELIER,山口県,1736,TOUYA,山口県
 5th style,Radical Faith,1122,VELIER,山口県,1464,MI-OH?,山口県,1295,TOUYA,山口県
 5th style,QQQ,1177,ALISA,山口県,1853,⏧,山口県,2119,TOUYA,山口県
-5th style,outer wall,752,FAL,山口県,1275,SYOBOY,山口県,1716,TOUYA,山口県
+5th style,outer wall,761,MER9RY,山口県,1275,SYOBOY,山口県,1716,TOUYA,山口県
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,708,MER9RY,山口県,615,ELI,山口県,1113,CPU-Z.,山口県
 5th style,in my eyes,674,K,山口県,1409,MI-OH?,山口県,1553,TOUYA,山口県
 5th style,Abyss,1114,SKYL.K,山口県,1548,INUPAN,山口県,1835,TOUYA,山口県
@@ -80,8 +80,8 @@
 6th style,Summer Vacation(CU mix),1055,SKYL.K,山口県,1794,TOUYA,山口県,0,,未設定
 6th style,SOMETHING WONDERFUL,835,SKYL.K,山口県,1267,INUPAN,山口県,1922,TOUYA,山口県
 6th style,route 80s,727,SKYL.K,山口県,1079,A.OUT,山口県,1467,TOUYA,山口県
-6th style,rottel-da-sun,0,,未設定,1241,A.OUT,山口県,1801,TOUYA,山口県
-6th style,NEMESIS,0,,未設定,1451,VELIER,山口県,1819,⏧,山口県
+6th style,rottel-da-sun,680,MER9RY,山口県,1241,A.OUT,山口県,1801,TOUYA,山口県
+6th style,NEMESIS,786,MER9RY,山口県,1451,VELIER,山口県,1819,⏧,山口県
 6th style,Linus,759,MER9RY,山口県,1412,KURO,山口県,2140,GOGO!,山口県
 6th style,G2,992,MKTT,山口県,1538,A.OUT,山口県,2236,TOUYA,山口県
 6th style,Frozen Ray (original mix),1057,SKYL.K,山口県,1617,A.OUT,山口県,1742,CPU-Z.,山口県
@@ -89,7 +89,7 @@
 6th style,fly through the night,335,A,山口県,1206,FP.UFF,山口県,1661,TOUYA,山口県
 6th style,DIVE ～INTO YOUR HEART～,1116,MER9RY,山口県,1717,A.OUT,山口県,2047,TOUYA,山口県
 6th style,Colors (radio edit),1433,MI-OH?,山口県,1858,VELIER,山口県,2366,GOGO!,山口県
-6th style,Buffalo,710,4BAINU,山口県,1224,SKYL.K,山口県,1757,TOUYA,山口県
+6th style,Buffalo,710,4BAINU,山口県,1294,YU-KEY,山口県,1757,TOUYA,山口県
 6th style,Blueberry Stream,497,K,山口県,1091,SKYL.K,山口県,1585,TOUYA,山口県
 6th style,BALLAD FOR YOU～想いの雨～,537,FAL,山口県,733,SHIRQN,山口県,1067,TOUYA,山口県
 6th style,"19,November",1073,INUPAN,山口県,1422,MI-OH?,山口県,1758,TOUYA,山口県
@@ -106,7 +106,7 @@
 7th style,Happy Wedding,1000,MER9RY,山口県,1367,SKYL.K,山口県,1786,TOUYA,山口県
 7th style,Glorious Days,429,IIDX24,山口県,424,4KAKEN,山口県,886,TOUYA,山口県
 7th style,foreplay,275,BREAD,山口県,1121,AADA,山口県,1289,TOUYA,山口県
-7th style,DESTINY,959,MER9RY,山口県,1325,KAYA,山口県,1802,CPU-Z.,山口県
+7th style,DESTINY,959,MER9RY,山口県,1325,K,山口県,1802,CPU-Z.,山口県
 7th style,D2R,861,SIGEL,山口県,1220,NIST,山口県,1594,CPU-Z.,山口県
 7th style,Cheer Train,627,K,山口県,1118,NIST,山口県,1685,TOUYA,山口県
 7th style,Burning Heat! (Full Option Mix),610,IIDX24,山口県,824,YU-KEY,山口県,1438,TOUYA,山口県
@@ -125,7 +125,7 @@
 8th style,PLEASE DON'T GO,745,DAN,山口県,1303,NIST,山口県,2390,⏧,山口県
 8th style,MUSIC TO YOUR HEAD,640,FAL,山口県,1160,D-A40,山口県,1643,⏧,山口県
 8th style,murmur twins,1013,MER9RY,山口県,1531,YUT,山口県,2332,GOGO!,山口県
-8th style,Monkey Dance,672,MER9RY,山口県,1288,KAYA,山口県,1947,TOUYA,山口県
+8th style,Monkey Dance,672,MER9RY,山口県,1288,K,山口県,1947,TOUYA,山口県
 8th style,memories,916,MER9RY,山口県,1909,MATA-Z,山口県,2184,TOUYA,山口県
 8th style,Luv 2 Feel Your Body,757,MER9RY,山口県,958,ISHITA,山口県,1630,TOUYA,山口県
 8th style,LOVE IS ORANGE,734,MER9RY,山口県,976,INUPAN,山口県,1762,TOUYA,山口県
@@ -163,14 +163,14 @@
 9th style,lights,608,IIDX24,山口県,1421,MI-OH?,山口県,1751,TOUYA,山口県
 9th style,Let The Snow Paint Me -Y&Co. Remix-,471,4KAKEN,山口県,1136,VELIER,山口県,1790,TOUYA,山口県
 9th style,Karma,1240,HIDEAK,山口県,1617,MI-OH?,山口県,1784,TOUYA,山口県
-9th style,I Was The One (80's EUROBEAT STYLE),427,WBMOCH,山口県,1293,KAYA,山口県,1421,TOUYA,山口県
+9th style,I Was The One (80's EUROBEAT STYLE),427,WBMOCH,山口県,1293,K,山口県,1421,TOUYA,山口県
 9th style,HYPER EUROBEAT (2DX style),0,,未設定,1479,A.OUT,山口県,1930,TOUYA,山口県
 9th style,Golden Horn,298,HORUN,山口県,1120,INUPAN,山口県,1490,⏧,山口県
 9th style,e-motion 2003 -romantic extra-,1046,MER9RY,山口県,1309,IIDX24,山口県,1935,TOUYA,山口県
 9th style,Distress,1040,SKYL.K,山口県,1782,TOUYA,山口県,0,,未設定
 9th style,Cradle,575,WBMOCH,山口県,1408,INUPAN,山口県,1567,⏧,山口県
 9th style,BRIGHTNESS DARKNESS,638,K,山口県,1357,AADA,山口県,1731,TOUYA,山口県
-9th style,bag,525,K,山口県,965,SKYL.K,山口県,1869,TOUYA,山口県
+9th style,bag,525,K,山口県,1079,DRAKY,山口県,1869,TOUYA,山口県
 9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,未設定,1308,AADA,山口県,1777,TOUYA,山口県
 9th style,ACT,947,SKYL.K,山口県,1571,NIST,山口県,1805,CPU-Z.,山口県
 9th style,Abyss -The Heavens Remix-,1312,X70KIX,山口県,1756,PLAN8*,山口県,2311,TOUYA,山口県
@@ -182,7 +182,7 @@
 10th style,rainbow rainbow,1393,YU-KEY,山口県,2015,NIST,山口県,2640,CUVEX,山口県
 10th style,pandora,0,,未設定,1534,AADA,山口県,1822,TOUYA,山口県
 10th style,One More Lovely,768,MER9RY,山口県,1563,NIST,山口県,2733,TOUYA,山口県
-10th style,No.13,1379,M.UNGA,山口県,2453,R3,山口県,3069,GOGO!,山口県
+10th style,No.13,1414,YU-KEY,山口県,2453,R3,山口県,3069,GOGO!,山口県
 10th style,Narcissus At Oasis,508,COLT,山口県,1389,DEGEL,山口県,1608,TOUYA,山口県
 10th style,Lucy,697,QULEN,山口県,1609,VELIER,山口県,2256,CUVEX,山口県
 10th style,LOW,551,IIDX24,山口県,1412,A.OUT,山口県,1689,TOUYA,山口県
@@ -233,27 +233,27 @@ IIDX RED,Don't be afraid myself,1077,SYOBOY,山口県,1649,LARK.1,山口県,2202
 IIDX RED,D.A.N.C.E.!,504,MER9RY,山口県,0,,未設定,1576,TOUYA,山口県
 IIDX RED,Close my Eyes for Me,418,HORUN,山口県,1216,A.OUT,山口県,1733,CPU-Z.,山口県
 IIDX RED,Click Again,708,CHOKTO,山口県,1397,MI-OH?,山口県,2086,TOUYA,山口県
-IIDX RED,BREATH,882,KAYA,山口県,1169,JET3,山口県,1655,TOUYA,山口県
+IIDX RED,BREATH,882,K,山口県,1169,JET3,山口県,1655,TOUYA,山口県
 IIDX RED,BLOCKS,767,HAPPY?,山口県,1251,SYOBOY,山口県,1917,TOUYA,山口県
 IIDX RED,Be quiet,795,AZM!,山口県,1569,DEGEL,山口県,2141,TOUYA,山口県
-IIDX RED,awakening,853,K,山口県,1139,ROIKUN,山口県,1670,TOUYA,山口県
+IIDX RED,awakening,853,K,山口県,1139,ROIKUN,山口県,1685,TOUYA,山口県
 IIDX RED,ANDROMEDA,659,M-1370,山口県,1771,VELIER,山口県,2799,TOUYA,山口県
 IIDX RED,AGEHA,953,MER9RY,山口県,1594,MATA-Z,山口県,1847,CUVEX,山口県
 IIDX RED,AA,1142,SKYL.K,山口県,2640,IN0R1,山口県,3522,TOUYA,山口県
-HAPPY SKY,月光,648,BBB,山口県,1636,A.OUT,山口県,2381,CUVEX,山口県
+HAPPY SKY,月光,837,JUNCHI,山口県,1636,A.OUT,山口県,2381,CUVEX,山口県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),927,MER9RY,山口県,1487,VELIER,山口県,1886,CUVEX,山口県
 HAPPY SKY,冥,1024,TOUYA,山口県,1924,SYOBOY,山口県,3501,GOGO!,山口県
 HAPPY SKY,ラクエン,0,,未設定,829,796,山口県,1887,CUVEX,山口県
 HAPPY SKY,ヒマワリ,521,M.UNGA,山口県,1757,LARK.1,山口県,2048,⏧,山口県
-HAPPY SKY,オレはビートマニア！お前は何マニア？,699,MER9RY,山口県,1384,A.OUT,山口県,1584,KAYA,山口県
+HAPPY SKY,オレはビートマニア！お前は何マニア？,699,MER9RY,山口県,1384,A.OUT,山口県,1584,K,山口県
 HAPPY SKY,Xepher,1007,MER9RY,山口県,2138,SYOBOY,山口県,2916,GOGO!,山口県
-HAPPY SKY,We are Disっ娘よっつ打ち命,414,NARU,山口県,945,NIST,山口県,1622,TOUYA,山口県
+HAPPY SKY,We are Disっ娘よっつ打ち命,603,M.UNGA,山口県,945,NIST,山口県,1622,TOUYA,山口県
 HAPPY SKY,Votum stellarum,0,,未設定,1489,AAA,山口県,1925,CPU-Z.,山口県
 HAPPY SKY,vault of heaven,730,SKYL.K,山口県,1301,INUPAN,山口県,1916,CPU-Z.,山口県
 HAPPY SKY,Under the Sky,815,MER9RY,山口県,1395,SYOBOY,山口県,1701,CPU-Z.,山口県
 HAPPY SKY,Twelfth Style,1025,SKYL.K,山口県,1449,CUVEX,山口県,1970,IN0R1,山口県
 HAPPY SKY,Tizona d'El Cid,599,K,山口県,1780,MI-OH?,山口県,2282,TOUYA,山口県
-HAPPY SKY,SigSig,1036,KAYA,山口県,1604,HAPPY?,山口県,2549,TOUYA,山口県
+HAPPY SKY,SigSig,1036,K,山口県,1604,HAPPY?,山口県,2549,TOUYA,山口県
 HAPPY SKY,Scripted Connection⇒ N mix,1164,FAL,山口県,1564,VELIER,山口県,1981,CUVEX,山口県
 HAPPY SKY,Scripted Connection⇒ H mix,1490,YU-KEY,山口県,1925,MI-OH?,山口県,2347,IN0R1,山口県
 HAPPY SKY,Scripted Connection⇒ A mix,1449,FAL,山口県,1947,SVOC,山口県,2943,TOUYA,山口県
@@ -266,7 +266,7 @@ HAPPY SKY,Pink Rose,558,SKYL.K,山口県,918,LARK.1,山口県,1390,CPU-Z.,山口
 HAPPY SKY,MOON RACE,531,4KAKEN,山口県,1147,CPU-Z.,山口県,1838,TOUYA,山口県
 HAPPY SKY,Love Magic,744,K,山口県,1597,A.OUT,山口県,1903,CUVEX,山口県
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3697,GOGO!,山口県
-HAPPY SKY,Little Little Princess,1079,INUPAN,山口県,2048,NIST,山口県,2701,CUVEX,山口県
+HAPPY SKY,Little Little Princess,1079,INUPAN,山口県,2048,NIST,山口県,2715,TOUYA,山口県
 HAPPY SKY,LESSON 5,1090,RIONA.,山口県,1772,A.OUT,山口県,2429,TOUYA,山口県
 HAPPY SKY,INAZUMA,1044,LOEWY*,山口県,1677,SYOBOY,山口県,2631,GOGO!,山口県
 HAPPY SKY,in motion,670,IIDX26,山口県,980,INUPAN,山口県,1309,TOUYA,山口県
@@ -284,7 +284,7 @@ HAPPY SKY,Aurora,1083,SKYL.K,山口県,2039,VELIER,山口県,2486,GOGO!,山口�
 HAPPY SKY,alla turca con passione,628,ELI,山口県,1491,A.OUT,山口県,2133,TOUYA,山口県
 HAPPY SKY,Agnus Dei,816,MER9RY,山口県,1513,A.OUT,山口県,2016,TOUYA,山口県
 HAPPY SKY,100％ minimoo-G,435,4KAKEN,山口県,1511,WAN-C,山口県,1614,GOGO!,山口県
-DistorteD,虹色,828,MER9RY,山口県,1463,KAYA,山口県,1809,CUVEX,山口県
+DistorteD,虹色,828,MER9RY,山口県,1463,K,山口県,1809,CUVEX,山口県
 DistorteD,華蝶風雪,994,SKYL.K,山口県,2060,SYOBOY,山口県,2915,GOGO!,山口県
 DistorteD,罠,508,SWORKS,山口県,1447,VELIER,山口県,2406,TOUYA,山口県
 DistorteD,嘆きの樹,1592,HIKARU,山口県,2492,⏧,山口県,3700,GOGO!,山口県
@@ -312,7 +312,7 @@ DistorteD,Heavenly Sun (IIDX VERSION),751,MER9RY,山口県,1409,VELIER,山口県
 DistorteD,Harmony and Lovely,823,SHO,山口県,1646,AADA,山口県,2201,TOUYA,山口県
 DistorteD,Ganymede,921,SKYL.K,山口県,1551,WAN-C,山口県,2222,TOUYA,山口県
 DistorteD,EURO-ROMANCE,844,SWORKS,山口県,1682,VELIER,山口県,2050,TOUYA,山口県
-DistorteD,DUE TOMORROW,671,FAL,山口県,1276,NIST,山口県,1896,CUVEX,山口県
+DistorteD,DUE TOMORROW,712,MER9RY,山口県,1276,NIST,山口県,1896,CUVEX,山口県
 DistorteD,Double Loving Heart,528,N.H.R,山口県,1257,VELIER,山口県,1796,TOUYA,山口県
 DistorteD,D.C.fish,905,FAL,山口県,1851,SYOBOY,山口県,2297,GOGO!,山口県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2661,GOGO!,山口県
@@ -332,7 +332,7 @@ GOLD,リグレット,1176,MER9RY,山口県,1643,LARK.1,山口県,2399,TOUYA,山�
 GOLD,ヨシダさん,850,NA-,山口県,1395,INUPAN,山口県,1951,TOUYA,山口県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,919,MER9RY,山口県,1441,YUT,山口県,2215,GOGO!,山口県
 GOLD,X-rated,0,,未設定,1500,MATA-Z,山口県,2068,TOUYA,山口県
-GOLD,With your Smile,582,WBMOCH,山口県,1145,KAYA,山口県,1557,TOUYA,山口県
+GOLD,With your Smile,582,WBMOCH,山口県,1145,K,山口県,1557,TOUYA,山口県
 GOLD,Watch out!!,524,K,山口県,859,MER9RY,山口県,1537,⏧,山口県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3091,GOGO!,山口県
 GOLD,VANESSA,1072,SYOBOY,山口県,1771,TOUYA,山口県,2271,TOUYA,山口県
@@ -345,7 +345,7 @@ GOLD,Sense 2007,1383,LARK.1,山口県,2076,TOUYA,山口県,2837,⏧,山口県
 GOLD,Second Heaven,835,MER9RY,山口県,1472,A.OUT,山口県,2084,TOUYA,山口県
 GOLD,Roulette,825,MER9RY,山口県,1356,A.OUT,山口県,2073,GOGO!,山口県
 GOLD,PHOTONGENIC,1221,YU-KEY,山口県,1869,SYOBOY,山口県,2270,TOUYA,山口県
-GOLD,op.31 叙情,495,KAYA,山口県,1227,VELIER,山口県,1534,⏧,山口県
+GOLD,op.31 叙情,509,TOUYA,山口県,1227,VELIER,山口県,1534,⏧,山口県
 GOLD,never…,358,LOV,山口県,1296,NIST,山口県,1776,TOUYA,山口県
 GOLD,METALLIC MIND,804,YU-KEY,山口県,1312,NIST,山口県,1583,CPU-Z.,山口県
 GOLD,Make Me Your Own,608,K,山口県,1478,SONICO,山口県,2066,TOUYA,山口県
@@ -360,11 +360,11 @@ GOLD,GRID KNIGHT,720,MER9RY,山口県,1819,ESPRIT,山口県,2578,TOUYA,山口県
 GOLD,GOLD RUSH,1156,DEGEL,山口県,1409,MI-OH?,山口県,2314,CUVEX,山口県
 GOLD,four-leaf,0,,未設定,1105,YU-KEY,山口県,1696,TOUYA,山口県
 GOLD,FIRE FIRE,1058,SBEMAN,山口県,1754,CUVEX,山口県,2616,GOGO!,山口県
-GOLD,Fascination MAXX,901,MONO,山口県,1558,MATA-Z,山口県,2282,TOUYA,山口県
+GOLD,Fascination MAXX,901,MONO,山口県,1581,TOUYA,山口県,2282,TOUYA,山口県
 GOLD,Cyber Force,896,K,山口県,1907,CUVEX,山口県,2337,CUVEX,山口県
 GOLD,CROSSROAD ～Left Story～,1090,HIDEAK,山口県,1713,INUPAN,山口県,2181,TOUYA,山口県
-GOLD,CaptivAte～誓い～,1117,SKYL.K,山口県,1895,KAYA,山口県,2201,CUVEX,山口県
-GOLD,CaptivAte～裁き～,698,SKYL.K,山口県,1204,KAYA,山口県,1734,CUVEX,山口県
+GOLD,CaptivAte～誓い～,1117,SKYL.K,山口県,1895,K,山口県,2201,CUVEX,山口県
+GOLD,CaptivAte～裁き～,698,SKYL.K,山口県,1204,K,山口県,1734,CUVEX,山口県
 GOLD,Candy Galy,1438,YU-KEY,山口県,2409,SYOBOY,山口県,3453,GOGO!,山口県
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1307,INUPAN,山口県,1874,INUPAN,山口県,2447,TOUYA,山口県
 GOLD,ANDROMEDA II,869,MER9RY,山口県,1822,MI-OH?,山口県,2444,TOUYA,山口県
@@ -372,7 +372,7 @@ GOLD,Air Bell,655,AAAAAA,山口県,1256,NIST,山口県,1702,CPU-Z.,山口県
 DJ TROOPERS,走馬灯 -The Last Song-,201,SUSHI,山口県,891,IN0R1,山口県,1309,CPU-Z.,山口県
 DJ TROOPERS,華爛漫 -Flowers-,917,MER9RY,山口県,1504,A.OUT,山口県,2025,CUVEX,山口県
 DJ TROOPERS,少年A,964,MER9RY,山口県,1855,38KEN,山口県,2665,TOUYA,山口県
-DJ TROOPERS,ミラージュ・レジデンス,524,GHETTY,山口県,1630,SWORKS,山口県,2518,CPU-Z.,山口県
+DJ TROOPERS,ミラージュ・レジデンス,524,GHETTY,山口県,1789,SBEMAN,山口県,2518,CPU-Z.,山口県
 DJ TROOPERS,マチ子の唄,478,JIHHGG,山口県,1220,VELIER,山口県,1763,TOUYA,山口県
 DJ TROOPERS,エコ爺,613,ELI,山口県,1150,MER9RY,山口県,1819,CUVEX,山口県
 DJ TROOPERS,Wanna Party?,747,WAN-C,山口県,1117,ISHITA,山口県,1494,CUVEX,山口県
@@ -397,13 +397,13 @@ DJ TROOPERS,PARANOiA ～HADES～,993,NIST,山口県,1728,CUVEX,山口県,2574,TO
 DJ TROOPERS,oratio,1239,SKYL.K,山口県,1953,283,山口県,2855,GOGO!,山口県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,1033,SYOBOY,山口県,1784,LARK.1,山口県,2473,TOUYA,山口県
 DJ TROOPERS,MENTAL MELTDOWN,959,SKYL.K,山口県,2016,VELIER,山口県,2659,TOUYA,山口県
-DJ TROOPERS,MENDES,1073,KAYA,山口県,2551,GOGO!,山口県,3371,GOGO!,山口県
+DJ TROOPERS,MENDES,1073,K,山口県,2551,GOGO!,山口県,3371,GOGO!,山口県
 DJ TROOPERS,MAX LOVE,1318,M.UNGA,山口県,2116,SYOBOY,山口県,2620,TOUYA,山口県
 DJ TROOPERS,LOVELY STORM,1187,SKYL.K,山口県,2032,MATA-Z,山口県,2743,CPU-Z.,山口県
 DJ TROOPERS,Kick Out 仮面,939,ELI,山口県,1364,M.UNGA,山口県,2001,TOUYA,山口県
 DJ TROOPERS,in the Sky,1240,SBEMAN,山口県,2020,ALISA,山口県,2497,CUVEX,山口県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3371,TOUYA,山口県
-DJ TROOPERS,ICARUS,1279,TOUYA,山口県,1873,SYOBOY,山口県,2278,⏧,山口県
+DJ TROOPERS,ICARUS,1279,TOUYA,山口県,1873,SYOBOY,山口県,2280,⏧,山口県
 DJ TROOPERS,Freeway Shuffle,527,BBB,山口県,1190,ISHITA,山口県,1839,TOUYA,山口県
 DJ TROOPERS,four pieces of heaven,372,GHETTY,山口県,1585,VELIER,山口県,2198,GOGO!,山口県
 DJ TROOPERS,evergreen,899,SYOBOY,山口県,1301,VELIER,山口県,1894,TOUYA,山口県
@@ -416,7 +416,7 @@ DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3202,GOGO!,山口県
 DJ TROOPERS,Blue Rain,897,SKYL.K,山口県,1515,INUPAN,山口県,2219,TOUYA,山口県
 DJ TROOPERS,beatonic nation,976,K,山口県,1790,AADA,山口県,2104,CUVEX,山口県
 DJ TROOPERS,Be OK,866,SQUASH,山口県,1663,DEGEL,山口県,2350,TOUYA,山口県
-DJ TROOPERS,avant-guerre,719,KAYA,山口県,1213,ISHITA,山口県,1885,TOUYA,山口県
+DJ TROOPERS,avant-guerre,719,K,山口県,1213,ISHITA,山口県,1885,TOUYA,山口県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1232,INUPAN,山口県,2008,ALISA,山口県,2792,TOUYA,山口県
 DJ TROOPERS,2 tribe 4 K,861,NIST,山口県,1284,INUPAN,山口県,2665,TOUYA,山口県
 EMPRESS,鉄甲乙女-under the steel-,739,K,山口県,1574,AADA,山口県,2150,CUVEX,山口県
@@ -427,11 +427,11 @@ EMPRESS,卑弥呼,1197,INUPAN,山口県,2622,⏧,山口県,3812,TOUYA,山口県
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3125,GOGO!,山口県
 EMPRESS,凛として咲く花の如く,1282,SBEMAN,山口県,2066,YUT,山口県,2758,TOUYA,山口県
 EMPRESS,不沈艦CANDY,984,SKYL.K,山口県,1830,NIST,山口県,3207,GOGO!,山口県
-EMPRESS,ミッドナイト堕天使,548,RYO,山口県,1570,VELIER,山口県,2726,⏧,山口県
+EMPRESS,ミッドナイト堕天使,741,MIFFY,山口県,1570,VELIER,山口県,2743,⏧,山口県
 EMPRESS,ハリツヤランデヴー,946,INUPAN,山口県,2019,INUPAN,山口県,2435,GOGO!,山口県
 EMPRESS,まほろば,682,FAL,山口県,1317,D-A40,山口県,2001,TAKAGI,山口県
 EMPRESS,"You'll say ""Now!""",1030,SKYL.K,山口県,1695,CPU-Z.,山口県,2419,GOGO!,山口県
-EMPRESS,Y&Co. is dead or alive,1024,KAYA,山口県,1653,VELIER,山口県,2553,TOUYA,山口県
+EMPRESS,Y&Co. is dead or alive,1024,K,山口県,1653,VELIER,山口県,2553,TOUYA,山口県
 EMPRESS,V2,1449,MI-OH?,山口県,2985,IN0R1,山口県,3424,GOGO!,山口県
 EMPRESS,Turii ～Panta rhei～,783,IIDX24,山口県,1900,ESPRIT,山口県,2611,TOUYA,山口県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2829,GOGO!,山口県
@@ -440,8 +440,8 @@ EMPRESS,SOLITON BEAM,1400,MI-OH?,山口県,2014,ALISA,山口県,2306,TOUYA,山�
 EMPRESS,smooooch・∀・,815,INUPAN,山口県,1574,INUPAN,山口県,2106,TOUYA,山口県
 EMPRESS,Secrets,1139,SKYL.K,山口県,2238,MATA-Z,山口県,3063,CUVEX,山口県
 EMPRESS,Queen's Tragedy,693,K,山口県,1570,DEGEL,山口県,2195,TOUYA,山口県
-EMPRESS,Punch Love 仮面,904,MER9RY,山口県,1633,KAYA,山口県,2477,TOUYA,山口県
-EMPRESS,Programmed World,615,K,山口県,1658,ALISA,山口県,2232,GOGO!,山口県
+EMPRESS,Punch Love 仮面,904,MER9RY,山口県,1633,K,山口県,2477,TOUYA,山口県
+EMPRESS,Programmed World,615,K,山口県,1658,ALISA,山口県,2245,GOGO!,山口県
 EMPRESS,NΦ CRIME,687,K,山口県,1363,DEGEL,山口県,1858,TOUYA,山口県
 EMPRESS,neogenesis,732,K,山口県,1318,MI-OH?,山口県,1684,TOUYA,山口県
 EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2429,TOUYA,山口県
@@ -472,7 +472,7 @@ SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",470,COLT,山口県
 SIRIUS,未来のプリズム,649,M.UNGA,山口県,1309,VELIER,山口県,1738,TOUYA,山口県
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1244,GOGO!,山口県,2131,SYOBOY,山口県,3050,TOUYA,山口県
 SIRIUS,バビロニア,820,INUPAN,山口県,1242,SKYL.K,山口県,1854,CPU-Z.,山口県
-SIRIUS,サヨナラ・ヘヴン,889,KAYA,山口県,1351,MI-OH?,山口県,1638,CPU-Z.,山口県
+SIRIUS,サヨナラ・ヘヴン,889,K,山口県,1351,MI-OH?,山口県,1638,CPU-Z.,山口県
 SIRIUS,コスモス,899,SYOBOY,山口県,1483,INUPAN,山口県,2070,CUVEX,山口県
 SIRIUS,たからもの,1189,MER9RY,山口県,1834,INUPAN,山口県,2218,TOUYA,山口県
 SIRIUS,かずあそび,502,M.UNGA,山口県,1157,INUPAN,山口県,1680,CPU-Z.,山口県
@@ -482,13 +482,13 @@ SIRIUS,Special One,755,MER9RY,山口県,1149,NIST,山口県,1729,TOUYA,山口県
 SIRIUS,Sorrows,648,PUCA*,山口県,1611,INUPAN,山口県,2439,CUVEX,山口県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3493,TOUYA,山口県
 SIRIUS,SOLID STATE SQUAD,952,M.UNGA,山口県,2200,SYOBOY,山口県,3436,TOUYA,山口県
-SIRIUS,She is my wife,673,KAYA,山口県,1415,NIST,山口県,1896,TOUYA,山口県
+SIRIUS,She is my wife,673,K,山口県,1415,NIST,山口県,1896,TOUYA,山口県
 SIRIUS,Session 1 -Genesis-,736,SKYL.K,山口県,1538,ALISA,山口県,2384,GOGO!,山口県
 SIRIUS,Roots of my way!,449,4KAKEN,山口県,1209,D-A40,山口県,2009,TOUYA,山口県
 SIRIUS,Red. by Full Metal Jacket,1011,INUPAN,山口県,1981,TOUYA,山口県,3004,⏧,山口県
 SIRIUS,Raison d'etre～交差する宿命～,1142,SBEMAN,山口県,2128,VELIER,山口県,2581,CUVEX,山口県
 SIRIUS,quell～the seventh slave～,859,MER9RY,山口県,1697,ALISA,山口県,3068,GOGO!,山口県
-SIRIUS,Programmed Sun,993,YU-KEY,山口県,1654,A.OUT,山口県,2494,TOUYA,山口県
+SIRIUS,Programmed Sun,993,YU-KEY,山口県,1654,A.OUT,山口県,2556,⏧,山口県
 SIRIUS,NoN-Fiction Story!,573,K,山口県,1349,INUPAN,山口県,2167,GOGO!,山口県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1142,MER9RY,山口県,1978,SVOC,山口県,2652,⏧,山口県
 SIRIUS,mosaic,1432,SBEMAN,山口県,2026,CUVEX,山口県,2958,CUVEX,山口県
@@ -499,7 +499,7 @@ SIRIUS,Keep it-秋葉工房mix-,961,SBEMAN,山口県,1630,SYOBOY,山口県,1834,
 SIRIUS,IN THE NAME OF LOVE,551,K,山口県,1211,SKYL.K,山口県,1877,TOUYA,山口県
 SIRIUS,Hydrogen Blueback,948,MER9RY,山口県,1581,INUPAN,山口県,2246,TOUYA,山口県
 SIRIUS,GOLDEN CROSS,966,FAL,山口県,1957,ALISA,山口県,3347,GOGO!,山口県
-SIRIUS,GALGALIM,1396,MI-OH?,山口県,1885,KAYA,山口県,2287,TOUYA,山口県
+SIRIUS,GALGALIM,1396,MI-OH?,山口県,1885,K,山口県,2287,TOUYA,山口県
 SIRIUS,G59,1646,MATA-Z,山口県,2282,SYOBOY,山口県,3735,TOUYA,山口県
 SIRIUS,EXUSIA,1058,SWORKS,山口県,2516,IN0R1,山口県,3698,GOGO!,山口県
 SIRIUS,Evans,1154,NA-,山口県,2106,CPU-Z.,山口県,2681,GOGO!,山口県
@@ -518,7 +518,7 @@ SIRIUS,being torn the sky,620,SKYL.K,山口県,1192,INUPAN,山口県,1958,TOUYA,
 SIRIUS,BEAUTIFUL ANGEL,513,K,山口県,1704,A.OUT,山口県,2438,TOUYA,山口県
 SIRIUS,beatchic☆仮面～好き、でいさせて～,947,MER9RY,山口県,1567,INUPAN,山口県,1989,TOUYA,山口県
 SIRIUS,bass 2 bass,661,MER9RY,山口県,1232,INUPAN,山口県,1786,TOUYA,山口県
-SIRIUS,Bad Maniacs,1073,IIDX26,山口県,1771,ALISA,山口県,3101,TOUYA,山口県
+SIRIUS,Bad Maniacs,1073,IIDX26,山口県,1771,ALISA,山口県,3120,GOGO!,山口県
 SIRIUS,Almagest,995,INUPAN,山口県,2090,CUVEX,山口県,3038,GOGO!,山口県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1055,MER9RY,山口県,1718,A.OUT,山口県,2284,⏧,山口県
 Resort Anthem,黒髪乱れし修羅となりて,725,SKYL.K,山口県,2055,CUVEX,山口県,3302,GOGO!,山口県
@@ -529,7 +529,7 @@ Resort Anthem,中華急行,320,SBEMAN,山口県,1508,SYOBOY,山口県,2294,CUVEX
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,512,POM,山口県,1337,INUPAN,山口県,1844,TOUYA,山口県
 Resort Anthem,おおきなこえで,384,SQUASH,山口県,904,IIDX24,山口県,1459,CPU-Z.,山口県
 Resort Anthem,ZETA～素数の世界と超越者～,491,IB,山口県,1999,INUPAN,山口県,3051,CUVEX,山口県
-Resort Anthem,XANADU OF TWO,957,KAYA,山口県,1650,A.OUT,山口県,2691,TOUYA,山口県
+Resort Anthem,XANADU OF TWO,957,K,山口県,1650,A.OUT,山口県,2691,TOUYA,山口県
 Resort Anthem,Wuv U,398,M.UNGA,山口県,1259,NIST,山口県,1682,CPU-Z.,山口県
 Resort Anthem,WISE UP!,320,FUYUNA,山口県,1038,T.O,山口県,1572,TOUYA,山口県
 Resort Anthem,WE LOVE SHONAN,602,ELI,山口県,1588,MI-OH?,山口県,2098,TOUYA,山口県
@@ -544,7 +544,7 @@ Resort Anthem,Stay my side,0,,未設定,973,SKYL.K,山口県,1330,CPU-Z.,山口�
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,597,1222,山口県,1512,A.OUT,山口県,2828,CUVEX,山口県
 Resort Anthem,Space Time,543,MER9RY,山口県,1562,INUPAN,山口県,2097,TOUYA,山口県
 Resort Anthem,Session 9 -Chronicles-,680,TAMU,山口県,2258,SVOC,山口県,3433,TOUYA,山口県
-Resort Anthem,sakura storm,993,KAYA,山口県,1263,INUPAN,山口県,2336,⏧,山口県
+Resort Anthem,sakura storm,993,K,山口県,1263,INUPAN,山口県,2336,⏧,山口県
 Resort Anthem,Sakura Reflection,451,SKYL.K,山口県,1577,ALISA,山口県,2343,CUVEX,山口県
 Resort Anthem,SABER WING,507,YUT,山口県,1734,PA,山口県,2764,⏧,山口県
 Resort Anthem,Rock Da House,812,MER9RY,山口県,1611,CUVEX,山口県,2172,TOUYA,山口県
@@ -563,7 +563,7 @@ Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2291,⏧,山口県
 Resort Anthem,Golden Palms,564,TENE,山口県,1363,INUPAN,山口県,1988,TOUYA,山口県
 Resort Anthem,Fantasia,325,K,山口県,1510,INUPAN,山口県,2213,TOUYA,山口県
 Resort Anthem,Everlasting Resort,759,IIDX24,山口県,1171,SKYL.K,山口県,1837,CUVEX,山口県
-Resort Anthem,Eternal Tears,432,KAYA,山口県,917,K,山口県,1346,R4P74N,山口県
+Resort Anthem,Eternal Tears,432,K,山口県,917,K,山口県,1346,R4P74N,山口県
 Resort Anthem,Energy Drive,779,SKYL.K,山口県,1472,SYOBOY,山口県,2142,TOUYA,山口県
 Resort Anthem,ELECTRIC MASSIVE DIVER,1256,YUT,山口県,2230,SIGEL,山口県,3576,TOUYA,山口県
 Resort Anthem,DM STAR～関西 energy style～,1082,SYOBOY,山口県,1729,FP.UFF,山口県,2365,TOUYA,山口県
@@ -579,7 +579,7 @@ Resort Anthem,Believe In Me,668,BIRD.S,山口県,1749,LARK.1,山口県,2328,GOGO
 Resort Anthem,ANTHEM LANDING,943,INUPAN,山口県,1836,A.OUT,山口県,2889,TOUYA,山口県
 Resort Anthem,Answer,485,KAEDE,山口県,1410,JUNCHI,山口県,2372,TOUYA,山口県
 Resort Anthem,ALBIDA,1020,M.UNGA,山口県,1807,LARK.1,山口県,2895,GOGO!,山口県
-Resort Anthem,Aegis,769,FAL,山口県,1277,MATA-Z,山口県,2244,⏧,山口県
+Resort Anthem,Aegis,783,MER9RY,山口県,1277,MATA-Z,山口県,2292,⏧,山口県
 Lincle,陽炎,612,M.UNGA,山口県,1147,INUPAN,山口県,1972,GOGO!,山口県
 Lincle,衰色小町メランコリア,754,M.UNGA,山口県,1359,VELIER,山口県,2327,TOUYA,山口県
 Lincle,蛇神,637,ELI,山口県,1458,INUPAN,山口県,2731,GOGO!,山口県
@@ -606,15 +606,15 @@ Lincle,Snow Goose,273,BBB,山口県,1160,SKYL.K,山口県,2362,GOGO!,山口県
 Lincle,Snake Stick,982,ESPRIT,山口県,1873,CUVEX,山口県,2520,⏧,山口県
 Lincle,SHADE,927,SWORKS,山口県,1911,MATA-Z,山口県,2846,GOGO!,山口県
 Lincle,Several Words,372,TAKUTO,山口県,1397,A.OUT,山口県,2147,TOUYA,山口県
-Lincle,Scharfrichter,803,FAL,山口県,1564,INUPAN,山口県,2827,TOUYA,山口県
+Lincle,Scharfrichter,803,FAL,山口県,1564,INUPAN,山口県,2828,TOUYA,山口県
 Lincle,SA.YO.NA.RA. SUPER STAR,399,K,山口県,1144,VELIER,山口県,1614,TOUYA,山口県
 Lincle,Round and Round,628,PUCA*,山口県,1220,TOUYA,山口県,2095,CPU-Z.,山口県
-Lincle,RESISTANCE,474,RIZUKI,山口県,1254,FAL,山口県,2324,TOUYA,山口県
+Lincle,RESISTANCE,474,RIZUKI,山口県,1254,FAL,山口県,2330,GOGO!,山口県
 Lincle,Release The Music,0,,未設定,1323,VELIER,山口県,2061,TOUYA,山口県
 Lincle,Quick Silver,633,K,山口県,1650,LARK.1,山口県,2588,GOGO!,山口県
 Lincle,quaver♪,660,MER9RY,山口県,2080,SYOBOY,山口県,3333,⏧,山口県
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3517,GOGO!,山口県
-Lincle,QUANTUM TELEPORTATION,1007,RYO,山口県,2050,LARK.1,山口県,2912,⏧,山口県
+Lincle,QUANTUM TELEPORTATION,1035,MER9RY,山口県,2075,TOMY,山口県,2912,⏧,山口県
 Lincle,prompt,832,SWORKS,山口県,1555,INUPAN,山口県,2728,TOUYA,山口県
 Lincle,Phoenix,646,ELI,山口県,1107,VELIER,山口県,2389,TOUYA,山口県
 Lincle,NNRT,1146,MER9RY,山口県,2312,NIST,山口県,3381,TOUYA,山口県
@@ -627,11 +627,11 @@ Lincle,LETHEBOLG ～双神威に斬り咲けり～,819,K,山口県,1556,A.OUT,�
 Lincle,LAX5 feat.Ryota Yoshinari,1014,MER9RY,山口県,2022,NIST,山口県,2783,TOUYA,山口県
 Lincle,Infinite cave,871,MER9RY,山口県,1403,ESPRIT,山口県,1993,TOUYA,山口県
 Lincle,In the Blackest Den,784,M1,山口県,1479,INUPAN,山口県,2483,CUVEX,山口県
-Lincle,I'm so Happy,409,KAYA,山口県,1306,INUPAN,山口県,2310,⏧,山口県
+Lincle,I'm so Happy,409,K,山口県,1306,INUPAN,山口県,2310,⏧,山口県
 Lincle,HAERETICUS,733,K,山口県,1798,ALISA,山口県,2921,GOGO!,山口県
 Lincle,Follow Tomorrow,878,FP.UFF,山口県,1447,ISHITA,山口県,2215,CUVEX,山口県
 Lincle,Flip Flap,555,M.UNGA,山口県,1353,INUPAN,山口県,2215,TOUYA,山口県
-Lincle,fffff,817,KAYA,山口県,1877,AADA,山口県,2959,TOUYA,山口県
+Lincle,fffff,817,K,山口県,1877,AADA,山口県,2959,TOUYA,山口県
 Lincle,Far east nightbird,488,SKYL.K,山口県,1226,796,山口県,1986,CUVEX,山口県
 Lincle,F,961,TOM,山口県,2008,R4P74N,山口県,3444,GOGO!,山口県
 Lincle,Express Emotion,657,K,山口県,1011,SYOBOY,山口県,2496,TOUYA,山口県
@@ -639,7 +639,7 @@ Lincle,Drive Me Crazy,693,MER9RY,山口県,1376,INUPAN,山口県,2278,CUVEX,山�
 Lincle,DIAVOLO,1095,MER9RY,山口県,1748,MATA-Z,山口県,2998,TOUYA,山口県
 Lincle,Change the World,726,SWORKS,山口県,1300,KURO,山口県,1805,TOUYA,山口県
 Lincle,Castle on the Moon,624,MER9RY,山口県,1548,MATA-Z,山口県,2253,CUVEX,山口県
-Lincle,CALL,344,KAYA,山口県,831,NIST,山口県,1424,TOUYA,山口県
+Lincle,CALL,344,K,山口県,831,NIST,山口県,1424,TOUYA,山口県
 Lincle,BLACK.by X-Cross Fade,1013,INUPAN,山口県,2103,CUVEX,山口県,3140,⏧,山口県
 Lincle,ANAGRAMS I to Y,838,M.UNGA,山口県,1638,INUPAN,山口県,2458,TOUYA,山口県
 Lincle,Almace,778,IIDX24,山口県,1279,INUPAN,山口県,1962,CUVEX,山口県
@@ -659,16 +659,16 @@ tricoro,仮想空間の旅人たち,1069,MER9RY,山口県,2049,DEGEL,山口県,2
 tricoro,下弦の月,932,INUPAN,山口県,1404,INUPAN,山口県,1960,CUVEX,山口県
 tricoro,ラキラキ,446,POM,山口県,1200,RAKKO,山口県,1938,TOUYA,山口県
 tricoro,メイメツ、フラグメンツ,598,MER9RY,山口県,1245,AZM!,山口県,1920,TOUYA,山口県
-tricoro,トリカゴノ鳳凰,1027,SKYL.K,山口県,1871,MATA-Z,山口県,3633,⏧,山口県
+tricoro,トリカゴノ鳳凰,1027,SKYL.K,山口県,1871,MATA-Z,山口県,3653,GOGO!,山口県
 tricoro,シュレーディンガーの猫,1021,SKYL.K,山口県,2324,SYOBOY,山口県,3313,GOGO!,山口県
 tricoro,キャトられ恋はモ～モク,1454,MI-OH?,山口県,2409,LARK.1,山口県,3651,GOGO!,山口県
 tricoro,カジノファイヤーことみちゃん,415,POM,山口県,1346,A.OUT,山口県,2218,CUVEX,山口県
 tricoro,アストライアの双皿,521,KAEDE,山口県,1852,LARK.1,山口県,3011,TOUYA,山口県
 tricoro,たまゆら,1093,MER9RY,山口県,1748,LARK.1,山口県,2677,GOGO!,山口県
-tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,837,INUPAN,山口県,1444,INUPAN,山口県,2048,IN0R1,山口県
+tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,871,K,山口県,1444,INUPAN,山口県,2048,IN0R1,山口県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),519,M.UNGA,山口県,1603,ALISA,山口県,3416,GOGO!,山口県
 tricoro,ΕΛΠΙΣ,1027,MER9RY,山口県,1958,SVOC,山口県,3050,⏧,山口県
-tricoro,Zirkfied,801,4BAINU,山口県,1954,CUVEX,山口県,3591,TOUYA,山口県
+tricoro,Zirkfied,801,4BAINU,山口県,1978,CUVEX,山口県,3591,TOUYA,山口県
 tricoro,ZED,817,SKYL.K,山口県,1623,A.OUT,山口県,2711,GOGO!,山口県
 tricoro,YELLOW FROG from Steel Chronicle,490,1222,山口県,1249,INUPAN,山口県,1889,TOUYA,山口県
 tricoro,VEGA,1042,MER9RY,山口県,1985,ALISA,山口県,3042,GOGO!,山口県
@@ -732,7 +732,7 @@ tricoro,BLUE STRAGGLER,857,SYOBOY,山口県,1386,TAKU*,山口県,2509,TOUYA,山�
 tricoro,Beastie Starter,487,YUT,山口県,1173,INUPAN,山口県,2016,CUVEX,山口県
 tricoro,Ascalon,946,TAMU,山口県,1679,INUPAN,山口県,2210,CPU-Z.,山口県
 tricoro,8bit Princess,453,O.ENR,山口県,1359,MI-OH?,山口県,2593,CUVEX,山口県
-tricoro,405nm (Ryu☆mix),853,KAYA,山口県,1644,LARK.1,山口県,2544,GOGO!,山口県
+tricoro,405nm (Ryu☆mix),853,K,山口県,1644,LARK.1,山口県,2544,GOGO!,山口県
 SPADA,轟け！恋のビーンボール！！,944,SKYL.K,山口県,1925,CUVEX,山口県,3375,⏧,山口県
 SPADA,超!!遠距離らぶメ～ル,555,M.UNGA,山口県,1503,VELIER,山口県,2589,TOUYA,山口県
 SPADA,罪と罰,979,SKYL.K,山口県,1327,VELIER,山口県,2099,CUVEX,山口県
@@ -742,7 +742,7 @@ SPADA,牧神笛吹きて,473,WBMOCH,山口県,1253,ESPRIT,山口県,2014,TOUYA,�
 SPADA,煉獄のエルフェリア,1337,SYOBOY,山口県,2236,CPU-Z.,山口県,3703,TOUYA,山口県
 SPADA,海神,1054,SKYL.K,山口県,1930,ALISA,山口県,3032,TOUYA,山口県
 SPADA,旋律のドグマ～Miserables～,1155,SKYL.K,山口県,2376,ALISA,山口県,3812,GOGO!,山口県
-SPADA,廿†,0,,未設定,0,,未設定,2896,IN0R1,山口県
+SPADA,廿†,0,,未設定,0,,未設定,2919,SYOBOY,山口県
 SPADA,廿,761,ELI,山口県,1630,INUPAN,山口県,2311,⏧,山口県
 SPADA,幻想系世界修復少女,449,FUYUNA,山口県,1139,INUPAN,山口県,1882,CUVEX,山口県
 SPADA,バンブーソード・ガール,894,SKYL.K,山口県,1740,SHIRO,山口県,2341,GOGO!,山口県
@@ -756,7 +756,7 @@ SPADA,Verflucht,1244,INUPAN,山口県,2072,CUVEX,山口県,3461,GOGO!,山口県
 SPADA,Valgus,648,SYOBOY,山口県,1321,INUPAN,山口県,2308,CUVEX,山口県
 SPADA,Unicorn tail,755,SKYL.K,山口県,1969,NIST,山口県,3066,TOUYA,山口県
 SPADA,THE DETONATOR,1451,M.UNGA,山口県,2396,MI-OH?,山口県,3119,GOGO!,山口県
-SPADA,Squeeze,768,UTA,山口県,1311,VELIER,山口県,2409,⏧,山口県
+SPADA,Squeeze,768,UTA,山口県,1330,KWILT,山口県,2409,⏧,山口県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4044,TOUYA,山口県
 SPADA,Sigmund,1535,SYOBOY,山口県,2193,SVOC,山口県,3684,TOUYA,山口県
 SPADA,SCHWARZSCHILD FIELD,894,SYOBOY,山口県,1463,ESPRIT,山口県,2281,GOGO!,山口県
@@ -797,12 +797,12 @@ SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4099,GOGO!,山口県
 SPADA,Feel The Beat,1254,38KEN,山口県,2036,SYOBOY,山口県,3393,TOUYA,山口県
 SPADA,EXTREME MACH COLLIDER,610,ELI,山口県,1420,VELIER,山口県,2480,TOUYA,山口県
 SPADA,Engraved Mark,573,SKYL.K,山口県,1250,INUPAN,山口県,2284,CUVEX,山口県
-SPADA,Element of SPADA,686,KAYA,山口県,1326,INUPAN,山口県,2070,CPU-Z.,山口県
+SPADA,Element of SPADA,686,K,山口県,1326,INUPAN,山口県,2070,CPU-Z.,山口県
 SPADA,Elektrick U-Phoria,1014,SKYL.K,山口県,1878,VELIER,山口県,3023,GOGO!,山口県
-SPADA,diagram,612,KAYA,山口県,1243,NIST,山口県,2757,⏧,山口県
+SPADA,diagram,612,K,山口県,1243,NIST,山口県,2757,⏧,山口県
 SPADA,Devilz Sacrifice -贖罪の羊-,886,RYOHEI,山口県,1714,VELIER,山口県,2445,GOGO!,山口県
 SPADA,DARK LEGACY,1315,INUPAN,山口県,1979,ALISA,山口県,3466,TOUYA,山口県
-SPADA,Dark Fall,614,K,山口県,1477,YUT,山口県,2697,CUVEX,山口県
+SPADA,Dark Fall,626,4KAKEN,山口県,1477,YUT,山口県,2697,CUVEX,山口県
 SPADA,Critical Crystal,956,MER9RY,山口県,1758,INUPAN,山口県,2786,TOUYA,山口県
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3681,GOGO!,山口県
 SPADA,Close the World feat. a☆ru,1056,MER9RY,山口県,2005,SVOC,山口県,3275,GOGO!,山口県
@@ -814,7 +814,7 @@ SPADA,BLUE DRAGON(雷龍RemixIIDX),1334,FAL,山口県,2061,ALISA,山口県,3195,
 SPADA,Atropos,853,SKYL.K,山口県,1565,AADA,山口県,2215,CUVEX,山口県
 SPADA,ATHER,762,TOMMY,山口県,1536,ESPRIT,山口県,2701,CUVEX,山口県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4040,GOGO!,山口県
-SPADA,Ancient Scapes,1045,FAL,山口県,2001,CUVEX,山口県,3337,TOUYA,山口県
+SPADA,Ancient Scapes,1045,FAL,山口県,2001,CUVEX,山口県,3358,⏧,山口県
 SPADA,ALBA -黎明-,566,ELI,山口県,1453,INUPAN,山口県,3159,⏧,山口県
 SPADA,Adularia,1034,TAKU*,山口県,1760,SVOC,山口県,2765,TOUYA,山口県
 PENDUAL,Ｘ↑Ｘ↓,904,MI-OH?,山口県,1672,MI-OH?,山口県,2793,TOUYA,山口県
@@ -824,7 +824,7 @@ PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1031,MI-OH?,山�
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1106,MI-OH?,山口県,2072,NIST,山口県,3480,⏧,山口県
 PENDUAL,紅牡丹,1056,INUPAN,山口県,1758,LARK.1,山口県,2763,GOGO!,山口県
 PENDUAL,白露の風,427,KENMA*,山口県,1187,MI-OH?,山口県,1981,CPU-Z.,山口県
-PENDUAL,時空トラベローグ,1075,MI-OH?,山口県,1818,MI-OH?,山口県,2574,⏧,山口県
+PENDUAL,時空トラベローグ,1075,MI-OH?,山口県,1818,MI-OH?,山口県,2584,TOUYA,山口県
 PENDUAL,打打打打打打打打打打,740,SKYL.K,山口県,1326,AADA,山口県,2574,GOGO!,山口県
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2707,GOGO!,山口県
 PENDUAL,恋は白帯、サンシロー,434,WBMOCH,山口県,1267,NIST,山口県,1992,CPU-Z.,山口県
@@ -934,7 +934,7 @@ copula,Welcome,857,INUPAN,山口県,1734,MI-OH?,山口県,2497,SYOBOY,山口県
 copula,Violet Rose,1212,MI-OH?,山口県,1879,MI-OH?,山口県,2511,TOUYA,山口県
 copula,Violet Pulse,405,M.UNGA,山口県,1540,ESPRIT,山口県,2371,TOUYA,山口県
 copula,Uh-Oh,1092,MI-OH?,山口県,1648,MI-OH?,山口県,2283,GOGO!,山口県
-copula,Triple Counter,1376,MI-OH?,山口県,2221,⏧,山口県,3793,GOGO!,山口県
+copula,Triple Counter,1376,MI-OH?,山口県,2221,⏧,山口県,3795,GOGO!,山口県
 copula,Transport,997,MI-OH?,山口県,1469,MI-OH?,山口県,2105,TOUYA,山口県
 copula,Tori-no-kimochi,241,M.UNGA,山口県,1092,MER9RY,山口県,1971,GOGO!,山口県
 copula,SURVIVOR,0,,未設定,1260,MI-OH?,山口県,1992,TOUYA,山口県
@@ -950,7 +950,7 @@ copula,SEITEN NO TERIYAKI,484,K,山口県,1259,MI-OH?,山口県,2196,TOUYA,山�
 copula,Routing,906,MI-OH?,山口県,1557,MI-OH?,山口県,2417,⏧,山口県
 copula,Rock It,1124,MI-OH?,山口県,1634,INUPAN,山口県,2785,TOUYA,山口県
 copula,refrain,1142,SKYL.K,山口県,2189,MI-OH?,山口県,3498,GOGO!,山口県
-copula,quick master (reform version),156,KAYA,山口県,330,NIST,山口県,514,JUANMA,山口県
+copula,quick master (reform version),156,K,山口県,330,NIST,山口県,514,JUANMA,山口県
 copula,POSSESSION,1339,INAKA.,山口県,1974,YUT,山口県,2823,CUVEX,山口県
 copula,OUTER LIMITS ALTERNATIVE,1146,MI-OH?,山口県,1668,MI-OH?,山口県,2558,TOUYA,山口県
 copula,Outbreak,1298,MI-OH?,山口県,1827,SYOBOY,山口県,2912,TOUYA,山口県
@@ -1040,10 +1040,10 @@ SINOBUZ,SEQUENCE CAT,1058,MI-OH?,山口県,2109,MI-OH?,山口県,2784,TOUYA,山�
 SINOBUZ,Selfish Sweet,457,COLT,山口県,655,COLT,山口県,1668,TOUYA,山口県
 SINOBUZ,Seize the Day,742,MI-OH?,山口県,1294,NIST,山口県,2108,TOUYA,山口県
 SINOBUZ,Seaside Labyrinth,452,K,山口県,1207,INUPAN,山口県,1826,TOUYA,山口県
-SINOBUZ,SCREAM THE LIFE FEAT.KYONO,400,RE18,山口県,1547,ISHITA,山口県,2235,CPU-Z.,山口県
+SINOBUZ,SCREAM THE LIFE FEAT.KYONO,533,NAOKI,山口県,1547,ISHITA,山口県,2235,CPU-Z.,山口県
 SINOBUZ,SAY BAY,811,MI-OH?,山口県,1436,MOCHO,山口県,2722,TOUYA,山口県
 SINOBUZ,Sarutobi Champion is 拙者,908,MI-OH?,山口県,1369,MI-OH?,山口県,2105,GOGO!,山口県
-SINOBUZ,SAMURAI-Scramble,975,MI-OH?,山口県,1614,MI-OH?,山口県,2215,GOGO!,山口県
+SINOBUZ,SAMURAI-Scramble,975,MI-OH?,山口県,1614,MI-OH?,山口県,2219,⏧,山口県
 SINOBUZ,ROTTERDAM SHOGUN,1118,MI-OH?,山口県,1790,MI-OH?,山口県,2543,⏧,山口県
 SINOBUZ,RISING FIRE HAWK,857,MI-OH?,山口県,1468,MI-OH?,山口県,2634,⏧,山口県
 SINOBUZ,Remedy feat. Kanae Asaba,913,MI-OH?,山口県,1569,NIST,山口県,2151,CPU-Z.,山口県
@@ -1053,7 +1053,7 @@ SINOBUZ,Quakes,1089,MI-OH?,山口県,1968,MOCHO,山口県,3032,GOGO!,山口県
 SINOBUZ,Piano Samurai,991,UTA,山口県,1670,ISHITA,山口県,2421,TOUYA,山口県
 SINOBUZ,PAPAYAPA BASS,727,MER9RY,山口県,1387,YU-KEY,山口県,2742,TOUYA,山口県
 SINOBUZ,OTENAMI Hurricane,1272,MI-OH?,山口県,2074,MOCHO,山口県,3012,TOUYA,山口県
-SINOBUZ,OOO,538,448,山口県,1433,MI-OH?,山口県,2033,TOUYA,山口県
+SINOBUZ,OOO,657,M.UNGA,山口県,1433,MI-OH?,山口県,2033,TOUYA,山口県
 SINOBUZ,nostos,827,SKYL.K,山口県,1315,MI-OH?,山口県,2574,⏧,山口県
 SINOBUZ,Music is The Answer,389,BREAD,山口県,1392,MI-OH?,山口県,1858,TOUYA,山口県
 SINOBUZ,Modular Technology,1224,MI-OH?,山口県,1819,MI-OH?,山口県,2570,TOUYA,山口県
@@ -1065,7 +1065,7 @@ SINOBUZ,INVISIBLE STRIX,997,HIDEAK,山口県,2026,CPU-Z.,山口県,2562,⏧,山�
 SINOBUZ,Honey Trap,816,MI-OH?,山口県,1554,MI-OH?,山口県,2466,TOUYA,山口県
 SINOBUZ,HAPPY★RUSH,793,INUPAN,山口県,1819,NIST,山口県,2791,TOUYA,山口県
 SINOBUZ,HADES,955,MI-OH?,山口県,1765,ISHITA,山口県,2916,GOGO!,山口県
-SINOBUZ,GuNGNiR,1324,ISHITA,山口県,2481,SYOBOY,山口県,3766,⏧,山口県
+SINOBUZ,GuNGNiR,1324,ISHITA,山口県,2507,SYOBOY,山口県,3766,⏧,山口県
 SINOBUZ,Go Ahead!!,989,MI-OH?,山口県,1480,MOCHO,山口県,2548,GOGO!,山口県
 SINOBUZ,FUZIN RIZIN,1087,KAZ,山口県,1927,ISHITA,山口県,3660,GOGO!,山口県
 SINOBUZ,elemental bender feat. Kanae Asaba,363,LOV,山口県,958,SKYL.K,山口県,1600,TOUYA,山口県
@@ -1081,7 +1081,7 @@ SINOBUZ,Breakin' Chain,659,M.UNGA,山口県,1316,INUPAN,山口県,2270,TOUYA,山
 SINOBUZ,BREAK OVER,893,MI-OH?,山口県,1489,MI-OH?,山口県,2337,TOUYA,山口県
 SINOBUZ,Beyond The Seven,682,SKYL.K,山口県,1239,D-A40,山口県,2642,TOUYA,山口県
 SINOBUZ,Believe in you,1188,INUPAN,山口県,1828,INUPAN,山口県,2381,TOUYA,山口県
-SINOBUZ,Beat Juggling Mix,778,SKYL.K,山口県,1439,ESPRIT,山口県,2013,TOUYA,山口県
+SINOBUZ,Beat Juggling Mix,778,SKYL.K,山口県,1440,K,山口県,2013,TOUYA,山口県
 SINOBUZ,Be A Star,774,ELI,山口県,1755,MI-OH?,山口県,2745,GOGO!,山口県
 SINOBUZ,BabeL ～Grand Story～,1236,MI-OH?,山口県,1917,JIS,山口県,2702,TOUYA,山口県
 SINOBUZ,AsiaN distractive,1173,MI-OH?,山口県,1739,MI-OH?,山口県,2523,TOUYA,山口県
@@ -1119,7 +1119,7 @@ CANNON BALLERS,THE CANNONBALLER,1478,MI-OH?,山口県,2333,SYOBOY,山口県,3339
 CANNON BALLERS,Temple of Anubis,819,BIRD.S,山口県,1485,MI-OH?,山口県,2530,CUVEX,山口県
 CANNON BALLERS,SUNLiGHT (IIDX Mix),1119,MI-OH?,山口県,1683,ISHITA,山口県,2552,⏧,山口県
 CANNON BALLERS,Static State,1042,MI-OH?,山口県,1677,MI-OH?,山口県,2233,CPU-Z.,山口県
-CANNON BALLERS,STARLIGHT JUNCTION,776,ELI,山口県,1545,MI-OH?,山口県,2207,CPU-Z.,山口県
+CANNON BALLERS,STARLIGHT JUNCTION,777,H4L0,山口県,1545,MI-OH?,山口県,2207,CPU-Z.,山口県
 CANNON BALLERS,SPEED DEMON,742,MI-OH?,山口県,1393,AADA,山口県,2235,TOUYA,山口県
 CANNON BALLERS,SPEED,865,MI-OH?,山口県,1548,MI-OH?,山口県,2534,TOUYA,山口県
 CANNON BALLERS,"Son, not gabba now",705,ELI,山口県,1534,ISHITA,山口県,2311,CUVEX,山口県
@@ -1153,12 +1153,12 @@ CANNON BALLERS,FUTURE is Dead,828,WAN-C,山口県,1419,VELIER,山口県,2127,TOU
 CANNON BALLERS,From Time To Time,651,K,山口県,1809,MI-OH?,山口県,2489,TOUYA,山口県
 CANNON BALLERS,FREEDOM,984,MI-OH?,山口県,1687,MI-OH?,山口県,2840,CUVEX,山口県
 CANNON BALLERS,FIRE BALL,848,MI-OH?,山口県,1567,MI-OH?,山口県,2329,CUVEX,山口県
-CANNON BALLERS,Fervidex,833,KAYA,山口県,1779,SYOBOY,山口県,2661,GOGO!,山口県
+CANNON BALLERS,Fervidex,833,K,山口県,1779,SYOBOY,山口県,2661,GOGO!,山口県
 CANNON BALLERS,Expanded !!,679,INUPAN,山口県,1516,MI-OH?,山口県,2544,TOUYA,山口県
-CANNON BALLERS,Exhaust Hype,891,BIRD.S,山口県,1892,MI-OH?,山口県,2711,CUVEX,山口県
+CANNON BALLERS,Exhaust Hype,891,BIRD.S,山口県,1892,MI-OH?,山口県,2760,⏧,山口県
 CANNON BALLERS,encounter,708,ELI,山口県,1648,INUPAN,山口県,3177,GOGO!,山口県
-CANNON BALLERS,EMERALDAS,1291,KAYA,山口県,2327,GOGO!,山口県,3302,GOGO!,山口県
-CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,934,KAYA,山口県,1391,INUPAN,山口県,2499,GOGO!,山口県
+CANNON BALLERS,EMERALDAS,1291,K,山口県,2327,GOGO!,山口県,3302,GOGO!,山口県
+CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,934,K,山口県,1391,INUPAN,山口県,2499,GOGO!,山口県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1267,SKYL.K,山口県,2307,SVOC,山口県,3754,GOGO!,山口県
 CANNON BALLERS,DEADHEAT,1189,MI-OH?,山口県,1934,ALISA,山口県,3190,TOUYA,山口県
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,735,SKYL.K,山口県,1377,INUPAN,山口県,2076,CPU-Z.,山口県
@@ -1182,11 +1182,11 @@ CANNON BALLERS,Alpheratz,408,M.UNGA,山口県,1026,TOUYA,山口県,2044,CPU-Z.,�
 CANNON BALLERS,Acidiva 303,737,IIDX24,山口県,1250,SKYL.K,山口県,2260,TOUYA,山口県
 CANNON BALLERS,ACCELERATE,1171,MI-OH?,山口県,1695,MI-OH?,山口県,2460,TOUYA,山口県
 CANNON BALLERS,Abraxas,729,IIDX24,山口県,1533,ISHITA,山口県,2324,GOGO!,山口県
-CANNON BALLERS,AA -rebuild-,1200,MI-OH?,山口県,2305,SYOBOY,山口県,3470,GOGO!,山口県
+CANNON BALLERS,AA -rebuild-,1200,MI-OH?,山口県,2305,SYOBOY,山口県,3481,GOGO!,山口県
 CANNON BALLERS,255,836,YUT,山口県,1480,BALCUE,山口県,3068,TOUYA,山口県
-CANNON BALLERS,2 Player,948,SYOBOY,山口県,1510,KAYA,山口県,2467,TOUYA,山口県
+CANNON BALLERS,2 Player,948,SYOBOY,山口県,1510,K,山口県,2467,TOUYA,山口県
 CANNON BALLERS,1001 -ESCAPE-,746,ELI,山口県,1464,M.UNGA,山口県,2576,CUVEX,山口県
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1110,MI-OH?,山口県,2247,CPU-Z.,山口県,3138,⏧,山口県
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1110,MI-OH?,山口県,2255,MI-OH?,山口県,3138,⏧,山口県
 Rootage,金野火織の金色提言,1259,⏧,山口県,2259,⏧,山口県,2978,TOUYA,山口県
 Rootage,花冠 feat.Aikapin,946,MI-OH?,山口県,1624,INUPAN,山口県,2490,⏧,山口県
 Rootage,爆ゼニ☆がってんワーカー,1210,MI-OH?,山口県,1855,CUVEX,山口県,2673,GOGO!,山口県
@@ -1194,7 +1194,7 @@ Rootage,抱きしめてモナムール,1314,⏧,山口県,2304,⏧,山口県,396
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,679,TAKU*,山口県,1516,SYOBOY,山口県,2524,TOUYA,山口県
 Rootage,ミストレス・アンに花束を,563,38KEN,山口県,1000,INUPAN,山口県,1409,TOUYA,山口県
 Rootage,ハードベース・フェスタ,1108,A.OUT,山口県,1759,MI-OH?,山口県,2815,⏧,山口県
-Rootage,セカンドピアス,582,KAYA,山口県,1096,INUPAN,山口県,2001,⏧,山口県
+Rootage,セカンドピアス,582,K,山口県,1096,INUPAN,山口県,2001,⏧,山口県
 Rootage,サクラあっぱれーしょん,614,T-SPIN,山口県,1531,SYOBOY,山口県,2288,⏧,山口県
 Rootage,グラナダの風,801,MI-OH?,山口県,1211,CPU-Z.,山口県,1839,⏧,山口県
 Rootage,Yum Yum Jelly,780,MI-OH?,山口県,1527,SYOBOY,山口県,2312,GOGO!,山口県
@@ -1205,59 +1205,59 @@ Rootage,Wolf 1061,999,MI-OH?,山口県,1686,SYOBOY,山口県,3034,GOGO!,山口�
 Rootage,Wing of Hearts,1127,INUPAN,山口県,1758,SYOBOY,山口県,2886,⏧,山口県
 Rootage,Urban Constellations,706,MI-OH?,山口県,1453,SYOBOY,山口県,2217,⏧,山口県
 Rootage,UNDERWORLD HOLOGRAPHY,1138,MI-OH?,山口県,2063,CPU-Z.,山口県,3179,GOGO!,山口県
-Rootage,Unbelief,1078,VELIER,山口県,1997,CPU-Z.,山口県,3029,TOUYA,山口県
+Rootage,Unbelief,1088,GOGO!,山口県,1997,CPU-Z.,山口県,3029,TOUYA,山口県
 Rootage,U.S.A.,1122,INUPAN,山口県,1853,SYOBOY,山口県,2847,⏧,山口県
 Rootage,Twilight Warp,930,MI-OH?,山口県,1406,MI-OH?,山口県,2120,TOUYA,山口県
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),726,38KEN,山口県,1531,SYOBOY,山口県,2261,⏧,山口県
 Rootage,The Rebellion of Sequencer,1221,ISHITA,山口県,2021,⏧,山口県,2967,⏧,山口県
 Rootage,THE DAY OF JUBILATIONS,1525,SYOBOY,山口県,2418,⏧,山口県,3337,⏧,山口県
-Rootage,The Best of Both Worlds,588,MI-OH?,山口県,1361,SYOBOY,山口県,2168,⏧,山口県
-Rootage,Technicolour Dreams,923,MI-OH?,山口県,1361,MI-OH?,山口県,2298,CPU-Z.,山口県
+Rootage,The Best of Both Worlds,588,MI-OH?,山口県,1370,SYOBOY,山口県,2168,⏧,山口県
+Rootage,Technicolour Dreams,923,MI-OH?,山口県,1373,K,山口県,2345,GOGO!,山口県
 Rootage,Starry Night,904,VELIER,山口県,1650,SYOBOY,山口県,2494,⏧,山口県
 Rootage,SPEED ROCKER,901,MI-OH?,山口県,1671,MI-OH?,山口県,2258,⏧,山口県
 Rootage,SIGMA,818,MI-OH?,山口県,1496,SYOBOY,山口県,2611,⏧,山口県
-Rootage,Sidechained Threats,1202,A.OUT,山口県,1830,KAYA,山口県,2369,⏧,山口県
+Rootage,Sidechained Threats,1202,A.OUT,山口県,1830,K,山口県,2369,⏧,山口県
 Rootage,Serious?,585,SYOBOY,山口県,1185,MI-OH?,山口県,2208,⏧,山口県
 Rootage,R∞tAge,1084,MI-OH?,山口県,1639,MI-OH?,山口県,2914,⏧,山口県
-Rootage,ROZA DE ANDALUCIA,1287,KAYA,山口県,1979,SYOBOY,山口県,2951,⏧,山口県
-Rootage,"ROCK女 feat. 大山愛未, Ken",1043,KAYA,山口県,1773,GOGO!,山口県,2620,⏧,山口県
+Rootage,ROZA DE ANDALUCIA,1287,K,山口県,1979,SYOBOY,山口県,2951,⏧,山口県
+Rootage,"ROCK女 feat. 大山愛未, Ken",1043,K,山口県,1773,GOGO!,山口県,2620,⏧,山口県
 Rootage,Re:Story,427,ISHITA,山口県,1096,ISHITA,山口県,1918,TOUYA,山口県
 Rootage,Psycho Sheep Riddim,636,MI-OH?,山口県,985,ISHITA,山口県,1659,⏧,山口県
 Rootage,Playing With Fire,978,MI-OH?,山口県,1666,CUVEX,山口県,2294,⏧,山口県
 Rootage,Particle Arts,866,VELIER,山口県,1614,MI-OH?,山口県,2449,⏧,山口県
 Rootage,Painful Fate,1232,MI-OH?,山口県,2258,⏧,山口県,3206,TOUYA,山口県
 Rootage,OVER TIME,575,R4P74N,山口県,958,MI-OH?,山口県,1544,TOUYA,山口県
-Rootage,Necroxis Girl,1133,KAYA,山口県,1896,SYOBOY,山口県,2702,TOUYA,山口県
+Rootage,Necroxis Girl,1133,K,山口県,1896,SYOBOY,山口県,2702,TOUYA,山口県
 Rootage,Macho Monky,1418,MI-OH?,山口県,2118,⏧,山口県,2900,⏧,山口県
 Rootage,LOST TECHNOLOGIE,1103,DEGEL,山口県,1889,⏧,山口県,3343,GOGO!,山口県
-Rootage,Level One,1206,KAYA,山口県,2272,⏧,山口県,3321,⏧,山口県
+Rootage,Level One,1206,K,山口県,2272,⏧,山口県,3321,⏧,山口県
 Rootage,Let me be your cure,1106,HIDEAK,山口県,1416,SYOBOY,山口県,2638,⏧,山口県
 Rootage,LADYBIRD,1065,MI-OH?,山口県,1600,SYOBOY,山口県,2378,GOGO!,山口県
 Rootage,L.F.O,869,MI-OH?,山口県,1770,⏧,山口県,3213,GOGO!,山口県
 Rootage,KILL EACH OTHER,1383,MI-OH?,山口県,2447,⏧,山口県,3689,⏧,山口県
 Rootage,IDOL syndrome.,750,MI-OH?,山口県,1435,MI-OH?,山口県,2161,TOUYA,山口県
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1031,KAYA,山口県,1470,NIST,山口県,2113,⏧,山口県
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1031,K,山口県,1470,NIST,山口県,2113,⏧,山口県
 Rootage,Hurry Hurry,737,MI-OH?,山口県,1025,JUNCHI,山口県,2074,⏧,山口県
 Rootage,HOT LIMIT,1042,DEGEL,山口県,1694,SYOBOY,山口県,2506,⏧,山口県
 Rootage,HEISEI,1131,MI-OH?,山口県,1879,JUANMA,山口県,2515,⏧,山口県
 Rootage,Glory,759,MI-OH?,山口県,1635,MI-OH?,山口県,2295,⏧,山口県
-Rootage,GIGA THRASH,1219,KAYA,山口県,1789,ALISA,山口県,2674,⏧,山口県
+Rootage,GIGA THRASH,1219,K,山口県,1789,ALISA,山口県,2674,⏧,山口県
 Rootage,EVANESCENT,1252,MI-OH?,山口県,2280,SYOBOY,山口県,3425,⏧,山口県
 Rootage,Ember Lights,932,ESPRIT,山口県,1595,MI-OH?,山口県,2667,⏧,山口県
 Rootage,DRUNK MONKY,968,INUPAN,山口県,1567,⏧,山口県,2229,⏧,山口県
 Rootage,Drastic Dramatic,1523,CPU-Z.,山口県,2388,⏧,山口県,3392,TOUYA,山口県
 Rootage,Dr. Chemical & Killing Machine,1090,A.OUT,山口県,1865,⏧,山口県,3267,GOGO!,山口県
 Rootage,Digital Skipper,988,MI-OH?,山口県,1533,SYOBOY,山口県,2194,⏧,山口県
-Rootage,dAuntl3ss,1055,KAYA,山口県,1976,⏧,山口県,3394,TOUYA,山口県
+Rootage,dAuntl3ss,1055,K,山口県,1976,⏧,山口県,3394,TOUYA,山口県
 Rootage,Cranberry City ft. Luschel,834,MI-OH?,山口県,1547,MI-OH?,山口県,2349,⏧,山口県
 Rootage,CoMAAAAAAA,1219,R3,山口県,2061,CUVEX,山口県,2362,⏧,山口県
 Rootage,Catch Our Fire!,1351,MI-OH?,山口県,2283,⏧,山口県,3576,GOGO!,山口県
-Rootage,Carmina,1239,KAYA,山口県,2381,⏧,山口県,3540,GOGO!,山口県
+Rootage,Carmina,1239,K,山口県,2381,⏧,山口県,3540,GOGO!,山口県
 Rootage,BLOSSOM,1062,A.OUT,山口県,1602,SYOBOY,山口県,2493,⏧,山口県
 Rootage,Angels & Demons,913,MI-OH?,山口県,1722,SYOBOY,山口県,2392,GOGO!,山口県
 Rootage,AGAiN,990,MI-OH?,山口県,1564,SYOBOY,山口県,2278,⏧,山口県
 Rootage,A Tale Hidden In The Abyss,934,A.OUT,山口県,1674,SVOC,山口県,2583,⏧,山口県
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1210,SIGEL,山口県,1614,SYOBOY,山口県,2573,⏧,山口県
 Rootage,50th Memorial Songs -The BEMANI History-,1053,VELIER,山口県,1619,MI-OH?,山口県,2587,⏧,山口県
-Rootage,50th Memorial Songs -Flagship medley-,929,MI-OH?,山口県,1470,KAYA,山口県,2232,⏧,山口県
-Rootage,50th Memorial Songs -Beginning Story-,806,KAYA,山口県,1634,MI-OH?,山口県,2651,TOUYA,山口県
+Rootage,50th Memorial Songs -Flagship medley-,929,MI-OH?,山口県,1470,K,山口県,2232,⏧,山口県
+Rootage,50th Memorial Songs -Beginning Story-,806,K,山口県,1634,MI-OH?,山口県,2651,TOUYA,山口県
