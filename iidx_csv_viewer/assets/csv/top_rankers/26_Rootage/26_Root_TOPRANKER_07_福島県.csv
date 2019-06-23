@@ -61,7 +61,7 @@
 5th style,THE CUBE,671,AURA,福島県,1241,MEIZUI,福島県,1350,KOME-S,福島県
 5th style,sync,1054,WRC,福島県,1630,AURA,福島県,2342,NORIA,福島県
 5th style,still my words,447,HARYU,福島県,1229,KOME-S,福島県,0,,未設定
-5th style,STILL IN MY HEART,964,JERVIS,福島県,1301,*HAMU*,福島県,1885,NORIA,福島県
+5th style,STILL IN MY HEART,964,JERVIS,福島県,1310,XWHW73,福島県,1885,NORIA,福島県
 5th style,Spin the disc,749,AURA,福島県,1188,WYSE,福島県,1327,KOME-S,福島県
 5th style,RISLIM,794,AURA,福島県,1224,KOME-S,福島県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1794,KOME-S,福島県
@@ -132,7 +132,7 @@
 8th style,LAB,1002,MO,福島県,1998,KOME-S,福島県,2086,TOSH,福島県
 8th style,HYPER BOUNDARY GATE,1183,AURA,福島県,1778,PICO*N,福島県,2182,SECIL,福島県
 8th style,Halfway of promise,953,SO-DA4,福島県,1493,SO-DA4,福島県,1775,KOME-S,福島県
-8th style,Giudecca,838,AURA,福島県,1741,*HAMU*,福島県,2645,UDON-F,福島県
+8th style,Giudecca,838,AURA,福島県,1830,SONO-D,福島県,2645,UDON-F,福島県
 8th style,dual control,716,AURA,福島県,1314,*HAMU*,福島県,1879,UDON-F,福島県
 8th style,Colors -Y&Co. Eurobeat Remix-,1089,AURA,福島県,2010,KOME-S,福島県,2169,KOME-S,福島県
 8th style,CELEBRATE NITE,853,AURA,福島県,1147,KOME-S,福島県,1416,KOME-S,福島県
@@ -141,7 +141,7 @@
 8th style,Attitude,1035,SO-DA4,福島県,1408,SO-DA4,福島県,1737,KOME-S,福島県
 8th style,ALL RIGHT,844,WRC,福島県,1234,WRC,福島県,1610,KOME-S,福島県
 8th style,airflow,573,SO-DA4,福島県,784,SO-DA4,福島県,1422,SO-DA4,福島県
-8th style,abstract,1184,AURA,福島県,1605,KOME-S,福島県,1886,KOME-S,福島県
+8th style,abstract,1199,OSS!,福島県,1605,KOME-S,福島県,1886,KOME-S,福島県
 9th style,真夏の花・真夏の夢,796,AURA,福島県,799,B,福島県,1467,KOME-S,福島県
 9th style,ライオン好き,616,AURA,福島県,1137,WYSE,福島県,1496,KOME-S,福島県
 9th style,SWEETEST SAVAGE,655,RUNO,福島県,1342,SO-DA4,福島県,1825,UDON-F,福島県
@@ -158,7 +158,7 @@
 9th style,moon_child,989,WRC,福島県,1982,KOME-S,福島県,2466,KOME-S,福島県
 9th style,MARIA (I believe... ),706,AURA,福島県,1425,JERVIS,福島県,1926,KOME-S,福島県
 9th style,Make A Difference,804,AURA,福島県,1347,2.TA!!,福島県,2174,SECIL,福島県
-9th style,lower world,1308,ZRRD,福島県,1825,SONO-D,福島県,2197,NORIA,福島県
+9th style,lower world,1308,ZRRD,福島県,1843,XWHW73,福島県,2197,NORIA,福島県
 9th style,LOVE SHINE,567,KIRYU,福島県,1757,SONO-D,福島県,2077,NORIA,福島県
 9th style,lights,650,MAY.7,福島県,1442,NORIA,福島県,1769,KOME-S,福島県
 9th style,Let The Snow Paint Me -Y&Co. Remix-,786,AURA,福島県,1126,AURA,福島県,1797,UDON-F,福島県
@@ -246,7 +246,7 @@ HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),105
 HAPPY SKY,冥,1049,MEIZUI,福島県,2010,YOSHI,福島県,3766,UDON-F,福島県
 HAPPY SKY,ラクエン,507,AURA,福島県,832,AURA,福島県,1943,UDON-F,福島県
 HAPPY SKY,ヒマワリ,451,MP420,福島県,1809,XWHW73,福島県,2062,NORIA,福島県
-HAPPY SKY,オレはビートマニア！お前は何マニア？,495,SU932,福島県,1403,SILK-M,福島県,1689,KOME-S,福島県
+HAPPY SKY,オレはビートマニア！お前は何マニア？,568,RAIRAC,福島県,1403,SILK-M,福島県,1689,KOME-S,福島県
 HAPPY SKY,Xepher,1090,WRC,福島県,2050,SONO-D,福島県,2943,KOME-S,福島県
 HAPPY SKY,We are Disっ娘よっつ打ち命,616,1SUM1,福島県,956,*HAMU*,福島県,1662,UDON-F,福島県
 HAPPY SKY,Votum stellarum,732,AURA,福島県,1522,PICO*N,福島県,1973,KOME-S,福島県
@@ -367,8 +367,8 @@ GOLD,CROSSROAD ～Left Story～,1092,OKASHI,福島県,1750,SO-DA4,福島県,2186
 GOLD,CaptivAte～誓い～,1190,AURA,福島県,1927,SONO-D,福島県,2238,KOME-S,福島県
 GOLD,CaptivAte～裁き～,804,AURA,福島県,1237,XWHW73,福島県,1773,KOME-S,福島県
 GOLD,Candy Galy,1460,AURA,福島県,2465,XWHW73,福島県,3499,UDON-F,福島県
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1293,WYSE,福島県,1873,XWHW73,福島県,2464,UDON-F,福島県
-GOLD,ANDROMEDA II,939,AURA,福島県,1826,XWHW73,福島県,2466,UDON-F,福島県
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1293,WYSE,福島県,1873,XWHW73,福島県,2466,NORIA,福島県
+GOLD,ANDROMEDA II,939,AURA,福島県,1840,SONO-D,福島県,2466,UDON-F,福島県
 GOLD,Air Bell,931,AURA,福島県,1230,AURA,福島県,1719,KOME-S,福島県
 DJ TROOPERS,走馬灯 -The Last Song-,474,AURA,福島県,863,AAAAAA,福島県,1344,KOME-S,福島県
 DJ TROOPERS,華爛漫 -Flowers-,968,MAR,福島県,1538,XWHW73,福島県,2031,KOME-S,福島県
@@ -385,7 +385,7 @@ DJ TROOPERS,the trigger of innocence,832,AURA,福島県,1155,WRC,福島県,1846,
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3380,UDON-F,福島県
 DJ TROOPERS,THE DEEP STRIKER,1004,AURA,福島県,2029,SONO-D,福島県,2981,UDON-F,福島県
 DJ TROOPERS,switch,554,NOGMAX,福島県,1391,310,福島県,2062,KOME-S,福島県
-DJ TROOPERS,STEEL NEEDLE,1064,AURA,福島県,1933,TAI,福島県,2439,UDON-F,福島県
+DJ TROOPERS,STEEL NEEDLE,1064,AURA,福島県,2007,SONO-D,福島県,2439,UDON-F,福島県
 DJ TROOPERS,State Of The Art,1049,AURA,福島県,1504,REA*,福島県,3048,KOME-S,福島県
 DJ TROOPERS,SOUND OF GIALLARHORN,1256,HONOKA,福島県,2664,YOSHI,福島県,3224,KOME-S,福島県
 DJ TROOPERS,scar in the earth,480,AAIOSW,福島県,1005,AURA,福島県,1510,KOME-S,福島県
@@ -550,7 +550,7 @@ Resort Anthem,sakura storm,1022,WRC,福島県,1263,XWHW73,福島県,2353,NORIA,�
 Resort Anthem,Sakura Reflection,447,NIGI,福島県,1574,AUTO,福島県,2348,KOME-S,福島県
 Resort Anthem,SABER WING,544,TOSH,福島県,1753,PICO*N,福島県,2810,UDON-F,福島県
 Resort Anthem,Rock Da House,865,AURA,福島県,1565,000000,福島県,2220,KOME-S,福島県
-Resort Anthem,reunion,1340,-SILP-,福島県,2336,YOSHI,福島県,3183,UDON-F,福島県
+Resort Anthem,reunion,1340,-SILP-,福島県,2341,BMWZ4,福島県,3183,UDON-F,福島県
 Resort Anthem,Programmed Life,1028,AURA,福島県,1606,SHIN,福島県,2329,NORIA,福島県
 Resort Anthem,perditus†paradisus,1134,AAAAAA,福島県,2421,LAUREN,福島県,3852,UDON-F,福島県
 Resort Anthem,passionate fate,871,IIDX26,福島県,1517,WYSE,福島県,2135,UDON-F,福島県
@@ -569,7 +569,7 @@ Resort Anthem,Eternal Tears,443,WRC,福島県,1094,*HAMU*,福島県,1369,KOME-S,
 Resort Anthem,Energy Drive,721,MOKA,福島県,1381,*HAMU*,福島県,2165,NORIA,福島県
 Resort Anthem,ELECTRIC MASSIVE DIVER,1269,AURA,福島県,2271,MONAKA,福島県,3597,NORIA,福島県
 Resort Anthem,DM STAR～関西 energy style～,1049,ZRRD,福島県,1815,AOI.K,福島県,2374,NORIA,福島県
-Resort Anthem,Destiny Sword,858,AURA,福島県,1725,XWHW73,福島県,2367,KOME-S,福島県
+Resort Anthem,Destiny Sword,858,AURA,福島県,1749,ABPAN,福島県,2367,KOME-S,福島県
 Resort Anthem,DAYDREAMER,1141,ARCO,福島県,1762,KOME-S,福島県,2520,KOME-S,福島県
 Resort Anthem,Dances with Snow Fairies,1272,AURA,福島県,2214,YOSHI,福島県,3073,UDON-F,福島県
 Resort Anthem,BROKEN EDEN,1035,REA*,福島県,1647,ERIS,福島県,2306,SECIL,福島県
@@ -689,7 +689,7 @@ tricoro,STULTI,749,ZRRD,福島県,1533,TA28,福島県,2736,UDON-F,福島県
 tricoro,Sol Cosine Job 2,1037,AURA,福島県,1674,SONO-D,福島県,3128,UDON-F,福島県
 tricoro,SHION,645,AURA,福島県,1304,SO-DA4,福島県,2696,KOME-S,福島県
 tricoro,Shining World,1166,AURA,福島県,1569,REA*,福島県,1943,UDON-F,福島県
-tricoro,Saturn,1264,AURA,福島県,1852,SILK-M,福島県,2561,SECIL,福島県
+tricoro,Saturn,1264,AURA,福島県,1852,SILK-M,福島県,2588,NORIA,福島県
 tricoro,S!ck,877,AURA,福島県,1522,*HAMU*,福島県,2647,TOSH,福島県
 tricoro,rumrum triplets,941,WRC,福島県,1897,SONO-D,福島県,3011,UDON-F,福島県
 tricoro,Re:GENERATION,900,AURA,福島県,1473,082THK,福島県,2222,KOME-S,福島県
@@ -708,7 +708,7 @@ tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2758,TOSH,福島県
 tricoro,LUV CAN SAVE U,553,NOGMAX,福島県,1408,POLKA,福島県,2121,UDON-F,福島県
 tricoro,Little Star,931,AURA,福島県,1696,*HAMU*,福島県,3101,TOSH,福島県
 tricoro,Light and Cyber…,985,MAY.7,福島県,1935,SONO-D,福島県,3058,NORIA,福島県
-tricoro,Liberation,1253,DAIKI,福島県,2325,5LBATT,福島県,3650,NORIA,福島県
+tricoro,Liberation,1253,DAIKI,福島県,2325,5LBATT,福島県,3659,UDON-F,福島県
 tricoro,JOMANDA,1031,MAQA,福島県,2135,SONO-D,福島県,3643,UDON-F,福島県
 tricoro,In Heaven,767,WRC,福島県,1459,*HAMU*,福島県,2120,KOME-S,福島県
 tricoro,Illegal Function Call,960,AURA,福島県,1790,SO-DA4,福島県,2552,TOSH,福島県
@@ -727,7 +727,7 @@ tricoro,Devilz Staircase,462,NYU,福島県,2079,SONO-D,福島県,3271,UDON-F,福
 tricoro,DAY DREAM,549,SECIL,福島県,1188,SIN,福島県,1995,UDON-F,福島県
 tricoro,Cookie Bouquets,834,AURA,福島県,2068,SONO-D,福島県,3361,TOSH,福島県
 tricoro,connective,385,AAAAAA,福島県,1088,M,福島県,1592,KOME-S,福島県
-tricoro,Confiserie,920,AURA,福島県,1987,YOSHI,福島県,3508,UDON-F,福島県
+tricoro,Confiserie,920,AURA,福島県,1988,SONO-D,福島県,3508,UDON-F,福島県
 tricoro,CONCEPTUAL,798,AURA,福島県,1303,*HAMU*,福島県,2668,KOME-S,福島県
 tricoro,BRAVE GLOW,805,PONKOT,福島県,1610,*HAMU*,福島県,2469,NORIA,福島県
 tricoro,BLUE STRAGGLER,794,AURA,福島県,1445,XWHW73,福島県,2533,SECIL,福島県
@@ -824,7 +824,7 @@ PENDUAL,鬼天,956,AURA,福島県,1485,SONO-D,福島県,2385,TOSH,福島県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,4015,UDON-F,福島県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,1018,24ASKA,福島県,2022,SO-DA4,福島県,2664,NORIA,福島県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1082,AURA,福島県,2117,YOSHI,福島県,3497,UDON-F,福島県
-PENDUAL,紅牡丹,1008,AURA,福島県,1790,SO-DA4,福島県,2816,UDON-F,福島県
+PENDUAL,紅牡丹,1008,AURA,福島県,1790,SO-DA4,福島県,2833,UDON-F,福島県
 PENDUAL,白露の風,471,DD,福島県,1168,*HAMU*,福島県,2020,KOME-S,福島県
 PENDUAL,時空トラベローグ,1063,AURA,福島県,1658,2.TA!!,福島県,2635,TOSH,福島県
 PENDUAL,打打打打打打打打打打,766,AURA,福島県,1344,XWHW73,福島県,2596,KOME-S,福島県
@@ -852,7 +852,7 @@ PENDUAL,TOXIC VIBRATION,1479,DAIFU9,福島県,2312,SONO-D,福島県,3750,UDON-F,
 PENDUAL,TIEFSEE,1214,AURA,福島県,2093,XWHW73,福島県,3384,LAUREN,福島県
 PENDUAL,The Least 100sec,734,AAAAAA,福島県,1360,*HAMU*,福島県,2789,BMWZ4,福島県
 PENDUAL,TA・DA ☆ YO・SHI,1108,WRC,福島県,1595,XWHW73,福島県,2301,KOME-S,福島県
-PENDUAL,Symmetry,1128,WRC,福島県,1998,REI,福島県,3187,LAUREN,福島県
+PENDUAL,Symmetry,1128,WRC,福島県,2045,YOSHI,福島県,3203,UDON-F,福島県
 PENDUAL,Sweet Radar,673,SO-DA4,福島県,1372,SO-DA4,福島県,2026,KOME-S,福島県
 PENDUAL,SpaceLand☆TOYBOX,779,SUDATI,福島県,1656,SONO-D,福島県,2903,UDON-F,福島県
 PENDUAL,Sounds Of Summer,1214,MINO,福島県,1978,SONO-D,福島県,2920,LAUREN,福島県
@@ -882,7 +882,7 @@ PENDUAL,illuminate,601,AURA,福島県,1477,SONO-D,福島県,2287,SO-DA4,福島�
 PENDUAL,Hello Happiness,868,AURA,福島県,1605,SONO-D,福島県,2307,UDON-F,福島県
 PENDUAL,HELL SCAPER -Last Escape Remix-,943,AURA,福島県,1688,SONO-D,福島県,2825,UDON-F,福島県
 PENDUAL,GUILTY,931,WRC,福島県,1407,ERIS,福島県,1872,KOME-S,福島県
-PENDUAL,Gravigazer,898,AURA,福島県,1730,REI,福島県,2898,UDON-F,福島県
+PENDUAL,Gravigazer,898,AURA,福島県,1743,SONO-D,福島県,2898,UDON-F,福島県
 PENDUAL,Flashes,938,AURA,福島県,1747,SONO-D,福島県,3254,UDON-F,福島県
 PENDUAL,FANTASTIC THREE,1272,AURA,福島県,2142,SONO-D,福島県,3086,UDON-F,福島県
 PENDUAL,fallen leaves -IIDX edition-,1133,AURA,福島県,2026,YOSHI,福島県,3230,BMWZ4,福島県
@@ -920,7 +920,7 @@ copula,紫陽花 -AZISAI-,1225,WRC,福島県,1999,REI,福島県,2822,UDON-F,福�
 copula,真 地獄超特急 -HELL or HELL-,1327,AURA,福島県,2135,AOI.K,福島県,3154,UDON-F,福島県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),1235,AAAAAA,福島県,1843,PICO*N,福島県,2503,TOSH,福島県
 copula,灼熱 Pt.2 Long Train Running,1315,KOME-S,福島県,2060,BMWZ4,福島県,3107,UDON-F,福島県
-copula,朝焼けから始まるボクらの小さな旅,909,AURA,福島県,1533,SHIN,福島県,2448,KOME-S,福島県
+copula,朝焼けから始まるボクらの小さな旅,909,AURA,福島県,1533,SHIN,福島県,2458,UDON-F,福島県
 copula,星屑ディスタンシア,651,AURA,福島県,1130,ZIV,福島県,2086,KOME-S,福島県
 copula,明鏡止水,848,ZIV,福島県,1778,REI,福島県,2746,KOME-S,福島県
 copula,少女アリスと箱庭幻想コンチェルト,740,AURA,福島県,1411,SILK-M,福島県,2096,KOME-S,福島県
@@ -960,7 +960,7 @@ copula,On the FM,1097,AURA,福島県,1585,*HAMU*,福島県,2773,UDON-F,福島県
 copula,NZM,1022,AURA,福島県,1597,KOME-S,福島県,3398,UDON-F,福島県
 copula,Nowhere,841,SO-DA4,福島県,1373,SILK-M,福島県,2156,KOME-S,福島県
 copula,NO LIMIT -オレ達に限界は無い-,783,AURA,福島県,1221,*HAMU*,福島県,2252,KOME-S,福島県
-copula,NINJA IS DEAD IIDX ver.,1181,ZIV,福島県,1795,SHIN,福島県,2974,UDON-F,福島県
+copula,NINJA IS DEAD IIDX ver.,1181,ZIV,福島県,1822,SONO-D,福島県,2974,UDON-F,福島県
 copula,Nightmare before oversleep,1163,MONAKA,福島県,1857,TA28,福島県,2948,UDON-F,福島県
 copula,NANAIRO,997,AURA,福島県,1767,SONO-D,福島県,2542,KOME-S,福島県
 copula,Musik LoverZ,1070,REA*,福島県,1425,SO-DA4,福島県,2443,KOME-S,福島県
@@ -986,7 +986,7 @@ copula,DIAMOND CROSSING,911,JERVIS,福島県,1722,YOSHI,福島県,3058,UDON-F,�
 copula,Devil's Gear,1031,AURA,福島県,2171,POLKA,福島県,3418,UDON-F,福島県
 copula,Derelict Star feat. Ryu*,1352,ZIV,福島県,1716,MKNEKO,福島県,2573,BMWZ4,福島県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2276,KOME-S,福島県
-copula,Damage Per Second,874,WRC,福島県,1371,*HAMU*,福島県,2036,UDON-F,福島県
+copula,Damage Per Second,874,WRC,福島県,1371,*HAMU*,福島県,2037,KOME-S,福島県
 copula,Daily Lunch Special,1062,ZIV,福島県,2058,XWHW73,福島県,2932,UDON-F,福島県
 copula,CODE:1 [revision1.0.1],875,IIDX25,福島県,1660,SONO-D,福島県,3011,TOSH,福島県
 copula,chaos eater -IIDX edition-,1083,ZIV,福島県,1650,SONO-D,福島県,2616,UDON-F,福島県
@@ -1056,12 +1056,12 @@ SINOBUZ,Piano Samurai,1045,AAAAAA,福島県,1665,SONO-D,福島県,2450,NORIA,福
 SINOBUZ,PAPAYAPA BASS,767,AURA,福島県,1516,XWHW73,福島県,2756,TOSH,福島県
 SINOBUZ,OTENAMI Hurricane,1252,MINO,福島県,2100,XWHW73,福島県,3089,UDON-F,福島県
 SINOBUZ,OOO,668,JO*KUN,福島県,1431,*HAMU*,福島県,2051,KOME-S,福島県
-SINOBUZ,nostos,841,AURA,福島県,1277,*HAMU*,福島県,2561,UDON-F,福島県
+SINOBUZ,nostos,841,AURA,福島県,1292,SILK-M,福島県,2561,UDON-F,福島県
 SINOBUZ,Music is The Answer,751,AAAAAA,福島県,1358,SONO-D,福島県,1892,KOME-S,福島県
 SINOBUZ,Modular Technology,1180,AURA,福島県,1867,SONO-D,福島県,2614,UDON-F,福島県
 SINOBUZ,Mare Nectaris,1360,JO*KUN,福島県,2100,TOSH,福島県,3695,UDON-F,福島県
 SINOBUZ,Magical,780,AURA,福島県,1192,SO-DA4,福島県,1995,UDON-F,福島県
-SINOBUZ,Macuilxochitl,1258,ZIV,福島県,2219,YOSHI,福島県,3306,UDON-F,福島県
+SINOBUZ,Macuilxochitl,1447,XWHW73,福島県,2219,YOSHI,福島県,3306,UDON-F,福島県
 SINOBUZ,Lost wing at.0,894,AURA,福島県,1344,SONO-D,福島県,2383,TOSH,福島県
 SINOBUZ,INVISIBLE STRIX,1107,ZIV,福島県,1991,COLA,福島県,2595,TOSH,福島県
 SINOBUZ,Honey Trap,812,ZIV,福島県,1566,XWHW73,福島県,2501,TOSH,福島県
@@ -1069,7 +1069,7 @@ SINOBUZ,HAPPY★RUSH,758,AAAAAA,福島県,1843,SONO-D,福島県,2859,TOSH,福島
 SINOBUZ,HADES,978,WRC,福島県,1760,TKRU,福島県,3007,UDON-F,福島県
 SINOBUZ,GuNGNiR,1294,SASAYU,福島県,2540,NEKONE,福島県,3909,UDON-F,福島県
 SINOBUZ,Go Ahead!!,943,AAAAAA,福島県,1551,BMWZ4,福島県,2714,UDON-F,福島県
-SINOBUZ,FUZIN RIZIN,1152,4Y4S4K,福島県,1940,XWHW73,福島県,3640,BMWZ4,福島県
+SINOBUZ,FUZIN RIZIN,1152,4Y4S4K,福島県,1940,XWHW73,福島県,3689,NORIA,福島県
 SINOBUZ,elemental bender feat. Kanae Asaba,618,AURA,福島県,1179,SO-DA4,福島県,1631,KOME-S,福島県
 SINOBUZ,Egret and Willow,989,ZIV,福島県,1660,UDON-F,福島県,2699,TOSH,福島県
 SINOBUZ,ECHIDNA,1243,AURA,福島県,1997,YOSHI,福島県,3362,UDON-F,福島県
@@ -1093,7 +1093,7 @@ SINOBUZ,AO-∞,1113,ZIV,福島県,1765,SONO-D,福島県,2659,KOME-S,福島県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3173,TOSH,福島県
 SINOBUZ,Amazing Mirage,869,AURA,福島県,1721,XWHW73,福島県,2588,TOSH,福島県
 SINOBUZ,Affection,594,AAAAAA,福島県,1190,*HAMU*,福島県,2061,KOME-S,福島県
-SINOBUZ,(This Is Not) The Angels,597,KOME-S,福島県,1408,SECIL,福島県,2660,SO-DA4,福島県
+SINOBUZ,(This Is Not) The Angels,597,KOME-S,福島県,1408,SECIL,福島県,2680,UDON-F,福島県
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,1135,ZIV,福島県,1972,SO-DA4,福島県,3415,UDON-F,福島県
 SINOBUZ,!Viva!,925,AURA,福島県,1578,XWHW73,福島県,1985,SO-DA4,福島県
 CANNON BALLERS,草原の王女-軌跡を辿って-,681,ZIV-L,福島県,1169,XWHW73,福島県,2290,KOME-S,福島県
@@ -1142,7 +1142,7 @@ CANNON BALLERS,Mira,905,AURA,福島県,1836,XWHW73,福島県,3052,UDON-F,福島�
 CANNON BALLERS,Midnight Lady,622,AAAAAA,福島県,1178,SO-DA4,福島県,1939,KOME-S,福島県
 CANNON BALLERS,LUV DRIVE,798,AAAAAA,福島県,1299,*HAMU*,福島県,2107,KOME-S,福島県
 CANNON BALLERS,LIGHTS ft. EVO+,737,ZIV,福島県,1345,ZIV,福島県,2327,SECIL,福島県
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1224,ZIV,福島県,1751,SILK-M,福島県,3418,UDON-F,福島県
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1224,ZIV,福島県,1868,ABPAN,福島県,3418,UDON-F,福島県
 CANNON BALLERS,Initiation,1441,XWHW73,福島県,2443,SO-DA4,福島県,3910,UDON-F,福島県
 CANNON BALLERS,Illusionary Waterlily,1238,ZRRD,福島県,2142,YOSHI,福島県,3496,UDON-F,福島県
 CANNON BALLERS,I'm Coming (2017 Version),618,AAAAAA,福島県,1271,*HAMU*,福島県,2069,KOME-S,福島県
@@ -1178,7 +1178,7 @@ CANNON BALLERS,Around the Future,1022,AURA,福島県,1658,SONO-D,福島県,2573,
 CANNON BALLERS,Arca,904,AAAAAA,福島県,1768,SILK-M,福島県,3067,UDON-F,福島県
 CANNON BALLERS,Antigravity,1014,ZIV,福島県,1910,YOSHI,福島県,3037,UDON-F,福島県
 CANNON BALLERS,ANCHOR,1301,ZIV,福島県,2418,YOSHI,福島県,3563,UDON-F,福島県
-CANNON BALLERS,ANAGMA,975,AAAAAA,福島県,1758,SONO-D,福島県,2569,NORIA,福島県
+CANNON BALLERS,ANAGMA,977,178UA-,福島県,1758,SONO-D,福島県,2569,NORIA,福島県
 CANNON BALLERS,Amor De Verao,788,SO-DA4,福島県,1425,UDON-F,福島県,2298,KOME-S,福島県
 CANNON BALLERS,Alpheratz,425,ZIV,福島県,1024,*HAMU*,福島県,2083,KOME-S,福島県
 CANNON BALLERS,Acidiva 303,794,WRC,福島県,1321,WYSE,福島県,2285,NORIA,福島県
@@ -1214,7 +1214,7 @@ Rootage,ToyCube Pf.(RX-Ver.S.P.L.),746,*HAMU*,福島県,1537,*HAMU*,福島県,22
 Rootage,The Rebellion of Sequencer,1252,SO-DA4,福島県,2036,UDON-F,福島県,3075,UDON-F,福島県
 Rootage,THE DAY OF JUBILATIONS,1554,SO-DA4,福島県,2432,UDON-F,福島県,3397,UDON-F,福島県
 Rootage,The Best of Both Worlds,602,WRC,福島県,1405,SO-DA4,福島県,2182,KOME-S,福島県
-Rootage,Technicolour Dreams,933,MEIZUI,福島県,1397,REA*,福島県,2385,UDON-F,福島県
+Rootage,Technicolour Dreams,933,MEIZUI,福島県,1433,MEIZUI,福島県,2385,UDON-F,福島県
 Rootage,Starry Night,928,SO-DA4,福島県,1664,SO-DA4,福島県,2501,TOSH,福島県
 Rootage,SPEED ROCKER,922,SO-DA4,福島県,1712,SO-DA4,福島県,2265,TOSH,福島県
 Rootage,SIGMA,841,WRC,福島県,1550,SO-DA4,福島県,2639,TOSH,福島県
@@ -1250,7 +1250,7 @@ Rootage,Ember Lights,967,SO-DA4,福島県,1649,SO-DA4,福島県,2668,SO-DA4,福�
 Rootage,DRUNK MONKY,1025,SO-DA4,福島県,1610,KOME-S,福島県,2278,UDON-F,福島県
 Rootage,Drastic Dramatic,1560,SO-DA4,福島県,2439,UDON-F,福島県,3466,UDON-F,福島県
 Rootage,Dr. Chemical & Killing Machine,1117,SO-DA4,福島県,1894,UDON-F,福島県,3332,UDON-F,福島県
-Rootage,Digital Skipper,999,SO-DA4,福島県,1585,SO-DA4,福島県,2217,KOME-S,福島県
+Rootage,Digital Skipper,999,SO-DA4,福島県,1585,SO-DA4,福島県,2225,UDON-F,福島県
 Rootage,dAuntl3ss,1079,SO-DA4,福島県,2001,TOSH,福島県,3412,TOSH,福島県
 Rootage,Cranberry City ft. Luschel,858,WRC,福島県,1606,SO-DA4,福島県,2411,UDON-F,福島県
 Rootage,CoMAAAAAAA,1252,SO-DA4,福島県,2108,SO-DA4,福島県,2392,UDON-F,福島県

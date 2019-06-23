@@ -1,1 +1,1 @@
-window.lastGetDate = '6/22(土) 15:03頃';
+window.lastGetDate = '6/23(日) 23:05頃';
