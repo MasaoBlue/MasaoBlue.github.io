@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,901,GIGLIO,鳥取県,1748,S0-NYA,鳥取県,0,,未設定
 3rd style,Tangerine Stream,111,AAA,鳥取県,167,S,鳥取県,0,,未設定
 3rd style,Skyscraper,258,DARCY,鳥取県,0,,未設定,1199,53KING,鳥取県
-3rd style,Schlagwerk,777,DIST,鳥取県,1246,XAN8,鳥取県,1655,#MA3#,鳥取県
+3rd style,Schlagwerk,777,DIST,鳥取県,1246,GONCHA,鳥取県,1655,#MA3#,鳥取県
 3rd style,REINCARNATION,822,KI9TU2,鳥取県,956,BON,鳥取県,1226,53KING,鳥取県
 3rd style,R5,550,MISAKA,鳥取県,1079,REL,鳥取県,1729,53KING,鳥取県
 3rd style,Presto,446,NAGI.,鳥取県,845,RAY$,鳥取県,990,VIOLA.,鳥取県
@@ -40,7 +40,7 @@
 4th style,minimalian,171,AAA,鳥取県,798,KUTUGN,鳥取県,1242,Y-CHA,鳥取県
 4th style,LOVE WILL・・・,396,SHO,鳥取県,671,XULSOS,鳥取県,1438,S0-NYA,鳥取県
 4th style,KAMIKAZE,779,GIGLIO,鳥取県,1217,PUYO-M,鳥取県,2281,S0-NYA,鳥取県
-4th style,Jam&Marmalade,742,XAN8,鳥取県,738,DONNMA,鳥取県,945,LIGHT,鳥取県
+4th style,Jam&Marmalade,742,GONCHA,鳥取県,738,DONNMA,鳥取県,945,LIGHT,鳥取県
 4th style,Hitch Hiker2,0,,未設定,1179,VIOLA.,鳥取県,1289,S0-NYA,鳥取県
 4th style,HIGHER,233,MOOTY,鳥取県,0,,未設定,1239,53KING,鳥取県
 4th style,FLOWERS for ALBION,0,,未設定,427,53KING,鳥取県,0,,未設定
@@ -53,7 +53,7 @@
 4th style,Burnin' The Floor,238,K874,鳥取県,699,GIGLIO,鳥取県,1414,53KING,鳥取県
 4th style,Broken My Heart,303,GORO56,鳥取県,1373,Y.Y,鳥取県,1792,S0-NYA,鳥取県
 4th style,B4U,642,HYO,鳥取県,1390,GURAN,鳥取県,1960,333,鳥取県
-4th style,ABSOLUTE†,0,,未設定,0,,未設定,2665,VIOLA.,鳥取県
+4th style,ABSOLUTE†,0,,未設定,0,,未設定,2703,VIOLA.,鳥取県
 4th style,ABSOLUTE,1050,KUTUGN,鳥取県,1657,KAME,鳥取県,2261,UMA1BO,鳥取県
 4th style,250bpm,477,JAEIL,鳥取県,888,DONNMA,鳥取県,1390,DEBU**,鳥取県
 5th style,V,1184,SALOON,鳥取県,2477,VIOLA.,鳥取県,2954,VIOLA.,鳥取県
@@ -115,7 +115,7 @@
 7th style,A,827,JAEIL,鳥取県,1938,RYO.,鳥取県,2406,VIOLA.,鳥取県
 8th style,蒼い衝動,150,JACK07,鳥取県,1229,N-AZ0*,鳥取県,1580,VIOLA.,鳥取県
 8th style,桜,950,KI9TU2,鳥取県,1417,HL.NIA,鳥取県,2048,VIOLA.,鳥取県
-8th style,xenon,259,NAOAD2,鳥取県,1672,333,鳥取県,2685,VIOLA.,鳥取県
+8th style,xenon,440,JAEIL,鳥取県,1672,333,鳥取県,2685,VIOLA.,鳥取県
 8th style,World Wide Love,301,AAA,鳥取県,765,BOOK0F,鳥取県,1081,DEBU**,鳥取県
 8th style,WAR GAME,565,JACK07,鳥取県,1367,DONNMA,鳥取県,2118,VIOLA.,鳥取県
 8th style,thunder,1102,345.T,鳥取県,1401,BON,鳥取県,1832,S0-NYA,鳥取県
@@ -125,7 +125,7 @@
 8th style,PLEASE DON'T GO,716,IGO,鳥取県,1246,KOITSU,鳥取県,2357,333,鳥取県
 8th style,MUSIC TO YOUR HEAD,821,VIOLA.,鳥取県,1181,DONNMA,鳥取県,1653,S0-NYA,鳥取県
 8th style,murmur twins,0,,未設定,1592,333,鳥取県,2346,VIOLA.,鳥取県
-8th style,Monkey Dance,467,SHO,鳥取県,1227,BON,鳥取県,1937,53KING,鳥取県
+8th style,Monkey Dance,467,SHO,鳥取県,1227,BON,鳥取県,1945,#MA3#,鳥取県
 8th style,memories,849,RANK00,鳥取県,2035,VIOLA.,鳥取県,2200,VIOLA.,鳥取県
 8th style,Luv 2 Feel Your Body,393,JACK07,鳥取県,949,X-RAY,鳥取県,1603,VIOLA.,鳥取県
 8th style,LOVE IS ORANGE,709,FUTA-B,鳥取県,880,2-MAS*,鳥取県,1768,DEBU**,鳥取県
@@ -219,7 +219,7 @@ IIDX RED,Sphere,767,GIGLIO,鳥取県,1884,333,鳥取県,2116,53KING,鳥取県
 IIDX RED,SPEEDY CAT,669,SIBA,鳥取県,1557,RAY$,鳥取県,2008,VIOLA.,鳥取県
 IIDX RED,Secret of Love,507,SIBA,鳥取県,997,FRAN,鳥取県,2002,S0-NYA,鳥取県
 IIDX RED,RESONATE 1794,779,RANK00,鳥取県,1413,HL.NIA,鳥取県,1809,S0-NYA,鳥取県
-IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2922,XAN8,鳥取県
+IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2922,GONCHA,鳥取県
 IIDX RED,RED ZONE,815,JAEIL,鳥取県,1745,ES,鳥取県,2290,VIOLA.,鳥取県
 IIDX RED,Raspberry Heart(English version),997,POCOPI,鳥取県,1409,DICE-K,鳥取県,1773,KI9TU2,鳥取県
 IIDX RED,NEBULA GRASPER,757,DIRGE,鳥取県,1936,333,鳥取県,2383,53KING,鳥取県
@@ -367,7 +367,7 @@ GOLD,CROSSROAD ～Left Story～,1024,FUTA-B,鳥取県,1698,N34R.S,鳥取県,2175
 GOLD,CaptivAte～誓い～,1071,GIGLIO,鳥取県,1825,Y.Y,鳥取県,2223,S0-NYA,鳥取県
 GOLD,CaptivAte～裁き～,693,GIGLIO,鳥取県,1187,RAY$,鳥取県,1719,53KING,鳥取県
 GOLD,Candy Galy,1241,XULSOS,鳥取県,2496,HL.NIA,鳥取県,3486,VIOLA.,鳥取県
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1264,BON,鳥取県,1831,ES,鳥取県,2447,S0-NYA,鳥取県
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",1264,BON,鳥取県,1849,LIGHT,鳥取県,2447,S0-NYA,鳥取県
 GOLD,ANDROMEDA II,667,PNKY*,鳥取県,1700,BON,鳥取県,2462,VIOLA.,鳥取県
 GOLD,Air Bell,819,GIGLIO,鳥取県,1091,2-MAS*,鳥取県,1708,VIOLA.,鳥取県
 DJ TROOPERS,走馬灯 -The Last Song-,503,VIOLA.,鳥取県,903,VIOLA.,鳥取県,1317,VIOLA.,鳥取県
@@ -406,7 +406,7 @@ DJ TROOPERS,in the Sky,0,,未設定,2103,333,鳥取県,2513,VIOLA.,鳥取県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3414,VIOLA.,鳥取県
 DJ TROOPERS,ICARUS,976,RANK00,鳥取県,1882,HL.NIA,鳥取県,2332,VIOLA.,鳥取県
 DJ TROOPERS,Freeway Shuffle,0,,未設定,1260,333,鳥取県,1842,S0-NYA,鳥取県
-DJ TROOPERS,four pieces of heaven,0,,未設定,1552,RYO.,鳥取県,2247,VIOLA.,鳥取県
+DJ TROOPERS,four pieces of heaven,0,,未設定,1680,UMA1BO,鳥取県,2247,VIOLA.,鳥取県
 DJ TROOPERS,evergreen,523,SIBA,鳥取県,1318,53KING,鳥取県,1869,S0-NYA,鳥取県
 DJ TROOPERS,end of world,677,MISAKA,鳥取県,1571,X-RAY,鳥取県,2375,53KING,鳥取県
 DJ TROOPERS,Do it!! Do it!!,1011,53KING,鳥取県,1344,MEI,鳥取県,1847,VIOLA.,鳥取県
@@ -415,8 +415,8 @@ DJ TROOPERS,Dazzlin' Darlin,664,SIBA,鳥取県,1273,SHO,鳥取県,2200,53KING,�
 DJ TROOPERS,Darling my LUV,582,GIGLIO,鳥取県,0,,未設定,1371,S0-NYA,鳥取県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3295,VIOLA.,鳥取県
 DJ TROOPERS,Blue Rain,769,NWA,鳥取県,1458,RAY$,鳥取県,2242,VIOLA.,鳥取県
-DJ TROOPERS,beatonic nation,538,QG2,鳥取県,1698,SIGRIN,鳥取県,2068,UMA1BO,鳥取県
-DJ TROOPERS,Be OK,206,BLACK,鳥取県,1743,53KING,鳥取県,2350,MY*STR,鳥取県
+DJ TROOPERS,beatonic nation,591,JAEIL,鳥取県,1698,SIGRIN,鳥取県,2068,UMA1BO,鳥取県
+DJ TROOPERS,Be OK,206,BLACK,鳥取県,1743,53KING,鳥取県,2359,#MA3#,鳥取県
 DJ TROOPERS,avant-guerre,685,BON,鳥取県,796,EX.,鳥取県,1860,S0-NYA,鳥取県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1075,GIGLIO,鳥取県,2088,DEBU**,鳥取県,2816,VIOLA.,鳥取県
 DJ TROOPERS,2 tribe 4 K,0,,未設定,1054,DONNMA,鳥取県,2663,DEBU**,鳥取県
@@ -426,7 +426,7 @@ EMPRESS,山岡晃の「クイズ！家事都合！」,0,,未設定,1196,DONNMA,�
 EMPRESS,天空脳番長危機十六連打,509,SIRO,鳥取県,1890,RAY$,鳥取県,2491,S0-NYA,鳥取県
 EMPRESS,卑弥呼,1113,SALOON,鳥取県,2618,S0-NYA,鳥取県,3819,VIOLA.,鳥取県
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3162,VIOLA.,鳥取県
-EMPRESS,凛として咲く花の如く,1166,R*KYUN,鳥取県,2104,333,鳥取県,2761,VIOLA.,鳥取県
+EMPRESS,凛として咲く花の如く,1233,A,鳥取県,2104,333,鳥取県,2761,VIOLA.,鳥取県
 EMPRESS,不沈艦CANDY,786,JAEIL,鳥取県,1814,RAY$,鳥取県,3262,VIOLA.,鳥取県
 EMPRESS,ミッドナイト堕天使,930,RYO.,鳥取県,1189,XULSOS,鳥取県,2757,VIOLA.,鳥取県
 EMPRESS,ハリツヤランデヴー,902,BON,鳥取県,1918,BON,鳥取県,2464,S0-NYA,鳥取県
@@ -473,7 +473,7 @@ EMPRESS,3y3s,1470,X*,鳥取県,2442,HL.NIA,鳥取県,3387,VIOLA.,鳥取県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",301,SIBA,鳥取県,1594,HL.NIA,鳥取県,2046,VIOLA.,鳥取県
 SIRIUS,未来のプリズム,676,RAY$,鳥取県,1096,GIGLIO,鳥取県,1756,VIOLA.,鳥取県
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,827,TUKIMI,鳥取県,2088,UMA1BO,鳥取県,2986,S0-NYA,鳥取県
-SIRIUS,バビロニア,778,BON,鳥取県,1034,PUYO-M,鳥取県,1845,XAN8,鳥取県
+SIRIUS,バビロニア,778,BON,鳥取県,1034,PUYO-M,鳥取県,1845,GONCHA,鳥取県
 SIRIUS,サヨナラ・ヘヴン,872,BON,鳥取県,1089,GIGLIO,鳥取県,1625,X*,鳥取県
 SIRIUS,コスモス,632,JACK07,鳥取県,1428,ALTE,鳥取県,2061,53KING,鳥取県
 SIRIUS,たからもの,1053,ELSA,鳥取県,1856,333,鳥取県,2193,DEBU**,鳥取県
@@ -487,7 +487,7 @@ SIRIUS,SOLID STATE SQUAD,597,SIBA,鳥取県,2237,333,鳥取県,3442,S0-NYA,鳥�
 SIRIUS,She is my wife,622,BON,鳥取県,1201,NAGI.,鳥取県,1823,53KING,鳥取県
 SIRIUS,Session 1 -Genesis-,642,HURO,鳥取県,1374,Y.Y,鳥取県,2376,S0-NYA,鳥取県
 SIRIUS,Roots of my way!,441,SIBA,鳥取県,1120,GIGLIO,鳥取県,1987,53KING,鳥取県
-SIRIUS,Red. by Full Metal Jacket,934,BON,鳥取県,2014,VIOLA.,鳥取県,2937,333,鳥取県
+SIRIUS,Red. by Full Metal Jacket,934,BON,鳥取県,2019,#MA3#,鳥取県,2937,333,鳥取県
 SIRIUS,Raison d'etre～交差する宿命～,0,,未設定,2252,333,鳥取県,2630,S0-NYA,鳥取県
 SIRIUS,quell～the seventh slave～,0,,未設定,1740,MY*STR,鳥取県,3096,VIOLA.,鳥取県
 SIRIUS,Programmed Sun,876,GIGLIO,鳥取県,1605,X-RAY,鳥取県,2499,333,鳥取県
@@ -510,7 +510,7 @@ SIRIUS,Empire State Glory,614,RAINY*,鳥取県,1685,34PONY,鳥取県,2575,53KING
 SIRIUS,Elisha,744,GIGLIO,鳥取県,1439,HL.NIA,鳥取県,2205,VIOLA.,鳥取県
 SIRIUS,DROP,232,GORO56,鳥取県,2014,333,鳥取県,2559,S0-NYA,鳥取県
 SIRIUS,DOMINION,634,TAROPE,鳥取県,2322,HL.NIA,鳥取県,3074,DEBU**,鳥取県
-SIRIUS,DESIRE,794,RANK00,鳥取県,1660,N-AZ0*,鳥取県,2765,XAN8,鳥取県
+SIRIUS,DESIRE,794,RANK00,鳥取県,1660,N-AZ0*,鳥取県,2765,GONCHA,鳥取県
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,703,SHO,鳥取県,1424,RAY$,鳥取県,2051,MY*STR,鳥取県
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1334,RANK00,鳥取県,2652,333,鳥取県,3096,VIOLA.,鳥取県
 SIRIUS,D,934,R*KYUN,鳥取県,1899,VIOLA.,鳥取県,2503,VIOLA.,鳥取県
@@ -527,7 +527,7 @@ Resort Anthem,黒髪乱れし修羅となりて,506,JACK07,鳥取県,2073,53KING
 Resort Anthem,灼熱Beach Side Bunny,1013,RAY$,鳥取県,1864,VIOLA.,鳥取県,2796,VIOLA.,鳥取県
 Resort Anthem,旅人リラン,792,MISAKA,鳥取県,1902,LAVYAK,鳥取県,2597,VIOLA.,鳥取県
 Resort Anthem,夕焼け ～Fading Day～,881,NAGI.,鳥取県,2032,333,鳥取県,2768,VIOLA.,鳥取県
-Resort Anthem,中華急行,306,KMY,鳥取県,1473,N34R.S,鳥取県,2292,VIOLA.,鳥取県
+Resort Anthem,中華急行,314,KOKECY,鳥取県,1473,N34R.S,鳥取県,2292,VIOLA.,鳥取県
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,473,SIBA,鳥取県,1248,BON,鳥取県,1886,333,鳥取県
 Resort Anthem,おおきなこえで,455,VIOLA.,鳥取県,979,VIOLA.,鳥取県,1470,VIOLA.,鳥取県
 Resort Anthem,ZETA～素数の世界と超越者～,335,SIBA,鳥取県,1653,XULSOS,鳥取県,3061,#MA3#,鳥取県
@@ -581,28 +581,28 @@ Resort Anthem,Believe In Me,389,GORO56,鳥取県,1852,333,鳥取県,2276,UMEKO,�
 Resort Anthem,ANTHEM LANDING,688,RANK00,鳥取県,1855,KI9TU2,鳥取県,2921,VIOLA.,鳥取県
 Resort Anthem,Answer,755,RAY$,鳥取県,1181,KUTUGN,鳥取県,2365,MY*STR,鳥取県
 Resort Anthem,ALBIDA,897,JAEIL,鳥取県,1883,HL.NIA,鳥取県,2956,VIOLA.,鳥取県
-Resort Anthem,Aegis,834,34PONY,鳥取県,1098,NWA,鳥取県,2286,VIOLA.,鳥取県
+Resort Anthem,Aegis,834,34PONY,鳥取県,1256,Y.Y,鳥取県,2286,VIOLA.,鳥取県
 Lincle,陽炎,612,BON,鳥取県,961,RANK00,鳥取県,1993,VIOLA.,鳥取県
 Lincle,衰色小町メランコリア,619,MISAKA,鳥取県,1254,SHUAIS,鳥取県,2337,VIOLA.,鳥取県
 Lincle,蛇神,649,FUTA-B,鳥取県,1395,Y.Y,鳥取県,2813,VIOLA.,鳥取県
 Lincle,聖人の塔,705,WAFFLE,鳥取県,1967,HL.NIA,鳥取県,2893,VIOLA.,鳥取県
-Lincle,突撃!ガラスのニーソ姫!,611,BON,鳥取県,1119,KOKECY,鳥取県,2047,XAN8,鳥取県
+Lincle,突撃!ガラスのニーソ姫!,611,BON,鳥取県,1119,KOKECY,鳥取県,2047,GONCHA,鳥取県
 Lincle,恋する☆宇宙戦争っ！！,867,DONNMA,鳥取県,1730,DEBU**,鳥取県,3533,VIOLA.,鳥取県
 Lincle,子供の落書き帳,660,GIGLIO,鳥取県,1875,HL.NIA,鳥取県,2560,VIOLA.,鳥取県
 Lincle,天空の夜明け,1322,KI9TU2,鳥取県,2055,HL.NIA,鳥取県,3989,VIOLA.,鳥取県
 Lincle,君のハートにロックオン,412,GORO56,鳥取県,1715,333,鳥取県,2564,DEBU**,鳥取県
 Lincle,ユミル,566,FUTA-B,鳥取県,1267,DONNMA,鳥取県,2776,VIOLA.,鳥取県
 Lincle,ビューティフルレシート,321,S,鳥取県,1119,M,鳥取県,1904,DEBU**,鳥取県
-Lincle,Yellow Sunrise,570,HURO,鳥取県,1409,XAN8,鳥取県,2256,VIOLA.,鳥取県
+Lincle,Yellow Sunrise,570,HURO,鳥取県,1409,GONCHA,鳥取県,2256,VIOLA.,鳥取県
 Lincle,yellow head joe,0,,未設定,1459,KAME,鳥取県,2205,HL.NIA,鳥取県
 Lincle,YAKSHA,1050,RANK00,鳥取県,2345,HL.NIA,鳥取県,3825,VIOLA.,鳥取県
 Lincle,WONDER WALKER,737,K,鳥取県,1926,333,鳥取県,3753,VIOLA.,鳥取県
-Lincle,Voxane,262,AAA,鳥取県,766,RAINY*,鳥取県,1725,VIOLA.,鳥取県
+Lincle,Voxane,290,S,鳥取県,766,RAINY*,鳥取県,1725,VIOLA.,鳥取県
 Lincle,Todestrieb,754,IIDX26,鳥取県,1904,HL.NIA,鳥取県,3399,VIOLA.,鳥取県
 Lincle,TITANS RETURN,345,SIBA,鳥取県,1356,SIGRIN,鳥取県,2350,S0-NYA,鳥取県
 Lincle,Thunderbolt,618,PNKY*,鳥取県,1825,M-BOX*,鳥取県,3680,VIOLA.,鳥取県
 Lincle,The Sampling Paradise,678,RANK00,鳥取県,1715,ES,鳥取県,2882,S0-NYA,鳥取県
-Lincle,The Limbo,1036,GIGLIO,鳥取県,2006,HL.NIA,鳥取県,3124,S0-NYA,鳥取県
+Lincle,The Limbo,1036,GIGLIO,鳥取県,2006,HL.NIA,鳥取県,3224,#MA3#,鳥取県
 Lincle,Star Trail,415,KURI.,鳥取県,695,RAINY*,鳥取県,1817,S0-NYA,鳥取県
 Lincle,Snow Goose,280,HINATI,鳥取県,1145,N-AZ0*,鳥取県,2391,VIOLA.,鳥取県
 Lincle,Snake Stick,891,GIGLIO,鳥取県,1987,VIOLA.,鳥取県,2559,S0-NYA,鳥取県
@@ -613,7 +613,7 @@ Lincle,SA.YO.NA.RA. SUPER STAR,359,IIDX26,鳥取県,1074,ELSA,鳥取県,1580,53K
 Lincle,Round and Round,612,JACK07,鳥取県,1148,DONNMA,鳥取県,2117,#MA3#,鳥取県
 Lincle,RESISTANCE,339,S,鳥取県,1095,*YUKI*,鳥取県,2331,HL.NIA,鳥取県
 Lincle,Release The Music,718,KROG.,鳥取県,1387,333,鳥取県,2065,S0-NYA,鳥取県
-Lincle,Quick Silver,453,QG2,鳥取県,1755,333,鳥取県,2637,VIOLA.,鳥取県
+Lincle,Quick Silver,468,JACK07,鳥取県,1755,333,鳥取県,2637,VIOLA.,鳥取県
 Lincle,quaver♪,700,RAY$,鳥取県,2046,N34R.S,鳥取県,3389,VIOLA.,鳥取県
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3570,VIOLA.,鳥取県
 Lincle,QUANTUM TELEPORTATION,1088,FUTA-B,鳥取県,2292,333,鳥取県,2857,S0-NYA,鳥取県
@@ -652,7 +652,7 @@ tricoro,龍と少女とデコヒーレンス,608,JEKYLL,鳥取県,1499,Y.Y,鳥�
 tricoro,音楽,520,BLACK,鳥取県,1681,MEI,鳥取県,2665,VIOLA.,鳥取県
 tricoro,狂イ咲ケ焔ノ華,720,LO,鳥取県,2379,HL.NIA,鳥取県,3408,333,鳥取県
 tricoro,梅雪夜,646,JACK07,鳥取県,1406,RYO.,鳥取県,2114,MY*STR,鳥取県
-tricoro,朧†,0,,未設定,0,,未設定,2447,XAN8,鳥取県
+tricoro,朧†,0,,未設定,0,,未設定,2447,GONCHA,鳥取県
 tricoro,朧,778,SALOON,鳥取県,1488,53KING,鳥取県,2104,VIOLA.,鳥取県
 tricoro,即席！脳直★ミュージックシステム,1014,RAY$,鳥取県,1951,333,鳥取県,3391,DEBU**,鳥取県
 tricoro,創世ノート,589,QG2,鳥取県,1884,333,鳥取県,2934,VIOLA.,鳥取県
@@ -694,7 +694,7 @@ tricoro,S!ck,851,RAY$,鳥取県,1547,333,鳥取県,2638,VIOLA.,鳥取県
 tricoro,rumrum triplets,849,GIGLIO,鳥取県,1978,333,鳥取県,2935,S0-NYA,鳥取県
 tricoro,Re:GENERATION,799,TKGY,鳥取県,1246,NWA,鳥取県,2187,53KING,鳥取県
 tricoro,Rainbow after snow,429,SIBA,鳥取県,1228,NWA,鳥取県,2165,VIOLA.,鳥取県
-tricoro,Proof of the existence,1006,RANK00,鳥取県,1984,UMA1BO,鳥取県,3114,VIOLA.,鳥取県
+tricoro,Proof of the existence,1006,RANK00,鳥取県,1984,UMA1BO,鳥取県,3155,VIOLA.,鳥取県
 tricoro,Praludium,469,JACK07,鳥取県,1312,NKO,鳥取県,2243,VIOLA.,鳥取県
 tricoro,POINT ZERO,477,AI.S,鳥取県,1292,333,鳥取県,1956,HL.NIA,鳥取県
 tricoro,planarian,451,JACK07,鳥取県,1590,RAY$,鳥取県,2478,53KING,鳥取県
@@ -716,18 +716,18 @@ tricoro,ILIAS,235,AAA,鳥取県,1284,53KING,鳥取県,2169,S0-NYA,鳥取県
 tricoro,I know You know,272,AAA,鳥取県,1021,DONNMA,鳥取県,1827,S0-NYA,鳥取県
 tricoro,Howling†,0,,未設定,0,,未設定,2567,333,鳥取県
 tricoro,Howling,428,MISAKA,鳥取県,696,PNKY*,鳥取県,2056,S0-NYA,鳥取県
-tricoro,Hollywood Galaxy,881,GIGLIO,鳥取県,1959,HL.NIA,鳥取県,2598,S0-NYA,鳥取県
+tricoro,Hollywood Galaxy,881,GIGLIO,鳥取県,1959,HL.NIA,鳥取県,2708,VIOLA.,鳥取県
 tricoro,GRADIUS 2012,0,,未設定,1453,490.CH,鳥取県,2636,S0-NYA,鳥取県
 tricoro,GAIA,942,34PONY,鳥取県,2130,HL.NIA,鳥取県,3294,VIOLA.,鳥取県
 tricoro,Fly you to the star,760,BON,鳥取県,1517,Y.Y,鳥取県,2247,VIOLA.,鳥取県
 tricoro,FLOWER,1025,34PONY,鳥取県,1735,KI9TU2,鳥取県,2853,VIOLA.,鳥取県
 tricoro,examination leave,829,NYAMI0,鳥取県,1892,333,鳥取県,3393,VIOLA.,鳥取県
 tricoro,Elemental Creation,970,KNNK.,鳥取県,2341,HL.NIA,鳥取県,4083,VIOLA.,鳥取県
-tricoro,Devilz Staircase,293,AAA,鳥取県,2148,HL.NIA,鳥取県,3145,VIOLA.,鳥取県
+tricoro,Devilz Staircase,328,S,鳥取県,2148,HL.NIA,鳥取県,3145,VIOLA.,鳥取県
 tricoro,DAY DREAM,542,VIOLA.,鳥取県,1263,VIOLA.,鳥取県,1919,VIOLA.,鳥取県
 tricoro,Cookie Bouquets,536,YATAO?,鳥取県,2078,333,鳥取県,3377,VIOLA.,鳥取県
 tricoro,connective,358,2-MAS*,鳥取県,727,RAINY*,鳥取県,1572,X*,鳥取県
-tricoro,Confiserie,615,RAINY*,鳥取県,2027,UMA1BO,鳥取県,3479,VIOLA.,鳥取県
+tricoro,Confiserie,615,RAINY*,鳥取県,2027,UMA1BO,鳥取県,3487,VIOLA.,鳥取県
 tricoro,CONCEPTUAL,657,R*KYUN,鳥取県,0,,未設定,2595,DEBU**,鳥取県
 tricoro,BRAVE GLOW,501,JACK07,鳥取県,1698,333,鳥取県,2445,#MA3#,鳥取県
 tricoro,BLUE STRAGGLER,351,SIBA,鳥取県,0,,未設定,2518,S0-NYA,鳥取県
@@ -742,7 +742,7 @@ SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3261,VIOLA.,鳥取県
 SPADA,疾風迅雷,964,GIGLIO,鳥取県,2077,VIOLA.,鳥取県,2756,53KING,鳥取県
 SPADA,牧神笛吹きて,741,KI9TU2,鳥取県,861,MICHIC,鳥取県,1988,53KING,鳥取県
 SPADA,煉獄のエルフェリア,1179,N-AZ0*,鳥取県,2253,HL.NIA,鳥取県,3785,VIOLA.,鳥取県
-SPADA,海神,963,GIGLIO,鳥取県,2002,HL.NIA,鳥取県,3056,S0-NYA,鳥取県
+SPADA,海神,963,GIGLIO,鳥取県,2021,UMA1BO,鳥取県,3056,S0-NYA,鳥取県
 SPADA,旋律のドグマ～Miserables～,931,TANK,鳥取県,2407,HL.NIA,鳥取県,3901,VIOLA.,鳥取県
 SPADA,廿†,0,,未設定,0,,未設定,3176,VIOLA.,鳥取県
 SPADA,廿,677,JEKYLL,鳥取県,1579,34PONY,鳥取県,2299,333,鳥取県
@@ -754,7 +754,7 @@ SPADA,お願いアインシュタイン,797,GIGLIO,鳥取県,1482,53KING,鳥取�
 SPADA,Wonder Girl feat. Kanae Asaba,640,GIGLIO,鳥取県,1240,53KING,鳥取県,2735,MY*STR,鳥取県
 SPADA,VOX UP,1283,XULSOS,鳥取県,2568,HL.NIA,鳥取県,3426,VIOLA.,鳥取県
 SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4604,VIOLA.,鳥取県
-SPADA,Verflucht,1100,FUTA-B,鳥取県,2086,53KING,鳥取県,3509,VIOLA.,鳥取県
+SPADA,Verflucht,1100,FUTA-B,鳥取県,2086,53KING,鳥取県,3520,VIOLA.,鳥取県
 SPADA,Valgus,467,JACK07,鳥取県,1178,DONNMA,鳥取県,2350,VIOLA.,鳥取県
 SPADA,Unicorn tail,602,JEKYLL,鳥取県,1915,RAY$,鳥取県,3076,S0-NYA,鳥取県
 SPADA,THE DETONATOR,1154,RANK00,鳥取県,2472,333,鳥取県,3148,VIOLA.,鳥取県
@@ -770,7 +770,7 @@ SPADA,rainbow guitar weeps,519,RAINY*,鳥取県,1791,ES,鳥取県,2693,S0-NYA,�
 SPADA,ra'am,1232,S0-NYA,鳥取県,1651,99PAD,鳥取県,2621,DEBU**,鳥取県
 SPADA,PUNISHER,1039,NWA,鳥取県,1944,RAY$,鳥取県,3507,VIOLA.,鳥取県
 SPADA,Pharaoh,202,AAA,鳥取県,1400,333,鳥取県,2346,X*,鳥取県
-SPADA,Overload Frontier,520,SIBA,鳥取県,1613,BON,鳥取県,2492,#MA3#,鳥取県
+SPADA,Overload Frontier,520,SIBA,鳥取県,1759,LIGHT,鳥取県,2492,#MA3#,鳥取県
 SPADA,Odin,0,,未設定,1359,RAY$,鳥取県,2033,S0-NYA,鳥取県
 SPADA,NPC World,544,IIDX26,鳥取県,1527,LIGHT,鳥取県,2157,53KING,鳥取県
 SPADA,Miracle 5ympho X,558,IIDX26,鳥取県,1172,N-AZ0*,鳥取県,2555,DEBU**,鳥取県
@@ -825,7 +825,7 @@ PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,861,SHO,鳥取県,2028,#MA3#,鳥取県,2672,VIOLA.,鳥取県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1024,XULSOS,鳥取県,2144,333,鳥取県,3420,DEBU**,鳥取県
 PENDUAL,紅牡丹,517,RAINY*,鳥取県,1786,LAVYAK,鳥取県,2818,VIOLA.,鳥取県
-PENDUAL,白露の風,293,NAMECO,鳥取県,580,AAAAAA,鳥取県,1964,53KING,鳥取県
+PENDUAL,白露の風,371,KOKECY,鳥取県,580,AAAAAA,鳥取県,1964,53KING,鳥取県
 PENDUAL,時空トラベローグ,870,RANK00,鳥取県,1674,Y.Y,鳥取県,2550,S0-NYA,鳥取県
 PENDUAL,打打打打打打打打打打,630,JAEIL,鳥取県,1341,53KING,鳥取県,2582,S0-NYA,鳥取県
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2683,53KING,鳥取県
@@ -863,7 +863,7 @@ PENDUAL,Say YEEEAHH,527,SIRO,鳥取県,1774,KANI*3,鳥取県,3117,S0-NYA,鳥取�
 PENDUAL,SAMSARA,622,MISAKA,鳥取県,1006,FRAN,鳥取県,2024,MY*STR,鳥取県
 PENDUAL,Sakura Mirage,840,KUTUGN,鳥取県,1242,Y.Y,鳥取県,2312,VIOLA.,鳥取県
 PENDUAL,Reflux,0,,未設定,1577,333,鳥取県,2930,VIOLA.,鳥取県
-PENDUAL,Realize Maze,1054,NWA,鳥取県,2037,333,鳥取県,2933,VIOLA.,鳥取県
+PENDUAL,Realize Maze,1054,NWA,鳥取県,2037,333,鳥取県,2957,VIOLA.,鳥取県
 PENDUAL,Rave*it!! Rave*it!!,706,NOBE,鳥取県,1581,Y.Y,鳥取県,3141,VIOLA.,鳥取県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),483,RAINY*,鳥取県,1345,Y.Y,鳥取県,2165,MY*STR,鳥取県
 PENDUAL,PENDUAL TALISMAN,0,,未設定,1496,Y.Y,鳥取県,2585,VIOLA.,鳥取県
@@ -896,7 +896,7 @@ PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,2978,333,鳥取県
 PENDUAL,Cosmic Cat,676,JAEIL,鳥取県,1596,99PAD,鳥取県,2254,#MA3#,鳥取県
 PENDUAL,COLOSSEUM,364,JACK07,鳥取県,837,MISAKA,鳥取県,2231,DEBU**,鳥取県
 PENDUAL,cinder,0,,未設定,1807,34PONY,鳥取県,3065,VIOLA.,鳥取県
-PENDUAL,Chronos,546,K,鳥取県,1255,M,鳥取県,2317,333,鳥取県
+PENDUAL,Chronos,546,K,鳥取県,1313,UMA1BO,鳥取県,2317,333,鳥取県
 PENDUAL,Chrono Diver -PENDULUMs-,1391,SALOON,鳥取県,2739,VIOLA.,鳥取県,4240,VIOLA.,鳥取県
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4308,VIOLA.,鳥取県
 PENDUAL,CHRONO DIVER -NORNIR-,0,,未設定,2054,Y.Y,鳥取県,3062,VIOLA.,鳥取県
@@ -916,7 +916,7 @@ copula,麗 ～うらら～,974,NWA,鳥取県,1731,333,鳥取県,2602,VIOLA.,鳥�
 copula,駅猫のワルツ,824,SANTAK,鳥取県,2009,HL.NIA,鳥取県,2712,VIOLA.,鳥取県
 copula,量子の海のリントヴルム,761,GIGLIO,鳥取県,1543,DONNMA,鳥取県,2937,VIOLA.,鳥取県
 copula,追想快晴テーマパーク,1078,XULSOS,鳥取県,2086,HL.NIA,鳥取県,3054,VIOLA.,鳥取県
-copula,紫陽花 -AZISAI-,1063,RANK00,鳥取県,2072,333,鳥取県,2711,S0-NYA,鳥取県
+copula,紫陽花 -AZISAI-,1063,RANK00,鳥取県,2072,333,鳥取県,2748,#MA3#,鳥取県
 copula,真 地獄超特急 -HELL or HELL-,1227,R*KYUN,鳥取県,2154,S0-NYA,鳥取県,3061,S0-NYA,鳥取県
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,未設定,2027,333,鳥取県,2457,333,鳥取県
 copula,灼熱 Pt.2 Long Train Running,1018,XULSOS,鳥取県,2004,DEBU**,鳥取県,3013,333,鳥取県
@@ -944,7 +944,7 @@ copula,Super Duper Racers,826,KUTUGN,鳥取県,1491,RAY$,鳥取県,2242,53KING,�
 copula,StrayedCatz,1049,S0-NYA,鳥取県,1923,HL.NIA,鳥取県,2657,333,鳥取県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3257,VIOLA.,鳥取県
 copula,STARLIGHT DANCEHALL,1178,RAY$,鳥取県,1812,333,鳥取県,2557,#MA3#,鳥取県
-copula,STARLiGHT,668,8I,鳥取県,1827,333,鳥取県,2644,XAN8,鳥取県
+copula,STARLiGHT,668,8I,鳥取県,1827,333,鳥取県,2644,GONCHA,鳥取県
 copula,SHELTER OF THE MIND,807,BLACK,鳥取県,1968,333,鳥取県,3005,VIOLA.,鳥取県
 copula,Set U Free feat. Kanae Asaba,602,BLACK,鳥取県,1581,VIOLA.,鳥取県,2449,S0-NYA,鳥取県
 copula,Sephirot,633,JAEIL,鳥取県,1416,Y.Y,鳥取県,2251,X*,鳥取県
@@ -952,7 +952,7 @@ copula,SEITEN NO TERIYAKI,276,AAA,鳥取県,950,R*KYUN,鳥取県,2177,333,鳥取
 copula,Routing,596,PNKY*,鳥取県,1634,333,鳥取県,2394,333,鳥取県
 copula,Rock It,547,QG2,鳥取県,1647,53KING,鳥取県,2919,VIOLA.,鳥取県
 copula,refrain,1097,GIGLIO,鳥取県,2288,HL.NIA,鳥取県,3548,VIOLA.,鳥取県
-copula,quick master (reform version),141,KMY,鳥取県,193,JACK07,鳥取県,523,VIOLA.,鳥取県
+copula,quick master (reform version),146,KOKECY,鳥取県,193,JACK07,鳥取県,523,VIOLA.,鳥取県
 copula,POSSESSION,1367,S0-NYA,鳥取県,2027,MOO,鳥取県,2885,VIOLA.,鳥取県
 copula,OUTER LIMITS ALTERNATIVE,0,,未設定,1580,TE0,鳥取県,2631,333,鳥取県
 copula,Outbreak,1080,8I,鳥取県,1787,RAY$,鳥取県,2968,VIOLA.,鳥取県
@@ -979,7 +979,7 @@ copula,GET READY!!,375,MAYO,鳥取県,1402,Y.Y,鳥取県,2643,VIOLA.,鳥取県
 copula,GENERATE feat.綾倉盟,154,SIRO,鳥取県,1752,333,鳥取県,2282,53KING,鳥取県
 copula,Exchange Place,498,JACK07,鳥取県,986,R*KYUN,鳥取県,1711,DEBU**,鳥取県
 copula,Everlasting Last,823,RAY$,鳥取県,1642,333,鳥取県,2197,S0-NYA,鳥取県
-copula,Dynamite,1160,RAY$,鳥取県,2453,DEBU**,鳥取県,3673,XAN8,鳥取県
+copula,Dynamite,1160,RAY$,鳥取県,2453,DEBU**,鳥取県,3673,GONCHA,鳥取県
 copula,Donkey Donk,639,A,鳥取県,1639,KOKECY,鳥取県,2234,VIOLA.,鳥取県
 copula,do the thing feat. Kanae Asaba,306,NAMECO,鳥取県,1139,HPF,鳥取県,2250,VIOLA.,鳥取県
 copula,DIAMOND CROSSING,922,34PONY,鳥取県,1686,UMA1BO,鳥取県,3043,VIOLA.,鳥取県
@@ -1007,7 +1007,7 @@ SINOBUZ,焔極OVERKILL,1007,GIGLIO,鳥取県,2067,HL.NIA,鳥取県,3463,VIOLA.,�
 SINOBUZ,炎影,562,GIGLIO,鳥取県,1312,02,鳥取県,2569,333,鳥取県
 SINOBUZ,津軽雪,1250,XULSOS,鳥取県,2202,333,鳥取県,3810,VIOLA.,鳥取県
 SINOBUZ,次葉 -turn the page-,468,SIRO,鳥取県,1399,KI9TU2,鳥取県,1961,VIOLA.,鳥取県
-SINOBUZ,月雪に舞う華のように,462,RAINY*,鳥取県,973,SHO,鳥取県,2083,S0-NYA,鳥取県
+SINOBUZ,月雪に舞う華のように,462,RAINY*,鳥取県,995,SHO,鳥取県,2083,S0-NYA,鳥取県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,929,NWA,鳥取県,1584,333,鳥取県,2428,DEBU**,鳥取県
 SINOBUZ,忍恋花,528,8I,鳥取県,1601,333,鳥取県,2140,HL.NIA,鳥取県
 SINOBUZ,刃図羅,1164,34PONY,鳥取県,2040,UMA1BO,鳥取県,3330,VIOLA.,鳥取県
@@ -1076,7 +1076,7 @@ SINOBUZ,ECHIDNA,1161,34PONY,鳥取県,2007,HL.NIA,鳥取県,3318,VIOLA.,鳥取�
 SINOBUZ,DORNWALD ～Junge～,1166,EX.,鳥取県,2192,HL.NIA,鳥取県,3513,VIOLA.,鳥取県
 SINOBUZ,DISAPPEAR feat. koyomin,526,TANK,鳥取県,1639,ALTE,鳥取県,2806,333,鳥取県
 SINOBUZ,Cyber True Color,889,DONNMA,鳥取県,1616,333,鳥取県,2248,MY*STR,鳥取県
-SINOBUZ,crew,573,EX.,鳥取県,1657,Y.Y,鳥取県,2865,VIOLA.,鳥取県
+SINOBUZ,crew,607,Y.Y,鳥取県,1657,Y.Y,鳥取県,2865,VIOLA.,鳥取県
 SINOBUZ,Caterpillar,1001,GIGLIO,鳥取県,2157,HL.NIA,鳥取県,2906,VIOLA.,鳥取県
 SINOBUZ,BroGamer,1096,FRAN,鳥取県,2102,333,鳥取県,3004,VIOLA.,鳥取県
 SINOBUZ,Breakin' Chain,531,JACK07,鳥取県,1253,RAY$,鳥取県,2231,53KING,鳥取県
@@ -1087,7 +1087,7 @@ SINOBUZ,Beat Juggling Mix,1009,DEBU**,鳥取県,1413,UMA1BO,鳥取県,2108,S0-NY
 SINOBUZ,Be A Star,501,GORO56,鳥取県,1760,ALTE,鳥取県,2778,VIOLA.,鳥取県
 SINOBUZ,BabeL ～Grand Story～,968,SHIVAH,鳥取県,2051,333,鳥取県,2734,333,鳥取県
 SINOBUZ,AsiaN distractive,535,OP,鳥取県,1327,NAGI.,鳥取県,2442,HL.NIA,鳥取県
-SINOBUZ,Around The Galaxy,634,JEKYLL,鳥取県,1919,Y.Y,鳥取県,3347,VIOLA.,鳥取県
+SINOBUZ,Around The Galaxy,896,GIGLIO,鳥取県,1919,Y.Y,鳥取県,3347,VIOLA.,鳥取県
 SINOBUZ,Apocalypse,1060,DONNMA,鳥取県,2106,UMA1BO,鳥取県,3509,#MA3#,鳥取県
 SINOBUZ,AO-∞,1101,34PONY,鳥取県,1799,333,鳥取県,2586,333,鳥取県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3117,333,鳥取県
@@ -1104,7 +1104,7 @@ CANNON BALLERS,命の標本,515,MISAKA,鳥取県,1657,333,鳥取県,2629,VIOLA.,
 CANNON BALLERS,共犯へヴンズコード,503,333,鳥取県,1037,TKGY,鳥取県,2171,53KING,鳥取県
 CANNON BALLERS,ラストセンチュリーメランコリック,765,GIGLIO,鳥取県,1431,TIARA,鳥取県,2118,333,鳥取県
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),477,UTX.,鳥取県,1740,Y.Y,鳥取県,2623,MY*STR,鳥取県
-CANNON BALLERS,バスルーム ロマンス,0,,未設定,1360,Y.Y,鳥取県,2374,X*,鳥取県
+CANNON BALLERS,バスルーム ロマンス,0,,未設定,1414,UMA1BO,鳥取県,2374,X*,鳥取県
 CANNON BALLERS,バ→ビ→ブ→Bomb!,723,EX.,鳥取県,1806,333,鳥取県,2452,DEBU**,鳥取県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,626,JACK07,鳥取県,1459,RAY$,鳥取県,2413,VIOLA.,鳥取県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,775,HOLY,鳥取県,1387,TKGY,鳥取県,2079,VIOLA.,鳥取県
@@ -1214,8 +1214,8 @@ Rootage,ToyCube Pf.(RX-Ver.S.P.L.),729,MA2DAI,鳥取県,1515,MA2DAI,鳥取県,22
 Rootage,The Rebellion of Sequencer,1205,MA2DAI,鳥取県,1975,DEBU**,鳥取県,3062,VIOLA.,鳥取県
 Rootage,THE DAY OF JUBILATIONS,1492,MA2DAI,鳥取県,2379,DEBU**,鳥取県,3426,VIOLA.,鳥取県
 Rootage,The Best of Both Worlds,580,RAY$,鳥取県,1388,UMA1BO,鳥取県,2189,VIOLA.,鳥取県
-Rootage,Technicolour Dreams,925,RAY$,鳥取県,1413,UMA1BO,鳥取県,2348,333,鳥取県
-Rootage,Starry Night,910,MA2DAI,鳥取県,1615,Y.Y,鳥取県,2456,MY*STR,鳥取県
+Rootage,Technicolour Dreams,925,RAY$,鳥取県,1413,UMA1BO,鳥取県,2356,VIOLA.,鳥取県
+Rootage,Starry Night,910,MA2DAI,鳥取県,1615,Y.Y,鳥取県,2496,VIOLA.,鳥取県
 Rootage,SPEED ROCKER,900,MA2DAI,鳥取県,1692,333,鳥取県,2229,DEBU**,鳥取県
 Rootage,SIGMA,823,RAY$,鳥取県,1549,X*,鳥取県,2591,DEBU**,鳥取県
 Rootage,Sidechained Threats,1194,RAY$,鳥取県,1835,KI9TU2,鳥取県,2377,S0-NYA,鳥取県
