@@ -25,8 +25,8 @@
 3rd style,Skyscraper,657,IIDX16,岐阜県,1093,GINKA9,岐阜県,1225,NOY,岐阜県
 3rd style,Schlagwerk,759,IIDX16,岐阜県,1265,YUE.*,岐阜県,1662,YUUNA,岐阜県
 3rd style,REINCARNATION,788,IIDX16,岐阜県,1010,SWOOPS,岐阜県,1258,NOY,岐阜県
-3rd style,R5,715,DOG,岐阜県,1105,YUE.*,岐阜県,1756,NE63..,岐阜県
-3rd style,Presto,485,IIDX16,岐阜県,916,A,岐阜県,995,AMER,岐阜県
+3rd style,R5,715,DOG,岐阜県,1133,SEMI0T,岐阜県,1756,NE63..,岐阜県
+3rd style,Presto,485,IIDX16,岐阜県,921,SEMI0T,岐阜県,995,AMER,岐阜県
 3rd style,LEADING CYBER,774,IIDX16,岐阜県,1089,GMT.RK,岐阜県,1253,NOY,岐阜県
 3rd style,Holic,757,SARASA,岐阜県,1154,YUE.*,岐阜県,1659,AMER,岐阜県
 3rd style,era (nostalmix),780,2030,岐阜県,1091,YUUNA,岐阜県,1503,NE63..,岐阜県
@@ -54,7 +54,7 @@
 4th style,Broken My Heart,832,2030,岐阜県,1289,DOG,岐阜県,1776,NOY,岐阜県
 4th style,B4U,916,DOG,岐阜県,1397,BANME4,岐阜県,1964,AMER,岐阜県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2636,AMER,岐阜県
-4th style,ABSOLUTE,1235,KMCY,岐阜県,1764,24KINO,岐阜県,2325,KG-R.S,岐阜県
+4th style,ABSOLUTE,1235,KMCY,岐阜県,1764,24KINO,岐阜県,2354,KH*358,岐阜県
 4th style,250bpm,556,IIDX16,岐阜県,914,TOOL,岐阜県,1368,YUKIA2,岐阜県
 5th style,V,1263,KG-R.S,岐阜県,2429,41,岐阜県,2874,KG-R.S,岐阜県
 5th style,THE SHINING POLARIS,893,HAL,岐阜県,1165,TOOL,岐阜県,1561,YUUNA,岐阜県
@@ -62,7 +62,7 @@
 5th style,sync,1030,BPM128,岐阜県,1901,NOY,岐阜県,2331,AMER,岐阜県
 5th style,still my words,893,KONOHA,岐阜県,1230,YUUNA,岐阜県,0,,未設定
 5th style,STILL IN MY HEART,735,YUKA*,岐阜県,1341,24KINO,岐阜県,1863,YUUNA,岐阜県
-5th style,Spin the disc,526,S4KUMO,岐阜県,1284,NOY,岐阜県,1316,NOY,岐阜県
+5th style,Spin the disc,704,LEGACY,岐阜県,1284,NOY,岐阜県,1316,NOY,岐阜県
 5th style,RISLIM,0,,未設定,1226,24KINO,岐阜県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1784,AMER,岐阜県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),855,YUE.*,岐阜県,971,KMA,岐阜県,1687,NOY,岐阜県
@@ -249,7 +249,7 @@ HAPPY SKY,ヒマワリ,468,SYARO*,岐阜県,1831,KG-R.S,岐阜県,2047,AMER,岐�
 HAPPY SKY,オレはビートマニア！お前は何マニア？,720,2030,岐阜県,1369,HAL,岐阜県,1676,NOY,岐阜県
 HAPPY SKY,Xepher,1020,2030,岐阜県,2132,NE63..,岐阜県,2885,S660!!,岐阜県
 HAPPY SKY,We are Disっ娘よっつ打ち命,650,KONOHA,岐阜県,889,2030,岐阜県,1636,NOY,岐阜県
-HAPPY SKY,Votum stellarum,412,INUE,岐阜県,1636,KG-R.S,岐阜県,1903,KG-R.S,岐阜県
+HAPPY SKY,Votum stellarum,412,INUE,岐阜県,1636,KG-R.S,岐阜県,1913,KH*358,岐阜県
 HAPPY SKY,vault of heaven,754,2030,岐阜県,1406,24KINO,岐阜県,1966,AMER,岐阜県
 HAPPY SKY,Under the Sky,854,2030,岐阜県,1394,24KINO,岐阜県,1704,KH*358,岐阜県
 HAPPY SKY,Twelfth Style,1135,KMA,岐阜県,1398,GMT.RK,岐阜県,1974,K.,岐阜県
@@ -328,7 +328,7 @@ DistorteD,ALFARSHEAR 双神威に廻る夢,1004,2030,岐阜県,1649,24KINO,岐�
 GOLD,電人、暁に斃れる。,1361,IIDX16,岐阜県,2358,SWOOPS,岐阜県,3215,K.,岐阜県
 GOLD,零 - ZERO -,1100,DOG,岐阜県,1799,24KINO,岐阜県,2255,YUUNA,岐阜県
 GOLD,花吹雪 ～ IIDX LIMITED ～,516,YUU,岐阜県,987,21-19,岐阜県,1414,NOY,岐阜県
-GOLD,星をこの手に,1088,DIRGE*,岐阜県,1755,24KINO,岐阜県,2109,KG-R.S,岐阜県
+GOLD,星をこの手に,1088,DIRGE*,岐阜県,1755,24KINO,岐阜県,2124,KH*358,岐阜県
 GOLD,リグレット,1199,2030,岐阜県,1737,24KINO,岐阜県,2398,NE63..,岐阜県
 GOLD,ヨシダさん,811,LIME*,岐阜県,1444,24KINO,岐阜県,1953,NOY,岐阜県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,878,LEGACY,岐阜県,1438,L3SW,岐阜県,2229,AMER,岐阜県
@@ -344,7 +344,7 @@ GOLD,snow storm,733,DOG,岐阜県,2240,SWOOPS,岐阜県,2741,KH*358,岐阜県
 GOLD,smile,1387,KONOHA,岐阜県,2089,KG-R.S,岐阜県,2843,KH*358,岐阜県
 GOLD,Sense 2007,1467,YUE.*,岐阜県,2185,YUKIA2,岐阜県,2822,AMER,岐阜県
 GOLD,Second Heaven,877,ALICE*,岐阜県,1542,24KINO,岐阜県,2106,AMER,岐阜県
-GOLD,Roulette,859,DOG,岐阜県,1437,24KINO,岐阜県,2070,KG-R.S,岐阜県
+GOLD,Roulette,859,DOG,岐阜県,1437,24KINO,岐阜県,2073,KH*358,岐阜県
 GOLD,PHOTONGENIC,1178,LEGACY,岐阜県,1938,K.,岐阜県,2264,AMER,岐阜県
 GOLD,op.31 叙情,618,YUUNA,岐阜県,1307,YUUNA,岐阜県,1547,YUUNA,岐阜県
 GOLD,never…,653,MIKA,岐阜県,1297,GMT.RK,岐阜県,1796,AMER,岐阜県
@@ -386,10 +386,10 @@ DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3282,DDR,岐阜県
 DJ TROOPERS,THE DEEP STRIKER,983,KMA,岐阜県,2186,DDR,岐阜県,2907,K.,岐阜県
 DJ TROOPERS,switch,757,KA*C,岐阜県,1302,BANME4,岐阜県,2035,KG-R.S,岐阜県
 DJ TROOPERS,STEEL NEEDLE,913,LIME*,岐阜県,2029,YUE.*,岐阜県,2408,AMER,岐阜県
-DJ TROOPERS,State Of The Art,1038,HAL,岐阜県,1509,24KINO,岐阜県,2999,NE63..,岐阜県
+DJ TROOPERS,State Of The Art,1038,HAL,岐阜県,1509,24KINO,岐阜県,3046,KH*358,岐阜県
 DJ TROOPERS,SOUND OF GIALLARHORN,1278,KONOHA,岐阜県,2685,KG-R.S,岐阜県,3172,S660!!,岐阜県
 DJ TROOPERS,scar in the earth,611,DOG,岐阜県,956,ONOZU,岐阜県,1509,AMER,岐阜県
-DJ TROOPERS,satfinal,823,S4KUMO,岐阜県,1420,24KINO,岐阜県,1910,NOY,岐阜県
+DJ TROOPERS,satfinal,942,YOCK,岐阜県,1420,24KINO,岐阜県,1910,NOY,岐阜県
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",1061,LIME*,岐阜県,1828,SWOOPS,岐阜県,2442,K.,岐阜県
 DJ TROOPERS,Ristaccia,1101,2030,岐阜県,1959,KG-R.S,岐阜県,2661,DDR,岐阜県
 DJ TROOPERS,REMINISCENCE,1267,24KINO,岐阜県,1839,24KINO,岐阜県,2327,KG-R.S,岐阜県
@@ -419,7 +419,7 @@ DJ TROOPERS,beatonic nation,1223,KONOHA,岐阜県,1878,NOY,岐阜県,2131,KH*358
 DJ TROOPERS,Be OK,849,2030,岐阜県,1749,24KINO,岐阜県,2359,K.,岐阜県
 DJ TROOPERS,avant-guerre,678,BPM128,岐阜県,1330,AMER,岐阜県,1872,AMER,岐阜県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1147,DOG,岐阜県,2092,RACTVE,岐阜県,2782,Y.Y,岐阜県
-DJ TROOPERS,2 tribe 4 K,841,HAL,岐阜県,1324,24KINO,岐阜県,2673,KG-R.S,岐阜県
+DJ TROOPERS,2 tribe 4 K,841,HAL,岐阜県,1324,24KINO,岐阜県,2675,KH*358,岐阜県
 EMPRESS,鉄甲乙女-under the steel-,925,KONOHA,岐阜県,1627,24KINO,岐阜県,2147,KG-R.S,岐阜県
 EMPRESS,翼,880,KONOHA,岐阜県,1518,24KINO,岐阜県,1953,YUUNA,岐阜県
 EMPRESS,山岡晃の「クイズ！家事都合！」,612,DOG,岐阜県,1373,24KINO,岐阜県,2024,NE63..,岐阜県
@@ -506,7 +506,7 @@ SIRIUS,G59,1678,YUE.*,岐阜県,2273,KG-R.S,岐阜県,3737,AMER,岐阜県
 SIRIUS,EXUSIA,1156,TANI,岐阜県,2579,SWOOPS,岐阜県,3664,AMER,岐阜県
 SIRIUS,Evans,1145,TD*MYE,岐阜県,2122,KG-R.S,岐阜県,2676,AMER,岐阜県
 SIRIUS,eRAseRmOToRpHAntOM,1475,NE63..,岐阜県,2456,NE63..,岐阜県,3085,AMER,岐阜県
-SIRIUS,Empire State Glory,969,KAYA,岐阜県,1800,YUUNA,岐阜県,2566,KG-R.S,岐阜県
+SIRIUS,Empire State Glory,969,KAYA,岐阜県,1800,YUUNA,岐阜県,2577,KH*358,岐阜県
 SIRIUS,Elisha,848,HAL,岐阜県,1393,ANO2MS,岐阜県,2194,AMER,岐阜県
 SIRIUS,DROP,798,2030,岐阜県,2034,24KINO,岐阜県,2588,KG-R.S,岐阜県
 SIRIUS,DOMINION,1102,MI2PIN,岐阜県,2303,K.,岐阜県,3084,AMER,岐阜県
@@ -536,7 +536,7 @@ Resort Anthem,Wuv U,385,DOG,岐阜県,1276,24KINO,岐阜県,1683,NOY,岐阜県
 Resort Anthem,WISE UP!,470,DOG,岐阜県,1156,24KINO,岐阜県,1588,AMER,岐阜県
 Resort Anthem,WE LOVE SHONAN,0,,未設定,1672,24KINO,岐阜県,2142,YUKIA2,岐阜県
 Resort Anthem,Watch Out Pt.2,1050,TOOL,岐阜県,1977,K.,岐阜県,2630,K.,岐阜県
-Resort Anthem,Vermillion,528,HAL,岐阜県,1046,TAKO,岐阜県,1982,KG-R.S,岐阜県
+Resort Anthem,Vermillion,528,HAL,岐阜県,1046,TAKO,岐阜県,2040,KH*358,岐阜県
 Resort Anthem,Tropical April,1545,KONOHA,岐阜県,2166,41,岐阜県,2672,KG-R.S,岐阜県
 Resort Anthem,THE FALLEN,862,DOG,岐阜県,1502,24KINO,岐阜県,2603,K.,岐阜県
 Resort Anthem,THE DOOR INTO RAINBOW,755,2030,岐阜県,1644,24KINO,岐阜県,2121,AMER,岐阜県
@@ -599,7 +599,7 @@ Lincle,YAKSHA,1210,KONOHA,岐阜県,2324,KG-R.S,岐阜県,3751,KH*358,岐阜県
 Lincle,WONDER WALKER,958,HAL,岐阜県,1879,24KINO,岐阜県,3657,AMER,岐阜県
 Lincle,Voxane,576,DOG,岐阜県,1248,24KINO,岐阜県,1727,NOY,岐阜県
 Lincle,Todestrieb,1106,YUE.*,岐阜県,1888,24KINO,岐阜県,3320,AMER,岐阜県
-Lincle,TITANS RETURN,609,KONOHA,岐阜県,1457,NULL,岐阜県,2439,KH*358,岐阜県
+Lincle,TITANS RETURN,609,KONOHA,岐阜県,1506,BANME4,岐阜県,2439,KH*358,岐阜県
 Lincle,Thunderbolt,922,2030,岐阜県,1859,KG-R.S,岐阜県,3627,K.,岐阜県
 Lincle,The Sampling Paradise,836,HAL,岐阜県,1788,24KINO,岐阜県,2918,KH*358,岐阜県
 Lincle,The Limbo,1134,KMA,岐阜県,1985,SWOOPS,岐阜県,3206,AMER,岐阜県
@@ -613,12 +613,12 @@ Lincle,SA.YO.NA.RA. SUPER STAR,411,UNA10-,岐阜県,1269,24KINO,岐阜県,1646,Y
 Lincle,Round and Round,731,BANME4,岐阜県,1214,24KINO,岐阜県,2110,K.,岐阜県
 Lincle,RESISTANCE,605,DOG,岐阜県,1224,IIDX16,岐阜県,2339,AMER,岐阜県
 Lincle,Release The Music,813,DOG,岐阜県,1348,BANME4,岐阜県,2088,NOY,岐阜県
-Lincle,Quick Silver,764,HAL,岐阜県,1814,K.,岐阜県,2594,KG-R.S,岐阜県
+Lincle,Quick Silver,764,HAL,岐阜県,1814,K.,岐阜県,2596,KH*358,岐阜県
 Lincle,quaver♪,666,LEGACY,岐阜県,2109,KG-R.S,岐阜県,3266,KG-R.S,岐阜県
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3454,RACTVE,岐阜県
 Lincle,QUANTUM TELEPORTATION,1259,COLT,岐阜県,2316,K.,岐阜県,2802,KG-R.S,岐阜県
 Lincle,prompt,932,HAL,岐阜県,1584,SWOOPS,岐阜県,2740,DDR,岐阜県
-Lincle,Phoenix,831,HAL,岐阜県,1128,GMT.RK,岐阜県,2420,AMER,岐阜県
+Lincle,Phoenix,831,HAL,岐阜県,1140,BANME4,岐阜県,2420,AMER,岐阜県
 Lincle,NNRT,1097,ONOZU,岐阜県,2412,SWOOPS,岐阜県,3394,AMER,岐阜県
 Lincle,Miami Sunset Drive,630,KONOHA,岐阜県,1053,S660!!,岐阜県,1648,NOY,岐阜県
 Lincle,Mermaid girl-秋葉工房 MIX-,773,2030,岐阜県,1300,RACTVE,岐阜県,2045,K.,岐阜県
@@ -626,10 +626,10 @@ Lincle,Lucky Days,621,2030,岐阜県,1504,24KINO,岐阜県,2161,KH*358,岐阜県
 Lincle,LOVE B.B.B,732,DOG,岐阜県,1506,24KINO,岐阜県,1999,KH*358,岐阜県
 Lincle,Liquid Crystal Girl feat. echo,411,DOG,岐阜県,1036,UNA10-,岐阜県,1984,NOY,岐阜県
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,993,HAL,岐阜県,1631,24KINO,岐阜県,2176,K.,岐阜県
-Lincle,LAX5 feat.Ryota Yoshinari,1045,KONOHA,岐阜県,1986,LEGACY,岐阜県,2757,NE63..,岐阜県
-Lincle,Infinite cave,978,KMA,岐阜県,1495,SWOOPS,岐阜県,1996,K.,岐阜県
+Lincle,LAX5 feat.Ryota Yoshinari,1045,KONOHA,岐阜県,1986,LEGACY,岐阜県,2790,KH*358,岐阜県
+Lincle,Infinite cave,978,KMA,岐阜県,1495,SWOOPS,岐阜県,2015,KH*358,岐阜県
 Lincle,In the Blackest Den,474,SHINO,岐阜県,1548,ROCKY,岐阜県,2579,AMER,岐阜県
-Lincle,I'm so Happy,407,DOG,岐阜県,1335,24KINO,岐阜県,2262,KG-R.S,岐阜県
+Lincle,I'm so Happy,407,DOG,岐阜県,1335,24KINO,岐阜県,2312,KH*358,岐阜県
 Lincle,HAERETICUS,799,LEGACY,岐阜県,1900,K.,岐阜県,2937,AMER,岐阜県
 Lincle,Follow Tomorrow,885,KONOHA,岐阜県,1487,24KINO,岐阜県,2220,K.,岐阜県
 Lincle,Flip Flap,456,M*Y-LZ,岐阜県,1379,NE63..,岐阜県,2210,AMER,岐阜県
@@ -655,7 +655,7 @@ tricoro,梅雪夜,873,ANANEE,岐阜県,1392,BANME4,岐阜県,2113,KG-R.S,岐阜�
 tricoro,朧†,0,,未設定,0,,未設定,2496,IIDX26,岐阜県
 tricoro,朧,775,KONOHA,岐阜県,1500,24KINO,岐阜県,2090,KG-R.S,岐阜県
 tricoro,即席！脳直★ミュージックシステム,964,2030,岐阜県,1965,24KINO,岐阜県,3460,AMER,岐阜県
-tricoro,創世ノート,784,UNA10-,岐阜県,1797,BANME4,岐阜県,2873,S660!!,岐阜県
+tricoro,創世ノート,784,UNA10-,岐阜県,1797,BANME4,岐阜県,2900,KH*358,岐阜県
 tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3758,IIDX26,岐阜県
 tricoro,仮想空間の旅人たち,1138,KONOHA,岐阜県,2175,24KINO,岐阜県,2836,KH*358,岐阜県
 tricoro,下弦の月,912,HAL,岐阜県,1466,24KINO,岐阜県,1964,KH*358,岐阜県
@@ -673,9 +673,9 @@ tricoro,ΕΛΠΙΣ,1024,M.H,岐阜県,2058,KG-R.S,岐阜県,3078,KH*358,岐阜�
 tricoro,Zirkfied,975,HAL,岐阜県,1992,TUTTYO,岐阜県,3596,AMER,岐阜県
 tricoro,ZED,906,HAL,岐阜県,1617,BANME4,岐阜県,2675,S660!!,岐阜県
 tricoro,YELLOW FROG from Steel Chronicle,393,TOUCH,岐阜県,1272,24KINO,岐阜県,1901,NOY,岐阜県
-tricoro,VEGA,738,RI.,岐阜県,1973,BANME4,岐阜県,3015,K.,岐阜県
+tricoro,VEGA,738,RI.,岐阜県,1973,BANME4,岐阜県,3027,KH*358,岐阜県
 tricoro,VALLIS-NERIA,1179,KMA,岐阜県,2052,SWOOPS,岐阜県,2850,KH*358,岐阜県
-tricoro,Valanga,1234,KMCY,岐阜県,2162,KG-R.S,岐阜県,3116,AMER,岐阜県
+tricoro,Valanga,1234,KMCY,岐阜県,2162,KG-R.S,岐阜県,3124,KH*358,岐阜県
 tricoro,True Blue,1058,NE63..,岐阜県,2505,K.,岐阜県,3642,AMER,岐阜県
 tricoro,To my star,585,ROBOCO,岐阜県,1209,ROBOCO,岐阜県,1730,NOY,岐阜県
 tricoro,Timepiece phase II (CN Ver.),990,ANANEE,岐阜県,1882,NE63..,岐阜県,2774,AMER,岐阜県
@@ -700,7 +700,7 @@ tricoro,POINT ZERO,683,DOG,岐阜県,1127,DOG,岐阜県,2054,KH*358,岐阜県
 tricoro,planarian,656,2030,岐阜県,1661,24KINO,岐阜県,2501,AMER,岐阜県
 tricoro,Plan 8,1094,DOG,岐阜県,2210,K.,岐阜県,2938,AMER,岐阜県
 tricoro,New Lights,886,S4KUMO,岐阜県,1738,KG-R.S,岐阜県,2459,KH*358,岐阜県
-tricoro,New Decade IIDX Edition,954,HAL,岐阜県,1913,K.,岐阜県,2866,KG-R.S,岐阜県
+tricoro,New Decade IIDX Edition,954,HAL,岐阜県,1913,K.,岐阜県,2880,KH*358,岐阜県
 tricoro,neu,925,KMA,岐阜県,2108,ZUNDA,岐阜県,3828,AMER,岐阜県
 tricoro,Neonlights,630,DOG,岐阜県,1604,24KINO,岐阜県,2179,NOY,岐阜県
 tricoro,mnemoniq,249,?,岐阜県,918,HAL,岐阜県,1290,YUUNA,岐阜県
@@ -817,7 +817,7 @@ SPADA,Atropos,967,2030,岐阜県,1485,NULL,岐阜県,2277,KG-R.S,岐阜県
 SPADA,ATHER,955,KONOHA,岐阜県,1507,BANME4,岐阜県,2724,AMER,岐阜県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,3976,IIDX26,岐阜県
 SPADA,Ancient Scapes,1022,HAL,岐阜県,1975,ZUNDA,岐阜県,3351,KH*358,岐阜県
-SPADA,ALBA -黎明-,596,2030,岐阜県,1552,24KINO,岐阜県,3131,KG-R.S,岐阜県
+SPADA,ALBA -黎明-,596,2030,岐阜県,1552,24KINO,岐阜県,3154,KH*358,岐阜県
 SPADA,Adularia,1023,HAL,岐阜県,1853,KG-R.S,岐阜県,2701,AMER,岐阜県
 PENDUAL,Ｘ↑Ｘ↓,892,SARASA,岐阜県,1628,KONOHA,岐阜県,2802,KH*358,岐阜県
 PENDUAL,鬼天,956,KMA,岐阜県,1673,SWOOPS,岐阜県,2374,KH*358,岐阜県
@@ -825,13 +825,13 @@ PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,999,KONOHA,岐阜県,2016,NOY,岐阜県,2650,NE63..,岐阜県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,1058,2030,岐阜県,2178,24KINO,岐阜県,3469,AMER,岐阜県
 PENDUAL,紅牡丹,1047,500YEN,岐阜県,1813,K.,岐阜県,2747,AMER,岐阜県
-PENDUAL,白露の風,476,KONOHA,岐阜県,1116,KONOHA,岐阜県,1998,KG-R.S,岐阜県
+PENDUAL,白露の風,476,KONOHA,岐阜県,1116,KONOHA,岐阜県,2007,KH*358,岐阜県
 PENDUAL,時空トラベローグ,747,CUCUMB,岐阜県,1779,RYO,岐阜県,2576,AMER,岐阜県
 PENDUAL,打打打打打打打打打打,779,DM,岐阜県,1359,24KINO,岐阜県,2590,KG-R.S,岐阜県
 PENDUAL,恋は白帯、サンシロー†,0,,未設定,0,,未設定,2726,KG-R.S,岐阜県
 PENDUAL,恋は白帯、サンシロー,739,KONOHA,岐阜県,1227,GMT.RK,岐阜県,2014,KG-R.S,岐阜県
 PENDUAL,少年は空を辿る,1168,KMA,岐阜県,2017,YUKIA2,岐阜県,3183,AMER,岐阜県
-PENDUAL,妖隠し -あやかしかくし-,928,HAL,岐阜県,1571,24KINO,岐阜県,2148,KG-R.S,岐阜県
+PENDUAL,妖隠し -あやかしかくし-,928,HAL,岐阜県,1571,24KINO,岐阜県,2173,KH*358,岐阜県
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,921,KMA,岐阜県,1850,SWOOPS,岐阜県,2981,KH*358,岐阜県
 PENDUAL,取り残された美術(Arranged:HiZuMi),805,LIME*,岐阜県,1713,24KINO,岐阜県,2188,KH*358,岐阜県
 PENDUAL,千年ノ理,1197,AMER,岐阜県,1943,24KINO,岐阜県,3122,KH*358,岐阜県
@@ -847,7 +847,7 @@ PENDUAL,とろぴかる倶楽部,809,ZUNDA,岐阜県,1461,AMER,岐阜県,2216,AM
 PENDUAL,それは花火のような恋,1286,24KINO,岐阜県,2499,SWOOPS,岐阜県,3768,KH*358,岐阜県
 PENDUAL,ZZ,1194,LEGACY,岐阜県,2005,KG-R.S,岐阜県,2950,KG-R.S,岐阜県
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,1031,HIME-G,岐阜県,2269,SWOOPS,岐阜県,3538,AMER,岐阜県
-PENDUAL,Vulkan,1008,HAL,岐阜県,1901,BANME4,岐阜県,2930,S660!!,岐阜県
+PENDUAL,Vulkan,1008,HAL,岐阜県,1901,BANME4,岐阜県,2945,KH*358,岐阜県
 PENDUAL,TOXIC VIBRATION,1417,N*OF-7,岐阜県,2350,S660!!,岐阜県,3673,AMER,岐阜県
 PENDUAL,TIEFSEE,1041,SEVEN,岐阜県,2063,24KINO,岐阜県,3355,KG-R.S,岐阜県
 PENDUAL,The Least 100sec,778,HAL,岐阜県,1366,BANME4,岐阜県,2792,AMER,岐阜県
@@ -945,7 +945,7 @@ copula,StrayedCatz,792,MINIME,岐阜県,1926,KODO.9,岐阜県,2749,AMER,岐阜�
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3171,Y.Y,岐阜県
 copula,STARLIGHT DANCEHALL,1173,KMA,岐阜県,1821,SWOOPS,岐阜県,2592,K.,岐阜県
 copula,STARLiGHT,921,HAL,岐阜県,1782,S660!!,岐阜県,2691,Y.Y,岐阜県
-copula,SHELTER OF THE MIND,1401,KONOHA,岐阜県,1964,24KINO,岐阜県,2950,S660!!,岐阜県
+copula,SHELTER OF THE MIND,1401,KONOHA,岐阜県,1964,24KINO,岐阜県,2993,KH*358,岐阜県
 copula,Set U Free feat. Kanae Asaba,917,KONOHA,岐阜県,1417,HAL,岐阜県,2470,DDR,岐阜県
 copula,Sephirot,921,HAL,岐阜県,1610,24KINO,岐阜県,2314,KH*358,岐阜県
 copula,SEITEN NO TERIYAKI,685,PUTTY0,岐阜県,1202,TOMORI,岐阜県,2174,YUKIA2,岐阜県
@@ -960,7 +960,7 @@ copula,On the FM,1039,CLEOME,岐阜県,1551,S660!!,岐阜県,2653,K.,岐阜県
 copula,NZM,1038,RACTVE,岐阜県,1498,TAPRIN,岐阜県,3253,AMER,岐阜県
 copula,Nowhere,430,INUE,岐阜県,1459,24KINO,岐阜県,2110,YUKIA2,岐阜県
 copula,NO LIMIT -オレ達に限界は無い-,798,2030,岐阜県,1245,24KINO,岐阜県,2233,NE63..,岐阜県
-copula,NINJA IS DEAD IIDX ver.,1179,TAMI,岐阜県,1819,BANME4,岐阜県,2912,AMER,岐阜県
+copula,NINJA IS DEAD IIDX ver.,1179,TAMI,岐阜県,1832,BANME4,岐阜県,2912,AMER,岐阜県
 copula,Nightmare before oversleep,1174,S660!!,岐阜県,1889,KG-R.S,岐阜県,2852,KH*358,岐阜県
 copula,NANAIRO,956,HAL,岐阜県,1689,BANME4,岐阜県,2533,KH*358,岐阜県
 copula,Musik LoverZ,1012,HAL,岐阜県,1398,24KINO,岐阜県,2431,KH*358,岐阜県
@@ -990,7 +990,7 @@ copula,Damage Per Second,872,TANI,岐阜県,1409,24KINO,岐阜県,2021,KG-R.S,�
 copula,Daily Lunch Special,910,CUCUMB,岐阜県,2106,NE63..,岐阜県,2910,AMER,岐阜県
 copula,CODE:1 [revision1.0.1],933,HAL,岐阜県,1687,SEMI0T,岐阜県,2941,DDR,岐阜県
 copula,chaos eater -IIDX edition-,1154,KONOHA,岐阜県,1605,SARASA,岐阜県,2537,S660!!,岐阜県
-copula,Central Station,962,HAL,岐阜県,1508,TOMORI,岐阜県,2342,KG-R.S,岐阜県
+copula,Central Station,962,HAL,岐阜県,1508,TOMORI,岐阜県,2363,KH*358,岐阜県
 copula,Blue Spring Express,1233,COLT,岐阜県,2028,K.,岐阜県,3144,AMER,岐阜県
 copula,Battle Train -IIDX Edition-,811,CAMUI*,岐阜県,2484,SWOOPS,岐阜県,3185,KH*358,岐阜県
 copula,Aublia,921,HAL,岐阜県,1526,K.,岐阜県,2488,KG-R.S,岐阜県
@@ -1002,10 +1002,10 @@ copula,199024club -Re:BounceKiller-,639,N3PH,岐阜県,1654,K.,岐阜県,2247,K.
 SINOBUZ,鴉,1424,KONOHA,岐阜県,2173,NE63..,岐阜県,2654,KH*358,岐阜県
 SINOBUZ,童話回廊,921,4RANG7,岐阜県,1675,YUE.*,岐阜県,2966,AMER,岐阜県
 SINOBUZ,禍根,797,HAL,岐阜県,1291,YUE.*,岐阜県,2533,KH*358,岐阜県
-SINOBUZ,獅子霞麗ノ舞,375,TOMO,岐阜県,1080,S660!!,岐阜県,1696,KG-R.S,岐阜県
+SINOBUZ,獅子霞麗ノ舞,375,TOMO,岐阜県,1080,S660!!,岐阜県,1701,KH*358,岐阜県
 SINOBUZ,焔極OVERKILL,1143,S660!!,岐阜県,2099,K.,岐阜県,3441,AMER,岐阜県
 SINOBUZ,炎影,682,SYARO*,岐阜県,1335,SEMI0T,岐阜県,2577,AMER,岐阜県
-SINOBUZ,津軽雪,1388,HIME-G,岐阜県,2198,KG-R.S,岐阜県,3682,AMER,岐阜県
+SINOBUZ,津軽雪,1453,GINKA9,岐阜県,2198,KG-R.S,岐阜県,3682,AMER,岐阜県
 SINOBUZ,次葉 -turn the page-,790,LEGACY,岐阜県,1423,24KINO,岐阜県,1975,KH*358,岐阜県
 SINOBUZ,月雪に舞う華のように,813,HAL,岐阜県,1224,TOMORI,岐阜県,2071,AMER,岐阜県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,977,HAL,岐阜県,1566,24KINO,岐阜県,2436,AMER,岐阜県
@@ -1031,7 +1031,7 @@ SINOBUZ,The Commanders,885,COLT,岐阜県,1497,24KINO,岐阜県,2416,KH*358,岐�
 SINOBUZ,Sweet Clapper,554,COL-RH,岐阜県,1239,24KINO,岐阜県,1897,K.,岐阜県
 SINOBUZ,Super Rush,990,GMT.RK,岐阜県,1840,.,岐阜県,3452,AMER,岐阜県
 SINOBUZ,Summerlights(IIDX Edition),1062,KA*C,岐阜県,1856,SWOOPS,岐阜県,2994,KH*358,岐阜県
-SINOBUZ,Summer,636,DOG,岐阜県,1409,24KINO,岐阜県,1922,NOY,岐阜県
+SINOBUZ,Summer,636,DOG,岐阜県,1409,24KINO,岐阜県,1954,KH*358,岐阜県
 SINOBUZ,Steel Edge,902,4RANG7,岐阜県,1456,YAMIY,岐阜県,3073,KG-R.S,岐阜県
 SINOBUZ,Snakey Kung-fu,1076,KONOHA,岐阜県,2132,NE63..,岐阜県,3292,KH*358,岐阜県
 SINOBUZ,Sky High,1102,KONOHA,岐阜県,2338,K.,岐阜県,3699,AMER,岐阜県
@@ -1064,7 +1064,7 @@ SINOBUZ,Magical,448,NAINB,岐阜県,1188,24KINO,岐阜県,1977,KH*358,岐阜県
 SINOBUZ,Macuilxochitl,1324,NULL,岐阜県,2195,KG-R.S,岐阜県,3196,KG-R.S,岐阜県
 SINOBUZ,Lost wing at.0,902,HAL,岐阜県,1424,24KINO,岐阜県,2417,KH*358,岐阜県
 SINOBUZ,INVISIBLE STRIX,1050,KMA,岐阜県,2002,KG-R.S,岐阜県,2525,S660!!,岐阜県
-SINOBUZ,Honey Trap,774,HIROTO,岐阜県,1613,24KINO,岐阜県,2469,AMER,岐阜県
+SINOBUZ,Honey Trap,800,NULL,岐阜県,1613,24KINO,岐阜県,2469,AMER,岐阜県
 SINOBUZ,HAPPY★RUSH,720,TOOL,岐阜県,1893,SWOOPS,岐阜県,2836,AMER,岐阜県
 SINOBUZ,HADES,964,TOMORI,岐阜県,1833,K.,岐阜県,2930,KH*358,岐阜県
 SINOBUZ,GuNGNiR,1288,KONOHA,岐阜県,2577,K.,岐阜県,3802,AMER,岐阜県
@@ -1104,15 +1104,15 @@ CANNON BALLERS,命の標本,687,JIO,岐阜県,1576,HAL,岐阜県,2602,KG-R.S,岐
 CANNON BALLERS,共犯へヴンズコード,474,DOG,岐阜県,1334,TOMORI,岐阜県,2225,AMER,岐阜県
 CANNON BALLERS,ラストセンチュリーメランコリック,834,HAL,岐阜県,1608,24KINO,岐阜県,2109,KG-R.S,岐阜県
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),990,JIO,岐阜県,1898,K.,岐阜県,2726,AMER,岐阜県
-CANNON BALLERS,バスルーム ロマンス,965,KARIN,岐阜県,1382,GMT.RK,岐阜県,2389,KG-R.S,岐阜県
-CANNON BALLERS,バ→ビ→ブ→Bomb!,795,JIO,岐阜県,1745,ROCKY,岐阜県,2448,KG-R.S,岐阜県
+CANNON BALLERS,バスルーム ロマンス,965,KARIN,岐阜県,1382,GMT.RK,岐阜県,2394,KH*358,岐阜県
+CANNON BALLERS,バ→ビ→ブ→Bomb!,795,JIO,岐阜県,1745,ROCKY,岐阜県,2483,KH*358,岐阜県
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,850,KONOHA,岐阜県,1535,24KINO,岐阜県,2391,AMER,岐阜県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,1018,KONOHA,岐阜県,1539,24KINO,岐阜県,2076,KH*358,岐阜県
 CANNON BALLERS,シムルグの目醒め,1378,4RANG7,岐阜県,2301,K.,岐阜県,3293,AMER,岐阜県
 CANNON BALLERS,エディブルフラワーの独白,771,CAMUI*,岐阜県,1525,TOMORI,岐阜県,2171,S660!!,岐阜県
 CANNON BALLERS,うさ☆かめ 大戦争！,915,4RANG7,岐阜県,1476,TRUMOO,岐阜県,2441,AMER,岐阜県
 CANNON BALLERS,Xperanza,1326,BANME4,岐阜県,2416,KH*358,岐阜県,3074,AMER,岐阜県
-CANNON BALLERS,VOX RUSH,1331,4RANG7,岐阜県,2108,4RANG7,岐阜県,3196,AMER,岐阜県
+CANNON BALLERS,VOX RUSH,1331,4RANG7,岐阜県,2110,BANME4,岐阜県,3196,AMER,岐阜県
 CANNON BALLERS,Usual Days-remix,1064,KONOHA,岐阜県,1415,4RANG7,岐阜県,2570,DDR,岐阜県
 CANNON BALLERS,UMMU,1169,DAI,岐阜県,2058,NE63..,岐阜県,2996,AMER,岐阜県
 CANNON BALLERS,The Revolution (VIP Mix),757,JIO,岐阜県,1474,.,岐阜県,1806,KG-R.S,岐阜県
@@ -1134,7 +1134,7 @@ CANNON BALLERS,Persephone,1282,4RANG7,岐阜県,1935,KG-R.S,岐阜県,2891,KH*35
 CANNON BALLERS,Papilio ulysses,1128,LEGACY,岐阜県,2078,KG-R.S,岐阜県,2798,KH*358,岐阜県
 CANNON BALLERS,Only for now,894,TAPRIN,岐阜県,1566,24KINO,岐阜県,2240,NE63..,岐阜県
 CANNON BALLERS,O/D*20,1114,SHIBA,岐阜県,1687,K.,岐阜県,2094,KG-R.S,岐阜県
-CANNON BALLERS,Nothing but Theory,1048,HAL,岐阜県,1587,24KINO,岐阜県,2784,KG-R.S,岐阜県
+CANNON BALLERS,Nothing but Theory,1048,HAL,岐阜県,1587,24KINO,岐阜県,2796,KH*358,岐阜県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,924,JIO,岐阜県,1550,24KINO,岐阜県,2294,KH*358,岐阜県
 CANNON BALLERS,NITROUS CANNON,1257,DAI,岐阜県,2004,SWOOPS,岐阜県,3403,KH*358,岐阜県
 CANNON BALLERS,n'pa pa BBQ,913,KONOHA,岐阜県,1731,24KINO,岐阜県,2716,K.,岐阜県
@@ -1152,7 +1152,7 @@ CANNON BALLERS,Hella Deep,632,DDR,岐阜県,1032,CHIFFE,岐阜県,1778,KG-R.S,�
 CANNON BALLERS,HAT TRICK,839,TANI,岐阜県,1435,24KINO,岐阜県,2187,K.,岐阜県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,545,DAI,岐阜県,1173,74MAKO,岐阜県,1857,NOY,岐阜県
 CANNON BALLERS,FUTURE is Dead,894,YUE.*,岐阜県,1377,0KANA,岐阜県,2194,AMER,岐阜県
-CANNON BALLERS,From Time To Time,775,JIO,岐阜県,1774,DAI,岐阜県,2425,KG-R.S,岐阜県
+CANNON BALLERS,From Time To Time,775,JIO,岐阜県,1810,SEMI0T,岐阜県,2425,KG-R.S,岐阜県
 CANNON BALLERS,FREEDOM,940,DAI,岐阜県,1682,24KINO,岐阜県,2853,KH*358,岐阜県
 CANNON BALLERS,FIRE BALL,823,JIO,岐阜県,1461,DAI,岐阜県,2418,KH*358,岐阜県
 CANNON BALLERS,Fervidex,810,JIO,岐阜県,1815,YUKIA2,岐阜県,2673,AMER,岐阜県
@@ -1177,8 +1177,8 @@ CANNON BALLERS,Back Spin Sweeper,839,ROCKY,岐阜県,1381,24KINO,岐阜県,2177,
 CANNON BALLERS,Around the Future,1028,KMA,岐阜県,1677,SEMI0T,岐阜県,2508,KH*358,岐阜県
 CANNON BALLERS,Arca,855,CAMUI*,岐阜県,1738,GMT.RK,岐阜県,3051,AMER,岐阜県
 CANNON BALLERS,Antigravity,1041,KG-R.S,岐阜県,1965,S660!!,岐阜県,2974,AMER,岐阜県
-CANNON BALLERS,ANCHOR,1312,KARIN,岐阜県,2489,AMER,岐阜県,3470,KH*358,岐阜県
-CANNON BALLERS,ANAGMA,983,JIO,岐阜県,1825,24KINO,岐阜県,2573,KG-R.S,岐阜県
+CANNON BALLERS,ANCHOR,1319,BANME4,岐阜県,2489,AMER,岐阜県,3470,KH*358,岐阜県
+CANNON BALLERS,ANAGMA,983,JIO,岐阜県,1825,24KINO,岐阜県,2587,KH*358,岐阜県
 CANNON BALLERS,Amor De Verao,733,DAI,岐阜県,1416,24KINO,岐阜県,2258,KH*358,岐阜県
 CANNON BALLERS,Alpheratz,431,KONOHA,岐阜県,1035,24KINO,岐阜県,2066,KG-R.S,岐阜県
 CANNON BALLERS,Acidiva 303,770,CLEOME,岐阜県,1329,TOMORI,岐阜県,2254,KG-R.S,岐阜県
@@ -1223,6 +1223,7 @@ Rootage,Serious?,596,YUUNA,岐阜県,1202,YUUNA,岐阜県,2187,K.,岐阜県
 Rootage,R∞tAge,1121,YUUNA,岐阜県,1680,YUUNA,岐阜県,2919,KH*358,岐阜県
 Rootage,ROZA DE ANDALUCIA,1314,YUUNA,岐阜県,2033,KG-R.S,岐阜県,2993,AMER,岐阜県
 Rootage,"ROCK女 feat. 大山愛未, Ken",1087,YUUNA,岐阜県,1817,YUUNA,岐阜県,2689,KH*358,岐阜県
+Rootage,REPLAY,951,YUUNA,岐阜県,1642,YUUNA,岐阜県,2215,AMER,岐阜県
 Rootage,Red. by Jack Trance,1497,SWOOPS,岐阜県,2126,K.,岐阜県,3291,AMER,岐阜県
 Rootage,Re:Story,436,YUUNA,岐阜県,1114,YUUNA,岐阜県,1910,AMER,岐阜県
 Rootage,Psycho Sheep Riddim,644,MIMORI,岐阜県,1003,NOY,岐阜県,1650,KH*358,岐阜県
@@ -1245,6 +1246,7 @@ Rootage,HOT LIMIT,1060,SWOOPS,岐阜県,1704,SWOOPS,岐阜県,2508,KH*358,岐阜
 Rootage,HEISEI,1169,YUUNA,岐阜県,1938,KH*358,岐阜県,2538,KH*358,岐阜県
 Rootage,Glory,774,NOY,岐阜県,1662,YUKIA2,岐阜県,2276,AMER,岐阜県
 Rootage,GIGA THRASH,1263,YUUNA,岐阜県,1858,KG-R.S,岐阜県,2655,KH*358,岐阜県
+Rootage,Garuda,1066,SWOOPS,岐阜県,1628,SWOOPS,岐阜県,2551,KH*358,岐阜県
 Rootage,EVANESCENT,1300,YUUNA,岐阜県,2309,YUUNA,岐阜県,3447,AMER,岐阜県
 Rootage,Ember Lights,962,SWOOPS,岐阜県,1651,KG-R.S,岐阜県,2658,KH*358,岐阜県
 Rootage,DRUNK MONKY,1015,SWOOPS,岐阜県,1584,NE63..,岐阜県,2215,AMER,岐阜県
@@ -1254,6 +1256,7 @@ Rootage,Digital Skipper,1006,YUUNA,岐阜県,1587,YUUNA,岐阜県,2215,KH*358,�
 Rootage,dAuntl3ss,1083,YUUNA,岐阜県,2002,KH*358,岐阜県,3399,KH*358,岐阜県
 Rootage,Cranberry City ft. Luschel,855,YUUNA,岐阜県,1606,NOY,岐阜県,2384,KH*358,岐阜県
 Rootage,CoMAAAAAAA,1263,SWOOPS,岐阜県,2093,KG-R.S,岐阜県,2388,KH*358,岐阜県
+Rootage,CODE:0,1407,YUUNA,岐阜県,2104,YUUNA,岐阜県,2719,S660!!,岐阜県
 Rootage,Catch Our Fire!,1338,YUUNA,岐阜県,2289,KH*358,岐阜県,3596,AMER,岐阜県
 Rootage,Carmina,1324,YUUNA,岐阜県,2414,AMER,岐阜県,3563,AMER,岐阜県
 Rootage,BLOSSOM,1077,MIMORI,岐阜県,1648,24KINO,岐阜県,2485,K.,岐阜県

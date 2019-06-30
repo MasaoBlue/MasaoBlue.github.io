@@ -70,7 +70,7 @@
 5th style,Real,1069,NOR4,山梨県,1355,NO4CUP,山梨県,1755,ROBIN,山梨県
 5th style,Radical Faith,945,EICA,山梨県,1029,GO3,山梨県,1220,BOLT,山梨県
 5th style,QQQ,1066,NAPPA,山梨県,1765,R0UN1N,山梨県,2104,AFOXA,山梨県
-5th style,outer wall,0,,未設定,988,HAYA*,山梨県,1636,NO4MOB,山梨県
+5th style,outer wall,570,EINC,山梨県,988,HAYA*,山梨県,1636,NO4MOB,山梨県
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,未設定,422,YUCHAN,山梨県,1118,NO4XTK,山梨県
 5th style,in my eyes,0,,未設定,781,GO3,山梨県,1582,NO4XTK,山梨県
 5th style,Abyss,0,,未設定,1405,KARIN,山梨県,1828,AFOXA,山梨県
@@ -328,17 +328,17 @@ DistorteD,ALFARSHEAR 双神威に廻る夢,641,KITEN,山梨県,1541,HORATI,山�
 GOLD,電人、暁に斃れる。,796,JAG,山梨県,1986,BDMNI3,山梨県,3331,M-A,山梨県
 GOLD,零 - ZERO -,1132,18R.,山梨県,1686,RE,山梨県,2265,ROBIN,山梨県
 GOLD,花吹雪 ～ IIDX LIMITED ～,615,NAPPA,山梨県,833,XIDRAL,山梨県,1430,NO4XTK,山梨県
-GOLD,星をこの手に,920,KIBA84,山梨県,1819,NO4CUP,山梨県,2135,NO4XTK,山梨県
+GOLD,星をこの手に,1051,C.MO,山梨県,1819,NO4CUP,山梨県,2135,NO4XTK,山梨県
 GOLD,リグレット,1028,KIBA84,山梨県,1523,NEDGY,山梨県,2407,NO4XTK,山梨県
 GOLD,ヨシダさん,558,RUDRA,山梨県,1322,RYO,山梨県,1949,ROBIN,山梨県
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,776,ROUKO,山梨県,1433,TFN,山梨県,2210,ROBIN,山梨県
 GOLD,X-rated,247,OP,山梨県,1511,TFN,山梨県,2032,AFOXA,山梨県
-GOLD,With your Smile,441,KANON*,山梨県,1037,AYA2ME,山梨県,1557,ROBIN,山梨県
+GOLD,With your Smile,551,MAE,山梨県,1037,AYA2ME,山梨県,1557,ROBIN,山梨県
 GOLD,Watch out!!,0,,未設定,980,AFOXA,山梨県,1573,NO4XTK,山梨県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3304,NO4XTK,山梨県
 GOLD,VANESSA,829,JUN!!!,山梨県,1388,PINGU,山梨県,2399,NO4XTK,山梨県
 GOLD,TRANOID,647,NAPPA,山梨県,1533,ALISIA,山梨県,2238,NO4XTK,山梨県
-GOLD,The Smile of You,584,HTS,山梨県,1106,HAYA*,山梨県,1610,ROBIN,山梨県
+GOLD,The Smile of You,609,MAE,山梨県,1106,HAYA*,山梨県,1610,ROBIN,山梨県
 GOLD,the shadow,1081,4BY-P1,山梨県,1896,WELCH,山梨県,2868,NO4XTK,山梨県
 GOLD,snow storm,591,PINGU,山梨県,2038,S,山梨県,2724,ROBIN,山梨県
 GOLD,smile,1131,KIBA84,山梨県,1941,DARYAN,山梨県,2798,AFOXA,山梨県
@@ -355,8 +355,8 @@ GOLD,LASER CRUSTER,981,KIBA84,山梨県,2277,NO4CUP,山梨県,3156,NO4XTK,山梨
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3701,M-A,山梨県
 GOLD,KAMAITACHI,927,AYA2ME,山梨県,1783,P*CODE,山梨県,2674,NO4XTK,山梨県
 GOLD,INORI,1268,MAT.,山梨県,2456,GING**,山梨県,3193,NO4XTK,山梨県
-GOLD,High School Love,526,RUMIA,山梨県,1311,RYO,山梨県,2151,AFOXA,山梨県
-GOLD,heaven above,443,KELL0W,山梨県,1332,NO4CUP,山梨県,1802,NO4CUP,山梨県
+GOLD,High School Love,657,MAE,山梨県,1311,RYO,山梨県,2151,AFOXA,山梨県
+GOLD,heaven above,521,MAE,山梨県,1332,NO4CUP,山梨県,1802,NO4CUP,山梨県
 GOLD,GRID KNIGHT,430,EXTACY,山梨県,1570,RYO,山梨県,2543,F13,山梨県
 GOLD,GOLD RUSH,1024,KAROUS,山梨県,1409,NO4CUP,山梨県,2236,HAKEN,山梨県
 GOLD,four-leaf,0,,未設定,939,HIRO,山梨県,1705,NO4XTK,山梨県
@@ -514,7 +514,7 @@ SIRIUS,DESIRE,0,,未設定,1542,TERAL,山梨県,2830,NO4XTK,山梨県
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,477,KOTOHA,山梨県,1438,TFN,山梨県,2082,M-A,山梨県
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,1358,NAPPA,山梨県,2333,IKAROS,山梨県,3066,ROBIN,山梨県
 SIRIUS,D,1344,R0UN1N,山梨県,1740,NO4MOB,山梨県,2500,NO4XTK,山梨県
-SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),685,F.JIN,山梨県,1438,FNR***,山梨県,2311,NO4MOB,山梨県
+SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),721,MAE,山梨県,1438,FNR***,山梨県,2311,NO4MOB,山梨県
 SIRIUS,bloomin' feeling,1045,SHINO,山梨県,1757,WELCH,山梨県,2576,M-A,山梨県
 SIRIUS,being torn the sky,352,ZOZO,山梨県,1064,KARIN,山梨県,1984,NO4XTK,山梨県
 SIRIUS,BEAUTIFUL ANGEL,436,EINC,山梨県,1688,TFN,山梨県,2372,AFOXA,山梨県
@@ -964,7 +964,7 @@ copula,NINJA IS DEAD IIDX ver.,1200,NO4CUP,山梨県,1723,TFN,山梨県,2936,NO4
 copula,Nightmare before oversleep,1056,KARIN,山梨県,1812,NO4CUP,山梨県,2840,ROBIN,山梨県
 copula,NANAIRO,1009,NO4CUP,山梨県,1670,ALISIA,山梨県,2392,YAISE,山梨県
 copula,Musik LoverZ,422,PEAS!,山梨県,1218,BLA,山梨県,2376,AFOXA,山梨県
-copula,M4K3 1T B0UNC3,1370,NO4CUP,山梨県,1925,SUSURU,山梨県,2852,F13,山梨県
+copula,M4K3 1T B0UNC3,1370,NO4CUP,山梨県,1955,NOR4,山梨県,2852,F13,山梨県
 copula,La dolce primavera,680,NO4CUP,山梨県,1195,TERU,山梨県,2148,NO4XTK,山梨県
 copula,Konzert V,1208,FNR***,山梨県,2141,YURE,山梨県,3289,NO4XTK,山梨県
 copula,Journey,678,NO4CUP,山梨県,934,CACALI,山梨県,1801,NO4MOB,山梨県
@@ -976,7 +976,7 @@ copula,GOBBLE,419,RYO,山梨県,592,BLA,山梨県,1701,NO4XTK,山梨県
 copula,Go Faraway,1021,NO4CUP,山梨県,986,NANASE,山梨県,2461,M-A,山梨県
 copula,Glitch Nerds,537,PEAS!,山梨県,1119,BLUWIZ,山梨県,2237,NO4XTK,山梨県
 copula,GET READY!!,969,FNR***,山梨県,1357,KI4MA3,山梨県,2534,NO4AYM,山梨県
-copula,GENERATE feat.綾倉盟,808,KIBA84,山梨県,1628,OKOJO?,山梨県,2331,NO4XTK,山梨県
+copula,GENERATE feat.綾倉盟,808,KIBA84,山梨県,1633,LUNA**,山梨県,2331,NO4XTK,山梨県
 copula,Exchange Place,425,KANON*,山梨県,1058,C-SYS.,山梨県,1710,AFOXA,山梨県
 copula,Everlasting Last,823,NO4CUP,山梨県,1568,NO4CUP,山梨県,2168,AFOXA,山梨県
 copula,Dynamite,1132,P*CODE,山梨県,2332,ALT*F4,山梨県,3798,NO4XTK,山梨県
@@ -997,7 +997,7 @@ copula,Aublia,780,NAPPA,山梨県,1500,NO4CUP,山梨県,2498,NO4XTK,山梨県
 copula,Arcana,1159,NO4CUP,山梨県,1573,TERU,山梨県,2191,ROBIN,山梨県
 copula,AO-1,1070,VEIN,山梨県,1701,WMARIO,山梨県,2771,M-A,山梨県
 copula,Angelic Jelly,862,MEO,山梨県,1981,YAISE,山梨県,2705,M-A,山梨県
-copula,Acid Pumper,678,NO4CUP,山梨県,1395,TERU,山梨県,2441,M-A,山梨県
+copula,Acid Pumper,678,NO4CUP,山梨県,1472,NOR4,山梨県,2441,M-A,山梨県
 copula,199024club -Re:BounceKiller-,322,PEAS!,山梨県,1573,NO4CUP,山梨県,2267,NO4XTK,山梨県
 SINOBUZ,鴉,1430,NO4CUP,山梨県,2120,NEXUS.,山梨県,2649,NO4XTK,山梨県
 SINOBUZ,童話回廊,948,ROBIN,山梨県,1741,ROBIN,山梨県,3064,NO4XTK,山梨県
@@ -1006,7 +1006,7 @@ SINOBUZ,獅子霞麗ノ舞,213,ZOZO,山梨県,1008,FNR***,山梨県,1682,NO4MOB,
 SINOBUZ,焔極OVERKILL,1079,FNR***,山梨県,1971,46KABE,山梨県,3560,M-A,山梨県
 SINOBUZ,炎影,401,NYUKI,山梨県,1293,TFN,山梨県,2661,NO4XTK,山梨県
 SINOBUZ,津軽雪,1476,NO4CUP,山梨県,2117,NO4CUP,山梨県,3767,NO4XTK,山梨県
-SINOBUZ,次葉 -turn the page-,499,OP,山梨県,1426,NO4XTK,山梨県,1967,ROBIN,山梨県
+SINOBUZ,次葉 -turn the page-,662,MAE,山梨県,1426,NO4XTK,山梨県,1967,ROBIN,山梨県
 SINOBUZ,月雪に舞う華のように,401,ROKU,山梨県,976,HAYA*,山梨県,1976,HAKEN,山梨県
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,1011,ROBIN,山梨県,1522,ROBIN,山梨県,2462,NO4XTK,山梨県
 SINOBUZ,忍恋花,974,FNR***,山梨県,1495,TFN,山梨県,2129,AFOXA,山梨県
@@ -1028,7 +1028,7 @@ SINOBUZ,Venom,1191,FNR***,山梨県,2000,NO4MOB,山梨県,3098,ROBIN,山梨県
 SINOBUZ,Umbral,418,TAMA$$,山梨県,1368,NO4CUP,山梨県,1869,AFOXA,山梨県
 SINOBUZ,TOGAKUSHI,947,FNR***,山梨県,1726,GING**,山梨県,2594,M-A,山梨県
 SINOBUZ,The Commanders,627,NANASE,山梨県,1324,SYAM,山梨県,2428,M-A,山梨県
-SINOBUZ,Sweet Clapper,290,OP,山梨県,1210,NO4CUP,山梨県,1905,ROBIN,山梨県
+SINOBUZ,Sweet Clapper,470,MAE,山梨県,1210,NO4CUP,山梨県,1905,ROBIN,山梨県
 SINOBUZ,Super Rush,988,ZEAL,山梨県,1783,TFN,山梨県,3382,ROBIN,山梨県
 SINOBUZ,Summerlights(IIDX Edition),1055,FNR***,山梨県,1719,OKOJO?,山梨県,2974,ROBIN,山梨県
 SINOBUZ,Summer,444,EXTACY,山梨県,1086,C-SYS.,山梨県,1930,NO4XTK,山梨県
@@ -1133,7 +1133,7 @@ CANNON BALLERS,Rampage,1202,P*CODE,山梨県,2392,YAISE,山梨県,3494,ROBIN,山
 CANNON BALLERS,Persephone,562,MEO,山梨県,1903,MG-REX,山梨県,2925,NO4XTK,山梨県
 CANNON BALLERS,Papilio ulysses,1144,P*CODE,山梨県,1932,P*CODE,山梨県,2880,M-A,山梨県
 CANNON BALLERS,Only for now,521,PEAS!,山梨県,1465,HORATI,山梨県,2262,NO4XTK,山梨県
-CANNON BALLERS,O/D*20,585,NANASE,山梨県,1407,TMZ,山梨県,2118,NO4XTK,山梨県
+CANNON BALLERS,O/D*20,685,EINC,山梨県,1407,TMZ,山梨県,2118,NO4XTK,山梨県
 CANNON BALLERS,Nothing but Theory,663,MEO,山梨県,1435,HORATI,山梨県,2825,NO4XTK,山梨県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,未設定,1473,ALT*F4,山梨県,2301,M-A,山梨県
 CANNON BALLERS,NITROUS CANNON,729,UNI04$,山梨県,1968,NO4CUP,山梨県,3473,NO4XTK,山梨県
@@ -1223,6 +1223,7 @@ Rootage,Serious?,591,NO4CUP,山梨県,1192,MG-REX,山梨県,2220,NO4XTK,山梨�
 Rootage,R∞tAge,1106,NO4CUP,山梨県,1676,ROBIN,山梨県,2959,NO4XTK,山梨県
 Rootage,ROZA DE ANDALUCIA,1313,ROBIN,山梨県,2041,ROBIN,山梨県,3043,M-A,山梨県
 Rootage,"ROCK女 feat. 大山愛未, Ken",1041,NO4CUP,山梨県,1836,M-A,山梨県,2729,M-A,山梨県
+Rootage,REPLAY,839,NEDGY,山梨県,1438,FNR***,山梨県,2116,YAISE,山梨県
 Rootage,Red. by Jack Trance,1474,NO4CUP,山梨県,2075,NO4CUP,山梨県,3419,NO4XTK,山梨県
 Rootage,Re:Story,418,ROBIN,山梨県,1079,TFN,山梨県,1943,NO4XTK,山梨県
 Rootage,Psycho Sheep Riddim,644,HAKEN,山梨県,976,ROBIN,山梨県,1671,NO4XTK,山梨県
@@ -1245,6 +1246,7 @@ Rootage,HOT LIMIT,1067,NO4XTK,山梨県,1707,ROBIN,山梨県,2510,NO4XTK,山梨�
 Rootage,HEISEI,1139,NO4CUP,山梨県,1949,M-A,山梨県,2548,NO4XTK,山梨県
 Rootage,Glory,759,NO4CUP,山梨県,1676,M-A,山梨県,2306,NO4XTK,山梨県
 Rootage,GIGA THRASH,1197,ALISIA,山梨県,1752,LUNA**,山梨県,2649,M-A,山梨県
+Rootage,Garuda,1043,ROBIN,山梨県,1498,TFN,山梨県,2451,AFOXA,山梨県
 Rootage,EVANESCENT,1188,P*CODE,山梨県,2217,K-,山梨県,3539,M-A,山梨県
 Rootage,Ember Lights,955,ROBIN,山梨県,1627,ROBIN,山梨県,2695,NO4XTK,山梨県
 Rootage,DRUNK MONKY,927,P*CODE,山梨県,1546,XAT,山梨県,2288,NO4XTK,山梨県
@@ -1254,6 +1256,7 @@ Rootage,Digital Skipper,992,NO4CUP,山梨県,1555,NO4CUP,山梨県,2227,NO4XTK,�
 Rootage,dAuntl3ss,1069,ROBIN,山梨県,1996,NO4XTK,山梨県,3419,M-A,山梨県
 Rootage,Cranberry City ft. Luschel,855,ROBIN,山梨県,1580,ROBIN,山梨県,2415,NO4XTK,山梨県
 Rootage,CoMAAAAAAA,1210,ROBIN,山梨県,2036,ROBIN,山梨県,2397,NO4XTK,山梨県
+Rootage,CODE:0,1290,NEDGY,山梨県,1636,SJARTA,山梨県,2580,YAISE,山梨県
 Rootage,Catch Our Fire!,1271,SYAM,山梨県,2138,GING**,山梨県,3661,NO4XTK,山梨県
 Rootage,Carmina,1203,P*CODE,山梨県,2258,NOR4,山梨県,3714,M-A,山梨県
 Rootage,BLOSSOM,1079,ROBIN,山梨県,1635,ROBIN,山梨県,2502,M-A,山梨県
