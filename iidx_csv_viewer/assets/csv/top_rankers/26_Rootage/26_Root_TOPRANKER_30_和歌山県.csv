@@ -20,12 +20,12 @@
 2nd style,Electro Tuned(the SubS mix),756,T.T,和歌山県,915,T.T,和歌山県,1058,GIGANT,和歌山県
 2nd style,Digital MinD(A/T Libra mix),642,SASORI,和歌山県,947,*FUGU*,和歌山県,1121,GIGANT,和歌山県
 2nd style,.59,617,SASORI,和歌山県,896,*FUGU*,和歌山県,1156,GIGANT,和歌山県
-3rd style,THE SAFARI,1112,196--,和歌山県,1741,MYZ,和歌山県,0,,未設定
+3rd style,THE SAFARI,1167,NIKURO,和歌山県,1741,MYZ,和歌山県,0,,未設定
 3rd style,Tangerine Stream,264,SASORI,和歌山県,396,GIGANT,和歌山県,0,,未設定
 3rd style,Skyscraper,674,SASORI,和歌山県,1194,HUYU15,和歌山県,1241,GIGANT,和歌山県
 3rd style,Schlagwerk,816,T.T,和歌山県,1188,UME,和歌山県,1679,MYZ,和歌山県
 3rd style,REINCARNATION,775,SASORI,和歌山県,917,*FUGU*,和歌山県,1269,GIGANT,和歌山県
-3rd style,R5,753,T.T,和歌山県,1061,F.K!,和歌山県,1748,GIGANT,和歌山県
+3rd style,R5,753,T.T,和歌山県,1124,YUURA,和歌山県,1748,GIGANT,和歌山県
 3rd style,Presto,451,CALDNA,和歌山県,956,T.T,和歌山県,1005,GIGANT,和歌山県
 3rd style,LEADING CYBER,779,SASORI,和歌山県,1210,GIGANT,和歌山県,1265,GIGANT,和歌山県
 3rd style,Holic,700,SASORI,和歌山県,1222,GIGANT,和歌山県,1675,MYZ,和歌山県
@@ -140,7 +140,7 @@
 8th style,bit mania,0,,未設定,1145,SASORI,和歌山県,1839,RAD-W*,和歌山県
 8th style,Attitude,1011,T.T,和歌山県,1319,T.T,和歌山県,1744,GIGANT,和歌山県
 8th style,ALL RIGHT,443,FARIS,和歌山県,1099,*FUGU*,和歌山県,1585,GIGANT,和歌山県
-8th style,airflow,286,L!THIS,和歌山県,693,*FUGU*,和歌山県,1413,GIGANT,和歌山県
+8th style,airflow,286,L!THIS,和歌山県,736,NIKURO,和歌山県,1413,GIGANT,和歌山県
 8th style,abstract,1138,UME,和歌山県,1626,GIGANT,和歌山県,1872,GIGANT,和歌山県
 9th style,真夏の花・真夏の夢,777,SASORI,和歌山県,1049,*FUGU*,和歌山県,1414,SUSO,和歌山県
 9th style,ライオン好き,564,CALDNA,和歌山県,1054,SASORI,和歌山県,1491,Q-NO,和歌山県
@@ -210,7 +210,7 @@
 IIDX RED,ＵＬＴｉＭΛＴＥ,873,ASDC,和歌山県,1332,TSWMOG,和歌山県,1957,IIDX26,和歌山県
 IIDX RED,太陽～T・A・I・Y・O～,782,SASORI,和歌山県,1160,YUKI,和歌山県,1723,GIGANT,和歌山県
 IIDX RED,大桟橋,380,CALDNA,和歌山県,1012,*FUGU*,和歌山県,1834,GIGANT,和歌山県
-IIDX RED,ピアノ協奏曲第１番”蠍火”,515,MOHU,和歌山県,2052,R3HAB3,和歌山県,2622,CHI4NE,和歌山県
+IIDX RED,ピアノ協奏曲第１番”蠍火”,515,MOHU,和歌山県,2071,R3HAB3,和歌山県,2622,CHI4NE,和歌山県
 IIDX RED,Wonder Bullfighter,875,SASORI,和歌山県,1464,GIGANT,和歌山県,1960,GIGANT,和歌山県
 IIDX RED,The Hope of Tomorrow,1065,HUYU15,和歌山県,1719,GIGANT,和歌山県,1901,MYZ,和歌山県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3664,MYZ,和歌山県
@@ -355,7 +355,7 @@ GOLD,LASER CRUSTER,1210,SASORI,和歌山県,2313,Q-NO,和歌山県,3119,MYZ,和�
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3517,MYZ,和歌山県
 GOLD,KAMAITACHI,1111,SASORI,和歌山県,1920,NIKURO,和歌山県,2643,MYZ,和歌山県
 GOLD,INORI,1345,T.T,和歌山県,2609,GIGANT,和歌山県,3140,GIGANT,和歌山県
-GOLD,High School Love,845,SASORI,和歌山県,1414,UME,和歌山県,2182,T.S.M,和歌山県
+GOLD,High School Love,845,SASORI,和歌山県,1414,UME,和歌山県,2185,R3HAB3,和歌山県
 GOLD,heaven above,746,SASORI,和歌山県,1358,HUYU15,和歌山県,1826,GIGANT,和歌山県
 GOLD,GRID KNIGHT,775,ASDC,和歌山県,1993,GIGANT,和歌山県,2624,MYZ,和歌山県
 GOLD,GOLD RUSH,1101,F.K!,和歌山県,1390,VIET7M,和歌山県,2329,MYZ,和歌山県
@@ -378,7 +378,7 @@ DJ TROOPERS,マチ子の唄,760,SASORI,和歌山県,1016,A-DASH,和歌山県,175
 DJ TROOPERS,エコ爺,773,SASORI,和歌山県,436,KAREN,和歌山県,1792,RAD-W*,和歌山県
 DJ TROOPERS,Wanna Party?,764,T.T,和歌山県,959,SASORI,和歌山県,1514,GIGANT,和歌山県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3156,MYZ,和歌山県
-DJ TROOPERS,Ubertreffen,976,SASORI,和歌山県,1833,NIKURO,和歌山県,2451,RAITO.,和歌山県
+DJ TROOPERS,Ubertreffen,1026,DCP,和歌山県,1833,NIKURO,和歌山県,2451,RAITO.,和歌山県
 DJ TROOPERS,TROOPERS,1106,SASORI,和歌山県,2251,NODO96,和歌山県,2856,MYZ,和歌山県
 DJ TROOPERS,Time to Air,1148,SASORI,和歌山県,1913,196--,和歌山県,2845,MYZ,和歌山県
 DJ TROOPERS,the trigger of innocence,817,SASORI,和歌山県,1179,R3HAB3,和歌山県,1847,GIGANT,和歌山県
@@ -434,17 +434,17 @@ EMPRESS,まほろば,751,96SK,和歌山県,1374,ABIDY,和歌山県,2029,MYZ,和�
 EMPRESS,"You'll say ""Now!""",1065,SASORI,和歌山県,1407,ALIAS,和歌山県,2387,R3HAB3,和歌山県
 EMPRESS,Y&Co. is dead or alive,1086,SUSO,和歌山県,1645,T.T,和歌山県,2660,MYZ,和歌山県
 EMPRESS,V2,1453,YUURA,和歌山県,3144,GIGANT,和歌山県,3475,MYZ,和歌山県
-EMPRESS,Turii ～Panta rhei～,839,SASORI,和歌山県,1966,HERNIA,和歌山県,2583,RAITO.,和歌山県
+EMPRESS,Turii ～Panta rhei～,839,SASORI,和歌山県,1966,HERNIA,和歌山県,2632,MYZ,和歌山県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2850,MYZ,和歌山県
 EMPRESS,THANK YOU FOR PLAYING,756,SASORI,和歌山県,1632,HERNIA,和歌山県,2019,Q-NO,和歌山県
 EMPRESS,SOLITON BEAM,1200,SASORI,和歌山県,1800,IE,和歌山県,2334,MYZ,和歌山県
 EMPRESS,smooooch・∀・,821,NIKURO,和歌山県,1604,HERNIA,和歌山県,2125,MYZ,和歌山県
 EMPRESS,Secrets,1123,SASORI,和歌山県,2239,T.T,和歌山県,3107,MYZ,和歌山県
 EMPRESS,Queen's Tragedy,801,SASORI,和歌山県,1582,T.T,和歌山県,2190,MYZ,和歌山県
-EMPRESS,Punch Love 仮面,1036,SASORI,和歌山県,1629,T.T,和歌山県,2441,RAITO.,和歌山県
+EMPRESS,Punch Love 仮面,1036,SASORI,和歌山県,1629,T.T,和歌山県,2486,MYZ,和歌山県
 EMPRESS,Programmed World,873,SASORI,和歌山県,1731,HUYU15,和歌山県,2266,RAITO.,和歌山県
 EMPRESS,NΦ CRIME,775,SASORI,和歌山県,1261,*FUGU*,和歌山県,1883,MYZ,和歌山県
-EMPRESS,neogenesis,913,SASORI,和歌山県,1341,HUYU15,和歌山県,1704,R3HAB3,和歌山県
+EMPRESS,neogenesis,913,SASORI,和歌山県,1341,HUYU15,和歌山県,1706,MYZ,和歌山県
 EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2572,IRM,和歌山県
 EMPRESS,naughty girl@Queen's Palace,794,SASORI,和歌山県,1709,GIGANT,和歌山県,2089,GIGANT,和歌山県
 EMPRESS,Monkey Dance '09,828,SASORI,和歌山県,1684,HERNIA,和歌山県,2227,MYZ,和歌山県
@@ -563,7 +563,7 @@ Resort Anthem,Kailua,489,SASORI,和歌山県,1288,NIKURO,和歌山県,2075,RAITO
 Resort Anthem,I FIGHT ME,509,CALDNA,和歌山県,1285,SASORI,和歌山県,2097,T.S.M,和歌山県
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2336,MYZ,和歌山県
 Resort Anthem,Golden Palms,685,SASORI,和歌山県,1238,SASORI,和歌山県,1949,RAITO.,和歌山県
-Resort Anthem,Fantasia,402,R3HAB3,和歌山県,1551,R3HAB3,和歌山県,2189,RAITO.,和歌山県
+Resort Anthem,Fantasia,402,R3HAB3,和歌山県,1551,R3HAB3,和歌山県,2220,R3HAB3,和歌山県
 Resort Anthem,Everlasting Resort,817,SASORI,和歌山県,1148,SASORI,和歌山県,1880,MYZ,和歌山県
 Resort Anthem,Eternal Tears,425,SASORI,和歌山県,1010,GAUCHE,和歌山県,1354,RAD-W*,和歌山県
 Resort Anthem,Energy Drive,852,ASDC,和歌山県,1222,SASORI,和歌山県,2161,MYZ,和歌山県
@@ -709,9 +709,9 @@ tricoro,LUV CAN SAVE U,275,$$$$,和歌山県,1356,T.T,和歌山県,2125,GIGANT,�
 tricoro,Little Star,930,SASORI,和歌山県,1707,NIKURO,和歌山県,3065,MYZ,和歌山県
 tricoro,Light and Cyber…,1025,ASDC,和歌山県,2057,R3HAB3,和歌山県,3056,MYZ,和歌山県
 tricoro,Liberation,1439,T.T,和歌山県,2378,T.S.M,和歌山県,3610,GIGANT,和歌山県
-tricoro,JOMANDA,1140,SUSO,和歌山県,2196,GOMI,和歌山県,3382,RAITO.,和歌山県
+tricoro,JOMANDA,1140,SUSO,和歌山県,2196,GOMI,和歌山県,3481,MYZ,和歌山県
 tricoro,In Heaven,766,HUYU15,和歌山県,1481,R3HAB3,和歌山県,2120,MYZ,和歌山県
-tricoro,Illegal Function Call,460,SHIN,和歌山県,1589,ABIDY,和歌山県,2493,RAITO.,和歌山県
+tricoro,Illegal Function Call,460,SHIN,和歌山県,1589,ABIDY,和歌山県,2497,Q-NO,和歌山県
 tricoro,ILIAS,781,SASORI,和歌山県,1188,BDDEWG,和歌山県,2171,MYZ,和歌山県
 tricoro,I know You know,296,ZABA,和歌山県,1032,SASORI,和歌山県,1863,MYZ,和歌山県
 tricoro,Howling†,0,,未設定,0,,未設定,2623,MYZ,和歌山県
@@ -872,7 +872,7 @@ PENDUAL,No Tears,1121,SASORI,和歌山県,2104,R3HAB3,和歌山県,2439,HERNIA,�
 PENDUAL,Night sky,1052,SASORI,和歌山県,1746,NIKURO,和歌山県,2711,ZEN,和歌山県
 PENDUAL,NEO GENERATOR SEVEN,911,T.T,和歌山県,1769,BOODLE,和歌山県,3178,MYZ,和歌山県
 PENDUAL,Monopole.,665,A-DASH,和歌山県,1549,T.T,和歌山県,3215,MYZ,和歌山県
-PENDUAL,m1dy Festival,925,SASORI,和歌山県,1100,A-DASH,和歌山県,2332,Q-NO,和歌山県
+PENDUAL,m1dy Festival,925,SASORI,和歌山県,1298,DCP,和歌山県,2332,Q-NO,和歌山県
 PENDUAL,Line 4 Ruin,699,NODO96,和歌山県,1818,MYZ,和歌山県,2736,LI-LIF,和歌山県
 PENDUAL,IXION,1042,SASORI,和歌山県,1570,2E?,和歌山県,2150,GIGANT,和歌山県
 PENDUAL,Invitation from Mr.C,1101,SOMA,和歌山県,1505,HERNIA,和歌山県,2617,MYZ,和歌山県
@@ -893,7 +893,7 @@ PENDUAL,EBONY & IVORY,988,SASORI,和歌山県,1648,T.T,和歌山県,2900,MYZ,和
 PENDUAL,Discloze,901,SOMA,和歌山県,1575,NODO96,和歌山県,2598,MYZ,和歌山県
 PENDUAL,Despair of ELFERIA,1171,SASORI,和歌山県,2295,GOMI,和歌山県,3970,MYZ,和歌山県
 PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3113,MYZ,和歌山県
-PENDUAL,Cosmic Cat,909,SASORI,和歌山県,1630,NIKURO,和歌山県,2257,IRM,和歌山県
+PENDUAL,Cosmic Cat,909,SASORI,和歌山県,1740,R3HAB3,和歌山県,2257,IRM,和歌山県
 PENDUAL,COLOSSEUM,553,SASORI,和歌山県,1151,L.E.N.,和歌山県,2273,MYZ,和歌山県
 PENDUAL,cinder,787,SASORI,和歌山県,1860,T.T,和歌山県,2992,MYZ,和歌山県
 PENDUAL,Chronos,710,SASORI,和歌山県,1278,NIKURO,和歌山県,2180,Q-NO,和歌山県
@@ -965,7 +965,7 @@ copula,Nightmare before oversleep,1142,NIKURO,和歌山県,1788,NIKURO,和歌山
 copula,NANAIRO,1017,T.T,和歌山県,1821,GIGANT,和歌山県,2370,NIKURO,和歌山県
 copula,Musik LoverZ,1017,SASORI,和歌山県,1360,NIKURO,和歌山県,2330,NERO,和歌山県
 copula,M4K3 1T B0UNC3,1364,9NINJA,和歌山県,1944,T.T,和歌山県,2953,MYZ,和歌山県
-copula,La dolce primavera,697,T.T,和歌山県,1273,YUSUKE,和歌山県,2124,GIGANT,和歌山県
+copula,La dolce primavera,697,T.T,和歌山県,1318,NIKURO,和歌山県,2124,GIGANT,和歌山県
 copula,Konzert V,1244,NIKURO,和歌山県,2173,NIKURO,和歌山県,3237,LI-LIF,和歌山県
 copula,Journey,677,ASDC,和歌山県,1230,VIET7M,和歌山県,1840,RAITO.,和歌山県
 copula,Inner Spirit,822,SASORI,和歌山県,1650,2E?,和歌山県,2787,MYZ,和歌山県
@@ -1051,7 +1051,7 @@ SINOBUZ,RISING FIRE HAWK,870,T.T,和歌山県,1516,GIGANT,和歌山県,2561,RAD-
 SINOBUZ,Remedy feat. Kanae Asaba,893,SASORI,和歌山県,1533,T.T,和歌山県,2179,MYZ,和歌山県
 SINOBUZ,Rave Cannon,1021,NIKURO,和歌山県,1754,T.T,和歌山県,3242,MYZ,和歌山県
 SINOBUZ,RAIN,778,J*HN,和歌山県,1755,9NINJA,和歌山県,3177,MYZ,和歌山県
-SINOBUZ,Quakes,1108,T.T,和歌山県,2011,NERO,和歌山県,3017,MYZ,和歌山県
+SINOBUZ,Quakes,1108,T.T,和歌山県,2019,R3HAB3,和歌山県,3017,MYZ,和歌山県
 SINOBUZ,Piano Samurai,942,OB.CH,和歌山県,1526,YUSUKE,和歌山県,2454,MYZ,和歌山県
 SINOBUZ,PAPAYAPA BASS,730,SASORI,和歌山県,1490,HERNIA,和歌山県,2749,MYZ,和歌山県
 SINOBUZ,OTENAMI Hurricane,1204,VIET7M,和歌山県,1919,T.T,和歌山県,3050,MYZ,和歌山県
@@ -1089,7 +1089,7 @@ SINOBUZ,BabeL ～Grand Story～,1173,SASORI,和歌山県,2078,MYZ,和歌山県,2
 SINOBUZ,AsiaN distractive,1108,SASORI,和歌山県,1621,YUSUKE,和歌山県,2550,GIGANT,和歌山県
 SINOBUZ,Around The Galaxy,1109,T.T,和歌山県,2135,GIGANT,和歌山県,3351,GIGANT,和歌山県
 SINOBUZ,Apocalypse,1083,ASDC,和歌山県,2140,R3HAB3,和歌山県,3464,MYZ,和歌山県
-SINOBUZ,AO-∞,1012,SASORI,和歌山県,1532,AA,和歌山県,2538,GIGANT,和歌山県
+SINOBUZ,AO-∞,1012,SASORI,和歌山県,1544,*FUGU*,和歌山県,2538,GIGANT,和歌山県
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3139,MYZ,和歌山県
 SINOBUZ,Amazing Mirage,790,SASORI,和歌山県,1669,NIKURO,和歌山県,2584,MYZ,和歌山県
 SINOBUZ,Affection,601,SASORI,和歌山県,1080,ASDC,和歌山県,2083,MYZ,和歌山県
@@ -1171,11 +1171,11 @@ CANNON BALLERS,Break Stasis,1279,SOMA,和歌山県,1810,T.T,和歌山県,2492,MY
 CANNON BALLERS,Boomy and The Boost,1014,SOMA,和歌山県,1993,9NINJA,和歌山県,3381,MYZ,和歌山県
 CANNON BALLERS,Best of Me,800,SOMA,和歌山県,1342,*FUGU*,和歌山県,2124,Q-NO,和歌山県
 CANNON BALLERS,Beast mode,987,SOMA,和歌山県,1408,SOMA,和歌山県,2706,MYZ,和歌山県
-CANNON BALLERS,Be a Hero!,747,SOMA,和歌山県,1741,AKRSUN,和歌山県,3042,MYZ,和歌山県
+CANNON BALLERS,Be a Hero!,747,SOMA,和歌山県,1872,NIKURO,和歌山県,3042,MYZ,和歌山県
 CANNON BALLERS,Battleground,1113,SOMA,和歌山県,1881,R3HAB3,和歌山県,2649,MYZ,和歌山県
 CANNON BALLERS,Back Spin Sweeper,817,SOMA,和歌山県,1288,VIET7M,和歌山県,2150,IRM,和歌山県
 CANNON BALLERS,Around the Future,926,SASORI,和歌山県,1652,HERNIA,和歌山県,2535,MYZ,和歌山県
-CANNON BALLERS,Arca,908,SOMA,和歌山県,1788,T.T,和歌山県,3031,RAITO.,和歌山県
+CANNON BALLERS,Arca,908,SOMA,和歌山県,1788,T.T,和歌山県,3037,MYZ,和歌山県
 CANNON BALLERS,Antigravity,1018,VIET7M,和歌山県,1838,T.T,和歌山県,2962,MYZ,和歌山県
 CANNON BALLERS,ANCHOR,1329,MYZ,和歌山県,2515,MYZ,和歌山県,3422,MYZ,和歌山県
 CANNON BALLERS,ANAGMA,992,VIET7M,和歌山県,1749,CHI4NE,和歌山県,2605,MYZ,和歌山県
@@ -1223,6 +1223,7 @@ Rootage,Serious?,595,R3HAB3,和歌山県,1205,GIGANT,和歌山県,2207,MYZ,和�
 Rootage,R∞tAge,1125,GIGANT,和歌山県,1688,GIGANT,和歌山県,2934,MYZ,和歌山県
 Rootage,ROZA DE ANDALUCIA,1312,MYZ,和歌山県,2023,MYZ,和歌山県,2953,MYZ,和歌山県
 Rootage,"ROCK女 feat. 大山愛未, Ken",1087,MYZ,和歌山県,1837,GIGANT,和歌山県,2625,MYZ,和歌山県
+Rootage,REPLAY,936,T.T,和歌山県,1643,GIGANT,和歌山県,2249,GIGANT,和歌山県
 Rootage,Red. by Jack Trance,1520,GIGANT,和歌山県,2145,GIGANT,和歌山県,3342,IRM,和歌山県
 Rootage,Re:Story,431,MYZ,和歌山県,1115,MYZ,和歌山県,1915,MYZ,和歌山県
 Rootage,Psycho Sheep Riddim,644,MYZ,和歌山県,1012,MYZ,和歌山県,1655,MYZ,和歌山県
@@ -1245,15 +1246,17 @@ Rootage,HOT LIMIT,1068,MYZ,和歌山県,1724,MYZ,和歌山県,2502,MYZ,和歌山
 Rootage,HEISEI,1173,R3HAB3,和歌山県,1953,R3HAB3,和歌山県,2516,MYZ,和歌山県
 Rootage,Glory,776,MYZ,和歌山県,1687,GIGANT,和歌山県,2278,GIGANT,和歌山県
 Rootage,GIGA THRASH,1262,MYZ,和歌山県,1896,MYZ,和歌山県,2678,MYZ,和歌山県
+Rootage,Garuda,1057,MYZ,和歌山県,1640,MYZ,和歌山県,2524,MYZ,和歌山県
 Rootage,EVANESCENT,1292,MYZ,和歌山県,2378,MYZ,和歌山県,3434,IRM,和歌山県
 Rootage,Ember Lights,973,MYZ,和歌山県,1660,MYZ,和歌山県,2665,IRM,和歌山県
 Rootage,DRUNK MONKY,1041,GIGANT,和歌山県,1634,GIGANT,和歌山県,2232,MYZ,和歌山県
-Rootage,Drastic Dramatic,1555,MYZ,和歌山県,2411,MYZ,和歌山県,3382,RAITO.,和歌山県
+Rootage,Drastic Dramatic,1564,MYZ,和歌山県,2411,MYZ,和歌山県,3382,RAITO.,和歌山県
 Rootage,Dr. Chemical & Killing Machine,1115,MYZ,和歌山県,1892,R3HAB3,和歌山県,3270,MYZ,和歌山県
 Rootage,Digital Skipper,1007,GIGANT,和歌山県,1598,GIGANT,和歌山県,2235,GIGANT,和歌山県
 Rootage,dAuntl3ss,1084,MYZ,和歌山県,2016,GIGANT,和歌山県,3407,MYZ,和歌山県
 Rootage,Cranberry City ft. Luschel,853,T.T,和歌山県,1616,MYZ,和歌山県,2377,MYZ,和歌山県
 Rootage,CoMAAAAAAA,1269,MYZ,和歌山県,2110,GIGANT,和歌山県,2375,MYZ,和歌山県
+Rootage,CODE:0,1429,MYZ,和歌山県,2173,GIGANT,和歌山県,2719,GIGANT,和歌山県
 Rootage,Catch Our Fire!,1384,MYZ,和歌山県,2284,MYZ,和歌山県,3596,RAITO.,和歌山県
 Rootage,Carmina,1320,MYZ,和歌山県,2448,MYZ,和歌山県,3462,MYZ,和歌山県
 Rootage,BLOSSOM,1092,MYZ,和歌山県,1668,R3HAB3,和歌山県,2516,MYZ,和歌山県
