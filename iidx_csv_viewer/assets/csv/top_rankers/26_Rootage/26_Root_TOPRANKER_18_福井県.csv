@@ -1,5 +1,5 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
-1st&substream,THE EARTH LIGHT,692,YAGO,福井県,904,SANCHA,福井県,1089,RGV,福井県
+1st&substream,THE EARTH LIGHT,692,YAGO,福井県,1031,KEN-JI,福井県,1089,RGV,福井県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1973,SV.,福井県
 1st&substream,RUGGED ASH,348,SANCHA,福井県,370,RIA,福井県,1077,H.MAKO,福井県
 1st&substream,R3,625,2HOU,福井県,701,*864*,福井県,885,NICOLE,福井県
@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,1061,M.RIKK,福井県,1702,NICOLE,福井県,0,,未設定
 3rd style,Tangerine Stream,267,HO4M1*,福井県,392,TAIZ,福井県,0,,未設定
 3rd style,Skyscraper,0,,未設定,1090,HO4M1*,福井県,1222,KEN-JI,福井県
-3rd style,Schlagwerk,754,PINO,福井県,1228,HO4M1*,福井県,1655,NICOLE,福井県
+3rd style,Schlagwerk,754,PINO,福井県,1288,KEN-JI,福井県,1655,NICOLE,福井県
 3rd style,REINCARNATION,709,OXYGEN,福井県,954,TETTLY,福井県,1234,SUTABA,福井県
 3rd style,R5,434,TENA,福井県,1079,RUSE,福井県,1734,SV.,福井県
 3rd style,Presto,493,SANCHA,福井県,831,5YUNN,福井県,987,IWAZO,福井県
@@ -38,19 +38,19 @@
 4th style,starmine,794,M.RIKK,福井県,1247,HOYO,福井県,1558,NICOLE,福井県
 4th style,Mr.T.(take me higher),594,ONXFGO,福井県,950,YSETS,福井県,1685,R-ALI,福井県
 4th style,minimalian,480,SANCHA,福井県,900,HOYO,福井県,1365,R-ALI,福井県
-4th style,LOVE WILL・・・,298,YK,福井県,587,NAMMI,福井県,1431,KEN-JI,福井県
+4th style,LOVE WILL・・・,298,YK,福井県,626,AZOP*,福井県,1431,KEN-JI,福井県
 4th style,KAMIKAZE,957,TETTLY,福井県,1345,SANCHA,福井県,2184,NK,福井県
 4th style,Jam&Marmalade,698,HOYO,福井県,849,TAIZ,福井県,979,KEN-JI,福井県
 4th style,Hitch Hiker2,759,2HOU,福井県,1040,HOYO,福井県,1291,L.D.S,福井県
 4th style,HIGHER,391,K693-L,福井県,857,KENZAN,福井県,1257,KEN-JI,福井県
 4th style,FLOWERS for ALBION,216,HO4M1*,福井県,431,R-ALI,福井県,0,,未設定
-4th style,era (step mix),979,RYDEN.,福井県,1232,IIDX26,福井県,1652,NICOLE,福井県
+4th style,era (step mix),979,E,福井県,1232,IIDX26,福井県,1652,NICOLE,福井県
 4th style,empathy,0,,未設定,1282,RUBY,福井県,1403,R-ALI,福井県
 4th style,DXY!,1163,OKERA,福井県,1578,RUSE,福井県,2156,SV.,福井県
 4th style,Clione†,0,,未設定,0,,未設定,2066,SUTABA,福井県
 4th style,Clione,209,SLY,福井県,748,RIA,福井県,1565,NICOLE,福井県
 4th style,CHECKING YOU OUT,605,KEN-JI,福井県,844,H.MAKO,福井県,1251,IWAZO,福井県
-4th style,Burnin' The Floor,376,FOOL,福井県,260,PIGEON,福井県,1404,R-ALI,福井県
+4th style,Burnin' The Floor,376,FOOL,福井県,453,RUBY,福井県,1404,R-ALI,福井県
 4th style,Broken My Heart,564,ONXFGO,福井県,1167,RIA,福井県,1741,ICHIRO,福井県
 4th style,B4U,907,SANCHA,福井県,1401,IIDX26,福井県,1933,NICOLE,福井県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2625,SUTABA,福井県
@@ -88,7 +88,7 @@
 6th style,Free Style,374,A.W&E,福井県,939,KENZAN,福井県,1286,NICOLE,福井県
 6th style,fly through the night,334,YUU256,福井県,1212,AZC,福井県,1641,SUTABA,福井県
 6th style,DIVE ～INTO YOUR HEART～,894,ZANK,福井県,1724,TETTLY,福井県,2022,NICOLE,福井県
-6th style,Colors (radio edit),1249,HOYO,福井県,1624,RYDEN.,福井県,2352,SV.,福井県
+6th style,Colors (radio edit),1249,HOYO,福井県,1624,E,福井県,2352,SV.,福井県
 6th style,Buffalo,848,M.RIKK,福井県,1261,H-ROSE,福井県,1759,NICOLE,福井県
 6th style,Blueberry Stream,741,NUMATA,福井県,972,SIN-EI,福井県,1602,SV.,福井県
 6th style,BALLAD FOR YOU～想いの雨～,563,2HOU,福井県,0,,未設定,1052,SV.,福井県
@@ -112,13 +112,13 @@
 7th style,Burning Heat! (Full Option Mix),484,OXYGEN,福井県,652,RIA,福井県,1394,R-ALI,福井県
 7th style,Bad Routine,816,HOYO,福井県,1248,H-ROSE,福井県,1891,SV.,福井県
 7th style,AVE DE RAPINA,1203,HOYO,福井県,1643,SV.,福井県,1795,NICOLE,福井県
-7th style,A,1154,SANCHA,福井県,1973,RYDEN.,福井県,2387,NICOLE,福井県
+7th style,A,1154,SANCHA,福井県,1973,E,福井県,2387,NICOLE,福井県
 8th style,蒼い衝動,897,TAIZ,福井県,1294,*YOU3*,福井県,1539,KEN-JI,福井県
 8th style,桜,698,I4CHAN,福井県,1480,937GI,福井県,1994,NICOLE,福井県
 8th style,xenon,903,NRUR!,福井県,1506,KANNA,福井県,2659,NICOLE,福井県
 8th style,World Wide Love,507,SLY,福井県,994,IROHAS,福井県,1109,NICOLE,福井県
 8th style,WAR GAME,874,IIDX26,福井県,1450,*YOU3*,福井県,2095,NICOLE,福井県
-8th style,thunder,1069,HOYO,福井県,1474,MOYASI,福井県,1838,TATSU4,福井県
+8th style,thunder,1079,2HOU,福井県,1474,MOYASI,福井県,1838,TATSU4,福井県
 8th style,symbolic,1429,PON-B,福井県,1729,*YOU3*,福井県,2186,NICOLE,福井県
 8th style,STAR DREAM,658,RIA,福井県,1199,IROHAS,福井県,1372,RGV,福井県
 8th style,rainbow flyer,770,SANCHA,福井県,1524,TETTLY,福井県,2085,SV.,福井県
@@ -128,7 +128,7 @@
 8th style,Monkey Dance,667,OXYGEN,福井県,1261,LOWGUY,福井県,1930,NICOLE,福井県
 8th style,memories,0,,未設定,1865,M0LFO!,福井県,2209,L.D.S,福井県
 8th style,Luv 2 Feel Your Body,681,I4CHAN,福井県,955,H-ROSE,福井県,1604,NICOLE,福井県
-8th style,LOVE IS ORANGE,588,DEDEP,福井県,956,SANCHA,福井県,1765,DA.,福井県
+8th style,LOVE IS ORANGE,588,DEDEP,福井県,956,SANCHA,福井県,1780,SV.,福井県
 8th style,LAB,863,I4CHAN,福井県,1877,*YOU3*,福井県,2030,NICOLE,福井県
 8th style,HYPER BOUNDARY GATE,1109,HOYO,福井県,1784,YOPPIN,福井県,2165,SUTABA,福井県
 8th style,Halfway of promise,923,DA.,福井県,1372,TETTLY,福井県,1764,KEN-JI,福井県
@@ -206,7 +206,7 @@
 10th style,BABY LOVE,1077,HOYO,福井県,1410,2HOU,福井県,2106,KEN-JI,福井県
 10th style,ASTRAL VOYAGE,0,,未設定,1265,H-ROSE,福井県,1853,KEN-JI,福井県
 10th style,ALIEN TEMPLE,834,ABE,福井県,924,TETSU,福井県,1948,KEN-JI,福井県
-10th style,1st Samurai,906,RIA,福井県,1746,RYDEN.,福井県,2434,RGV,福井県
+10th style,1st Samurai,906,RIA,福井県,1746,E,福井県,2434,RGV,福井県
 IIDX RED,ＵＬＴｉＭΛＴＥ,908,SANCHA,福井県,1355,SANCHA,福井県,1970,NICOLE,福井県
 IIDX RED,太陽～T・A・I・Y・O～,662,I4CHAN,福井県,1334,R-ALI,福井県,1718,NICOLE,福井県
 IIDX RED,大桟橋,454,SANCHA,福井県,1019,HOYO,福井県,1807,NICOLE,福井県
@@ -240,7 +240,7 @@ IIDX RED,Be quiet,590,MIKAN,福井県,1342,5YUNN,福井県,2177,SV.,福井県
 IIDX RED,awakening,990,SANCHA,福井県,1330,HO4M1*,福井県,1648,NICOLE,福井県
 IIDX RED,ANDROMEDA,440,SLY,福井県,1809,TETTLY,福井県,2826,SV.,福井県
 IIDX RED,AGEHA,936,SANCHA,福井県,1671,TETTLY,福井県,1838,NICOLE,福井県
-IIDX RED,AA,857,AZOP*,福井県,2626,IWAZO,福井県,3548,SV.,福井県
+IIDX RED,AA,910,AZOP*,福井県,2626,IWAZO,福井県,3548,SV.,福井県
 HAPPY SKY,月光,690,I4CHAN,福井県,1611,AZC,福井県,2389,NICOLE,福井県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,未設定,1405,HO4M1*,福井県,1835,H.MAKO,福井県
 HAPPY SKY,冥,1044,TAIZ,福井県,1892,KEN-JI,福井県,3594,SV.,福井県
@@ -257,7 +257,7 @@ HAPPY SKY,Tizona d'El Cid,877,SANCHA,福井県,1618,MAHU,福井県,2289,NICOLE,�
 HAPPY SKY,SigSig,1027,SANCHA,福井県,1652,TAIZ,福井県,2557,NICOLE,福井県
 HAPPY SKY,Scripted Connection⇒ N mix,1134,HOYO,福井県,1403,2HOU,福井県,2067,SV.,福井県
 HAPPY SKY,Scripted Connection⇒ H mix,1447,SANCHA,福井県,1930,RIKI-P,福井県,2419,NICOLE,福井県
-HAPPY SKY,Scripted Connection⇒ A mix,875,DOVSIN,福井県,2053,A,福井県,2979,SV.,福井県
+HAPPY SKY,Scripted Connection⇒ A mix,875,DOVSIN,福井県,2054,M0LFO!,福井県,2979,SV.,福井県
 HAPPY SKY,SCREAM SQUAD,789,RYOU!,福井県,1531,RUSE,福井県,1976,NICOLE,福井県
 HAPPY SKY,rage against usual,1183,SANCHA,福井県,1985,DA.,福井県,2830,SV.,福井県
 HAPPY SKY,POODLE,890,SANCHA,福井県,1746,TETTLY,福井県,2248,NICOLE,福井県
@@ -278,7 +278,7 @@ HAPPY SKY,garden,784,DA.,福井県,1384,H-ROSE,福井県,2134,SV.,福井県
 HAPPY SKY,First Resolution,0,,未設定,1546,AZC,福井県,2101,NICOLE,福井県
 HAPPY SKY,EMPTY OF THE SKY,333,A.W&E,福井県,950,H-ROSE,福井県,1665,IWAZO,福井県
 HAPPY SKY,EDEN,1256,SANCHA,福井県,1884,KINOKO,福井県,2702,NICOLE,福井県
-HAPPY SKY,double thrash,955,SANCHA,福井県,1929,RYDEN.,福井県,2229,MONAR,福井県
+HAPPY SKY,double thrash,955,SANCHA,福井県,1929,E,福井県,2229,MONAR,福井県
 HAPPY SKY,Catch Me,681,SANCHA,福井県,1174,TETTLY,福井県,1729,DA.,福井県
 HAPPY SKY,CaptivAte～浄化～,661,DOVSIN,福井県,1772,DA.,福井県,2393,KEN-JI,福井県
 HAPPY SKY,Aurora,1014,ERIASU,福井県,1926,CINDER,福井県,2491,NICOLE,福井県
@@ -299,7 +299,7 @@ DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3761,NICOLE,福井県
 DistorteD,waxing and wanding,1282,IIDX26,福井県,1833,PALM,福井県,2815,NICOLE,福井県
 DistorteD,TYPE MARS(G-Style Mix),0,,未設定,1566,CHROME,福井県,2292,SUTABA,福井県
 DistorteD,tripping contact(teranoid&MC Natsack Remix),1119,HOYO,福井県,1736,MU-RAI,福井県,2394,SV.,福井県
-DistorteD,This is Love,878,SANCHA,福井県,1450,RIA,福井県,2391,DA.,福井県
+DistorteD,This is Love,878,SANCHA,福井県,1450,RIA,福井県,2447,SV.,福井県
 DistorteD,The Dirty of Loudness,1276,SANCHA,福井県,2021,DEUU*,福井県,2540,NICOLE,福井県
 DistorteD,Sun Field,0,,未設定,1323,SUI,福井県,2389,SV.,福井県
 DistorteD,So Fabulous !!,999,M.RIKK,福井県,1460,KETER,福井県,2326,NICOLE,福井県
@@ -543,7 +543,7 @@ Resort Anthem,THE DOOR INTO RAINBOW,754,2HOU,福井県,1501,IIDX26,福井県,205
 Resort Anthem,THE BLACK KNIGHT,0,,未設定,1870,RUBY,福井県,2817,SV.,福井県
 Resort Anthem,STELLAR WIND,419,DEDEP,福井県,1559,MAHU,福井県,2537,SUTABA,福井県
 Resort Anthem,Stay my side,437,SLY,福井県,1001,HOYO,福井県,1331,SV.,福井県
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,587,9CHO,福井県,1406,L,福井県,2928,SV.,福井県
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,591,AZOP*,福井県,1406,L,福井県,2928,SV.,福井県
 Resort Anthem,Space Time,599,SANCHA,福井県,1351,NONO,福井県,2157,NICOLE,福井県
 Resort Anthem,Session 9 -Chronicles-,730,SANCHA,福井県,2049,HO4M1*,福井県,3457,SV.,福井県
 Resort Anthem,sakura storm,939,RIA,福井県,1245,SUI,福井県,2347,SV.,福井県
@@ -558,7 +558,7 @@ Resort Anthem,PARADISE LOST,1330,IIDX25,福井県,2179,KEN-JI,福井県,3091,SV.
 Resort Anthem,Never Fade Away,738,SANCHA,福井県,1542,MAHU,福井県,2905,COZY,福井県
 Resort Anthem,Mermaid girl,842,HALP-P,福井県,1621,N09IHS,福井県,2199,NICOLE,福井県
 Resort Anthem,Medicine of love,575,I4CHAN,福井県,1067,SANCHA,福井県,1717,KEN-JI,福井県
-Resort Anthem,Let The Track Flow,941,HOYO,福井県,1647,IIDX26,福井県,2571,NICOLE,福井県
+Resort Anthem,Let The Track Flow,941,HOYO,福井県,1647,IIDX26,福井県,2580,SV.,福井県
 Resort Anthem,Kailua,469,SANCHA,福井県,1323,*864*,福井県,2079,SV.,福井県
 Resort Anthem,I FIGHT ME,453,YASU,福井県,1032,NARUTI,福井県,2075,TATSU4,福井県
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2278,H.MAKO,福井県
@@ -588,21 +588,21 @@ Lincle,蛇神,722,TAIZ,福井県,1409,AZC,福井県,2737,SV.,福井県
 Lincle,聖人の塔,851,HOYO,福井県,1836,KEN-JI,福井県,2885,NICOLE,福井県
 Lincle,突撃!ガラスのニーソ姫!,598,FUSTIN,福井県,973,DA.,福井県,2063,NICOLE,福井県
 Lincle,恋する☆宇宙戦争っ！！,905,SANCHA,福井県,1715,TETTLY,福井県,3316,NICOLE,福井県
-Lincle,子供の落書き帳,838,SANCHA,福井県,1449,RUSE,福井県,2502,SV.,福井県
+Lincle,子供の落書き帳,838,SANCHA,福井県,1694,POTETO,福井県,2502,SV.,福井県
 Lincle,天空の夜明け,1319,SUTABA,福井県,2017,TETTLY,福井県,3914,SV.,福井県
 Lincle,君のハートにロックオン,582,HALP-P,福井県,1307,YUKAS0,福井県,2524,COZY,福井県
 Lincle,ユミル,604,M.RIKK,福井県,1283,NA7MI*,福井県,2757,SV.,福井県
-Lincle,ビューティフルレシート,476,OXYGEN,福井県,1113,H-ROSE,福井県,1908,NICOLE,福井県
+Lincle,ビューティフルレシート,476,OXYGEN,福井県,1121,CHROME,福井県,1908,NICOLE,福井県
 Lincle,Yellow Sunrise,734,SANCHA,福井県,1392,RGV,福井県,2263,SV.,福井県
 Lincle,yellow head joe,362,YUU256,福井県,1367,H-ROSE,福井県,2167,NK,福井県
 Lincle,YAKSHA,1162,SANCHA,福井県,2240,RIKI-P,福井県,3776,SV.,福井県
 Lincle,WONDER WALKER,831,I4CHAN,福井県,1899,R-ALI,福井県,3666,SV.,福井県
 Lincle,Voxane,484,OXYGEN,福井県,798,TENA,福井県,1709,NICOLE,福井県
 Lincle,Todestrieb,984,PEN,福井県,1804,TETTLY,福井県,3369,SV.,福井県
-Lincle,TITANS RETURN,455,TENA,福井県,1381,72KAWA,福井県,2399,SUTABA,福井県
+Lincle,TITANS RETURN,455,TENA,福井県,1402,CHROME,福井県,2399,SUTABA,福井県
 Lincle,Thunderbolt,895,PEN,福井県,1805,RUBY,福井県,3655,SV.,福井県
 Lincle,The Sampling Paradise,775,HOYO,福井県,1658,OKKA-3,福井県,2866,NICOLE,福井県
-Lincle,The Limbo,1098,HO4M1*,福井県,1869,M0LFO!,福井県,3250,SV.,福井県
+Lincle,The Limbo,1098,HO4M1*,福井県,1869,M0LFO!,福井県,3264,SV.,福井県
 Lincle,Star Trail,584,HO4M1*,福井県,957,CY8ER,福井県,1833,NICOLE,福井県
 Lincle,Snow Goose,286,GKR548,福井県,1306,KINOKO,福井県,2334,SUTABA,福井県
 Lincle,Snake Stick,959,2HOU,福井県,1921,NICOLE,福井県,2466,SV.,福井県
@@ -616,7 +616,7 @@ Lincle,Release The Music,305,NIYO,福井県,1314,IROHAS,福井県,2073,SV.,福�
 Lincle,Quick Silver,756,2HOU,福井県,1628,IIDX26,福井県,2618,SV.,福井県
 Lincle,quaver♪,705,TAIZ,福井県,2040,TETTLY,福井県,3341,SV.,福井県
 Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3464,SUTABA,福井県
-Lincle,QUANTUM TELEPORTATION,1174,SANCHA,福井県,1861,SLP,福井県,2847,NK,福井県
+Lincle,QUANTUM TELEPORTATION,1286,CHROME,福井県,1861,SLP,福井県,2847,NK,福井県
 Lincle,prompt,912,2HOU,福井県,1480,SHIHO,福井県,2734,NICOLE,福井県
 Lincle,Phoenix,792,SANCHA,福井県,1125,IROHAS,福井県,2394,SUTABA,福井県
 Lincle,NNRT,1141,HOYO,福井県,2323,TETTLY,福井県,3409,NICOLE,福井県
@@ -689,8 +689,8 @@ tricoro,STULTI,6,YSETS,福井県,1430,UPA,福井県,2720,SV.,福井県
 tricoro,Sol Cosine Job 2,973,HOYO,福井県,1532,OKERA,福井県,3023,NICOLE,福井県
 tricoro,SHION,644,2HOU,福井県,1290,NICOLE,福井県,2641,SUTABA,福井県
 tricoro,Shining World,1128,HOYO,福井県,1425,SHIMA,福井県,1916,NICOLE,福井県
-tricoro,Saturn,1163,SANCHA,福井県,1854,DA.,福井県,2544,NICOLE,福井県
-tricoro,S!ck,874,SANCHA,福井県,1406,MAHU,福井県,2617,NICOLE,福井県
+tricoro,Saturn,1163,SANCHA,福井県,1881,POTETO,福井県,2544,NICOLE,福井県
+tricoro,S!ck,874,SANCHA,福井県,1419,CHROME,福井県,2617,NICOLE,福井県
 tricoro,rumrum triplets,903,SANCHA,福井県,1823,N09IHS,福井県,2930,NICOLE,福井県
 tricoro,Re:GENERATION,882,2HOU,福井県,1375,IIDX26,福井県,2196,NICOLE,福井県
 tricoro,Rainbow after snow,687,*YOU3*,福井県,1418,TETTLY,福井県,2136,NICOLE,福井県
@@ -755,7 +755,7 @@ SPADA,Wonder Girl feat. Kanae Asaba,617,9CHO,福井県,1109,HOYO,福井県,2733,
 SPADA,VOX UP,1457,TAIZ,福井県,2668,SV.,福井県,3367,SV.,福井県
 SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4465,NK,福井県
 SPADA,Verflucht,1149,LAITUE,福井県,1985,937GI,福井県,3432,SV.,福井県
-SPADA,Valgus,519,ZANK,福井県,1020,ZANK,福井県,2314,NICOLE,福井県
+SPADA,Valgus,563,AZOP*,福井県,1020,ZANK,福井県,2314,NICOLE,福井県
 SPADA,Unicorn tail,823,SANCHA,福井県,1968,TETTLY,福井県,3041,NICOLE,福井県
 SPADA,THE DETONATOR,1470,SANCHA,福井県,2316,N09IHS,福井県,3085,NK,福井県
 SPADA,Squeeze,786,2HOU,福井県,1308,YSETS,福井県,2365,NICOLE,福井県
@@ -857,7 +857,7 @@ PENDUAL,Sweet Radar,644,W,福井県,1298,H-ROSE,福井県,2000,NICOLE,福井県
 PENDUAL,SpaceLand☆TOYBOX,966,HOYO,福井県,1561,MAHU,福井県,2816,NICOLE,福井県
 PENDUAL,Sounds Of Summer,1177,SANCHA,福井県,2016,MONAR,福井県,2886,SV.,福井県
 PENDUAL,Shooting Fireball,897,HOYO,福井県,2159,IMOYA*,福井県,3812,SV.,福井県
-PENDUAL,Scars of FAUNA,804,2HOU,福井県,1488,TALIO,福井県,2786,NICOLE,福井県
+PENDUAL,Scars of FAUNA,804,2HOU,福井県,1566,CHROME,福井県,2786,NICOLE,福井県
 PENDUAL,Scarlet Moon,1020,HOYO,福井県,1705,MAHU,福井県,2675,NICOLE,福井県
 PENDUAL,Say YEEEAHH,1069,HOYO,福井県,1634,SUI,福井県,3113,NICOLE,福井県
 PENDUAL,SAMSARA,701,I4CHAN,福井県,1313,H-ROSE,福井県,2019,NICOLE,福井県
@@ -965,7 +965,7 @@ copula,Nightmare before oversleep,1038,DA.,福井県,1859,DA.,福井県,2893,SV.
 copula,NANAIRO,1023,SANCHA,福井県,1637,IROHAS,福井県,2515,NICOLE,福井県
 copula,Musik LoverZ,697,TENA,福井県,1151,M.RIKK,福井県,2401,NK,福井県
 copula,M4K3 1T B0UNC3,1289,2HOU,福井県,1976,M0LFO!,福井県,2948,SV.,福井県
-copula,La dolce primavera,663,TETTLY,福井県,1198,L,福井県,2126,NICOLE,福井県
+copula,La dolce primavera,663,TETTLY,福井県,1277,CHROME,福井県,2126,NICOLE,福井県
 copula,Konzert V,1207,SANCHA,福井県,2120,DA.,福井県,3213,SV.,福井県
 copula,Journey,669,OKERA,福井県,1135,IIDX26,福井県,1839,SV.,福井県
 copula,Inner Spirit,821,SANCHA,福井県,1546,NONO,福井県,2704,NICOLE,福井県
@@ -1021,7 +1021,7 @@ SINOBUZ,お命ちょうDAI！901娘,882,I4CHAN,福井県,1503,HOYO,福井県,227
 SINOBUZ,〆,1155,M.RIKK,福井県,2298,L.D.S,福井県,3559,SV.,福井県
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),703,M.RIKK,福井県,1446,SHIHO,福井県,2791,SV.,福井県
 SINOBUZ,yamabiko (SINOBUZ Edition),759,SALAD,福井県,1405,CHROME,福井県,2567,SV.,福井県
-SINOBUZ,XINOBIKILL,915,HOYO,福井県,1523,CHROME,福井県,2790,NICOLE,福井県
+SINOBUZ,XINOBIKILL,915,HOYO,福井県,1554,ROKU,福井県,2790,NICOLE,福井県
 SINOBUZ,Warrior,672,YEROSE,福井県,1610,72KAWA,福井県,2427,NICOLE,福井県
 SINOBUZ,Vermilion,524,KEEMUN,福井県,1250,OKERA,福井県,1987,NICOLE,福井県
 SINOBUZ,Venom,1230,RUKI.N,福井県,2031,HAG-A,福井県,3114,SV.,福井県
@@ -1073,7 +1073,7 @@ SINOBUZ,FUZIN RIZIN,1110,TETTLY,福井県,1909,DA.,福井県,3668,SV.,福井県
 SINOBUZ,elemental bender feat. Kanae Asaba,627,OKERA,福井県,1074,HOYO,福井県,1615,H.MAKO,福井県
 SINOBUZ,Egret and Willow,943,HOYO,福井県,1488,TETTLY,福井県,2661,NICOLE,福井県
 SINOBUZ,ECHIDNA,1158,M.RIKK,福井県,1943,N09IHS,福井県,3188,SV.,福井県
-SINOBUZ,DORNWALD ～Junge～,1151,M.RIKK,福井県,2228,SV.,福井県,3477,SV.,福井県
+SINOBUZ,DORNWALD ～Junge～,1208,H-ROSE,福井県,2228,SV.,福井県,3477,SV.,福井県
 SINOBUZ,DISAPPEAR feat. koyomin,684,2HOU,福井県,1618,KANNA,福井県,2777,NICOLE,福井県
 SINOBUZ,Cyber True Color,807,SALAD,福井県,1624,KINOKO,福井県,2286,NICOLE,福井県
 SINOBUZ,crew,614,W,福井県,1682,AZC,福井県,2884,NICOLE,福井県
@@ -1152,7 +1152,7 @@ CANNON BALLERS,Hella Deep,623,RGV,福井県,928,72KAWA,福井県,1774,H.MAKO,福
 CANNON BALLERS,HAT TRICK,801,SANCHA,福井県,1378,TETTLY,福井県,2168,NICOLE,福井県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,568,OKERA,福井県,1131,OKERA,福井県,1842,KEN-JI,福井県
 CANNON BALLERS,FUTURE is Dead,811,M.RIKK,福井県,1442,RGV,福井県,2129,NICOLE,福井県
-CANNON BALLERS,From Time To Time,745,M.RIKK,福井県,1802,RYDEN.,福井県,2386,SUTABA,福井県
+CANNON BALLERS,From Time To Time,745,M.RIKK,福井県,1802,E,福井県,2386,SUTABA,福井県
 CANNON BALLERS,FREEDOM,829,RIA,福井県,1561,MAHU,福井県,2852,SV.,福井県
 CANNON BALLERS,FIRE BALL,576,MIKAN,福井県,1395,TOTO,福井県,2292,RGV,福井県
 CANNON BALLERS,Fervidex,813,SOMA.,福井県,1781,KINOKO,福井県,2653,NICOLE,福井県
@@ -1187,7 +1187,7 @@ CANNON BALLERS,Abraxas,602,BSN,福井県,1504,CHROME,福井県,2363,H.MAKO,福�
 CANNON BALLERS,AA -rebuild-,1206,TETTLY,福井県,2253,TETTLY,福井県,3481,SV.,福井県
 CANNON BALLERS,255,809,HOYO,福井県,1522,M0LFO!,福井県,3038,NICOLE,福井県
 CANNON BALLERS,2 Player,916,2HOU,福井県,1524,TUINTR,福井県,2488,NICOLE,福井県
-CANNON BALLERS,1001 -ESCAPE-,897,I4CHAN,福井県,1591,RYDEN.,福井県,2566,NICOLE,福井県
+CANNON BALLERS,1001 -ESCAPE-,897,I4CHAN,福井県,1591,E,福井県,2566,NICOLE,福井県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1145,H.MAKO,福井県,2298,H.MAKO,福井県,3131,SV.,福井県
 Rootage,金野火織の金色提言,1258,H.MAKO,福井県,2241,NICOLE,福井県,2983,NICOLE,福井県
 Rootage,花冠 feat.Aikapin,984,H.MAKO,福井県,1673,H.MAKO,福井県,2433,NICOLE,福井県
@@ -1200,7 +1200,7 @@ Rootage,セカンドピアス,602,H.MAKO,福井県,1106,H.MAKO,福井県,2004,SV
 Rootage,サクラあっぱれーしょん,628,H.MAKO,福井県,1530,937GI,福井県,2281,NICOLE,福井県
 Rootage,グラナダの風,812,H.MAKO,福井県,1218,H.MAKO,福井県,1808,H.MAKO,福井県
 Rootage,Yum Yum Jelly,785,H.MAKO,福井県,1538,H.MAKO,福井県,2333,SV.,福井県
-Rootage,Xlo,1536,H.MAKO,福井県,2417,H.MAKO,福井県,3595,SV.,福井県
+Rootage,Xlo,1536,H.MAKO,福井県,2417,H.MAKO,福井県,3651,SV.,福井県
 Rootage,Wonderland,1042,H.MAKO,福井県,1876,L.D.S,福井県,2704,NICOLE,福井県
 Rootage,Won(*3*)Chu KissMe!,935,H.MAKO,福井県,1384,H.MAKO,福井県,2463,NICOLE,福井県
 Rootage,Wolf 1061,1012,H.MAKO,福井県,1716,H.MAKO,福井県,3021,SV.,福井県
@@ -1221,6 +1221,7 @@ Rootage,SIGMA,834,H.MAKO,福井県,1576,H.MAKO,福井県,2612,NICOLE,福井県
 Rootage,Sidechained Threats,1215,H.MAKO,福井県,1920,H.MAKO,福井県,2368,SUTABA,福井県
 Rootage,Serious?,591,H.MAKO,福井県,1183,NICOLE,福井県,2184,NICOLE,福井県
 Rootage,R∞tAge,1101,H.MAKO,福井県,1658,H.MAKO,福井県,2925,SV.,福井県
+Rootage,ruin of opals,907,M.RIKK,福井県,1823,H.MAKO,福井県,2941,SV.,福井県
 Rootage,ROZA DE ANDALUCIA,1301,H.MAKO,福井県,2042,H.MAKO,福井県,2974,NICOLE,福井県
 Rootage,"ROCK女 feat. 大山愛未, Ken",1067,H.MAKO,福井県,1807,NICOLE,福井県,2586,H.MAKO,福井県
 Rootage,REPLAY,873,2HOU,福井県,1472,IROHAS,福井県,2228,NICOLE,福井県
@@ -1246,6 +1247,7 @@ Rootage,HOT LIMIT,1054,H.MAKO,福井県,1725,H.MAKO,福井県,2500,NICOLE,福井
 Rootage,HEISEI,1161,H.MAKO,福井県,1918,H.MAKO,福井県,2526,SV.,福井県
 Rootage,Glory,765,H.MAKO,福井県,1657,H.MAKO,福井県,2277,NICOLE,福井県
 Rootage,GIGA THRASH,1260,H.MAKO,福井県,1869,H.MAKO,福井県,2651,SV.,福井県
+Rootage,Geirskogul,1039,HO4M1*,福井県,1500,IROHAS,福井県,2188,NICOLE,福井県
 Rootage,Garuda,1066,H.MAKO,福井県,1605,H.MAKO,福井県,2542,SV.,福井県
 Rootage,EVANESCENT,1283,H.MAKO,福井県,2305,H.MAKO,福井県,3494,SV.,福井県
 Rootage,Ember Lights,968,H.MAKO,福井県,1635,L.D.S,福井県,2656,SV.,福井県
