@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,1192,MSY-8,大阪府,1744,TA28,大阪府,0,,未設定
 3rd style,Tangerine Stream,282,IMOTO*,大阪府,396,IMOTO*,大阪府,0,,未設定
 3rd style,Skyscraper,709,YOKTIN,大阪府,1155,MSY-8,大阪府,1238,IMOTO*,大阪府
-3rd style,Schlagwerk,783,A.L.S.,大阪府,1287,DUAMTF,大阪府,1674,TA28,大阪府
+3rd style,Schlagwerk,783,A.L.S.,大阪府,1287,DUAMTF,大阪府,1683,7CHIS2,大阪府
 3rd style,REINCARNATION,819,YMG-C,大阪府,1005,CUBE,大阪府,1261,1021,大阪府
 3rd style,R5,760,MSY-8,大阪府,1148,222,大阪府,1763,MERRIC,大阪府
 3rd style,Presto,546,IMOTO*,大阪府,956,R,大阪府,1009,VELVET,大阪府
@@ -96,7 +96,7 @@
 7th style,革命,738,YOKTIN,大阪府,1943,B-MAYO,大阪府,2309,TA28,大阪府
 7th style,ZERO-ONE,1045,YOKTIN,大阪府,1582,S1RA7,大阪府,2223,TA28,大阪府
 7th style,traces,1465,KYRIE,大阪府,1886,SLAYER,大阪府,2130,TA28,大阪府
-7th style,Tomorrow Perfume,1276,MSY-8,大阪府,1802,MSY-8,大阪府,2086,TA28,大阪府
+7th style,Tomorrow Perfume,1276,MSY-8,大阪府,1802,MSY-8,大阪府,2099,RA-RA,大阪府
 7th style,stoic,1601,YOKTIN,大阪府,2263,Y-SAJO,大阪府,2539,LC,大阪府
 7th style,Spica,638,YOKTIN,大阪府,1435,MOZI,大阪府,2227,39RA1,大阪府
 7th style,MAX 300,1078,TOTORO,大阪府,1901,7CHIS2,大阪府,0,,未設定
@@ -193,7 +193,7 @@
 10th style,GRADIUS -FULL SPEED-,747,TA28,大阪府,1227,7CHIS2,大阪府,2065,7CHIS2,大阪府
 10th style,GHOST REVIVAL,918,IMOTO*,大阪府,1932,MSY-8,大阪府,2545,TA28,大阪府
 10th style,Freezing atmosphere,766,ALF,大阪府,1076,MSY-8,大阪府,1505,TA28,大阪府
-10th style,FEEL IT,934,NKI244,大阪府,1751,VELVET,大阪府,1912,TWICE,大阪府
+10th style,FEEL IT,934,NKI244,大阪府,1751,VELVET,大阪府,1931,LIAM,大阪府
 10th style,Feedback,1038,YOKTIN,大阪府,1537,SIERA,大阪府,1915,TA28,大阪府
 10th style,EXE,841,ALF,大阪府,1537,GGG,大阪府,2252,LC,大阪府
 10th style,DoLL,891,YUICHI,大阪府,1240,IMOTO*,大阪府,1612,IMOTO*,大阪府
@@ -459,7 +459,7 @@ EMPRESS,Go Beyond!!,1069,TA28,大阪府,1738,TA28,大阪府,2242,LC,大阪府
 EMPRESS,Fly Above,946,SE2NAI,大阪府,1597,R,大阪府,2029,TA28,大阪府
 EMPRESS,Flash Back 90's,903,YOKTIN,大阪府,1839,SLAYER,大阪府,2335,TAKA.S,大阪府
 EMPRESS,Cyber Force -DJ Yoshitaka Remix-,1092,TA28,大阪府,1826,VRARIS,大阪府,2519,LC,大阪府
-EMPRESS,Colorful Cookie,1115,TA28,大阪府,2254,DEBU-O,大阪府,3503,39RA1,大阪府
+EMPRESS,Colorful Cookie,1115,TA28,大阪府,2255,DUAMTF,大阪府,3503,39RA1,大阪府
 EMPRESS,CaptivAte2～覚醒～,1072,GGG,大阪府,1622,K3-VE,大阪府,2402,TAKA.S,大阪府
 EMPRESS,BRIDAL FESTIVAL !!!,970,CHINO,大阪府,1450,X-FILE,大阪府,2116,LEVI,大阪府
 EMPRESS,BITTER CHOCOLATE STRIKER,1110,IMOTO*,大阪府,2194,1021,大阪府,3905,39RA1,大阪府
@@ -550,7 +550,7 @@ Resort Anthem,sakura storm,1041,IMOTO*,大阪府,1336,NKI244,大阪府,2392,7CHI
 Resort Anthem,Sakura Reflection,484,IMOTO*,大阪府,1608,-4C*,大阪府,2361,8KITR1,大阪府
 Resort Anthem,SABER WING,542,MSY-8,大阪府,1801,TWICE,大阪府,2823,7CHIS2,大阪府
 Resort Anthem,Rock Da House,870,YOKTIN,大阪府,1598,MOZI,大阪府,2227,96NEKO,大阪府
-Resort Anthem,reunion,1371,DUAMTF,大阪府,2370,7CHIS2,大阪府,3246,LC,大阪府
+Resort Anthem,reunion,1371,DUAMTF,大阪府,2388,VANIRA,大阪府,3246,LC,大阪府
 Resort Anthem,Programmed Life,1072,YOKTIN,大阪府,1721,SANOVA,大阪府,2373,96NEKO,大阪府
 Resort Anthem,perditus†paradisus,1238,MSY-8,大阪府,2495,7CHIS2,大阪府,3880,39RA1,大阪府
 Resort Anthem,passionate fate,1149,GGG,大阪府,1604,MAYU23,大阪府,2128,VELVET,大阪府
@@ -572,7 +572,7 @@ Resort Anthem,DM STAR～関西 energy style～,1109,IMOTO*,大阪府,1862,CROW,�
 Resort Anthem,Destiny Sword,898,TA28,大阪府,1788,IMOTO*,大阪府,2387,TA28,大阪府
 Resort Anthem,DAYDREAMER,1158,YOKTIN,大阪府,1761,7CHIS2,大阪府,2522,TAKA.S,大阪府
 Resort Anthem,Dances with Snow Fairies,1370,S1RA7,大阪府,2172,PPRN,大阪府,3103,VELVET,大阪府
-Resort Anthem,BROKEN EDEN,1008,YOKTIN,大阪府,1665,S1RA7,大阪府,2305,LEVI,大阪府
+Resort Anthem,BROKEN EDEN,1010,ALF,大阪府,1665,S1RA7,大阪府,2305,LEVI,大阪府
 Resort Anthem,Broken,1086,IMOTO*,大阪府,2045,-SAY-,大阪府,3158,LC,大阪府
 Resort Anthem,Breaking the ground,1165,YOKTIN,大阪府,1779,-4C*,大阪府,2512,96NEKO,大阪府
 Resort Anthem,Bounce Bounce Bounce,1073,YOKTIN,大阪府,1663,X-FILE,大阪府,2428,VELVET,大阪府
@@ -681,7 +681,7 @@ tricoro,To my star,602,IMOTO*,大阪府,1235,MSY-8,大阪府,1748,96NEKO,大阪�
 tricoro,Timepiece phase II (CN Ver.),969,MSY-8,大阪府,1844,CROW,大阪府,2952,39RA1,大阪府
 tricoro,Timepiece phase II,1070,TA28,大阪府,2128,TAMA5.,大阪府,3209,39RA1,大阪府
 tricoro,Time To Empress,898,SAYUKI,大阪府,1908,HETA.S,大阪府,2615,LC,大阪府
-tricoro,Thor's Hammer,954,GGG,大阪府,1728,CB.,大阪府,3018,39RA1,大阪府
+tricoro,Thor's Hammer,954,GGG,大阪府,1728,CB.,大阪府,3043,TAKA.S,大阪府
 tricoro,Take My Life,967,IMOTO*,大阪府,1594,II,大阪府,2910,96NEKO,大阪府
 tricoro,Synergy For Angels,929,8KITR1,大阪府,1679,II,大阪府,2768,TAKA.S,大阪府
 tricoro,SYNC-ANTHEM,941,GGG,大阪府,2391,MOZI,大阪府,3644,LC,大阪府
@@ -690,8 +690,8 @@ tricoro,Sol Cosine Job 2,1056,MSY-8,大阪府,1632,S1RA7,大阪府,3167,LC,大�
 tricoro,SHION,650,YOKTIN,大阪府,1300,YMG-C,大阪府,2701,TA28,大阪府
 tricoro,Shining World,1206,YOKTIN,大阪府,1579,S1RA7,大阪府,1940,KMR.KS,大阪府
 tricoro,Saturn,1321,YOKTIN,大阪府,1924,MSY-8,大阪府,2579,TA28,大阪府
-tricoro,S!ck,886,LATIAS,大阪府,1527,S1RA7,大阪府,2691,TAKA.S,大阪府
-tricoro,rumrum triplets,970,TA28,大阪府,1962,JE*2,大阪府,3022,LC,大阪府
+tricoro,S!ck,892,DB.C,大阪府,1527,S1RA7,大阪府,2691,TAKA.S,大阪府
+tricoro,rumrum triplets,970,TA28,大阪府,1962,JE*2,大阪府,3027,TAKA.S,大阪府
 tricoro,Re:GENERATION,880,YOKTIN,大阪府,1533,S1RA7,大阪府,2243,TA28,大阪府
 tricoro,Rainbow after snow,739,IMOTO*,大阪府,1440,S1RA7,大阪府,2167,7CHIS2,大阪府
 tricoro,Proof of the existence,1185,CUBE,大阪府,2083,LEVI,大阪府,3214,TAKA.S,大阪府
@@ -809,7 +809,7 @@ SPADA,Critical Crystal,1078,YOKTIN,大阪府,1824,SLAYER,大阪府,2891,39RA1,�
 SPADA,Close the World feat.a☆ru†LEGGENDARIA,0,,未設定,0,,未設定,3823,3PLE,大阪府
 SPADA,Close the World feat. a☆ru,1156,IMOTO*,大阪府,2084,-4C*,大阪府,3370,7CHIS2,大阪府
 SPADA,Cleopatrysm,793,YOKTIN,大阪府,1442,MSY-8,大阪府,2542,96NEKO,大阪府
-SPADA,Claiomh Solais,346,IMOTO*,大阪府,1351,GGG,大阪府,2080,7CHIS2,大阪府
+SPADA,Claiomh Solais,346,IMOTO*,大阪府,1399,II,大阪府,2080,7CHIS2,大阪府
 SPADA,BRAVE OUT,1020,LULU,大阪府,1530,IMOTO*,大阪府,2166,LC,大阪府
 SPADA,BRAINSTORM,731,LATIAS,大阪府,1920,LULU,大阪府,2761,LEVI,大阪府
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1462,S1RA7,大阪府,2173,MOZI,大阪府,3358,LC,大阪府
@@ -856,7 +856,7 @@ PENDUAL,Symmetry,1141,GGG,大阪府,2124,96NEKO,大阪府,3272,TAKA.S,大阪府
 PENDUAL,Sweet Radar,673,7CHIS2,大阪府,1370,IMOTO*,大阪府,2032,LC,大阪府
 PENDUAL,SpaceLand☆TOYBOX,1072,YOKTIN,大阪府,1685,KYRIE,大阪府,2961,LC,大阪府
 PENDUAL,Sounds Of Summer,1248,S1RA7,大阪府,2041,NYAN8S,大阪府,2948,39RA1,大阪府
-PENDUAL,Shooting Fireball,969,IMOTO*,大阪府,2253,-4C*,大阪府,3884,KMR.KS,大阪府
+PENDUAL,Shooting Fireball,969,IMOTO*,大阪府,2253,-4C*,大阪府,3908,TAKA.S,大阪府
 PENDUAL,Scars of FAUNA,832,LULU,大阪府,1696,II,大阪府,2896,LC,大阪府
 PENDUAL,Scarlet Moon,1057,YOKTIN,大阪府,1893,DUAMTF,大阪府,2715,-100K,大阪府
 PENDUAL,Say YEEEAHH,1127,LULU,大阪府,1795,K3-VE,大阪府,3247,LC,大阪府
@@ -876,7 +876,7 @@ PENDUAL,m1dy Festival,997,MSY-8,大阪府,1621,MSY-8,大阪府,2433,VANIRA,大�
 PENDUAL,Line 4 Ruin,716,IMOTO*,大阪府,1811,TAKA.S,大阪府,2780,96NEKO,大阪府
 PENDUAL,IXION,1079,YOKTIN,大阪府,1704,SURREN,大阪府,2159,-SAY-,大阪府
 PENDUAL,Invitation from Mr.C,1151,OTACON,大阪府,1544,MSY-8,大阪府,2739,LC,大阪府
-PENDUAL,In The Breeze,661,MSY-8,大阪府,1147,MSY-8,大阪府,1746,*RK*,大阪府
+PENDUAL,In The Breeze,661,MSY-8,大阪府,1147,MSY-8,大阪府,1764,RA-RA,大阪府
 PENDUAL,IMPLANTATION,662,IMOTO*,大阪府,1636,PANJAB,大阪府,2280,7CHIS2,大阪府
 PENDUAL,illuminate,603,KANA.Y,大阪府,1556,YMG-C,大阪府,2294,TA28,大阪府
 PENDUAL,Hello Happiness,898,S*RAN*,大阪府,1570,KYRIE,大阪府,2306,96NEKO,大阪府
@@ -885,7 +885,7 @@ PENDUAL,GUILTY,940,LULU,大阪府,1455,MSY-8,大阪府,1880,LEVI,大阪府
 PENDUAL,Gravigazer,946,S1RA7,大阪府,1873,-YAB-,大阪府,3003,TAKA.S,大阪府
 PENDUAL,Flashes,957,S1RA7,大阪府,1709,SIERA,大阪府,3320,LC,大阪府
 PENDUAL,FANTASTIC THREE,1314,GGG,大阪府,2204,LIAM,大阪府,3200,LC,大阪府
-PENDUAL,fallen leaves -IIDX edition-,1191,TA28,大阪府,2072,-YAB-,大阪府,3327,TA28,大阪府
+PENDUAL,fallen leaves -IIDX edition-,1191,TA28,大阪府,2072,-YAB-,大阪府,3344,3PLE,大阪府
 PENDUAL,Erosion Mark,783,LULU,大阪府,1486,S1RA7,大阪府,2156,TO4KI,大阪府
 PENDUAL,entelecheia,1021,S1RA7,大阪府,2142,-YAB-,大阪府,3273,TAKA.S,大阪府
 PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3502,VEGAN,大阪府
@@ -999,13 +999,13 @@ copula,AO-1,1233,YOKTIN,大阪府,1877,KYRIE,大阪府,2763,LC,大阪府
 copula,Angelic Jelly,1132,LULU,大阪府,2034,S1RA7,大阪府,2741,TA28,大阪府
 copula,Acid Pumper,686,MSY-8,大阪府,1558,TA28,大阪府,2455,LC,大阪府
 copula,199024club -Re:BounceKiller-,695,MSY-8,大阪府,1627,TSUKKI,大阪府,2354,VELVET,大阪府
-SINOBUZ,鴉,1487,IMOTO*,大阪府,2183,CB.,大阪府,2683,TAKA.S,大阪府
+SINOBUZ,鴉,1487,IMOTO*,大阪府,2183,CB.,大阪府,2695,TAKA.S,大阪府
 SINOBUZ,童話回廊,941,SLAYER,大阪府,1680,222,大阪府,3093,39RA1,大阪府
 SINOBUZ,禍根,797,YOKTIN,大阪府,1338,MSY-8,大阪府,2618,TAKA.S,大阪府
 SINOBUZ,獅子霞麗ノ舞,494,LULU,大阪府,1019,LAZ,大阪府,1729,RA-RA,大阪府
-SINOBUZ,焔極OVERKILL,1144,TA28,大阪府,2092,-YAB-,大阪府,3593,LC,大阪府
+SINOBUZ,焔極OVERKILL,1160,MSY-8,大阪府,2092,-YAB-,大阪府,3593,LC,大阪府
 SINOBUZ,炎影,701,MSY-8,大阪府,1341,MSY-8,大阪府,2682,LC,大阪府
-SINOBUZ,津軽雪,1508,YOKTIN,大阪府,2211,II,大阪府,3847,LC,大阪府
+SINOBUZ,津軽雪,1508,YOKTIN,大阪府,2238,-YAB-,大阪府,3847,LC,大阪府
 SINOBUZ,次葉 -turn the page-,829,YOKTIN,大阪府,1422,SLAYER,大阪府,1988,LEVI,大阪府
 SINOBUZ,月雪に舞う華のように,850,GGG,大阪府,1343,IMOTO*,大阪府,2087,LEVI,大阪府
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,989,LULU,大阪府,1559,MSY-8,大阪府,2456,TA28,大阪府
@@ -1044,7 +1044,7 @@ SINOBUZ,Seize the Day,758,YOKTIN,大阪府,1309,MSY-8,大阪府,2150,B-MAYO,大�
 SINOBUZ,Seaside Labyrinth,646,MSY-8,大阪府,1267,II,大阪府,1854,96NEKO,大阪府
 SINOBUZ,SCREAM THE LIFE FEAT.KYONO,854,OTACON,大阪府,1575,S1RA7,大阪府,2323,LEVI,大阪府
 SINOBUZ,SAY BAY,823,LULU,大阪府,1464,YOKTIN,大阪府,2790,MERRIC,大阪府
-SINOBUZ,Sarutobi Champion is 拙者,954,MSY-8,大阪府,1499,MSY-8,大阪府,2167,39RA1,大阪府
+SINOBUZ,Sarutobi Champion is 拙者,954,MSY-8,大阪府,1499,MSY-8,大阪府,2219,7CHIS2,大阪府
 SINOBUZ,SAMURAI-Scramble,976,LULU,大阪府,1663,YOKTIN,大阪府,2367,F.NITE,大阪府
 SINOBUZ,ROTTERDAM SHOGUN,1113,YOKTIN,大阪府,1765,1UP,大阪府,2560,LC,大阪府
 SINOBUZ,RISING FIRE HAWK,870,MSY-8,大阪府,1468,OTACON,大阪府,2687,TAKA.S,大阪府
@@ -1063,7 +1063,7 @@ SINOBUZ,Mare Nectaris,1448,MSY-8,大阪府,2077,69BUKE,大阪府,3833,39RA1,大�
 SINOBUZ,Magical,791,LULU,大阪府,1169,MON25,大阪府,1995,96NEKO,大阪府
 SINOBUZ,Macuilxochitl,1452,LULU,大阪府,2248,CRETIA,大阪府,3299,KMR.KS,大阪府
 SINOBUZ,Lost wing at.0,916,YOKTIN,大阪府,1408,KASON,大阪府,2440,TA28,大阪府
-SINOBUZ,INVISIBLE STRIX,1138,YOKTIN,大阪府,1960,MIMI,大阪府,2601,VANIRA,大阪府
+SINOBUZ,INVISIBLE STRIX,1138,YOKTIN,大阪府,1960,MIMI,大阪府,2630,TAKA.S,大阪府
 SINOBUZ,Honey Trap,824,GGG,大阪府,1611,II,大阪府,2526,LC,大阪府
 SINOBUZ,HAPPY★RUSH,774,YOKTIN,大阪府,1831,SIERA,大阪府,2856,96NEKO,大阪府
 SINOBUZ,HADES,991,7CHIS2,大阪府,1838,1021,大阪府,3021,TA28,大阪府
@@ -1134,7 +1134,7 @@ CANNON BALLERS,Persephone,1248,YOKTIN,大阪府,1936,VALTUN,大阪府,2983,TAKA.
 CANNON BALLERS,Papilio ulysses,1197,S1RA7,大阪府,2101,TA28,大阪府,2905,LC,大阪府
 CANNON BALLERS,Only for now,908,C&POOL,大阪府,1581,IMOTO*,大阪府,2258,96NEKO,大阪府
 CANNON BALLERS,O/D*20,1117,LULU,大阪府,1692,CRETIA,大阪府,2107,96NEKO,大阪府
-CANNON BALLERS,Nothing but Theory,1043,LULU,大阪府,1537,1021,大阪府,2838,KMR.KS,大阪府
+CANNON BALLERS,Nothing but Theory,1054,SAYUKI,大阪府,1537,1021,大阪府,2838,KMR.KS,大阪府
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,947,GGG,大阪府,1514,S1RA7,大阪府,2324,96NEKO,大阪府
 CANNON BALLERS,NITROUS CANNON,1340,SE2NAI,大阪府,2027,HATAO,大阪府,3609,KMR.KS,大阪府
 CANNON BALLERS,n'pa pa BBQ,913,YOKTIN,大阪府,1725,MARIE*,大阪府,2769,LC,大阪府
@@ -1170,7 +1170,7 @@ CANNON BALLERS,ChaserXX,1090,MSY-8,大阪府,1834,MSY-8,大阪府,2823,LC,大阪
 CANNON BALLERS,Break Stasis,1301,LULU,大阪府,1819,GGG,大阪府,2509,TA28,大阪府
 CANNON BALLERS,Boomy and The Boost,1035,YOKTIN,大阪府,2035,MA*,大阪府,3579,LC,大阪府
 CANNON BALLERS,Best of Me,800,YOKTIN,大阪府,1535,MON25,大阪府,2214,TA28,大阪府
-CANNON BALLERS,Beast mode,1027,GGG,大阪府,1570,8KITR1,大阪府,2714,96NEKO,大阪府
+CANNON BALLERS,Beast mode,1027,GGG,大阪府,1570,8KITR1,大阪府,2745,TAKA.S,大阪府
 CANNON BALLERS,Be a Hero!,759,LULU,大阪府,1832,YAKUMO,大阪府,3075,TA28,大阪府
 CANNON BALLERS,Battleground,1147,LULU,大阪府,1803,S1RA7,大阪府,2688,LC,大阪府
 CANNON BALLERS,Back Spin Sweeper,843,KYRIE,大阪府,1383,222,大阪府,2218,96NEKO,大阪府
@@ -1206,7 +1206,7 @@ Rootage,Won(*3*)Chu KissMe!,939,C&POOL,大阪府,1408,IMOTO*,大阪府,2506,LC,�
 Rootage,Wolf 1061,1017,TA28,大阪府,1712,DUAMTF,大阪府,3098,3PLE,大阪府
 Rootage,Wing of Hearts,1130,C&POOL,大阪府,1819,IMOTO*,大阪府,2919,TA28,大阪府
 Rootage,Urban Constellations,720,NOLIZO,大阪府,1515,LEVI,大阪府,2276,LC,大阪府
-Rootage,UNDERWORLD HOLOGRAPHY,1153,C&POOL,大阪府,2096,TA28,大阪府,3235,TA28,大阪府
+Rootage,UNDERWORLD HOLOGRAPHY,1153,C&POOL,大阪府,2096,TA28,大阪府,3254,TAKA.S,大阪府
 Rootage,Unbelief,1124,8KITR1,大阪府,2135,7CHIS2,大阪府,3145,39RA1,大阪府
 Rootage,U.S.A.,1128,SLAYER,大阪府,1887,IMOTO*,大阪府,2911,TAKA.S,大阪府
 Rootage,Twilight Warp,965,IMOTO*,大阪府,1469,IMOTO*,大阪府,2144,*RK*,大阪府
@@ -1221,6 +1221,7 @@ Rootage,SIGMA,846,TA28,大阪府,1580,TA28,大阪府,2661,TA28,大阪府
 Rootage,Sidechained Threats,1214,VRARIS,大阪府,1987,TA28,大阪府,2419,TA28,大阪府
 Rootage,Serious?,594,IMOTO*,大阪府,1205,YMG-C,大阪府,2257,LC,大阪府
 Rootage,R∞tAge,1127,YMG-C,大阪府,1689,F.NITE,大阪府,2988,LC,大阪府
+Rootage,ruin of opals,986,VRARIS,大阪府,1839,MIRAI,大阪府,3044,VANIRA,大阪府
 Rootage,ROZA DE ANDALUCIA,1313,MSY-8,大阪府,2024,MAMICO,大阪府,3071,TAKA.S,大阪府
 Rootage,"ROCK女 feat. 大山愛未, Ken",1075,8KITR1,大阪府,1800,LEVI,大阪府,2750,LC,大阪府
 Rootage,REPLAY,931,GGG,大阪府,1635,STGC,大阪府,2240,MIRAI,大阪府
@@ -1246,6 +1247,7 @@ Rootage,HOT LIMIT,1068,IMOTO*,大阪府,1728,TA28,大阪府,2537,96NEKO,大阪�
 Rootage,HEISEI,1168,IMOTO*,大阪府,1951,96NEKO,大阪府,2555,KMR.KS,大阪府
 Rootage,Glory,775,C&POOL,大阪府,1674,TA28,大阪府,2325,TAKA.S,大阪府
 Rootage,GIGA THRASH,1263,OBZEN,大阪府,1891,TA28,大阪府,2686,TA28,大阪府
+Rootage,Geirskogul,1066,MSY-8,大阪府,1560,MSY-8,大阪府,2210,96NEKO,大阪府
 Rootage,Garuda,1063,TA28,大阪府,1628,TA28,大阪府,2553,VANIRA,大阪府
 Rootage,EVANESCENT,1281,SLAYER,大阪府,2345,BMSP,大阪府,3511,TA28,大阪府
 Rootage,Ember Lights,966,8KITR1,大阪府,1648,II,大阪府,2716,LC,大阪府
