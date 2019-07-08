@@ -62,7 +62,7 @@
 5th style,sync,1060,REU,青森県,1830,REU,青森県,2315,5KIVRI,青森県
 5th style,still my words,861,SIRO,青森県,1222,DIS-L,青森県,0,,未設定
 5th style,STILL IN MY HEART,816,KETTY,青森県,1311,LUCIA.,青森県,1895,MOSAPI,青森県
-5th style,Spin the disc,636,DOWN.2,青森県,1232,REU,青森県,1321,T,青森県
+5th style,Spin the disc,636,DOWN.2,青森県,1232,REU,青森県,1324,DIS-L,青森県
 5th style,RISLIM,0,,未設定,1210,KOGA,青森県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1671,RAINY,青森県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),840,JETHY,青森県,954,PRAWN.,青森県,1706,.87OGG,青森県
@@ -238,7 +238,7 @@ IIDX RED,BREATH,889,KETSU*,青森県,1235,REU,青森県,1693,T,青森県
 IIDX RED,BLOCKS,652,KETTY,青森県,1281,REU,青森県,1962,MOSAPI,青森県
 IIDX RED,Be quiet,0,,未設定,1616,REU,青森県,2190,MOSAPI,青森県
 IIDX RED,awakening,1047,JETHY,青森県,1374,REU,青森県,1640,T,青森県
-IIDX RED,ANDROMEDA,917,4MEJ!3,青森県,1856,REU,青森県,2871,MOSAPI,青森県
+IIDX RED,ANDROMEDA,960,4MEJ!3,青森県,1856,REU,青森県,2871,MOSAPI,青森県
 IIDX RED,AGEHA,827,RER,青森県,1659,REU,青森県,1829,EBI*,青森県
 IIDX RED,AA,1211,JETHY,青森県,2652,QUERTY,青森県,3577,MOSAPI,青森県
 HAPPY SKY,月光,797,SUFFY,青森県,1742,.87OGG,青森県,2432,MOSAPI,青森県
@@ -347,7 +347,7 @@ GOLD,Second Heaven,942,TRANOY,青森県,1520,.87OGG,青森県,2114,MOSAPI,青森
 GOLD,Roulette,751,A.,青森県,1395,REU,青森県,2055,A.X.L.,青森県
 GOLD,PHOTONGENIC,1306,REU,青森県,1866,GNH,青森県,2289,DIS-L,青森県
 GOLD,op.31 叙情,632,NEODIO,青森県,1277,T,青森県,1536,NEODIO,青森県
-GOLD,never…,763,KAZU,青森県,1316,REU,青森県,1805,MOSAPI,青森県
+GOLD,never…,790,JETHY,青森県,1316,REU,青森県,1805,MOSAPI,青森県
 GOLD,METALLIC MIND,840,TMG,青森県,1424,NEODIO,青森県,1618,MOSAPI,青森県
 GOLD,Make Me Your Own,0,,未設定,1511,APUNOS,青森県,2092,KOGA,青森県
 GOLD,Love Again...,555,JETHY,青森県,730,TMG,青森県,1064,NEODIO,青森県
@@ -466,7 +466,7 @@ EMPRESS,BITTER CHOCOLATE STRIKER,1005,TRANOY,青森県,2099,NAKAG,青森県,3837
 EMPRESS,Bahram Attack-猫叉Master Remix-,1046,NEODIO,青森県,1905,REU,青森県,2615,MOSAPI,青森県
 EMPRESS,B4U(BEMANI FOR YOU MIX)†,0,,未設定,0,,未設定,4419,MOSAPI,青森県
 EMPRESS,B4U(BEMANI FOR YOU MIX),1013,PUPONE,青森県,2250,REU,青森県,3542,MOSAPI,青森県
-EMPRESS,Arabian Rave Night,1028,EDO777,青森県,2127,GONZUX,青森県,2918,MOSAPI,青森県
+EMPRESS,Arabian Rave Night,1235,JETHY,青森県,2127,GONZUX,青森県,2918,MOSAPI,青森県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,761,EDO777,青森県,1817,REU,青森県,2519,MOMOKO,青森県
 EMPRESS,ALL I NEED YOUR LOVE,1075,ARCARD,青森県,1633,REU,青森県,2110,MOSAPI,青森県
 EMPRESS,3y3s,1453,REU,青森県,2426,-ZERO-,青森県,3452,MOSAPI,青森県
@@ -537,7 +537,7 @@ Resort Anthem,WISE UP!,478,JETHY,青森県,1152,REU,青森県,1572,MOSAPI,青森
 Resort Anthem,WE LOVE SHONAN,761,JETHY,青森県,1568,LYNX,青森県,2171,MOSAPI,青森県
 Resort Anthem,Watch Out Pt.2,1107,REU,青森県,1916,EREA$A,青森県,2763,MOSAPI,青森県
 Resort Anthem,Vermillion,506,NEZ3,青森県,1145,REU,青森県,1974,5KIVRI,青森県
-Resort Anthem,Tropical April,1499,4MEJ!3,青森県,2163,POYO*K,青森県,2701,MOSAPI,青森県
+Resort Anthem,Tropical April,1528,S,青森県,2163,POYO*K,青森県,2701,MOSAPI,青森県
 Resort Anthem,THE FALLEN,478,R-B.KM,青森県,1460,REU,青森県,2592,A.X.L.,青森県
 Resort Anthem,THE DOOR INTO RAINBOW,782,JETHY,青森県,1646,REU,青森県,2073,TYURAL,青森県
 Resort Anthem,THE BLACK KNIGHT,870,JETHY,青森県,2002,TAIGEI,青森県,2891,MOSAPI,青森県
@@ -770,7 +770,7 @@ SPADA,rainbow guitar weeps,933,JETHY,青森県,1842,A.X.L.,青森県,2717,MOSAPI
 SPADA,ra'am,1155,REU,青森県,1798,WWW,青森県,2677,MOSAPI,青森県
 SPADA,PUNISHER,1116,JETHY,青森県,2070,REU,青森県,3521,MOSAPI,青森県
 SPADA,Pharaoh,628,JETHY,青森県,1379,KORAAA,青森県,2419,MOSAPI,青森県
-SPADA,Overload Frontier,697,4MEJ!3,青森県,1689,AOIHGR,青森県,2534,MOSAPI,青森県
+SPADA,Overload Frontier,728,4MEJ!3,青森県,1689,AOIHGR,青森県,2534,MOSAPI,青森県
 SPADA,Odin,774,JETHY,青森県,1363,REU,青森県,2038,MOSAPI,青森県
 SPADA,NPC World,982,TRANOY,青森県,1593,RIS.KK,青森県,2234,5KIVRI,青森県
 SPADA,Miracle 5ympho X,672,JKUN,青森県,1275,MEDES,青森県,2551,LIEZA.,青森県
@@ -779,7 +779,7 @@ SPADA,MAD ATTACK,642,JETHY,青森県,1193,4MEJ!3,青森県,1916,MOSAPI,青森県
 SPADA,m1dy Deluxe,1087,TRANOY,青森県,1762,REU,青森県,2393,DWARF,青森県
 SPADA,M.D.Injection,569,JETHY,青森県,1179,PAC,青森県,2338,TYURAL,青森県
 SPADA,Lighting Shower,597,NEZ3,青森県,1325,REU,青森県,2393,MOSAPI,青森県
-SPADA,Last Dance,1126,TRANOY,青森県,1933,GONZUX,青森県,3212,MOSAPI,青森県
+SPADA,Last Dance,1126,TRANOY,青森県,1938,REU,青森県,3212,MOSAPI,青森県
 SPADA,LA FESTA LA VITA!!,841,REU,青森県,1731,REU,青森県,2844,MOSAPI,青森県
 SPADA,KHAMEN BREAK,568,JETHY,青森県,1374,REU,青森県,2437,DIS-L,青森県
 SPADA,KAISER PHOENIX,1283,JETHY,青森県,2114,REU,青森県,3183,MOSAPI,青森県
@@ -875,7 +875,7 @@ PENDUAL,Monopole.,778,JETHY,青森県,1597,REU,青森県,3200,5KIVRI,青森県
 PENDUAL,m1dy Festival,809,PUPONE,青森県,1614,REU,青森県,2389,MOSAPI,青森県
 PENDUAL,Line 4 Ruin,711,JETHY,青森県,1805,.87OGG,青森県,2778,MOSAPI,青森県
 PENDUAL,IXION,953,PUPONE,青森県,1731,REU,青森県,2158,MOSAPI,青森県
-PENDUAL,Invitation from Mr.C,1048,FEL,青森県,1581,NEODIO,青森県,2632,5KIVRI,青森県
+PENDUAL,Invitation from Mr.C,1106,JETHY,青森県,1581,NEODIO,青森県,2632,5KIVRI,青森県
 PENDUAL,In The Breeze,626,JETHY,青森県,1122,MERC,青森県,1743,MOSAPI,青森県
 PENDUAL,IMPLANTATION,641,JETHY,青森県,1648,TAIGEI,青森県,2233,MOSAPI,青森県
 PENDUAL,illuminate,598,JETHY,青森県,1354,AOIHGR,青森県,2305,MOSAPI,青森県
@@ -982,7 +982,7 @@ copula,Everlasting Last,821,JETHY,青森県,1616,REU,青森県,2217,MOSAPI,青�
 copula,Dynamite,1169,REU,青森県,2424,QUERTY,青森県,3746,K,青森県
 copula,Donkey Donk,1132,!,青森県,1615,.87OGG,青森県,2268,MOSAPI,青森県
 copula,do the thing feat. Kanae Asaba,610,JETHY,青森県,1458,REU,青森県,2300,MOSAPI,青森県
-copula,DIAMOND CROSSING,945,REU,青森県,1681,REU,青森県,2998,MOSAPI,青森県
+copula,DIAMOND CROSSING,945,REU,青森県,1682,MACAOI,青森県,2998,MOSAPI,青森県
 copula,Devil's Gear,1058,ARCARD,青森県,2146,REU,青森県,3387,MOSAPI,青森県
 copula,Derelict Star feat. Ryu*,0,,未設定,1844,REU,青森県,2634,MOSAPI,青森県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2232,5KIVRI,青森県
@@ -1054,7 +1054,7 @@ SINOBUZ,RAIN,1112,TRANOY,青森県,1789,WAWON,青森県,3223,MOSAPI,青森県
 SINOBUZ,Quakes,1091,JETHY,青森県,1978,MIST,青森県,3046,MOSAPI,青森県
 SINOBUZ,Piano Samurai,986,SUMESI,青森県,1643,REU,青森県,2410,WAWON,青森県
 SINOBUZ,PAPAYAPA BASS,726,KETTY,青森県,1507,REU,青森県,2798,MOSAPI,青森県
-SINOBUZ,OTENAMI Hurricane,1045,NEZ3,青森県,2030,TAIGEI,青森県,3036,A.X.L.,青森県
+SINOBUZ,OTENAMI Hurricane,1045,NEZ3,青森県,2078,REU,青森県,3036,A.X.L.,青森県
 SINOBUZ,OOO,658,KAZU,青森県,1425,REU,青森県,2055,MOSAPI,青森県
 SINOBUZ,nostos,879,FF14,青森県,1313,GNH,青森県,2571,MOSAPI,青森県
 SINOBUZ,Music is The Answer,706,TRANOY,青森県,1369,REU,青森県,1887,MOMOKO,青森県
@@ -1127,7 +1127,7 @@ CANNON BALLERS,SPEED,854,MERC,青森県,1565,REU,青森県,2525,5KIVRI,青森県
 CANNON BALLERS,"Son, not gabba now",655,S.416,青森県,1543,MERC,青森県,2258,WAWON,青森県
 CANNON BALLERS,Slipstream,972,HOME.5,青森県,1963,REU,青森県,3447,MOSAPI,青森県
 CANNON BALLERS,SHOX,0,,未設定,1125,REU,青森県,1640,TAIGEI,青森県
-CANNON BALLERS,Rise Circuit,842,SHIFT,青森県,1565,REU,青森県,2199,5KIVRI,青森県
+CANNON BALLERS,Rise Circuit,906,KAZU,青森県,1565,REU,青森県,2199,5KIVRI,青森県
 CANNON BALLERS,Raspberry Railgun,1293,OH!?,青森県,2160,.87OGG,青森県,3133,MOSAPI,青森県
 CANNON BALLERS,Rampage,1241,4MEJ!3,青森県,2463,QUERTY,青森県,3577,K,青森県
 CANNON BALLERS,Persephone,476,8P31,青森県,1844,LYNX,青森県,2969,MOSAPI,青森県

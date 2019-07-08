@@ -1,16 +1,16 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
 1st&substream,THE EARTH LIGHT,737,NORO,沖縄県,1009,NORO,沖縄県,1130,SUELLE,沖縄県
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1948,MAGOLR,沖縄県
-1st&substream,RUGGED ASH,368,MAYAMA,沖縄県,387,TAPLIS,沖縄県,1076,WING.,沖縄県
+1st&substream,RUGGED ASH,368,MAYAMA,沖縄県,387,1SHOT,沖縄県,1076,WING.,沖縄県
 1st&substream,R3,614,URIEL,沖縄県,691,NO1056,沖縄県,889,UME-G-,沖縄県
 1st&substream,PARANOIA MAX～DIRTY MIX～,537,NORO,沖縄県,725,NORO,沖縄県,1090,HIRO*,沖縄県
 1st&substream,Macho Gang,375,MAYAMA,沖縄県,1026,NORO,沖縄県,1577,UME-G-,沖縄県
 1st&substream,KEEP ON MOVIN',192,EARL,沖縄県,236,GENIUS,沖縄県,0,,未設定
-1st&substream,GRADIUSIC CYBER,798,URIEL,沖縄県,897,TAPLIS,沖縄県,1123,HIRO-,沖縄県
+1st&substream,GRADIUSIC CYBER,798,URIEL,沖縄県,897,1SHOT,沖縄県,1123,HIRO-,沖縄県
 1st&substream,GENOM SCREAMS,395,NYAN*2,沖縄県,776,NORO,沖縄県,1048,UME-G-,沖縄県
 1st&substream,GAMBOL,267,1S,沖縄県,274,HIRO*,沖縄県,0,,未設定
 1st&substream,Dr.LOVE,400,MAYAMA,沖縄県,497,MOKE,沖縄県,570,EARL,沖縄県
-1st&substream,deep in you,460,NYAN*2,沖縄県,469,TAPLIS,沖縄県,650,UME-G-,沖縄県
+1st&substream,deep in you,460,NYAN*2,沖縄県,469,1SHOT,沖縄県,650,UME-G-,沖縄県
 1st&substream,5.1.1.,194,H.U.,沖縄県,982,MIRIE,沖縄県,1547,HIRO*,沖縄県
 1st&substream,22DUNK,476,KINO,沖縄県,610,H.U.,沖縄県,646,EARL,沖縄県
 2nd style,SP-TRIP MACHINE(for beatmania II),486,NORO,沖縄県,610,NORO,沖縄県,641,MAGOLR,沖縄県
@@ -26,7 +26,7 @@
 3rd style,Schlagwerk,779,NORO,沖縄県,1274,MAYAMA,沖縄県,1665,HIRO*,沖縄県
 3rd style,REINCARNATION,805,NORO,沖縄県,964,NORO,沖縄県,1251,HIRO*,沖縄県
 3rd style,R5,736,KINO,沖縄県,1138,BUTCH!,沖縄県,1750,MAGOLR,沖縄県
-3rd style,Presto,508,NORO,沖縄県,937,129,沖縄県,998,HIRO*,沖縄県
+3rd style,Presto,516,KINO,沖縄県,937,129,沖縄県,998,HIRO*,沖縄県
 3rd style,LEADING CYBER,825,KINO,沖縄県,1150,MINORU,沖縄県,1239,MAYAMA,沖縄県
 3rd style,Holic,764,NORO,沖縄県,1172,MAG.,沖縄県,1680,MAYAMA,沖縄県
 3rd style,era (nostalmix),809,NORO,沖縄県,1038,TEAL,沖縄県,1486,MAYAMA,沖縄県
@@ -146,7 +146,7 @@
 9th style,ライオン好き,635,TAKA-C,沖縄県,1087,H.U.,沖縄県,1491,UME-G-,沖縄県
 9th style,SWEETEST SAVAGE,617,HADES.,沖縄県,1305,129,沖縄県,1758,MAGOLR,沖縄県
 9th style,Sweet Sweet Magic,960,KINO,沖縄県,1455,BUTCH!,沖縄県,2008,HIRO*,沖縄県
-9th style,STAR FIELD,660,TAPLIS,沖縄県,1513,129,沖縄県,1863,HIRO*,沖縄県
+9th style,STAR FIELD,660,1SHOT,沖縄県,1513,129,沖縄県,1863,HIRO*,沖縄県
 9th style,SNOW,762,USIO,沖縄県,1272,KINO,沖縄県,1988,MAGOLR,沖縄県
 9th style,Silvia Drive,794,MINORU,沖縄県,1439,GOA,沖縄県,1984,HIRO*,沖縄県
 9th style,rottel-the-Mercury,905,DREAM.,沖縄県,1869,PQR*,沖縄県,2253,HIRO*,沖縄県
@@ -177,7 +177,7 @@
 9th style,Abyss -The Heavens Remix-,1464,K.T,沖縄県,1804,MAGOLR,沖縄県,2336,HIRO*,沖縄県
 10th style,雪月花,1157,KINO,沖縄県,1836,TEAL,沖縄県,2459,WING.,沖縄県
 10th style,システムロマンス,846,MINORU,沖縄県,1691,GOA,沖縄県,2020,WING.,沖縄県
-10th style,SPACE FIGHT,602,HMD,沖縄県,1403,TAPLIS,沖縄県,2196,HIRO*,沖縄県
+10th style,SPACE FIGHT,602,HMD,沖縄県,1403,1SHOT,沖縄県,2196,HIRO*,沖縄県
 10th style,SHOOTING STAR,1250,DOLPE.,沖縄県,1628,129,沖縄県,2208,SSM,沖縄県
 10th style,Rise'n Beauty,1204,H.U.,沖縄県,1541,TAKA-C,沖縄県,2129,WING.,沖縄県
 10th style,rainbow rainbow,1464,KINO,沖縄県,2100,129,沖縄県,2631,MAYAMA,沖縄県
@@ -231,7 +231,7 @@ IIDX RED,Fly Away To India,647,KINO,沖縄県,964,EGGO,沖縄県,1379,HIRO*,沖�
 IIDX RED,FAKE TIME,872,HMD,沖縄県,1747,REMAKO,沖縄県,2328,HIRO*,沖縄県
 IIDX RED,earth scape,424,MAYAMA,沖縄県,868,45,沖縄県,1258,EARL,沖縄県
 IIDX RED,Don't be afraid myself,1004,MINORU,沖縄県,1788,TEAL,沖縄県,2249,MAGOLR,沖縄県
-IIDX RED,D.A.N.C.E.!,535,TAPLIS,沖縄県,812,BUTCH!,沖縄県,1612,WING.,沖縄県
+IIDX RED,D.A.N.C.E.!,535,1SHOT,沖縄県,812,BUTCH!,沖縄県,1612,WING.,沖縄県
 IIDX RED,Close my Eyes for Me,1004,EARL,沖縄県,1347,MTR,沖縄県,1758,MAGOLR,沖縄県
 IIDX RED,Click Again,464,KOKO,沖縄県,1308,MINORU,沖縄県,2075,WING.,沖縄県
 IIDX RED,BREATH,800,DREAM.,沖縄県,1167,9071,沖縄県,1675,MAYAMA,沖縄県
@@ -243,7 +243,7 @@ IIDX RED,AGEHA,1002,MINORU,沖縄県,1611,MTR,沖縄県,1866,UME-G-,沖縄県
 IIDX RED,AA,1241,BUTCH!,沖縄県,2658,SSM,沖縄県,3530,WING.,沖縄県
 HAPPY SKY,月光,860,KINO,沖縄県,1690,GOA,沖縄県,2457,WING.,沖縄県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),997,DREAM.,沖縄県,1472,129,沖縄県,1913,HIRO*,沖縄県
-HAPPY SKY,冥,993,NORO,沖縄県,1995,UME-G-,沖縄県,3623,MAGOLR,沖縄県
+HAPPY SKY,冥,1005,SSM,沖縄県,1995,UME-G-,沖縄県,3623,MAGOLR,沖縄県
 HAPPY SKY,ラクエン,695,EARL,沖縄県,881,MAG.,沖縄県,1903,MAYAMA,沖縄県
 HAPPY SKY,ヒマワリ,555,NIK.YK,沖縄県,1771,GOA,沖縄県,2055,HIRO*,沖縄県
 HAPPY SKY,オレはビートマニア！お前は何マニア？,719,HADES.,沖縄県,1391,129,沖縄県,1653,HIRO*,沖縄県
@@ -297,7 +297,7 @@ DistorteD,WISH(EUROBEAT MIX),917,DREAM.,沖縄県,1499,TEAL,沖縄県,1934,UME-G
 DistorteD,Why did you go away,972,HMD,沖縄県,1718,GOA,沖縄県,2306,WING.,沖縄県
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3812,MAGOLR,沖縄県
 DistorteD,waxing and wanding,1237,KINO,沖縄県,1879,GOA,沖縄県,2854,MAYAMA,沖縄県
-DistorteD,TYPE MARS(G-Style Mix),0,,未設定,1722,F1VE,沖縄県,2352,WING.,沖縄県
+DistorteD,TYPE MARS(G-Style Mix),0,,未設定,1787,SSM,沖縄県,2352,WING.,沖縄県
 DistorteD,tripping contact(teranoid&MC Natsack Remix),1149,KINO,沖縄県,1888,GENIUS,沖縄県,2423,HIRO*,沖縄県
 DistorteD,This is Love,899,MINORU,沖縄県,1725,GOA,沖縄県,2452,WING.,沖縄県
 DistorteD,The Dirty of Loudness,1351,KINO,沖縄県,2022,GENIUS,沖縄県,2553,WING.,沖縄県
@@ -347,7 +347,7 @@ GOLD,Second Heaven,909,3SET,沖縄県,1494,GOA,沖縄県,2097,WING.,沖縄県
 GOLD,Roulette,877,NORO,沖縄県,1372,AKSRY!,沖縄県,2093,HIRO*,沖縄県
 GOLD,PHOTONGENIC,1323,BUTCH!,沖縄県,1822,5UP1C4,沖縄県,2284,MAYAMA,沖縄県
 GOLD,op.31 叙情,546,1S,沖縄県,1152,F1VE,沖縄県,1491,WING.,沖縄県
-GOLD,never…,763,MINORU,沖縄県,1287,STSH,沖縄県,1782,UME-G-,沖縄県
+GOLD,never…,763,MINORU,沖縄県,1313,KINO,沖縄県,1782,UME-G-,沖縄県
 GOLD,METALLIC MIND,805,IIDX25,沖縄県,1348,129,沖縄県,1617,HIRO*,沖縄県
 GOLD,Make Me Your Own,869,CHU2SM,沖縄県,1464,MAYAMA,沖縄県,2090,WING.,沖縄県
 GOLD,Love Again...,554,STSH,沖縄県,737,EGGO,沖縄県,1071,HIRO*,沖縄県
@@ -440,7 +440,7 @@ EMPRESS,THANK YOU FOR PLAYING,738,DREAM.,沖縄県,1560,NO1056,沖縄県,2104,HI
 EMPRESS,SOLITON BEAM,1100,HMD,沖縄県,2055,TEAL,沖縄県,2263,DOLPE.,沖縄県
 EMPRESS,smooooch・∀・,805,H.U.,沖縄県,1586,NORO,沖縄県,2111,HIRO*,沖縄県
 EMPRESS,Secrets,1221,LASTY,沖縄県,2361,DOLPE.,沖縄県,3085,HIRO*,沖縄県
-EMPRESS,Queen's Tragedy,401,IIDX26,沖縄県,1631,129,沖縄県,2203,WING.,沖縄県
+EMPRESS,Queen's Tragedy,779,B1R1,沖縄県,1637,SSM,沖縄県,2203,WING.,沖縄県
 EMPRESS,Punch Love 仮面,1080,KINO,沖縄県,1667,PQR*,沖縄県,2479,WING.,沖縄県
 EMPRESS,Programmed World,840,DREAM.,沖縄県,1671,NORO,沖縄県,2264,WING.,沖縄県
 EMPRESS,NΦ CRIME,796,NORO,沖縄県,1347,NYAN*2,沖縄県,1869,HIRO*,沖縄県
@@ -672,7 +672,7 @@ tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),540,MAYAM
 tricoro,ΕΛΠΙΣ,1121,KINO,沖縄県,2037,UME-G-,沖縄県,3005,REMAKO,沖縄県
 tricoro,Zirkfied,941,HMD,沖縄県,1965,Y2K,沖縄県,3663,WING.,沖縄県
 tricoro,ZED,811,GNHHBK,沖縄県,1620,AKSRY!,沖縄県,2724,NIK.YK,沖縄県
-tricoro,YELLOW FROG from Steel Chronicle,520,TAPLIS,沖縄県,1114,AAAAAA,沖縄県,1863,SUELLE,沖縄県
+tricoro,YELLOW FROG from Steel Chronicle,520,1SHOT,沖縄県,1114,AAAAAA,沖縄県,1863,SUELLE,沖縄県
 tricoro,VEGA,1035,MASA,沖縄県,1988,F1VE,沖縄県,3097,MAGOLR,沖縄県
 tricoro,VALLIS-NERIA,1054,PARMOR,沖縄県,2024,K.T,沖縄県,2875,WING.,沖縄県
 tricoro,Valanga,1259,KINO,沖縄県,2102,K.T,沖縄県,3141,WING.,沖縄県
@@ -701,7 +701,7 @@ tricoro,planarian,680,MINORU,沖縄県,1568,MINORU,沖縄県,2508,LUV*NC,沖縄�
 tricoro,Plan 8,1042,HMD,沖縄県,2124,K.T,沖縄県,3003,WING.,沖縄県
 tricoro,New Lights,766,MIZUNA,沖縄県,1712,7*HISA,沖縄県,2384,DOLPE.,沖縄県
 tricoro,New Decade IIDX Edition,888,DREAM.,沖縄県,1846,AKSRY!,沖縄県,2952,MAGOLR,沖縄県
-tricoro,neu,983,BUTCH!,沖縄県,2113,SSM,沖縄県,3747,MAGOLR,沖縄県
+tricoro,neu,983,BUTCH!,沖縄県,2113,SSM,沖縄県,3779,NIK.YK,沖縄県
 tricoro,Neonlights,623,MINORU,沖縄県,1482,MINORU,沖縄県,2191,WING.,沖縄県
 tricoro,mnemoniq,498,MINORU,沖縄県,939,DOLPE.,沖縄県,1299,HIRO*,沖縄県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2730,REMAKO,沖縄県
@@ -743,7 +743,7 @@ SPADA,疾風迅雷,1104,KINO,沖縄県,2088,MAGOLR,沖縄県,2745,MAYAMA,沖縄�
 SPADA,牧神笛吹きて,697,HMD,沖縄県,1302,NORO,沖縄県,1991,UME-G-,沖縄県
 SPADA,煉獄のエルフェリア,1181,H.U.,沖縄県,2234,DOLPE.,沖縄県,3641,JOE,沖縄県
 SPADA,海神,1066,MINORU,沖縄県,2055,UME-G-,沖縄県,3051,WING.,沖縄県
-SPADA,旋律のドグマ～Miserables～,1203,H.U.,沖縄県,2335,AKSRY!,沖縄県,3827,NIK.YK,沖縄県
+SPADA,旋律のドグマ～Miserables～,1203,H.U.,沖縄県,2368,MAG.,沖縄県,3827,NIK.YK,沖縄県
 SPADA,廿†,0,,未設定,0,,未設定,3111,NIK.YK,沖縄県
 SPADA,廿,937,KINO,沖縄県,1539,KINO,沖縄県,2331,MAGOLR,沖縄県
 SPADA,幻想系世界修復少女,608,NORO,沖縄県,1086,H.U.,沖縄県,1871,EVE-AI,沖縄県
@@ -903,7 +903,7 @@ PENDUAL,CHRONO DIVER -NORNIR-,1102,MINORU,沖縄県,2132,AKSRY!,沖縄県,3065,M
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2230,UME-G-,沖縄県
 PENDUAL,chrono diver -fragment-,657,MAG.,沖縄県,1136,EVE-AI,沖縄県,1775,MAYAMA,沖縄県
 PENDUAL,Chain of pain,752,KINO,沖縄県,1376,MTR,沖縄県,2206,WING.,沖縄県
-PENDUAL,Broken Sword,1224,KINO,沖縄県,1985,129,沖縄県,3579,MAYAMA,沖縄県
+PENDUAL,Broken Sword,1224,KINO,沖縄県,1985,129,沖縄県,3582,NIK.YK,沖縄県
 PENDUAL,BLUE MIRAGE,1004,BERKUT,沖縄県,1883,KINTA9,沖縄県,2856,MAGOLR,沖縄県
 PENDUAL,Blaze it UP!,921,MINORU,沖縄県,1809,AKSRY!,沖縄県,2902,SSM,沖縄県
 PENDUAL,Beyond The Earth,1126,DREAM.,沖縄県,1997,CHU2SM,沖縄県,3167,WING.,沖縄県
@@ -912,7 +912,7 @@ PENDUAL,Beat Radiance,930,MINORU,沖縄県,1556,H.U.,沖縄県,2573,SSM,沖縄�
 PENDUAL,Amnolys,732,DREAM.,沖縄県,1589,NORO,沖縄県,2634,WING.,沖縄県
 PENDUAL,AFRO KNUCKLE,882,MINORU,沖縄県,1709,ONLOOK,沖縄県,2385,MAYAMA,沖縄県
 PENDUAL,#The_Relentless,1152,KINO,沖縄県,1890,AKSRY!,沖縄県,2852,REMAKO,沖縄県
-copula,麗 ～うらら～,1044,AKI,沖縄県,1754,NIK.YK,沖縄県,2559,REMAKO,沖縄県
+copula,麗 ～うらら～,1045,GSX,沖縄県,1754,NIK.YK,沖縄県,2559,REMAKO,沖縄県
 copula,駅猫のワルツ,1095,BERKUT,沖縄県,2097,MAGOLR,沖縄県,2682,WING.,沖縄県
 copula,量子の海のリントヴルム,907,KINO,沖縄県,1722,TEAL,沖縄県,2906,WING.,沖縄県
 copula,追想快晴テーマパーク,1118,HMD,沖縄県,1963,KINO,沖縄県,2968,REMAKO,沖縄県
@@ -1025,7 +1025,7 @@ SINOBUZ,XINOBIKILL,910,Y,沖縄県,1591,KINO,沖縄県,2795,NIK.YK,沖縄県
 SINOBUZ,Warrior,990,KINO,沖縄県,1731,CHU2SM,沖縄県,2366,BUTCH!,沖縄県
 SINOBUZ,Vermilion,820,Y,沖縄県,1348,DOLPE.,沖縄県,1916,LUV*NC,沖縄県
 SINOBUZ,Venom,1189,HADES.,沖縄県,2060,SABA0,沖縄県,3102,HIRO*,沖縄県
-SINOBUZ,Umbral,589,TAPLIS,沖縄県,1330,TAPLIS,沖縄県,1845,K.T,沖縄県
+SINOBUZ,Umbral,589,1SHOT,沖縄県,1330,1SHOT,沖縄県,1845,K.T,沖縄県
 SINOBUZ,TOGAKUSHI,958,14NAG!,沖縄県,1808,TEAL,沖縄県,2522,WING.,沖縄県
 SINOBUZ,The Commanders,954,BUTCH!,沖縄県,1467,14NAG!,沖縄県,2414,NIK.YK,沖縄県
 SINOBUZ,Sweet Clapper,537,HMD,沖縄県,1183,H.U.,沖縄県,1904,UME-G-,沖縄県
@@ -1193,7 +1193,7 @@ Rootage,金野火織の金色提言,1259,UME-G-,沖縄県,2212,LIAT.T,沖縄県,
 Rootage,花冠 feat.Aikapin,971,129,沖縄県,1626,WA,沖縄県,2559,WING.,沖縄県
 Rootage,爆ゼニ☆がってんワーカー,1229,GENIUS,沖縄県,1847,GENIUS,沖縄県,2685,WING.,沖縄県
 Rootage,抱きしめてモナムール,1309,EARL,沖縄県,2276,K.T,沖縄県,3970,REMAKO,沖縄県
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,694,UME-G-,沖縄県,1537,UME-G-,沖縄県,2540,WING.,沖縄県
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,694,UME-G-,沖縄県,1539,UME-G-,沖縄県,2540,WING.,沖縄県
 Rootage,ミストレス・アンに花束を,581,EARL,沖縄県,1002,GUY,沖縄県,1414,WING.,沖縄県
 Rootage,ハードベース・フェスタ,1124,BUTCH!,沖縄県,1781,BUTCH!,沖縄県,2816,WING.,沖縄県
 Rootage,セカンドピアス,601,EARL,沖縄県,1093,MAYAMA,沖縄県,2013,WING.,沖縄県
