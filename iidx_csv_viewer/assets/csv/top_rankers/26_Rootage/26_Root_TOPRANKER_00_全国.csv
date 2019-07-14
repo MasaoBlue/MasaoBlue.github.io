@@ -35,7 +35,7 @@
 4th style,Voltage (feat. Hidemaru),958,N!?,北海道,1253,N!?,北海道,1336,N!?,北海道
 4th style,ULTRA HIGH-HEELS,760,ZARBON,神奈川県,917,GENO,岡山県,992,MIKAMO,東京都
 4th style,SWEET LAB,558,ZARBON,神奈川県,979,*SHO*,新潟県,1377,CHARM,韓国
-4th style,starmine,900,LAHAR*,東京都,1426,MONO,愛知県,1593,DOLCE.,岩手県
+4th style,starmine,900,LAHAR*,東京都,1426,MONO,愛知県,1594,MACAOF,韓国
 4th style,Mr.T.(take me higher),854,ZARBON,神奈川県,1016,QALFY,千葉県,1768,CHARM,韓国
 4th style,minimalian,537,LAHAR*,東京都,1103,LAHAR*,東京都,1409,P.O.E,韓国
 4th style,LOVE WILL・・・,558,MARINA,神奈川県,758,GENO,岡山県,1463,MN.SDK,神奈川県
@@ -80,7 +80,7 @@
 6th style,Summer Vacation(CU mix),1295,LAHAR*,東京都,1868,PEACE,愛知県,0,,未設定
 6th style,SOMETHING WONDERFUL,928,LAHAR*,東京都,1366,N!?,北海道,1999,PEACE,愛知県
 6th style,route 80s,898,LAHAR*,東京都,1218,N!?,北海道,1522,DINASO,神奈川県
-6th style,rottel-da-sun,820,B-RABI,滋賀県,1368,N!?,北海道,1862,1048,東京都
+6th style,rottel-da-sun,820,B-RABI,滋賀県,1368,N!?,北海道,1867,MACAOF,韓国
 6th style,NEMESIS,1029,ATIA,東京都,1644,N!?,北海道,1927,P.O.E,韓国
 6th style,Linus,967,ZARBON,神奈川県,1563,N!?,北海道,2195,PEACE,愛知県
 6th style,G2,1481,N!?,北海道,1854,N!?,北海道,2356,P.O.E,韓国
@@ -130,7 +130,7 @@
 8th style,Luv 2 Feel Your Body,864,ZARBON,神奈川県,1073,N!?,北海道,1667,O.935,静岡県
 8th style,LOVE IS ORANGE,798,ATIA,東京都,1033,MONO,愛知県,1801,PEACE,愛知県
 8th style,LAB,1066,ATIA,東京都,2045,N!?,北海道,2143,MACAOF,韓国
-8th style,HYPER BOUNDARY GATE,1283,ZARBON,神奈川県,1947,N!?,北海道,2220,MIKAMO,東京都
+8th style,HYPER BOUNDARY GATE,1284,CRIS,韓国,1947,N!?,北海道,2220,MIKAMO,東京都
 8th style,Halfway of promise,960,ZARBON,神奈川県,1547,N!?,北海道,1850,CHARM,韓国
 8th style,Giudecca,927,MIKAMO,東京都,1980,N!?,北海道,2717,MIKAMO,東京都
 8th style,dual control,802,N!?,北海道,1490,LAHAR*,東京都,1907,P.O.E,韓国
@@ -258,7 +258,7 @@ HAPPY SKY,SigSig,1091,DICE,東京都,1718,CHARM,韓国,2606,MN.SDK,神奈川県
 HAPPY SKY,Scripted Connection⇒ N mix,1346,N!?,北海道,1704,N!?,北海道,2126,MIKAMO,東京都
 HAPPY SKY,Scripted Connection⇒ H mix,1738,N!?,北海道,2082,N!?,北海道,2527,1048,東京都
 HAPPY SKY,Scripted Connection⇒ A mix,1707,N!?,北海道,2266,N!?,北海道,3126,P.O.E,韓国
-HAPPY SKY,SCREAM SQUAD,1208,N!?,北海道,1688,IIDX25,愛知県,2114,KKM*,韓国
+HAPPY SKY,SCREAM SQUAD,1208,N!?,北海道,1689,G*,群馬県,2114,KKM*,韓国
 HAPPY SKY,rage against usual,1388,N!?,北海道,2067,LAHAR*,東京都,3009,KKM*,韓国
 HAPPY SKY,POODLE,975,LAHAR*,東京都,1904,N!?,北海道,2303,P.O.E,韓国
 HAPPY SKY,Pollinosis,802,LAHAR*,東京都,1171,GIGANT,和歌山県,2536,P.O.E,韓国
@@ -415,7 +415,7 @@ DJ TROOPERS,Dazzlin' Darlin,910,ATIA,東京都,1407,GENO,岡山県,2228,UNA-10,�
 DJ TROOPERS,Darling my LUV,699,LAHAR*,東京都,1016,MONO,愛知県,1388,MACAOF,韓国
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3368,KKM*,韓国
 DJ TROOPERS,Blue Rain,1026,IMOTO*,大阪府,1618,N!?,北海道,2285,NA!,愛知県
-DJ TROOPERS,beatonic nation,1270,DICE,東京都,1898,N!?,北海道,2171,CHARM,韓国
+DJ TROOPERS,beatonic nation,1270,DICE,東京都,1898,N!?,北海道,2173,MACAOF,韓国
 DJ TROOPERS,Be OK,954,EIKRA7,富山県,1794,N!?,北海道,2419,P.O.E,韓国
 DJ TROOPERS,avant-guerre,770,LAHAR*,東京都,1375,N!?,北海道,1936,DINASO,神奈川県
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",1255,IMOTO*,大阪府,2147,HELPME,愛知県,2873,P.O.E,韓国
@@ -428,7 +428,7 @@ EMPRESS,卑弥呼,1278,MN.SDK,神奈川県,2790,U*TAKA,千葉県,4107,U*TAKA,千
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3178,P.O.E,韓国
 EMPRESS,凛として咲く花の如く,1336,B-RABI,滋賀県,2164,N!?,北海道,2791,P.O.E,韓国
 EMPRESS,不沈艦CANDY,1193,ZARBON,神奈川県,2007,N!?,北海道,3322,U*TAKA,千葉県
-EMPRESS,ミッドナイト堕天使,997,ATIA,東京都,1650,N!?,北海道,2786,YUI.OR,埼玉県
+EMPRESS,ミッドナイト堕天使,997,ATIA,東京都,1650,N!?,北海道,2789,RKS-32,愛知県
 EMPRESS,ハリツヤランデヴー,964,MORI1$,愛知県,2138,N!?,北海道,2491,MIKAMO,東京都
 EMPRESS,まほろば,792,LAHAR*,東京都,1465,N!?,北海道,2064,P.O.E,韓国
 EMPRESS,"You'll say ""Now!""",1241,LAHAR*,東京都,1901,CHARM,韓国,2515,HAWKS*,韓国
@@ -620,13 +620,13 @@ Lincle,QUANTUM TELEPORTATION,1435,LAHAR*,東京都,2392,N!?,北海道,2955,MN.SD
 Lincle,prompt,962,IMOTO*,大阪府,1600,GENO,岡山県,2822,HAWKS*,韓国
 Lincle,Phoenix,906,ATIA,東京都,1228,ATIA,東京都,2496,MN.IGW,神奈川県
 Lincle,NNRT,1259,GES8RO,千葉県,2525,DONUTS,山形県,3514,HAWKS*,韓国
-Lincle,Miami Sunset Drive,641,LAHAR*,東京都,1085,LAHAR*,東京都,1679,PEACE,愛知県
+Lincle,Miami Sunset Drive,645,DICE,東京都,1085,LAHAR*,東京都,1679,PEACE,愛知県
 Lincle,Mermaid girl-秋葉工房 MIX-,830,ATIA,東京都,1355,LAHAR*,東京都,2060,KALMIA,埼玉県
 Lincle,Lucky Days,666,ATIA,東京都,1535,Y13,東京都,2212,P.O.E,韓国
 Lincle,LOVE B.B.B,788,MARINA,神奈川県,1527,MONO,愛知県,2033,CHARM,韓国
 Lincle,Liquid Crystal Girl feat. echo,418,IMOTO*,大阪府,1121,GES8RO,千葉県,2019,CHARM,韓国
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,1032,ATIA,東京都,1647,MARO-N,神奈川県,2217,NA!,愛知県
-Lincle,LAX5 feat.Ryota Yoshinari,1074,SOS!,新潟県,2140,B-RABI,滋賀県,2842,TAKA.S,大阪府
+Lincle,LAX5 feat.Ryota Yoshinari,1074,SOS!,新潟県,2140,B-RABI,滋賀県,2846,MACAOF,韓国
 Lincle,Infinite cave,1037,LAHAR*,東京都,1543,LAHAR*,東京都,2077,CHARM,韓国
 Lincle,In the Blackest Den,892,ZARBON,神奈川県,1622,SERENA,埼玉県,2645,HAWKS*,韓国
 Lincle,I'm so Happy,422,MARINA,神奈川県,1401,LAHAR*,東京都,2360,HAWKS*,韓国
@@ -696,7 +696,7 @@ tricoro,Re:GENERATION,954,B-RABI,滋賀県,1598,GG*-*!,韓国,2273,DINASO,神奈
 tricoro,Rainbow after snow,740,B-RABI,滋賀県,1487,B-RABI,滋賀県,2175,GOGI!!,韓国
 tricoro,Proof of the existence,1194,GES8RO,千葉県,2137,LAHAR*,東京都,3267,KKM*,韓国
 tricoro,Praludium,710,MARINA,神奈川県,1455,MONO,愛知県,2310,CHARM,韓国
-tricoro,POINT ZERO,740,MARINA,神奈川県,1307,N!?,北海道,2099,CHARM,韓国
+tricoro,POINT ZERO,740,MARINA,神奈川県,1307,N!?,北海道,2102,MACAOF,韓国
 tricoro,planarian,720,MARINA,神奈川県,1699,SAZAE3,和歌山県,2544,XXXXXX,韓国
 tricoro,Plan 8,1191,ZARBON,神奈川県,2262,CHARM,韓国,3216,DOLCE.,岩手県
 tricoro,New Lights,1056,LAHAR*,東京都,1846,N!?,北海道,2484,CHARM,韓国
@@ -711,7 +711,7 @@ tricoro,Light and Cyber…,1063,ZARBON,神奈川県,2057,SAZAE3,和歌山県,314
 tricoro,Liberation,1513,LAHAR*,東京都,2396,N!?,北海道,3773,KKM*,韓国
 tricoro,JOMANDA,1184,NEODIO,青森県,2465,PURIN,愛知県,3741,U*TAKA,千葉県
 tricoro,In Heaven,772,MARINA,神奈川県,1489,GENO,岡山県,2134,PEACE,愛知県
-tricoro,Illegal Function Call,1005,LAHAR*,東京都,1868,P.O.E,韓国,2720,DINASO,神奈川県
+tricoro,Illegal Function Call,1009,DICE,東京都,1868,P.O.E,韓国,2720,DINASO,神奈川県
 tricoro,ILIAS,809,TKY,京都府,1333,GENO,岡山県,2201,PEACE,愛知県
 tricoro,I know You know,608,IMOTO*,大阪府,1199,ZARBON,神奈川県,1891,MIKAMO,東京都
 tricoro,Howling†,0,,未設定,0,,未設定,2681,P.O.E,韓国
@@ -763,7 +763,7 @@ SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4352,KKM*,韓国
 SPADA,Sigmund,1605,N!?,北海道,2418,CHARM,韓国,3940,U*TAKA,千葉県
 SPADA,SCHWARZSCHILD FIELD,938,ZARBON,神奈川県,1649,LAHAR*,東京都,2422,DOLCE.,岩手県
 SPADA,RIZING YOU UP,1061,DICE,東京都,2134,GG*-*!,韓国,2577,1048,東京都
-SPADA,RISE,952,LAHAR*,東京都,1388,N!?,北海道,1888,CHARM,韓国
+SPADA,RISE,952,LAHAR*,東京都,1388,N!?,北海道,1891,MACAOF,韓国
 SPADA,refractive index,748,MARINA,神奈川県,1456,N!?,北海道,2708,P.O.E,韓国
 SPADA,Recollection,1190,EZ2AC,埼玉県,1759,N!?,北海道,2227,CHARM,韓国
 SPADA,rainbow guitar weeps,983,ZARBON,神奈川県,1886,N!?,北海道,2785,P.O.E,韓国
@@ -777,7 +777,7 @@ SPADA,Miracle 5ympho X,774,SHINPO,東京都,1340,LAHAR*,東京都,2633,TANMEN,�
 SPADA,MAGIC & LOVE,1032,ATIA,東京都,1863,B-RABI,滋賀県,2929,PPJT,長野県
 SPADA,MAD ATTACK,691,4J1NB0,大分県,1347,GIGANT,和歌山県,1967,P.O.E,韓国
 SPADA,m1dy Deluxe,1179,DICE,東京都,1869,MN.SDK,神奈川県,2610,MIKAMO,東京都
-SPADA,M.D.Injection,602,IMOTO*,大阪府,1248,24KINO,岐阜県,2435,CHARM,韓国
+SPADA,M.D.Injection,602,IMOTO*,大阪府,1248,24KINO,岐阜県,2446,MACAOF,韓国
 SPADA,Lighting Shower,831,LAHAR*,東京都,1382,N!?,北海道,2429,P.O.E,韓国
 SPADA,Last Dance,1226,-ENA-,埼玉県,2058,DT-G5Q,海外,3261,P.O.E,韓国
 SPADA,LA FESTA LA VITA!!,881,ATIA,東京都,1823,N!?,北海道,2912,CHARM,韓国
@@ -1062,8 +1062,8 @@ SINOBUZ,Modular Technology,1263,DICE,東京都,1977,PPJT,長野県,2709,1048,東
 SINOBUZ,Mare Nectaris,1484,IIDX25,愛知県,2184,CHARM,韓国,3901,KKM*,韓国
 SINOBUZ,Magical,820,B-RABI,滋賀県,1201,B-RABI,滋賀県,2010,DOLCE.,岩手県
 SINOBUZ,Macuilxochitl,1491,CARROT,福岡県,2265,MACAOM,北海道,3325,POPS,韓国
-SINOBUZ,Lost wing at.0,938,*SHO*,新潟県,1473,LAHAR*,東京都,2479,CHARM,韓国
-SINOBUZ,INVISIBLE STRIX,1183,*SHO*,新潟県,2107,S?GS?G,韓国,2635,RKS-32,愛知県
+SINOBUZ,Lost wing at.0,942,DICE,東京都,1473,LAHAR*,東京都,2479,CHARM,韓国
+SINOBUZ,INVISIBLE STRIX,1187,DICE,東京都,2107,S?GS?G,韓国,2635,RKS-32,愛知県
 SINOBUZ,Honey Trap,840,SHINPO,東京都,1627,KAKO*,北海道,2547,P.O.E,韓国
 SINOBUZ,HAPPY★RUSH,800,MARINA,神奈川県,1918,LAHAR*,東京都,2933,MACAOF,韓国
 SINOBUZ,HADES,999,ZARBON,神奈川県,1881,LAHAR*,東京都,3145,P.O.E,韓国
@@ -1130,7 +1130,7 @@ CANNON BALLERS,SHOX,875,ATIA,東京都,1174,ATIA,東京都,1752,DINASO,神奈川
 CANNON BALLERS,Rise Circuit,946,ATIA,東京都,1629,LAHAR*,東京都,2324,MN.445,神奈川県
 CANNON BALLERS,Raspberry Railgun,1427,N!?,北海道,2252,PPJT,長野県,3177,DINASO,神奈川県
 CANNON BALLERS,Rampage,1301,GREIN,岡山県,2510,MIKAMO,東京都,3629,DOLCE.,岩手県
-CANNON BALLERS,Persephone,1355,LAHAR*,東京都,1988,*ALEX*,静岡県,3042,P.O.E,韓国
+CANNON BALLERS,Persephone,1361,CRIS,韓国,1988,*ALEX*,静岡県,3042,P.O.E,韓国
 CANNON BALLERS,Papilio ulysses,1221,ZARBON,神奈川県,2140,CHARM,韓国,2961,DOLCE.,岩手県
 CANNON BALLERS,Only for now,918,ATIA,東京都,1586,GENO,岡山県,2273,PEACE,愛知県
 CANNON BALLERS,O/D*20,1157,ATIA,東京都,1703,GENO,岡山県,2128,PEACE,愛知県
@@ -1138,13 +1138,13 @@ CANNON BALLERS,Nothing but Theory,1100,Y13,東京都,1601,MONO,愛知県,2859,PE
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,988,ZARBON,神奈川県,1577,N!?,北海道,2355,HAWKS*,韓国
 CANNON BALLERS,NITROUS CANNON,1402,LAHAR*,東京都,2067,N!?,北海道,3672,KKM*,韓国
 CANNON BALLERS,n'pa pa BBQ,937,ZARBON,神奈川県,1775,N!?,北海道,2802,MIKAMO,東京都
-CANNON BALLERS,Mira,957,B-1824,群馬県,1908,LAHAR*,東京都,3155,P.O.E,韓国
+CANNON BALLERS,Mira,958,DICE,東京都,1908,LAHAR*,東京都,3155,P.O.E,韓国
 CANNON BALLERS,Midnight Lady,646,MARINA,神奈川県,1183,KKDMGF,富山県,1955,CHARM,韓国
 CANNON BALLERS,LUV DRIVE,832,B-1824,群馬県,1358,LAHAR*,東京都,2139,CHARM,韓国
 CANNON BALLERS,LIGHTS ft. EVO+,774,CARROT,福岡県,1445,ATIA,東京都,2379,1048,東京都
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1273,SHINPO,東京都,1960,CHARM,韓国,3485,KKM*,韓国
 CANNON BALLERS,Initiation,1508,GREIN,岡山県,2518,CHARM,韓国,3985,KKM*,韓国
-CANNON BALLERS,Illusionary Waterlily,1314,BYERDN,韓国,2282,PPJT,長野県,3573,DOLCE.,岩手県
+CANNON BALLERS,Illusionary Waterlily,1315,DICE,東京都,2282,PPJT,長野県,3573,DOLCE.,岩手県
 CANNON BALLERS,I'm Coming (2017 Version),646,MARINA,神奈川県,1326,MONO,愛知県,2108,CHARM,韓国
 CANNON BALLERS,I Love You,1080,ZARBON,神奈川県,1920,LAHAR*,東京都,2746,CHARM,韓国
 CANNON BALLERS,HYPE THE CORE,1113,LAHAR*,東京都,2042,*SHO*,新潟県,3023,HAWKS*,韓国
@@ -1156,7 +1156,7 @@ CANNON BALLERS,From Time To Time,808,ZARBON,神奈川県,1932,*RK*,大阪府,256
 CANNON BALLERS,FREEDOM,1011,TKY,京都府,1747,GIGANT,和歌山県,2949,DOLCE.,岩手県
 CANNON BALLERS,FIRE BALL,866,LAYER,千葉県,1649,*SHO*,新潟県,2515,P.O.E,韓国
 CANNON BALLERS,Fervidex,864,ATIA,東京都,1822,SAZAE3,和歌山県,2710,DOLCE.,岩手県
-CANNON BALLERS,Expanded !!,682,EIKRA7,富山県,1562,DICE,東京都,2632,CHARM,韓国
+CANNON BALLERS,Expanded !!,682,EIKRA7,富山県,1562,DICE,東京都,2634,MACAOF,韓国
 CANNON BALLERS,Exhaust Hype,1039,LAHAR*,東京都,1972,LC,大阪府,2831,P.O.E,韓国
 CANNON BALLERS,encounter,986,Y13,東京都,1796,CHINO,大分県,3325,DOLCE.,岩手県
 CANNON BALLERS,EMERALDAS,1395,N!?,北海道,2469,MIKAMO,東京都,3558,FENNEC,北海道
