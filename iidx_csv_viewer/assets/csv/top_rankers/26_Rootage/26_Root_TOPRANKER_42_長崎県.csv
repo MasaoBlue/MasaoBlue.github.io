@@ -5,9 +5,9 @@
 1st&substream,R3,0,,未設定,712,2HISOX,長崎県,888,HEIPON,長崎県
 1st&substream,PARANOIA MAX～DIRTY MIX～,506,KOTEKA,長崎県,435,TTZK,長崎県,1076,HEIPON,長崎県
 1st&substream,Macho Gang,344,AK1T0,長崎県,945,DROP,長崎県,1514,KAEDE,長崎県
-1st&substream,KEEP ON MOVIN',66,KITT..,長崎県,234,2HISOX,長崎県,0,,未設定
-1st&substream,GRADIUSIC CYBER,0,,未設定,836,LATHAM,長崎県,1158,F,長崎県
-1st&substream,GENOM SCREAMS,0,,未設定,726,DROP,長崎県,1035,HEIPON,長崎県
+1st&substream,KEEP ON MOVIN',67,SAE,長崎県,234,2HISOX,長崎県,0,,未設定
+1st&substream,GRADIUSIC CYBER,544,TTZK,長崎県,836,LATHAM,長崎県,1158,F,長崎県
+1st&substream,GENOM SCREAMS,196,CICO2A,長崎県,726,DROP,長崎県,1046,HEIPON,長崎県
 1st&substream,GAMBOL,269,Z-GIRL,長崎県,272,STEAK,長崎県,0,,未設定
 1st&substream,Dr.LOVE,139,MANAKA,長崎県,465,Z-GIRL,長崎県,565,HEIPON,長崎県
 1st&substream,deep in you,437,YU-HI,長崎県,442,NOZOM!,長崎県,646,HEIPON,長崎県
@@ -40,7 +40,7 @@
 4th style,minimalian,433,0YASA1,長崎県,925,9YU,長崎県,1351,HEIPON,長崎県
 4th style,LOVE WILL・・・,465,0YASA1,長崎県,629,SMKG,長崎県,1436,HEIPON,長崎県
 4th style,KAMIKAZE,0,,未設定,1238,0YASA1,長崎県,2199,TAU,長崎県
-4th style,Jam&Marmalade,530,MOMOYO,長崎県,802,SHIURA,長崎県,984,2HISOX,長崎県
+4th style,Jam&Marmalade,665,0YASA1,長崎県,804,Z-GIRL,長崎県,984,2HISOX,長崎県
 4th style,Hitch Hiker2,693,YU-HI,長崎県,1062,KITCHN,長崎県,1304,HEIPON,長崎県
 4th style,HIGHER,257,I.U,長崎県,860,YU-HI,長崎県,1243,2HISOX,長崎県
 4th style,FLOWERS for ALBION,227,L,長崎県,424,MOOON.,長崎県,0,,未設定
@@ -51,7 +51,7 @@
 4th style,Clione,452,ALNCO.,長崎県,834,FROSH,長崎県,1542,F,長崎県
 4th style,CHECKING YOU OUT,554,KAJA,長崎県,752,9YU,長崎県,1249,HEIPON,長崎県
 4th style,Burnin' The Floor,220,PERIMU,長崎県,911,KASUZU,長崎県,1423,HEIPON,長崎県
-4th style,Broken My Heart,0,,未設定,1235,DROP,長崎県,1777,UDA,長崎県
+4th style,Broken My Heart,424,BTU,長崎県,1235,DROP,長崎県,1777,UDA,長崎県
 4th style,B4U,489,KANON,長崎県,1315,Z-GIRL,長崎県,1916,F,長崎県
 4th style,ABSOLUTE†,0,,未設定,0,,未設定,2603,HEIPON,長崎県
 4th style,ABSOLUTE,1222,Z-GIRL,長崎県,1565,9YU,長崎県,2342,HEIPON,長崎県
@@ -66,10 +66,10 @@
 5th style,RISLIM,617,TTZK,長崎県,1173,UDA,長崎県,0,,未設定
 5th style,RIDE ON THE LIGHT (HI GREAT MIX) †,0,,未設定,0,,未設定,1742,HEIPON,長崎県
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),814,0YASA1,長崎県,917,NAOMAR,長崎県,1691,HEIPON,長崎県
-5th style,Regulus,841,0YASA1,長崎県,1358,KERUNO,長崎県,1612,KAEDE,長崎県
+5th style,Regulus,841,0YASA1,長崎県,1358,KERUNO,長崎県,1647,HEIPON,長崎県
 5th style,Real,1041,HTS,長崎県,1558,SHIURA,長崎県,1735,HEIPON,長崎県
 5th style,Radical Faith,909,S-K.T,長崎県,1330,Z-GIRL,長崎県,1274,HEIPON,長崎県
-5th style,QQQ,0,,未設定,1748,SHIURA,長崎県,2090,HEIPON,長崎県
+5th style,QQQ,1092,FULL,長崎県,1748,SHIURA,長崎県,2090,HEIPON,長崎県
 5th style,outer wall,513,U.RUNO,長崎県,1204,DROP,長崎県,1662,MOOON.,長崎県
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,未設定,656,TTZK,長崎県,1100,HEIPON,長崎県
 5th style,in my eyes,492,TTZK,長崎県,619,KALK,長崎県,1533,HEIPON,長崎県
@@ -80,7 +80,7 @@
 6th style,Summer Vacation(CU mix),1255,HEIPON,長崎県,1711,F,長崎県,0,,未設定
 6th style,SOMETHING WONDERFUL,0,,未設定,1254,L,長崎県,1911,HEIPON,長崎県
 6th style,route 80s,0,,未設定,1065,9YU,長崎県,1461,HEIPON,長崎県
-6th style,rottel-da-sun,0,,未設定,1170,KITCHN,長崎県,1802,HEIPON,長崎県
+6th style,rottel-da-sun,0,,未設定,1205,B.M,長崎県,1802,HEIPON,長崎県
 6th style,NEMESIS,822,0YASA1,長崎県,1357,SHIURA,長崎県,1741,F,長崎県
 6th style,Linus,866,0YASA1,長崎県,1357,U46?,長崎県,2152,STEAK,長崎県
 6th style,G2,1318,!!!!!!,長崎県,1596,SHIURA,長崎県,2228,STEAK,長崎県
@@ -89,9 +89,9 @@
 6th style,fly through the night,770,0YASA1,長崎県,980,SMKG,長崎県,1625,2HISOX,長崎県
 6th style,DIVE ～INTO YOUR HEART～,1223,RIV.,長崎県,1755,TAU,長崎県,1984,MOOON.,長崎県
 6th style,Colors (radio edit),979,GNAR,長崎県,1642,KOTEKA,長崎県,2349,STEAK,長崎県
-6th style,Buffalo,898,0YASA1,長崎県,1327,UNTAN,長崎県,1676,2HISOX,長崎県
+6th style,Buffalo,898,0YASA1,長崎県,1327,UNTAN,長崎県,1714,TAU,長崎県
 6th style,Blueberry Stream,396,KANON,長崎県,960,IKESAN,長崎県,1547,ARCAEA,長崎県
-6th style,BALLAD FOR YOU～想いの雨～,0,,未設定,725,Z-GIRL,長崎県,1059,HEIPON,長崎県
+6th style,BALLAD FOR YOU～想いの雨～,0,,未設定,739,459DE$,長崎県,1059,HEIPON,長崎県
 6th style,"19,November",976,LOVELY,長崎県,0,,未設定,1692,2HISOX,長崎県
 7th style,革命,691,KAEDE,長崎県,1763,TKTGST,長崎県,2235,HEIPON,長崎県
 7th style,ZERO-ONE,0,,未設定,1472,NAO,長崎県,2119,TAU,長崎県
@@ -100,22 +100,22 @@
 7th style,stoic,1473,9YU,長崎県,2105,SHIURA,長崎県,2410,HEIPON,長崎県
 7th style,Spica,0,,未設定,1260,F-REO,長崎県,2084,F,長崎県
 7th style,MAX 300,1018,KAJA,長崎県,1839,HEIPON,長崎県,0,,未設定
-7th style,Love Me Do,718,TTZK,長崎県,1386,AOI*,長崎県,2043,T41K1.,長崎県
+7th style,Love Me Do,718,TTZK,長崎県,1386,AOI*,長崎県,2080,HEIPON,長崎県
 7th style,Let the Snow Paint Me,0,,未設定,0,,未設定,1226,HEIPON,長崎県
 7th style,Last Message,0,,未設定,1167,KAJA,長崎県,1560,F,長崎県
 7th style,Happy Wedding,800,GNAR,長崎県,1341,PIPO,長崎県,1768,STEAK,長崎県
-7th style,Glorious Days,0,,未設定,701,AOI*,長崎県,899,HEIPON,長崎県
+7th style,Glorious Days,164,CICO2A,長崎県,701,AOI*,長崎県,899,HEIPON,長崎県
 7th style,foreplay,572,0YASA1,長崎県,974,9YU,長崎県,1249,2HISOX,長崎県
 7th style,DESTINY,575,U.RUNO,長崎県,548,U.RUNO,長崎県,1802,HEIPON,長崎県
 7th style,D2R,0,,未設定,0,,未設定,1534,KAEDE,長崎県
 7th style,Cheer Train,806,NAOMAR,長崎県,1024,UNTAN,長崎県,1689,HEIPON,長崎県
 7th style,Burning Heat! (Full Option Mix),625,LATHAM,長崎県,860,B.M,長崎県,1421,HEIPON,長崎県
-7th style,Bad Routine,885,0YASA1,長崎県,765,FENCER,長崎県,1847,ARCAEA,長崎県
-7th style,AVE DE RAPINA,808,SCARFY,長崎県,1582,K.FLAN,長崎県,1719,2HISOX,長崎県
-7th style,A,1168,KAJA,長崎県,1922,ABABA,長崎県,2337,HEIPON,長崎県
-8th style,蒼い衝動,767,LOVELY,長崎県,1097,MMM01,長崎県,1547,HEIPON,長崎県
+7th style,Bad Routine,885,0YASA1,長崎県,905,TTZK,長崎県,1847,ARCAEA,長崎県
+7th style,AVE DE RAPINA,808,SCARFY,長崎県,1582,K.FLAN,長崎県,1735,DAIKI*,長崎県
+7th style,A,1228,KAJA,長崎県,1922,ABABA,長崎県,2337,HEIPON,長崎県
+8th style,蒼い衝動,767,LOVELY,長崎県,1097,MMM01,長崎県,1563,HEIPON,長崎県
 8th style,桜,925,KAJA,長崎県,1372,RTX830,長崎県,1984,HEIPON,長崎県
-8th style,xenon,934,YU-HI,長崎県,1571,ABABA,長崎県,2659,STEAK,長崎県
+8th style,xenon,1032,ABABA,長崎県,1571,ABABA,長崎県,2659,STEAK,長崎県
 8th style,World Wide Love,0,,未設定,995,KOTEKA,長崎県,1103,HEIPON,長崎県
 8th style,WAR GAME,844,YU-HI,長崎県,1442,DROP,長崎県,2092,HEIPON,長崎県
 8th style,thunder,1136,NAOTO.,長崎県,1474,9YU,長崎県,1822,2HISOX,長崎県
@@ -126,18 +126,18 @@
 8th style,MUSIC TO YOUR HEAD,675,0YASA1,長崎県,1169,G3BAR3,長崎県,1612,STEAK,長崎県
 8th style,murmur twins,1090,ABABA,長崎県,1520,FOX-KK,長崎県,2316,STEAK,長崎県
 8th style,Monkey Dance,760,ABABA,長崎県,1285,SHIURA,長崎県,1922,HEIPON,長崎県
-8th style,memories,988,YU-HI,長崎県,1914,K.FLAN,長崎県,2196,HEIPON,長崎県
+8th style,memories,1016,FULL,長崎県,1914,K.FLAN,長崎県,2196,HEIPON,長崎県
 8th style,Luv 2 Feel Your Body,740,YU-HI,長崎県,995,L,長崎県,1571,F,長崎県
 8th style,LOVE IS ORANGE,706,LOVELY,長崎県,968,UNTAN,長崎県,1771,HEIPON,長崎県
 8th style,LAB,0,,未設定,1740,KITCHN,長崎県,2061,STEAK,長崎県
 8th style,HYPER BOUNDARY GATE,1115,NAGO,長崎県,1818,SHIURA,長崎県,2101,DAIKI*,長崎県
 8th style,Halfway of promise,658,TBS-TK,長崎県,1403,CARLOS,長崎県,1768,HEIPON,長崎県
 8th style,Giudecca,0,,未設定,1733,ABABA,長崎県,2489,F,長崎県
-8th style,dual control,672,DROP,長崎県,1325,SHIURA,長崎県,1786,2HISOX,長崎県
+8th style,dual control,672,DROP,長崎県,1325,SHIURA,長崎県,1791,2HISOX,長崎県
 8th style,Colors -Y&Co. Eurobeat Remix-,959,LOVELY,長崎県,1809,RTX830,長崎県,2115,UDA,長崎県
 8th style,CELEBRATE NITE,822,YU-HI,長崎県,935,YU-HI,長崎県,1383,HEIPON,長崎県
 8th style,Blame,1052,YU-HI,長崎県,1378,TKTGST,長崎県,1853,AK-12,長崎県
-8th style,bit mania,898,HEIPON,長崎県,1255,UDA,長崎県,1837,STEAK,長崎県
+8th style,bit mania,898,HEIPON,長崎県,1255,UDA,長崎県,1853,STEAK,長崎県
 8th style,Attitude,428,BTU,長崎県,1299,SHIURA,長崎県,1696,HEIPON,長崎県
 8th style,ALL RIGHT,791,0YASA1,長崎県,1202,GRAZE,長崎県,1500,ABABA,長崎県
 8th style,airflow,496,0YASA1,長崎県,686,UNTAN,長崎県,1393,HEIPON,長崎県
@@ -157,9 +157,9 @@
 9th style,one or eight,527,DANCHO,長崎県,1791,UDA,長崎県,2131,UDA,長崎県
 9th style,moon_child,922,0YASA1,長崎県,1835,SHIURA,長崎県,2469,AK-12,長崎県
 9th style,MARIA (I believe... ),544,AKKI-.,長崎県,1422,9YU,長崎県,1901,UDA,長崎県
-9th style,Make A Difference,755,OKAYU,長崎県,1315,DROP,長崎県,2159,HEIPON,長崎県
+9th style,Make A Difference,755,OKAYU,長崎県,1395,KITCHN,長崎県,2159,HEIPON,長崎県
 9th style,lower world,1284,ABABA,長崎県,1590,KAJA,長崎県,2170,HEIPON,長崎県
-9th style,LOVE SHINE,744,0YASA1,長崎県,1707,U46?,長崎県,2055,HEIPON,長崎県
+9th style,LOVE SHINE,744,0YASA1,長崎県,1722,*JO*,長崎県,2055,HEIPON,長崎県
 9th style,lights,692,UDA,長崎県,1177,PIPO,長崎県,1715,STEAK,長崎県
 9th style,Let The Snow Paint Me -Y&Co. Remix-,0,,未設定,0,,未設定,1744,MOOON.,長崎県
 9th style,Karma,1160,0YASA1,長崎県,1547,AK1T0,長崎県,1712,KAEDE,長崎県
@@ -175,24 +175,24 @@
 9th style,ATOMIC AGE,353,HEIPON,長崎県,652,RIV.,長崎県,1269,HEIPON,長崎県
 9th style,ACT,1051,UDA,長崎県,1414,NAGI-3,長崎県,1785,RAT*,長崎県
 9th style,Abyss -The Heavens Remix-,1053,S-K.T,長崎県,1691,F-REO,長崎県,2315,UDA,長崎県
-10th style,雪月花,1087,RA,長崎県,1706,SHIURA,長崎県,2385,AK-12,長崎県
+10th style,雪月花,1087,RA,長崎県,1763,L,長崎県,2385,AK-12,長崎県
 10th style,システムロマンス,612,TOMO,長崎県,1603,UNTAN,長崎県,2001,HEIPON,長崎県
-10th style,SPACE FIGHT,588,0YASA1,長崎県,1173,BROLY,長崎県,2127,HEIPON,長崎県
+10th style,SPACE FIGHT,588,0YASA1,長崎県,1236,SK.424,長崎県,2127,HEIPON,長崎県
 10th style,SHOOTING STAR,971,NAOMAR,長崎県,1409,9YU,長崎県,2208,HEIPON,長崎県
 10th style,Rise'n Beauty,864,S-K.T,長崎県,1452,ACBEXE,長崎県,2123,HEIPON,長崎県
 10th style,rainbow rainbow,1242,0YASA1,長崎県,1973,KITCHN,長崎県,2627,STEAK,長崎県
 10th style,pandora,795,0YASA1,長崎県,1389,CARLOS,長崎県,1751,MOOON.,長崎県
 10th style,One More Lovely,773,0YASA1,長崎県,1529,RTX830,長崎県,2669,AK-12,長崎県
 10th style,No.13,1477,9YU,長崎県,2483,T41K1.,長崎県,3079,STEAK,長崎県
-10th style,Narcissus At Oasis,416,KANON,長崎県,1488,SHIURA,長崎県,1554,HEIPON,長崎県
-10th style,Lucy,490,MORIZO,長崎県,1602,KITCHN,長崎県,2262,UDA,長崎県
+10th style,Narcissus At Oasis,416,KANON,長崎県,1488,SHIURA,長崎県,1594,HEIPON,長崎県
+10th style,Lucy,714,U.RUNO,長崎県,1602,KITCHN,長崎県,2262,UDA,長崎県
 10th style,LOW,0,,未設定,987,KAYAKI,長崎県,1601,K.FLAN,長崎県
 10th style,Love Is Eternity,1014,0YASA1,長崎県,1759,KITCHN,長崎県,2326,STEAK,長崎県
 10th style,Innocent Walls,1529,GRAZE,長崎県,2352,F,長崎県,2629,HEIPON,長崎県
 10th style,HIGH,820,0YASA1,長崎県,1836,T41K1.,長崎県,2127,UDA,長崎県
-10th style,GRADIUS -FULL SPEED-,693,KAJA,長崎県,1041,KAJA,長崎県,1957,HEIPON,長崎県
+10th style,GRADIUS -FULL SPEED-,703,KAJA,長崎県,1041,KAJA,長崎県,1957,HEIPON,長崎県
 10th style,GHOST REVIVAL,0,,未設定,1716,KITCHN,長崎県,2383,KAEDE,長崎県
-10th style,Freezing atmosphere,754,ABABA,長崎県,0,,未設定,1447,F,長崎県
+10th style,Freezing atmosphere,754,ABABA,長崎県,1036,IFRINA,長崎県,1447,F,長崎県
 10th style,FEEL IT,602,TTZK,長崎県,1554,L,長崎県,1921,STEAK,長崎県
 10th style,Feedback,0,,未設定,1382,9YU,長崎県,1868,UDA,長崎県
 10th style,EXE,722,KAJA,長崎県,1342,G3BAR3,長崎県,2160,HEIPON,長崎県
@@ -205,22 +205,22 @@
 10th style,Back Into The Light,1013,RA,長崎県,1532,SHIURA,長崎県,2113,STEAK,長崎県
 10th style,BABY LOVE,0,,未設定,0,,未設定,2099,UDA,長崎県
 10th style,ASTRAL VOYAGE,347,BTU,長崎県,1332,ABABA,長崎県,1835,ARCAEA,長崎県
-10th style,ALIEN TEMPLE,384,BTU,長崎県,1126,0YASA1,長崎県,1885,L,長崎県
+10th style,ALIEN TEMPLE,384,BTU,長崎県,1307,G3BAR3,長崎県,1885,L,長崎県
 10th style,1st Samurai,720,TTZK,長崎県,1785,T41K1.,長崎県,2461,UDA,長崎県
 IIDX RED,ＵＬＴｉＭΛＴＥ,854,NAOMAR,長崎県,1294,YU-HI,長崎県,1965,UDA,長崎県
 IIDX RED,太陽～T・A・I・Y・O～,422,GOD,長崎県,1256,9YU,長崎県,1692,STEAK,長崎県
 IIDX RED,大桟橋,415,YU-HI,長崎県,1046,KAJA,長崎県,1821,HEIPON,長崎県
-IIDX RED,ピアノ協奏曲第１番”蠍火”,545,TBS-TK,長崎県,2016,F,長崎県,2527,AK-12,長崎県
+IIDX RED,ピアノ協奏曲第１番”蠍火”,634,LOVELY,長崎県,2016,F,長崎県,2527,AK-12,長崎県
 IIDX RED,Wonder Bullfighter,530,TOMO,長崎県,702,TTZK,長崎県,1934,F,長崎県
 IIDX RED,The Hope of Tomorrow,610,TKBZ2,長崎県,1427,Z-GIRL,長崎県,1874,HEIPON,長崎県
 IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3649,AK-12,長崎県
 IIDX RED,spiral galaxy,943,0YASA1,長崎県,1878,RHYTHM,長崎県,2488,UDA,長崎県
 IIDX RED,Sphere,766,TTZK,長崎県,1790,T41K1.,長崎県,2124,UDA,長崎県
-IIDX RED,SPEEDY CAT,774,TTZK,長崎県,1323,LIRYKA,長崎県,1940,2HISOX,長崎県
+IIDX RED,SPEEDY CAT,774,TTZK,長崎県,1406,LR,長崎県,1940,2HISOX,長崎県
 IIDX RED,Secret of Love,673,TTZK,長崎県,880,Y.,長崎県,1948,UDA,長崎県
-IIDX RED,RESONATE 1794,636,TTZK,長崎県,1301,T41K1.,長崎県,1826,UDA,長崎県
+IIDX RED,RESONATE 1794,636,TTZK,長崎県,1373,459DE$,長崎県,1826,UDA,長崎県
 IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2936,STEAK,長崎県
-IIDX RED,RED ZONE,953,0YASA1,長崎県,1646,KITCHN,長崎県,2277,UDA,長崎県
+IIDX RED,RED ZONE,984,LOVELY,長崎県,1646,KITCHN,長崎県,2277,UDA,長崎県
 IIDX RED,Raspberry Heart(English version),914,0YASA1,長崎県,1429,9YU,長崎県,1814,HEIPON,長崎県
 IIDX RED,NEBULA GRASPER,1175,0YASA1,長崎県,1355,KOTEKA,長崎県,2324,F,長崎県
 IIDX RED,KEY,953,0YASA1,長崎県,1569,DROP,長崎県,2781,F,長崎県
@@ -229,14 +229,14 @@ IIDX RED,gigadelic,1288,KOTEKA,長崎県,2060,HEIPON,長崎県,2392,HEIPON,長�
 IIDX RED,GENOCIDE,1046,T41K1.,長崎県,1913,T41K1.,長崎県,2310,STEAK,長崎県
 IIDX RED,Fly Away To India,0,,未設定,934,0YASA1,長崎県,1365,2HISOX,長崎県
 IIDX RED,FAKE TIME,883,0YASA1,長崎県,1631,2HISOX,長崎県,2290,STEAK,長崎県
-IIDX RED,earth scape,298,!!!,長崎県,556,TTZK,長崎県,1247,MOOON.,長崎県
+IIDX RED,earth scape,298,!!!,長崎県,987,STEAK,長崎県,1247,MOOON.,長崎県
 IIDX RED,Don't be afraid myself,689,MOMOYO,長崎県,1626,Z-GIRL,長崎県,2226,AK-12,長崎県
 IIDX RED,D.A.N.C.E.!,494,0YASA1,長崎県,684,KRONE,長崎県,1551,HEIPON,長崎県
 IIDX RED,Close my Eyes for Me,892,0YASA1,長崎県,1354,459DE$,長崎県,1762,AK-12,長崎県
 IIDX RED,Click Again,0,,未設定,0,,未設定,2017,HEIPON,長崎県
-IIDX RED,BREATH,840,MANAMI,長崎県,1068,ASAJI,長崎県,1593,RIV.,長崎県
+IIDX RED,BREATH,840,MANAMI,長崎県,1068,ASAJI,長崎県,1609,EARTH,長崎県
 IIDX RED,BLOCKS,709,0YASA1,長崎県,1122,Z-GIRL,長崎県,1891,AK-12,長崎県
-IIDX RED,Be quiet,1034,ABABA,長崎県,1371,459DE$,長崎県,2112,UDA,長崎県
+IIDX RED,Be quiet,1034,ABABA,長崎県,1417,FALNIM,長崎県,2112,UDA,長崎県
 IIDX RED,awakening,957,NAOMAR,長崎県,1194,YU-HI,長崎県,1673,UDA,長崎県
 IIDX RED,ANDROMEDA,943,ABABA,長崎県,1586,DROP,長崎県,2799,AK-12,長崎県
 IIDX RED,AGEHA,856,0YASA1,長崎県,1635,459DE$,長崎県,1844,F,長崎県
@@ -246,10 +246,10 @@ HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),103
 HAPPY SKY,冥,1012,MOOON.,長崎県,1952,L,長崎県,3506,AK-12,長崎県
 HAPPY SKY,ラクエン,0,,未設定,523,S-K.T,長崎県,1881,STEAK,長崎県
 HAPPY SKY,ヒマワリ,522,YU-HI,長崎県,1712,ACBEXE,長崎県,2032,STEAK,長崎県
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,未設定,1355,9YU,長崎県,1585,TAU,長崎県
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,未設定,1355,9YU,長崎県,1665,HEIPON,長崎県
 HAPPY SKY,Xepher,1009,0YASA1,長崎県,1921,ACBEXE,長崎県,2899,STEAK,長崎県
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,未設定,840,U46?,長崎県,1622,TAU,長崎県
-HAPPY SKY,Votum stellarum,717,YU-HI,長崎県,1445,9YU,長崎県,1843,KAEDE,長崎県
+HAPPY SKY,Votum stellarum,717,YU-HI,長崎県,1445,9YU,長崎県,1898,UDA,長崎県
 HAPPY SKY,vault of heaven,0,,未設定,1206,DROP,長崎県,1911,F,長崎県
 HAPPY SKY,Under the Sky,832,GRAZE,長崎県,1226,ZINN.,長崎県,1710,HEIPON,長崎県
 HAPPY SKY,Twelfth Style,0,,未設定,1203,0YASA1,長崎県,1945,HEIPON,長崎県
@@ -263,8 +263,8 @@ HAPPY SKY,rage against usual,1006,TOMOCO,長崎県,1870,R1MU,長崎県,2665,DAIK
 HAPPY SKY,POODLE,801,0YASA1,長崎県,1762,F-REO,長崎県,2247,STEAK,長崎県
 HAPPY SKY,Pollinosis,754,RIV.,長崎県,525,TTZK,長崎県,2390,STEAK,長崎県
 HAPPY SKY,PLASMA,0,,未設定,1407,NOZOM!,長崎県,2207,HEIPON,長崎県
-HAPPY SKY,Pink Rose,528,YU-HI,長崎県,911,L,長崎県,1379,2HISOX,長崎県
-HAPPY SKY,MOON RACE,399,OYOMOM,長崎県,1043,ABABA,長崎県,1774,K.FLAN,長崎県
+HAPPY SKY,Pink Rose,528,YU-HI,長崎県,911,L,長崎県,1398,HEIPON,長崎県
+HAPPY SKY,MOON RACE,399,OYOMOM,長崎県,1043,ABABA,長崎県,1821,HEIPON,長崎県
 HAPPY SKY,Love Magic,568,TTZK,長崎県,1493,WHAT.,長崎県,1844,2HISOX,長崎県
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3680,STEAK,長崎県
 HAPPY SKY,Little Little Princess,0,,未設定,1998,KITCHN,長崎県,2748,STEAK,長崎県
@@ -279,16 +279,16 @@ HAPPY SKY,First Resolution,0,,未設定,848,SAIKA,長崎県,2072,2HISOX,長崎�
 HAPPY SKY,EMPTY OF THE SKY,640,ABABA,長崎県,974,GRAZE,長崎県,1658,F,長崎県
 HAPPY SKY,EDEN,1094,NAOMAR,長崎県,1786,KITCHN,長崎県,2700,STEAK,長崎県
 HAPPY SKY,double thrash,641,MOMOYO,長崎県,1917,T41K1.,長崎県,2226,MOOON.,長崎県
-HAPPY SKY,Catch Me,0,,未設定,1075,BROLY,長崎県,1691,UDA,長崎県
+HAPPY SKY,Catch Me,0,,未設定,1088,44AKI#,長崎県,1691,UDA,長崎県
 HAPPY SKY,CaptivAte～浄化～,910,0YASA1,長崎県,1680,MER,長崎県,2361,UDA,長崎県
 HAPPY SKY,Aurora,909,LOVELY,長崎県,2017,T41K1.,長崎県,2504,STEAK,長崎県
 HAPPY SKY,alla turca con passione,588,MOMOYO,長崎県,1398,DROP,長崎県,2114,HEIPON,長崎県
 HAPPY SKY,Agnus Dei,798,0YASA1,長崎県,1536,SHIURA,長崎県,1995,F,長崎県
-HAPPY SKY,100％ minimoo-G,0,,未設定,1372,D#LION,長崎県,1641,HEIPON,長崎県
+HAPPY SKY,100％ minimoo-G,0,,未設定,1418,D#LION,長崎県,1641,HEIPON,長崎県
 DistorteD,虹色,545,TTZK,長崎県,1444,MER,長崎県,1811,STEAK,長崎県
-DistorteD,華蝶風雪,725,HIDE,長崎県,1979,RHYTHM,長崎県,2949,STEAK,長崎県
+DistorteD,華蝶風雪,1048,NAOMAR,長崎県,1979,RHYTHM,長崎県,2949,STEAK,長崎県
 DistorteD,罠,523,ABABA,長崎県,1453,K.FLAN,長崎県,2401,UDA,長崎県
-DistorteD,嘆きの樹,1674,CARLOS,長崎県,2363,KUBOTA,長崎県,3715,AK-12,長崎県
+DistorteD,嘆きの樹,1674,CARLOS,長崎県,2372,DAIKI*,長崎県,3715,AK-12,長崎県
 DistorteD,タシカナモノ,845,NAOMAR,長崎県,1199,RUSKE,長崎県,2007,STEAK,長崎県
 DistorteD,カゴノトリ～弐式～,948,0YASA1,長崎県,1577,KITCHN,長崎県,2536,AK-12,長崎県
 DistorteD,Zenius -I- vanisher,726,TTZK,長崎県,1448,Z-GIRL,長崎県,2348,UDA,長崎県
@@ -297,7 +297,7 @@ DistorteD,WISH(EUROBEAT MIX),903,0YASA1,長崎県,1468,Z-GIRL,長崎県,1942,STE
 DistorteD,Why did you go away,993,UNTAN,長崎県,1628,KITCHN,長崎県,2253,UDA,長崎県
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3781,AK-12,長崎県
 DistorteD,waxing and wanding,1200,0YASA1,長崎県,1889,RTX830,長崎県,2827,UDA,長崎県
-DistorteD,TYPE MARS(G-Style Mix),953,0YASA1,長崎県,1715,L,長崎県,2246,MOOON.,長崎県
+DistorteD,TYPE MARS(G-Style Mix),953,0YASA1,長崎県,1715,L,長崎県,2308,STEAK,長崎県
 DistorteD,tripping contact(teranoid&MC Natsack Remix),589,MOMOYO,長崎県,1800,L,長崎県,2362,F,長崎県
 DistorteD,This is Love,836,NOZOM!,長崎県,1658,Z-GIRL,長崎県,2448,STEAK,長崎県
 DistorteD,The Dirty of Loudness,1287,RA,長崎県,1951,SHIURA,長崎県,2369,TAU,長崎県
@@ -309,12 +309,12 @@ DistorteD,MINT,0,,未設定,1620,RHYTHM,長崎県,2245,AK-12,長崎県
 DistorteD,Melody Life,735,NOZOM!,長崎県,1098,NAOMAR,長崎県,1807,HEIPON,長崎県
 DistorteD,Leaving...,0,,未設定,1275,9YU,長崎県,2137,HEIPON,長崎県
 DistorteD,INFERNO,1005,0YASA1,長崎県,1083,KRONE,長崎県,1936,STEAK,長崎県
-DistorteD,Heavenly Sun (IIDX VERSION),565,TTZK,長崎県,1411,OKAYU,長崎県,2034,KAEDE,長崎県
+DistorteD,Heavenly Sun (IIDX VERSION),565,TTZK,長崎県,1411,OKAYU,長崎県,2049,HEIPON,長崎県
 DistorteD,Harmony and Lovely,820,NOZOM!,長崎県,1581,SHIURA,長崎県,2159,HEIPON,長崎県
-DistorteD,Ganymede,899,0YASA1,長崎県,1467,KITCHN,長崎県,2110,F,長崎県
+DistorteD,Ganymede,899,0YASA1,長崎県,1467,KITCHN,長崎県,2129,TAU,長崎県
 DistorteD,EURO-ROMANCE,584,TTZK,長崎県,1674,9YU,長崎県,2073,STEAK,長崎県
 DistorteD,DUE TOMORROW,710,NAGO,長崎県,1290,L,長崎県,1824,HEIPON,長崎県
-DistorteD,Double Loving Heart,0,,未設定,1243,NAO,長崎県,1786,UDA,長崎県
+DistorteD,Double Loving Heart,288,CICO2A,長崎県,1243,NAO,長崎県,1786,UDA,長崎県
 DistorteD,D.C.fish,502,TKBZ2,長崎県,1793,KITCHN,長崎県,2204,KAEDE,長崎県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2661,AK-12,長崎県
 DistorteD,CONTRACT,1125,KAJA,長崎県,1458,AK1T0,長崎県,2031,STEAK,長崎県
@@ -325,7 +325,7 @@ DistorteD,Bloody Tears(IIDX EDITION),827,DANCHO,長崎県,1839,RHYTHM,長崎県,
 DistorteD,BALLAD THE FEATHERS,353,MORIZO,長崎県,895,DROP,長崎県,1477,HEIPON,長崎県
 DistorteD,Apocalypse ～dirge of swans～,482,TOMO,長崎県,1638,SHIURA,長崎県,2299,UDA,長崎県
 DistorteD,ALFARSHEAR 双神威に廻る夢,899,KOTUNE,長崎県,1615,DAIKI*,長崎県,2042,UDA,長崎県
-GOLD,電人、暁に斃れる。,1128,0YASA1,長崎県,2033,TKTGST,長崎県,3205,STEAK,長崎県
+GOLD,電人、暁に斃れる。,1128,0YASA1,長崎県,2045,RTX830,長崎県,3205,STEAK,長崎県
 GOLD,零 - ZERO -,1049,GRAZE,長崎県,1699,GRAZE,長崎県,2260,STEAK,長崎県
 GOLD,花吹雪 ～ IIDX LIMITED ～,641,LOVELY,長崎県,913,AOI*,長崎県,1391,HEIPON,長崎県
 GOLD,星をこの手に,940,KAYAKI,長崎県,1712,459DE$,長崎県,2049,TAU,長崎県
@@ -336,12 +336,12 @@ GOLD,X-rated,533,TOMO,長崎県,1498,9YU,長崎県,2032,2HISOX,長崎県
 GOLD,With your Smile,418,TOMO,長崎県,1151,SHIURA,長崎県,1560,STEAK,長崎県
 GOLD,Watch out!!,0,,未設定,860,ABABA,長崎県,1506,HEIPON,長崎県
 GOLD,VANESSA†,0,,未設定,0,,未設定,3166,AK-12,長崎県
-GOLD,VANESSA,964,D#LION,長崎県,1669,UDA,長崎県,2253,HEIPON,長崎県
-GOLD,TRANOID,776,KAJA,長崎県,1579,KAJA,長崎県,2085,DAIKI*,長崎県
+GOLD,VANESSA,1028,ABABA,長崎県,1669,UDA,長崎県,2253,HEIPON,長崎県
+GOLD,TRANOID,784,KAJA,長崎県,1606,KAJA,長崎県,2136,STEAK,長崎県
 GOLD,The Smile of You,831,A.Y,長崎県,1133,ALNCO.,長崎県,1624,HEIPON,長崎県
 GOLD,the shadow,652,U.RUNO,長崎県,1809,KITCHN,長崎県,2812,STEAK,長崎県
 GOLD,snow storm,734,KAGERO,長崎県,2076,KITCHN,長崎県,2637,K.FLAN,長崎県
-GOLD,smile,1289,KAGERO,長崎県,1859,UNTAN,長崎県,2816,STEAK,長崎県
+GOLD,smile,1289,KAGERO,長崎県,2020,459DE$,長崎県,2816,STEAK,長崎県
 GOLD,Sense 2007,1345,F-REO,長崎県,2005,2HISOX,長崎県,2718,HEIPON,長崎県
 GOLD,Second Heaven,915,KAJA,長崎県,1462,ABABA,長崎県,2086,AK-12,長崎県
 GOLD,Roulette,776,0YASA1,長崎県,1235,DROP,長崎県,1968,2HISOX,長崎県
@@ -380,7 +380,7 @@ DJ TROOPERS,Wanna Party?,0,,未設定,990,BROLY,長崎県,1505,AK-12,長崎県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3136,STEAK,長崎県
 DJ TROOPERS,Ubertreffen,1032,U46?,長崎県,1877,T41K1.,長崎県,2486,AK-12,長崎県
 DJ TROOPERS,TROOPERS,1217,STEAK,長崎県,2159,ABABA,長崎県,2852,STEAK,長崎県
-DJ TROOPERS,Time to Air,1114,0YASA1,長崎県,1956,KITCHN,長崎県,2797,STEAK,長崎県
+DJ TROOPERS,Time to Air,1114,0YASA1,長崎県,1993,459DE$,長崎県,2797,STEAK,長崎県
 DJ TROOPERS,the trigger of innocence,569,TKBZ2,長崎県,1081,NAOMAR,長崎県,1842,STEAK,長崎県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3296,AK-12,長崎県
 DJ TROOPERS,THE DEEP STRIKER,998,NOZOM!,長崎県,2025,T41K1.,長崎県,2874,F,長崎県
@@ -391,25 +391,25 @@ DJ TROOPERS,SOUND OF GIALLARHORN,774,C,長崎県,2553,T41K1.,長崎県,3194,STEA
 DJ TROOPERS,scar in the earth,427,TBS-TK,長崎県,837,KRONE,長崎県,1488,HEIPON,長崎県
 DJ TROOPERS,satfinal,1018,0YASA1,長崎県,1304,CLUMSY,長崎県,1876,F,長崎県
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,未設定,1670,ABABA,長崎県,2414,HEIPON,長崎県
-DJ TROOPERS,Ristaccia,1054,0YASA1,長崎県,1707,RHYTHM,長崎県,2506,F,長崎県
+DJ TROOPERS,Ristaccia,1054,0YASA1,長崎県,1714,44AKI#,長崎県,2506,F,長崎県
 DJ TROOPERS,REMINISCENCE,1008,NAOMAR,長崎県,1622,DROP,長崎県,2163,KAEDE,長崎県
 DJ TROOPERS,PROMISE FOR LIFE,560,YU-HI,長崎県,1415,RA,長崎県,1720,2HISOX,長崎県
-DJ TROOPERS,PARANOiA ～HADES～,974,KAJA,長崎県,1725,KUBOTA,長崎県,2578,AK-12,長崎県
+DJ TROOPERS,PARANOiA ～HADES～,974,KAJA,長崎県,1725,KUBOTA,長崎県,2589,STEAK,長崎県
 DJ TROOPERS,oratio,1210,0YASA1,長崎県,1853,SHIURA,長崎県,2837,STEAK,長崎県
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,909,0YASA1,長崎県,1719,MER,長崎県,2414,F,長崎県
 DJ TROOPERS,MENTAL MELTDOWN,998,0YASA1,長崎県,1925,KITCHN,長崎県,2627,UDA,長崎県
-DJ TROOPERS,MENDES,1011,MANAMI,長崎県,2388,F,長崎県,3406,STEAK,長崎県
+DJ TROOPERS,MENDES,1011,MANAMI,長崎県,2392,459DE$,長崎県,3406,STEAK,長崎県
 DJ TROOPERS,MAX LOVE,1323,0YASA1,長崎県,1987,UNTAN,長崎県,2634,STEAK,長崎県
 DJ TROOPERS,LOVELY STORM,1191,HAMA,長崎県,2090,RTX830,長崎県,2781,STEAK,長崎県
 DJ TROOPERS,Kick Out 仮面,858,TTZK,長崎県,1292,MANAMI,長崎県,1966,UDA,長崎県
-DJ TROOPERS,in the Sky,1169,0YASA1,長崎県,1942,RTX830,長崎県,2472,STEAK,長崎県
+DJ TROOPERS,in the Sky,1169,0YASA1,長崎県,1942,RTX830,長崎県,2473,KAEDE,長崎県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3434,AK-12,長崎県
 DJ TROOPERS,ICARUS,1122,DROP,長崎県,1581,AAAAAA,長崎県,2274,AK-12,長崎県
 DJ TROOPERS,Freeway Shuffle,0,,未設定,957,NAOMAR,長崎県,1823,HEIPON,長崎県
-DJ TROOPERS,four pieces of heaven,742,NAOMAR,長崎県,1368,KITCHN,長崎県,2223,AK-12,長崎県
+DJ TROOPERS,four pieces of heaven,742,NAOMAR,長崎県,1534,ABABA,長崎県,2223,AK-12,長崎県
 DJ TROOPERS,evergreen,705,TTZK,長崎県,1170,KITCHN,長崎県,1888,STEAK,長崎県
-DJ TROOPERS,end of world,597,KALK,長崎県,1513,KAJA,長崎県,2409,STEAK,長崎県
-DJ TROOPERS,Do it!! Do it!!,932,KAJA,長崎県,1430,2HISOX,長崎県,1734,F,長崎県
+DJ TROOPERS,end of world,880,0YASA1,長崎県,1555,Z-GIRL,長崎県,2409,STEAK,長崎県
+DJ TROOPERS,Do it!! Do it!!,932,KAJA,長崎県,1430,2HISOX,長崎県,1779,UDA,長崎県
 DJ TROOPERS,Digitank System,790,0YASA1,長崎県,1421,HTS,長崎県,2000,HEIPON,長崎県
 DJ TROOPERS,Dazzlin' Darlin,406,I.U,長崎県,1278,BROLY,長崎県,2215,STEAK,長崎県
 DJ TROOPERS,Darling my LUV,292,MORIZO,長崎県,832,AOI*,長崎県,1371,STEAK,長崎県
@@ -430,17 +430,17 @@ EMPRESS,凛として咲く花の如く,1224,0YASA1,長崎県,2066,K.FLAN,長崎�
 EMPRESS,不沈艦CANDY,1068,YU-HI,長崎県,1782,Z-GIRL,長崎県,3198,STEAK,長崎県
 EMPRESS,ミッドナイト堕天使,861,YU-HI,長崎県,1473,ABABA,長崎県,2747,STEAK,長崎県
 EMPRESS,ハリツヤランデヴー,897,YUCA,長崎県,1992,Z-GIRL,長崎県,2404,F,長崎県
-EMPRESS,まほろば,571,KRONE,長崎県,1213,DROP,長崎県,2016,STEAK,長崎県
+EMPRESS,まほろば,710,0YASA1,長崎県,1354,Z-GIRL,長崎県,2016,STEAK,長崎県
 EMPRESS,"You'll say ""Now!""",0,,未設定,1684,RAT*,長崎県,2384,AK-12,長崎県
-EMPRESS,Y&Co. is dead or alive,883,MMM01,長崎県,1620,SHIURA,長崎県,2604,HEIPON,長崎県
+EMPRESS,Y&Co. is dead or alive,883,MMM01,長崎県,1620,SHIURA,長崎県,2605,HEIPON,長崎県
 EMPRESS,V2,1252,0YASA1,長崎県,2912,KAEDE,長崎県,3459,STEAK,長崎県
 EMPRESS,Turii ～Panta rhei～,763,KRONE,長崎県,2041,STEAK,長崎県,2507,46NEKO,長崎県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2831,AK-12,長崎県
-EMPRESS,THANK YOU FOR PLAYING,701,0YASA1,長崎県,1483,RHYTHM,長崎県,2004,TAU,長崎県
+EMPRESS,THANK YOU FOR PLAYING,701,0YASA1,長崎県,1483,RHYTHM,長崎県,2021,ARCAEA,長崎県
 EMPRESS,SOLITON BEAM,1202,YU-HI,長崎県,1910,ABABA,長崎県,2210,K.FLAN,長崎県
 EMPRESS,smooooch・∀・,765,0YASA1,長崎県,1562,SHIURA,長崎県,2087,STEAK,長崎県
 EMPRESS,Secrets,1109,0YASA1,長崎県,2233,459DE$,長崎県,3073,STEAK,長崎県
-EMPRESS,Queen's Tragedy,781,NOZOM!,長崎県,1610,SHIURA,長崎県,2127,F,長崎県
+EMPRESS,Queen's Tragedy,781,NOZOM!,長崎県,1610,SHIURA,長崎県,2189,STEAK,長崎県
 EMPRESS,Punch Love 仮面,966,KRONE,長崎県,1590,9YU,長崎県,2478,UDA,長崎県
 EMPRESS,Programmed World,344,MOMOYO,長崎県,1596,Z-GIRL,長崎県,2222,UDA,長崎県
 EMPRESS,NΦ CRIME,771,NOZOM!,長崎県,1285,KITCHN,長崎県,1880,STEAK,長崎県
@@ -454,7 +454,7 @@ EMPRESS,Kung-fu Empire,1299,0YASA1,長崎県,2534,AK-12,長崎県,3180,STEAK,長
 EMPRESS,Just a Little Smile,542,U.RUNO,長崎県,1266,Z-GIRL,長崎県,2323,HEIPON,長崎県
 EMPRESS,Jack,797,YU-HI,長崎県,1191,DROP,長崎県,2094,STEAK,長崎県
 EMPRESS,I'm Screaming LOVE,461,U.RUNO,長崎県,1192,SMKG,長崎県,1682,STEAK,長崎県
-EMPRESS,HYPERION,994,YU-HI,長崎県,1848,ABABA,長崎県,2549,KAEDE,長崎県
+EMPRESS,HYPERION,994,YU-HI,長崎県,1864,Z-GIRL,長崎県,2549,KAEDE,長崎県
 EMPRESS,Go Beyond!!,988,SK.424,長崎県,1713,DAIKI*,長崎県,2001,AK-12,長崎県
 EMPRESS,Fly Above,910,NOZOM!,長崎県,1493,GRAZE,長崎県,2020,STEAK,長崎県
 EMPRESS,Flash Back 90's,812,0YASA1,長崎県,1686,ABABA,長崎県,2263,HEIPON,長崎県
@@ -472,9 +472,9 @@ EMPRESS,ALL I NEED YOUR LOVE,1006,YU-HI,長崎県,1541,ABABA,長崎県,2006,ARCA
 EMPRESS,3y3s,1386,DROP,長崎県,2327,T41K1.,長崎県,3276,AK-12,長崎県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",660,Z-GIRL,長崎県,1453,9YU,長崎県,1950,2HISOX,長崎県
 SIRIUS,未来のプリズム,649,ABABA,長崎県,1203,LR,長崎県,1738,HEIPON,長崎県
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1231,STEAK,長崎県,2049,SHIURA,長崎県,3025,AK-12,長崎県
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1231,STEAK,長崎県,2098,DAIKI*,長崎県,3025,AK-12,長崎県
 SIRIUS,バビロニア,783,NAOMAR,長崎県,1206,MMM01,長崎県,1832,HEIPON,長崎県
-SIRIUS,サヨナラ・ヘヴン,762,F-REO,長崎県,1215,YU-HI,長崎県,1593,2HISOX,長崎県
+SIRIUS,サヨナラ・ヘヴン,762,F-REO,長崎県,1346,TAU,長崎県,1593,2HISOX,長崎県
 SIRIUS,コスモス,0,,未設定,1476,K.FLAN,長崎県,2074,STEAK,長崎県
 SIRIUS,たからもの,1171,0YASA1,長崎県,1785,GRAZE,長崎県,2213,STEAK,長崎県
 SIRIUS,かずあそび,479,0YASA1,長崎県,1039,0YASA1,長崎県,1657,UDA,長崎県
@@ -490,7 +490,7 @@ SIRIUS,Roots of my way!,0,,未設定,1127,NAOMAR,長崎県,2011,STEAK,長崎県
 SIRIUS,Red. by Full Metal Jacket,924,YUCA,長崎県,1923,RIV.,長崎県,2946,HEIPON,長崎県
 SIRIUS,Raison d'etre～交差する宿命～,0,,未設定,2114,ACBEXE,長崎県,2627,UDA,長崎県
 SIRIUS,quell～the seventh slave～,681,TTZK,長崎県,1607,KITCHN,長崎県,3061,AK-12,長崎県
-SIRIUS,Programmed Sun,974,0YASA1,長崎県,1625,Z-GIRL,長崎県,2403,F,長崎県
+SIRIUS,Programmed Sun,974,0YASA1,長崎県,1625,Z-GIRL,長崎県,2421,DAIKI*,長崎県
 SIRIUS,NoN-Fiction Story!,435,MORIZO,長崎県,1169,0YASA1,長崎県,2155,STEAK,長崎県
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1133,0YASA1,長崎県,1921,ABABA,長崎県,2655,STEAK,長崎県
 SIRIUS,mosaic,1378,44AKI#,長崎県,1977,K.FLAN,長崎県,2944,STEAK,長崎県
@@ -527,7 +527,7 @@ Resort Anthem,黒髪乱れし修羅となりて,716,0YASA1,長崎県,1915,SHIURA
 Resort Anthem,灼熱Beach Side Bunny,1054,ACBEXE,長崎県,1817,TAU,長崎県,2711,HEIPON,長崎県
 Resort Anthem,旅人リラン,926,KRONE,長崎県,1765,MER,長崎県,2539,UDA,長崎県
 Resort Anthem,夕焼け ～Fading Day～,908,YU-HI,長崎県,1770,UH*,長崎県,2736,STEAK,長崎県
-Resort Anthem,中華急行,324,STEAK,長崎県,1464,KITCHN,長崎県,2248,DAIKI*,長崎県
+Resort Anthem,中華急行,324,STEAK,長崎県,1464,KITCHN,長崎県,2250,DAIKI*,長崎県
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,706,LOVELY,長崎県,1321,MER,長崎県,1878,STEAK,長崎県
 Resort Anthem,おおきなこえで,400,PIPO,長崎県,776,KRONE,長崎県,1440,ARCAEA,長崎県
 Resort Anthem,ZETA～素数の世界と超越者～,501,YU-HI,長崎県,2059,SHIURA,長崎県,3013,AK-12,長崎県
@@ -547,13 +547,13 @@ Resort Anthem,SPECIAL SUMMER CAMPAIGN!,642,NOZOM!,長崎県,1515,9YU,長崎県,2
 Resort Anthem,Space Time,577,KITCHN,長崎県,1325,LR,長崎県,2061,MOOON.,長崎県
 Resort Anthem,Session 9 -Chronicles-,680,0YASA1,長崎県,2061,ACBEXE,長崎県,3433,AK-12,長崎県
 Resort Anthem,sakura storm,1028,ABABA,長崎県,1243,KITCHN,長崎県,2341,STEAK,長崎県
-Resort Anthem,Sakura Reflection,434,NAOMAR,長崎県,1532,K.FLAN,長崎県,2335,STEAK,長崎県
+Resort Anthem,Sakura Reflection,467,R,長崎県,1532,K.FLAN,長崎県,2335,STEAK,長崎県
 Resort Anthem,SABER WING,525,KAJA,長崎県,1721,KAJA,長崎県,2736,STEAK,長崎県
 Resort Anthem,Rock Da House,767,0YASA1,長崎県,1440,KOTEKA,長崎県,2196,STEAK,長崎県
 Resort Anthem,reunion,1303,KITCHN,長崎県,2335,F,長崎県,3049,AK-12,長崎県
 Resort Anthem,Programmed Life,960,LOVELY,長崎県,1435,PIPO,長崎県,2231,2HISOX,長崎県
 Resort Anthem,perditus†paradisus,1091,G3BAR3,長崎県,2370,F,長崎県,3667,AK-12,長崎県
-Resort Anthem,passionate fate,778,LECHE.,長崎県,1455,KOTEKA,長崎県,2045,HEIPON,長崎県
+Resort Anthem,passionate fate,778,LECHE.,長崎県,1495,F-REO,長崎県,2045,HEIPON,長崎県
 Resort Anthem,PARADISE LOST,1231,OKAYU,長崎県,2194,F,長崎県,3135,STEAK,長崎県
 Resort Anthem,Never Fade Away,0,,未設定,1612,9YU,長崎県,2899,STEAK,長崎県
 Resort Anthem,Mermaid girl,854,0YASA1,長崎県,1517,CLUMSY,長崎県,2142,2HISOX,長崎県
@@ -583,9 +583,9 @@ Resort Anthem,Answer,444,MORIZO,長崎県,1302,NAOMAR,長崎県,2353,UDA,長崎�
 Resort Anthem,ALBIDA,904,NAOMAR,長崎県,1753,ROXAS,長崎県,2862,STEAK,長崎県
 Resort Anthem,Aegis,0,,未設定,1243,GRAZE,長崎県,2248,STEAK,長崎県
 Lincle,陽炎,594,NAOMAR,長崎県,1068,YU-HI,長崎県,1964,HEIPON,長崎県
-Lincle,衰色小町メランコリア,718,LECHE.,長崎県,1287,PIPO,長崎県,2299,STEAK,長崎県
+Lincle,衰色小町メランコリア,718,LECHE.,長崎県,1287,PIPO,長崎県,2306,STEAK,長崎県
 Lincle,蛇神,593,TOMO,長崎県,1416,Z-GIRL,長崎県,2761,STEAK,長崎県
-Lincle,聖人の塔,0,,未設定,1801,HSMT,長崎県,2715,F,長崎県
+Lincle,聖人の塔,862,FENCER,長崎県,1801,HSMT,長崎県,2715,F,長崎県
 Lincle,突撃!ガラスのニーソ姫!,602,NAOMAR,長崎県,1060,A.Y,長崎県,2047,UDA,長崎県
 Lincle,恋する☆宇宙戦争っ！！,906,F-REO,長崎県,1686,ACBEXE,長崎県,3285,HEIPON,長崎県
 Lincle,子供の落書き帳,793,U46?,長崎県,1790,T41K1.,長崎県,2468,STEAK,長崎県
@@ -596,8 +596,8 @@ Lincle,ビューティフルレシート,394,TBS-TK,長崎県,1125,9YU,長崎県
 Lincle,Yellow Sunrise,659,YU-HI,長崎県,1326,A.Y,長崎県,2238,STEAK,長崎県
 Lincle,yellow head joe,389,AAAAAA,長崎県,1324,9YU,長崎県,2109,2HISOX,長崎県
 Lincle,YAKSHA,1113,0YASA1,長崎県,2201,T41K1.,長崎県,3751,STEAK,長崎県
-Lincle,WONDER WALKER,644,KANON,長崎県,1705,TOKE1,長崎県,3670,STEAK,長崎県
-Lincle,Voxane,0,,未設定,962,LOVELY,長崎県,1724,HEIPON,長崎県
+Lincle,WONDER WALKER,644,KANON,長崎県,1800,ABABA,長崎県,3670,STEAK,長崎県
+Lincle,Voxane,593,DROP,長崎県,962,LOVELY,長崎県,1724,HEIPON,長崎県
 Lincle,Todestrieb,1015,0YASA1,長崎県,1815,ACBEXE,長崎県,3353,AK-12,長崎県
 Lincle,TITANS RETURN,564,YU-HI,長崎県,1431,UNTAN,長崎県,2413,STEAK,長崎県
 Lincle,Thunderbolt,714,TKBZ2,長崎県,1741,ABABA,長崎県,3592,STEAK,長崎県
@@ -621,7 +621,7 @@ Lincle,prompt,914,ABABA,長崎県,1519,Z-GIRL,長崎県,2758,STEAK,長崎県
 Lincle,Phoenix,792,0YASA1,長崎県,985,NAOMAR,長崎県,2325,F,長崎県
 Lincle,NNRT,802,TBS-TK,長崎県,2377,T41K1.,長崎県,3380,STEAK,長崎県
 Lincle,Miami Sunset Drive,590,YU-HI,長崎県,950,YU-HI,長崎県,1602,MOOON.,長崎県
-Lincle,Mermaid girl-秋葉工房 MIX-,752,NOZOM!,長崎県,1287,ABABA,長崎県,2038,STEAK,長崎県
+Lincle,Mermaid girl-秋葉工房 MIX-,793,ABABA,長崎県,1287,ABABA,長崎県,2038,STEAK,長崎県
 Lincle,Lucky Days,591,0YASA1,長崎県,1423,Z-GIRL,長崎県,2112,MOOON.,長崎県
 Lincle,LOVE B.B.B,0,,未設定,1386,Z-GIRL,長崎県,1955,F,長崎県
 Lincle,Liquid Crystal Girl feat. echo,0,,未設定,1001,0YASA1,長崎県,1945,2HISOX,長崎県
@@ -634,11 +634,11 @@ Lincle,HAERETICUS,806,JMSDF,長崎県,1788,HSMT,長崎県,2837,STEAK,長崎県
 Lincle,Follow Tomorrow,836,YUCA,長崎県,1401,WHAT.,長崎県,2196,HEIPON,長崎県
 Lincle,Flip Flap,466,TTZK,長崎県,1192,180SX,長崎県,2207,F,長崎県
 Lincle,fffff,795,KITCHN,長崎県,1949,T41K1.,長崎県,2928,AK-12,長崎県
-Lincle,Far east nightbird,272,SAE,長崎県,1227,A.Y,長崎県,1946,UDA,長崎県
+Lincle,Far east nightbird,323,CICO2A,長崎県,1227,A.Y,長崎県,1946,UDA,長崎県
 Lincle,F,984,YUCA,長崎県,1969,SHIURA,長崎県,3441,STEAK,長崎県
 Lincle,Express Emotion,746,ABABA,長崎県,972,A.Y,長崎県,2489,STEAK,長崎県
 Lincle,Drive Me Crazy,674,NAOMAR,長崎県,1360,SHIURA,長崎県,2289,STEAK,長崎県
-Lincle,DIAVOLO,1198,YU-HI,長崎県,1707,RHYTHM,長崎県,2968,AK-12,長崎県
+Lincle,DIAVOLO,1198,YU-HI,長崎県,1800,459DE$,長崎県,2968,AK-12,長崎県
 Lincle,Change the World,522,TKBZ2,長崎県,1279,GRAZE,長崎県,1794,KAEDE,長崎県
 Lincle,Castle on the Moon,612,NAOMAR,長崎県,1476,ABABA,長崎県,2290,STEAK,長崎県
 Lincle,CALL,352,ABABA,長崎県,725,0YASA1,長崎県,1431,F,長崎県
@@ -648,12 +648,12 @@ Lincle,Almace,801,0YASA1,長崎県,1218,KASUZU,長崎県,1965,STEAK,長崎県
 Lincle,532nm,424,TBS-TK,長崎県,1175,DROP,長崎県,2605,AK-12,長崎県
 Lincle,24th Century BOY,637,TKBZ2,長崎県,1765,RTX830,長崎県,2797,STEAK,長崎県
 tricoro,龍と少女とデコヒーレンス†,0,,未設定,0,,未設定,3238,STEAK,長崎県
-tricoro,龍と少女とデコヒーレンス,688,LECHE.,長崎県,1486,REI,長崎県,2928,UDA,長崎県
+tricoro,龍と少女とデコヒーレンス,785,ABABA,長崎県,1486,REI,長崎県,2928,UDA,長崎県
 tricoro,音楽,825,TAU,長崎県,1759,2HISOX,長崎県,2647,AK-12,長崎県
 tricoro,狂イ咲ケ焔ノ華,852,KRONE,長崎県,2276,HSMT,長崎県,3455,STEAK,長崎県
 tricoro,梅雪夜,662,MOMOYO,長崎県,1275,AOI*,長崎県,2117,STEAK,長崎県
 tricoro,朧†,0,,未設定,0,,未設定,2454,UDA,長崎県
-tricoro,朧,751,RUSKE,長崎県,1366,RA,長崎県,2062,UDA,長崎県
+tricoro,朧,751,RUSKE,長崎県,1387,KAJA,長崎県,2062,UDA,長崎県
 tricoro,即席！脳直★ミュージックシステム,954,NAOMAR,長崎県,1870,T41K1.,長崎県,3403,AK-12,長崎県
 tricoro,創世ノート,805,ABABA,長崎県,1633,KU-ZI,長崎県,2814,HEIPON,長崎県
 tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3710,AK-12,長崎県
@@ -678,7 +678,7 @@ tricoro,VALLIS-NERIA,1162,*AMIN*,長崎県,1809,Z-GIRL,長崎県,2833,AK-12,長�
 tricoro,Valanga,1234,A.Y,長崎県,2079,RIV.,長崎県,3131,STEAK,長崎県
 tricoro,True Blue,632,TTZK,長崎県,2288,ACBEXE,長崎県,3647,STEAK,長崎県
 tricoro,To my star,550,NAOMAR,長崎県,1157,CLUMSY,長崎県,1726,STEAK,長崎県
-tricoro,Timepiece phase II (CN Ver.),841,YU-HI,長崎県,1738,KAEDE,長崎県,2763,AK-12,長崎県
+tricoro,Timepiece phase II (CN Ver.),841,YU-HI,長崎県,1840,STEAK,長崎県,2763,AK-12,長崎県
 tricoro,Timepiece phase II,707,MOMOYO,長崎県,1942,K.FLAN,長崎県,3055,STEAK,長崎県
 tricoro,Time To Empress,841,0YASA1,長崎県,1847,ABABA,長崎県,2562,STEAK,長崎県
 tricoro,Thor's Hammer,655,TTZK,長崎県,1523,46K4R4,長崎県,2689,AK-12,長崎県
@@ -688,12 +688,12 @@ tricoro,SYNC-ANTHEM,859,0YASA1,長崎県,2406,DAIKI*,長崎県,3530,AK-12,長崎
 tricoro,STULTI,739,Z-GIRL,長崎県,1495,T41K1.,長崎県,2586,AK-12,長崎県
 tricoro,Sol Cosine Job 2,949,NAOMAR,長崎県,1589,MER,長崎県,3000,STEAK,長崎県
 tricoro,SHION,615,0YASA1,長崎県,1226,KONA2.,長崎県,2684,STEAK,長崎県
-tricoro,Shining World,1064,AYASE,長崎県,1502,9YU,長崎県,1916,STEAK,長崎県
+tricoro,Shining World,1064,AYASE,長崎県,1502,9YU,長崎県,1926,HEIPON,長崎県
 tricoro,Saturn,1135,YU-HI,長崎県,1839,K.FLAN,長崎県,2526,AK-12,長崎県
 tricoro,S!ck,846,0YASA1,長崎県,1469,L,長崎県,2619,STEAK,長崎県
 tricoro,rumrum triplets,888,0YASA1,長崎県,1772,MER,長崎県,2856,F,長崎県
 tricoro,Re:GENERATION,908,ABABA,長崎県,1396,9YU,長崎県,2105,TAU,長崎県
-tricoro,Rainbow after snow,690,NAOMAR,長崎県,1314,A.Y,長崎県,2160,STEAK,長崎県
+tricoro,Rainbow after snow,690,NAOMAR,長崎県,1342,A.Y,長崎県,2160,STEAK,長崎県
 tricoro,Proof of the existence,1120,Z-GIRL,長崎県,2002,HSMT,長崎県,3051,STEAK,長崎県
 tricoro,Praludium,648,YU-HI,長崎県,1330,9YU,長崎県,2122,KAEDE,長崎県
 tricoro,POINT ZERO,454,RIA,長崎県,998,2IRGLY,長崎県,1941,TAU,長崎県
@@ -708,15 +708,15 @@ tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2661,KAEDE,長崎県
 tricoro,LUV CAN SAVE U,446,U.RUNO,長崎県,1397,SHIURA,長崎県,2096,STEAK,長崎県
 tricoro,Little Star,892,LOVELY,長崎県,1634,DROP,長崎県,3047,STEAK,長崎県
 tricoro,Light and Cyber…,700,TTZK,長崎県,1841,F-REO,長崎県,3060,STEAK,長崎県
-tricoro,Liberation,1292,0YASA1,長崎県,2139,KAJA,長崎県,3637,AK-12,長崎県
+tricoro,Liberation,1309,RUSKE,長崎県,2139,KAJA,長崎県,3637,AK-12,長崎県
 tricoro,JOMANDA,1082,KAJA,長崎県,2205,L,長崎県,3405,AK-12,長崎県
 tricoro,In Heaven,701,UNTAN,長崎県,1316,BROLY,長崎県,2102,STEAK,長崎県
-tricoro,Illegal Function Call,885,0YASA1,長崎県,1595,Z-GIRL,長崎県,2491,AK-12,長崎県
+tricoro,Illegal Function Call,885,0YASA1,長崎県,1608,ABABA,長崎県,2491,AK-12,長崎県
 tricoro,ILIAS,0,,未設定,1224,RTX830,長崎県,2144,STEAK,長崎県
 tricoro,I know You know,376,QS36,長崎県,0,,未設定,1770,ARCAEA,長崎県
 tricoro,Howling†,0,,未設定,0,,未設定,2454,KAEDE,長崎県
 tricoro,Howling,464,MOMOMO,長崎県,1121,ASAJI,長崎県,2027,HEIPON,長崎県
-tricoro,Hollywood Galaxy,1033,LATHAM,長崎県,1786,KITCHN,長崎県,2598,STEAK,長崎県
+tricoro,Hollywood Galaxy,1033,LATHAM,長崎県,1808,KITCHN,長崎県,2598,STEAK,長崎県
 tricoro,GRADIUS 2012,842,0YASA1,長崎県,1449,LR,長崎県,2590,HEIPON,長崎県
 tricoro,GAIA,803,ALNCO.,長崎県,1966,SHIURA,長崎県,3217,STEAK,長崎県
 tricoro,Fly you to the star,752,ABABA,長崎県,1522,9YU,長崎県,2223,STEAK,長崎県
@@ -731,7 +731,7 @@ tricoro,Confiserie,824,ALNCO.,長崎県,1977,T41K1.,長崎県,3380,STEAK,長崎�
 tricoro,CONCEPTUAL,773,0YASA1,長崎県,1193,YU-HI,長崎県,2644,STEAK,長崎県
 tricoro,BRAVE GLOW,741,0YASA1,長崎県,1496,DROP,長崎県,2456,STEAK,長崎県
 tricoro,BLUE STRAGGLER,388,MORIZO,長崎県,1151,A.Y,長崎県,2500,STEAK,長崎県
-tricoro,Beastie Starter,286,FRXX.,長崎県,1164,GRAZE,長崎県,1999,AK-12,長崎県
+tricoro,Beastie Starter,314,CICO2A,長崎県,1164,GRAZE,長崎県,1999,AK-12,長崎県
 tricoro,Ascalon,907,LOVELY,長崎県,1650,9YU,長崎県,2271,STEAK,長崎県
 tricoro,8bit Princess,512,GNAR,長崎県,1246,NAOMAR,長崎県,2563,UDA,長崎県
 tricoro,405nm (Ryu☆mix),819,NAOMAR,長崎県,1616,KITCHN,長崎県,2524,STEAK,長崎県
@@ -748,7 +748,7 @@ SPADA,廿†,0,,未設定,0,,未設定,2996,UDA,長崎県
 SPADA,廿,907,ABABA,長崎県,1578,K.FLAN,長崎県,2288,STEAK,長崎県
 SPADA,幻想系世界修復少女,531,YU-HI,長崎県,1087,MER,長崎県,1856,T41K1.,長崎県
 SPADA,バンブーソード・ガール,929,KITCHN,長崎県,1576,KAEDE,長崎県,2336,STEAK,長崎県
-SPADA,デッドボヲルdeホームラン,556,YU-HI,長崎県,1484,RHYTHM,長崎県,2563,STEAK,長崎県
+SPADA,デッドボヲルdeホームラン,556,YU-HI,長崎県,1484,RHYTHM,長崎県,2606,STEAK,長崎県
 SPADA,アルストロメリア,851,YU-HI,長崎県,1482,Z-GIRL,長崎県,2327,2HISOX,長崎県
 SPADA,お願いアインシュタイン,817,LOVELY,長崎県,1417,K.FLAN,長崎県,2076,STEAK,長崎県
 SPADA,Wonder Girl feat. Kanae Asaba,438,DUSTY,長崎県,1158,KU-ZI,長崎県,2724,STEAK,長崎県
@@ -762,7 +762,7 @@ SPADA,Squeeze,817,Z-GIRL,長崎県,1333,Z-GIRL,長崎県,2394,STEAK,長崎県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,3948,STEAK,長崎県
 SPADA,Sigmund,1482,YUI.O,長崎県,2170,K.FLAN,長崎県,3609,STEAK,長崎県
 SPADA,SCHWARZSCHILD FIELD,835,YU-HI,長崎県,1406,AKIYAN,長崎県,2233,UDA,長崎県
-SPADA,RIZING YOU UP,972,YU-HI,長崎県,1927,DROP,長崎県,2474,UDA,長崎県
+SPADA,RIZING YOU UP,1028,ABABA,長崎県,1993,Z-GIRL,長崎県,2474,UDA,長崎県
 SPADA,RISE,754,MMM01,長崎県,1244,Z-GIRL,長崎県,1791,MOOON.,長崎県
 SPADA,refractive index,665,YU-HI,長崎県,1381,SHIURA,長崎県,2610,STEAK,長崎県
 SPADA,Recollection,1128,YU-HI,長崎県,1633,YU-HI,長崎県,2209,HEIPON,長崎県
@@ -770,11 +770,11 @@ SPADA,rainbow guitar weeps,896,0YASA1,長崎県,1632,KITCHN,長崎県,2667,STEAK
 SPADA,ra'am,1103,F-REO,長崎県,1644,KITCHN,長崎県,2613,AK-12,長崎県
 SPADA,PUNISHER,1104,ABABA,長崎県,1955,R,長崎県,3448,STEAK,長崎県
 SPADA,Pharaoh,623,YU-HI,長崎県,1265,RA,長崎県,2409,STEAK,長崎県
-SPADA,Overload Frontier,685,0YASA1,長崎県,1672,Z-GIRL,長崎県,2417,HEIPON,長崎県
+SPADA,Overload Frontier,685,0YASA1,長崎県,1672,Z-GIRL,長崎県,2432,STEAK,長崎県
 SPADA,Odin,0,,未設定,1303,UNTAN,長崎県,2015,HEIPON,長崎県
 SPADA,NPC World,907,0YASA1,長崎県,1465,Z-GIRL,長崎県,2140,TAU,長崎県
-SPADA,Miracle 5ympho X,660,LOVELY,長崎県,1231,KAJA,長崎県,2580,STEAK,長崎県
-SPADA,MAGIC & LOVE,631,TKBZ2,長崎県,1776,RAT*,長崎県,2853,STEAK,長崎県
+SPADA,Miracle 5ympho X,660,LOVELY,長崎県,1239,KAJA,長崎県,2580,STEAK,長崎県
+SPADA,MAGIC & LOVE,778,TTZK,長崎県,1776,RAT*,長崎県,2853,STEAK,長崎県
 SPADA,MAD ATTACK,627,YU-HI,長崎県,1090,UNTAN,長崎県,1831,TAU,長崎県
 SPADA,m1dy Deluxe,1061,0YASA1,長崎県,1480,KOTEKA,長崎県,2405,STEAK,長崎県
 SPADA,M.D.Injection,581,KAEDE,長崎県,1138,YU-HI,長崎県,2374,STEAK,長崎県
@@ -782,7 +782,7 @@ SPADA,Lighting Shower,446,R.S-05,長崎県,1239,ABABA,長崎県,2349,STEAK,長�
 SPADA,Last Dance,1101,YU-HI,長崎県,1912,T41K1.,長崎県,3128,AK-12,長崎県
 SPADA,LA FESTA LA VITA!!,756,0YASA1,長崎県,1627,9YU,長崎県,2714,F,長崎県
 SPADA,KHAMEN BREAK,536,YU-HI,長崎県,1211,NAOMAR,長崎県,2413,STEAK,長崎県
-SPADA,KAISER PHOENIX,1165,YU-HI,長崎県,2090,RTX830,長崎県,3107,UDA,長崎県
+SPADA,KAISER PHOENIX,1178,RA,長崎県,2090,RTX830,長崎県,3107,UDA,長崎県
 SPADA,IX,1186,YU-HI,長崎県,2297,F,長崎県,3636,STEAK,長崎県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3023,ARCAEA,長崎県
 SPADA,invoker,1013,YU-HI,長崎県,1795,Z-GIRL,長崎県,3067,STEAK,長崎県
@@ -791,12 +791,12 @@ SPADA,INSOMNIA,612,HIKARI,長崎県,1734,HSMT,長崎県,2995,HEIPON,長崎県
 SPADA,Insane Techniques,727,ABABA,長崎県,1156,YU-HI,長崎県,2382,HEIPON,長崎県
 SPADA,Immortal,879,YU-HI,長崎県,1668,ACBEXE,長崎県,2972,STEAK,長崎県
 SPADA,Idola,1110,0YASA1,長崎県,2196,RTX830,長崎県,3507,STEAK,長崎県
-SPADA,I will be back -オレは帰ってきた-,941,0YASA1,長崎県,1787,RTX830,長崎県,2850,STEAK,長崎県
+SPADA,I will be back -オレは帰ってきた-,941,0YASA1,長崎県,1827,44AKI#,長崎県,2850,STEAK,長崎県
 SPADA,Hypersonik,925,YU-HI,長崎県,1590,Z-GIRL,長崎県,2406,F,長崎県
 SPADA,HYENA,1074,0YASA1,長崎県,1864,MOOON.,長崎県,2756,STEAK,長崎県
 SPADA,Funny shuffle,222,AAAAAA,長崎県,1063,Z-GIRL,長崎県,2219,STEAK,長崎県
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4085,AK-12,長崎県
-SPADA,Feel The Beat,1298,ABABA,長崎県,1875,Z-GIRL,長崎県,3397,STEAK,長崎県
+SPADA,Feel The Beat,1298,ABABA,長崎県,1889,KITCHN,長崎県,3397,STEAK,長崎県
 SPADA,EXTREME MACH COLLIDER,890,YU-HI,長崎県,1406,K.FLAN,長崎県,2470,HEIPON,長崎県
 SPADA,Engraved Mark,717,YU-HI,長崎県,1227,GRAZE,長崎県,2290,STEAK,長崎県
 SPADA,Element of SPADA,662,ABABA,長崎県,1277,SHIURA,長崎県,2072,STEAK,長崎県
@@ -819,7 +819,7 @@ SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4026,STEAK,長崎�
 SPADA,Ancient Scapes,973,YU-HI,長崎県,1876,L,長崎県,3362,STEAK,長崎県
 SPADA,ALBA -黎明-,467,TBS-TK,長崎県,1547,UDA,長崎県,3150,STEAK,長崎県
 SPADA,Adularia,1003,YU-HI,長崎県,1750,HSMT,長崎県,2765,STEAK,長崎県
-PENDUAL,Ｘ↑Ｘ↓,711,DANCHO,長崎県,1503,UNTAN,長崎県,2818,UDA,長崎県
+PENDUAL,Ｘ↑Ｘ↓,711,DANCHO,長崎県,1606,44AKI#,長崎県,2818,UDA,長崎県
 PENDUAL,鬼天,893,0YASA1,長崎県,1527,HSMT,長崎県,2369,STEAK,長崎県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲†,0,,未設定,0,,未設定,3927,STEAK,長崎県
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,990,ABABA,長崎県,1985,KAEDE,長崎県,2641,STEAK,長崎県
@@ -838,13 +838,13 @@ PENDUAL,千年ノ理,1191,STEAK,長崎県,1766,KITCHN,長崎県,3110,STEAK,長�
 PENDUAL,十六夜セツナ,1000,Z-GIRL,長崎県,1495,GRAZE,長崎県,2212,STEAK,長崎県
 PENDUAL,共鳴遊戯の華,1226,ABABA,長崎県,2120,KITCHN,長崎県,3662,AK-12,長崎県
 PENDUAL,リリーゼと炎龍レーヴァテイン,909,YU-HI,長崎県,2153,GRAZE,長崎県,3315,STEAK,長崎県
-PENDUAL,ベィスドロップ・フリークス,571,YU-HI,長崎県,1133,YU-HI,長崎県,2186,STEAK,長崎県
+PENDUAL,ベィスドロップ・フリークス,571,YU-HI,長崎県,1133,YU-HI,長崎県,2191,STEAK,長崎県
 PENDUAL,パ→ピ→プ→Yeah!,982,SK.424,長崎県,1515,Z-GIRL,長崎県,2492,STEAK,長崎県
 PENDUAL,ドッキン☆サマーあばんちゅーる,1015,MER,長崎県,1629,9YU,長崎県,2742,STEAK,長崎県
 PENDUAL,もっと！モット！ときめき feat. 松下,1156,YU-HI,長崎県,1894,MER,長崎県,2637,STEAK,長崎県
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,803,YU-HI,長崎県,1387,UNTAN,長崎県,2473,STEAK,長崎県
 PENDUAL,とろぴかる倶楽部,720,YU-HI,長崎県,1308,DROP,長崎県,2185,HEIPON,長崎県
-PENDUAL,それは花火のような恋,1149,LOVELY,長崎県,2429,T41K1.,長崎県,3735,STEAK,長崎県
+PENDUAL,それは花火のような恋,1164,YU-HI,長崎県,2429,T41K1.,長崎県,3735,STEAK,長崎県
 PENDUAL,ZZ,1163,YU-HI,長崎県,1943,RIV.,長崎県,2964,STEAK,長崎県
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,902,0YASA1,長崎県,2185,T41K1.,長崎県,3534,STEAK,長崎県
 PENDUAL,Vulkan,959,YU-HI,長崎県,1832,KOTEKA,長崎県,2945,STEAK,長崎県
@@ -852,17 +852,17 @@ PENDUAL,TOXIC VIBRATION,1416,YU-HI,長崎県,2201,HTS,長崎県,3612,AK-12,長�
 PENDUAL,TIEFSEE,1060,IKESAN,長崎県,1938,K.FLAN,長崎県,3376,AK-12,長崎県
 PENDUAL,The Least 100sec,533,Y.,長崎県,1284,Z-GIRL,長崎県,2709,STEAK,長崎県
 PENDUAL,TA・DA ☆ YO・SHI,1009,YU-HI,長崎県,1541,MER,長崎県,2253,STEAK,長崎県
-PENDUAL,Symmetry,0,,未設定,2016,K.FLAN,長崎県,3139,STEAK,長崎県
+PENDUAL,Symmetry,1092,YU-HI,長崎県,2016,K.FLAN,長崎県,3161,STEAK,長崎県
 PENDUAL,Sweet Radar,619,YU-HI,長崎県,1273,UNTAN,長崎県,2022,STEAK,長崎県
 PENDUAL,SpaceLand☆TOYBOX,677,SCARFY,長崎県,1574,KITCHN,長崎県,2822,STEAK,長崎県
-PENDUAL,Sounds Of Summer,1112,SK.424,長崎県,2012,T41K1.,長崎県,2915,STEAK,長崎県
+PENDUAL,Sounds Of Summer,1112,SK.424,長崎県,2012,T41K1.,長崎県,2916,STEAK,長崎県
 PENDUAL,Shooting Fireball,921,MER,長崎県,2064,R,長崎県,3755,AK-12,長崎県
 PENDUAL,Scars of FAUNA,759,YU-HI,長崎県,1588,SHIURA,長崎県,2828,STEAK,長崎県
 PENDUAL,Scarlet Moon,1017,ABABA,長崎県,1887,T41K1.,長崎県,2680,STEAK,長崎県
 PENDUAL,Say YEEEAHH,1026,KAJA,長崎県,1723,RTX830,長崎県,3101,HEIPON,長崎県
 PENDUAL,SAMSARA,764,YU-HI,長崎県,1299,YU-HI,長崎県,2028,STEAK,長崎県
 PENDUAL,Sakura Mirage,907,KOTEKA,長崎県,1225,Z-GIRL,長崎県,2263,STEAK,長崎県
-PENDUAL,Reflux,505,TKBZ2,長崎県,1481,B.M,長崎県,2869,AK-12,長崎県
+PENDUAL,Reflux,519,TTZK,長崎県,1481,B.M,長崎県,2869,AK-12,長崎県
 PENDUAL,Realize Maze,1210,MER,長崎県,1916,THE619,長崎県,2915,STEAK,長崎県
 PENDUAL,Rave*it!! Rave*it!!,952,DROP,長崎県,1665,STEAK,長崎県,3085,AK-12,長崎県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),670,YU-HI,長崎県,1352,9YU,長崎県,2161,UDA,長崎県
@@ -884,14 +884,14 @@ PENDUAL,HELL SCAPER -Last Escape Remix-,931,MER,長崎県,1680,9YU,長崎県,276
 PENDUAL,GUILTY,839,YU-HI,長崎県,1354,9YU,長崎県,1833,HEIPON,長崎県
 PENDUAL,Gravigazer,889,KITCHN,長崎県,1649,RHYTHM,長崎県,2843,UDA,長崎県
 PENDUAL,Flashes,855,YU-HI,長崎県,1633,RTX830,長崎県,3145,STEAK,長崎県
-PENDUAL,FANTASTIC THREE,849,GNAR,長崎県,2102,T41K1.,長崎県,2974,STEAK,長崎県
+PENDUAL,FANTASTIC THREE,1236,ABABA,長崎県,2102,T41K1.,長崎県,2974,STEAK,長崎県
 PENDUAL,fallen leaves -IIDX edition-,1042,0YASA1,長崎県,1843,TKTGST,長崎県,3249,STEAK,長崎県
 PENDUAL,Erosion Mark,713,YU-HI,長崎県,1409,9YU,長崎県,2134,STEAK,長崎県
 PENDUAL,entelecheia,948,YU-HI,長崎県,2024,T41K1.,長崎県,3193,STEAK,長崎県
 PENDUAL,EBONY & IVORY†,0,,未設定,0,,未設定,3408,AK-12,長崎県
 PENDUAL,EBONY & IVORY,1050,MER,長崎県,1324,YU-HI,長崎県,2870,STEAK,長崎県
 PENDUAL,Discloze,857,YU-HI,長崎県,1611,L,長崎県,2511,STEAK,長崎県
-PENDUAL,Despair of ELFERIA,830,MOMOYO,長崎県,2239,ABABA,長崎県,3979,AK-12,長崎県
+PENDUAL,Despair of ELFERIA,1159,YU-HI,長崎県,2239,ABABA,長崎県,3979,AK-12,長崎県
 PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3068,UDA,長崎県
 PENDUAL,Cosmic Cat,888,KITCHN,長崎県,1560,KITCHN,長崎県,2254,STEAK,長崎県
 PENDUAL,COLOSSEUM,537,YU-HI,長崎県,1152,KU-ZI,長崎県,2195,HEIPON,長崎県
@@ -899,14 +899,14 @@ PENDUAL,cinder,768,YU-HI,長崎県,1851,KITCHN,長崎県,2999,STEAK,長崎県
 PENDUAL,Chronos,770,YU-HI,長崎県,1156,YU-HI,長崎県,2252,F,長崎県
 PENDUAL,Chrono Diver -PENDULUMs-,1366,Z-GIRL,長崎県,2725,STEAK,長崎県,4108,AK-12,長崎県
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4197,AK-12,長崎県
-PENDUAL,CHRONO DIVER -NORNIR-,1113,YU-HI,長崎県,2090,R1MU,長崎県,2923,MOOON.,長崎県
+PENDUAL,CHRONO DIVER -NORNIR-,1113,YU-HI,長崎県,2168,EARTH,長崎県,2923,MOOON.,長崎県
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2222,UDA,長崎県
-PENDUAL,chrono diver -fragment-,621,YU-HI,長崎県,1073,KONA2.,長崎県,1769,STEAK,長崎県
+PENDUAL,chrono diver -fragment-,632,44AKI#,長崎県,1073,KONA2.,長崎県,1769,STEAK,長崎県
 PENDUAL,Chain of pain,727,R1MU,長崎県,1360,9YU,長崎県,2102,MOOON.,長崎県
 PENDUAL,Broken Sword,1227,KAJA,長崎県,1982,T41K1.,長崎県,3591,AK-12,長崎県
-PENDUAL,BLUE MIRAGE,973,ABABA,長崎県,1757,ABABA,長崎県,2805,STEAK,長崎県
+PENDUAL,BLUE MIRAGE,973,ABABA,長崎県,1825,44AKI#,長崎県,2805,STEAK,長崎県
 PENDUAL,Blaze it UP!,874,S-K.T,長崎県,1806,Z-GIRL,長崎県,2898,STEAK,長崎県
-PENDUAL,Beyond The Earth,1041,YU-HI,長崎県,1736,KAJA,長崎県,3051,AK-12,長崎県
+PENDUAL,Beyond The Earth,1041,YU-HI,長崎県,1894,EARTH,長崎県,3051,AK-12,長崎県
 PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3462,STEAK,長崎県
 PENDUAL,Beat Radiance,958,YU-HI,長崎県,1501,DROP,長崎県,2604,STEAK,長崎県
 PENDUAL,Amnolys,781,YU-HI,長崎県,1463,DROP,長崎県,2577,STEAK,長崎県
@@ -921,7 +921,7 @@ copula,真 地獄超特急 -HELL or HELL-,1312,Z-GIRL,長崎県,2106,K.FLAN,長�
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),1125,0YASA1,長崎県,1866,RHYTHM,長崎県,2357,F,長崎県
 copula,灼熱 Pt.2 Long Train Running,1173,KAJA,長崎県,1949,F,長崎県,2872,AK-12,長崎県
 copula,朝焼けから始まるボクらの小さな旅,0,,未設定,1599,ABABA,長崎県,2459,STEAK,長崎県
-copula,星屑ディスタンシア,606,YU-HI,長崎県,1100,UNTAN,長崎県,2011,F,長崎県
+copula,星屑ディスタンシア,606,YU-HI,長崎県,1100,UNTAN,長崎県,2017,HEIPON,長崎県
 copula,明鏡止水,782,YU-HI,長崎県,1766,SHIURA,長崎県,2700,AK-12,長崎県
 copula,少女アリスと箱庭幻想コンチェルト,737,MER,長崎県,1311,G3BAR3,長崎県,2000,MOOON.,長崎県
 copula,セロトニン,1186,YU-HI,長崎県,1695,ABABA,長崎県,2262,STEAK,長崎県
@@ -940,7 +940,7 @@ copula,Triple Counter,1346,ABABA,長崎県,2103,KAEDE,長崎県,3821,STEAK,長�
 copula,Transport,932,YU-HI,長崎県,1146,NAOMAR,長崎県,2123,STEAK,長崎県
 copula,Tori-no-kimochi,258,T41K1.,長崎県,1152,KAJA,長崎県,1843,TAU,長崎県
 copula,SURVIVOR,649,YU-HI,長崎県,1205,Z-GIRL,長崎県,2010,STEAK,長崎県
-copula,Super Duper Racers,847,YU-HI,長崎県,1438,Z-GIRL,長崎県,2238,F,長崎県
+copula,Super Duper Racers,847,YU-HI,長崎県,1488,Z-GIRL,長崎県,2238,F,長崎県
 copula,StrayedCatz,906,YU-HI,長崎県,1808,HSMT,長崎県,2692,STEAK,長崎県
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3126,UDA,長崎県
 copula,STARLIGHT DANCEHALL,1137,WHAT.,長崎県,1601,DROP,長崎県,2513,UDA,長崎県
@@ -953,14 +953,14 @@ copula,Routing,824,0YASA1,長崎県,1462,KITCHN,長崎県,2393,STEAK,長崎県
 copula,Rock It,1107,ABABA,長崎県,1570,9YU,長崎県,2850,STEAK,長崎県
 copula,refrain,1139,0YASA1,長崎県,2136,R,長崎県,3477,AK-12,長崎県
 copula,quick master (reform version),150,YU-HI,長崎県,328,UNTAN,長崎県,520,HEIPON,長崎県
-copula,POSSESSION,1349,L,長崎県,1961,RIV.,長崎県,2801,STEAK,長崎県
+copula,POSSESSION,1349,L,長崎県,1966,RIV.,長崎県,2801,STEAK,長崎県
 copula,OUTER LIMITS ALTERNATIVE,536,PERU,長崎県,1584,9YU,長崎県,2496,KAEDE,長崎県
-copula,Outbreak,1229,YU-HI,長崎県,1753,F-REO,長崎県,2953,STEAK,長崎県
+copula,Outbreak,1229,YU-HI,長崎県,1786,ARCAEA,長崎県,2953,STEAK,長崎県
 copula,On the FM,961,0YASA1,長崎県,1512,SHIURA,長崎県,2689,STEAK,長崎県
 copula,NZM,943,BMKYUN,長崎県,1460,Z-GIRL,長崎県,3250,AK-12,長崎県
 copula,Nowhere,722,YU-HI,長崎県,1350,459DE$,長崎県,2054,KAEDE,長崎県
 copula,NO LIMIT -オレ達に限界は無い-,757,YU-HI,長崎県,1189,Z-GIRL,長崎県,2182,HEIPON,長崎県
-copula,NINJA IS DEAD IIDX ver.,1139,0YASA1,長崎県,1834,L,長崎県,2901,STEAK,長崎県
+copula,NINJA IS DEAD IIDX ver.,1139,0YASA1,長崎県,1834,L,長崎県,2916,STEAK,長崎県
 copula,Nightmare before oversleep,1058,0YASA1,長崎県,1749,RHYTHM,長崎県,2890,STEAK,長崎県
 copula,NANAIRO,945,YU-HI,長崎県,1638,DROP,長崎県,2465,F,長崎県
 copula,Musik LoverZ,990,YU-HI,長崎県,1130,NAOMAR,長崎県,2419,STEAK,長崎県
@@ -969,8 +969,8 @@ copula,La dolce primavera,643,YU-HI,長崎県,1213,9YU,長崎県,2087,STEAK,長�
 copula,Konzert V,1250,ABABA,長崎県,2149,SHIURA,長崎県,3225,STEAK,長崎県
 copula,Journey,625,YU-HI,長崎県,1109,YU-HI,長崎県,1833,STEAK,長崎県
 copula,Inner Spirit,775,YU-HI,長崎県,1764,SHIURA,長崎県,2743,STEAK,長崎県
-copula,Highcharge Divolt,801,YU-HI,長崎県,1530,GRAZE,長崎県,2689,STEAK,長崎県
-copula,Grand Chariot,1050,YU-HI,長崎県,1721,B.M,長崎県,3280,STEAK,長崎県
+copula,Highcharge Divolt,801,YU-HI,長崎県,1530,GRAZE,長崎県,2693,STEAK,長崎県
+copula,Grand Chariot,1050,YU-HI,長崎県,1816,L,長崎県,3280,STEAK,長崎県
 copula,Godspeed,946,YU-HI,長崎県,1797,L,長崎県,2937,STEAK,長崎県
 copula,GOBBLE,412,YU-HI,長崎県,617,YU-HI,長崎県,1623,UDA,長崎県
 copula,Go Faraway,965,YU-HI,長崎県,1370,UNTAN,長崎県,2458,STEAK,長崎県
@@ -979,14 +979,14 @@ copula,GET READY!!,0,,未設定,1455,Z-GIRL,長崎県,2570,STEAK,長崎県
 copula,GENERATE feat.綾倉盟,1035,YU-HI,長崎県,1660,ABABA,長崎県,2284,STEAK,長崎県
 copula,Exchange Place,687,YU-HI,長崎県,1002,YU-HI,長崎県,1733,STEAK,長崎県
 copula,Everlasting Last,805,U46?,長崎県,1473,KITCHN,長崎県,2182,STEAK,長崎県
-copula,Dynamite,1140,Z-GIRL,長崎県,2311,KAEDE,長崎県,3600,AK-12,長崎県
+copula,Dynamite,1162,Z-GIRL,長崎県,2327,ARCAEA,長崎県,3600,AK-12,長崎県
 copula,Donkey Donk,1082,YU-HI,長崎県,1517,RTX830,長崎県,2211,STEAK,長崎県
 copula,do the thing feat. Kanae Asaba,580,YU-HI,長崎県,1276,9YU,長崎県,2238,HEIPON,長崎県
 copula,DIAMOND CROSSING,929,Z-GIRL,長崎県,1634,RTX830,長崎県,2955,STEAK,長崎県
 copula,Devil's Gear,939,0YASA1,長崎県,2049,GRAZE,長崎県,3270,AK-12,長崎県
 copula,Derelict Star feat. Ryu*,1264,YU-HI,長崎県,1768,K.FLAN,長崎県,2486,UDA,長崎県
 copula,Damage Per Second†,0,,未設定,0,,未設定,2222,F,長崎県
-copula,Damage Per Second,802,YU-HI,長崎県,1312,Z-GIRL,長崎県,2022,STEAK,長崎県
+copula,Damage Per Second,802,YU-HI,長崎県,1312,Z-GIRL,長崎県,2024,STEAK,長崎県
 copula,Daily Lunch Special,971,SK.424,長崎県,1971,SHIURA,長崎県,2907,STEAK,長崎県
 copula,CODE:1 [revision1.0.1],882,YU-HI,長崎県,1577,GRAZE,長崎県,2943,AK-12,長崎県
 copula,chaos eater -IIDX edition-,1069,YU-HI,長崎県,1625,GRAZE,長崎県,2538,STEAK,長崎県
@@ -1003,8 +1003,8 @@ SINOBUZ,鴉,1387,GRAZE,長崎県,2129,SHIURA,長崎県,2645,STEAK,長崎県
 SINOBUZ,童話回廊,916,56LI*,長崎県,1594,RHYTHM,長崎県,2900,HEIPON,長崎県
 SINOBUZ,禍根,756,YU-HI,長崎県,1263,Z-GIRL,長崎県,2494,AK-12,長崎県
 SINOBUZ,獅子霞麗ノ舞,464,LOVELY,長崎県,1007,YUCA,長崎県,1711,STEAK,長崎県
-SINOBUZ,焔極OVERKILL,835,C,長崎県,2003,KAEDE,長崎県,3351,STEAK,長崎県
-SINOBUZ,炎影,656,KAJA,長崎県,1270,HSMT,長崎県,2559,HEIPON,長崎県
+SINOBUZ,焔極OVERKILL,1038,YU-HI,長崎県,2003,KAEDE,長崎県,3351,STEAK,長崎県
+SINOBUZ,炎影,656,KAJA,長崎県,1276,THE619,長崎県,2559,HEIPON,長崎県
 SINOBUZ,津軽雪,1381,0YASA1,長崎県,2123,KAEDE,長崎県,3696,AK-12,長崎県
 SINOBUZ,次葉 -turn the page-,769,YU-HI,長崎県,1362,Z-GIRL,長崎県,1958,UDA,長崎県
 SINOBUZ,月雪に舞う華のように,791,KITCHN,長崎県,1218,SHIURA,長崎県,1981,KAEDE,長崎県
@@ -1012,14 +1012,14 @@ SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,921,TE97,長崎県,1447,9
 SINOBUZ,忍恋花,0,,未設定,1509,KITCHN,長崎県,2189,STEAK,長崎県
 SINOBUZ,刃図羅,1158,56LI*,長崎県,1994,KAEDE,長崎県,3280,STEAK,長崎県
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2927,UDA,長崎県
-SINOBUZ,冬椿 ft. Kanae Asaba,861,0YASA1,長崎県,1191,SHIURA,長崎県,2221,STEAK,長崎県
+SINOBUZ,冬椿 ft. Kanae Asaba,861,0YASA1,長崎県,1191,SHIURA,長崎県,2253,STEAK,長崎県
 SINOBUZ,九尾狐夜行,756,0YASA1,長崎県,1574,NOZOM!,長崎県,2781,STEAK,長崎県
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,631,YU-HI,長崎県,1360,Z-GIRL,長崎県,2356,DAIKI*,長崎県
 SINOBUZ,イザナミノナゲキ,1164,MER,長崎県,1811,AAAAAA,長崎県,3165,STEAK,長崎県
 SINOBUZ,ちらちら・はらはら,379,NAGO,長崎県,900,UNTAN,長崎県,1415,HEIPON,長崎県
 SINOBUZ,お命ちょうDAI！901娘,896,0YASA1,長崎県,1511,KITCHN,長崎県,2259,UDA,長崎県
 SINOBUZ,〆,1186,DROP,長崎県,2231,L,長崎県,3521,AK-12,長崎県
-SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),699,YU-HI,長崎県,1543,Z-GIRL,長崎県,2770,AK-12,長崎県
+SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),699,YU-HI,長崎県,1582,KITCHN,長崎県,2770,AK-12,長崎県
 SINOBUZ,yamabiko (SINOBUZ Edition),900,0YASA1,長崎県,1508,Z-GIRL,長崎県,2533,STEAK,長崎県
 SINOBUZ,XINOBIKILL,922,ABABA,長崎県,1669,L,長崎県,2811,STEAK,長崎県
 SINOBUZ,Warrior,919,PIPO,長崎県,1664,ABABA,長崎県,2331,KAEDE,長崎県
@@ -1028,14 +1028,14 @@ SINOBUZ,Venom,1218,ABABA,長崎県,2024,T41K1.,長崎県,3088,STEAK,長崎県
 SINOBUZ,Umbral,584,YU-HI,長崎県,1260,YU-HI,長崎県,1800,KAEDE,長崎県
 SINOBUZ,TOGAKUSHI,841,YU-HI,長崎県,1702,RTX830,長崎県,2506,AK-12,長崎県
 SINOBUZ,The Commanders,875,YU-HI,長崎県,1425,9YU,長崎県,2414,STEAK,長崎県
-SINOBUZ,Sweet Clapper,526,YU-HI,長崎県,1189,MER,長崎県,1896,STEAK,長崎県
+SINOBUZ,Sweet Clapper,526,YU-HI,長崎県,1189,MER,長崎県,1900,STEAK,長崎県
 SINOBUZ,Super Rush,946,YU-HI,長崎県,1808,JMSDF,長崎県,3420,UDA,長崎県
 SINOBUZ,Summerlights(IIDX Edition),1011,YU-HI,長崎県,1758,EARTH,長崎県,3038,STEAK,長崎県
 SINOBUZ,Summer,631,YU-HI,長崎県,1275,UNTAN,長崎県,1924,STEAK,長崎県
 SINOBUZ,Steel Edge,817,YU-HI,長崎県,1410,9YU,長崎県,3088,AK-12,長崎県
 SINOBUZ,Snakey Kung-fu,1032,YUCA,長崎県,1984,SHIURA,長崎県,3274,STEAK,長崎県
-SINOBUZ,Sky High,803,KAIN,長崎県,2121,ACBEXE,長崎県,3671,AK-12,長崎県
-SINOBUZ,SINOBUZ Fantasy,954,YU-HI,長崎県,1540,KITCHN,長崎県,2394,STEAK,長崎県
+SINOBUZ,Sky High,901,LOVELY,長崎県,2121,ACBEXE,長崎県,3671,AK-12,長崎県
+SINOBUZ,SINOBUZ Fantasy,954,YU-HI,長崎県,1565,KITCHN,長崎県,2394,STEAK,長崎県
 SINOBUZ,shuriken,728,0YASA1,長崎県,1062,UNTAN,長崎県,2481,STEAK,長崎県
 SINOBUZ,Shoot'Em All,702,YU-HI,長崎県,1215,NAOMAR,長崎県,2408,STEAK,長崎県
 SINOBUZ,SEQUENCE CAT,984,YU-HI,長崎県,2071,HTS,長崎県,2756,STEAK,長崎県
@@ -1058,7 +1058,7 @@ SINOBUZ,OTENAMI Hurricane,950,KRONE,長崎県,1948,ABABA,長崎県,2952,STEAK,�
 SINOBUZ,OOO,647,YU-HI,長崎県,1402,ABABA,長崎県,2031,STEAK,長崎県
 SINOBUZ,nostos,844,Z-GIRL,長崎県,1208,Z-GIRL,長崎県,2445,F,長崎県
 SINOBUZ,Music is The Answer,692,0YASA1,長崎県,1301,9YU,長崎県,1837,TAU,長崎県
-SINOBUZ,Modular Technology,620,U.RUNO,長崎県,1822,RAT*,長崎県,2497,F,長崎県
+SINOBUZ,Modular Technology,620,U.RUNO,長崎県,1854,K.FLAN,長崎県,2497,F,長崎県
 SINOBUZ,Mare Nectaris,1378,Z-GIRL,長崎県,2015,F,長崎県,3405,AK-12,長崎県
 SINOBUZ,Magical,733,YU-HI,長崎県,1093,UNTAN,長崎県,1976,STEAK,長崎県
 SINOBUZ,Macuilxochitl,1339,KAJA,長崎県,2098,RAT*,長崎県,3267,STEAK,長崎県
@@ -1070,9 +1070,9 @@ SINOBUZ,HADES,880,YU-HI,長崎県,1722,ACBEXE,長崎県,2901,HEIPON,長崎県
 SINOBUZ,GuNGNiR,1219,YU-HI,長崎県,2495,F,長崎県,3708,AK-12,長崎県
 SINOBUZ,Go Ahead!!,902,CARLOS,長崎県,1425,JMSDF,長崎県,2486,AK-12,長崎県
 SINOBUZ,FUZIN RIZIN,1115,YU-HI,長崎県,1809,9YU,長崎県,3665,STEAK,長崎県
-SINOBUZ,elemental bender feat. Kanae Asaba,571,YU-HI,長崎県,1068,UNTAN,長崎県,1565,KAEDE,長崎県
+SINOBUZ,elemental bender feat. Kanae Asaba,571,YU-HI,長崎県,1068,UNTAN,長崎県,1607,STEAK,長崎県
 SINOBUZ,Egret and Willow,920,YU-HI,長崎県,1503,KAJA,長崎県,2650,STEAK,長崎県
-SINOBUZ,ECHIDNA,1085,0YASA1,長崎県,2006,UDA,長崎県,3186,AK-12,長崎県
+SINOBUZ,ECHIDNA,1125,YU-HI,長崎県,2006,UDA,長崎県,3186,AK-12,長崎県
 SINOBUZ,DORNWALD ～Junge～,1136,YU-HI,長崎県,2104,T41K1.,長崎県,3446,STEAK,長崎県
 SINOBUZ,DISAPPEAR feat. koyomin,671,YU-HI,長崎県,1521,Z-GIRL,長崎県,2770,HEIPON,長崎県
 SINOBUZ,Cyber True Color,956,TE97,長崎県,1588,ABABA,長崎県,2282,AK-12,長崎県
@@ -1095,7 +1095,7 @@ SINOBUZ,Amazing Mirage,821,0YASA1,長崎県,1615,HSMT,長崎県,2557,STEAK,長�
 SINOBUZ,Affection,573,YU-HI,長崎県,1138,UNTAN,長崎県,2003,F,長崎県
 SINOBUZ,(This Is Not) The Angels,537,YU-HI,長崎県,1336,9YU,長崎県,2590,HEIPON,長崎県
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,1085,KAJA,長崎県,1964,STEAK,長崎県,3305,STEAK,長崎県
-SINOBUZ,!Viva!,868,YU-HI,長崎県,1404,CARLOS,長崎県,1958,HEIPON,長崎県
+SINOBUZ,!Viva!,868,YU-HI,長崎県,1435,YU-HI,長崎県,1958,HEIPON,長崎県
 CANNON BALLERS,草原の王女-軌跡を辿って-,675,56LI*,長崎県,1123,KAJA,長崎県,2241,HEIPON,長崎県
 CANNON BALLERS,純真可憐デザイア,758,0YASA1,長崎県,1517,KITCHN,長崎県,2278,UDA,長崎県
 CANNON BALLERS,神謳 -RESONANCE-,1307,NAGO,長崎県,2340,RTX830,長崎県,3936,AK-12,長崎県
@@ -1118,10 +1118,10 @@ CANNON BALLERS,UMMU,1132,56LI*,長崎県,1938,RTX830,長崎県,2957,STEAK,長崎
 CANNON BALLERS,The Revolution (VIP Mix),672,S-K.T,長崎県,1169,S-K.T,長崎県,1741,KAEDE,長崎県
 CANNON BALLERS,The Chase,607,SK.424,長崎県,1272,MOOON.,長崎県,1954,AK-12,長崎県
 CANNON BALLERS,THE CANNONBALLER,1427,56LI*,長崎県,2314,T41K1.,長崎県,3330,STEAK,長崎県
-CANNON BALLERS,Temple of Anubis,952,ABABA,長崎県,1333,9YU,長崎県,2556,STEAK,長崎県
+CANNON BALLERS,Temple of Anubis,952,ABABA,長崎県,1415,THE619,長崎県,2556,STEAK,長崎県
 CANNON BALLERS,SUNLiGHT (IIDX Mix),1169,HEIPON,長崎県,1709,HEIPON,長崎県,2605,STEAK,長崎県
-CANNON BALLERS,Static State,1017,56LI*,長崎県,1560,F-REO,長崎県,2200,KAEDE,長崎県
-CANNON BALLERS,STARLIGHT JUNCTION,818,LATHAM,長崎県,1449,KITCHN,長崎県,2241,STEAK,長崎県
+CANNON BALLERS,Static State,1017,56LI*,長崎県,1560,F-REO,長崎県,2208,K.FLAN,長崎県
+CANNON BALLERS,STARLIGHT JUNCTION,818,LATHAM,長崎県,1449,KITCHN,長崎県,2248,STEAK,長崎県
 CANNON BALLERS,SPEED DEMON,700,NOZOM!,長崎県,1363,CARLOS,長崎県,2158,DAIKI*,長崎県
 CANNON BALLERS,SPEED,778,YU-HI,長崎県,1456,9YU,長崎県,2467,MOOON.,長崎県
 CANNON BALLERS,"Son, not gabba now",837,YU-HI,長崎県,1462,KAJA,長崎県,2187,KAEDE,長崎県
@@ -1131,7 +1131,7 @@ CANNON BALLERS,Rise Circuit,903,NOZOM!,長崎県,1465,KITCHN,長崎県,2177,F,�
 CANNON BALLERS,Raspberry Railgun,1228,KAJA,長崎県,2088,K.FLAN,長崎県,3037,STEAK,長崎県
 CANNON BALLERS,Rampage,1255,GRAZE,長崎県,2380,RIV.,長崎県,3544,STEAK,長崎県
 CANNON BALLERS,Persephone,1158,UNTAN,長崎県,1822,ACBEXE,長崎県,2854,STEAK,長崎県
-CANNON BALLERS,Papilio ulysses,1105,YU-HI,長崎県,2060,STEAK,長崎県,2763,AK-12,長崎県
+CANNON BALLERS,Papilio ulysses,1108,NAGO,長崎県,2060,STEAK,長崎県,2763,AK-12,長崎県
 CANNON BALLERS,Only for now,851,YU-HI,長崎県,1439,KAJA,長崎県,2234,STEAK,長崎県
 CANNON BALLERS,O/D*20,1029,YU-HI,長崎県,1568,9YU,長崎県,2078,UDA,長崎県
 CANNON BALLERS,Nothing but Theory,958,YU-HI,長崎県,1460,9YU,長崎県,2795,STEAK,長崎県
@@ -1140,12 +1140,12 @@ CANNON BALLERS,NITROUS CANNON,1228,NAGO,長崎県,1893,T41K1.,長崎県,3373,STE
 CANNON BALLERS,n'pa pa BBQ,846,MMM01,長崎県,1684,SHIURA,長崎県,2706,STEAK,長崎県
 CANNON BALLERS,Mira,813,0YASA1,長崎県,1622,KAJA,長崎県,2959,UDA,長崎県
 CANNON BALLERS,Midnight Lady,561,YU-HI,長崎県,1101,56LI*,長崎県,1896,HEIPON,長崎県
-CANNON BALLERS,LUV DRIVE,751,YU-HI,長崎県,1236,KAJA,長崎県,1999,F,長崎県
+CANNON BALLERS,LUV DRIVE,751,YU-HI,長崎県,1236,KAJA,長崎県,2034,HEIPON,長崎県
 CANNON BALLERS,LIGHTS ft. EVO+,752,HEIPON,長崎県,1430,HEIPON,長崎県,2328,STEAK,長崎県
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1047,S-K.T,長崎県,1616,9YU,長崎県,3197,UDA,長崎県
-CANNON BALLERS,Initiation,1339,KAJA,長崎県,2372,T41K1.,長崎県,3681,STEAK,長崎県
-CANNON BALLERS,Illusionary Waterlily,1141,MMM01,長崎県,1868,U46?,長崎県,3416,STEAK,長崎県
-CANNON BALLERS,I'm Coming (2017 Version),619,56LI*,長崎県,1199,UNTAN,長崎県,2040,STEAK,長崎県
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1083,MMM01,長崎県,1616,9YU,長崎県,3197,UDA,長崎県
+CANNON BALLERS,Initiation,1450,L,長崎県,2405,HEIPON,長崎県,3681,STEAK,長崎県
+CANNON BALLERS,Illusionary Waterlily,1143,YU-HI,長崎県,1868,U46?,長崎県,3416,STEAK,長崎県
+CANNON BALLERS,I'm Coming (2017 Version),634,DAIKI*,長崎県,1199,UNTAN,長崎県,2049,STEAK,長崎県
 CANNON BALLERS,I Love You,979,0YASA1,長崎県,1726,RTX830,長崎県,2681,STEAK,長崎県
 CANNON BALLERS,HYPE THE CORE,901,LATHAM,長崎県,1869,SHIURA,長崎県,2823,UDA,長崎県
 CANNON BALLERS,Hella Deep,634,STEAK,長崎県,991,ABABA,長崎県,1745,HEIPON,長崎県
@@ -1164,7 +1164,7 @@ CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,793,MMM01,長崎�
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1328,MER,長崎県,2287,T41K1.,長崎県,3767,AK-12,長崎県
 CANNON BALLERS,DEADHEAT,1117,56LI*,長崎県,1863,RAT*,長崎県,3184,STEAK,長崎県
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,704,S-K.T,長崎県,1364,SHIURA,長崎県,2077,STEAK,長崎県
-CANNON BALLERS,City Never Sleeps (IIDX Edition),1229,MER,長崎県,1747,B.M,長崎県,2531,TAU,長崎県
+CANNON BALLERS,City Never Sleeps (IIDX Edition),1229,MER,長崎県,1747,B.M,長崎県,2540,MOOON.,長崎県
 CANNON BALLERS,Chemical Cookie,766,KAJA,長崎県,1314,KAJA,長崎県,2104,STEAK,長崎県
 CANNON BALLERS,ChaserXX,1015,56LI*,長崎県,1854,UDA,長崎県,2703,AK-12,長崎県
 CANNON BALLERS,Break Stasis,1275,56LI*,長崎県,1815,ABABA,長崎県,2495,STEAK,長崎県
@@ -1180,13 +1180,13 @@ CANNON BALLERS,Antigravity,1000,KAJA,長崎県,1845,T41K1.,長崎県,2935,STEAK,
 CANNON BALLERS,ANCHOR,1308,Z-GIRL,長崎県,2314,L,長崎県,3438,STEAK,長崎県
 CANNON BALLERS,ANAGMA,837,MMM01,長崎県,1675,9YU,長崎県,2578,STEAK,長崎県
 CANNON BALLERS,Amor De Verao,695,YU-HI,長崎県,1326,56LI*,長崎県,2245,STEAK,長崎県
-CANNON BALLERS,Alpheratz,420,56LI*,長崎県,952,UNTAN,長崎県,2002,F,長崎県
+CANNON BALLERS,Alpheratz,420,56LI*,長崎県,952,UNTAN,長崎県,2049,STEAK,長崎県
 CANNON BALLERS,Acidiva 303,722,S-K.T,長崎県,1321,ABABA,長崎県,2221,2HISOX,長崎県
 CANNON BALLERS,ACCELERATE,1146,56LI*,長崎県,1580,CARLOS,長崎県,2473,STEAK,長崎県
 CANNON BALLERS,Abraxas,755,56LI*,長崎県,1558,L,長崎県,2326,STEAK,長崎県
 CANNON BALLERS,AA -rebuild-,1214,ABABA,長崎県,2270,K.FLAN,長崎県,3527,STEAK,長崎県
 CANNON BALLERS,255,882,MER,長崎県,1480,L,長崎県,3043,AK-12,長崎県
-CANNON BALLERS,2 Player,796,LATHAM,長崎県,1466,ABABA,長崎県,2441,DAIKI*,長崎県
+CANNON BALLERS,2 Player,898,NOZOM!,長崎県,1466,ABABA,長崎県,2441,DAIKI*,長崎県
 CANNON BALLERS,1001 -ESCAPE-,925,NOZOM!,長崎県,1521,KAJA,長崎県,2558,HEIPON,長崎県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1118,HEIPON,長崎県,2279,HEIPON,長崎県,3126,STEAK,長崎県
 Rootage,金野火織の金色提言,1234,SHIURA,長崎県,2183,DAIKI*,長崎県,2953,STEAK,長崎県
@@ -1194,7 +1194,7 @@ Rootage,花冠 feat.Aikapin,970,HEIPON,長崎県,1599,ABABA,長崎県,2439,AK-12
 Rootage,爆ゼニ☆がってんワーカー,1241,HEIPON,長崎県,1857,HEIPON,長崎県,2679,STEAK,長崎県
 Rootage,抱きしめてモナムール,1287,HEIPON,長崎県,2272,HEIPON,長崎県,3855,UDA,長崎県
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,680,DROP,長崎県,1509,HEIPON,長崎県,2538,STEAK,長崎県
-Rootage,ミストレス・アンに花束を,562,TAU,長崎県,994,SHIURA,長崎県,1404,STEAK,長崎県
+Rootage,ミストレス・アンに花束を,562,TAU,長崎県,994,SHIURA,長崎県,1412,STEAK,長崎県
 Rootage,ハードベース・フェスタ,1125,HEIPON,長崎県,1758,HEIPON,長崎県,2799,UDA,長崎県
 Rootage,セカンドピアス,587,DROP,長崎県,1084,HEIPON,長崎県,2002,STEAK,長崎県
 Rootage,サクラあっぱれーしょん,623,HEIPON,長崎県,1517,SHIURA,長崎県,2290,STEAK,長崎県
@@ -1207,7 +1207,7 @@ Rootage,Wolf 1061,1008,HEIPON,長崎県,1680,HEIPON,長崎県,2978,UDA,長崎県
 Rootage,Wing of Hearts,1110,HEIPON,長崎県,1755,EARTH,長崎県,2893,STEAK,長崎県
 Rootage,Urban Constellations,708,HEIPON,長崎県,1459,HEIPON,長崎県,2233,STEAK,長崎県
 Rootage,UNDERWORLD HOLOGRAPHY,1132,HEIPON,長崎県,1994,HEIPON,長崎県,3122,STEAK,長崎県
-Rootage,Unbelief,1105,HEIPON,長崎県,2043,HEIPON,長崎県,2816,HEIPON,長崎県
+Rootage,Unbelief,1105,HEIPON,長崎県,2043,HEIPON,長崎県,2907,STEAK,長崎県
 Rootage,U.S.A.,1109,HEIPON,長崎県,1874,L,長崎県,2849,STEAK,長崎県
 Rootage,Twilight Warp,943,HEIPON,長崎県,1420,HEIPON,長崎県,2118,STEAK,長崎県
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),732,HEIPON,長崎県,1520,HEIPON,長崎県,2263,STEAK,長崎県
@@ -1251,7 +1251,7 @@ Rootage,GIGA THRASH,1247,TAU,長崎県,1815,TAU,長崎県,2606,AK-12,長崎県
 Rootage,Geirskogul,1071,HEIPON,長崎県,1564,HEIPON,長崎県,2161,HEIPON,長崎県
 Rootage,Garuda,1034,HEIPON,長崎県,1613,HEIPON,長崎県,2482,STEAK,長崎県
 Rootage,EVANESCENT,1264,HEIPON,長崎県,2298,HEIPON,長崎県,3396,STEAK,長崎県
-Rootage,Ember Lights,948,HEIPON,長崎県,1591,HEIPON,長崎県,2651,AK-12,長崎県
+Rootage,Ember Lights,964,HEIPON,長崎県,1591,HEIPON,長崎県,2674,STEAK,長崎県
 Rootage,DRUNK MONKY,1006,HEIPON,長崎県,1558,HEIPON,長崎県,2182,STEAK,長崎県
 Rootage,Drastic Dramatic,1530,HEIPON,長崎県,2367,HEIPON,長崎県,3388,STEAK,長崎県
 Rootage,Dr. Chemical & Killing Machine,1098,HEIPON,長崎県,1842,HEIPON,長崎県,3245,STEAK,長崎県
@@ -1265,7 +1265,7 @@ Rootage,Carmina,1267,HEIPON,長崎県,2321,HEIPON,長崎県,3503,STEAK,長崎県
 Rootage,BLOSSOM,1078,HEIPON,長崎県,1631,TAU,長崎県,2463,STEAK,長崎県
 Rootage,Angels & Demons,902,HEIPON,長崎県,1711,HEIPON,長崎県,2411,STEAK,長崎県
 Rootage,AGAiN,1010,HEIPON,長崎県,1570,HEIPON,長崎県,2258,STEAK,長崎県
-Rootage,A Tale Hidden In The Abyss,929,HEIPON,長崎県,1691,HEIPON,長崎県,2543,AK-12,長崎県
+Rootage,A Tale Hidden In The Abyss,929,HEIPON,長崎県,1691,HEIPON,長崎県,2548,STEAK,長崎県
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1220,HEIPON,長崎県,1600,TAU,長崎県,2582,STEAK,長崎県
 Rootage,50th Memorial Songs -The BEMANI History-,1056,HEIPON,長崎県,1638,HEIPON,長崎県,2508,HEIPON,長崎県
 Rootage,50th Memorial Songs -Flagship medley-,931,HEIPON,長崎県,1452,TAU,長崎県,2183,HEIPON,長崎県
