@@ -1,7 +1,7 @@
 バージョン,タイトル,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県
 1st&substream,THE EARTH LIGHT,0,,未設定,243,TAKEZO,フィリピン,1124,BURDAC,フィリピン
 1st&substream,RUGGED ASH†,0,,未設定,0,,未設定,1999,BURDAC,フィリピン
-1st&substream,RUGGED ASH,156,RAN06,フィリピン,389,SIMANO,フィリピン,1054,BURDAC,フィリピン
+1st&substream,RUGGED ASH,156,RAN06,フィリピン,389,SIMANO,フィリピン,1078,BURDAC,フィリピン
 1st&substream,R3,344,YUKARI,フィリピン,706,SIMANO,フィリピン,883,BURDAC,フィリピン
 1st&substream,PARANOIA MAX～DIRTY MIX～,526,IKISGI,フィリピン,718,283.,フィリピン,1050,GOMBO3,フィリピン
 1st&substream,Macho Gang,288,!CCC!,フィリピン,320,00000,フィリピン,1556,BURDAC,フィリピン
@@ -112,7 +112,7 @@
 7th style,Burning Heat! (Full Option Mix),384,CROSS,フィリピン,518,ZURA,フィリピン,1433,BURDAC,フィリピン
 7th style,Bad Routine,688,PAZOOK,フィリピン,998,TJBA01,フィリピン,1891,BURDAC,フィリピン
 7th style,AVE DE RAPINA,818,KEI,フィリピン,1272,AAAAAA,フィリピン,1791,BURDAC,フィリピン
-7th style,A,781,KEI,フィリピン,1848,#TA-K,フィリピン,2371,BURDAC,フィリピン
+7th style,A,1108,WANI,フィリピン,1848,#TA-K,フィリピン,2371,BURDAC,フィリピン
 8th style,蒼い衝動,450,96,フィリピン,1188,!CCC!,フィリピン,1561,BURDAC,フィリピン
 8th style,桜,860,777,フィリピン,1318,#TA-K,フィリピン,2013,BURDAC,フィリピン
 8th style,xenon,909,TJBA01,フィリピン,1554,TEN,フィリピン,2652,BURDAC,フィリピン
@@ -136,7 +136,7 @@
 8th style,dual control,361,TLCOCK,フィリピン,1119,R5,フィリピン,1780,BURDAC,フィリピン
 8th style,Colors -Y&Co. Eurobeat Remix-,954,TJBA01,フィリピン,1879,AMURO,フィリピン,2139,BURDAC,フィリピン
 8th style,CELEBRATE NITE,854,!CCC!,フィリピン,934,TJBA01,フィリピン,1362,BURDAC,フィリピン
-8th style,Blame,1071,!CCC!,フィリピン,1246,!CCC!,フィリピン,1883,KATT.,フィリピン
+8th style,Blame,1071,!CCC!,フィリピン,1435,SUNCOI,フィリピン,1883,KATT.,フィリピン
 8th style,bit mania,0,,未設定,1173,!CCC!,フィリピン,1849,BURDAC,フィリピン
 8th style,Attitude,876,R5,フィリピン,1211,!CCC!,フィリピン,1688,BURDAC,フィリピン
 8th style,ALL RIGHT,481,RAIN,フィリピン,931,AKARIN,フィリピン,1556,BURDAC,フィリピン
@@ -145,12 +145,12 @@
 9th style,真夏の花・真夏の夢,344,TOMAS,フィリピン,835,AAAAAA,フィリピン,1427,BURDAC,フィリピン
 9th style,ライオン好き,248,FREYA,フィリピン,864,GRANT,フィリピン,1472,BURDAC,フィリピン
 9th style,SWEETEST SAVAGE,0,,未設定,1300,283.,フィリピン,1777,MIFFY,フィリピン
-9th style,Sweet Sweet Magic,975,MIFFY,フィリピン,1454,SUNCOI,フィリピン,1999,BURDAC,フィリピン
+9th style,Sweet Sweet Magic,975,MIFFY,フィリピン,1454,SUNCOI,フィリピン,2031,BURDAC,フィリピン
 9th style,STAR FIELD,230,IONOS,フィリピン,1159,AKARIN,フィリピン,1815,BURDAC,フィリピン
 9th style,SNOW,0,,未設定,881,AKARIN,フィリピン,1975,BURDAC,フィリピン
 9th style,Silvia Drive,0,,未設定,1480,SUNCOI,フィリピン,1997,BURDAC,フィリピン
 9th style,rottel-the-Mercury,571,RAIN,フィリピン,1798,GOMBO3,フィリピン,2226,BURDAC,フィリピン
-9th style,RISLIM -Remix-,0,,未設定,0,,未設定,1824,BURDAC,フィリピン
+9th style,RISLIM -Remix-,0,,未設定,637,MAX301,フィリピン,1824,BURDAC,フィリピン
 9th style,Really Love,446,00000,フィリピン,925,MIFFY,フィリピン,1696,KATT.,フィリピン
 9th style,Quickening,555,RENIER,フィリピン,1434,SIMANO,フィリピン,2047,BURDAC,フィリピン
 9th style,quasar,892,XYZ,フィリピン,1726,GOMBO3,フィリピン,2251,BURDAC,フィリピン
@@ -163,10 +163,10 @@
 9th style,lights,0,,未設定,0,,未設定,1736,BURDAC,フィリピン
 9th style,Let The Snow Paint Me -Y&Co. Remix-,0,,未設定,531,JOPS?!,フィリピン,1768,BURDAC,フィリピン
 9th style,Karma,0,,未設定,1538,SKAR,フィリピン,1783,KATT.,フィリピン
-9th style,I Was The One (80's EUROBEAT STYLE),0,,未設定,1302,GOMBO3,フィリピン,1413,BURDAC,フィリピン
+9th style,I Was The One (80's EUROBEAT STYLE),0,,未設定,1302,GOMBO3,フィリピン,1418,BURDAC,フィリピン
 9th style,HYPER EUROBEAT (2DX style),0,,未設定,1257,SONIC,フィリピン,1833,BURDAC,フィリピン
 9th style,Golden Horn,186,CASIO,フィリピン,1161,AMURO,フィリピン,1426,MUTSU,フィリピン
-9th style,e-motion 2003 -romantic extra-,0,,未設定,1061,AKARIN,フィリピン,1943,BURDAC,フィリピン
+9th style,e-motion 2003 -romantic extra-,0,,未設定,1512,AMURO,フィリピン,1943,BURDAC,フィリピン
 9th style,Distress,1081,RAPTOR,フィリピン,1733,MUTSU,フィリピン,0,,未設定
 9th style,Cradle,0,,未設定,1307,!CCC!,フィリピン,1555,BURDAC,フィリピン
 9th style,BRIGHTNESS DARKNESS,364,RAN06,フィリピン,1280,SIMANO,フィリピン,1710,BURDAC,フィリピン
@@ -188,15 +188,15 @@
 10th style,Lucy,0,,未設定,1716,SUNCOI,フィリピン,2273,BURDAC,フィリピン
 10th style,LOW,0,,未設定,907,AKARIN,フィリピン,1679,BURDAC,フィリピン
 10th style,Love Is Eternity,953,AAAAAA,フィリピン,1831,SUNCOI,フィリピン,2318,BURDAC,フィリピン
-10th style,Innocent Walls,1481,DENRYU,フィリピン,2369,BURDAC,フィリピン,2623,BURDAC,フィリピン
+10th style,Innocent Walls,1481,DENRYU,フィリピン,2394,BURDAC,フィリピン,2623,BURDAC,フィリピン
 10th style,HIGH,478,NOSP,フィリピン,1762,#TA-K,フィリピン,2075,HINHIN,フィリピン
-10th style,GRADIUS -FULL SPEED-,341,FRNCS,フィリピン,971,WANI,フィリピン,1967,MIFFY,フィリピン
+10th style,GRADIUS -FULL SPEED-,341,FRNCS,フィリピン,979,WANI,フィリピン,1967,MIFFY,フィリピン
 10th style,GHOST REVIVAL,0,,未設定,1134,OKIN.N,フィリピン,2477,BURDAC,フィリピン
-10th style,Freezing atmosphere,0,,未設定,0,,未設定,1446,KATT.,フィリピン
+10th style,Freezing atmosphere,0,,未設定,867,SIMANO,フィリピン,1446,KATT.,フィリピン
 10th style,FEEL IT,767,OKIN.N,フィリピン,1618,BURDAC,フィリピン,1868,TOKIIN,フィリピン
 10th style,Feedback,0,,未設定,0,,未設定,1862,BURDAC,フィリピン
 10th style,EXE,409,CROSS,フィリピン,1328,!CCC!,フィリピン,2207,BURDAC,フィリピン
-10th style,DoLL,715,BLITZ,フィリピン,832,ORCA,フィリピン,1603,WRIST,フィリピン
+10th style,DoLL,715,BLITZ,フィリピン,1141,SIMANO,フィリピン,1603,WRIST,フィリピン
 10th style,desolation,188,RAN06,フィリピン,0,,未設定,737,BURDAC,フィリピン
 10th style,Debtty Daddy,0,,未設定,1697,DENRYU,フィリピン,2635,BURDAC,フィリピン
 10th style,Daisuke,1120,SUNCOI,フィリピン,1634,GOMBO3,フィリピン,2352,BURDAC,フィリピン
@@ -233,7 +233,7 @@ IIDX RED,earth scape,393,KATU0,フィリピン,1025,BURDAC,フィリピン,1248,
 IIDX RED,Don't be afraid myself,540,DANCHA,フィリピン,1743,AMURO,フィリピン,2223,BURDAC,フィリピン
 IIDX RED,D.A.N.C.E.!,256,TOMAS,フィリピン,781,PAIZRY,フィリピン,1552,BURDAC,フィリピン
 IIDX RED,Close my Eyes for Me,0,,未設定,812,00000,フィリピン,1802,WRIST,フィリピン
-IIDX RED,Click Again,0,,未設定,0,,未設定,1997,BURDAC,フィリピン
+IIDX RED,Click Again,0,,未設定,0,,未設定,2066,BURDAC,フィリピン
 IIDX RED,BREATH,752,SIMANO,フィリピン,745,96,フィリピン,1662,BURDAC,フィリピン
 IIDX RED,BLOCKS,810,MIFFY,フィリピン,1202,SUNCOI,フィリピン,1869,KATT.,フィリピン
 IIDX RED,Be quiet,777,10SYO,フィリピン,1545,TEN,フィリピン,2153,BURDAC,フィリピン
@@ -241,7 +241,7 @@ IIDX RED,awakening,513,FNL.S.,フィリピン,1103,JOPS?!,フィリピン,1653,B
 IIDX RED,ANDROMEDA,478,FRNCS,フィリピン,1663,#TA-K,フィリピン,2787,BURDAC,フィリピン
 IIDX RED,AGEHA,718,JASPER,フィリピン,1652,SUNCOI,フィリピン,1849,BURDAC,フィリピン
 IIDX RED,AA,1013,00000,フィリピン,2640,MAYAMA,フィリピン,3517,KATT.,フィリピン
-HAPPY SKY,月光,823,WANI,フィリピン,1643,SUNCOI,フィリピン,2356,BR-G26,フィリピン
+HAPPY SKY,月光,823,WANI,フィリピン,1643,SUNCOI,フィリピン,2390,BURDAC,フィリピン
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),501,SYNOOI,フィリピン,1408,RAPTOR,フィリピン,1872,BURDAC,フィリピン
 HAPPY SKY,冥,1005,SIMANO,フィリピン,1848,.2COLE,フィリピン,3608,4ZUE-F,フィリピン
 HAPPY SKY,ラクエン,0,,未設定,871,WANI,フィリピン,1935,BURDAC,フィリピン
@@ -249,17 +249,17 @@ HAPPY SKY,ヒマワリ,341,BUDDY,フィリピン,1702,ZEKKU*,フィリピン,203
 HAPPY SKY,オレはビートマニア！お前は何マニア？,592,AKARIN,フィリピン,1100,AAAAAA,フィリピン,1621,BURDAC,フィリピン
 HAPPY SKY,Xepher,1040,ZG-240,フィリピン,1912,ZEKKU*,フィリピン,2919,BURDAC,フィリピン
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,未設定,886,NANA$Y,フィリピン,1650,BURDAC,フィリピン
-HAPPY SKY,Votum stellarum,325,SYNOOI,フィリピン,969,TJBA01,フィリピン,1907,BURDAC,フィリピン
+HAPPY SKY,Votum stellarum,437,SYNOOI,フィリピン,969,TJBA01,フィリピン,1907,BURDAC,フィリピン
 HAPPY SKY,vault of heaven,436,FRNCS,フィリピン,1197,!CCC!,フィリピン,1955,BURDAC,フィリピン
 HAPPY SKY,Under the Sky,766,TJBA01,フィリピン,1345,SUNCOI,フィリピン,1716,BURDAC,フィリピン
 HAPPY SKY,Twelfth Style,619,*TORI*,フィリピン,1254,!CCC!,フィリピン,1961,BURDAC,フィリピン
 HAPPY SKY,Tizona d'El Cid,847,!CCC!,フィリピン,1630,RAPTOR,フィリピン,2264,BURDAC,フィリピン
-HAPPY SKY,SigSig,997,NANA$Y,フィリピン,1582,MU4-!?,フィリピン,2553,BURDAC,フィリピン
+HAPPY SKY,SigSig,997,NANA$Y,フィリピン,1582,MU4-!?,フィリピン,2559,BURDAC,フィリピン
 HAPPY SKY,Scripted Connection⇒ N mix,1129,777,フィリピン,1408,RAPTOR,フィリピン,2061,BURDAC,フィリピン
 HAPPY SKY,Scripted Connection⇒ H mix,1514,MIFFY,フィリピン,1782,TEN,フィリピン,2428,BURDAC,フィリピン
 HAPPY SKY,Scripted Connection⇒ A mix,1613,HINHIN,フィリピン,1974,TEN,フィリピン,2958,NON,フィリピン
 HAPPY SKY,SCREAM SQUAD,0,,未設定,1445,DENRYU,フィリピン,1954,BURDAC,フィリピン
-HAPPY SKY,rage against usual,0,,未設定,1868,TEN,フィリピン,2808,4ZUE-F,フィリピン
+HAPPY SKY,rage against usual,0,,未設定,1868,TEN,フィリピン,2834,BURDAC,フィリピン
 HAPPY SKY,POODLE,583,MONIKA,フィリピン,1736,ZEKKU*,フィリピン,2262,BURDAC,フィリピン
 HAPPY SKY,Pollinosis,266,00000,フィリピン,983,R5,フィリピン,2400,BURDAC,フィリピン
 HAPPY SKY,PLASMA,0,,未設定,1297,!CCC!,フィリピン,2225,BURDAC,フィリピン
@@ -267,7 +267,7 @@ HAPPY SKY,Pink Rose,332,UNT,フィリピン,940,MIFFY,フィリピン,1387,BURDA
 HAPPY SKY,MOON RACE,0,,未設定,767,TAKEZO,フィリピン,1854,BURDAC,フィリピン
 HAPPY SKY,Love Magic,0,,未設定,1554,#TA-K,フィリピン,1882,BURDAC,フィリピン
 HAPPY SKY,Little Little Princess†,0,,未設定,0,,未設定,3708,BURDAC,フィリピン
-HAPPY SKY,Little Little Princess,900,00000,フィリピン,2037,TEN,フィリピン,2718,BURDAC,フィリピン
+HAPPY SKY,Little Little Princess,900,00000,フィリピン,2037,TEN,フィリピン,2741,BURDAC,フィリピン
 HAPPY SKY,LESSON 5,0,,未設定,1376,AKIRA,フィリピン,2436,BURDAC,フィリピン
 HAPPY SKY,INAZUMA,1073,BC,フィリピン,1666,TEN,フィリピン,2625,KATT.,フィリピン
 HAPPY SKY,in motion,521,CROSS,フィリピン,499,RAIN,フィリピン,1284,MUTSU,フィリピン
@@ -283,7 +283,7 @@ HAPPY SKY,Catch Me,0,,未設定,955,GOBOW*,フィリピン,1748,MIFFY,フィリ�
 HAPPY SKY,CaptivAte～浄化～,0,,未設定,1597,SIMANO,フィリピン,2418,BURDAC,フィリピン
 HAPPY SKY,Aurora,1154,YUKARI,フィリピン,1891,2MUGI,フィリピン,2493,BURDAC,フィリピン
 HAPPY SKY,alla turca con passione,755,DENRYU,フィリピン,1440,#TA-K,フィリピン,2122,BURDAC,フィリピン
-HAPPY SKY,Agnus Dei,217,ZGPTCH,フィリピン,1560,TEN,フィリピン,1944,BURDAC,フィリピン
+HAPPY SKY,Agnus Dei,263,AAAAAA,フィリピン,1560,TEN,フィリピン,1944,BURDAC,フィリピン
 HAPPY SKY,100％ minimoo-G,0,,未設定,1479,TEN,フィリピン,1671,BURDAC,フィリピン
 DistorteD,虹色,556,MIZUHR,フィリピン,1427,NANA$Y,フィリピン,1791,SUNCOI,フィリピン
 DistorteD,華蝶風雪,998,TJBA01,フィリピン,1963,TEN,フィリピン,2938,BURDAC,フィリピン
@@ -293,10 +293,10 @@ DistorteD,タシカナモノ,604,SIL80,フィリピン,1108,A,フィリピン,20
 DistorteD,カゴノトリ～弐式～,989,!CCC!,フィリピン,1800,SUNCOI,フィリピン,2545,KATT.,フィリピン
 DistorteD,Zenius -I- vanisher,607,*TORI*,フィリピン,1495,GOMBO3,フィリピン,2321,BURDAC,フィリピン
 DistorteD,with you…,0,,未設定,0,,未設定,1748,BURDAC,フィリピン
-DistorteD,WISH(EUROBEAT MIX),0,,未設定,1337,!CCC!,フィリピン,1923,BURDAC,フィリピン
+DistorteD,WISH(EUROBEAT MIX),388,SYNOOI,フィリピン,1337,!CCC!,フィリピン,1923,BURDAC,フィリピン
 DistorteD,Why did you go away,0,,未設定,1570,!CCC!,フィリピン,2258,BURDAC,フィリピン
 DistorteD,waxing and wanding†,0,,未設定,0,,未設定,3843,4ZUE-F,フィリピン
-DistorteD,waxing and wanding,1201,!CCC!,フィリピン,1849,TEN,フィリピン,2856,BURDAC,フィリピン
+DistorteD,waxing and wanding,1201,!CCC!,フィリピン,1871,*241,フィリピン,2856,BURDAC,フィリピン
 DistorteD,TYPE MARS(G-Style Mix),447,FENIX7,フィリピン,1400,SR-OUI,フィリピン,2342,BURDAC,フィリピン
 DistorteD,tripping contact(teranoid&MC Natsack Remix),669,AAAAAA,フィリピン,1715,TEN,フィリピン,2417,BURDAC,フィリピン
 DistorteD,This is Love,0,,未設定,1348,RENIER,フィリピン,2427,MIFFY,フィリピン
@@ -320,7 +320,7 @@ DistorteD,CONTRACT†,0,,未設定,0,,未設定,2672,BURDAC,フィリピン
 DistorteD,CONTRACT,1131,WANI,フィリピン,1608,UNAGI.,フィリピン,2007,BURDAC,フィリピン
 DistorteD,Concertino in Blue,808,SIMANO,フィリピン,1280,SIMANO,フィリピン,2375,BURDAC,フィリピン
 DistorteD,Broadbanded,754,00000,フィリピン,1286,283.,フィリピン,1929,4ZUE-F,フィリピン
-DistorteD,BOOM BOOM DISCO NIGHT,0,,未設定,1705,SUNCOI,フィリピン,2226,KATT.,フィリピン
+DistorteD,BOOM BOOM DISCO NIGHT,519,SYNOOI,フィリピン,1705,SUNCOI,フィリピン,2226,KATT.,フィリピン
 DistorteD,Bloody Tears(IIDX EDITION),683,BETIA,フィリピン,1765,RAPTOR,フィリピン,2148,BURDAC,フィリピン
 DistorteD,BALLAD THE FEATHERS,398,CROSS,フィリピン,634,KEI,フィリピン,1500,BURDAC,フィリピン
 DistorteD,Apocalypse ～dirge of swans～,974,HINHIN,フィリピン,1715,SUNCOI,フィリピン,2343,BURDAC,フィリピン
@@ -414,7 +414,7 @@ DJ TROOPERS,Digitank System,696,DR0ID!,フィリピン,1502,KATT.,フィリピ�
 DJ TROOPERS,Dazzlin' Darlin,682,DR0ID!,フィリピン,1382,MIFFY,フィリピン,2202,BURDAC,フィリピン
 DJ TROOPERS,Darling my LUV,348,96,フィリピン,249,96,フィリピン,1357,BURDAC,フィリピン
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3213,4ZUE-F,フィリピン
-DJ TROOPERS,Blue Rain,835,777,フィリピン,1518,SUNCOI,フィリピン,2189,KATT.,フィリピン
+DJ TROOPERS,Blue Rain,835,777,フィリピン,1551,NON,フィリピン,2189,KATT.,フィリピン
 DJ TROOPERS,beatonic nation,758,ZURA,フィリピン,1776,SUNCOI,フィリピン,2115,BURDAC,フィリピン
 DJ TROOPERS,Be OK,0,,未設定,1221,AKARIN,フィリピン,2367,BURDAC,フィリピン
 DJ TROOPERS,avant-guerre,603,00000,フィリピン,1336,MIFFY,フィリピン,1855,KATT.,フィリピン
@@ -467,7 +467,7 @@ EMPRESS,Bahram Attack-猫叉Master Remix-,0,,未設定,1840,TEN,フィリピン,
 EMPRESS,B4U(BEMANI FOR YOU MIX)†,0,,未設定,0,,未設定,4370,BURDAC,フィリピン
 EMPRESS,B4U(BEMANI FOR YOU MIX),1083,!CCC!,フィリピン,2113,283.,フィリピン,3420,BURDAC,フィリピン
 EMPRESS,Arabian Rave Night,845,KEI,フィリピン,2146,.2COLE,フィリピン,2858,KATT.,フィリピン
-EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,681,ZG-240,フィリピン,1536,IKISGI,フィリピン,2490,BURDAC,フィリピン
+EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,745,MAX301,フィリピン,1536,IKISGI,フィリピン,2490,BURDAC,フィリピン
 EMPRESS,ALL I NEED YOUR LOVE,782,TAKUM!,フィリピン,1540,TEN,フィリピン,2030,BURDAC,フィリピン
 EMPRESS,3y3s,1350,2MUGI,フィリピン,2215,ZBD,フィリピン,3360,BURDAC,フィリピン
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,未設定,1422,MIFFY,フィリピン,2014,BURDAC,フィリピン
@@ -496,7 +496,7 @@ SIRIUS,NEW SENSATION -もう、あなたしか見えない-,998,00000,フィリ�
 SIRIUS,mosaic,1382,SIMANO,フィリピン,2000,SUNCOI,フィリピン,2968,BURDAC,フィリピン
 SIRIUS,MIRACLE MEETS,645,JIN*,フィリピン,1463,MAYAMA,フィリピン,2139,BURDAC,フィリピン
 SIRIUS,Light Shine,679,TJBA01,フィリピン,1114,SUNCOI,フィリピン,1878,UNAGI.,フィリピン
-SIRIUS,Last Burning,512,SYNOOI,フィリピン,1496,RAPTOR,フィリピン,2277,BURDAC,フィリピン
+SIRIUS,Last Burning,570,SYNOOI,フィリピン,1496,RAPTOR,フィリピン,2277,BURDAC,フィリピン
 SIRIUS,Keep it-秋葉工房mix-,425,MIZUHR,フィリピン,1563,SUNCOI,フィリピン,1804,BURDAC,フィリピン
 SIRIUS,IN THE NAME OF LOVE,474,FNL.S.,フィリピン,1353,SUNCOI,フィリピン,1907,BURDAC,フィリピン
 SIRIUS,Hydrogen Blueback,272,SYNOOI,フィリピン,1481,RAPTOR,フィリピン,2238,BURDAC,フィリピン
@@ -520,7 +520,7 @@ SIRIUS,being torn the sky,406,96,フィリピン,856,AKARIN,フィリピン,1958
 SIRIUS,BEAUTIFUL ANGEL,0,,未設定,1614,WANI,フィリピン,2434,BURDAC,フィリピン
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,未設定,1433,!CCC!,フィリピン,1982,BURDAC,フィリピン
 SIRIUS,bass 2 bass,497,TONSVS,フィリピン,1209,SUNCOI,フィリピン,1771,HINHIN,フィリピン
-SIRIUS,Bad Maniacs,1158,RAPTOR,フィリピン,1850,NON,フィリピン,3120,BURDAC,フィリピン
+SIRIUS,Bad Maniacs,1158,RAPTOR,フィリピン,1850,NON,フィリピン,3126,BURDAC,フィリピン
 SIRIUS,Almagest,917,A,フィリピン,2109,BURDAC,フィリピン,3017,NON,フィリピン
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1080,GOBOW*,フィリピン,1498,JOBJET,フィリピン,2245,KATT.,フィリピン
 Resort Anthem,黒髪乱れし修羅となりて,511,YUKARI,フィリピン,1872,WANI,フィリピン,3349,BURDAC,フィリピン
@@ -551,7 +551,7 @@ Resort Anthem,Sakura Reflection,448,!CCC!,フィリピン,1528,POCOPS,フィリ�
 Resort Anthem,SABER WING,514,JOBJET,フィリピン,1773,BURDAC,フィリピン,2724,KATT.,フィリピン
 Resort Anthem,Rock Da House,729,NOVAPH,フィリピン,1534,TEN,フィリピン,2184,BURDAC,フィリピン
 Resort Anthem,reunion,1109,-NARU-,フィリピン,2337,BURDAC,フィリピン,3119,NON,フィリピン
-Resort Anthem,Programmed Life,742,KEI,フィリピン,1699,SUNCOI,フィリピン,2323,BURDAC,フィリピン
+Resort Anthem,Programmed Life,816,ORCA,フィリピン,1699,SUNCOI,フィリピン,2323,BURDAC,フィリピン
 Resort Anthem,perditus†paradisus,1022,AAAAAA,フィリピン,2426,NON,フィリピン,3691,4ZUE-F,フィリピン
 Resort Anthem,passionate fate,965,GOBOW*,フィリピン,1499,283.,フィリピン,2072,BURDAC,フィリピン
 Resort Anthem,PARADISE LOST,1271,RAPTOR,フィリピン,2238,BURDAC,フィリピン,3164,BURDAC,フィリピン
@@ -580,7 +580,7 @@ Resort Anthem,BLUST OF WIND,627,ORCA,フィリピン,1254,!CCC!,フィリピン,
 Resort Anthem,Believe In Me,841,777,フィリピン,1630,TEN,フィリピン,2297,BURDAC,フィリピン
 Resort Anthem,ANTHEM LANDING,701,AAAAAA,フィリピン,1868,HINHIN,フィリピン,2895,BURDAC,フィリピン
 Resort Anthem,Answer,476,MONIKA,フィリピン,1206,ESPADA,フィリピン,2344,BURDAC,フィリピン
-Resort Anthem,ALBIDA,908,00000,フィリピン,1664,JOBJET,フィリピン,2923,BURDAC,フィリピン
+Resort Anthem,ALBIDA,908,00000,フィリピン,1664,JOBJET,フィリピン,2924,BURDAC,フィリピン
 Resort Anthem,Aegis,812,SUNCOI,フィリピン,1247,MIFFY,フィリピン,2264,BURDAC,フィリピン
 Lincle,陽炎,535,00000,フィリピン,1047,!CCC!,フィリピン,1947,BURDAC,フィリピン
 Lincle,衰色小町メランコリア,763,HINHIN,フィリピン,1378,SUNCOI,フィリピン,2299,BURDAC,フィリピン
@@ -600,7 +600,7 @@ Lincle,WONDER WALKER,904,GOBOW*,フィリピン,1840,*241,フィリピン,3673,B
 Lincle,Voxane,0,,未設定,1208,GOMBO3,フィリピン,1718,BURDAC,フィリピン
 Lincle,Todestrieb,1011,GOBOW*,フィリピン,1830,HANBTO,フィリピン,3334,BURDAC,フィリピン
 Lincle,TITANS RETURN,0,,未設定,1211,DR0ID!,フィリピン,2425,BURDAC,フィリピン
-Lincle,Thunderbolt,479,96,フィリピン,1865,MIFFY,フィリピン,3647,BURDAC,フィリピン
+Lincle,Thunderbolt,648,SYNOOI,フィリピン,1865,MIFFY,フィリピン,3685,BURDAC,フィリピン
 Lincle,The Sampling Paradise,644,KEITA,フィリピン,1685,TEN,フィリピン,2886,BURDAC,フィリピン
 Lincle,The Limbo,1,00000,フィリピン,1913,SUNCOI,フィリピン,3234,BURDAC,フィリピン
 Lincle,Star Trail,632,BURDAC,フィリピン,1174,GOMBO3,フィリピン,1823,BURDAC,フィリピン
@@ -668,7 +668,7 @@ tricoro,カジノファイヤーことみちゃん,421,JASPER,フィリピン,10
 tricoro,アストライアの双皿,566,00000,フィリピン,1647,YUKARI,フィリピン,3044,BURDAC,フィリピン
 tricoro,たまゆら,1125,SIMANO,フィリピン,1803,UNAGI.,フィリピン,2721,BURDAC,フィリピン
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,657,JASPER,フィリピン,1269,GOBOW*,フィリピン,2144,BURDAC,フィリピン
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),388,FNL.S.,フィリピン,1544,#TA-K,フィリピン,3387,BURDAC,フィリピン
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),388,FNL.S.,フィリピン,1544,#TA-K,フィリピン,3402,BURDAC,フィリピン
 tricoro,ΕΛΠΙΣ,1040,GOBOW*,フィリピン,1920,2MUGI,フィリピン,3064,BURDAC,フィリピン
 tricoro,Zirkfied,612,00000,フィリピン,1976,GOMBO3,フィリピン,3611,KATT.,フィリピン
 tricoro,ZED,756,ORCA,フィリピン,1581,RAPTOR,フィリピン,2690,BURDAC,フィリピン
@@ -679,12 +679,12 @@ tricoro,Valanga,1236,WANI,フィリピン,2015,4ZUE-F,フィリピン,3159,BURDA
 tricoro,True Blue,971,GOBOW*,フィリピン,2338,PETER,フィリピン,3647,BURDAC,フィリピン
 tricoro,To my star,0,,未設定,992,JIRO,フィリピン,1726,BURDAC,フィリピン
 tricoro,Timepiece phase II (CN Ver.),919,SIMANO,フィリピン,1653,TEN,フィリピン,2764,BURDAC,フィリピン
-tricoro,Timepiece phase II,0,,未設定,2073,MAT.N2,フィリピン,3039,4ZUE-F,フィリピン
-tricoro,Time To Empress,677,JIKYEO,フィリピン,1758,TOKIIN,フィリピン,2560,BURDAC,フィリピン
-tricoro,Thor's Hammer,758,00000,フィリピン,1625,*241,フィリピン,2887,BURDAC,フィリピン
+tricoro,Timepiece phase II,0,,未設定,2073,MAT.N2,フィリピン,3085,BURDAC,フィリピン
+tricoro,Time To Empress,677,JIKYEO,フィリピン,1758,TOKIIN,フィリピン,2561,BURDAC,フィリピン
+tricoro,Thor's Hammer,758,00000,フィリピン,1625,*241,フィリピン,2921,BURDAC,フィリピン
 tricoro,Take My Life,430,96,フィリピン,1367,RENIER,フィリピン,2887,BURDAC,フィリピン
 tricoro,Synergy For Angels,696,CROSS,フィリピン,1615,SUNCOI,フィリピン,2719,BURDAC,フィリピン
-tricoro,SYNC-ANTHEM,0,,未設定,2287,TEN,フィリピン,3582,BURDAC,フィリピン
+tricoro,SYNC-ANTHEM,554,SYNOOI,フィリピン,2287,TEN,フィリピン,3582,BURDAC,フィリピン
 tricoro,STULTI,748,GOMBO3,フィリピン,1354,RAPTOR,フィリピン,2560,C0NPEY,フィリピン
 tricoro,Sol Cosine Job 2,719,RAIN,フィリピン,1444,SKAR,フィリピン,3031,BURDAC,フィリピン
 tricoro,SHION,573,ORCA,フィリピン,1276,GOMBO3,フィリピン,2666,BURDAC,フィリピン
@@ -692,10 +692,10 @@ tricoro,Shining World,744,96,フィリピン,1553,SUNCOI,フィリピン,1916,BU
 tricoro,Saturn,1083,AAAAAA,フィリピン,1942,UNAGI.,フィリピン,2525,BURDAC,フィリピン
 tricoro,S!ck,738,KEITA,フィリピン,1409,SIMANO,フィリピン,2631,BURDAC,フィリピン
 tricoro,rumrum triplets,0,,未設定,1804,EL-FIE,フィリピン,2950,BURDAC,フィリピン
-tricoro,Re:GENERATION,460,96,フィリピン,1481,SUNCOI,フィリピン,2189,BURDAC,フィリピン
+tricoro,Re:GENERATION,682,ORCA,フィリピン,1481,SUNCOI,フィリピン,2189,BURDAC,フィリピン
 tricoro,Rainbow after snow,672,GRANT,フィリピン,1453,SUNCOI,フィリピン,2146,BURDAC,フィリピン
 tricoro,Proof of the existence,1162,MAYAMA,フィリピン,1927,TEN,フィリピン,3101,BURDAC,フィリピン
-tricoro,Praludium,0,,未設定,1126,AAAAAA,フィリピン,2232,BURDAC,フィリピン
+tricoro,Praludium,0,,未設定,1248,SR-OUI,フィリピン,2232,BURDAC,フィリピン
 tricoro,POINT ZERO,489,K*DIA,フィリピン,931,AZMACS,フィリピン,2022,BURDAC,フィリピン
 tricoro,planarian,428,FRNCS,フィリピン,1275,K*DIA,フィリピン,2512,BURDAC,フィリピン
 tricoro,Plan 8,1145,SIMANO,フィリピン,1955,POCOPS,フィリピン,2962,KATT.,フィリピン
@@ -706,7 +706,7 @@ tricoro,Neonlights,415,96,フィリピン,1448,BDK,フィリピン,2169,BURDAC,�
 tricoro,mnemoniq,0,,未設定,880,SIMANO,フィリピン,1274,BURDAC,フィリピン
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2680,BURDAC,フィリピン
 tricoro,LUV CAN SAVE U,566,BC,フィリピン,1341,RAPTOR,フィリピン,2086,BURDAC,フィリピン
-tricoro,Little Star,894,83WA25,フィリピン,1658,SUNCOI,フィリピン,3056,BURDAC,フィリピン
+tricoro,Little Star,894,83WA25,フィリピン,1658,SUNCOI,フィリピン,3064,BURDAC,フィリピン
 tricoro,Light and Cyber…,768,96,フィリピン,1884,HANBTO,フィリピン,3053,BURDAC,フィリピン
 tricoro,Liberation,1471,SUNCOI,フィリピン,2289,GOMBO3,フィリピン,3581,KATT.,フィリピン
 tricoro,JOMANDA,809,FUMIKA,フィリピン,2237,.8Q-GU,フィリピン,3463,BURDAC,フィリピン
@@ -718,7 +718,7 @@ tricoro,Howling†,0,,未設定,0,,未設定,2602,BURDAC,フィリピン
 tricoro,Howling,537,SIMANO,フィリピン,1282,SUNCOI,フィリピン,2027,BURDAC,フィリピン
 tricoro,Hollywood Galaxy,514,TLCOCK,フィリピン,1940,TEN,フィリピン,2621,BURDAC,フィリピン
 tricoro,GRADIUS 2012,0,,未設定,1504,ZEKKU*,フィリピン,2581,BURDAC,フィリピン
-tricoro,GAIA,780,CROSS,フィリピン,1991,WANI,フィリピン,3205,BURDAC,フィリピン
+tricoro,GAIA,780,CROSS,フィリピン,1991,WANI,フィリピン,3225,BURDAC,フィリピン
 tricoro,Fly you to the star,689,JIRO,フィリピン,1564,SUNCOI,フィリピン,2227,BURDAC,フィリピン
 tricoro,FLOWER,1096,SIMANO,フィリピン,1769,MIFFY,フィリピン,2807,BURDAC,フィリピン
 tricoro,examination leave,780,JIN*,フィリピン,1860,U-81,フィリピン,3326,BURDAC,フィリピン
@@ -734,8 +734,8 @@ tricoro,BLUE STRAGGLER,483,MONIKA,フィリピン,1059,FOOL,フィリピン,2496
 tricoro,Beastie Starter,338,4RANUI,フィリピン,1275,HINHIN,フィリピン,2053,KATT.,フィリピン
 tricoro,Ascalon,786,TOYO,フィリピン,1578,GOBOW*,フィリピン,2267,BURDAC,フィリピン
 tricoro,8bit Princess,473,LPRK,フィリピン,1369,BR-G26,フィリピン,2589,BURDAC,フィリピン
-tricoro,405nm (Ryu☆mix),812,GOBOW*,フィリピン,1645,*241,フィリピン,2461,BURDAC,フィリピン
-SPADA,轟け！恋のビーンボール！！,970,SUNCOI,フィリピン,1748,#TA-K,フィリピン,3376,BURDAC,フィリピン
+tricoro,405nm (Ryu☆mix),812,GOBOW*,フィリピン,1649,AMURO,フィリピン,2461,BURDAC,フィリピン
+SPADA,轟け！恋のビーンボール！！,970,SUNCOI,フィリピン,1764,AAAAAA,フィリピン,3376,BURDAC,フィリピン
 SPADA,超!!遠距離らぶメ～ル,457,FNL.S.,フィリピン,1445,SUNCOI,フィリピン,2578,BURDAC,フィリピン
 SPADA,罪と罰,993,SKAR,フィリピン,1367,GOMBO3,フィリピン,2097,BR-G26,フィリピン
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3222,4ZUE-F,フィリピン
@@ -743,7 +743,7 @@ SPADA,疾風迅雷,1031,!CCC!,フィリピン,2013,GOMBO3,フィリピン,2798,B
 SPADA,牧神笛吹きて,0,,未設定,861,UNT,フィリピン,2019,BURDAC,フィリピン
 SPADA,煉獄のエルフェリア,1228,RENIER,フィリピン,2211,POCOPS,フィリピン,3686,BURDAC,フィリピン
 SPADA,海神,1109,GOMBO3,フィリピン,1958,MU4-!?,フィリピン,3033,BURDAC,フィリピン
-SPADA,旋律のドグマ～Miserables～,1023,1,フィリピン,2285,2MUGI,フィリピン,3806,BURDAC,フィリピン
+SPADA,旋律のドグマ～Miserables～,1023,1,フィリピン,2363,*241,フィリピン,3806,BURDAC,フィリピン
 SPADA,廿†,0,,未設定,0,,未設定,3142,BURDAC,フィリピン
 SPADA,廿,720,CROSS,フィリピン,1365,RAPTOR,フィリピン,2232,MIFFY,フィリピン
 SPADA,幻想系世界修復少女,373,FNL.S.,フィリピン,1048,!CCC!,フィリピン,1949,BURDAC,フィリピン
@@ -770,9 +770,9 @@ SPADA,rainbow guitar weeps,0,,未設定,1821,MIFFY,フィリピン,2679,BURDAC,�
 SPADA,ra'am,1002,R5,フィリピン,1537,#TA-K,フィリピン,2632,BURDAC,フィリピン
 SPADA,PUNISHER,819,TAKUM!,フィリピン,1931,TEN,フィリピン,3516,BURDAC,フィリピン
 SPADA,Pharaoh,0,,未設定,1233,SKAR,フィリピン,2417,BURDAC,フィリピン
-SPADA,Overload Frontier,407,FENIX7,フィリピン,1577,WANI,フィリピン,2492,BURDAC,フィリピン
+SPADA,Overload Frontier,542,MAX301,フィリピン,1577,WANI,フィリピン,2492,BURDAC,フィリピン
 SPADA,Odin,463,FRNCS,フィリピン,152,G59,フィリピン,2027,BURDAC,フィリピン
-SPADA,NPC World,423,96,フィリピン,1348,!CCC!,フィリピン,2213,BURDAC,フィリピン
+SPADA,NPC World,657,ORCA,フィリピン,1348,!CCC!,フィリピン,2213,BURDAC,フィリピン
 SPADA,Miracle 5ympho X,639,CROSS,フィリピン,1289,SUNCOI,フィリピン,2517,BURDAC,フィリピン
 SPADA,MAGIC & LOVE,788,CROSS,フィリピン,1810,SUNCOI,フィリピン,2856,BURDAC,フィリピン
 SPADA,MAD ATTACK,323,TOMAS,フィリピン,991,GOBOW*,フィリピン,1923,MIFFY,フィリピン
@@ -796,9 +796,9 @@ SPADA,Hypersonik,542,FENIX7,フィリピン,1582,WANI,フィリピン,2469,BURDA
 SPADA,HYENA,890,DAN,フィリピン,1776,DENRYU,フィリピン,2746,BURDAC,フィリピン
 SPADA,Funny shuffle,528,AKARIN,フィリピン,1113,GOMBO3,フィリピン,2221,BURDAC,フィリピン
 SPADA,Feel The Beat†LEGGENDARIA,0,,未設定,0,,未設定,4196,BURDAC,フィリピン
-SPADA,Feel The Beat,1179,SUNCOI,フィリピン,1957,HANBTO,フィリピン,3398,BURDAC,フィリピン
+SPADA,Feel The Beat,1179,SUNCOI,フィリピン,1957,HANBTO,フィリピン,3425,BURDAC,フィリピン
 SPADA,EXTREME MACH COLLIDER,0,,未設定,1310,RAPTOR,フィリピン,2474,BURDAC,フィリピン
-SPADA,Engraved Mark,488,SYNOOI,フィリピン,1106,!CCC!,フィリピン,2322,BURDAC,フィリピン
+SPADA,Engraved Mark,520,SYNOOI,フィリピン,1106,!CCC!,フィリピン,2322,BURDAC,フィリピン
 SPADA,Element of SPADA,615,00000,フィリピン,1291,4ZUE-F,フィリピン,2061,BURDAC,フィリピン
 SPADA,Elektrick U-Phoria,879,CROSS,フィリピン,1696,WANI,フィリピン,3031,BURDAC,フィリピン
 SPADA,diagram,525,00000,フィリピン,1172,!CCC!,フィリピン,2766,BURDAC,フィリピン
@@ -812,7 +812,7 @@ SPADA,Cleopatrysm,495,TONSVS,フィリピン,1228,YUKARI,フィリピン,2503,BU
 SPADA,Claiomh Solais,263,MUSTY*,フィリピン,899,-NARU-,フィリピン,2054,BURDAC,フィリピン
 SPADA,BRAVE OUT,1012,SATSU4,フィリピン,1294,R5,フィリピン,2090,BURDAC,フィリピン
 SPADA,BRAINSTORM,250,MIGGOY,フィリピン,1873,SUNCOI,フィリピン,2713,KATT.,フィリピン
-SPADA,BLUE DRAGON(雷龍RemixIIDX),1299,IIDX25,フィリピン,1935,WANI,フィリピン,3263,BURDAC,フィリピン
+SPADA,BLUE DRAGON(雷龍RemixIIDX),1299,IIDX25,フィリピン,1967,*241,フィリピン,3263,BURDAC,フィリピン
 SPADA,Atropos,743,PAZOOK,フィリピン,1263,ZG-240,フィリピン,2270,BURDAC,フィリピン
 SPADA,ATHER,740,KEI,フィリピン,1497,*241,フィリピン,2741,BURDAC,フィリピン
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4123,BURDAC,フィリピン
@@ -840,14 +840,14 @@ PENDUAL,共鳴遊戯の華,1196,RENIER,フィリピン,2417,MIFFY,フィリピ�
 PENDUAL,リリーゼと炎龍レーヴァテイン,762,KEITA,フィリピン,2231,MUTSU,フィリピン,3354,BURDAC,フィリピン
 PENDUAL,ベィスドロップ・フリークス,567,AAAAAA,フィリピン,1245,GOMBO3,フィリピン,2170,BURDAC,フィリピン
 PENDUAL,パ→ピ→プ→Yeah!,894,777,フィリピン,1516,SUNCOI,フィリピン,2486,BURDAC,フィリピン
-PENDUAL,ドッキン☆サマーあばんちゅーる,801,JASPER,フィリピン,1740,GOMBO3,フィリピン,2727,BURDAC,フィリピン
+PENDUAL,ドッキン☆サマーあばんちゅーる,801,JASPER,フィリピン,1740,GOMBO3,フィリピン,2773,BURDAC,フィリピン
 PENDUAL,もっと！モット！ときめき feat. 松下,718,JASPER,フィリピン,1823,HANBTO,フィリピン,2601,BURDAC,フィリピン
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,未設定,1315,GOBOW*,フィリピン,2510,BURDAC,フィリピン
 PENDUAL,とろぴかる倶楽部,0,,未設定,1287,GGGGGG,フィリピン,2201,MIFFY,フィリピン
 PENDUAL,それは花火のような恋,1102,00000,フィリピン,2427,GOMBO3,フィリピン,3812,BURDAC,フィリピン
 PENDUAL,ZZ,680,96,フィリピン,1878,283.,フィリピン,2954,BURDAC,フィリピン
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,779,CROSS,フィリピン,2172,GOMBO3,フィリピン,3568,BURDAC,フィリピン
-PENDUAL,Vulkan,0,,未設定,1818,SKAR,フィリピン,2954,KATT.,フィリピン
+PENDUAL,Vulkan,607,SYNOOI,フィリピン,1818,SKAR,フィリピン,2954,KATT.,フィリピン
 PENDUAL,TOXIC VIBRATION,1315,00000,フィリピン,2212,*241,フィリピン,3623,4ZUE-F,フィリピン
 PENDUAL,TIEFSEE,838,SIL80,フィリピン,2060,GOMBO3,フィリピン,3374,BURDAC,フィリピン
 PENDUAL,The Least 100sec,755,SIMANO,フィリピン,1347,SIMANO,フィリピン,2790,BURDAC,フィリピン
@@ -895,7 +895,7 @@ PENDUAL,Despair of ELFERIA,989,00000,フィリピン,2267,UNAGI.,フィリピン
 PENDUAL,Cosmic Cat†,0,,未設定,0,,未設定,3138,BURDAC,フィリピン
 PENDUAL,Cosmic Cat,683,DAN,フィリピン,1469,RAPTOR,フィリピン,2233,BURDAC,フィリピン
 PENDUAL,COLOSSEUM,341,96,フィリピン,1183,SUNCOI,フィリピン,2232,BURDAC,フィリピン
-PENDUAL,cinder,0,,未設定,1804,SKAR,フィリピン,3036,4ZUE-F,フィリピン
+PENDUAL,cinder,0,,未設定,1804,SKAR,フィリピン,3066,BURDAC,フィリピン
 PENDUAL,Chronos,434,KEITA,フィリピン,1264,NANA$Y,フィリピン,2276,BURDAC,フィリピン
 PENDUAL,Chrono Diver -PENDULUMs-,1358,SUNCOI,フィリピン,2644,KATT.,フィリピン,4187,4ZUE-F,フィリピン
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4226,BURDAC,フィリピン
@@ -910,9 +910,9 @@ PENDUAL,Beyond The Earth,0,,未設定,1806,ZEKKU*,フィリピン,3083,BURDAC,�
 PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3513,BURDAC,フィリピン
 PENDUAL,Beat Radiance,616,FENIX7,フィリピン,1471,2MUGI,フィリピン,2604,BURDAC,フィリピン
 PENDUAL,Amnolys,0,,未設定,1341,TAKEZO,フィリピン,2572,BURDAC,フィリピン
-PENDUAL,AFRO KNUCKLE,313,WANI,フィリピン,1699,GOMBO3,フィリピン,2361,KATT.,フィリピン
+PENDUAL,AFRO KNUCKLE,476,SYNOOI,フィリピン,1699,GOMBO3,フィリピン,2361,KATT.,フィリピン
 PENDUAL,#The_Relentless,810,CROSS,フィリピン,1865,2MUGI,フィリピン,2840,BURDAC,フィリピン
-copula,麗 ～うらら～,809,BBB#,フィリピン,1721,BR-G26,フィリピン,2552,BURDAC,フィリピン
+copula,麗 ～うらら～,809,BBB#,フィリピン,1721,BR-G26,フィリピン,2573,BURDAC,フィリピン
 copula,駅猫のワルツ,1066,SIMANO,フィリピン,2050,MIFFY,フィリピン,2686,BURDAC,フィリピン
 copula,量子の海のリントヴルム,704,GOBOW*,フィリピン,1629,RAPTOR,フィリピン,2864,4ZUE-F,フィリピン
 copula,追想快晴テーマパーク,1016,1,フィリピン,2048,GOMBO3,フィリピン,3011,BURDAC,フィリピン
@@ -939,9 +939,9 @@ copula,Uh-Oh,785,JAE,フィリピン,1362,YUI,フィリピン,2324,KATT.,フィ�
 copula,Triple Counter,1238,!CCC!,フィリピン,2075,TEN,フィリピン,3816,BURDAC,フィリピン
 copula,Transport,446,96,フィリピン,1213,DENDY,フィリピン,2100,BURDAC,フィリピン
 copula,Tori-no-kimochi,259,BURDAC,フィリピン,1254,UNAGI.,フィリピン,1936,BURDAC,フィリピン
-copula,SURVIVOR,280,96,フィリピン,1200,SUNCOI,フィリピン,1976,BURDAC,フィリピン
+copula,SURVIVOR,383,T4K0,フィリピン,1200,SUNCOI,フィリピン,1976,BURDAC,フィリピン
 copula,Super Duper Racers,309,SAM,フィリピン,1469,SIMOUN,フィリピン,2260,BURDAC,フィリピン
-copula,StrayedCatz,806,KEI,フィリピン,1931,NON,フィリピン,2737,BURDAC,フィリピン
+copula,StrayedCatz,806,KEI,フィリピン,1931,NON,フィリピン,2772,BURDAC,フィリピン
 copula,STARLIGHT DANCEHALL†,0,,未設定,0,,未設定,3227,BURDAC,フィリピン
 copula,STARLIGHT DANCEHALL,1173,WANI,フィリピン,1691,283.,フィリピン,2589,BURDAC,フィリピン
 copula,STARLiGHT,798,CROSS,フィリピン,1588,RENIER,フィリピン,2698,KATT.,フィリピン
@@ -979,7 +979,7 @@ copula,GET READY!!,640,RAIN,フィリピン,1439,WANI,フィリピン,2501,BURDA
 copula,GENERATE feat.綾倉盟,747,FENIX7,フィリピン,1677,SUNCOI,フィリピン,2294,BURDAC,フィリピン
 copula,Exchange Place,455,CROSS,フィリピン,1088,WANI,フィリピン,1725,BURDAC,フィリピン
 copula,Everlasting Last,464,FENIX7,フィリピン,1542,SUNCOI,フィリピン,2161,BURDAC,フィリピン
-copula,Dynamite,1136,777,フィリピン,2337,UNAGI.,フィリピン,3642,BURDAC,フィリピン
+copula,Dynamite,1136,777,フィリピン,2337,UNAGI.,フィリピン,3649,BURDAC,フィリピン
 copula,Donkey Donk,637,96,フィリピン,1523,DENRYU,フィリピン,2180,BURDAC,フィリピン
 copula,do the thing feat. Kanae Asaba,391,96,フィリピン,1273,RAPTOR,フィリピン,2214,KATT.,フィリピン
 copula,DIAMOND CROSSING,807,DAN,フィリピン,1694,HINHIN,フィリピン,2950,NON,フィリピン
@@ -1002,15 +1002,15 @@ copula,199024club -Re:BounceKiller-,601,777,フィリピン,1526,UNAGI.,フィ�
 SINOBUZ,鴉,1279,GOBOW*,フィリピン,2172,UNAGI.,フィリピン,2652,BURDAC,フィリピン
 SINOBUZ,童話回廊,690,TAKUM!,フィリピン,1494,ZBD,フィリピン,3026,BURDAC,フィリピン
 SINOBUZ,禍根,453,RYDEN,フィリピン,1238,RAPTOR,フィリピン,2513,BURDAC,フィリピン
-SINOBUZ,獅子霞麗ノ舞,352,FENIX7,フィリピン,628,MU4-!?,フィリピン,1686,BURDAC,フィリピン
-SINOBUZ,焔極OVERKILL,1035,777,フィリピン,1955,UNAGI.,フィリピン,3423,BURDAC,フィリピン
+SINOBUZ,獅子霞麗ノ舞,352,FENIX7,フィリピン,628,MU4-!?,フィリピン,1716,BURDAC,フィリピン
+SINOBUZ,焔極OVERKILL,1039,R5,フィリピン,1955,UNAGI.,フィリピン,3423,BURDAC,フィリピン
 SINOBUZ,炎影,465,RAIN,フィリピン,1266,TEN,フィリピン,2513,BURDAC,フィリピン
 SINOBUZ,津軽雪,1439,SUNCOI,フィリピン,2111,SUNCOI,フィリピン,3710,BURDAC,フィリピン
 SINOBUZ,次葉 -turn the page-,602,PILE*,フィリピン,1393,GOMBO3,フィリピン,1972,BURDAC,フィリピン
 SINOBUZ,月雪に舞う華のように,686,GRANT,フィリピン,926,00000,フィリピン,2052,BURDAC,フィリピン
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,628,MIZUHR,フィリピン,1449,SUNCOI,フィリピン,2426,BURDAC,フィリピン
 SINOBUZ,忍恋花,635,*TORI*,フィリピン,1478,#TA-K,フィリピン,2168,BURDAC,フィリピン
-SINOBUZ,刃図羅,893,PAZOOK,フィリピン,1989,UNAGI.,フィリピン,3303,BURDAC,フィリピン
+SINOBUZ,刃図羅,893,PAZOOK,フィリピン,1989,UNAGI.,フィリピン,3313,BURDAC,フィリピン
 SINOBUZ,冬椿 ft. Kanae Asaba†,0,,未設定,0,,未設定,2973,BURDAC,フィリピン
 SINOBUZ,冬椿 ft. Kanae Asaba,732,96,フィリピン,1199,MIFFY,フィリピン,2237,BURDAC,フィリピン
 SINOBUZ,九尾狐夜行,0,,未設定,1395,GOBOW*,フィリピン,2865,BURDAC,フィリピン
@@ -1030,7 +1030,7 @@ SINOBUZ,TOGAKUSHI,757,TJBA01,フィリピン,1726,POCOPS,フィリピン,2455,BU
 SINOBUZ,The Commanders,920,SUNCOI,フィリピン,1490,GOMBO3,フィリピン,2399,BR-G26,フィリピン
 SINOBUZ,Sweet Clapper,481,GRANT,フィリピン,1218,SUNCOI,フィリピン,1892,UNAGI.,フィリピン
 SINOBUZ,Super Rush,811,CROSS,フィリピン,1764,RAPTOR,フィリピン,3447,BURDAC,フィリピン
-SINOBUZ,Summerlights(IIDX Edition),867,CROSS,フィリピン,1768,GOMBO3,フィリピン,3007,BURDAC,フィリピン
+SINOBUZ,Summerlights(IIDX Edition),867,CROSS,フィリピン,1768,GOMBO3,フィリピン,3015,BURDAC,フィリピン
 SINOBUZ,Summer,432,CROSS,フィリピン,1375,GOMBO3,フィリピン,1926,BURDAC,フィリピン
 SINOBUZ,Steel Edge,770,CROSS,フィリピン,1416,GOMBO3,フィリピン,3054,BURDAC,フィリピン
 SINOBUZ,Snakey Kung-fu,1079,SIMANO,フィリピン,2102,GOMBO3,フィリピン,3303,KATT.,フィリピン
@@ -1060,7 +1060,7 @@ SINOBUZ,nostos,822,TEN,フィリピン,1125,GRIZZ,フィリピン,2512,BURDAC,�
 SINOBUZ,Music is The Answer,555,CROSS,フィリピン,1214,EL-FIE,フィリピン,1829,BURDAC,フィリピン
 SINOBUZ,Modular Technology,698,*TORI*,フィリピン,1684,283.,フィリピン,2562,BURDAC,フィリピン
 SINOBUZ,Mare Nectaris,1387,4ZUE-F,フィリピン,2058,KATT.,フィリピン,3651,4ZUE-F,フィリピン
-SINOBUZ,Magical,679,CROSS,フィリピン,1040,00000,フィリピン,1959,BURDAC,フィリピン
+SINOBUZ,Magical,679,CROSS,フィリピン,1040,00000,フィリピン,1969,BURDAC,フィリピン
 SINOBUZ,Macuilxochitl,1338,RAPTOR,フィリピン,2049,PETER,フィリピン,3231,BURDAC,フィリピン
 SINOBUZ,Lost wing at.0,376,96,フィリピン,1224,RAPTOR,フィリピン,2381,BURDAC,フィリピン
 SINOBUZ,INVISIBLE STRIX,625,RAIN,フィリピン,1951,.8Q-GU,フィリピン,2527,BURDAC,フィリピン
@@ -1092,7 +1092,7 @@ SINOBUZ,Apocalypse,1035,OKIN.N,フィリピン,2015,.2COLE,フィリピン,3469,
 SINOBUZ,AO-∞,921,IIDX25,フィリピン,1508,MIFFY,フィリピン,2491,BURDAC,フィリピン
 SINOBUZ,Amazing Mirage†,0,,未設定,0,,未設定,3154,BURDAC,フィリピン
 SINOBUZ,Amazing Mirage,590,TAKUM!,フィリピン,1643,HANBTO,フィリピン,2567,BURDAC,フィリピン
-SINOBUZ,Affection,369,CASIO,フィリピン,1111,BDK,フィリピン,2035,BURDAC,フィリピン
+SINOBUZ,Affection,369,CASIO,フィリピン,1111,BDK,フィリピン,2036,BURDAC,フィリピン
 SINOBUZ,(This Is Not) The Angels,585,.8Q-GU,フィリピン,1202,*774#,フィリピン,2588,KATT.,フィリピン
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,1073,SKAR,フィリピン,1950,MIFFY,フィリピン,3326,BURDAC,フィリピン
 SINOBUZ,!Viva!,673,TJBA01,フィリピン,1543,GOMBO3,フィリピン,1948,BURDAC,フィリピン
@@ -1142,7 +1142,7 @@ CANNON BALLERS,Mira,513,FRNCS,フィリピン,1604,DENRYU,フィリピン,2974,B
 CANNON BALLERS,Midnight Lady,386,SYNOOI,フィリピン,815,PAZOOK,フィリピン,1912,BURDAC,フィリピン
 CANNON BALLERS,LUV DRIVE,588,FABSAB,フィリピン,1164,!CCC!,フィリピン,2075,MIFFY,フィリピン
 CANNON BALLERS,LIGHTS ft. EVO+,0,,未設定,0,,未設定,2302,BURDAC,フィリピン
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",996,00000,フィリピン,1686,RAPTOR,フィリピン,3348,BURDAC,フィリピン
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",996,00000,フィリピン,1686,RAPTOR,フィリピン,3353,BURDAC,フィリピン
 CANNON BALLERS,Initiation,1381,RAPTOR,フィリピン,2208,2MUGI,フィリピン,3793,BURDAC,フィリピン
 CANNON BALLERS,Illusionary Waterlily,0,,未設定,1976,HANBTO,フィリピン,3350,KATT.,フィリピン
 CANNON BALLERS,I'm Coming (2017 Version),480,CROSS,フィリピン,1053,UNT,フィリピン,2042,BURDAC,フィリピン
@@ -1162,7 +1162,7 @@ CANNON BALLERS,encounter,0,,未設定,1749,MIFFY,フィリピン,3178,BURDAC,フ
 CANNON BALLERS,EMERALDAS,1243,MAYAMA,フィリピン,2344,BURDAC,フィリピン,3327,BURDAC,フィリピン
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,未設定,755,96,フィリピン,2473,BURDAC,フィリピン
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1272,R5,フィリピン,2287,UNAGI.,フィリピン,3825,BURDAC,フィリピン
-CANNON BALLERS,DEADHEAT,1044,HIMI,フィリピン,1851,283.,フィリピン,3215,BURDAC,フィリピン
+CANNON BALLERS,DEADHEAT,1044,HIMI,フィリピン,1851,283.,フィリピン,3224,BURDAC,フィリピン
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,323,ICCHAN,フィリピン,1375,SUNCOI,フィリピン,2063,BURDAC,フィリピン
 CANNON BALLERS,City Never Sleeps (IIDX Edition),1198,WANI,フィリピン,1836,.2COLE,フィリピン,2603,BURDAC,フィリピン
 CANNON BALLERS,Chemical Cookie,764,777,フィリピン,1379,SUNCOI,フィリピン,2082,BURDAC,フィリピン
@@ -1194,7 +1194,7 @@ Rootage,花冠 feat.Aikapin,786,TOKIIN,フィリピン,1551,.8Q-GU,フィリピ�
 Rootage,爆ゼニ☆がってんワーカー,1222,MUTSU,フィリピン,1801,UNAGI.,フィリピン,2635,KATT.,フィリピン
 Rootage,抱きしめてモナムール,1287,MUTSU,フィリピン,2218,SUNCOI,フィリピン,4008,BURDAC,フィリピン
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,672,WANI,フィリピン,1513,MIFFY,フィリピン,2518,BURDAC,フィリピン
-Rootage,ミストレス・アンに花束を,398,CROSS,フィリピン,937,"",フィリピン,1415,BURDAC,フィリピン
+Rootage,ミストレス・アンに花束を,540,SIMANO,フィリピン,937,"",フィリピン,1415,BURDAC,フィリピン
 Rootage,ハードベース・フェスタ,1019,GOMBO3,フィリピン,1747,UNAGI.,フィリピン,2795,BURDAC,フィリピン
 Rootage,セカンドピアス,581,MU4-!?,フィリピン,1071,MIFFY,フィリピン,1991,BURDAC,フィリピン
 Rootage,サクラあっぱれーしょん,606,MU4-!?,フィリピン,1483,SUNCOI,フィリピン,2273,BURDAC,フィリピン
@@ -1240,7 +1240,7 @@ Rootage,Level One,1112,777,フィリピン,2224,MOMO,フィリピン,3233,KATT.,
 Rootage,Let me be your cure,1063,GOBOW*,フィリピン,1405,4ZUE-F,フィリピン,2620,BURDAC,フィリピン
 Rootage,LADYBIRD,1077,MUTSU,フィリピン,1576,MUTSU,フィリピン,2373,BURDAC,フィリピン
 Rootage,L.F.O,821,SIMANO,フィリピン,1726,MUTSU,フィリピン,3224,BURDAC,フィリピン
-Rootage,KILL EACH OTHER,1350,SIMANO,フィリピン,2372,BURDAC,フィリピン,3691,BURDAC,フィリピン
+Rootage,KILL EACH OTHER,1350,SIMANO,フィリピン,2372,BURDAC,フィリピン,3713,BURDAC,フィリピン
 Rootage,IDOL syndrome.,748,SIMANO,フィリピン,1395,"",フィリピン,2154,BURDAC,フィリピン
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),984,GGGGGG,フィリピン,1474,MAYAMA,フィリピン,2040,KATT.,フィリピン
 Rootage,Hurry Hurry,712,ZG-240,フィリピン,1001,SUNCOI,フィリピン,2051,BR-G26,フィリピン
