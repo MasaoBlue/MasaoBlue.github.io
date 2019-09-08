@@ -8,7 +8,7 @@
 1st&substream,KEEP ON MOVIN',196,L200MP,愛知県,244,TAKE-7,愛知県,0,,未設定
 1st&substream,GRADIUSIC CYBER,857,CID*,愛知県,990,MONO,愛知県,1196,KUREI,愛知県
 1st&substream,GENOM SCREAMS,408,TMR089,愛知県,825,MONO,愛知県,1070,KUREI,愛知県
-1st&substream,GAMBOL,274,LIA.S,愛知県,274,TMR089,愛知県,0,,未設定
+1st&substream,GAMBOL,274,EMILIA,愛知県,274,TMR089,愛知県,0,,未設定
 1st&substream,Dr.LOVE,400,TMR089,愛知県,520,MONO,愛知県,576,RKS-32,愛知県
 1st&substream,deep in you,486,CID*,愛知県,506,MONO,愛知県,662,PEACE,愛知県
 1st&substream,5.1.1.,198,CID*,愛知県,1020,MONO,愛知県,1568,PEACE,愛知県
@@ -21,7 +21,7 @@
 2nd style,Digital MinD(A/T Libra mix),724,TMR089,愛知県,1060,MONO,愛知県,1119,PURIN,愛知県
 2nd style,.59,704,CID*,愛知県,1020,MONO,愛知県,1154,UNA-10,愛知県
 3rd style,THE SAFARI,1193,CID*,愛知県,1780,PEACE,愛知県,0,,未設定
-3rd style,Tangerine Stream,282,TMR089,愛知県,396,LIA.S,愛知県,0,,未設定
+3rd style,Tangerine Stream,282,TMR089,愛知県,396,EMILIA,愛知県,0,,未設定
 3rd style,Skyscraper,720,TMR089,愛知県,1204,MONO,愛知県,1251,PEACE,愛知県
 3rd style,Schlagwerk,814,TMR089,愛知県,1309,MONO,愛知県,1677,RKS-32,愛知県
 3rd style,REINCARNATION,834,TMR089,愛知県,1035,MONO,愛知県,1284,PEACE,愛知県
@@ -36,9 +36,9 @@
 4th style,ULTRA HIGH-HEELS,717,MO-ZE.,愛知県,916,MONO,愛知県,986,NA!,愛知県
 4th style,SWEET LAB,544,TMR089,愛知県,977,MONO,愛知県,1357,RKS-32,愛知県
 4th style,starmine,894,TMR089,愛知県,1426,MONO,愛知県,1590,PEACE,愛知県
-4th style,Mr.T.(take me higher),838,TMR089,愛知県,1014,MONO,愛知県,1766,PEACE,愛知県
+4th style,Mr.T.(take me higher),838,TMR089,愛知県,1014,MONO,愛知県,1772,PEACE,愛知県
 4th style,minimalian,531,YORIHA,愛知県,1094,MONO,愛知県,1408,PEACE,愛知県
-4th style,LOVE WILL・・・,554,LIA.S,愛知県,757,MONO,愛知県,1460,KUREI,愛知県
+4th style,LOVE WILL・・・,554,EMILIA,愛知県,757,MONO,愛知県,1460,KUREI,愛知県
 4th style,KAMIKAZE,1011,TMR089,愛知県,1474,MONO,愛知県,2306,PEACE,愛知県
 4th style,Jam&Marmalade,753,RAI.S,愛知県,909,MONO,愛知県,1018,PEACE,愛知県
 4th style,Hitch Hiker2,788,ABQ26R,愛知県,1196,MONO,愛知県,1322,RKS-32,愛知県
@@ -60,7 +60,7 @@
 5th style,THE SHINING POLARIS,926,XION,愛知県,1311,MONO,愛知県,1592,PEACE,愛知県
 5th style,THE CUBE,703,*MYU*,愛知県,1277,MONO,愛知県,1357,KUREI,愛知県
 5th style,sync,1044,KMOT-1,愛知県,1934,MONO,愛知県,2394,PEACE,愛知県
-5th style,still my words,903,RAI.S,愛知県,1232,PEACE,愛知県,0,,未設定
+5th style,still my words,903,RAI.S,愛知県,1234,PEACE,愛知県,0,,未設定
 5th style,STILL IN MY HEART,968,MO-ZE.,愛知県,1367,MONO,愛知県,1925,RKS-32,愛知県
 5th style,Spin the disc,790,TMR089,愛知県,1293,MONO,愛知県,1342,PEACE,愛知県
 5th style,RISLIM,911,TMR089,愛知県,1239,ANJU11,愛知県,0,,未設定
@@ -94,11 +94,11 @@
 6th style,BALLAD FOR YOU～想いの雨～,586,TMR089,愛知県,772,MONO,愛知県,1074,PEACE,愛知県
 6th style,"19,November",1082,XION,愛知県,1450,MONO,愛知県,1806,PEACE,愛知県
 7th style,革命,742,WAYA,愛知県,1913,PURIN,愛知県,2341,PEACE,愛知県
-7th style,ZERO-ONE,921,RAIGA,愛知県,1690,MONO,愛知県,2248,PEACE,愛知県
+7th style,ZERO-ONE,921,RAIGA,愛知県,1690,MONO,愛知県,2250,PEACE,愛知県
 7th style,traces,1480,UNYO,愛知県,1908,MONO,愛知県,2148,PEACE,愛知県
 7th style,Tomorrow Perfume,1265,MO-ZE.,愛知県,1903,MONO,愛知県,2157,PEACE,愛知県
 7th style,stoic,1657,87KING,愛知県,2405,HELPME,愛知県,2556,RKS-32,愛知県
-7th style,Spica,651,HISUI.,愛知県,1507,ANJU11,愛知県,2251,PEACE,愛知県
+7th style,Spica,651,HISUI.,愛知県,1513,NA!,愛知県,2251,PEACE,愛知県
 7th style,MAX 300,1121,RIS.BN,愛知県,1944,PEACE,愛知県,0,,未設定
 7th style,Love Me Do,1123,87KING,愛知県,1701,MONO,愛知県,2109,NA!,愛知県
 7th style,Let the Snow Paint Me,840,CID*,愛知県,1059,MONO,愛知県,1245,RIS.BN,愛知県
@@ -130,7 +130,7 @@
 8th style,Luv 2 Feel Your Body,845,KENT,愛知県,1060,MONO,愛知県,1667,PEACE,愛知県
 8th style,LOVE IS ORANGE,739,ALFRED,愛知県,1033,MONO,愛知県,1801,PEACE,愛知県
 8th style,LAB,1057,KIGURE,愛知県,2005,87KING,愛知県,2128,PEACE,愛知県
-8th style,HYPER BOUNDARY GATE,1241,TMR089,愛知県,1921,MONO,愛知県,2204,RIS.BN,愛知県
+8th style,HYPER BOUNDARY GATE,1269,DEVI-3,愛知県,1921,MONO,愛知県,2204,RIS.BN,愛知県
 8th style,Halfway of promise,946,TMR089,愛知県,1519,ALPACA,愛知県,1840,PEACE,愛知県
 8th style,Giudecca,890,TMR089,愛知県,1936,MONO,愛知県,2705,PEACE,愛知県
 8th style,dual control,747,MO-ZE.,愛知県,1465,PURIN,愛知県,1897,PEACE,愛知県
@@ -158,7 +158,7 @@
 9th style,moon_child,1034,TMR089,愛知県,1981,PURIN,愛知県,2538,RKS-32,愛知県
 9th style,MARIA (I believe... ),706,MO-ZE.,愛知県,1569,MONO,愛知県,1959,UNA-10,愛知県
 9th style,Make A Difference,832,MO-ZE.,愛知県,1586,MONO,愛知県,2259,UNA-10,愛知県
-9th style,lower world,1321,TAKPOP,愛知県,1907,HELPME,愛知県,2267,PEACE,愛知県
+9th style,lower world,1321,TAKPOP,愛知県,1907,HELPME,愛知県,2268,PEACE,愛知県
 9th style,LOVE SHINE,849,CID*,愛知県,1835,MONO,愛知県,2077,AKKY*,愛知県
 9th style,lights,700,TMR089,愛知県,1454,MONO,愛知県,1802,PEACE,愛知県
 9th style,Let The Snow Paint Me -Y&Co. Remix-,808,CAESAR,愛知県,1274,MONO,愛知県,1814,KUREI,愛知県
@@ -170,7 +170,7 @@
 9th style,Distress,1293,CID*,愛知県,1841,KUREI,愛知県,0,,未設定
 9th style,Cradle,885,APPLE*,愛知県,1477,AA-HDA,愛知県,1594,RKS-32,愛知県
 9th style,BRIGHTNESS DARKNESS,726,87KING,愛知県,1464,87KING,愛知県,1769,ANJU11,愛知県
-9th style,bag,870,MO-ZE.,愛知県,1223,MONO,愛知県,1906,KUREI,愛知県
+9th style,bag,870,MO-ZE.,愛知県,1223,MONO,愛知県,1918,PEACE,愛知県
 9th style,BAD BOY BASS!! (dj Remo-con MIX),889,CECIL,愛知県,1401,VIOLET,愛知県,1810,PEACE,愛知県
 9th style,ATOMIC AGE,364,MOCCOS,愛知県,671,4177NS,愛知県,1321,PEACE,愛知県
 9th style,ACT,1028,MO-ZE.,愛知県,1715,PEACE,愛知県,1858,KUREI,愛知県
@@ -193,7 +193,7 @@
 10th style,GRADIUS -FULL SPEED-,749,PEACE,愛知県,1241,KUREI,愛知県,2109,RKS-32,愛知県
 10th style,GHOST REVIVAL,889,MO-ZE.,愛知県,2025,MONO,愛知県,2583,PEACE,愛知県
 10th style,Freezing atmosphere,809,RKS-32,愛知県,1129,MONO,愛知県,1512,PEACE,愛知県
-10th style,FEEL IT,923,LIA.S,愛知県,1663,PERS,愛知県,2000,PEACE,愛知県
+10th style,FEEL IT,923,EMILIA,愛知県,1663,PERS,愛知県,2000,PEACE,愛知県
 10th style,Feedback,1035,MO-ZE.,愛知県,1589,MONO,愛知県,1970,PEACE,愛知県
 10th style,EXE,843,MO-ZE.,愛知県,1624,MONO,愛知県,2253,PEACE,愛知県
 10th style,DoLL,932,TMR089,愛知県,1244,MONO,愛知県,1620,UNA-10,愛知県
@@ -213,7 +213,7 @@ IIDX RED,大桟橋,486,TMR089,愛知県,1144,MONO,愛知県,1847,UNA-10,愛知�
 IIDX RED,ピアノ協奏曲第１番”蠍火”,780,CECIL,愛知県,2129,PURIN,愛知県,2656,UNA-10,愛知県
 IIDX RED,Wonder Bullfighter,927,MO-ZE.,愛知県,1431,MONO,愛知県,2059,PEACE,愛知県
 IIDX RED,The Hope of Tomorrow,1039,CID*,愛知県,1669,ALPACA,愛知県,1964,PEACE,愛知県
-IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3769,PEACE,愛知県
+IIDX RED,spiral galaxy†,0,,未設定,0,,未設定,3790,RKS-32,愛知県
 IIDX RED,spiral galaxy,1055,ABQ26R,愛知県,2054,MONO,愛知県,2604,PEACE,愛知県
 IIDX RED,Sphere,1040,MO-ZE.,愛知県,1912,MONO,愛知県,2204,RKS-32,愛知県
 IIDX RED,SPEEDY CAT,1118,TMR089,愛知県,1698,MONO,愛知県,2033,NA!,愛知県
@@ -234,13 +234,13 @@ IIDX RED,Don't be afraid myself,1084,TMR089,愛知県,1870,HELPME,愛知県,2288
 IIDX RED,D.A.N.C.E.!,576,YORIHA,愛知県,834,MONO,愛知県,1640,PEACE,愛知県
 IIDX RED,Close my Eyes for Me,1027,ALPACA,愛知県,1448,ALPACA,愛知県,1837,PEACE,愛知県
 IIDX RED,Click Again,846,MO-ZE.,愛知県,1448,MONO,愛知県,2152,PEACE,愛知県
-IIDX RED,BREATH,901,02564!,愛知県,1311,MONO,愛知県,1732,RKS-32,愛知県
+IIDX RED,BREATH,901,02564!,愛知県,1311,MONO,愛知県,1737,PEACE,愛知県
 IIDX RED,BLOCKS,812,YORIHA,愛知県,1301,MONO,愛知県,1986,KUREI,愛知県
 IIDX RED,Be quiet,1030,MCK2,愛知県,1735,HELPME,愛知県,2215,PEACE,愛知県
 IIDX RED,awakening,1061,MO-ZE.,愛知県,1467,MONO,愛知県,1719,PEACE,愛知県
 IIDX RED,ANDROMEDA,995,TMR089,愛知県,1923,MONO,愛知県,2888,RKS-32,愛知県
 IIDX RED,AGEHA,1053,YORIHA,愛知県,1741,MONO,愛知県,1885,KUREI,愛知県
-IIDX RED,AA,1243,RAI.S,愛知県,2719,HELPME,愛知県,3619,RKS-32,愛知県
+IIDX RED,AA,1243,RAI.S,愛知県,2719,HELPME,愛知県,3620,RKS-32,愛知県
 HAPPY SKY,月光,862,XION,愛知県,1771,HELPME,愛知県,2462,NA!,愛知県
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),1078,ABQ26R,愛知県,1555,87KING,愛知県,1931,PEACE,愛知県
 HAPPY SKY,冥,1070,KIGURE,愛知県,2128,HELPME,愛知県,3797,RKS-32,愛知県
@@ -313,7 +313,7 @@ DistorteD,Heavenly Sun (IIDX VERSION),808,MO-ZE.,愛知県,1593,MONO,愛知県,2
 DistorteD,Harmony and Lovely,897,TMR089,愛知県,1772,MONO,愛知県,2250,PEACE,愛知県
 DistorteD,Ganymede,1088,TMR089,愛知県,1738,PEACE,愛知県,2340,PEACE,愛知県
 DistorteD,EURO-ROMANCE,939,XION,愛知県,1830,MONO,愛知県,2105,PEACE,愛知県
-DistorteD,DUE TOMORROW,865,77MARU,愛知県,1487,PURIN,愛知県,2014,RKS-32,愛知県
+DistorteD,DUE TOMORROW,872,TMR089,愛知県,1487,PURIN,愛知県,2014,RKS-32,愛知県
 DistorteD,Double Loving Heart,572,CID*,愛知県,1329,MONO,愛知県,1815,PEACE,愛知県
 DistorteD,D.C.fish,988,RAI.S,愛知県,1966,HELPME,愛知県,2342,KUREI,愛知県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2766,K.REI7,愛知県
@@ -323,8 +323,8 @@ DistorteD,Broadbanded,898,87KING,愛知県,1410,RIS.BN,愛知県,2013,PEACE,愛�
 DistorteD,BOOM BOOM DISCO NIGHT,982,TAKE-7,愛知県,1816,MONO,愛知県,2282,KUREI,愛知県
 DistorteD,Bloody Tears(IIDX EDITION),1092,PRIC,愛知県,1971,BLAZE*,愛知県,2181,NA!,愛知県
 DistorteD,BALLAD THE FEATHERS,717,CID*,愛知県,1099,MONO,愛知県,1523,PEACE,愛知県
-DistorteD,Apocalypse ～dirge of swans～,1008,PEACE,愛知県,1786,HELPME,愛知県,2393,KUREI,愛知県
-DistorteD,ALFARSHEAR 双神威に廻る夢,1009,HIFURI,愛知県,1660,HISUI.,愛知県,2084,UNA-10,愛知県
+DistorteD,Apocalypse ～dirge of swans～,1008,PEACE,愛知県,1805,IIDX25,愛知県,2393,KUREI,愛知県
+DistorteD,ALFARSHEAR 双神威に廻る夢,1031,D.C.,愛知県,1660,HISUI.,愛知県,2092,PEACE,愛知県
 GOLD,電人、暁に斃れる。,1427,02564!,愛知県,2426,PURIN,愛知県,3381,RKS-32,愛知県
 GOLD,零 - ZERO -,1139,K-OGE,愛知県,1796,MONO,愛知県,2311,PEACE,愛知県
 GOLD,花吹雪 ～ IIDX LIMITED ～,734,87KING,愛知県,1141,MONO,愛知県,1433,KUREI,愛知県
@@ -340,7 +340,7 @@ GOLD,VANESSA,1125,87KING,愛知県,1822,UNA-10,愛知県,2407,PEACE,愛知県
 GOLD,TRANOID,787,HMTIOS,愛知県,1810,IIDX25,愛知県,2234,PEACE,愛知県
 GOLD,The Smile of You,936,TMR089,愛知県,1312,MONO,愛知県,1629,RKS-32,愛知県
 GOLD,the shadow,1196,RAI.S,愛知県,2120,HELPME,愛知県,2911,PEACE,愛知県
-GOLD,snow storm,769,ALFRED,愛知県,2311,HELPME,愛知県,2799,PEACE,愛知県
+GOLD,snow storm,769,ALFRED,愛知県,2311,HELPME,愛知県,2807,PEACE,愛知県
 GOLD,smile,1404,TMR089,愛知県,2141,MONO,愛知県,2900,UNA-10,愛知県
 GOLD,Sense 2007,1537,IIDX25,愛知県,2244,PURIN,愛知県,2936,RKS-32,愛知県
 GOLD,Second Heaven,976,-RTB-,愛知県,1551,MONO,愛知県,2120,PEACE,愛知県
@@ -354,7 +354,7 @@ GOLD,Love Again...,573,TMR089,愛知県,797,MONO,愛知県,1075,PEACE,愛知県
 GOLD,LASER CRUSTER,1377,KNDT,愛知県,2452,PEACE,愛知県,3224,PEACE,愛知県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3827,RKS-32,愛知県
 GOLD,KAMAITACHI,1227,TMR089,愛知県,2033,HELPME,愛知県,2713,PEACE,愛知県
-GOLD,INORI,1327,CROSS,愛知県,2586,MIREI.,愛知県,3175,PEACE,愛知県
+GOLD,INORI,1327,CROSS,愛知県,2586,MIREI.,愛知県,3181,KUREI,愛知県
 GOLD,High School Love,834,UMETYA,愛知県,1567,MONO,愛知県,2204,RIS.ZN,愛知県
 GOLD,heaven above,790,MO-ZE.,愛知県,1399,MONO,愛知県,1853,PEACE,愛知県
 GOLD,GRID KNIGHT,810,GO.I,愛知県,1954,87KING,愛知県,2636,PEACE,愛知県
@@ -387,7 +387,7 @@ DJ TROOPERS,THE DEEP STRIKER,1075,CID*,愛知県,2233,PURIN,愛知県,3020,PEACE
 DJ TROOPERS,switch,793,RAI.S,愛知県,1534,87KING,愛知県,2113,PEACE,愛知県
 DJ TROOPERS,STEEL NEEDLE,1056,MO-ZE.,愛知県,2176,HELPME,愛知県,2478,RKS-32,愛知県
 DJ TROOPERS,State Of The Art,1080,RAI.S,愛知県,1558,HISUI.,愛知県,3125,PEACE,愛知県
-DJ TROOPERS,SOUND OF GIALLARHORN,1361,GSYO,愛知県,2742,PURIN,愛知県,3259,PURIN,愛知県
+DJ TROOPERS,SOUND OF GIALLARHORN,1361,GSYO,愛知県,2742,PURIN,愛知県,3266,ANSA,愛知県
 DJ TROOPERS,scar in the earth,603,CECIL,愛知県,1125,MONO,愛知県,1526,PEACE,愛知県
 DJ TROOPERS,satfinal,1075,87KING,愛知県,1425,MONO,愛知県,1919,PEACE,愛知県
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",1261,CAESAR,愛知県,1885,MONO,愛知県,2532,PEACE,愛知県
@@ -400,21 +400,21 @@ DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,1040,CID*,愛知�
 DJ TROOPERS,MENTAL MELTDOWN,1133,MO-ZE.,愛知県,2242,PURIN,愛知県,2798,ANJU11,愛知県
 DJ TROOPERS,MENDES,1140,BLAZE*,愛知県,2647,PEACE,愛知県,3577,RKS-32,愛知県
 DJ TROOPERS,MAX LOVE,1402,MO-ZE.,愛知県,2167,87KING,愛知県,2678,PEACE,愛知県
-DJ TROOPERS,LOVELY STORM,1297,VIVA4,愛知県,2165,MONO,愛知県,2813,K.REI7,愛知県
+DJ TROOPERS,LOVELY STORM,1297,VIVA4,愛知県,2165,MONO,愛知県,2823,UNA-10,愛知県
 DJ TROOPERS,Kick Out 仮面,1173,TMR089,愛知県,1574,GOWAS,愛知県,2037,NA!,愛知県
 DJ TROOPERS,in the Sky,1376,87KING,愛知県,2111,87KING,愛知県,2541,KUREI,愛知県
 DJ TROOPERS,ICARUS†,0,,未設定,0,,未設定,3640,RKS-32,愛知県
 DJ TROOPERS,ICARUS,1357,PEACE,愛知県,2085,PURIN,愛知県,2406,UNA-10,愛知県
 DJ TROOPERS,Freeway Shuffle,813,TMR089,愛知県,1268,MONO,愛知県,1887,UNA-10,愛知県
 DJ TROOPERS,four pieces of heaven,926,87KING,愛知県,1896,HELPME,愛知県,2319,UNA-10,愛知県
-DJ TROOPERS,evergreen,972,LIL.,愛知県,1387,MONO,愛知県,1977,PEACE,愛知県
+DJ TROOPERS,evergreen,972,------,愛知県,1387,MONO,愛知県,1977,PEACE,愛知県
 DJ TROOPERS,end of world,1011,MO-ZE.,愛知県,1747,42731,愛知県,2500,PEACE,愛知県
 DJ TROOPERS,Do it!! Do it!!,1026,AA-HDA,愛知県,1552,MIREI.,愛知県,1938,RKS-32,愛知県
 DJ TROOPERS,Digitank System,910,ALPACA,愛知県,1581,RKS-32,愛知県,2130,PEACE,愛知県
 DJ TROOPERS,Dazzlin' Darlin,909,CID*,愛知県,1407,MONO,愛知県,2228,UNA-10,愛知県
 DJ TROOPERS,Darling my LUV,674,CAESAR,愛知県,1016,MONO,愛知県,1385,UNA-10,愛知県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3310,PEACE,愛知県
-DJ TROOPERS,Blue Rain,992,CAESAR,愛知県,1600,HELPME,愛知県,2285,NA!,愛知県
+DJ TROOPERS,Blue Rain,992,CAESAR,愛知県,1600,HELPME,愛知県,2288,PEACE,愛知県
 DJ TROOPERS,beatonic nation,1226,MO-ZE.,愛知県,1885,MONO,愛知県,2167,PEACE,愛知県
 DJ TROOPERS,Be OK,909,MO-ZE.,愛知県,1773,MONO,愛知県,2414,PEACE,愛知県
 DJ TROOPERS,avant-guerre,757,BELICO,愛知県,1332,DEVI-3,愛知県,1935,NA!,愛知県
@@ -428,17 +428,17 @@ EMPRESS,卑弥呼,1248,UNA-10,愛知県,2717,KIGURE,愛知県,3974,UNA-10,愛知
 EMPRESS,凛として咲く花の如く†,0,,未設定,0,,未設定,3173,KUREI,愛知県
 EMPRESS,凛として咲く花の如く,1315,K-OGE,愛知県,2153,RIS.BN,愛知県,2780,UNA-10,愛知県
 EMPRESS,不沈艦CANDY,1165,RIS.RK,愛知県,2000,HELPME,愛知県,3299,RKS-32,愛知県
-EMPRESS,ミッドナイト堕天使,981,LIL.,愛知県,1633,RIS.BN,愛知県,2789,RKS-32,愛知県
+EMPRESS,ミッドナイト堕天使,981,------,愛知県,1633,RIS.BN,愛知県,2789,RKS-32,愛知県
 EMPRESS,ハリツヤランデヴー,964,87KING,愛知県,2114,ALPACA,愛知県,2487,RKS-32,愛知県
 EMPRESS,まほろば,788,TMR089,愛知県,1462,RIS.BN,愛知県,2055,PEACE,愛知県
 EMPRESS,"You'll say ""Now!""",1188,CAESAR,愛知県,1844,PURIN,愛知県,2505,PEACE,愛知県
 EMPRESS,Y&Co. is dead or alive,1106,HISUI.,愛知県,1761,IIDX25,愛知県,2754,ANJU11,愛知県
 EMPRESS,V2,1498,87KING,愛知県,3177,HELPME,愛知県,3604,RKS-32,愛知県
-EMPRESS,Turii ～Panta rhei～,888,CID*,愛知県,2088,RIS.BN,愛知県,2677,PEACE,愛知県
+EMPRESS,Turii ～Panta rhei～,890,87KING,愛知県,2088,RIS.BN,愛知県,2677,PEACE,愛知県
 EMPRESS,THANK YOU FOR PLAYING†,0,,未設定,0,,未設定,2973,RKS-32,愛知県
 EMPRESS,THANK YOU FOR PLAYING,769,CECIL,愛知県,1654,RIS.BN,愛知県,2107,HELPME,愛知県
 EMPRESS,SOLITON BEAM,1407,RAI.S,愛知県,2078,MONO,愛知県,2367,PEACE,愛知県
-EMPRESS,smooooch・∀・,817,CECIL,愛知県,1636,MONO,愛知県,2152,PEACE,愛知県
+EMPRESS,smooooch・∀・,817,CECIL,愛知県,1636,MONO,愛知県,2160,PEACE,愛知県
 EMPRESS,Secrets,1230,YORIHA,愛知県,2488,RIS.BN,愛知県,3172,RKS-32,愛知県
 EMPRESS,Queen's Tragedy,842,TMR089,愛知県,1693,HELPME,愛知県,2249,UNA-10,愛知県
 EMPRESS,Punch Love 仮面,1097,TMR089,愛知県,1738,MONO,愛知県,2519,RKS-32,愛知県
@@ -454,7 +454,7 @@ EMPRESS,Kung-fu Empire,1500,YORIHA,愛知県,2610,HELPME,愛知県,3266,RKS-32,�
 EMPRESS,Just a Little Smile,817,TMR089,愛知県,1343,MONO,愛知県,2505,PEACE,愛知県
 EMPRESS,Jack,913,KENT,愛知県,1404,MONO,愛知県,2161,PEACE,愛知県
 EMPRESS,I'm Screaming LOVE,613,TMR089,愛知県,1326,MONO,愛知県,1698,UNA-10,愛知県
-EMPRESS,HYPERION,1085,CAESAR,愛知県,2027,MONO,愛知県,2751,PEACE,愛知県
+EMPRESS,HYPERION,1085,CAESAR,愛知県,2106,87KING,愛知県,2751,PEACE,愛知県
 EMPRESS,Go Beyond!!,1083,BLAZE*,愛知県,1759,HELPME,愛知県,2216,UNA-10,愛知県
 EMPRESS,Fly Above,964,87KING,愛知県,1626,MONO,愛知県,2032,PEACE,愛知県
 EMPRESS,Flash Back 90's,923,TMR089,愛知県,1904,HELPME,愛知県,2338,PEACE,愛知県
@@ -472,7 +472,7 @@ EMPRESS,ALL I NEED YOUR LOVE,1099,TMR089,愛知県,1691,MONO,愛知県,2128,KURE
 EMPRESS,3y3s,1524,IIDX25,愛知県,2557,HELPME,愛知県,3535,RKS-32,愛知県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",674,CECIL,愛知県,1666,MONO,愛知県,2112,PEACE,愛知県
 SIRIUS,未来のプリズム,694,87KING,愛知県,1387,MONO,愛知県,1778,PEACE,愛知県
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1293,OEKSIJ,愛知県,2359,PEACE,愛知県,3268,PEACE,愛知県
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1293,MARCH.,愛知県,2359,PEACE,愛知県,3268,PEACE,愛知県
 SIRIUS,バビロニア,835,TMR089,愛知県,1404,MONO,愛知県,1873,PEACE,愛知県
 SIRIUS,サヨナラ・ヘヴン,903,KMOT-1,愛知県,1385,MONO,愛知県,1686,PEACE,愛知県
 SIRIUS,コスモス,894,TMR089,愛知県,1517,87KING,愛知県,2095,PEACE,愛知県
@@ -480,7 +480,7 @@ SIRIUS,たからもの,1272,TMR089,愛知県,1880,MONO,愛知県,2238,NA!,愛知
 SIRIUS,かずあそび,523,TMR089,愛知県,1192,MONO,愛知県,1692,RIS.ZN,愛知県
 SIRIUS,The Story Begins,844,87KING,愛知県,1824,HISUI.,愛知県,2448,PEACE,愛知県
 SIRIUS,THE LAST STRIKER,1379,CAESAR,愛知県,1953,MONO,愛知県,2629,PEACE,愛知県
-SIRIUS,Special One,821,*TANK*,愛知県,1216,MONO,愛知県,1784,PEACE,愛知県
+SIRIUS,Special One,821,*TANK*,愛知県,1216,MONO,愛知県,1785,PEACE,愛知県
 SIRIUS,Sorrows,798,TMR089,愛知県,1684,MONO,愛知県,2473,PEACE,愛知県
 SIRIUS,SOLID STATE SQUAD†,0,,未設定,0,,未設定,3633,RKS-32,愛知県
 SIRIUS,SOLID STATE SQUAD,1015,SASA,愛知県,2320,HELPME,愛知県,3564,RKS-32,愛知県
@@ -524,18 +524,18 @@ SIRIUS,Bad Maniacs,1283,XION,愛知県,1896,PURIN,愛知県,3217,RKS-32,愛知�
 SIRIUS,Almagest,1028,MIREI.,愛知県,2221,ANJU11,愛知県,3128,UNA-10,愛知県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1162,YORIHA,愛知県,1847,MONO,愛知県,2351,PEACE,愛知県
 Resort Anthem,黒髪乱れし修羅となりて,816,87KING,愛知県,2130,RIS.ZN,愛知県,3449,PEACE,愛知県
-Resort Anthem,灼熱Beach Side Bunny,1087,CID*,愛知県,1957,JINRO!,愛知県,3150,RKS-32,愛知県
-Resort Anthem,旅人リラン,1119,RAI.S,愛知県,1933,87KING,愛知県,2637,PEACE,愛知県
+Resort Anthem,灼熱Beach Side Bunny,1087,CID*,愛知県,1957,JINRO!,愛知県,3159,RKS-32,愛知県
+Resort Anthem,旅人リラン,1119,RAI.S,愛知県,1933,87KING,愛知県,2653,PEACE,愛知県
 Resort Anthem,夕焼け ～Fading Day～,920,SASA,愛知県,2083,HELPME,愛知県,2812,RKS-32,愛知県
 Resort Anthem,中華急行,328,87KING,愛知県,1527,MONO,愛知県,2323,PEACE,愛知県
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,732,DESP,愛知県,1387,MONO,愛知県,1928,UNA-10,愛知県
 Resort Anthem,おおきなこえで,448,TMR089,愛知県,1000,MONO,愛知県,1497,PEACE,愛知県
 Resort Anthem,ZETA～素数の世界と超越者～,569,HMTIOS,愛知県,2104,MONO,愛知県,3116,ANJU11,愛知県
-Resort Anthem,XANADU OF TWO,1004,87KING,愛知県,1755,MONO,愛知県,2751,NA!,愛知県
+Resort Anthem,XANADU OF TWO,1004,87KING,愛知県,1755,MONO,愛知県,2752,PEACE,愛知県
 Resort Anthem,Wuv U,413,CID*,愛知県,1318,MONO,愛知県,1709,PEACE,愛知県
 Resort Anthem,WISE UP!,485,TMR089,愛知県,1178,MONO,愛知県,1598,UNA-10,愛知県
 Resort Anthem,WE LOVE SHONAN,797,CID*,愛知県,1676,42731,愛知県,2179,RKS-32,愛知県
-Resort Anthem,Watch Out Pt.2,1101,LIL.,愛知県,1961,VIOLET,愛知県,2869,RKS-32,愛知県
+Resort Anthem,Watch Out Pt.2,1101,------,愛知県,1961,VIOLET,愛知県,2869,RKS-32,愛知県
 Resort Anthem,Vermillion,506,KANON,愛知県,1163,KENT,愛知県,2078,PEACE,愛知県
 Resort Anthem,Tropical April,1564,ZEKIRA,愛知県,2295,MIREI.,愛知県,2749,PEACE,愛知県
 Resort Anthem,THE FALLEN,853,3SOKA2,愛知県,1504,MONO,愛知県,2709,PEACE,愛知県
@@ -551,7 +551,7 @@ Resort Anthem,Sakura Reflection,484,87KING,愛知県,1615,MONO,愛知県,2363,PE
 Resort Anthem,SABER WING,546,JAXAN,愛知県,1841,PURIN,愛知県,2809,YU-KI,愛知県
 Resort Anthem,Rock Da House,847,CECIL,愛知県,1627,MONO,愛知県,2239,PEACE,愛知県
 Resort Anthem,reunion,1402,BLAZE*,愛知県,2425,PEACE,愛知県,3226,UNA-10,愛知県
-Resort Anthem,Programmed Life,1056,02564!,愛知県,1775,MONO,愛知県,2393,PEACE,愛知県
+Resort Anthem,Programmed Life,1056,02564!,愛知県,1775,MONO,愛知県,2396,PEACE,愛知県
 Resort Anthem,perditus†paradisus,1199,YORIHA,愛知県,2540,PURIN,愛知県,3824,UNA-10,愛知県
 Resort Anthem,passionate fate,1154,RAI.S,愛知県,1633,MONO,愛知県,2134,PEACE,愛知県
 Resort Anthem,PARADISE LOST,1338,TMR089,愛知県,2348,HELPME,愛知県,3304,RKS-32,愛知県
@@ -564,20 +564,20 @@ Resort Anthem,I FIGHT ME,628,87KING,愛知県,1429,MONO,愛知県,2131,RKS-32,�
 Resort Anthem,Golden Palms†,0,,未設定,0,,未設定,2398,ANJU11,愛知県
 Resort Anthem,Golden Palms,733,TMR089,愛知県,1470,MONO,愛知県,2031,PEACE,愛知県
 Resort Anthem,Fantasia,402,TMR089,愛知県,1553,HISUI.,愛知県,2244,NA!,愛知県
-Resort Anthem,Everlasting Resort,875,BELICO,愛知県,1320,MONO,愛知県,1886,OEKSIJ,愛知県
+Resort Anthem,Everlasting Resort,875,BELICO,愛知県,1320,MONO,愛知県,1886,MARCH.,愛知県
 Resort Anthem,Eternal Tears,444,CID*,愛知県,1098,HISUI.,愛知県,1371,PURIN,愛知県
 Resort Anthem,Energy Drive,865,CAESAR,愛知県,1493,MONO,愛知県,2223,RKS-32,愛知県
 Resort Anthem,ELECTRIC MASSIVE DIVER,1305,CAESAR,愛知県,2483,PURIN,愛知県,3693,RKS-32,愛知県
-Resort Anthem,DM STAR～関西 energy style～,1115,87KING,愛知県,1926,MONO,愛知県,2399,PEACE,愛知県
+Resort Anthem,DM STAR～関西 energy style～,1115,87KING,愛知県,1926,MONO,愛知県,2409,PEACE,愛知県
 Resort Anthem,Destiny Sword,876,TMR089,愛知県,1773,MONO,愛知県,2405,PEACE,愛知県
 Resort Anthem,DAYDREAMER,1185,87KING,愛知県,1761,HISUI.,愛知県,2519,PEACE,愛知県
 Resort Anthem,Dances with Snow Fairies,1349,02564!,愛知県,2273,HELPME,愛知県,3103,PEACE,愛知県
-Resort Anthem,BROKEN EDEN,1010,K-OGE,愛知県,1795,HISUI.,愛知県,2331,PEACE,愛知県
+Resort Anthem,BROKEN EDEN,1010,K-OGE,愛知県,1795,HISUI.,愛知県,2343,PEACE,愛知県
 Resort Anthem,Broken,1062,TMR089,愛知県,2054,RIS.ZN,愛知県,3168,RKS-32,愛知県
 Resort Anthem,Breaking the ground,1173,CID*,愛知県,1794,MONO,愛知県,2519,RKS-32,愛知県
-Resort Anthem,Bounce Bounce Bounce,1052,KENT,愛知県,1769,IIDX25,愛知県,2439,PEACE,愛知県
+Resort Anthem,Bounce Bounce Bounce,1052,KENT,愛知県,1769,IIDX25,愛知県,2444,UNA-10,愛知県
 Resort Anthem,BLUST OF WIND,820,CAESAR,愛知県,1589,MONO,愛知県,2148,PEACE,愛知県
-Resort Anthem,Believe In Me,808,TOA,愛知県,1858,87KING,愛知県,2359,JINRO!,愛知県
+Resort Anthem,Believe In Me,808,TOA,愛知県,1858,87KING,愛知県,2377,UNA-10,愛知県
 Resort Anthem,ANTHEM LANDING,945,CECIL,愛知県,1952,87KING,愛知県,2954,RKS-32,愛知県
 Resort Anthem,Answer,785,TMR089,愛知県,1480,UNYO,愛知県,2435,PEACE,愛知県
 Resort Anthem,ALBIDA,1113,BLAZE*,愛知県,1972,RIS.ZN,愛知県,2991,RKS-32,愛知県
@@ -593,9 +593,9 @@ Lincle,天空の夜明け,1357,87KING,愛知県,2177,HELPME,愛知県,4012,RKS-3
 Lincle,君のハートにロックオン,692,CECIL,愛知県,1758,MONO,愛知県,2682,PEACE,愛知県
 Lincle,ユミル,660,87KING,愛知県,1373,MONO,愛知県,2838,PEACE,愛知県
 Lincle,ビューティフルレシート,514,TMR089,愛知県,1220,MONO,愛知県,1927,PURIN,愛知県
-Lincle,Yellow Sunrise,741,CECIL,愛知県,1448,MONO,愛知県,2280,PEACE,愛知県
+Lincle,Yellow Sunrise,741,CECIL,愛知県,1448,MONO,愛知県,2282,UNA-10,愛知県
 Lincle,yellow head joe,716,RAIGA,愛知県,1532,HELPME,愛知県,2261,VIOLET,愛知県
-Lincle,YAKSHA,1236,Q8,愛知県,2387,PURIN,愛知県,3860,RKS-32,愛知県
+Lincle,YAKSHA,1236,Q8,愛知県,2387,PURIN,愛知県,3862,RKS-32,愛知県
 Lincle,WONDER WALKER,970,TMR089,愛知県,1957,HELPME,愛知県,3777,RKS-32,愛知県
 Lincle,Voxane,610,TMR089,愛知県,1251,MONO,愛知県,1747,PEACE,愛知県
 Lincle,Todestrieb,1065,K-OGE,愛知県,1937,IIDX25,愛知県,3436,RKS-32,愛知県
@@ -610,12 +610,12 @@ Lincle,SHADE,1080,F,愛知県,2057,RIS.BN,愛知県,2915,RKS-32,愛知県
 Lincle,Several Words,631,MCK2,愛知県,1448,MONO,愛知県,2173,ANJU11,愛知県
 Lincle,Scharfrichter,796,MU*2DX,愛知県,1629,MONO,愛知県,2891,PEACE,愛知県
 Lincle,SA.YO.NA.RA. SUPER STAR,445,NZ-61D,愛知県,1282,MONO,愛知県,1666,PURIN,愛知県
-Lincle,Round and Round,770,K-OGE,愛知県,1238,HISUI.,愛知県,2162,PEACE,愛知県
-Lincle,RESISTANCE,629,TMR089,愛知県,1349,MONO,愛知県,2336,MO,愛知県
+Lincle,Round and Round,794,CID*,愛知県,1238,HISUI.,愛知県,2162,PEACE,愛知県
+Lincle,RESISTANCE,629,TMR089,愛知県,1349,MONO,愛知県,2342,PURIN,愛知県
 Lincle,Release The Music,844,RAI.S,愛知県,1469,MONO,愛知県,2134,RKS-32,愛知県
 Lincle,Quick Silver,782,MUDCAT,愛知県,1814,MONO,愛知県,2680,RKS-32,愛知県
 Lincle,quaver♪,706,LEKI,愛知県,2124,MONO,愛知県,3426,KUREI,愛知県
-Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3619,RKS-32,愛知県
+Lincle,QUANTUM TELEPORTATION†,0,,未設定,0,,未設定,3630,RKS-32,愛知県
 Lincle,QUANTUM TELEPORTATION,1339,TMR089,愛知県,2359,PURIN,愛知県,2950,PEACE,愛知県
 Lincle,prompt,932,CECIL,愛知県,1600,MONO,愛知県,2801,PEACE,愛知県
 Lincle,Phoenix,844,T.F,愛知県,1224,MONO,愛知県,2494,RKS-32,愛知県
@@ -636,7 +636,7 @@ Lincle,Flip Flap,577,TMR089,愛知県,1396,MONO,愛知県,2262,PEACE,愛知県
 Lincle,fffff,849,TMR089,愛知県,2114,HELPME,愛知県,3145,PEACE,愛知県
 Lincle,Far east nightbird,519,TMR089,愛知県,1355,MONO,愛知県,2029,KUREI,愛知県
 Lincle,F,1047,TMR089,愛知県,2147,HELPME,愛知県,3562,PEACE,愛知県
-Lincle,Express Emotion,770,LIA.S,愛知県,1040,HISUI.,愛知県,2519,ANJU11,愛知県
+Lincle,Express Emotion,770,EMILIA,愛知県,1040,HISUI.,愛知県,2521,PEACE,愛知県
 Lincle,Drive Me Crazy,722,TMR089,愛知県,1403,MONO,愛知県,2303,KUREI,愛知県
 Lincle,DIAVOLO,1281,87KING,愛知県,1898,RIS.BN,愛知県,3136,UNA-10,愛知県
 Lincle,Change the World,809,YORIHA,愛知県,1415,MONO,愛知県,1848,PEACE,愛知県
@@ -656,7 +656,7 @@ tricoro,朧†,0,,未設定,0,,未設定,2535,KUREI,愛知県
 tricoro,朧,790,87KING,愛知県,1510,MONO,愛知県,2114,NA!,愛知県
 tricoro,即席！脳直★ミュージックシステム,1026,GO.I,愛知県,2002,PURIN,愛知県,3564,UNA-10,愛知県
 tricoro,創世ノート,823,RAI.S,愛知県,1923,MONO,愛知県,2972,PEACE,愛知県
-tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3853,PEACE,愛知県
+tricoro,仮想空間の旅人たち†,0,,未設定,0,,未設定,3858,RKS-32,愛知県
 tricoro,仮想空間の旅人たち,1128,SASA,愛知県,2180,MONO,愛知県,2893,PEACE,愛知県
 tricoro,下弦の月,914,FLG,愛知県,1467,GOWAS,愛知県,1988,PEACE,愛知県
 tricoro,ラキラキ,628,CECIL,愛知県,1455,MONO,愛知県,1979,UNA-10,愛知県
@@ -667,7 +667,7 @@ tricoro,キャトられ恋はモ～モク,1442,YORIHA,愛知県,2630,PURIN,愛�
 tricoro,カジノファイヤーことみちゃん,645,TMR089,愛知県,1431,MONO,愛知県,2415,PEACE,愛知県
 tricoro,アストライアの双皿,666,CECIL,愛知県,2076,MONO,愛知県,3155,RKS-32,愛知県
 tricoro,たまゆら,1149,IMO10P,愛知県,1898,RIS.ZN,愛知県,2771,RKS-32,愛知県
-tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,865,HMTIOS,愛知県,1585,MONO,愛知県,2152,PURIN,愛知県
+tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,865,HMTIOS,愛知県,1585,MONO,愛知県,2171,PURIN,愛知県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),557,TMR089,愛知県,1686,IIDX25,愛知県,3568,UNA-10,愛知県
 tricoro,ΕΛΠΙΣ,1124,MO-ZE.,愛知県,2113,HELPME,愛知県,3138,RKS-32,愛知県
 tricoro,Zirkfied,1018,RAI.S,愛知県,2058,HELPME,愛知県,3753,PEACE,愛知県
@@ -702,7 +702,7 @@ tricoro,Plan 8,1131,ST.STK,愛知県,2245,IIDX25,愛知県,3166,RKS-32,愛知県
 tricoro,New Lights,1033,RAI.S,愛知県,1816,MONO,愛知県,2482,RKS-32,愛知県
 tricoro,New Decade IIDX Edition,979,RAI.S,愛知県,1947,MONO,愛知県,2994,RKS-32,愛知県
 tricoro,neu,983,KIMERA,愛知県,2146,87KING,愛知県,3908,KUREI,愛知県
-tricoro,Neonlights,664,TMR089,愛知県,1602,MONO,愛知県,2226,PEACE,愛知県
+tricoro,Neonlights,664,TMR089,愛知県,1602,MONO,愛知県,2230,PEACE,愛知県
 tricoro,mnemoniq,536,TMR089,愛知県,972,MONO,愛知県,1310,PEACE,愛知県
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2778,KUREI,愛知県
 tricoro,LUV CAN SAVE U,582,TMR089,愛知県,1435,MONO,愛知県,2130,PEACE,愛知県
@@ -722,7 +722,7 @@ tricoro,GAIA,995,CID*,愛知県,2242,HELPME,愛知県,3294,RKS-32,愛知県
 tricoro,Fly you to the star,785,CID*,愛知県,1626,MONO,愛知県,2279,PEACE,愛知県
 tricoro,FLOWER,1114,CID*,愛知県,1807,MONO,愛知県,2890,PEACE,愛知県
 tricoro,examination leave,1143,YORIHA,愛知県,1919,MONO,愛知県,3403,PEACE,愛知県
-tricoro,Elemental Creation,1459,XION,愛知県,2449,RIS.ZN,愛知県,4092,RKS-32,愛知県
+tricoro,Elemental Creation,1459,XION,愛知県,2449,RIS.ZN,愛知県,4101,RKS-32,愛知県
 tricoro,Devilz Staircase,656,TMR089,愛知県,2196,RIS.ZN,愛知県,3268,RKS-32,愛知県
 tricoro,DAY DREAM,579,RIS.BN,愛知県,1325,PURIN,愛知県,2011,UNA-10,愛知県
 tricoro,Cookie Bouquets,873,CID*,愛知県,2139,MONO,愛知県,3409,RKS-32,愛知県
@@ -739,16 +739,16 @@ SPADA,轟け！恋のビーンボール！！,1055,YORIHA,愛知県,1990,HELPME,
 SPADA,超!!遠距離らぶメ～ル,574,TMR089,愛知県,1563,87KING,愛知県,2667,RKS-32,愛知県
 SPADA,罪と罰,1102,87KING,愛知県,1401,GOWAS,愛知県,2176,PEACE,愛知県
 SPADA,疾風迅雷†LEGGENDARIA,0,,未設定,0,,未設定,3393,RKS-32,愛知県
-SPADA,疾風迅雷,1139,MO-ZE.,愛知県,2109,HELPME,愛知県,2897,PEACE,愛知県
+SPADA,疾風迅雷,1139,MO-ZE.,愛知県,2109,HELPME,愛知県,2902,RKS-32,愛知県
 SPADA,牧神笛吹きて,730,GO.I,愛知県,1400,MONO,愛知県,2073,PEACE,愛知県
-SPADA,煉獄のエルフェリア,1375,LIA.S,愛知県,2398,MIREI.,愛知県,3845,UNA-10,愛知県
+SPADA,煉獄のエルフェリア,1375,EMILIA,愛知県,2398,MIREI.,愛知県,3845,UNA-10,愛知県
 SPADA,海神,1127,K-OGE,愛知県,2108,MIREI.,愛知県,3161,UNA-10,愛知県
 SPADA,旋律のドグマ～Miserables～,1225,TMR089,愛知県,2513,HELPME,愛知県,3913,RKS-32,愛知県
 SPADA,廿†,0,,未設定,0,,未設定,3273,PEACE,愛知県
 SPADA,廿,957,TMR089,愛知県,1718,MONO,愛知県,2361,ANJU11,愛知県
 SPADA,幻想系世界修復少女,625,GSYO,愛知県,1178,MONO,愛知県,1963,PURIN,愛知県
 SPADA,バンブーソード・ガール,983,YORIHA,愛知県,1850,MONO,愛知県,2414,UNA-10,愛知県
-SPADA,デッドボヲルdeホームラン,623,TMR089,愛知県,1618,MONO,愛知県,2753,PEACE,愛知県
+SPADA,デッドボヲルdeホームラン,623,TMR089,愛知県,1618,MONO,愛知県,2758,UNA-10,愛知県
 SPADA,アルストロメリア,952,MO-ZE.,愛知県,1586,PURIN,愛知県,2487,PEACE,愛知県
 SPADA,お願いアインシュタイン,892,SAVA,愛知県,1483,MONO,愛知県,2125,PEACE,愛知県
 SPADA,Wonder Girl feat. Kanae Asaba,719,CID*,愛知県,1283,MONO,愛知県,2802,PEACE,愛知県
@@ -757,7 +757,7 @@ SPADA,Verflucht†LEGGENDARIA,0,,未設定,0,,未設定,4697,K.REI7,愛知県
 SPADA,Verflucht,1278,YORIHA,愛知県,2131,MIREI.,愛知県,3554,RKS-32,愛知県
 SPADA,Valgus,652,SAVA,愛知県,1357,MONO,愛知県,2363,PEACE,愛知県
 SPADA,Unicorn tail,840,GO.I,愛知県,2047,MONO,愛知県,3144,PEACE,愛知県
-SPADA,THE DETONATOR,1565,CID*,愛知県,2509,PURIN,愛知県,3206,RKS-32,愛知県
+SPADA,THE DETONATOR,1565,CID*,愛知県,2509,PURIN,愛知県,3220,RKS-32,愛知県
 SPADA,Squeeze,832,TMR089,愛知県,1457,MONO,愛知県,2463,PEACE,愛知県
 SPADA,Sigmund†LEGGENDARIA,0,,未設定,0,,未設定,4202,K.REI7,愛知県
 SPADA,Sigmund,1555,YORIHA,愛知県,2384,HELPME,愛知県,3837,RKS-32,愛知県
@@ -767,7 +767,7 @@ SPADA,RISE,903,CECIL,愛知県,1381,HELPME,愛知県,1879,PEACE,愛知県
 SPADA,refractive index,746,TMR089,愛知県,1452,MONO,愛知県,2702,PEACE,愛知県
 SPADA,Recollection,1128,MO-ZE.,愛知県,1752,MONO,愛知県,2220,HISUI.,愛知県
 SPADA,rainbow guitar weeps,956,GO.I,愛知県,1880,HELPME,愛知県,2765,PEACE,愛知県
-SPADA,ra'am,1176,RAI.S,愛知県,1917,OEKSIJ,愛知県,2747,PURIN,愛知県
+SPADA,ra'am,1176,RAI.S,愛知県,1917,MARCH.,愛知県,2747,PURIN,愛知県
 SPADA,PUNISHER,1126,SAVA,愛知県,2123,HELPME,愛知県,3555,RKS-32,愛知県
 SPADA,Pharaoh,647,TMR089,愛知県,1440,MONO,愛知県,2460,RKS-32,愛知県
 SPADA,Overload Frontier,769,KYLE*,愛知県,1859,87KING,愛知県,2602,RKS-32,愛知県
@@ -783,7 +783,7 @@ SPADA,Last Dance,1218,87KING,愛知県,2045,MIREI.,愛知県,3252,RKS-32,愛知�
 SPADA,LA FESTA LA VITA!!,842,TMR089,愛知県,1802,MONO,愛知県,2869,PEACE,愛知県
 SPADA,KHAMEN BREAK,587,TMR089,愛知県,1435,MONO,愛知県,2503,RKS-32,愛知県
 SPADA,KAISER PHOENIX,1352,MIREI.,愛知県,2322,HELPME,愛知県,3280,RKS-32,愛知県
-SPADA,IX,1254,TMR089,愛知県,2403,YU-KI,愛知県,3828,RKS-32,愛知県
+SPADA,IX,1254,TMR089,愛知県,2421,ANSA,愛知県,3828,RKS-32,愛知県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3582,RKS-32,愛知県
 SPADA,invoker,1109,TMR089,愛知県,1964,T.,愛知県,3183,PEACE,愛知県
 SPADA,into the battlefield,732,TMR089,愛知県,1456,MONO,愛知県,2372,PEACE,愛知県
@@ -813,7 +813,7 @@ SPADA,Claiomh Solais,345,TMR089,愛知県,1434,MONO,愛知県,2094,ANJU11,愛知
 SPADA,BRAVE OUT,1037,TAKE-7,愛知県,1533,87KING,愛知県,2174,RKS-32,愛知県
 SPADA,BRAINSTORM,743,HMTIOS,愛知県,2000,MIREI.,愛知県,2825,PEACE,愛知県
 SPADA,BLUE DRAGON(雷龍RemixIIDX),1450,TMR089,愛知県,2272,RIS.ZN,愛知県,3381,RKS-32,愛知県
-SPADA,Atropos,1018,MO-ZE.,愛知県,1657,MONO,愛知県,2341,RKS-32,愛知県
+SPADA,Atropos,1018,MO-ZE.,愛知県,1657,MONO,愛知県,2365,PEACE,愛知県
 SPADA,ATHER,1000,XION,愛知県,1639,MONO,愛知県,2823,UNA-10,愛知県
 SPADA,Ancient Scapes†LEGGENDARIA,0,,未設定,0,,未設定,4222,K.REI7,愛知県
 SPADA,Ancient Scapes,1141,TMR089,愛知県,2084,PURIN,愛知県,3486,RKS-32,愛知県
@@ -836,7 +836,7 @@ PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,1000,SRAN,愛知県,1994,IIDX25,愛�
 PENDUAL,取り残された美術(Arranged:HiZuMi),960,K-OGE,愛知県,1724,BLAZE*,愛知県,2204,RKS-32,愛知県
 PENDUAL,千年ノ理,1173,PLUS13,愛知県,1999,RIS.ZN,愛知県,3192,RKS-32,愛知県
 PENDUAL,十六夜セツナ,1020,RAI.S,愛知県,1629,MONO,愛知県,2246,RKS-32,愛知県
-PENDUAL,共鳴遊戯の華,1314,LIA.S,愛知県,2506,MIREI.,愛知県,3824,RKS-32,愛知県
+PENDUAL,共鳴遊戯の華,1314,EMILIA,愛知県,2506,MIREI.,愛知県,3824,RKS-32,愛知県
 PENDUAL,リリーゼと炎龍レーヴァテイン,978,MO-ZE.,愛知県,2326,HELPME,愛知県,3464,KUREI,愛知県
 PENDUAL,ベィスドロップ・フリークス,626,RAI.S,愛知県,1294,MONO,愛知県,2271,UNA-10,愛知県
 PENDUAL,パ→ピ→プ→Yeah!,1040,YORIHA,愛知県,1603,MONO,愛知県,2538,RKS-32,愛知県
@@ -862,13 +862,13 @@ PENDUAL,Scarlet Moon,1051,TMR089,愛知県,1962,RIS.ZN,愛知県,2760,RKS-32,愛
 PENDUAL,Say YEEEAHH,1152,CID*,愛知県,1863,PURIN,愛知県,3286,PEACE,愛知県
 PENDUAL,SAMSARA,820,SEI-RA,愛知県,1453,MONO,愛知県,2056,NA!,愛知県
 PENDUAL,Sakura Mirage,982,VRHEL,愛知県,1394,MONO,愛知県,2319,RKS-32,愛知県
-PENDUAL,Reflux,772,HMTIOS,愛知県,1629,HELPME,愛知県,3011,RKS-32,愛知県
+PENDUAL,Reflux,772,HMTIOS,愛知県,1629,HELPME,愛知県,3021,RKS-32,愛知県
 PENDUAL,Realize Maze,1251,K-OGE,愛知県,2091,RIS.ZN,愛知県,2987,RKS-32,愛知県
 PENDUAL,Rave*it!! Rave*it!!,981,MK,愛知県,1693,IIDX25,愛知県,3246,RKS-32,愛知県
 PENDUAL,Rave Saves You feat. Cardz (Exclusive IIDX Mix),738,SASA,愛知県,1522,MONO,愛知県,2280,PEACE,愛知県
 PENDUAL,PENDUAL TALISMAN,1042,TMR089,愛知県,1628,MONO,愛知県,2613,PEACE,愛知県
 PENDUAL,On My Wings(Hardstyle IIDX),910,CID*,愛知県,1282,MONO,愛知県,1985,ANJU11,愛知県
-PENDUAL,No Tears,1186,MO-ZE.,愛知県,2130,HELPME,愛知県,2536,PEACE,愛知県
+PENDUAL,No Tears,1186,MO-ZE.,愛知県,2130,HELPME,愛知県,2537,UNA-10,愛知県
 PENDUAL,Night sky,1163,TOMO87,愛知県,1888,K.REI7,愛知県,2934,PEACE,愛知県
 PENDUAL,NEO GENERATOR SEVEN,913,CID*,愛知県,1902,MONO,愛知県,3305,RKS-32,愛知県
 PENDUAL,Monopole.,780,SAVA,愛知県,1660,MONO,愛知県,3321,PEACE,愛知県
@@ -906,7 +906,7 @@ PENDUAL,Chain of pain,735,SAVA,愛知県,1526,MONO,愛知県,2245,PEACE,愛知�
 PENDUAL,Broken Sword,1280,YORIHA,愛知県,2088,HELPME,愛知県,3719,RKS-32,愛知県
 PENDUAL,BLUE MIRAGE,1095,SYOKO*,愛知県,2103,RIS.ZN,愛知県,3066,RKS-32,愛知県
 PENDUAL,Blaze it UP!,918,SEI-RA,愛知県,1909,MONO,愛知県,2981,RKS-32,愛知県
-PENDUAL,Beyond The Earth,1271,GO.I,愛知県,2113,PURIN,愛知県,3209,PEACE,愛知県
+PENDUAL,Beyond The Earth,1271,GO.I,愛知県,2125,RIS.ZN,愛知県,3209,PEACE,愛知県
 PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3565,KUREI,愛知県
 PENDUAL,Beat Radiance,985,TMR089,愛知県,1639,MONO,愛知県,2622,RIS.BN,愛知県
 PENDUAL,Amnolys,869,TMR089,愛知県,1695,HELPME,愛知県,2650,RKS-32,愛知県
@@ -926,7 +926,7 @@ copula,明鏡止水,854,TMR089,愛知県,1894,IIDX25,愛知県,2826,PEACE,愛知
 copula,少女アリスと箱庭幻想コンチェルト,759,MO-ZE.,愛知県,1504,MONO,愛知県,2145,RKS-32,愛知県
 copula,セロトニン,1302,MO-ZE.,愛知県,1809,TAKPOP,愛知県,2349,UNA-10,愛知県
 copula,シュッパツシンコウ・シサカンコ,1112,RAI.S,愛知県,1783,MONO,愛知県,2449,PEACE,愛知県
-copula,ギョギョっと人魚 爆婚ブライダル,826,TMR089,愛知県,1454,DEVI-3,愛知県,2380,PEACE,愛知県
+copula,ギョギョっと人魚 爆婚ブライダル,826,TMR089,愛知県,1454,DEVI-3,愛知県,2385,PEACE,愛知県
 copula,オルタネイトβ,839,TMR089,愛知県,1435,MONO,愛知県,2258,NA!,愛知県
 copula,めいさいアイドル☆あいむちゃん♪,1500,K-OGE,愛知県,2364,PURIN,愛知県,3327,UNA-10,愛知県
 copula,か・し・ま・し☆PUMP UP！,1193,ALICE.,愛知県,1860,MONO,愛知県,2832,PEACE,愛知県
@@ -968,7 +968,7 @@ copula,M4K3 1T B0UNC3,1389,87KING,愛知県,2142,PURIN,愛知県,3021,KUREI,愛�
 copula,La dolce primavera,709,L200MP,愛知県,1393,MONO,愛知県,2177,PEACE,愛知県
 copula,Konzert V,1257,TMR089,愛知県,2306,IIDX25,愛知県,3338,RKS-32,愛知県
 copula,Journey,698,CID*,愛知県,1253,MONO,愛知県,1890,PEACE,愛知県
-copula,Inner Spirit,874,TAQ213,愛知県,1912,HISUI.,愛知県,2844,PEACE,愛知県
+copula,Inner Spirit,874,TAQ213,愛知県,1912,HISUI.,愛知県,2852,PEACE,愛知県
 copula,Highcharge Divolt,895,TMR089,愛知県,1731,PURIN,愛知県,2786,UNA-10,愛知県
 copula,Grand Chariot,1125,*TANK*,愛知県,1931,MIREI.,愛知県,3450,UNA-10,愛知県
 copula,Godspeed,1022,ZEKIRA,愛知県,1915,87KING,愛知県,3149,UNA-10,愛知県
@@ -990,7 +990,7 @@ copula,Damage Per Second,881,YORIHA,愛知県,1419,MONO,愛知県,2042,PEACE,愛
 copula,Daily Lunch Special,1051,K-OGE,愛知県,2154,HELPME,愛知県,2955,PEACE,愛知県
 copula,CODE:1 [revision1.0.1],962,MO-ZE.,愛知県,1727,MONO,愛知県,3108,KUREI,愛知県
 copula,chaos eater -IIDX edition-,1156,MO-ZE.,愛知県,1734,MONO,愛知県,2627,PEACE,愛知県
-copula,Central Station,1010,LIL.,愛知県,1578,HELPME,愛知県,2420,PEACE,愛知県
+copula,Central Station,1010,------,愛知県,1578,HELPME,愛知県,2420,PEACE,愛知県
 copula,Blue Spring Express,1272,KMOT-1,愛知県,2102,HELPME,愛知県,3294,UNA-10,愛知県
 copula,Battle Train -IIDX Edition-,886,RAI.S,愛知県,2531,PURIN,愛知県,3279,PEACE,愛知県
 copula,Aublia,959,AUL.8,愛知県,1542,MONO,愛知県,2541,PEACE,愛知県
@@ -1023,20 +1023,20 @@ SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),758,GO.I,愛知県,1829,MONO,愛知県,2902
 SINOBUZ,yamabiko (SINOBUZ Edition),983,GAMMA,愛知県,1614,MONO,愛知県,2650,UNA-10,愛知県
 SINOBUZ,XINOBIKILL,954,SASA,愛知県,1765,MONO,愛知県,2900,PEACE,愛知県
 SINOBUZ,Warrior,994,MO-ZE.,愛知県,1804,HELPME,愛知県,2495,RKS-32,愛知県
-SINOBUZ,Vermilion,883,TMR089,愛知県,1381,MONO,愛知県,2044,PEACE,愛知県
+SINOBUZ,Vermilion,883,TMR089,愛知県,1381,MONO,愛知県,2049,PEACE,愛知県
 SINOBUZ,Venom,1289,-RTB-,愛知県,2170,RIS.ZN,愛知県,3190,PEACE,愛知県
 SINOBUZ,Umbral,616,TMR089,愛知県,1418,MONO,愛知県,1928,PEACE,愛知県
 SINOBUZ,TOGAKUSHI,982,K-OGE,愛知県,1926,HELPME,愛知県,2599,RKS-32,愛知県
 SINOBUZ,The Commanders,972,87KING,愛知県,1513,MONO,愛知県,2444,PEACE,愛知県
 SINOBUZ,Sweet Clapper,564,TMR089,愛知県,1239,MONO,愛知県,1913,ANJU11,愛知県
 SINOBUZ,Super Rush,1022,TAQ213,愛知県,1873,MONO,愛知県,3529,RKS-32,愛知県
-SINOBUZ,Summerlights(IIDX Edition),1111,RUKURU,愛知県,1867,PURIN,愛知県,3111,RKS-32,愛知県
+SINOBUZ,Summerlights(IIDX Edition),1133,RAI.S,愛知県,1867,PURIN,愛知県,3111,RKS-32,愛知県
 SINOBUZ,Summer,654,TMR089,愛知県,1417,VIOLET,愛知県,1999,RKS-32,愛知県
 SINOBUZ,Steel Edge,896,CAESAR,愛知県,1496,MONO,愛知県,3169,RKS-32,愛知県
 SINOBUZ,Snakey Kung-fu,1123,GAMMA,愛知県,2193,HELPME,愛知県,3415,RKS-32,愛知県
 SINOBUZ,Sky High,1188,87KING,愛知県,2368,PURIN,愛知県,3796,RKS-32,愛知県
 SINOBUZ,SINOBUZ Fantasy,999,ABQ26R,愛知県,1709,MONO,愛知県,2412,PURIN,愛知県
-SINOBUZ,shuriken,777,HMTIOS,愛知県,1141,MONO,愛知県,2543,RKS-32,愛知県
+SINOBUZ,shuriken,781,87KING,愛知県,1141,MONO,愛知県,2543,RKS-32,愛知県
 SINOBUZ,Shoot'Em All,799,TMR089,愛知県,1472,MONO,愛知県,2495,PEACE,愛知県
 SINOBUZ,SEQUENCE CAT,1090,GO.I,愛知県,2206,87KING,愛知県,2861,PEACE,愛知県
 SINOBUZ,Selfish Sweet,644,TMR089,愛知県,979,MONO,愛知県,1731,PEACE,愛知県
@@ -1051,13 +1051,13 @@ SINOBUZ,RISING FIRE HAWK,862,A1Z4C,愛知県,1522,MONO,愛知県,2716,RKS-32,愛
 SINOBUZ,Remedy feat. Kanae Asaba,902,VIVA4,愛知県,1639,MONO,愛知県,2215,PEACE,愛知県
 SINOBUZ,Rave Cannon,1045,CID*,愛知県,1868,RIS.ZN,愛知県,3340,RKS-32,愛知県
 SINOBUZ,RAIN,1139,GAMMA,愛知県,1836,RIS.ZN,愛知県,3263,PEACE,愛知県
-SINOBUZ,Quakes,1112,SAVA,愛知県,2098,HELPME,愛知県,3161,UNA-10,愛知県
+SINOBUZ,Quakes,1124,DEVI-3,愛知県,2098,HELPME,愛知県,3161,UNA-10,愛知県
 SINOBUZ,Piano Samurai,1038,XION,愛知県,1775,MONO,愛知県,2484,ANJU11,愛知県
 SINOBUZ,PAPAYAPA BASS,787,CID*,愛知県,1567,MONO,愛知県,2824,PEACE,愛知県
 SINOBUZ,OTENAMI Hurricane,1222,02564!,愛知県,2167,PURIN,愛知県,3147,RKS-32,愛知県
 SINOBUZ,OOO,698,87KING,愛知県,1468,MONO,愛知県,2064,PEACE,愛知県
 SINOBUZ,nostos,896,JINRO!,愛知県,1337,OMEGA,愛知県,2635,PEACE,愛知県
-SINOBUZ,Music is The Answer,791,SAVA,愛知県,1429,MONO,愛知県,1934,PEACE,愛知県
+SINOBUZ,Music is The Answer,791,SAVA,愛知県,1429,MONO,愛知県,1935,PEACE,愛知県
 SINOBUZ,Modular Technology,1209,02564!,愛知県,1971,PURIN,愛知県,2677,RKS-32,愛知県
 SINOBUZ,Mare Nectaris,1484,IIDX25,愛知県,2144,PEACE,愛知県,3746,K.REI7,愛知県
 SINOBUZ,Magical,768,K-OGE,愛知県,1201,MONO,愛知県,2013,PEACE,愛知県
@@ -1109,7 +1109,7 @@ CANNON BALLERS,バ→ビ→ブ→Bomb!,820,GO.I,愛知県,1819,MONO,愛知県,25
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,874,TMR089,愛知県,1559,MONO,愛知県,2444,NA!,愛知県
 CANNON BALLERS,ナイトシティー・アヴァンチュール,1013,TMR089,愛知県,1540,MONO,愛知県,2092,NA!,愛知県
 CANNON BALLERS,シムルグの目醒め,1411,87KING,愛知県,2361,HELPME,愛知県,3432,UNA-10,愛知県
-CANNON BALLERS,エディブルフラワーの独白,818,TMR089,愛知県,1571,MONO,愛知県,2196,OEKSIJ,愛知県
+CANNON BALLERS,エディブルフラワーの独白,818,TMR089,愛知県,1571,MONO,愛知県,2196,MARCH.,愛知県
 CANNON BALLERS,うさ☆かめ 大戦争！,951,87KING,愛知県,1623,RIS.BN,愛知県,2512,KUREI,愛知県
 CANNON BALLERS,Xperanza,1341,KMOT-1,愛知県,2440,HELPME,愛知県,3189,UNA-10,愛知県
 CANNON BALLERS,VOX RUSH,1319,SNAKE,愛知県,2300,IIDX25,愛知県,3343,KUREI,愛知県
@@ -1122,7 +1122,7 @@ CANNON BALLERS,Temple of Anubis,997,RAI.S,愛知県,1535,MONO,愛知県,2645,PEA
 CANNON BALLERS,SUNLiGHT (IIDX Mix),1190,CID*,愛知県,1757,MONO,愛知県,2615,PURIN,愛知県
 CANNON BALLERS,Static State,1032,RUKURU,愛知県,1777,HISUI.,愛知県,2367,UNA-10,愛知県
 CANNON BALLERS,STARLIGHT JUNCTION,893,CID*,愛知県,1614,UNA-10,愛知県,2282,PEACE,愛知県
-CANNON BALLERS,SPEED DEMON,730,SEKI-7,愛知県,1443,MONO,愛知県,2319,PEACE,愛知県
+CANNON BALLERS,SPEED DEMON,734,RAI.S,愛知県,1443,MONO,愛知県,2319,PEACE,愛知県
 CANNON BALLERS,SPEED,887,CID*,愛知県,1643,MONO,愛知県,2598,PURIN,愛知県
 CANNON BALLERS,"Son, not gabba now",886,CID*,愛知県,1590,MONO,愛知県,2371,MIREI.,愛知県
 CANNON BALLERS,Slipstream,1072,CID*,愛知県,2057,HISUI.,愛知県,3550,RKS-32,愛知県
@@ -1132,11 +1132,11 @@ CANNON BALLERS,Raspberry Railgun,1408,DEVI-3,愛知県,2251,PURIN,愛知県,3157
 CANNON BALLERS,Rampage,1263,K-OGE,愛知県,2483,IIDX25,愛知県,3616,RKS-32,愛知県
 CANNON BALLERS,Persephone,1322,CID*,愛知県,1977,MIREI.,愛知県,2991,RKS-32,愛知県
 CANNON BALLERS,Papilio ulysses,1198,YORIHA,愛知県,2099,IIDX25,愛知県,2927,RKS-32,愛知県
-CANNON BALLERS,Only for now,913,87KING,愛知県,1583,MONO,愛知県,2273,PEACE,愛知県
+CANNON BALLERS,Only for now,913,87KING,愛知県,1583,MONO,愛知県,2275,PEACE,愛知県
 CANNON BALLERS,O/D*20,1139,TMR089,愛知県,1696,HELPME,愛知県,2128,PEACE,愛知県
 CANNON BALLERS,Nothing but Theory,1077,RUKURU,愛知県,1601,MONO,愛知県,2859,PEACE,愛知県
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,969,CID*,愛知県,1561,MONO,愛知県,2349,PEACE,愛知県
-CANNON BALLERS,NITROUS CANNON,1347,LIL.,愛知県,2065,HELPME,愛知県,3619,RKS-32,愛知県
+CANNON BALLERS,NITROUS CANNON,1347,------,愛知県,2065,HELPME,愛知県,3619,RKS-32,愛知県
 CANNON BALLERS,n'pa pa BBQ,921,TMR089,愛知県,1757,MONO,愛知県,2797,PEACE,愛知県
 CANNON BALLERS,Mira,937,CID*,愛知県,1877,MONO,愛知県,3137,PEACE,愛知県
 CANNON BALLERS,Midnight Lady,632,KMOT-1,愛知県,1177,MONO,愛知県,1953,PEACE,愛知県
@@ -1146,13 +1146,13 @@ CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1239,SEKI-7,愛知県,19
 CANNON BALLERS,Initiation,1489,YORIHA,愛知県,2501,HELPME,愛知県,3931,RKS-32,愛知県
 CANNON BALLERS,Illusionary Waterlily,1265,SNAKE,愛知県,2257,MIREI.,愛知県,3513,PEACE,愛知県
 CANNON BALLERS,I'm Coming (2017 Version),638,TMR089,愛知県,1326,MONO,愛知県,2106,PEACE,愛知県
-CANNON BALLERS,I Love You,1046,HMTIOS,愛知県,1914,HELPME,愛知県,2741,PEACE,愛知県
+CANNON BALLERS,I Love You,1046,HMTIOS,愛知県,1914,HELPME,愛知県,2742,UNA-10,愛知県
 CANNON BALLERS,HYPE THE CORE,1107,YORIHA,愛知県,2030,MIREI.,愛知県,3016,RKS-32,愛知県
 CANNON BALLERS,Hella Deep,650,87KING,愛知県,1049,ANSA,愛知県,1879,PEACE,愛知県
-CANNON BALLERS,HAT TRICK,850,CID*,愛知県,1434,MONO,愛知県,2232,RKS-32,愛知県
+CANNON BALLERS,HAT TRICK,850,CID*,愛知県,1439,TAKPOP,愛知県,2232,RKS-32,愛知県
 CANNON BALLERS,Get Up! feat. Kanae Asaba,587,TMR089,愛知県,1266,MONO,愛知県,1925,PEACE,愛知県
 CANNON BALLERS,FUTURE is Dead,904,TMR089,愛知県,1523,PEACE,愛知県,2245,ANJU11,愛知県
-CANNON BALLERS,From Time To Time,802,TMR089,愛知県,1913,OEKSIJ,愛知県,2565,PEACE,愛知県
+CANNON BALLERS,From Time To Time,802,TMR089,愛知県,1913,MARCH.,愛知県,2565,PEACE,愛知県
 CANNON BALLERS,FREEDOM,969,KMOT-1,愛知県,1736,HISUI.,愛知県,2941,RKS-32,愛知県
 CANNON BALLERS,FIRE BALL,852,TMR089,愛知県,1623,MONO,愛知県,2475,PURIN,愛知県
 CANNON BALLERS,Fervidex,847,CID*,愛知県,1820,MONO,愛知県,2703,PEACE,愛知県
@@ -1171,10 +1171,10 @@ CANNON BALLERS,Break Stasis,1300,SAVA,愛知県,1916,HISUI.,愛知県,2500,JUDY*
 CANNON BALLERS,Boomy and The Boost,1048,TMR089,愛知県,2053,MONO,愛知県,3558,RKS-32,愛知県
 CANNON BALLERS,Best of Me,808,CID*,愛知県,1601,MONO,愛知県,2229,PEACE,愛知県
 CANNON BALLERS,Beast mode,1055,GAMMA,愛知県,1560,HISUI.,愛知県,2731,UNA-10,愛知県
-CANNON BALLERS,Be a Hero!,756,CECIL,愛知県,1963,MONO,愛知県,3101,UNA-10,愛知県
+CANNON BALLERS,Be a Hero!,756,CECIL,愛知県,1963,MONO,愛知県,3107,UNA-10,愛知県
 CANNON BALLERS,Battleground,1158,RAI.S,愛知県,1883,HISUI.,愛知県,2688,PEACE,愛知県
 CANNON BALLERS,Back Spin Sweeper,817,SEKI-7,愛知県,1415,HELPME,愛知県,2264,PEACE,愛知県
-CANNON BALLERS,Around the Future,1075,CID*,愛知県,1727,HISUI.,愛知県,2598,PEACE,愛知県
+CANNON BALLERS,Around the Future,1075,CID*,愛知県,1732,MONO,愛知県,2598,PEACE,愛知県
 CANNON BALLERS,Arca,925,CID*,愛知県,1880,MONO,愛知県,3128,PEACE,愛知県
 CANNON BALLERS,Antigravity,1041,TOSMEN,愛知県,2011,KUREI,愛知県,3046,RKS-32,愛知県
 CANNON BALLERS,ANCHOR,1349,DEVI-3,愛知県,2511,KUREI,愛知県,3582,RKS-32,愛知県
@@ -1190,11 +1190,11 @@ CANNON BALLERS,2 Player,971,GO.I,愛知県,1638,MIREI.,愛知県,2563,ANJU11,愛
 CANNON BALLERS,1001 -ESCAPE-,1034,TMR089,愛知県,1712,MONO,愛知県,2637,PEACE,愛知県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1140,CID*,愛知県,2345,KUREI,愛知県,3208,PEACE,愛知県
 Rootage,金野火織の金色提言,1271,42731,愛知県,2289,KUREI,愛知県,3114,UNA-10,愛知県
-Rootage,花冠 feat.Aikapin,999,TMR089,愛知県,1700,MIREI.,愛知県,2617,UNA-10,愛知県
-Rootage,爆ゼニ☆がってんワーカー,1261,IIDX25,愛知県,1928,IIDX25,愛知県,2709,RKS-32,愛知県
+Rootage,花冠 feat.Aikapin,1016,87KING,愛知県,1700,MIREI.,愛知県,2617,UNA-10,愛知県
+Rootage,爆ゼニ☆がってんワーカー,1261,IIDX25,愛知県,1928,IIDX25,愛知県,2714,UNA-10,愛知県
 Rootage,抱きしめてモナムール,1318,ALICE.,愛知県,2336,KUREI,愛知県,4134,UNA-10,愛知県
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,694,LIA.S,愛知県,1551,RIS.ZN,愛知県,2558,NA!,愛知県
-Rootage,ミストレス・アンに花束を,585,LIA.S,愛知県,1021,DEVI-3,愛知県,1431,UNA-10,愛知県
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,694,EMILIA,愛知県,1551,RIS.ZN,愛知県,2558,NA!,愛知県
+Rootage,ミストレス・アンに花束を,585,EMILIA,愛知県,1026,RIS.BN,愛知県,1433,PEACE,愛知県
 Rootage,ハードベース・フェスタ,1147,42731,愛知県,1842,PEACE,愛知県,2858,RKS-32,愛知県
 Rootage,セカンドピアス,604,TMR089,愛知県,1107,MONO,愛知県,2027,PEACE,愛知県
 Rootage,サクラあっぱれーしょん,632,87KING,愛知県,1556,MONO,愛知県,2329,PEACE,愛知県
@@ -1226,14 +1226,14 @@ Rootage,ROZA DE ANDALUCIA,1311,42731,愛知県,2055,MONO,愛知県,3031,KUREI,�
 Rootage,"ROCK女 feat. 大山愛未, Ken",1071,ALPACA,愛知県,1880,PEACE,愛知県,2773,PEACE,愛知県
 Rootage,REPLAY,946,ALPACA,愛知県,1645,MONO,愛知県,2258,RKS-32,愛知県
 Rootage,Red. by Jack Trance,1499,ALPACA,愛知県,2160,KUREI,愛知県,3541,RKS-32,愛知県
-Rootage,Re:Story,435,LIA.S,愛知県,1139,ANJU11,愛知県,1956,UNA-10,愛知県
+Rootage,Re:Story,435,EMILIA,愛知県,1139,ANJU11,愛知県,1956,UNA-10,愛知県
 Rootage,Psycho Sheep Riddim,648,87KING,愛知県,1017,MONO,愛知県,1677,PEACE,愛知県
 Rootage,Playing With Fire,987,ALPACA,愛知県,1668,HISUI.,愛知県,2373,RKS-32,愛知県
 Rootage,Particle Arts,889,TMR089,愛知県,1673,HELPME,愛知県,2482,RKS-32,愛知県
 Rootage,Painful Fate,1252,PURIN,愛知県,2303,VIOLET,愛知県,3325,UNA-10,愛知県
 Rootage,OVER TIME,586,87KING,愛知県,984,MONO,愛知県,1557,UNA-10,愛知県
 Rootage,ONIGOROSHI,1183,IIDX25,愛知県,2153,IIDX25,愛知県,2977,UNA-10,愛知県
-Rootage,Necroxis Girl,1161,MOCCOS,愛知県,1996,HISUI.,愛知県,2812,RKS-32,愛知県
+Rootage,Necroxis Girl,1161,MOCCOS,愛知県,1996,HISUI.,愛知県,2815,PEACE,愛知県
 Rootage,Macho Monky,1440,ALPACA,愛知県,2165,KUREI,愛知県,3053,RKS-32,愛知県
 Rootage,LOST TECHNOLOGIE,1137,TMR089,愛知県,1929,IIDX25,愛知県,3472,RKS-32,愛知県
 Rootage,Level One,1243,MOCCOS,愛知県,2330,HELPME,愛知県,3556,RKS-32,愛知県
@@ -1256,7 +1256,7 @@ Rootage,DRUNK MONKY,1030,K.REI7,愛知県,1643,RIS.ZN,愛知県,2318,RKS-32,愛�
 Rootage,Drastic Dramatic,1558,42731,愛知県,2424,KUREI,愛知県,3488,RKS-32,愛知県
 Rootage,Dr. Chemical & Killing Machine,1115,87KING,愛知県,1907,RKS-32,愛知県,3377,RKS-32,愛知県
 Rootage,Digital Skipper,997,87KING,愛知県,1588,MONO,愛知県,2247,PEACE,愛知県
-Rootage,dAuntl3ss,1073,CID*,愛知県,2019,VIOLET,愛知県,3505,RKS-32,愛知県
+Rootage,dAuntl3ss,1078,RIS.BN,愛知県,2019,VIOLET,愛知県,3505,RKS-32,愛知県
 Rootage,Cranberry City ft. Luschel,853,JINJA*,愛知県,1603,MONO,愛知県,2428,UNA-10,愛知県
 Rootage,CoMAAAAAAA,1272,87KING,愛知県,2108,HELPME,愛知県,2411,RKS-32,愛知県
 Rootage,CODE:0,1420,ALPACA,愛知県,2136,ALPACA,愛知県,2828,PEACE,愛知県
