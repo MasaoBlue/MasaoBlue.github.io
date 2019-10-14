@@ -57,7 +57,7 @@
 4th style,ABSOLUTE,1122,PENGIN,海外,1767,CR.R,海外,2382,T-NUMA,海外
 4th style,250bpm,527,TOTTIE,海外,845,AM,海外,1308,CR.R,海外
 5th style,V,1277,IIDX26,海外,2460,STEVEN,海外,2978,T-NUMA,海外
-5th style,THE SHINING POLARIS,851,QQ36,海外,1190,LILIAN,海外,1544,HIBALL,海外
+5th style,THE SHINING POLARIS,851,QQ36,海外,1190,LILIAN,海外,1570,T-NUMA,海外
 5th style,THE CUBE,674,TOTTIE,海外,1197,TEFERI,海外,1305,CR.R,海外
 5th style,sync,981,QQ36,海外,1893,CR.R,海外,2349,T-NUMA,海外
 5th style,still my words,907,CR.R,海外,1227,T-NUMA,海外,0,,未設定
@@ -191,7 +191,7 @@
 10th style,Innocent Walls,1576,------,海外,2458,T-NUMA,海外,2802,T-NUMA,海外
 10th style,HIGH,890,QQ36,海外,1783,NOM,海外,2146,IIDX26,海外
 10th style,GRADIUS -FULL SPEED-,732,T-NUMA,海外,1025,LILIAN,海外,2062,T-NUMA,海外
-10th style,GHOST REVIVAL,843,QQ36,海外,1838,OTOIRO,海外,2517,T-NUMA,海外
+10th style,GHOST REVIVAL,843,QQ36,海外,1838,OTOIRO,海外,2532,T-NUMA,海外
 10th style,Freezing atmosphere,256,CLKISO,海外,988,QQ36,海外,1497,T-NUMA,海外
 10th style,FEEL IT,855,QQ36,海外,1574,MOTHER,海外,1938,T-NUMA,海外
 10th style,Feedback,924,QQ36,海外,1394,KATANA,海外,1952,T-NUMA,海外
@@ -228,7 +228,7 @@ IIDX RED,HORIZON,1008,QQ36,海外,1455,XJR,海外,1917,CR.R,海外
 IIDX RED,gigadelic,1481,JGA#77,海外,2129,T-NUMA,海外,2469,CYBERX,海外
 IIDX RED,GENOCIDE,961,QQ36,海外,1807,SIG,海外,2375,T-NUMA,海外
 IIDX RED,Fly Away To India,669,CR.R,海外,986,IIDX24,海外,1402,T-NUMA,海外
-IIDX RED,FAKE TIME,895,MATSU,海外,1651,CASE.K,海外,2347,T-NUMA,海外
+IIDX RED,FAKE TIME,895,MATSU,海外,1671,CR.R,海外,2347,T-NUMA,海外
 IIDX RED,earth scape,441,CR.R,海外,972,COCOA,海外,1263,T-NUMA,海外
 IIDX RED,Don't be afraid myself,854,ZHI,海外,1585,COCOA,海外,2243,DT-G5Q,海外
 IIDX RED,D.A.N.C.E.!,526,TOTTIE,海外,710,404,海外,1573,JGA#77,海外
@@ -238,7 +238,7 @@ IIDX RED,BREATH,776,IIDX24,海外,1178,LYCOS,海外,1636,JGA#77,海外
 IIDX RED,BLOCKS,318,CHODEE,海外,1050,PO!,海外,1958,T-NUMA,海外
 IIDX RED,Be quiet,703,SHIM,海外,1660,U.N.K,海外,2192,T-NUMA,海外
 IIDX RED,awakening,831,AMOEBA,海外,1301,QQ36,海外,1714,T-NUMA,海外
-IIDX RED,ANDROMEDA,892,TOTTIE,海外,1886,CR.R,海外,2858,T-NUMA,海外
+IIDX RED,ANDROMEDA,892,TOTTIE,海外,1886,CR.R,海外,2864,T-NUMA,海外
 IIDX RED,AGEHA,854,KWHY,海外,1602,XJR,海外,1847,IIDX26,海外
 IIDX RED,AA,1233,CR.R,海外,2677,DT-G5Q,海外,3591,T-NUMA,海外
 HAPPY SKY,月光,778,QQ36,海外,1579,-O-,海外,2403,IIDX26,海外
@@ -284,7 +284,7 @@ HAPPY SKY,CaptivAte～浄化～,999,PROG,海外,1628,COCOA,海外,2450,T-NUMA,�
 HAPPY SKY,Aurora,1203,QQ36,海外,1936,GMOVER,海外,2526,T-NUMA,海外
 HAPPY SKY,alla turca con passione,756,IIDX24,海外,1496,DA**AN,海外,2179,T-NUMA,海外
 HAPPY SKY,Agnus Dei,741,GSBOY,海外,1527,*BRO.S,海外,2066,T-NUMA,海外
-HAPPY SKY,100％ minimoo-G,524,BALR.,海外,1511,COCOA,海外,1678,CYBERX,海外
+HAPPY SKY,100％ minimoo-G,524,BALR.,海外,1537,SLOW-B,海外,1678,CYBERX,海外
 DistorteD,虹色,795,A$ZNLK,海外,1465,GMOVER,海外,1840,T-NUMA,海外
 DistorteD,華蝶風雪,1178,QQ36,海外,1980,SIG,海外,2950,T-NUMA,海外
 DistorteD,罠,558,CR.R,海外,1514,CR.R,海外,2445,T-NUMA,海外
@@ -323,7 +323,7 @@ DistorteD,Broadbanded,785,TOTTIE,海外,1323,IIDX26,海外,1964,JGA#77,海外
 DistorteD,BOOM BOOM DISCO NIGHT,814,ZHI,海外,1809,CR.R,海外,2253,JGA#77,海外
 DistorteD,Bloody Tears(IIDX EDITION),741,3Y3S,海外,1783,XJR,海外,2155,T-NUMA,海外
 DistorteD,BALLAD THE FEATHERS,448,RUSHIE,海外,979,IIDX24,海外,1503,T-NUMA,海外
-DistorteD,Apocalypse ～dirge of swans～,888,*ITO.*,海外,1599,XJR,海外,2373,T-NUMA,海外
+DistorteD,Apocalypse ～dirge of swans～,888,*ITO.*,海外,1676,SLOW-B,海外,2373,T-NUMA,海外
 DistorteD,ALFARSHEAR 双神威に廻る夢,1021,MONICA,海外,1625,CR.R,海外,2041,JGA#77,海外
 GOLD,電人、暁に斃れる。,1092,MICHAE,海外,2254,CR.R,海外,3343,T-NUMA,海外
 GOLD,零 - ZERO -,1131,QQ36,海外,1697,PROG,海外,2293,DT-G5Q,海外
@@ -445,7 +445,7 @@ EMPRESS,Punch Love 仮面,1000,A$ZNLK,海外,1580,XJR,海外,2504,IIDX26,海外
 EMPRESS,Programmed World,885,XJR,海外,1674,GMOVER,海外,2295,T-NUMA,海外
 EMPRESS,NΦ CRIME,766,A$ZNLK,海外,1309,IIDX24,海外,1872,ADA.W*,海外
 EMPRESS,neogenesis,981,CR.R,海外,1246,KATANA,海外,1649,SYM,海外
-EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2507,IIDX26,海外
+EMPRESS,naughty girl@Queen's Palace†,0,,未設定,0,,未設定,2565,245RIK,海外
 EMPRESS,naughty girl@Queen's Palace,742,SIG,海外,1570,3SYA9G,海外,2105,T-NUMA,海外
 EMPRESS,Monkey Dance '09,802,TOTTIE,海外,1541,-KYO-,海外,2198,ADA.W*,海外
 EMPRESS,Mind Mapping,818,MATSU,海外,1201,XJR,海外,1832,T-NUMA,海外
@@ -490,7 +490,7 @@ SIRIUS,Roots of my way!,429,CLKISO,海外,1125,FC365,海外,1994,JGA#77,海外
 SIRIUS,Red. by Full Metal Jacket,919,IIDX24,海外,2056,DT-G5Q,海外,3109,T-NUMA,海外
 SIRIUS,Raison d'etre～交差する宿命～,1206,CR.R,海外,2092,CR.R,海外,2714,T-NUMA,海外
 SIRIUS,quell～the seventh slave～,949,CR.R,海外,1655,NEP,海外,3147,T-NUMA,海外
-SIRIUS,Programmed Sun,1054,MIGITE,海外,1744,PROG,海外,2541,36RA51,海外
+SIRIUS,Programmed Sun,1054,MIGITE,海外,1744,PROG,海外,2576,T-NUMA,海外
 SIRIUS,NoN-Fiction Story!,698,DA**AN,海外,1306,PROG,海外,2178,36RA51,海外
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,1239,PROG,海外,1933,KAGA*N,海外,2661,T-NUMA,海外
 SIRIUS,mosaic,1363,KTGR,海外,2001,BALLS,海外,2986,T-NUMA,海外
@@ -570,7 +570,7 @@ Resort Anthem,Energy Drive,822,QQ36,海外,1346,LYCOS,海外,2205,T-NUMA,海外
 Resort Anthem,ELECTRIC MASSIVE DIVER,1199,QQ36,海外,2276,NNNNNN,海外,3691,T-NUMA,海外
 Resort Anthem,DM STAR～関西 energy style～,1059,QQ36,海外,1753,SE,海外,2388,CYBERX,海外
 Resort Anthem,Destiny Sword,791,QQ36,海外,1613,XJR,海外,2367,T-NUMA,海外
-Resort Anthem,DAYDREAMER,917,HIKO,海外,1592,CRAM,海外,2487,36RA51,海外
+Resort Anthem,DAYDREAMER,1091,CRAM,海外,1592,CRAM,海外,2487,36RA51,海外
 Resort Anthem,Dances with Snow Fairies,1248,QQ36,海外,2275,DT-G5Q,海外,3089,T-NUMA,海外
 Resort Anthem,BROKEN EDEN,940,QQ36,海外,1567,NEP,海外,2313,T-NUMA,海外
 Resort Anthem,Broken,1012,SIG,海外,1969,HIGH,海外,3140,T-NUMA,海外
@@ -588,7 +588,7 @@ Lincle,蛇神,691,040,海外,1404,XJR,海外,2809,T-NUMA,海外
 Lincle,聖人の塔,614,HANON,海外,1878,NNNNNN,海外,2957,T-NUMA,海外
 Lincle,突撃!ガラスのニーソ姫!,622,TOTTIE,海外,1027,040,海外,2078,T-NUMA,海外
 Lincle,恋する☆宇宙戦争っ！！,878,PROG,海外,1668,K2*,海外,3548,T-NUMA,海外
-Lincle,子供の落書き帳,840,QQ36,海外,1778,GO!GO!,海外,2608,T-NUMA,海外
+Lincle,子供の落書き帳,840,QQ36,海外,1778,ARUFAN,海外,2608,T-NUMA,海外
 Lincle,天空の夜明け,1284,DDDDX,海外,2180,DT-G5Q,海外,4031,T-NUMA,海外
 Lincle,君のハートにロックオン,662,SHIRYU,海外,1552,H!DERI,海外,2661,T-NUMA,海外
 Lincle,ユミル,652,CR.R,海外,1318,XJR,海外,2823,T-NUMA,海外
@@ -681,7 +681,7 @@ tricoro,To my star,598,IIDX26,海外,1236,SE,海外,1698,U.N.K,海外
 tricoro,Timepiece phase II (CN Ver.),902,*ITO.*,海外,1738,CR.R,海外,2937,T-NUMA,海外
 tricoro,Timepiece phase II,1021,XJR,海外,1953,PITONE,海外,2987,36RA51,海外
 tricoro,Time To Empress,918,CR.R,海外,1865,RAYBAL,海外,2609,T-NUMA,海外
-tricoro,Thor's Hammer,792,PIDGEY,海外,1659,KAGA*N,海外,2990,T-NUMA,海外
+tricoro,Thor's Hammer,792,PIDGEY,海外,1696,FISH*,海外,2990,T-NUMA,海外
 tricoro,Take My Life,930,LYCOS,海外,1521,XJR,海外,2911,T-NUMA,海外
 tricoro,Synergy For Angels,907,CR.R,海外,1618,RAYBAL,海外,2740,T-NUMA,海外
 tricoro,SYNC-ANTHEM,776,PIDGEY,海外,2266,1NT41,海外,3518,IIDX26,海外
@@ -701,7 +701,7 @@ tricoro,planarian,547,NACL,海外,1354,R26T.,海外,2531,T-NUMA,海外
 tricoro,Plan 8,1075,LLNGA*,海外,2050,RI*A,海外,3083,T-NUMA,海外
 tricoro,New Lights,1015,QQ36,海外,1782,U.N.K,海外,2347,U.N.K,海外
 tricoro,New Decade IIDX Edition,926,IIDX24,海外,1734,NOM,海外,3000,T-NUMA,海外
-tricoro,neu,746,UNCO,海外,2081,MOTHER,海外,3864,T-NUMA,海外
+tricoro,neu,746,UNCO,海外,2141,CR.R,海外,3864,T-NUMA,海外
 tricoro,Neonlights,586,ZHI,海外,1487,DDDDX,海外,2193,DT-G5Q,海外
 tricoro,mnemoniq,508,DA**AN,海外,858,QQ36,海外,1278,JGA#77,海外
 tricoro,LUV CAN SAVE U†,0,,未設定,0,,未設定,2642,CR.R,海外
@@ -847,7 +847,7 @@ PENDUAL,とろぴかる倶楽部,437,PIKA,海外,1351,TIGREX,海外,2249,T-NUMA,
 PENDUAL,それは花火のような恋,1255,XJR,海外,2546,DT-G5Q,海外,3825,T-NUMA,海外
 PENDUAL,ZZ,1129,H.KND,海外,1930,GMOVER,海外,2947,BLYAT,海外
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,829,PPN10,海外,2333,DT-G5Q,海外,3578,36RA51,海外
-PENDUAL,Vulkan,336,CLKISO,海外,1867,SE,海外,2978,T-NUMA,海外
+PENDUAL,Vulkan,669,LAKRIT,海外,1867,SE,海外,2978,T-NUMA,海外
 PENDUAL,TOXIC VIBRATION,1612,CR.R,海外,2381,JGA#77,海外,3749,T-NUMA,海外
 PENDUAL,TIEFSEE,1208,QQ36,海外,2120,CR.R,海外,3318,IIDX26,海外
 PENDUAL,The Least 100sec,632,GMOVER,海外,1396,COCOA,海外,2822,T-NUMA,海外
@@ -899,7 +899,7 @@ PENDUAL,cinder,555,SUNAMI,海外,1857,LILIAN,海外,3093,T-NUMA,海外
 PENDUAL,Chronos,642,UNCO,海外,1288,DA**AN,海外,2261,36RA51,海外
 PENDUAL,Chrono Diver -PENDULUMs-,1408,ERA,海外,2685,JGA#77,海外,4295,T-NUMA,海外
 PENDUAL,CHRONO DIVER -NORNIR-†,0,,未設定,0,,未設定,4168,IIDX26,海外
-PENDUAL,CHRONO DIVER -NORNIR-,1161,CR.R,海外,2157,CR.R,海外,2991,JGA#77,海外
+PENDUAL,CHRONO DIVER -NORNIR-,1161,CR.R,海外,2157,CR.R,海外,3034,IZUNA.,海外
 PENDUAL,chrono diver -fragment-†,0,,未設定,0,,未設定,2222,HIBALL,海外
 PENDUAL,chrono diver -fragment-,685,CR.R,海外,1112,NOUKA,海外,1774,DT-G5Q,海外
 PENDUAL,Chain of pain,702,SHIRYU,海外,1417,DDDDX,海外,2234,T-NUMA,海外
@@ -982,7 +982,7 @@ copula,Everlasting Last,817,ACS,海外,1582,COCOA,海外,2207,CYBERX,海外
 copula,Dynamite,1145,SHADS!,海外,2390,ADA.W*,海外,3805,T-NUMA,海外
 copula,Donkey Donk,773,ACDC,海外,1622,HIGH,海外,2219,IIDX26,海外
 copula,do the thing feat. Kanae Asaba,568,BLYAT,海外,1345,NYAKKI,海外,2227,$TANG,海外
-copula,DIAMOND CROSSING,842,SORA,海外,1680,U.N.K,海外,3037,T-NUMA,海外
+copula,DIAMOND CROSSING,842,SORA,海外,1682,U.N.K,海外,3037,T-NUMA,海外
 copula,Devil's Gear,1005,-O-,海外,2115,CR.R,海外,3386,T-NUMA,海外
 copula,Derelict Star feat. Ryu*,1402,CR.R,海外,1741,RCHE,海外,2578,CYBERX,海外
 copula,Damage Per Second†,0,,未設定,0,,未設定,2288,T-NUMA,海外
@@ -1145,7 +1145,7 @@ CANNON BALLERS,LIGHTS ft. EVO+,626,404,海外,1382,GMOVER,海外,2330,DT-G5Q,海
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1217,QQ36,海外,1798,KAGA*N,海外,3393,T-NUMA,海外
 CANNON BALLERS,Initiation,1344,KATANA,海外,2472,DT-G5Q,海外,3875,T-NUMA,海外
 CANNON BALLERS,Illusionary Waterlily,1195,QQ36,海外,2083,GMOVER,海外,3482,T-NUMA,海外
-CANNON BALLERS,I'm Coming (2017 Version),405,FRZ,海外,1269,XJR,海外,2068,JGA#77,海外
+CANNON BALLERS,I'm Coming (2017 Version),508,KURISU,海外,1269,XJR,海外,2068,JGA#77,海外
 CANNON BALLERS,I Love You,1011,SHIRYU,海外,1795,GREEN,海外,2648,HIBALL,海外
 CANNON BALLERS,HYPE THE CORE,1044,*ITO.*,海外,1976,36RA51,海外,2974,T-NUMA,海外
 CANNON BALLERS,Hella Deep,637,IZUNA.,海外,1051,IZUNA.,海外,1840,T-NUMA,海外
@@ -1186,7 +1186,7 @@ CANNON BALLERS,ACCELERATE,1087,QQ36,海外,1630,LILIAN,海外,2465,DT-G5Q,海外
 CANNON BALLERS,Abraxas,741,404,海外,1541,KATANA,海外,2412,T-NUMA,海外
 CANNON BALLERS,AA -rebuild-,1192,NEP,海外,2389,JGA#77,海外,3449,IIDX26,海外
 CANNON BALLERS,255,860,-O-,海外,1487,BALLS,海外,3258,T-NUMA,海外
-CANNON BALLERS,2 Player,888,QQ36,海外,1464,COCOA,海外,2471,CYBERX,海外
+CANNON BALLERS,2 Player,888,QQ36,海外,1464,COCOA,海外,2481,IZUNA.,海外
 CANNON BALLERS,1001 -ESCAPE-,956,SHIRYU,海外,1490,IIDX24,海外,2616,T-NUMA,海外
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1130,CR.R,海外,2327,ADA.W*,海外,3189,T-NUMA,海外
 Rootage,金野火織の金色提言,1255,CR.R,海外,2272,DT-G5Q,海外,3127,T-NUMA,海外
