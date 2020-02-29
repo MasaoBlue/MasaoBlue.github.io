@@ -49,7 +49,7 @@
 4th style,DXY!,1242,HARUNA,秋田県,1744,HARUNA,秋田県,2199,Y.I.,秋田県
 4th style,Clione†,0,,未設定,0,,未設定,2096,Y.I.,秋田県
 4th style,Clione,409,REVEL,秋田県,913,OSANPO,秋田県,1596,MASAKI,秋田県
-4th style,CHECKING YOU OUT,605,HAPICO,秋田県,876,MASAKI,秋田県,1276,Y.I.,秋田県
+4th style,CHECKING YOU OUT,605,3Q,秋田県,876,MASAKI,秋田県,1276,Y.I.,秋田県
 4th style,Burnin' The Floor,572,HARUNA,秋田県,817,TWEAK!,秋田県,1425,MASAKI,秋田県
 4th style,Broken My Heart,850,TORU.K,秋田県,1449,TOROKU,秋田県,1774,MASAKI,秋田県
 4th style,B4U,985,SIXA,秋田県,1564,MASAKI,秋田県,1935,MASAKI,秋田県
@@ -76,6 +76,7 @@
 5th style,Abyss,1242,SIXA,秋田県,1535,NONOKA,秋田県,1821,-GEAR-,秋田県
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),953,YUTO,秋田県,1543,HARUNA,秋田県,0,,未設定
 6th style,こっちを向いてよ,0,,未設定,1216,­,秋田県,1357,MASAKI,秋田県
+6th style,VJ ARMY,1229,KANI,秋田県,1635,K.AI,秋田県,2070,EOTOKO,秋田県
 6th style,Take It Easy,1454,HARUNA,秋田県,2252,NAGIGI,秋田県,2427,Y.I.,秋田県
 6th style,Summer Vacation(CU mix),1218,OSANPO,秋田県,1762,EOTOKO,秋田県,0,,未設定
 6th style,SOMETHING WONDERFUL,842,DOYAKO,秋田県,1136,YUTO,秋田県,1911,EOTOKO,秋田県
@@ -154,7 +155,7 @@
 9th style,Really Love,619,AU-MIN,秋田県,963,MASAKI,秋田県,1705,MASAKI,秋田県
 9th style,Quickening,835,*M*,秋田県,1597,DC.H,秋田県,2051,Y.I.,秋田県
 9th style,quasar,1148,HARUNA,秋田県,1751,TOROKU,秋田県,2245,Y.I.,秋田県
-9th style,one or eight,1316,HARUNA,秋田県,1699,HAPICO,秋田県,2135,Y.I.,秋田県
+9th style,one or eight,1316,HARUNA,秋田県,1699,3Q,秋田県,2135,Y.I.,秋田県
 9th style,moon_child,939,YUTO,秋田県,1741,GGAOS,秋田県,2438,Y.I.,秋田県
 9th style,MARIA (I believe... ),302,UN*,秋田県,1471,TOROKU,秋田県,1895,EOTOKO,秋田県
 9th style,Make A Difference,780,*M*,秋田県,1481,DEF,秋田県,2109,EOTOKO,秋田県
@@ -218,7 +219,7 @@ IIDX RED,spiral galaxy,1058,SIXA,秋田県,1888,KANI,秋田県,2501,Y.I.,秋田�
 IIDX RED,Sphere,1009,HN0123,秋田県,1697,SHUN-X,秋田県,2062,NONOKA,秋田県
 IIDX RED,SPEEDY CAT,1126,SIXA,秋田県,1644,-GEAR-,秋田県,1990,MASAKI,秋田県
 IIDX RED,Secret of Love,0,,未設定,1425,HARUNA,秋田県,1948,Y.I.,秋田県
-IIDX RED,RESONATE 1794,913,HARUNA,秋田県,1364,HAPICO,秋田県,1803,Y.I.,秋田県
+IIDX RED,RESONATE 1794,913,HARUNA,秋田県,1364,3Q,秋田県,1803,Y.I.,秋田県
 IIDX RED,RED ZONE†,0,,未設定,0,,未設定,2925,Y.I.,秋田県
 IIDX RED,RED ZONE,1099,SIXA,秋田県,1799,GOMATA,秋田県,2246,Y.I.,秋田県
 IIDX RED,Raspberry Heart(English version),1023,SIXA,秋田県,1522,TOROKU,秋田県,1808,EOTOKO,秋田県
@@ -252,6 +253,7 @@ HAPPY SKY,We are Disっ娘よっつ打ち命,656,TOROKU,秋田県,879,OSANPO,秋
 HAPPY SKY,Votum stellarum,539,OINARI,秋田県,1502,DEF,秋田県,1935,AOTA,秋田県
 HAPPY SKY,vault of heaven,701,RH,秋田県,1320,SHUN-X,秋田県,1968,MASAKI,秋田県
 HAPPY SKY,Under the Sky,848,ABFRYA,秋田県,1379,HARUNA,秋田県,1712,MASAKI,秋田県
+HAPPY SKY,Twelfth Style†,0,,未設定,0,,未設定,2967,EOTOKO,秋田県
 HAPPY SKY,Twelfth Style,1194,SIXA,秋田県,1460,HARUNA,秋田県,1956,EOTOKO,秋田県
 HAPPY SKY,Tizona d'El Cid,921,HARUNA,秋田県,1571,*M*,秋田県,2193,GOMATA,秋田県
 HAPPY SKY,SigSig,1073,SIXA,秋田県,1604,TOROKU,秋田県,2549,EOTOKO,秋田県
@@ -273,12 +275,13 @@ HAPPY SKY,INAZUMA,992,*,秋田県,1475,S-I-N,秋田県,2608,EOTOKO,秋田県
 HAPPY SKY,in motion,763,ABFRYA,秋田県,1034,AU-MIN,秋田県,1277,AJI.,秋田県
 HAPPY SKY,I am,659,IIDX26,秋田県,1712,HARUNA,秋田県,2102,MASAKI,秋田県
 HAPPY SKY,HAPPY☆ANGEL,980,YUTO,秋田県,1530,HARUNA,秋田県,2068,MASAKI,秋田県
+HAPPY SKY,GREEN EYES,1004,MASAKI,秋田県,1583,HARUNA,秋田県,2146,MASAKI,秋田県
 HAPPY SKY,Get'em up to R.A.V.E,761,OINARI,秋田県,1562,SAKU,秋田県,2258,MASAKI,秋田県
 HAPPY SKY,garden,783,YUTO,秋田県,1416,TOROKU,秋田県,2084,U.S.A,秋田県
 HAPPY SKY,First Resolution,0,,未設定,1583,HARUNA,秋田県,2099,EOTOKO,秋田県
 HAPPY SKY,EMPTY OF THE SKY,646,TOROKU,秋田県,1050,MASAKI,秋田県,1668,MASAKI,秋田県
 HAPPY SKY,EDEN,1239,HN0123,秋田県,1923,MASAKI,秋田県,2673,MASAKI,秋田県
-HAPPY SKY,double thrash,947,RH,秋田県,1959,HAPICO,秋田県,2223,EOTOKO,秋田県
+HAPPY SKY,double thrash,947,RH,秋田県,1959,3Q,秋田県,2223,EOTOKO,秋田県
 HAPPY SKY,Catch Me,600,IIDX26,秋田県,1262,HARUNA,秋田県,1690,EOTOKO,秋田県
 HAPPY SKY,CaptivAte～浄化～,1013,SIXA,秋田県,1707,K.AI,秋田県,2384,Y.I.,秋田県
 HAPPY SKY,Aurora,1366,TOROKU,秋田県,2021,HARUNA,秋田県,2461,MASAKI,秋田県
@@ -305,25 +308,25 @@ DistorteD,Sun Field,558,TOROKU,秋田県,1497,TOROKU,秋田県,2321,EOTOKO,秋�
 DistorteD,So Fabulous !!,1035,TORU.K,秋田県,1422,ROAM,秋田県,2298,EOTOKO,秋田県
 DistorteD,Power of Love,899,ABFRYA,秋田県,1606,HARUNA,秋田県,2055,EOTOKO,秋田県
 DistorteD,MOON,598,OINARI,秋田県,1777,SESAMI,秋田県,2141,EOTOKO,秋田県
-DistorteD,MINT,899,DOYAKO,秋田県,1656,HAPICO,秋田県,2173,CENT,秋田県
+DistorteD,MINT,899,DOYAKO,秋田県,1656,3Q,秋田県,2173,CENT,秋田県
 DistorteD,Melody Life,376,UN*,秋田県,1187,S-I-N,秋田県,1809,AJI.,秋田県
 DistorteD,Leaving...,448,BAFUN!,秋田県,1346,TOROKU,秋田県,2101,EOTOKO,秋田県
 DistorteD,INFERNO,701,IIDX26,秋田県,1559,HARUNA,秋田県,1877,TOROKU,秋田県
 DistorteD,Heavenly Sun (IIDX VERSION),0,,未設定,1462,Q-SILV,秋田県,2059,EOTOKO,秋田県
 DistorteD,Harmony and Lovely,855,HARUNA,秋田県,1664,KOBJPN,秋田県,2208,Y.I.,秋田県
-DistorteD,Ganymede,918,YURA,秋田県,1596,HAPICO,秋田県,2207,TOROKU,秋田県
+DistorteD,Ganymede,918,YURA,秋田県,1596,3Q,秋田県,2207,TOROKU,秋田県
 DistorteD,EURO-ROMANCE,871,*M*,秋田県,1640,RETRY,秋田県,2022,EOTOKO,秋田県
 DistorteD,DUE TOMORROW,923,MASAKI,秋田県,1246,KANI,秋田県,1895,MASAKI,秋田県
 DistorteD,Double Loving Heart,570,TOROKU,秋田県,1107,TWEAK!,秋田県,1759,AJI.,秋田県
 DistorteD,D.C.fish,863,KKR,秋田県,1887,HARUNA,秋田県,2263,-GEAR-,秋田県
 DistorteD,CONTRACT†,0,,未設定,0,,未設定,2540,NONOKA,秋田県
-DistorteD,CONTRACT,1151,DC.H,秋田県,1559,HAPICO,秋田県,1988,Y.I.,秋田県
+DistorteD,CONTRACT,1151,DC.H,秋田県,1559,3Q,秋田県,1988,Y.I.,秋田県
 DistorteD,Concertino in Blue,722,YURA,秋田県,1604,NYA.C,秋田県,2303,Y.I.,秋田県
 DistorteD,Broadbanded,519,TOMO,秋田県,1318,MASAKI,秋田県,1951,Y.I.,秋田県
 DistorteD,BOOM BOOM DISCO NIGHT,900,KKR,秋田県,1717,TOROKU,秋田県,2159,OSANPO,秋田県
 DistorteD,Bloody Tears(IIDX EDITION),856,MAKOT0,秋田県,1915,GOMATA,秋田県,2103,OSANPO,秋田県
 DistorteD,BALLAD THE FEATHERS,684,ABFRYA,秋田県,1071,HARUNA,秋田県,1484,MASAKI,秋田県
-DistorteD,Apocalypse ～dirge of swans～,958,HAPICO,秋田県,1695,GOMATA,秋田県,2308,EOTOKO,秋田県
+DistorteD,Apocalypse ～dirge of swans～,958,3Q,秋田県,1695,GOMATA,秋田県,2308,EOTOKO,秋田県
 DistorteD,ALFARSHEAR 双神威に廻る夢,775,MAKOT0,秋田県,1615,TOROKU,秋田県,2028,AOTA,秋田県
 GOLD,電人、暁に斃れる。,1497,HARUNA,秋田県,2295,GOMATA,秋田県,3171,Y.I.,秋田県
 GOLD,零 - ZERO -,1049,YURA,秋田県,1708,CAMINO,秋田県,2245,EOTOKO,秋田県
@@ -354,9 +357,10 @@ GOLD,Love Again...,567,TOROKU,秋田県,772,HARUNA,秋田県,1062,AJI.,秋田県
 GOLD,LASER CRUSTER,1416,HARUNA,秋田県,2361,Y.I.,秋田県,3041,TOROKU,秋田県
 GOLD,KAMAITACHI†,0,,未設定,0,,未設定,3421,NONOKA,秋田県
 GOLD,KAMAITACHI,1246,SIXA,秋田県,1914,HARUNA,秋田県,2627,Y.I.,秋田県
-GOLD,INORI,1268,ABFRYA,秋田県,2434,HAPICO,秋田県,3047,Y.I.,秋田県
+GOLD,INORI,1268,ABFRYA,秋田県,2434,3Q,秋田県,3047,Y.I.,秋田県
 GOLD,High School Love,761,TONTON,秋田県,1512,HARUNA,秋田県,2196,MASAKI,秋田県
 GOLD,heaven above,650,TONTON,秋田県,1376,TOROKU,秋田県,1817,MASAKI,秋田県
+GOLD,GRID KNIGHT†,0,,未設定,0,,未設定,3366,Y.I.,秋田県
 GOLD,GRID KNIGHT,809,HARUNA,秋田県,1757,QKANA,秋田県,2566,MASAKI,秋田県
 GOLD,GOLD RUSH,1150,CRUISE,秋田県,1380,AU-MIN,秋田県,2285,MASAKI,秋田県
 GOLD,four-leaf,699,KKR,秋田県,1145,NYA.C,秋田県,1626,EOTOKO,秋田県
@@ -376,10 +380,12 @@ DJ TROOPERS,少年A,1226,K.AI,秋田県,1949,LCHE-4,秋田県,2652,Y.I.,秋田�
 DJ TROOPERS,ミラージュ・レジデンス,1048,DEF,秋田県,1798,MERUEL,秋田県,2515,EOTOKO,秋田県
 DJ TROOPERS,マチ子の唄,387,CLTGDL,秋田県,1191,YUTO,秋田県,1762,MASAKI,秋田県
 DJ TROOPERS,エコ爺,0,,未設定,1244,AKAMA,秋田県,1779,AKAMA,秋田県
+DJ TROOPERS,Wanna Party?†,0,,未設定,0,,未設定,2570,Y.I.,秋田県
 DJ TROOPERS,Wanna Party?,751,HARUNA,秋田県,1118,Q-SILV,秋田県,1501,MASAKI,秋田県
 DJ TROOPERS,Ubertreffen†,0,,未設定,0,,未設定,3027,EOTOKO,秋田県
 DJ TROOPERS,Ubertreffen,1089,SIXA,秋田県,1844,HARUNA,秋田県,2375,AOTA,秋田県
 DJ TROOPERS,TROOPERS,1233,MASAKI,秋田県,2312,HARUNA,秋田県,2806,MASAKI,秋田県
+DJ TROOPERS,TRIP MACHINE PhoeniX,691,MASAKI,秋田県,1526,KANI,秋田県,1719,EOTOKO,秋田県
 DJ TROOPERS,Time to Air,1253,SIXA,秋田県,2009,HARUNA,秋田県,2747,1NOSE,秋田県
 DJ TROOPERS,the trigger of innocence,0,,未設定,1160,HARUNA,秋田県,1838,MASAKI,秋田県
 DJ TROOPERS,THE DEEP STRIKER†,0,,未設定,0,,未設定,3304,EOTOKO,秋田県
@@ -400,6 +406,7 @@ DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,746,IIDX26,秋田
 DJ TROOPERS,MENTAL MELTDOWN,1047,HN0123,秋田県,2107,A*RISK,秋田県,2666,Y.I.,秋田県
 DJ TROOPERS,MENDES,1096,KANI,秋田県,2493,Y.I.,秋田県,3376,TOROKU,秋田県
 DJ TROOPERS,MAX LOVE,1337,YUTO,秋田県,2116,TOROKU,秋田県,2562,AU-MIN,秋田県
+DJ TROOPERS,madrugada,677,S-I-N,秋田県,1213,MASAKI,秋田県,1800,MASAKI,秋田県
 DJ TROOPERS,LOVELY STORM,1174,YUTO,秋田県,2076,HAYA,秋田県,2726,Y.I.,秋田県
 DJ TROOPERS,Kick Out 仮面,0,,未設定,1542,HARUNA,秋田県,2008,MASAKI,秋田県
 DJ TROOPERS,in the Sky,1359,TOROKU,秋田県,2013,K.AI,秋田県,2517,MASAKI,秋田県
@@ -412,7 +419,7 @@ DJ TROOPERS,end of world,705,MISUZU,秋田県,1665,KOBJPN,秋田県,2398,AOTA,�
 DJ TROOPERS,Do it!! Do it!!,993,HARUNA,秋田県,1359,TKS321,秋田県,1799,EOTOKO,秋田県
 DJ TROOPERS,Digitank System,953,MASAKI,秋田県,1571,MASAKI,秋田県,2053,MASAKI,秋田県
 DJ TROOPERS,Dazzlin' Darlin,804,NABE,秋田県,1381,TOROKU,秋田県,2219,MASAKI,秋田県
-DJ TROOPERS,Darling my LUV,677,HARUNA,秋田県,1013,MASAKI,秋田県,1354,HAPICO,秋田県
+DJ TROOPERS,Darling my LUV,677,HARUNA,秋田県,1013,MASAKI,秋田県,1354,3Q,秋田県
 DJ TROOPERS,Blue Rain†,0,,未設定,0,,未設定,3082,NONOKA,秋田県
 DJ TROOPERS,Blue Rain,993,SIXA,秋田県,1396,TYNN,秋田県,2205,Y.I.,秋田県
 DJ TROOPERS,beatonic nation,1256,SIXA,秋田県,1756,CAMINO,秋田県,2082,EOTOKO,秋田県
@@ -469,7 +476,7 @@ EMPRESS,B4U(BEMANI FOR YOU MIX),1191,SIXA,秋田県,2287,TOROKU,秋田県,3366,E
 EMPRESS,Arabian Rave Night,1283,SIXA,秋田県,2206,GOMATA,秋田県,2850,TOROKU,秋田県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,1017,HARUNA,秋田県,1655,DEF,秋田県,2484,TOROKU,秋田県
 EMPRESS,ALL I NEED YOUR LOVE,1084,SIXA,秋田県,1660,HARUNA,秋田県,2008,AJI.,秋田県
-EMPRESS,3y3s,1456,TOROKU,秋田県,2363,HAPICO,秋田県,3223,TOROKU,秋田県
+EMPRESS,3y3s,1456,TOROKU,秋田県,2363,3Q,秋田県,3223,TOROKU,秋田県
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",671,HARUNA,秋田県,1419,*M*,秋田県,2001,EOTOKO,秋田県
 SIRIUS,未来のプリズム,669,HARUNA,秋田県,1356,HARUNA,秋田県,1742,MASAKI,秋田県
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,1301,MASAKI,秋田県,2084,KOBJPN,秋田県,3016,Y.I.,秋田県
@@ -522,6 +529,7 @@ SIRIUS,beatchic☆仮面～好き、でいさせて～,982,HARUNA,秋田県,1605
 SIRIUS,bass 2 bass,712,HARUNA,秋田県,1245,HARUNA,秋田県,1816,MASAKI,秋田県
 SIRIUS,Bad Maniacs,1253,TOROKU,秋田県,1819,GOMATA,秋田県,3072,TOROKU,秋田県
 SIRIUS,Almagest,998,TOROKU,秋田県,2073,Y.I.,秋田県,2955,TOROKU,秋田県
+SIRIUS,AIR RAID FROM THA UNDAGROUND†,0,,未設定,0,,未設定,2801,Y.I.,秋田県
 SIRIUS,AIR RAID FROM THA UNDAGROUND,1160,SIXA,秋田県,1734,K.AI,秋田県,2308,Y.I.,秋田県
 Resort Anthem,黒髪乱れし修羅となりて,611,MISUZU,秋田県,1968,KANI,秋田県,3263,TOROKU,秋田県
 Resort Anthem,灼熱Beach Side Bunny,1057,SIXA,秋田県,1923,MASAKI,秋田県,2758,MASAKI,秋田県
@@ -529,6 +537,7 @@ Resort Anthem,旅人リラン,1131,SIXA,秋田県,1903,CRUISE,秋田県,2507,Y.I
 Resort Anthem,夕焼け ～Fading Day～,992,SIXA,秋田県,1900,AU-MIN,秋田県,2698,Y.I.,秋田県
 Resort Anthem,中華急行,323,TORU.K,秋田県,1489,TOROKU,秋田県,2272,MASAKI,秋田県
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,878,SIXA,秋田県,1368,HARUNA,秋田県,1802,EOTOKO,秋田県
+Resort Anthem,おおきなこえで†,0,,未設定,0,,未設定,2123,MASAKI,秋田県
 Resort Anthem,おおきなこえで,442,HARUNA,秋田県,954,HARUNA,秋田県,1457,MASAKI,秋田県
 Resort Anthem,ZETA～素数の世界と超越者～,592,TORU.K,秋田県,1962,..L7.S,秋田県,3020,TOROKU,秋田県
 Resort Anthem,XANADU OF TWO,987,KANI,秋田県,1663,EULECA,秋田県,2655,NUKETA,秋田県
@@ -555,6 +564,7 @@ Resort Anthem,Programmed Life,1048,HN0123,秋田県,1541,DEF,秋田県,2252,EOTO
 Resort Anthem,perditus†paradisus,1255,KOBJPN,秋田県,2396,Y.I.,秋田県,3538,1NOSE,秋田県
 Resort Anthem,passionate fate,1142,SIXA,秋田県,1548,TOROKU,秋田県,2079,MASAKI,秋田県
 Resort Anthem,PARADISE LOST,1202,YURA,秋田県,2231,HARUNA,秋田県,3011,1NOSE,秋田県
+Resort Anthem,New Castle Legions,999,MASAKI,秋田県,1902,MASAKI,秋田県,2546,MASAKI,秋田県
 Resort Anthem,Never Fade Away,748,OSANPO,秋田県,1448,*M*,秋田県,2881,Y.I.,秋田県
 Resort Anthem,Mermaid girl,980,SIXA,秋田県,1629,KANI,秋田県,2188,MASAKI,秋田県
 Resort Anthem,Medicine of love,623,HN0123,秋田県,1004,DEF,秋田県,1689,NONOKA,秋田県
@@ -665,7 +675,7 @@ tricoro,トリカゴノ鳳凰,1151,SIXA,秋田県,1819,RH,秋田県,3561,Y.I.,�
 tricoro,シュレーディンガーの猫,1131,SIXA,秋田県,2246,RT*MGR,秋田県,3231,TOROKU,秋田県
 tricoro,キャトられ恋はモ～モク,1469,SIXA,秋田県,2486,AU-MIN,秋田県,3556,1NOSE,秋田県
 tricoro,カジノファイヤーことみちゃん,588,DEF,秋田県,1302,LARK9,秋田県,2289,AOTA,秋田県
-tricoro,アストライアの双皿,673,CAMINO,秋田県,1979,HAPICO,秋田県,2943,Y.I.,秋田県
+tricoro,アストライアの双皿,673,CAMINO,秋田県,1979,3Q,秋田県,2943,Y.I.,秋田県
 tricoro,たまゆら,1163,SIXA,秋田県,1832,OSANPO,秋田県,2616,TOROKU,秋田県
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,879,SIXA,秋田県,1523,HARUNA,秋田県,2122,-GEAR-,秋田県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),436,HANAYO,秋田県,1631,-GEAR-,秋田県,3326,TOROKU,秋田県
@@ -679,13 +689,13 @@ tricoro,Valanga,1308,HARUNA,秋田県,2119,GOMATA,秋田県,3117,TOROKU,秋田�
 tricoro,True Blue,1092,SIXA,秋田県,2367,HARUNA,秋田県,3527,AOTA,秋田県
 tricoro,To my star,594,RT*MGR,秋田県,1176,COBALT,秋田県,1702,AJI.,秋田県
 tricoro,Timepiece phase II (CN Ver.),955,SIXA,秋田県,1734,HARUNA,秋田県,2747,TOROKU,秋田県
-tricoro,Timepiece phase II,586,AONORI,秋田県,2009,HAPICO,秋田県,2926,Y.I.,秋田県
+tricoro,Timepiece phase II,586,AONORI,秋田県,2009,3Q,秋田県,2926,Y.I.,秋田県
 tricoro,Time To Empress,910,K.AI,秋田県,1886,AOTA,秋田県,2505,EOTOKO,秋田県
 tricoro,Thor's Hammer,947,­,秋田県,1740,ABE244,秋田県,2756,TOROKU,秋田県
 tricoro,Take My Life,965,SIXA,秋田県,1578,TOROKU,秋田県,2765,Y.I.,秋田県
 tricoro,Synergy For Angels,899,HARUNA,秋田県,1602,NAGIGI,秋田県,2691,MASAKI,秋田県
 tricoro,SYNC-ANTHEM,950,SIXA,秋田県,2291,KANI,秋田県,3444,Y.I.,秋田県
-tricoro,STULTI,737,TORU.K,秋田県,1517,HAPICO,秋田県,2550,Y.I.,秋田県
+tricoro,STULTI,737,TORU.K,秋田県,1517,3Q,秋田県,2550,Y.I.,秋田県
 tricoro,Sol Cosine Job 2,845,4DU9,秋田県,1613,HARUNA,秋田県,2900,Y.I.,秋田県
 tricoro,SHION,566,SARYO,秋田県,1249,TORU.K,秋田県,2644,EOTOKO,秋田県
 tricoro,Shining World,1156,YUTO,秋田県,1566,TOROKU,秋田県,1935,MASAKI,秋田県
@@ -724,7 +734,7 @@ tricoro,FLOWER,1105,SIXA,秋田県,1767,GOMATA,秋田県,2775,TOROKU,秋田県
 tricoro,examination leave,1147,SIXA,秋田県,1765,SHUN-X,秋田県,3321,MASAKI,秋田県
 tricoro,Elemental Creation,1461,HARUNA,秋田県,2313,GOMATA,秋田県,3869,TOROKU,秋田県
 tricoro,Devilz Staircase,651,TOROKU,秋田県,2146,TOROKU,秋田県,3062,EOTOKO,秋田県
-tricoro,DAY DREAM,541,HAPICO,秋田県,1208,­,秋田県,1835,Y.I.,秋田県
+tricoro,DAY DREAM,541,3Q,秋田県,1208,­,秋田県,1835,Y.I.,秋田県
 tricoro,Cookie Bouquets,874,SIXA,秋田県,2008,K.AI,秋田県,3340,MASAKI,秋田県
 tricoro,connective,390,TOROKU,秋田県,1100,HARUNA,秋田県,1555,AJI.,秋田県
 tricoro,Confiserie,947,HARUNA,秋田県,2097,TOROKU,秋田県,3293,TOROKU,秋田県
@@ -782,7 +792,8 @@ SPADA,Lighting Shower,782,181126,秋田県,1322,HARUNA,秋田県,2274,89ODO,秋�
 SPADA,Last Dance,1204,HARUNA,秋田県,1998,MASAKI,秋田県,3005,Y.I.,秋田県
 SPADA,LA FESTA LA VITA!!,845,HARUNA,秋田県,1652,DEF,秋田県,2770,Y.I.,秋田県
 SPADA,KHAMEN BREAK,584,TOROKU,秋田県,1341,AU-MIN,秋田県,2366,Y.I.,秋田県
-SPADA,KAISER PHOENIX,1310,SIXA,秋田県,2061,HAPICO,秋田県,3074,TOROKU,秋田県
+SPADA,KAISER PHOENIX†,0,,未設定,0,,未設定,3629,TOROKU,秋田県
+SPADA,KAISER PHOENIX,1310,SIXA,秋田県,2061,3Q,秋田県,3074,TOROKU,秋田県
 SPADA,IX,1250,KANI,秋田県,2340,MASAKI,秋田県,3567,TOROKU,秋田県
 SPADA,invoker†LEGGENDARIA,0,,未設定,0,,未設定,3253,Y.I.,秋田県
 SPADA,invoker,1105,SIXA,秋田県,1857,AU-MIN,秋田県,3042,Y.I.,秋田県
@@ -848,7 +859,7 @@ PENDUAL,それは花火のような恋,1271,SIXA,秋田県,2392,KANI,秋田県,3
 PENDUAL,ZZ,1306,SIXA,秋田県,1989,Y.I.,秋田県,2885,Y.I.,秋田県
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,842,MA2RI,秋田県,2188,KOBJPN,秋田県,3476,TOROKU,秋田県
 PENDUAL,Vulkan,1019,AU-MIN,秋田県,2007,MASAKI,秋田県,2918,Y.I.,秋田県
-PENDUAL,TOXIC VIBRATION,1577,HARUNA,秋田県,2317,HAPICO,秋田県,3535,1NOSE,秋田県
+PENDUAL,TOXIC VIBRATION,1577,HARUNA,秋田県,2317,3Q,秋田県,3535,1NOSE,秋田県
 PENDUAL,TIEFSEE,1278,SIXA,秋田県,2030,KANI,秋田県,3323,Y.I.,秋田県
 PENDUAL,The Least 100sec,783,HARUNA,秋田県,1267,ACT,秋田県,2739,EOTOKO,秋田県
 PENDUAL,TA・DA ☆ YO・SHI,1132,SIXA,秋田県,1557,NYNTIK,秋田県,2201,EOTOKO,秋田県
@@ -877,7 +888,7 @@ PENDUAL,Line 4 Ruin,641,TAC,秋田県,1769,KOBJPN,秋田県,2708,Y.I.,秋田県
 PENDUAL,IXION,1117,SIXA,秋田県,1639,KANI,秋田県,2133,MASAKI,秋田県
 PENDUAL,Invitation from Mr.C,1145,HARUNA,秋田県,1537,HARUNA,秋田県,2583,MASAKI,秋田県
 PENDUAL,In The Breeze,611,RH,秋田県,1082,OSANPO,秋田県,1702,MASAKI,秋田県
-PENDUAL,IMPLANTATION,629,181126,秋田県,1602,HAPICO,秋田県,2178,Y.I.,秋田県
+PENDUAL,IMPLANTATION,629,181126,秋田県,1602,3Q,秋田県,2178,Y.I.,秋田県
 PENDUAL,illuminate,616,HARUNA,秋田県,1482,A-BE*Q,秋田県,2205,EOTOKO,秋田県
 PENDUAL,Hello Happiness,888,SIXA,秋田県,1588,GOMATA,秋田県,2183,1NOSE,秋田県
 PENDUAL,HELL SCAPER -Last Escape Remix-,972,SIXA,秋田県,1691,NAGIGI,秋田県,2724,Y.I.,秋田県
@@ -906,7 +917,7 @@ PENDUAL,Chain of pain,762,HARUNA,秋田県,1355,TSURO,秋田県,2118,ABE244,秋�
 PENDUAL,Broken Sword,1282,­,秋田県,2021,MASAKI,秋田県,3560,Y.I.,秋田県
 PENDUAL,BLUE MIRAGE,1050,AU-MIN,秋田県,1910,TOROKU,秋田県,2724,EOTOKO,秋田県
 PENDUAL,Blaze it UP!,965,SIXA,秋田県,1810,AU-MIN,秋田県,2871,Y.I.,秋田県
-PENDUAL,Beyond The Earth,1231,AU-MIN,秋田県,1934,HAPICO,秋田県,3016,Y.I.,秋田県
+PENDUAL,Beyond The Earth,1231,AU-MIN,秋田県,1934,3Q,秋田県,3016,Y.I.,秋田県
 PENDUAL,Beat Radiance†,0,,未設定,0,,未設定,3453,Y.I.,秋田県
 PENDUAL,Beat Radiance,986,SIXA,秋田県,1592,TOROKU,秋田県,2577,EOTOKO,秋田県
 PENDUAL,Amnolys,770,CK.ELI,秋田県,1614,HAYA,秋田県,2519,Y.I.,秋田県
@@ -932,6 +943,7 @@ copula,めいさいアイドル☆あいむちゃん♪,1479,KOBJPN,秋田県,21
 copula,か・し・ま・し☆PUMP UP！,1044,RINA,秋田県,1629,RH,秋田県,2672,EOTOKO,秋田県
 copula,ZEPHYRANTHES,1013,SIXA,秋田県,1683,KANI,秋田県,2841,Y.I.,秋田県
 copula,X,1566,HARUNA,秋田県,2323,HARUNA,秋田県,3675,TOROKU,秋田県
+copula,Welcome†,0,,未設定,0,,未設定,3142,Y.I.,秋田県
 copula,Welcome,833,Q-SILV,秋田県,1754,HARUNA,秋田県,2542,MASAKI,秋田県
 copula,Violet Rose,1221,HARUNA,秋田県,1735,LUCI,秋田県,2477,Y.I.,秋田県
 copula,Violet Pulse,424,TOROKU,秋田県,1297,WDL-D?,秋田県,2274,EOTOKO,秋田県
@@ -949,7 +961,7 @@ copula,SHELTER OF THE MIND,1420,SIXA,秋田県,1845,KBKI01,秋田県,2964,Y.I.,�
 copula,Set U Free feat. Kanae Asaba,867,AU-MIN,秋田県,1256,RETRY,秋田県,2403,-GEAR-,秋田県
 copula,Sephirot,961,SIXA,秋田県,1560,AKAMA,秋田県,2288,Y.I.,秋田県
 copula,SEITEN NO TERIYAKI,604,FLOW.C,秋田県,1197,DEF,秋田県,2176,Y.I.,秋田県
-copula,Routing,889,TI9SHO,秋田県,1591,HAPICO,秋田県,2415,AOTA,秋田県
+copula,Routing,889,TI9SHO,秋田県,1591,3Q,秋田県,2415,AOTA,秋田県
 copula,Rock It,1150,SIXA,秋田県,1672,TOROKU,秋田県,2834,Y.I.,秋田県
 copula,refrain,1225,SIXA,秋田県,2274,NUKETA,秋田県,3400,Y.I.,秋田県
 copula,quick master (reform version),159,GGAOS,秋田県,313,DEF,秋田県,523,MASAKI,秋田県
@@ -1029,6 +1041,7 @@ SINOBUZ,Umbral,607,RT*MGR,秋田県,1392,HARUNA,秋田県,1865,AOTA,秋田県
 SINOBUZ,TOGAKUSHI,1037,MASAKI,秋田県,1880,MASAKI,秋田県,2458,Y.I.,秋田県
 SINOBUZ,The Commanders,814,YUHINA,秋田県,1420,CAMINO,秋田県,2410,Y.I.,秋田県
 SINOBUZ,Sweet Clapper,562,TOROKU,秋田県,1215,SIXA,秋田県,1901,MASAKI,秋田県
+SINOBUZ,Surf on the Light,757,KANI,秋田県,1443,KANI,秋田県,2200,TOROKU,秋田県
 SINOBUZ,Super Rush,1032,SIXA,秋田県,1852,MASAKI,秋田県,3404,TOROKU,秋田県
 SINOBUZ,Summerlights(IIDX Edition),1121,SIXA,秋田県,1813,-GEAR-,秋田県,2940,Y.I.,秋田県
 SINOBUZ,Summer,653,TOROKU,秋田県,1379,TOROKU,秋田県,1900,Y.I.,秋田県
@@ -1051,7 +1064,7 @@ SINOBUZ,RISING FIRE HAWK,861,HARUNA,秋田県,1499,MASAKI,秋田県,2608,Y.I.,�
 SINOBUZ,Remedy feat. Kanae Asaba,920,SIXA,秋田県,1588,KOBJPN,秋田県,2120,GOMATA,秋田県
 SINOBUZ,Rave Cannon,1045,SIXA,秋田県,1682,HAYA,秋田県,3117,AOTA,秋田県
 SINOBUZ,RAIN,1153,SIXA,秋田県,1712,KUWA,秋田県,3083,Y.I.,秋田県
-SINOBUZ,Quakes,1056,ABFRYA,秋田県,1958,HAPICO,秋田県,2940,Y.I.,秋田県
+SINOBUZ,Quakes,1056,ABFRYA,秋田県,1958,3Q,秋田県,2940,Y.I.,秋田県
 SINOBUZ,Piano Samurai,1077,SIXA,秋田県,1558,DEF,秋田県,2377,AOTA,秋田県
 SINOBUZ,PAPAYAPA BASS,779,SIXA,秋田県,1540,HARUNA,秋田県,2653,EOTOKO,秋田県
 SINOBUZ,OTENAMI Hurricane,1123,DJDJDJ,秋田県,2085,­,秋田県,2950,TOROKU,秋田県
@@ -1125,12 +1138,14 @@ CANNON BALLERS,STARLIGHT JUNCTION,900,SIXA,秋田県,1501,CAMINO,秋田県,2225,
 CANNON BALLERS,SPEED DEMON,718,SHUN-X,秋田県,1397,EULECA,秋田県,2178,-GEAR-,秋田県
 CANNON BALLERS,SPEED,770,IIDX26,秋田県,1354,SHUN-X,秋田県,2496,EOTOKO,秋田県
 CANNON BALLERS,"Son, not gabba now",823,SHUN-X,秋田県,1558,TOROKU,秋田県,2233,EOTOKO,秋田県
-CANNON BALLERS,Slipstream,989,YUTO,秋田県,1915,HAPICO,秋田県,3309,Y.I.,秋田県
+CANNON BALLERS,Slipstream,989,YUTO,秋田県,1915,3Q,秋田県,3309,Y.I.,秋田県
+CANNON BALLERS,Sleepless days,496,RH,秋田県,907,-GEAR-,秋田県,1565,MASAKI,秋田県
 CANNON BALLERS,SHOX,757,SHUN-X,秋田県,911,RINA,秋田県,1669,EOTOKO,秋田県
 CANNON BALLERS,Rise Circuit,897,SHUN-X,秋田県,1601,MASAKI,秋田県,2234,MASAKI,秋田県
+CANNON BALLERS,REVOLVER,897,Y.I.,秋田県,1572,OSANPO,秋田県,2583,Y.I.,秋田県
 CANNON BALLERS,Raspberry Railgun,1321,181126,秋田県,2151,MASAKI,秋田県,2987,Y.I.,秋田県
 CANNON BALLERS,Rampage,1248,181126,秋田県,2483,MASAKI,秋田県,3486,MASAKI,秋田県
-CANNON BALLERS,Persephone,1289,SIXA,秋田県,1793,HAPICO,秋田県,2830,MASAKI,秋田県
+CANNON BALLERS,Persephone,1289,SIXA,秋田県,1793,3Q,秋田県,2830,MASAKI,秋田県
 CANNON BALLERS,Papilio ulysses,1172,SIXA,秋田県,2067,MASAKI,秋田県,2743,Y.I.,秋田県
 CANNON BALLERS,Only for now,880,NYNTIK,秋田県,1549,MASAKI,秋田県,2238,Y.I.,秋田県
 CANNON BALLERS,O/D*20,1129,SIXA,秋田県,1642,K.AI,秋田県,2117,MASAKI,秋田県
@@ -1140,9 +1155,11 @@ CANNON BALLERS,NITROUS CANNON,1364,HARUNA,秋田県,1993,MASAKI,秋田県,3344,Y
 CANNON BALLERS,n'pa pa BBQ,881,SHUN-X,秋田県,1689,AU-MIN,秋田県,2736,Y.I.,秋田県
 CANNON BALLERS,Mira,909,CAMINO,秋田県,1727,HARUNA,秋田県,2945,Y.I.,秋田県
 CANNON BALLERS,Midnight Lady,509,IIDX26,秋田県,1091,181126,秋田県,1898,HARUNA,秋田県
+CANNON BALLERS,MAXIVCORD,775,SAKU,秋田県,1333,AU-MIN,秋田県,2349,Y.I.,秋田県
 CANNON BALLERS,LUV DRIVE,757,SHUN-X,秋田県,1256,­,秋田県,2041,B,秋田県
 CANNON BALLERS,LIGHTS ft. EVO+,709,DOYAKO,秋田県,1376,OSANPO,秋田県,2266,AJI.,秋田県
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",1170,S-I-N,秋田県,1882,MASAKI,秋田県,3208,1NOSE,秋田県
+CANNON BALLERS,Let's Bounce !!,721,HARUNA,秋田県,1208,­,秋田県,2172,MASAKI,秋田県
 CANNON BALLERS,Initiation,1458,TOROKU,秋田県,2407,MASAKI,秋田県,3695,TOROKU,秋田県
 CANNON BALLERS,Illusionary Waterlily,1295,SIXA,秋田県,2162,1NOSE,秋田県,3336,Y.I.,秋田県
 CANNON BALLERS,I'm Coming (2017 Version),629,HARUNA,秋田県,1291,HARUNA,秋田県,2064,Y.I.,秋田県
@@ -1161,6 +1178,7 @@ CANNON BALLERS,Exhaust Hype,933,CK.ELI,秋田県,1849,AU-MIN,秋田県,2700,AOTA
 CANNON BALLERS,encounter,900,SHUN-X,秋田県,1702,KOBJPN,秋田県,3064,Y.I.,秋田県
 CANNON BALLERS,EMERALDAS,1372,MASAKI,秋田県,2367,Y.I.,秋田県,3234,1NOSE,秋田県
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,936,SAKU,秋田県,1383,DEF,秋田県,2446,Y.I.,秋田県
+CANNON BALLERS,DropZ-Line-,1322,HARUNA,秋田県,1965,HARUNA,秋田県,2966,1NOSE,秋田県
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,1371,-GEAR-,秋田県,2406,MASAKI,秋田県,3789,TOROKU,秋田県
 CANNON BALLERS,DEADHEAT,1155,­,秋田県,2036,MASAKI,秋田県,3090,NONOKA,秋田県
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,732,HN0123,秋田県,1389,OSANPO,秋田県,2053,MASAKI,秋田県
@@ -1192,19 +1210,30 @@ Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),1136,KOBJPN,秋田県,23
 Rootage,金野火織の金色提言,1264,HARUNA,秋田県,2206,-GEAR-,秋田県,2918,TOROKU,秋田県
 Rootage,花冠 feat.Aikapin,1003,KOBJPN,秋田県,1672,KOBJPN,秋田県,2483,Y.I.,秋田県
 Rootage,爆ゼニ☆がってんワーカー,1242,-GEAR-,秋田県,1896,MASAKI,秋田県,2618,TOROKU,秋田県
+Rootage,深愛のリグレット,793,-GEAR-,秋田県,1193,KOBJPN,秋田県,2350,MASAKI,秋田県
+Rootage,泰東ノ翠霞,478,KANI,秋田県,724,DEF,秋田県,1699,MASAKI,秋田県
+Rootage,最小三倍完全数,920,KOBJPN,秋田県,1751,KOBJPN,秋田県,2436,Y.I.,秋田県
 Rootage,抱きしめてモナムール,1324,MASAKI,秋田県,2294,MASAKI,秋田県,3903,TOROKU,秋田県
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,690,-GEAR-,秋田県,1538,MASAKI,秋田県,2513,MASAKI,秋田県
+Rootage,ミッドナイト☆WAR,822,KOBJPN,秋田県,1569,KOBJPN,秋田県,2367,-GEAR-,秋田県
 Rootage,ミストレス・アンに花束を,579,-GEAR-,秋田県,1016,AJI.,秋田県,1405,AJI.,秋田県
 Rootage,ハードベース・フェスタ,1144,-GEAR-,秋田県,1795,MASAKI,秋田県,2748,MASAKI,秋田県
 Rootage,セカンドピアス,600,-GEAR-,秋田県,1084,DEF,秋田県,1981,Y.I.,秋田県
 Rootage,サクラあっぱれーしょん,632,MASAKI,秋田県,1554,MASAKI,秋田県,2287,MASAKI,秋田県
 Rootage,グラナダの風,801,SIXA,秋田県,1189,KOBJPN,秋田県,1787,MASAKI,秋田県
+Rootage,お菓子の王国,1412,HARUNA,秋田県,2218,MASAKI,秋田県,3815,1NOSE,秋田県
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,1108,KOBJPN,秋田県,1946,KOBJPN,秋田県,2746,-GEAR-,秋田県
+Rootage,ZENDEGI DANCE,1180,HARUNA,秋田県,1741,AKAMA,秋田県,2701,MASAKI,秋田県
 Rootage,Yum Yum Jelly,792,MASAKI,秋田県,1555,MASAKI,秋田県,2331,Y.I.,秋田県
 Rootage,Xlo,1518,MASAKI,秋田県,2430,MASAKI,秋田県,3485,TOROKU,秋田県
+Rootage,XENON II ～TOMOYUKIの野望～,1198,MASAKI,秋田県,1762,MASAKI,秋田県,2839,EOTOKO,秋田県
+Rootage,X-DEN,1647,KOBJPN,秋田県,2638,MASAKI,秋田県,3610,1NOSE,秋田県
 Rootage,Wonderland,1070,-GEAR-,秋田県,1882,MASAKI,秋田県,2707,MASAKI,秋田県
 Rootage,Won(*3*)Chu KissMe!,935,MASAKI,秋田県,1405,MASAKI,秋田県,2444,MASAKI,秋田県
 Rootage,Wolf 1061,1019,KOBJPN,秋田県,1704,KOBJPN,秋田県,2997,TOROKU,秋田県
 Rootage,Wing of Hearts,1125,-GEAR-,秋田県,1788,MASAKI,秋田県,2870,Y.I.,秋田県
+Rootage,voltississimo,1201,KOBJPN,秋田県,2046,KOBJPN,秋田県,3390,Y.I.,秋田県
+Rootage,Visterhv,1238,-GEAR-,秋田県,2214,MASAKI,秋田県,3535,TOROKU,秋田県
 Rootage,Urban Constellations,716,-GEAR-,秋田県,1458,-GEAR-,秋田県,2181,TOROKU,秋田県
 Rootage,UNDERWORLD HOLOGRAPHY,1146,SIXA,秋田県,2109,MASAKI,秋田県,3127,Y.I.,秋田県
 Rootage,Unbelief,1070,HAYA,秋田県,2036,MASAKI,秋田県,2992,Y.I.,秋田県
@@ -1212,12 +1241,15 @@ Rootage,U.S.A.,1129,KOBJPN,秋田県,1882,KOBJPN,秋田県,2851,MASAKI,秋田県
 Rootage,Twilight Warp,955,-GEAR-,秋田県,1399,DEF,秋田県,2112,MASAKI,秋田県
 Rootage,Trill auf G,1154,KOBJPN,秋田県,2051,KOBJPN,秋田県,2986,TOROKU,秋田県
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),734,KOBJPN,秋田県,1509,KANI,秋田県,2227,TOROKU,秋田県
+Rootage,toy boxer,771,KOBJPN,秋田県,1404,KOBJPN,秋田県,2155,-GEAR-,秋田県
+Rootage,The Sealer ?ア・ミリアとミリアの民?,814,DOYAKO,秋田県,1384,KANI,秋田県,2181,-GEAR-,秋田県
 Rootage,The Rebellion of Sequencer,1239,HARUNA,秋田県,1989,MASAKI,秋田県,2913,TOROKU,秋田県
 Rootage,THE DAY OF JUBILATIONS,1557,MASAKI,秋田県,2397,MASAKI,秋田県,3254,TOROKU,秋田県
 Rootage,The Best of Both Worlds,602,MASAKI,秋田県,1432,MASAKI,秋田県,2175,MASAKI,秋田県
 Rootage,Technicolour Dreams,916,KANI,秋田県,1410,KANI,秋田県,2357,Y.I.,秋田県
 Rootage,Starry Night,921,-GEAR-,秋田県,1638,IIDX26,秋田県,2479,Y.I.,秋田県
 Rootage,SPEED ROCKER,918,-GEAR-,秋田県,1658,HARUNA,秋田県,2246,Y.I.,秋田県
+Rootage,Six String Proof,890,KOBJPN,秋田県,1584,KOBJPN,秋田県,2333,EOTOKO,秋田県
 Rootage,SIGMA,834,SIXA,秋田県,1495,­,秋田県,2543,Y.I.,秋田県
 Rootage,Sidechained Threats,1209,HARUNA,秋田県,1868,­,秋田県,2349,Y.I.,秋田県
 Rootage,Serious?,595,MASAKI,秋田県,1201,MASAKI,秋田県,2150,MASAKI,秋田県
@@ -1229,15 +1261,20 @@ Rootage,REPLAY,912,DOYAKO,秋田県,1636,HARUNA,秋田県,2228,Y.I.,秋田県
 Rootage,Red. by Jack Trance,1512,HARUNA,秋田県,2137,MASAKI,秋田県,3146,MASAKI,秋田県
 Rootage,Re:Story,428,RT*MGR,秋田県,1085,HARUNA,秋田県,1896,-GEAR-,秋田県
 Rootage,Psycho Sheep Riddim,644,KOBJPN,秋田県,984,HARUNA,秋田県,1658,MASAKI,秋田県
+Rootage,Please Welcome Mr.C,1080,KANI,秋田県,1750,HARUNA,秋田県,2774,Y.I.,秋田県
 Rootage,Playing With Fire,987,KOBJPN,秋田県,1665,MASAKI,秋田県,2274,TOROKU,秋田県
 Rootage,Particle Arts,895,MASAKI,秋田県,1617,TOROKU,秋田県,2411,Y.I.,秋田県
 Rootage,Painful Fate,1269,MASAKI,秋田県,2253,MASAKI,秋田県,3134,TOROKU,秋田県
 Rootage,OVER TIME,582,MASAKI,秋田県,951,HARUNA,秋田県,1539,MASAKI,秋田県
 Rootage,ONIGOROSHI,1188,MASAKI,秋田県,2139,MASAKI,秋田県,2769,MASAKI,秋田県
+Rootage,Night! Night! Night!,1194,-GEAR-,秋田県,1789,OSANPO,秋田県,2898,TOROKU,秋田県
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",866,KANI,秋田県,1608,­,秋田県,2607,Y.I.,秋田県
 Rootage,Necroxis Girl,1149,KOBJPN,秋田県,1853,KANI,秋田県,2706,TOROKU,秋田県
 Rootage,Macho Monky,1473,MASAKI,秋田県,2106,MASAKI,秋田県,2835,Y.I.,秋田県
 Rootage,LOST TECHNOLOGIE,1136,SIXA,秋田県,1909,MASAKI,秋田県,3262,Y.I.,秋田県
+Rootage,Lift Us High,968,KOBJPN,秋田県,1573,KOBJPN,秋田県,2416,MASAKI,秋田県
 Rootage,Level One,1259,MASAKI,秋田県,2295,MASAKI,秋田県,3121,MASAKI,秋田県
+Rootage,Lethal Weapon,1182,KOBJPN,秋田県,1849,KOBJPN,秋田県,3010,Y.I.,秋田県
 Rootage,Let me be your cure,1142,MASAKI,秋田県,1431,MASAKI,秋田県,2616,Y.I.,秋田県
 Rootage,LADYBIRD,1092,-GEAR-,秋田県,1671,MASAKI,秋田県,2338,TOROKU,秋田県
 Rootage,L.F.O,882,MASAKI,秋田県,1763,MASAKI,秋田県,3129,TOROKU,秋田県
@@ -1247,8 +1284,11 @@ Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),1063,-GEAR-,秋田県,1559,MASAKI,秋田
 Rootage,Hurry Hurry,760,MASAKI,秋田県,1051,MASAKI,秋田県,2071,MASAKI,秋田県
 Rootage,HOT LIMIT,1061,-GEAR-,秋田県,1726,MASAKI,秋田県,2485,MASAKI,秋田県
 Rootage,HEISEI,1158,-GEAR-,秋田県,1925,MASAKI,秋田県,2466,AOTA,秋田県
+Rootage,HARD BRAIN,1362,-GEAR-,秋田県,2052,MASAKI,秋田県,3536,Y.I.,秋田県
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,1065,-GEAR-,秋田県,2202,-GEAR-,秋田県,3680,TOROKU,秋田県
 Rootage,Glory,770,-GEAR-,秋田県,1589,HARUNA,秋田県,2271,Y.I.,秋田県
 Rootage,GIGA THRASH,1244,HARUNA,秋田県,1816,AOTA,秋田県,2626,AOTA,秋田県
+Rootage,GENE,1315,MASAKI,秋田県,1954,MASAKI,秋田県,4085,TOROKU,秋田県
 Rootage,Geirskogul,1056,KANI,秋田県,1553,KANI,秋田県,2197,MASAKI,秋田県
 Rootage,Garuda,1042,AU-MIN,秋田県,1619,HARUNA,秋田県,2471,MASAKI,秋田県
 Rootage,EVANESCENT,1265,-GEAR-,秋田県,2352,MASAKI,秋田県,3296,MASAKI,秋田県
@@ -1259,13 +1299,17 @@ Rootage,Dr. Chemical & Killing Machine,1125,-GEAR-,秋田県,1869,MASAKI,秋田�
 Rootage,Digital Skipper,990,-GEAR-,秋田県,1531,HARUNA,秋田県,2205,MASAKI,秋田県
 Rootage,dAuntl3ss,1077,SIXA,秋田県,1971,MASAKI,秋田県,3305,TOROKU,秋田県
 Rootage,Cranberry City ft. Luschel,859,K.AI,秋田県,1565,HARUNA,秋田県,2345,Y.I.,秋田県
+Rootage,COSMIC CYBER,1046,MASAKI,秋田県,1697,MASAKI,秋田県,2784,TOROKU,秋田県
 Rootage,CoMAAAAAAA,1246,SIXA,秋田県,2085,MASAKI,秋田県,2373,MASAKI,秋田県
 Rootage,CODE:0,1394,­,秋田県,2081,HARUNA,秋田県,2701,Y.I.,秋田県
 Rootage,Catch Our Fire!,1377,KOBJPN,秋田県,2242,KOBJPN,秋田県,3483,TOROKU,秋田県
+Rootage,Carry Me Away,1107,KOBJPN,秋田県,1767,HARUNA,秋田県,3024,MASAKI,秋田県
 Rootage,Carmina,1266,SIXA,秋田県,2385,MASAKI,秋田県,3423,1NOSE,秋田県
 Rootage,BLOSSOM,1085,KOBJPN,秋田県,1641,KOBJPN,秋田県,2501,MASAKI,秋田県
+Rootage,BLACK JACKAL,849,KOBJPN,秋田県,1575,KOBJPN,秋田県,2234,MASAKI,秋田県
 Rootage,Angels & Demons,934,MASAKI,秋田県,1777,MASAKI,秋田県,2399,MASAKI,秋田県
 Rootage,AGAiN,1019,-GEAR-,秋田県,1569,EULECA,秋田県,2236,MASAKI,秋田県
+Rootage,Afterimage d'automne,1015,KOBJPN,秋田県,1670,KOBJPN,秋田県,2662,Y.I.,秋田県
 Rootage,A Tale Hidden In The Abyss,942,HARUNA,秋田県,1680,KANI,秋田県,2510,MASAKI,秋田県
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,1230,KOBJPN,秋田県,1630,KOBJPN,秋田県,2569,MASAKI,秋田県
 Rootage,50th Memorial Songs -The BEMANI History-,1071,KOBJPN,秋田県,1595,KOBJPN,秋田県,2473,MASAKI,秋田県
