@@ -40,7 +40,7 @@
 4th style,LOVE WILL・・・,0,,-,472,O,岐阜県,711,YUE.*,岐阜県,1448,NOY,岐阜県,0,,-
 4th style,KAMIKAZE,0,,-,753,O,岐阜県,1381,ROLES,岐阜県,2263,AZARA5,岐阜県,0,,-
 4th style,Jam&Marmalade,0,,-,693,NULL,岐阜県,886,SWOOPS,岐阜県,998,NOY,岐阜県,0,,-
-4th style,Hitch Hiker2,0,,-,547,HATA*,岐阜県,967,ONOZU,岐阜県,1275,ROCKY,岐阜県,0,,-
+4th style,Hitch Hiker2,0,,-,547,HATA*,岐阜県,967,ONOZU,岐阜県,1288,NOY,岐阜県,0,,-
 4th style,HIGHER,0,,-,529,MIMORI,岐阜県,909,YUE.*,岐阜県,1271,KH*358,岐阜県,0,,-
 4th style,FLOWERS for ALBION,0,,-,0,,-,441,AZARA5,岐阜県,0,,-,0,,-
 4th style,era (step mix),0,,-,858,CHAOS,岐阜県,1186,SHIBA,岐阜県,1633,SWOOPS,岐阜県,0,,-
@@ -76,7 +76,7 @@
 6th style,Take It Easy,0,,-,0,,-,2273,SWOOPS,岐阜県,2492,ROCKY,岐阜県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,1169,NULL,岐阜県,1802,NOY,岐阜県,0,,-,0,,-
 6th style,SOMETHING WONDERFUL,0,,-,853,PUTTY0,岐阜県,1248,HAL,岐阜県,1950,AZARA5,岐阜県,0,,-
-6th style,route 80s,0,,-,0,,-,1115,ROLES,岐阜県,1469,NOY,岐阜県,0,,-
+6th style,route 80s,0,,-,0,,-,1115,ROLES,岐阜県,1483,NOY,岐阜県,0,,-
 6th style,rottel-da-sun,0,,-,598,HATA*,岐阜県,1292,2,岐阜県,1839,SHIRO,岐阜県,0,,-
 6th style,NEMESIS,0,,-,883,KONOHA,岐阜県,1409,NULL,岐阜県,1797,NE63..,岐阜県,0,,-
 6th style,Linus,0,,-,761,CHAOS,岐阜県,1176,IMAI,岐阜県,2121,AZARA5,岐阜県,0,,-
@@ -90,7 +90,7 @@
 6th style,Blueberry Stream,0,,-,539,MP5,岐阜県,1266,IIDX16,岐阜県,1607,KODO.9,岐阜県,0,,-
 6th style,BALLAD FOR YOU～想いの雨～,0,,-,484,HATA*,岐阜県,0,,-,1058,ROCKY,岐阜県,0,,-
 6th style,"19,November",0,,-,878,SEVEN,岐阜県,0,,-,1772,NOY,岐阜県,0,,-
-7th style,革命,0,,-,738,YUE.*,岐阜県,1860,NE63..,岐阜県,2205,KODO.9,岐阜県,0,,-
+7th style,革命,0,,-,738,YUE.*,岐阜県,1860,NE63..,岐阜県,2245,AZARA5,岐阜県,0,,-
 7th style,ZERO-ONE,0,,-,1018,YUE.*,岐阜県,1490,NODY,岐阜県,2193,NE63..,岐阜県,0,,-
 7th style,traces,0,,-,1045,KENZ0,岐阜県,1754,ROLES,岐阜県,2071,NOY,岐阜県,0,,-
 7th style,Tomorrow Perfume,0,,-,1193,KONOHA,岐阜県,1732,NE63..,岐阜県,2079,SHIRO,岐阜県,0,,-
@@ -116,7 +116,7 @@
 8th style,WAR GAME,0,,-,550,SIZUKI,岐阜県,1486,ROLES,岐阜県,2129,SHIRO,岐阜県,0,,-
 8th style,thunder,0,,-,0,,-,1324,KURO.,岐阜県,1845,ROCKY,岐阜県,0,,-
 8th style,symbolic,0,,-,1302,HAL,岐阜県,1749,YUE.*,岐阜県,2190,AZARA5,岐阜県,0,,-
-8th style,STAR DREAM,0,,-,514,INUE,岐阜県,1100,2030,岐阜県,1392,KODO.9,岐阜県,0,,-
+8th style,STAR DREAM,0,,-,549,HATA*,岐阜県,1100,2030,岐阜県,1392,KODO.9,岐阜県,0,,-
 8th style,rainbow flyer,0,,-,739,YUKA*,岐阜県,1494,ROLES,岐阜県,2087,NE63..,岐阜県,0,,-
 8th style,PLEASE DON'T GO,0,,-,478,INUE,岐阜県,1224,77MARU,岐阜県,2323,AZARA5,岐阜県,0,,-
 8th style,MUSIC TO YOUR HEAD,0,,-,0,,-,1201,VIP-KO,岐阜県,1617,KODO.9,岐阜県,0,,-
@@ -129,13 +129,13 @@
 8th style,HYPER BOUNDARY GATE,0,,-,1151,TOOL,岐阜県,1832,2433,岐阜県,2187,NOY,岐阜県,0,,-
 8th style,Halfway of promise,0,,-,0,,-,1524,NOY,岐阜県,1816,NOY,岐阜県,0,,-
 8th style,Giudecca,0,,-,791,DOG,岐阜県,1705,NULL,岐阜県,2611,AZARA5,岐阜県,0,,-
-8th style,dual control,0,,-,619,GUNDAM,岐阜県,1220,NODY,岐阜県,1807,KODO.9,岐阜県,0,,-
+8th style,dual control,0,,-,619,GUNDAM,岐阜県,1220,NODY,岐阜県,1832,KODO.9,岐阜県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,918,HATA*,岐阜県,1896,ROLES,岐阜県,2164,SHIRO,岐阜県,0,,-
 8th style,CELEBRATE NITE,0,,-,554,TAKE,岐阜県,943,ONOZU,岐阜県,1396,KH*358,岐阜県,0,,-
 8th style,Blame,0,,-,0,,-,1276,2030,岐阜県,1870,NE63..,岐阜県,0,,-
 8th style,bit mania,0,,-,636,SHU&U,岐阜県,1272,2433,岐阜県,1859,SHIRO,岐阜県,0,,-
 8th style,Attitude,0,,-,980,YUE.*,岐阜県,1258,KURO.,岐阜県,1731,NOY,岐阜県,0,,-
-8th style,ALL RIGHT,0,,-,595,HATA*,岐阜県,1200,ROLES,岐阜県,1563,NOY,岐阜県,0,,-
+8th style,ALL RIGHT,0,,-,595,HATA*,岐阜県,1200,ROLES,岐阜県,1584,KODO.9,岐阜県,0,,-
 8th style,airflow,0,,-,307,TANNAN,岐阜県,779,2433,岐阜県,1410,YUUNA,岐阜県,0,,-
 8th style,abstract,0,,-,1131,IIDX16,岐阜県,1526,TAMAKI,岐阜県,1849,NOY,岐阜県,0,,-
 9th style,真夏の花・真夏の夢,0,,-,632,HATA*,岐阜県,1095,KONOHA,岐阜県,1453,KODO.9,岐阜県,0,,-
@@ -163,7 +163,7 @@
 9th style,HYPER EUROBEAT (2DX style),0,,-,797,HATA*,岐阜県,1509,MIMORI,岐阜県,1889,AZARA5,岐阜県,0,,-
 9th style,Golden Horn,0,,-,673,YUE.*,岐阜県,1008,NULL,岐阜県,1464,KODO.9,岐阜県,0,,-
 9th style,e-motion 2003  -romantic extra-,0,,-,0,,-,1426,TAMAKI,岐阜県,1956,NE63..,岐阜県,0,,-
-9th style,Distress,0,,-,862,CLERK,岐阜県,1797,NOY,岐阜県,0,,-,0,,-
+9th style,Distress,0,,-,862,CLERK,岐阜県,1810,NOY,岐阜県,0,,-,0,,-
 9th style,Cradle,0,,-,0,,-,1322,HAL,岐阜県,1584,YUUNA,岐阜県,0,,-
 9th style,BRIGHTNESS DARKNESS,0,,-,459,SHU&U,岐阜県,1406,AZARA5,岐阜県,1749,NOY,岐阜県,0,,-
 9th style,bag,0,,-,470,SHU&U,岐阜県,1123,ROLES,岐阜県,1894,NOY,岐阜県,0,,-
@@ -173,7 +173,7 @@
 9th style,Abyss -The Heavens Remix-,572,YUUNA,岐阜県,1387,ROLES,岐阜県,1743,SHIBA,岐阜県,2343,SHIRO,岐阜県,0,,-
 10th style,雪月花,0,,-,1189,ROLES,岐阜県,1806,SWOOPS,岐阜県,2444,SHIRO,岐阜県,0,,-
 10th style,システムロマンス,0,,-,679,O,岐阜県,1732,YUE.*,岐阜県,2002,NOY,岐阜県,0,,-
-10th style,SPACE FIGHT,0,,-,606,YUE.*,岐阜県,1483,AZARA5,岐阜県,2168,NOY,岐阜県,0,,-
+10th style,SPACE FIGHT,0,,-,606,YUE.*,岐阜県,1484,NOY,岐阜県,2168,NOY,岐阜県,0,,-
 10th style,SHOOTING STAR,0,,-,1153,IIDX16,岐阜県,1429,CAMUI*,岐阜県,2209,AZARA5,岐阜県,0,,-
 10th style,Rise'n Beauty,0,,-,1009,CHAOS,岐阜県,1611,AZARA5,岐阜県,2133,NE63..,岐阜県,0,,-
 10th style,rainbow rainbow,0,,-,1083,CLERK,岐阜県,2019,HATTIE,岐阜県,2652,AZARA5,岐阜県,0,,-
@@ -183,11 +183,11 @@
 10th style,Narcissus At Oasis,0,,-,747,COLT,岐阜県,1413,NULL,岐阜県,1638,SHIRO,岐阜県,0,,-
 10th style,Lucy,0,,-,832,HATA*,岐阜県,1643,IIDX27,岐阜県,2243,NOY,岐阜県,0,,-
 10th style,Love Is Eternity,0,,-,558,NO.89,岐阜県,1943,AZARA5,岐阜県,2338,AZARA5,岐阜県,0,,-
-10th style,Innocent Walls,0,,-,1400,MILLA,岐阜県,2384,AZARA5,岐阜県,2659,TEKOU,岐阜県,0,,-
+10th style,Innocent Walls,0,,-,1400,HIME-G,岐阜県,2384,AZARA5,岐阜県,2659,TEKOU,岐阜県,0,,-
 10th style,HIGH,0,,-,0,,-,1881,SWOOPS,岐阜県,2148,SWOOPS,岐阜県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,680,GINKA9,岐阜県,1045,GMT.RK,岐阜県,1982,NE63..,岐阜県,0,,-
-10th style,GHOST REVIVAL,0,,-,682,O,岐阜県,1865,YUE.*,岐阜県,2508,KODO.9,岐阜県,0,,-
-10th style,Freezing atmosphere,0,,-,711,CHAOS,岐阜県,1069,2,岐阜県,1465,KODO.9,岐阜県,0,,-
+10th style,GHOST REVIVAL,0,,-,682,O,岐阜県,1865,YUE.*,岐阜県,2531,AZARA5,岐阜県,0,,-
+10th style,Freezing atmosphere,0,,-,773,YUE.*,岐阜県,1069,2,岐阜県,1475,AZARA5,岐阜県,0,,-
 10th style,FEEL IT,0,,-,811,O,岐阜県,1682,NOY,岐阜県,1937,SWOOPS,岐阜県,0,,-
 10th style,Feedback,0,,-,940,ALICE*,岐阜県,1509,HAL,岐阜県,1894,KH*358,岐阜県,0,,-
 10th style,EXE,0,,-,840,COLT,岐阜県,1571,YUE.*,岐阜県,2196,AZARA5,岐阜県,0,,-
@@ -195,11 +195,11 @@
 10th style,desolation,0,,-,326,BILLYJ,岐阜県,491,SHU&U,岐阜県,756,YUUNA,岐阜県,0,,-
 10th style,Debtty Daddy,0,,-,0,,-,1797,ROLES,岐阜県,2608,AZARA5,岐阜県,0,,-
 10th style,Daisuke,469,YUUNA,岐阜県,1167,ROLES,岐阜県,1555,ROLES,岐阜県,2368,SHIRO,岐阜県,0,,-
-10th style,CARRY ON NIGHT (English version),0,,-,881,GUNDAM,岐阜県,1091,2030,岐阜県,1996,KH*358,岐阜県,0,,-
-10th style,Boundary,0,,-,431,SHU&U,岐阜県,1685,TAMAKI,岐阜県,1986,KODO.9,岐阜県,0,,-
-10th style,Back Into The Light,0,,-,952,8MAMO,岐阜県,1297,2030,岐阜県,2127,KODO.9,岐阜県,0,,-
+10th style,CARRY ON NIGHT (English version),0,,-,881,GUNDAM,岐阜県,1091,2030,岐阜県,2012,KH*358,岐阜県,0,,-
+10th style,Boundary,0,,-,431,SHU&U,岐阜県,1685,TAMAKI,岐阜県,2012,AZARA5,岐阜県,0,,-
+10th style,Back Into The Light,0,,-,952,8MAMO,岐阜県,1297,2030,岐阜県,2137,AZARA5,岐阜県,0,,-
 10th style,BABY LOVE,0,,-,1037,CHAOS,岐阜県,1657,YUE.*,岐阜県,2130,AZARA5,岐阜県,0,,-
-10th style,ASTRAL VOYAGE,0,,-,971,YUE.*,岐阜県,1166,AAAAAA,岐阜県,1862,KODO.9,岐阜県,0,,-
+10th style,ASTRAL VOYAGE,0,,-,971,YUE.*,岐阜県,1166,AAAAAA,岐阜県,1872,AZARA5,岐阜県,0,,-
 10th style,ALIEN TEMPLE,0,,-,556,SHU&U,岐阜県,1558,YUE.*,岐阜県,1981,NOY,岐阜県,0,,-
 10th style,1st Samurai,0,,-,1037,YUE.*,岐阜県,1504,LEGACY,岐阜県,2601,SHIRO,岐阜県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,640,YUKA*,岐阜県,1377,KONOHA,岐阜県,1982,SHIRO,岐阜県,0,,-
@@ -209,7 +209,7 @@ IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,724,MASAO9,岐阜県,2038,
 IIDX RED,Wonder Bullfighter,0,,-,815,CHAOS,岐阜県,1374,ROLES,岐阜県,1952,YUUNA,岐阜県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,752,O,岐阜県,1521,HAL,岐阜県,1920,NE63..,岐阜県,0,,-
 IIDX RED,spiral galaxy,0,,-,0,,-,1918,ROLES,岐阜県,2536,NE63..,岐阜県,3659,SHIRO,岐阜県
-IIDX RED,Sphere,0,,-,0,,-,1924,AZARA5,岐阜県,2111,ROCKY,岐阜県,0,,-
+IIDX RED,Sphere,0,,-,0,,-,1924,AZARA5,岐阜県,2121,KODO.9,岐阜県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,0,,-,1493,TOOL,岐阜県,1966,KODO.9,岐阜県,0,,-
 IIDX RED,Secret of Love,0,,-,0,,-,1242,KURO.,岐阜県,1970,AZARA5,岐阜県,0,,-
 IIDX RED,RESONATE 1794,0,,-,530,NO.89,岐阜県,1316,IIDX16,岐阜県,1858,SHIRO,岐阜県,0,,-
@@ -248,7 +248,7 @@ HAPPY SKY,Under the Sky,0,,-,784,HATA*,岐阜県,1358,ROLES,岐阜県,1723,SHIRO
 HAPPY SKY,Twelfth Style,0,,-,853,JMC,岐阜県,1299,CAMUI*,岐阜県,1991,AZARA5,岐阜県,3055,TEKOU,岐阜県
 HAPPY SKY,Tizona d'El Cid,0,,-,889,YUE.*,岐阜県,1748,TAMAKI,岐阜県,2257,AZARA5,岐阜県,0,,-
 HAPPY SKY,SigSig,676,YUUNA,岐阜県,1083,SWOOPS,岐阜県,1599,ROLES,岐阜県,2554,SHIRO,岐阜県,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1144,ALICE*,岐阜県,1525,IIDX16,岐阜県,2019,KODO.9,岐阜県,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1144,ALICE*,岐阜県,1525,IIDX16,岐阜県,2048,AZARA5,岐阜県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1316,SETUNA,岐阜県,1694,OMEGU,岐阜県,2403,SHIRO,岐阜県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1324,SETUNA,岐阜県,2163,SWOOPS,岐阜県,2978,AZARA5,岐阜県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,1030,COLT,岐阜県,1627,AZARA5,岐阜県,2004,SHIRO,岐阜県,0,,-
@@ -257,17 +257,17 @@ HAPPY SKY,POODLE,0,,-,652,INUE,岐阜県,1801,UNI,岐阜県,2269,NE63..,岐阜�
 HAPPY SKY,Pollinosis,0,,-,448,SHU&U,岐阜県,0,,-,2444,SHIRO,岐阜県,0,,-
 HAPPY SKY,PLASMA,0,,-,493,TOUCH,岐阜県,1475,TOOL,岐阜県,2244,NE63..,岐阜県,0,,-
 HAPPY SKY,Pink Rose,0,,-,459,TOMCAT,岐阜県,912,KONOHA,岐阜県,1410,YUUNA,岐阜県,0,,-
-HAPPY SKY,MOON RACE,0,,-,668,NULL,岐阜県,960,SETUNA,岐阜県,1844,AZARA5,岐阜県,0,,-
+HAPPY SKY,MOON RACE,0,,-,668,NULL,岐阜県,1025,NULL,岐阜県,1844,AZARA5,岐阜県,0,,-
 HAPPY SKY,Love Magic,0,,-,0,,-,1517,TAMAKI,岐阜県,1884,KODO.9,岐阜県,0,,-
 HAPPY SKY,Little Little Princess,0,,-,721,TAKE,岐阜県,2068,77MARU,岐阜県,2708,AZARA5,岐阜県,3651,NONOKA,岐阜県
 HAPPY SKY,LESSON 5,0,,-,0,,-,1624,KONOHA,岐阜県,2437,AZARA5,岐阜県,0,,-
 HAPPY SKY,INAZUMA,0,,-,831,GUNDAM,岐阜県,1762,AZARA5,岐阜県,2660,SHIRO,岐阜県,0,,-
 HAPPY SKY,in motion,0,,-,774,NULL,岐阜県,1008,KONOHA,岐阜県,1288,NOY,岐阜県,0,,-
-HAPPY SKY,I am,0,,-,719,SHU&U,岐阜県,1657,YUE.*,岐阜県,2117,F44*S2,岐阜県,0,,-
+HAPPY SKY,I am,0,,-,815,HATA*,岐阜県,1657,YUE.*,岐阜県,2117,F44*S2,岐阜県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,659,MIMORI,岐阜県,1054,ROLES,岐阜県,1491,ROLES,岐阜県,2074,NE63..,岐阜県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,1063,SU1945,岐阜県,1497,LEGACY,岐阜県,2223,KH*358,岐阜県,0,,-
 HAPPY SKY,garden,0,,-,685,HATA*,岐阜県,1400,KONOHA,岐阜県,2108,AZARA5,岐阜県,0,,-
-HAPPY SKY,First Resolution,0,,-,599,O,岐阜県,1552,YUE.*,岐阜県,2098,KODO.9,岐阜県,0,,-
+HAPPY SKY,First Resolution,0,,-,599,O,岐阜県,1552,YUE.*,岐阜県,2117,NOY,岐阜県,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,389,SHU&U,岐阜県,956,NULL,岐阜県,1674,SHIRO,岐阜県,0,,-
 HAPPY SKY,EDEN,0,,-,1042,HRMS-R,岐阜県,1849,ROLES,岐阜県,2702,SHIRO,岐阜県,0,,-
 HAPPY SKY,double thrash,0,,-,807,CHAOS,岐阜県,1886,YUE.*,岐阜県,2294,KODO.9,岐阜県,0,,-
@@ -297,7 +297,7 @@ DistorteD,So Fabulous !!,0,,-,765,ALTER.,岐阜県,1470,ROLES,岐阜県,2316,AZA
 DistorteD,Power of Love,0,,-,857,IIDX16,岐阜県,1646,AZARA5,岐阜県,2099,AZARA5,岐阜県,0,,-
 DistorteD,MOON,0,,-,752,GUNDAM,岐阜県,1794,4K1R49,岐阜県,2177,NE63..,岐阜県,0,,-
 DistorteD,MINT,0,,-,0,,-,1633,TAMAKI,岐阜県,2267,AZARA5,岐阜県,0,,-
-DistorteD,Melody Life,0,,-,615,MIKA,岐阜県,724,TAKE,岐阜県,1818,YUUNA,岐阜県,0,,-
+DistorteD,Melody Life,0,,-,615,MIKA,岐阜県,798,TAKE,岐阜県,1818,YUUNA,岐阜県,0,,-
 DistorteD,Leaving...,0,,-,625,MIKA,岐阜県,1281,KONOHA,岐阜県,2154,AZARA5,岐阜県,0,,-
 DistorteD,INFERNO,0,,-,0,,-,1349,2030,岐阜県,1942,NOY,岐阜県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,769,SU1945,岐阜県,1484,VIP-KO,岐阜県,2084,YUUNA,岐阜県,0,,-
@@ -310,7 +310,7 @@ DistorteD,D.C.fish,0,,-,624,SHU&U,岐阜県,1900,AZARA5,岐阜県,2324,SHIRO,岐
 DistorteD,CONTRACT,0,,-,1172,ROLES,岐阜県,1520,ROLES,岐阜県,2053,SHIRO,岐阜県,2602,NONOKA,岐阜県
 DistorteD,Concertino in Blue,396,YUUNA,岐阜県,368,SYU,岐阜県,1423,ROLES,岐阜県,2358,SHIRO,岐阜県,0,,-
 DistorteD,Broadbanded,0,,-,888,YUE.*,岐阜県,1257,NODY,岐阜県,1954,NE63..,岐阜県,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,830,ROAD19,岐阜県,1648,ROLES,岐阜県,2235,SHIRO,岐阜県,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,830,ROAD19,岐阜県,1722,TAMAKI,岐阜県,2235,SHIRO,岐阜県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1095,ROLES,岐阜県,1856,TAMAKI,岐阜県,2161,NE63..,岐阜県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,447,SHU&U,岐阜県,364,KANADE,岐阜県,1495,YUUNA,岐阜県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,241,YUUNA,岐阜県,694,O,岐阜県,1685,AZARA5,岐阜県,2361,SHIRO,岐阜県,0,,-
@@ -370,14 +370,14 @@ DJ TROOPERS,Time to Air,0,,-,1127,ALICE*,岐阜県,1987,YAMIY,岐阜県,2824,AZA
 DJ TROOPERS,the trigger of innocence,0,,-,842,ALICE*,岐阜県,1171,SETU*,岐阜県,1841,NE63..,岐阜県,0,,-
 DJ TROOPERS,THE DEEP STRIKER,540,YUUNA,岐阜県,950,NULL,岐阜県,2198,NOY,岐阜県,2918,SHIRO,岐阜県,3280,AZARA5,岐阜県
 DJ TROOPERS,switch,0,,-,795,AZARA5,岐阜県,1343,SARASA,岐阜県,2033,AZARA5,岐阜県,0,,-
-DJ TROOPERS,STEEL NEEDLE,0,,-,1013,IIDX16,岐阜県,2040,SWOOPS,岐阜県,2429,SHIRO,岐阜県,0,,-
+DJ TROOPERS,STEEL NEEDLE,0,,-,1013,IIDX16,岐阜県,2075,HIYOKO,岐阜県,2429,SHIRO,岐阜県,0,,-
 DJ TROOPERS,State Of The Art,0,,-,1079,AZARA5,岐阜県,1470,SARASA,岐阜県,3023,AZARA5,岐阜県,0,,-
 DJ TROOPERS,SOUND OF GIALLARHORN,508,MIMORI,岐阜県,865,PTK,岐阜県,2521,74MAKO,岐阜県,3202,SHIRO,岐阜県,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,815,SWOOPS,岐阜県,1550,YUUNA,岐阜県,2432,SHIRO,岐阜県,0,,-
 DJ TROOPERS,scar in the earth,0,,-,601,AZARA5,岐阜県,1061,MAME,岐阜県,1488,KODO.9,岐阜県,0,,-
 DJ TROOPERS,satfinal,0,,-,1062,AZARA5,岐阜県,1358,GMT.RK,岐阜県,1901,RYO,岐阜県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,0,,-,1851,AZARA5,岐阜県,2446,AZARA5,岐阜県,0,,-
-DJ TROOPERS,Ristaccia,0,,-,1173,SETU*,岐阜県,1844,K-G3.,岐阜県,2623,KODO.9,岐阜県,0,,-
+DJ TROOPERS,Ristaccia,0,,-,1173,SETU*,岐阜県,1844,K-G3.,岐阜県,2655,AZARA5,岐阜県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1281,2433,岐阜県,1750,FANTA0,岐阜県,2326,SHIRO,岐阜県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,581,ROLES,岐阜県,1443,ROLES,岐阜県,1736,YUUNA,岐阜県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,819,IIDX16,岐阜県,1807,KODO.9,岐阜県,2581,KODO.9,岐阜県,0,,-
@@ -410,8 +410,8 @@ EMPRESS,翼,0,,-,861,ROLES,岐阜県,1488,DDR,岐阜県,1945,RYO,岐阜県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,584,HRMS-R,岐阜県,1170,MENMER,岐阜県,2024,NE63..,岐阜県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,950,UNA10-,岐阜県,2068,OLIVIA,岐阜県,2514,AZARA5,岐阜県,0,,-
 EMPRESS,卑弥呼,0,,-,1169,ROLES,岐阜県,2647,SHIRO,岐阜県,3649,SHIRO,岐阜県,0,,-
-EMPRESS,凛として咲く花の如く,393,YUUNA,岐阜県,1122,O,岐阜県,1995,GMT.RK,岐阜県,2756,SHIRO,岐阜県,3143,AZARA5,岐阜県
-EMPRESS,不沈艦CANDY,609,YUUNA,岐阜県,1139,ROLES,岐阜県,1760,NODY,岐阜県,3192,SHIRO,岐阜県,0,,-
+EMPRESS,凛として咲く花の如く,393,YUUNA,岐阜県,1122,O,岐阜県,2075,TAMAKI,岐阜県,2756,SHIRO,岐阜県,3143,AZARA5,岐阜県
+EMPRESS,不沈艦CANDY,609,YUUNA,岐阜県,1139,ROLES,岐阜県,1765,MAME,岐阜県,3192,SHIRO,岐阜県,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,641,SHU&U,岐阜県,1317,ONOZU,岐阜県,2728,NE63..,岐阜県,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,941,HAL,岐阜県,2089,2433,岐阜県,2471,NE63..,岐阜県,0,,-
 EMPRESS,まほろば,0,,-,627,HATA*,岐阜県,1454,SHIRO,岐阜県,2021,SHIRO,岐阜県,0,,-
@@ -423,7 +423,7 @@ EMPRESS,THANK YOU FOR PLAYING,0,,-,595,MOCHA*,岐阜県,1486,ROLES,岐阜県,209
 EMPRESS,SOLITON BEAM,0,,-,1301,NULL,岐阜県,2030,2433,岐阜県,2305,AZARA5,岐阜県,0,,-
 EMPRESS,smooooch・∀・,394,SWOOPS,岐阜県,746,KIRIMA,岐阜県,1549,ROLES,岐阜県,2115,NE63..,岐阜県,0,,-
 EMPRESS,Secrets,0,,-,0,,-,2108,CAMUI*,岐阜県,3051,AZARA5,岐阜県,0,,-
-EMPRESS,Queen's Tragedy,0,,-,525,SHU&U,岐阜県,1573,TAMAKI,岐阜県,2157,KODO.9,岐阜県,0,,-
+EMPRESS,Queen's Tragedy,0,,-,525,SHU&U,岐阜県,1573,TAMAKI,岐阜県,2181,AZARA5,岐阜県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1074,MAME,岐阜県,1641,2433,岐阜県,2495,SHIRO,岐阜県,0,,-
 EMPRESS,Programmed World,0,,-,0,,-,1642,ROLES,岐阜県,2258,NE63..,岐阜県,0,,-
 EMPRESS,NΦ CRIME,294,YUUNA,岐阜県,646,HATA*,岐阜県,1375,MAME,岐阜県,1885,SHIRO,岐阜県,0,,-
@@ -432,17 +432,17 @@ EMPRESS,naughty girl@Queen's Palace,0,,-,766,GERO,岐阜県,1709,NOY,岐阜県,2
 EMPRESS,Monkey Dance '09,0,,-,840,YUE.*,岐阜県,1628,VIP-KO,岐阜県,2205,AZARA5,岐阜県,0,,-
 EMPRESS,Mind Mapping,519,SWOOPS,岐阜県,803,YUME,岐阜県,1187,KONOHA,岐阜県,1784,AZARA5,岐阜県,0,,-
 EMPRESS,Kung-fu Empire,0,,-,1142,MIKA,岐阜県,2515,AZARA5,岐阜県,3141,KH*358,岐阜県,3812,AZARA5,岐阜県
-EMPRESS,Just a Little Smile,0,,-,623,O,岐阜県,1344,NOY,岐阜県,2360,SHIRO,岐阜県,0,,-
-EMPRESS,Jack,0,,-,626,SHU&U,岐阜県,1106,ONOZU,岐阜県,2134,NOY,岐阜県,0,,-
+EMPRESS,Just a Little Smile,0,,-,668,O,岐阜県,1344,NOY,岐阜県,2360,SHIRO,岐阜県,0,,-
+EMPRESS,Jack,0,,-,694,HATA*,岐阜県,1106,ONOZU,岐阜県,2134,NOY,岐阜県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,529,NGNK,岐阜県,1314,SHIRO,岐阜県,1688,NE63..,岐阜県,0,,-
 EMPRESS,HYPERION,0,,-,629,$AIYO,岐阜県,1905,1010,岐阜県,2674,AZARA5,岐阜県,0,,-
 EMPRESS,Go Beyond!!,548,MIMORI,岐阜県,935,NULL,岐阜県,1763,SHIRO,岐阜県,2126,SHIRO,岐阜県,0,,-
 EMPRESS,Fly Above,0,,-,929,GERO,岐阜県,1603,2433,岐阜県,2025,NE63..,岐阜県,0,,-
-EMPRESS,Flash Back 90's,0,,-,720,HATA*,岐阜県,1844,NOY,岐阜県,2315,SHIRO,岐阜県,0,,-
+EMPRESS,Flash Back 90's,0,,-,720,HATA*,岐阜県,1862,NOY,岐阜県,2315,SHIRO,岐阜県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,985,NULL,岐阜県,1839,SHIRO,岐阜県,2475,NE63..,岐阜県,0,,-
 EMPRESS,Colorful Cookie,674,SWOOPS,岐阜県,1121,ROLES,岐阜県,2260,NE63..,岐阜県,3375,SHIRO,岐阜県,0,,-
 EMPRESS,CaptivAte2～覚醒～,244,YUUNA,岐阜県,669,$AIYO,岐阜県,1653,AZARA5,岐阜県,2330,KH*358,岐阜県,0,,-
-EMPRESS,BRIDAL FESTIVAL !!!,0,,-,563,SHU&U,岐阜県,1371,ROLES,岐阜県,2097,AZARA5,岐阜県,0,,-
+EMPRESS,BRIDAL FESTIVAL !!!,0,,-,793,O,岐阜県,1385,GO,岐阜県,2097,AZARA5,岐阜県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1035,ROLES,岐阜県,2191,SHIRO,岐阜県,3787,SHIRO,岐阜県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1057,YUE.*,岐阜県,1941,YUE.*,岐阜県,2598,AZARA5,岐阜県,0,,-
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1141,ROLES,岐阜県,2215,YUE.*,岐阜県,3479,SHIRO,岐阜県,4259,SHIRO,岐阜県
@@ -459,8 +459,8 @@ SIRIUS,コスモス,0,,-,832,HERMES,岐阜県,1480,77MARU,岐阜県,2066,AZARA5,
 SIRIUS,たからもの,0,,-,884,$AIYO,岐阜県,1802,ROLES,岐阜県,2213,SWOOPS,岐阜県,0,,-
 SIRIUS,かずあそび,0,,-,372,YSZ-Z,岐阜県,985,KENZ0,岐阜県,1685,SHIRO,岐阜県,0,,-
 SIRIUS,The Story Begins,0,,-,666,HATA*,岐阜県,1603,NULL,岐阜県,2409,AZARA5,岐阜県,0,,-
-SIRIUS,THE LAST STRIKER,0,,-,1402,TUTTYO,岐阜県,1861,RACTVE,岐阜県,2505,KODO.9,岐阜県,0,,-
-SIRIUS,Special One,0,,-,699,HATA*,岐阜県,1157,ROLES,岐阜県,1728,KODO.9,岐阜県,0,,-
+SIRIUS,THE LAST STRIKER,0,,-,1402,TUTTYO,岐阜県,1861,RACTVE,岐阜県,2530,AZARA5,岐阜県,0,,-
+SIRIUS,Special One,0,,-,699,HATA*,岐阜県,1157,ROLES,岐阜県,1739,AZARA5,岐阜県,0,,-
 SIRIUS,Sorrows,0,,-,676,HATA*,岐阜県,1637,GMT.RK,岐阜県,2453,SHIRO,岐阜県,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,967,NULL,岐阜県,2201,SWOOPS,岐阜県,3489,SHIRO,岐阜県,3476,SHIRO,岐阜県
 SIRIUS,She is my wife,434,YUUNA,岐阜県,669,YUE.*,岐阜県,1367,ROLES,岐阜県,1940,NE63..,岐阜県,0,,-
@@ -484,29 +484,29 @@ SIRIUS,GALGALIM,0,,-,1276,NULL,岐阜県,1775,YAMIY,岐阜県,2343,KH*358,岐阜
 SIRIUS,G59,0,,-,1738,ROLES,岐阜県,2137,K-SP,岐阜県,3731,SHIRO,岐阜県,0,,-
 SIRIUS,EXUSIA,0,,-,1113,IIDX16,岐阜県,2593,OLIVIA,岐阜県,3665,SHIRO,岐阜県,0,,-
 SIRIUS,Evans,608,YUUNA,岐阜県,1194,COLT,岐阜県,2181,AZARA5,岐阜県,2606,NE63..,岐阜県,0,,-
-SIRIUS,eRAseRmOToRpHAntOM,0,,-,1489,YUE.*,岐阜県,2407,77MARU,岐阜県,3053,AZARA5,岐阜県,0,,-
+SIRIUS,eRAseRmOToRpHAntOM,0,,-,1489,YUE.*,岐阜県,2407,77MARU,岐阜県,3087,KODO.9,岐阜県,0,,-
 SIRIUS,Empire State Glory,0,,-,1066,HAL,岐阜県,1745,MOKO,岐阜県,2567,AZARA5,岐阜県,0,,-
 SIRIUS,Elisha,433,MIMORI,岐阜県,846,LEGACY,岐阜県,1439,S660!!,岐阜県,2210,AZARA5,岐阜県,0,,-
 SIRIUS,DROP,0,,-,752,KIRIMA,岐阜県,2104,AZARA5,岐阜県,2571,SHIRO,岐阜県,0,,-
 SIRIUS,DOMINION,0,,-,833,RL-K,岐阜県,2210,YUE.*,岐阜県,3136,SHIRO,岐阜県,0,,-
-SIRIUS,DESIRE,0,,-,769,2030,岐阜県,1916,AZARA5,岐阜県,2802,KH*358,岐阜県,0,,-
+SIRIUS,DESIRE,0,,-,864,MAME,岐阜県,1916,AZARA5,岐阜県,2802,KH*358,岐阜県,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,748,DOG,岐阜県,1391,ROLES,岐阜県,2080,AZARA5,岐阜県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1529,HAL,岐阜県,2551,ROLES,岐阜県,3088,SHIRO,岐阜県,0,,-
 SIRIUS,D,0,,-,1129,SHIHNA,岐阜県,1612,ROLES,岐阜県,2386,ROCKY,岐阜県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,989,HAL,岐阜県,1534,GMT.RK,岐阜県,2368,HIYOKO,岐阜県,0,,-
 SIRIUS,bloomin' feeling,394,YUUNA,岐阜県,1233,ROLES,岐阜県,1934,CHERIE,岐阜県,2564,SHIRO,岐阜県,0,,-
-SIRIUS,being torn the sky,0,,-,602,8MAMO,岐阜県,1158,KONOHA,岐阜県,1956,YUUNA,岐阜県,0,,-
+SIRIUS,being torn the sky,0,,-,602,8MAMO,岐阜県,1158,KONOHA,岐阜県,1966,AZARA5,岐阜県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,618,MAME,岐阜県,1711,TAMAKI,岐阜県,2436,KH*358,岐阜県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,929,DOG,岐阜県,1579,ROLES,岐阜県,1987,AZARA5,岐阜県,0,,-
 SIRIUS,bass 2 bass,280,YUUNA,岐阜県,712,ROLES,岐阜県,1238,ROLES,岐阜県,1848,NOY,岐阜県,0,,-
 SIRIUS,Bad Maniacs,0,,-,1266,S660!!,岐阜県,1819,SWOOPS,岐阜県,3120,SHIRO,岐阜県,0,,-
 SIRIUS,Almagest,0,,-,961,ROLES,岐阜県,2169,SHIRO,岐阜県,2953,SHIRO,岐阜県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,543,YUUNA,岐阜県,976,YOCK,岐阜県,1553,NULL,岐阜県,2308,SHIRO,岐阜県,2806,S660!!,岐阜県
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,775,ROLES,岐阜県,1968,K-G3.,岐阜県,3324,AZARA5,岐阜県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,782,MAME,岐阜県,1968,K-G3.,岐阜県,3324,AZARA5,岐阜県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,592,YUUNA,岐阜県,1053,KONOHA,岐阜県,1930,SHIRO,岐阜県,2814,TEKOU,岐阜県,0,,-
 Resort Anthem,旅人リラン,0,,-,1115,ROLES,岐阜県,1941,AZARA5,岐阜県,2532,KH*358,岐阜県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,927,NULL,岐阜県,1947,YUE.*,岐阜県,2777,KH*358,岐阜県,0,,-
-Resort Anthem,中華急行,0,,-,325,KARIN,岐阜県,1459,FANTA0,岐阜県,2300,AZARA5,岐阜県,0,,-
+Resort Anthem,中華急行,0,,-,325,KARIN,岐阜県,1478,77MARU,岐阜県,2300,AZARA5,岐阜県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,532,YUUNA,岐阜県,742,HATA*,岐阜県,1228,8MAMO,岐阜県,1862,RYO,岐阜県,0,,-
 Resort Anthem,おおきなこえで,0,,-,428,MAME,岐阜県,948,ROLES,岐阜県,1466,NOY,岐阜県,2135,TEKOU,岐阜県
 Resort Anthem,ZETA～素数の世界と超越者～,334,YUUNA,岐阜県,355,SIZUKI,岐阜県,1984,GO,岐阜県,3015,AZARA5,岐阜県,0,,-
@@ -574,16 +574,16 @@ Lincle,Yellow Sunrise,0,,-,604,HATA*,岐阜県,1245,ONOZU,岐阜県,2250,AZARA5,
 Lincle,yellow head joe,0,,-,582,HRMS-R,岐阜県,1385,KONOHA,岐阜県,2206,NE63..,岐阜県,0,,-
 Lincle,YAKSHA,0,,-,1055,HRMS-R,岐阜県,2108,REDS0M,岐阜県,3709,SHIRO,岐阜県,0,,-
 Lincle,WONDER WALKER,0,,-,820,HATA*,岐阜県,1820,77MARU,岐阜県,3694,SHIRO,岐阜県,0,,-
-Lincle,Voxane,0,,-,468,O,岐阜県,1152,IIDX16,岐阜県,1710,ROCKY,岐阜県,0,,-
+Lincle,Voxane,0,,-,468,O,岐阜県,1152,IIDX16,岐阜県,1724,NOY,岐阜県,0,,-
 Lincle,Todestrieb,0,,-,970,M.H,岐阜県,1880,SEMI0T,岐阜県,3365,SHIRO,岐阜県,0,,-
 Lincle,TITANS RETURN,326,YUUNA,岐阜県,533,YUU,岐阜県,1461,ROLES,岐阜県,2424,KH*358,岐阜県,2394,AZARA5,岐阜県
 Lincle,Thunderbolt,0,,-,894,TD*MYE,岐阜県,1754,ROLES,岐阜県,3618,AZARA5,岐阜県,0,,-
 Lincle,The Sampling Paradise,0,,-,674,HATA*,岐阜県,1704,ROLES,岐阜県,2902,KH*358,岐阜県,0,,-
 Lincle,The Limbo,0,,-,1017,KENZ0,岐阜県,1991,SWOOPS,岐阜県,3180,TEKOU,岐阜県,0,,-
 Lincle,Star Trail,0,,-,406,SHU&U,岐阜県,1106,KONOHA,岐阜県,1832,AZARA5,岐阜県,0,,-
-Lincle,Snow Goose,300,MIMORI,岐阜県,367,COLT,岐阜県,1234,HAL,岐阜県,2290,KODO.9,岐阜県,0,,-
+Lincle,Snow Goose,300,MIMORI,岐阜県,367,COLT,岐阜県,1234,HAL,岐阜県,2341,AZARA5,岐阜県,0,,-
 Lincle,Snake Stick,0,,-,986,HAL,岐阜県,2017,AZARA5,岐阜県,2558,AZARA5,岐阜県,0,,-
-Lincle,SHADE,0,,-,1084,KH*358,岐阜県,2008,KH*358,岐阜県,2868,KH*358,岐阜県,0,,-
+Lincle,SHADE,0,,-,1091,KH*358,岐阜県,2008,KH*358,岐阜県,2868,KH*358,岐阜県,0,,-
 Lincle,Several Words,0,,-,414,SHU&U,岐阜県,1387,ROLES,岐阜県,2133,NE63..,岐阜県,0,,-
 Lincle,Scharfrichter,0,,-,765,HATA*,岐阜県,1550,GMT.RK,岐阜県,2796,AZARA5,岐阜県,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,368,YUKA*,岐阜県,1046,IMAI,岐阜県,1651,AZARA5,岐阜県,0,,-
@@ -594,9 +594,9 @@ Lincle,Quick Silver,0,,-,621,HATA*,岐阜県,1826,AZARA5,岐阜県,2601,KH*358,�
 Lincle,quaver♪,289,MIMORI,岐阜県,649,HATA*,岐阜県,2099,77MARU,岐阜県,3286,AZARA5,岐阜県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1113,SETUNA,岐阜県,2100,TAMAKI,岐阜県,2860,KH*358,岐阜県,3430,RACTVE,岐阜県
 Lincle,prompt,0,,-,829,HATA*,岐阜県,1546,ROLES,岐阜県,2720,KH*358,岐阜県,0,,-
-Lincle,Phoenix,0,,-,685,BERKUT,岐阜県,916,2030,岐阜県,2404,KODO.9,岐阜県,0,,-
+Lincle,Phoenix,0,,-,685,BERKUT,岐阜県,916,2030,岐阜県,2417,AZARA5,岐阜県,0,,-
 Lincle,NNRT,0,,-,1234,AZARA5,岐阜県,2467,SWOOPS,岐阜県,3328,AZARA5,岐阜県,0,,-
-Lincle,Miami Sunset Drive,0,,-,565,O,岐阜県,1046,S660!!,岐阜県,1616,KODO.9,岐阜県,0,,-
+Lincle,Miami Sunset Drive,0,,-,565,O,岐阜県,1046,S660!!,岐阜県,1644,AZARA5,岐阜県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,750,O,岐阜県,1304,ROLES,岐阜県,2037,NE63..,岐阜県,0,,-
 Lincle,Lucky Days,0,,-,600,HATA*,岐阜県,1449,ROLES,岐阜県,2130,AZARA5,岐阜県,0,,-
 Lincle,LOVE B.B.B,0,,-,646,YUE.*,岐阜県,1396,NODY,岐阜県,2002,AZARA5,岐阜県,0,,-
@@ -609,7 +609,7 @@ Lincle,I'm so Happy,318,MIMORI,岐阜県,408,ROLES,岐阜県,1322,ROLES,岐阜�
 Lincle,HAERETICUS,0,,-,717,CHAOS,岐阜県,1726,ROLES,岐阜県,2928,SHIRO,岐阜県,0,,-
 Lincle,Follow Tomorrow,0,,-,747,HATA*,岐阜県,1479,2433,岐阜県,2228,NE63..,岐阜県,0,,-
 Lincle,Flip Flap,279,MIMORI,岐阜県,437,MIKAN,岐阜県,1322,ROLES,岐阜県,2215,NE63..,岐阜県,0,,-
-Lincle,fffff,0,,-,822,ROLES,岐阜県,2017,HIYOKO,岐阜県,2904,RACTVE,岐阜県,0,,-
+Lincle,fffff,0,,-,822,ROLES,岐阜県,2032,SWOOPS,岐阜県,2904,RACTVE,岐阜県,0,,-
 Lincle,Far east nightbird,360,YUUNA,岐阜県,509,DOG,岐阜県,1265,ROLES,岐阜県,1989,KH*358,岐阜県,0,,-
 Lincle,F,0,,-,944,HATA*,岐阜県,2032,77MARU,岐阜県,3431,NE63..,岐阜県,0,,-
 Lincle,Express Emotion,0,,-,548,TAGAYA,岐阜県,1038,SHIRO,岐阜県,2496,SHIRO,岐阜県,0,,-
@@ -639,12 +639,12 @@ tricoro,シュレーディンガーの猫,0,,-,1082,ROLES,岐阜県,2277,TEN-B,�
 tricoro,キャトられ恋はモ～モク,0,,-,1430,ROLES,岐阜県,2664,SHIRO,岐阜県,3709,SHIRO,岐阜県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,417,SHU&U,岐阜県,1316,ROLES,岐阜県,2347,SHIRO,岐阜県,0,,-
 tricoro,アストライアの双皿,0,,-,584,O,岐阜県,1949,K-G3.,岐阜県,2967,AZARA5,岐阜県,0,,-
-tricoro,たまゆら,0,,-,1064,MILLA,岐阜県,1712,IIDX27,岐阜県,2639,NE63..,岐阜県,0,,-
+tricoro,たまゆら,0,,-,1064,HIME-G,岐阜県,1712,IIDX27,岐阜県,2639,NE63..,岐阜県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,755,TKPIRA,岐阜県,1369,SHIN,岐阜県,2129,AZARA5,岐阜県,0,,-
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),246,YUUNA,岐阜県,524,DOG,岐阜県,1554,GMT.RK,岐阜県,3400,SHIRO,岐阜県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,980,M.H,岐阜県,1889,GERO,岐阜県,3030,KH*358,岐阜県,0,,-
 tricoro,Zirkfied,0,,-,917,UNA10-,岐阜県,1930,YUE.*,岐阜県,3604,SHIRO,岐阜県,0,,-
-tricoro,ZED,0,,-,771,HATA*,岐阜県,1707,AZARA5,岐阜県,2657,KODO.9,岐阜県,0,,-
+tricoro,ZED,0,,-,771,HATA*,岐阜県,1707,AZARA5,岐阜県,2707,AZARA5,岐阜県,0,,-
 tricoro,VEGA,0,,-,827,INUE,岐阜県,1987,ROLES,岐阜県,3051,KH*358,岐阜県,0,,-
 tricoro,VALLIS-NERIA,271,YUUNA,岐阜県,1178,MAME,岐阜県,2093,NE63..,岐阜県,2814,AZARA5,岐阜県,0,,-
 tricoro,Valanga,0,,-,1259,HAL,岐阜県,2179,AZARA5,岐阜県,3130,AZARA5,岐阜県,0,,-
@@ -673,15 +673,15 @@ tricoro,planarian,0,,-,701,AZARA5,岐阜県,1632,ROLES,岐阜県,2502,NE63..,岐
 tricoro,Plan 8,0,,-,1135,ROLES,岐阜県,2233,SHIRO,岐阜県,2966,SHIRO,岐阜県,0,,-
 tricoro,New Lights,0,,-,850,MIKA,岐阜県,1795,AZARA5,岐阜県,2427,AZARA5,岐阜県,0,,-
 tricoro,New Decade IIDX Edition,272,MIMORI,岐阜県,803,HATA*,岐阜県,1812,ROLES,岐阜県,2910,KH*358,岐阜県,0,,-
-tricoro,neu,198,YUUNA,岐阜県,764,HIYOKU,岐阜県,2057,K-G3.,岐阜県,3658,ZUNDA,岐阜県,0,,-
-tricoro,Neonlights,0,,-,0,,-,1447,COLT,岐阜県,2170,AZARA5,岐阜県,0,,-
+tricoro,neu,198,YUUNA,岐阜県,764,HIYOKU,岐阜県,2057,K-G3.,岐阜県,3751,AZARA5,岐阜県,0,,-
+tricoro,Neonlights,0,,-,377,TANNAN,岐阜県,1447,COLT,岐阜県,2170,AZARA5,岐阜県,0,,-
 tricoro,mnemoniq,0,,-,463,CHAOS,岐阜県,705,MIKA,岐阜県,1286,RYO,岐阜県,0,,-
 tricoro,LUV CAN SAVE U,0,,-,551,GINKA9,岐阜県,1394,ROLES,岐阜県,2103,YUUNA,岐阜県,2743,KH*358,岐阜県
 tricoro,Little Star,0,,-,790,HATA*,岐阜県,1690,ROLES,岐阜県,3011,AZARA5,岐阜県,0,,-
 tricoro,Light and Cyber…,0,,-,879,HATA*,岐阜県,1939,NODY,岐阜県,3035,AZARA5,岐阜県,0,,-
 tricoro,Liberation,0,,-,395,NO.89,岐阜県,2151,77MARU,岐阜県,3621,NE63..,岐阜県,0,,-
 tricoro,JOMANDA,264,YUUNA,岐阜県,1142,2433,岐阜県,2174,123,岐阜県,3488,SHIRO,岐阜県,0,,-
-tricoro,In Heaven,0,,-,539,INUE,岐阜県,1457,SWOOPS,岐阜県,2094,AZARA5,岐阜県,0,,-
+tricoro,In Heaven,0,,-,539,INUE,岐阜県,1457,SWOOPS,岐阜県,2102,NOY,岐阜県,0,,-
 tricoro,Illegal Function Call,0,,-,884,CHAOS,岐阜県,1848,SHIRO,岐阜県,2507,SHIRO,岐阜県,0,,-
 tricoro,ILIAS,0,,-,464,CARD36,岐阜県,1167,NULL,岐阜県,2176,AZARA5,岐阜県,0,,-
 tricoro,I know You know,0,,-,591,ROLES,岐阜県,1104,KONOHA,岐阜県,1838,AZARA5,岐阜県,0,,-
@@ -695,7 +695,7 @@ tricoro,examination leave,0,,-,602,LICETE,岐阜県,1795,ROLES,岐阜県,3312,AZ
 tricoro,Elemental Creation,265,SWOOPS,岐阜県,1370,HAL,岐阜県,2330,SWOOPS,岐阜県,3884,SHIRO,岐阜県,0,,-
 tricoro,Devilz Staircase,0,,-,635,ROLES,岐阜県,2106,YORUMI,岐阜県,3037,AZARA5,岐阜県,0,,-
 tricoro,DAY DREAM,0,,-,545,KH*358,岐阜県,1291,SHIRO,岐阜県,1971,SHIRO,岐阜県,0,,-
-tricoro,Cookie Bouquets,0,,-,717,MIKA,岐阜県,2030,ROLES,岐阜県,3304,AZARA5,岐阜県,0,,-
+tricoro,Cookie Bouquets,0,,-,733,HATA*,岐阜県,2030,ROLES,岐阜県,3304,AZARA5,岐阜県,0,,-
 tricoro,connective,0,,-,297,BILLYJ,岐阜県,1062,ROLES,岐阜県,1587,YUUNA,岐阜県,0,,-
 tricoro,Confiserie,0,,-,812,HATA*,岐阜県,2059,KH*358,岐阜県,3272,S660!!,岐阜県,0,,-
 tricoro,CONCEPTUAL,0,,-,709,HATA*,岐阜県,1283,HAL,岐阜県,2584,AZARA5,岐阜県,0,,-
@@ -728,7 +728,7 @@ SPADA,THE DETONATOR,0,,-,1482,KONOHA,岐阜県,2447,AZARA5,岐阜県,3103,AZARA5
 SPADA,Squeeze,0,,-,651,HATA*,岐阜県,1352,ROLES,岐阜県,2432,AZARA5,岐阜県,0,,-
 SPADA,Sigmund,0,,-,1447,NULL,岐阜県,2397,SHIRO,岐阜県,3629,SHIRO,岐阜県,3946,SHIRO,岐阜県
 SPADA,SCHWARZSCHILD FIELD,0,,-,916,S660!!,岐阜県,1541,AZARA5,岐阜県,2282,KODO.9,岐阜県,0,,-
-SPADA,RIZING YOU UP,0,,-,604,SHU&U,岐阜県,2103,HIYOKO,岐阜県,2523,NE63..,岐阜県,0,,-
+SPADA,RIZING YOU UP,0,,-,902,O,岐阜県,2103,HIYOKO,岐阜県,2523,NE63..,岐阜県,0,,-
 SPADA,RISE,0,,-,868,UNA10-,岐阜県,1158,CLEOME,岐阜県,1816,KODO.9,岐阜県,0,,-
 SPADA,refractive index,0,,-,621,O,岐阜県,1364,MAME,岐阜県,2633,AZARA5,岐阜県,0,,-
 SPADA,Recollection,0,,-,788,SHU&U,岐阜県,1488,SETUNA,岐阜県,2206,ROCKY,岐阜県,0,,-
@@ -738,7 +738,7 @@ SPADA,PUNISHER,0,,-,767,SHU&U,岐阜県,2068,SWOOPS,岐阜県,3393,AZARA5,岐阜
 SPADA,Pharaoh,0,,-,492,HATA*,岐阜県,1238,KONOHA,岐阜県,2393,AZARA5,岐阜県,0,,-
 SPADA,Overload Frontier,0,,-,629,O,岐阜県,1520,IIDX27,岐阜県,2428,ZUNDA,岐阜県,0,,-
 SPADA,Odin,0,,-,322,J9,岐阜県,720,O,岐阜県,1999,AMER,岐阜県,0,,-
-SPADA,NPC World,0,,-,971,IIDX16,岐阜県,1494,SHIBA,岐阜県,2217,KODO.9,岐阜県,0,,-
+SPADA,NPC World,0,,-,971,IIDX16,岐阜県,1494,SHIBA,岐阜県,2224,AZARA5,岐阜県,0,,-
 SPADA,Miracle 5ympho X,0,,-,587,INUE,岐阜県,1179,WEST,岐阜県,2561,KH*358,岐阜県,0,,-
 SPADA,MAGIC & LOVE,0,,-,866,GAFF,岐阜県,1754,77MARU,岐阜県,2877,KH*358,岐阜県,0,,-
 SPADA,MAD ATTACK,0,,-,661,ROLES,岐阜県,1225,ROLES,岐阜県,1927,NOY,岐阜県,0,,-
@@ -759,7 +759,7 @@ SPADA,Hypersonik,0,,-,869,GUNDAM,岐阜県,1730,AZARA5,岐阜県,2462,AZARA5,岐
 SPADA,HYENA,0,,-,724,INUE,岐阜県,1806,ROLES,岐阜県,2716,AZARA5,岐阜県,0,,-
 SPADA,Funny shuffle,0,,-,403,SHU&U,岐阜県,1080,GMT.RK,岐阜県,2228,ROCKY,岐阜県,0,,-
 SPADA,Feel The Beat,0,,-,1287,ROLES,岐阜県,2140,SWOOPS,岐阜県,3450,TEKOU,岐阜県,4040,SHIRO,岐阜県
-SPADA,EXTREME MACH COLLIDER,0,,-,560,SHU&U,岐阜県,1323,NULL,岐阜県,2500,KODO.9,岐阜県,0,,-
+SPADA,EXTREME MACH COLLIDER,0,,-,560,SHU&U,岐阜県,1323,NULL,岐阜県,2501,AZARA5,岐阜県,0,,-
 SPADA,Engraved Mark,0,,-,711,DEVIET,岐阜県,1236,ROLES,岐阜県,2388,SHIRO,岐阜県,0,,-
 SPADA,Element of SPADA,0,,-,593,YOCK,岐阜県,1361,2433,岐阜県,2078,SHIRO,岐阜県,0,,-
 SPADA,Elektrick U-Phoria,0,,-,766,PTK,岐阜県,1842,77MARU,岐阜県,3018,AZARA5,岐阜県,0,,-
@@ -800,7 +800,7 @@ PENDUAL,パ→ピ→プ→Yeah!,380,MIMORI,岐阜県,1018,ROLES,岐阜県,1535,G
 PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,977,NULL,岐阜県,1721,S660!!,岐阜県,2742,AZARA5,岐阜県,0,,-
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1264,ALICE*,岐阜県,1892,ROLES,岐阜県,2622,TEKOU,岐阜県,0,,-
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,860,ROLES,岐阜県,1406,ROLES,岐阜県,2474,AZARA5,岐阜県,0,,-
-PENDUAL,とろぴかる倶楽部,0,,-,792,ROLES,岐阜県,1441,SWOOPS,岐阜県,2221,NOY,岐阜県,0,,-
+PENDUAL,とろぴかる倶楽部,0,,-,792,ROLES,岐阜県,1479,NOY,岐阜県,2221,NOY,岐阜県,0,,-
 PENDUAL,それは花火のような恋,708,YUUNA,岐阜県,1296,2433,岐阜県,2441,YUE.*,岐阜県,3750,SHIRO,岐阜県,0,,-
 PENDUAL,ZZ,204,YUUNA,岐阜県,1168,NULL,岐阜県,1875,ROLES,岐阜県,2952,AZARA5,岐阜県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1111,NULL,岐阜県,2134,ROLES,岐阜県,3602,SHIRO,岐阜県,0,,-
@@ -834,7 +834,7 @@ PENDUAL,IXION,0,,-,1028,NULL,岐阜県,1721,2433,岐阜県,2132,AZARA5,岐阜県
 PENDUAL,Invitation from Mr.C,0,,-,848,ANOA,岐阜県,1578,NOY,岐阜県,2570,AZARA5,岐阜県,0,,-
 PENDUAL,In The Breeze,0,,-,268,SHU&U,岐阜県,1023,NULL,岐阜県,1705,SHIRO,岐阜県,0,,-
 PENDUAL,IMPLANTATION,0,,-,633,NULL,岐阜県,1683,SWOOPS,岐阜県,2099,AZARA5,岐阜県,0,,-
-PENDUAL,illuminate,0,,-,543,O,岐阜県,1341,KONOHA,岐阜県,2282,AZARA5,岐阜県,0,,-
+PENDUAL,illuminate,0,,-,543,O,岐阜県,1341,KONOHA,岐阜県,2285,KH*358,岐阜県,0,,-
 PENDUAL,Hello Happiness,0,,-,856,NULL,岐阜県,1417,GO,岐阜県,2262,SHIRO,岐阜県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,909,DOG,岐阜県,1668,ROLES,岐阜県,2774,AZARA5,岐阜県,0,,-
 PENDUAL,Gravigazer,0,,-,626,HATA*,岐阜県,1653,TAMAKI,岐阜県,2830,NE63..,岐阜県,0,,-
@@ -853,7 +853,7 @@ PENDUAL,Chronos,0,,-,787,UNA10-,岐阜県,1357,SWOOPS,岐阜県,2269,AZARA5,岐�
 PENDUAL,Chrono Diver -PENDULUMs-,558,MIMORI,岐阜県,1426,NOY,岐阜県,2734,SHIRO,岐阜県,3998,SHIRO,岐阜県,0,,-
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,971,HATA*,岐阜県,2147,77MARU,岐阜県,3023,KH*358,岐阜県,4155,NE63..,岐阜県
 PENDUAL,chrono diver -fragment-,0,,-,662,DOG,岐阜県,1150,ROLES,岐阜県,1792,YUUNA,岐阜県,2248,YUUNA,岐阜県
-PENDUAL,Chain of pain,0,,-,689,$175,岐阜県,1350,HAL,岐阜県,2177,KODO.9,岐阜県,0,,-
+PENDUAL,Chain of pain,0,,-,689,$175,岐阜県,1350,HAL,岐阜県,2183,AZARA5,岐阜県,0,,-
 PENDUAL,Broken Sword,0,,-,1151,SETUNA,岐阜県,2057,NE63..,岐阜県,3597,SHIRO,岐阜県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1129,AZARA5,岐阜県,1874,2,岐阜県,2742,NE63..,岐阜県,0,,-
 PENDUAL,Blaze it UP!,0,,-,952,AZARA5,岐阜県,1800,ROLES,岐阜県,2915,SHIRO,岐阜県,0,,-
@@ -867,10 +867,10 @@ copula,量子の海のリントヴルム,0,,-,871,NULL,岐阜県,1650,NULL,岐�
 copula,追想快晴テーマパーク,0,,-,774,SHU&U,岐阜県,1919,RNNY.,岐阜県,3013,KH*358,岐阜県,0,,-
 copula,紫陽花 -AZISAI-,419,YUUNA,岐阜県,1197,NULL,岐阜県,1880,NODY,岐阜県,2755,KH*358,岐阜県,0,,-
 copula,真 地獄超特急 -HELL or HELL-,0,,-,1327,HAL,岐阜県,2184,SHIRO,岐阜県,3013,SHIRO,岐阜県,0,,-
-copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,-,1249,KONOHA,岐阜県,2074,NOY,岐阜県,2464,KODO.9,岐阜県,0,,-
+copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,-,1249,KONOHA,岐阜県,2074,NOY,岐阜県,2487,AZARA5,岐阜県,0,,-
 copula,灼熱 Pt.2 Long Train Running,0,,-,1224,ROLES,岐阜県,2030,NE63..,岐阜県,2960,YUUNA,岐阜県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,797,HATA*,岐阜県,1625,P.ZERO,岐阜県,2484,NE63..,岐阜県,0,,-
-copula,星屑ディスタンシア,0,,-,665,ROLES,岐阜県,1155,KONOHA,岐阜県,2049,KODO.9,岐阜県,0,,-
+copula,星屑ディスタンシア,0,,-,665,ROLES,岐阜県,1155,KONOHA,岐阜県,2081,AZARA5,岐阜県,0,,-
 copula,明鏡止水,0,,-,769,PUTTY0,岐阜県,1697,MAME,岐阜県,2666,AZARA5,岐阜県,0,,-
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,727,UNA10-,岐阜県,1366,GERO,岐阜県,2102,AZARA5,岐阜県,0,,-
 copula,セロトニン,0,,-,848,CLERK,岐阜県,1783,AZARA5,岐阜県,2268,KODO.9,岐阜県,0,,-
@@ -878,12 +878,12 @@ copula,シュッパツシンコウ・シサカンコ,0,,-,1090,ROLES,岐阜県,1
 copula,ギョギョっと人魚 爆婚ブライダル,0,,-,791,ROLES,岐阜県,1373,ROLES,岐阜県,2355,AZARA5,岐阜県,0,,-
 copula,オルタネイトβ,0,,-,803,DOG,岐阜県,1429,2433,岐阜県,2255,SHIRO,岐阜県,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,1389,GERO,岐阜県,2260,SWOOPS,岐阜県,3248,AZARA5,岐阜県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,1088,NULL,岐阜県,1657,ROLES,岐阜県,2708,KODO.9,岐阜県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,1088,NULL,岐阜県,1657,ROLES,岐阜県,2764,AZARA5,岐阜県,0,,-
 copula,ZEPHYRANTHES,0,,-,630,BERKUT,岐阜県,1696,ROLES,岐阜県,2915,KH*358,岐阜県,0,,-
 copula,X,0,,-,1432,SETUNA,岐阜県,2484,SHIRO,岐阜県,3686,SHIRO,岐阜県,0,,-
 copula,Welcome,0,,-,704,HATA*,岐阜県,1684,WAKARU,岐阜県,2538,ROCKY,岐阜県,3165,AZARA5,岐阜県
 copula,Violet Rose,0,,-,621,SHU&U,岐阜県,1968,KODO.9,岐阜県,2487,AZARA5,岐阜県,0,,-
-copula,Violet Pulse,0,,-,380,O,岐阜県,1458,KURO.,岐阜県,2377,ROCKY,岐阜県,0,,-
+copula,Violet Pulse,0,,-,380,O,岐阜県,1472,SARASA,岐阜県,2377,ROCKY,岐阜県,0,,-
 copula,Uh-Oh,0,,-,1055,ROLES,岐阜県,1599,ROLES,岐阜県,2334,AZARA5,岐阜県,0,,-
 copula,Triple Counter,0,,-,1286,KONOHA,岐阜県,2110,ROLES,岐阜県,3728,SHIRO,岐阜県,0,,-
 copula,Tori-no-kimochi,0,,-,249,DOG,岐阜県,1181,NODY,岐阜県,1992,SHIRO,岐阜県,0,,-
@@ -898,12 +898,12 @@ copula,Sephirot,0,,-,727,HATA*,岐阜県,1506,GO,岐阜県,2319,SHIRO,岐阜県,
 copula,SEITEN NO TERIYAKI,0,,-,664,SU1945,岐阜県,1135,IIDX16,岐阜県,2167,ROCKY,岐阜県,0,,-
 copula,Routing,0,,-,888,77MARU,岐阜県,1540,ROLES,岐阜県,2414,KH*358,岐阜県,0,,-
 copula,Rock It,0,,-,667,CARD26,岐阜県,1481,ROLES,岐阜県,2877,KH*358,岐阜県,0,,-
-copula,refrain,0,,-,1142,NULL,岐阜県,2006,IIDX27,岐阜県,3464,AZARA5,岐阜県,0,,-
+copula,refrain,0,,-,1231,KONOHA,岐阜県,2006,IIDX27,岐阜県,3464,AZARA5,岐阜県,0,,-
 copula,quick master (reform version),0,,-,159,77MARU,岐阜県,345,GO,岐阜県,526,YUUNA,岐阜県,0,,-
 copula,POSSESSION,544,YUUNA,岐阜県,1327,HINA,岐阜県,2150,NE63..,岐阜県,2887,AZARA5,岐阜県,0,,-
 copula,Outbreak,0,,-,1256,PUTTY0,岐阜県,1780,ROLES,岐阜県,2927,AZARA5,岐阜県,0,,-
 copula,On the FM,0,,-,0,,-,1562,ROLES,岐阜県,2648,ZUNDA,岐阜県,0,,-
-copula,NZM,0,,-,1027,NULL,岐阜県,1526,RACTVE,岐阜県,3180,SHIRO,岐阜県,0,,-
+copula,NZM,0,,-,1027,NULL,岐阜県,1526,RACTVE,岐阜県,3191,AZARA5,岐阜県,0,,-
 copula,Nowhere,0,,-,802,KONOHA,岐阜県,1437,S660!!,岐阜県,2122,AZARA5,岐阜県,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,772,ALICE*,岐阜県,1185,KONOHA,岐阜県,2239,NE63..,岐阜県,0,,-
 copula,NINJA IS DEAD IIDX ver.,0,,-,945,NIPA,岐阜県,1795,ROLES,岐阜県,2880,S660!!,岐阜県,0,,-
@@ -918,17 +918,17 @@ copula,Inner Spirit,0,,-,835,KONOHA,岐阜県,1835,AZARA5,岐阜県,2729,AZARA5,
 copula,Highcharge Divolt,0,,-,850,GO,岐阜県,1599,ROLES,岐阜県,2660,KH*358,岐阜県,0,,-
 copula,Grand Chariot,0,,-,1092,HAL,岐阜県,1854,KNMNDN,岐阜県,3293,SHIRO,岐阜県,0,,-
 copula,Godspeed,0,,-,982,ALICE*,岐阜県,1825,77MARU,岐阜県,2966,NE63..,岐阜県,0,,-
-copula,GOBBLE,0,,-,437,CHAOS,岐阜県,669,ROLES,岐阜県,1607,KODO.9,岐阜県,0,,-
+copula,GOBBLE,0,,-,437,CHAOS,岐阜県,669,ROLES,岐阜県,1635,AZARA5,岐阜県,0,,-
 copula,Go Faraway,0,,-,953,MUMI,岐阜県,1458,123,岐阜県,2458,KH*358,岐阜県,0,,-
 copula,Glitch Nerds,0,,-,674,SHU&U,岐阜県,1334,MAME,岐阜県,2189,AZARA5,岐阜県,0,,-
 copula,GENERATE feat.綾倉盟,0,,-,874,HATA*,岐阜県,1669,ROLES,岐阜県,2326,AZARA5,岐阜県,0,,-
-copula,Exchange Place,0,,-,378,UDON,岐阜県,1191,ROLES,岐阜県,1745,KH*358,岐阜県,0,,-
+copula,Exchange Place,0,,-,698,LEGACY,岐阜県,1191,ROLES,岐阜県,1745,KH*358,岐阜県,0,,-
 copula,Everlasting Last,0,,-,747,MUMI,岐阜県,1602,2433,岐阜県,2203,NE63..,岐阜県,0,,-
 copula,Dynamite,550,YUUNA,岐阜県,1118,NULL,岐阜県,2403,YUKIA2,岐阜県,3637,AZARA5,岐阜県,0,,-
 copula,Donkey Donk,0,,-,906,YOCK,岐阜県,1658,YUE.*,岐阜県,2246,SHIRO,岐阜県,0,,-
 copula,do the thing feat. Kanae Asaba,0,,-,609,ROLES,岐阜県,1417,ROLES,岐阜県,2250,RYO,岐阜県,0,,-
 copula,DIAMOND CROSSING,0,,-,945,ROLES,岐阜県,1765,NE63..,岐阜県,2851,DDR,岐阜県,0,,-
-copula,Devil's Gear,0,,-,927,CPU1,岐阜県,2188,HIYOKO,岐阜県,3223,S660!!,岐阜県,0,,-
+copula,Devil's Gear,0,,-,927,MOMOKA,岐阜県,2188,HIYOKO,岐阜県,3223,S660!!,岐阜県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,1162,ONOZU,岐阜県,1744,HAL,岐阜県,2570,AZARA5,岐阜県,0,,-
 copula,Damage Per Second,0,,-,817,MUMI,岐阜県,1359,ROLES,岐阜県,2015,AZARA5,岐阜県,2272,AZARA5,岐阜県
 copula,Daily Lunch Special,0,,-,1026,PUTTY0,岐阜県,2066,ROLES,岐阜県,2890,TEKOU,岐阜県,0,,-
@@ -947,7 +947,7 @@ SINOBUZ,鴉,0,,-,1421,HAL,岐阜県,2221,SWOOPS,岐阜県,2627,NE63..,岐阜県,
 SINOBUZ,童話回廊,0,,-,897,NULL,岐阜県,1616,ROLES,岐阜県,2955,AZARA5,岐阜県,0,,-
 SINOBUZ,禍根,0,,-,783,WAKARU,岐阜県,1258,GMT.RK,岐阜県,2515,KH*358,岐阜県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,393,CONBON,岐阜県,984,KONOHA,岐阜県,1705,KH*358,岐阜県,0,,-
-SINOBUZ,焔極OVERKILL,0,,-,1116,ROLES,岐阜県,2051,HIYOKO,岐阜県,3392,SHIRO,岐阜県,0,,-
+SINOBUZ,焔極OVERKILL,0,,-,1116,ROLES,岐阜県,2058,NOY,岐阜県,3392,SHIRO,岐阜県,0,,-
 SINOBUZ,火影,0,,-,696,WAKARU,岐阜県,1338,SETU*,岐阜県,2598,AZARA5,岐阜県,0,,-
 SINOBUZ,津軽雪,0,,-,1334,ONOZU,岐阜県,2182,SWOOPS,岐阜県,3670,AZARA5,岐阜県,0,,-
 SINOBUZ,次葉 -turn the page-,0,,-,826,ROLES,岐阜県,1385,K-G3.,岐阜県,1964,AZARA5,岐阜県,0,,-
@@ -958,7 +958,7 @@ SINOBUZ,刃図羅,0,,-,1149,MUMI,岐阜県,1929,77MARU,岐阜県,3299,AZARA5,岐
 SINOBUZ,冬椿 ft. Kanae Asaba,259,YUUNA,岐阜県,759,YUKA*,岐阜県,1247,2433,岐阜県,2267,SHIRO,岐阜県,2987,KH*358,岐阜県
 SINOBUZ,九尾狐夜行,0,,-,835,NULL,岐阜県,1770,AZARA5,岐阜県,2863,KH*358,岐阜県,0,,-
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,538,AT-MOS,岐阜県,1277,KONOHA,岐阜県,2416,AZARA5,岐阜県,0,,-
-SINOBUZ,イザナミノナゲキ,0,,-,1179,ROLES,岐阜県,1826,ROLES,岐阜県,3131,KH*358,岐阜県,0,,-
+SINOBUZ,イザナミノナゲキ,0,,-,1179,ROLES,岐阜県,1843,GAIA,岐阜県,3131,KH*358,岐阜県,0,,-
 SINOBUZ,ちらちら・はらはら,0,,-,394,ROLES,岐阜県,925,ROLES,岐阜県,1422,SWOOPS,岐阜県,0,,-
 SINOBUZ,〆,0,,-,1226,ROLES,岐阜県,2284,SWOOPS,岐阜県,3527,AZARA5,岐阜県,0,,-
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,434,SHU&U,岐阜県,1613,77MARU,岐阜県,2791,SHIRO,岐阜県,0,,-
@@ -966,11 +966,11 @@ SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,780,HATA*,岐阜県,1455,NULL,岐阜県,
 SINOBUZ,XINOBIKILL,0,,-,948,WAKARU,岐阜県,1704,MOKO,岐阜県,2788,AZARA5,岐阜県,0,,-
 SINOBUZ,Warrior,0,,-,922,KENZ0,岐阜県,1721,HAL,岐阜県,2458,AZARA5,岐阜県,0,,-
 SINOBUZ,Vermilion,0,,-,704,HIROTO,岐阜県,1283,ROLES,岐阜県,1979,KH*358,岐阜県,0,,-
-SINOBUZ,Venom,0,,-,1213,HAL,岐阜県,1940,ROLES,岐阜県,3048,ROCKY,岐阜県,0,,-
+SINOBUZ,Venom,0,,-,1213,HAL,岐阜県,2062,YUE.*,岐阜県,3048,ROCKY,岐阜県,0,,-
 SINOBUZ,Umbral,0,,-,557,$175,岐阜県,1310,NULL,岐阜県,1874,KH*358,岐阜県,0,,-
 SINOBUZ,TOGAKUSHI,0,,-,762,HATA*,岐阜県,1912,NE63..,岐阜県,2482,AZARA5,岐阜県,0,,-
 SINOBUZ,The Commanders,0,,-,836,SEVEN,岐阜県,1476,77MARU,岐阜県,2425,AZARA5,岐阜県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,541,ROLES,岐阜県,1184,ROLES,岐阜県,1910,SHIRO,岐阜県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,559,KONOHA,岐阜県,1204,77MARU,岐阜県,1910,SHIRO,岐阜県,0,,-
 SINOBUZ,Surf on the Light,0,,-,682,CHAOS,岐阜県,1412,ROLES,岐阜県,2244,KH*358,岐阜県,0,,-
 SINOBUZ,Super Rush,0,,-,1008,WAKARU,岐阜県,1826,ROLES,岐阜県,3428,AZARA5,岐阜県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1103,WAKARU,岐阜県,1763,ROLES,岐阜県,3003,KH*358,岐阜県,0,,-
@@ -980,7 +980,7 @@ SINOBUZ,Sky High,444,MIMORI,岐阜県,1100,NULL,岐阜県,2326,NE63..,岐阜県,
 SINOBUZ,SINOBUZ Fantasy,0,,-,867,NULL,岐阜県,1542,DM,岐阜県,2407,AZARA5,岐阜県,0,,-
 SINOBUZ,shuriken,0,,-,771,ROLES,岐阜県,1109,ROLES,岐阜県,2516,SHIRO,岐阜県,0,,-
 SINOBUZ,Shoot'Em All,0,,-,481,SHU&U,岐阜県,1179,SETUNA,岐阜県,2415,AZARA5,岐阜県,0,,-
-SINOBUZ,SEQUENCE CAT,0,,-,704,SHU&U,岐阜県,2031,IIDX27,岐阜県,2777,AZARA5,岐阜県,0,,-
+SINOBUZ,SEQUENCE CAT,0,,-,844,HATA*,岐阜県,2031,IIDX27,岐阜県,2777,AZARA5,岐阜県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,447,SHU&U,岐阜県,900,VIP-KO,岐阜県,1691,SHIRO,岐阜県,0,,-
 SINOBUZ,Seize the Day,0,,-,628,HATA*,岐阜県,1264,KONOHA,岐阜県,2108,AZARA5,岐阜県,0,,-
 SINOBUZ,Seaside Labyrinth,0,,-,376,SHU&U,岐阜県,0,,-,1813,KODO.9,岐阜県,0,,-
@@ -999,7 +999,7 @@ SINOBUZ,OTENAMI Hurricane,0,,-,464,YUPI,岐阜県,2071,RACTVE,岐阜県,2934,AZA
 SINOBUZ,OOO,0,,-,685,ROLES,岐阜県,1459,SWOOPS,岐阜県,2050,NE63..,岐阜県,0,,-
 SINOBUZ,nostos,0,,-,888,AZARA5,岐阜県,1168,FANTA0,岐阜県,2448,YUE.*,岐阜県,0,,-
 SINOBUZ,Music is The Answer,0,,-,664,HATA*,岐阜県,1319,SUWA,岐阜県,1879,AZARA5,岐阜県,0,,-
-SINOBUZ,Modular Technology,0,,-,1141,NULL,岐阜県,1636,CPU1,岐阜県,2561,AZARA5,岐阜県,0,,-
+SINOBUZ,Modular Technology,0,,-,1141,NULL,岐阜県,1636,MOMOKA,岐阜県,2561,AZARA5,岐阜県,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1280,KONOHA,岐阜県,2008,S660!!,岐阜県,3467,AMER,岐阜県,0,,-
 SINOBUZ,Magical,0,,-,716,HATA*,岐阜県,1170,ROLES,岐阜県,1991,KH*358,岐阜県,0,,-
 SINOBUZ,Macuilxochitl,527,YUUNA,岐阜県,1192,ONOZU,岐阜県,1863,DM,岐阜県,3257,AZARA5,岐阜県,0,,-
@@ -1014,9 +1014,9 @@ SINOBUZ,FUZIN RIZIN,0,,-,955,YUKA*,岐阜県,1961,SWOOPS,岐阜県,3662,SHIRO,�
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,594,GO,岐阜県,983,NULL,岐阜県,1621,AZARA5,岐阜県,0,,-
 SINOBUZ,Egret and Willow,0,,-,947,NULL,岐阜県,1508,NULL,岐阜県,2664,KH*358,岐阜県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1172,NULL,岐阜県,2114,KH*358,岐阜県,3127,SHIRO,岐阜県,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1113,M.H,岐阜県,2124,YUKIA2,岐阜県,3392,S660!!,岐阜県,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1113,M.H,岐阜県,2124,YUKIA2,岐阜県,3396,AZARA5,岐阜県,0,,-
 SINOBUZ,Cyber True Color,0,,-,430,NO.89,岐阜県,1540,TAMAKI,岐阜県,2320,KH*358,岐阜県,0,,-
-SINOBUZ,crew,0,,-,628,KH*358,岐阜県,1682,ROLES,岐阜県,2882,NE63..,岐阜県,0,,-
+SINOBUZ,crew,0,,-,631,KH*358,岐阜県,1682,ROLES,岐阜県,2882,NE63..,岐阜県,0,,-
 SINOBUZ,Caterpillar,0,,-,1153,ROLES,岐阜県,2198,NE63..,岐阜県,2897,KH*358,岐阜県,0,,-
 SINOBUZ,BroGamer,0,,-,1330,ROLES,岐阜県,2047,K-G3.,岐阜県,2973,F44*S2,岐阜県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,690,ROLES,岐阜県,1292,ROLES,岐阜県,2261,AZARA5,岐阜県,0,,-
@@ -1025,7 +1025,7 @@ SINOBUZ,Beyond The Seven,0,,-,687,NULL,岐阜県,1319,2433,岐阜県,2679,AZARA5
 SINOBUZ,Believe in you,0,,-,1144,ROLES,岐阜県,1758,DM,岐阜県,2413,KH*358,岐阜県,0,,-
 SINOBUZ,Beat Juggling Mix,0,,-,0,,-,1532,SWOOPS,岐阜県,2120,ROCKY,岐阜県,0,,-
 SINOBUZ,Be A Star,0,,-,766,HATA*,岐阜県,1785,CHERIE,岐阜県,2751,AZARA5,岐阜県,0,,-
-SINOBUZ,BabeL ～Grand Story～,0,,-,690,SHU&U,岐阜県,1959,TEN-B,岐阜県,2656,KODO.9,岐阜県,0,,-
+SINOBUZ,BabeL ～Grand Story～,0,,-,690,SHU&U,岐阜県,1959,TEN-B,岐阜県,2750,AZARA5,岐阜県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,1117,COLT,岐阜県,1487,OOKOZ,岐阜県,2544,KH*358,岐阜県,0,,-
 SINOBUZ,Around The Galaxy,0,,-,950,CHAOS,岐阜県,1994,ROLES,岐阜県,3333,NE63..,岐阜県,0,,-
 SINOBUZ,Apocalypse,0,,-,976,YUU,岐阜県,2002,GERO,岐阜県,3503,KH*358,岐阜県,0,,-
@@ -1042,7 +1042,7 @@ CANNON BALLERS,命の標本,0,,-,696,NULL,岐阜県,1538,YUE.*,岐阜県,2641,KH
 CANNON BALLERS,共犯へヴンズコード,0,,-,431,O,岐阜県,1289,ROLES,岐阜県,2235,AZARA5,岐阜県,0,,-
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,819,GERO,岐阜県,1546,YUE.*,岐阜県,2157,SHIRO,岐阜県,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,931,CHAOS,岐阜県,1756,HAL,岐阜県,2675,AZARA5,岐阜県,0,,-
-CANNON BALLERS,バスルーム ロマンス,0,,-,949,ROLES,岐阜県,1363,IIDX16,岐阜県,2410,SHIRO,岐阜県,0,,-
+CANNON BALLERS,バスルーム ロマンス,0,,-,949,ROLES,岐阜県,1365,IIDX27,岐阜県,2410,SHIRO,岐阜県,0,,-
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,793,ROLES,岐阜県,1698,ROLES,岐阜県,2471,KH*358,岐阜県,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,719,YUKA*,岐阜県,1502,2433,岐阜県,2424,SHIRO,岐阜県,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,864,HATA*,岐阜県,1494,2,岐阜県,2077,SHIRO,岐阜県,0,,-
@@ -1058,7 +1058,7 @@ CANNON BALLERS,The Chase,0,,-,673,KONOHA,岐阜県,1359,NOY,岐阜県,2021,SHIRO
 CANNON BALLERS,THE CANNONBALLER,488,YUUNA,岐阜県,1034,E-HEBI,岐阜県,2272,K-G3.,岐阜県,3354,KH*358,岐阜県,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,864,CHAOS,岐阜県,1413,NODY,岐阜県,2610,KH*358,岐阜県,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1198,S660!!,岐阜県,1734,S660!!,岐阜県,2597,KH*358,岐阜県,0,,-
-CANNON BALLERS,Static State,0,,-,947,LEGACY,岐阜県,1672,ROLES,岐阜県,2257,KODO.9,岐阜県,0,,-
+CANNON BALLERS,Static State,0,,-,947,LEGACY,岐阜県,1672,ROLES,岐阜県,2315,AZARA5,岐阜県,0,,-
 CANNON BALLERS,STARLIGHT JUNCTION,0,,-,905,2433,岐阜県,1579,2433,岐阜県,2263,KH*358,岐阜県,0,,-
 CANNON BALLERS,SPEED DEMON,0,,-,654,HATA*,岐阜県,1348,GERO,岐阜県,2248,ROCKY,岐阜県,0,,-
 CANNON BALLERS,SPEED,0,,-,854,YUE.*,岐阜県,1434,IIDX27,岐阜県,2553,KODO.9,岐阜県,0,,-
@@ -1091,7 +1091,7 @@ CANNON BALLERS,I Love You,0,,-,941,GUNDAM,岐阜県,1740,634MAL,岐阜県,2689,A
 CANNON BALLERS,HYPE THE CORE,0,,-,1065,ROLES,岐阜県,1949,SWOOPS,岐阜県,2898,SHIRO,岐阜県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,505,HATA*,岐阜県,912,21-19,岐阜県,1759,AZARA5,岐阜県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,800,ROLES,岐阜県,1356,ROLES,岐阜県,2181,KH*358,岐阜県,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,442,BILLYJ,岐阜県,1090,KONOHA,岐阜県,1858,KH*358,岐阜県,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,467,BILLYJ,岐阜県,1090,KONOHA,岐阜県,1858,KH*358,岐阜県,0,,-
 CANNON BALLERS,FUTURE is Dead,0,,-,633,INUE,岐阜県,1470,NOY,岐阜県,2131,ROCKY,岐阜県,0,,-
 CANNON BALLERS,From Time To Time,0,,-,757,HIROTO,岐阜県,1707,IIDX16,岐阜県,2467,AZARA5,岐阜県,0,,-
 CANNON BALLERS,FREEDOM,0,,-,746,HATA*,岐阜県,1642,ROLES,岐阜県,2871,NE63..,岐阜県,0,,-
@@ -1110,7 +1110,7 @@ CANNON BALLERS,Chemical Cookie,0,,-,809,ROLES,岐阜県,1376,ROLES,岐阜県,211
 CANNON BALLERS,ChaserXX,0,,-,667,CONBON,岐阜県,1747,TAMAKI,岐阜県,2711,AZARA5,岐阜県,0,,-
 CANNON BALLERS,Break Stasis,0,,-,732,ALICE,岐阜県,1795,TAMAKI,岐阜県,2442,NE63..,岐阜県,0,,-
 CANNON BALLERS,Boomy and The Boost,0,,-,1019,ROLES,岐阜県,2007,AZARA5,岐阜県,3396,KH*358,岐阜県,0,,-
-CANNON BALLERS,Best of Me,0,,-,807,S660!!,岐阜県,1518,ROLES,岐阜県,2161,KODO.9,岐阜県,0,,-
+CANNON BALLERS,Best of Me,0,,-,807,S660!!,岐阜県,1518,ROLES,岐阜県,2182,AZARA5,岐阜県,0,,-
 CANNON BALLERS,Beast mode,0,,-,953,HIROTO,岐阜県,1318,ION,岐阜県,2689,KH*358,岐阜県,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,740,ROLES,岐阜県,1861,AZARA5,岐阜県,3013,AZARA5,岐阜県,0,,-
 CANNON BALLERS,Battleground,0,,-,884,SEVEN,岐阜県,1826,WAKARU,岐阜県,2627,AZARA5,岐阜県,0,,-
@@ -1132,7 +1132,7 @@ CANNON BALLERS,1001 -ESCAPE-,0,,-,819,HATA*,岐阜県,1687,2433,岐阜県,2579,A
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,985,DOPPO,岐阜県,2201,ROLES,岐阜県,3133,AZARA5,岐阜県,0,,-
 Rootage,金野火織の金色提言,0,,-,1191,ROLES,岐阜県,2182,S660!!,岐阜県,2974,SHIRO,岐阜県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,884,LEGACY,岐阜県,1480,GMT.RK,岐阜県,2469,ROCKY,岐阜県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,884,NIPA,岐阜県,1722,ROLES,岐阜県,2602,KODO.9,岐阜県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,884,NIPA,岐阜県,1722,ROLES,岐阜県,2661,AZARA5,岐阜県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1271,ROLES,岐阜県,2337,SHIRO,岐阜県,3995,SHIRO,岐阜県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,611,YUKA*,岐阜県,1544,2433,岐阜県,2537,NE63..,岐阜県,0,,-
 Rootage,ミストレス・アンに花束を,0,,-,555,NULL,岐阜県,1026,2433,岐阜県,1415,KH*358,岐阜県,0,,-
@@ -1147,7 +1147,7 @@ Rootage,X-DEN,0,,-,1576,WAKARU,岐阜県,2663,SHIRO,岐阜県,3631,SHIRO,岐阜�
 Rootage,Wonderland,0,,-,642,SHU&U,岐阜県,1785,SWOOPS,岐阜県,2710,AZARA5,岐阜県,0,,-
 Rootage,Won(*3*)Chu KissMe!,272,YUUNA,岐阜県,942,YUUNA,岐阜県,1387,2433,岐阜県,2446,SHIRO,岐阜県,0,,-
 Rootage,Wolf 1061,0,,-,554,AKR,岐阜県,1598,GERO,岐阜県,3056,KH*358,岐阜県,0,,-
-Rootage,Wing of Hearts,0,,-,1102,ROLES,岐阜県,1769,ROLES,岐阜県,2890,KH*358,岐阜県,0,,-
+Rootage,Wing of Hearts,0,,-,1102,ROLES,岐阜県,1769,ROLES,岐阜県,2897,KH*358,岐阜県,0,,-
 Rootage,Visterhv,0,,-,1240,KARIN,岐阜県,2191,ZUNDA,岐阜県,3548,KH*358,岐阜県,0,,-
 Rootage,Urban Constellations,0,,-,595,HATA*,岐阜県,1288,PUTTY0,岐阜県,2164,KODO.9,岐阜県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1089,MUMI,岐阜県,1991,ROLES,岐阜県,3194,KH*358,岐阜県,0,,-
@@ -1167,8 +1167,8 @@ Rootage,Sidechained Threats,0,,-,0,,-,1724,NULL,岐阜県,2355,KODO.9,岐阜県,
 Rootage,Serious?,0,,-,584,ROLES,岐阜県,1190,HIYOKO,岐阜県,2188,AZARA5,岐阜県,0,,-
 Rootage,R∞tAge,0,,-,826,YUKA*,岐阜県,1557,ROLES,岐阜県,2917,AZARA5,岐阜県,0,,-
 Rootage,ruin of opals,0,,-,990,KARIN,岐阜県,1867,AZARA5,岐阜県,2964,AZARA5,岐阜県,0,,-
-Rootage,ROZA DE ANDALUCIA,0,,-,1284,NULL,岐阜県,1982,WAKARU,岐阜県,2898,KODO.9,岐阜県,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,717,NAGOMI,岐阜県,1604,DM,岐阜県,2644,KH*358,岐阜県,0,,-
+Rootage,ROZA DE ANDALUCIA,0,,-,1284,NULL,岐阜県,1982,WAKARU,岐阜県,2934,AZARA5,岐阜県,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,752,O,岐阜県,1604,DM,岐阜県,2644,KH*358,岐阜県,0,,-
 Rootage,REPLAY,0,,-,0,,-,1549,ROLES,岐阜県,2212,KH*358,岐阜県,0,,-
 Rootage,Red. by Jack Trance,0,,-,1478,SWOOPS,岐阜県,2142,NE63..,岐阜県,3326,AZARA5,岐阜県,0,,-
 Rootage,Re:Story,0,,-,436,YUUNA,岐阜県,999,SETUNA,岐阜県,1934,SHIRO,岐阜県,0,,-
@@ -1182,7 +1182,7 @@ Rootage,Night! Night! Night!,0,,-,1125,NULL,岐阜県,1773,KODO.9,岐阜県,2994
 Rootage,Necroxis Girl,0,,-,956,NULL,岐阜県,1910,S660!!,岐阜県,2733,KH*358,岐阜県,0,,-
 Rootage,Macho Monky,0,,-,1337,KONOHA,岐阜県,2078,AZARA5,岐阜県,2859,AZARA5,岐阜県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,550,TOUCH,岐阜県,1659,NULL,岐阜県,3291,AZARA5,岐阜県,0,,-
-Rootage,Level One,0,,-,1111,NULL,岐阜県,2254,NE63..,岐阜県,3161,TEKOU,岐阜県,0,,-
+Rootage,Level One,0,,-,1111,NULL,岐阜県,2254,NE63..,岐阜県,3269,AZARA5,岐阜県,0,,-
 Rootage,Lethal Weapon,0,,-,1117,ALICE*,岐阜県,1763,GMT.RK,岐阜県,3076,AZARA5,岐阜県,0,,-
 Rootage,Let me be your cure,0,,-,1067,MUMI,岐阜県,1424,NE63..,岐阜県,2656,KH*358,岐阜県,0,,-
 Rootage,LADYBIRD,0,,-,1024,ROLES,岐阜県,1548,GMT.RK,岐阜県,2384,AZARA5,岐阜県,0,,-
@@ -1219,7 +1219,7 @@ Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,
 Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1049,YUE.*,岐阜県,1575,WAKARU,岐阜県,2572,KH*358,岐阜県,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,886,YUE.*,岐阜県,1167,TAMI,岐阜県,2198,NE63..,岐阜県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,763,CLEOME,岐阜県,1618,YUE.*,岐阜県,2623,KH*358,岐阜県,0,,-
-Rootage,& Intelligence,0,,-,0,,-,2136,KH*358,岐阜県,3055,KH*358,岐阜県,0,,-
+Rootage,& Intelligence,0,,-,0,,-,2136,KH*358,岐阜県,3113,KH*358,岐阜県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1051,YUUNA,岐阜県,1805,YUUNA,岐阜県,3152,SHIRO,岐阜県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1384,YUUNA,岐阜県,2100,AZARA5,岐阜県,3339,AMER,岐阜県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,848,YUUNA,岐阜県,1627,SHIRO,岐阜県,2908,KH*358,岐阜県,0,,-
@@ -1230,7 +1230,7 @@ HEROIC VERSE,ランカーキラーガール,0,,-,1163,YUUNA,岐阜県,1883,SHIRO
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,805,YUUNA,岐阜県,1464,SHIRO,岐阜県,2375,KH*358,岐阜県,0,,-
 HEROIC VERSE,ガヴリールドロップキック,414,YUUNA,岐阜県,792,YUUNA,岐阜県,1664,YUUNA,岐阜県,2586,AZARA5,岐阜県,0,,-
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,899,YUUNA,岐阜県,1531,YUUNA,岐阜県,2448,AZARA5,岐阜県,0,,-
-HEROIC VERSE,Volcanic Dragon,0,,-,1080,YUUNA,岐阜県,1775,YUUNA,岐阜県,2938,KH*358,岐阜県,0,,-
+HEROIC VERSE,Volcanic Dragon,0,,-,1080,YUUNA,岐阜県,1790,NOY,岐阜県,2938,KH*358,岐阜県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,775,YUUNA,岐阜県,1505,SWOOPS,岐阜県,2155,KH*358,岐阜県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,470,YUUNA,岐阜県,1048,YUUNA,岐阜県,1747,YUUNA,岐阜県,2728,SHIRO,岐阜県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1483,SWOOPS,岐阜県,2540,AZARA5,岐阜県,3274,KH*358,岐阜県,0,,-
@@ -1264,14 +1264,14 @@ HEROIC VERSE,Matt Silver,0,,-,1172,YUUNA,岐阜県,2086,YUUNA,岐阜県,3245,KH*
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1062,SWOOPS,岐阜県,1809,ROCKY,岐阜県,2835,AZARA5,岐阜県,0,,-
 HEROIC VERSE,Like+it!,0,,-,1065,YUUNA,岐阜県,1739,SHIRO,岐阜県,2335,KH*358,岐阜県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,930,YUUNA,岐阜県,1663,SWOOPS,岐阜県,3194,KH*358,岐阜県,0,,-
-HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,791,F44*S2,岐阜県,1689,F44*S2,岐阜県,3312,AZARA5,岐阜県,0,,-
+HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,791,F44*S2,岐阜県,1722,S660!!,岐阜県,3312,AZARA5,岐阜県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,860,YUUNA,岐阜県,1389,YUUNA,岐阜県,2277,KH*358,岐阜県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1024,SWOOPS,岐阜県,1832,YUUNA,岐阜県,2850,AZARA5,岐阜県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,670,YUUNA,岐阜県,1528,NOY,岐阜県,1971,NOY,岐阜県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,947,YUUNA,岐阜県,1516,SWOOPS,岐阜県,2594,AZARA5,岐阜県,0,,-
 HEROIC VERSE,Hold My Hand,0,,-,943,YUUNA,岐阜県,1700,SHIRO,岐阜県,2467,KH*358,岐阜県,0,,-
 HEROIC VERSE,GIGA VIOLATE,0,,-,1112,SWOOPS,岐阜県,1608,TUTTYO,岐阜県,2713,KH*358,岐阜県,0,,-
-HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,867,F44*S2,岐阜県,1508,F44*S2,岐阜県,2355,AZARA5,岐阜県,0,,-
+HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,867,F44*S2,岐阜県,1510,S660!!,岐阜県,2365,KH*358,岐阜県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,460,YUUNA,岐阜県,1108,NOY,岐阜県,1623,KH*358,岐阜県,0,,-
 HEROIC VERSE,EXCITE,330,YUUNA,岐阜県,830,YUUNA,岐阜県,1362,YUUNA,岐阜県,2213,SHIRO,岐阜県,0,,-
 HEROIC VERSE,Duration,0,,-,540,YUUNA,岐阜県,1020,YUUNA,岐阜県,1943,KH*358,岐阜県,0,,-
