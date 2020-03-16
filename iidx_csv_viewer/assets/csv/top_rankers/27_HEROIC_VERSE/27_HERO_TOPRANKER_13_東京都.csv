@@ -54,7 +54,7 @@
 4th style,ABSOLUTE,0,,-,1285,RUDDLE,東京都,1752,KA2718,東京都,2395,MIKAMO,東京都,2759,MIKAMO,東京都
 4th style,250bpm,0,,-,687,DICE,東京都,1022,DICE,東京都,1412,NAGISA,東京都,0,,-
 5th style,V,346,YOSSY,東京都,1286,NOHOHO,東京都,2508,KT4ER1,東京都,3003,*1048*,東京都,0,,-
-5th style,THE SHINING POLARIS,0,,-,953,DICE,東京都,1240,SERABI,東京都,1588,MIKAMO,東京都,0,,-
+5th style,THE SHINING POLARIS,0,,-,953,DICE,東京都,1240,SERABI,東京都,1589,*TA93N,東京都,0,,-
 5th style,THE CUBE,0,,-,737,DICE,東京都,1276,EXIT,東京都,1351,NOHOHO,東京都,0,,-
 5th style,sync,0,,-,1087,DICE,東京都,1816,KA2718,東京都,2372,.ZIP,東京都,0,,-
 5th style,still my words,0,,-,837,PA,東京都,1231,MIKAMO,東京都,0,,-,0,,-
@@ -108,7 +108,7 @@
 7th style,Burning Heat! (Full Option Mix),0,,-,711,DICE,東京都,895,MANTIS,東京都,1470,HOI2,東京都,0,,-
 7th style,Bad Routine,0,,-,1023,DICE,東京都,1386,DICE,東京都,1922,*1048*,東京都,0,,-
 7th style,AVE DE RAPINA,0,,-,1300,RUDDLE,東京都,1627,RUDDLE,東京都,1800,SHINPO,東京都,0,,-
-7th style,A,0,,-,1258,RUDDLE,東京都,2092,LAHAR*,東京都,2478,ZUBU,東京都,0,,-
+7th style,A,0,,-,1258,RUDDLE,東京都,2096,FUMIKA,東京都,2478,ZUBU,東京都,0,,-
 8th style,蒼い衝動,0,,-,931,NOHOHO,東京都,1327,NOHOHO,東京都,1601,MIKAMO,東京都,0,,-
 8th style,桜,0,,-,1029,DICE,東京都,1546,LAHAR*,東京都,2188,ZUBU,東京都,0,,-
 8th style,xenon,0,,-,1119,DICE,東京都,1673,ANABEL,東京都,2708,NAGISA,東京都,0,,-
@@ -146,12 +146,12 @@
 9th style,SNOW,0,,-,1046,DICE,東京都,1337,3XXXXN,東京都,2017,LAHAR*,東京都,0,,-
 9th style,Silvia Drive,0,,-,847,DICE,東京都,1489,*39RA*,東京都,2064,*TA93N,東京都,0,,-
 9th style,rottel-the-Mercury,0,,-,994,DICE,東京都,1888,DICE,東京都,2268,NAGISA,東京都,0,,-
-9th style,RISLIM -Remix-,0,,-,783,DICE,東京都,938,D.C.4,東京都,1888,MIKAMO,東京都,0,,-
+9th style,RISLIM -Remix-,0,,-,783,DICE,東京都,943,SERABI,東京都,1888,MIKAMO,東京都,0,,-
 9th style,Really Love,0,,-,569,F.LINA,東京都,964,SHINPO,東京都,1752,MIKAMO,東京都,0,,-
 9th style,Quickening,0,,-,940,DICE,東京都,1709,DICE,東京都,2077,LAHAR*,東京都,0,,-
 9th style,quasar,0,,-,1076,JOY,東京都,1739,LAHAR*,東京都,2300,?,東京都,0,,-
 9th style,one or eight,0,,-,1344,DICE,東京都,1885,DICE,東京都,2321,KKM*,東京都,0,,-
-9th style,moon_child,0,,-,972,MARTH,東京都,1931,LAHAR*,東京都,2570,MIKAMO,東京都,0,,-
+9th style,moon_child,0,,-,979,CUBE,東京都,1931,LAHAR*,東京都,2570,MIKAMO,東京都,0,,-
 9th style,MARIA (I believe... ),0,,-,741,DICE,東京都,1520,KA2718,東京都,1964,MIKAMO,東京都,0,,-
 9th style,Make A Difference,0,,-,802,JOY,東京都,1592,LAHAR*,東京都,2240,456SAI,東京都,0,,-
 9th style,lower world,0,,-,1310,GIDEON,東京都,1869,LAHAR*,東京都,2257,*1048*,東京都,0,,-
@@ -196,7 +196,7 @@
 10th style,Debtty Daddy,0,,-,993,JOY,東京都,1969,LAHAR*,東京都,2721,*1048*,東京都,0,,-
 10th style,Daisuke,471,MI*,東京都,1223,NOHOHO,東京都,1616,KA2718,東京都,2402,MIKAMO,東京都,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,1012,DICE,東京都,1328,TYU-BA,東京都,2068,MIKAMO,東京都,0,,-
-10th style,Boundary,0,,-,858,DICE,東京都,1786,LAHAR*,東京都,2047,*1048*,東京都,0,,-
+10th style,Boundary,0,,-,858,DICE,東京都,1786,LAHAR*,東京都,2052,*1048*,東京都,0,,-
 10th style,Back Into The Light,0,,-,1197,DICE,東京都,1575,RUDDLE,東京都,2163,MIKAMO,東京都,0,,-
 10th style,BABY LOVE,0,,-,1158,RUDDLE,東京都,1626,TYU-BA,東京都,2158,MIKAMO,東京都,0,,-
 10th style,ASTRAL VOYAGE,0,,-,1008,DICE,東京都,1425,DICE,東京都,1923,*1048*,東京都,0,,-
@@ -209,14 +209,14 @@ IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,786,SARAMI,東京都,2081,
 IIDX RED,Wonder Bullfighter,0,,-,896,RYOTA,東京都,1385,TYU-BA,東京都,2052,MIKAMO,東京都,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,1020,DYE,東京都,1707,HO4.KT,東京都,1957,ALIKIA,東京都,0,,-
 IIDX RED,spiral galaxy,0,,-,993,JOY,東京都,2079,DICE,東京都,2572,.,東京都,3733,ZUBU,東京都
-IIDX RED,Sphere,0,,-,1068,DICE,東京都,1957,SHINPO,東京都,2201,ZUBU,東京都,0,,-
+IIDX RED,Sphere,0,,-,1068,DICE,東京都,1957,SHINPO,東京都,2206,*TA93N,東京都,0,,-
 IIDX RED,SPEEDY CAT,0,,-,1060,JOY,東京都,1672,BANNN?,東京都,2045,MIKAMO,東京都,0,,-
 IIDX RED,Secret of Love,0,,-,1046,BGI#20,東京都,1436,DICE,東京都,2012,KURIPA,東京都,0,,-
 IIDX RED,RESONATE 1794,0,,-,894,BGI#20,東京都,1443,LAHAR*,東京都,1877,*1048*,東京都,0,,-
 IIDX RED,RED ZONE,178,T,東京都,1117,DICE,東京都,1904,DICE,東京都,2348,MIKAMO,東京都,3096,KKM*,東京都
 IIDX RED,Raspberry Heart(English version),0,,-,1047,DICE,東京都,1583,DICE,東京都,1858,ALIKIA,東京都,0,,-
 IIDX RED,NEBULA GRASPER,0,,-,1262,JOY,東京都,1993,LAHAR*,東京都,2470,*1048*,東京都,0,,-
-IIDX RED,KEY,0,,-,1052,JOY,東京都,1837,RASIS,東京都,2853,*TA93N,東京都,0,,-
+IIDX RED,KEY,0,,-,1052,JOY,東京都,1837,RASIS,東京都,2856,*TA93N,東京都,0,,-
 IIDX RED,HORIZON,0,,-,1023,RUDDLE,東京都,1549,DICE,東京都,1965,*1048*,東京都,0,,-
 IIDX RED,gigadelic,705,Y13,東京都,1430,KYONTA,東京都,2153,.,東京都,2561,MIKAMO,東京都,0,,-
 IIDX RED,GENOCIDE,0,,-,1168,SHINPO,東京都,2084,S.S.H.,東京都,2410,MIKAMO,東京都,0,,-
@@ -228,7 +228,7 @@ IIDX RED,D.A.N.C.E.!,0,,-,588,DICE,東京都,784,JOY,東京都,1596,55TEA*,東�
 IIDX RED,Close my Eyes for Me,0,,-,952,ANLMMA,東京都,1480,SHINPO,東京都,1854,MIKAMO,東京都,0,,-
 IIDX RED,Click Again,0,,-,908,DICE,東京都,1457,SHINPO,東京都,2145,MIKAMO,東京都,0,,-
 IIDX RED,BREATH,0,,-,924,DICE,東京都,1309,DICE,東京都,1733,*1048*,東京都,0,,-
-IIDX RED,BLOCKS,0,,-,817,DICE,東京都,1327,BANO,東京都,1961,*TA93N,東京都,0,,-
+IIDX RED,BLOCKS,0,,-,817,DICE,東京都,1327,BANO,東京都,1970,*1048*,東京都,0,,-
 IIDX RED,Be quiet,0,,-,1051,RYU,東京都,1721,LAHAR*,東京都,2212,MIKAMO,東京都,0,,-
 IIDX RED,awakening,0,,-,999,JOY,東京都,1421,RUDDLE,東京都,1718,SHINPO,東京都,0,,-
 IIDX RED,ANDROMEDA,0,,-,993,SERABI,東京都,1912,DICE,東京都,2866,ALIKIA,東京都,0,,-
@@ -241,7 +241,7 @@ HAPPY SKY,ラクエン,0,,-,649,89JI-P,東京都,956,SHINPO,東京都,1982,SHINP
 HAPPY SKY,ヒマワリ,0,,-,562,DICE,東京都,1838,SUWABE,東京都,2078,MIKAMO,東京都,0,,-
 HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,715,JOY,東京都,1405,TYU-BA,東京都,1677,AMHQ,東京都,0,,-
 HAPPY SKY,Xepher,405,KAN,東京都,1073,RYU,東京都,2205,LAHAR*,東京都,2986,ALIKIA,東京都,0,,-
-HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,619,K.SY2,東京都,902,UNA,東京都,1651,GIBARA,東京都,0,,-
+HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,619,K.SY2,東京都,902,UNA,東京都,1653,KUNMAA,東京都,0,,-
 HAPPY SKY,Votum stellarum,0,,-,806,RYU,東京都,1622,LAHAR*,東京都,1990,*TA93N,東京都,0,,-
 HAPPY SKY,vault of heaven,0,,-,798,DICE,東京都,1400,AOI,東京都,2003,MIKAMO,東京都,0,,-
 HAPPY SKY,Under the Sky,0,,-,902,XXXXXX,東京都,1355,SSS,東京都,1727,55TEA*,東京都,0,,-
@@ -368,7 +368,7 @@ DJ TROOPERS,Ubertreffen,0,,-,1106,DICE,東京都,1970,LAHAR*,東京都,2518,ZUBU
 DJ TROOPERS,TROOPERS,0,,-,1233,DICE,東京都,2321,LAHAR*,東京都,2951,*1048*,東京都,0,,-
 DJ TROOPERS,Time to Air,0,,-,1258,DICE,東京都,2059,LAHAR*,東京都,2882,*1048*,東京都,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,825,PEPE,東京都,1177,DICE,東京都,1846,KT4ER1,東京都,0,,-
-DJ TROOPERS,THE DEEP STRIKER,539,KAN,東京都,1051,RYU,東京都,2206,LAHAR*,東京都,3016,ALIKIA,東京都,3534,ZUBU,東京都
+DJ TROOPERS,THE DEEP STRIKER,539,KAN,東京都,1081,SERABI,東京都,2206,LAHAR*,東京都,3016,ALIKIA,東京都,3534,ZUBU,東京都
 DJ TROOPERS,switch,0,,-,804,DICE,東京都,1520,DICE,東京都,2106,*1048*,東京都,0,,-
 DJ TROOPERS,STEEL NEEDLE,0,,-,1100,DICE,東京都,2179,SHINPO,東京都,2497,*1048*,東京都,0,,-
 DJ TROOPERS,State Of The Art,0,,-,1025,MILLA,東京都,1510,*HOLY*,東京都,3092,.ZIP,東京都,0,,-
@@ -394,7 +394,7 @@ DJ TROOPERS,ICARUS,0,,-,1355,*1048*,東京都,2031,DICE,東京都,2474,MI7RAI,�
 DJ TROOPERS,Freeway Shuffle,343,DICE,東京都,809,DICE,東京都,1267,DICE,東京都,1877,ALIKIA,東京都,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,858,BGI#20,東京都,1884,SHINPO,東京都,2314,NAGISA,東京都,0,,-
 DJ TROOPERS,evergreen,0,,-,940,BGI#20,東京都,1398,DICE,東京都,1966,MIKAMO,東京都,0,,-
-DJ TROOPERS,end of world,0,,-,984,JUBEDX,東京都,1784,LAHAR*,東京都,2472,.ZIP,東京都,0,,-
+DJ TROOPERS,end of world,0,,-,984,JUBEDX,東京都,1784,LAHAR*,東京都,2474,AMETO!,東京都,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,1028,DICE,東京都,1510,LAHAR*,東京都,1939,*1048*,東京都,0,,-
 DJ TROOPERS,Digitank System,0,,-,955,SHINPO,東京都,1607,SHINPO,東京都,2138,SHINPO,東京都,0,,-
 DJ TROOPERS,Dazzlin' Darlin,341,405,東京都,893,RYU,東京都,1382,SERABI,東京都,2226,KT4ER1,東京都,0,,-
@@ -422,7 +422,7 @@ EMPRESS,Turii ～Panta rhei～,370,KAN,東京都,877,RUDDLE,東京都,2080,SHINP
 EMPRESS,THANK YOU FOR PLAYING,0,,-,810,DICE,東京都,1660,DICE,東京都,2159,ZUBU,東京都,2974,ZUBU,東京都
 EMPRESS,SOLITON BEAM,0,,-,1425,SUWABE,東京都,2079,DICE,東京都,2346,34SAI,東京都,0,,-
 EMPRESS,smooooch・∀・,395,KAN,東京都,834,DICE,東京都,1590,ASHMEE,東京都,2141,*TA93N,東京都,0,,-
-EMPRESS,Secrets,0,,-,1200,Y0S$!,東京都,2416,LAHAR*,東京都,3154,ZUBU,東京都,0,,-
+EMPRESS,Secrets,0,,-,1211,.COM,東京都,2416,LAHAR*,東京都,3154,ZUBU,東京都,0,,-
 EMPRESS,Queen's Tragedy,0,,-,848,DICE,東京都,1618,ASHMEE,東京都,2235,LAHAR*,東京都,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1123,NOHOHO,東京都,1731,HERNIA,東京都,2508,7NOYU,東京都,0,,-
 EMPRESS,Programmed World,0,,-,892,JOY,東京都,1766,LAHAR*,東京都,2297,*TA93N,東京都,0,,-
@@ -436,7 +436,7 @@ EMPRESS,Just a Little Smile,0,,-,779,I-NO,東京都,1284,KA2718,東京都,2484,M
 EMPRESS,Jack,0,,-,915,DICE,東京都,1350,NYOR-R,東京都,2156,KT4ER1,東京都,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,603,DICE,東京都,1291,&#9757,東京都,1700,MIKAMO,東京都,0,,-
 EMPRESS,HYPERION,0,,-,972,EITSU,東京都,2078,LAHAR*,東京都,2733,9-PIN,東京都,0,,-
-EMPRESS,Go Beyond!!,544,MI*,東京都,1041,KURA,東京都,1728,LAHAR*,東京都,2257,7NOYU,東京都,0,,-
+EMPRESS,Go Beyond!!,544,MI*,東京都,1054,SERABI,東京都,1728,LAHAR*,東京都,2257,7NOYU,東京都,0,,-
 EMPRESS,Fly Above,0,,-,947,MA2RI,東京都,1621,DICE,東京都,2030,.,東京都,0,,-
 EMPRESS,Flash Back 90's,0,,-,926,SERABI,東京都,1879,DICE,東京都,2334,ALIKIA,東京都,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,1099,DICE,東京都,1845,LAHAR*,東京都,2541,*1048*,東京都,0,,-
@@ -446,7 +446,7 @@ EMPRESS,BRIDAL FESTIVAL !!!,0,,-,953,RUDDLE,東京都,1491,DICE,東京都,2121,.
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1112,DICE,東京都,2157,LAHAR*,東京都,3953,MIKAMO,東京都,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1065,DICE,東京都,1975,9-PIN,東京都,2626,MIKAMO,東京都,0,,-
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1179,GIDEON,東京都,2340,DICE,東京都,3531,NAGISA,東京都,4634,KKM*,東京都
-EMPRESS,Arabian Rave Night,0,,-,1266,RUDDLE,東京都,2240,LAHAR*,東京都,2975,MIKAMO,東京都,0,,-
+EMPRESS,Arabian Rave Night,0,,-,1289,SERABI,東京都,2240,LAHAR*,東京都,2975,MIKAMO,東京都,0,,-
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,1019,RYU,東京都,1894,DICE,東京都,2606,*1048*,東京都,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,1058,RUDDLE,東京都,1640,RUDDLE,東京都,2137,*1048*,東京都,0,,-
 EMPRESS,3y3s,555,MI*,東京都,1453,NYOR-R,東京都,2502,LAHAR*,東京都,3636,MIKAMO,東京都,0,,-
@@ -522,7 +522,7 @@ Resort Anthem,THE BLACK KNIGHT,0,,-,909,RYU,東京都,2060,LAHAR*,東京都,2943
 Resort Anthem,STELLAR WIND,384,RAY,東京都,586,F.LINA,東京都,1794,LAHAR*,東京都,2676,*1048*,東京都,0,,-
 Resort Anthem,Stay my side,0,,-,647,DICE,東京都,1055,DICE,東京都,1348,55TEA*,東京都,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,716,DICE,東京都,1635,DICE,東京都,2963,7NOYU,東京都,0,,-
-Resort Anthem,Space Time,0,,-,592,CUBE,東京都,1614,24YUKI,東京都,2160,KURIPA,東京都,0,,-
+Resort Anthem,Space Time,0,,-,592,CUBE,東京都,1614,24YUKI,東京都,2185,BMSP,東京都,0,,-
 Resort Anthem,Session 9 -Chronicles-,0,,-,746,JOY,東京都,2392,LAHAR*,東京都,3644,MIKAMO,東京都,0,,-
 Resort Anthem,sakura storm,0,,-,1055,DICE,東京都,1330,DICE,東京都,2396,HOI2,東京都,0,,-
 Resort Anthem,Sakura Reflection,0,,-,482,DICE,東京都,1603,LAHAR*,東京都,2364,*1048*,東京都,0,,-
@@ -559,67 +559,67 @@ Resort Anthem,ANTHEM LANDING,0,,-,931,729,東京都,1939,LAHAR*,東京都,2949,?
 Resort Anthem,Answer,0,,-,772,TYU-BA,東京都,1484,DICE,東京都,2428,MIKAMO,東京都,0,,-
 Resort Anthem,ALBIDA,530,IKKI,東京都,1098,DICE,東京都,1931,LAHAR*,東京都,3022,MIKAMO,東京都,0,,-
 Resort Anthem,Aegis,0,,-,900,DICE,東京都,1332,RUDDLE,東京都,2360,MIKAMO,東京都,0,,-
-Lincle,陽炎,0,,-,630,DICE,東京都,1198,DICE,東京都,2009,MIKAMO,東京都,0,,-
+Lincle,陽炎,0,,-,630,DICE,東京都,1202,SHINPO,東京都,2009,MIKAMO,東京都,0,,-
 Lincle,衰色小町メランコリア,0,,-,795,DICE,東京都,1368,SERABI,東京都,2374,MIKAMO,東京都,0,,-
 Lincle,蛇神,422,IKKI,東京都,684,RYO2,東京都,1472,405,東京都,2841,MIKAMO,東京都,0,,-
-Lincle,聖人の塔,0,,-,925,T.I,東京都,2044,LAHAR*,東京都,3030,MIKAMO,東京都,0,,-
+Lincle,聖人の塔,0,,-,925,T.I,東京都,2092,SHINPO,東京都,3030,MIKAMO,東京都,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,652,DICE,東京都,1161,SERABI,東京都,2096,.,東京都,0,,-
 Lincle,恋する☆宇宙戦争っ！！,510,KAN,東京都,889,LEV3L,東京都,1748,DICE,東京都,3567,7NOYU,東京都,0,,-
-Lincle,子供の落書き帳,0,,-,924,DICE,東京都,1886,LAHAR*,東京都,2720,MIKAMO,東京都,0,,-
-Lincle,天空の夜明け,0,,-,1350,MAR!A*,東京都,2166,LAHAR*,東京都,4023,7NOYU,東京都,0,,-
+Lincle,子供の落書き帳,0,,-,924,DICE,東京都,1977,SHINPO,東京都,2720,MIKAMO,東京都,0,,-
+Lincle,天空の夜明け,0,,-,1350,MAR!A*,東京都,2175,SHINPO,東京都,4023,7NOYU,東京都,0,,-
 Lincle,君のハートにロックオン,0,,-,690,JOY,東京都,1782,NORI,東京都,2707,MIKAMO,東京都,0,,-
-Lincle,ユミル,0,,-,630,GGME,東京都,1349,DELAY,東京都,2853,MIKAMO,東京都,0,,-
+Lincle,ユミル,0,,-,630,GGME,東京都,1369,SHINPO,東京都,2853,MIKAMO,東京都,0,,-
 Lincle,ビューティフルレシート,338,ZAQRO,東京都,517,DICE,東京都,1210,DICE,東京都,1920,LAHAR*,東京都,0,,-
 Lincle,Yellow Sunrise,0,,-,693,IZ*ONE,東京都,1432,SERABI,東京都,2272,.ZIP,東京都,0,,-
 Lincle,yellow head joe,0,,-,784,DICE,東京都,1508,DICE,東京都,2280,MIKAMO,東京都,0,,-
 Lincle,YAKSHA,0,,-,1200,JOY,東京都,2372,LAHAR*,東京都,3895,MIKAMO,東京都,0,,-
 Lincle,WONDER WALKER,0,,-,989,SERABI,東京都,1901,*39RA*,東京都,3805,MIKAMO,東京都,0,,-
 Lincle,Voxane,0,,-,620,DICE,東京都,1181,TAMA,東京都,1742,SHINPO,東京都,0,,-
-Lincle,Todestrieb,0,,-,1092,LEV3L,東京都,1913,510004,東京都,3446,KKM*,東京都,0,,-
+Lincle,Todestrieb,0,,-,1092,LEV3L,東京都,1946,SHINPO,東京都,3446,KKM*,東京都,0,,-
 Lincle,TITANS RETURN,328,KAN,東京都,632,DICE,東京都,1513,SERABI,東京都,2477,NAGISA,東京都,2595,7NOYU,東京都
 Lincle,Thunderbolt,0,,-,1039,SERABI,東京都,1907,DICE,東京都,3745,ALIKIA,東京都,0,,-
-Lincle,The Sampling Paradise,0,,-,867,DICE,東京都,1848,CH13TO,東京都,3042,MIKAMO,東京都,0,,-
-Lincle,The Limbo,0,,-,1158,RYU,東京都,2036,LAHAR*,東京都,3347,MIKAMO,東京都,0,,-
-Lincle,Star Trail,0,,-,649,DICE,東京都,1197,DICE,東京都,1867,MIKAMO,東京都,0,,-
+Lincle,The Sampling Paradise,0,,-,867,DICE,東京都,1858,SHINPO,東京都,3042,MIKAMO,東京都,0,,-
+Lincle,The Limbo,0,,-,1158,RYU,東京都,2037,SHINPO,東京都,3347,MIKAMO,東京都,0,,-
+Lincle,Star Trail,0,,-,649,DICE,東京都,1211,SHINPO,東京都,1867,MIKAMO,東京都,0,,-
 Lincle,Snow Goose,302,ZAQRO,東京都,374,DICE,東京都,1361,DICE,東京都,2414,.,東京都,0,,-
 Lincle,Snake Stick,0,,-,1055,DICE,東京都,2073,SHINPO,東京都,2805,KKM*,東京都,0,,-
-Lincle,SHADE,0,,-,1089,IKA3,東京都,2019,LAHAR*,東京都,2900,9-PIN,東京都,0,,-
+Lincle,SHADE,0,,-,1089,IKA3,東京都,2066,SHINPO,東京都,2900,9-PIN,東京都,0,,-
 Lincle,Several Words,0,,-,638,DICE,東京都,1399,HATO-K,東京都,2191,MIKAMO,東京都,0,,-
-Lincle,Scharfrichter,0,,-,872,T.I,東京都,1616,DICE,東京都,2890,ALIKIA,東京都,0,,-
+Lincle,Scharfrichter,0,,-,872,T.I,東京都,1627,SHINPO,東京都,2890,ALIKIA,東京都,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,487,SHINPO,東京都,1188,KA2718,東京都,1695,LAHAR*,東京都,0,,-
-Lincle,Round and Round,0,,-,768,RYU,東京都,1231,DICE,東京都,2165,MIKAMO,東京都,0,,-
+Lincle,Round and Round,0,,-,768,RYU,東京都,1241,SHINPO,東京都,2165,MIKAMO,東京都,0,,-
 Lincle,RESISTANCE,0,,-,635,DICE,東京都,1330,DICE,東京都,2366,LICIA.,東京都,0,,-
 Lincle,Release The Music,0,,-,659,KAI774,東京都,1467,SHINPO,東京都,2128,*1048*,東京都,0,,-
 Lincle,Quick Silver,0,,-,799,DICE,東京都,1815,LAHAR*,東京都,2651,55TEA*,東京都,0,,-
-Lincle,quaver♪,289,510,東京都,707,DICE,東京都,2120,TOSHI,東京都,3416,BMSP,東京都,0,,-
-Lincle,QUANTUM TELEPORTATION,0,,-,1369,&#9757,東京都,2338,DICE,東京都,2911,NAGISA,東京都,3626,KKM*,東京都
+Lincle,quaver♪,289,510,東京都,707,DICE,東京都,2129,SHINPO,東京都,3416,BMSP,東京都,0,,-
+Lincle,QUANTUM TELEPORTATION,0,,-,1369,&#9757,東京都,2379,SHINPO,東京都,2911,NAGISA,東京都,3626,KKM*,東京都
 Lincle,prompt,0,,-,941,JOY,東京都,1579,SERABI,東京都,2806,ALIKIA,東京都,0,,-
 Lincle,Phoenix,0,,-,897,DICE,東京都,1224,NOHOHO,東京都,2465,NAGISA,東京都,0,,-
 Lincle,NNRT,0,,-,1205,JOY,東京都,2522,DICE,東京都,3493,7NOYU,東京都,0,,-
 Lincle,Miami Sunset Drive,0,,-,601,IZ*ONE,東京都,1063,DICE,東京都,1660,LAHAR*,東京都,0,,-
-Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,777,EITSU,東京都,1340,DICE,東京都,2058,?,東京都,0,,-
+Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,777,EITSU,東京都,1350,SHINPO,東京都,2058,?,東京都,0,,-
 Lincle,Lucky Days,0,,-,620,F.LINA,東京都,1461,KA2718,東京都,2186,NAGISA,東京都,0,,-
 Lincle,LOVE B.B.B,0,,-,780,DICE,東京都,1471,SERABI,東京都,2011,TA-YJS,東京都,0,,-
-Lincle,Liquid Crystal Girl feat. echo,0,,-,343,IZ*ONE,東京都,1099,LYNDIS,東京都,2002,TA-YJS,東京都,0,,-
+Lincle,Liquid Crystal Girl feat. echo,0,,-,343,IZ*ONE,東京都,1119,SHINPO,東京都,2002,TA-YJS,東京都,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,991,JOY,東京都,1647,SHINPO,東京都,2213,TA-YJS,東京都,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,994,PLASMA,東京都,2131,SHINPO,東京都,2822,KT4ER1,東京都,0,,-
 Lincle,Infinite cave,0,,-,964,JOY,東京都,1523,LAHAR*,東京都,2045,9-PIN,東京都,0,,-
 Lincle,In the Blackest Den,0,,-,877,DICE,東京都,1610,SHINPO,東京都,2660,MIKAMO,東京都,0,,-
 Lincle,I'm so Happy,317,KAN,東京都,416,DICE,東京都,1380,DICE,東京都,2364,MIKAMO,東京都,0,,-
-Lincle,HAERETICUS,0,,-,863,DICE,東京都,1916,S.S.H.,東京都,3071,MIKAMO,東京都,0,,-
+Lincle,HAERETICUS,0,,-,863,DICE,東京都,1946,SHINPO,東京都,3071,MIKAMO,東京都,0,,-
 Lincle,Follow Tomorrow,0,,-,894,*39RA*,東京都,1494,-.-#,東京都,2273,*TA93N,東京都,0,,-
-Lincle,Flip Flap,280,ALPHA,東京都,582,DICE,東京都,1364,RASIS,東京都,2238,LAHAR*,東京都,0,,-
-Lincle,fffff,0,,-,860,DICE,東京都,2038,DICE,東京都,3123,ZUBU,東京都,0,,-
-Lincle,Far east nightbird,356,JEF*,東京都,515,RYU,東京都,1322,DXY,東京都,2010,LAHAR*,東京都,0,,-
+Lincle,Flip Flap,280,ALPHA,東京都,582,DICE,東京都,1393,SHINPO,東京都,2238,LAHAR*,東京都,0,,-
+Lincle,fffff,0,,-,860,DICE,東京都,2096,SHINPO,東京都,3123,ZUBU,東京都,0,,-
+Lincle,Far east nightbird,356,JEF*,東京都,515,RYU,東京都,1340,SHINPO,東京都,2010,LAHAR*,東京都,0,,-
 Lincle,F,0,,-,1050,SERABI,東京都,2099,LAHAR*,東京都,3571,MIKAMO,東京都,0,,-
 Lincle,Express Emotion,0,,-,746,RYU,東京都,1041,NOHOHO,東京都,2527,MIKAMO,東京都,0,,-
-Lincle,Drive Me Crazy,0,,-,722,DICE,東京都,1386,KOSSY,東京都,2302,*1048*,東京都,0,,-
-Lincle,DIAVOLO,0,,-,1305,DICE,東京都,1895,AOI,東京都,3273,MIKAMO,東京都,0,,-
-Lincle,Change the World,0,,-,804,JOY,東京都,1375,7CHOMO,東京都,1854,MIKAMO,東京都,0,,-
-Lincle,Castle on the Moon,242,KKR?,東京都,644,RUDDLE,東京都,1632,DICE,東京都,2417,ALIKIA,東京都,0,,-
-Lincle,CALL,0,,-,364,ATS,東京都,805,JOY,東京都,1467,MIKAMO,東京都,0,,-
+Lincle,Drive Me Crazy,0,,-,722,DICE,東京都,1399,SHINPO,東京都,2302,*1048*,東京都,0,,-
+Lincle,DIAVOLO,0,,-,1305,DICE,東京都,1913,SHINPO,東京都,3273,MIKAMO,東京都,0,,-
+Lincle,Change the World,0,,-,804,JOY,東京都,1419,SHINPO,東京都,1854,MIKAMO,東京都,0,,-
+Lincle,Castle on the Moon,242,KKR?,東京都,644,RUDDLE,東京都,1660,SHINPO,東京都,2417,ALIKIA,東京都,0,,-
+Lincle,CALL,0,,-,364,ATS,東京都,858,SHINPO,東京都,1467,MIKAMO,東京都,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,1036,NOHOHO,東京都,2192,SHINPO,東京都,3399,ZUBU,東京都,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,896,RUDDLE,東京都,1672,DICE,東京都,2467,INOSKE,東京都,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,896,RUDDLE,東京都,1680,SHINPO,東京都,2467,INOSKE,東京都,0,,-
 Lincle,Almace,0,,-,843,RUDDLE,東京都,1276,MAR!A*,東京都,1979,LAHAR*,東京都,0,,-
 Lincle,532nm,0,,-,573,DICE,東京都,1246,NOHOHO,東京都,2661,7NOYU,東京都,0,,-
 Lincle,24th Century BOY,0,,-,853,SERABI,東京都,1892,MEW,東京都,2853,ZUBU,東京都,0,,-
@@ -630,7 +630,7 @@ tricoro,梅雪夜,0,,-,888,DICE,東京都,1489,DICE,東京都,2138,AMETO!,東京
 tricoro,朧,208,405,東京都,786,DICE,東京都,1501,NOHOHO,東京都,2116,ALIKIA,東京都,2554,MIKAMO,東京都
 tricoro,即席！脳直★ミュージックシステム,0,,-,983,JOY,東京都,1986,LAHAR*,東京都,3608,MIKAMO,東京都,0,,-
 tricoro,創世ノート,0,,-,800,TAMA,東京都,1917,LAHAR*,東京都,2949,HOI2,東京都,0,,-
-tricoro,仮想空間の旅人たち,0,,-,1128,RYUTO,東京都,2199,LAHAR*,東京都,2865,?,東京都,3849,KKM*,東京都
+tricoro,仮想空間の旅人たち,0,,-,1166,SERABI,東京都,2199,LAHAR*,東京都,2865,?,東京都,3849,KKM*,東京都
 tricoro,下弦の月,0,,-,946,DICE,東京都,1431,P.L.H.,東京都,1982,TA-YJS,東京都,0,,-
 tricoro,ラキラキ,0,,-,653,DICE,東京都,1466,DICE,東京都,1988,ALIKIA,東京都,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,653,DICE,東京都,1280,KUNMAA,東京都,1952,MIKAMO,東京都,0,,-
@@ -666,7 +666,7 @@ tricoro,S!ck,0,,-,903,RYU,東京都,1549,MOMO,東京都,2704,MIKAMO,東京都,0,
 tricoro,rumrum triplets,0,,-,939,JOY,東京都,1979,DICE,東京都,3024,.,東京都,0,,-
 tricoro,Re:GENERATION,244,KAN,東京都,919,RYU,東京都,1586,DICE,東京都,2263,MIKAMO,東京都,0,,-
 tricoro,Rainbow after snow,0,,-,714,1.OR.8,東京都,1479,DICE,東京都,2172,MIKAMO,東京都,0,,-
-tricoro,Proof of the existence,0,,-,1146,D.C.4,東京都,2134,DICE,東京都,3260,MIKAMO,東京都,0,,-
+tricoro,Proof of the existence,0,,-,1175,FUMIKA,東京都,2134,DICE,東京都,3260,MIKAMO,東京都,0,,-
 tricoro,Praludium,0,,-,623,YUKII$,東京都,1451,SHINPO,東京都,2293,ZUBU,東京都,0,,-
 tricoro,POINT ZERO,0,,-,736,DICE,東京都,1265,SERABI,東京都,2067,BMSP,東京都,0,,-
 tricoro,planarian,0,,-,696,MA2RI,東京都,1693,DICE,東京都,2532,MI0PAN,東京都,0,,-
@@ -742,13 +742,13 @@ SPADA,NPC World,0,,-,1034,NOHOHO,東京都,1595,NOHOHO,東京都,2291,*1048*,東
 SPADA,Miracle 5ympho X,0,,-,745,LEV3L,東京都,1263,LV2SHY,東京都,2631,MIKAMO,東京都,0,,-
 SPADA,MAGIC & LOVE,0,,-,972,JOY,東京都,1841,LAHAR*,東京都,2934,ZUBU,東京都,0,,-
 SPADA,MAD ATTACK,0,,-,684,DICE,東京都,1335,DICE,東京都,1947,7NOYU,東京都,0,,-
-SPADA,m1dy Deluxe,0,,-,1143,RYU,東京都,1839,SHINPO,東京都,2622,KKM*,東京都,0,,-
+SPADA,m1dy Deluxe,0,,-,1143,RYU,東京都,1847,SHINPO,東京都,2622,KKM*,東京都,0,,-
 SPADA,M.D.Injection,0,,-,587,AKI,東京都,1249,KT4ER1,東京都,2410,.,東京都,0,,-
 SPADA,Lighting Shower,0,,-,820,DICE,東京都,1369,DICE,東京都,2414,MIKAMO,東京都,0,,-
 SPADA,Last Dance,0,,-,1205,NOHOHO,東京都,1991,LAHAR*,東京都,3252,ZUBU,東京都,0,,-
 SPADA,KHAMEN BREAK,0,,-,573,CUBE,東京都,1437,DICE,東京都,2464,LAHAR*,東京都,0,,-
 SPADA,KAISER PHOENIX,0,,-,1341,DICE,東京都,2244,DICE,東京都,3296,MIKAMO,東京都,3955,7NOYU,東京都
-SPADA,IX,0,,-,1245,GIMLET,東京都,2397,KUNMAA,東京都,3862,MIKAMO,東京都,0,,-
+SPADA,IX,0,,-,1277,SERABI,東京都,2397,KUNMAA,東京都,3862,MIKAMO,東京都,0,,-
 SPADA,invoker,0,,-,1083,JOY,東京都,1984,DICE,東京都,3225,MIKAMO,東京都,3635,KKM*,東京都
 SPADA,into the battlefield,0,,-,741,DICE,東京都,1402,MAR!A*,東京都,2373,7NOYU,東京都,0,,-
 SPADA,INSOMNIA,0,,-,790,MA2RI,東京都,1777,MAR!A*,東京都,3179,7NOYU,東京都,0,,-
@@ -785,7 +785,7 @@ PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,1086,AGEPOY,東京
 PENDUAL,紅牡丹,489,DICE,東京都,1074,DICE,東京都,1825,DICE,東京都,2848,NAGISA,東京都,0,,-
 PENDUAL,白露の風,0,,-,473,MA2RI,東京都,1230,*HOLY*,東京都,2007,KUNMAA,東京都,0,,-
 PENDUAL,時空トラベローグ,0,,-,1030,JOY,東京都,1864,LAHAR*,東京都,2685,MIKAMO,東京都,0,,-
-PENDUAL,打打打打打打打打打打,199,RAY,東京都,820,DICE,東京都,1385,SHINPO,東京都,2657,MIKAMO,東京都,0,,-
+PENDUAL,打打打打打打打打打打,199,RAY,東京都,820,DICE,東京都,1388,FUMIKA,東京都,2657,MIKAMO,東京都,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,735,TOBI*R,東京都,1276,MAR!A*,東京都,2037,MIKAMO,東京都,2777,ZUBU,東京都
 PENDUAL,少年は空を辿る,0,,-,1202,F.MAXX,東京都,2075,LAHAR*,東京都,3376,MIKAMO,東京都,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,950,RYU,東京都,1588,DICE,東京都,2196,ALIKIA,東京都,0,,-
@@ -810,7 +810,7 @@ PENDUAL,TIEFSEE,0,,-,1254,LST,東京都,2137,LAHAR*,東京都,3494,KKM*,東京�
 PENDUAL,The Least 100sec,0,,-,808,DICE,東京都,1486,DICE,東京都,2882,MI7RAI,東京都,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1117,RYU,東京都,1655,DICE,東京都,2338,MIKAMO,東京都,0,,-
 PENDUAL,Symmetry,0,,-,1151,MEW,東京都,2089,LAHAR*,東京都,3266,MIKAMO,東京都,0,,-
-PENDUAL,Sweet Radar,0,,-,675,DICE,東京都,1361,KAZ.,東京都,2039,MIKAMO,東京都,0,,-
+PENDUAL,Sweet Radar,0,,-,675,DICE,東京都,1375,FUMIKA,東京都,2039,MIKAMO,東京都,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,1092,DICE,東京都,1713,LAHAR*,東京都,2956,ZUBU,東京都,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1206,JOY,東京都,2097,KUNMAA,東京都,2983,7NOYU,東京都,0,,-
 PENDUAL,Shooting Fireball,0,,-,936,JOY,東京都,2298,DICE,東京都,3901,MIKAMO,東京都,0,,-
@@ -824,7 +824,7 @@ PENDUAL,Realize Maze,0,,-,1279,NOHOHO,東京都,2040,LAHAR*,東京都,2992,MIKAM
 PENDUAL,"Rave*it!! Rave*it!! ",0,,-,1009,DICE,東京都,1702,BETSY,東京都,3294,MIKAMO,東京都,0,,-
 PENDUAL,PENDUAL TALISMAN,0,,-,992,89JI-P,東京都,1606,SERABI,東京都,2621,ZUBU,東京都,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,890,RYU,東京都,1270,DICE,東京都,1973,REN-SC,東京都,0,,-
-PENDUAL,No Tears,0,,-,1147,JOY,東京都,2092,DICE,東京都,2546,MIKAMO,東京都,0,,-
+PENDUAL,No Tears,0,,-,1147,JOY,東京都,2132,LAHAR*,東京都,2546,MIKAMO,東京都,0,,-
 PENDUAL,Night sky,0,,-,1119,.COM,東京都,1860,LAHAR*,東京都,2919,NAGISA,東京都,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,906,LEV3L,東京都,1892,LAHAR*,東京都,3296,NAGISA,東京都,0,,-
 PENDUAL,Monopole.,0,,-,798,DICE,東京都,1702,DICE,東京都,3370,MIKAMO,東京都,0,,-
@@ -838,7 +838,7 @@ PENDUAL,illuminate,0,,-,593,EITSU,東京都,1514,3XXXXN,東京都,2296,LAHAR*,�
 PENDUAL,Hello Happiness,0,,-,910,DICE,東京都,1698,DICE,東京都,2339,NAGISA,東京都,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,919,ELMINA,東京都,1794,DICE,東京都,2873,*1048*,東京都,0,,-
 PENDUAL,Gravigazer,0,,-,977,DICE,東京都,1861,DICE,東京都,2991,ZUBU,東京都,0,,-
-PENDUAL,Flashes,0,,-,880,D.,東京都,1813,LAHAR*,東京都,3282,MI7RAI,東京都,0,,-
+PENDUAL,Flashes,0,,-,881,ITEKEN,東京都,1813,LAHAR*,東京都,3282,MI7RAI,東京都,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1303,F.MAXX,東京都,2258,DICE,東京都,3175,*TA93N,東京都,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1181,DICE,東京都,2074,S.S.H.,東京都,3390,ZUBU,東京都,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,806,DICE,東京都,1505,KA2718,東京都,2163,KURIPA,東京都,0,,-
@@ -853,7 +853,7 @@ PENDUAL,Chronos,0,,-,872,DICE,東京都,1327,NYOR-R,東京都,2351,55TEA*,東京
 PENDUAL,Chrono Diver -PENDULUMs-,559,IKKI,東京都,1424,MEW,東京都,2732,.,東京都,4365,7NOYU,東京都,0,,-
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,1163,SERABI,東京都,2207,LAHAR*,東京都,3084,456SAI,東京都,4375,MI7RAI,東京都
 PENDUAL,chrono diver -fragment-,0,,-,668,MA2RI,東京都,1143,VWS-2,東京都,1793,BMSP,東京都,2250,KUNMAA,東京都
-PENDUAL,Chain of pain,0,,-,763,RUDDLE,東京都,1491,KA2718,東京都,2226,17ICE,東京都,0,,-
+PENDUAL,Chain of pain,0,,-,763,RUDDLE,東京都,1508,SERABI,東京都,2226,17ICE,東京都,0,,-
 PENDUAL,Broken Sword,0,,-,1244,RUDDLE,東京都,2058,Y13,東京都,3705,ZUBU,東京都,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1158,NOHOHO,東京都,2070,*405*,東京都,3058,MIKAMO,東京都,0,,-
 PENDUAL,Blaze it UP!,0,,-,916,-RYO-,東京都,1832,KA2718,東京都,2984,MIKAMO,東京都,0,,-
@@ -882,7 +882,7 @@ copula,か・し・ま・し☆PUMP UP！,0,,-,1193,MI7RAI,東京都,1865,LAHAR*
 copula,ZEPHYRANTHES,0,,-,960,JOY,東京都,1792,LAHAR*,東京都,2968,MIKAMO,東京都,0,,-
 copula,X,0,,-,1542,URB&N?,東京都,2499,LAHAR*,東京都,3850,MI7RAI,東京都,0,,-
 copula,Welcome,0,,-,828,TAKE..,東京都,1808,DICE,東京都,2676,*1048*,東京都,3359,KKM*,東京都
-copula,Violet Rose,0,,-,1255,DICE,東京都,1946,LAHAR*,東京都,2591,*1048*,東京都,0,,-
+copula,Violet Rose,0,,-,1255,DICE,東京都,1990,LAHAR*,東京都,2591,*1048*,東京都,0,,-
 copula,Violet Pulse,0,,-,413,EITSU,東京都,1713,SHINPO,東京都,2466,MIKAMO,東京都,0,,-
 copula,Uh-Oh,0,,-,1036,RYO2,東京都,1749,DICE,東京都,2426,MIKAMO,東京都,0,,-
 copula,Triple Counter,0,,-,1403,SHINPO,東京都,2228,DICE,東京都,3985,MIKAMO,東京都,0,,-
@@ -901,9 +901,9 @@ copula,Rock It,0,,-,1116,*SAYA*,東京都,1653,*HOLY*,東京都,2962,*1048*,東�
 copula,refrain,0,,-,1213,TYU-BA,東京都,2363,TRN,東京都,3640,MIKAMO,東京都,0,,-
 copula,quick master (reform version),0,,-,160,405,東京都,351,DICE,東京都,527,RAQUEL,東京都,0,,-
 copula,POSSESSION,534,DICE,東京都,1388,DICE,東京都,2111,LAHAR*,東京都,2994,ALIKIA,東京都,0,,-
-copula,Outbreak,0,,-,1292,-RYO-,東京都,1841,DICE,東京都,3005,.,東京都,0,,-
+copula,Outbreak,0,,-,1292,-RYO-,東京都,1841,DICE,東京都,3008,.,東京都,0,,-
 copula,On the FM,0,,-,1125,DICE,東京都,1621,DICE,東京都,2798,MIKAMO,東京都,0,,-
-copula,NZM,0,,-,1048,R-O,東京都,1583,KOSSY,東京都,3478,MIKAMO,東京都,0,,-
+copula,NZM,0,,-,1048,R-O,東京都,1611,LAHAR*,東京都,3478,MIKAMO,東京都,0,,-
 copula,Nowhere,0,,-,870,DICE,東京都,1435,ASHMEE,東京都,2141,TA-YJS,東京都,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,818,M,東京都,1232,SHINPO,東京都,2279,*1048*,東京都,0,,-
 copula,NINJA IS DEAD IIDX ver.,0,,-,1206,TAKE..,東京都,1920,LAHAR*,東京都,2994,MIKAMO,東京都,0,,-
@@ -993,7 +993,7 @@ SINOBUZ,Remedy feat. Kanae Asaba,0,,-,900,MA2RI,東京都,1604,*HOLY*,東京都,
 SINOBUZ,Rave Cannon,0,,-,1069,NOHOHO,東京都,1844,DICE,東京都,3361,*1048*,東京都,0,,-
 SINOBUZ,RAIN,0,,-,1157,DICE,東京都,1817,LAHAR*,東京都,3231,ALIKIA,東京都,0,,-
 SINOBUZ,Quakes,0,,-,1074,KILALY,東京都,2074,LAHAR*,東京都,3242,KKM*,東京都,0,,-
-SINOBUZ,Piano Samurai,0,,-,1023,JOY,東京都,1725,LAHAR*,東京都,2491,*TA93N,東京都,0,,-
+SINOBUZ,Piano Samurai,0,,-,1023,JOY,東京都,1787,LAHAR*,東京都,2491,*TA93N,東京都,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,764,RYU,東京都,1546,*HOLY*,東京都,2809,MIKAMO,東京都,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,1231,.COM,東京都,2118,LAHAR*,東京都,3218,KKM*,東京都,0,,-
 SINOBUZ,OOO,0,,-,689,DICE,東京都,1430,SERABI,東京都,2062,*1048*,東京都,0,,-
@@ -1013,8 +1013,8 @@ SINOBUZ,Go Ahead!!,0,,-,991,KILALY,東京都,1565,LAHAR*,東京都,2731,7NOYU,�
 SINOBUZ,FUZIN RIZIN,0,,-,1202,MEW,東京都,2003,MIKAMO,東京都,3809,MIKAMO,東京都,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,609,TYU-BA,東京都,1179,*HOLY*,東京都,1622,MI7RAI,東京都,0,,-
 SINOBUZ,Egret and Willow,0,,-,977,NANO*,東京都,1674,DICE,東京都,2721,.,東京都,0,,-
-SINOBUZ,ECHIDNA,0,,-,1294,DICE,東京都,2083,LAHAR*,東京都,3425,MIKAMO,東京都,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1259,MA2RI,東京都,2254,DICE,東京都,3704,MIKAMO,東京都,0,,-
+SINOBUZ,ECHIDNA,0,,-,1294,DICE,東京都,2116,LAHAR*,東京都,3425,MIKAMO,東京都,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1283,SERABI,東京都,2254,DICE,東京都,3704,MIKAMO,東京都,0,,-
 SINOBUZ,Cyber True Color,0,,-,950,BGI#20,東京都,1679,BANO,東京都,2372,MIKAMO,東京都,0,,-
 SINOBUZ,crew,0,,-,632,405,東京都,1717,*HOLY*,東京都,2938,ALIKIA,東京都,0,,-
 SINOBUZ,Caterpillar,0,,-,1188,RUDDLE,東京都,2166,LAHAR*,東京都,3075,MIKAMO,東京都,0,,-
@@ -1059,7 +1059,7 @@ CANNON BALLERS,THE CANNONBALLER,483,510,東京都,1483,DATTO,東京都,2422,DICE
 CANNON BALLERS,Temple of Anubis,0,,-,997,DATTO,東京都,1542,DICE,東京都,2642,17ICE,東京都,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1229,DICE,東京都,1766,LAHAR*,東京都,2656,BANO,東京都,0,,-
 CANNON BALLERS,Static State,0,,-,1025,DATTO,東京都,1723,LAHAR*,東京都,2406,MIKAMO,東京都,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,886,P.L.H.,東京都,1615,*1048*,東京都,2290,MIKAMO,東京都,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,886,P.L.H.,東京都,1618,*1048*,東京都,2290,MIKAMO,東京都,0,,-
 CANNON BALLERS,SPEED DEMON,0,,-,735,T.I,東京都,1431,*HOLY*,東京都,2354,MIKAMO,東京都,0,,-
 CANNON BALLERS,SPEED,0,,-,882,P.L.H.,東京都,1595,KA2718,東京都,2572,LAHAR*,東京都,0,,-
 CANNON BALLERS,"Son, not gabba now",0,,-,892,DICE,東京都,1559,*HOLY*,東京都,2412,*1048*,東京都,0,,-
@@ -1067,7 +1067,7 @@ CANNON BALLERS,Slipstream,0,,-,1029,RYU,東京都,2051,DICE,東京都,3599,KKM*,
 CANNON BALLERS,Sleepless days,0,,-,506,DICE,東京都,910,NOHOHO,東京都,1574,KT4ER1,東京都,0,,-
 CANNON BALLERS,SHOX,0,,-,857,DICE,東京都,1177,DICE,東京都,1743,*1048*,東京都,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,946,DICE,東京都,1579,LAHAR*,東京都,2336,MIKAMO,東京都,0,,-
-CANNON BALLERS,Raspberry Railgun,0,,-,1399,KV.S,東京都,2193,LAHAR*,東京都,3136,9-PIN,東京都,0,,-
+CANNON BALLERS,Raspberry Railgun,0,,-,1399,KV.S,東京都,2253,LAHAR*,東京都,3136,9-PIN,東京都,0,,-
 CANNON BALLERS,Rampage,0,,-,1280,T.I,東京都,2478,DICE,東京都,3638,MIKAMO,東京都,0,,-
 CANNON BALLERS,Persephone,0,,-,1272,-RYO-,東京都,1970,DICE,東京都,3034,MIKAMO,東京都,0,,-
 CANNON BALLERS,Papilio ulysses,0,,-,1197,KV.S,東京都,2090,SHINPO,東京都,2949,MIKAMO,東京都,0,,-
@@ -1088,7 +1088,7 @@ CANNON BALLERS,Initiation,0,,-,1504,SHINPO,東京都,2479,DICE,東京都,3958,KK
 CANNON BALLERS,Illusionary Waterlily,0,,-,1289,ARCANA,東京都,2246,DICE,東京都,3547,MIKAMO,東京都,0,,-
 CANNON BALLERS,I'm Coming (2017 Version),0,,-,565,NICKP,東京都,1309,*HOLY*,東京都,2088,KT4ER1,東京都,0,,-
 CANNON BALLERS,I Love You,0,,-,1018,*SAYA*,東京都,1884,LAHAR*,東京都,2739,*TA93N,東京都,0,,-
-CANNON BALLERS,HYPE THE CORE,0,,-,1119,DICE,東京都,1978,LAHAR*,東京都,3032,KKM*,東京都,0,,-
+CANNON BALLERS,HYPE THE CORE,0,,-,1119,DICE,東京都,2006,LAHAR*,東京都,3032,KKM*,東京都,0,,-
 CANNON BALLERS,Hella Deep,0,,-,618,TYU-BA,東京都,1049,M,東京都,1827,MI7RAI,東京都,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,848,DICE,東京都,1419,*HOLY*,東京都,2194,17ICE,東京都,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,535,P,東京都,1227,P.L.H.,東京都,1914,MIKAMO,東京都,0,,-
@@ -1096,7 +1096,7 @@ CANNON BALLERS,FUTURE is Dead,0,,-,890,DATTO,東京都,1487,SHINPO,東京都,223
 CANNON BALLERS,From Time To Time,0,,-,799,DICE,東京都,1887,LAHAR*,東京都,2550,ALIKIA,東京都,0,,-
 CANNON BALLERS,FREEDOM,0,,-,934,CUBE,東京都,1732,DICE,東京都,2932,*1048*,東京都,0,,-
 CANNON BALLERS,FIRE BALL,0,,-,854,DICE,東京都,1628,DICE,東京都,2429,LAHAR*,東京都,0,,-
-CANNON BALLERS,Fervidex,0,,-,842,IIDX27,東京都,1808,LAHAR*,東京都,2713,7NOYU,東京都,0,,-
+CANNON BALLERS,Fervidex,0,,-,857,SERABI,東京都,1808,LAHAR*,東京都,2713,7NOYU,東京都,0,,-
 CANNON BALLERS,Expanded !!,0,,-,670,P.L.H.,東京都,1553,DICE,東京都,2605,HOI2,東京都,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,1028,DICE,東京都,1934,LAHAR*,東京都,2787,55TEA*,東京都,0,,-
 CANNON BALLERS,encounter,0,,-,971,RYU,東京都,1759,LAHAR*,東京都,3274,ZUBU,東京都,0,,-
@@ -1115,9 +1115,9 @@ CANNON BALLERS,Beast mode,0,,-,1047,RUDDLE,東京都,1562,DICE,東京都,2764,ZU
 CANNON BALLERS,Be a Hero!,0,,-,773,CRZ-J.,東京都,1979,DICE,東京都,3098,KKM*,東京都,0,,-
 CANNON BALLERS,Battleground,0,,-,1153,RUDDLE,東京都,1883,LAHAR*,東京都,2690,*1048*,東京都,0,,-
 CANNON BALLERS,Back Spin Sweeper,0,,-,845,DATTO,東京都,1398,M,東京都,2277,*1048*,東京都,0,,-
-CANNON BALLERS,Around the Future,0,,-,1101,DICE,東京都,1709,MINT,東京都,2588,TA-YJS,東京都,0,,-
+CANNON BALLERS,Around the Future,0,,-,1101,DICE,東京都,1729,LAHAR*,東京都,2588,TA-YJS,東京都,0,,-
 CANNON BALLERS,Arca,0,,-,916,XXXXXX,東京都,1870,LAHAR*,東京都,3153,ZUBU,東京都,0,,-
-CANNON BALLERS,Antigravity,0,,-,1055,DICE,東京都,1979,DICE,東京都,3126,MIKAMO,東京都,0,,-
+CANNON BALLERS,Antigravity,0,,-,1055,DICE,東京都,2001,LAHAR*,東京都,3126,MIKAMO,東京都,0,,-
 CANNON BALLERS,ANCHOR,0,,-,1341,KV.S,東京都,2486,S.S.H.,東京都,3617,MIKAMO,東京都,0,,-
 CANNON BALLERS,ANAGMA,0,,-,1013,RUDDLE,東京都,1794,DICE,東京都,2623,MI7RAI,東京都,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,779,RUDDLE,東京都,1374,RUDDLE,東京都,2338,MIKAMO,東京都,0,,-
@@ -1134,9 +1134,9 @@ Rootage,金野火織の金色提言,0,,-,1210,YRNHT,東京都,2278,LAHAR*,東京
 Rootage,花冠 feat.Aikapin,0,,-,985,P.L.H.,東京都,1669,LAHAR*,東京都,2582,ZUBU,東京都,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1203,284KYO,東京都,1893,284KYO,東京都,2666,LAHAR*,東京都,0,,-
 Rootage,抱きしめてモナムール,0,,-,1308,MEW,東京都,2310,LAHAR*,東京都,4171,MIKAMO,東京都,0,,-
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,694,NOHOHO,東京都,1552,NOHOHO,東京都,2545,RAQUEL,東京都,0,,-
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,694,NOHOHO,東京都,1552,NOHOHO,東京都,2556,*1048*,東京都,0,,-
 Rootage,ミストレス・アンに花束を,0,,-,585,DICE,東京都,1014,*HOLY*,東京都,1431,MIKAMO,東京都,0,,-
-Rootage,ハードベース・フェスタ,0,,-,1100,RUDDLE,東京都,1820,DICE,東京都,2862,MIKAMO,東京都,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1100,RUDDLE,東京都,1821,LAHAR*,東京都,2862,MIKAMO,東京都,0,,-
 Rootage,セカンドピアス,0,,-,597,DICE,東京都,1076,YU-YAN,東京都,2014,AMHQ,東京都,0,,-
 Rootage,サクラあっぱれーしょん,268,DICE,東京都,631,DICE,東京都,1505,HINA.K,東京都,2309,RAQUEL,東京都,0,,-
 Rootage,グラナダの風,0,,-,816,DICE,東京都,1230,DICE,東京都,1852,ZUBU,東京都,0,,-
@@ -1144,15 +1144,15 @@ Rootage,お菓子の王国,0,,-,1419,MEW,東京都,2274,LAHAR*,東京都,4114,MI
 Rootage,Yum Yum Jelly,0,,-,783,DICE,東京都,1576,Y13,東京都,2391,MIKAMO,東京都,0,,-
 Rootage,Xlo,0,,-,1516,ARCANA,東京都,2474,LAHAR*,東京都,3843,MIKAMO,東京都,0,,-
 Rootage,X-DEN,0,,-,1610,MEW,東京都,2746,7NOYU,東京都,4232,7NOYU,東京都,0,,-
-Rootage,Wonderland,0,,-,1065,DICE,東京都,1843,MEW,東京都,2743,ZUBU,東京都,0,,-
-Rootage,Won(*3*)Chu KissMe!,272,405,東京都,903,YUZ,東京都,1415,NOHOHO,東京都,2498,7NOYU,東京都,0,,-
+Rootage,Wonderland,0,,-,1065,DICE,東京都,1874,LAHAR*,東京都,2743,ZUBU,東京都,0,,-
+Rootage,Won(*3*)Chu KissMe!,272,405,東京都,905,ASA!0,東京都,1415,NOHOHO,東京都,2498,7NOYU,東京都,0,,-
 Rootage,Wolf 1061,0,,-,1026,NOHOHO,東京都,1715,DICE,東京都,3141,MIKAMO,東京都,0,,-
 Rootage,Wing of Hearts,0,,-,1118,DICE,東京都,1809,DICE,東京都,2928,AMETO!,東京都,0,,-
 Rootage,Visterhv,0,,-,1234,3KENE5,東京都,2255,DICE,東京都,3716,7NOYU,東京都,0,,-
 Rootage,Urban Constellations,0,,-,718,DICE,東京都,1507,M,東京都,2293,ZUBU,東京都,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1133,P.L.H.,東京都,2120,DICE,東京都,3204,.,東京都,0,,-
 Rootage,Unbelief,0,,-,1077,YU-YAN,東京都,2108,LAHAR*,東京都,3242,MIKAMO,東京都,0,,-
-Rootage,U.S.A.,573,DICE,東京都,1100,RYU,東京都,1868,LAHAR*,東京都,2884,*TA93N,東京都,0,,-
+Rootage,U.S.A.,573,DICE,東京都,1100,RYU,東京都,1920,LAHAR*,東京都,2884,*TA93N,東京都,0,,-
 Rootage,Twilight Warp,0,,-,914,YU,東京都,1333,KAZU!$,東京都,2162,MIKAMO,東京都,0,,-
 Rootage,Trill auf G,0,,-,1132,F.MAXX,東京都,2096,LAHAR*,東京都,3264,MIKAMO,東京都,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,731,284KYO,東京都,1537,284KYO,東京都,2270,BMSP,東京都,0,,-
@@ -1168,7 +1168,7 @@ Rootage,Serious?,0,,-,592,DICE,東京都,1204,SHINPO,東京都,2251,MIKAMO,東�
 Rootage,R∞tAge,0,,-,1091,CRZ-J.,東京都,1657,DICE,東京都,2958,ZUBU,東京都,0,,-
 Rootage,ruin of opals,0,,-,974,284KYO,東京都,1921,SHINPO,東京都,3182,MIKAMO,東京都,0,,-
 Rootage,ROZA DE ANDALUCIA,0,,-,1287,284KYO,東京都,2026,LAHAR*,東京都,3043,ZUBU,東京都,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1072,SHINPO,東京都,1754,LAHAR*,東京都,2814,MIKAMO,東京都,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1072,SHINPO,東京都,1805,LAHAR*,東京都,2814,MIKAMO,東京都,0,,-
 Rootage,REPLAY,0,,-,906,3KENE5,東京都,1654,DICE,東京都,2244,KT4ER1,東京都,0,,-
 Rootage,Red. by Jack Trance,0,,-,1506,NOHOHO,東京都,2195,SHINPO,東京都,3596,MIKAMO,東京都,0,,-
 Rootage,Re:Story,0,,-,436,DICE,東京都,1100,284KYO,東京都,1963,MIKAMO,東京都,0,,-
@@ -1178,8 +1178,8 @@ Rootage,Particle Arts,0,,-,809,OREN,東京都,1653,DICE,東京都,2512,MIKAMO,�
 Rootage,Painful Fate,0,,-,1219,TM-1,東京都,2291,LAHAR*,東京都,3374,ZUBU,東京都,0,,-
 Rootage,OVER TIME,0,,-,575,DICE,東京都,938,MOCNUC,東京都,1553,MIKAMO,東京都,0,,-
 Rootage,ONIGOROSHI,0,,-,1169,MEW,東京都,2144,DICE,東京都,3003,MIKAMO,東京都,0,,-
-Rootage,Night! Night! Night!,0,,-,1215,NOHOHO,東京都,1808,M,東京都,3062,MIKAMO,東京都,0,,-
-Rootage,Necroxis Girl,0,,-,1145,284KYO,東京都,1949,LAHAR*,東京都,2838,MIKAMO,東京都,0,,-
+Rootage,Night! Night! Night!,0,,-,1215,NOHOHO,東京都,1836,LAHAR*,東京都,3062,MIKAMO,東京都,0,,-
+Rootage,Necroxis Girl,0,,-,1145,284KYO,東京都,2014,LAHAR*,東京都,2838,MIKAMO,東京都,0,,-
 Rootage,Macho Monky,0,,-,1458,SHINPO,東京都,2149,SHINPO,東京都,3080,MIKAMO,東京都,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1139,284KYO,東京都,1896,LAHAR*,東京都,3509,MIKAMO,東京都,0,,-
 Rootage,Level One,0,,-,1260,DICE,東京都,2297,DICE,東京都,3580,MIKAMO,東京都,0,,-
@@ -1187,7 +1187,7 @@ Rootage,Lethal Weapon,0,,-,1183,MEW,東京都,1878,LAHAR*,東京都,3237,MIKAMO,
 Rootage,Let me be your cure,0,,-,1114,YU-YAN,東京都,1434,MIKAMO,東京都,2676,MIKAMO,東京都,0,,-
 Rootage,LADYBIRD,0,,-,1114,DICE,東京都,1689,SHINPO,東京都,2459,MIKAMO,東京都,0,,-
 Rootage,L.F.O,0,,-,856,TM-1,東京都,1766,LAHAR*,東京都,3325,KKM*,東京都,0,,-
-Rootage,KILL EACH OTHER,0,,-,1373,46GANE,東京都,2390,S.S.H.,東京都,3819,MIKAMO,東京都,0,,-
+Rootage,KILL EACH OTHER,0,,-,1373,46GANE,東京都,2443,LAHAR*,東京都,3819,MIKAMO,東京都,0,,-
 Rootage,IDOL syndrome.,0,,-,747,YU-YAN,東京都,1463,DICE,東京都,2204,MIKAMO,東京都,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1046,284KYO,東京都,1588,SHINPO,東京都,2205,MIKAMO,東京都,0,,-
 Rootage,Hurry Hurry,0,,-,748,DICE,東京都,1028,SERABI,東京都,2077,SHINPO,東京都,0,,-
@@ -1236,7 +1236,7 @@ HEROIC VERSE,VALKYRIAS -英雄誕生-,465,DOFLES,東京都,1048,NOHOHO,東京都
 HEROIC VERSE,UNITE THE HEART,0,,-,1492,NOHOHO,東京都,2577,KT4ER1,東京都,3332,7NOYU,東京都,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,942,LAHAR*,東京都,2008,LAHAR*,東京都,3412,MIKAMO,東京都,0,,-
 HEROIC VERSE,Theory,0,,-,794,DICE,東京都,1463,SHINPO,東京都,2601,MIKAMO,東京都,0,,-
-HEROIC VERSE,THE F∀UST,0,,-,1353,P-TAN,東京都,2283,.ZIP,東京都,3640,7NOYU,東京都,0,,-
+HEROIC VERSE,THE F∀UST,0,,-,1353,P-TAN,東京都,2298,LAHAR*,東京都,3640,7NOYU,東京都,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1432,MEW,東京都,2497,LAHAR*,東京都,4087,ZUBU,東京都,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,1025,NOHOHO,東京都,1650,*1048*,東京都,2881,KKM*,東京都,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1416,DICE,東京都,1860,DICE,東京都,3240,ZUBU,東京都,0,,-
@@ -1247,7 +1247,7 @@ HEROIC VERSE,Shiva,0,,-,736,BGI#45,東京都,1497,KT4ER1,東京都,2130,*1048*,�
 HEROIC VERSE,SCREW // owo // SCREW,0,,-,1131,Y13,東京都,2159,Y13,東京都,3040,ZUBU,東京都,0,,-
 HEROIC VERSE,Rave Patroller,0,,-,1378,NOHOHO,東京都,2338,KT4ER1,東京都,3388,ZUBU,東京都,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,1101,DICE,東京都,1768,SHINPO,東京都,2677,ZUBU,東京都,0,,-
-HEROIC VERSE,Rainstorm,0,,-,998,NOHOHO,東京都,1556,LAHAR*,東京都,2284,MIKAMO,東京都,0,,-
+HEROIC VERSE,Rainstorm,0,,-,998,NOHOHO,東京都,1556,LAHAR*,東京都,2286,MIKAMO,東京都,0,,-
 HEROIC VERSE,Queen Kaguya,0,,-,979,LAHAR*,東京都,1887,KT4ER1,東京都,2632,MIKAMO,東京都,0,,-
 HEROIC VERSE,Primitive Vibes,0,,-,1167,NOHOHO,東京都,1997,*1048*,東京都,3105,MIKAMO,東京都,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),330,405,東京都,538,NOHOHO,東京都,1302,NOHOHO,東京都,2146,MIKAMO,東京都,0,,-
@@ -1264,7 +1264,7 @@ HEROIC VERSE,Matt Silver,0,,-,1190,NOHOHO,東京都,2143,KT4ER1,東京都,3377,M
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1073,Y13,東京都,1869,SHINPO,東京都,3111,ZUBU,東京都,0,,-
 HEROIC VERSE,Like+it!,0,,-,1070,NOHOHO,東京都,1738,Y13,東京都,2369,MIKAMO,東京都,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,937,MEW,東京都,1684,DICE,東京都,3263,ZUBU,東京都,0,,-
-HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,784,IKKI,東京都,1773,Y13,東京都,3596,MIKAMO,東京都,0,,-
+HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,784,IKKI,東京都,1776,*HDT*,東京都,3596,MIKAMO,東京都,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,861,P-TAN,東京都,1402,*405*,東京都,2309,*TA93N,東京都,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1035,AIL,東京都,1894,*405*,東京都,3212,7NOYU,東京都,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,670,NOHOHO,東京都,1541,LAHAR*,東京都,1994,ZUBU,東京都,0,,-
@@ -1285,5 +1285,5 @@ HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,899,NOHOHO,東京都,1706,Y13,東
 HEROIC VERSE,beatAffection,0,,-,1047,NOHOHO,東京都,1572,*405*,東京都,2668,ZUBU,東京都,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,1069,SHINPO,東京都,1643,SHINPO,東京都,2273,MIKAMO,東京都,0,,-
 HEROIC VERSE,And-RoiD,0,,-,743,DICE,東京都,1330,Y13,東京都,2004,MIKAMO,東京都,0,,-
-HEROIC VERSE,AKASHIC BREAK,0,,-,1258,MEW,東京都,2400,S.S.H.,東京都,3611,MIKAMO,東京都,0,,-
+HEROIC VERSE,AKASHIC BREAK,0,,-,1258,MEW,東京都,2409,LAHAR*,東京都,3611,MIKAMO,東京都,0,,-
 HEROIC VERSE,27th style,0,,-,1183,Y13,東京都,1792,SHINPO,東京都,2569,ZUBU,東京都,0,,-
