@@ -36,7 +36,7 @@
 4th style,SWEET LAB,0,,-,259,NUNYUA,宮崎県,786,ALEX,宮崎県,1155,NDASPE,宮崎県,0,,-
 4th style,starmine,398,RIDER1,宮崎県,465,SIGSIG,宮崎県,1180,ONENES,宮崎県,1521,ELISE*,宮崎県,0,,-
 4th style,Mr.T.(take me higher),0,,-,0,,-,997,FBI,宮崎県,1590,NANA-4,宮崎県,0,,-
-4th style,minimalian,0,,-,0,,-,1028,ALEX,宮崎県,1144,417,宮崎県,0,,-
+4th style,minimalian,0,,-,131,TSUBAA,宮崎県,1028,ALEX,宮崎県,1144,417,宮崎県,0,,-
 4th style,LOVE WILL・・・,0,,-,240,**!,宮崎県,740,FBI,宮崎県,1436,ELISE*,宮崎県,0,,-
 4th style,KAMIKAZE,0,,-,0,,-,1384,ALEX,宮崎県,2131,ELISE*,宮崎県,0,,-
 4th style,Jam&Marmalade,0,,-,0,,-,805,ALEX,宮崎県,967,NRHD.R,宮崎県,0,,-
@@ -181,7 +181,7 @@
 10th style,One More Lovely,0,,-,0,,-,1533,3KAREA,宮崎県,2553,NIOH2,宮崎県,0,,-
 10th style,No.13,0,,-,1145,RIDER1,宮崎県,2266,NDASPE,宮崎県,2894,ELISE*,宮崎県,0,,-
 10th style,Narcissus At Oasis,0,,-,413,LIRUKA,宮崎県,701,BIN.,宮崎県,1526,4NO6RA,宮崎県,0,,-
-10th style,Lucy,0,,-,0,,-,1305,R.ALIS,宮崎県,2203,ELISE*,宮崎県,0,,-
+10th style,Lucy,0,,-,0,,-,1399,CROIX.,宮崎県,2203,ELISE*,宮崎県,0,,-
 10th style,Love Is Eternity,0,,-,0,,-,1111,ZACCO,宮崎県,2172,4NO6RA,宮崎県,0,,-
 10th style,Innocent Walls,0,,-,1301,RAIHA,宮崎県,2357,NRHD.R,宮崎県,2619,NRHD.R,宮崎県,0,,-
 10th style,HIGH,0,,-,828,L.A,宮崎県,1704,SHU-KA,宮崎県,2045,Y.C.,宮崎県,0,,-
@@ -522,7 +522,7 @@ Resort Anthem,THE BLACK KNIGHT,0,,-,0,,-,1494,RAIHA,宮崎県,2716,NAO.T,宮崎�
 Resort Anthem,STELLAR WIND,360,RIDER1,宮崎県,0,,-,1096,A.,宮崎県,2437,ELISE*,宮崎県,0,,-
 Resort Anthem,Stay my side,0,,-,0,,-,878,SYUMAI,宮崎県,1301,ELISE*,宮崎県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,478,HATSU,宮崎県,925,ATL4N,宮崎県,2804,ELISE*,宮崎県,0,,-
-Resort Anthem,Space Time,0,,-,326,CELICA,宮崎県,766,ELIE3,宮崎県,1787,SIE,宮崎県,0,,-
+Resort Anthem,Space Time,0,,-,326,CELICA,宮崎県,766,ELIE3,宮崎県,1875,NANA-4,宮崎県,0,,-
 Resort Anthem,Session 9 -Chronicles-,0,,-,613,WAHAA,宮崎県,1970,IIDX27,宮崎県,3171,NRHD.R,宮崎県,0,,-
 Resort Anthem,sakura storm,0,,-,935,ONENES,宮崎県,1175,!,宮崎県,2259,ELISE*,宮崎県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,419,IKKI!!,宮崎県,1470,AC,宮崎県,2322,ELISE*,宮崎県,0,,-
@@ -733,7 +733,7 @@ SPADA,RISE,0,,-,0,,-,1095,SKY,宮崎県,1783,AZURA4,宮崎県,0,,-
 SPADA,refractive index,0,,-,435,GAMERA,宮崎県,1401,FBI,宮崎県,2578,ELISE*,宮崎県,0,,-
 SPADA,Recollection,0,,-,0,,-,1726,FBI,宮崎県,2202,NAO.T,宮崎県,0,,-
 SPADA,rainbow guitar weeps,0,,-,0,,-,1375,NAGA*T,宮崎県,2540,ELISE*,宮崎県,0,,-
-SPADA,ra'am,0,,-,1020,RAIHA,宮崎県,1664,ARIA-P,宮崎県,2212,ARIA-P,宮崎県,0,,-
+SPADA,ra'am,0,,-,1020,RAIHA,宮崎県,1664,ARIA-P,宮崎県,2214,ELISE*,宮崎県,0,,-
 SPADA,PUNISHER,0,,-,0,,-,938,HIRUNO,宮崎県,3168,ELISE*,宮崎県,0,,-
 SPADA,Pharaoh,0,,-,307,YUKI!?,宮崎県,1212,RAIHA,宮崎県,2308,III.,宮崎県,0,,-
 SPADA,Overload Frontier,0,,-,532,RYU,宮崎県,1374,RAIHA,宮崎県,2125,CARREY,宮崎県,0,,-
@@ -918,7 +918,7 @@ copula,Inner Spirit,0,,-,0,,-,1573,KATU,宮崎県,2636,NRHD.R,宮崎県,0,,-
 copula,Highcharge Divolt,0,,-,754,RIDER1,宮崎県,1623,CLR-SM,宮崎県,2491,ELISE*,宮崎県,0,,-
 copula,Grand Chariot,0,,-,1047,RIDER1,宮崎県,1517,RAIHA,宮崎県,3159,NAO.T,宮崎県,0,,-
 copula,Godspeed,0,,-,898,ATL4N,宮崎県,1720,YP-10X,宮崎県,2852,NAO.T,宮崎県,0,,-
-copula,GOBBLE,0,,-,410,RIDER1,宮崎県,583,KATU,宮崎県,1355,CLR-SM,宮崎県,0,,-
+copula,GOBBLE,0,,-,410,RIDER1,宮崎県,583,KATU,宮崎県,1461,ISLAY,宮崎県,0,,-
 copula,Go Faraway,0,,-,892,ZACCO,宮崎県,1110,ZACCO,宮崎県,2385,ELISE*,宮崎県,0,,-
 copula,Glitch Nerds,0,,-,554,LIRUKA,宮崎県,845,ELIE3,宮崎県,2009,IIDX27,宮崎県,0,,-
 copula,GENERATE feat.綾倉盟,0,,-,0,,-,1564,!,宮崎県,2262,ELISE*,宮崎県,0,,-
@@ -1011,7 +1011,7 @@ SINOBUZ,HADES,354,4SE1.3,宮崎県,784,BYAKKO,宮崎県,1592,4SE1.3,宮崎県,27
 SINOBUZ,GuNGNiR,0,,-,1224,4SE1.3,宮崎県,2288,TOGETU,宮崎県,3555,NAO.T,宮崎県,0,,-
 SINOBUZ,Go Ahead!!,0,,-,725,AC,宮崎県,1433,IIDX27,宮崎県,2368,NAO.T,宮崎県,0,,-
 SINOBUZ,FUZIN RIZIN,0,,-,673,LIRUKA,宮崎県,1847,RYOTA,宮崎県,3354,ELISE*,宮崎県,0,,-
-SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,0,,-,937,RIDER1,宮崎県,1442,123,宮崎県,0,,-
+SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,229,TSUBAA,宮崎県,937,RIDER1,宮崎県,1442,123,宮崎県,0,,-
 SINOBUZ,Egret and Willow,0,,-,0,,-,1349,01,宮崎県,2375,NDASPE,宮崎県,0,,-
 SINOBUZ,ECHIDNA,0,,-,733,ASK,宮崎県,1876,NANA-4,宮崎県,3020,NIOH2,宮崎県,0,,-
 SINOBUZ,DORNWALD ～Junge～,0,,-,1124,RIDER1,宮崎県,2075,FBI,宮崎県,3370,NAO.T,宮崎県,0,,-
@@ -1068,7 +1068,7 @@ CANNON BALLERS,Sleepless days,0,,-,332,YUKI!?,宮崎県,826,KATU,宮崎県,1560,
 CANNON BALLERS,SHOX,0,,-,588,AA4,宮崎県,987,KATU,宮崎県,1428,NDASPE,宮崎県,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,923,FIA,宮崎県,1216,SKM,宮崎県,2063,COBOL,宮崎県,0,,-
 CANNON BALLERS,Raspberry Railgun,0,,-,959,LOUVR.,宮崎県,1961,NDASPE,宮崎県,2975,AZURA4,宮崎県,0,,-
-CANNON BALLERS,Rampage,0,,-,1055,SAMI-,宮崎県,2314,SEKIRA,宮崎県,3489,NAO.T,宮崎県,0,,-
+CANNON BALLERS,Rampage,0,,-,1133,SAMI-,宮崎県,2314,SEKIRA,宮崎県,3489,NAO.T,宮崎県,0,,-
 CANNON BALLERS,Persephone,0,,-,435,K3333O,宮崎県,1611,RYO.P,宮崎県,2735,ELISE*,宮崎県,0,,-
 CANNON BALLERS,Papilio ulysses,0,,-,1106,AC,宮崎県,1865,LEAFA,宮崎県,2563,NAO.T,宮崎県,0,,-
 CANNON BALLERS,Only for now,0,,-,0,,-,1319,ZACCO,宮崎県,2165,ELISE*,宮崎県,0,,-
@@ -1205,7 +1205,7 @@ Rootage,DRUNK MONKY,0,,-,497,IKAROS,宮崎県,1453,NANA-4,宮崎県,2082,AZURA4,
 Rootage,Drastic Dramatic,0,,-,734,IKAROS,宮崎県,2168,NANA-4,宮崎県,3289,NAO.T,宮崎県,0,,-
 Rootage,Dr. Chemical & Killing Machine,0,,-,789,BYAKKO,宮崎県,1659,NDASPE,宮崎県,3181,NAO.T,宮崎県,0,,-
 Rootage,Digital Skipper,0,,-,853,RIDER1,宮崎県,1187,T-R-N,宮崎県,2123,ELISE*,宮崎県,0,,-
-Rootage,dAuntl3ss,0,,-,941,ZACCO,宮崎県,1639,417,宮崎県,3194,NIOH2,宮崎県,0,,-
+Rootage,dAuntl3ss,0,,-,941,ZACCO,宮崎県,1644,417,宮崎県,3194,NIOH2,宮崎県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,725,BYAKKO,宮崎県,1228,AC,宮崎県,2268,ELISE*,宮崎県,0,,-
 Rootage,CoMAAAAAAA,0,,-,0,,-,1870,NDASPE,宮崎県,2313,ELISE*,宮崎県,0,,-
 Rootage,CODE:0,0,,-,0,,-,1886,4SE1.3,宮崎県,2667,NAO.T,宮崎県,0,,-

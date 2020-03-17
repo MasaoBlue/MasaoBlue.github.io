@@ -44,7 +44,7 @@
 4th style,HIGHER,0,,-,516,A,佐賀県,0,,-,1232,AMT*25,佐賀県,0,,-
 4th style,FLOWERS for ALBION,0,,-,227,A,佐賀県,415,ADA.W,佐賀県,0,,-,0,,-
 4th style,era (step mix),0,,-,0,,-,1368,ADA.W,佐賀県,1556,SARA.Y,佐賀県,0,,-
-4th style,empathy,0,,-,0,,-,1012,R.A.C,佐賀県,1250,E.CH4N,佐賀県,0,,-
+4th style,empathy,0,,-,0,,-,1178,A,佐賀県,1250,E.CH4N,佐賀県,0,,-
 4th style,DXY!,0,,-,784,KA,佐賀県,1665,*32*,佐賀県,1873,MO84PW,佐賀県,0,,-
 4th style,Clione,0,,-,0,,-,694,KA,佐賀県,1540,SANKON,佐賀県,2013,SANKON,佐賀県
 4th style,CHECKING YOU OUT,0,,-,536,A,佐賀県,629,T.Y,佐賀県,1264,FUJIKI,佐賀県,0,,-
@@ -53,7 +53,7 @@
 4th style,B4U,0,,-,699,FLAME,佐賀県,1375,32-SAN,佐賀県,1890,AUD*25,佐賀県,0,,-
 4th style,ABSOLUTE,0,,-,1013,KA,佐賀県,1677,*32*,佐賀県,2259,MO84PW,佐賀県,2581,SANKON,佐賀県
 4th style,250bpm,0,,-,0,,-,849,YU-RY,佐賀県,1195,MAFIOS,佐賀県,0,,-
-5th style,V,318,AMT*25,佐賀県,759,AYA.,佐賀県,2440,AUD*25,佐賀県,2913,FUJIKI,佐賀県,0,,-
+5th style,V,318,AMT*25,佐賀県,786,PEKO,佐賀県,2440,AUD*25,佐賀県,2913,FUJIKI,佐賀県,0,,-
 5th style,THE SHINING POLARIS,0,,-,0,,-,0,,-,1528,ADA.W,佐賀県,0,,-
 5th style,THE CUBE,0,,-,0,,-,1171,ECO.G,佐賀県,1272,AMT*25,佐賀県,0,,-
 5th style,sync,0,,-,1003,WIZU,佐賀県,1399,T.Y,佐賀県,2168,AMT*25,佐賀県,0,,-
@@ -204,7 +204,7 @@
 10th style,1st Samurai,0,,-,807,NYASY,佐賀県,0,,-,2498,SANKON,佐賀県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,832,ZAI777,佐賀県,1100,TETSU,佐賀県,1915,AMT*25,佐賀県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,619,FLAME,佐賀県,990,T.Y,佐賀県,1665,AUD*25,佐賀県,0,,-
-IIDX RED,大桟橋,0,,-,0,,-,887,R.A.C,佐賀県,1732,ADA.W,佐賀県,0,,-
+IIDX RED,大桟橋,0,,-,432,A,佐賀県,887,R.A.C,佐賀県,1732,ADA.W,佐賀県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,636,KA,佐賀県,2026,SAGE.M,佐賀県,2387,ZAP.,佐賀県,0,,-
 IIDX RED,Wonder Bullfighter,0,,-,0,,-,853,NAYUTA,佐賀県,1911,FUJIKI,佐賀県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,726,NAYUTA,佐賀県,1133,T.Y,佐賀県,1897,FUJIKI,佐賀県,0,,-
@@ -286,7 +286,7 @@ DistorteD,カゴノトリ～弐式～,0,,-,769,NAYUTA,佐賀県,1671,EV.324,佐�
 DistorteD,Zenius -I- vanisher,0,,-,0,,-,1403,97....,佐賀県,2286,FUJIKI,佐賀県,0,,-
 DistorteD,with you…,0,,-,0,,-,0,,-,1723,AUD*25,佐賀県,0,,-
 DistorteD,WISH(EUROBEAT MIX),0,,-,0,,-,1562,ADA.W,佐賀県,1907,AUD*25,佐賀県,0,,-
-DistorteD,Why did you go away,619,AMT*25,佐賀県,0,,-,1653,32-SAN,佐賀県,2215,AUD*25,佐賀県,0,,-
+DistorteD,Why did you go away,619,AMT*25,佐賀県,646,PEKO,佐賀県,1653,32-SAN,佐賀県,2215,AUD*25,佐賀県,0,,-
 DistorteD,waxing and wanding,0,,-,1295,ADA.W,佐賀県,1950,EV.324,佐賀県,2804,SANKON,佐賀県,3728,SANKON,佐賀県
 DistorteD,TYPE MARS(G-Style Mix),0,,-,0,,-,1455,WIZU,佐賀県,2215,ZAP.,佐賀県,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,933,KA,佐賀県,1677,ACTY-7,佐賀県,2343,SANKON,佐賀県,0,,-
@@ -393,7 +393,7 @@ DJ TROOPERS,in the Sky,0,,-,1313,A,佐賀県,2075,ADA.W,佐賀県,2478,FUJIKI,�
 DJ TROOPERS,ICARUS,0,,-,1105,A,佐賀県,1870,MO84PW,佐賀県,2216,SANKON,佐賀県,3052,GAMMA#,佐賀県
 DJ TROOPERS,Freeway Shuffle,329,AMT*25,佐賀県,0,,-,1140,*32*,佐賀県,1733,AMT*25,佐賀県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,507,MILES,佐賀県,1598,RA,佐賀県,2060,SANKON,佐賀県,0,,-
-DJ TROOPERS,evergreen,0,,-,0,,-,863,NAYUTA,佐賀県,1893,SAGE.M,佐賀県,0,,-
+DJ TROOPERS,evergreen,0,,-,0,,-,1238,A,佐賀県,1893,SAGE.M,佐賀県,0,,-
 DJ TROOPERS,end of world,0,,-,791,KA,佐賀県,1405,T.M.,佐賀県,2228,AMT*25,佐賀県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,865,GOGO!,佐賀県,1055,WIZU,佐賀県,1843,FUJIKI,佐賀県,0,,-
 DJ TROOPERS,Digitank System,0,,-,671,KA,佐賀県,1427,EV.324,佐賀県,1941,FUJIKI,佐賀県,0,,-
@@ -430,7 +430,7 @@ EMPRESS,NΦ CRIME,285,AMT*25,佐賀県,0,,-,0,,-,1847,ZAP.,佐賀県,0,,-
 EMPRESS,neogenesis,0,,-,0,,-,1045,NAYUTA,佐賀県,1635,SHO,佐賀県,0,,-
 EMPRESS,naughty girl@Queen's Palace,0,,-,0,,-,1499,E.CH4N,佐賀県,2057,FUJIKI,佐賀県,2455,SANKON,佐賀県
 EMPRESS,Monkey Dance '09,0,,-,0,,-,1493,97....,佐賀県,2017,KOUCYA,佐賀県,0,,-
-EMPRESS,Mind Mapping,488,AMT*25,佐賀県,493,ICE,佐賀県,935,NAYUTA,佐賀県,1713,YAKI29,佐賀県,0,,-
+EMPRESS,Mind Mapping,488,AMT*25,佐賀県,493,ICE,佐賀県,935,NAYUTA,佐賀県,1738,AUD*25,佐賀県,0,,-
 EMPRESS,Kung-fu Empire,0,,-,1276,KEI,佐賀県,2480,SHO,佐賀県,3039,SANKON,佐賀県,3608,SANKON,佐賀県
 EMPRESS,Just a Little Smile,0,,-,0,,-,1238,ACTY-7,佐賀県,2371,FUJIKI,佐賀県,0,,-
 EMPRESS,Jack,0,,-,0,,-,1252,YU-RY,佐賀県,2063,CL,佐賀県,0,,-
@@ -475,7 +475,7 @@ SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1154,WIZU,佐�
 SIRIUS,mosaic,0,,-,1456,ADA.W,佐賀県,2035,EV.324,佐賀県,2958,EV.324,佐賀県,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,666,AYA.,佐賀県,1526,MAFIOS,佐賀県,2138,SANKON,佐賀県,0,,-
 SIRIUS,Light Shine,0,,-,688,TOYS,佐賀県,961,SOUMA,佐賀県,1925,SAGE.M,佐賀県,0,,-
-SIRIUS,Last Burning,0,,-,0,,-,0,,-,2070,NOBARA,佐賀県,0,,-
+SIRIUS,Last Burning,0,,-,0,,-,0,,-,2194,AMT*25,佐賀県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,0,,-,1273,R.A.C,佐賀県,1762,YAKI29,佐賀県,0,,-
 SIRIUS,IN THE NAME OF LOVE,528,AMT*25,佐賀県,382,GOSSON,佐賀県,0,,-,1892,SAGE.M,佐賀県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,0,,-,1595,E.CH4N,佐賀県,2163,SAGE.P,佐賀県,0,,-
@@ -508,7 +508,7 @@ Resort Anthem,旅人リラン,0,,-,930,KA,佐賀県,1895,ADA.W,佐賀県,2454,SA
 Resort Anthem,夕焼け ～Fading Day～,0,,-,574,NYASY,佐賀県,1571,E.CH4N,佐賀県,2632,SANKON,佐賀県,0,,-
 Resort Anthem,中華急行,0,,-,321,A,佐賀県,1494,EV.324,佐賀県,2262,FUJIKI,佐賀県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,489,AMT*25,佐賀県,0,,-,0,,-,1756,AMT*25,佐賀県,0,,-
-Resort Anthem,おおきなこえで,0,,-,254,KORONA,佐賀県,708,FLAME,佐賀県,1364,GOGO!,佐賀県,2028,EV.324,佐賀県
+Resort Anthem,おおきなこえで,0,,-,437,A,佐賀県,708,FLAME,佐賀県,1364,GOGO!,佐賀県,2028,EV.324,佐賀県
 Resort Anthem,ZETA～素数の世界と超越者～,304,AMT*25,佐賀県,231,MOYO,佐賀県,1987,SARA.Y,佐賀県,2970,SANKON,佐賀県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,704,PEKO,佐賀県,1673,EV.324,佐賀県,2670,ZAP.,佐賀県,0,,-
 Resort Anthem,Wuv U,0,,-,401,A,佐賀県,1004,T.Y,佐賀県,1540,A*N*I3,佐賀県,0,,-
@@ -541,7 +541,7 @@ Resort Anthem,Kailua,0,,-,413,KA,佐賀県,1307,SARA.Y,佐賀県,2016,VROTM,佐�
 Resort Anthem,I FIGHT ME,0,,-,606,A,佐賀県,1218,A--DA-,佐賀県,2075,AUD*25,佐賀県,0,,-
 Resort Anthem,Golden Palms,0,,-,0,,-,1338,EV.324,佐賀県,1869,ADA.W,佐賀県,2273,SANKON,佐賀県
 Resort Anthem,Fantasia,227,OI-TAN,佐賀県,394,A,佐賀県,1485,SARA.Y,佐賀県,2213,AUD*25,佐賀県,0,,-
-Resort Anthem,Everlasting Resort,0,,-,0,,-,771,NAYUTA,佐賀県,1849,SAGE.M,佐賀県,0,,-
+Resort Anthem,Everlasting Resort,0,,-,0,,-,1229,A,佐賀県,1849,SAGE.M,佐賀県,0,,-
 Resort Anthem,Eternal Tears,0,,-,413,A,佐賀県,0,,-,1333,AUD*25,佐賀県,0,,-
 Resort Anthem,Energy Drive,0,,-,647,KA,佐賀県,1134,O*CHA,佐賀県,2112,SANKON,佐賀県,0,,-
 Resort Anthem,ELECTRIC MASSIVE DIVER,0,,-,918,TETSU,佐賀県,2090,ACTY-7,佐賀県,3616,FUJIKI,佐賀県,0,,-
@@ -613,7 +613,7 @@ Lincle,fffff,0,,-,618,KORONA,佐賀県,1685,HAL,佐賀県,2849,SAGE.M,佐賀県,
 Lincle,Far east nightbird,339,AMT*25,佐賀県,520,A,佐賀県,1204,97....,佐賀県,1965,SAGE.M,佐賀県,0,,-
 Lincle,F,0,,-,736,NYASY,佐賀県,2056,YAKI29,佐賀県,3355,SAGE.M,佐賀県,0,,-
 Lincle,Express Emotion,0,,-,605,FLAME,佐賀県,973,97....,佐賀県,2433,FUJIKI,佐賀県,0,,-
-Lincle,Drive Me Crazy,0,,-,0,,-,1339,A,佐賀県,2243,AUD*25,佐賀県,0,,-
+Lincle,Drive Me Crazy,0,,-,0,,-,1343,A,佐賀県,2243,AUD*25,佐賀県,0,,-
 Lincle,DIAVOLO,0,,-,1065,TETSU,佐賀県,1763,YAKI29,佐賀県,2751,SANKON,佐賀県,0,,-
 Lincle,Change the World,0,,-,602,KORONA,佐賀県,1336,A,佐賀県,1779,FUJIKI,佐賀県,0,,-
 Lincle,Castle on the Moon,232,AMT*25,佐賀県,311,ERICA,佐賀県,1366,KELVIN,佐賀県,2254,SANKON,佐賀県,0,,-
@@ -995,7 +995,7 @@ SINOBUZ,RAIN,0,,-,1038,YU-RY,佐賀県,1667,SARA.Y,佐賀県,3044,ZAP.,佐賀県
 SINOBUZ,Quakes,0,,-,1023,97....,佐賀県,1928,RA,佐賀県,2800,SANKON,佐賀県,0,,-
 SINOBUZ,Piano Samurai,0,,-,0,,-,1475,KELVIN,佐賀県,2318,SHO,佐賀県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,548,KORONA,佐賀県,1492,E.CH4N,佐賀県,2652,SANKON,佐賀県,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,813,PONSK!,佐賀県,1979,*32*,佐賀県,2852,SANKON,佐賀県,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,903,ISUKA,佐賀県,1979,*32*,佐賀県,2852,SANKON,佐賀県,0,,-
 SINOBUZ,OOO,0,,-,678,A,佐賀県,1138,NAYUTA,佐賀県,2027,FUJIKI,佐賀県,0,,-
 SINOBUZ,nostos,0,,-,0,,-,857,T.Y,佐賀県,2345,SANKON,佐賀県,0,,-
 SINOBUZ,Music is The Answer,0,,-,0,,-,1302,32-SAN,佐賀県,1734,ZAP.,佐賀県,0,,-
@@ -1063,7 +1063,7 @@ CANNON BALLERS,STARLIGHT JUNCTION,0,,-,0,,-,1219,KYOUKA,佐賀県,2221,SAGE.M,�
 CANNON BALLERS,SPEED DEMON,0,,-,551,PEKO,佐賀県,1319,E.CH4N,佐賀県,1907,DA104,佐賀県,0,,-
 CANNON BALLERS,SPEED,0,,-,605,PEKO,佐賀県,1383,YU-RY,佐賀県,2191,EKA-,佐賀県,0,,-
 CANNON BALLERS,"Son, not gabba now",0,,-,636,TAKA,佐賀県,1418,E.CH4N,佐賀県,2204,EV.324,佐賀県,0,,-
-CANNON BALLERS,Slipstream,0,,-,1011,SATUKI,佐賀県,1750,JC3*25,佐賀県,3226,SANKON,佐賀県,0,,-
+CANNON BALLERS,Slipstream,0,,-,1011,SATUKI,佐賀県,1750,JC3*25,佐賀県,3240,SANKON,佐賀県,0,,-
 CANNON BALLERS,Sleepless days,0,,-,468,TKY,佐賀県,852,WIZU,佐賀県,1560,EV.324,佐賀県,0,,-
 CANNON BALLERS,SHOX,0,,-,354,TAKA,佐賀県,1088,ECO.G,佐賀県,1548,KOUCYA,佐賀県,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,614,PONSK!,佐賀県,1440,E.CH4N,佐賀県,2143,AMT*25,佐賀県,0,,-
@@ -1102,9 +1102,9 @@ CANNON BALLERS,Exhaust Hype,0,,-,776,PONSK!,佐賀県,1789,E.CH4N,佐賀県,2662
 CANNON BALLERS,encounter,0,,-,966,HIRO.F,佐賀県,1644,E.CH4N,佐賀県,3017,SANKON,佐賀県,0,,-
 CANNON BALLERS,EMERALDAS,0,,-,1263,A,佐賀県,2242,SANKON,佐賀県,3014,SANKON,佐賀県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,665,TAKA,佐賀県,1357,ECO.G,佐賀県,2404,ZAP.,佐賀県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1328,ACTY-7,佐賀県,2158,SARA.Y,佐賀県,3507,SANKON,佐賀県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1328,ACTY-7,佐賀県,2158,SARA.Y,佐賀県,3539,SANKON,佐賀県,0,,-
 CANNON BALLERS,DEADHEAT,0,,-,972,KA,佐賀県,1879,SARA.Y,佐賀県,3041,SANKON,佐賀県,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,0,,-,1324,A,佐賀県,2024,MAFIOS,佐賀県,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,0,,-,1356,A,佐賀県,2024,MAFIOS,佐賀県,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1204,A,佐賀県,1708,ECO.G,佐賀県,2532,SANKON,佐賀県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,679,TOKEY*,佐賀県,1359,EV.324,佐賀県,2013,SANKON,佐賀県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,847,KA,佐賀県,1639,GOGO!,佐賀県,2602,SANKON,佐賀県,0,,-
@@ -1202,7 +1202,7 @@ Rootage,Garuda,0,,-,0,,-,1389,YU-RY,佐賀県,2485,FUJIKI,佐賀県,0,,-
 Rootage,EVANESCENT,0,,-,0,,-,1652,TOKEY*,佐賀県,3251,ZAP.,佐賀県,0,,-
 Rootage,Ember Lights,0,,-,914,97....,佐賀県,1574,SANKON,佐賀県,2638,FUJIKI,佐賀県,0,,-
 Rootage,DRUNK MONKY,0,,-,273,PONSK!,佐賀県,1103,KYOUKA,佐賀県,2097,SANKON,佐賀県,0,,-
-Rootage,Drastic Dramatic,0,,-,0,,-,2199,SARA.Y,佐賀県,3251,VROTM,佐賀県,0,,-
+Rootage,Drastic Dramatic,0,,-,0,,-,2199,SARA.Y,佐賀県,3261,SANKON,佐賀県,0,,-
 Rootage,Dr. Chemical & Killing Machine,0,,-,0,,-,1666,E.CH4N,佐賀県,3116,FUJIKI,佐賀県,0,,-
 Rootage,Digital Skipper,0,,-,931,E.CH4N,佐賀県,1187,YU-RY,佐賀県,2085,SHO,佐賀県,0,,-
 Rootage,dAuntl3ss,0,,-,855,JACK,佐賀県,1854,SARA.Y,佐賀県,3256,FUJIKI,佐賀県,0,,-
