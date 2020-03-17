@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,683,L.I.J,岩手県,985,ARCHE,岩手県,1106,370?,岩手県,0,,-
-1st&substream,RUGGED ASH,0,,-,208,MIKAN,岩手県,393,NORIDA,岩手県,998,5ON0D4,岩手県,1923,TABI,岩手県
+1st&substream,RUGGED ASH,0,,-,208,MIKAN,岩手県,393,NORIDA,岩手県,1053,370?,岩手県,1923,TABI,岩手県
 1st&substream,R3,0,,-,294,SHINY,岩手県,669,ST,岩手県,872,110.,岩手県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,373,PARURU,岩手県,542,PARURU,岩手県,1070,T-800,岩手県,0,,-
 1st&substream,Macho Gang,0,,-,338,RIGIN,岩手県,800,SHIMO,岩手県,1580,SHIVA.,岩手県,0,,-
@@ -48,7 +48,7 @@
 4th style,DXY!,0,,-,947,L.I.J,岩手県,1419,DONKEY,岩手県,2100,370?,岩手県,0,,-
 4th style,Clione,0,,-,505,T1NTIN,岩手県,656,SHINY,岩手県,1548,NU.9RA,岩手県,2168,DOLCE.,岩手県
 4th style,CHECKING YOU OUT,0,,-,654,110.,岩手県,888,110.,岩手県,1284,110.,岩手県,0,,-
-4th style,Burnin' The Floor,0,,-,370,ALIKA,岩手県,574,ALIKA,岩手県,1403,110.,岩手県,0,,-
+4th style,Burnin' The Floor,0,,-,370,ALIKA,岩手県,574,ALIKA,岩手県,1416,370?,岩手県,0,,-
 4th style,Broken My Heart,0,,-,896,ARCHE,岩手県,1412,ARCHE,岩手県,1780,SHIVA.,岩手県,0,,-
 4th style,B4U,0,,-,651,SUSUMU,岩手県,1425,ARCHE,岩手県,1914,.YUT,岩手県,0,,-
 4th style,ABSOLUTE,0,,-,1269,ARCHE,岩手県,1519,MIZUKI,岩手県,2283,DAIDA,岩手県,2774,DOLCE.,岩手県
@@ -69,7 +69,7 @@
 5th style,outer wall,0,,-,0,,-,1225,ARCHE,岩手県,1628,110.,岩手県,0,,-
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,458,NYMPS,岩手県,279,NYMPS,岩手県,1102,PINK.,岩手県,0,,-
 5th style,in my eyes,0,,-,906,ARCHE,岩手県,0,,-,1503,110.,岩手県,0,,-
-5th style,Abyss,0,,-,782,SHINY,岩手県,1505,2434*,岩手県,1852,SHIVA.,岩手県,0,,-
+5th style,Abyss,0,,-,832,LOWGUY,岩手県,1505,2434*,岩手県,1852,SHIVA.,岩手県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,600,MB,岩手県,1501,110.,岩手県,0,,-,0,,-
 6th style,こっちを向いてよ,0,,-,802,T1NTIN,岩手県,966,IRORIN,岩手県,1351,DAIDA,岩手県,0,,-
 6th style,VJ ARMY,0,,-,1168,ARCHE,岩手県,1578,N-HARD,岩手県,1987,YARITA,岩手県,0,,-
@@ -94,8 +94,8 @@
 7th style,ZERO-ONE,0,,-,935,MSN006,岩手県,1293,EMIRU,岩手県,2153,DAIDA,岩手県,0,,-
 7th style,traces,0,,-,1147,KIAI,岩手県,1697,ARCHE,岩手県,2132,DOLCE.,岩手県,0,,-
 7th style,Tomorrow Perfume,0,,-,1117,KIAI,岩手県,1702,S.C!TY,岩手県,2017,370?,岩手県,0,,-
-7th style,stoic,0,,-,1609,.YUT,岩手県,2145,PINK.,岩手県,2456,DAIDA,岩手県,0,,-
-7th style,Spica,0,,-,362,MASY22,岩手県,1337,DONKEY,岩手県,2107,38O38,岩手県,0,,-
+7th style,stoic,0,,-,1609,.YUT,岩手県,2145,PINK.,岩手県,2561,DOLCE.,岩手県,0,,-
+7th style,Spica,0,,-,474,LOWGUY,岩手県,1337,DONKEY,岩手県,2107,38O38,岩手県,0,,-
 7th style,Love Me Do,0,,-,0,,-,1537,2434*,岩手県,2111,SHIVA.,岩手県,0,,-
 7th style,Let the Snow Paint Me,0,,-,0,,-,0,,-,1184,WHITE.,岩手県,0,,-
 7th style,Last Message,0,,-,488,NYMPS,岩手県,1076,YU-KI,岩手県,1606,DOLCE.,岩手県,0,,-
@@ -103,7 +103,7 @@
 7th style,Glorious Days,0,,-,259,KOOOOO,岩手県,369,MIKAN,岩手県,865,110.,岩手県,0,,-
 7th style,foreplay,0,,-,187,SESILU,岩手県,928,ISB,岩手県,1167,5ON0D4,岩手県,0,,-
 7th style,DESTINY,0,,-,981,ARCHE,岩手県,1189,KIAI,岩手県,1804,SHIVA.,岩手県,0,,-
-7th style,D2R,0,,-,377,SHINY,岩手県,1181,ARCHE,岩手県,1617,SHIVA.,岩手県,0,,-
+7th style,D2R,0,,-,456,SHINY,岩手県,1181,ARCHE,岩手県,1617,SHIVA.,岩手県,0,,-
 7th style,Cheer Train,0,,-,778,NIGORI,岩手県,768,SUSUMU,岩手県,1638,110.,岩手県,0,,-
 7th style,Burning Heat! (Full Option Mix),0,,-,465,ALIKA,岩手県,663,HOYAKO,岩手県,1427,DAIDA,岩手県,0,,-
 7th style,Bad Routine,0,,-,981,ARCHE,岩手県,1217,KIAI,岩手県,1835,370?,岩手県,0,,-
@@ -122,13 +122,13 @@
 8th style,MUSIC TO YOUR HEAD,0,,-,0,,-,1056,L.I.J,岩手県,1658,SHIVA.,岩手県,0,,-
 8th style,murmur twins,0,,-,0,,-,1522,MSK,岩手県,2282,TABI,岩手県,0,,-
 8th style,Monkey Dance,0,,-,0,,-,1229,ARCHE,岩手県,1820,110.,岩手県,0,,-
-8th style,memories,0,,-,1062,MASX2.,岩手県,1725,KIAI,岩手県,2137,110.,岩手県,0,,-
+8th style,memories,0,,-,1062,MASX2.,岩手県,1816,ARCHE,岩手県,2137,110.,岩手県,0,,-
 8th style,Luv 2 Feel Your Body,0,,-,729,IRORIN,岩手県,920,KIAI,岩手県,1504,370?,岩手県,0,,-
 8th style,LOVE IS ORANGE,0,,-,596,FUMINO,岩手県,0,,-,1763,277,岩手県,0,,-
 8th style,LAB,0,,-,0,,-,1779,DONKEY,岩手県,2127,DOLCE.,岩手県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1154,KIAI,岩手県,1717,YZK,岩手県,2061,ELMA,岩手県,0,,-
 8th style,Halfway of promise,0,,-,892,ARGON,岩手県,1381,S.C!TY,岩手県,1846,DOLCE.,岩手県,0,,-
-8th style,Giudecca,0,,-,0,,-,1653,ARCHE,岩手県,2716,DOLCE.,岩手県,0,,-
+8th style,Giudecca,0,,-,345,LOWGUY,岩手県,1653,ARCHE,岩手県,2716,DOLCE.,岩手県,0,,-
 8th style,dual control,0,,-,0,,-,914,HOYAKO,岩手県,1767,TABI,岩手県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,976,MSN006,岩手県,1845,ARCHE,岩手県,2102,DAIDA,岩手県,0,,-
 8th style,CELEBRATE NITE,0,,-,763,TOMO,岩手県,0,,-,1405,SHIVA.,岩手県,0,,-
@@ -180,10 +180,10 @@
 10th style,pandora,0,,-,0,,-,1186,YU-KI,岩手県,1800,5INKYO,岩手県,0,,-
 10th style,One More Lovely,0,,-,351,NYA,岩手県,1591,PINK.,岩手県,2835,DOLCE.,岩手県,0,,-
 10th style,No.13,0,,-,1495,ARCHE,岩手県,2373,MOW,岩手県,3036,DAIDA,岩手県,0,,-
-10th style,Narcissus At Oasis,0,,-,758,ARCHE,岩手県,1409,SCP-K,岩手県,1595,DAIDA,岩手県,0,,-
+10th style,Narcissus At Oasis,0,,-,758,ARCHE,岩手県,1484,MSK,岩手県,1595,DAIDA,岩手県,0,,-
 10th style,Lucy,0,,-,935,HANABI,岩手県,1624,ARCHE,岩手県,2305,SHIVA.,岩手県,0,,-
 10th style,Love Is Eternity,0,,-,1007,MSN006,岩手県,1338,YU-KI,岩手県,2240,DAIDA,岩手県,0,,-
-10th style,Innocent Walls,0,,-,1434,NILL,岩手県,2369,370?,岩手県,2704,SHIVA.,岩手県,0,,-
+10th style,Innocent Walls,0,,-,1645,370?,岩手県,2385,370?,岩手県,2709,370?,岩手県,0,,-
 10th style,HIGH,0,,-,0,,-,1858,LENLEN,岩手県,2095,LENLEN,岩手県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,486,N4N0,岩手県,1064,ARCHE,岩手県,2032,SHIVA.,岩手県,0,,-
 10th style,GHOST REVIVAL,0,,-,409,MIM,岩手県,1836,ARCHE,岩手県,2425,DAIDA,岩手県,0,,-
@@ -192,7 +192,7 @@
 10th style,Feedback,0,,-,946,KIAI,岩手県,1183,YU-KI,岩手県,1955,DOLCE.,岩手県,0,,-
 10th style,EXE,0,,-,511,ALIKA,岩手県,1467,ARCHE,岩手県,2156,Y.S,岩手県,0,,-
 10th style,DoLL,346,TABI,岩手県,699,TOMO,岩手県,1216,NU.9RA,岩手県,1605,SHIVA.,岩手県,0,,-
-10th style,desolation,0,,-,358,N4N0,岩手県,475,ALIKA,岩手県,729,WHITE.,岩手県,0,,-
+10th style,desolation,0,,-,358,N4N0,岩手県,475,ALIKA,岩手県,749,110.,岩手県,0,,-
 10th style,Debtty Daddy,0,,-,944,KIAI,岩手県,1747,N-01G,岩手県,2639,SHIVA.,岩手県,0,,-
 10th style,Daisuke,466,TABI,岩手県,1065,L.I.J,岩手県,1576,ARCHE,岩手県,2371,SHIVA.,岩手県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,0,,-,1019,IRORIN,岩手県,2011,SHIVA.,岩手県,0,,-
@@ -202,7 +202,7 @@
 10th style,ASTRAL VOYAGE,0,,-,0,,-,1099,IRORIN,岩手県,1787,DAIDA,岩手県,0,,-
 10th style,ALIEN TEMPLE,0,,-,956,ARCHE,岩手県,1423,ARCHE,岩手県,1957,TABI,岩手県,0,,-
 10th style,1st Samurai,0,,-,1027,ARCHE,岩手県,1799,YARITA,岩手県,2557,SHIVA.,岩手県,0,,-
-IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,559,MIM,岩手県,1394,ARCHE,岩手県,1941,GJI,岩手県,0,,-
+IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,559,MIM,岩手県,1394,ARCHE,岩手県,1946,NU.9RA,岩手県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,561,N4N0,岩手県,1026,WDN-2P,岩手県,1647,DAIDA,岩手県,0,,-
 IIDX RED,大桟橋,0,,-,380,IRORIN,岩手県,1050,ARCHE,岩手県,1807,DOLCE.,岩手県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,780,ARCHE,岩手県,1995,NU.9RA,岩手県,2526,SHIVA.,岩手県,0,,-
@@ -245,7 +245,7 @@ HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,0,,-,716,I,岩手県,1613,TABI
 HAPPY SKY,Votum stellarum,0,,-,767,ARCHE,岩手県,1381,ISB,岩手県,1838,ELMA,岩手県,0,,-
 HAPPY SKY,vault of heaven,0,,-,648,TOMO,岩手県,1262,ARCHE,岩手県,1925,DAIDA,岩手県,0,,-
 HAPPY SKY,Under the Sky,0,,-,715,PEABON,岩手県,1323,HANABI,岩手県,1665,TABI,岩手県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,1049,MSN006,岩手県,1406,ARCHE,岩手県,1876,ELMA,岩手県,3102,GJI,岩手県
+HAPPY SKY,Twelfth Style,0,,-,1049,MSN006,岩手県,1406,ARCHE,岩手県,1876,ELMA,岩手県,3311,DOLCE.,岩手県
 HAPPY SKY,Tizona d'El Cid,0,,-,916,ARCHE,岩手県,1407,ANIKI,岩手県,2310,DOLCE.,岩手県,0,,-
 HAPPY SKY,SigSig,668,TABI,岩手県,922,L.I.J,岩手県,1543,ARCHE,岩手県,2514,TABI,岩手県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1166,KIAI,岩手県,1336,LAIN,岩手県,2075,SHIVA.,岩手県,0,,-
@@ -278,7 +278,7 @@ HAPPY SKY,alla turca con passione,0,,-,698,TOMO,岩手県,1316,SHIMO,岩手県,2
 HAPPY SKY,Agnus Dei,0,,-,634,KOUYA,岩手県,1316,ISB,岩手県,2006,NU.9RA,岩手県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,0,,-,1523,N-HARD,岩手県,1711,SHIVA.,岩手県,0,,-
 DistorteD,虹色,0,,-,596,PARURU,岩手県,1468,ARCHE,岩手県,1802,DAIDA,岩手県,0,,-
-DistorteD,華蝶風雪,0,,-,1015,TOMO,岩手県,2076,NU.9RA,岩手県,2938,SHIVA.,岩手県,0,,-
+DistorteD,華蝶風雪,0,,-,1015,TOMO,岩手県,2076,NU.9RA,岩手県,2972,DOLCE.,岩手県,0,,-
 DistorteD,罠,0,,-,205,IIDX27,岩手県,1445,ARCHE,岩手県,2388,110.,岩手県,0,,-
 DistorteD,嘆きの樹,0,,-,1697,HANABI,岩手県,2279,DAIDA,岩手県,3861,DOLCE.,岩手県,0,,-
 DistorteD,タシカナモノ,0,,-,875,MSN006,岩手県,1155,K*4ON,岩手県,1987,TABI,岩手県,0,,-
@@ -304,19 +304,19 @@ DistorteD,Heavenly Sun (IIDX VERSION),0,,-,699,MSN006,岩手県,1306,KIAI,岩手
 DistorteD,Harmony and Lovely,0,,-,411,NYA,岩手県,1592,ARCHE,岩手県,2138,GJI,岩手県,0,,-
 DistorteD,Ganymede,0,,-,927,MSN006,岩手県,1546,ARCHE,岩手県,2315,DOLCE.,岩手県,0,,-
 DistorteD,EURO-ROMANCE,0,,-,957,ARCHE,岩手県,1601,614,岩手県,2098,DOLCE.,岩手県,0,,-
-DistorteD,DUE TOMORROW,0,,-,820,ARCHE,岩手県,1229,DONKEY,岩手県,1977,DOLCE.,岩手県,0,,-
+DistorteD,DUE TOMORROW,0,,-,820,ARCHE,岩手県,1229,DONKEY,岩手県,2037,DOLCE.,岩手県,0,,-
 DistorteD,Double Loving Heart,0,,-,490,PEABON,岩手県,1214,KIAI,岩手県,1755,HASSHY,岩手県,0,,-
 DistorteD,D.C.fish,0,,-,164,RIGIN,岩手県,1840,ARCHE,岩手県,2282,TOHOKU,岩手県,0,,-
 DistorteD,CONTRACT,0,,-,1128,DONKEY,岩手県,1436,DONKEY,岩手県,1915,DAIDA,岩手県,2596,GJI,岩手県
 DistorteD,Concertino in Blue,382,TABI,岩手県,788,T1NTIN,岩手県,1561,IIDX27,岩手県,2512,DOLCE.,岩手県,0,,-
 DistorteD,Broadbanded,0,,-,750,MSN006,岩手県,1304,N-HARD,岩手県,1944,370?,岩手県,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,789,PEABON,岩手県,1442,YU-KI,岩手県,2095,ELMA,岩手県,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,789,PEABON,岩手県,1442,YU-KI,岩手県,2117,ELMA,岩手県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1095,ARCHE,岩手県,1815,614,岩手県,2124,DAIDA,岩手県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,611,PEABON,岩手県,0,,-,1422,WAKA*,岩手県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,235,TABI,岩手県,886,KIAI,岩手県,1523,ARCHE,岩手県,2374,DOLCE.,岩手県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,437,TABI,岩手県,938,TOMO,岩手県,1587,STM-G,岩手県,2085,DOLCE.,岩手県,0,,-
 GOLD,電人、暁に斃れる。,664,TABI,岩手県,1420,MOW,岩手県,2147,IIDX27,岩手県,3352,DOLCE.,岩手県,0,,-
-GOLD,零 - ZERO -,217,TABI,岩手県,1148,ARCHE,岩手県,1739,NU.9RA,岩手県,2238,Y.S,岩手県,0,,-
+GOLD,零 - ZERO -,217,TABI,岩手県,1148,ARCHE,岩手県,1741,NU.9RA,岩手県,2238,Y.S,岩手県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,506,PARURU,岩手県,921,YU-KI,岩手県,1371,38O38,岩手県,0,,-
 GOLD,星をこの手に,0,,-,827,SHINY,岩手県,1522,FONZ,岩手県,2003,IIDX27,岩手県,0,,-
 GOLD,リグレット,0,,-,1088,MSN006,岩手県,1441,ANIKI,岩手県,2335,LAYLA,岩手県,0,,-
@@ -352,10 +352,10 @@ GOLD,Fascination MAXX,0,,-,821,DONKEY,岩手県,1579,370?,岩手県,2553,DOLCE.,
 GOLD,Cyber Force,0,,-,1217,ARCHE,岩手県,1679,S.C!TY,岩手県,2261,DESGIN,岩手県,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,1091,ARCHE,岩手県,1711,NU.9RA,岩手県,2183,DOLCE.,岩手県,0,,-
 GOLD,CaptivAte～誓い～,0,,-,1091,IRORIN,岩手県,1729,OWATA,岩手県,2172,TABI,岩手県,0,,-
-GOLD,CaptivAte～裁き～,421,TABI,岩手県,595,TERARI,岩手県,1097,NASNAS,岩手県,1689,IIDX27,岩手県,0,,-
+GOLD,CaptivAte～裁き～,421,TABI,岩手県,595,TERARI,岩手県,1097,NASNAS,岩手県,1700,NU.9RA,岩手県,0,,-
 GOLD,Candy Galy,0,,-,1482,ARCHE,岩手県,2368,IIDX27,岩手県,3402,SHIVA.,岩手県,0,,-
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1248,ARCHE,岩手県,1868,NU.9RA,岩手県,2478,DOLCE.,岩手県,0,,-
-GOLD,ANDROMEDA II,0,,-,516,LOWGUY,岩手県,1535,RAMDA,岩手県,2358,370?,岩手県,0,,-
+GOLD,ANDROMEDA II,0,,-,516,LOWGUY,岩手県,1724,ARCHE,岩手県,2358,370?,岩手県,0,,-
 GOLD,Air Bell,0,,-,0,,-,423,#!#!#!,岩手県,1661,Y.S,岩手県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,491,ARCHE,岩手県,854,T1NTIN,岩手県,1329,TABI,岩手県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,337,TABI,岩手県,844,MSN006,岩手県,1533,HASSHY,岩手県,2058,DOLCE.,岩手県,0,,-
@@ -404,7 +404,7 @@ DJ TROOPERS,beatonic nation,0,,-,0,,-,1535,LAIN,岩手県,2047,Y.S,岩手県,0,,
 DJ TROOPERS,Be OK,0,,-,0,,-,1314,DROCCY,岩手県,2288,Y.S,岩手県,3206,SHIVA.,岩手県
 DJ TROOPERS,avant-guerre,0,,-,661,TOMO,岩手県,1058,KIAI,岩手県,1803,DAIDA,岩手県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1038,TOMO,岩手県,2034,NU.9RA,岩手県,2789,SHIVA.,岩手県,0,,-
-DJ TROOPERS,2 tribe 4 K,0,,-,753,META,岩手県,1133,KIAI,岩手県,2602,LAYLA,岩手県,0,,-
+DJ TROOPERS,2 tribe 4 K,0,,-,753,META,岩手県,1133,KIAI,岩手県,2624,370?,岩手県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,740,BEYER,岩手県,1552,MOW,岩手県,2112,TABI,岩手県,0,,-
 EMPRESS,翼,0,,-,849,2434*,岩手県,1287,MSN006,岩手県,1923,HASSHY,岩手県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,0,,-,960,YUDUKI,岩手県,1926,WAKA*,岩手県,0,,-
@@ -425,18 +425,18 @@ EMPRESS,smooooch・∀・,392,TABI,岩手県,718,TOMO,岩手県,1568,ARCHE,岩�
 EMPRESS,Secrets,0,,-,869,YOUJIN,岩手県,2177,N-01G,岩手県,3086,SHIVA.,岩手県,0,,-
 EMPRESS,Queen's Tragedy,0,,-,427,SG3,岩手県,1240,MIMI,岩手県,2241,DOLCE.,岩手県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,671,MINYAN,岩手県,1609,614,岩手県,2432,GJI,岩手県,0,,-
-EMPRESS,Programmed World,0,,-,740,TOMO,岩手県,1461,RIGIN,岩手県,2191,Y.S,岩手県,0,,-
+EMPRESS,Programmed World,0,,-,740,TOMO,岩手県,1461,RIGIN,岩手県,2217,370?,岩手県,0,,-
 EMPRESS,NΦ CRIME,289,TABI,岩手県,711,TOMO,岩手県,939,KANON*,岩手県,1867,SHIVA.,岩手県,0,,-
 EMPRESS,neogenesis,0,,-,475,NYA,岩手県,1265,HANABI,岩手県,1634,NU.9RA,岩手県,0,,-
 EMPRESS,naughty girl@Queen's Palace,0,,-,802,KIAI,岩手県,1549,MOW,岩手県,2066,SHIVA.,岩手県,2584,SHIVA.,岩手県
 EMPRESS,Monkey Dance '09,0,,-,843,ARCHE,岩手県,1587,N-HARD,岩手県,2191,DAIDA,岩手県,0,,-
 EMPRESS,Mind Mapping,516,TABI,岩手県,573,MONOCA,岩手県,1214,HASSHY,岩手県,1779,370?,岩手県,0,,-
-EMPRESS,Kung-fu Empire,0,,-,0,,-,2406,LENLEN,岩手県,3065,DAIDA,岩手県,3928,DOLCE.,岩手県
+EMPRESS,Kung-fu Empire,0,,-,0,,-,2406,LENLEN,岩手県,3065,DAIDA,岩手県,3975,DOLCE.,岩手県
 EMPRESS,Just a Little Smile,0,,-,0,,-,1228,2434*,岩手県,2453,DOLCE.,岩手県,0,,-
 EMPRESS,Jack,0,,-,898,ARCHE,岩手県,1250,KIAI,岩手県,2111,TABI,岩手県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,426,IIDX27,岩手県,1290,HASSHY,岩手県,1673,370?,岩手県,0,,-
 EMPRESS,HYPERION,0,,-,0,,-,1608,OWATA,岩手県,2651,DAIDA,岩手県,0,,-
-EMPRESS,Go Beyond!!,545,TABI,岩手県,1024,STM-G,岩手県,1537,OMGSIS,岩手県,2101,GJI,岩手県,0,,-
+EMPRESS,Go Beyond!!,545,TABI,岩手県,1024,STM-G,岩手県,1603,NU.9RA,岩手県,2101,GJI,岩手県,0,,-
 EMPRESS,Fly Above,0,,-,887,MSN006,岩手県,1609,HASSHY,岩手県,2025,DOLCE.,岩手県,0,,-
 EMPRESS,Flash Back 90's,0,,-,606,NYA,岩手県,1702,ARCHE,岩手県,2340,DOLCE.,岩手県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,1042,MASX2.,岩手県,1799,38O38,岩手県,2370,HASSHY,岩手県,0,,-
@@ -466,7 +466,7 @@ SIRIUS,SOLID STATE SQUAD,0,,-,889,KIAI,岩手県,2139,IIDX27,岩手県,3386,GJI,
 SIRIUS,She is my wife,426,TABI,岩手県,572,L.I.J,岩手県,1177,ISB,岩手県,1911,GJI,岩手県,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,870,ARCHE,岩手県,1432,S.C!TY,岩手県,2385,GJI,岩手県,0,,-
 SIRIUS,Roots of my way!,0,,-,442,KST,岩手県,1218,HANABI,岩手県,1991,TABI,岩手県,0,,-
-SIRIUS,Red. by Full Metal Jacket,0,,-,895,KIAI,岩手県,1953,110.,岩手県,3244,DOLCE.,岩手県,0,,-
+SIRIUS,Red. by Full Metal Jacket,0,,-,895,KIAI,岩手県,1959,110.,岩手県,3244,DOLCE.,岩手県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,1151,ARCHE,岩手県,2103,WHITE.,岩手県,2652,GJI,岩手県,0,,-
 SIRIUS,quell～the seventh slave～,0,,-,348,SESILU,岩手県,1596,MILIN,岩手県,2994,GJI,岩手県,0,,-
 SIRIUS,Programmed Sun,0,,-,1030,T1NTIN,岩手県,1712,PINK.,岩手県,2413,DAIDA,岩手県,0,,-
@@ -482,12 +482,12 @@ SIRIUS,Hydrogen Blueback,0,,-,676,TANBO,岩手県,1589,ARCHE,岩手県,2214,370?
 SIRIUS,GOLDEN CROSS,0,,-,961,TOMO,岩手県,1861,ARCHE,岩手県,3254,TABI,岩手県,0,,-
 SIRIUS,GALGALIM,0,,-,0,,-,1829,277,岩手県,2153,ELMA,岩手県,0,,-
 SIRIUS,G59,0,,-,1691,DONKEY,岩手県,2174,277,岩手県,3727,GJI,岩手県,0,,-
-SIRIUS,EXUSIA,0,,-,946,TOMO,岩手県,2315,FLAPPY,岩手県,3712,GJI,岩手県,0,,-
+SIRIUS,EXUSIA,0,,-,946,TOMO,岩手県,2329,ARCHE,岩手県,3712,GJI,岩手県,0,,-
 SIRIUS,Evans,606,TABI,岩手県,1162,MIZUKI,岩手県,2010,NU.9RA,岩手県,2660,GJI,岩手県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1311,MILFIY,岩手県,2356,GUSSAN,岩手県,3337,DOLCE.,岩手県,0,,-
 SIRIUS,Empire State Glory,0,,-,525,MI7TO,岩手県,1680,S.C!TY,岩手県,2567,DAIDA,岩手県,0,,-
 SIRIUS,Elisha,430,TABI,岩手県,817,MSN006,岩手県,1384,DONKEY,岩手県,2201,DAIDA,岩手県,0,,-
-SIRIUS,DROP,0,,-,852,PINK.,岩手県,2019,IIDX27,岩手県,2532,SHIVA.,岩手県,0,,-
+SIRIUS,DROP,0,,-,852,PINK.,岩手県,2019,IIDX27,岩手県,2535,370?,岩手県,0,,-
 SIRIUS,DOMINION,0,,-,1210,ARCHE,岩手県,2178,PINK.,岩手県,3157,DOLCE.,岩手県,0,,-
 SIRIUS,DESIRE,0,,-,921,STM-G,岩手県,1693,HOKPSY,岩手県,2684,Y.S,岩手県,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,472,TAKEO,岩手県,1382,614,岩手県,2036,GJI,岩手県,0,,-
@@ -499,7 +499,7 @@ SIRIUS,being torn the sky,0,,-,463,ALIKA,岩手県,1179,ARCHE,岩手県,1953,TAB
 SIRIUS,BEAUTIFUL ANGEL,0,,-,508,ALIKA,岩手県,1479,ISB,岩手県,2390,DAIDA,岩手県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,607,IIDX27,岩手県,1568,OKE,岩手県,1958,NU.9RA,岩手県,0,,-
 SIRIUS,bass 2 bass,280,TABI,岩手県,663,RIGIN,岩手県,1183,2434*,岩手県,1818,SHIVA.,岩手県,0,,-
-SIRIUS,Bad Maniacs,0,,-,1244,ARCHE,岩手県,1655,MASX2.,岩手県,3236,DOLCE.,岩手県,0,,-
+SIRIUS,Bad Maniacs,0,,-,1244,ARCHE,岩手県,1655,MASX2.,岩手県,3245,DOLCE.,岩手県,0,,-
 SIRIUS,Almagest,0,,-,962,HANABI,岩手県,2001,NU.9RA,岩手県,3128,DOLCE.,岩手県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,549,TABI,岩手県,1004,MB,岩手県,1842,370?,岩手県,2247,DAIDA,岩手県,2875,DAIDA,岩手県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,773,ARCHE,岩手県,1797,MAJIN,岩手県,3242,Y.S,岩手県,0,,-
@@ -532,7 +532,7 @@ Resort Anthem,reunion,560,TABI,岩手県,1310,L-FOX,岩手県,2264,NU.9RA,岩手
 Resort Anthem,Programmed Life,0,,-,1015,KIAI,岩手県,1525,ARCHE,岩手県,2170,ELMA,岩手県,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1229,ARCHE,岩手県,2257,NU.9RA,岩手県,3832,DOLCE.,岩手県,0,,-
 Resort Anthem,passionate fate,0,,-,946,TOMO,岩手県,1346,SHIMO,岩手県,2124,DOLCE.,岩手県,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1297,HANABI,岩手県,2005,MA2#,岩手県,3339,DOLCE.,岩手県,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1297,HANABI,岩手県,2005,MA2#,岩手県,3380,DOLCE.,岩手県,0,,-
 Resort Anthem,Never Fade Away,0,,-,765,ARCHE,岩手県,1546,N-01G,岩手県,2995,DOLCE.,岩手県,0,,-
 Resort Anthem,Mermaid girl,583,TABI,岩手県,871,UMA.,岩手県,1665,HASSHY,岩手県,2179,370?,岩手県,0,,-
 Resort Anthem,Medicine of love,0,,-,563,YU-KI,岩手県,1037,ARCHE,岩手県,1726,SHIVA.,岩手県,0,,-
@@ -616,7 +616,7 @@ Lincle,Express Emotion,0,,-,746,ARCHE,岩手県,900,TOMO,岩手県,2449,DAIDA,�
 Lincle,Drive Me Crazy,0,,-,594,FELIS,岩手県,1232,COCOA.,岩手県,2207,370?,岩手県,0,,-
 Lincle,DIAVOLO,0,,-,1199,MAME4B,岩手県,1723,PINK.,岩手県,3193,DOLCE.,岩手県,0,,-
 Lincle,Change the World,0,,-,482,SG3,岩手県,1134,468,岩手県,1771,TABI,岩手県,0,,-
-Lincle,Castle on the Moon,240,TABI,岩手県,546,ALIKA,岩手県,1409,KIAI,岩手県,2238,SHIVA.,岩手県,0,,-
+Lincle,Castle on the Moon,240,TABI,岩手県,546,ALIKA,岩手県,1503,ARCHE,岩手県,2238,SHIVA.,岩手県,0,,-
 Lincle,CALL,0,,-,360,ARCHE,岩手県,586,314,岩手県,1391,110.,岩手県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,988,HANABI,岩手県,2056,370?,岩手県,3425,DOLCE.,岩手県,0,,-
 Lincle,ANAGRAMS I to Y,0,,-,727,ALIKA,岩手県,1600,HANABI,岩手県,2416,Y.S,岩手県,0,,-
@@ -713,12 +713,12 @@ SPADA,牧神笛吹きて,0,,-,657,IRORIN,岩手県,1305,OKE,岩手県,1990,DAIDA
 SPADA,煉獄のエルフェリア,0,,-,1239,2434*,岩手県,2137,7676FO,岩手県,3563,GJI,岩手県,0,,-
 SPADA,海神,0,,-,965,MSN006,岩手県,1897,110.,岩手県,3195,DOLCE.,岩手県,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,1113,MSN006,岩手県,2346,IIDX27,岩手県,3941,DOLCE.,岩手県,0,,-
-SPADA,廿,0,,-,693,SG3,岩手県,1506,HANABI,岩手県,2114,MILIN,岩手県,3149,SHIVA.,岩手県
+SPADA,廿,0,,-,693,SG3,岩手県,1506,HANABI,岩手県,2114,MILIN,岩手県,3405,DOLCE.,岩手県
 SPADA,幻想系世界修復少女,214,TABI,岩手県,622,ARCHE,岩手県,1117,ARCHE,岩手県,1869,NU.9RA,岩手県,0,,-
 SPADA,バンブーソード・ガール,269,TABI,岩手県,731,N4N0,岩手県,1630,ARCHE,岩手県,2258,GJI,岩手県,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,336,BWAAH,岩手県,1478,8NA9SO,岩手県,2583,DAIDA,岩手県,0,,-
 SPADA,アルストロメリア,217,TABI,岩手県,848,TOMO,岩手県,1428,KOU,岩手県,2395,DAIDA,岩手県,0,,-
-SPADA,お願いアインシュタイン,0,,-,643,NE,岩手県,1373,2434*,岩手県,2035,Y.S,岩手県,0,,-
+SPADA,お願いアインシュタイン,0,,-,643,NE,岩手県,1413,ARCHE,岩手県,2035,Y.S,岩手県,0,,-
 SPADA,Wonder Girl feat. Kanae Asaba,0,,-,568,IRORIN,岩手県,1051,36SEC.,岩手県,2671,Y.S,岩手県,0,,-
 SPADA,VOX UP,0,,-,1413,ARCHE,岩手県,2540,OMGSIS,岩手県,3439,GJI,岩手県,0,,-
 SPADA,Verflucht,0,,-,1233,HANABI,岩手県,1953,MK8DX,岩手県,3543,DOLCE.,岩手県,4654,DOLCE.,岩手県
@@ -754,9 +754,9 @@ SPADA,into the battlefield,0,,-,636,IRORIN,岩手県,1321,HANABI,岩手県,2311,
 SPADA,INSOMNIA,0,,-,727,N-01G,岩手県,1687,YZK,岩手県,3198,DOLCE.,岩手県,0,,-
 SPADA,Insane Techniques,0,,-,659,N-01G,岩手県,1102,KIAI,岩手県,2429,SHIVA.,岩手県,0,,-
 SPADA,"Idola ",0,,-,995,TOMO,岩手県,2258,NU.9RA,岩手県,3358,Y.S,岩手県,0,,-
-SPADA,I will be back -オレは帰ってきた-,0,,-,702,YMT,岩手県,1756,S.C!TY,岩手県,2838,SHIVA.,岩手県,0,,-
+SPADA,I will be back -オレは帰ってきた-,0,,-,797,UMA.,岩手県,1756,S.C!TY,岩手県,2838,SHIVA.,岩手県,0,,-
 SPADA,Hypersonik,0,,-,540,LINUX,岩手県,1293,K-NOT,岩手県,2421,Y.S,岩手県,0,,-
-SPADA,HYENA,0,,-,865,468,岩手県,1765,OKE,岩手県,2687,DAIDA,岩手県,0,,-
+SPADA,HYENA,0,,-,1068,2434*,岩手県,1765,OKE,岩手県,2687,DAIDA,岩手県,0,,-
 SPADA,Funny shuffle,0,,-,451,NISY.,岩手県,1019,KOU,岩手県,2196,Y.S,岩手県,0,,-
 SPADA,Feel The Beat,0,,-,1270,HANABI,岩手県,2043,N,岩手県,3585,DOLCE.,岩手県,4305,DOLCE.,岩手県
 SPADA,EXTREME MACH COLLIDER,0,,-,0,,-,1335,N-01G,岩手県,2438,GJI,岩手県,0,,-
@@ -773,7 +773,7 @@ SPADA,Cleopatrysm,0,,-,528,ALIKA,岩手県,1376,MOW,岩手県,2381,TABI,岩手�
 SPADA,Claiomh Solais,0,,-,269,NYA,岩手県,1159,SOGETO,岩手県,2022,LENLEN,岩手県,0,,-
 SPADA,BRAVE OUT,0,,-,0,,-,1161,SAKITO,岩手県,2064,DAIDA,岩手県,0,,-
 SPADA,BRAINSTORM,0,,-,744,ARCHE,岩手県,1603,ISB,岩手県,2684,SHIVA.,岩手県,0,,-
-SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1404,ARCHE,岩手県,2036,ARCHE,岩手県,3196,GJI,岩手県,0,,-
+SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1404,ARCHE,岩手県,2036,ARCHE,岩手県,3432,DOLCE.,岩手県,0,,-
 SPADA,ATHER,0,,-,844,TOMO,岩手県,1490,OKE,岩手県,2625,TABI,岩手県,0,,-
 SPADA,Ancient Scapes,0,,-,1048,T1NTIN,岩手県,1765,S.C!TY,岩手県,3251,DAIDA,岩手県,4242,DOLCE.,岩手県
 SPADA,ALBA -黎明-,0,,-,597,TOMO,岩手県,1461,S.C!TY,岩手県,3157,SHIVA.,岩手県,0,,-
@@ -828,7 +828,7 @@ PENDUAL,No Tears,0,,-,1110,T1NTIN,岩手県,1860,ARCHE,岩手県,2436,TABI,岩�
 PENDUAL,Night sky,0,,-,837,FAMIXX,岩手県,1705,MOW,岩手県,2769,DAIDA,岩手県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,904,ARCHE,岩手県,1653,MASX2.,岩手県,3076,GJI,岩手県,0,,-
 PENDUAL,Monopole.,0,,-,785,ARCHE,岩手県,1571,110.,岩手県,3086,TABI,岩手県,0,,-
-PENDUAL,m1dy Festival,0,,-,648,LINUX,岩手県,1206,DROCCY,岩手県,2257,KLAGE,岩手県,0,,-
+PENDUAL,m1dy Festival,0,,-,648,LINUX,岩手県,1353,OITAN,岩手県,2257,KLAGE,岩手県,0,,-
 PENDUAL,Line 4 Ruin,0,,-,617,TOMO,岩手県,1633,MARI!,岩手県,2664,370?,岩手県,0,,-
 PENDUAL,IXION,0,,-,928,TOMO,岩手県,1624,S.C!TY,岩手県,2157,DOLCE.,岩手県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,881,TOMO,岩手県,1489,WHITE.,岩手県,2768,DOLCE.,岩手県,0,,-
@@ -869,7 +869,7 @@ copula,紫陽花 -AZISAI-,422,TABI,岩手県,1207,WAKA*,岩手県,1935,IIDX27,�
 copula,真 地獄超特急 -HELL or HELL-,0,,-,1365,HANABI,岩手県,2068,TAKE,岩手県,3377,DOLCE.,岩手県,0,,-
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,-,1296,ARCHE,岩手県,1869,WAKA*,岩手県,2363,ELMA,岩手県,0,,-
 copula,灼熱 Pt.2 Long Train Running,0,,-,1237,PINK.,岩手県,1950,110.,岩手県,3512,DOLCE.,岩手県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,911,KIAI,岩手県,1548,ARCHE,岩手県,2272,OMGSIS,岩手県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,911,KIAI,岩手県,1560,MAJIN,岩手県,2272,OMGSIS,岩手県,0,,-
 copula,星屑ディスタンシア,0,,-,592,468,岩手県,1109,2434*,岩手県,2018,370?,岩手県,0,,-
 copula,明鏡止水,0,,-,588,VALERY,岩手県,1499,KIAI,岩手県,2649,DAIDA,岩手県,0,,-
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,638,TOMO,岩手県,1283,KIAI,岩手県,2038,TABI,岩手県,0,,-
@@ -890,9 +890,9 @@ copula,Tori-no-kimochi,0,,-,262,N-HARD,岩手県,1198,ARCHE,岩手県,1956,DAIDA
 copula,SURVIVOR,0,,-,527,FELIS,岩手県,953,MINT,岩手県,1969,TABI,岩手県,0,,-
 copula,Super Duper Racers,0,,-,924,ARCHE,岩手県,1383,HASSHY,岩手県,2241,TABI,岩手県,0,,-
 copula,StrayedCatz,0,,-,773,ASTEL*,岩手県,1849,DONKEY,岩手県,2917,DOLCE.,岩手県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,923,DROCCY,岩手県,1543,KIAI,岩手県,2503,370?,岩手県,3177,SHIVA.,岩手県
+copula,STARLIGHT DANCEHALL,0,,-,923,DROCCY,岩手県,1543,KIAI,岩手県,2503,370?,岩手県,3383,DOLCE.,岩手県
 copula,STARLiGHT,0,,-,803,TOMO,岩手県,1701,ARCHE,岩手県,2739,DOLCE.,岩手県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1180,MSN006,岩手県,1842,ARCHE,岩手県,2982,GJI,岩手県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1180,MSN006,岩手県,1942,NU.9RA,岩手県,2982,GJI,岩手県,0,,-
 copula,Set U Free feat. Kanae Asaba,0,,-,416,ARO,岩手県,1240,ISB,岩手県,2316,ELMA,岩手県,0,,-
 copula,Sephirot,0,,-,652,ASTEL*,岩手県,1089,K-NOT,岩手県,2252,Y.S,岩手県,0,,-
 copula,SEITEN NO TERIYAKI,0,,-,526,NE,岩手県,875,MB,岩手県,2136,TABI,岩手県,0,,-
@@ -906,7 +906,7 @@ copula,On the FM,0,,-,831,IIDX27,岩手県,1351,MOYO02,岩手県,2660,SHIVA.,岩
 copula,NZM,0,,-,991,KIAI,岩手県,1525,ARCHE,岩手県,3492,DOLCE.,岩手県,0,,-
 copula,Nowhere,0,,-,417,MB,岩手県,1187,ISB,岩手県,2135,5INKYO,岩手県,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,583,LINUX,岩手県,979,KANON*,岩手県,2183,TABI,岩手県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,765,DIA,岩手県,1793,N-HARD,岩手県,3012,DOLCE.,岩手県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,765,DIA,岩手県,1793,N-HARD,岩手県,3016,DOLCE.,岩手県,0,,-
 copula,Nightmare before oversleep,0,,-,1144,HANABI,岩手県,1789,RAMDA,岩手県,2900,GJI,岩手県,0,,-
 copula,NANAIRO,0,,-,914,MSN006,岩手県,1592,KIAI,岩手県,2490,TABI,岩手県,0,,-
 copula,Musik LoverZ,0,,-,1014,ARCHE,岩手県,1086,SAKITO,岩手県,2494,DOLCE.,岩手県,0,,-
@@ -970,9 +970,9 @@ SINOBUZ,Venom,0,,-,1157,KIAI,岩手県,1986,277,岩手県,3211,DOLCE.,岩手県,
 SINOBUZ,Umbral,0,,-,355,KST,岩手県,1278,2434*,岩手県,1809,WHITE.,岩手県,0,,-
 SINOBUZ,TOGAKUSHI,0,,-,970,ARCHE,岩手県,1748,NCG.LO,岩手県,2486,DAIDA,岩手県,0,,-
 SINOBUZ,The Commanders,0,,-,953,ARCHE,岩手県,1307,RIGIN,岩手県,2371,370?,岩手県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,547,T1NTIN,岩手県,1181,HANABI,岩手県,1884,TABI,岩手県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,547,T1NTIN,岩手県,1181,HANABI,岩手県,1886,110.,岩手県,0,,-
 SINOBUZ,Surf on the Light,0,,-,752,ARCHE,岩手県,1365,HANABI,岩手県,2282,DOLCE.,岩手県,0,,-
-SINOBUZ,Super Rush,0,,-,786,SHINY,岩手県,1734,S.C!TY,岩手県,3548,DOLCE.,岩手県,0,,-
+SINOBUZ,Super Rush,0,,-,786,SHINY,岩手県,1734,S.C!TY,岩手県,3562,DOLCE.,岩手県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1087,KIAI,岩手県,1702,WHITE.,岩手県,3102,DOLCE.,岩手県,0,,-
 SINOBUZ,Steel Edge,0,,-,773,MINT,岩手県,1437,WHITE.,岩手県,3137,DOLCE.,岩手県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,868,FELIS,岩手県,2072,3TOK4S,岩手県,3465,DOLCE.,岩手県,0,,-
@@ -1000,7 +1000,7 @@ SINOBUZ,OOO,0,,-,564,K48G-K,岩手県,1396,S.C!TY,岩手県,2047,DOLCE.,岩手�
 SINOBUZ,nostos,0,,-,783,TOMO,岩手県,1270,ARCHE,岩手県,2478,TABI,岩手県,0,,-
 SINOBUZ,Music is The Answer,0,,-,563,314,岩手県,1312,N-01G,岩手県,1809,370?,岩手県,0,,-
 SINOBUZ,Modular Technology,0,,-,0,,-,1716,FLAPPY,岩手県,2564,SHIVA.,岩手県,0,,-
-SINOBUZ,Mare Nectaris,0,,-,1412,WHITE.,岩手県,1980,DAIDA,岩手県,3761,DOLCE.,岩手県,0,,-
+SINOBUZ,Mare Nectaris,0,,-,1412,WHITE.,岩手県,1980,DAIDA,岩手県,3797,DOLCE.,岩手県,0,,-
 SINOBUZ,Magical,0,,-,513,NISY.,岩手県,983,#6Q,岩手県,1933,DAIDA,岩手県,0,,-
 SINOBUZ,Macuilxochitl,525,TABI,岩手県,1297,HANABI,岩手県,1987,MARI!,岩手県,3172,GJI,岩手県,0,,-
 SINOBUZ,Lost wing at.0,0,,-,828,N-01G,岩手県,1250,A.KA,岩手県,2263,277,岩手県,0,,-
@@ -1010,7 +1010,7 @@ SINOBUZ,HAPPY★RUSH,0,,-,537,CHLOE,岩手県,1624,ISB,岩手県,2722,Y.S,岩手
 SINOBUZ,HADES,385,TABI,岩手県,968,ARCHE,岩手県,1750,110.,岩手県,3136,DOLCE.,岩手県,0,,-
 SINOBUZ,GuNGNiR,0,,-,1131,MIZUKI,岩手県,2497,DAIDA,岩手県,3528,GJI,岩手県,0,,-
 SINOBUZ,Go Ahead!!,0,,-,975,ARCHE,岩手県,1513,NU.9RA,岩手県,2596,GJI,岩手県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,1183,ARCHE,岩手県,1911,WHITE.,岩手県,3809,DOLCE.,岩手県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,1183,ARCHE,岩手県,1954,NU.9RA,岩手県,3809,DOLCE.,岩手県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,314,KST,岩手県,1041,LIVER,岩手県,1637,DOLCE.,岩手県,0,,-
 SINOBUZ,Egret and Willow,0,,-,553,NISY.,岩手県,1265,DROCCY,岩手県,2630,GJI,岩手県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1050,MSN006,岩手県,1947,SEPIA,岩手県,3404,DOLCE.,岩手県,0,,-
@@ -1075,21 +1075,21 @@ CANNON BALLERS,Only for now,0,,-,509,MIM,岩手県,1400,IIDX27,岩手県,2252,DO
 CANNON BALLERS,O/D*20,0,,-,956,K48G-K,岩手県,1459,KIAI,岩手県,2014,110.,岩手県,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,728,SHINY,岩手県,1369,HANABI,岩手県,2745,GJI,岩手県,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,491,SESILU,岩手県,1447,5ON0D4,岩手県,2276,GJI,岩手県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1270,HANABI,岩手県,1751,S.C!TY,岩手県,3673,DOLCE.,岩手県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1270,HANABI,岩手県,1751,S.C!TY,岩手県,3686,DOLCE.,岩手県,0,,-
 CANNON BALLERS,n'pa pa BBQ,0,,-,838,T.T,岩手県,1655,PINK.,岩手県,2810,DOLCE.,岩手県,0,,-
-CANNON BALLERS,Mira,0,,-,0,,-,1465,DONKEY,岩手県,2870,Y.S,岩手県,0,,-
+CANNON BALLERS,Mira,0,,-,225,RION,岩手県,1465,DONKEY,岩手県,2870,Y.S,岩手県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,409,NYA,岩手県,918,SUSUMU,岩手県,1891,5INKYO,岩手県,0,,-
 CANNON BALLERS,MAXIVCORD,0,,-,791,ARCHE,岩手県,1286,MAJIN,岩手県,2359,Y.S,岩手県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,815,ARCHE,岩手県,1205,T1NTIN,岩手県,2022,TABI,岩手県,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,737,ARCHE,岩手県,1397,8NA9SO,岩手県,2189,HURTA,岩手県,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1220,ARCHE,岩手県,1789,110.,岩手県,3458,DOLCE.,岩手県,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1220,ARCHE,岩手県,1789,110.,岩手県,3497,DOLCE.,岩手県,0,,-
 CANNON BALLERS,Let's Bounce !!,0,,-,484,NYA,岩手県,1086,KIAI,岩手県,2066,MILIN,岩手県,0,,-
 CANNON BALLERS,Initiation,0,,-,1390,HANABI,岩手県,2280,KLAGE,岩手県,3957,DOLCE.,岩手県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,702,SHINY,岩手県,2100,T-800,岩手県,3244,TABI,岩手県,0,,-
 CANNON BALLERS,I'm Coming (2017 Version),0,,-,490,META,岩手県,1130,ABC,岩手県,1981,Y.S,岩手県,0,,-
 CANNON BALLERS,I Love You,0,,-,617,MIM,岩手県,1540,KIAI,岩手県,2746,DOLCE.,岩手県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,1087,ARCHE,岩手県,1817,MIDO*2,岩手県,2917,GJI,岩手県,0,,-
-CANNON BALLERS,Hella Deep,0,,-,465,NGYM,岩手県,876,TA8CHI,岩手県,1761,TABI,岩手県,0,,-
+CANNON BALLERS,Hella Deep,0,,-,465,NGYM,岩手県,984,WAKA*,岩手県,1761,TABI,岩手県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,618,AME3YA,岩手県,1336,WHITE.,岩手県,2224,DOLCE.,岩手県,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,494,META,岩手県,1040,KIAI,岩手県,1746,MILIN,岩手県,0,,-
 CANNON BALLERS,FUTURE is Dead,0,,-,884,ARCHE,岩手県,1179,SHIMO,岩手県,2232,DOLCE.,岩手県,0,,-
@@ -1123,7 +1123,7 @@ CANNON BALLERS,ANAGMA,0,,-,854,T.T,岩手県,1733,WHITE.,岩手県,2515,DAIDA,�
 CANNON BALLERS,Amor De Verao,0,,-,772,ARCHE,岩手県,1338,ARCHE,岩手県,2357,DOLCE.,岩手県,0,,-
 CANNON BALLERS,Alpheratz,0,,-,369,META,岩手県,987,N-HARD,岩手県,2040,370?,岩手県,0,,-
 CANNON BALLERS,Acidiva 303,0,,-,734,META,岩手県,1219,MAME4B,岩手県,2218,Y.S,岩手県,0,,-
-CANNON BALLERS,ACCELERATE,0,,-,901,SHINY,岩手県,1306,SHIMO,岩手県,2416,DAIDA,岩手県,0,,-
+CANNON BALLERS,ACCELERATE,0,,-,1115,WAKA*,岩手県,1306,SHIMO,岩手県,2416,DAIDA,岩手県,0,,-
 CANNON BALLERS,Abraxas,0,,-,789,ARCHE,岩手県,1522,MIDO*2,岩手県,2231,Y.S,岩手県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1142,2434*,岩手県,2158,110.,岩手県,3435,GJI,岩手県,0,,-
 CANNON BALLERS,255,0,,-,851,KIAI,岩手県,1384,N-01G,岩手県,3280,DOLCE.,岩手県,0,,-
@@ -1135,7 +1135,7 @@ Rootage,花冠 feat.Aikapin,0,,-,464,SG3,岩手県,1455,S.C!TY,岩手県,2652,DO
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1225,ARCHE,岩手県,1679,5ON0D4,岩手県,2535,TABI,岩手県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1211,T1NTIN,岩手県,2171,370?,岩手県,4175,DOLCE.,岩手県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,464,CHLOE,岩手県,1519,370?,岩手県,2502,NCG.BG,岩手県,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,438,RYU-YA,岩手県,969,ARCHE,岩手県,1385,110.,岩手県,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,461,IIDX27,岩手県,969,ARCHE,岩手県,1385,110.,岩手県,0,,-
 Rootage,ハードベース・フェスタ,0,,-,1010,36SEC.,岩手県,1819,SHIVA.,岩手県,2760,SHIVA.,岩手県,0,,-
 Rootage,セカンドピアス,0,,-,501,67GE,岩手県,930,SAKITO,岩手県,1927,IIDX27,岩手県,0,,-
 Rootage,サクラあっぱれーしょん,266,TABI,岩手県,498,MI7TO,岩手県,1507,HASSHY,岩手県,2230,HASSHY,岩手県,0,,-
@@ -1152,19 +1152,19 @@ Rootage,Visterhv,0,,-,1209,HANABI,岩手県,2190,NU.9RA,岩手県,3700,DOLCE.,�
 Rootage,Urban Constellations,0,,-,649,N-01G,岩手県,1252,LIME,岩手県,2090,HURTA,岩手県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1060,FONZ,岩手県,1783,MARI!,岩手県,2982,NU.9RA,岩手県,0,,-
 Rootage,Unbelief,0,,-,1003,KIAI,岩手県,1818,K,岩手県,3239,DOLCE.,岩手県,0,,-
-Rootage,U.S.A.,570,TABI,岩手県,979,TOMO,岩手県,1640,HANABI,岩手県,2719,HURTA,岩手県,0,,-
+Rootage,U.S.A.,570,TABI,岩手県,979,TOMO,岩手県,1640,HANABI,岩手県,2782,370?,岩手県,0,,-
 Rootage,Twilight Warp,0,,-,555,CHLOE,岩手県,1259,WHITE.,岩手県,2153,DOLCE.,岩手県,0,,-
-Rootage,Trill auf G,0,,-,1121,MOW,岩手県,1980,T-800,岩手県,3097,GJI,岩手県,0,,-
+Rootage,Trill auf G,0,,-,1121,MOW,岩手県,1980,T-800,岩手県,3293,DOLCE.,岩手県,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,461,SAYA,岩手県,1337,#6Q,岩手県,2238,GJI,岩手県,0,,-
-Rootage,The Rebellion of Sequencer,0,,-,1194,ARCHE,岩手県,1779,110.,岩手県,3144,DOLCE.,岩手県,0,,-
+Rootage,The Rebellion of Sequencer,0,,-,1194,ARCHE,岩手県,1779,110.,岩手県,3170,DOLCE.,岩手県,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1381,HANABI,岩手県,2203,WAKA*,岩手県,3203,GJI,岩手県,0,,-
-Rootage,The Best of Both Worlds,0,,-,372,KST,岩手県,1297,HANABI,岩手県,2236,DOLCE.,岩手県,0,,-
+Rootage,The Best of Both Worlds,0,,-,472,IIDX27,岩手県,1297,HANABI,岩手県,2236,DOLCE.,岩手県,0,,-
 Rootage,Technicolour Dreams,0,,-,859,N-01G,岩手県,1351,MOW,岩手県,2388,DOLCE.,岩手県,0,,-
 Rootage,Starry Night,0,,-,641,MB,岩手県,1339,ETZER,岩手県,2356,ELMA,岩手県,0,,-
 Rootage,SPEED ROCKER,0,,-,583,MB,岩手県,1581,8NA9SO,岩手県,2321,DOLCE.,岩手県,0,,-
 Rootage,SIGMA,0,,-,505,SHINY,岩手県,1264,YU-KI,岩手県,2392,YOSTAK,岩手県,0,,-
 Rootage,Sidechained Threats,0,,-,1100,KIAI,岩手県,1780,N-01G,岩手県,2209,WAKA*,岩手県,0,,-
-Rootage,Serious?,0,,-,475,ARKTIS,岩手県,1157,WHITE.,岩手県,2182,SHIVA.,岩手県,0,,-
+Rootage,Serious?,0,,-,487,IIDX27,岩手県,1157,WHITE.,岩手県,2182,SHIVA.,岩手県,0,,-
 Rootage,R∞tAge,0,,-,882,TOMO,岩手県,1577,NORIDA,岩手県,2971,DOLCE.,岩手県,0,,-
 Rootage,ruin of opals,0,,-,939,HANABI,岩手県,1682,L-FOX,岩手県,3190,DOLCE.,岩手県,0,,-
 Rootage,ROZA DE ANDALUCIA,0,,-,1249,HANABI,岩手県,1695,KIAI,岩手県,3070,DOLCE.,岩手県,0,,-
@@ -1181,13 +1181,13 @@ Rootage,ONIGOROSHI,0,,-,808,DIA,岩手県,1910,KLAGE,岩手県,3057,DOLCE.,岩�
 Rootage,Night! Night! Night!,0,,-,1013,K48G-K,岩手県,1729,T-800,岩手県,3039,DOLCE.,岩手県,0,,-
 Rootage,Necroxis Girl,0,,-,1120,MOW,岩手県,1777,WAKA*,岩手県,2838,DOLCE.,岩手県,0,,-
 Rootage,Macho Monky,0,,-,1366,N-01G,岩手県,1849,N-HARD,岩手県,2852,GJI,岩手県,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,993,KIAI,岩手県,1783,WHITE.,岩手県,3545,DOLCE.,岩手県,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,993,KIAI,岩手県,1783,WHITE.,岩手県,3555,DOLCE.,岩手県,0,,-
 Rootage,Level One,0,,-,1188,ARCHE,岩手県,2135,110.,岩手県,3635,DOLCE.,岩手県,0,,-
 Rootage,Lethal Weapon,0,,-,1144,RAMDA,岩手県,1786,H*NEKO,岩手県,3219,DOLCE.,岩手県,0,,-
 Rootage,Let me be your cure,0,,-,1072,KARIN,岩手県,1434,DOLCE.,岩手県,2661,DOLCE.,岩手県,0,,-
 Rootage,LADYBIRD,0,,-,947,104?--,岩手県,1531,8NA9SO,岩手県,2287,370?,岩手県,0,,-
 Rootage,L.F.O,0,,-,717,DAI,岩手県,1688,L-FOX,岩手県,3328,DOLCE.,岩手県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1347,ARCHE,岩手県,2184,WHITE.,岩手県,3839,DOLCE.,岩手県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1347,ARCHE,岩手県,2184,WHITE.,岩手県,3844,DOLCE.,岩手県,0,,-
 Rootage,IDOL syndrome.,0,,-,544,AIKAWA,岩手県,1429,WHITE.,岩手県,2192,DOLCE.,岩手県,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,951,MOW,岩手県,1411,WHITE.,岩手県,2232,DOLCE.,岩手県,0,,-
 Rootage,Hurry Hurry,0,,-,477,NGYM,岩手県,924,TOM,岩手県,2037,LAYLA,岩手県,0,,-
@@ -1207,16 +1207,16 @@ Rootage,Dr. Chemical & Killing Machine,0,,-,1033,YZK,岩手県,1734,WHITE.,岩�
 Rootage,Digital Skipper,0,,-,814,L.I.J,岩手県,1384,LIME,岩手県,2111,Y.S,岩手県,0,,-
 Rootage,dAuntl3ss,0,,-,737,REIN,岩手県,1850,S.C!TY,岩手県,3519,DOLCE.,岩手県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,575,!DEST!,岩手県,1392,OIKAWA,岩手県,2447,DOLCE.,岩手県,0,,-
-Rootage,CoMAAAAAAA,0,,-,1172,KIAI,岩手県,1875,2434*,岩手県,2316,370?,岩手県,0,,-
+Rootage,CoMAAAAAAA,0,,-,1172,KIAI,岩手県,1952,ARCHE,岩手県,2316,370?,岩手県,0,,-
 Rootage,CODE:0,0,,-,1344,HANABI,岩手県,2052,LENLEN,岩手県,2609,T-800,岩手県,0,,-
 Rootage,Catch Our Fire!,0,,-,1305,ARCHE,岩手県,2016,S.C!TY,岩手県,3732,DOLCE.,岩手県,0,,-
-Rootage,Carmina,0,,-,1214,MASX2.,岩手県,2265,HURTA,岩手県,3816,DOLCE.,岩手県,0,,-
+Rootage,Carmina,0,,-,1214,MASX2.,岩手県,2265,HURTA,岩手県,3849,DOLCE.,岩手県,0,,-
 Rootage,BLOSSOM,0,,-,1064,ARCHE,岩手県,1535,N-HARD,岩手県,2410,Y.S,岩手県,0,,-
 Rootage,Angels & Demons,0,,-,614,FELIS,岩手県,1298,L.I.J,岩手県,2336,YARITA,岩手県,0,,-
 Rootage,AGAiN,0,,-,991,ARCHE,岩手県,1257,RA1ULU,岩手県,2200,DAIDA,岩手県,0,,-
 Rootage,A Tale Hidden In The Abyss,0,,-,825,TOMO,岩手県,1513,KIAI,岩手県,2660,DOLCE.,岩手県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,778,JK*,岩手県,1532,ARCHE,岩手県,2484,BIT,岩手県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1019,T1NTIN,岩手県,1544,RAMDA,岩手県,2661,DOLCE.,岩手県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1019,T1NTIN,岩手県,1544,RAMDA,岩手県,2677,DOLCE.,岩手県,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,526,JK*,岩手県,1152,TA8CHI,岩手県,2202,TOHOKU,岩手県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,807,ARCHE,岩手県,1540,N-01G,岩手県,2514,TABI,岩手県,0,,-
 Rootage,& Intelligence,0,,-,1094,T1NTIN,岩手県,1982,MOW,岩手県,3223,DOLCE.,岩手県,0,,-
@@ -1228,7 +1228,7 @@ HEROIC VERSE,俺ら東京さ行ぐだ,254,TABI,岩手県,630,ARCHE,岩手県,130
 HEROIC VERSE,令和(1991RAVE REMIX),353,TABI,岩手県,566,TABI,岩手県,1359,TABI,岩手県,2222,DOLCE.,岩手県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1147,ARCHE,岩手県,1865,TABI,岩手県,2930,DOLCE.,岩手県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,798,TABI,岩手県,1456,TABI,岩手県,2399,DOLCE.,岩手県,0,,-
-HEROIC VERSE,ガヴリールドロップキック,408,TABI,岩手県,777,TABI,岩手県,1622,TABI,岩手県,2681,DOLCE.,岩手県,0,,-
+HEROIC VERSE,ガヴリールドロップキック,408,TABI,岩手県,777,TABI,岩手県,1626,NU.9RA,岩手県,2681,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,904,TABI,岩手県,1539,TABI,岩手県,2509,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1073,TABI,岩手県,1771,NU.9RA,岩手県,2983,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,767,TABI,岩手県,1467,TABI,岩手県,2228,DOLCE.,岩手県,0,,-
@@ -1244,14 +1244,14 @@ HEROIC VERSE,Sugar Drippin',0,,-,772,TABI,岩手県,1352,TABI,岩手県,2074,DOL
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,979,ARCHE,岩手県,1446,ARCHE,岩手県,2334,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Silly Love,0,,-,787,TABI,岩手県,1361,HASSHY,岩手県,2104,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Shiva,0,,-,740,SHIVA.,岩手県,1486,SHIVA.,岩手県,2151,DOLCE.,岩手県,0,,-
-HEROIC VERSE,SCREW // owo // SCREW,0,,-,1091,TABI,岩手県,2114,TABI,岩手県,3068,DOLCE.,岩手県,0,,-
+HEROIC VERSE,SCREW // owo // SCREW,0,,-,1091,TABI,岩手県,2114,TABI,岩手県,3086,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Rave Patroller,0,,-,1347,ARCHE,岩手県,2257,TABI,岩手県,3386,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,1079,TABI,岩手県,1718,TABI,岩手県,2658,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,972,TABI,岩手県,1507,YOSTAK,岩手県,2281,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Queen Kaguya,0,,-,974,TABI,岩手県,1851,TABI,岩手県,2641,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Primitive Vibes,0,,-,1149,TABI,岩手県,1995,DOLCE.,岩手県,3117,DOLCE.,岩手県,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),330,TABI,岩手県,536,TABI,岩手県,1274,NU.9RA,岩手県,2141,DOLCE.,岩手県,0,,-
-HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1256,TABI,岩手県,1697,TABI,岩手県,2869,DOLCE.,岩手県,0,,-
+HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1256,TABI,岩手県,1697,TABI,岩手県,2874,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Override,0,,-,944,TABI,岩手県,1590,TABI,岩手県,2919,DOLCE.,岩手県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,669,ARCHE,岩手県,1382,TABI,岩手県,2156,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,972,SHIVA.,岩手県,1541,TABI,岩手県,2443,DOLCE.,岩手県,0,,-
@@ -1265,7 +1265,7 @@ HEROIC VERSE,Lords Of The Roundtable,0,,-,1046,TABI,岩手県,1775,TABI,岩手�
 HEROIC VERSE,Like+it!,0,,-,1038,TABI,岩手県,1712,HASSHY,岩手県,2383,DOLCE.,岩手県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,926,TABI,岩手県,1646,TABI,岩手県,3253,DOLCE.,岩手県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,790,TABI,岩手県,1735,TABI,岩手県,3598,DOLCE.,岩手県,0,,-
-HEROIC VERSE,Infinity Mirror,0,,-,865,TABI,岩手県,1375,YOSTAK,岩手県,2311,DOLCE.,岩手県,0,,-
+HEROIC VERSE,Infinity Mirror,0,,-,865,TABI,岩手県,1375,YOSTAK,岩手県,2312,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1010,TABI,岩手県,1823,TABI,岩手県,3242,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,667,110.,岩手県,1504,TABI,岩手県,1989,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,947,TABI,岩手県,1507,TABI,岩手県,2607,SHIVA.,岩手県,0,,-
