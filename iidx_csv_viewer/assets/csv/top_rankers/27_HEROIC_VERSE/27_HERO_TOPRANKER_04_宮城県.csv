@@ -25,7 +25,7 @@
 3rd style,Skyscraper,0,,-,562,SAI,宮城県,1091,LEVVIN,宮城県,1206,NEMOUS,宮城県,0,,-
 3rd style,Schlagwerk,0,,-,764,ZUKA,宮城県,1178,CANCAN,宮城県,1670,KEEL,宮城県,0,,-
 3rd style,REINCARNATION,0,,-,743,H.R.T.,宮城県,939,TUBAKI,宮城県,1273,KEEL,宮城県,0,,-
-3rd style,R5,0,,-,467,TK,宮城県,1138,M*SAA,宮城県,1754,UDON-G,宮城県,0,,-
+3rd style,R5,0,,-,731,ZUKA,宮城県,1138,M*SAA,宮城県,1754,UDON-G,宮城県,0,,-
 3rd style,Presto,0,,-,478,H.R.T.,宮城県,933,W1Z4RD,宮城県,997,KIMARI,宮城県,0,,-
 3rd style,LEADING CYBER,0,,-,702,H.R.T.,宮城県,1156,MARIMO,宮城県,1255,KIMARI,宮城県,0,,-
 3rd style,Holic,0,,-,751,MARIMO,宮城県,1141,M*SAA,宮城県,1698,KEEL,宮城県,0,,-
@@ -63,7 +63,7 @@
 5th style,RISLIM,0,,-,831,L.E.H.,宮城県,1216,UDON-G,宮城県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,797,H.R.T.,宮城県,1011,EBI,宮城県,1706,UDON-G,宮城県,1758,NCG.M2,宮城県
 5th style,Regulus,0,,-,858,R.BER2,宮城県,1403,MARIMO,宮城県,1662,1N319N,宮城県,0,,-
-5th style,Real,0,,-,1007,ZUKA,宮城県,1474,BUDDA,宮城県,1808,KEEL,宮城県,0,,-
+5th style,Real,0,,-,1007,ZUKA,宮城県,1505,ZUKA,宮城県,1808,KEEL,宮城県,0,,-
 5th style,Radical Faith,0,,-,1025,HILLT,宮城県,1439,WRXSTI,宮城県,1281,NEMOUS,宮城県,0,,-
 5th style,QQQ,0,,-,1121,TSUMU,宮城県,1769,MARIMO,宮城県,2140,KIMARI,宮城県,0,,-
 5th style,outer wall,0,,-,911,MARIMO,宮城県,1196,TUBAKI,宮城県,1740,KEEL,宮城県,0,,-
@@ -93,7 +93,7 @@
 7th style,革命,0,,-,726,MARIMO,宮城県,1812,MARIMO,宮城県,2234,5N319N,宮城県,0,,-
 7th style,ZERO-ONE,0,,-,1034,MARIMO,宮城県,1470,MARISA,宮城県,2215,KEEL,宮城県,0,,-
 7th style,traces,0,,-,1422,MARIMO,宮城県,1690,AOKABI,宮城県,2116,KEEL,宮城県,0,,-
-7th style,Tomorrow Perfume,0,,-,1190,INKYO.,宮城県,1808,CAG3,宮城県,2057,EBI,宮城県,0,,-
+7th style,Tomorrow Perfume,0,,-,1190,INKYO.,宮城県,1808,CAG3,宮城県,2070,TP-KRN,宮城県,0,,-
 7th style,stoic,0,,-,1591,SKMMYP,宮城県,2367,1N319N,宮城県,2458,NCG.SF,宮城県,0,,-
 7th style,Spica,0,,-,630,KAIN,宮城県,1354,LILILI,宮城県,2221,KEEL,宮城県,0,,-
 7th style,Love Me Do,0,,-,849,AKI*,宮城県,1630,ZUKA,宮城県,2095,SKMMYP,宮城県,0,,-
@@ -102,7 +102,7 @@
 7th style,Happy Wedding,0,,-,745,A1D,宮城県,1529,MARISA,宮城県,1824,KEEL,宮城県,0,,-
 7th style,Glorious Days,0,,-,506,MARIMO,宮城県,642,ALT,宮城県,903,KIMARI,宮城県,0,,-
 7th style,foreplay,0,,-,569,H.R.T.,宮城県,1061,MARISA,宮城県,1317,KEEL,宮城県,0,,-
-7th style,DESTINY,0,,-,1054,MARIMO,宮城県,1043,IIDX27,宮城県,1825,KEEL,宮城県,0,,-
+7th style,DESTINY,0,,-,1054,MARIMO,宮城県,1207,TUBAKI,宮城県,1825,KEEL,宮城県,0,,-
 7th style,D2R,0,,-,918,MARIMO,宮城県,1298,EBI,宮城県,1606,KIMARI,宮城県,0,,-
 7th style,Cheer Train,0,,-,645,AKI*,宮城県,1048,L.E.H.,宮城県,1696,UDON-G,宮城県,0,,-
 7th style,Burning Heat! (Full Option Mix),0,,-,687,MARIMO,宮城県,968,1N319N,宮城県,1476,KEEL,宮城県,0,,-
@@ -113,10 +113,10 @@
 8th style,桜,0,,-,899,MARISA,宮城県,1479,TENKUN,宮城県,2121,KEEL,宮城県,0,,-
 8th style,xenon,0,,-,999,HAO123,宮城県,1597,C,宮城県,2708,KEEL,宮城県,0,,-
 8th style,World Wide Love,0,,-,678,ZUKA,宮城県,1006,MENU,宮城県,1112,NEMOUS,宮城県,0,,-
-8th style,WAR GAME,0,,-,822,HILLT,宮城県,1414,TUBAKI,宮城県,2137,UDON-G,宮城県,0,,-
+8th style,WAR GAME,0,,-,882,ALT,宮城県,1447,MENU,宮城県,2137,UDON-G,宮城県,0,,-
 8th style,thunder,0,,-,1117,PASTA,宮城県,1482,ZUKA,宮城県,1875,KEEL,宮城県,0,,-
 8th style,symbolic,0,,-,1020,AKI*,宮城県,1767,MARVEL,宮城県,2217,KIMARI,宮城県,0,,-
-8th style,STAR DREAM,0,,-,498,YUNO,宮城県,1141,C,宮城県,1389,TENKUN,宮城県,0,,-
+8th style,STAR DREAM,0,,-,498,YUNO,宮城県,1212,MARISA,宮城県,1389,TENKUN,宮城県,0,,-
 8th style,rainbow flyer,0,,-,796,MARIMO,宮城県,1678,1N319N,宮城県,2100,KEEL,宮城県,0,,-
 8th style,PLEASE DON'T GO,0,,-,966,SKMMYP,宮城県,1309,MARIMO,宮城県,2405,KEEL,宮城県,0,,-
 8th style,MUSIC TO YOUR HEAD,0,,-,662,H.R.T.,宮城県,1354,CAG3,宮城県,1683,KEEL,宮城県,0,,-
@@ -206,12 +206,12 @@ IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,800,VELIX,宮城県,1369,HAYA,宮城県,19
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,826,1N319N,宮城県,1288,P.TAKA,宮城県,1725,KEEL,宮城県,0,,-
 IIDX RED,大桟橋,0,,-,452,L.E.H.,宮城県,1110,MARIMO,宮城県,1838,UDON-G,宮城県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,823,1N319N,宮城県,2074,TP-KRN,宮城県,2626,KEEL,宮城県,0,,-
-IIDX RED,Wonder Bullfighter,0,,-,724,ALT,宮城県,1236,TUBAKI,宮城県,1956,UF,宮城県,0,,-
+IIDX RED,Wonder Bullfighter,0,,-,724,ALT,宮城県,1267,MARISA,宮城県,1956,UF,宮城県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,1053,1N319N,宮城県,1699,1N319N,宮城県,1890,4419ZO,宮城県,0,,-
 IIDX RED,spiral galaxy,0,,-,918,HILLT,宮城県,1896,ZUKA,宮城県,2523,TENKUN,宮城県,3633,TP-KRN,宮城県
 IIDX RED,Sphere,0,,-,499,YUNO,宮城県,1794,SUKORU,宮城県,2191,KEEL,宮城県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,960,VELIX,宮城県,1524,MARISA,宮城県,2036,KEEL,宮城県,0,,-
-IIDX RED,Secret of Love,0,,-,1073,1N319N,宮城県,1305,MARISA,宮城県,2005,KEEL,宮城県,0,,-
+IIDX RED,Secret of Love,0,,-,1073,1N319N,宮城県,1326,MARISA,宮城県,2005,KEEL,宮城県,0,,-
 IIDX RED,RESONATE 1794,0,,-,878,AOKABI,宮城県,1403,CHO,宮城県,1843,1N319N,宮城県,0,,-
 IIDX RED,RED ZONE,178,MARIMO,宮城県,985,U,宮城県,1751,C,宮城県,2321,KEEL,宮城県,3028,ICHIKA,宮城県
 IIDX RED,Raspberry Heart(English version),0,,-,927,MAC,宮城県,1518,P.TAKA,宮城県,1835,KEEL,宮城県,0,,-
@@ -249,7 +249,7 @@ HAPPY SKY,Twelfth Style,0,,-,1015,TUBAKI,宮城県,1356,MARISA,宮城県,2003,KE
 HAPPY SKY,Tizona d'El Cid,0,,-,958,EBI,宮城県,1818,MARIMO,宮城県,2247,NEMOUS,宮城県,0,,-
 HAPPY SKY,SigSig,667,MARIMO,宮城県,1015,FIRE-S,宮城県,1616,W1Z4RD,宮城県,2582,KEEL,宮城県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1049,RYU$,宮城県,1587,SUKORU,宮城県,2053,ICHIKA,宮城県,0,,-
-HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1531,MARISA,宮城県,1817,LILILI,宮城県,2416,KIMARI,宮城県,0,,-
+HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1531,MARISA,宮城県,1973,S.S-R1,宮城県,2416,KIMARI,宮城県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1598,HERO&C,宮城県,2124,WANI,宮城県,3069,KEEL,宮城県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,1179,1N319N,宮城県,1582,S.S-R1,宮城県,2052,KEEL,宮城県,0,,-
 HAPPY SKY,rage against usual,0,,-,1158,MARISA,宮城県,1930,S.S-R1,宮城県,2921,KEEL,宮城県,0,,-
@@ -258,21 +258,21 @@ HAPPY SKY,Pollinosis,0,,-,17,-D-,宮城県,1020,AL2B,宮城県,2469,KEEL,宮城�
 HAPPY SKY,PLASMA,0,,-,946,MARIMO,宮城県,1665,EBI,宮城県,2263,KEEL,宮城県,0,,-
 HAPPY SKY,Pink Rose,0,,-,565,L.E.H.,宮城県,882,JOHN.,宮城県,1404,TENKUN,宮城県,0,,-
 HAPPY SKY,MOON RACE,0,,-,567,TK,宮城県,1049,MARISA,宮城県,1883,KEEL,宮城県,0,,-
-HAPPY SKY,Love Magic,0,,-,1,-D-,宮城県,1662,ASA,宮城県,1893,ERIC*,宮城県,0,,-
+HAPPY SKY,Love Magic,0,,-,583,YUNO,宮城県,1662,ASA,宮城県,1893,ERIC*,宮城県,0,,-
 HAPPY SKY,Little Little Princess,0,,-,954,HILLT,宮城県,2051,MARIMO,宮城県,2760,KEEL,宮城県,3766,KEEL,宮城県
 HAPPY SKY,LESSON 5,0,,-,1076,-D-,宮城県,1850,KIMARI,宮城県,2476,KEEL,宮城県,0,,-
 HAPPY SKY,INAZUMA,0,,-,1080,1N319N,宮城県,1798,1N319N,宮城県,2684,KEEL,宮城県,0,,-
 HAPPY SKY,in motion,0,,-,831,WRXSTI,宮城県,1037,C,宮城県,1307,KIMARI,宮城県,0,,-
 HAPPY SKY,I am,0,,-,980,HILLT,宮城県,1672,SUKORU,宮城県,2166,KEEL,宮城県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,656,HERO&C,宮城県,689,TAMAI,宮城県,1459,YUKI,宮城県,2083,KEEL,宮城県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,656,HERO&C,宮城県,860,TPOK,宮城県,1459,YUKI,宮城県,2083,KEEL,宮城県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,741,TK,宮城県,1593,MARISA,宮城県,2282,KEEL,宮城県,0,,-
 HAPPY SKY,garden,0,,-,769,HILLT,宮城県,1468,A-BONE,宮城県,2132,NCG.SF,宮城県,0,,-
 HAPPY SKY,First Resolution,0,,-,15,-D-,宮城県,1459,MARISA,宮城県,2137,KEEL,宮城県,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,658,MARIMO,宮城県,1006,MENU,宮城県,1682,KEEL,宮城県,0,,-
 HAPPY SKY,EDEN,0,,-,1240,HAO123,宮城県,1904,UDON-G,宮城県,2709,KEEL,宮城県,0,,-
-HAPPY SKY,double thrash,0,,-,864,ALT,宮城県,1930,S.S-R1,宮城県,2324,CYR,宮城県,0,,-
+HAPPY SKY,double thrash,0,,-,864,ALT,宮城県,1934,KAZANE,宮城県,2324,CYR,宮城県,0,,-
 HAPPY SKY,Catch Me,0,,-,766,MARIMO,宮城県,1198,SUKORU,宮城県,1758,ERIC*,宮城県,0,,-
-HAPPY SKY,CaptivAte～浄化～,0,,-,997,HAO123,宮城県,1711,SUKORU,宮城県,2433,CYR,宮城県,0,,-
+HAPPY SKY,CaptivAte～浄化～,0,,-,997,HAO123,宮城県,1771,MARIMO,宮城県,2433,CYR,宮城県,0,,-
 HAPPY SKY,Aurora,0,,-,1160,L.E.H.,宮城県,2044,YUUNA,宮城県,2521,KEEL,宮城県,0,,-
 HAPPY SKY,alla turca con passione,0,,-,751,L.E.H.,宮城県,1565,ASA,宮城県,2149,UF,宮城県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,839,L.E.H.,宮城県,1565,MARIMO,宮城県,2022,YUFFIE,宮城県,0,,-
@@ -303,13 +303,13 @@ DistorteD,INFERNO,0,,-,0,,-,1475,MARISA,宮城県,1941,HIRO,宮城県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,740,H.R.T.,宮城県,1579,OWO,宮城県,2104,KEEL,宮城県,0,,-
 DistorteD,Harmony and Lovely,0,,-,862,L.E.H.,宮城県,1666,SUKORU,宮城県,2228,KEEL,宮城県,0,,-
 DistorteD,Ganymede,0,,-,1076,EBI,宮城県,1584,MARIMO,宮城県,2299,KEEL,宮城県,0,,-
-DistorteD,EURO-ROMANCE,0,,-,966,1N319N,宮城県,1756,SUKORU,宮城県,2092,UDON-G,宮城県,0,,-
+DistorteD,EURO-ROMANCE,0,,-,966,1N319N,宮城県,1798,P.TAKA,宮城県,2092,UDON-G,宮城県,0,,-
 DistorteD,DUE TOMORROW,0,,-,863,INKYO.,宮城県,1361,4419ZO,宮城県,1970,KEEL,宮城県,0,,-
 DistorteD,Double Loving Heart,0,,-,576,MARIMO,宮城県,1228,MARISA,宮城県,1803,NEMOUS,宮城県,0,,-
 DistorteD,D.C.fish,0,,-,492,YUNO,宮城県,1790,MENU,宮城県,2318,KEEL,宮城県,0,,-
 DistorteD,CONTRACT,0,,-,1164,YUUNA,宮城県,1559,MARIMO,宮城県,1993,UDON-G,宮城県,2727,KEEL,宮城県
 DistorteD,Concertino in Blue,384,EBI,宮城県,733,-D-,宮城県,1688,EBI,宮城県,2447,CYR,宮城県,0,,-
-DistorteD,Broadbanded,0,,-,771,-D-,宮城県,1334,SUKORU,宮城県,1978,KIMARI,宮城県,0,,-
+DistorteD,Broadbanded,0,,-,863,MARIMO,宮城県,1334,SUKORU,宮城県,1978,KIMARI,宮城県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,845,HILLT,宮城県,1518,TUBAKI,宮城県,2257,UDON-G,宮城県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1116,MARIMO,宮城県,1897,C,宮城県,2152,KEEL,宮城県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,618,H.R.T.,宮城県,991,L.E.H.,宮城県,1513,CYR,宮城県,0,,-
@@ -317,7 +317,7 @@ DistorteD,Apocalypse ～dirge of swans～,239,HERO&C,宮城県,971,MARIMO,宮城
 DistorteD,ALFARSHEAR 双神威に廻る夢,443,EBI,宮城県,1033,L.E.H.,宮城県,1558,TUBAKI,宮城県,2059,KEEL,宮城県,0,,-
 GOLD,電人、暁に斃れる。,663,HERO&C,宮城県,1358,MARISA,宮城県,2259,TENKUN,宮城県,3353,KEEL,宮城県,0,,-
 GOLD,零 - ZERO -,220,MARIMO,宮城県,1144,CRZ-U.,宮城県,1690,SUKORU,宮城県,2303,KEEL,宮城県,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,655,H.R.T.,宮城県,1051,TUBAKI,宮城県,1423,KEEL,宮城県,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,723,MARIMO,宮城県,1073,MENU,宮城県,1423,KEEL,宮城県,0,,-
 GOLD,星をこの手に,0,,-,1051,MARISA,宮城県,1625,NE6*-L,宮城県,2155,KEEL,宮城県,0,,-
 GOLD,リグレット,0,,-,1011,ZORA,宮城県,1633,MARISA,宮城県,2406,UDON-G,宮城県,0,,-
 GOLD,ヨシダさん,0,,-,916,MARIMO,宮城県,1362,MENU,宮城県,1958,KIMARI,宮城県,0,,-
@@ -325,7 +325,7 @@ GOLD,クルクル☆ラブ～Opioid Peptide MIX～,428,HERO&C,宮城県,693,SAKU
 GOLD,With your Smile,0,,-,718,INKYO.,宮城県,1185,NEMOUS,宮城県,1567,KEEL,宮城県,0,,-
 GOLD,Watch out!!,0,,-,701,MARIMO,宮城県,889,TUBAKI,宮城県,1570,KIMARI,宮城県,0,,-
 GOLD,VANESSA,0,,-,981,MARISA,宮城県,1676,S.S-R1,宮城県,2407,KEEL,宮城県,3354,KEEL,宮城県
-GOLD,TRANOID,0,,-,684,L.E.H.,宮城県,1652,CRZ-U.,宮城県,2190,UF,宮城県,0,,-
+GOLD,TRANOID,0,,-,684,L.E.H.,宮城県,1667,S.S-R1,宮城県,2190,UF,宮城県,0,,-
 GOLD,The Smile of You,0,,-,849,HILLT,宮城県,1300,MARIMO,宮城県,1625,KIMARI,宮城県,0,,-
 GOLD,the shadow,0,,-,1084,CANCAN,宮城県,1937,MARIMO,宮城県,2890,KEEL,宮城県,0,,-
 GOLD,snow storm,235,MARIMO,宮城県,689,H.R.T.,宮城県,2063,SUKORU,宮城県,2777,KEEL,宮城県,3360,KEEL,宮城県
@@ -368,7 +368,7 @@ DJ TROOPERS,Ubertreffen,0,,-,1067,INKYO.,宮城県,1848,C,宮城県,2439,YUFFIE,
 DJ TROOPERS,TROOPERS,0,,-,1010,S.S,宮城県,2248,S.S-R1,宮城県,2921,KEEL,宮城県,0,,-
 DJ TROOPERS,Time to Air,0,,-,1259,MARIMO,宮城県,2043,4419ZO,宮城県,2856,KEEL,宮城県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,718,AKI*,宮城県,1149,LIGHT,宮城県,1843,1N319N,宮城県,0,,-
-DJ TROOPERS,THE DEEP STRIKER,536,HERO&C,宮城県,894,HILLT,宮城県,1996,MARIMO,宮城県,3014,KEEL,宮城県,3484,KEEL,宮城県
+DJ TROOPERS,THE DEEP STRIKER,536,HERO&C,宮城県,894,HILLT,宮城県,2081,S.S-R1,宮城県,3014,KEEL,宮城県,3484,KEEL,宮城県
 DJ TROOPERS,switch,0,,-,727,HILLT,宮城県,1448,3839,宮城県,2089,KEEL,宮城県,0,,-
 DJ TROOPERS,STEEL NEEDLE,0,,-,992,Y69.,宮城県,2034,S.S-R1,宮城県,2460,KEEL,宮城県,0,,-
 DJ TROOPERS,State Of The Art,0,,-,992,J.II.E,宮城県,1460,C,宮城県,3043,UF,宮城県,0,,-
@@ -440,7 +440,7 @@ EMPRESS,Go Beyond!!,544,HERO&C,宮城県,873,U,宮城県,1623,OMAME,宮城県,22
 EMPRESS,Fly Above,0,,-,864,HILLT,宮城県,1560,YUKI,宮城県,2024,UDON-G,宮城県,0,,-
 EMPRESS,Flash Back 90's,0,,-,876,H.R.T.,宮城県,1791,H*PORN,宮城県,2312,KEEL,宮城県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,931,Y69.,宮城県,1782,ELIC*,宮城県,2474,1N319N,宮城県,0,,-
-EMPRESS,Colorful Cookie,673,HERO&C,宮城県,1121,MARIMO,宮城県,2225,SKMMYP,宮城県,3465,KEEL,宮城県,0,,-
+EMPRESS,Colorful Cookie,673,HERO&C,宮城県,1121,MARIMO,宮城県,2229,OWO,宮城県,3465,KEEL,宮城県,0,,-
 EMPRESS,CaptivAte2～覚醒～,243,MARIMO,宮城県,819,NOMYA,宮城県,1654,SUKORU,宮城県,2381,KEEL,宮城県,0,,-
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,951,MARIMO,宮城県,1447,TENKUN,宮城県,2104,KEEL,宮城県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1020,TUBAKI,宮城県,2159,1N319N,宮城県,3900,KEEL,宮城県,0,,-
@@ -497,7 +497,7 @@ SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,935,R.BER2,宮城県,1506,
 SIRIUS,bloomin' feeling,390,MARIMO,宮城県,1253,IIDX27,宮城県,1891,CAG3,宮城県,2578,KEEL,宮城県,0,,-
 SIRIUS,being torn the sky,0,,-,569,H.R.T.,宮城県,1184,KIMARI,宮城県,1971,1N319N,宮城県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,629,MARIMO,宮城県,1678,MARISA,宮城県,2465,KEEL,宮城県,0,,-
-SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,936,YUKI,宮城県,1538,MENU,宮城県,2003,KEEL,宮城県,0,,-
+SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,936,YUKI,宮城県,1559,MENU,宮城県,2003,KEEL,宮城県,0,,-
 SIRIUS,bass 2 bass,280,MARIMO,宮城県,667,H.R.T.,宮城県,1225,MARIMO,宮城県,1876,KEEL,宮城県,0,,-
 SIRIUS,Bad Maniacs,0,,-,1207,MARISA,宮城県,1734,MAKINA,宮城県,3228,KEEL,宮城県,0,,-
 SIRIUS,Almagest,0,,-,999,MARIMO,宮城県,2141,TP-KRN,宮城県,3103,KEEL,宮城県,0,,-
@@ -510,7 +510,7 @@ Resort Anthem,中華急行,0,,-,328,MARIMO,宮城県,1508,TENKUN,宮城県,2314,
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,516,MARIMO,宮城県,753,HILLT,宮城県,1321,MARIMO,宮城県,1864,TENKUN,宮城県,0,,-
 Resort Anthem,おおきなこえで,0,,-,451,MARIMO,宮城県,810,AKI*,宮城県,1463,HIRO,宮城県,2099,1N319N,宮城県
 Resort Anthem,ZETA～素数の世界と超越者～,324,EBI,宮城県,557,L.E.H.,宮城県,2053,MARIMO,宮城県,3112,KEEL,宮城県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,994,MARIMO,宮城県,1670,3839,宮城県,2724,KEEL,宮城県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,994,MARIMO,宮城県,1685,3839,宮城県,2724,KEEL,宮城県,0,,-
 Resort Anthem,Wuv U,0,,-,410,MARIMO,宮城県,1216,MENU,宮城県,1695,KEEL,宮城県,0,,-
 Resort Anthem,WISE UP!,345,MARIMO,宮城県,463,H.R.T.,宮城県,1101,MENU,宮城県,1579,KEEL,宮城県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1012,IROHA,宮城県,1823,C,宮城県,2865,KEEL,宮城県,0,,-
@@ -559,7 +559,7 @@ Resort Anthem,ANTHEM LANDING,0,,-,915,MARISA,宮城県,1915,NCG.M2,宮城県,292
 Resort Anthem,Answer,0,,-,732,H.R.T.,宮城県,1406,YUKI,宮城県,2421,KEEL,宮城県,0,,-
 Resort Anthem,ALBIDA,525,MARIMO,宮城県,1052,L.E.H.,宮城県,1864,S.S-R1,宮城県,2961,KEEL,宮城県,0,,-
 Resort Anthem,Aegis,0,,-,822,INKYO.,宮城県,1332,RAY,宮城県,2310,CYR,宮城県,0,,-
-Lincle,陽炎,0,,-,588,H.R.T.,宮城県,1032,BNG,宮城県,1996,KEEL,宮城県,0,,-
+Lincle,陽炎,0,,-,588,H.R.T.,宮城県,1079,LENNA,宮城県,1996,KEEL,宮城県,0,,-
 Lincle,衰色小町メランコリア,0,,-,752,H.R.T.,宮城県,1337,OMAME,宮城県,2327,KIMARI,宮城県,0,,-
 Lincle,蛇神,424,MARIMO,宮城県,700,EBI,宮城県,1455,MARIMO,宮城県,2758,NCG.SF,宮城県,0,,-
 Lincle,聖人の塔,0,,-,816,ALT,宮城県,1805,YD1,宮城県,2966,KEEL,宮城県,0,,-
@@ -599,9 +599,9 @@ Lincle,NNRT,0,,-,1235,MARIMO,宮城県,2372,S.S-R1,宮城県,3476,KEEL,宮城県
 Lincle,Miami Sunset Drive,0,,-,632,MARIMO,宮城県,1060,MARIMO,宮城県,1636,NCG.SF,宮城県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,811,YUKI,宮城県,1321,MARIMO,宮城県,2052,KEEL,宮城県,0,,-
 Lincle,Lucky Days,0,,-,600,H.R.T.,宮城県,1451,SUKORU,宮城県,2179,KEEL,宮城県,0,,-
-Lincle,LOVE B.B.B,0,,-,716,H.R.T.,宮城県,1394,RAIHA.,宮城県,2014,KEEL,宮城県,0,,-
+Lincle,LOVE B.B.B,0,,-,716,H.R.T.,宮城県,1431,MENU,宮城県,2014,KEEL,宮城県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,416,MARIMO,宮城県,1070,MARISA,宮城県,1976,NEMOUS,宮城県,0,,-
-Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,984,YUKI,宮城県,1551,SUKORU,宮城県,2203,KEEL,宮城県,0,,-
+Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,984,YUKI,宮城県,1613,TENKUN,宮城県,2203,KEEL,宮城県,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1061,1N319N,宮城県,2048,ASA,宮城県,2792,KIMARI,宮城県,0,,-
 Lincle,Infinite cave,0,,-,849,YAB1NU,宮城県,1462,S.S-R1,宮城県,2015,TP-KRN,宮城県,0,,-
 Lincle,In the Blackest Den,0,,-,781,HILLT,宮城県,1545,CYR,宮城県,2622,KEEL,宮城県,0,,-
@@ -621,7 +621,7 @@ Lincle,CALL,0,,-,364,MARIMO,宮城県,744,TSUMU,宮城県,1438,KIMARI,宮城県,
 Lincle,BLACK.by X-Cross Fade,0,,-,1008,YUKI,宮城県,2153,NCG.SF,宮城県,3353,KEEL,宮城県,0,,-
 Lincle,ANAGRAMS I to Y,0,,-,826,H.R.T.,宮城県,1560,TUBAKI,宮城県,2475,KEEL,宮城県,0,,-
 Lincle,Almace,0,,-,832,L.E.H.,宮城県,1264,MARIMO,宮城県,1976,KEEL,宮城県,0,,-
-Lincle,532nm,0,,-,573,MARIMO,宮城県,1189,MENU,宮城県,2645,KEEL,宮城県,0,,-
+Lincle,532nm,0,,-,573,MARIMO,宮城県,1198,MARIMO,宮城県,2645,KEEL,宮城県,0,,-
 Lincle,24th Century BOY,0,,-,813,MG3,宮城県,1864,MARIMO,宮城県,2841,KEEL,宮城県,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,776,HILLT,宮城県,1629,SUKORU,宮城県,2976,KEEL,宮城県,3332,KEEL,宮城県
 tricoro,音楽,0,,-,679,000,宮城県,1965,NCG.SF,宮城県,2786,KEEL,宮城県,0,,-
@@ -637,7 +637,7 @@ tricoro,メイメツ、フラグメンツ,0,,-,483,NEKO,宮城県,1259,ASA,宮�
 tricoro,トリカゴノ鳳凰,0,,-,1003,TAIKI,宮城県,1929,MARIMO,宮城県,3758,KEEL,宮城県,0,,-
 tricoro,シュレーディンガーの猫,0,,-,1135,1N319N,宮城県,2366,1N319N,宮城県,3386,KEEL,宮城県,0,,-
 tricoro,キャトられ恋はモ～モク,0,,-,1424,YUKI,宮城県,2435,MRCLNK,宮城県,3776,KEEL,宮城県,0,,-
-tricoro,カジノファイヤーことみちゃん,0,,-,471,NOMYA,宮城県,1319,SUKORU,宮城県,2349,KIMARI,宮城県,0,,-
+tricoro,カジノファイヤーことみちゃん,0,,-,471,NOMYA,宮城県,1355,MARIMO,宮城県,2349,KIMARI,宮城県,0,,-
 tricoro,アストライアの双皿,0,,-,613,H.R.T.,宮城県,2018,GSTMOG,宮城県,3160,KEEL,宮城県,0,,-
 tricoro,たまゆら,0,,-,1103,HAO123,宮城県,1831,A-BONE,宮城県,2727,KEEL,宮城県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,778,HILLT,宮城県,1476,SUKORU,宮城県,2145,KIMARI,宮城県,0,,-
@@ -665,7 +665,7 @@ tricoro,Saturn,0,,-,1285,MARIMO,宮城県,1888,AOKABI,宮城県,2594,KEEL,宮城
 tricoro,S!ck,0,,-,813,HILLT,宮城県,1473,C,宮城県,2647,KEEL,宮城県,0,,-
 tricoro,rumrum triplets,0,,-,801,NOMYA,宮城県,1878,MARIMO,宮城県,3010,CYR,宮城県,0,,-
 tricoro,Re:GENERATION,244,MARIMO,宮城県,833,-D-,宮城県,1455,YUKI,宮城県,2245,KEEL,宮城県,0,,-
-tricoro,Rainbow after snow,0,,-,543,ZA-YA,宮城県,1443,C,宮城県,2161,KEEL,宮城県,0,,-
+tricoro,Rainbow after snow,0,,-,565,AAA,宮城県,1443,C,宮城県,2161,KEEL,宮城県,0,,-
 tricoro,Proof of the existence,0,,-,1063,HILLT,宮城県,2000,HTLV-1,宮城県,3179,KEEL,宮城県,0,,-
 tricoro,Praludium,0,,-,565,IORIS,宮城県,1307,SUKORU,宮城県,2272,KEEL,宮城県,0,,-
 tricoro,POINT ZERO,0,,-,682,H.R.T.,宮城県,1094,JOE,宮城県,2069,CYR,宮城県,0,,-
@@ -679,12 +679,12 @@ tricoro,mnemoniq,0,,-,483,H.R.T.,宮城県,896,ZUKA,宮城県,1296,HIRO,宮城�
 tricoro,LUV CAN SAVE U,0,,-,586,MARIMO,宮城県,1369,MENU,宮城県,2096,ICHIKA,宮城県,2740,1N319N,宮城県
 tricoro,Little Star,0,,-,925,YUKI,宮城県,1724,MARIMO,宮城県,3126,KEEL,宮城県,0,,-
 tricoro,Light and Cyber…,0,,-,891,NOMYA,宮城県,1869,MARIMO,宮城県,3106,KEEL,宮城県,0,,-
-tricoro,Liberation,0,,-,1180,JAMJAM,宮城県,2202,MARIMO,宮城県,3659,KEEL,宮城県,0,,-
+tricoro,Liberation,0,,-,1495,MARIMO,宮城県,2274,OMAME,宮城県,3659,KEEL,宮城県,0,,-
 tricoro,JOMANDA,255,WRXSTI,宮城県,1007,BNG,宮城県,2274,W1Z4RD,宮城県,3627,KEEL,宮城県,0,,-
-tricoro,In Heaven,0,,-,721,07HAUS,宮城県,1381,MARISA,宮城県,2121,KEEL,宮城県,0,,-
+tricoro,In Heaven,0,,-,721,07HAUS,宮城県,1386,TRA-V,宮城県,2121,KEEL,宮城県,0,,-
 tricoro,Illegal Function Call,0,,-,920,GARNET,宮城県,1750,SUKORU,宮城県,2629,KEEL,宮城県,0,,-
 tricoro,ILIAS,0,,-,805,1N319N,宮城県,1225,MARISA,宮城県,2182,KEEL,宮城県,0,,-
-tricoro,I know You know,0,,-,600,MARIMO,宮城県,895,DNS,宮城県,1864,KEEL,宮城県,0,,-
+tricoro,I know You know,0,,-,600,MARIMO,宮城県,967,HILLT,宮城県,1864,KEEL,宮城県,0,,-
 tricoro,Howling,0,,-,530,GARNET,宮城県,1291,MENU,宮城県,2103,KEEL,宮城県,2540,EBI,宮城県
 tricoro,Hollywood Galaxy,0,,-,1008,HILLT,宮城県,1906,MARIMO,宮城県,2688,KEEL,宮城県,0,,-
 tricoro,GRADIUS 2012,0,,-,795,ALT,宮城県,1617,MARIMO,宮城県,2684,CYR,宮城県,0,,-
@@ -731,9 +731,9 @@ SPADA,SCHWARZSCHILD FIELD,0,,-,812,HILLT,宮城県,1494,C,宮城県,2302,HIRO,�
 SPADA,RIZING YOU UP,0,,-,985,YAS,宮城県,2035,MARIMO,宮城県,2546,KEEL,宮城県,0,,-
 SPADA,RISE,0,,-,756,BNG,宮城県,1300,MARIMO,宮城県,1830,1N319N,宮城県,0,,-
 SPADA,refractive index,0,,-,679,H.R.T.,宮城県,1384,MARIMO,宮城県,2665,KEEL,宮城県,0,,-
-SPADA,Recollection,0,,-,1105,HAO123,宮城県,1661,C,宮城県,2201,NEMOUS,宮城県,0,,-
+SPADA,Recollection,0,,-,1105,HAO123,宮城県,1733,MENU,宮城県,2201,NEMOUS,宮城県,0,,-
 SPADA,rainbow guitar weeps,0,,-,734,TOMO,宮城県,1742,MARIMO,宮城県,2682,TP-KRN,宮城県,0,,-
-SPADA,ra'am,0,,-,993,MARISA,宮城県,1730,OMAME,宮城県,2733,KEEL,宮城県,0,,-
+SPADA,ra'am,0,,-,1038,MARISA,宮城県,1730,OMAME,宮城県,2733,KEEL,宮城県,0,,-
 SPADA,PUNISHER,0,,-,1038,HILLT,宮城県,2038,A-BONE,宮城県,3546,KEEL,宮城県,0,,-
 SPADA,Pharaoh,0,,-,608,H.R.T.,宮城県,1331,SUKORU,宮城県,2363,NEMOUS,宮城県,0,,-
 SPADA,Overload Frontier,0,,-,778,INKYO.,宮城県,1677,C,宮城県,2567,KEEL,宮城県,0,,-
@@ -745,7 +745,7 @@ SPADA,MAD ATTACK,0,,-,649,H.R.T.,宮城県,1279,TKKN,宮城県,1936,KEEL,宮城�
 SPADA,m1dy Deluxe,0,,-,1145,MARIMO,宮城県,1587,SUKORU,宮城県,2549,KEEL,宮城県,0,,-
 SPADA,M.D.Injection,0,,-,561,H.R.T.,宮城県,1215,MENU,宮城県,2378,CYR,宮城県,0,,-
 SPADA,Lighting Shower,0,,-,759,H.R.T.,宮城県,1267,MENU,宮城県,2326,TENKUN,宮城県,0,,-
-SPADA,Last Dance,0,,-,1168,MARIMO,宮城県,1851,MARIMO,宮城県,3202,KEEL,宮城県,0,,-
+SPADA,Last Dance,0,,-,1168,MARIMO,宮城県,1876,WRXSTI,宮城県,3202,KEEL,宮城県,0,,-
 SPADA,KHAMEN BREAK,0,,-,544,H.R.T.,宮城県,1350,C,宮城県,2437,CYR,宮城県,0,,-
 SPADA,KAISER PHOENIX,0,,-,1330,MARIMO,宮城県,2091,A-BONE,宮城県,3224,KEEL,宮城県,3845,KEEL,宮城県
 SPADA,IX,0,,-,1008,FLEDER,宮城県,2291,W1Z4RD,宮城県,3810,KEEL,宮城県,0,,-
@@ -805,7 +805,7 @@ PENDUAL,それは花火のような恋,698,MARIMO,宮城県,1191,J.II.E,宮城�
 PENDUAL,ZZ,203,WRXSTI,宮城県,1265,INKYO.,宮城県,1971,W1Z4RD,宮城県,3012,KEEL,宮城県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1152,MARIMO,宮城県,2219,A-BONE,宮城県,3635,KEEL,宮城県,0,,-
 PENDUAL,Vulkan,0,,-,918,HILLT,宮城県,1933,OMAME,宮城県,2971,YUFFIE,宮城県,0,,-
-PENDUAL,TOXIC VIBRATION,0,,-,1433,AL2B,宮城県,2272,IRENE.,宮城県,3746,KEEL,宮城県,0,,-
+PENDUAL,TOXIC VIBRATION,0,,-,1433,AL2B,宮城県,2285,S.S-R1,宮城県,3746,KEEL,宮城県,0,,-
 PENDUAL,TIEFSEE,0,,-,1142,HILLT,宮城県,2067,MARIMO,宮城県,3429,KEEL,宮城県,0,,-
 PENDUAL,The Least 100sec,0,,-,711,J.II.E,宮城県,1426,MARIMO,宮城県,2865,KEEL,宮城県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,989,BNG,宮城県,1587,LIERRE,宮城県,2270,KIMARI,宮城県,0,,-
@@ -838,7 +838,7 @@ PENDUAL,illuminate,0,,-,591,H.R.T.,宮城県,1527,MARIMO,宮城県,2292,KEEL,宮
 PENDUAL,Hello Happiness,0,,-,883,MARIMO,宮城県,1594,CAG3,宮城県,2275,UF,宮城県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,850,J.II.E,宮城県,1633,C,宮城県,2769,KIMARI,宮城県,0,,-
 PENDUAL,Gravigazer,0,,-,876,L.E.H.,宮城県,1785,A-BONE,宮城県,2949,KEEL,宮城県,0,,-
-PENDUAL,Flashes,0,,-,874,HILLT,宮城県,1726,IIDX27,宮城県,3228,KEEL,宮城県,0,,-
+PENDUAL,Flashes,0,,-,884,HILLT,宮城県,1726,IIDX27,宮城県,3228,KEEL,宮城県,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1277,MARISA,宮城県,2096,RAY,宮城県,3133,KEEL,宮城県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1174,MARIMO,宮城県,2090,EBI,宮城県,3376,KEEL,宮城県,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,729,L.E.H.,宮城県,1447,MENU,宮城県,2168,KEEL,宮城県,0,,-
@@ -852,7 +852,7 @@ PENDUAL,cinder,0,,-,768,HILLT,宮城県,1917,A-BONE,宮城県,3119,KEEL,宮城�
 PENDUAL,Chronos,0,,-,829,YUKI,宮城県,1343,IIDX27,宮城県,2329,KEEL,宮城県,0,,-
 PENDUAL,Chrono Diver -PENDULUMs-,554,MARIMO,宮城県,1401,MARIMO,宮城県,2716,TP-KRN,宮城県,4269,KEEL,宮城県,0,,-
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,1068,HILLT,宮城県,2124,CAG3,宮城県,3053,NCG.SF,宮城県,4216,HIRO,宮城県
-PENDUAL,chrono diver -fragment-,0,,-,690,MARIMO,宮城県,1159,IIDX27,宮城県,1789,KEEL,宮城県,2220,TP-KRN,宮城県
+PENDUAL,chrono diver -fragment-,0,,-,690,MARIMO,宮城県,1159,IIDX27,宮城県,1789,KEEL,宮城県,2223,TENKUN,宮城県
 PENDUAL,Chain of pain,0,,-,657,H.R.T.,宮城県,1462,SUKORU,宮城県,2210,KEEL,宮城県,0,,-
 PENDUAL,Broken Sword,0,,-,1283,MARIMO,宮城県,1997,A-BONE,宮城県,3698,KEEL,宮城県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1079,MUGI,宮城県,1967,A-BONE,宮城県,3039,KEEL,宮城県,0,,-
@@ -930,7 +930,7 @@ copula,do the thing feat. Kanae Asaba,0,,-,605,L.E.H.,宮城県,1440,C,宮城県
 copula,DIAMOND CROSSING,0,,-,984,MARIMO,宮城県,1739,S.S-R1,宮城県,3017,KEEL,宮城県,0,,-
 copula,Devil's Gear,0,,-,923,-D-,宮城県,2110,S.S-R1,宮城県,3413,KEEL,宮城県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,1208,NEKO*,宮城県,1813,C,宮城県,2587,UF,宮城県,0,,-
-copula,Damage Per Second,0,,-,855,L.E.H.,宮城県,1361,C,宮城県,2030,KEEL,宮城県,2218,4419ZO,宮城県
+copula,Damage Per Second,0,,-,855,L.E.H.,宮城県,1361,C,宮城県,2030,KEEL,宮城県,2234,TENKUN,宮城県
 copula,Daily Lunch Special,0,,-,951,BNG,宮城県,2044,GSTMOG,宮城県,2867,TP-KRN,宮城県,0,,-
 copula,CODE:1 [revision1.0.1],0,,-,915,EBI,宮城県,1690,A-BONE,宮城県,3055,KEEL,宮城県,0,,-
 copula,chaos eater -IIDX edition-,0,,-,1057,HILLT,宮城県,1672,IIDX27,宮城県,2578,KIMARI,宮城県,0,,-
@@ -943,7 +943,7 @@ copula,AO-1,0,,-,1243,EBI,宮城県,1886,HTLV-1,宮城県,2758,KEEL,宮城県,0,
 copula,Angelic Jelly,0,,-,1072,L.E.H.,宮城県,1974,MARIMO,宮城県,2692,KIMARI,宮城県,0,,-
 copula,Acid Pumper,0,,-,679,MARIMO,宮城県,1507,CAG3,宮城県,2437,KEEL,宮城県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,674,INKYO.,宮城県,1612,TP-KRN,宮城県,2331,KEEL,宮城県,0,,-
-SINOBUZ,鴉,0,,-,1410,VELIX,宮城県,2095,LUVME!,宮城県,2648,KEEL,宮城県,0,,-
+SINOBUZ,鴉,0,,-,1410,VELIX,宮城県,2177,S.S-R1,宮城県,2648,KEEL,宮城県,0,,-
 SINOBUZ,童話回廊,0,,-,830,U,宮城県,1661,MARIMO,宮城県,3074,KEEL,宮城県,0,,-
 SINOBUZ,禍根,0,,-,744,MOFTAN,宮城県,1310,LEIRU,宮城県,2582,KEEL,宮城県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,450,H.R.T.,宮城県,1054,MENU,宮城県,1702,TENKUN,宮城県,0,,-
@@ -962,17 +962,17 @@ SINOBUZ,イザナミノナゲキ,0,,-,1185,1N319N,宮城県,1958,1N319N,宮城�
 SINOBUZ,ちらちら・はらはら,0,,-,412,MARIMO,宮城県,935,MARIMO,宮城県,1422,KIMARI,宮城県,0,,-
 SINOBUZ,〆,0,,-,1289,1N319N,宮城県,2341,1N319N,宮城県,3573,ICHIKA,宮城県,0,,-
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,662,H.R.T.,宮城県,1757,SHV46,宮城県,2867,KEEL,宮城県,0,,-
-SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,894,HILLT,宮城県,1505,MENU,宮城県,2546,TP-KRN,宮城県,0,,-
+SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,894,HILLT,宮城県,1505,MENU,宮城県,2547,NIX-01,宮城県,0,,-
 SINOBUZ,XINOBIKILL,0,,-,990,MARIMO,宮城県,1768,ICHIKA,宮城県,2865,KEEL,宮城県,0,,-
 SINOBUZ,Warrior,0,,-,979,ZUKA,宮城県,1685,SUKORU,宮城県,2430,4419ZO,宮城県,0,,-
 SINOBUZ,Vermilion,0,,-,650,NOMYA,宮城県,1286,MARISA,宮城県,2015,KEEL,宮城県,0,,-
-SINOBUZ,Venom,0,,-,1102,-D-,宮城県,2073,A-BONE,宮城県,3153,KEEL,宮城県,0,,-
+SINOBUZ,Venom,0,,-,1219,RAY,宮城県,2073,A-BONE,宮城県,3153,KEEL,宮城県,0,,-
 SINOBUZ,Umbral,0,,-,575,H.R.T.,宮城県,1348,C,宮城県,1900,KEEL,宮城県,0,,-
 SINOBUZ,TOGAKUSHI,0,,-,1012,MARIMO,宮城県,1803,YD1,宮城県,2560,KEEL,宮城県,0,,-
 SINOBUZ,The Commanders,0,,-,954,MARIMO,宮城県,1480,MARIMO,宮城県,2435,1N319N,宮城県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,561,MARIMO,宮城県,1228,MARIMO,宮城県,1907,CYR,宮城県,0,,-
 SINOBUZ,Surf on the Light,0,,-,777,1N319N,宮城県,1482,1N319N,宮城県,2222,KIMARI,宮城県,0,,-
-SINOBUZ,Super Rush,0,,-,1008,MARIMO,宮城県,1813,KIKO.,宮城県,3441,CYR,宮城県,0,,-
+SINOBUZ,Super Rush,0,,-,1008,MARIMO,宮城県,1843,OWO,宮城県,3441,CYR,宮城県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1101,MARIMO,宮城県,1800,DORA,宮城県,3044,CYR,宮城県,0,,-
 SINOBUZ,Steel Edge,0,,-,665,SINKYA,宮城県,1464,ASA,宮城県,3100,CYR,宮城県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1037,YUTAKA,宮城県,2087,A-BONE,宮城県,3385,KEEL,宮城県,0,,-
@@ -982,7 +982,7 @@ SINOBUZ,shuriken,0,,-,711,TAIKI,宮城県,1070,C,宮城県,2527,KEEL,宮城県,0
 SINOBUZ,Shoot'Em All,0,,-,700,H.R.T.,宮城県,1392,C,宮城県,2386,NEMOUS,宮城県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,1024,HAO123,宮城県,2127,WANI,宮城県,2840,KEEL,宮城県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,591,H.R.T.,宮城県,897,C,宮城県,1701,KEEL,宮城県,0,,-
-SINOBUZ,Seize the Day,0,,-,688,ALT,宮城県,1333,MARIMO,宮城県,2117,KEEL,宮城県,0,,-
+SINOBUZ,Seize the Day,0,,-,688,ALT,宮城県,1333,MARIMO,宮城県,2119,TP-KRN,宮城県,0,,-
 SINOBUZ,Seaside Labyrinth,0,,-,378,M.FUKU,宮城県,1265,H*PORN,宮城県,1839,TP-KRN,宮城県,0,,-
 SINOBUZ,SAY BAY,0,,-,842,MARIMO,宮城県,1454,MARIMO,宮城県,2763,KEEL,宮城県,0,,-
 SINOBUZ,Sarutobi Champion is 拙者,0,,-,825,MARISA,宮城県,1441,MARIMO,宮城県,2136,CYR,宮城県,0,,-
@@ -1015,7 +1015,7 @@ SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,642,MARIMO,宮城県,1131,C,宮�
 SINOBUZ,Egret and Willow,0,,-,901,MU,宮城県,1576,C,宮城県,2719,KEEL,宮城県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1075,Y69.,宮城県,2079,EBI,宮城県,3315,KEEL,宮城県,0,,-
 SINOBUZ,DORNWALD ～Junge～,0,,-,1256,IIDX27,宮城県,2068,MARIMO,宮城県,3647,KEEL,宮城県,0,,-
-SINOBUZ,Cyber True Color,0,,-,518,YUNO,宮城県,1494,MARISA,宮城県,2283,HIRO,宮城県,0,,-
+SINOBUZ,Cyber True Color,0,,-,659,FELT,宮城県,1530,MENU,宮城県,2283,HIRO,宮城県,0,,-
 SINOBUZ,crew,0,,-,633,1N319N,宮城県,1727,1N319N,宮城県,2915,KEEL,宮城県,0,,-
 SINOBUZ,Caterpillar,0,,-,1117,SOBA,宮城県,2079,RAY,宮城県,3000,KEEL,宮城県,0,,-
 SINOBUZ,BroGamer,0,,-,1369,UF,宮城県,2059,GSTMOG,宮城県,3044,KEEL,宮城県,0,,-
@@ -1050,7 +1050,7 @@ CANNON BALLERS,シムルグの目醒め,0,,-,1266,Y69.,宮城県,2257,TOKI.,宮�
 CANNON BALLERS,エディブルフラワーの独白,0,,-,763,H.R.T.,宮城県,1500,MARIMO,宮城県,2163,NCG.SF,宮城県,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,873,MARISA,宮城県,1602,EBI,宮城県,2460,NCG.SF,宮城県,0,,-
 CANNON BALLERS,Xperanza,542,HERO&C,宮城県,1358,MENU,宮城県,2337,HTLV-1,宮城県,3126,KEEL,宮城県,0,,-
-CANNON BALLERS,VOX RUSH,0,,-,1271,ZUKA,宮城県,2118,A-BONE,宮城県,3328,KEEL,宮城県,0,,-
+CANNON BALLERS,VOX RUSH,0,,-,1271,ZUKA,宮城県,2166,H*PORN,宮城県,3328,KEEL,宮城県,0,,-
 CANNON BALLERS,Usual Days-remix,0,,-,892,ZORA,宮城県,1485,EBI,宮城県,2640,KEEL,宮城県,0,,-
 CANNON BALLERS,UMMU,435,WRXSTI,宮城県,1144,KAIN,宮城県,1940,MARIMO,宮城県,3064,KEEL,宮城県,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,708,T.HORI,宮城県,1454,C,宮城県,1818,NIX-01,宮城県,0,,-
@@ -1108,7 +1108,7 @@ CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,738,VSC,宮城県,1394,MARIMO,�
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1268,MARIMO,宮城県,1804,SUKORU,宮城県,2617,KEEL,宮城県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,733,HILLT,宮城県,1395,ASA,宮城県,2123,NCG.SF,宮城県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,929,BNG,宮城県,1756,MARIMO,宮城県,2732,NEMOUS,宮城県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,975,RIRAN,宮城県,1745,MENU,宮城県,2439,HIRO,宮城県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,1273,MENU,宮城県,1813,MENU,宮城県,2439,HIRO,宮城県,0,,-
 CANNON BALLERS,Boomy and The Boost,0,,-,1046,1N319N,宮城県,2023,1N319N,宮城県,3518,KEEL,宮城県,0,,-
 CANNON BALLERS,Best of Me,0,,-,736,H.R.T.,宮城県,1550,ASA,宮城県,2164,VIGGEN,宮城県,0,,-
 CANNON BALLERS,Beast mode,0,,-,909,BMB.UG,宮城県,1503,EGO,宮城県,2641,KIMARI,宮城県,0,,-
@@ -1140,14 +1140,14 @@ Rootage,ハードベース・フェスタ,0,,-,1126,EBI,宮城県,1804,1N319N,�
 Rootage,セカンドピアス,0,,-,539,H.R.T.,宮城県,1076,C,宮城県,2005,NEMOUS,宮城県,0,,-
 Rootage,サクラあっぱれーしょん,268,MARIMO,宮城県,624,MARIMO,宮城県,1521,IIDX27,宮城県,2280,KIMARI,宮城県,0,,-
 Rootage,グラナダの風,0,,-,729,HILLT,宮城県,1142,C,宮城県,1804,NEMOUS,宮城県,0,,-
-Rootage,お菓子の王国,0,,-,1389,LENNA,宮城県,2165,HIM,宮城県,4021,KEEL,宮城県,0,,-
+Rootage,お菓子の王国,0,,-,1397,MENU,宮城県,2165,HIM,宮城県,4021,KEEL,宮城県,0,,-
 Rootage,Yum Yum Jelly,0,,-,708,AMAZON,宮城県,1515,SR-3,宮城県,2340,NCG.SF,宮城県,0,,-
 Rootage,Xlo,0,,-,1504,EBI,宮城県,2334,W1Z4RD,宮城県,3748,KEEL,宮城県,0,,-
 Rootage,X-DEN,0,,-,1560,WRXSTI,宮城県,2605,HIRO,宮城県,4018,KEEL,宮城県,0,,-
 Rootage,Wonderland,0,,-,1071,1N319N,宮城県,1881,1N319N,宮城県,2700,KEEL,宮城県,0,,-
 Rootage,Won(*3*)Chu KissMe!,270,MARIMO,宮城県,877,MACU,宮城県,1346,HERO&C,宮城県,2443,TENKUN,宮城県,0,,-
 Rootage,Wolf 1061,0,,-,977,INKYO.,宮城県,1662,ASA,宮城県,3085,KEEL,宮城県,0,,-
-Rootage,Wing of Hearts,0,,-,1108,EBI,宮城県,1736,IIDX27,宮城県,2859,OSHU4.,宮城県,0,,-
+Rootage,Wing of Hearts,0,,-,1108,EBI,宮城県,1761,ASA,宮城県,2859,OSHU4.,宮城県,0,,-
 Rootage,Visterhv,0,,-,1239,HERO&C,宮城県,2104,HAO123,宮城県,3651,KEEL,宮城県,0,,-
 Rootage,Urban Constellations,0,,-,708,HERO&C,宮城県,1392,H*PORN,宮城県,2236,KEEL,宮城県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1004,TAIKI,宮城県,2002,MARIMO,宮城県,3207,KEEL,宮城県,0,,-
