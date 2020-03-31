@@ -52,7 +52,7 @@
 4th style,Broken My Heart,0,,-,0,,-,1325,M00PY,タイ,1603,YOUKAI,タイ,0,,-
 4th style,B4U,0,,-,0,,-,1306,HYPERV,タイ,1783,YOSHI0,タイ,0,,-
 4th style,ABSOLUTE,0,,-,1295,T*KORO,タイ,1573,M00PY,タイ,2075,967,タイ,2632,NART!!,タイ
-4th style,250bpm,0,,-,0,,-,641,SAKI.,タイ,1074,TA96O,タイ,0,,-
+4th style,250bpm,0,,-,0,,-,641,SAKI.,タイ,1170,967,タイ,0,,-
 5th style,V,342,H027C,タイ,940,MK.RRM,タイ,2111,GLD570,タイ,2780,INU?,タイ,0,,-
 5th style,THE SHINING POLARIS,0,,-,0,,-,743,PASCAL,タイ,1425,M00PY,タイ,0,,-
 5th style,THE CUBE,0,,-,0,,-,0,,-,988,MAXYV.,タイ,0,,-
@@ -250,7 +250,7 @@ HAPPY SKY,Tizona d'El Cid,0,,-,0,,-,1051,PASCAL,タイ,2168,INU?,タイ,0,,-
 HAPPY SKY,SigSig,521,TAQNO,タイ,831,96!?,タイ,1122,NASUME,タイ,2460,MUSHO9,タイ,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,0,,-,0,,-,1850,YOSHIO,タイ,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1449,ZEE,タイ,1799,967,タイ,2219,SPIKE!,タイ,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1177,SLP.LS,タイ,1849,KKMTC*,タイ,2876,FISHER,タイ,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1177,SLP.LS,タイ,1916,967,タイ,2876,FISHER,タイ,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,951,PAUL,タイ,1502,SPIKE!,タイ,1852,.MAD,タイ,0,,-
 HAPPY SKY,rage against usual,0,,-,729,PASCAL,タイ,1633,SDGS,タイ,2754,FISHER,タイ,0,,-
 HAPPY SKY,POODLE,0,,-,546,ENR8,タイ,1689,M00PY,タイ,2191,SEIKIN,タイ,3311,AYA.K,タイ
@@ -332,7 +332,7 @@ GOLD,snow storm,233,H027C,タイ,645,SUNA,タイ,2072,25CHIN,タイ,2709,C.C.,�
 GOLD,smile,0,,-,909,ENR8,タイ,2051,ERIRI.,タイ,2787,AYA.K,タイ,0,,-
 GOLD,Sense 2007,0,,-,1173,A9*RON,タイ,1785,LF,タイ,2688,VANITY,タイ,0,,-
 GOLD,Second Heaven,222,H027C,タイ,618,FH.PNK,タイ,1434,M00PY,タイ,2093,INU?,タイ,0,,-
-GOLD,Roulette,0,,-,0,,-,1178,M00PY,タイ,1832,967,タイ,0,,-
+GOLD,Roulette,0,,-,0,,-,1178,M00PY,タイ,1868,441.93,タイ,0,,-
 GOLD,PHOTONGENIC,0,,-,1121,BOYDTR,タイ,1635,M00PY,タイ,2037,CG901B,タイ,0,,-
 GOLD,op.31 叙情,0,,-,0,,-,864,KKMTC*,タイ,1398,H027C,タイ,0,,-
 GOLD,never…,0,,-,0,,-,0,,-,1732,SEIKIN,タイ,0,,-
@@ -351,9 +351,9 @@ GOLD,FIRE FIRE,570,H027C,タイ,831,SCHAU,タイ,1662,MUSHO9,タイ,2617,C.C.,�
 GOLD,Fascination MAXX,0,,-,850,SPIKE!,タイ,1632,AYA.K,タイ,2336,INU?,タイ,0,,-
 GOLD,Cyber Force,0,,-,873,GUEST,タイ,1708,M00PY,タイ,2270,C.C.,タイ,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,537,MARK!!,タイ,1605,BOYDTR,タイ,2171,INU?,タイ,0,,-
-GOLD,CaptivAte～誓い～,0,,-,613,NUTCH,タイ,1808,M00PY,タイ,2031,ME!JI,タイ,0,,-
+GOLD,CaptivAte～誓い～,0,,-,613,NUTCH,タイ,1808,M00PY,タイ,2167,AYA.K,タイ,0,,-
 GOLD,CaptivAte～裁き～,335,MDHP,タイ,786,BOYDTR,タイ,1111,M00PY,タイ,1545,YOUKAI,タイ,0,,-
-GOLD,Candy Galy,0,,-,1044,PEDRO,タイ,2040,M00PY,タイ,3451,AYA.K,タイ,0,,-
+GOLD,Candy Galy,0,,-,1044,PEDRO,タイ,2298,MUSHO9,タイ,3451,AYA.K,タイ,0,,-
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1083,YOKZAR,タイ,1813,M00PY,タイ,2432,NART!!,タイ,0,,-
 GOLD,ANDROMEDA II,0,,-,0,,-,1618,BOYDTR,タイ,2180,SETI,タイ,0,,-
 GOLD,Air Bell,0,,-,943,AYA.K,タイ,0,,-,1669,AYA.K,タイ,0,,-
@@ -414,7 +414,7 @@ EMPRESS,凛として咲く花の如く,327,FURUKU,タイ,1126,ZEE,タイ,1993,25
 EMPRESS,不沈艦CANDY,420,QWERKY,タイ,777,PASCAL,タイ,1350,MAME,タイ,3078,FISHER,タイ,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,0,,-,880,HAM-P*,タイ,2720,AYA.K,タイ,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,686,JA,タイ,1888,TI,タイ,2355,SEIKIN,タイ,0,,-
-EMPRESS,まほろば,0,,-,623,MK.RRM,タイ,1264,BOYDTR,タイ,1816,ME!JI,タイ,0,,-
+EMPRESS,まほろば,0,,-,623,MK.RRM,タイ,1264,BOYDTR,タイ,1884,MUSHO9,タイ,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1089,HYPERV,タイ,1462,AZVW-2,タイ,2284,AYA.K,タイ,0,,-
 EMPRESS,Y&Co. is dead or alive,0,,-,602,SLP.LS,タイ,1610,KKMTC*,タイ,2512,FISHER,タイ,0,,-
 EMPRESS,V2,797,MUSHO9,タイ,970,MK.RRM,タイ,2771,MUSHO9,タイ,3399,AYA.K,タイ,0,,-
@@ -584,7 +584,7 @@ Lincle,Star Trail,0,,-,570,0NZK,タイ,951,BRAVER,タイ,1748,AYA.K,タイ,0,,-
 Lincle,Snow Goose,302,H027C,タイ,262,AQUA,タイ,1036,A,タイ,2360,AYA.K,タイ,0,,-
 Lincle,Snake Stick,0,,-,0,,-,1859,MUSHO9,タイ,2425,T*KORO,タイ,0,,-
 Lincle,SHADE,0,,-,920,MK.RRM,タイ,1845,C*SHIN,タイ,2822,FISHER,タイ,0,,-
-Lincle,Several Words,0,,-,534,MK.RRM,タイ,1205,DJMAHO,タイ,2044,SEIKIN,タイ,0,,-
+Lincle,Several Words,0,,-,534,MK.RRM,タイ,1205,DJMAHO,タイ,2065,SEIKIN,タイ,0,,-
 Lincle,Scharfrichter,0,,-,703,PASCAL,タイ,1513,FAKE,タイ,2752,.MAD,タイ,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,352,JA,タイ,1136,BOYDTR,タイ,1404,KKMTC*,タイ,0,,-
 Lincle,Round and Round,0,,-,614,MAXYV.,タイ,804,ENR8,タイ,2055,FISHER,タイ,0,,-
@@ -717,7 +717,7 @@ SPADA,廿,0,,-,0,,-,1179,YUUGEN,タイ,2075,KKMTC*,タイ,2763,YOSHIO,タイ
 SPADA,幻想系世界修復少女,212,H027C,タイ,430,M,タイ,915,GUEST,タイ,1801,SPIKE!,タイ,0,,-
 SPADA,バンブーソード・ガール,267,H027C,タイ,0,,-,1651,YOD00,タイ,2238,INU?,タイ,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,528,M!SO,タイ,1026,RRKM,タイ,2577,AYA.K,タイ,0,,-
-SPADA,アルストロメリア,216,H027C,タイ,668,M,タイ,1409,BOYDTR,タイ,2231,IIDX26,タイ,0,,-
+SPADA,アルストロメリア,216,H027C,タイ,668,M,タイ,1409,BOYDTR,タイ,2289,YOSHIO,タイ,0,,-
 SPADA,お願いアインシュタイン,0,,-,0,,-,1015,A,タイ,2013,MUSHO9,タイ,0,,-
 SPADA,Wonder Girl feat. Kanae Asaba,0,,-,397,A,タイ,910,YOKZAR,タイ,2675,NART!!,タイ,0,,-
 SPADA,VOX UP,0,,-,1279,SLP.LS,タイ,2304,SPIKE!,タイ,3276,AYA.K,タイ,0,,-
@@ -875,7 +875,7 @@ copula,明鏡止水,0,,-,0,,-,1528,EX-AID,タイ,2572,INU?,タイ,0,,-
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,731,TA96O,タイ,1147,SLP.LS,タイ,1978,MUSHO9,タイ,0,,-
 copula,セロトニン,0,,-,724,KLOXC*,タイ,1616,BOYDTR,タイ,2256,FISHER,タイ,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,560,MARK!!,タイ,1619,YUZU,タイ,2394,AYA.K,タイ,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,557,ENR8,タイ,1150,CIEL,タイ,2141,IIDX26,タイ,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,557,ENR8,タイ,1150,CIEL,タイ,2163,YOSHIO,タイ,0,,-
 copula,オルタネイトβ,0,,-,605,MK.RRM,タイ,1066,PEDRO,タイ,2195,NART!!,タイ,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,953,A,タイ,1966,N!7IXG,タイ,3247,AYA.K,タイ,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,0,,-,1570,YOD00,タイ,2476,SPIKE!,タイ,0,,-
@@ -995,9 +995,9 @@ SINOBUZ,RAIN,0,,-,1024,BOYDTR,タイ,1560,KURO46,タイ,3111,FISHER,タイ,0,,-
 SINOBUZ,Quakes,0,,-,883,PASCAL,タイ,1790,GLD570,タイ,2985,AYA.K,タイ,0,,-
 SINOBUZ,Piano Samurai,0,,-,0,,-,1541,YOD00,タイ,2355,ERIRI.,タイ,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,567,SCHAU,タイ,1391,ARPPLE,タイ,2696,T*KORO,タイ,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,803,SCHAU,タイ,1967,KKMTC*,タイ,2708,ERIRI.,タイ,0,,-
-SINOBUZ,OOO,0,,-,590,JR.P,タイ,1127,IIDX27,タイ,1987,SEIKIN,タイ,0,,-
-SINOBUZ,nostos,0,,-,0,,-,860,YOKZAR,タイ,2238,.MAD,タイ,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,803,SCHAU,タイ,1967,KKMTC*,タイ,2789,-TKP-,タイ,0,,-
+SINOBUZ,OOO,0,,-,590,JR.P,タイ,1127,IIDX27,タイ,1999,SEIKIN,タイ,0,,-
+SINOBUZ,nostos,0,,-,0,,-,860,YOKZAR,タイ,2301,SEIKIN,タイ,0,,-
 SINOBUZ,Music is The Answer,0,,-,245,SPOON,タイ,1200,BOYBOY,タイ,1812,FISHER,タイ,0,,-
 SINOBUZ,Modular Technology,0,,-,0,,-,1689,YOD00,タイ,2310,SOU10,タイ,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1090,SLP.LS,タイ,2009,FISHER,タイ,3468,FISHER,タイ,0,,-
@@ -1046,7 +1046,7 @@ CANNON BALLERS,バスルーム ロマンス,0,,-,643,JA,タイ,1020,YOKZAR,タ�
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,647,NOBITA,タイ,1674,ERIRI.,タイ,2457,FISHER,タイ,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,719,NNR,タイ,1282,PEDRO,タイ,2382,FISHER,タイ,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,793,MAXYV.,タイ,1512,KKMTC*,タイ,2017,ERIRI.,タイ,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1113,MAXYV.,タイ,1983,YOUKAI,タイ,3292,AYA.K,タイ,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1113,MAXYV.,タイ,2021,POCOOO,タイ,3292,AYA.K,タイ,0,,-
 CANNON BALLERS,エディブルフラワーの独白,0,,-,451,YAJUSP,タイ,1284,MDHP,タイ,2127,SPIKE!,タイ,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,0,,-,0,,-,2397,T*KORO,タイ,0,,-
 CANNON BALLERS,Xperanza,544,H027C,タイ,1223,BRAVER,タイ,2265,ME!JI,タイ,3068,FISHER,タイ,0,,-
@@ -1119,7 +1119,7 @@ CANNON BALLERS,Around the Future,0,,-,673,FURUKU,タイ,1390,YAMA*!,タイ,2360,
 CANNON BALLERS,Arca,0,,-,774,YOKZAR,タイ,1654,SDGS,タイ,2961,FISHER,タイ,0,,-
 CANNON BALLERS,Antigravity,0,,-,918,BRAVER,タイ,1898,SPIKE!,タイ,2916,AYA.K,タイ,0,,-
 CANNON BALLERS,ANCHOR,0,,-,1249,BOYDTR,タイ,2445,NART!!,タイ,3434,AYA.K,タイ,0,,-
-CANNON BALLERS,ANAGMA,0,,-,580,M,タイ,1648,M00PY,タイ,2341,SOU10,タイ,0,,-
+CANNON BALLERS,ANAGMA,0,,-,580,M,タイ,1648,M00PY,タイ,2465,MUSHO9,タイ,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,579,FURUKU,タイ,1392,SPIKE!,タイ,2196,C.C.,タイ,0,,-
 CANNON BALLERS,Alpheratz,0,,-,390,N!7IXG,タイ,785,JR.P,タイ,2046,AYA.K,タイ,0,,-
 CANNON BALLERS,Acidiva 303,0,,-,517,M,タイ,926,FURUKU,タイ,2183,VANITY,タイ,0,,-
@@ -1181,7 +1181,7 @@ Rootage,ONIGOROSHI,0,,-,753,GUEST,タイ,1607,AZVW-2,タイ,2775,FISHER,タイ,0
 Rootage,Night! Night! Night!,0,,-,1169,KKMTC*,タイ,1803,MUSHO9,タイ,2784,MUSHO9,タイ,0,,-
 Rootage,Necroxis Girl,0,,-,1124,AYA.K,タイ,1909,NART!!,タイ,2568,MUSHO9,タイ,0,,-
 Rootage,Macho Monky,0,,-,1370,KKMTC*,タイ,2024,SPIKE!,タイ,2750,H027C,タイ,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,0,,-,1828,NART!!,タイ,2928,YOSHIO,タイ,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,0,,-,1828,NART!!,タイ,2947,ERIRI.,タイ,0,,-
 Rootage,Level One,0,,-,1058,GUEST,タイ,2236,NART!!,タイ,3241,AYA.K,タイ,0,,-
 Rootage,Lethal Weapon,0,,-,1147,KKMTC*,タイ,1760,ERIRI.,タイ,3154,AYA.K,タイ,0,,-
 Rootage,Let me be your cure,0,,-,755,ENR8,タイ,1338,ONI2KI,タイ,2622,AYA.K,タイ,0,,-
@@ -1279,7 +1279,7 @@ HEROIC VERSE,EXCITE,329,H027C,タイ,820,H027C,タイ,1357,H027C,タイ,2184,H02
 HEROIC VERSE,Duration,0,,-,541,H027C,タイ,1022,H027C,タイ,1934,H027C,タイ,0,,-
 HEROIC VERSE,Drop It,0,,-,1317,SPIKE!,タイ,1985,H027C,タイ,2665,FISHER,タイ,0,,-
 HEROIC VERSE,Do What You Want,0,,-,704,H027C,タイ,1262,H027C,タイ,1983,H027C,タイ,0,,-
-HEROIC VERSE,Crank It,0,,-,447,SIT,タイ,1436,NART!!,タイ,2370,SEIKIN,タイ,0,,-
+HEROIC VERSE,Crank It,0,,-,447,SIT,タイ,1436,NART!!,タイ,2373,SEIKIN,タイ,0,,-
 HEROIC VERSE,Change Yourself,0,,-,975,H027C,タイ,1736,H027C,タイ,2450,H027C,タイ,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,986,H027C,タイ,1487,H027C,タイ,2393,H027C,タイ,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,805,H027C,タイ,1911,NART!!,タイ,3002,FISHER,タイ,0,,-
