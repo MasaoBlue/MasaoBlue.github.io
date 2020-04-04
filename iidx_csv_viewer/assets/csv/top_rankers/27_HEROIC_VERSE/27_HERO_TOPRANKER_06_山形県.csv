@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,395,KOOOSK,山形県,0,,-,1089,TOMOKI,山形県,0,,-
-1st&substream,RUGGED ASH,0,,-,319,???,山形県,377,SILLY,山形県,1053,DONUTS,山形県,1892,EVNRSW,山形県
+1st&substream,RUGGED ASH,0,,-,319,???,山形県,377,SILLY,山形県,1053,DONUTS,山形県,1935,NANIKA,山形県
 1st&substream,R3,0,,-,366,ROBERT,山形県,412,ROBERT,山形県,878,TOMOKI,山形県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,402,ROBERT,山形県,495,KOOOSK,山形県,1046,TOMOKI,山形県,0,,-
 1st&substream,Macho Gang,0,,-,276,RYU916,山形県,765,FUBUKI,山形県,1576,EVNRSW,山形県,0,,-
@@ -147,7 +147,7 @@
 9th style,Silvia Drive,0,,-,521,LANDO*,山形県,1086,TAKI.,山形県,1986,XABRE,山形県,0,,-
 9th style,rottel-the-Mercury,0,,-,807,KEI,山形県,1838,DONUT$,山形県,2250,DONUTS,山形県,0,,-
 9th style,RISLIM -Remix-,0,,-,476,LAZY,山形県,802,3710,山形県,1779,XABRE,山形県,0,,-
-9th style,Really Love,0,,-,370,HG,山形県,931,ANI,山形県,1683,ANI,山形県,0,,-
+9th style,Really Love,0,,-,370,HG,山形県,931,ANI,山形県,1697,NANIKA,山形県,0,,-
 9th style,Quickening,0,,-,703,SUTA,山形県,1533,MIYAKO,山形県,2074,A-SORA,山形県,0,,-
 9th style,quasar,0,,-,938,GANO3,山形県,1626,JOKER,山形県,2275,A-SORA,山形県,0,,-
 9th style,one or eight,0,,-,1037,ARUBA,山形県,1769,D-,山形県,2189,NANIKA,山形県,0,,-
@@ -206,7 +206,7 @@ IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,595,CHII..,山形県,847,KILI,山形県,19
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,482,ROBERT,山形県,1374,TOMOKI,山形県,1650,TOMOKI,山形県,0,,-
 IIDX RED,大桟橋,0,,-,189,WAKA,山形県,995,AXEL09,山形県,1803,A-SORA,山形県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,775,2BASA,山形県,2074,DONUTS,山形県,2522,NANIKA,山形県,0,,-
-IIDX RED,Wonder Bullfighter,0,,-,0,,-,0,,-,1896,NANIKA,山形県,0,,-
+IIDX RED,Wonder Bullfighter,0,,-,0,,-,0,,-,1962,NANIKA,山形県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,613,KAZU,山形県,1428,BIFFAR,山形県,1824,TOMOKI,山形県,0,,-
 IIDX RED,spiral galaxy,0,,-,995,2BASA,山形県,1881,AMGS,山形県,2400,DEMI,山形県,3609,A-SORA,山形県
 IIDX RED,Sphere,0,,-,675,ROBERT,山形県,1670,FUKU,山形県,2060,EVNRSW,山形県,0,,-
@@ -273,7 +273,7 @@ HAPPY SKY,EDEN,0,,-,1033,SUTA,山形県,1927,DONUTS,山形県,2698,DONUTS,山形
 HAPPY SKY,double thrash,0,,-,696,ROBERT,山形県,1850,LIPTON,山形県,2239,Y*KANA,山形県,0,,-
 HAPPY SKY,Catch Me,0,,-,623,YOMO-R,山形県,1149,MA*,山形県,1689,RIZ,山形県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,877,ABA,山形県,1545,MIZUYU,山形県,2421,A-SORA,山形県,0,,-
-HAPPY SKY,Aurora,0,,-,1146,ARUBA,山形県,2019,ANI,山形県,2418,NANIKA,山形県,0,,-
+HAPPY SKY,Aurora,0,,-,1146,ARUBA,山形県,2041,DEMI,山形県,2418,NANIKA,山形県,0,,-
 HAPPY SKY,alla turca con passione,0,,-,585,AGE-T,山形県,1238,FUBUKI,山形県,2094,R-,山形県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,0,,-,1504,SA21,山形県,2055,DONUTS,山形県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,0,,-,1490,LIPTON,山形県,1638,EVNRSW,山形県,0,,-
@@ -298,11 +298,11 @@ DistorteD,Power of Love,0,,-,0,,-,1471,JOKER,山形県,2023,TOMOKI,山形県,0,,
 DistorteD,MOON,0,,-,648,KANI,山形県,1826,KAREN,山形県,2177,A-SORA,山形県,0,,-
 DistorteD,MINT,0,,-,0,,-,1624,JOKER,山形県,2167,Y*KANA,山形県,0,,-
 DistorteD,Melody Life,0,,-,438,RNP-A*,山形県,955,EBSRX,山形県,1813,QUNQUN,山形県,0,,-
-DistorteD,Leaving...,0,,-,649,KENP,山形県,1194,BIG,山形県,2117,Y*KANA,山形県,0,,-
+DistorteD,Leaving...,0,,-,649,KENP,山形県,1194,BIG,山形県,2135,NANIKA,山形県,0,,-
 DistorteD,INFERNO,0,,-,756,ROBERT,山形県,847,IRIS,山形県,1868,RIZ,山形県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,536,AGE-T,山形県,1513,MIYAKO,山形県,2022,NEWYO9,山形県,0,,-
 DistorteD,Harmony and Lovely,0,,-,453,AGE-T,山形県,1477,MA6CHA,山形県,2147,XABRE,山形県,0,,-
-DistorteD,Ganymede,0,,-,951,YOMO-R,山形県,1509,MAETA3,山形県,2122,Y*KANA,山形県,0,,-
+DistorteD,Ganymede,0,,-,1095,MIYAKO,山形県,1509,MAETA3,山形県,2122,Y*KANA,山形県,0,,-
 DistorteD,EURO-ROMANCE,0,,-,686,KOOOSK,山形県,1637,MA6CHA,山形県,2069,DONUTS,山形県,0,,-
 DistorteD,DUE TOMORROW,0,,-,689,SPMHZR,山形県,1273,ANI,山形県,1795,EVNRSW,山形県,0,,-
 DistorteD,Double Loving Heart,0,,-,437,ABA,山形県,1153,DAISY*,山形県,1763,R-,山形県,0,,-
@@ -317,9 +317,9 @@ DistorteD,Apocalypse ～dirge of swans～,229,BIG,山形県,830,FUBUKI,山形県
 DistorteD,ALFARSHEAR 双神威に廻る夢,393,FUBUKI,山形県,685,UTAO,山形県,1564,SA21,山形県,2021,QUNQUN,山形県,0,,-
 GOLD,電人、暁に斃れる。,619,PEN9LA,山形県,794,KENP,山形県,2262,TOMOKI,山形県,3218,A-SORA,山形県,0,,-
 GOLD,零 - ZERO -,193,KANTA,山形県,940,???,山形県,1635,SA21,山形県,2288,NANIKA,山形県,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,730,MIYAKO,山形県,774,KOTORI,山形県,1405,A-SORA,山形県,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,730,MIYAKO,山形県,774,KOTORI,山形県,1412,NANIKA,山形県,0,,-
 GOLD,星をこの手に,0,,-,1040,DAISY*,山形県,1307,YU****,山形県,2113,EVNRSW,山形県,0,,-
-GOLD,リグレット,0,,-,885,KOTORI,山形県,1544,3710,山形県,2366,R-,山形県,0,,-
+GOLD,リグレット,0,,-,885,KOTORI,山形県,1544,3710,山形県,2391,NANIKA,山形県,0,,-
 GOLD,ヨシダさん,0,,-,757,REN,山形県,1349,SA21,山形県,1947,NEWYO9,山形県,0,,-
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,369,MOCHA,山形県,855,FUBUKI,山形県,1305,$83,山形県,2225,DONUTS,山形県,0,,-
 GOLD,With your Smile,0,,-,489,ROBERT,山形県,1087,BIG,山形県,1554,NEWYO9,山形県,0,,-
@@ -330,7 +330,7 @@ GOLD,The Smile of You,0,,-,839,YS,山形県,1189,RYU916,山形県,1621,NEWYO9,�
 GOLD,the shadow,0,,-,0,,-,1865,JOKER,山形県,2837,NANIKA,山形県,0,,-
 GOLD,snow storm,178,POCHI,山形県,428,HG,山形県,1963,KAREN,山形県,2748,A-SORA,山形県,3304,A-SORA,山形県
 GOLD,smile,0,,-,1154,SUTA,山形県,1875,AMIGA,山形県,2844,NEWYO9,山形県,0,,-
-GOLD,Sense 2007,0,,-,1309,CHABO,山形県,2085,R-,山形県,2730,EVNRSW,山形県,0,,-
+GOLD,Sense 2007,0,,-,1309,CHABO,山形県,2085,R-,山形県,2811,NANIKA,山形県,0,,-
 GOLD,Second Heaven,205,2BASA,山形県,677,67KATA,山形県,1428,MA*,山形県,2047,Y*KANA,山形県,0,,-
 GOLD,Roulette,0,,-,588,67KATA,山形県,1207,DELTA*,山形県,2039,EVNRSW,山形県,0,,-
 GOLD,PHOTONGENIC,0,,-,874,YOMO-R,山形県,1050,A0N0RI,山形県,2246,XABRE,山形県,0,,-
@@ -340,7 +340,7 @@ GOLD,METALLIC MIND,0,,-,452,ROBERT,山形県,1245,KAREN,山形県,1568,Y*KANA,�
 GOLD,Make Me Your Own,0,,-,0,,-,1396,BRIGHT,山形県,2043,EVNRSW,山形県,0,,-
 GOLD,Love Again...,0,,-,509,*NAOO*,山形県,738,KOGA-R,山形県,1050,Y*KANA,山形県,0,,-
 GOLD,LASER CRUSTER,0,,-,1283,ALEXIA,山形県,2111,KA37GI,山形県,3116,NEWYO9,山形県,0,,-
-GOLD,KAMAITACHI,0,,-,750,KENP,山形県,1546,BIG,山形県,2615,DONUTS,山形県,3383,A-SORA,山形県
+GOLD,KAMAITACHI,0,,-,750,KENP,山形県,1772,3710,山形県,2615,DONUTS,山形県,3501,NANIKA,山形県
 GOLD,INORI,0,,-,1037,YAMATO,山形県,2412,ANI,山形県,3003,Y*KANA,山形県,0,,-
 GOLD,High School Love,230,UTAO,山形県,599,KKS,山形県,1351,BIG,山形県,2184,DONUTS,山形県,0,,-
 GOLD,heaven above,0,,-,551,ROBERT,山形県,1290,LOXON.,山形県,1814,NANIKA,山形県,0,,-
@@ -354,7 +354,7 @@ GOLD,CROSSROAD ～Left Story～,0,,-,472,KAE,山形県,1650,2BASA,山形県,2180
 GOLD,CaptivAte～誓い～,0,,-,1185,MA6CHA,山形県,1774,SA21,山形県,2214,DONUTS,山形県,0,,-
 GOLD,CaptivAte～裁き～,394,EVNRSW,山形県,589,KOTORI,山形県,1113,SHIRO,山形県,1692,Y*KANA,山形県,0,,-
 GOLD,Candy Galy,0,,-,1321,ARUBA,山形県,2378,Y*KANA,山形県,3464,NANIKA,山形県,0,,-
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1296,DONUT$,山形県,1610,ARUBA,山形県,2453,NEWYO9,山形県,0,,-
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1296,DONUT$,山形県,1706,FUKU,山形県,2453,NEWYO9,山形県,0,,-
 GOLD,ANDROMEDA II,0,,-,677,EL*514,山形県,1429,FUKU,山形県,2411,EVNRSW,山形県,0,,-
 GOLD,Air Bell,0,,-,811,???,山形県,1080,KEI,山形県,1652,R-,山形県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,357,LAZY,山形県,897,TA93N!,山形県,1320,D-,山形県,0,,-
@@ -364,7 +364,7 @@ DJ TROOPERS,ミラージュ・レジデンス,0,,-,610,JUN,山形県,1859,SA21,�
 DJ TROOPERS,マチ子の唄,0,,-,577,FUSION,山形県,1210,SA21,山形県,1757,TOMOKI,山形県,0,,-
 DJ TROOPERS,エコ爺,279,KANTA,山形県,0,,-,929,RYU916,山形県,1820,DONUTS,山形県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,432,JUN,山形県,1031,MA6CHA,山形県,1501,A-SORA,山形県,2522,NANIKA,山形県
-DJ TROOPERS,Ubertreffen,0,,-,1019,ALEXIA,山形県,1788,TMN,山形県,2445,NANIKA,山形県,3104,NEWYO9,山形県
+DJ TROOPERS,Ubertreffen,0,,-,1019,ALEXIA,山形県,1788,TMN,山形県,2445,NANIKA,山形県,3133,NANIKA,山形県
 DJ TROOPERS,TROOPERS,0,,-,1043,DAISY*,山形県,2106,LIPTON,山形県,2879,NEWYO9,山形県,0,,-
 DJ TROOPERS,Time to Air,0,,-,1154,ARUBA,山形県,1952,SAYA.,山形県,2831,NEWYO9,山形県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,610,ROBERT,山形県,1065,RYU916,山形県,1832,DONUT$,山形県,0,,-
@@ -387,7 +387,7 @@ DJ TROOPERS,MENTAL MELTDOWN,0,,-,847,KENP,山形県,1927,JIN..*,山形県,2598,Y
 DJ TROOPERS,MENDES,0,,-,1041,BIG,山形県,2462,NEWYO9,山形県,3361,NEWYO9,山形県,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,1343,NAO,山形県,1986,SA21,山形県,2541,TOMOKI,山形県,0,,-
 DJ TROOPERS,madrugada,0,,-,541,KANTA,山形県,1076,BIG,山形県,1824,NANIKA,山形県,0,,-
-DJ TROOPERS,LOVELY STORM,0,,-,915,KOTORI,山形県,1896,MASA,山形県,2724,QUNQUN,山形県,0,,-
+DJ TROOPERS,LOVELY STORM,0,,-,915,KOTORI,山形県,2073,DEMI,山形県,2724,QUNQUN,山形県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1075,YOMO-R,山形県,1269,DAISY*,山形県,1974,R-,山形県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1239,MASA,山形県,1926,MOON,山形県,2474,Y*KANA,山形県,0,,-
 DJ TROOPERS,ICARUS,0,,-,1083,MASA,山形県,1751,JOKER,山形県,2128,EVNRSW,山形県,3282,A-SORA,山形県
@@ -406,7 +406,7 @@ DJ TROOPERS,avant-guerre,0,,-,685,BIG,山形県,1192,2BASA,山形県,1809,NEWYO9
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1101,DAISY*,山形県,2017,KEEP,山形県,2812,DONUTS,山形県,0,,-
 DJ TROOPERS,2 tribe 4 K,0,,-,703,YOMO-R,山形県,1238,U-.-U,山形県,2562,EVNRSW,山形県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,814,YS,山形県,1540,LARK!7,山形県,2151,A-SORA,山形県,0,,-
-EMPRESS,翼,0,,-,562,FEZA,山形県,1435,SA21,山形県,1929,R-,山形県,0,,-
+EMPRESS,翼,0,,-,562,FEZA,山形県,1435,SA21,山形県,1931,OPI.IK,山形県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,418,625*3,山形県,1139,BIG,山形県,2008,DONUTS,山形県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,654,YAMATO,山形県,1911,MIZUYU,山形県,2450,A-SORA,山形県,0,,-
 EMPRESS,卑弥呼,0,,-,1078,MASA,山形県,2535,NEWYO9,山形県,3701,NANIKA,山形県,0,,-
@@ -428,10 +428,10 @@ EMPRESS,Punch Love 仮面,0,,-,0,,-,1657,DEMI,山形県,2482,NEWYO9,山形県,0,
 EMPRESS,Programmed World,0,,-,0,,-,1496,KAREN,山形県,2263,A-SORA,山形県,0,,-
 EMPRESS,NΦ CRIME,242,KANTA,山形県,600,KKS,山形県,1283,MA6CHA,山形県,1845,DONUT$,山形県,0,,-
 EMPRESS,neogenesis,0,,-,397,HG,山形県,0,,-,1658,TOMOKI,山形県,0,,-
-EMPRESS,naughty girl@Queen's Palace,0,,-,568,ROBERT,山形県,1595,RIZ,山形県,2038,A-SORA,山形県,2545,NEWYO9,山形県
+EMPRESS,naughty girl@Queen's Palace,0,,-,568,ROBERT,山形県,1595,RIZ,山形県,2065,NEWYO9,山形県,2545,NEWYO9,山形県
 EMPRESS,Monkey Dance '09,0,,-,788,YS,山形県,1428,AXEL09,山形県,2166,EVNRSW,山形県,0,,-
 EMPRESS,Mind Mapping,325,BROWN,山形県,436,HG,山形県,1099,ARUBA,山形県,1809,DONUTS,山形県,0,,-
-EMPRESS,Kung-fu Empire,0,,-,1224,REN,山形県,2485,Y*KANA,山形県,3176,NEWYO9,山形県,3546,QUNQUN,山形県
+EMPRESS,Kung-fu Empire,0,,-,1224,REN,山形県,2485,Y*KANA,山形県,3176,NEWYO9,山形県,3810,NANIKA,山形県
 EMPRESS,Just a Little Smile,0,,-,756,SA21,山形県,1140,ABA,山形県,2344,NEWYO9,山形県,0,,-
 EMPRESS,Jack,0,,-,802,LOTTE,山形県,1230,YS,山形県,2083,EVNRSW,山形県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,506,AAC,山形県,771,YAMATO,山形県,1683,DONUTS,山形県,0,,-
@@ -461,7 +461,7 @@ SIRIUS,かずあそび,0,,-,291,ROBERT,山形県,965,KOTORI,山形県,1644,ANI,�
 SIRIUS,The Story Begins,0,,-,599,KKS,山形県,1474,CAV,山形県,2360,EVNRSW,山形県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1126,YOMO-R,山形県,1748,$C4R3,山形県,2534,NANIKA,山形県,0,,-
 SIRIUS,Special One,0,,-,557,KOOOSK,山形県,1061,LSC,山形県,1629,4Z9.,山形県,0,,-
-SIRIUS,Sorrows,0,,-,749,MA6CHA,山形県,1558,LIGETY,山形県,2449,DONUTS,山形県,0,,-
+SIRIUS,Sorrows,0,,-,749,MA6CHA,山形県,1637,DEMI,山形県,2449,DONUTS,山形県,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,566,TAPPY,山形県,2033,IS300H,山形県,3429,NEWYO9,山形県,3439,NANIKA,山形県
 SIRIUS,She is my wife,395,MAGURO,山形県,637,BIG,山形県,1411,JIN..*,山形県,1898,A-SORA,山形県,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,811,YS,山形県,1431,JOKER,山形県,2253,AOBA,山形県,0,,-
@@ -508,7 +508,7 @@ Resort Anthem,旅人リラン,0,,-,1021,310,山形県,1889,Y*KANA,山形県,2540
 Resort Anthem,夕焼け ～Fading Day～,0,,-,893,ARUBA,山形県,1795,DK,山形県,2735,NANIKA,山形県,0,,-
 Resort Anthem,中華急行,0,,-,300,*NAOO*,山形県,1437,DK,山形県,2288,NEWYO9,山形県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,479,BIG,山形県,0,,-,1194,YS,山形県,1789,LOXON.,山形県,0,,-
-Resort Anthem,おおきなこえで,0,,-,370,YAMATO,山形県,865,FUBUKI,山形県,1443,ANI,山形県,2100,RIZ,山形県
+Resort Anthem,おおきなこえで,0,,-,370,YAMATO,山形県,865,FUBUKI,山形県,1443,ANI,山形県,2105,NANIKA,山形県
 Resort Anthem,ZETA～素数の世界と超越者～,147,RAIJIN,山形県,494,MATS,山形県,1995,3710,山形県,3068,NANIKA,山形県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,967,BIG,山形県,1669,3710,山形県,2709,A-SORA,山形県,0,,-
 Resort Anthem,Wuv U,0,,-,380,*NAOO*,山形県,1056,FUBUKI,山形県,1694,DONUTS,山形県,0,,-
@@ -524,7 +524,7 @@ Resort Anthem,Stay my side,0,,-,421,ROBERT,山形県,0,,-,1320,TOMOKI,山形県,
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,587,YAMATO,山形県,1189,TAKAGI,山形県,2881,A-SORA,山形県,0,,-
 Resort Anthem,Space Time,0,,-,327,RIT,山形県,1544,AMGS,山形県,2124,Y*KANA,山形県,0,,-
 Resort Anthem,Session 9 -Chronicles-,0,,-,558,KKS,山形県,2406,DONUTS,山形県,3345,NANIKA,山形県,0,,-
-Resort Anthem,sakura storm,0,,-,979,BIG,山形県,1190,BUS!,山形県,2244,CHARCO,山形県,0,,-
+Resort Anthem,sakura storm,0,,-,979,BIG,山形県,1230,*AA*,山形県,2244,CHARCO,山形県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,442,*NAOO*,山形県,1578,DEMI,山形県,2350,NEWYO9,山形県,0,,-
 Resort Anthem,SABER WING,0,,-,410,TANUKI,山形県,1721,D-,山形県,2683,Y*KANA,山形県,0,,-
 Resort Anthem,Rock Da House,0,,-,808,YS,山形県,1417,BUS!,山形県,2144,Y*KANA,山形県,0,,-
@@ -585,10 +585,10 @@ Lincle,Snow Goose,207,ROBERT,山形県,353,BIG,山形県,1217,BIG,山形県,2400
 Lincle,Snake Stick,0,,-,889,DAISY*,山形県,1835,RIZ,山形県,2580,NANIKA,山形県,0,,-
 Lincle,SHADE,0,,-,0,,-,1927,DEMI,山形県,2865,A-SORA,山形県,0,,-
 Lincle,Several Words,0,,-,432,LAZY,山形県,1331,RYUNEN,山形県,2135,A-SORA,山形県,0,,-
-Lincle,Scharfrichter,0,,-,0,,-,1614,NANIKA,山形県,2777,EVNRSW,山形県,0,,-
+Lincle,Scharfrichter,0,,-,818,SYUN,山形県,1614,NANIKA,山形県,2777,EVNRSW,山形県,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,337,SUZUKA,山形県,977,BIG,山形県,1612,EVNRSW,山形県,0,,-
 Lincle,Round and Round,0,,-,693,???,山形県,0,,-,2123,NEWYO9,山形県,0,,-
-Lincle,RESISTANCE,0,,-,572,YS,山形県,1053,YOMO-R,山形県,2298,Y*KANA,山形県,0,,-
+Lincle,RESISTANCE,0,,-,572,YS,山形県,1309,DEMI,山形県,2298,Y*KANA,山形県,0,,-
 Lincle,Release The Music,0,,-,0,,-,1057,YOMO-R,山形県,1983,AOBA,山形県,0,,-
 Lincle,Quick Silver,0,,-,0,,-,1580,KAREN,山形県,2583,NANIKA,山形県,0,,-
 Lincle,quaver♪,289,BIG,山形県,568,KKS,山形県,2138,DONUTS,山形県,3291,A-SORA,山形県,0,,-
@@ -616,7 +616,7 @@ Lincle,Express Emotion,0,,-,678,REN,山形県,962,YAHOO!,山形県,2509,DONUTS,�
 Lincle,Drive Me Crazy,0,,-,718,MIYAKO,山形県,1322,MACON.,山形県,2292,DONUTS,山形県,0,,-
 Lincle,DIAVOLO,0,,-,1242,TA93N!,山形県,1673,$C4R3,山形県,2926,NANIKA,山形県,0,,-
 Lincle,Change the World,0,,-,599,ROBERT,山形県,1258,BIG,山形県,1816,NANIKA,山形県,0,,-
-Lincle,Castle on the Moon,222,FUBUKI,山形県,514,KKS,山形県,1462,JOKER,山形県,2346,DONUTS,山形県,0,,-
+Lincle,Castle on the Moon,222,FUBUKI,山形県,514,KKS,山形県,1478,JIN..*,山形県,2346,DONUTS,山形県,0,,-
 Lincle,CALL,0,,-,279,LAZY,山形県,687,RECAR0,山形県,1393,ANI,山形県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,835,A-GON2,山形県,2109,NANIKA,山形県,3199,NEWYO9,山形県,0,,-
 Lincle,ANAGRAMS I to Y,0,,-,495,ROBERT,山形県,1294,KARIN,山形県,2405,XABRE,山形県,0,,-
@@ -630,18 +630,18 @@ tricoro,梅雪夜,0,,-,768,REN,山形県,1420,DONUT$,山形県,2078,Y*KANA,山�
 tricoro,朧,188,Y*AMI,山形県,767,BIG,山形県,1334,MA6CHA,山形県,2085,A-SORA,山形県,2483,NANIKA,山形県
 tricoro,即席！脳直★ミュージックシステム,0,,-,802,KENP,山形県,1845,KEEP,山形県,3385,DONUTS,山形県,0,,-
 tricoro,創世ノート,0,,-,532,SIRO,山形県,1729,2BASA,山形県,2740,Y*KANA,山形県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,933,ABA,山形県,1988,3710,山形県,2806,A-SORA,山形県,3732,NANIKA,山形県
+tricoro,仮想空間の旅人たち,0,,-,989,???,山形県,1988,3710,山形県,2806,A-SORA,山形県,3732,NANIKA,山形県
 tricoro,下弦の月,0,,-,689,KOOOSK,山形県,1251,FUBUKI,山形県,1931,TOMOKI,山形県,0,,-
 tricoro,ラキラキ,0,,-,449,KKS,山形県,1263,YS,山形県,1880,KEEP,山形県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,436,ROBERT,山形県,1225,SA21,山形県,1864,TOMOKI,山形県,0,,-
 tricoro,トリカゴノ鳳凰,0,,-,839,KOOOSK,山形県,1831,SAYA.,山形県,3571,XABRE,山形県,0,,-
 tricoro,シュレーディンガーの猫,0,,-,1003,BIG,山形県,2398,DONUTS,山形県,3275,A-SORA,山形県,0,,-
 tricoro,キャトられ恋はモ～モク,0,,-,1316,ARUBA,山形県,2517,KEEP,山形県,3582,NEWYO9,山形県,0,,-
-tricoro,カジノファイヤーことみちゃん,0,,-,305,REN*WL,山形県,1138,FUBUKI,山形県,2304,EVNRSW,山形県,0,,-
+tricoro,カジノファイヤーことみちゃん,0,,-,305,REN*WL,山形県,1138,FUBUKI,山形県,2364,NANIKA,山形県,0,,-
 tricoro,アストライアの双皿,0,,-,521,KKS,山形県,1757,SA21,山形県,2910,EVNRSW,山形県,0,,-
 tricoro,たまゆら,0,,-,837,SICKY,山形県,1806,KEEP,山形県,2671,NEWYO9,山形県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,695,KOOOSK,山形県,1425,SA21,山形県,2143,NANIKA,山形県,0,,-
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),242,DONUTS,山形県,557,DONUTS,山形県,1601,ANI,山形県,3280,DONUTS,山形県,0,,-
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),242,DONUTS,山形県,557,DONUTS,山形県,1601,ANI,山形県,3329,NANIKA,山形県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,1056,ARUBA,山形県,2110,DONUTS,山形県,3038,NANIKA,山形県,0,,-
 tricoro,Zirkfied,0,,-,797,MRR,山形県,1874,LOXON.,山形県,3447,DONUTS,山形県,0,,-
 tricoro,ZED,0,,-,693,KKS,山形県,1530,BRIGHT,山形県,2680,DONUTS,山形県,0,,-
@@ -665,7 +665,7 @@ tricoro,Saturn,0,,-,659,YUSHI,山形県,1899,D-,山形県,2491,EVNRSW,山形県,
 tricoro,S!ck,0,,-,672,AGE-T,山形県,1309,BIFFAR,山形県,2619,NEWYO9,山形県,0,,-
 tricoro,rumrum triplets,0,,-,621,ROBERT,山形県,1846,WKWK3,山形県,2857,XABRE,山形県,0,,-
 tricoro,Re:GENERATION,233,MAGURO,山形県,699,TOMO,山形県,1349,2BASA,山形県,2209,NANIKA,山形県,0,,-
-tricoro,Rainbow after snow,0,,-,0,,-,1304,MA6CHA,山形県,2144,DONUTS,山形県,0,,-
+tricoro,Rainbow after snow,0,,-,531,C-****,山形県,1304,MA6CHA,山形県,2144,DONUTS,山形県,0,,-
 tricoro,Proof of the existence,0,,-,1084,BIG,山形県,1976,ANI,山形県,3057,NANIKA,山形県,0,,-
 tricoro,Praludium,0,,-,427,ROBERT,山形県,1226,MION,山形県,2189,EVNRSW,山形県,0,,-
 tricoro,POINT ZERO,0,,-,519,UTAO,山形県,863,EBSRX,山形県,1944,TOT,山形県,0,,-
@@ -676,7 +676,7 @@ tricoro,New Decade IIDX Edition,257,FUBUKI,山形県,790,ROBERT,山形県,1546,B
 tricoro,neu,179,FUBUKI,山形県,771,RYU916,山形県,2065,RIZ,山形県,3644,CHARCO,山形県,0,,-
 tricoro,Neonlights,0,,-,541,KKS,山形県,1387,KAZI,山形県,2183,NEWYO9,山形県,0,,-
 tricoro,mnemoniq,0,,-,344,ROBERT,山形県,751,YOMO-R,山形県,1290,DONUTS,山形県,0,,-
-tricoro,LUV CAN SAVE U,0,,-,499,YAMATO,山形県,1299,MA6CHA,山形県,2092,A-SORA,山形県,2721,A-SORA,山形県
+tricoro,LUV CAN SAVE U,0,,-,499,YAMATO,山形県,1299,MA6CHA,山形県,2092,A-SORA,山形県,2731,NANIKA,山形県
 tricoro,Little Star,0,,-,655,KAZU,山形県,1605,TMN,山形県,3049,NANIKA,山形県,0,,-
 tricoro,Light and Cyber…,0,,-,613,ROBERT,山形県,1931,KEEP,山形県,3064,NANIKA,山形県,0,,-
 tricoro,Liberation,0,,-,1092,TOMO,山形県,2280,ANI,山形県,3490,EVNRSW,山形県,0,,-
@@ -712,7 +712,7 @@ SPADA,疾風迅雷,0,,-,844,KOTORI,山形県,1942,ANI,山形県,2688,ARARE,山�
 SPADA,牧神笛吹きて,0,,-,246,TERU,山形県,1105,ANTHEM,山形県,1964,EVNRSW,山形県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1244,$C4R3,山形県,2199,KEEP,山形県,3599,NANIKA,山形県,0,,-
 SPADA,海神,0,,-,962,SINOUE,山形県,1982,KEEP,山形県,2996,A-SORA,山形県,0,,-
-SPADA,旋律のドグマ～Miserables～,0,,-,1142,TMN,山形県,2169,FUKU,山形県,3759,DONUTS,山形県,0,,-
+SPADA,旋律のドグマ～Miserables～,0,,-,1142,TMN,山形県,2364,KEEP,山形県,3759,DONUTS,山形県,0,,-
 SPADA,廿,0,,-,609,ROBERT,山形県,1411,RYU916,山形県,2223,ANI,山形県,2908,U-.-U,山形県
 SPADA,幻想系世界修復少女,204,BIG,山形県,409,JUN,山形県,1058,MASA,山形県,1985,DONUTS,山形県,0,,-
 SPADA,バンブーソード・ガール,173,MIZUNI,山形県,739,AGE-T,山形県,1573,$C4R3,山形県,2360,NANIKA,山形県,0,,-
@@ -721,7 +721,7 @@ SPADA,アルストロメリア,196,BIG,山形県,750,TOMO,山形県,1475,DEMI,�
 SPADA,お願いアインシュタイン,0,,-,779,SINOUE,山形県,1417,JOKER,山形県,2096,NANIKA,山形県,0,,-
 SPADA,Wonder Girl feat. Kanae Asaba,0,,-,677,$C4R3,山形県,1157,$C4R3,山形県,2747,NANIKA,山形県,0,,-
 SPADA,VOX UP,0,,-,1320,ALEXIA,山形県,2498,ANI,山形県,3334,NEWYO9,山形県,0,,-
-SPADA,Verflucht,0,,-,1175,$C4R3,山形県,2118,DONUTS,山形県,3395,NANIKA,山形県,4278,A-SORA,山形県
+SPADA,Verflucht,0,,-,1175,$C4R3,山形県,2118,DONUTS,山形県,3395,NANIKA,山形県,4285,NANIKA,山形県
 SPADA,Valgus,0,,-,603,$C4R3,山形県,870,TAPPY,山形県,2287,EVNRSW,山形県,0,,-
 SPADA,Unicorn tail,0,,-,608,ROBERT,山形県,1966,KEEP,山形県,3036,A-SORA,山形県,0,,-
 SPADA,THE DETONATOR,0,,-,1427,BIG,山形県,2242,ANI,山形県,3164,NEWYO9,山形県,0,,-
@@ -785,7 +785,7 @@ PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,1047,BIG,山形県
 PENDUAL,紅牡丹,442,NO.13,山形県,899,A-GON2,山形県,1660,TMN,山形県,2771,NEWYO9,山形県,0,,-
 PENDUAL,白露の風,0,,-,412,*NAOO*,山形県,754,KENP,山形県,1991,NANIKA,山形県,0,,-
 PENDUAL,時空トラベローグ,0,,-,588,KOOOSK,山形県,1683,KEEP,山形県,2480,EVNRSW,山形県,0,,-
-PENDUAL,打打打打打打打打打打,174,FUBUKI,山形県,726,ABA,山形県,1268,TA93N!,山形県,2516,3Y2S,山形県,0,,-
+PENDUAL,打打打打打打打打打打,174,FUBUKI,山形県,726,ABA,山形県,1268,TA93N!,山形県,2553,NANIKA,山形県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,652,*NAOO*,山形県,1021,KOTORI,山形県,1995,DONUTS,山形県,2737,NEWYO9,山形県
 PENDUAL,少年は空を辿る,0,,-,865,???,山形県,1948,KEEP,山形県,3185,NANIKA,山形県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,662,UTAO,山形県,1544,KEEP,山形県,2170,DONUTS,山形県,0,,-
@@ -833,13 +833,13 @@ PENDUAL,Line 4 Ruin,0,,-,553,KKS,山形県,1722,SA21,山形県,2734,A-SORA,山�
 PENDUAL,IXION,0,,-,461,JUN,山形県,1648,2BASA,山形県,2140,NANIKA,山形県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1057,SA21,山形県,1396,3710,山形県,2549,EVNRSW,山形県,0,,-
 PENDUAL,In The Breeze,0,,-,629,BIG,山形県,886,PACIO,山形県,1734,NEWYO9,山形県,0,,-
-PENDUAL,IMPLANTATION,0,,-,435,AGE-T,山形県,1456,MAETA3,山形県,2137,NANIKA,山形県,0,,-
+PENDUAL,IMPLANTATION,0,,-,435,AGE-T,山形県,1456,MAETA3,山形県,2181,NANIKA,山形県,0,,-
 PENDUAL,illuminate,0,,-,487,KKS,山形県,1389,FIVE,山形県,2066,NRAK,山形県,0,,-
 PENDUAL,Hello Happiness,0,,-,449,JUN,山形県,1360,SA21,山形県,2148,CA,山形県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,683,TAPPY,山形県,1446,DAISY*,山形県,2744,NEWYO9,山形県,0,,-
 PENDUAL,Gravigazer,0,,-,578,TAPPY,山形県,1759,KEEP,山形県,2740,Y*KANA,山形県,0,,-
 PENDUAL,Flashes,0,,-,644,KAZU,山形県,1575,KAREN,山形県,3099,NEWYO9,山形県,0,,-
-PENDUAL,FANTASTIC THREE,0,,-,1075,DAISY*,山形県,2021,ANI,山形県,3081,NEWYO9,山形県,0,,-
+PENDUAL,FANTASTIC THREE,0,,-,1075,DAISY*,山形県,2063,MAETA3,山形県,3081,NEWYO9,山形県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1095,MA6CHA,山形県,1915,LOXON.,山形県,3142,XABRE,山形県,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,519,KKS,山形県,1099,VIONAN,山形県,2072,AOBA,山形県,0,,-
 PENDUAL,entelecheia,0,,-,1033,DONUT$,山形県,2160,DONUTS,山形県,3167,A-SORA,山形県,0,,-
@@ -871,7 +871,7 @@ copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,
 copula,灼熱 Pt.2 Long Train Running,0,,-,1173,MASA,山形県,2016,N-PSTL,山形県,3068,NEWYO9,山形県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,793,SOBA*T,山形県,1663,Y*KANA,山形県,2458,NANIKA,山形県,0,,-
 copula,星屑ディスタンシア,0,,-,575,AGE-T,山形県,743,RIO,山形県,1988,RIZ,山形県,0,,-
-copula,明鏡止水,0,,-,0,,-,1637,FIVE,山形県,2502,CA,山形県,0,,-
+copula,明鏡止水,0,,-,435,TAK,山形県,1637,FIVE,山形県,2502,CA,山形県,0,,-
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,622,YOMO-R,山形県,1311,BRIGHT,山形県,2087,NANIKA,山形県,0,,-
 copula,セロトニン,0,,-,0,,-,1549,MA6CHA,山形県,2221,Y*KANA,山形県,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,961,*NAOO*,山形県,1668,JOKER,山形県,2390,NANIKA,山形県,0,,-
@@ -972,13 +972,13 @@ SINOBUZ,TOGAKUSHI,0,,-,963,JOKER,山形県,1786,U-.-U,山形県,2424,Y*KANA,山�
 SINOBUZ,The Commanders,0,,-,799,A-GON2,山形県,1483,DONUT$,山形県,2377,Y*KANA,山形県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,493,YAMATO,山形県,1210,TOMOKI,山形県,1894,NANIKA,山形県,0,,-
 SINOBUZ,Surf on the Light,0,,-,705,OLIVE,山形県,1340,JOKER,山形県,2239,NEWYO9,山形県,0,,-
-SINOBUZ,Super Rush,0,,-,891,YOMO-R,山形県,1739,JOKER,山形県,3425,NEWYO9,山形県,0,,-
+SINOBUZ,Super Rush,0,,-,891,YOMO-R,山形県,1739,JOKER,山形県,3434,NEWYO9,山形県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1047,MA6CHA,山形県,1686,3710,山形県,3054,NEWYO9,山形県,0,,-
 SINOBUZ,Steel Edge,0,,-,832,NAO,山形県,1397,328,山形県,3069,A-SORA,山形県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1021,DAISY*,山形県,2044,RIZ,山形県,3267,A-SORA,山形県,0,,-
 SINOBUZ,Sky High,426,PEN9LA,山形県,1165,N-PSTL,山形県,2153,07H1R0,山形県,3651,NANIKA,山形県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,644,KOOOSK,山形県,1499,JOKER,山形県,2393,DONUTS,山形県,0,,-
-SINOBUZ,shuriken,0,,-,548,ROBERT,山形県,1075,ALEXIA,山形県,2411,NANIKA,山形県,0,,-
+SINOBUZ,shuriken,0,,-,548,ROBERT,山形県,1075,ALEXIA,山形県,2510,NANIKA,山形県,0,,-
 SINOBUZ,Shoot'Em All,0,,-,430,ROBERT,山形県,1033,KEI,山形県,2330,Y*KANA,山形県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,702,ROBERT,山形県,1920,KAREN,山形県,2767,NANIKA,山形県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,383,LAZY,山形県,868,BIG,山形県,1656,Y*KANA,山形県,0,,-
@@ -993,7 +993,7 @@ SINOBUZ,Remedy feat. Kanae Asaba,0,,-,0,,-,1498,LIGETY,山形県,2076,KEEP,山�
 SINOBUZ,Rave Cannon,0,,-,778,GHORT,山形県,1721,KEEP,山形県,3190,A-SORA,山形県,0,,-
 SINOBUZ,RAIN,0,,-,1050,ARUBA,山形県,1688,LOXON.,山形県,3164,A-SORA,山形県,0,,-
 SINOBUZ,Quakes,0,,-,951,SINOUE,山形県,1914,KEEP,山形県,2915,NANIKA,山形県,0,,-
-SINOBUZ,Piano Samurai,0,,-,694,KOOOSK,山形県,1387,ABA,山形県,2395,Y*KANA,山形県,0,,-
+SINOBUZ,Piano Samurai,0,,-,694,KOOOSK,山形県,1440,FUKU,山形県,2395,Y*KANA,山形県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,540,ROBERT,山形県,1430,CHABO,山形県,2690,Y*KANA,山形県,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,822,KOTORI,山形県,2042,ARARE,山形県,2816,Y*KANA,山形県,0,,-
 SINOBUZ,OOO,0,,-,595,YAMATO,山形県,1435,N-PSTL,山形県,2048,A-SORA,山形県,0,,-
@@ -1029,10 +1029,10 @@ SINOBUZ,BabeL ～Grand Story～,0,,-,1050,DAISY*,山形県,1991,RIZ,山形県,25
 SINOBUZ,AsiaN distractive,0,,-,0,,-,1626,JOKER,山形県,2485,XABRE,山形県,0,,-
 SINOBUZ,Around The Galaxy,0,,-,996,YS,山形県,2019,ANI,山形県,3232,Y*KANA,山形県,0,,-
 SINOBUZ,Apocalypse,0,,-,755,ROBERT,山形県,2060,KEEP,山形県,3328,EVNRSW,山形県,0,,-
-SINOBUZ,AO-∞,0,,-,801,YUSHI,山形県,1544,FUKU,山形県,2525,OPI.IK,山形県,0,,-
+SINOBUZ,AO-∞,0,,-,880,???,山形県,1544,FUKU,山形県,2525,OPI.IK,山形県,0,,-
 SINOBUZ,Amazing Mirage,360,BIG,山形県,811,DAISY*,山形県,1514,DUSTAR,山形県,2552,NANIKA,山形県,3149,NANIKA,山形県
 SINOBUZ,(This Is Not) The Angels,0,,-,552,SILLY,山形県,1292,TMN,山形県,2611,DONUTS,山形県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1043,MA6CHA,山形県,1967,DONUTS,山形県,3203,DONUTS,山形県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1043,MA6CHA,山形県,1967,DONUTS,山形県,3250,NEWYO9,山形県,0,,-
 SINOBUZ,!Viva!,0,,-,841,FUBUKI,山形県,1350,ABA,山形県,1927,R-,山形県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,627,*NAOO*,山形県,1079,D-PAN*,山形県,2216,R-,山形県,0,,-
 CANNON BALLERS,純真可憐デザイア,199,Y0DO,山形県,818,LOXON.,山形県,1419,MA6CHA,山形県,2303,NANIKA,山形県,0,,-
@@ -1106,7 +1106,7 @@ CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1092,YOMO-R,
 CANNON BALLERS,DEADHEAT,0,,-,1058,BIG,山形県,1762,FIVE,山形県,3170,NANIKA,山形県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,549,ROBERT,山形県,1285,MA6CHA,山形県,2071,A-SORA,山形県,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1146,YS,山形県,1736,KEEP,山形県,2588,A-SORA,山形県,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,709,LECO,山形県,1312,MA*,山形県,2107,NEWYO9,山形県,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,709,LECO,山形県,1379,DEMI,山形県,2107,NEWYO9,山形県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,1032,LOXON.,山形県,1791,XABRE,山形県,2731,NANIKA,山形県,0,,-
 CANNON BALLERS,Break Stasis,0,,-,997,67KATA,山形県,1876,ANI,山形県,2466,EVNRSW,山形県,0,,-
 CANNON BALLERS,Boomy and The Boost,0,,-,1025,LOXON.,山形県,1918,ARARE,山形県,3391,NEWYO9,山形県,0,,-
@@ -1225,7 +1225,7 @@ HEROIC VERSE,錬成人間トリコロイダー,0,,-,1050,DONUT$,山形県,1807,D
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1314,LOXON.,山形県,2085,DONUTS,山形県,3308,A-SORA,山形県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,831,DEMI,山形県,1627,NEWYO9,山形県,2881,A-SORA,山形県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1072,DEMI,山形県,1698,ANI,山形県,2675,NEWYO9,山形県,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,241,MAGURO,山形県,624,DEMI,山形県,1281,ANI,山形県,1934,NANIKA,山形県,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,241,MAGURO,山形県,624,DEMI,山形県,1281,ANI,山形県,1958,NANIKA,山形県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),339,BIG,山形県,571,N-PSTL,山形県,1376,N-PSTL,山形県,2151,NANIKA,山形県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1132,LOXON.,山形県,1818,ANI,山形県,2822,Y*KANA,山形県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,791,Y*KANA,山形県,1437,R-,山形県,2366,NANIKA,山形県,0,,-

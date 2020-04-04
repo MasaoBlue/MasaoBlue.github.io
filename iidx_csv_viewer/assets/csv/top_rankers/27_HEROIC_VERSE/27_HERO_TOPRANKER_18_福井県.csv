@@ -1,11 +1,11 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,440,YSERII,福井県,0,,-,1120,SY0.T,福井県,0,,-
 1st&substream,RUGGED ASH,0,,-,271,YSERII,福井県,348,NAMMI,福井県,1012,IZ,福井県,1950,E-C-B,福井県
-1st&substream,R3,0,,-,0,,-,481,BOO!,福井県,879,IWAZO,福井県,0,,-
+1st&substream,R3,0,,-,434,WATABU,福井県,481,BOO!,福井県,879,IWAZO,福井県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,393,YSERII,福井県,717,SILK.S,福井県,1084,SY0.T,福井県,0,,-
 1st&substream,Macho Gang,0,,-,176,KETY,福井県,0,,-,1514,HAG-A,福井県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,186,SY0.T,福井県,237,IZ,福井県,0,,-,0,,-
-1st&substream,GRADIUSIC CYBER,0,,-,0,,-,0,,-,1142,RUBY,福井県,0,,-
+1st&substream,GRADIUSIC CYBER,0,,-,479,WATABU,福井県,0,,-,1142,RUBY,福井県,0,,-
 1st&substream,gentle stress,0,,-,342,H.MAKO,福井県,673,H.MAKO,福井県,1437,225,福井県,0,,-
 1st&substream,GENOM SCREAMS,0,,-,292,YSERII,福井県,328,DEDEP,福井県,1052,SY0.T,福井県,0,,-
 1st&substream,GAMBOL,0,,-,262,TUINTR,福井県,267,IZ,福井県,0,,-,0,,-
@@ -17,7 +17,7 @@
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,0,,-,837,IZ,福井県,0,,-,0,,-
 2nd style,Indigo Vision(full flavour hide around mix),0,,-,127,YOU,福井県,680,ZANK,福井県,1177,E-C-B,福井県,0,,-
 2nd style,I Was The One,0,,-,359,NAGGI.,福井県,564,NAMMI,福井県,667,IZ,福井県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,763,NAMMI,福井県,1017,RUBY,福井県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,527,WATABU,福井県,763,NAMMI,福井県,1017,RUBY,福井県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,862,NAMMI,福井県,1094,IWAZO,福井県,0,,-
 2nd style,.59,0,,-,434,KATSU.,福井県,972,SILK.S,福井県,1090,IZ,福井県,0,,-
 3rd style,THE SAFARI,349,2HOU,福井県,854,X68K,福井県,1725,H.MAKO,福井県,0,,-,0,,-
@@ -51,7 +51,7 @@
 4th style,Burnin' The Floor,0,,-,526,RIA,福井県,841,NAMMI,福井県,1379,RUBY,福井県,0,,-
 4th style,Broken My Heart,0,,-,831,SRI*MA,福井県,1331,MAHU,福井県,1776,ELINA,福井県,0,,-
 4th style,B4U,0,,-,527,SO-1,福井県,1312,TOTO,福井県,1917,SY0.T,福井県,0,,-
-4th style,ABSOLUTE,0,,-,1212,RUSE,福井県,1609,&#9830,福井県,2329,SY0.T,福井県,2545,RGV,福井県
+4th style,ABSOLUTE,0,,-,1212,RUSE,福井県,1609,&#9830,福井県,2329,SY0.T,福井県,2668,SY0.T,福井県
 4th style,250bpm,0,,-,632,TUINTR,福井県,794,SRI*MA,福井県,1334,M.KANO,福井県,0,,-
 5th style,V,337,2HOU,福井県,1168,&#9830,福井県,2417,SY0.T,福井県,2920,ELINA,福井県,0,,-
 5th style,THE SHINING POLARIS,0,,-,804,RIA,福井県,1034,CY8ER,福井県,1547,KENJI,福井県,0,,-
@@ -90,7 +90,7 @@
 6th style,Blueberry Stream,0,,-,0,,-,1195,MAHU,福井県,1609,SY0.T,福井県,0,,-
 6th style,BALLAD FOR YOU～想いの雨～,0,,-,421,OXYGEN,福井県,660,NAMMI,福井県,1039,N09IHS,福井県,0,,-
 6th style,"19,November",0,,-,1029,2HOU,福井県,1237,RETO.,福井県,1746,SY0.T,福井県,0,,-
-7th style,革命,0,,-,448,FES,福井県,1844,SUBUTA,福井県,2267,SY0.T,福井県,0,,-
+7th style,革命,0,,-,511,DEDEP,福井県,1868,HAG-A,福井県,2267,SY0.T,福井県,0,,-
 7th style,ZERO-ONE,0,,-,422,DEDEP,福井県,1491,MAHU,福井県,2169,SY0.T,福井県,0,,-
 7th style,traces,0,,-,912,TEN,福井県,1762,HAG-A,福井県,2010,KENJI,福井県,0,,-
 7th style,Tomorrow Perfume,0,,-,1035,SRI*MA,福井県,1754,SIESTA,福井県,2059,SY0.T,福井県,0,,-
@@ -171,7 +171,7 @@
 9th style,ATOMIC AGE,0,,-,308,I4CHAN,福井県,0,,-,1247,&#9731,福井県,0,,-
 9th style,ACT,0,,-,0,,-,1422,OVUSU,福井県,1727,HAG-A,福井県,0,,-
 9th style,Abyss -The Heavens Remix-,523,2HOU,福井県,1204,X68K,福井県,1771,HAG-A,福井県,2335,SY0.T,福井県,0,,-
-10th style,雪月花,0,,-,1097,RETO.,福井県,1723,CW.NAO,福井県,2447,F.,福井県,0,,-
+10th style,雪月花,0,,-,1097,RETO.,福井県,1741,RIKI-P,福井県,2447,F.,福井県,0,,-
 10th style,システムロマンス,0,,-,841,2HOU,福井県,1311,ZANK,福井県,1985,IWAZO,福井県,0,,-
 10th style,SPACE FIGHT,0,,-,0,,-,1136,ZANK,福井県,2103,KENJI,福井県,0,,-
 10th style,SHOOTING STAR,0,,-,919,ABE,福井県,1404,2HOU,福井県,2212,KENJI,福井県,0,,-
@@ -239,7 +239,7 @@ HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,
 HAPPY SKY,冥,582,H.MAKO,福井県,1041,RGV,福井県,1937,KENJI,福井県,3553,F.,福井県,0,,-
 HAPPY SKY,ラクエン,0,,-,0,,-,726,RIA,福井県,1909,SY0.T,福井県,0,,-
 HAPPY SKY,ヒマワリ,0,,-,454,IIDX26,福井県,1676,MIRIKI,福井県,2044,SY0.T,福井県,0,,-
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,589,I4CHAN,福井県,1132,MARUPO,福井県,1620,IWAZO,福井県,0,,-
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,589,I4CHAN,福井県,1132,MARUPO,福井県,1660,PON-B,福井県,0,,-
 HAPPY SKY,Xepher,297,NAGGI.,福井県,915,FES,福井県,1985,HAG-A,福井県,2904,SY0.T,福井県,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,340,37,福井県,837,DOIIII,福井県,1621,SY0.T,福井県,0,,-
 HAPPY SKY,Votum stellarum,0,,-,308,IIDX27,福井県,1225,MITURI,福井県,1900,E-C-B,福井県,0,,-
@@ -248,13 +248,13 @@ HAPPY SKY,Under the Sky,0,,-,750,I4CHAN,福井県,1168,SIN.EI,福井県,1714,SY0
 HAPPY SKY,Twelfth Style,0,,-,717,DEDEP,福井県,1375,MAHU,福井県,1965,SY0.T,福井県,3064,SY0.T,福井県
 HAPPY SKY,Tizona d'El Cid,0,,-,0,,-,1804,DEUU!,福井県,2247,SY0.T,福井県,0,,-
 HAPPY SKY,SigSig,532,KAZUUU,福井県,921,&#9830,福井県,1280,NAMMI,福井県,2549,SY0.T,福井県,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,0,,-,1448,PBALL#,福井県,2053,F.,福井県,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,933,ZANK,福井県,1448,PBALL#,福井県,2053,F.,福井県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1596,RUBY,福井県,1695,RUSE,福井県,2385,SY0.T,福井県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1306,SRI*MA,福井県,2016,O-SHUS,福井県,3003,F.,福井県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,906,I4CHAN,福井県,1514,RUSE,福井県,1965,SY0.T,福井県,0,,-
 HAPPY SKY,rage against usual,0,,-,769,RYOU!,福井県,1843,SKS,福井県,2883,F.,福井県,0,,-
 HAPPY SKY,POODLE,0,,-,750,FES,福井県,1693,RST,福井県,2256,SY0.T,福井県,3296,F.,福井県
-HAPPY SKY,Pollinosis,0,,-,548,SIN.EI,福井県,670,NARUTI,福井県,2382,SY0.T,福井県,0,,-
+HAPPY SKY,Pollinosis,0,,-,548,SIN.EI,福井県,670,NARUTI,福井県,2426,SY0.T,福井県,0,,-
 HAPPY SKY,PLASMA,0,,-,0,,-,1489,AGEHA,福井県,2223,E-C-B,福井県,0,,-
 HAPPY SKY,Pink Rose,0,,-,482,I4CHAN,福井県,721,DEDEP,福井県,1400,SY0.T,福井県,0,,-
 HAPPY SKY,MOON RACE,0,,-,545,KATSU.,福井県,802,86,福井県,1807,M.KANO,福井県,0,,-
@@ -264,7 +264,7 @@ HAPPY SKY,LESSON 5,0,,-,796,SOLA,福井県,1264,ZANK,福井県,2402,SY0.T,福井
 HAPPY SKY,INAZUMA,0,,-,977,RETO.,福井県,1639,MU-RAI,福井県,2674,F.,福井県,0,,-
 HAPPY SKY,in motion,0,,-,0,,-,989,SILK.S,福井県,1287,225,福井県,0,,-
 HAPPY SKY,I am,0,,-,0,,-,1493,TO,福井県,2092,SY0.T,福井県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,404,TSUBA,福井県,819,DEDEP,福井県,1114,I4CHAN,福井県,2069,SY0.T,福井県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,450,SHIRON,福井県,819,DEDEP,福井県,1114,I4CHAN,福井県,2069,SY0.T,福井県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,0,,-,1473,2HOU,福井県,2226,E-C-B,福井県,0,,-
 HAPPY SKY,garden,0,,-,0,,-,1226,NAMMI,福井県,2074,KENJI,福井県,0,,-
 HAPPY SKY,First Resolution,0,,-,370,KAZUUU,福井県,1264,NAMMI,福井県,2104,SY0.T,福井県,0,,-
@@ -292,7 +292,7 @@ DistorteD,TYPE MARS(G-Style Mix),0,,-,1057,TUINTR,福井県,1476,MITURI,福井�
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,737,DEDEP,福井県,1427,RLM*FU,福井県,2404,SY0.T,福井県,0,,-
 DistorteD,This is Love,0,,-,762,RIA,福井県,1557,NORA,福井県,2331,MONAR,福井県,0,,-
 DistorteD,The Dirty of Loudness,0,,-,1048,SIN.EI,福井県,1926,YN.F,福井県,2518,SY0.T,福井県,0,,-
-DistorteD,Sun Field,0,,-,328,SHIRON,福井県,1288,SILK.J,福井県,2336,KENJI,福井県,0,,-
+DistorteD,Sun Field,0,,-,328,SHIRON,福井県,1288,SILK.J,福井県,2386,SY0.T,福井県,0,,-
 DistorteD,So Fabulous !!,0,,-,1007,RETO.,福井県,1348,RETO.,福井県,2311,SY0.T,福井県,0,,-
 DistorteD,Power of Love,0,,-,913,2HOU,福井県,1143,RIA,福井県,2104,ELINA,福井県,0,,-
 DistorteD,MOON,0,,-,715,RIA,福井県,1770,TOTO,福井県,2165,SY0.T,福井県,0,,-
@@ -325,7 +325,7 @@ GOLD,クルクル☆ラブ～Opioid Peptide MIX～,407,2HOU,福井県,491,WKNYAN
 GOLD,With your Smile,0,,-,671,2HOU,福井県,969,ZANK,福井県,1552,IWAZO,福井県,0,,-
 GOLD,Watch out!!,0,,-,130,JINTEI,福井県,866,MITURI,福井県,1517,KENJI,福井県,0,,-
 GOLD,VANESSA,0,,-,885,MITURI,福井県,1732,KENJI,福井県,2284,SY0.T,福井県,3169,F.,福井県
-GOLD,TRANOID,0,,-,651,OXYGEN,福井県,1328,RIA,福井県,2117,SY0.T,福井県,0,,-
+GOLD,TRANOID,0,,-,651,OXYGEN,福井県,1353,FLEA,福井県,2117,SY0.T,福井県,0,,-
 GOLD,The Smile of You,0,,-,825,I4CHAN,福井県,1191,SSDK,福井県,1616,KENJI,福井県,0,,-
 GOLD,the shadow,0,,-,1134,2HOU,福井県,1831,AYANEL,福井県,2807,SY0.T,福井県,0,,-
 GOLD,snow storm,219,2HOU,福井県,498,KAZUUU,福井県,2153,SUBUTA,福井県,2737,F.,福井県,3260,H.MAKO,福井県
@@ -338,7 +338,7 @@ GOLD,op.31 叙情,0,,-,545,IZ,福井県,1188,OPPA*I,福井県,1489,&#9731,福井
 GOLD,never…,0,,-,756,2HOU,福井県,1208,RETO.,福井県,1789,KENJI,福井県,0,,-
 GOLD,METALLIC MIND,0,,-,0,,-,1282,TUINTR,福井県,1596,SY0.T,福井県,0,,-
 GOLD,Make Me Your Own,0,,-,0,,-,1578,HAG-A,福井県,2072,SY0.T,福井県,0,,-
-GOLD,Love Again...,0,,-,527,RIA,福井県,591,DEDEP,福井県,1037,IZ,福井県,0,,-
+GOLD,Love Again...,0,,-,527,RIA,福井県,640,DEDEP,福井県,1037,IZ,福井県,0,,-
 GOLD,LASER CRUSTER,0,,-,0,,-,2193,HAG-A,福井県,3181,F.,福井県,0,,-
 GOLD,KAMAITACHI,0,,-,825,KURUMI,福井県,1679,SILK.J,福井県,2633,SY0.T,福井県,3580,F.,福井県
 GOLD,INORI,0,,-,1025,DEDEP,福井県,2400,RAYBAL,福井県,3117,SY0.T,福井県,0,,-
@@ -396,7 +396,7 @@ DJ TROOPERS,four pieces of heaven,0,,-,827,RETO.,福井県,1696,KENJI,福井県,
 DJ TROOPERS,evergreen,0,,-,549,YSERII,福井県,929,YUN,福井県,1885,F.,福井県,0,,-
 DJ TROOPERS,end of world,0,,-,959,2HOU,福井県,1607,PBALL#,福井県,2415,F.,福井県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,1006,IZ,福井県,1315,IIDX27,福井県,1852,SY0.T,福井県,0,,-
-DJ TROOPERS,Digitank System,0,,-,710,TORCH!,福井県,1439,SUBUTA,福井県,2035,SY0.T,福井県,0,,-
+DJ TROOPERS,Digitank System,0,,-,715,I4CHAN,福井県,1439,SUBUTA,福井県,2035,SY0.T,福井県,0,,-
 DJ TROOPERS,Dazzlin' Darlin,342,H.MAKO,福井県,753,I4CHAN,福井県,1325,AZC,福井県,2227,H.MAKO,福井県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,383,JUN,福井県,891,SRI*MA,福井県,1336,IZ,福井県,0,,-
 DJ TROOPERS,Blue Rain,323,2HOU,福井県,612,KATSU.,福井県,1447,SILK.J,福井県,2224,COZY,福井県,3203,F.,福井県
@@ -479,7 +479,7 @@ SIRIUS,Last Burning,0,,-,0,,-,1567,AZC,福井県,2294,IWAZO,福井県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,662,DEDEP,福井県,1345,FLEA,福井県,1823,E-C-B,福井県,0,,-
 SIRIUS,IN THE NAME OF LOVE,256,SHIRON,福井県,447,ASKR,福井県,1080,ABE,福井県,1923,ELINA,福井県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,836,B,福井県,1262,SONCHO,福井県,2265,KENJI,福井県,0,,-
-SIRIUS,GOLDEN CROSS,0,,-,770,DEDEP,福井県,1539,SANCHA,福井県,3398,F.,福井県,0,,-
+SIRIUS,GOLDEN CROSS,0,,-,770,DEDEP,福井県,1957,HAG-A,福井県,3398,F.,福井県,0,,-
 SIRIUS,GALGALIM,0,,-,64,KATSU.,福井県,1887,HAG-A,福井県,2216,&#9731,福井県,0,,-
 SIRIUS,G59,0,,-,1628,MAHU,福井県,2218,HAG-A,福井県,3769,F.,福井県,0,,-
 SIRIUS,EXUSIA,0,,-,872,DEDEP,福井県,2482,SAEKI.,福井県,3720,F.,福井県,0,,-
@@ -512,7 +512,7 @@ Resort Anthem,おおきなこえで,0,,-,418,I4CHAN,福井県,719,OXYGEN,福井�
 Resort Anthem,ZETA～素数の世界と超越者～,301,2HOU,福井県,512,I4CHAN,福井県,1755,SRI*MA,福井県,3031,COZY,福井県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,911,3CHA-R,福井県,1610,OVUSU,福井県,2683,SY0.T,福井県,0,,-
 Resort Anthem,Wuv U,0,,-,328,NAGGI.,福井県,1203,LIT,福井県,1672,SY0.T,福井県,0,,-
-Resort Anthem,WISE UP!,332,2HOU,福井県,307,NANA,福井県,1005,SUBARU,福井県,1566,KENJI,福井県,0,,-
+Resort Anthem,WISE UP!,332,2HOU,福井県,354,SHIRON,福井県,1005,SUBARU,福井県,1566,KENJI,福井県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,872,I4CHAN,福井県,1731,SIO,福井県,2703,F.,福井県,0,,-
 Resort Anthem,Vermillion,0,,-,0,,-,1018,SUBARU,福井県,1858,E,福井県,0,,-
 Resort Anthem,Tropical April,0,,-,1499,RETO.,福井県,2217,SAEKI.,福井県,2638,SY0.T,福井県,0,,-
@@ -557,7 +557,7 @@ Resort Anthem,BLUST OF WIND,0,,-,572,KATSU.,福井県,1340,SUBARU,福井県,2096
 Resort Anthem,Believe In Me,0,,-,781,NARUTI,福井県,1557,MITURI,福井県,2311,SY0.T,福井県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,867,ANIHUN,福井県,1836,AZC,福井県,2913,F.,福井県,0,,-
 Resort Anthem,Answer,0,,-,631,I4CHAN,福井県,1327,SUBARU,福井県,2363,SY0.T,福井県,0,,-
-Resort Anthem,ALBIDA,392,RMSSD.,福井県,907,ABE,福井県,1820,YN.F,福井県,2939,F.,福井県,0,,-
+Resort Anthem,ALBIDA,392,RMSSD.,福井県,907,ABE,福井県,1842,HAG-A,福井県,2939,F.,福井県,0,,-
 Resort Anthem,Aegis,0,,-,517,KATSU.,福井県,1277,MAHU,福井県,2165,M.KANO,福井県,0,,-
 Lincle,陽炎,0,,-,521,NAGGI.,福井県,1033,SUBARU,福井県,1960,IWAZO,福井県,0,,-
 Lincle,衰色小町メランコリア,0,,-,709,I4CHAN,福井県,1282,ANIHUN,福井県,2234,HESIKO,福井県,0,,-
@@ -568,9 +568,9 @@ Lincle,恋する☆宇宙戦争っ！！,487,2HOU,福井県,878,RETO.,福井県,
 Lincle,子供の落書き帳,0,,-,775,RIA,福井県,1820,HAG-A,福井県,2563,F.,福井県,0,,-
 Lincle,天空の夜明け,0,,-,1212,RETO.,福井県,2022,KENJI,福井県,3900,F.,福井県,0,,-
 Lincle,君のハートにロックオン,0,,-,581,OXYGEN,福井県,1466,PINO,福井県,2548,SY0.T,福井県,0,,-
-Lincle,ユミル,0,,-,444,ALICEN,福井県,998,SOLA,福井県,2742,SY0.T,福井県,0,,-
+Lincle,ユミル,0,,-,444,ALICEN,福井県,1045,ZANK,福井県,2742,SY0.T,福井県,0,,-
 Lincle,ビューティフルレシート,314,2HOU,福井県,498,SRI*MA,福井県,1051,NONO,福井県,1858,KINOKO,福井県,0,,-
-Lincle,Yellow Sunrise,0,,-,525,PIGEON,福井県,1385,AZC,福井県,2242,SY0.T,福井県,0,,-
+Lincle,Yellow Sunrise,0,,-,727,SRI*MA,福井県,1385,AZC,福井県,2242,SY0.T,福井県,0,,-
 Lincle,yellow head joe,0,,-,468,KAZUUU,福井県,1104,CWS*,福井県,2187,M.KANO,福井県,0,,-
 Lincle,YAKSHA,0,,-,716,DEDEP,福井県,2165,HAG-A,福井県,3814,F.,福井県,0,,-
 Lincle,WONDER WALKER,0,,-,721,DEDEP,福井県,1646,YUKAS0,福井県,3728,F.,福井県,0,,-
@@ -593,12 +593,12 @@ Lincle,Release The Music,0,,-,0,,-,1242,SUBARU,福井県,1959,KENJI,福井県,0,
 Lincle,Quick Silver,0,,-,0,,-,1337,NATSU.,福井県,2632,SY0.T,福井県,0,,-
 Lincle,quaver♪,270,2HOU,福井県,673,RETO.,福井県,1980,MITURI,福井県,3381,F.,福井県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1019,RETO.,福井県,2170,HAG-A,福井県,2769,IWAZO,福井県,3518,E-C-B,福井県
-Lincle,prompt,0,,-,727,DEDEP,福井県,1554,AZC,福井県,2626,RGV,福井県,0,,-
+Lincle,prompt,0,,-,727,DEDEP,福井県,1554,AZC,福井県,2694,PON-B,福井県,0,,-
 Lincle,Phoenix,0,,-,552,MOMIJI,福井県,1095,SRI*MA,福井県,2396,IWAZO,福井県,0,,-
 Lincle,NNRT,0,,-,1191,2HOU,福井県,2250,PINO,福井県,3400,F.,福井県,0,,-
 Lincle,Miami Sunset Drive,0,,-,260,MIIIII,福井県,889,NAMMI,福井県,1579,MONAR,福井県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,624,DEDEP,福井県,1049,AKI,福井県,2028,IWAZO,福井県,0,,-
-Lincle,Lucky Days,0,,-,370,KAZUUU,福井県,1337,MITURI,福井県,2071,KENJI,福井県,0,,-
+Lincle,Lucky Days,0,,-,444,SHIRON,福井県,1337,MITURI,福井県,2071,KENJI,福井県,0,,-
 Lincle,LOVE B.B.B,0,,-,0,,-,1397,AGEHA,福井県,1970,H.MAKO,福井県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,384,RETO.,福井県,963,SSDK,福井県,1928,KENJI,福井県,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,894,I4CHAN,福井県,1534,MAHU,福井県,2170,SY0.T,福井県,0,,-
@@ -698,7 +698,7 @@ tricoro,DAY DREAM,0,,-,535,KENJI,福井県,1153,RUKI.N,福井県,1907,F.,福井�
 tricoro,Cookie Bouquets,0,,-,824,RETO.,福井県,2019,SIESTA,福井県,3247,&#9731,福井県,0,,-
 tricoro,connective,0,,-,181,YOU,福井県,1007,YIMAP,福井県,1578,KENJI,福井県,0,,-
 tricoro,Confiserie,0,,-,739,DEDEP,福井県,1995,SUBUTA,福井県,3346,F.,福井県,0,,-
-tricoro,CONCEPTUAL,0,,-,0,,-,1010,SSDK,福井県,2624,SY0.T,福井県,0,,-
+tricoro,CONCEPTUAL,0,,-,0,,-,1033,ZANK,福井県,2624,SY0.T,福井県,0,,-
 tricoro,BRAVE GLOW,0,,-,710,I4CHAN,福井県,1318,SIN.EI,福井県,2439,SY0.T,福井県,0,,-
 tricoro,BLUE STRAGGLER,0,,-,410,KAZUUU,福井県,1270,SRI*MA,福井県,2309,&#9999,福井県,0,,-
 tricoro,Beastie Starter,0,,-,465,RIA,福井県,1145,MAHU,福井県,1993,&#9731,福井県,0,,-
@@ -709,7 +709,7 @@ SPADA,轟け！恋のビーンボール！！,0,,-,803,CWS*,福井県,1845,DEUU!
 SPADA,超!!遠距離らぶメ～ル,0,,-,420,SHIRON,福井県,1242,ABE,福井県,2512,KENJI,福井県,0,,-
 SPADA,罪と罰,0,,-,923,86,福井県,1138,3CHA-R,福井県,2100,SY0.T,福井県,0,,-
 SPADA,疾風迅雷,0,,-,489,WATABU,福井県,1953,SUBUTA,福井県,2859,SY0.T,福井県,3244,F.,福井県
-SPADA,牧神笛吹きて,0,,-,547,TBS*X,福井県,1170,SANCHA,福井県,2020,F.,福井県,0,,-
+SPADA,牧神笛吹きて,0,,-,669,I4CHAN,福井県,1170,SANCHA,福井県,2020,F.,福井県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1025,I4CHAN,福井県,2267,*864*,福井県,3756,F.,福井県,0,,-
 SPADA,海神,0,,-,929,I4CHAN,福井県,1922,YN.F,福井県,3098,F.,福井県,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,1152,SRI*MA,福井県,2308,POTETO,福井県,3816,F.,福井県,0,,-
@@ -762,7 +762,7 @@ SPADA,Feel The Beat,0,,-,555,DEDEP,福井県,2041,HAG-A,福井県,3494,F.,福井
 SPADA,EXTREME MACH COLLIDER,0,,-,951,LIT,福井県,1153,K.NOT,福井県,2481,IWAZO,福井県,0,,-
 SPADA,Engraved Mark,0,,-,539,DEDEP,福井県,1196,MAHU,福井県,2332,SY0.T,福井県,0,,-
 SPADA,Element of SPADA,0,,-,641,&#9830,福井県,1271,SILK.J,福井県,2043,RUKI.N,福井県,0,,-
-SPADA,Elektrick U-Phoria,0,,-,1110,2HOU,福井県,1668,NONO,福井県,3021,SY0.T,福井県,0,,-
+SPADA,Elektrick U-Phoria,0,,-,1110,2HOU,福井県,1853,HAG-A,福井県,3021,SY0.T,福井県,0,,-
 SPADA,diagram,0,,-,587,2HOU,福井県,1228,MAHU,福井県,2708,H.MAKO,福井県,0,,-
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,782,RIA,福井県,1701,HAG-A,福井県,2420,SY0.T,福井県,0,,-
 SPADA,DARK LEGACY,0,,-,823,DEDEP,福井県,1892,RAYBAL,福井県,3464,ELINA,福井県,0,,-
@@ -791,7 +791,7 @@ PENDUAL,少年は空を辿る,0,,-,860,DEDEP,福井県,1886,YN.F,福井県,3220,
 PENDUAL,妖隠し -あやかしかくし-,0,,-,859,3CHA-R,福井県,1502,RA,福井県,2117,&#9731,福井県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,842,RIA,福井県,1827,YN.F,福井県,2982,F.,福井県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),248,H.MAKO,福井県,835,I4CHAN,福井県,1585,RUSE,福井県,2152,SY0.T,福井県,0,,-
-PENDUAL,千年ノ理,0,,-,885,468,福井県,1851,MAHU,福井県,3131,F.,福井県,4029,E-C-B,福井県
+PENDUAL,千年ノ理,0,,-,885,468,福井県,1894,HAG-A,福井県,3131,F.,福井県,4029,E-C-B,福井県
 PENDUAL,十六夜セツナ,0,,-,863,I4CHAN,福井県,1250,ABE,福井県,2190,SY0.T,福井県,0,,-
 PENDUAL,共鳴遊戯の華,0,,-,1224,SRI*MA,福井県,2264,CRADLE,福井県,3705,F.,福井県,0,,-
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,835,CWS*,福井県,2136,HAG-A,福井県,3366,F.,福井県,0,,-
@@ -804,7 +804,7 @@ PENDUAL,とろぴかる倶楽部,0,,-,724,SRI*MA,福井県,1039,NAMMI,福井県,
 PENDUAL,それは花火のような恋,684,3CHA-R,福井県,1246,RETO.,福井県,2457,KENJI,福井県,3732,SY0.T,福井県,0,,-
 PENDUAL,ZZ,189,2HOU,福井県,923,SOLA,福井県,1858,SIESTA,福井県,3001,F.,福井県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,922,RIA,福井県,2132,HAG-A,福井県,3562,F.,福井県,0,,-
-PENDUAL,Vulkan,0,,-,927,RIA,福井県,1455,KATE,福井県,2947,SY0.T,福井県,0,,-
+PENDUAL,Vulkan,0,,-,927,RIA,福井県,1623,TO,福井県,2947,SY0.T,福井県,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1313,KATE,福井県,2237,HAG-A,福井県,3663,F.,福井県,0,,-
 PENDUAL,TIEFSEE,0,,-,880,DEDEP,福井県,1943,MAHU,福井県,3388,SY0.T,福井県,0,,-
 PENDUAL,The Least 100sec,0,,-,690,RIA,福井県,1209,SANCHA,福井県,2759,SY0.T,福井県,0,,-
@@ -813,12 +813,12 @@ PENDUAL,Symmetry,0,,-,0,,-,2024,SUBUTA,福井県,3220,F.,福井県,0,,-
 PENDUAL,Sweet Radar,0,,-,602,I4CHAN,福井県,1124,I4CHAN,福井県,2002,KENJI,福井県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,888,ABE,福井県,1515,OVUSU,福井県,2831,SY0.T,福井県,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1172,2HOU,福井県,1937,RUSE,福井県,2881,SY0.T,福井県,0,,-
-PENDUAL,Shooting Fireball,0,,-,538,YSERII,福井県,2174,POTETO,福井県,3836,F.,福井県,0,,-
+PENDUAL,Shooting Fireball,0,,-,794,DEDEP,福井県,2174,POTETO,福井県,3836,F.,福井県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,706,TMG,福井県,1546,MAHU,福井県,2700,KINOKO,福井県,0,,-
 PENDUAL,Scarlet Moon,0,,-,821,I4CHAN,福井県,1722,LIT,福井県,2664,SY0.T,福井県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1120,R.WELL,福井県,1806,&#9731,福井県,3018,COZY,福井県,0,,-
 PENDUAL,SAMSARA,0,,-,746,RIA,福井県,1057,ABE,福井県,1979,KINOKO,福井県,0,,-
-PENDUAL,Sakura Mirage,0,,-,846,RIA,福井県,1129,RETO.,福井県,2233,E-C-B,福井県,0,,-
+PENDUAL,Sakura Mirage,0,,-,937,SRI*MA,福井県,1129,RETO.,福井県,2233,E-C-B,福井県,0,,-
 PENDUAL,Reflux,0,,-,720,LIT,福井県,1383,SANCHA,福井県,2872,F.,福井県,0,,-
 PENDUAL,Realize Maze,0,,-,1198,R.WELL,福井県,1935,AZC,福井県,2890,E-C-B,福井県,0,,-
 PENDUAL,"Rave*it!! Rave*it!! ",0,,-,871,RETO.,福井県,1636,OPPA*I,福井県,3143,F.,福井県,0,,-
@@ -835,7 +835,7 @@ PENDUAL,Invitation from Mr.C,0,,-,1059,LIT,福井県,1377,2HOU,福井県,2626,SY
 PENDUAL,In The Breeze,0,,-,0,,-,882,CY8ER,福井県,1706,SY0.T,福井県,0,,-
 PENDUAL,IMPLANTATION,0,,-,0,,-,1315,SILK.J,福井県,2191,M.KANO,福井県,0,,-
 PENDUAL,illuminate,0,,-,231,YOU,福井県,1001,X68K,福井県,2221,KENJI,福井県,0,,-
-PENDUAL,Hello Happiness,0,,-,700,I4CHAN,福井県,1165,UN.C,福井県,2213,SY0.T,福井県,0,,-
+PENDUAL,Hello Happiness,0,,-,700,I4CHAN,福井県,1165,UN.C,福井県,2256,SY0.T,福井県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,0,,-,1340,ZANK,福井県,2694,E-C-B,福井県,0,,-
 PENDUAL,Gravigazer,0,,-,897,SRI*MA,福井県,1777,HAG-A,福井県,2932,F.,福井県,0,,-
 PENDUAL,Flashes,0,,-,690,DEDEP,福井県,1481,NONO,福井県,3181,F.,福井県,0,,-
@@ -1001,7 +1001,7 @@ SINOBUZ,nostos,0,,-,581,DEDEP,福井県,966,3CHA-L,福井県,2399,RGV,福井県,
 SINOBUZ,Music is The Answer,0,,-,0,,-,1351,R.WELL,福井県,1854,E-C-B,福井県,0,,-
 SINOBUZ,Modular Technology,0,,-,0,,-,1555,YUKAS0,福井県,2600,F.,福井県,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1126,86,福井県,2044,PON-B,福井県,3549,F.,福井県,0,,-
-SINOBUZ,Magical,0,,-,499,YSERII,福井県,991,PEN,福井県,1977,F.,福井県,0,,-
+SINOBUZ,Magical,0,,-,499,YSERII,福井県,991,PEN,福井県,1980,SY0.T,福井県,0,,-
 SINOBUZ,Macuilxochitl,307,GURA,福井県,1166,RIA,福井県,2161,SUBUTA,福井県,3239,E-C-B,福井県,0,,-
 SINOBUZ,Lost wing at.0,0,,-,0,,-,1315,SHOEC,福井県,2244,&#9731,福井県,0,,-
 SINOBUZ,INVISIBLE STRIX,0,,-,0,,-,1666,TAIZO,福井県,2433,&#9731,福井県,0,,-
@@ -1018,7 +1018,7 @@ SINOBUZ,DORNWALD ～Junge～,0,,-,867,KATSU.,福井県,2103,&#9830,福井県,355
 SINOBUZ,Cyber True Color,0,,-,0,,-,1522,TUINTR,福井県,2268,E-C-B,福井県,0,,-
 SINOBUZ,crew,0,,-,444,LICU,福井県,1521,!,福井県,2856,SY0.T,福井県,0,,-
 SINOBUZ,Caterpillar,0,,-,952,SOLA,福井県,2055,HAG-A,福井県,2844,F.,福井県,0,,-
-SINOBUZ,BroGamer,0,,-,1187,3CHA-R,福井県,2023,HAG-A,福井県,3018,SY0.T,福井県,0,,-
+SINOBUZ,BroGamer,0,,-,1187,3CHA-R,福井県,2056,HAG-A,福井県,3018,SY0.T,福井県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,684,2HOU,福井県,1159,SIESTA,福井県,2168,R.WELL,福井県,0,,-
 SINOBUZ,BREAK OVER,0,,-,0,,-,1248,SIN.EI,福井県,2305,SY0.T,福井県,0,,-
 SINOBUZ,Beyond The Seven,0,,-,695,RETO.,福井県,1204,RETO.,福井県,2653,SY0.T,福井県,0,,-
@@ -1039,7 +1039,7 @@ CANNON BALLERS,純真可憐デザイア,249,H.MAKO,福井県,474,ANZYU,福井県
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1324,SRI*MA,福井県,2383,*864*,福井県,3930,F.,福井県,0,,-
 CANNON BALLERS,東京神話,0,,-,838,SALAD,福井県,1532,?,福井県,2716,F.,福井県,0,,-
 CANNON BALLERS,命の標本,0,,-,694,SRI*MA,福井県,1538,R.WELL,福井県,2612,SY0.T,福井県,0,,-
-CANNON BALLERS,共犯へヴンズコード,0,,-,242,NANA,福井県,1301,R.WELL,福井県,2187,KENJI,福井県,0,,-
+CANNON BALLERS,共犯へヴンズコード,0,,-,278,SHIRON,福井県,1301,R.WELL,福井県,2187,KENJI,福井県,0,,-
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,780,RETO.,福井県,1363,RETO.,福井県,2067,M.KANO,福井県,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,967,2HOU,福井県,1714,R.WELL,福井県,2639,&#9731,福井県,0,,-
 CANNON BALLERS,バスルーム ロマンス,0,,-,910,SRI*MA,福井県,1254,SUI,福井県,2410,ELINA,福井県,0,,-
@@ -1083,7 +1083,7 @@ CANNON BALLERS,MAXIVCORD,0,,-,0,,-,1293,SHOEC,福井県,2366,E-C-B,福井県,0,,
 CANNON BALLERS,LUV DRIVE,0,,-,0,,-,1074,CWS*,福井県,2067,SY0.T,福井県,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,772,H.MAKO,福井県,1337,MAHU,福井県,2256,PON-B,福井県,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1127,SRI*MA,福井県,1743,PINO,福井県,3359,F.,福井県,0,,-
-CANNON BALLERS,Let's Bounce !!,0,,-,445,ANZUP,福井県,1145,MAHU,福井県,2147,KENJI,福井県,0,,-
+CANNON BALLERS,Let's Bounce !!,0,,-,663,SRI*MA,福井県,1145,MAHU,福井県,2147,KENJI,福井県,0,,-
 CANNON BALLERS,Initiation,0,,-,1264,SOMA.,福井県,2316,*864*,福井県,3719,F.,福井県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1308,H.MAKO,福井県,2210,H.MAKO,福井県,3412,F.,福井県,0,,-
 CANNON BALLERS,I'm Coming (2017 Version),0,,-,349,SHIRON,福井県,910,86,福井県,2027,KENJI,福井県,0,,-
@@ -1096,7 +1096,7 @@ CANNON BALLERS,FUTURE is Dead,0,,-,780,SIN.EI,福井県,1298,2HOU,福井県,2110
 CANNON BALLERS,From Time To Time,0,,-,515,KAZUUU,福井県,1803,HAG-A,福井県,2404,PON-B,福井県,0,,-
 CANNON BALLERS,FREEDOM,0,,-,924,MITURI,福井県,1604,AECHAN,福井県,2896,ELINA,福井県,0,,-
 CANNON BALLERS,FIRE BALL,0,,-,657,YSERII,福井県,1503,MAHU,福井県,2285,*864*,福井県,0,,-
-CANNON BALLERS,Fervidex,0,,-,797,2HOU,福井県,1746,R.WELL,福井県,2653,E-C-B,福井県,0,,-
+CANNON BALLERS,Fervidex,0,,-,797,2HOU,福井県,1753,RIKI-P,福井県,2653,E-C-B,福井県,0,,-
 CANNON BALLERS,Expanded !!,0,,-,481,SLY,福井県,1420,SUBARU,福井県,2440,TUINTR,福井県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,966,SRI*MA,福井県,1810,HAG-A,福井県,2716,SY0.T,福井県,0,,-
 CANNON BALLERS,encounter,0,,-,915,2HOU,福井県,1704,HAG-A,福井県,3168,F.,福井県,0,,-

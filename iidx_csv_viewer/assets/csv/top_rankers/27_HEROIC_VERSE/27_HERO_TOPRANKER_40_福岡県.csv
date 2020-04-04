@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,755,NOEL*,福岡県,1028,TOKKEY,福岡県,1156,MIZO,福岡県,0,,-
-1st&substream,RUGGED ASH,0,,-,322,MIDOU,福岡県,334,KR-*-,福岡県,1087,MR2N,福岡県,2041,HVM,福岡県
+1st&substream,RUGGED ASH,0,,-,322,MIDOU,福岡県,402,CARROT,福岡県,1087,MR2N,福岡県,2041,HVM,福岡県
 1st&substream,R3,0,,-,583,TOFU,福岡県,734,CARROT,福岡県,905,CARROT,福岡県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,535,37*L1N,福岡県,658,MOMIJI,福岡県,1109,CARROT,福岡県,0,,-
 1st&substream,Macho Gang,0,,-,309,PAX,福岡県,970,GSW,福岡県,1618,SOSEI,福岡県,0,,-
@@ -51,7 +51,7 @@
 4th style,Burnin' The Floor,0,,-,565,MEL,福岡県,746,YUKI,福岡県,1439,CARROT,福岡県,0,,-
 4th style,Broken My Heart,0,,-,716,COLT,福岡県,1355,YUKINO,福岡県,1812,SOSEI,福岡県,0,,-
 4th style,B4U,0,,-,868,YUNI,福岡県,1441,GG-RAY,福岡県,1979,KURIBO,福岡県,0,,-
-4th style,ABSOLUTE,0,,-,1242,TEXT,福岡県,1817,CARROT,福岡県,2374,MASSY.,福岡県,2704,MASSY.,福岡県
+4th style,ABSOLUTE,0,,-,1242,TEXT,福岡県,1817,CARROT,福岡県,2374,MASSY.,福岡県,2707,SOSEI,福岡県
 4th style,250bpm,0,,-,517,PAX,福岡県,958,ASF410,福岡県,1419,KENTAN,福岡県,0,,-
 5th style,V,346,CARROT,福岡県,1256,TARKUS,福岡県,2469,TARKUS,福岡県,2968,LOOT,福岡県,0,,-
 5th style,THE SHINING POLARIS,0,,-,522,IIDX23,福岡県,1148,LUCIDA,福岡県,1582,SOSEI,福岡県,0,,-
@@ -95,7 +95,7 @@
 7th style,traces,0,,-,1398,12064,福岡県,1804,UDONGE,福岡県,2129,SOSEI,福岡県,0,,-
 7th style,Tomorrow Perfume,0,,-,1211,TEXT,福岡県,1762,*ALMAL,福岡県,2101,DETTEU,福岡県,0,,-
 7th style,stoic,0,,-,1564,ASF410,福岡県,2142,GG-RAY,福岡県,2536,HVM,福岡県,0,,-
-7th style,Spica,0,,-,609,CZERNY,福岡県,1335,900D73,福岡県,2209,MASSY.,福岡県,0,,-
+7th style,Spica,0,,-,609,CZERNY,福岡県,1335,900D73,福岡県,2227,HVM,福岡県,0,,-
 7th style,Love Me Do,0,,-,959,HATTYO,福岡県,1653,FINE,福岡県,2109,USA,福岡県,0,,-
 7th style,Let the Snow Paint Me,0,,-,798,OCHIAI,福岡県,851,LUCIDA,福岡県,1241,CARROT,福岡県,0,,-
 7th style,Last Message,0,,-,872,NAGOMI,福岡県,1206,YUKINO,福岡県,1602,HVM,福岡県,0,,-
@@ -131,7 +131,7 @@
 8th style,Giudecca,0,,-,249,YANA,福岡県,1635,KURO,福岡県,2658,MASSY.,福岡県,0,,-
 8th style,dual control,0,,-,586,SUSUME,福岡県,1363,MEL,福岡県,1855,CARROT,福岡県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,850,MASAYA,福岡県,1825,12064,福岡県,2183,SOSEI,福岡県,0,,-
-8th style,CELEBRATE NITE,0,,-,666,MASAYA,福岡県,958,YUNI,福岡県,1419,MASSY.,福岡県,0,,-
+8th style,CELEBRATE NITE,0,,-,666,MASAYA,福岡県,958,YUNI,福岡県,1420,SOSEI,福岡県,0,,-
 8th style,Blame,0,,-,811,BATAC,福岡県,1515,KMSTAR,福岡県,1914,MASSY.,福岡県,0,,-
 8th style,bit mania,0,,-,879,OCHIAI,福岡県,1046,SO-RA.,福岡県,1860,CARROT,福岡県,0,,-
 8th style,Attitude,0,,-,929,MARIMO,福岡県,1426,CARROT,福岡県,1749,SOSEI,福岡県,0,,-
@@ -193,7 +193,7 @@
 10th style,EXE,0,,-,628,MAC.,福岡県,1553,HANAMI,福岡県,2244,KENTAN,福岡県,0,,-
 10th style,DoLL,350,CARROT,福岡県,893,NAGOMI,福岡県,1188,KAZAMI,福岡県,1618,MIZO,福岡県,0,,-
 10th style,desolation,0,,-,308,K,福岡県,610,KURO,福岡県,767,MIZO,福岡県,0,,-
-10th style,Debtty Daddy,0,,-,682,NNC,福岡県,1696,MAYBE,福岡県,2698,SOSEI,福岡県,0,,-
+10th style,Debtty Daddy,0,,-,682,NNC,福岡県,1710,S-CAT!,福岡県,2698,SOSEI,福岡県,0,,-
 10th style,Daisuke,472,CARROT,福岡県,1139,TEXT,福岡県,1601,12064,福岡県,2389,MIZO,福岡県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,727,SL5810,福岡県,1175,3NAQUA,福岡県,2046,MIZO,福岡県,0,,-
 10th style,Boundary,0,,-,469,ARUSU,福岡県,1699,NOEL*,福岡県,2045,KENTAN,福岡県,0,,-
@@ -202,7 +202,7 @@
 10th style,ASTRAL VOYAGE,0,,-,744,LUCIDA,福岡県,1367,YUKINO,福岡県,1918,SOSEI,福岡県,0,,-
 10th style,ALIEN TEMPLE,0,,-,849,ATELL,福岡県,1530,YUKINO,福岡県,2024,CARROT,福岡県,0,,-
 10th style,1st Samurai,0,,-,919,SUSUME,福岡県,1836,SUMIRE,福岡県,2646,MASSY.,福岡県,0,,-
-IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,850,STAR.C,福岡県,1454,YARI!!,福岡県,1991,MIZO,福岡県,0,,-
+IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,889,TAITYO,福岡県,1454,YARI!!,福岡県,1991,MIZO,福岡県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,787,OCHIAI,福岡県,1286,YUKINO,福岡県,1740,SOSEI,福岡県,0,,-
 IIDX RED,大桟橋,0,,-,328,NNC,福岡県,980,TAITYO,福岡県,1836,CARROT,福岡県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,739,RENA-P,福岡県,2040,RE3LIA,福岡県,2622,HVM,福岡県,0,,-
@@ -246,9 +246,9 @@ HAPPY SKY,Votum stellarum,0,,-,759,OCHIAI,福岡県,1441,WANMAI,福岡県,1987,S
 HAPPY SKY,vault of heaven,0,,-,746,OCHIAI,福岡県,1353,MOKA,福岡県,2004,SOSEI,福岡県,0,,-
 HAPPY SKY,Under the Sky,0,,-,751,COLT,福岡県,1336,S-CAT!,福岡県,1733,MIZO,福岡県,0,,-
 HAPPY SKY,Twelfth Style,0,,-,955,WINTOS,福岡県,1377,S-CAT!,福岡県,2004,MASSY.,福岡県,3174,DETTEU,福岡県
-HAPPY SKY,Tizona d'El Cid,0,,-,893,NAGOMI,福岡県,1697,YUKINO,福岡県,2300,KURIBO,福岡県,0,,-
+HAPPY SKY,Tizona d'El Cid,0,,-,893,NAGOMI,福岡県,1697,YUKINO,福岡県,2314,CARROT,福岡県,0,,-
 HAPPY SKY,SigSig,676,CARROT,福岡県,1024,NAGOMI,福岡県,1559,YUKINO,福岡県,2598,SOSEI,福岡県,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1203,OCHIAI,福岡県,1444,KONAKA,福岡県,2100,MASSY.,福岡県,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1203,OCHIAI,福岡県,1444,KONAKA,福岡県,2106,SOSEI,福岡県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1317,NAKA.F,福岡県,1911,3KEDON,福岡県,2496,MASSY.,福岡県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1277,NAKA.F,福岡県,1905,UMEAME,福岡県,3055,HVM,福岡県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,985,ATELL,福岡県,1511,MEL,福岡県,2045,HVM,福岡県,0,,-
@@ -256,14 +256,14 @@ HAPPY SKY,rage against usual,0,,-,1192,TEXT,福岡県,2003,TARKUS,福岡県,2928
 HAPPY SKY,POODLE,0,,-,838,SUSUME,福岡県,1716,TAKE.M,福岡県,2295,SOSEI,福岡県,3339,DETTEU,福岡県
 HAPPY SKY,Pollinosis,0,,-,721,OCHIAI,福岡県,1073,OCHIAI,福岡県,2504,KENTAN,福岡県,0,,-
 HAPPY SKY,PLASMA,0,,-,787,OCHIAI,福岡県,1601,*ALMAL,福岡県,2268,SOSEI,福岡県,0,,-
-HAPPY SKY,Pink Rose,0,,-,385,SILVER,福岡県,794,MIKAN,福岡県,1411,CARROT,福岡県,0,,-
-HAPPY SKY,MOON RACE,0,,-,457,KSLIEN,福岡県,825,H.YUI,福岡県,1887,MASSY.,福岡県,0,,-
+HAPPY SKY,Pink Rose,0,,-,594,CARROT,福岡県,794,MIKAN,福岡県,1411,CARROT,福岡県,0,,-
+HAPPY SKY,MOON RACE,0,,-,457,KSLIEN,福岡県,825,H.YUI,福岡県,1891,SOSEI,福岡県,0,,-
 HAPPY SKY,Love Magic,0,,-,587,HA,福岡県,1618,CYBELE,福岡県,1946,DETTEU,福岡県,0,,-
 HAPPY SKY,Little Little Princess,0,,-,794,KSLIEN,福岡県,2122,HOTGOO,福岡県,2743,MIZO,福岡県,3767,HVM,福岡県
 HAPPY SKY,LESSON 5,0,,-,570,KSLIEN,福岡県,1803,D.C.II,福岡県,2476,DETTEU,福岡県,0,,-
 HAPPY SKY,INAZUMA,0,,-,972,MARU-9,福岡県,1602,VEGA-P,福岡県,2715,SOSEI,福岡県,0,,-
 HAPPY SKY,in motion,0,,-,845,LOOT,福岡県,900,MARU-9,福岡県,1309,SOSEI,福岡県,0,,-
-HAPPY SKY,I am,0,,-,768,TAKA23,福岡県,1669,*NOBU*,福岡県,2156,HVM,福岡県,0,,-
+HAPPY SKY,I am,0,,-,835,KAK,福岡県,1669,*NOBU*,福岡県,2156,HVM,福岡県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,664,CARROT,福岡県,950,YUNI,福岡県,1476,YUKINO,福岡県,2094,KENTAN,福岡県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,381,3TA*01,福岡県,1499,SYNTH,福岡県,2279,SOSEI,福岡県,0,,-
 HAPPY SKY,garden,0,,-,831,OCHIAI,福岡県,1298,KTGN,福岡県,2140,BERRY,福岡県,0,,-
@@ -283,7 +283,7 @@ DistorteD,罠,0,,-,557,*GGXX*,福岡県,1431,NOEL*,福岡県,2452,LOOT,福岡県
 DistorteD,嘆きの樹,0,,-,1679,MEL,福岡県,2428,HVM,福岡県,3805,KENTAN,福岡県,0,,-
 DistorteD,タシカナモノ,0,,-,867,YUNI,福岡県,1366,YUKINO,福岡県,2035,MIZO,福岡県,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,1003,SUSUME,福岡県,1729,ASF410,福岡県,2611,HVM,福岡県,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,916,MARIMO,福岡県,1491,MOKA,福岡県,2387,MASSY.,福岡県,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,916,MARIMO,福岡県,1491,MOKA,福岡県,2388,SOSEI,福岡県,0,,-
 DistorteD,with you…,0,,-,739,12064,福岡県,924,SUSUME,福岡県,1776,DETTEU,福岡県,0,,-
 DistorteD,WISH(EUROBEAT MIX),0,,-,824,TAKA23,福岡県,1592,D.C.II,福岡県,1960,SOSEI,福岡県,0,,-
 DistorteD,Why did you go away,643,CARROT,福岡県,1077,*NOBU*,福岡県,1676,KONAKA,福岡県,2298,SOSEI,福岡県,0,,-
@@ -385,14 +385,14 @@ DJ TROOPERS,oratio,0,,-,1338,OCHIAI,福岡県,1873,12064,福岡県,2930,HVM,福�
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,799,COLT,福岡県,1789,MI$ERY,福岡県,2588,DETTEU,福岡県,0,,-
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,1073,NAGOMI,福岡県,1963,12064,福岡県,2764,MASSY.,福岡県,0,,-
 DJ TROOPERS,MENDES,0,,-,1082,*GGXX*,福岡県,2598,DETTEU,福岡県,3523,KENTAN,福岡県,0,,-
-DJ TROOPERS,MAX LOVE,0,,-,1095,MASAYA,福岡県,2035,TORO.G,福岡県,2662,SUZAKU,福岡県,0,,-
+DJ TROOPERS,MAX LOVE,0,,-,1112,SHIRO.,福岡県,2035,TORO.G,福岡県,2662,SUZAKU,福岡県,0,,-
 DJ TROOPERS,madrugada,0,,-,699,10G6A2,福岡県,1177,SSS,福岡県,1829,CARROT,福岡県,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,1228,NAGOMI,福岡県,2084,*ALMAL,福岡県,2826,SOSEI,福岡県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1115,MARIMO,福岡県,1447,MARIMO,福岡県,2034,SOSEI,福岡県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1307,TEXT,福岡県,1936,SHOW-M,福岡県,2541,LOOT,福岡県,0,,-
 DJ TROOPERS,ICARUS,0,,-,1263,NOYAN,福岡県,1898,SUZAKU,福岡県,2386,MASSY.,福岡県,3588,KENTAN,福岡県
 DJ TROOPERS,Freeway Shuffle,346,CARROT,福岡県,775,OCHIAI,福岡県,1173,MOKA,福岡県,1872,SOSEI,福岡県,0,,-
-DJ TROOPERS,four pieces of heaven,0,,-,713,SUSUME,福岡県,1538,SUBARU,福岡県,2290,MASSY.,福岡県,0,,-
+DJ TROOPERS,four pieces of heaven,0,,-,713,SUSUME,福岡県,1746,*ALMAL,福岡県,2290,MASSY.,福岡県,0,,-
 DJ TROOPERS,evergreen,0,,-,726,SHIRO.,福岡県,1056,SUSUME,福岡県,1926,CARROT,福岡県,0,,-
 DJ TROOPERS,end of world,0,,-,859,JNX24,福岡県,1664,TEKENO,福岡県,2479,MIZO,福岡県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,934,*GGXX*,福岡県,1495,CHANKO,福岡県,1921,MASSY.,福岡県,0,,-
@@ -403,15 +403,15 @@ DJ TROOPERS,Blue Rain,348,CARROT,福岡県,863,WINTOS,福岡県,1474,YUMINA,福�
 DJ TROOPERS,beatonic nation,0,,-,1155,YUNI,福岡県,1519,WINTOS,福岡県,2156,CARROT,福岡県,0,,-
 DJ TROOPERS,Be OK,0,,-,733,MASAYA,福岡県,1552,S-CAT!,福岡県,2396,DETTEU,福岡県,3291,SOSEI,福岡県
 DJ TROOPERS,avant-guerre,0,,-,671,NAGOMI,福岡県,1180,O.T!,福岡県,1911,HVM,福岡県,0,,-
-DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1177,MARIMO,福岡県,1970,KURO.C,福岡県,2821,LOOT,福岡県,0,,-
+DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1177,MARIMO,福岡県,1970,KURO.C,福岡県,2844,SOSEI,福岡県,0,,-
 DJ TROOPERS,2 tribe 4 K,0,,-,837,OCHIAI,福岡県,1228,S-CAT!,福岡県,2719,YARI!!,福岡県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,845,MOMIJI,福岡県,1521,ATELL,福岡県,2176,KENTAN,福岡県,0,,-
-EMPRESS,翼,0,,-,849,12064,福岡県,1381,MARU-9,福岡県,1966,KURIBO,福岡県,0,,-
+EMPRESS,翼,0,,-,849,12064,福岡県,1381,MARU-9,福岡県,1967,SOSEI,福岡県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,639,KOTTER,福岡県,1078,D0K4T4,福岡県,2041,SOSEI,福岡県,0,,-
-EMPRESS,天空脳番長危機十六連打,0,,-,896,ATELL,福岡県,1860,TEXT,福岡県,2569,SOSEI,福岡県,0,,-
+EMPRESS,天空脳番長危機十六連打,0,,-,896,ATELL,福岡県,1896,BUMP.0,福岡県,2569,SOSEI,福岡県,0,,-
 EMPRESS,卑弥呼,0,,-,1140,FINE,福岡県,2656,EMPTY,福岡県,3878,KENTAN,福岡県,0,,-
 EMPRESS,凛として咲く花の如く,396,CARROT,福岡県,1267,TEXT,福岡県,2051,OTAMA3,福岡県,2781,KENTAN,福岡県,3156,SOSEI,福岡県
-EMPRESS,不沈艦CANDY,612,CARROT,福岡県,1096,MOKA,福岡県,1794,MI$ERY,福岡県,3270,LOOT,福岡県,0,,-
+EMPRESS,不沈艦CANDY,612,CARROT,福岡県,1096,MOKA,福岡県,1794,MI$ERY,福岡県,3283,HVM,福岡県,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,937,TEXT,福岡県,1376,S-CAT!,福岡県,2773,YUMEKO,福岡県,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,943,10G6A2,福岡県,2029,SSS,福岡県,2463,MR2N,福岡県,0,,-
 EMPRESS,まほろば,0,,-,732,MI$ERY,福岡県,1300,S-CAT!,福岡県,2045,SOSEI,福岡県,0,,-
@@ -423,7 +423,7 @@ EMPRESS,THANK YOU FOR PLAYING,0,,-,633,YZ,福岡県,1526,KARIN,福岡県,2110,SU
 EMPRESS,SOLITON BEAM,0,,-,1322,TEXT,福岡県,1961,12064,福岡県,2324,CARROT,福岡県,0,,-
 EMPRESS,smooooch・∀・,398,CARROT,福岡県,768,KYUKAN,福岡県,1530,S-CAT!,福岡県,2139,MIZO,福岡県,0,,-
 EMPRESS,Secrets,0,,-,993,GUEST.,福岡県,2154,NOPO,福岡県,3143,MASSY.,福岡県,0,,-
-EMPRESS,Queen's Tragedy,0,,-,714,MARIMO,福岡県,1538,ASF410,福岡県,2228,MASSY.,福岡県,0,,-
+EMPRESS,Queen's Tragedy,0,,-,714,MARIMO,福岡県,1538,ASF410,福岡県,2229,SOSEI,福岡県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,981,SUSUME,福岡県,1674,CYBELE,福岡県,2494,MASSY.,福岡県,0,,-
 EMPRESS,Programmed World,0,,-,788,YUYUKO,福岡県,1570,TORO.G,福岡県,2287,SOSEI,福岡県,0,,-
 EMPRESS,NΦ CRIME,294,CARROT,福岡県,729,STAR.C,福岡県,1393,*MYAU*,福岡県,1897,SOSEI,福岡県,0,,-
@@ -442,7 +442,7 @@ EMPRESS,Flash Back 90's,0,,-,844,PONINN,福岡県,1801,F-DEAN,福岡県,2321,SOS
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,993,MARIMO,福岡県,1816,INO,福岡県,2532,SOSEI,福岡県,0,,-
 EMPRESS,Colorful Cookie,676,CARROT,福岡県,1084,TEXT,福岡県,2243,BERRY,福岡県,3490,HVM,福岡県,0,,-
 EMPRESS,CaptivAte2～覚醒～,246,CARROT,福岡県,1056,TEXT,福岡県,1536,SUBARU,福岡県,2381,MIZO,福岡県,0,,-
-EMPRESS,BRIDAL FESTIVAL !!!,0,,-,901,NAGOMI,福岡県,1201,YZ,福岡県,2111,CARROT,福岡県,0,,-
+EMPRESS,BRIDAL FESTIVAL !!!,0,,-,901,NAGOMI,福岡県,1334,S-CAT!,福岡県,2111,CARROT,福岡県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1006,TEXT,福岡県,2103,KMSTAR,福岡県,3897,HVM,福岡県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,937,RANJI,福岡県,1924,YOUWIN,福岡県,2603,DETTEU,福岡県,0,,-
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1152,OCHIAI,福岡県,2060,MI$ERY,福岡県,3536,KENTAN,福岡県,4390,DETTEU,福岡県
@@ -454,7 +454,7 @@ SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,641,TAITYO,�
 SIRIUS,未来のプリズム,0,,-,651,STAR.C,福岡県,1271,GSW,福岡県,1764,CARROT,福岡県,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1252,EMPTY,福岡県,2134,NEU,福岡県,3203,KENTAN,福岡県,0,,-
 SIRIUS,バビロニア,0,,-,798,NAGOMI,福岡県,1301,YUKINO,福岡県,1861,USA,福岡県,0,,-
-SIRIUS,サヨナラ・ヘヴン,380,CARROT,福岡県,860,NAGOMI,福岡県,1283,GSW,福岡県,1665,CARROT,福岡県,0,,-
+SIRIUS,サヨナラ・ヘヴン,380,CARROT,福岡県,860,NAGOMI,福岡県,1283,GSW,福岡県,1672,AGE.43,福岡県,0,,-
 SIRIUS,コスモス,0,,-,595,TNH,福岡県,1438,YUKINO,福岡県,2091,SOSEI,福岡県,0,,-
 SIRIUS,たからもの,0,,-,1237,OTYUA,福岡県,1784,O.T!,福岡県,2231,AGE.43,福岡県,0,,-
 SIRIUS,かずあそび,0,,-,502,OTYUA,福岡県,1121,OCHIAI,福岡県,1694,MIZO,福岡県,0,,-
@@ -476,12 +476,12 @@ SIRIUS,mosaic,0,,-,1370,PALE,福岡県,2013,KKF*4,福岡県,3001,HVM,福岡県,0
 SIRIUS,MIRACLE MEETS,0,,-,899,TEXT,福岡県,1560,U.K.,福岡県,2226,KENTAN,福岡県,0,,-
 SIRIUS,Light Shine,0,,-,719,AKI290,福岡県,1073,GSW,福岡県,1958,SOSEI,福岡県,0,,-
 SIRIUS,Last Burning,0,,-,823,GSW,福岡県,1455,KUINA,福岡県,2358,SOSEI,福岡県,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,803,SHOW,福岡県,1458,TORO.G,福岡県,1861,MR2N,福岡県,0,,-
-SIRIUS,IN THE NAME OF LOVE,546,CARROT,福岡県,538,MIDOU,福岡県,1326,OK-KUN,福岡県,1926,MIZO,福岡県,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,803,SHOW,福岡県,1458,TORO.G,福岡県,1865,SOSEI,福岡県,0,,-
+SIRIUS,IN THE NAME OF LOVE,546,CARROT,福岡県,622,SHIRO.,福岡県,1326,OK-KUN,福岡県,1926,MIZO,福岡県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,946,NAGOMI,福岡県,1584,12064,福岡県,2310,SOSEI,福岡県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,971,NOESIS,福岡県,1918,SHIKI*,福岡県,3471,KENTAN,福岡県,0,,-
 SIRIUS,GALGALIM,0,,-,1209,SUSUME,福岡県,1879,HOTGOO,福岡県,2322,DETTEU,福岡県,0,,-
-SIRIUS,G59,0,,-,1601,TEXT,福岡県,2308,TARKUS,福岡県,3839,LOOT,福岡県,0,,-
+SIRIUS,G59,0,,-,1601,TEXT,福岡県,2326,TARKUS,福岡県,3839,LOOT,福岡県,0,,-
 SIRIUS,EXUSIA,0,,-,925,MASAYA,福岡県,2471,MISAKI,福岡県,3835,KENTAN,福岡県,0,,-
 SIRIUS,Evans,608,CARROT,福岡県,1190,MARIMO,福岡県,2060,KMSTAR,福岡県,2751,LOOT,福岡県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1423,NAGOMI,福岡県,2550,U.K.,福岡県,3259,HVM,福岡県,0,,-
@@ -496,7 +496,7 @@ SIRIUS,D,0,,-,1278,TEXT,福岡県,1748,SOMORI,福岡県,2497,DETTEU,福岡県,0,
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,778,MASAYA,福岡県,1475,NEEU,福岡県,2408,MR2N,福岡県,0,,-
 SIRIUS,bloomin' feeling,396,CARROT,福岡県,1235,L!-Z.,福岡県,1926,FUSEI3,福岡県,2590,LOOT,福岡県,0,,-
 SIRIUS,being torn the sky,0,,-,615,GSW,福岡県,1168,YUKINO,福岡県,1974,CARROT,福岡県,0,,-
-SIRIUS,BEAUTIFUL ANGEL,0,,-,498,BACK.2,福岡県,1385,IZMI,福岡県,2475,HVM,福岡県,0,,-
+SIRIUS,BEAUTIFUL ANGEL,0,,-,558,RANJI,福岡県,1706,12064,福岡県,2475,HVM,福岡県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,937,YUNI,福岡県,1523,S-CAT!,福岡県,2005,KURIBO,福岡県,0,,-
 SIRIUS,bass 2 bass,282,CARROT,福岡県,668,KYUKAN,福岡県,1246,BUNTU?,福岡県,1880,HVM,福岡県,0,,-
 SIRIUS,Bad Maniacs,0,,-,1235,*NOBU*,福岡県,1735,M084TA,福岡県,3227,KENTAN,福岡県,0,,-
@@ -506,13 +506,13 @@ Resort Anthem,黒髪乱れし修羅となりて,0,,-,756,OCHIAI,福岡県,1972,S
 Resort Anthem,灼熱Beach Side Bunny,591,CARROT,福岡県,1053,YUKINO,福岡県,1858,U.K.,福岡県,3089,MASSY.,福岡県,0,,-
 Resort Anthem,旅人リラン,0,,-,1096,MARIMO,福岡県,1892,RETEYA,福岡県,2638,HVM,福岡県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,996,LOOT,福岡県,1995,GG-RAY,福岡県,2782,SOSEI,福岡県,0,,-
-Resort Anthem,中華急行,0,,-,327,*GGXX*,福岡県,1463,W3HY.,福岡県,2312,MASSY.,福岡県,0,,-
+Resort Anthem,中華急行,0,,-,327,*GGXX*,福岡県,1463,.COV1D,福岡県,2312,MASSY.,福岡県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,531,CARROT,福岡県,791,YUNI,福岡県,1260,MOKA,福岡県,1909,KURIBO,福岡県,0,,-
-Resort Anthem,おおきなこえで,0,,-,433,FU,福岡県,965,BURO-L,福岡県,1489,CARROT,福岡県,2133,CARROT,福岡県
+Resort Anthem,おおきなこえで,0,,-,460,CARROT,福岡県,965,BURO-L,福岡県,1489,CARROT,福岡県,2133,CARROT,福岡県
 Resort Anthem,ZETA～素数の世界と超越者～,333,CARROT,福岡県,533,SUSUME,福岡県,1971,MI$ERY,福岡県,3106,KENTAN,福岡県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,924,YUNI,福岡県,1680,*ALMAL,福岡県,2738,HVM,福岡県,0,,-
-Resort Anthem,Wuv U,0,,-,376,TASKYU,福岡県,1336,CARROT,福岡県,1708,MASSY.,福岡県,0,,-
-Resort Anthem,WISE UP!,348,CARROT,福岡県,388,RAL,福岡県,1093,GSW,福岡県,1593,CARROT,福岡県,0,,-
+Resort Anthem,Wuv U,0,,-,376,TASKYU,福岡県,1336,CARROT,福岡県,1714,SOSEI,福岡県,0,,-
+Resort Anthem,WISE UP!,348,CARROT,福岡県,388,RAL,福岡県,1093,GSW,福岡県,1595,SOSEI,福岡県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1073,TEXT,福岡県,1854,D.C.II,福岡県,2842,HVM,福岡県,0,,-
 Resort Anthem,Vermillion,0,,-,521,OCHIAI,福岡県,876,YUYUKO,福岡県,2050,A-1,福岡県,0,,-
 Resort Anthem,Tropical April,0,,-,1638,CARROT,福岡県,2272,U.K.,福岡県,2742,HVM,福岡県,0,,-
@@ -523,9 +523,9 @@ Resort Anthem,STELLAR WIND,388,CARROT,福岡県,547,JNX24,福岡県,1753,*MYAU*,
 Resort Anthem,Stay my side,0,,-,504,KSLIEN,福岡県,1023,GSW,福岡県,1346,CARROT,福岡県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,584,KSLIEN,福岡県,1327,IIDX26,福岡県,2933,LOOT,福岡県,0,,-
 Resort Anthem,Space Time,0,,-,398,K,福岡県,1384,R,福岡県,2182,SOSEI,福岡県,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,576,KSLIEN,福岡県,2271,SIO.ST,福岡県,3536,MIZO,福岡県,0,,-
-Resort Anthem,sakura storm,0,,-,1021,TEXT,福岡県,1208,AYATAN,福岡県,2405,HVM,福岡県,0,,-
-Resort Anthem,Sakura Reflection,0,,-,407,-A-,福岡県,1552,TUKUNE,福岡県,2361,KENTAN,福岡県,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,576,KSLIEN,福岡県,2271,SIO.ST,福岡県,3560,HVM,福岡県,0,,-
+Resort Anthem,sakura storm,0,,-,1021,TEXT,福岡県,1253,3NAQUA,福岡県,2405,HVM,福岡県,0,,-
+Resort Anthem,Sakura Reflection,0,,-,419,SUSUME,福岡県,1552,TUKUNE,福岡県,2361,KENTAN,福岡県,0,,-
 Resort Anthem,SABER WING,0,,-,510,TEXT,福岡県,1689,MOKA,福岡県,2782,DETTEU,福岡県,0,,-
 Resort Anthem,Rock Da House,0,,-,862,12064,福岡県,1591,KMSTAR,福岡県,2234,SOSEI,福岡県,0,,-
 Resort Anthem,reunion,562,CARROT,福岡県,1343,MEL,福岡県,2429,KENTAN,福岡県,3194,HVM,福岡県,0,,-
@@ -539,7 +539,7 @@ Resort Anthem,Medicine of love,0,,-,635,OCHIAI,福岡県,983,SUSUME,福岡県,17
 Resort Anthem,Let The Track Flow,0,,-,950,SUSUME,福岡県,1683,YUKINO,福岡県,2664,HVM,福岡県,0,,-
 Resort Anthem,Kailua,0,,-,425,BACK.2,福岡県,1320,SUZAKU,福岡県,2175,MASSY.,福岡県,0,,-
 Resort Anthem,I FIGHT ME,0,,-,482,IIDX27,福岡県,1341,S-CAT!,福岡県,2116,SOSEI,福岡県,0,,-
-Resort Anthem,Golden Palms,0,,-,681,GSW,福岡県,1405,KUINA,福岡県,1995,CARROT,福岡県,2371,CARROT,福岡県
+Resort Anthem,Golden Palms,0,,-,681,GSW,福岡県,1405,KUINA,福岡県,2010,SOSEI,福岡県,2371,CARROT,福岡県
 Resort Anthem,Fantasia,244,CARROT,福岡県,348,MASAYA,福岡県,1506,YUKINO,福岡県,2236,KURIBO,福岡県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,841,MI$ERY,福岡県,1220,YUKINO,福岡県,1894,SOSEI,福岡県,0,,-
 Resort Anthem,Eternal Tears,0,,-,402,NAGOMI,福岡県,1082,TERA.,福岡県,1370,CARROT,福岡県,0,,-
@@ -556,21 +556,21 @@ Resort Anthem,Bounce Bounce Bounce,0,,-,1014,GSW,福岡県,1597,RETEYA,福岡県
 Resort Anthem,BLUST OF WIND,0,,-,774,MI$ERY,福岡県,1498,*ALMAL,福岡県,2118,SOSEI,福岡県,0,,-
 Resort Anthem,Believe In Me,0,,-,961,YUNI,福岡県,1719,12064,福岡県,2367,HVM,福岡県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,926,TEXT,福岡県,1794,YAO-1,福岡県,2943,KENTAN,福岡県,0,,-
-Resort Anthem,Answer,0,,-,675,SHIRO.,福岡県,1387,KAZAMI,福岡県,2415,CARROT,福岡県,0,,-
+Resort Anthem,Answer,0,,-,675,SHIRO.,福岡県,1393,KAZAMI,福岡県,2415,CARROT,福岡県,0,,-
 Resort Anthem,ALBIDA,534,CARROT,福岡県,1003,WINTOS,福岡県,1775,12064,福岡県,2972,KENTAN,福岡県,0,,-
 Resort Anthem,Aegis,0,,-,694,SO-RA.,福岡県,1302,KYRIE.,福岡県,2316,MASSY.,福岡県,0,,-
 Lincle,陽炎,0,,-,597,MARIMO,福岡県,1099,NOESIS,福岡県,2006,CARROT,福岡県,0,,-
 Lincle,衰色小町メランコリア,0,,-,768,OTYUA,福岡県,1371,SHIKIP,福岡県,2348,CARROT,福岡県,0,,-
 Lincle,蛇神,424,CARROT,福岡県,623,MAC.,福岡県,1428,YUKINO,福岡県,2811,MASSY.,福岡県,0,,-
 Lincle,聖人の塔,0,,-,832,RET156,福岡県,1993,D.C.II,福岡県,2905,DETTEU,福岡県,0,,-
-Lincle,突撃!ガラスのニーソ姫!,0,,-,556,KSLIEN,福岡県,1113,POE,福岡県,2083,MASSY.,福岡県,0,,-
+Lincle,突撃!ガラスのニーソ姫!,0,,-,556,KSLIEN,福岡県,1113,POE,福岡県,2099,SOSEI,福岡県,0,,-
 Lincle,恋する☆宇宙戦争っ！！,514,CARROT,福岡県,891,BURO-L,福岡県,1690,GO9SO2,福岡県,3570,LOOT,福岡県,0,,-
 Lincle,子供の落書き帳,0,,-,808,KYUKAN,福岡県,1846,HANAMI,福岡県,2603,DETTEU,福岡県,0,,-
 Lincle,天空の夜明け,0,,-,1264,GRAZIE,福岡県,2071,ILIEZE,福岡県,3947,HVM,福岡県,0,,-
 Lincle,君のハートにロックオン,0,,-,675,OCHIAI,福岡県,1577,FAINE,福岡県,2670,HVM,福岡県,0,,-
-Lincle,ユミル,0,,-,606,AKI290,福岡県,1299,YUKINO,福岡県,2818,KENTAN,福岡県,0,,-
-Lincle,ビューティフルレシート,342,CARROT,福岡県,445,SV2,福岡県,1160,TORO.G,福岡県,1912,LOOT,福岡県,0,,-
-Lincle,Yellow Sunrise,0,,-,614,KSLIEN,福岡県,1446,CARROT,福岡県,2258,LOOT,福岡県,0,,-
+Lincle,ユミル,0,,-,666,CARROT,福岡県,1299,YUKINO,福岡県,2818,KENTAN,福岡県,0,,-
+Lincle,ビューティフルレシート,342,CARROT,福岡県,518,CARROT,福岡県,1160,TORO.G,福岡県,1929,MR2N,福岡県,0,,-
+Lincle,Yellow Sunrise,0,,-,680,RANJI,福岡県,1446,CARROT,福岡県,2260,MR2N,福岡県,0,,-
 Lincle,yellow head joe,0,,-,510,BTA!!!,福岡県,1352,SYNTH,福岡県,2251,LOOT,福岡県,0,,-
 Lincle,YAKSHA,0,,-,1177,OCHIAI,福岡県,2210,HANAMI,福岡県,3859,KENTAN,福岡県,0,,-
 Lincle,WONDER WALKER,0,,-,918,AR,福岡県,1814,OTAMA3,福岡県,3726,LOOT,福岡県,0,,-
@@ -579,18 +579,18 @@ Lincle,Todestrieb,0,,-,989,YUNI,福岡県,1907,KRM.,福岡県,3425,KENTAN,福岡
 Lincle,TITANS RETURN,328,CARROT,福岡県,427,K,福岡県,1401,HATA,福岡県,2466,MASSY.,福岡県,2507,MR2N,福岡県
 Lincle,Thunderbolt,0,,-,914,AAAAAA,福岡県,1778,BENZO,福岡県,3717,LOOT,福岡県,0,,-
 Lincle,The Sampling Paradise,0,,-,781,RANJI,福岡県,1774,NORA,福岡県,2982,MASSY.,福岡県,0,,-
-Lincle,The Limbo,0,,-,1054,MARIMO,福岡県,1951,HELNIA,福岡県,3311,KENTAN,福岡県,0,,-
+Lincle,The Limbo,0,,-,1054,MARIMO,福岡県,1951,HELNIA,福岡県,3330,KENTAN,福岡県,0,,-
 Lincle,Star Trail,0,,-,603,NAGOMI,福岡県,1219,CARROT,福岡県,1857,SOSEI,福岡県,0,,-
-Lincle,Snow Goose,302,CARROT,福岡県,355,TAG,福岡県,1256,YUKINO,福岡県,2447,HVM,福岡県,0,,-
+Lincle,Snow Goose,302,CARROT,福岡県,376,CARROT,福岡県,1256,YUKINO,福岡県,2447,HVM,福岡県,0,,-
 Lincle,Snake Stick,0,,-,934,KYUKAN,福岡県,2034,HVM,福岡県,2709,MASSY.,福岡県,0,,-
 Lincle,SHADE,0,,-,1019,FAMI,福岡県,2051,NOEL,福岡県,2887,MASSY.,福岡県,0,,-
-Lincle,Several Words,0,,-,488,RAL,福岡県,1306,HAMU,福岡県,2177,LOOT,福岡県,0,,-
+Lincle,Several Words,0,,-,605,MARIMO,福岡県,1347,12064,福岡県,2177,LOOT,福岡県,0,,-
 Lincle,Scharfrichter,0,,-,751,MASAYA,福岡県,1624,CARROT,福岡県,2853,MR2N,福岡県,0,,-
-Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,411,MIDOU,福岡県,1094,PALE,福岡県,1681,MR2N,福岡県,0,,-
+Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,411,MIDOU,福岡県,1094,PALE,福岡県,1697,CARROT,福岡県,0,,-
 Lincle,Round and Round,0,,-,664,MAC.,福岡県,1141,12064,福岡県,2138,SOSEI,福岡県,0,,-
 Lincle,RESISTANCE,0,,-,553,*ALMAL,福岡県,1269,MI$ERY,福岡県,2360,LOOT,福岡県,0,,-
 Lincle,Release The Music,0,,-,570,KSLIEN,福岡県,1342,12064,福岡県,2126,SOSEI,福岡県,0,,-
-Lincle,Quick Silver,0,,-,471,86,福岡県,1665,KUINA,福岡県,2641,MR2N,福岡県,0,,-
+Lincle,Quick Silver,0,,-,471,86,福岡県,1674,KUINA,福岡県,2641,MR2N,福岡県,0,,-
 Lincle,quaver♪,290,CARROT,福岡県,644,MASAYA,福岡県,2120,YARI!!,福岡県,3407,HVM,福岡県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,932,YZ,福岡県,1989,UMEAME,福岡県,2914,MASSY.,福岡県,3569,HVM,福岡県
 Lincle,prompt,0,,-,687,FLOWER,福岡県,1483,HAMU,福岡県,2773,DETTEU,福岡県,0,,-
@@ -606,9 +606,9 @@ Lincle,LAX5 feat.Ryota Yoshinari,0,,-,985,MARU-9,福岡県,2065,GANESA,福岡県
 Lincle,Infinite cave,0,,-,914,MARU-9,福岡県,1453,HOTGOO,福岡県,2043,CARROT,福岡県,0,,-
 Lincle,In the Blackest Den,0,,-,588,RAL,福岡県,1461,ASF410,福岡県,2577,MASSY.,福岡県,0,,-
 Lincle,I'm so Happy,318,CARROT,福岡県,393,NAGOMI,福岡県,1326,MISAKI,福岡県,2339,HVM,福岡県,0,,-
-Lincle,HAERETICUS,0,,-,777,HASH,福岡県,1801,NKMR,福岡県,2946,MR2N,福岡県,0,,-
+Lincle,HAERETICUS,0,,-,777,HASH,福岡県,1801,NKMR,福岡県,2974,LOOT,福岡県,0,,-
 Lincle,Follow Tomorrow,0,,-,815,AKAIYU,福岡県,1427,ILIEZE,福岡県,2262,SOSEI,福岡県,0,,-
-Lincle,Flip Flap,280,CARROT,福岡県,490,SAYURI,福岡県,1304,MI$ERY,福岡県,2233,CARROT,福岡県,0,,-
+Lincle,Flip Flap,280,CARROT,福岡県,588,CARROT,福岡県,1304,MI$ERY,福岡県,2233,CARROT,福岡県,0,,-
 Lincle,fffff,0,,-,798,NAGOMI,福岡県,1960,HANAMI,福岡県,3135,HVM,福岡県,0,,-
 Lincle,Far east nightbird,360,CARROT,福岡県,454,ID002,福岡県,1353,CARROT,福岡県,2019,CARROT,福岡県,0,,-
 Lincle,F,0,,-,998,YUNI,福岡県,2153,CARROT,福岡県,3517,HVM,福岡県,0,,-
@@ -625,7 +625,7 @@ Lincle,532nm,0,,-,454,SHION,福岡県,1169,O.T!,福岡県,2650,HVM,福岡県,0,,
 Lincle,24th Century BOY,0,,-,819,LAMU.,福岡県,1707,K,福岡県,2835,MASSY.,福岡県,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,773,YUNI,福岡県,1620,ZZZ,福岡県,2997,HVM,福岡県,3359,HVM,福岡県
 tricoro,音楽,0,,-,851,*ALMAL,福岡県,1963,KOH*,福岡県,2799,HVM,福岡県,0,,-
-tricoro,狂イ咲ケ焔ノ華,0,,-,1020,YUNI,福岡県,2291,HANAMI,福岡県,3573,LOOT,福岡県,0,,-
+tricoro,狂イ咲ケ焔ノ華,0,,-,1020,YUNI,福岡県,2291,HANAMI,福岡県,3575,LOOT,福岡県,0,,-
 tricoro,梅雪夜,0,,-,806,MIDOU,福岡県,1393,YUKINO,福岡県,2148,HVM,福岡県,0,,-
 tricoro,朧,208,CARROT,福岡県,770,NOEL*,福岡県,1462,ILIEZE,福岡県,2106,KURIBO,福岡県,2533,A-1,福岡県
 tricoro,即席！脳直★ミュージックシステム,0,,-,951,RENA-P,福岡県,1839,ASF410,福岡県,3482,LOOT,福岡県,0,,-
@@ -644,7 +644,7 @@ tricoro,お米の美味しい炊き方、そしてお米を食べることによ
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),246,CARROT,福岡県,529,KYUKAN,福岡県,1568,12064,福岡県,3512,MASSY.,福岡県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,1092,TEXT,福岡県,2034,NEU,福岡県,3105,DETTEU,福岡県,0,,-
 tricoro,Zirkfied,0,,-,935,YUNI,福岡県,1945,HANAMI,福岡県,3703,DETTEU,福岡県,0,,-
-tricoro,ZED,0,,-,886,TEXT,福岡県,1558,NOESIS,福岡県,2739,DETTEU,福岡県,0,,-
+tricoro,ZED,0,,-,886,TEXT,福岡県,1558,NOESIS,福岡県,2747,LOOT,福岡県,0,,-
 tricoro,VEGA,0,,-,1058,YUNI,福岡県,1933,YUKINO,福岡県,3095,MASSY.,福岡県,0,,-
 tricoro,VALLIS-NERIA,272,CARROT,福岡県,1148,TEXT,福岡県,2008,HANAMI,福岡県,2911,SOSEI,福岡県,0,,-
 tricoro,Valanga,0,,-,1267,MARIMO,福岡県,2130,U.K.,福岡県,3240,KENTAN,福岡県,0,,-
@@ -667,7 +667,7 @@ tricoro,rumrum triplets,0,,-,806,MASAYA,福岡県,1860,KURO.C,福岡県,2992,MIZ
 tricoro,Re:GENERATION,244,CARROT,福岡県,734,YZ,福岡県,1330,KYUKAN,福岡県,2240,MASSY.,福岡県,0,,-
 tricoro,Rainbow after snow,0,,-,658,MASAYA,福岡県,1386,MIIL,福岡県,2159,LOOT,福岡県,0,,-
 tricoro,Proof of the existence,0,,-,1049,KYUKAN,福岡県,2061,NOEL,福岡県,3184,HVM,福岡県,0,,-
-tricoro,Praludium,0,,-,577,KSLIEN,福岡県,1266,KURO,福岡県,2278,MASSY.,福岡県,0,,-
+tricoro,Praludium,0,,-,577,KSLIEN,福岡県,1266,KURO,福岡県,2284,SOSEI,福岡県,0,,-
 tricoro,POINT ZERO,0,,-,625,YUYUKO,福岡県,1074,SUSUME,福岡県,2031,MR2N,福岡県,0,,-
 tricoro,planarian,0,,-,665,MARIMO,福岡県,1606,OTAMA3,福岡県,2511,USA,福岡県,0,,-
 tricoro,Plan 8,0,,-,1061,RENA-P,福岡県,2163,BERRY,福岡県,3156,HVM,福岡県,0,,-
@@ -699,16 +699,16 @@ tricoro,Cookie Bouquets,0,,-,848,TEXT,福岡県,2027,S-CAT!,福岡県,3377,LOOT,
 tricoro,connective,0,,-,272,NOVA,福岡県,1037,GSW,福岡県,1592,CARROT,福岡県,0,,-
 tricoro,Confiserie,0,,-,909,YUNI,福岡県,1940,MISORA,福岡県,3451,LOOT,福岡県,0,,-
 tricoro,CONCEPTUAL,0,,-,806,OCHIAI,福岡県,1246,YUKINO,福岡県,2695,LOOT,福岡県,0,,-
-tricoro,BRAVE GLOW,0,,-,751,RANJI,福岡県,1575,MI$ERY,福岡県,2470,KURIBO,福岡県,0,,-
+tricoro,BRAVE GLOW,0,,-,751,RANJI,福岡県,1575,MI$ERY,福岡県,2498,SOSEI,福岡県,0,,-
 tricoro,BLUE STRAGGLER,0,,-,583,KSLIEN,福岡県,1363,12064,福岡県,2547,MIZO,福岡県,0,,-
-tricoro,Beastie Starter,0,,-,544,CARROT,福岡県,1146,8-3,福岡県,2114,MR2N,福岡県,0,,-
+tricoro,Beastie Starter,0,,-,544,CARROT,福岡県,1146,8-3,福岡県,2121,HVM,福岡県,0,,-
 tricoro,Ascalon,0,,-,1053,YUNI,福岡県,1570,HAMU,福岡県,2304,MR2N,福岡県,0,,-
 tricoro,8bit Princess,0,,-,572,MASAYA,福岡県,1224,MELTYA,福岡県,2623,SOSEI,福岡県,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,921,KOH*,福岡県,1651,OTAMA3,福岡県,2568,HVM,福岡県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,1005,OCHIAI,福岡県,1869,FINE,福岡県,3497,HVM,福岡県,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,439,TKNK,福岡県,1481,YUKINO,福岡県,2628,CARROT,福岡県,0,,-
 SPADA,罪と罰,0,,-,1059,TEXT,福岡県,1290,KONAKA,福岡県,2139,HVM,福岡県,0,,-
-SPADA,疾風迅雷,0,,-,1045,WINTOS,福岡県,1853,A.U,福岡県,2890,HVM,福岡県,3389,HVM,福岡県
+SPADA,疾風迅雷,0,,-,1045,WINTOS,福岡県,1896,ASF410,福岡県,2890,HVM,福岡県,3389,HVM,福岡県
 SPADA,牧神笛吹きて,0,,-,613,NANA*C,福岡県,1273,OTAMA3,福岡県,2046,MASSY.,福岡県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1254,MARIMO,福岡県,2193,M084TA,福岡県,3845,HVM,福岡県,0,,-
 SPADA,海神,0,,-,1010,WINTOS,福岡県,1836,*MYAU*,福岡県,3174,KENTAN,福岡県,0,,-
@@ -735,7 +735,7 @@ SPADA,Recollection,0,,-,1149,OCHIAI,福岡県,1709,MARIMO,福岡県,2218,KENTAN,
 SPADA,rainbow guitar weeps,0,,-,863,FUGU,福岡県,1788,YAHIRO,福岡県,2737,DETTEU,福岡県,0,,-
 SPADA,ra'am,0,,-,1092,NASU,福岡県,1672,NASU,福岡県,2683,DETTEU,福岡県,0,,-
 SPADA,PUNISHER,0,,-,853,-A-,福岡県,1909,NASU,福岡県,3571,KENTAN,福岡県,0,,-
-SPADA,Pharaoh,0,,-,325,MAPLE,福岡県,1330,YUKINO,福岡県,2430,MIZO,福岡県,0,,-
+SPADA,Pharaoh,0,,-,662,CARROT,福岡県,1330,YUKINO,福岡県,2430,MIZO,福岡県,0,,-
 SPADA,Overload Frontier,0,,-,627,COLT,福岡県,1700,MI$ERY,福岡県,2576,SOSEI,福岡県,0,,-
 SPADA,Odin,0,,-,569,REDANT,福岡県,1343,A-MIN*,福岡県,2060,USA,福岡県,0,,-
 SPADA,NPC World,0,,-,892,RENK,福岡県,1412,TEXT,福岡県,2270,SOSEI,福岡県,0,,-
@@ -746,10 +746,10 @@ SPADA,m1dy Deluxe,0,,-,1113,TEXT,福岡県,1651,FINE,福岡県,2536,LOOT,福岡�
 SPADA,M.D.Injection,0,,-,380,K,福岡県,1179,HMX-12,福岡県,2406,MIZO,福岡県,0,,-
 SPADA,Lighting Shower,0,,-,782,OCHIAI,福岡県,1259,TEXT,福岡県,2390,MIZO,福岡県,0,,-
 SPADA,Last Dance,0,,-,1040,AR,福岡県,1797,12064,福岡県,3186,DETTEU,福岡県,0,,-
-SPADA,KHAMEN BREAK,0,,-,516,KISH,福岡県,1195,KYUKAN,福岡県,2465,MR2N,福岡県,0,,-
+SPADA,KHAMEN BREAK,0,,-,516,KISH,福岡県,1195,KYUKAN,福岡県,2492,SOSEI,福岡県,0,,-
 SPADA,KAISER PHOENIX,0,,-,1178,H.YUI,福岡県,2116,KMSTAR,福岡県,3261,HVM,福岡県,3870,HVM,福岡県
 SPADA,IX,0,,-,1262,TEXT,福岡県,2346,NOEL,福岡県,3747,KENTAN,福岡県,0,,-
-SPADA,invoker,0,,-,966,GUEST.,福岡県,1924,LOOT,福岡県,3121,LOOT,福岡県,3521,HVM,福岡県
+SPADA,invoker,0,,-,966,GUEST.,福岡県,1924,LOOT,福岡県,3157,MR2N,福岡県,3521,HVM,福岡県
 SPADA,into the battlefield,0,,-,709,OCHIAI,福岡県,1346,YUKINO,福岡県,2374,SOSEI,福岡県,0,,-
 SPADA,INSOMNIA,0,,-,783,OCHIAI,福岡県,1678,TEXT,福岡県,3147,HVM,福岡県,0,,-
 SPADA,Insane Techniques,0,,-,711,NAGOMI,福岡県,1217,ASF410,福岡県,2475,HVM,福岡県,0,,-
@@ -759,7 +759,7 @@ SPADA,Hypersonik,0,,-,833,YUYUKO,福岡県,1548,TEXT,福岡県,2503,SOSEI,福岡
 SPADA,HYENA,0,,-,1167,MOKA,福岡県,1993,KURURU,福岡県,2802,MASSY.,福岡県,0,,-
 SPADA,Funny shuffle,0,,-,446,TKNK,福岡県,1089,MI$ERY,福岡県,2316,KENTAN,福岡県,0,,-
 SPADA,Feel The Beat,0,,-,1261,OCHIAI,福岡県,1976,12064,福岡県,3541,HVM,福岡県,4215,LOOT,福岡県
-SPADA,EXTREME MACH COLLIDER,0,,-,737,YUYUKO,福岡県,1375,ZZZ,福岡県,2556,MASSY.,福岡県,0,,-
+SPADA,EXTREME MACH COLLIDER,0,,-,737,YUYUKO,福岡県,1375,ZZZ,福岡県,2561,SOSEI,福岡県,0,,-
 SPADA,Engraved Mark,0,,-,609,MOGULO,福岡県,1332,LOOT,福岡県,2367,SUZAKU,福岡県,0,,-
 SPADA,Element of SPADA,0,,-,708,CARROT,福岡県,1350,LOOT,福岡県,2086,SOSEI,福岡県,0,,-
 SPADA,Elektrick U-Phoria,0,,-,1144,OCHIAI,福岡県,1768,KEUR,福岡県,3068,LOOT,福岡県,0,,-
@@ -778,7 +778,7 @@ SPADA,ATHER,0,,-,947,YUNI,福岡県,1487,YUKINO,福岡県,2774,MR2N,福岡県,0,
 SPADA,Ancient Scapes,0,,-,934,NAKA.F,福岡県,1820,M084TA,福岡県,3426,LOOT,福岡県,4169,DETTEU,福岡県
 SPADA,ALBA -黎明-,0,,-,638,MAKITA,福岡県,1537,LOOT,福岡県,3209,KENTAN,福岡県,0,,-
 SPADA,Adularia,200,CARROT,福岡県,946,WINTOS,福岡県,1772,HANAMI,福岡県,2824,SUZAKU,福岡県,0,,-
-PENDUAL,Ｘ↑Ｘ↓,0,,-,885,NAGOMI,福岡県,1757,LOOT,福岡県,2873,LOOT,福岡県,0,,-
+PENDUAL,Ｘ↑Ｘ↓,0,,-,885,NAGOMI,福岡県,1757,LOOT,福岡県,2875,DETTEU,福岡県,0,,-
 PENDUAL,鬼天,0,,-,946,SIO.ST,福岡県,1537,KONAKA,福岡県,2469,HVM,福岡県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,1010,TEXT,福岡県,2006,KMSTAR,福岡県,2670,DETTEU,福岡県,4057,DETTEU,福岡県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,955,WINTOS,福岡県,2061,YUTA.F,福岡県,3546,YUMEKO,福岡県,0,,-
@@ -787,15 +787,15 @@ PENDUAL,白露の風,0,,-,398,MASAYA,福岡県,1153,YUKINO,福岡県,2025,HVM,�
 PENDUAL,時空トラベローグ,0,,-,960,OCHIAI,福岡県,1711,MOKA,福岡県,2640,HVM,福岡県,0,,-
 PENDUAL,打打打打打打打打打打,200,CARROT,福岡県,783,TEXT,福岡県,1343,F-DEAN,福岡県,2603,DETTEU,福岡県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,666,JNX24,福岡県,1253,OCHIAI,福岡県,2025,KURIBO,福岡県,2752,LOOT,福岡県
-PENDUAL,少年は空を辿る,0,,-,1111,KYUKAN,福岡県,1819,12064,福岡県,3228,KENTAN,福岡県,0,,-
+PENDUAL,少年は空を辿る,0,,-,1111,KYUKAN,福岡県,1938,CHEBEX,福岡県,3228,KENTAN,福岡県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,950,BURO-L,福岡県,1569,PANA-N,福岡県,2163,CARROT,福岡県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,759,ENO,福岡県,1827,ILIEZE,福岡県,3048,LOOT,福岡県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),252,CARROT,福岡県,926,OTYUA,福岡県,1693,KYRIE.,福岡県,2216,SOSEI,福岡県,0,,-
-PENDUAL,千年ノ理,0,,-,1199,YARI!!,福岡県,1877,*NOBU*,福岡県,3169,YUMEKO,福岡県,4231,HVM,福岡県
+PENDUAL,千年ノ理,0,,-,1199,YARI!!,福岡県,1877,*NOBU*,福岡県,3176,KENTAN,福岡県,4231,HVM,福岡県
 PENDUAL,十六夜セツナ,0,,-,944,YUNI,福岡県,1541,TEXT,福岡県,2235,KENTAN,福岡県,0,,-
 PENDUAL,共鳴遊戯の華,0,,-,1271,SUSHI,福岡県,2430,HELNIA,福岡県,3757,DETTEU,福岡県,0,,-
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,965,MAKITA,福岡県,2175,HANAMI,福岡県,3385,SUZAKU,福岡県,0,,-
-PENDUAL,ベィスドロップ・フリークス,0,,-,623,HAL-15,福岡県,1261,HAL-15,福岡県,2233,MIZO,福岡県,0,,-
+PENDUAL,ベィスドロップ・フリークス,0,,-,623,HAL-15,福岡県,1261,HAL-15,福岡県,2235,SOSEI,福岡県,0,,-
 PENDUAL,パ→ピ→プ→Yeah!,380,CARROT,福岡県,990,MAKITA,福岡県,1613,DETTEU,福岡県,2540,KENTAN,福岡県,0,,-
 PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,944,YUNI,福岡県,1698,MISAKI,福岡県,2806,DETTEU,福岡県,0,,-
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1268,OCHIAI,福岡県,1866,MI$ERY,福岡県,2679,DETTEU,福岡県,0,,-
@@ -803,14 +803,14 @@ PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,
 PENDUAL,とろぴかる倶楽部,0,,-,770,NAGOMI,福岡県,1363,12064,福岡県,2250,HVM,福岡県,0,,-
 PENDUAL,それは花火のような恋,708,CARROT,福岡県,1234,GO9SO2,福岡県,2432,A?YURA,福岡県,3856,HVM,福岡県,0,,-
 PENDUAL,ZZ,204,CARROT,福岡県,1109,WINTOS,福岡県,2012,KRS#XX,福岡県,3024,MASSY.,福岡県,0,,-
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1087,TEXT,福岡県,2193,TAG,福岡県,3649,KENTAN,福岡県,0,,-
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1087,TEXT,福岡県,2193,TAG,福岡県,3678,LOOT,福岡県,0,,-
 PENDUAL,Vulkan,0,,-,682,84RA,福岡県,1897,SUBARU,福岡県,2999,HVM,福岡県,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1447,MAKITA,福岡県,2231,KURO.C,福岡県,3708,DETTEU,福岡県,0,,-
 PENDUAL,TIEFSEE,0,,-,1148,WINTOS,福岡県,2007,UDONGE,福岡県,3455,KENTAN,福岡県,0,,-
 PENDUAL,The Least 100sec,0,,-,651,KAK,福岡県,1308,R.U.I.,福岡県,2862,MASSY.,福岡県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1075,OCHIAI,福岡県,1562,MISAKI,福岡県,2306,DETTEU,福岡県,0,,-
 PENDUAL,Symmetry,0,,-,998,WINTOS,福岡県,2025,NINPU,福岡県,3259,HVM,福岡県,0,,-
-PENDUAL,Sweet Radar,0,,-,556,YZ,福岡県,1352,HIDARI,福岡県,2020,USA,福岡県,0,,-
+PENDUAL,Sweet Radar,0,,-,582,SHIRO.,福岡県,1352,HIDARI,福岡県,2020,USA,福岡県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,952,RENA-P,福岡県,1605,UDONGE,福岡県,2913,HVM,福岡県,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1224,OCHIAI,福岡県,1959,MEL,福岡県,2957,HVM,福岡県,0,,-
 PENDUAL,Shooting Fireball,0,,-,886,MOMIJI,福岡県,2267,TARKUS,福岡県,3892,KENTAN,福岡県,0,,-
@@ -822,7 +822,7 @@ PENDUAL,Sakura Mirage,0,,-,943,TEXT,福岡県,1328,LOOT,福岡県,2325,MR2N,福�
 PENDUAL,Reflux,0,,-,679,JNX24,福岡県,1594,ACRUX*,福岡県,2939,MASSY.,福岡県,0,,-
 PENDUAL,Realize Maze,0,,-,1201,OCHIAI,福岡県,1951,MISAKI,福岡県,2984,KENTAN,福岡県,0,,-
 PENDUAL,"Rave*it!! Rave*it!! ",0,,-,840,YUYUKO,福岡県,1673,RV*B.L,福岡県,3210,HVM,福岡県,0,,-
-PENDUAL,PENDUAL TALISMAN,0,,-,1009,OCHIAI,福岡県,1594,MI.,福岡県,2587,BERRY,福岡県,0,,-
+PENDUAL,PENDUAL TALISMAN,0,,-,1009,OCHIAI,福岡県,1594,MI.,福岡県,2592,CARROT,福岡県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,642,NANA*C,福岡県,1212,YUKINO,福岡県,1983,SOSEI,福岡県,0,,-
 PENDUAL,No Tears,0,,-,1113,MARIMO,福岡県,2098,LOOT,福岡県,2522,SOSEI,福岡県,0,,-
 PENDUAL,Night sky,0,,-,1107,GAIJIN,福岡県,1871,LOOT,福岡県,2914,KENTAN,福岡県,0,,-
@@ -841,11 +841,11 @@ PENDUAL,Gravigazer,0,,-,896,OCHIAI,福岡県,1831,M084TA,福岡県,2951,MASSY.,�
 PENDUAL,Flashes,0,,-,926,OCHIAI,福岡県,1632,VEGA-P,福岡県,3224,MASSY.,福岡県,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1151,SUSUME,福岡県,2200,U.K.,福岡県,3145,LOOT,福岡県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1054,GAIJIN,福岡県,2058,EMPTY,福岡県,3330,HVM,福岡県,0,,-
-PENDUAL,"Erosion Mark  ",0,,-,643,RENA-P,福岡県,1408,*GGXX*,福岡県,2162,LOOT,福岡県,0,,-
+PENDUAL,"Erosion Mark  ",0,,-,643,RENA-P,福岡県,1449,S-CAT!,福岡県,2162,LOOT,福岡県,0,,-
 PENDUAL,entelecheia,0,,-,934,NAKA.F,福岡県,2055,FU,福岡県,3259,KENTAN,福岡県,0,,-
 PENDUAL,EBONY & IVORY,0,,-,1026,YUKINO,福岡県,1714,LOOT,福岡県,2966,KENTAN,福岡県,3569,HVM,福岡県
 PENDUAL,Discloze,0,,-,848,MARU-9,福岡県,1576,GG-RAY,福岡県,2603,MASSY.,福岡県,0,,-
-PENDUAL,Despair of ELFERIA,0,,-,1159,RUGUDO,福岡県,2310,FU,福岡県,4054,LOOT,福岡県,0,,-
+PENDUAL,Despair of ELFERIA,0,,-,1159,RUGUDO,福岡県,2310,FU,福岡県,4088,LOOT,福岡県,0,,-
 PENDUAL,Cosmic Cat,0,,-,808,WINTOS,福岡県,1731,LOOT,福岡県,2274,MR2N,福岡県,3139,MR2N,福岡県
 PENDUAL,"COLOSSEUM ",0,,-,545,OCHIAI,福岡県,1130,KYUKAN,福岡県,2266,CARROT,福岡県,0,,-
 PENDUAL,cinder,0,,-,823,TEXT,福岡県,1887,TEXT,福岡県,3067,HVM,福岡県,0,,-
@@ -875,7 +875,7 @@ copula,明鏡止水,0,,-,827,GSW,福岡県,1705,R.U.I.,福岡県,2779,MASSY.,福
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,725,OCHIAI,福岡県,1395,YUKINO,福岡県,2144,MASSY.,福岡県,0,,-
 copula,セロトニン,0,,-,1256,TEXT,福岡県,1728,GG-RAY,福岡県,2322,DETTEU,福岡県,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,1100,OCHIAI,福岡県,1715,OTAMA3,福岡県,2445,LOOT,福岡県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,677,YUU,福岡県,1344,ASF410,福岡県,2370,CARROT,福岡県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,727,SHIRO.,福岡県,1344,ASF410,福岡県,2370,CARROT,福岡県,0,,-
 copula,オルタネイトβ,0,,-,762,YUYUKO,福岡県,1348,KAZAMI,福岡県,2255,KENTAN,福岡県,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,1407,OCHIAI,福岡県,2199,CHEBEX,福岡県,3346,KENTAN,福岡県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,1085,SUSUME,福岡県,1627,ASF410,福岡県,2814,MASSY.,福岡県,0,,-
@@ -890,7 +890,7 @@ copula,Tori-no-kimochi,0,,-,252,37*L1N,福岡県,1202,MARIMO,福岡県,1975,CARR
 copula,SURVIVOR,0,,-,483,-A-,福岡県,1133,LUCIDA,福岡県,2016,CARROT,福岡県,0,,-
 copula,Super Duper Racers,0,,-,838,STAR.C,福岡県,1559,ACRUX*,福岡県,2354,LOOT,福岡県,0,,-
 copula,StrayedCatz,0,,-,961,WINTOS,福岡県,1965,RETEYA,福岡県,2753,DETTEU,福岡県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1064,RENA-P,福岡県,1829,LOOT,福岡県,2624,MASSY.,福岡県,3247,MIZO,福岡県
+copula,STARLIGHT DANCEHALL,0,,-,1064,RENA-P,福岡県,1829,LOOT,福岡県,2624,MASSY.,福岡県,3263,LOOT,福岡県
 copula,STARLiGHT,0,,-,869,YUNI,福岡県,1844,LOOT,福岡県,2754,KENTAN,福岡県,0,,-
 copula,SHELTER OF THE MIND,0,,-,1392,UDONGE,福岡県,1884,X-RA9.,福岡県,3030,MIZO,福岡県,0,,-
 copula,Set U Free feat. Kanae Asaba,0,,-,863,*GGXX*,福岡県,1475,*ALMAL,福岡県,2531,SOSEI,福岡県,0,,-
@@ -899,7 +899,7 @@ copula,SEITEN NO TERIYAKI,0,,-,483,TRSN,福岡県,1058,BMIIDX,福岡県,2211,DET
 copula,Routing,0,,-,819,WINTOS,福岡県,1654,LOOT,福岡県,2485,MASSY.,福岡県,0,,-
 copula,Rock It,0,,-,866,YUYUKO,福岡県,1675,LOOT,福岡県,2946,MASSY.,福岡県,0,,-
 copula,refrain,0,,-,1140,TAITYO,福岡県,2174,LEVEL6,福岡県,3597,HVM,福岡県,0,,-
-copula,quick master (reform version),0,,-,159,KENTAN,福岡県,325,PRIRIZ,福岡県,527,CARROT,福岡県,0,,-
+copula,quick master (reform version),0,,-,159,KENTAN,福岡県,356,CARROT,福岡県,527,CARROT,福岡県,0,,-
 copula,POSSESSION,538,CARROT,福岡県,1348,TEXT,福岡県,1996,MARCIA,福岡県,2977,KENTAN,福岡県,0,,-
 copula,Outbreak,0,,-,1261,*GGXX*,福岡県,1784,KEUR,福岡県,3010,KENTAN,福岡県,0,,-
 copula,On the FM,0,,-,1072,TEXT,福岡県,1493,S-CAT!,福岡県,2769,KENTAN,福岡県,0,,-
@@ -909,7 +909,7 @@ copula,NO LIMIT -オレ達に限界は無い-,0,,-,742,K-TOMY,福岡県,1138,YUK
 copula,NINJA IS DEAD IIDX ver.,0,,-,1150,NAGOMI,福岡県,1881,LOOT,福岡県,2994,KENTAN,福岡県,0,,-
 copula,Nightmare before oversleep,0,,-,1123,NIA,福岡県,1789,HANAMI,福岡県,2926,LOOT,福岡県,0,,-
 copula,NANAIRO,0,,-,989,TEXT,福岡県,1725,SHIFT,福岡県,2561,MIZO,福岡県,0,,-
-copula,Musik LoverZ,0,,-,1025,GANESA,福岡県,1328,OCHIAI,福岡県,2488,MASSY.,福岡県,0,,-
+copula,Musik LoverZ,0,,-,1025,GANESA,福岡県,1328,OCHIAI,福岡県,2500,SOSEI,福岡県,0,,-
 copula,M4K3 1T B0UNC3,0,,-,1033,YUNI,福岡県,2007,NINPU,福岡県,2992,MASSY.,福岡県,0,,-
 copula,La dolce primavera,0,,-,453,ARUSU,福岡県,1234,R.U.I.,福岡県,2138,CARROT,福岡県,0,,-
 copula,Konzert V,0,,-,1098,NAKA.F,福岡県,2138,NAO.,福岡県,3305,DETTEU,福岡県,0,,-
@@ -943,9 +943,9 @@ copula,AO-1,0,,-,1259,LOOT,福岡県,1856,HANAMI,福岡県,2772,KENTAN,福岡県
 copula,Angelic Jelly,0,,-,1072,MOMIJI,福岡県,1890,*GGXX*,福岡県,2762,LOOT,福岡県,0,,-
 copula,Acid Pumper,0,,-,575,$GSM,福岡県,1481,MOKA,福岡県,2452,MASSY.,福岡県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,609,MISAKI,福岡県,1570,TOKKEY,福岡県,2319,MASSY.,福岡県,0,,-
-SINOBUZ,鴉,0,,-,1382,RENA-P,福岡県,2105,BURO-L,福岡県,2669,MIZO,福岡県,0,,-
+SINOBUZ,鴉,0,,-,1382,RENA-P,福岡県,2138,HANAMI,福岡県,2669,MIZO,福岡県,0,,-
 SINOBUZ,童話回廊,0,,-,848,YUNI,福岡県,1585,SHIFT,福岡県,3013,MR2N,福岡県,0,,-
-SINOBUZ,禍根,0,,-,656,YZ,福岡県,1287,KUINA,福岡県,2569,MASSY.,福岡県,0,,-
+SINOBUZ,禍根,0,,-,656,YZ,福岡県,1290,KUINA,福岡県,2569,MASSY.,福岡県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,390,AAAAAA,福岡県,994,NAGOMI,福岡県,1730,CARROT,福岡県,0,,-
 SINOBUZ,焔極OVERKILL,0,,-,987,RENA-P,福岡県,2000,EVER46,福岡県,3585,HVM,福岡県,0,,-
 SINOBUZ,火影,0,,-,552,KSLIEN,福岡県,1362,D.C.II,福岡県,2692,MASSY.,福岡県,0,,-
@@ -958,12 +958,12 @@ SINOBUZ,刃図羅,0,,-,1200,*GGXX*,福岡県,2030,RE3LIA,福岡県,3371,KENTAN,�
 SINOBUZ,冬椿 ft. Kanae Asaba,262,CARROT,福岡県,877,T.K,福岡県,1236,ACRUX*,福岡県,2277,KENTAN,福岡県,3048,HVM,福岡県
 SINOBUZ,九尾狐夜行,0,,-,763,AKI290,福岡県,1635,HANAMI,福岡県,2922,DETTEU,福岡県,0,,-
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,661,NAGOMI,福岡県,1303,YUKINO,福岡県,2461,SOSEI,福岡県,0,,-
-SINOBUZ,イザナミノナゲキ,0,,-,1133,OCHIAI,福岡県,1856,GG-RAY,福岡県,3163,MR2N,福岡県,0,,-
+SINOBUZ,イザナミノナゲキ,0,,-,1133,OCHIAI,福岡県,1856,GG-RAY,福岡県,3216,KENTAN,福岡県,0,,-
 SINOBUZ,ちらちら・はらはら,0,,-,395,O.T!,福岡県,946,KURURU,福岡県,1429,CARROT,福岡県,0,,-
 SINOBUZ,〆,0,,-,1244,10G6A2,福岡県,2154,KARIN,福岡県,3662,KENTAN,福岡県,0,,-
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,422,RAL,福岡県,1618,ISIDA8,福岡県,2867,HVM,福岡県,0,,-
 SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,721,RISE14,福岡県,1436,UEZA-R,福岡県,2609,MASSY.,福岡県,0,,-
-SINOBUZ,XINOBIKILL,0,,-,956,*GGXX*,福岡県,1703,RE3LIA,福岡県,2842,YARI!!,福岡県,0,,-
+SINOBUZ,XINOBIKILL,0,,-,956,*GGXX*,福岡県,1703,RE3LIA,福岡県,2857,DETTEU,福岡県,0,,-
 SINOBUZ,Warrior,0,,-,952,YUNI,福岡県,1677,MISAKI,福岡県,2469,MR2N,福岡県,0,,-
 SINOBUZ,Vermilion,0,,-,831,OCHIAI,福岡県,1253,YUKINO,福岡県,2001,SOSEI,福岡県,0,,-
 SINOBUZ,Venom,0,,-,1120,WINTOS,福岡県,2016,MOKA,福岡県,3145,SUZAKU,福岡県,0,,-
@@ -995,7 +995,7 @@ SINOBUZ,RAIN,0,,-,1118,TEXT,福岡県,1800,LOOT,福岡県,3254,KENTAN,福岡県,
 SINOBUZ,Quakes,0,,-,994,WINTOS,福岡県,1995,MOKA,福岡県,3113,LOOT,福岡県,0,,-
 SINOBUZ,Piano Samurai,0,,-,938,YUNI,福岡県,1780,LOOT,福岡県,2477,MIZO,福岡県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,619,MIYUKI,福岡県,1394,S-CAT!,福岡県,2784,KENTAN,福岡県,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,1244,TEXT,福岡県,1894,NOUKA,福岡県,3112,LOOT,福岡県,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,1244,TEXT,福岡県,1894,NOUKA,福岡県,3127,LOOT,福岡県,0,,-
 SINOBUZ,OOO,0,,-,612,SUSUME,福岡県,1434,KIRYU,福岡県,2059,SOSEI,福岡県,0,,-
 SINOBUZ,nostos,0,,-,872,BUNTU?,福岡県,1273,ZZZ,福岡県,2555,MASSY.,福岡県,0,,-
 SINOBUZ,Music is The Answer,0,,-,727,GSW,福岡県,1316,MI$ERY,福岡県,1911,CARROT,福岡県,0,,-
@@ -1039,7 +1039,7 @@ CANNON BALLERS,純真可憐デザイア,254,CARROT,福岡県,791,OCHIAI,福岡�
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1377,LOOT,福岡県,2367,M084TA,福岡県,3991,KENTAN,福岡県,0,,-
 CANNON BALLERS,東京神話,0,,-,992,OTYUA,福岡県,1672,MEL,福岡県,2780,HVM,福岡県,0,,-
 CANNON BALLERS,命の標本,0,,-,716,10G6A2,福岡県,1514,YUKINO,福岡県,2658,MR2N,福岡県,0,,-
-CANNON BALLERS,共犯へヴンズコード,0,,-,407,KSLIEN,福岡県,1315,MOKA,福岡県,2249,DETTEU,福岡県,0,,-
+CANNON BALLERS,共犯へヴンズコード,0,,-,407,KSLIEN,福岡県,1315,MOKA,福岡県,2251,CARROT,福岡県,0,,-
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,693,YUYUKO,福岡県,1433,GSW,福岡県,2161,CARROT,福岡県,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,999,MOKA,福岡県,1915,LOOT,福岡県,2748,KURIBO,福岡県,0,,-
 CANNON BALLERS,バスルーム ロマンス,0,,-,923,MARIMO,福岡県,1400,*ALMAL,福岡県,2411,MR2N,福岡県,0,,-
@@ -1050,7 +1050,7 @@ CANNON BALLERS,シムルグの目醒め,0,,-,1359,10G6A2,福岡県,2324,LOOT,福
 CANNON BALLERS,エディブルフラワーの独白,0,,-,749,ATELL,福岡県,1465,YUKINO,福岡県,2206,HVM,福岡県,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,891,TEXT,福岡県,1514,LACKME,福岡県,2506,HVM,福岡県,0,,-
 CANNON BALLERS,Xperanza,552,CARROT,福岡県,1333,MISAKI,福岡県,2329,SUZAKU,福岡県,3156,KENTAN,福岡県,0,,-
-CANNON BALLERS,VOX RUSH,0,,-,1135,KYUKAN,福岡県,2110,UDONGE,福岡県,3327,MR2N,福岡県,0,,-
+CANNON BALLERS,VOX RUSH,0,,-,1135,KYUKAN,福岡県,2170,HANAMI,福岡県,3327,MR2N,福岡県,0,,-
 CANNON BALLERS,Usual Days-remix,0,,-,994,TEXT,福岡県,1495,MASSY.,福岡県,2645,HVM,福岡県,0,,-
 CANNON BALLERS,UMMU,440,CARROT,福岡県,1169,OCHIAI,福岡県,1923,NAO.,福岡県,3094,KENTAN,福岡県,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,776,10G6A2,福岡県,1452,S-CAT!,福岡県,1852,CARROT,福岡県,0,,-
@@ -1082,11 +1082,11 @@ CANNON BALLERS,Midnight Lady,0,,-,543,YUYUKO,福岡県,1085,GSW,福岡県,1943,C
 CANNON BALLERS,MAXIVCORD,0,,-,744,RANJI,福岡県,1331,LOOT,福岡県,2437,HVM,福岡県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,670,YUU,福岡県,1301,10G6A2,福岡県,2105,SOSEI,福岡県,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,741,10G6A2,福岡県,1387,TUKUNE,福岡県,2363,DETTEU,福岡県,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1201,MOKA,福岡県,1914,LOOT,福岡県,3417,HVM,福岡県,0,,-
-CANNON BALLERS,Let's Bounce !!,0,,-,644,YUYUKO,福岡県,1164,MISAKI,福岡県,2221,CARROT,福岡県,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1201,MOKA,福岡県,1914,LOOT,福岡県,3430,LOOT,福岡県,0,,-
+CANNON BALLERS,Let's Bounce !!,0,,-,684,MOKA,福岡県,1164,MISAKI,福岡県,2221,CARROT,福岡県,0,,-
 CANNON BALLERS,Initiation,0,,-,1397,10G6A2,福岡県,2485,LOOT,福岡県,3870,HVM,福岡県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1245,TEXT,福岡県,2257,LOOT,福岡県,3451,LOOT,福岡県,0,,-
-CANNON BALLERS,I'm Coming (2017 Version),0,,-,435,MOKU,福岡県,1207,GSW,福岡県,2092,SOSEI,福岡県,0,,-
+CANNON BALLERS,I'm Coming (2017 Version),0,,-,646,CARROT,福岡県,1207,GSW,福岡県,2092,SOSEI,福岡県,0,,-
 CANNON BALLERS,I Love You,0,,-,954,YUNI,福岡県,1731,KONAKA,福岡県,2725,HVM,福岡県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,1037,MARIMO,福岡県,2021,LOOT,福岡県,2973,HVM,福岡県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,630,KOH*,福岡県,998,*GGXX*,福岡県,1828,CARROT,福岡県,0,,-
@@ -1098,7 +1098,7 @@ CANNON BALLERS,FREEDOM,0,,-,825,YUYUKO,福岡県,1702,LOOT,福岡県,2909,SOSEI,
 CANNON BALLERS,FIRE BALL,0,,-,841,*GGXX*,福岡県,1618,LOOT,福岡県,2458,LOOT,福岡県,0,,-
 CANNON BALLERS,Fervidex,0,,-,827,TEXT,福岡県,1773,NORA,福岡県,2699,KENTAN,福岡県,0,,-
 CANNON BALLERS,Expanded !!,0,,-,672,*GGXX*,福岡県,1437,S-CAT!,福岡県,2616,MIZO,福岡県,0,,-
-CANNON BALLERS,Exhaust Hype,0,,-,762,MIYUKI,福岡県,1852,FU,福岡県,2788,MIZO,福岡県,0,,-
+CANNON BALLERS,Exhaust Hype,0,,-,835,SHIRO.,福岡県,1852,FU,福岡県,2788,MIZO,福岡県,0,,-
 CANNON BALLERS,encounter,0,,-,873,YUNI,福岡県,1753,LOOT,福岡県,3262,KENTAN,福岡県,0,,-
 CANNON BALLERS,EMERALDAS,0,,-,1309,L!-Z.,福岡県,2379,LOOT,福岡県,3475,MASSY.,福岡県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,890,RYO,福岡県,1409,LOOT,福岡県,2546,HVM,福岡県,0,,-
@@ -1117,8 +1117,8 @@ CANNON BALLERS,Battleground,0,,-,1003,WINTOS,福岡県,1704,S-CAT!,福岡県,267
 CANNON BALLERS,Back Spin Sweeper,0,,-,748,THAN-9,福岡県,1389,AGE.43,福岡県,2253,MASSY.,福岡県,0,,-
 CANNON BALLERS,Around the Future,0,,-,1027,TEXT,福岡県,1705,LOOT,福岡県,2573,A-1,福岡県,0,,-
 CANNON BALLERS,Arca,0,,-,899,OCHIAI,福岡県,1814,MOKA,福岡県,3129,HVM,福岡県,0,,-
-CANNON BALLERS,Antigravity,0,,-,1011,10G6A2,福岡県,2019,LOOT,福岡県,2988,HVM,福岡県,0,,-
-CANNON BALLERS,ANCHOR,0,,-,1298,10G6A2,福岡県,2476,LOOT,福岡県,3536,LOOT,福岡県,0,,-
+CANNON BALLERS,Antigravity,0,,-,1011,10G6A2,福岡県,2019,LOOT,福岡県,2996,LOOT,福岡県,0,,-
+CANNON BALLERS,ANCHOR,0,,-,1298,10G6A2,福岡県,2476,LOOT,福岡県,3562,LOOT,福岡県,0,,-
 CANNON BALLERS,ANAGMA,0,,-,907,RYO,福岡県,1785,LOOT,福岡県,2606,SOSEI,福岡県,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,782,YUMEKO,福岡県,1407,LOOT,福岡県,2309,KENTAN,福岡県,0,,-
 CANNON BALLERS,Alpheratz,0,,-,427,H.K!,福岡県,964,OCHIAI,福岡県,2084,KENTAN,福岡県,0,,-
@@ -1126,11 +1126,11 @@ CANNON BALLERS,Acidiva 303,0,,-,783,*GGXX*,福岡県,1287,*GGXX*,福岡県,2301,
 CANNON BALLERS,ACCELERATE,0,,-,1039,WINTOS,福岡県,1661,OCHIAI,福岡県,2494,USA,福岡県,0,,-
 CANNON BALLERS,Abraxas,0,,-,760,OCHIAI,福岡県,1622,LOOT,福岡県,2417,MASSY.,福岡県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1262,LOOT,福岡県,2375,TARKUS,福岡県,3535,DETTEU,福岡県,0,,-
-CANNON BALLERS,255,0,,-,861,ASF410,福岡県,1479,HANAMI,福岡県,3281,HVM,福岡県,0,,-
+CANNON BALLERS,255,0,,-,861,ASF410,福岡県,1541,HANAMI,福岡県,3281,HVM,福岡県,0,,-
 CANNON BALLERS,2 Player,0,,-,770,0M0CH!,福岡県,1399,HERMES,福岡県,2529,CARROT,福岡県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,979,OCHIAI,福岡県,1573,YUKINO,福岡県,2617,MASSY.,福岡県,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,948,MIZUNA,福岡県,2264,RE3LIA,福岡県,3189,HVM,福岡県,0,,-
-Rootage,金野火織の金色提言,0,,-,1208,FINE,福岡県,2103,FINE,福岡県,3045,KENTAN,福岡県,0,,-
+Rootage,金野火織の金色提言,0,,-,1208,FINE,福岡県,2119,HANAMI,福岡県,3045,KENTAN,福岡県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,860,WINTOS,福岡県,1641,SHIKI*,福岡県,2573,CARROT,福岡県,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1053,MOMIJI,福岡県,1929,LOOT,福岡県,2671,MR2N,福岡県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1233,MISAKI,福岡県,2203,SUMIRE,福岡県,4104,HVM,福岡県,0,,-
@@ -1146,7 +1146,7 @@ Rootage,Xlo,0,,-,1366,LAKS,福岡県,2413,KIRYU,福岡県,3710,KENTAN,福岡県,
 Rootage,X-DEN,0,,-,1685,CARROT,福岡県,2617,CARROT,福岡県,4054,HVM,福岡県,0,,-
 Rootage,Wonderland,0,,-,901,YUNI,福岡県,1859,LOOT,福岡県,2715,MIZO,福岡県,0,,-
 Rootage,Won(*3*)Chu KissMe!,272,CARROT,福岡県,834,MARIMO,福岡県,1332,KONAKA,福岡県,2504,HVM,福岡県,0,,-
-Rootage,Wolf 1061,0,,-,902,YUYUKO,福岡県,1606,NORTH,福岡県,3075,MASSY.,福岡県,0,,-
+Rootage,Wolf 1061,0,,-,902,YUYUKO,福岡県,1606,NORTH,福岡県,3088,KENTAN,福岡県,0,,-
 Rootage,Wing of Hearts,0,,-,1024,RANJI,福岡県,1701,NG,福岡県,2907,SOSEI,福岡県,0,,-
 Rootage,Visterhv,0,,-,1218,MISAKI,福岡県,2148,GANESA,福岡県,3685,KENTAN,福岡県,0,,-
 Rootage,Urban Constellations,0,,-,646,STAR.C,福岡県,1421,UDONGE,福岡県,2241,DETTEU,福岡県,0,,-
@@ -1208,7 +1208,7 @@ Rootage,Digital Skipper,0,,-,930,NAGOMI,福岡県,1556,LOOT,福岡県,2240,CARRO
 Rootage,dAuntl3ss,0,,-,1017,MISAKI,福岡県,1803,12064,福岡県,3447,MASSY.,福岡県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,737,YZ,福岡県,1483,10G6A2,福岡県,2418,CARROT,福岡県,0,,-
 Rootage,CoMAAAAAAA,0,,-,1146,*GGXX*,福岡県,2052,LOOT,福岡県,2396,SOSEI,福岡県,0,,-
-Rootage,CODE:0,0,,-,1359,MISAKI,福岡県,2033,KINACO,福岡県,2773,LOOT,福岡県,0,,-
+Rootage,CODE:0,0,,-,1408,*ALMAL,福岡県,2033,KINACO,福岡県,2773,LOOT,福岡県,0,,-
 Rootage,Catch Our Fire!,0,,-,1391,CARROT,福岡県,2309,LOOT,福岡県,3688,KENTAN,福岡県,0,,-
 Rootage,Carmina,0,,-,1231,10G6A2,福岡県,2341,U.K.,福岡県,3716,HVM,福岡県,0,,-
 Rootage,BLOSSOM,0,,-,1005,SUSUME,福岡県,1586,LOOT,福岡県,2501,MIZO,福岡県,0,,-
@@ -1225,7 +1225,7 @@ HEROIC VERSE,錬成人間トリコロイダー,0,,-,1061,CARROT,福岡県,1809,C
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1389,CARROT,福岡県,2144,CARROT,福岡県,3513,HVM,福岡県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,853,MIZO,福岡県,1655,CARROT,福岡県,2992,HVM,福岡県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1101,MIZO,福岡県,1761,MIZO,福岡県,2739,KENTAN,福岡県,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,258,CARROT,福岡県,639,NOEL*,福岡県,1331,CARROT,福岡県,1994,KENTAN,福岡県,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,258,CARROT,福岡県,648,CARROT,福岡県,1331,CARROT,福岡県,1994,KENTAN,福岡県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),356,CARROT,福岡県,574,CARROT,福岡県,1386,CARROT,福岡県,2193,KENTAN,福岡県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1164,CARROT,福岡県,1893,CARROT,福岡県,2933,MASSY.,福岡県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,808,CARROT,福岡県,1460,HVM,福岡県,2392,HVM,福岡県,0,,-

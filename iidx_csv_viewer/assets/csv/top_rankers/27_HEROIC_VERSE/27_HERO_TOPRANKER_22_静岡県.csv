@@ -1,7 +1,7 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,716,NANAMI,静岡県,1048,CLARET,静岡県,1154,K-CHA*,静岡県,0,,-
-1st&substream,RUGGED ASH,0,,-,339,NOBU27,静岡県,395,IIDX27,静岡県,1072,K-CHA*,静岡県,1948,RAN9,静岡県
-1st&substream,R3,0,,-,607,38,静岡県,670,ANSWER,静岡県,901,*ALEX*,静岡県,0,,-
+1st&substream,RUGGED ASH,0,,-,339,NOBU27,静岡県,395,IIDX27,静岡県,1073,MOAI.S,静岡県,1948,RAN9,静岡県
+1st&substream,R3,0,,-,607,38,静岡県,670,ANSWER,静岡県,902,MOAI.S,静岡県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,527,NOBU27,静岡県,738,CLARET,静岡県,1097,MOAI.S,静岡県,0,,-
 1st&substream,Macho Gang,0,,-,331,NOBU27,静岡県,1042,NANAMI,静岡県,1636,MOAI.S,静岡県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,179,NOBU27,静岡県,244,CLARET,静岡県,0,,-,0,,-
@@ -21,17 +21,17 @@
 2nd style,Digital MinD(A/T Libra mix),0,,-,668,SAKURA,静岡県,1000,NANAMI,静岡県,1118,MOAI.S,静岡県,0,,-
 2nd style,.59,0,,-,610,NOBU27,静岡県,945,LAPIS,静岡県,1147,MOAI.S,静岡県,0,,-
 3rd style,THE SAFARI,360,ON.S,静岡県,1183,NANAMI,静岡県,1738,MOAI.S,静岡県,0,,-,0,,-
-3rd style,Tangerine Stream,0,,-,244,NOBU27,静岡県,390,GALAF,静岡県,0,,-,0,,-
-3rd style,Skyscraper,0,,-,670,NOBU27,静岡県,1165,IIDX27,静岡県,1237,*ALEX*,静岡県,0,,-
+3rd style,Tangerine Stream,0,,-,244,NOBU27,静岡県,393,*ALEX*,静岡県,0,,-,0,,-
+3rd style,Skyscraper,0,,-,670,NOBU27,静岡県,1165,IIDX27,静岡県,1240,MOAI.S,静岡県,0,,-
 3rd style,Schlagwerk,0,,-,770,UME3!,静岡県,1190,F15H,静岡県,1675,K-CHA*,静岡県,0,,-
 3rd style,REINCARNATION,0,,-,759,NOBU27,静岡県,987,TO4-KI,静岡県,1267,MOAI.S,静岡県,0,,-
 3rd style,R5,0,,-,763,MOAI.S,静岡県,1135,YUKALI,静岡県,1762,MOAI.S,静岡県,0,,-
 3rd style,Presto,0,,-,475,NOBU27,静岡県,957,NANAMI,静岡県,1013,K-CHA*,静岡県,0,,-
 3rd style,LEADING CYBER,0,,-,836,NANAMI,静岡県,1191,SHUN..,静岡県,1264,MOAI.S,静岡県,0,,-
 3rd style,Holic,0,,-,751,NANAMI,静岡県,1163,LION,静岡県,1691,MOAI.S,静岡県,0,,-
-3rd style,era (nostalmix),0,,-,812,NANAMI,静岡県,1036,YUME,静岡県,1459,*ALEX*,静岡県,0,,-
+3rd style,era (nostalmix),0,,-,812,NANAMI,静岡県,1036,YUME,静岡県,1507,MOAI.S,静岡県,0,,-
 3rd style,Don't Stop!,0,,-,717,NOBU27,静岡県,815,F15H,静岡県,900,CLARET,静岡県,0,,-
-3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,570,NOBU27,静岡県,1223,GARSON,静岡県,0,,-,0,,-
+3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,570,NOBU27,静岡県,1237,*ALEX*,静岡県,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,799,HORIX,静岡県,1186,SHUN..,静岡県,1318,CLARET,静岡県,0,,-
 4th style,SWEET LAB,0,,-,535,NANAMI,静岡県,905,NANAMI,静岡県,1370,K-CHA*,静岡県,0,,-
 4th style,starmine,437,MI,静岡県,883,-EMA-,静岡県,1373,NANAMI,静岡県,1583,*ALEX*,静岡県,0,,-
@@ -49,11 +49,11 @@
 4th style,Clione,0,,-,513,NANAMI,静岡県,905,NANAMI,静岡県,1604,MOAI.S,静岡県,2112,RAN9,静岡県
 4th style,CHECKING YOU OUT,0,,-,571,JEDAIT,静岡県,891,K-CHA*,静岡県,1315,K-CHA*,静岡県,0,,-
 4th style,Burnin' The Floor,0,,-,523,NOBU27,静岡県,918,ARRAGI,静岡県,1431,MOAI.S,静岡県,0,,-
-4th style,Broken My Heart,0,,-,877,NANAMI,静岡県,1394,ICI9LE,静岡県,1788,AXE*,静岡県,0,,-
+4th style,Broken My Heart,0,,-,877,NANAMI,静岡県,1394,ICI9LE,静岡県,1802,MOAI.S,静岡県,0,,-
 4th style,B4U,0,,-,1003,NANAMI,静岡県,1490,NANAMI,静岡県,1979,*ALEX*,静岡県,0,,-
 4th style,ABSOLUTE,0,,-,1246,NANAMI,静岡県,1724,KOHN-X,静岡県,2361,MOAI.S,静岡県,2638,LEZAMI,静岡県
 4th style,250bpm,0,,-,653,NANAMI,静岡県,966,KONMI,静岡県,1357,GARSON,静岡県,0,,-
-5th style,V,339,F15H,静岡県,1209,NANAMI,静岡県,2471,*ALEX*,静岡県,2972,CLARET,静岡県,0,,-
+5th style,V,339,F15H,静岡県,1209,NANAMI,静岡県,2474,A.7.L,静岡県,2972,CLARET,静岡県,0,,-
 5th style,THE SHINING POLARIS,0,,-,933,NANAMI,静岡県,1278,NANAMI,静岡県,1577,*ALEX*,静岡県,0,,-
 5th style,THE CUBE,0,,-,676,KATE,静岡県,1217,IIDX27,静岡県,1328,CLARET,静岡県,0,,-
 5th style,sync,0,,-,1060,A,静岡県,1814,JUN*RS,静岡県,2385,MOAI.S,静岡県,0,,-
@@ -81,7 +81,7 @@
 6th style,NEMESIS,0,,-,980,NANAMI,静岡県,1488,NANAMI,静岡県,1880,MOAI.S,静岡県,0,,-
 6th style,Linus,0,,-,905,NANAMI,静岡県,1483,NANAMI,静岡県,2161,AXE*,静岡県,0,,-
 6th style,G2,0,,-,1383,NANAMI,静岡県,1658,NANAMI,静岡県,2312,K-CHA*,静岡県,0,,-
-6th style,Frozen Ray (original mix),0,,-,1271,NANAMI,静岡県,1665,STB,静岡県,1793,K-CHA*,静岡県,0,,-
+6th style,Frozen Ray (original mix),0,,-,1271,NANAMI,静岡県,1755,*ALEX*,静岡県,1793,K-CHA*,静岡県,0,,-
 6th style,Free Style,0,,-,891,NANAMI,静岡県,1031,NANAMI,静岡県,1317,K-CHA*,静岡県,0,,-
 6th style,fly through the night,0,,-,777,NOBU27,静岡県,1312,NANAMI,静岡県,1674,51ZU33,静岡県,0,,-
 6th style,DIVE ～INTO YOUR HEART～,0,,-,1228,NANAMI,静岡県,1788,IIDX27,静岡県,2093,K-CHA*,静岡県,0,,-
@@ -93,7 +93,7 @@
 7th style,革命,0,,-,731,NANAMI,静岡県,1877,STB,静岡県,2306,MOAI.S,静岡県,0,,-
 7th style,ZERO-ONE,0,,-,1065,NANAMI,静岡県,1672,NANAMI,静岡県,2239,K-CHA*,静岡県,0,,-
 7th style,traces,0,,-,1424,ICI9LE,静岡県,1786,NANAMI,静岡県,2124,*ALEX*,静岡県,0,,-
-7th style,Tomorrow Perfume,0,,-,1290,NANAMI,静岡県,1826,NANAMI,静岡県,2090,MOAI.S,静岡県,0,,-
+7th style,Tomorrow Perfume,0,,-,1290,NANAMI,静岡県,1826,NANAMI,静岡県,2096,AXE*,静岡県,0,,-
 7th style,stoic,0,,-,1639,IIDX27,静岡県,2318,IIDX27,静岡県,2504,MOAI.S,静岡県,0,,-
 7th style,Spica,0,,-,599,ICI9LE,静岡県,1339,ARENA!,静岡県,2157,MOAI.S,静岡県,0,,-
 7th style,Love Me Do,0,,-,1085,NANAMI,静岡県,1641,NANAMI,静岡県,2099,AXE*,静岡県,0,,-
@@ -132,7 +132,7 @@
 8th style,dual control,0,,-,769,NANAMI,静岡県,1382,NANAMI,静岡県,1823,J,静岡県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,1110,NANAMI,静岡県,1964,NANAMI,静岡県,2176,CLARET,静岡県,0,,-
 8th style,CELEBRATE NITE,0,,-,907,NANAMI,静岡県,1169,*ALEX*,静岡県,1419,*ALEX*,静岡県,0,,-
-8th style,Blame,0,,-,1164,NANAMI,静岡県,1494,NANAMI,静岡県,1899,MOAI.S,静岡県,0,,-
+8th style,Blame,0,,-,1164,NANAMI,静岡県,1494,NANAMI,静岡県,1904,MOAI.S,静岡県,0,,-
 8th style,bit mania,0,,-,898,NANAMI,静岡県,1261,*ALEX*,静岡県,1860,K-CHA*,静岡県,0,,-
 8th style,Attitude,0,,-,999,NANAMI,静岡県,1378,IIDX27,静岡県,1759,K-CHA*,静岡県,0,,-
 8th style,ALL RIGHT,0,,-,779,NOBU27,静岡県,1267,NANAMI,静岡県,1538,ARENA!,静岡県,0,,-
@@ -143,7 +143,7 @@
 9th style,SWEETEST SAVAGE,0,,-,634,NANAMI,静岡県,1299,NANAMI,静岡県,1766,K-TAC,静岡県,0,,-
 9th style,Sweet Sweet Magic,0,,-,998,NANAMI,静岡県,1459,NANAMI,静岡県,2031,MOAI.S,静岡県,0,,-
 9th style,STAR FIELD,0,,-,622,NOBU27,静岡県,1544,MI,静岡県,1865,AXE*,静岡県,0,,-
-9th style,SNOW,0,,-,1036,KONMI,静岡県,1322,NANAMI,静岡県,1991,MOAI.S,静岡県,0,,-
+9th style,SNOW,0,,-,1036,KONMI,静岡県,1322,NANAMI,静岡県,2006,MOAI.S,静岡県,0,,-
 9th style,Silvia Drive,0,,-,822,NANAMI,静岡県,1474,NANAMI,静岡県,2062,K-CHA*,静岡県,0,,-
 9th style,rottel-the-Mercury,0,,-,909,NOBU27,静岡県,1890,NANAMI,静岡県,2261,JUN*RS,静岡県,0,,-
 9th style,RISLIM -Remix-,0,,-,756,NANAMI,静岡県,961,SHUN..,静岡県,1886,K-CHA*,静岡県,0,,-
@@ -163,7 +163,7 @@
 9th style,HYPER EUROBEAT (2DX style),0,,-,1075,NANAMI,静岡県,1627,SHUN..,静岡県,1920,AXE*,静岡県,0,,-
 9th style,Golden Horn,0,,-,637,NOBU27,静岡県,1168,NANAMI,静岡県,1449,A.7.L,静岡県,0,,-
 9th style,e-motion 2003  -romantic extra-,0,,-,1270,NANAMI,静岡県,1571,NANAMI,静岡県,1990,K-CHA*,静岡県,0,,-
-9th style,Distress,0,,-,1295,IIDX27,静岡県,1812,03-6NE,静岡県,0,,-,0,,-
+9th style,Distress,0,,-,1295,IIDX27,静岡県,1813,*ALEX*,静岡県,0,,-,0,,-
 9th style,Cradle,0,,-,853,NANAMI,静岡県,1369,NANAMI,静岡県,1585,CLARET,静岡県,0,,-
 9th style,BRIGHTNESS DARKNESS,0,,-,687,NOBU27,静岡県,1403,KONMI,静岡県,1733,*ALEX*,静岡県,0,,-
 9th style,bag,0,,-,898,NANAMI,静岡県,1162,NANAMI,静岡県,1869,*ALEX*,静岡県,0,,-
@@ -183,19 +183,19 @@
 10th style,Narcissus At Oasis,0,,-,720,NOBU27,静岡県,1541,ARRAGI,静岡県,1663,CLARET,静岡県,0,,-
 10th style,Lucy,0,,-,951,NANAMI,静岡県,1778,*ALEX*,静岡県,2305,CLARET,静岡県,0,,-
 10th style,Love Is Eternity,0,,-,1026,NOBU27,静岡県,1951,SHUN..,静岡県,2367,*ALEX*,静岡県,0,,-
-10th style,Innocent Walls,0,,-,1523,EK-TEL,静岡県,2478,K-CHA*,静岡県,2713,GWANGE,静岡県,0,,-
+10th style,Innocent Walls,0,,-,1523,EK-TEL,静岡県,2478,K-CHA*,静岡県,2739,MOAI.S,静岡県,0,,-
 10th style,HIGH,0,,-,868,NOBU27,静岡県,1900,MUGI..,静岡県,2145,MOAI.S,静岡県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,750,K-CHA*,静岡県,1045,NANAMI,静岡県,2041,AIR,静岡県,0,,-
 10th style,GHOST REVIVAL,0,,-,894,NANAMI,静岡県,1969,IIDX27,静岡県,2536,CLARET,静岡県,0,,-
 10th style,Freezing atmosphere,0,,-,728,NOBU27,静岡県,1091,NANAMI,静岡県,1468,MOAI.S,静岡県,0,,-
 10th style,FEEL IT,0,,-,894,NANAMI,静岡県,1668,-YMTM-,静岡県,1962,MOAI.S,静岡県,0,,-
 10th style,Feedback,0,,-,929,HORIX,静岡県,1529,SHUN..,静岡県,1970,K-CHA*,静岡県,0,,-
-10th style,EXE,0,,-,731,NOBU27,静岡県,1600,NANAMI,静岡県,2232,MOAI.S,静岡県,0,,-
+10th style,EXE,0,,-,731,NOBU27,静岡県,1600,NANAMI,静岡県,2233,AXE*,静岡県,0,,-
 10th style,DoLL,343,MI,静岡県,859,NOBU27,静岡県,1226,NANAMI,静岡県,1617,K-CHA*,静岡県,0,,-
 10th style,desolation,0,,-,482,NANAMI,静岡県,646,NANAMI,静岡県,766,K-CHA*,静岡県,0,,-
 10th style,Debtty Daddy,0,,-,1029,NANAMI,静岡県,1899,NANAMI,静岡県,2660,LEZAMI,静岡県,0,,-
 10th style,Daisuke,465,MI,静岡県,1089,ICI9LE,静岡県,1621,NANAMI,静岡県,2402,K-CHA*,静岡県,0,,-
-10th style,CARRY ON NIGHT (English version),0,,-,993,NANAMI,静岡県,1322,KONMI,静岡県,2012,A.7.L,静岡県,0,,-
+10th style,CARRY ON NIGHT (English version),0,,-,993,NANAMI,静岡県,1322,KONMI,静岡県,2018,AXE*,静岡県,0,,-
 10th style,Boundary,0,,-,772,NOBU27,静岡県,1788,NANAMI,静岡県,2026,51ZU33,静岡県,0,,-
 10th style,Back Into The Light,0,,-,1156,NANAMI,静岡県,1578,NANAMI,静岡県,2152,CLARET,静岡県,0,,-
 10th style,BABY LOVE,0,,-,1171,NANAMI,静岡県,1663,NANAMI,静岡県,2161,K-CHA*,静岡県,0,,-
@@ -213,7 +213,7 @@ IIDX RED,Sphere,0,,-,1034,NANAMI,静岡県,1850,NANAMI,静岡県,2150,AXE*,静�
 IIDX RED,SPEEDY CAT,0,,-,1021,NOBU27,静岡県,1662,NANAMI,静岡県,2042,K-CHA*,静岡県,0,,-
 IIDX RED,Secret of Love,0,,-,1040,NANAMI,静岡県,1411,IIDX27,静岡県,2004,MOAI.S,静岡県,0,,-
 IIDX RED,RESONATE 1794,0,,-,917,-EMA-,静岡県,1417,ROMA,静岡県,1860,*ALEX*,静岡県,0,,-
-IIDX RED,RED ZONE,176,ON.S,静岡県,1038,AOI.K*,静岡県,1827,NANAMI,静岡県,2316,AXE*,静岡県,2991,RALSEI,静岡県
+IIDX RED,RED ZONE,176,ON.S,静岡県,1038,AOI.K*,静岡県,1905,*ALEX*,静岡県,2316,AXE*,静岡県,3000,RALSEI,静岡県
 IIDX RED,Raspberry Heart(English version),0,,-,966,MARU,静岡県,1480,ICI9LE,静岡県,1844,K-CHA*,静岡県,0,,-
 IIDX RED,NEBULA GRASPER,0,,-,1320,NANAMI,静岡県,1935,NANAMI,静岡県,2423,AXE*,静岡県,0,,-
 IIDX RED,KEY,0,,-,1064,NANAMI,静岡県,1796,NANAMI,静岡県,2826,U2*,静岡県,0,,-
@@ -254,7 +254,7 @@ HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1582,NANAMI,静岡県,2044,KAITO,静
 HAPPY SKY,SCREAM SQUAD,0,,-,1151,NANAMI,静岡県,1563,IIDX27,静岡県,2082,K-CHA*,静岡県,0,,-
 HAPPY SKY,rage against usual,0,,-,1177,AFROID,静岡県,1952,IIDX27,静岡県,2943,K-CHA*,静岡県,0,,-
 HAPPY SKY,POODLE,0,,-,870,NOBU27,静岡県,1815,NANAMI,静岡県,2297,CLARET,静岡県,3320,K-CHA*,静岡県
-HAPPY SKY,Pollinosis,0,,-,680,NOBU27,静岡県,1121,NANAMI,静岡県,2421,MOAI.S,静岡県,0,,-
+HAPPY SKY,Pollinosis,0,,-,680,NOBU27,静岡県,1121,NANAMI,静岡県,2439,MOAI.S,静岡県,0,,-
 HAPPY SKY,PLASMA,0,,-,878,KATE,静岡県,1615,NANAMI,静岡県,2272,CLARET,静岡県,0,,-
 HAPPY SKY,Pink Rose,0,,-,562,SUICA,静岡県,962,*ALEX*,静岡県,1405,AXE*,静岡県,0,,-
 HAPPY SKY,MOON RACE,0,,-,781,NOBU27,静岡県,1143,NANAMI,静岡県,1863,LEZAMI,静岡県,0,,-
@@ -263,7 +263,7 @@ HAPPY SKY,Little Little Princess,0,,-,970,NOBU27,静岡県,2083,YVMA,静岡県,2
 HAPPY SKY,LESSON 5,0,,-,1261,NANAMI,静岡県,1802,NANAMI,静岡県,2483,CLARET,静岡県,0,,-
 HAPPY SKY,INAZUMA,0,,-,1068,NANAMI,静岡県,1776,NANAMI,静岡県,2693,CLARET,静岡県,0,,-
 HAPPY SKY,in motion,0,,-,823,NANAMI,静岡県,1028,NANAMI,静岡県,1316,K-CHA*,静岡県,0,,-
-HAPPY SKY,I am,0,,-,991,NOBU27,静岡県,1656,NANAMI,静岡県,2129,U2*,静岡県,0,,-
+HAPPY SKY,I am,0,,-,991,NOBU27,静岡県,1656,NANAMI,静岡県,2148,*ALEX*,静岡県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,656,ON.S,静岡県,1085,NANAMI,静岡県,1538,NANAMI,静岡県,2091,K-CHA*,静岡県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,1144,NANAMI,静岡県,1695,STB,静岡県,2283,K-CHA*,静岡県,0,,-
 HAPPY SKY,garden,0,,-,820,LIBO,静岡県,1451,LAPIS,静岡県,2128,MOAI.S,静岡県,0,,-
@@ -278,15 +278,15 @@ HAPPY SKY,alla turca con passione,0,,-,800,NANAMI,静岡県,1536,NANAMI,静岡�
 HAPPY SKY,Agnus Dei,0,,-,807,NOBU27,静岡県,1627,SHUN..,静岡県,2058,MOAI.S,静岡県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,861,NOBU27,静岡県,1555,89.MAI,静岡県,1714,MOAI.S,静岡県,0,,-
 DistorteD,虹色,0,,-,876,NOBU27,静岡県,1461,PORIO,静岡県,1846,*ALEX*,静岡県,0,,-
-DistorteD,華蝶風雪,0,,-,1148,UME3!,静岡県,2026,RIY,静岡県,2972,K-CHA*,静岡県,0,,-
+DistorteD,華蝶風雪,0,,-,1148,UME3!,静岡県,2026,KC.AGO,静岡県,2972,K-CHA*,静岡県,0,,-
 DistorteD,罠,0,,-,542,KINUSA,静岡県,1477,ANSWER,静岡県,2440,K-TAC,静岡県,0,,-
-DistorteD,嘆きの樹,0,,-,1718,A,静岡県,2519,K-CHA*,静岡県,3830,K-CHA*,静岡県,0,,-
+DistorteD,嘆きの樹,0,,-,1754,SHUN..,静岡県,2519,K-CHA*,静岡県,3830,K-CHA*,静岡県,0,,-
 DistorteD,タシカナモノ,0,,-,883,UME3!,静岡県,1425,IIDX27,静岡県,2034,AXE*,静岡県,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,1106,NANAMI,静岡県,1764,KOHN-X,静岡県,2585,RALSEI,静岡県,0,,-
 DistorteD,Zenius -I- vanisher,0,,-,958,NANAMI,静岡県,1531,NANAMI,静岡県,2394,CLARET,静岡県,0,,-
 DistorteD,with you…,0,,-,746,F15H,静岡県,1123,NANAMI,静岡県,1776,K-CHA*,静岡県,0,,-
 DistorteD,WISH(EUROBEAT MIX),0,,-,976,UME3!,静岡県,1553,NANAMI,静岡県,1961,MOAI.S,静岡県,0,,-
-DistorteD,Why did you go away,632,NANAMI,静岡県,1021,KATE,静岡県,1677,LAPIS,静岡県,2295,MOAI.S,静岡県,0,,-
+DistorteD,Why did you go away,632,NANAMI,静岡県,1021,KATE,静岡県,1744,SHUN..,静岡県,2295,MOAI.S,静岡県,0,,-
 DistorteD,waxing and wanding,0,,-,1302,SIGMA,静岡県,1969,*ALEX*,静岡県,2866,MOAI.S,静岡県,3909,K-CHA*,静岡県
 DistorteD,TYPE MARS(G-Style Mix),0,,-,1079,NANAMI,静岡県,1675,ARENA!,静岡県,2400,CLARET,静岡県,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1075,NOBU27,静岡県,1845,R-TN,静岡県,2434,MOAI.S,静岡県,0,,-
@@ -302,7 +302,7 @@ DistorteD,Leaving...,0,,-,760,NANAMI,静岡県,1374,MUGI..,静岡県,2202,K-CHA*
 DistorteD,INFERNO,0,,-,1038,NOBU27,静岡県,1562,NANAMI,静岡県,1962,MOAI.S,静岡県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,745,NOBU27,静岡県,1555,NANAMI,静岡県,2095,K-CHA*,静岡県,0,,-
 DistorteD,Harmony and Lovely,0,,-,893,NANAMI,静岡県,1650,NANAMI,静岡県,2215,U2*,静岡県,0,,-
-DistorteD,Ganymede,0,,-,1089,NANAMI,静岡県,1636,SHUN..,静岡県,2259,MOAI.S,静岡県,0,,-
+DistorteD,Ganymede,0,,-,1089,NANAMI,静岡県,1636,SHUN..,静岡県,2275,MOAI.S,静岡県,0,,-
 DistorteD,EURO-ROMANCE,0,,-,939,NANAMI,静岡県,1769,NANAMI,静岡県,2096,K-CHA*,静岡県,0,,-
 DistorteD,DUE TOMORROW,0,,-,875,PUSH-P,静岡県,1291,0ZEL!A,静岡県,1957,MOAI.S,静岡県,0,,-
 DistorteD,Double Loving Heart,0,,-,535,NOBU27,静岡県,1144,SAKURA,静岡県,1813,K-CHA*,静岡県,0,,-
@@ -310,7 +310,7 @@ DistorteD,D.C.fish,0,,-,983,NANAMI,静岡県,1933,SHUN..,静岡県,2318,AXE*,静
 DistorteD,CONTRACT,0,,-,1235,NANAMI,静岡県,1571,CHIKA.,静岡県,2043,MOAI.S,静岡県,2679,MOAI.S,静岡県
 DistorteD,Concertino in Blue,377,NANAMI,静岡県,834,NANAMI,静岡県,1706,*ALEX*,静岡県,2437,CLARET,静岡県,0,,-
 DistorteD,Broadbanded,0,,-,811,NOBU27,静岡県,1296,NANAMI,静岡県,1989,MOAI.S,静岡県,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,900,NOBU27,静岡県,1782,KONMI,静岡県,2237,U2*,静岡県,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,900,NOBU27,静岡県,1782,KONMI,静岡県,2254,MOAI.S,静岡県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1058,AOI.K*,静岡県,1987,*ALEX*,静岡県,2161,*ALEX*,静岡県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,646,NOBU27,静岡県,1043,NANAMI,静岡県,1498,K-CHA*,静岡県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,240,LEON,静岡県,934,NANAMI,静岡県,1755,NANAMI,静岡県,2407,K-CHA*,静岡県,0,,-
@@ -328,7 +328,7 @@ GOLD,VANESSA,0,,-,1092,NANAMI,静岡県,1690,ALC,静岡県,2412,K-CHA*,静岡県
 GOLD,TRANOID,0,,-,734,NANAMI,静岡県,1591,A,静岡県,2158,MOAI.S,静岡県,0,,-
 GOLD,The Smile of You,0,,-,871,SUICA,静岡県,1309,*ALEX*,静岡県,1630,K-CHA*,静岡県,0,,-
 GOLD,the shadow,0,,-,1186,NANAMI,静岡県,1968,NANAMI,静岡県,2875,CLARET,静岡県,0,,-
-GOLD,snow storm,233,ON.S,静岡県,721,NOBU27,静岡県,2188,RIY,静岡県,2760,MOAI.S,静岡県,3335,CLARET,静岡県
+GOLD,snow storm,233,ON.S,静岡県,721,NOBU27,静岡県,2188,KC.AGO,静岡県,2760,MOAI.S,静岡県,3335,CLARET,静岡県
 GOLD,smile,0,,-,1454,NANAMI,静岡県,2093,NANAMI,静岡県,2886,MOAI.S,静岡県,0,,-
 GOLD,Sense 2007,0,,-,1463,NANAMI,静岡県,2052,MISUZU,静岡県,2950,K-CHA*,静岡県,0,,-
 GOLD,Second Heaven,220,NANAMI,静岡県,969,NANAMI,静岡県,1488,IWSK3.,静岡県,2100,CLARET,静岡県,0,,-
@@ -358,7 +358,7 @@ GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1227,UMAUMA,静岡県,1
 GOLD,ANDROMEDA II,0,,-,975,NANAMI,静岡県,1851,NANAMI,静岡県,2443,LEZAMI,静岡県,0,,-
 GOLD,Air Bell,0,,-,947,NANAMI,静岡県,1297,NANAMI,静岡県,1712,03-6NE,静岡県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,493,JUN*RS,静岡県,917,NANAMI,静岡県,1336,51ZU33,静岡県,0,,-
-DJ TROOPERS,華爛漫 -Flowers-,333,ON.S,静岡県,992,NANAMI,静岡県,1507,RIY,静岡県,2039,AXE*,静岡県,0,,-
+DJ TROOPERS,華爛漫 -Flowers-,333,ON.S,静岡県,992,NANAMI,静岡県,1507,KC.AGO,静岡県,2039,AXE*,静岡県,0,,-
 DJ TROOPERS,少年A,0,,-,1236,NANAMI,静岡県,2123,EA20A,静岡県,2693,U2*,静岡県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,1017,NOBU27,静岡県,2087,SHUN..,静岡県,2561,LEZAMI,静岡県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,808,TIGHTS,静岡県,1248,LAPIS,静岡県,1787,MOMO96,静岡県,0,,-
@@ -377,7 +377,7 @@ DJ TROOPERS,soldier's waltz,0,,-,798,NANAMI,静岡県,1575,*ALEX*,静岡県,2490
 DJ TROOPERS,scar in the earth,0,,-,585,3X3EYE,静岡県,1099,NANAMI,静岡県,1517,K-CHA*,静岡県,0,,-
 DJ TROOPERS,satfinal,0,,-,1067,TIGHTS,静岡県,1397,IIDX27,静岡県,1908,U2*,静岡県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1305,NANAMI,静岡県,1834,IIDX27,静岡県,2528,K-CHA*,静岡県,0,,-
-DJ TROOPERS,Ristaccia,0,,-,1159,TIGHTS,静岡県,1894,NANAMI,静岡県,2695,RALSEI,静岡県,0,,-
+DJ TROOPERS,Ristaccia,0,,-,1159,TIGHTS,静岡県,1894,NANAMI,静岡県,2726,K-CHA*,静岡県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1257,NANAMI,静岡県,1808,NANAMI,静岡県,2329,MOAI.S,静岡県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,568,NOBU27,静岡県,1484,NANAMI,静岡県,1744,*ALEX*,静岡県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,962,TIGHTS,静岡県,1688,IIDX27,静岡県,2672,K-CHA*,静岡県,0,,-
@@ -481,7 +481,7 @@ SIRIUS,IN THE NAME OF LOVE,534,ON.S,静岡県,697,NOBU27,静岡県,1389,NANAMI,�
 SIRIUS,Hydrogen Blueback,0,,-,968,MARU,静岡県,1663,NANAMI,静岡県,2299,CLARET,静岡県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,1019,NOBU27,静岡県,1956,YUKALI,静岡県,3427,CLARET,静岡県,0,,-
 SIRIUS,GALGALIM,0,,-,1345,NANAMI,静岡県,1893,KOHN-X,静岡県,2325,MOAI.S,静岡県,0,,-
-SIRIUS,G59,0,,-,1726,NANAMI,静岡県,2246,RIY,静岡県,3789,MOAI.S,静岡県,0,,-
+SIRIUS,G59,0,,-,1726,NANAMI,静岡県,2246,KC.AGO,静岡県,3789,MOAI.S,静岡県,0,,-
 SIRIUS,EXUSIA,0,,-,1209,NANAMI,静岡県,2674,MOAI.S,静岡県,3792,CLARET,静岡県,0,,-
 SIRIUS,Evans,596,NANAMI,静岡県,1180,MARU,静岡県,2172,U2*,静岡県,2766,CLARET,静岡県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1410,NANAMI,静岡県,2433,IIDX27,静岡県,3234,RALSEI,静岡県,0,,-
@@ -514,17 +514,17 @@ Resort Anthem,XANADU OF TWO,0,,-,991,TO4-KI,静岡県,1717,NANAMI,静岡県,2723
 Resort Anthem,Wuv U,0,,-,407,NANAMI,静岡県,1284,NANAMI,静岡県,1697,K-CHA*,静岡県,0,,-
 Resort Anthem,WISE UP!,339,MI,静岡県,461,NOBU27,静岡県,1170,NANAMI,静岡県,1592,K-CHA*,静岡県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1092,NANAMI,静岡県,1907,*ALEX*,静岡県,2873,K-CHA*,静岡県,0,,-
-Resort Anthem,Vermillion,0,,-,512,NOBU27,静岡県,1144,NANAMI,静岡県,2009,MOAI.S,静岡県,0,,-
+Resort Anthem,Vermillion,0,,-,512,NOBU27,静岡県,1144,NANAMI,静岡県,2027,*ALEX*,静岡県,0,,-
 Resort Anthem,Tropical April,0,,-,1592,IIDX27,静岡県,2264,IIDX27,静岡県,2648,NANAMI,静岡県,0,,-
 Resort Anthem,THE FALLEN,0,,-,896,NANAMI,静岡県,1428,NANAMI,静岡県,2735,K-CHA*,静岡県,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,797,NANAMI,静岡県,1571,AFROID,静岡県,2135,HAATO,静岡県,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,797,NANAMI,静岡県,1609,STB,静岡県,2135,HAATO,静岡県,0,,-
 Resort Anthem,THE BLACK KNIGHT,0,,-,912,NANAMI,静岡県,1951,0ZEL!A,静岡県,2915,K-CHA*,静岡県,0,,-
 Resort Anthem,STELLAR WIND,383,ON.S,静岡県,631,NANAMI,静岡県,1798,KONMI,静岡県,2584,03-6NE,静岡県,0,,-
 Resort Anthem,Stay my side,0,,-,614,NOBU27,静岡県,1015,ANSWER,静岡県,1339,NANAMI,静岡県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,703,NANAMI,静岡県,1598,NANAMI,静岡県,2878,RALSEI,静岡県,0,,-
 Resort Anthem,Space Time,0,,-,584,NOBU27,静岡県,1604,NANAMI,静岡県,2173,*ALEX*,静岡県,0,,-
 Resort Anthem,Session 9 -Chronicles-,0,,-,707,NOBU27,静岡県,2236,ARENA!,静岡県,3595,K-CHA*,静岡県,0,,-
-Resort Anthem,sakura storm,0,,-,1003,SUICA,静岡県,1309,*ALEX*,静岡県,2335,RALSEI,静岡県,0,,-
+Resort Anthem,sakura storm,0,,-,1003,SUICA,静岡県,1309,*ALEX*,静岡県,2349,MOAI.S,静岡県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,473,NANAMI,静岡県,1575,YUKALI,静岡県,2364,K-CHA*,静岡県,0,,-
 Resort Anthem,SABER WING,0,,-,491,EK-TEL,静岡県,1742,SUZU.H,静岡県,2784,K-CHA*,静岡県,0,,-
 Resort Anthem,Rock Da House,0,,-,883,NANAMI,静岡県,1570,NANAMI,静岡県,2225,K-CHA*,静岡県,0,,-
@@ -606,13 +606,13 @@ Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1056,IIDX27,静岡県,2042,ALC.99,静岡�
 Lincle,Infinite cave,0,,-,984,NANAMI,静岡県,1440,F15H,静岡県,1965,ON.S,静岡県,0,,-
 Lincle,In the Blackest Den,0,,-,797,HORIX,静岡県,1537,51ZU33,静岡県,2601,K-CHA*,静岡県,0,,-
 Lincle,I'm so Happy,314,MI,静岡県,414,NANAMI,静岡県,1334,NANAMI,静岡県,2298,U2*,静岡県,0,,-
-Lincle,HAERETICUS,0,,-,850,NANAMI,静岡県,1833,RIY,静岡県,3031,K-CHA*,静岡県,0,,-
+Lincle,HAERETICUS,0,,-,850,NANAMI,静岡県,1833,KC.AGO,静岡県,3031,K-CHA*,静岡県,0,,-
 Lincle,Follow Tomorrow,0,,-,884,NANAMI,静岡県,1428,ICI9LE,静岡県,2235,*ALEX*,静岡県,0,,-
 Lincle,Flip Flap,278,F15H,静岡県,577,NANAMI,静岡県,1350,NANAMI,静岡県,2221,*ALEX*,静岡県,0,,-
 Lincle,fffff,0,,-,840,NANAMI,静岡県,2040,GARSON,静岡県,3144,K-CHA*,静岡県,0,,-
 Lincle,Far east nightbird,355,MI,静岡県,515,NANAMI,静岡県,1300,NANAMI,静岡県,1991,NANAMI,静岡県,0,,-
 Lincle,F,0,,-,1049,NANAMI,静岡県,2078,IIDX27,静岡県,3457,U2*,静岡県,0,,-
-Lincle,Express Emotion,0,,-,740,NANAMI,静岡県,1040,*ALEX*,静岡県,2488,AXE*,静岡県,0,,-
+Lincle,Express Emotion,0,,-,740,NANAMI,静岡県,1040,*ALEX*,静岡県,2490,AXE*,静岡県,0,,-
 Lincle,Drive Me Crazy,0,,-,719,TO4-KI,静岡県,1341,ICI9LE,静岡県,2278,MOAI.S,静岡県,0,,-
 Lincle,DIAVOLO,0,,-,1271,NANAMI,静岡県,1824,SHUN..,静岡県,3197,K-CHA*,静岡県,0,,-
 Lincle,Change the World,0,,-,815,NANAMI,静岡県,1339,CHIKA.,静岡県,1860,K-CHA*,静岡県,0,,-
@@ -635,7 +635,7 @@ tricoro,下弦の月,0,,-,919,EK-TEL,静岡県,1438,NANAMI,静岡県,1951,A.7.L,
 tricoro,ラキラキ,0,,-,650,NANAMI,静岡県,1436,NANAMI,静岡県,1907,GARSON,静岡県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,636,NANAMI,静岡県,1218,CHIKA.,静岡県,1933,A.7.L,静岡県,0,,-
 tricoro,トリカゴノ鳳凰,0,,-,1136,NANAMI,静岡県,1875,0ZEL!A,静岡県,3744,K-CHA*,静岡県,0,,-
-tricoro,シュレーディンガーの猫,0,,-,1117,NANAMI,静岡県,2325,RIY,静岡県,3335,MOAI.S,静岡県,0,,-
+tricoro,シュレーディンガーの猫,0,,-,1117,NANAMI,静岡県,2325,KC.AGO,静岡県,3335,MOAI.S,静岡県,0,,-
 tricoro,キャトられ恋はモ～モク,0,,-,1463,NANAMI,静岡県,2492,KOHN-X,静岡県,3797,K-CHA*,静岡県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,592,NOBU27,静岡県,1382,NANAMI,静岡県,2444,K-CHA*,静岡県,0,,-
 tricoro,アストライアの双皿,0,,-,672,EK-TEL,静岡県,2029,KOHN-X,静岡県,3140,K-CHA*,静岡県,0,,-
@@ -643,7 +643,7 @@ tricoro,たまゆら,0,,-,1155,NANAMI,静岡県,1789,89.MAI,静岡県,2727,K-CHA
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,880,NANAMI,静岡県,1555,NANAMI,静岡県,2099,NANAMI,静岡県,0,,-
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),242,MI,静岡県,539,NANAMI,静岡県,1603,NANAMI,静岡県,3504,K-CHA*,静岡県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,1145,NANAMI,静岡県,2032,JUN*RS,静岡県,3064,U2*,静岡県,0,,-
-tricoro,Zirkfied,0,,-,1017,NANAMI,静岡県,1936,RIY,静岡県,3778,K-CHA*,静岡県,0,,-
+tricoro,Zirkfied,0,,-,1017,NANAMI,静岡県,1936,KC.AGO,静岡県,3778,K-CHA*,静岡県,0,,-
 tricoro,ZED,0,,-,939,NANAMI,静岡県,1617,LAPIS,静岡県,2712,AXE*,静岡県,0,,-
 tricoro,VEGA,0,,-,1149,-EMA-,静岡県,2011,KOHN-X,静岡県,2991,IWSK3.,静岡県,0,,-
 tricoro,VALLIS-NERIA,265,MI,静岡県,1183,NANAMI,静岡県,2044,TO4-KI,静岡県,2933,K-CHA*,静岡県,0,,-
@@ -673,7 +673,7 @@ tricoro,planarian,0,,-,698,NANAMI,静岡県,1657,NANAMI,静岡県,2523,CLARET,�
 tricoro,Plan 8,0,,-,1147,NANAMI,静岡県,2131,GWANGE,静岡県,3088,K-CHA*,静岡県,0,,-
 tricoro,New Lights,0,,-,1035,NANAMI,静岡県,1698,ICI9LE,静岡県,2430,03-6NE,静岡県,0,,-
 tricoro,New Decade IIDX Edition,269,ON.S,静岡県,976,NANAMI,静岡県,1841,37S1NR,静岡県,3018,K-CHA*,静岡県,0,,-
-tricoro,neu,197,ON.S,静岡県,965,NANAMI,静岡県,2099,RIY,静岡県,3782,U2*,静岡県,0,,-
+tricoro,neu,197,ON.S,静岡県,965,NANAMI,静岡県,2099,KC.AGO,静岡県,3782,U2*,静岡県,0,,-
 tricoro,Neonlights,0,,-,649,NANAMI,静岡県,1511,ICI9LE,静岡県,2232,K-CHA*,静岡県,0,,-
 tricoro,mnemoniq,0,,-,534,NANAMI,静岡県,931,NANAMI,静岡県,1304,K-CHA*,静岡県,0,,-
 tricoro,LUV CAN SAVE U,0,,-,573,NANAMI,静岡県,1351,ICI9LE,静岡県,2130,K-CHA*,静岡県,2677,51ZU33,静岡県
@@ -703,7 +703,7 @@ tricoro,BRAVE GLOW,0,,-,822,NANAMI,静岡県,1666,NANAMI,静岡県,2488,K-CHA*,�
 tricoro,BLUE STRAGGLER,0,,-,839,NANAMI,静岡県,1440,NANAMI,静岡県,2593,K-CHA*,静岡県,0,,-
 tricoro,Beastie Starter,0,,-,528,NANAMI,静岡県,1201,NANAMI,静岡県,2153,MOAI.S,静岡県,0,,-
 tricoro,Ascalon,0,,-,1119,NANAMI,静岡県,1725,NANAMI,静岡県,2226,51ZU33,静岡県,0,,-
-tricoro,8bit Princess,0,,-,645,-EMA-,静岡県,1363,TO4-KI,静岡県,2610,MOAI.S,静岡県,0,,-
+tricoro,8bit Princess,0,,-,645,-EMA-,静岡県,1363,TO4-KI,静岡県,2612,*ALEX*,静岡県,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,917,TO4-KI,静岡県,1722,MISUZU,静岡県,2536,MOAI.S,静岡県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,1022,NANAMI,静岡県,1881,KOHN-X,静岡県,3507,K-CHA*,静岡県,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,568,NANAMI,静岡県,1514,KONMI,静岡県,2678,K-CHA*,静岡県,0,,-
@@ -711,11 +711,11 @@ SPADA,罪と罰,0,,-,1076,NANAMI,静岡県,1395,*ALEX*,静岡県,2150,*ALEX*,静
 SPADA,疾風迅雷,0,,-,1150,NANAMI,静岡県,1942,0ZEL!A,静岡県,2881,K-CHA*,静岡県,3423,K-CHA*,静岡県
 SPADA,牧神笛吹きて,0,,-,741,NANAMI,静岡県,1390,NANAMI,静岡県,2068,K-CHA*,静岡県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1337,NANAMI,静岡県,2250,ROMA,静岡県,3835,K-CHA*,静岡県,0,,-
-SPADA,海神,0,,-,1136,NANAMI,静岡県,1972,RIY,静岡県,3057,D-SPEC,静岡県,0,,-
-SPADA,旋律のドグマ～Miserables～,0,,-,1227,NANAMI,静岡県,2401,MISUZU,静岡県,3773,RALSEI,静岡県,0,,-
+SPADA,海神,0,,-,1136,NANAMI,静岡県,1991,GALAF,静岡県,3057,D-SPEC,静岡県,0,,-
+SPADA,旋律のドグマ～Miserables～,0,,-,1227,NANAMI,静岡県,2401,MISUZU,静岡県,3862,MOAI.S,静岡県,0,,-
 SPADA,廿,0,,-,942,NANAMI,静岡県,1649,ARENA!,静岡県,2280,51ZU33,静岡県,3258,K-CHA*,静岡県
 SPADA,幻想系世界修復少女,209,MI,静岡県,633,NANAMI,静岡県,1148,TO4-KI,静岡県,1955,NANAMI,静岡県,0,,-
-SPADA,バンブーソード・ガール,267,MI,静岡県,997,NANAMI,静岡県,1736,NANAMI,静岡県,2390,MOAI.S,静岡県,0,,-
+SPADA,バンブーソード・ガール,267,MI,静岡県,997,NANAMI,静岡県,1736,NANAMI,静岡県,2407,MOAI.S,静岡県,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,617,NANAMI,静岡県,1555,NANAMI,静岡県,2760,K-CHA*,静岡県,0,,-
 SPADA,アルストロメリア,215,ON.S,静岡県,975,NANAMI,静岡県,1554,SHUN..,静岡県,2489,K-CHA*,静岡県,0,,-
 SPADA,お願いアインシュタイン,0,,-,904,NANAMI,静岡県,1426,CHIKA.,静岡県,2098,*ALEX*,静岡県,0,,-
@@ -736,19 +736,19 @@ SPADA,rainbow guitar weeps,0,,-,968,NANAMI,静岡県,1788,NANAMI,静岡県,2743,
 SPADA,ra'am,0,,-,1136,XIX06,静岡県,1800,51ZU33,静岡県,2667,K-CHA*,静岡県,0,,-
 SPADA,PUNISHER,0,,-,1148,NANAMI,静岡県,2129,*ALEX*,静岡県,3548,K-CHA*,静岡県,0,,-
 SPADA,Pharaoh,0,,-,652,NANAMI,静岡県,1401,NANAMI,静岡県,2373,A.7.L,静岡県,0,,-
-SPADA,Overload Frontier,0,,-,773,NANAMI,静岡県,1788,NANAMI,静岡県,2532,CLARET,静岡県,0,,-
+SPADA,Overload Frontier,0,,-,773,NANAMI,静岡県,1788,NANAMI,静岡県,2544,MOAI.S,静岡県,0,,-
 SPADA,Odin,0,,-,776,NANAMI,静岡県,1365,ICI9LE,静岡県,2029,*ALEX*,静岡県,0,,-
 SPADA,NPC World,0,,-,1022,NANAMI,静岡県,1577,NANAMI,静岡県,2273,K-CHA*,静岡県,0,,-
 SPADA,Miracle 5ympho X,0,,-,762,NANAMI,静岡県,1298,NANAMI,静岡県,2543,K-TAC,静岡県,0,,-
 SPADA,MAGIC & LOVE,0,,-,1017,NANAMI,静岡県,1861,*ALEX*,静岡県,2883,K-CHA*,静岡県,0,,-
-SPADA,MAD ATTACK,0,,-,672,NANAMI,静岡県,1116,ANSWER,静岡県,1898,51ZU33,静岡県,0,,-
+SPADA,MAD ATTACK,0,,-,672,NANAMI,静岡県,1116,ANSWER,静岡県,1925,*ALEX*,静岡県,0,,-
 SPADA,m1dy Deluxe,0,,-,1151,NANAMI,静岡県,1700,TO4-KI,静岡県,2499,LAYLA3,静岡県,0,,-
 SPADA,M.D.Injection,0,,-,595,NANAMI,静岡県,1229,NANAMI,静岡県,2308,J,静岡県,0,,-
 SPADA,Lighting Shower,0,,-,816,NANAMI,静岡県,1331,TO4-KI,静岡県,2352,LAYLA3,静岡県,0,,-
-SPADA,Last Dance,0,,-,1164,NANAMI,静岡県,2025,*ALEX*,静岡県,3194,MOAI.S,静岡県,0,,-
+SPADA,Last Dance,0,,-,1164,NANAMI,静岡県,2025,*ALEX*,静岡県,3199,MOAI.S,静岡県,0,,-
 SPADA,KHAMEN BREAK,0,,-,586,NANAMI,静岡県,1378,NANAMI,静岡県,2406,GWANGE,静岡県,0,,-
 SPADA,KAISER PHOENIX,0,,-,1276,YASBON,静岡県,2152,ARENA!,静岡県,3276,K-CHA*,静岡県,3852,K-CHA*,静岡県
-SPADA,IX,0,,-,1271,NANAMI,静岡県,2279,RIY,静岡県,3827,K-CHA*,静岡県,0,,-
+SPADA,IX,0,,-,1271,NANAMI,静岡県,2279,KC.AGO,静岡県,3827,K-CHA*,静岡県,0,,-
 SPADA,invoker,0,,-,1104,NANAMI,静岡県,1899,NANAMI,静岡県,3071,EA20A,静岡県,3433,U2*,静岡県
 SPADA,into the battlefield,0,,-,732,NANAMI,静岡県,1425,NANAMI,静岡県,2334,*ALEX*,静岡県,0,,-
 SPADA,INSOMNIA,0,,-,787,NANAMI,静岡県,1703,EK-TEL,静岡県,3161,K-CHA*,静岡県,0,,-
@@ -768,7 +768,7 @@ SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,946,NANAMI,静岡県,1746,NANAMI,静�
 SPADA,DARK LEGACY,0,,-,1296,NANAMI,静岡県,2017,NANAMI,静岡県,3490,U2*,静岡県,0,,-
 SPADA,Dark Fall,0,,-,865,NANAMI,静岡県,1524,ISKW,静岡県,2609,EA20A,静岡県,0,,-
 SPADA,Critical Crystal,223,LEON,静岡県,1068,NANAMI,静岡県,1824,JUN*RS,静岡県,2837,U2*,静岡県,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,1136,NANAMI,静岡県,2089,*ALEX*,静岡県,3232,GARSON,静岡県,3790,K-CHA*,静岡県
+SPADA,Close the World feat.a☆ru,0,,-,1136,NANAMI,静岡県,2089,*ALEX*,静岡県,3342,MOAI.S,静岡県,3790,K-CHA*,静岡県
 SPADA,Cleopatrysm,0,,-,813,NANAMI,静岡県,1414,NANAMI,静岡県,2493,GARSON,静岡県,0,,-
 SPADA,Claiomh Solais,0,,-,338,NANAMI,静岡県,1400,NANAMI,静岡県,2070,*ALEX*,静岡県,0,,-
 SPADA,BRAVE OUT,0,,-,1035,NANAMI,静岡県,1537,*ALEX*,静岡県,2136,*ALEX*,静岡県,0,,-
@@ -787,7 +787,7 @@ PENDUAL,白露の風,0,,-,438,NOBU27,静岡県,1203,NANAMI,静岡県,2023,K-CHA*
 PENDUAL,時空トラベローグ,0,,-,1076,MARU,静岡県,1785,CHIKA.,静岡県,2679,K-CHA*,静岡県,0,,-
 PENDUAL,打打打打打打打打打打,198,NANAMI,静岡県,799,NANAMI,静岡県,1283,NANAMI,静岡県,2643,K-CHA*,静岡県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,737,NANAMI,静岡県,1244,CHIKA.,静岡県,2037,K-CHA*,静岡県,2734,RALSEI,静岡県
-PENDUAL,少年は空を辿る,0,,-,1219,NANAMI,静岡県,1982,RIY,静岡県,3334,K-CHA*,静岡県,0,,-
+PENDUAL,少年は空を辿る,0,,-,1219,NANAMI,静岡県,1982,KC.AGO,静岡県,3334,K-CHA*,静岡県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,972,NANAMI,静岡県,1566,NANAMI,静岡県,2176,*ALEX*,静岡県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,963,NANAMI,静岡県,1801,YU.,静岡県,2909,JUN*RS,静岡県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),242,F15H,静岡県,967,NANAMI,静岡県,1715,NANAMI,静岡県,2166,HAATO,静岡県,0,,-
@@ -810,13 +810,13 @@ PENDUAL,TIEFSEE,0,,-,1249,NANAMI,静岡県,2141,*ALEX*,静岡県,3440,CLARET,静
 PENDUAL,The Least 100sec,0,,-,785,NANAMI,静岡県,1399,NANAMI,静岡県,2942,K-CHA*,静岡県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1093,NANAMI,静岡県,1607,NANAMI,静岡県,2330,K-CHA*,静岡県,0,,-
 PENDUAL,Symmetry,0,,-,1143,NANAMI,静岡県,2076,37S1NR,静岡県,3228,CLARET,静岡県,0,,-
-PENDUAL,Sweet Radar,0,,-,665,44HIME,静岡県,1358,*ALEX*,静岡県,2022,MOAI.S,静岡県,0,,-
+PENDUAL,Sweet Radar,0,,-,665,44HIME,静岡県,1366,*ALEX*,静岡県,2022,MOAI.S,静岡県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,972,3X3EYE,静岡県,1642,CHIKA.,静岡県,2934,K-CHA*,静岡県,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1240,NANAMI,静岡県,2020,ARENA!,静岡県,2919,U2*,静岡県,0,,-
-PENDUAL,Shooting Fireball,0,,-,942,NANAMI,静岡県,2201,RIY,静岡県,3888,K-CHA*,静岡県,0,,-
+PENDUAL,Shooting Fireball,0,,-,942,NANAMI,静岡県,2201,KC.AGO,静岡県,3888,K-CHA*,静岡県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,846,NANAMI,静岡県,1650,NANAMI,静岡県,2760,MAYA,静岡県,0,,-
 PENDUAL,Scarlet Moon,0,,-,1058,NANAMI,静岡県,1873,NANAMI,静岡県,2634,RALSEI,静岡県,0,,-
-PENDUAL,Say YEEEAHH,0,,-,1168,NANAMI,静岡県,1795,IIDX27,静岡県,3275,K-CHA*,静岡県,0,,-
+PENDUAL,Say YEEEAHH,0,,-,1168,NANAMI,静岡県,1843,*ALEX*,静岡県,3275,K-CHA*,静岡県,0,,-
 PENDUAL,SAMSARA,0,,-,789,NOBU27,静岡県,1399,MISUZU,静岡県,2051,K-CHA*,静岡県,0,,-
 PENDUAL,Sakura Mirage,0,,-,977,NANAMI,静岡県,1303,NANAMI,静岡県,2243,NANAMI,静岡県,0,,-
 PENDUAL,Reflux,0,,-,784,NANAMI,静岡県,1589,SHUN..,静岡県,3008,K-CHA*,静岡県,0,,-
@@ -844,7 +844,7 @@ PENDUAL,fallen leaves -IIDX edition-,0,,-,1163,NANAMI,静岡県,2036,YU.,静岡�
 PENDUAL,"Erosion Mark  ",0,,-,797,NANAMI,静岡県,1479,NANAMI,静岡県,2119,*ALEX*,静岡県,0,,-
 PENDUAL,entelecheia,0,,-,1022,NANAMI,静岡県,2074,*LIM*,静岡県,3185,AXE*,静岡県,0,,-
 PENDUAL,EBONY & IVORY,0,,-,1047,NANAMI,静岡県,1721,NANAMI,静岡県,2950,K-CHA*,静岡県,3433,K1NTA6,静岡県
-PENDUAL,Discloze,0,,-,940,NANAMI,静岡県,1646,NANAMI,静岡県,2554,GARSON,静岡県,0,,-
+PENDUAL,Discloze,0,,-,940,NANAMI,静岡県,1648,IIDX27,静岡県,2554,GARSON,静岡県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,1232,NANAMI,静岡県,2337,KOHN-X,静岡県,4046,K-CHA*,静岡県,0,,-
 PENDUAL,Cosmic Cat,0,,-,920,NANAMI,静岡県,1649,KOHN-X,静岡県,2264,AXE*,静岡県,3107,RALSEI,静岡県
 PENDUAL,"COLOSSEUM ",0,,-,505,LAKUTO,静岡県,1208,CHIKA.,静岡県,2197,*ALEX*,静岡県,0,,-
@@ -856,7 +856,7 @@ PENDUAL,chrono diver -fragment-,0,,-,639,NOBU27,静岡県,1127,HIKARI,静岡県,
 PENDUAL,Chain of pain,0,,-,763,NANAMI,静岡県,1478,NANAMI,静岡県,2204,*ALEX*,静岡県,0,,-
 PENDUAL,Broken Sword,0,,-,1283,NANAMI,静岡県,2068,*ALEX*,静岡県,3665,CLARET,静岡県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1109,NANAMI,静岡県,1977,89.MAI,静岡県,2978,K-CHA*,静岡県,0,,-
-PENDUAL,Blaze it UP!,0,,-,879,NOBU27,静岡県,1850,NANAMI,静岡県,2933,LAYLA3,静岡県,0,,-
+PENDUAL,Blaze it UP!,0,,-,919,ICI9LE,静岡県,1907,*ALEX*,静岡県,2933,LAYLA3,静岡県,0,,-
 PENDUAL,Beyond The Earth,0,,-,1148,HORIX,静岡県,1959,ARENA!,静岡県,3212,K-CHA*,静岡県,0,,-
 PENDUAL,Beat Radiance,0,,-,828,NOBU27,静岡県,1593,NANAMI,静岡県,2573,*ALEX*,静岡県,3544,CLARET,静岡県
 PENDUAL,AFRO KNUCKLE,0,,-,954,NANAMI,静岡県,1715,GALAF,静岡県,2427,K-CHA*,静岡県,0,,-
@@ -866,7 +866,7 @@ copula,駅猫のワルツ,0,,-,1134,NANAMI,静岡県,1980,MI,静岡県,2889,K-CH
 copula,量子の海のリントヴルム,0,,-,907,NANAMI,静岡県,1727,NANAMI,静岡県,2976,K-CHA*,静岡県,0,,-
 copula,追想快晴テーマパーク,0,,-,1181,NANAMI,静岡県,2003,KOHN-X,静岡県,2980,U2*,静岡県,0,,-
 copula,紫陽花 -AZISAI-,421,ON.S,静岡県,1272,NANAMI,静岡県,2044,KOHN-X,静岡県,2896,K-CHA*,静岡県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1374,NANAMI,静岡県,2120,KOHN-X,静岡県,3274,K-CHA*,静岡県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1374,NANAMI,静岡県,2154,*ALEX*,静岡県,3274,K-CHA*,静岡県,0,,-
 copula,炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK),0,,-,1343,NANAMI,静岡県,2018,IIDX27,静岡県,2485,*ALEX*,静岡県,0,,-
 copula,灼熱 Pt.2 Long Train Running,0,,-,1204,NANAMI,静岡県,2060,GWANGE,静岡県,3256,K-CHA*,静岡県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,941,NANAMI,静岡県,1650,MAYA,静岡県,2457,RALSEI,静岡県,0,,-
@@ -883,7 +883,7 @@ copula,ZEPHYRANTHES,0,,-,992,NANAMI,静岡県,1846,*ALEX*,静岡県,2920,K-CHA*,
 copula,X,0,,-,1580,NANAMI,静岡県,2462,PI.PPI,静岡県,3832,K-CHA*,静岡県,0,,-
 copula,Welcome,0,,-,863,NANAMI,静岡県,1781,37S1NR,静岡県,2550,LEZAMI,静岡県,3179,LAYLA3,静岡県
 copula,Violet Rose,0,,-,1237,NANAMI,静岡県,1841,EK-TEL,静岡県,2600,K-CHA*,静岡県,0,,-
-copula,Violet Pulse,0,,-,425,NANAMI,静岡県,1593,NANAMI,静岡県,2457,K-CHA*,静岡県,0,,-
+copula,Violet Pulse,0,,-,425,NANAMI,静岡県,1615,STB,静岡県,2457,K-CHA*,静岡県,0,,-
 copula,Uh-Oh,0,,-,1114,NANAMI,静岡県,1641,NANAMI,静岡県,2376,K-CHA*,静岡県,0,,-
 copula,Triple Counter,0,,-,1365,NANAMI,静岡県,2182,KOHN-X,静岡県,3927,K-CHA*,静岡県,0,,-
 copula,Tori-no-kimochi,0,,-,262,JUN*RS,静岡県,1266,NANAMI,静岡県,1938,NANAMI,静岡県,0,,-
@@ -1019,13 +1019,13 @@ SINOBUZ,Cyber True Color,0,,-,980,NANAMI,静岡県,1573,NANAMI,静岡県,2256,NA
 SINOBUZ,crew,0,,-,611,HEALER,静岡県,1731,NANAMI,静岡県,2884,AXE*,静岡県,0,,-
 SINOBUZ,Caterpillar,0,,-,1170,NANAMI,静岡県,2132,IIDX27,静岡県,3030,K-CHA*,静岡県,0,,-
 SINOBUZ,BroGamer,0,,-,1347,NANAMI,静岡県,2075,KOHN-X,静岡県,3077,K-CHA*,静岡県,0,,-
-SINOBUZ,Breakin' Chain,0,,-,700,-EMA-,静岡県,1283,NANAMI,静岡県,2234,IIDX27,静岡県,0,,-
+SINOBUZ,Breakin' Chain,0,,-,700,-EMA-,静岡県,1283,NANAMI,静岡県,2295,*ALEX*,静岡県,0,,-
 SINOBUZ,BREAK OVER,0,,-,889,NANAMI,静岡県,1522,SHUN..,静岡県,2286,*ALEX*,静岡県,0,,-
 SINOBUZ,Beyond The Seven,0,,-,731,NANAMI,静岡県,1293,NANAMI,静岡県,2708,K-CHA*,静岡県,0,,-
 SINOBUZ,Believe in you,0,,-,1158,NANAMI,静岡県,1822,ICI9LE,静岡県,2412,*ALEX*,静岡県,0,,-
 SINOBUZ,Beat Juggling Mix,0,,-,963,NANAMI,静岡県,1487,IIDX27,静岡県,2104,LAYLA3,静岡県,0,,-
-SINOBUZ,Be A Star,0,,-,964,NANAMI,静岡県,1774,SHUN..,静岡県,2753,K-TAC,静岡県,0,,-
-SINOBUZ,BabeL ～Grand Story～,0,,-,1252,NANAMI,静岡県,2051,RIY,静岡県,2805,K-CHA*,静岡県,0,,-
+SINOBUZ,Be A Star,0,,-,964,NANAMI,静岡県,1777,SHUN..,静岡県,2753,K-TAC,静岡県,0,,-
+SINOBUZ,BabeL ～Grand Story～,0,,-,1252,NANAMI,静岡県,2051,KC.AGO,静岡県,2805,K-CHA*,静岡県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,1173,NANAMI,静岡県,1758,SHUN..,静岡県,2581,RALSEI,静岡県,0,,-
 SINOBUZ,Around The Galaxy,0,,-,1096,NANAMI,静岡県,2085,SHUN..,静岡県,3288,K-TAC,静岡県,0,,-
 SINOBUZ,Apocalypse,0,,-,1130,NANAMI,静岡県,2106,NANAMI,静岡県,3502,K-CHA*,静岡県,0,,-
@@ -1075,7 +1075,7 @@ CANNON BALLERS,Only for now,0,,-,884,NANAMI,静岡県,1509,NANAMI,静岡県,2260
 CANNON BALLERS,O/D*20,0,,-,1094,NANAMI,静岡県,1613,NANAMI,静岡県,2093,*ALEX*,静岡県,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,1059,NANAMI,静岡県,1526,NANAMI,静岡県,2842,CLARET,静岡県,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,973,NANAMI,静岡県,1488,NANAMI,静岡県,2330,CLARET,静岡県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1345,NANAMI,静岡県,1958,IIDX27,静岡県,3607,K-CHA*,静岡県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1345,NANAMI,静岡県,2043,*ALEX*,静岡県,3607,K-CHA*,静岡県,0,,-
 CANNON BALLERS,n'pa pa BBQ,0,,-,926,MOAI.S,静岡県,1649,.HARI,静岡県,2733,*ALEX*,静岡県,0,,-
 CANNON BALLERS,Mira,0,,-,945,NANAMI,静岡県,1733,NANAMI,静岡県,2986,EA20A,静岡県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,608,NOBU27,静岡県,1150,MI,静岡県,1952,K-CHA*,静岡県,0,,-
@@ -1147,7 +1147,7 @@ Rootage,X-DEN,0,,-,1599,ON.S,静岡県,2529,GWANGE,静岡県,4035,K-CHA*,静岡�
 Rootage,Wonderland,0,,-,1029,NANAMI,静岡県,1824,KOHN-X,静岡県,2717,CLARET,静岡県,0,,-
 Rootage,Won(*3*)Chu KissMe!,270,ON.S,静岡県,925,NANAMI,静岡県,1355,NANAMI,静岡県,2513,K-CHA*,静岡県,0,,-
 Rootage,Wolf 1061,0,,-,1016,NANAMI,静岡県,1723,*ALEX*,静岡県,3042,RALSEI,静岡県,0,,-
-Rootage,Wing of Hearts,0,,-,1088,NANAMI,静岡県,1808,*ALEX*,静岡県,2902,U2*,静岡県,0,,-
+Rootage,Wing of Hearts,0,,-,1088,NANAMI,静岡県,1811,*ALEX*,静岡県,2902,U2*,静岡県,0,,-
 Rootage,Visterhv,0,,-,1257,NANAMI,静岡県,2183,IIDX27,静岡県,3657,K-CHA*,静岡県,0,,-
 Rootage,Urban Constellations,0,,-,706,NANAMI,静岡県,1419,NANAMI,静岡県,2235,RAN9,静岡県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1130,NANAMI,静岡県,2057,IIDX27,静岡県,3073,*ALEX*,静岡県,0,,-
@@ -1182,7 +1182,7 @@ Rootage,Night! Night! Night!,0,,-,1188,NANAMI,静岡県,1851,*ALEX*,静岡県,30
 Rootage,Necroxis Girl,0,,-,1165,NANAMI,静岡県,1874,YORU*,静岡県,2814,K-CHA*,静岡県,0,,-
 Rootage,Macho Monky,0,,-,1425,NANAMI,静岡県,2089,*ALEX*,静岡県,3061,K-CHA*,静岡県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1118,NANAMI,静岡県,1802,YORU*,静岡県,3472,K-CHA*,静岡県,0,,-
-Rootage,Level One,0,,-,1200,NANAMI,静岡県,2231,PI.PPI,静岡県,3470,K-CHA*,静岡県,0,,-
+Rootage,Level One,0,,-,1200,NANAMI,静岡県,2293,*ALEX*,静岡県,3470,K-CHA*,静岡県,0,,-
 Rootage,Lethal Weapon,0,,-,1162,NANAMI,静岡県,1849,NANAMI,静岡県,3170,K-CHA*,静岡県,0,,-
 Rootage,Let me be your cure,0,,-,1118,NANAMI,静岡県,1403,NANAMI,静岡県,2671,K-CHA*,静岡県,0,,-
 Rootage,LADYBIRD,0,,-,1071,NANAMI,静岡県,1605,LEON,静岡県,2458,K-CHA*,静岡県,0,,-
@@ -1225,7 +1225,7 @@ HEROIC VERSE,錬成人間トリコロイダー,0,,-,1052,ON.S,静岡県,1809,*AL
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1359,PUSH-P,静岡県,2077,K-TAC,静岡県,3537,K-CHA*,静岡県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,852,NANAMI,静岡県,1647,GWANGE,静岡県,2961,K-CHA*,静岡県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1099,TIGHTS,静岡県,1713,TO4-KI,静岡県,2750,K-CHA*,静岡県,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,255,ON.S,静岡県,634,MI,静岡県,1285,IIDX27,静岡県,1994,K-CHA*,静岡県,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,255,ON.S,静岡県,643,PUSH-P,静岡県,1332,*ALEX*,静岡県,1994,K-CHA*,静岡県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),353,ON.S,静岡県,571,ON.S,静岡県,1383,SHUN..,静岡県,2194,K-CHA*,静岡県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1148,TO4-KI,静岡県,1882,GWANGE,静岡県,2930,K-CHA*,静岡県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,800,TO4-KI,静岡県,1457,*ALEX*,静岡県,2399,K-CHA*,静岡県,0,,-
