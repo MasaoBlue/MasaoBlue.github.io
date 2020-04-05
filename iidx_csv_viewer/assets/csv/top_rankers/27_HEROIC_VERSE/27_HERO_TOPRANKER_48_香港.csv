@@ -2,7 +2,7 @@
 1st&substream,THE EARTH LIGHT,0,,-,0,,-,832,DENNIS,香港,1124,CPU6,香港,0,,-
 1st&substream,RUGGED ASH,0,,-,241,IIDX27,香港,387,NOB,香港,1004,NOB,香港,1934,CPU6,香港
 1st&substream,R3,0,,-,0,,-,710,NOB,香港,821,NOB,香港,0,,-
-1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,529,HOHOUS,香港,630,DENNIS,香港,1031,KAMEAS,香港,0,,-
+1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,542,HOHOUS,香港,630,DENNIS,香港,1031,KAMEAS,香港,0,,-
 1st&substream,Macho Gang,0,,-,0,,-,901,DENNIS,香港,1583,CPU6,香港,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,191,HOHOUS,香港,233,NOB,香港,0,,-,0,,-
 1st&substream,GRADIUSIC CYBER,0,,-,750,ALN,香港,839,DENNIS,香港,1139,NOB,香港,0,,-
@@ -16,7 +16,7 @@
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,0,,-,549,DENNIS,香港,631,NOB,香港,0,,-
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,0,,-,832,NOB,香港,0,,-,0,,-
 2nd style,Indigo Vision(full flavour hide around mix),0,,-,0,,-,972,DENNIS,香港,1137,NOB,香港,0,,-
-2nd style,I Was The One,0,,-,509,HOHOUS,香港,623,BLYTHE,香港,665,NOB,香港,0,,-
+2nd style,I Was The One,0,,-,526,HOHOUS,香港,623,BLYTHE,香港,665,NOB,香港,0,,-
 2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,835,DENNIS,香港,1002,NOB,香港,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,835,DENNIS,香港,1071,NOB,香港,0,,-
 2nd style,.59,0,,-,368,ZK67??,香港,793,DENNIS,香港,1076,NOB,香港,0,,-
@@ -34,7 +34,7 @@
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,188,BEAR,香港,1185,PANTA*,香港,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,0,,-,1067,HANABI,香港,1276,CPU6,香港,0,,-
 4th style,SWEET LAB,0,,-,0,,-,508,RY0.,香港,1283,CPU6,香港,0,,-
-4th style,starmine,439,NOB,香港,837,SNOM.,香港,1356,NOB,香港,1510,WUHAN,香港,0,,-
+4th style,starmine,441,HOHOUS,香港,837,SNOM.,香港,1356,NOB,香港,1510,WUHAN,香港,0,,-
 4th style,Mr.T.(take me higher),0,,-,0,,-,932,SNOM.,香港,1623,NOB,香港,0,,-
 4th style,minimalian,0,,-,0,,-,971,KAKA,香港,1297,NOB,香港,0,,-
 4th style,LOVE WILL・・・,0,,-,0,,-,581,K.B-M,香港,1393,FKPOPO,香港,0,,-
@@ -112,12 +112,12 @@
 8th style,蒼い衝動,0,,-,0,,-,1042,******,香港,1521,NOB,香港,0,,-
 8th style,桜,0,,-,725,ED,香港,1396,REISEN,香港,2052,CPU6,香港,0,,-
 8th style,xenon,0,,-,0,,-,1573,KAMEAS,香港,2653,CPU6,香港,0,,-
-8th style,World Wide Love,0,,-,669,HOHOUS,香港,0,,-,1099,NOB,香港,0,,-
+8th style,World Wide Love,0,,-,680,HOHOUS,香港,0,,-,1099,NOB,香港,0,,-
 8th style,WAR GAME,0,,-,739,MIDGET,香港,1428,CALFOY,香港,2107,ROTTEN,香港,0,,-
 8th style,thunder,0,,-,0,,-,1361,MEGUNE,香港,1816,CPU6,香港,0,,-
 8th style,symbolic,0,,-,1346,MSTLUD,香港,1666,HANABI,香港,2099,TQ,香港,0,,-
-8th style,STAR DREAM,0,,-,734,HOHOUS,香港,534,RYUTH,香港,1331,NOB,香港,0,,-
-8th style,rainbow flyer,0,,-,0,,-,1516,KAMEAS,香港,1856,NOB,香港,0,,-
+8th style,STAR DREAM,0,,-,745,HOHOUS,香港,534,RYUTH,香港,1331,NOB,香港,0,,-
+8th style,rainbow flyer,0,,-,660,HOHOUS,香港,1516,KAMEAS,香港,1856,NOB,香港,0,,-
 8th style,PLEASE DON'T GO,0,,-,0,,-,1317,NOB,香港,2348,ROTTEN,香港,0,,-
 8th style,MUSIC TO YOUR HEAD,0,,-,0,,-,0,,-,1624,CPU6,香港,0,,-
 8th style,murmur twins,0,,-,0,,-,1175,TOMMMM,香港,2318,S.W.HK,香港,0,,-
@@ -238,7 +238,7 @@ HAPPY SKY,月光,0,,-,553,AA,香港,1652,HANABI,香港,2405,S.W.HK,香港,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,0,,-,1466,NOB,香港,1859,CPU6,香港,0,,-
 HAPPY SKY,冥,574,NOB,香港,918,GORI,香港,1923,REISEN,香港,3495,CPU6,香港,0,,-
 HAPPY SKY,ラクエン,0,,-,0,,-,840,TOKAGE,香港,1941,CPU6,香港,0,,-
-HAPPY SKY,ヒマワリ,0,,-,286,BORING,香港,1659,IED-G.,香港,1991,XCHER,香港,0,,-
+HAPPY SKY,ヒマワリ,0,,-,548,HOHOUS,香港,1659,IED-G.,香港,1991,XCHER,香港,0,,-
 HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,531,SBTN,香港,1364,CALFOY,香港,1675,CPU6,香港,0,,-
 HAPPY SKY,Xepher,399,NOB,香港,868,KEL,香港,2020,NOB,香港,2740,REISEN,香港,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,610,TANRE1,香港,453,KAZUNE,香港,1560,NOB,香港,0,,-
@@ -266,7 +266,7 @@ HAPPY SKY,in motion,0,,-,0,,-,0,,-,1250,NOB,香港,0,,-
 HAPPY SKY,I am,0,,-,0,,-,1533,KAKA,香港,2068,LOK,香港,0,,-
 HAPPY SKY,HAPPY☆ANGEL,656,NOB,香港,815,IIDX27,香港,1347,******,香港,2022,REISEN,香港,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,0,,-,1674,MSTLUD,香港,2237,CPU6,香港,0,,-
-HAPPY SKY,garden,0,,-,829,HOHOUS,香港,939,TOMMMM,香港,2021,REISEN,香港,0,,-
+HAPPY SKY,garden,0,,-,838,HOHOUS,香港,939,TOMMMM,香港,2021,REISEN,香港,0,,-
 HAPPY SKY,First Resolution,0,,-,804,TAK,香港,1538,KAMEAS,香港,2125,S.W.HK,香港,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,0,,-,0,,-,1668,S.W.HK,香港,0,,-
 HAPPY SKY,EDEN,0,,-,995,TANRE1,香港,1855,KAMEAS,香港,2656,REISEN,香港,0,,-
@@ -281,7 +281,7 @@ DistorteD,虹色,0,,-,659,GHOST,香港,1496,NOB,香港,1810,CPU6,香港,0,,-
 DistorteD,華蝶風雪,0,,-,1012,ED,香港,2030,NOB,香港,2916,S.W.HK,香港,0,,-
 DistorteD,罠,0,,-,561,HOHOUS,香港,1455,CALFOY,香港,2437,CPU6,香港,0,,-
 DistorteD,嘆きの樹,0,,-,1734,NOB,香港,2313,NOB,香港,3671,S.W.HK,香港,0,,-
-DistorteD,タシカナモノ,0,,-,0,,-,1119,ED,香港,2000,S.W.HK,香港,0,,-
+DistorteD,タシカナモノ,0,,-,881,HOHOUS,香港,1119,ED,香港,2000,S.W.HK,香港,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,903,ED,香港,1744,NOB,香港,2564,2046.5,香港,0,,-
 DistorteD,Zenius -I- vanisher,0,,-,821,KEL,香港,1499,MSTLUD,香港,2335,2046.5,香港,0,,-
 DistorteD,with you…,0,,-,428,SAIHO,香港,1094,FKPOPO,香港,1668,NOB,香港,0,,-
@@ -372,7 +372,7 @@ DJ TROOPERS,THE DEEP STRIKER,516,NOB,香港,902,ED,香港,2068,NOB,香港,2912,C
 DJ TROOPERS,switch,0,,-,469,GHOST,香港,1335,KAKA,香港,2037,2046.5,香港,0,,-
 DJ TROOPERS,STEEL NEEDLE,0,,-,903,BASH,香港,2032,REISEN,香港,2428,CPU6,香港,0,,-
 DJ TROOPERS,State Of The Art,0,,-,626,MINA,香港,1459,ON9SON,香港,3039,2046.5,香港,0,,-
-DJ TROOPERS,SOUND OF GIALLARHORN,501,NOB,香港,444,MANHOO,香港,2513,NOB,香港,3241,S.W.HK,香港,0,,-
+DJ TROOPERS,SOUND OF GIALLARHORN,503,HOHOUS,香港,444,MANHOO,香港,2513,NOB,香港,3241,S.W.HK,香港,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,798,NOB,香港,1513,KAMEAS,香港,2434,CPU6,香港,0,,-
 DJ TROOPERS,scar in the earth,0,,-,324,MKX,香港,771,K.B-M,香港,1465,IKUZU*,香港,0,,-
 DJ TROOPERS,satfinal,0,,-,1044,SNOM.,香港,1370,MSTLUD,香港,1870,XCHER,香港,0,,-
@@ -410,7 +410,7 @@ EMPRESS,翼,0,,-,851,HOHOUS,香港,1288,ED,香港,1887,XCHER,香港,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,332,KOUYA9,香港,824,999999,香港,1974,LOK,香港,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,510,MANHOO,香港,2016,NOB,香港,2528,CPU6,香港,0,,-
 EMPRESS,卑弥呼,0,,-,1003,ED,香港,2592,CPU6,香港,3787,CPU6,香港,0,,-
-EMPRESS,凛として咲く花の如く,379,NOB,香港,1098,SA*TK2,香港,2001,IKUZU*,香港,2651,XCHER,香港,3127,2046.5,香港
+EMPRESS,凛として咲く花の如く,393,HOHOUS,香港,1098,SA*TK2,香港,2001,IKUZU*,香港,2651,XCHER,香港,3127,2046.5,香港
 EMPRESS,不沈艦CANDY,597,HOHOUS,香港,0,,-,1766,XCHER,香港,3179,CPU6,香港,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,0,,-,1168,ED,香港,2736,S.W.HK,香港,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,933,KAMEAS,香港,2002,IKUZU*,香港,2352,FKPOPO,香港,0,,-
@@ -421,7 +421,7 @@ EMPRESS,V2,777,HOHOUS,香港,1359,IED-G.,香港,2950,CPL,香港,3450,2046.5,香�
 EMPRESS,Turii ～Panta rhei～,368,NOB,香港,867,TAK,香港,1912,TOKAGE,香港,2575,2046.5,香港,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,556,KIT...,香港,1480,HANABI,香港,1990,REISEN,香港,2836,CPU6,香港
 EMPRESS,SOLITON BEAM,0,,-,0,,-,1736,TOMMMM,香港,2113,CORONA,香港,0,,-
-EMPRESS,smooooch・∀・,376,NOB,香港,653,AAAAAA,香港,1578,IKUZU*,香港,2029,CPL,香港,0,,-
+EMPRESS,smooooch・∀・,384,HOHOUS,香港,653,AAAAAA,香港,1578,IKUZU*,香港,2029,CPL,香港,0,,-
 EMPRESS,Secrets,0,,-,1033,ED,香港,2240,IKUZU*,香港,3084,CPU6,香港,0,,-
 EMPRESS,Queen's Tragedy,0,,-,802,HOHOUS,香港,1340,ME-ME,香港,2111,TQ,香港,0,,-
 EMPRESS,Punch Love 仮面,0,,-,794,UMP45,香港,1656,NOB,香港,2461,2046.5,香港,0,,-
@@ -528,7 +528,7 @@ Resort Anthem,sakura storm,0,,-,1034,NOB,香港,1186,KA*,香港,2200,CLOO,香港
 Resort Anthem,Sakura Reflection,0,,-,482,HOHOUS,香港,1553,.ZULA,香港,2281,LOKKAR,香港,0,,-
 Resort Anthem,SABER WING,0,,-,384,IIDX27,香港,1773,NOB,香港,2739,ROTTEN,香港,0,,-
 Resort Anthem,Rock Da House,0,,-,434,MINA,香港,1305,TOMMMM,香港,2129,REISEN,香港,0,,-
-Resort Anthem,reunion,545,NOB,香港,1305,CALFOY,香港,2266,1605-Y,香港,3056,CPU6,香港,0,,-
+Resort Anthem,reunion,553,HOHOUS,香港,1305,CALFOY,香港,2266,1605-Y,香港,3056,CPU6,香港,0,,-
 Resort Anthem,Programmed Life,0,,-,0,,-,1686,IKUZU*,香港,2244,LOK,香港,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1212,XCHER,香港,2411,CPU6,香港,3682,CPU6,香港,0,,-
 Resort Anthem,passionate fate,0,,-,782,GHOST,香港,1561,IKUZU*,香港,2082,CPU6,香港,0,,-
@@ -538,7 +538,7 @@ Resort Anthem,Mermaid girl,587,NOB,香港,826,KY*Z,香港,1608,NOB,香港,2176,S
 Resort Anthem,Medicine of love,0,,-,623,HOHOUS,香港,787,K.B-M,香港,1693,1605-Y,香港,0,,-
 Resort Anthem,Let The Track Flow,0,,-,733,UMP45,香港,1474,TOMMMM,香港,2533,CPU6,香港,0,,-
 Resort Anthem,Kailua,0,,-,0,,-,1203,HANABI,香港,2133,CPU6,香港,0,,-
-Resort Anthem,I FIGHT ME,0,,-,0,,-,1205,ED,香港,2086,CORONA,香港,0,,-
+Resort Anthem,I FIGHT ME,0,,-,621,HOHOUS,香港,1205,ED,香港,2086,CORONA,香港,0,,-
 Resort Anthem,Golden Palms,0,,-,623,SANG,香港,1353,FKPOPO,香港,1951,CPU6,香港,2296,ROTTEN,香港
 Resort Anthem,Fantasia,243,HOHOUS,香港,396,HOHOUS,香港,1495,XCHER,香港,2216,S.W.HK,香港,0,,-
 Resort Anthem,Everlasting Resort,0,,-,837,SNOM.,香港,1000,ED,香港,1839,ROTTEN,香港,0,,-
@@ -551,7 +551,7 @@ Resort Anthem,DAYDREAMER,0,,-,754,UHINA-,香港,1700,KAMEAS,香港,2458,ONION,�
 Resort Anthem,Dances with Snow Fairies,0,,-,1065,KIBITZ,香港,2138,NOB,香港,3031,CPU6,香港,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,822,KEL,香港,1477,TOMMMM,香港,2169,1605-Y,香港,0,,-
 Resort Anthem,Broken,0,,-,985,SAKANA,香港,1957,XCHER,香港,3079,CPU6,香港,0,,-
-Resort Anthem,Breaking the ground,0,,-,846,AA,香港,1627,-XIA-,香港,2399,REISEN,香港,0,,-
+Resort Anthem,Breaking the ground,0,,-,1074,HOHOUS,香港,1627,-XIA-,香港,2399,REISEN,香港,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,828,NEON,香港,1629,TQ,香港,2368,CPU6,香港,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,542,MANHOO,香港,1452,MSTLUD,香港,2085,CPU6,香港,0,,-
 Resort Anthem,Believe In Me,0,,-,746,UMP45,香港,1780,NOB,香港,2260,REISEN,香港,0,,-
@@ -576,7 +576,7 @@ Lincle,YAKSHA,0,,-,1020,KEL,香港,2201,FKPOPO,香港,3623,CPU6,香港,0,,-
 Lincle,WONDER WALKER,0,,-,954,HOHOUS,香港,1838,LUMI,香港,3655,CPU6,香港,0,,-
 Lincle,Voxane,0,,-,609,HOHOUS,香港,1125,SNOM.,香港,1731,CPU6,香港,0,,-
 Lincle,Todestrieb,0,,-,979,KEL,香港,1854,NOB,香港,3323,CPU6,香港,0,,-
-Lincle,TITANS RETURN,321,NOB,香港,623,HOHOUS,香港,1295,BC-WAH,香港,2404,CPU6,香港,2462,CPU6,香港
+Lincle,TITANS RETURN,323,HOHOUS,香港,623,HOHOUS,香港,1295,BC-WAH,香港,2404,CPU6,香港,2462,CPU6,香港
 Lincle,Thunderbolt,0,,-,983,HOHOUS,香港,1734,NDS,香港,3447,REISEN,香港,0,,-
 Lincle,The Sampling Paradise,0,,-,622,MARK57,香港,1737,FKPOPO,香港,2906,CPU6,香港,0,,-
 Lincle,The Limbo,0,,-,1155,KAMEAS,香港,1890,NOB,香港,3195,CPU6,香港,0,,-
@@ -618,7 +618,7 @@ Lincle,DIAVOLO,0,,-,1057,KEL,香港,1777,NOB,香港,2988,CPU6,香港,0,,-
 Lincle,Change the World,0,,-,784,S.HOLD,香港,1324,KAMEAS,香港,1759,1605-Y,香港,0,,-
 Lincle,Castle on the Moon,242,HOHOUS,香港,632,HOHOUS,香港,1527,LUMI,香港,2243,1605-Y,香港,0,,-
 Lincle,CALL,0,,-,339,TAK,香港,819,KAMEAS,香港,1382,NOB,香港,0,,-
-Lincle,BLACK.by X-Cross Fade,0,,-,895,KANOXD,香港,2074,S.W.HK,香港,3237,CPU6,香港,0,,-
+Lincle,BLACK.by X-Cross Fade,0,,-,951,HOHOUS,香港,2074,S.W.HK,香港,3237,CPU6,香港,0,,-
 Lincle,ANAGRAMS I to Y,0,,-,834,HOHOUS,香港,1452,TOMMMM,香港,2433,TMHGKG,香港,0,,-
 Lincle,Almace,0,,-,816,HOHOUS,香港,1153,-XIA-,香港,1848,ON9SON,香港,0,,-
 Lincle,532nm,0,,-,566,HOHOUS,香港,1167,KAMEAS,香港,2598,CPU6,香港,0,,-
@@ -817,7 +817,7 @@ PENDUAL,Shooting Fireball,0,,-,836,KEL,香港,2147,NOB,香港,3779,CPU6,香港,0
 PENDUAL,Scars of FAUNA,0,,-,697,NEON,香港,1559,AYA*,香港,2782,2046.5,香港,0,,-
 PENDUAL,Scarlet Moon,0,,-,916,ED,香港,1821,KAMEAS,香港,2558,1605-Y,香港,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1139,MSTLUD,香港,1713,HANABI,香港,3073,CPU6,香港,0,,-
-PENDUAL,SAMSARA,0,,-,804,SNOM.,香港,690,MAKAAY,香港,1972,FKPOPO,香港,0,,-
+PENDUAL,SAMSARA,0,,-,831,HOHOUS,香港,690,MAKAAY,香港,1972,FKPOPO,香港,0,,-
 PENDUAL,Sakura Mirage,0,,-,804,NEON,香港,1293,KAMEAS,香港,2245,CPU6,香港,0,,-
 PENDUAL,Reflux,0,,-,756,SNOM.,香港,1533,NOB,香港,2891,CPU6,香港,0,,-
 PENDUAL,Realize Maze,0,,-,1032,N0HTYP,香港,1981,NOB,香港,2909,S.W.HK,香港,0,,-
@@ -1055,7 +1055,7 @@ CANNON BALLERS,Usual Days-remix,0,,-,0,,-,1410,NOB,香港,2566,CPU6,香港,0,,-
 CANNON BALLERS,UMMU,424,NOB,香港,0,,-,1980,NOB,香港,2952,CPU6,香港,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,503,OCAR,香港,1032,T-997,香港,1828,CPU6,香港,0,,-
 CANNON BALLERS,The Chase,0,,-,639,TAK,香港,1310,ROTTEN,香港,2062,CPU6,香港,0,,-
-CANNON BALLERS,THE CANNONBALLER,472,SNOM.,香港,1196,ED,香港,2307,NOB,香港,3356,CPU6,香港,0,,-
+CANNON BALLERS,THE CANNONBALLER,484,HOHOUS,香港,1196,ED,香港,2307,NOB,香港,3356,CPU6,香港,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,631,MINA,香港,1409,SNOM.,香港,2591,CPU6,香港,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1105,SNOM.,香港,1677,XCHER,香港,2537,CPU6,香港,0,,-
 CANNON BALLERS,Static State,0,,-,0,,-,1368,TOMMMM,香港,2154,1605-Y,香港,0,,-
@@ -1078,7 +1078,7 @@ CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,0,,-,1454,XCHER,香港,2
 CANNON BALLERS,NITROUS CANNON,0,,-,1170,87XO!R,香港,1950,NOB,香港,3406,CPU6,香港,0,,-
 CANNON BALLERS,n'pa pa BBQ,0,,-,886,SNOM.,香港,1730,CPU6,香港,2681,ROTTEN,香港,0,,-
 CANNON BALLERS,Mira,0,,-,445,WINGCH,香港,1382,TOMMMM,香港,2954,CPU6,香港,0,,-
-CANNON BALLERS,Midnight Lady,0,,-,0,,-,757,AA,香港,1918,CPU6,香港,0,,-
+CANNON BALLERS,Midnight Lady,0,,-,623,HOHOUS,香港,757,AA,香港,1918,CPU6,香港,0,,-
 CANNON BALLERS,MAXIVCORD,0,,-,447,ZZZZZZ,香港,1367,NOB,香港,2408,CPU6,香港,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,482,MAKAAY,香港,1259,SUMMER,香港,1974,NOB,香港,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,744,HOHOUS,香港,1385,KAMEAS,香港,2323,CPU6,香港,0,,-
@@ -1225,7 +1225,7 @@ HEROIC VERSE,錬成人間トリコロイダー,0,,-,1042,NOB,香港,1766,WUHAN,�
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1340,NOB,香港,2103,CPU6,香港,3354,CPU6,香港,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,848,NOB,香港,1658,TMHGKG,香港,2942,ROTTEN,香港,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1093,NOB,香港,1725,CORONA,香港,2680,TMHGKG,香港,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,254,HOHOUS,香港,627,NOB,香港,1275,NOB,香港,1954,TMHGKG,香港,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,254,HOHOUS,香港,637,HOHOUS,香港,1275,NOB,香港,1954,TMHGKG,香港,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),355,HOHOUS,香港,560,HOHOUS,香港,1374,CPU6,香港,2158,CPU6,香港,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1139,NOB,香港,1839,CORONA,香港,2875,2046.5,香港,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,783,HOHOUS,香港,1426,WUHAN,香港,2367,TMHGKG,香港,0,,-

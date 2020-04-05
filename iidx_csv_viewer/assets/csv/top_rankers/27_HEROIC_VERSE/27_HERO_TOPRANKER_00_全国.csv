@@ -218,7 +218,7 @@ IIDX RED,Raspberry Heart(English version),0,,-,1049,STEEL*,神奈川県,1592,N!?
 IIDX RED,NEBULA GRASPER,0,,-,1369,TKY,京都府,2039,N!?,北海道,2473,RIOO,富山県,0,,-
 IIDX RED,KEY,0,,-,1135,STEEL*,神奈川県,1892,SASAE3,和歌山県,2868,1-PIN,埼玉県,0,,-
 IIDX RED,HORIZON,0,,-,1083,GENO,岡山県,1558,B-RABI,滋賀県,1972,MOSAPI,青森県,0,,-
-IIDX RED,gigadelic,710,NEODIO,青森県,1527,N!?,北海道,2206,DOLCE.,韓国,2566,MKM*,東京都,0,,-
+IIDX RED,gigadelic,710,NEODIO,青森県,1527,N!?,北海道,2206,DOLCE.,韓国,2569,DOLCE.,韓国,0,,-
 IIDX RED,GENOCIDE,0,,-,1168,SHINPO,東京都,2113,MUCC,北海道,2419,DOLCE.,岩手県,0,,-
 IIDX RED,Fly Away To India,0,,-,685,TMR089,愛知県,1110,GOEMON,神奈川県,1418,PEACE,愛知県,0,,-
 IIDX RED,FAKE TIME,0,,-,1045,STEEL*,神奈川県,1786,PURIN,愛知県,2413,KIKAMO,韓国,0,,-
@@ -269,7 +269,7 @@ HAPPY SKY,Get'em up to R.A.V.E,0,,-,1171,STEEL*,神奈川県,1760,STEEL*,神奈�
 HAPPY SKY,garden,0,,-,875,DICE,東京都,1533,SASAE3,和歌山県,2188,ZUBU,東京都,0,,-
 HAPPY SKY,First Resolution,0,,-,841,DICE,東京都,1608,AZURE*,長野県,2152,PEACE,愛知県,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,662,EZR,埼玉県,1048,SASAE3,和歌山県,1686,ALIKIA,東京都,0,,-
-HAPPY SKY,EDEN,0,,-,1318,B-RABI,滋賀県,1933,XAN.7,埼玉県,2723,PATRA,栃木県,0,,-
+HAPPY SKY,EDEN,0,,-,1318,B-RABI,滋賀県,1933,XAN.7,埼玉県,2723,HERMIT,栃木県,0,,-
 HAPPY SKY,double thrash,0,,-,1032,STEEL*,神奈川県,2087,N!?,北海道,2380,CHARM,韓国,0,,-
 HAPPY SKY,Catch Me,0,,-,804,17GO!?,神奈川県,1334,N!?,北海道,1820,K-CHA*,静岡県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,1066,DICE,東京都,1882,N!?,北海道,2481,RIOO,富山県,0,,-
@@ -339,7 +339,7 @@ GOLD,never…,0,,-,828,17GO!?,神奈川県,1371,GENO,岡山県,1826,K-CHA*,静�
 GOLD,METALLIC MIND,0,,-,899,STEEL*,神奈川県,1449,STEEL*,神奈川県,1652,MKM*,東京都,0,,-
 GOLD,Make Me Your Own,0,,-,896,17GO!?,神奈川県,1639,GIGANT,和歌山県,2160,CHARM,韓国,0,,-
 GOLD,Love Again...,0,,-,586,MARINA,神奈川県,799,17GO!?,神奈川県,1076,PEACE,愛知県,0,,-
-GOLD,LASER CRUSTER,0,,-,1441,DICE,東京都,2442,VIOLET,千葉県,3261,MKM*,東京都,0,,-
+GOLD,LASER CRUSTER,0,,-,1441,DICE,東京都,2442,MEI*MK,千葉県,3261,MKM*,東京都,0,,-
 GOLD,KAMAITACHI,0,,-,1270,STEEL*,神奈川県,2021,GIGANT,和歌山県,2723,DOLCE.,韓国,3926,KIKAMO,韓国
 GOLD,INORI,0,,-,1398,NOHOHO,東京都,2633,GIGANT,和歌山県,3214,DOLCE.,韓国,0,,-
 GOLD,High School Love,408,SHAULA,高知県,876,MARINA,神奈川県,1571,B-RABI,滋賀県,2211,RIOO,富山県,0,,-
@@ -387,7 +387,7 @@ DJ TROOPERS,MENTAL MELTDOWN,0,,-,1195,DICE,東京都,2283,N!?,北海道,2842,DOL
 DJ TROOPERS,MENDES,0,,-,1137,STEEL*,神奈川県,2668,KUREI,愛知県,3623,KKM*,東京都,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,1437,DICE,東京都,2178,GREIN,岡山県,2690,PEACE,愛知県,0,,-
 DJ TROOPERS,madrugada,0,,-,720,EIKRA7,富山県,1251,SHINPO,東京都,1873,PEACE,愛知県,0,,-
-DJ TROOPERS,LOVELY STORM,0,,-,1334,STEEL*,神奈川県,2188,AZARA4,埼玉県,2842,TAKA.S,大阪府,0,,-
+DJ TROOPERS,LOVELY STORM,0,,-,1334,STEEL*,神奈川県,2201,SASAE3,和歌山県,2842,TAKA.S,大阪府,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1189,STEEL*,神奈川県,1589,GENO,岡山県,2041,STYU--,神奈川県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1380,STEEL*,神奈川県,2124,STEEL*,神奈川県,2549,DOLCE.,韓国,0,,-
 DJ TROOPERS,ICARUS,0,,-,1366,NEODIO,青森県,2087,PURIN,愛知県,2556,U*TAKA,千葉県,3808,DOLCE.,岩手県
@@ -417,18 +417,18 @@ EMPRESS,ハリツヤランデヴー,0,,-,964,YUDEX2,愛知県,2122,AZARA4,埼玉
 EMPRESS,まほろば,0,,-,791,STEEL*,神奈川県,1465,GENO,岡山県,2060,PEACE,愛知県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1236,DICE,東京都,1877,CARROT,福岡県,2527,PEACE,愛知県,0,,-
 EMPRESS,Y&Co. is dead or alive,0,,-,1136,NEODIO,青森県,1752,AGE,大分県,2853,KIKAMO,韓国,0,,-
-EMPRESS,V2,800,YUDEX2,愛知県,1497,IMOTO*,大阪府,3170,N!?,北海道,3601,RKS-32,愛知県,0,,-
+EMPRESS,V2,800,YUDEX2,愛知県,1497,IMOTO*,大阪府,3179,EXZARD,韓国,3601,RKS-32,愛知県,0,,-
 EMPRESS,Turii ～Panta rhei～,372,CARROT,福岡県,897,IMOTO*,大阪府,2086,N!?,北海道,2686,ZUBU,東京都,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,817,T,青森県,1666,AZARA4,埼玉県,2161,DOLCE.,韓国,3017,KIKAMO,韓国
 EMPRESS,SOLITON BEAM,0,,-,1449,TKY,京都府,2125,GIGANT,和歌山県,2367,DOLCE.,韓国,0,,-
-EMPRESS,smooooch・∀・,398,CARROT,福岡県,836,17GO!?,神奈川県,1650,B-RABI,滋賀県,2157,CHARM,韓国,0,,-
+EMPRESS,smooooch・∀・,398,CARROT,福岡県,836,17GO!?,神奈川県,1650,B-RABI,滋賀県,2165,DOLCE.,韓国,0,,-
 EMPRESS,Secrets,0,,-,1270,17GO!?,神奈川県,2467,XAN.7,埼玉県,3175,DOLCE.,韓国,0,,-
 EMPRESS,Queen's Tragedy,0,,-,850,EZR,埼玉県,1719,STEEL*,神奈川県,2249,K-CHA*,静岡県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1126,IMOTO*,大阪府,1761,SASAE3,和歌山県,2529,KUREI,愛知県,0,,-
 EMPRESS,Programmed World,0,,-,940,EZR,埼玉県,1797,GOEMON,神奈川県,2311,DOLCE.,韓国,0,,-
 EMPRESS,NΦ CRIME,294,CARROT,福岡県,828,STEEL*,神奈川県,1470,N!?,北海道,1901,PEACE,愛知県,0,,-
 EMPRESS,neogenesis,0,,-,1005,STEEL*,神奈川県,1359,SASAE3,和歌山県,1722,DOLCE.,韓国,0,,-
-EMPRESS,naughty girl@Queen's Palace,0,,-,865,17GO!?,神奈川県,1720,GIGANT,和歌山県,2150,CHARM,韓国,2712,123456,韓国
+EMPRESS,naughty girl@Queen's Palace,0,,-,865,17GO!?,神奈川県,1720,GIGANT,和歌山県,2152,CHARM,韓国,2712,123456,韓国
 EMPRESS,Monkey Dance '09,0,,-,868,TKY,京都府,1771,AGUILA,千葉県,2266,MKM*,東京都,0,,-
 EMPRESS,Mind Mapping,522,CARROT,福岡県,882,17GO!?,神奈川県,1245,MONO,愛知県,1842,CHARM,韓国,0,,-
 EMPRESS,Kung-fu Empire,0,,-,1507,STEEL*,神奈川県,2620,96NEKO,大阪府,3283,DOLCE.,韓国,3975,DOLCE.,岩手県
@@ -445,7 +445,7 @@ EMPRESS,CaptivAte2～覚醒～,246,TOUKA,栃木県,1117,B-RABI,滋賀県,1757,MA
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,979,LAYER,千葉県,1505,GOEMON,神奈川県,2139,DOLCE.,岩手県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1116,STEEL*,神奈川県,2266,YUZ.,千葉県,3960,MKM*,東京都,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1070,IMOTO*,大阪府,1981,TORI1Z,韓国,2626,MKM*,東京都,0,,-
-EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1213,STEEL*,神奈川県,2340,DICE,東京都,3584,DOLCE.,韓国,4634,KKM*,東京都
+EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1213,STEEL*,神奈川県,2352,SASAE3,和歌山県,3584,DOLCE.,韓国,4634,KKM*,東京都
 EMPRESS,Arabian Rave Night,0,,-,1294,LAYER,千葉県,2247,31KING,鳥取県,2975,MKM*,東京都,0,,-
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,1051,SPORTS,海外,1894,DICE,東京都,2606,*1048*,東京都,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,1101,EZR,埼玉県,1713,GENO,岡山県,2145,WELLOW,神奈川県,0,,-
@@ -474,7 +474,7 @@ SIRIUS,NoN-Fiction Story!,0,,-,720,17GO!?,神奈川県,1399,MONO,愛知県,2217,
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1265,STEEL*,神奈川県,2053,SASAE3,和歌山県,2706,U*TAKA,千葉県,0,,-
 SIRIUS,mosaic,0,,-,1504,B-RABI,滋賀県,2064,B-RABI,滋賀県,3018,MKM*,東京都,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,949,STEEL*,神奈川県,1607,DOLCE.,岩手県,2236,KIKAMO,韓国,0,,-
-SIRIUS,Light Shine,0,,-,825,17GO!?,神奈川県,1148,NOY,岐阜県,1964,K-CHA*,静岡県,0,,-
+SIRIUS,Light Shine,0,,-,825,17GO!?,神奈川県,1151,NOY,岐阜県,1964,K-CHA*,静岡県,0,,-
 SIRIUS,Last Burning,0,,-,882,TMR089,愛知県,1662,GIGANT,和歌山県,2384,K-CHA*,静岡県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,1034,DICE,東京都,1722,N!?,北海道,1874,DOLCE.,岩手県,0,,-
 SIRIUS,IN THE NAME OF LOVE,546,EIKRA7,富山県,761,EZR,埼玉県,1421,STEEL*,神奈川県,1942,KIKAMO,韓国,0,,-
@@ -485,11 +485,11 @@ SIRIUS,G59,0,,-,1805,IMOTO*,大阪府,2365,AZARA4,埼玉県,3952,KIKAMO,韓国,0
 SIRIUS,EXUSIA,0,,-,1247,IMOTO*,大阪府,2786,CHARM,韓国,3901,U*TAKA,千葉県,0,,-
 SIRIUS,Evans,608,YUUNA,岐阜県,1251,IMOTO*,大阪府,2221,DINASO,神奈川県,2857,RIOO,富山県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1553,SHINPO,東京都,2613,GIGANT,和歌山県,3337,DOLCE.,岩手県,0,,-
-SIRIUS,Empire State Glory,0,,-,1113,STEEL*,神奈川県,1846,SASAE3,和歌山県,2648,PEACE,愛知県,0,,-
+SIRIUS,Empire State Glory,0,,-,1116,TKY,京都府,1846,SASAE3,和歌山県,2648,PEACE,愛知県,0,,-
 SIRIUS,Elisha,434,CARROT,福岡県,917,STEEL*,神奈川県,1484,SHINPO,東京都,2284,DOLCE.,韓国,0,,-
-SIRIUS,DROP,0,,-,870,17GO!?,神奈川県,2182,N!?,北海道,2657,DOLCE.,韓国,0,,-
+SIRIUS,DROP,0,,-,870,17GO!?,神奈川県,2182,N!?,北海道,2658,DOLCE.,韓国,0,,-
 SIRIUS,DOMINION,0,,-,1269,B-RABI,滋賀県,2351,SASAE3,和歌山県,3255,U*TAKA,千葉県,0,,-
-SIRIUS,DESIRE,0,,-,948,IMOTO*,大阪府,1975,GOEMON,神奈川県,2876,DOLCE.,韓国,0,,-
+SIRIUS,DESIRE,0,,-,948,IMOTO*,大阪府,1984,SASAE3,和歌山県,2876,DOLCE.,韓国,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,800,DICE,東京都,1526,SASAE3,和歌山県,2099,G*,群馬県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1654,IMOTO*,大阪府,2714,N!?,北海道,3140,CHARM,韓国,0,,-
 SIRIUS,D,0,,-,1503,S58KA7,和歌山県,1966,CHARM,韓国,2570,DOLCE.,岩手県,0,,-
@@ -590,7 +590,7 @@ Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,487,SHINPO,東京都,1282,MONO,愛知県,172
 Lincle,Round and Round,0,,-,804,17GO!?,神奈川県,1241,N!?,北海道,2167,IIDX27,韓国,0,,-
 Lincle,RESISTANCE,0,,-,637,STEEL*,神奈川県,1354,MONO,愛知県,2389,CHARM,韓国,0,,-
 Lincle,Release The Music,0,,-,856,STEEL*,神奈川県,1468,STEEL*,神奈川県,2138,190YEN,大分県,0,,-
-Lincle,Quick Silver,0,,-,799,DICE,東京都,1833,GOEMON,神奈川県,2688,PEACE,愛知県,0,,-
+Lincle,Quick Silver,0,,-,799,DICE,東京都,1846,SASAE3,和歌山県,2688,PEACE,愛知県,0,,-
 Lincle,quaver♪,290,HIROTA,長野県,709,B-1824,群馬県,2140,K-CHA*,静岡県,3467,U*TAKA,千葉県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1445,N!?,北海道,2379,STEEL*,神奈川県,2949,RIOO,富山県,3656,KIKAMO,韓国
 Lincle,prompt,0,,-,958,12345$,埼玉県,1599,SASAE3,和歌山県,2817,CHARM,韓国,0,,-
@@ -608,7 +608,7 @@ Lincle,In the Blackest Den,0,,-,895,17GO!?,神奈川県,1625,XAN.7,埼玉県,266
 Lincle,I'm so Happy,318,IMOTO*,大阪府,422,IMOTO*,大阪府,1395,B-RABI,滋賀県,2364,MKM*,東京都,0,,-
 Lincle,HAERETICUS,0,,-,866,STEEL*,神奈川県,1950,SASAE3,和歌山県,3109,3,大阪府,0,,-
 Lincle,Follow Tomorrow,0,,-,911,17GO!?,神奈川県,1502,GENO,岡山県,2274,DOLCE.,韓国,0,,-
-Lincle,Flip Flap,280,CARROT,福岡県,588,IMOTO*,大阪府,1402,SHINPO,東京都,2258,STYU--,神奈川県,0,,-
+Lincle,Flip Flap,280,CARROT,福岡県,588,IMOTO*,大阪府,1402,SHINPO,東京都,2261,CHARM,韓国,0,,-
 Lincle,fffff,0,,-,860,DICE,東京都,2102,STEEL*,神奈川県,3202,DOLCE.,韓国,0,,-
 Lincle,Far east nightbird,360,CARROT,福岡県,528,IMOTO*,大阪府,1355,SASAE3,和歌山県,2038,CHARM,韓国,0,,-
 Lincle,F,0,,-,1063,STEEL*,神奈川県,2173,SHINPO,東京都,3604,DOLCE.,韓国,0,,-
@@ -647,8 +647,8 @@ tricoro,Zirkfied,0,,-,1038,STEEL*,神奈川県,2058,STEEL*,神奈川県,3896,U*T
 tricoro,ZED,0,,-,940,YUDEX2,愛知県,1717,MONO,愛知県,2783,PEACE,愛知県,0,,-
 tricoro,VEGA,0,,-,1149,-EMA-,静岡県,2104,N!?,北海道,3153,U*TAKA,千葉県,0,,-
 tricoro,VALLIS-NERIA,272,CARROT,福岡県,1231,DICE,東京都,2113,RIS.ZN,愛知県,2983,ZUBU,東京都,0,,-
-tricoro,Valanga,0,,-,1346,N!?,北海道,2215,CIK---,韓国,3279,DOLCE.,岩手県,0,,-
-tricoro,True Blue,0,,-,1100,17GO!?,神奈川県,2547,GG*-*!,韓国,3783,KIKAMO,韓国,0,,-
+tricoro,Valanga,0,,-,1346,N!?,北海道,2216,YAMIIX,大阪府,3279,DOLCE.,岩手県,0,,-
+tricoro,True Blue,0,,-,1100,17GO!?,神奈川県,2551,SASAE3,和歌山県,3783,KIKAMO,韓国,0,,-
 tricoro,To my star,0,,-,604,IMOTO*,大阪府,1275,GENO,岡山県,1756,MKM*,東京都,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,998,N!?,北海道,1924,PURIN,愛知県,3039,KIKAMO,韓国,0,,-
 tricoro,Timepiece phase II,0,,-,1084,DICE,東京都,2254,DOLCE.,岩手県,3301,KIKAMO,韓国,0,,-
@@ -678,7 +678,7 @@ tricoro,Neonlights,0,,-,666,STEEL*,神奈川県,1619,N!?,北海道,2242,DOLCE.,�
 tricoro,mnemoniq,0,,-,538,MARINA,神奈川県,971,MONO,愛知県,1311,PEACE,愛知県,0,,-
 tricoro,LUV CAN SAVE U,0,,-,590,IMOTO*,大阪府,1435,MONO,愛知県,2136,N!?,北海道,2808,DOLCE.,韓国
 tricoro,Little Star,0,,-,988,B-RABI,滋賀県,1784,B-RABI,滋賀県,3226,U*TAKA,千葉県,0,,-
-tricoro,Light and Cyber…,0,,-,1064,17GO!?,神奈川県,2049,*ALEX*,静岡県,3137,DOLCE.,韓国,0,,-
+tricoro,Light and Cyber…,0,,-,1064,17GO!?,神奈川県,2058,SASAE3,和歌山県,3137,DOLCE.,韓国,0,,-
 tricoro,Liberation,0,,-,1513,NOHOHO,東京都,2392,DT-G59,マカオ,3767,U*TAKA,千葉県,0,,-
 tricoro,JOMANDA,268,T,青森県,1183,NEODIO,青森県,2488,PURIN,愛知県,3763,DOLCE.,岩手県,0,,-
 tricoro,In Heaven,0,,-,772,IMOTO*,大阪府,1488,GENO,岡山県,2137,PEACE,愛知県,0,,-
@@ -699,7 +699,7 @@ tricoro,Cookie Bouquets,0,,-,880,IIDX27,海外,2144,MONO,愛知県,3420,1-PIN,�
 tricoro,connective,0,,-,406,IMOTO*,大阪府,1124,MONO,愛知県,1604,K-CHA*,静岡県,0,,-
 tricoro,Confiserie,0,,-,964,17GO!?,神奈川県,2132,LAHAR*,東京都,3593,U*TAKA,千葉県,0,,-
 tricoro,CONCEPTUAL,0,,-,831,STEEL*,神奈川県,1363,STEEL*,神奈川県,2741,CHARM,韓国,0,,-
-tricoro,BRAVE GLOW,0,,-,836,STEEL*,神奈川県,1731,STEEL*,神奈川県,2509,MKM*,東京都,0,,-
+tricoro,BRAVE GLOW,0,,-,836,STEEL*,神奈川県,1731,STEEL*,神奈川県,2510,DOLCE.,韓国,0,,-
 tricoro,BLUE STRAGGLER,0,,-,876,IMOTO*,大阪府,1507,N!?,北海道,2625,MKM*,東京都,0,,-
 tricoro,Beastie Starter,0,,-,544,IMOTO*,大阪府,1315,N!?,北海道,2203,DOLCE.,岩手県,0,,-
 tricoro,Ascalon,0,,-,1135,B-RABI,滋賀県,1806,B-RABI,滋賀県,2319,U*TAKA,千葉県,0,,-
@@ -735,7 +735,7 @@ SPADA,Recollection,0,,-,1184,LAYER,千葉県,1761,MONO,愛知県,2230,DINASO,神
 SPADA,rainbow guitar weeps,0,,-,973,STEEL*,神奈川県,1878,N!?,北海道,2789,KIKAMO,韓国,0,,-
 SPADA,ra'am,0,,-,1251,DICE,東京都,1938,PURIN,愛知県,2884,DOLCE.,岩手県,0,,-
 SPADA,PUNISHER,0,,-,1156,DICE,東京都,2143,N!?,北海道,3596,KIKAMO,韓国,0,,-
-SPADA,Pharaoh,0,,-,662,IMOTO*,大阪府,1440,N!?,北海道,2465,CHARM,韓国,0,,-
+SPADA,Pharaoh,0,,-,662,IMOTO*,大阪府,1444,SASAE3,和歌山県,2465,CHARM,韓国,0,,-
 SPADA,Overload Frontier,0,,-,798,LAYER,千葉県,1875,SHINPO,東京都,2635,CHARM,韓国,0,,-
 SPADA,Odin,0,,-,799,STEEL*,神奈川県,1436,N!?,北海道,2064,GDDELF,千葉県,0,,-
 SPADA,NPC World,0,,-,1034,NOHOHO,東京都,1637,SASAE3,和歌山県,2292,190YEN,大分県,0,,-
@@ -743,7 +743,7 @@ SPADA,Miracle 5ympho X,0,,-,768,TKY,京都府,1332,MONO,愛知県,2631,MKM*,東�
 SPADA,MAGIC & LOVE,0,,-,1024,YUDEX2,愛知県,1876,N!?,北海道,2934,ZUBU,東京都,0,,-
 SPADA,MAD ATTACK,0,,-,685,STEEL*,神奈川県,1350,SHINPO,東京都,1959,DOLCE.,韓国,0,,-
 SPADA,m1dy Deluxe,0,,-,1180,MOGRA3,千葉県,1857,N!?,北海道,2628,KIKAMO,韓国,0,,-
-SPADA,M.D.Injection,0,,-,602,IMOTO*,大阪府,1250,PRECOG,千葉県,2433,1-YEN,神奈川県,0,,-
+SPADA,M.D.Injection,0,,-,602,IMOTO*,大阪府,1250,PRECOG,千葉県,2443,CHARM,韓国,0,,-
 SPADA,Lighting Shower,0,,-,826,STEEL*,神奈川県,1383,N!?,北海道,2426,YUI.OR,埼玉県,0,,-
 SPADA,Last Dance,0,,-,1223,SHINPO,東京都,2056,DT-G59,マカオ,3280,U*TAKA,千葉県,0,,-
 SPADA,KHAMEN BREAK,0,,-,596,IMOTO*,大阪府,1437,DICE,東京都,2524,RIOO,富山県,0,,-
@@ -788,7 +788,7 @@ PENDUAL,時空トラベローグ,0,,-,1125,17GO!?,神奈川県,1873,STEEL*,神�
 PENDUAL,打打打打打打打打打打,200,MARIMO,宮城県,834,IMOTO*,大阪府,1388,FUMIKA,東京都,2660,DOLCE.,岩手県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,754,17GO!?,神奈川県,1323,GENO,岡山県,2039,PEACE,愛知県,2777,ZUBU,東京都
 PENDUAL,少年は空を辿る,0,,-,1274,STEEL*,神奈川県,2112,DT-G59,マカオ,3402,U*TAKA,千葉県,0,,-
-PENDUAL,妖隠し -あやかしかくし-,0,,-,974,EIKRA7,富山県,1595,AGUILA,千葉県,2198,PATRA,栃木県,0,,-
+PENDUAL,妖隠し -あやかしかくし-,0,,-,974,EIKRA7,富山県,1595,AGUILA,千葉県,2198,HERMIT,栃木県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,991,MEW,東京都,1973,LAHAR*,東京都,3148,U*TAKA,千葉県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),252,CARROT,福岡県,986,STEEL*,神奈川県,1749,SHINPO,東京都,2217,DOLCE.,韓国,0,,-
 PENDUAL,千年ノ理,0,,-,1203,IMOTO*,大阪府,1997,190YEN,大分県,3206,KIKAMO,韓国,4319,KIKAMO,韓国
@@ -806,7 +806,7 @@ PENDUAL,ZZ,204,*9N2*,神奈川県,1329,NOHOHO,東京都,2071,XAN.7,埼玉県,306
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1178,STEEL*,神奈川県,2342,SASAE3,和歌山県,3754,U*TAKA,千葉県,0,,-
 PENDUAL,Vulkan,0,,-,1047,*BLUE*,北海道,2026,31KING,鳥取県,3022,MKM*,東京都,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1645,STEEL*,神奈川県,2432,*ALEX*,静岡県,3818,U*TAKA,千葉県,0,,-
-PENDUAL,TIEFSEE,0,,-,1297,STEEL*,神奈川県,2158,MUCC,北海道,3494,KKM*,東京都,0,,-
+PENDUAL,TIEFSEE,0,,-,1297,STEEL*,神奈川県,2177,SASAE3,和歌山県,3494,KKM*,東京都,0,,-
 PENDUAL,The Least 100sec,0,,-,808,DICE,東京都,1486,DICE,東京都,2960,DOLCE.,岩手県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1134,SIXA,秋田県,1675,MONO,愛知県,2338,MKM*,東京都,0,,-
 PENDUAL,Symmetry,0,,-,1168,IMOTO*,大阪府,2142,STEEL*,神奈川県,3307,U*TAKA,千葉県,0,,-
@@ -829,7 +829,7 @@ PENDUAL,Night sky,0,,-,1190,B-RABI,滋賀県,1914,N!?,北海道,2963,DINASO,神�
 PENDUAL,NEO GENERATOR SEVEN,0,,-,930,STEEL*,神奈川県,1928,N!?,北海道,3346,U*TAKA,千葉県,0,,-
 PENDUAL,Monopole.,0,,-,806,MARINA,神奈川県,1702,DICE,東京都,3404,U*TAKA,千葉県,0,,-
 PENDUAL,m1dy Festival,0,,-,1009,MASAKI,秋田県,1673,MONO,愛知県,2529,CHARM,韓国,0,,-
-PENDUAL,Line 4 Ruin,0,,-,726,IMOTO*,大阪府,1823,N!?,北海道,2796,DOLCE.,韓国,0,,-
+PENDUAL,Line 4 Ruin,0,,-,726,IMOTO*,大阪府,1823,N!?,北海道,2802,DOLCE.,韓国,0,,-
 PENDUAL,IXION,0,,-,1131,YUDEX2,愛知県,1807,GOEMON,神奈川県,2171,DINASO,神奈川県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1170,STEEL*,神奈川県,1602,SIGSIX,韓国,2770,RIOO,富山県,0,,-
 PENDUAL,In The Breeze,0,,-,668,17GO!?,神奈川県,1191,N!?,北海道,1768,1-YEN,神奈川県,0,,-
@@ -856,7 +856,7 @@ PENDUAL,chrono diver -fragment-,0,,-,694,IMOTO*,大阪府,1176,MONO,愛知県,17
 PENDUAL,Chain of pain,0,,-,780,LAYER,千葉県,1563,N!?,北海道,2246,KIKAMO,韓国,0,,-
 PENDUAL,Broken Sword,0,,-,1312,IMOTO*,大阪府,2086,STYU--,神奈川県,3750,KIKAMO,韓国,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1180,N!?,北海道,2113,GIGANT,和歌山県,3143,KIKAMO,韓国,0,,-
-PENDUAL,Blaze it UP!,0,,-,981,1N319N,宮城県,1908,GENO,岡山県,2984,MKM*,東京都,0,,-
+PENDUAL,Blaze it UP!,0,,-,981,1N319N,宮城県,1918,SASAE3,和歌山県,2984,MKM*,東京都,0,,-
 PENDUAL,Beyond The Earth,0,,-,1312,STEEL*,神奈川県,2125,N!?,北海道,3237,MKM*,東京都,0,,-
 PENDUAL,Beat Radiance,0,,-,1004,B-RABI,滋賀県,1646,B-RABI,滋賀県,2647,CHARM,韓国,3598,TAKA.S,大阪府
 PENDUAL,AFRO KNUCKLE,0,,-,978,IMOTO*,大阪府,1810,N!?,北海道,2434,DOLCE.,韓国,0,,-
@@ -915,8 +915,8 @@ copula,La dolce primavera,0,,-,718,17GO!?,神奈川県,1409,MONO,愛知県,2179,
 copula,Konzert V,0,,-,1290,STEEL*,神奈川県,2310,LDL144,愛知県,3381,TNKNOK,北海道,0,,-
 copula,Journey,0,,-,701,T,青森県,1262,MONO,愛知県,1895,PEACE,愛知県,0,,-
 copula,Inner Spirit,0,,-,886,STEEL*,神奈川県,1943,SHINPO,東京都,2881,MKM*,東京都,0,,-
-copula,Highcharge Divolt,0,,-,909,B-RABI,滋賀県,1738,DT-G59,マカオ,2821,DOLCE.,岩手県,0,,-
-copula,Grand Chariot,0,,-,1169,STEEL*,神奈川県,1938,SASAE3,和歌山県,3505,U*TAKA,千葉県,0,,-
+copula,Highcharge Divolt,0,,-,909,B-RABI,滋賀県,1742,SASAE3,和歌山県,2821,DOLCE.,岩手県,0,,-
+copula,Grand Chariot,0,,-,1169,STEEL*,神奈川県,1942,SASAE3,和歌山県,3505,U*TAKA,千葉県,0,,-
 copula,Godspeed,0,,-,1085,IMOTO*,大阪府,1963,PURIN,愛知県,3218,DOLCE.,岩手県,0,,-
 copula,GOBBLE,0,,-,501,STEEL*,神奈川県,733,CARROT,福岡県,1718,DOLCE.,韓国,0,,-
 copula,Go Faraway,0,,-,1037,EZR,埼玉県,1526,N!?,北海道,2505,RKS-32,愛知県,0,,-
@@ -953,7 +953,7 @@ SINOBUZ,津軽雪,0,,-,1563,N!?,北海道,2249,N!?,北海道,3883,KIKAMO,韓国,
 SINOBUZ,次葉 -turn the page-,0,,-,854,IMOTO*,大阪府,1428,B-RABI,滋賀県,2001,CHARM,韓国,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,858,MOGRA3,千葉県,1340,MONO,愛知県,2132,CHARM,韓国,0,,-
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,1024,DICE,東京都,1591,MONO,愛知県,2483,ZUBU,東京都,0,,-
-SINOBUZ,忍恋花,0,,-,1027,B-RABI,滋賀県,1714,B-RABI,滋賀県,2261,PATRA,栃木県,0,,-
+SINOBUZ,忍恋花,0,,-,1027,B-RABI,滋賀県,1714,B-RABI,滋賀県,2261,HERMIT,栃木県,0,,-
 SINOBUZ,刃図羅,0,,-,1246,17GO!?,神奈川県,2119,N!?,北海道,3441,KIKAMO,韓国,0,,-
 SINOBUZ,冬椿 ft. Kanae Asaba,262,*9N2*,神奈川県,962,17GO!?,神奈川県,1263,MONO,愛知県,2284,DOLCE.,韓国,3053,MKM*,東京都
 SINOBUZ,九尾狐夜行,0,,-,871,DICE,東京都,1800,STEEL*,神奈川県,2996,MKM*,東京都,0,,-
@@ -968,7 +968,7 @@ SINOBUZ,Warrior,0,,-,1019,UN-LIM,埼玉県,1811,GREIN,岡山県,2500,RKS-32,愛�
 SINOBUZ,Vermilion,0,,-,911,STEEL*,神奈川県,1388,SHINPO,東京都,2062,DOLCE.,韓国,0,,-
 SINOBUZ,Venom,0,,-,1306,B-RABI,滋賀県,2171,5N,神奈川県,3211,DOLCE.,岩手県,0,,-
 SINOBUZ,Umbral,0,,-,622,STEEL*,神奈川県,1421,GOEMON,神奈川県,1926,DOLCE.,韓国,0,,-
-SINOBUZ,TOGAKUSHI,0,,-,1017,ONLOOK,沖縄県,1925,DT-G59,マカオ,2643,DOLCE.,韓国,0,,-
+SINOBUZ,TOGAKUSHI,0,,-,1019,LAYER,千葉県,1925,DT-G59,マカオ,2643,DOLCE.,韓国,0,,-
 SINOBUZ,The Commanders,0,,-,971,YUDEX2,愛知県,1521,YUDEX2,愛知県,2450,YUI.OR,埼玉県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,570,17GO!?,神奈川県,1246,SASAE3,和歌山県,1916,UNA-10,愛知県,0,,-
 SINOBUZ,Surf on the Light,0,,-,777,1N319N,宮城県,1507,N!?,北海道,2285,CHARM,韓国,0,,-
@@ -1085,7 +1085,7 @@ CANNON BALLERS,LIGHTS ft. EVO+,0,,-,775,STEEL*,神奈川県,1447,SASAE3,和歌�
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1270,STEEL*,神奈川県,1949,SIGSIX,韓国,3501,KIKAMO,韓国,0,,-
 CANNON BALLERS,Let's Bounce !!,0,,-,742,STEEL*,神奈川県,1302,AZARA4,埼玉県,2275,CHARM,韓国,0,,-
 CANNON BALLERS,Initiation,0,,-,1516,N!?,北海道,2513,XAN.7,埼玉県,4007,KIKAMO,韓国,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1323,STEEL*,神奈川県,2260,SASAE3,和歌山県,3574,U*TAKA,千葉県,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1323,STEEL*,神奈川県,2266,SIGSIX,韓国,3574,U*TAKA,千葉県,0,,-
 CANNON BALLERS,I'm Coming (2017 Version),0,,-,646,CARROT,福岡県,1332,MONO,愛知県,2108,PEACE,愛知県,0,,-
 CANNON BALLERS,I Love You,0,,-,1077,17GO!?,神奈川県,1922,N!?,北海道,2746,DOLCE.,岩手県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,1119,DICE,東京都,2037,STEEL*,神奈川県,3036,KIKAMO,韓国,0,,-
@@ -1143,7 +1143,7 @@ Rootage,グラナダの風,0,,-,817,190YEN,大分県,1248,N!?,北海道,1869,CHA
 Rootage,お菓子の王国,0,,-,1435,B-RABI,滋賀県,2324,190YEN,大分県,4116,KIKAMO,韓国,0,,-
 Rootage,Yum Yum Jelly,0,,-,793,STEEL*,神奈川県,1580,AR?.YU,千葉県,2394,DOLCE.,岩手県,0,,-
 Rootage,Xlo,0,,-,1538,N!?,北海道,2514,#MA3#,鳥取県,3885,DOLCE.,岩手県,0,,-
-Rootage,X-DEN,0,,-,1699,N!?,北海道,2766,YUZ.01,韓国,4245,KIKAMO,韓国,0,,-
+Rootage,X-DEN,0,,-,1699,N!?,北海道,2769,CHARM,韓国,4245,KIKAMO,韓国,0,,-
 Rootage,Wonderland,0,,-,1071,1N319N,宮城県,1899,B-RABI,滋賀県,2755,ZANGIF,新潟県,0,,-
 Rootage,Won(*3*)Chu KissMe!,272,YUUNA,岐阜県,942,YUUNA,岐阜県,1415,NOHOHO,東京都,2513,K-CHA*,静岡県,0,,-
 Rootage,Wolf 1061,0,,-,1026,NOHOHO,東京都,1737,N!?,北海道,3141,MKM*,東京都,0,,-
