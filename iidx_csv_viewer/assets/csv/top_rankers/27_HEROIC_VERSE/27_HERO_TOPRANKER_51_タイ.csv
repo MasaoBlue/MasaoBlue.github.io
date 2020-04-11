@@ -36,7 +36,7 @@
 4th style,SWEET LAB,0,,-,236,BIUPO,タイ,0,,-,1246,FISHER,タイ,0,,-
 4th style,starmine,447,H027C,タイ,0,,-,1240,YOUKAI,タイ,1497,SEIKIN,タイ,0,,-
 4th style,Mr.T.(take me higher),0,,-,329,UNCHIN,タイ,679,ENR8,タイ,1616,KKMTC*,タイ,0,,-
-4th style,minimalian,0,,-,0,,-,0,,-,1235,YOUKAI,タイ,0,,-
+4th style,minimalian,0,,-,0,,-,0,,-,1259,ONLY*U,タイ,0,,-
 4th style,LOVE WILL・・・,0,,-,0,,-,0,,-,1391,ME!JI,タイ,0,,-
 4th style,KAMIKAZE,0,,-,0,,-,716,ENR8,タイ,2118,SEIKIN,タイ,0,,-
 4th style,Jam&Marmalade,0,,-,477,ENR8,タイ,569,MAXYV.,タイ,930,ME!JI,タイ,0,,-
@@ -58,7 +58,7 @@
 5th style,THE CUBE,0,,-,0,,-,0,,-,988,MAXYV.,タイ,0,,-
 5th style,sync,0,,-,975,BOYDTR,タイ,1552,BOYDTR,タイ,2316,FISHER,タイ,0,,-
 5th style,still my words,0,,-,0,,-,1069,SDGS,タイ,0,,-,0,,-
-5th style,STILL IN MY HEART,0,,-,443,BEBEQQ,タイ,193,ZEE,タイ,1537,YOD00,タイ,0,,-
+5th style,STILL IN MY HEART,0,,-,443,BEBEQQ,タイ,193,ZEE,タイ,1664,ONLY*U,タイ,0,,-
 5th style,Spin the disc,0,,-,504,FURUKU,タイ,824,YUUGEN,タイ,1188,967,タイ,0,,-
 5th style,RISLIM,0,,-,0,,-,1066,M00PY,タイ,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,0,,-,773,N3,タイ,1556,YOSHIO,タイ,1736,FISHER,タイ
@@ -158,9 +158,9 @@
 9th style,LOVE SHINE,341,SIT,タイ,602,TAQNO,タイ,1654,YOD00,タイ,2023,441.93,タイ,0,,-
 9th style,lights,0,,-,0,,-,0,,-,1697,AYA.K,タイ,0,,-
 9th style,Let The Snow Paint Me -Y&Co. Remix-,0,,-,0,,-,0,,-,1683,MUSHO9,タイ,0,,-
-9th style,Karma,0,,-,891,ENR8,タイ,1491,967,タイ,1434,SDGS,タイ,0,,-
+9th style,Karma,0,,-,891,ENR8,タイ,1491,967,タイ,1606,ERIRI.,タイ,0,,-
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,370,XOP,タイ,947,A,タイ,1276,AXID,タイ,0,,-
-9th style,HYPER EUROBEAT (2DX style),0,,-,0,,-,1492,M00PY,タイ,1601,CG901B,タイ,0,,-
+9th style,HYPER EUROBEAT (2DX style),0,,-,0,,-,1492,M00PY,タイ,1625,25CHIN,タイ,0,,-
 9th style,Golden Horn,0,,-,0,,-,892,SDGS,タイ,1332,ME!JI,タイ,0,,-
 9th style,e-motion 2003  -romantic extra-,0,,-,846,ENR8,タイ,1325,M00PY,タイ,1872,FISHER,タイ,0,,-
 9th style,Distress,0,,-,0,,-,1676,ME!JI,タイ,0,,-,0,,-
@@ -384,7 +384,7 @@ DJ TROOPERS,PARANOiA ～HADES～,0,,-,827,SLP.LS,タイ,1431,441.93,タイ,2535,
 DJ TROOPERS,oratio,0,,-,1017,ENR8,タイ,1586,SDGS,タイ,2829,FISHER,タイ,0,,-
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,750,NNR,タイ,1476,N3,タイ,2018,COSTCO,タイ,0,,-
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,777,ENR8,タイ,2054,MUSHO9,タイ,2284,ME!JI,タイ,0,,-
-DJ TROOPERS,MENDES,0,,-,973,ZEE,タイ,2490,NART!!,タイ,3390,AYA.K,タイ,0,,-
+DJ TROOPERS,MENDES,0,,-,973,ZEE,タイ,2490,NART!!,タイ,3446,AYA.K,タイ,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,997,INOSAN,タイ,2009,YOD00,タイ,2564,INU?,タイ,0,,-
 DJ TROOPERS,madrugada,0,,-,0,,-,1088,TI,タイ,1649,441.93,タイ,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,861,FURUKU,タイ,1736,SLP.LS,タイ,2617,SPIKE!,タイ,0,,-
@@ -471,7 +471,7 @@ SIRIUS,Raison d'etre～交差する宿命～,0,,-,893,SCHAU,タイ,1757,SDGS,タ
 SIRIUS,quell～the seventh slave～,0,,-,0,,-,1590,25CHIN,タイ,3074,AYA.K,タイ,0,,-
 SIRIUS,Programmed Sun,0,,-,618,ENR8,タイ,0,,-,2434,AYA.K,タイ,0,,-
 SIRIUS,NoN-Fiction Story!,0,,-,540,ENR8,タイ,1072,KUMA!$,タイ,2068,IIDX26,タイ,0,,-
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,0,,-,1816,BOYDTR,タイ,2568,T*KORO,タイ,0,,-
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,0,,-,1870,TORATI,タイ,2568,T*KORO,タイ,0,,-
 SIRIUS,mosaic,0,,-,804,SCHAU,タイ,1971,KKMTC*,タイ,2941,FISHER,タイ,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,0,,-,1514,VANITY,タイ,2180,NART!!,タイ,0,,-
 SIRIUS,Light Shine,0,,-,583,ENR8,タイ,902,SCHAU,タイ,1825,441.93,タイ,0,,-
@@ -499,7 +499,7 @@ SIRIUS,being torn the sky,0,,-,547,NOBITA,タイ,1021,ENR8,タイ,1905,SEIKIN,�
 SIRIUS,BEAUTIFUL ANGEL,0,,-,0,,-,1651,M00PY,タイ,2370,FISHER,タイ,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,831,YOKZAR,タイ,1523,YOUKAI,タイ,1835,25CHIN,タイ,0,,-
 SIRIUS,bass 2 bass,278,H027C,タイ,604,JR.P,タイ,1245,FISHER,タイ,1808,NART!!,タイ,0,,-
-SIRIUS,Bad Maniacs,0,,-,843,MK.RRM,タイ,1576,KKMTC*,タイ,3090,AYA.K,タイ,0,,-
+SIRIUS,Bad Maniacs,0,,-,843,MK.RRM,タイ,1576,KKMTC*,タイ,3127,AYA.K,タイ,0,,-
 SIRIUS,Almagest,0,,-,856,ZEE,タイ,1992,MUSHO9,タイ,2972,AYA.K,タイ,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,375,SPOON,タイ,903,FURUKU,タイ,1354,SDGS,タイ,2275,FISHER,タイ,2813,FISHER,タイ
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,567,ENR8,タイ,1828,YOD00,タイ,3171,NART!!,タイ,0,,-
@@ -566,13 +566,13 @@ Lincle,聖人の塔,0,,-,767,PASCAL,タイ,1674,KKMTC*,タイ,2792,FISHER,タイ
 Lincle,突撃!ガラスのニーソ姫!,0,,-,423,MARISA,タイ,1105,BOYDTR,タイ,2017,SPIKE!,タイ,0,,-
 Lincle,恋する☆宇宙戦争っ！！,512,H027C,タイ,748,SAND,タイ,1648,YOD00,タイ,3402,FISHER,タイ,0,,-
 Lincle,子供の落書き帳,0,,-,0,,-,1502,GLD570,タイ,2407,AYA.K,タイ,0,,-
-Lincle,天空の夜明け,0,,-,1093,YOKZAR,タイ,1793,25CHIN,タイ,3808,AYA.K,タイ,0,,-
+Lincle,天空の夜明け,0,,-,1093,YOKZAR,タイ,1793,25CHIN,タイ,3828,AYA.K,タイ,0,,-
 Lincle,君のハートにロックオン,0,,-,570,NOBITA,タイ,1573,25CHIN,タイ,2564,AYA.K,タイ,0,,-
 Lincle,ユミル,0,,-,445,FURUKU,タイ,1240,ZEE,タイ,2737,AYA.K,タイ,0,,-
 Lincle,ビューティフルレシート,339,H027C,タイ,386,SIG,タイ,884,ENR8,タイ,1724,YOD00,タイ,0,,-
 Lincle,Yellow Sunrise,0,,-,0,,-,1269,ZEE,タイ,2181,MUSHO9,タイ,0,,-
 Lincle,yellow head joe,0,,-,579,GUEST,タイ,1257,M00PY,タイ,2220,AYA.K,タイ,0,,-
-Lincle,YAKSHA,0,,-,994,PASCAL,タイ,1756,GLD570,タイ,3693,AYA.K,タイ,0,,-
+Lincle,YAKSHA,0,,-,994,PASCAL,タイ,1969,25CHIN,タイ,3693,AYA.K,タイ,0,,-
 Lincle,WONDER WALKER,0,,-,846,GUEST,タイ,1619,BOYDTR,タイ,3557,AYA.K,タイ,0,,-
 Lincle,Voxane,0,,-,473,PASCAL,タイ,1077,ZEE,タイ,1698,FISHER,タイ,0,,-
 Lincle,Todestrieb,0,,-,1051,BOYDTR,タイ,1764,LF,タイ,3353,AYA.K,タイ,0,,-
@@ -775,7 +775,7 @@ SPADA,BRAVE OUT,0,,-,776,FURUKU,タイ,996,SYE***,タイ,1927,ME!JI,タイ,0,,-
 SPADA,BRAINSTORM,0,,-,541,M,タイ,1828,KKMTC*,タイ,2711,FISHER,タイ,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1281,BOYDTR,タイ,2007,N!7IXG,タイ,3122,FISHER,タイ,0,,-
 SPADA,ATHER,0,,-,561,JR.P,タイ,1437,YOD00,タイ,2772,NART!!,タイ,0,,-
-SPADA,Ancient Scapes,0,,-,0,,-,2016,AYA.K,タイ,3376,AYA.K,タイ,4002,AYA.K,タイ
+SPADA,Ancient Scapes,0,,-,0,,-,2016,AYA.K,タイ,3376,AYA.K,タイ,4058,AYA.K,タイ
 SPADA,ALBA -黎明-,0,,-,502,JA,タイ,1405,967,タイ,3084,AYA.K,タイ,0,,-
 SPADA,Adularia,199,H027C,タイ,529,RAZ,タイ,1575,YOD00,タイ,2777,AYA.K,タイ,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,682,SAND,タイ,1254,V-STOK,タイ,2800,FISHER,タイ,0,,-
@@ -854,7 +854,7 @@ PENDUAL,Chrono Diver -PENDULUMs-,490,0NZK,タイ,1205,SLP.LS,タイ,2669,FISHER,
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,972,BRAVER,タイ,2033,YUZU,タイ,3007,FISHER,タイ,4214,AYA.K,タイ
 PENDUAL,chrono diver -fragment-,0,,-,570,M!SO,タイ,936,MK.RRM,タイ,1766,INU?,タイ,2191,INU?,タイ
 PENDUAL,Chain of pain,0,,-,368,96!?,タイ,1426,M00PY,タイ,1935,IIDX26,タイ,0,,-
-PENDUAL,Broken Sword,0,,-,1063,YOKZAR,タイ,1824,*L4B*,タイ,3574,FISHER,タイ,0,,-
+PENDUAL,Broken Sword,0,,-,1063,YOKZAR,タイ,1824,*L4B*,タイ,3606,AYA.K,タイ,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,1138,AYA.K,タイ,1802,YOD00,タイ,2779,AYA.K,タイ,0,,-
 PENDUAL,Blaze it UP!,0,,-,653,M,タイ,1706,M00PY,タイ,2806,INU?,タイ,0,,-
 PENDUAL,Beyond The Earth,0,,-,855,SCHAU,タイ,1809,N!7IXG,タイ,3087,H027C,タイ,0,,-
@@ -946,7 +946,7 @@ copula,199024club -Re:BounceKiller-,0,,-,442,M,タイ,1551,MUSHO9,タイ,2184,NA
 SINOBUZ,鴉,0,,-,1361,BOYDTR,タイ,2151,NART!!,タイ,2595,NART!!,タイ,0,,-
 SINOBUZ,童話回廊,0,,-,0,,-,1528,25CHIN,タイ,2963,FISHER,タイ,0,,-
 SINOBUZ,禍根,0,,-,576,M,タイ,1188,SDGS,タイ,2460,FISHER,タイ,0,,-
-SINOBUZ,獅子霞麗ノ舞,0,,-,464,TA96O,タイ,0,,-,1608,ME!JI,タイ,0,,-
+SINOBUZ,獅子霞麗ノ舞,0,,-,464,TA96O,タイ,0,,-,1678,SEIKIN,タイ,0,,-
 SINOBUZ,焔極OVERKILL,0,,-,948,PASCAL,タイ,1961,MUSHO9,タイ,3436,AYA.K,タイ,0,,-
 SINOBUZ,火影,0,,-,559,NOBITA,タイ,1257,YAMA*!,タイ,2521,FISHER,タイ,0,,-
 SINOBUZ,津軽雪,0,,-,1489,KKMTC*,タイ,1948,967,タイ,3554,FISHER,タイ,0,,-
