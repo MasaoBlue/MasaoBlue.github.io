@@ -63,7 +63,7 @@
 5th style,RISLIM,0,,-,788,DECIDE,熊本県,1199,IIDX31,熊本県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,790,DECIDE,熊本県,937,DRACUL,熊本県,1647,NARAKA,熊本県,1765,IIDX31,熊本県
 5th style,Regulus,0,,-,722,SAT-CY,熊本県,1347,SKFB,熊本県,1652,P.K.R.,熊本県,0,,-
-5th style,Real,0,,-,0,,-,1159,S*NAGI,熊本県,1785,IIDX31,熊本県,0,,-
+5th style,Real,0,,-,500,SHUN,熊本県,1159,S*NAGI,熊本県,1785,IIDX31,熊本県,0,,-
 5th style,Radical Faith,0,,-,1002,DECIDE,熊本県,1366,DRACUL,熊本県,1206,MOKUME,熊本県,0,,-
 5th style,QQQ,0,,-,1073,DECIDE,熊本県,1632,HIQ,熊本県,2111,P.K.R.,熊本県,0,,-
 5th style,outer wall,0,,-,677,DECIDE,熊本県,1162,HIQ,熊本県,1751,IIDX31,熊本県,0,,-
@@ -75,7 +75,7 @@
 6th style,VJ ARMY,0,,-,1238,UD0NGE,熊本県,1626,UD0NGE,熊本県,2183,IIDX31,熊本県,0,,-
 6th style,Take It Easy,0,,-,1138,DECIDE,熊本県,2182,NJGAIA,熊本県,2505,D.Z.I.,熊本県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,0,,-,1787,P.K.R.,熊本県,0,,-,0,,-
-6th style,SOMETHING WONDERFUL,0,,-,838,GEN,熊本県,1086,GATA,熊本県,1922,P.K.R.,熊本県,0,,-
+6th style,SOMETHING WONDERFUL,0,,-,838,GEN,熊本県,1157,NJGAIA,熊本県,1922,P.K.R.,熊本県,0,,-
 6th style,route 80s,0,,-,412,KALEID,熊本県,0,,-,1503,D.Z.I.,熊本県,0,,-
 6th style,rottel-da-sun,0,,-,655,DECIDE,熊本県,1299,8,熊本県,1797,K.,熊本県,0,,-
 6th style,NEMESIS,0,,-,761,KAZZY.,熊本県,1380,KARIQB,熊本県,1857,BAKUON,熊本県,0,,-
@@ -305,7 +305,7 @@ DistorteD,Harmony and Lovely,0,,-,785,DECIDE,熊本県,1595,HRTHGR,熊本県,221
 DistorteD,Ganymede,0,,-,880,DECIDE,熊本県,1692,BAKUON,熊本県,2260,D.Z.I.,熊本県,0,,-
 DistorteD,EURO-ROMANCE,0,,-,871,DECIDE,熊本県,1661,NJGAIA,熊本県,2081,IIDX31,熊本県,0,,-
 DistorteD,DUE TOMORROW,0,,-,794,RABIT,熊本県,1164,CHECK.,熊本県,1968,IIDX31,熊本県,0,,-
-DistorteD,Double Loving Heart,0,,-,539,DECIDE,熊本県,1152,KURRY,熊本県,1799,D.Z.I.,熊本県,0,,-
+DistorteD,Double Loving Heart,0,,-,539,DECIDE,熊本県,1152,KURRY,熊本県,1803,K.,熊本県,0,,-
 DistorteD,D.C.fish,0,,-,896,DECIDE,熊本県,1586,D-S,熊本県,2315,IIDX31,熊本県,0,,-
 DistorteD,CONTRACT,0,,-,1188,KARIQB,熊本県,1428,NJGAIA,熊本県,2030,BIM,熊本県,2589,SILVER,熊本県
 DistorteD,Concertino in Blue,361,31D,熊本県,788,M.AQUA,熊本県,1520,CHECK.,熊本県,2397,IIDX31,熊本県,0,,-
@@ -344,7 +344,7 @@ GOLD,KAMAITACHI,0,,-,863,KF-,熊本県,1853,KARIQB,熊本県,2656,IIDX31,熊本�
 GOLD,INORI,0,,-,1213,DECIDE,熊本県,2424,M.AQUA,熊本県,3138,IIDX31,熊本県,0,,-
 GOLD,High School Love,396,SILVER,熊本県,806,DECIDE,熊本県,1144,KF-,熊本県,2184,P.K.R.,熊本県,0,,-
 GOLD,heaven above,0,,-,680,DECIDE,熊本県,1290,NJGAIA,熊本県,1824,IIDX31,熊本県,0,,-
-GOLD,GRID KNIGHT,0,,-,428,YOKAZE,熊本県,1758,NJGAIA,熊本県,2509,33KI39,熊本県,3387,IIDX31,熊本県
+GOLD,GRID KNIGHT,0,,-,428,YOKAZE,熊本県,1814,NJGAIA,熊本県,2509,33KI39,熊本県,3387,IIDX31,熊本県
 GOLD,GOLD RUSH,532,HIQ,熊本県,1075,HIQ,熊本県,1346,9RA,熊本県,2331,D.Z.I.,熊本県,0,,-
 GOLD,four-leaf,0,,-,700,DECIDE,熊本県,1016,HIQ,熊本県,1643,NOSKIN,熊本県,0,,-
 GOLD,FIRE FIRE,560,31D,熊本県,1079,DRACUL,熊本県,1821,BAKUON,熊本県,2690,IIDX31,熊本県,0,,-
@@ -399,7 +399,7 @@ DJ TROOPERS,Do it!! Do it!!,0,,-,993,SILVER,熊本県,1331,HRTHGR,熊本県,1888
 DJ TROOPERS,Digitank System,0,,-,800,9RA,熊本県,1502,KARIQB,熊本県,2066,IIDX31,熊本県,0,,-
 DJ TROOPERS,Dazzlin' Darlin,341,31D,熊本県,824,DECIDE,熊本県,1330,HRTHGR,熊本県,2223,IIDX31,熊本県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,631,DECIDE,熊本県,666,KF-,熊本県,1365,IIDX31,熊本県,0,,-
-DJ TROOPERS,Blue Rain,344,31D,熊本県,893,KF-,熊本県,1440,M.AQUA,熊本県,2229,IIDX31,熊本県,3216,PET4KI,熊本県
+DJ TROOPERS,Blue Rain,344,31D,熊本県,912,XILENT,熊本県,1440,M.AQUA,熊本県,2229,IIDX31,熊本県,3216,PET4KI,熊本県
 DJ TROOPERS,beatonic nation,0,,-,1147,DECIDE,熊本県,1748,8,熊本県,2149,IIDX31,熊本県,0,,-
 DJ TROOPERS,Be OK,0,,-,935,31D,熊本県,1426,EHA,熊本県,2375,BAKUON,熊本県,3246,IIDX31,熊本県
 DJ TROOPERS,avant-guerre,0,,-,690,K.K,熊本県,1138,HIQ,熊本県,1829,KARIQB,熊本県,0,,-
@@ -474,7 +474,7 @@ SIRIUS,NoN-Fiction Story!,0,,-,695,RABIT,熊本県,1287,DRACUL,熊本県,2165,TA
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1225,31D,熊本県,1932,NJGAIA,熊本県,2625,IIDX31,熊本県,0,,-
 SIRIUS,mosaic,0,,-,1456,8,熊本県,2031,D.Z.I.,熊本県,2979,IIDX31,熊本県,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,921,RABIT,熊本県,1518,KARIQB,熊本県,2186,D.Z.I.,熊本県,0,,-
-SIRIUS,Light Shine,0,,-,807,31D,熊本県,911,S*NAGI,熊本県,1945,IIDX31,熊本県,0,,-
+SIRIUS,Light Shine,0,,-,807,31D,熊本県,916,KURRY,熊本県,1945,IIDX31,熊本県,0,,-
 SIRIUS,Last Burning,0,,-,842,RABIT,熊本県,1386,HIQ,熊本県,2355,IIDX31,熊本県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,983,RABIT,熊本県,1554,KARIQB,熊本県,1826,YM,熊本県,0,,-
 SIRIUS,IN THE NAME OF LOVE,521,SILVER,熊本県,710,RABIT,熊本県,905,KF-,熊本県,1903,BAKUON,熊本県,0,,-
@@ -537,10 +537,10 @@ Resort Anthem,Never Fade Away,0,,-,748,DECIDE,熊本県,1198,KF-,熊本県,2953,
 Resort Anthem,Mermaid girl,577,SILVER,熊本県,944,RABIT,熊本県,1642,69MANK,熊本県,2213,IIDX31,熊本県,0,,-
 Resort Anthem,Medicine of love,0,,-,621,DECIDE,熊本県,961,KF-,熊本県,1721,BAKUON,熊本県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,1041,RABIT,熊本県,1636,KARIQB,熊本県,2593,IIDX31,熊本県,0,,-
-Resort Anthem,Kailua,0,,-,518,DECIDE,熊本県,1182,DRACUL,熊本県,2134,IIDX31,熊本県,0,,-
+Resort Anthem,Kailua,0,,-,518,DECIDE,熊本県,1235,NJGAIA,熊本県,2134,IIDX31,熊本県,0,,-
 Resort Anthem,I FIGHT ME,0,,-,584,DECIDE,熊本県,1198,KURRY,熊本県,2125,IIDX31,熊本県,0,,-
 Resort Anthem,Golden Palms,0,,-,714,RABIT,熊本県,1252,E,熊本県,1905,GALA,熊本県,2345,IIDX31,熊本県
-Resort Anthem,Fantasia,239,31D,熊本県,375,DECIDE,熊本県,1386,KURRY,熊本県,2222,Z.N.D.,熊本県,0,,-
+Resort Anthem,Fantasia,239,31D,熊本県,375,DECIDE,熊本県,1518,NJGAIA,熊本県,2222,Z.N.D.,熊本県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,834,RABIT,熊本県,1210,N-PLUS,熊本県,1851,BAKUON,熊本県,0,,-
 Resort Anthem,Eternal Tears,0,,-,408,DECIDE,熊本県,1018,HARU,熊本県,1365,P.K.R.,熊本県,0,,-
 Resort Anthem,Energy Drive,0,,-,832,RABIT,熊本県,1296,NJGAIA,熊本県,2174,IIDX31,熊本県,0,,-
@@ -628,7 +628,7 @@ tricoro,音楽,0,,-,791,RABIT,熊本県,1932,KARIQB,熊本県,2664,BAKUON,熊本
 tricoro,狂イ咲ケ焔ノ華,0,,-,1179,RABIT,熊本県,2332,DARU46,熊本県,3526,D.Z.I.,熊本県,0,,-
 tricoro,梅雪夜,0,,-,847,RABIT,熊本県,1378,NJGAIA,熊本県,2119,BIM,熊本県,0,,-
 tricoro,朧,205,31D,熊本県,754,K.K,熊本県,1413,-3824-,熊本県,2102,IIDX31,熊本県,2515,IIDX31,熊本県
-tricoro,即席！脳直★ミュージックシステム,0,,-,986,RABIT,熊本県,1710,CHECK.,熊本県,3385,BAKUON,熊本県,0,,-
+tricoro,即席！脳直★ミュージックシステム,0,,-,986,RABIT,熊本県,1823,NJGAIA,熊本県,3385,BAKUON,熊本県,0,,-
 tricoro,創世ノート,0,,-,809,RABIT,熊本県,1648,KARIQB,熊本県,2716,NOM,熊本県,0,,-
 tricoro,仮想空間の旅人たち,0,,-,1130,RABIT,熊本県,2173,8,熊本県,2855,IIDX31,熊本県,3752,IIDX31,熊本県
 tricoro,下弦の月,0,,-,931,RABIT,熊本県,1181,DDLC!,熊本県,1970,D.Z.I.,熊本県,0,,-
@@ -825,7 +825,7 @@ PENDUAL,"Rave*it!! Rave*it!! ",0,,-,927,9RA,熊本県,1662,KARIQB,熊本県,3226
 PENDUAL,PENDUAL TALISMAN,0,,-,1005,RABIT,熊本県,1483,GEN,熊本県,2569,D.Z.I.,熊本県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,884,RABIT,熊本県,965,KF-,熊本県,1977,D.Z.I.,熊本県,0,,-
 PENDUAL,No Tears,0,,-,1183,31D,熊本県,1887,31D,熊本県,2499,D.Z.I.,熊本県,0,,-
-PENDUAL,Night sky,0,,-,1108,RABIT,熊本県,1555,E,熊本県,2861,IIDX31,熊本県,0,,-
+PENDUAL,Night sky,0,,-,1108,RABIT,熊本県,1611,DRACUL,熊本県,2861,IIDX31,熊本県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,884,HELDIN,熊本県,1835,ARCUS2,熊本県,3137,IIDX31,熊本県,0,,-
 PENDUAL,Monopole.,0,,-,713,DECIDE,熊本県,1599,KARIQB,熊本県,3114,BAKUON,熊本県,0,,-
 PENDUAL,m1dy Festival,0,,-,963,RABIT,熊本県,1289,SINSIN,熊本県,2352,D.Z.I.,熊本県,0,,-

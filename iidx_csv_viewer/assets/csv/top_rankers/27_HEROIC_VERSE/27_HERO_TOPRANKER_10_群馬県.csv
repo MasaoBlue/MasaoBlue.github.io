@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,710,STELLA,群馬県,1033,BEERKZ,群馬県,1136,BEERKZ,群馬県,0,,-
-1st&substream,RUGGED ASH,0,,-,322,IV,群馬県,270,666,群馬県,1069,BEERKZ,群馬県,1964,NEKOZE,群馬県
+1st&substream,RUGGED ASH,0,,-,322,IV,群馬県,368,FELDT.,群馬県,1069,BEERKZ,群馬県,1964,NEKOZE,群馬県
 1st&substream,R3,0,,-,597,STELLA,群馬県,709,ZI,群馬県,895,NEKOZE,群馬県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,472,CHARME,群馬県,708,STELLA,群馬県,1094,AAAAAA,群馬県,0,,-
 1st&substream,Macho Gang,0,,-,324,DON,群馬県,791,LATROM,群馬県,1599,GEKCO,群馬県,0,,-
@@ -54,7 +54,7 @@
 4th style,ABSOLUTE,0,,-,1089,KARORU,群馬県,1619,463,群馬県,2354,LARK,群馬県,2649,SYNCH,群馬県
 4th style,250bpm,0,,-,577,HIRORO,群馬県,728,MIKE,群馬県,1381,GEKCO,群馬県,0,,-
 5th style,V,346,$EVAN$,群馬県,1194,SUGURI,群馬県,2384,R3S0N4,群馬県,2997,G*,群馬県,0,,-
-5th style,THE SHINING POLARIS,0,,-,740,Z380RS,群馬県,854,ALIYS,群馬県,1562,BEERKZ,群馬県,0,,-
+5th style,THE SHINING POLARIS,0,,-,740,Z380RS,群馬県,854,ALIYS,群馬県,1569,NEKOZE,群馬県,0,,-
 5th style,THE CUBE,0,,-,724,B-1824,群馬県,1202,COG,群馬県,1330,GEKCO,群馬県,0,,-
 5th style,sync,0,,-,1054,7&MM!3,群馬県,1753,LUNK,群馬県,2363,BEERKZ,群馬県,0,,-
 5th style,still my words,0,,-,506,YOUKA,群馬県,1223,SYNCH,群馬県,0,,-,0,,-
@@ -405,7 +405,7 @@ DJ TROOPERS,Be OK,0,,-,858,HIRORO,群馬県,1511,KONET*,群馬県,2383,G*,群馬
 DJ TROOPERS,avant-guerre,0,,-,665,HIRORO,群馬県,1337,BEERKZ,群馬県,1888,LARK,群馬県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1238,B-1824,群馬県,2061,ZUZULI,群馬県,2859,G*,群馬県,0,,-
 DJ TROOPERS,2 tribe 4 K,0,,-,808,STELLA,群馬県,1255,148,群馬県,2688,GEKCO,群馬県,0,,-
-EMPRESS,鉄甲乙女-under the steel-,0,,-,755,TYPHUS,群馬県,1323,KARORU,群馬県,2166,BEERKZ,群馬県,0,,-
+EMPRESS,鉄甲乙女-under the steel-,0,,-,848,PENGIN,群馬県,1323,KARORU,群馬県,2166,BEERKZ,群馬県,0,,-
 EMPRESS,翼,0,,-,768,Z380RS,群馬県,1475,AG,群馬県,1964,BEERKZ,群馬県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,344,KAMIHA,群馬県,1020,H-M,群馬県,2031,BEERKZ,群馬県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,881,HIRORO,群馬県,2011,DEBUKI,群馬県,2599,G*,群馬県,0,,-
@@ -416,7 +416,7 @@ EMPRESS,ミッドナイト堕天使,0,,-,825,92SATO,群馬県,1528,148,群馬県
 EMPRESS,ハリツヤランデヴー,0,,-,925,148,群馬県,2060,SHISHI,群馬県,2455,SYNCH,群馬県,0,,-
 EMPRESS,まほろば,0,,-,722,HIRORO,群馬県,1183,RYURYU,群馬県,2011,GEKCO,群馬県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1068,RIIDA,群馬県,1686,DADDY,群馬県,2449,BEERKZ,群馬県,0,,-
-EMPRESS,Y&Co. is dead or alive,0,,-,943,DRA.,群馬県,1611,SHISHI,群馬県,2634,SYNCH,群馬県,0,,-
+EMPRESS,Y&Co. is dead or alive,0,,-,943,DRA.,群馬県,1659,7&MM!3,群馬県,2634,SYNCH,群馬県,0,,-
 EMPRESS,V2,795,B-1824,群馬県,1404,HELL,群馬県,2987,7&MM!3,群馬県,3537,G*,群馬県,0,,-
 EMPRESS,Turii ～Panta rhei～,371,.HIFU3,群馬県,822,HIRORO,群馬県,1808,R2R,群馬県,2659,LARK,群馬県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,719,Z380RS,群馬県,1504,ARIKA,群馬県,2083,SYNCH,群馬県,2864,3TOTIN,群馬県
@@ -438,7 +438,7 @@ EMPRESS,I'm Screaming LOVE,0,,-,560,RYUK,群馬県,1132,RYUK,群馬県,1690,LARK
 EMPRESS,HYPERION,0,,-,817,JAZY-3,群馬県,1949,B-1824,群馬県,2714,NEKOZE,群馬県,0,,-
 EMPRESS,Go Beyond!!,550,B-1824,群馬県,1021,HELL,群馬県,1629,TUONE*,群馬県,2244,G*,群馬県,0,,-
 EMPRESS,Fly Above,0,,-,901,PU-SAN,群馬県,1576,TANU3,群馬県,2029,G*,群馬県,0,,-
-EMPRESS,Flash Back 90's,0,,-,751,GARURU,群馬県,1535,REMU,群馬県,2336,G*,群馬県,0,,-
+EMPRESS,Flash Back 90's,0,,-,751,GARURU,群馬県,1557,YOU.,群馬県,2336,G*,群馬県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,1037,-Z-,群馬県,1752,HIKIKO,群馬県,2540,G*,群馬県,0,,-
 EMPRESS,Colorful Cookie,671,.HIFU3,群馬県,1125,GRAN,群馬県,2236,.HIFU3,群馬県,3511,G*,群馬県,0,,-
 EMPRESS,CaptivAte2～覚醒～,246,B-1824,群馬県,916,RIDDEN,群馬県,1666,TAQAN,群馬県,2355,3TOTIN,群馬県,0,,-
@@ -458,7 +458,7 @@ SIRIUS,サヨナラ・ヘヴン,372,RINNE*,群馬県,842,RYUK,群馬県,1344,B-1
 SIRIUS,コスモス,0,,-,905,COG,群馬県,1426,S0R1N,群馬県,2082,LARK,群馬県,0,,-
 SIRIUS,たからもの,0,,-,1263,B-1824,群馬県,1802,RMYEE!,群馬県,2230,Z-1004,群馬県,0,,-
 SIRIUS,かずあそび,0,,-,375,AKINA,群馬県,998,RIMLIA,群馬県,1682,AAAAAA,群馬県,0,,-
-SIRIUS,The Story Begins,0,,-,467,YOUKA,群馬県,1444,MIKE,群馬県,2417,LARK,群馬県,0,,-
+SIRIUS,The Story Begins,0,,-,843,B-1824,群馬県,1444,MIKE,群馬県,2417,LARK,群馬県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1233,HIRORO,群馬県,1879,7&MM!3,群馬県,2590,GEKCO,群馬県,0,,-
 SIRIUS,Special One,0,,-,755,92SATO,群馬県,1156,-Z-,群馬県,1757,NEKOZE,群馬県,0,,-
 SIRIUS,Sorrows,0,,-,799,B-1824,群馬県,1624,TANU3,群馬県,2454,DNA200,群馬県,0,,-
@@ -527,7 +527,7 @@ Resort Anthem,Session 9 -Chronicles-,0,,-,698,HIRORO,群馬県,2025,VIVIT,群馬
 Resort Anthem,sakura storm,0,,-,1038,KOUME,群馬県,1241,*TAMA*,群馬県,2399,G*,群馬県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,460,HIRORO,群馬県,1598,GRAN,群馬県,2350,GEKCO,群馬県,0,,-
 Resort Anthem,SABER WING,0,,-,496,SITIMI,群馬県,1805,.HIFU3,群馬県,2766,BEERKZ,群馬県,0,,-
-Resort Anthem,Rock Da House,0,,-,782,Z380RS,群馬県,1424,N410L1,群馬県,2201,NEKOZE,群馬県,0,,-
+Resort Anthem,Rock Da House,0,,-,797,92SATO,群馬県,1424,N410L1,群馬県,2201,NEKOZE,群馬県,0,,-
 Resort Anthem,reunion,556,.HIFU3,群馬県,1331,HELL,群馬県,2347,RCHE,群馬県,3240,G*,群馬県,0,,-
 Resort Anthem,Programmed Life,0,,-,1082,B-1824,群馬県,1703,DJDJ,群馬県,2339,NEKOZE,群馬県,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1054,HIRORO,群馬県,2271,7&MM!3,群馬県,3831,G*,群馬県,0,,-
@@ -550,7 +550,7 @@ Resort Anthem,Destiny Sword,0,,-,786,HIRORO,群馬県,1691,AG,群馬県,2355,LAR
 Resort Anthem,DAYDREAMER,0,,-,1028,YUMA,群馬県,1719,HA6KE2,群馬県,2510,LARK,群馬県,0,,-
 Resort Anthem,Dances with Snow Fairies,0,,-,1413,B-1824,群馬県,2154,.HIFU3,群馬県,3116,G*,群馬県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,863,Z380RS,群馬県,1621,ZENI2,群馬県,2293,NEKOZE,群馬県,0,,-
-Resort Anthem,Broken,0,,-,1051,$EVAN$,群馬県,2019,BGI#19,群馬県,3153,G*,群馬県,0,,-
+Resort Anthem,Broken,0,,-,1055,B-1824,群馬県,2019,BGI#19,群馬県,3153,G*,群馬県,0,,-
 Resort Anthem,Breaking the ground,0,,-,1043,KARORU,群馬県,1719,XYZ,群馬県,2519,G*,群馬県,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,921,H-M,群馬県,1674,.HIFU3,群馬県,2365,SYNCH,群馬県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,804,7&MM!3,群馬県,1489,H-BOMB,群馬県,2101,BEERKZ,群馬県,0,,-
@@ -576,7 +576,7 @@ Lincle,YAKSHA,0,,-,1057,Z380RS,群馬県,1953,EXCH,群馬県,3753,DNA200,群馬�
 Lincle,WONDER WALKER,0,,-,967,COG,群馬県,1790,FLG.,群馬県,3793,G*,群馬県,0,,-
 Lincle,Voxane,0,,-,612,COG,群馬県,1147,7&MM!3,群馬県,1723,BEERKZ,群馬県,0,,-
 Lincle,Todestrieb,0,,-,1005,RYUK,群馬県,1901,XJAPAN,群馬県,3370,3TOTIN,群馬県,0,,-
-Lincle,TITANS RETURN,323,.HIFU3,群馬県,613,LMN,群馬県,1280,A,群馬県,2346,SYNCH,群馬県,2548,G*,群馬県
+Lincle,TITANS RETURN,323,.HIFU3,群馬県,613,LMN,群馬県,1326,YOU.,群馬県,2346,SYNCH,群馬県,2548,G*,群馬県
 Lincle,Thunderbolt,0,,-,1019,B-1824,群馬県,1796,7&MM!3,群馬県,3744,G*,群馬県,0,,-
 Lincle,The Sampling Paradise,0,,-,850,COG,群馬県,1720,-Z-,群馬県,3001,G*,群馬県,0,,-
 Lincle,The Limbo,0,,-,1180,B-1824,群馬県,1919,ARUS,群馬県,3316,G*,群馬県,0,,-
@@ -619,7 +619,7 @@ Lincle,Change the World,0,,-,814,COG,群馬県,1185,JEWEL,群馬県,1831,SYNCH,�
 Lincle,Castle on the Moon,239,$EVAN$,群馬県,603,RYUK,群馬県,1572,TAQAN,群馬県,2337,ZI,群馬県,0,,-
 Lincle,CALL,0,,-,350,7&MM!3,群馬県,745,G*NOIR,群馬県,1449,BEERKZ,群馬県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,1010,SIREN3,群馬県,2088,B-1824,群馬県,3296,G*,群馬県,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,874,294O,群馬県,1571,TUONE*,群馬県,2461,BEERKZ,群馬県,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,898,B-1824,群馬県,1571,TUONE*,群馬県,2461,BEERKZ,群馬県,0,,-
 Lincle,Almace,0,,-,840,7&MM!3,群馬県,1252,RONSO.,群馬県,1977,NEKOZE,群馬県,0,,-
 Lincle,532nm,0,,-,517,PENGIN,群馬県,1176,B-1824,群馬県,2649,G*,群馬県,0,,-
 Lincle,24th Century BOY,0,,-,787,Z380RS,群馬県,1870,7&MM!3,群馬県,2807,LARK,群馬県,0,,-
@@ -815,7 +815,7 @@ PENDUAL,SpaceLand☆TOYBOX,0,,-,1028,HIRORO,群馬県,1622,DJDJ,群馬県,2951,G
 PENDUAL,"Sounds Of Summer ",0,,-,1123,KARORU,群馬県,1985,B-1824,群馬県,2978,G*,群馬県,0,,-
 PENDUAL,Shooting Fireball,0,,-,936,LMN,群馬県,2213,DG-TAL,群馬県,3903,G*,群馬県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,860,B-1824,群馬県,1684,B-1824,群馬県,2810,SYNCH,群馬県,0,,-
-PENDUAL,Scarlet Moon,0,,-,968,RYUK,群馬県,1783,R3S0N4,群馬県,2669,DBZ,群馬県,0,,-
+PENDUAL,Scarlet Moon,0,,-,968,RYUK,群馬県,1783,R3S0N4,群馬県,2677,3TOTIN,群馬県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1039,STELLA,群馬県,1760,7&MM!3,群馬県,3156,3TOTIN,群馬県,0,,-
 PENDUAL,SAMSARA,0,,-,848,COG,群馬県,1356,AG,群馬県,2030,......,群馬県,0,,-
 PENDUAL,Sakura Mirage,0,,-,896,HIRORO,群馬県,1217,148,群馬県,2295,XAN.H,群馬県,0,,-
@@ -825,7 +825,7 @@ PENDUAL,"Rave*it!! Rave*it!! ",0,,-,927,RYUK,群馬県,1678,XAN.H,群馬県,3222
 PENDUAL,PENDUAL TALISMAN,0,,-,1009,7&MM!3,群馬県,1507,A-U-,群馬県,2540,TAKA-P,群馬県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,910,COG,群馬県,1245,AG,群馬県,1968,NEKOZE,群馬県,0,,-
 PENDUAL,No Tears,0,,-,1054,HIRORO,群馬県,2026,7&MM!3,群馬県,2490,DBZ,群馬県,0,,-
-PENDUAL,Night sky,0,,-,983,L4LA.,群馬県,1840,7&MM!3,群馬県,2908,G*,群馬県,0,,-
+PENDUAL,Night sky,0,,-,1097,HIRORO,群馬県,1840,7&MM!3,群馬県,2908,G*,群馬県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,681,LEE,群馬県,1832,GRAN,群馬県,3289,G*,群馬県,0,,-
 PENDUAL,Monopole.,0,,-,604,FUDEN,群馬県,1619,B-1824,群馬県,3303,G*,群馬県,0,,-
 PENDUAL,m1dy Festival,0,,-,871,HIRORO,群馬県,1607,NO.IZE,群馬県,2323,SYNCH,群馬県,0,,-
@@ -886,7 +886,7 @@ copula,Violet Rose,0,,-,1020,JUSTIN,群馬県,1837,DJDJ,群馬県,2536,GEKCO,群
 copula,Violet Pulse,0,,-,419,7&MM!3,群馬県,1505,RONSO.,群馬県,2410,NEKOZE,群馬県,0,,-
 copula,Uh-Oh,0,,-,1108,COG,群馬県,1666,GRAN,群馬県,2393,G*,群馬県,0,,-
 copula,Triple Counter,0,,-,1403,B-1824,群馬県,2179,B-1824,群馬県,3837,DNA200,群馬県,0,,-
-copula,Tori-no-kimochi,0,,-,261,$EVAN$,群馬県,1282,B-1824,群馬県,1964,Z-1004,群馬県,0,,-
+copula,Tori-no-kimochi,0,,-,263,B-1824,群馬県,1282,B-1824,群馬県,1964,Z-1004,群馬県,0,,-
 copula,SURVIVOR,0,,-,668,NECO,群馬県,1101,JEWEL,群馬県,1999,GEKCO,群馬県,0,,-
 copula,Super Duper Racers,0,,-,797,NECO,群馬県,1519,AG,群馬県,2311,GEKCO,群馬県,0,,-
 copula,StrayedCatz,0,,-,992,7&MM!3,群馬県,1898,XAN.H,群馬県,2720,3TOTIN,群馬県,0,,-
@@ -979,7 +979,7 @@ SINOBUZ,Snakey Kung-fu,0,,-,1073,RONSO.,群馬県,2038,TUBAKI,群馬県,3420,G*,
 SINOBUZ,Sky High,441,B-1824,群馬県,1176,B-1824,群馬県,2233,B-1824,群馬県,3779,G*,群馬県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,1003,B-1824,群馬県,1605,AG,群馬県,2401,Z-1004,群馬県,0,,-
 SINOBUZ,shuriken,0,,-,749,HIRORO,群馬県,1057,STELLA,群馬県,2505,NEKOZE,群馬県,0,,-
-SINOBUZ,Shoot'Em All,0,,-,802,B-1824,群馬県,1439,B-1824,群馬県,2425,DBZ,群馬県,0,,-
+SINOBUZ,Shoot'Em All,0,,-,802,B-1824,群馬県,1454,B-1824,群馬県,2425,DBZ,群馬県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,980,92SATO,群馬県,2062,7RUMEA,群馬県,2853,G*,群馬県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,548,HAKAHO,群馬県,756,NYARLA,群馬県,1692,Z-1004,群馬県,0,,-
 SINOBUZ,Seize the Day,0,,-,695,92SATO,群馬県,1271,TUBAKI,群馬県,2166,G*,群馬県,0,,-
@@ -1233,7 +1233,7 @@ HEROIC VERSE,ガヴリールドロップキック,410,RINNE*,群馬県,779,B-182
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,911,B-MAN*,群馬県,1556,B-MAN*,群馬県,2444,B-MAN*,群馬県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1081,B-1824,群馬県,1796,XAN.H,群馬県,2930,NEKOZE,群馬県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,776,B-1824,群馬県,1486,-,群馬県,2168,SYNCH,群馬県,0,,-
-HEROIC VERSE,VIBRΛ,0,,-,929,.HIFU3,群馬県,1308,B-1824,群馬県,1857,G*,群馬県,0,,-
+HEROIC VERSE,VIBRΛ,0,,-,934,B-1824,群馬県,1308,B-1824,群馬県,1857,G*,群馬県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,467,.HIFU3,群馬県,1043,B-MAN*,群馬県,1751,TAKA-P,群馬県,2712,DNA200,群馬県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1490,B-1824,群馬県,2555,XAN.H,群馬県,3276,NEKOZE,群馬県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,935,B-1824,群馬県,1975,XAN.H,群馬県,3345,G*,群馬県,0,,-
@@ -1251,7 +1251,7 @@ HEROIC VERSE,Rave Patroller,0,,-,1372,B-MAN*,群馬県,2315,B-MAN*,群馬県,335
 HEROIC VERSE,Rave lithosphere,0,,-,1095,B-MAN*,群馬県,1754,XAN.H,群馬県,2604,NEKOZE,群馬県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,992,B-1824,群馬県,1548,RINNE*,群馬県,2252,NEKOZE,群馬県,0,,-
 HEROIC VERSE,Queen Kaguya,0,,-,974,-,群馬県,1863,XAN.H,群馬県,2554,DNA200,群馬県,0,,-
-HEROIC VERSE,Primitive Vibes,0,,-,1153,B-1824,群馬県,1995,G*,群馬県,3087,G*,群馬県,0,,-
+HEROIC VERSE,Primitive Vibes,0,,-,1155,B-1824,群馬県,1995,G*,群馬県,3087,G*,群馬県,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),330,.HIFU3,群馬県,537,B-1824,群馬県,1299,TAKA-P,群馬県,2123,GEKCO,群馬県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1257,.HIFU3,群馬県,1723,B-MAN*,群馬県,2847,G*,群馬県,0,,-
 HEROIC VERSE,Override,0,,-,946,.HIFU3,群馬県,1610,B-MAN*,群馬県,2898,G*,群馬県,0,,-
