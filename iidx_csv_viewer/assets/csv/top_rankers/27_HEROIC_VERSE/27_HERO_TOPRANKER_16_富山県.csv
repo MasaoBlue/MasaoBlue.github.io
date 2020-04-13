@@ -20,7 +20,7 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,754,TOSAGI,富山県,0,,-,1022,BEXTER,富山県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,729,EIKRA7,富山県,920,KURE,富山県,1081,BEXTER,富山県,0,,-
 2nd style,.59,0,,-,663,ABESHI,富山県,835,SUPIPI,富山県,1085,PALACE,富山県,0,,-
-3rd style,THE SAFARI,366,EIKRA7,富山県,942,DEATH!,富山県,1690,BEXTER,富山県,0,,-,0,,-
+3rd style,THE SAFARI,366,EIKRA7,富山県,1132,ABESHI,富山県,1690,BEXTER,富山県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,282,EIKRA7,富山県,396,EIKRA7,富山県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,700,TAKOST,富山県,809,SAZ,富山県,1206,BEXTER,富山県,0,,-
 3rd style,Schlagwerk,0,,-,805,EIKRA7,富山県,1124,DEATH!,富山県,1665,*IR-AI,富山県,0,,-
@@ -278,7 +278,7 @@ HAPPY SKY,alla turca con passione,0,,-,714,YAMA,富山県,1463,NOPPO?,富山県,
 HAPPY SKY,Agnus Dei,0,,-,793,YAMA,富山県,1521,OYATSU,富山県,1978,BEXTER,富山県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,933,EIKRA7,富山県,1478,NYAN,富山県,1751,RIOO,富山県,0,,-
 DistorteD,虹色,0,,-,964,EIKRA7,富山県,1497,K.,富山県,1830,OKAYU,富山県,0,,-
-DistorteD,華蝶風雪,0,,-,1151,0QIE6,富山県,1981,NOPPO?,富山県,2895,*IR-AI,富山県,0,,-
+DistorteD,華蝶風雪,0,,-,1151,AQUI06,富山県,1981,NOPPO?,富山県,2895,*IR-AI,富山県,0,,-
 DistorteD,罠,0,,-,532,YAMA,富山県,1375,CAL,富山県,2445,BEXTER,富山県,0,,-
 DistorteD,嘆きの樹,0,,-,1665,Y.HIKI,富山県,2410,SAK!-S,富山県,3900,RIOO,富山県,0,,-
 DistorteD,タシカナモノ,0,,-,883,WANI,富山県,1074,RYUKEN,富山県,1997,OKAYU,富山県,0,,-
@@ -458,7 +458,7 @@ SIRIUS,サヨナラ・ヘヴン,377,EIKRA7,富山県,927,EIKRA7,富山県,1168,D
 SIRIUS,コスモス,0,,-,616,OAO,富山県,1433,AXEL.,富山県,2067,BEXTER,富山県,0,,-
 SIRIUS,たからもの,0,,-,1178,DEATH!,富山県,1710,AN-BM-,富山県,2213,*IR-AI,富山県,0,,-
 SIRIUS,かずあそび,0,,-,472,Y.HIKI,富山県,1043,TATSU,富山県,1657,BEXTER,富山県,0,,-
-SIRIUS,The Story Begins,0,,-,745,YAMA,富山県,1428,AN-BM-,富山県,2343,OKAYU,富山県,0,,-
+SIRIUS,The Story Begins,0,,-,745,YAMA,富山県,1586,-NYAO-,富山県,2343,OKAYU,富山県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1197,DEATH!,富山県,1786,LAGEAS,富山県,2453,KA,富山県,0,,-
 SIRIUS,Special One,0,,-,709,OOPS!!,富山県,949,YANTYA,富山県,1729,OKAYU,富山県,0,,-
 SIRIUS,Sorrows,0,,-,794,EIKRA7,富山県,1644,TOSAGI,富山県,2440,OKAYU,富山県,0,,-
@@ -518,7 +518,7 @@ Resort Anthem,Vermillion,0,,-,416,ARKITP,富山県,950,IRIEL,富山県,1959,BEXT
 Resort Anthem,Tropical April,0,,-,1422,AN-BM-,富山県,2143,D,富山県,2657,OKAYU,富山県,0,,-
 Resort Anthem,THE FALLEN,0,,-,631,ARKITP,富山県,1210,IRIEL,富山県,2650,OKAYU,富山県,0,,-
 Resort Anthem,THE DOOR INTO RAINBOW,0,,-,539,NAVI19,富山県,1629,YUNO*,富山県,2150,RIOO,富山県,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,856,DEATH!,富山県,1942,YUNO*,富山県,2724,OKAYU,富山県,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,856,DEATH!,富山県,1942,YUNO*,富山県,2826,RISHA.,富山県,0,,-
 Resort Anthem,STELLAR WIND,386,EIKRA7,富山県,488,MACHA,富山県,1386,POO,富山県,2565,AXEL.,富山県,0,,-
 Resort Anthem,Stay my side,0,,-,498,HIRO,富山県,999,AN-BM-,富山県,1329,OKAYU,富山県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,665,YAMA,富山県,1324,IRIEL,富山県,2796,AXEL.,富山県,0,,-
@@ -542,15 +542,15 @@ Resort Anthem,I FIGHT ME,0,,-,564,YAMA,富山県,1284,Y.HIKI,富山県,2106,SENJ
 Resort Anthem,Golden Palms,0,,-,722,AN-BM-,富山県,1170,DEATH!,富山県,1942,K.,富山県,2405,RIOO,富山県
 Resort Anthem,Fantasia,244,EIKRA7,富山県,402,EIKRA7,富山県,1552,EIKRA7,富山県,2206,BEXTER,富山県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,788,YAMA,富山県,1261,LIME,富山県,1850,RISHA.,富山県,0,,-
-Resort Anthem,Eternal Tears,0,,-,444,EIKRA7,富山県,989,DEATH!,富山県,1342,KA,富山県,0,,-
+Resort Anthem,Eternal Tears,0,,-,444,EIKRA7,富山県,1004,YAMA,富山県,1342,KA,富山県,0,,-
 Resort Anthem,Energy Drive,0,,-,716,IETORA,富山県,1417,YUNO*,富山県,2125,OKAYU,富山県,0,,-
 Resort Anthem,ELECTRIC MASSIVE DIVER,0,,-,1113,DEATH!,富山県,2352,LIME,富山県,3510,REVIUS,富山県,0,,-
 Resort Anthem,DM STAR～関西 energy style～,0,,-,979,YAMA,富山県,1823,AXEL.,富山県,2360,RISHA.,富山県,0,,-
 Resort Anthem,Destiny Sword,0,,-,799,DEATH!,富山県,1534,SAK!-S,富山県,2408,RIOO,富山県,0,,-
 Resort Anthem,DAYDREAMER,0,,-,1052,IETORA,富山県,1742,TOSAGI,富山県,2496,OKAYU,富山県,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1178,AN-BM-,富山県,2145,NECOZE,富山県,3161,RIOO,富山県,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1339,IIHITO,富山県,2145,NECOZE,富山県,3161,RIOO,富山県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,863,YAMA,富山県,1349,RINGO.,富山県,2216,OKAYU,富山県,0,,-
-Resort Anthem,Broken,0,,-,935,YAMA,富山県,2009,FA20,富山県,3162,RIOO,富山県,0,,-
+Resort Anthem,Broken,0,,-,1057,-NYAO-,富山県,2009,FA20,富山県,3162,RIOO,富山県,0,,-
 Resort Anthem,Breaking the ground,0,,-,1071,DUTCH,富山県,1766,EIKRA7,富山県,2461,OKAYU,富山県,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,871,OOPS!!,富山県,1631,K.,富山県,2489,RIOO,富山県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,745,Y.HIKI,富山県,1457,TOSAGI,富山県,2120,RIOO,富山県,0,,-
@@ -581,7 +581,7 @@ Lincle,Thunderbolt,0,,-,950,AN-BM-,富山県,1804,LIME,富山県,3627,RISHA.,富
 Lincle,The Sampling Paradise,0,,-,780,DEATH!,富山県,1801,KAZTR*,富山県,3040,RIOO,富山県,0,,-
 Lincle,The Limbo,0,,-,1180,EIKRA7,富山県,1878,YUNO*,富山県,3359,RIOO,富山県,0,,-
 Lincle,Star Trail,0,,-,640,EIKRA7,富山県,1147,OYATSU,富山県,1791,KA,富山県,0,,-
-Lincle,Snow Goose,302,EIKRA7,富山県,346,Y.HIKI,富山県,1274,0QIE6,富山県,2378,HIKASA,富山県,0,,-
+Lincle,Snow Goose,302,EIKRA7,富山県,346,Y.HIKI,富山県,1274,AQUI06,富山県,2378,HIKASA,富山県,0,,-
 Lincle,Snake Stick,0,,-,922,AN-BM-,富山県,1964,YASUMI,富山県,2746,RIOO,富山県,0,,-
 Lincle,SHADE,0,,-,581,HIRO,富山県,1956,YUNO*,富山県,2908,RIOO,富山県,0,,-
 Lincle,Several Words,0,,-,519,HIRO,富山県,1261,DEATH!,富山県,2184,RIOO,富山県,0,,-
@@ -619,7 +619,7 @@ Lincle,Change the World,0,,-,695,OOPS!!,富山県,1349,OYATSU,富山県,1806,OKA
 Lincle,Castle on the Moon,242,EIKRA7,富山県,643,WWE,富山県,1367,8MA4TA,富山県,2338,REVIUS,富山県,0,,-
 Lincle,CALL,0,,-,361,OYATSU,富山県,781,AN-BM-,富山県,1413,BEXTER,富山県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,980,SOS,富山県,2181,RIOO,富山県,3341,RIOO,富山県,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,823,YAMA,富山県,1633,YUNO*,富山県,2422,BEXTER,富山県,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,832,YAMA,富山県,1633,YUNO*,富山県,2422,BEXTER,富山県,0,,-
 Lincle,Almace,0,,-,755,YAMA,富山県,1206,WWE,富山県,1938,OKAYU,富山県,0,,-
 Lincle,532nm,0,,-,552,-NYAO-,富山県,1185,YUNO*,富山県,2569,REVIUS,富山県,0,,-
 Lincle,24th Century BOY,0,,-,805,IRIEL,富山県,1773,NYAN,富山県,2869,RIOO,富山県,0,,-
@@ -692,7 +692,7 @@ tricoro,GAIA,0,,-,698,HIRO,富山県,2115,YUNO*,富山県,3313,RIOO,富山県,0,
 tricoro,Fly you to the star,0,,-,760,Y.HIKI,富山県,1604,EIKRA7,富山県,2227,RISHA.,富山県,0,,-
 tricoro,FLOWER,353,EIKRA7,富山県,991,DEATH!,富山県,1717,AKIRA,富山県,2892,RIOO,富山県,0,,-
 tricoro,examination leave,0,,-,1147,EIKRA7,富山県,1879,KUA,富山県,3378,RIOO,富山県,0,,-
-tricoro,Elemental Creation,266,EIKRA7,富山県,1286,Y.HIKI,富山県,2315,SAK!-S,富山県,4159,RIOO,富山県,0,,-
+tricoro,Elemental Creation,266,EIKRA7,富山県,1427,IIHITO,富山県,2315,SAK!-S,富山県,4159,RIOO,富山県,0,,-
 tricoro,Devilz Staircase,0,,-,602,YAMA,富山県,2093,NECOZE,富山県,3031,REVIUS,富山県,0,,-
 tricoro,DAY DREAM,0,,-,547,K.,富山県,1173,EIKRA7,富山県,1985,RIOO,富山県,0,,-
 tricoro,Cookie Bouquets,0,,-,877,EIKRA7,富山県,2057,LIME,富山県,3347,RISHA.,富山県,0,,-
@@ -707,7 +707,7 @@ tricoro,8bit Princess,0,,-,614,YAMA,富山県,1345,YUNO*,富山県,2587,APPLE,�
 tricoro,405nm (Ryu☆mix),0,,-,861,Y.HIKI,富山県,1594,TAMA,富山県,2561,RIOO,富山県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,951,DEATH!,富山県,1846,DELTA,富山県,3563,RIOO,富山県,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,575,EIKRA7,富山県,1505,FUCHI,富山県,2520,BEXTER,富山県,0,,-
-SPADA,罪と罰,0,,-,932,YAMA,富山県,1264,TATSU,富山県,2118,RISHA.,富山県,0,,-
+SPADA,罪と罰,0,,-,1019,-NYAO-,富山県,1264,TATSU,富山県,2118,RISHA.,富山県,0,,-
 SPADA,疾風迅雷,0,,-,1031,Y.HIKI,富山県,1920,YUNO*,富山県,2912,RIOO,富山県,3470,RIOO,富山県
 SPADA,牧神笛吹きて,0,,-,699,YAMA,富山県,1338,YUNO*,富山県,1961,AXEL.,富山県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1355,YUNO*,富山県,2270,KUA,富山県,3920,RIOO,富山県,0,,-
@@ -732,7 +732,7 @@ SPADA,RIZING YOU UP,0,,-,1060,EIKRA7,富山県,1984,SAK!-S,富山県,2515,REVIUS
 SPADA,RISE,0,,-,821,DEATH!,富山県,1262,493KSK,富山県,1813,SENJU,富山県,0,,-
 SPADA,refractive index,0,,-,738,EIKRA7,富山県,1401,YUNO*,富山県,2687,RIOO,富山県,0,,-
 SPADA,Recollection,0,,-,1137,-NYAO-,富山県,1728,AXEL.,富山県,2194,FA20,富山県,0,,-
-SPADA,rainbow guitar weeps,0,,-,538,OYA,富山県,1846,RISHA.,富山県,2753,RIOO,富山県,0,,-
+SPADA,rainbow guitar weeps,0,,-,752,HIRO,富山県,1846,RISHA.,富山県,2753,RIOO,富山県,0,,-
 SPADA,ra'am,0,,-,1091,NM-BET,富山県,1742,DELTA,富山県,2818,RIOO,富山県,0,,-
 SPADA,PUNISHER,0,,-,682,KAKEFU,富山県,1939,LIME,富山県,3590,RIOO,富山県,0,,-
 SPADA,Pharaoh,0,,-,592,YAMA,富山県,1095,AN-BM-,富山県,2335,FA20,富山県,0,,-
@@ -805,7 +805,7 @@ PENDUAL,それは花火のような恋,707,EIKRA7,富山県,1100,IETORA,富山�
 PENDUAL,ZZ,204,EIKRA7,富山県,1083,NAS.,富山県,1978,FA20,富山県,3045,RIOO,富山県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1023,DEATH!,富山県,2200,NECOZE,富山県,3712,RIOO,富山県,0,,-
 PENDUAL,Vulkan,0,,-,820,ARKITP,富山県,1857,NYAN,富山県,3013,RIOO,富山県,0,,-
-PENDUAL,TOXIC VIBRATION,0,,-,1335,KAMO,富山県,2313,NECOZE,富山県,3786,RIOO,富山県,0,,-
+PENDUAL,TOXIC VIBRATION,0,,-,1588,IIHITO,富山県,2313,NECOZE,富山県,3786,RIOO,富山県,0,,-
 PENDUAL,TIEFSEE,0,,-,1006,IETORA,富山県,2090,YUNO*,富山県,3395,REVIUS,富山県,0,,-
 PENDUAL,The Least 100sec,0,,-,489,ARKITP,富山県,1323,NM-BET,富山県,2694,HIKASA,富山県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1099,CRZ-R.,富山県,1650,OKAYU,富山県,2188,AXEL.,富山県,0,,-
@@ -916,7 +916,7 @@ copula,Konzert V,0,,-,1222,YUNO*,富山県,2235,K.,富山県,3336,RIOO,富山県
 copula,Journey,0,,-,661,Y.HIKI,富山県,1048,0655,富山県,1841,K.,富山県,0,,-
 copula,Inner Spirit,0,,-,864,EIKRA7,富山県,1698,KURE,富山県,2834,RIOO,富山県,0,,-
 copula,Highcharge Divolt,0,,-,904,EIKRA7,富山県,1631,NECOZE,富山県,2797,RIOO,富山県,0,,-
-copula,Grand Chariot,0,,-,1058,WANI,富山県,1834,NECOZE,富山県,3468,RIOO,富山県,0,,-
+copula,Grand Chariot,0,,-,1120,IIHITO,富山県,1834,NECOZE,富山県,3468,RIOO,富山県,0,,-
 copula,Godspeed,0,,-,1040,EIKRA7,富山県,1937,YASUMI,富山県,3169,RIOO,富山県,0,,-
 copula,GOBBLE,0,,-,487,EIKRA7,富山県,613,DUTCH,富山県,1702,RIOO,富山県,0,,-
 copula,Go Faraway,0,,-,1021,LIME,富山県,1491,EIKRA7,富山県,2501,RIOO,富山県,0,,-
@@ -941,7 +941,7 @@ copula,Aublia,0,,-,549,OAO,富山県,1470,YUNO*,富山県,2456,RISHA.,富山県,
 copula,Arcana,0,,-,1107,TAMA,富山県,1686,YUNO*,富山県,2233,RISHA.,富山県,0,,-
 copula,AO-1,0,,-,1201,IIHITO,富山県,1846,NECOZE,富山県,2793,RIOO,富山県,0,,-
 copula,Angelic Jelly,0,,-,970,IETORA,富山県,1906,RINGO.,富山県,2753,RIOO,富山県,0,,-
-copula,Acid Pumper,0,,-,684,EIKRA7,富山県,1465,YUNO*,富山県,2302,AXEL.,富山県,0,,-
+copula,Acid Pumper,0,,-,684,EIKRA7,富山県,1465,YUNO*,富山県,2312,RISHA.,富山県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,654,DEATH!,富山県,1613,6TERIA,富山県,2391,RIOO,富山県,0,,-
 SINOBUZ,鴉,0,,-,1460,IIHITO,富山県,2146,NECOZE,富山県,2653,REVIUS,富山県,0,,-
 SINOBUZ,童話回廊,0,,-,858,YAMA,富山県,1567,IIHITO,富山県,3096,RIOO,富山県,0,,-
@@ -950,7 +950,7 @@ SINOBUZ,獅子霞麗ノ舞,0,,-,478,WWE,富山県,545,KAKEFU,富山県,1695,RISH
 SINOBUZ,焔極OVERKILL,0,,-,1004,Y.HIKI,富山県,1998,NECOZE,富山県,3652,RIOO,富山県,0,,-
 SINOBUZ,火影,0,,-,652,YAMA,富山県,1348,PALACE,富山県,2745,RIOO,富山県,0,,-
 SINOBUZ,津軽雪,0,,-,1508,YUNO*,富山県,2183,APPLE,富山県,3857,RIOO,富山県,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,542,HIRO,富山県,1411,EIKRA7,富山県,1956,REVIUS,富山県,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,760,YAMA,富山県,1411,EIKRA7,富山県,1956,REVIUS,富山県,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,615,OOPS!!,富山県,1254,YUNO*,富山県,2025,BEXTER,富山県,0,,-
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,1014,EIKRA7,富山県,1540,EIKRA7,富山県,2392,OKAYU,富山県,0,,-
 SINOBUZ,忍恋花,0,,-,957,LTNS,富山県,1607,DELTA,富山県,2162,*IR-AI,富山県,0,,-
@@ -973,7 +973,7 @@ SINOBUZ,The Commanders,0,,-,940,EIKRA7,富山県,1426,TOSAGI,富山県,2404,SHUN
 SINOBUZ,Sweet Clapper,0,,-,570,EIKRA7,富山県,1229,TOSAGI,富山県,1897,OKAYU,富山県,0,,-
 SINOBUZ,Surf on the Light,0,,-,756,OYATSU,富山県,1438,YUNO*,富山県,2205,OKAYU,富山県,0,,-
 SINOBUZ,Super Rush,0,,-,1040,EIKRA7,富山県,1852,EIKRA7,富山県,3542,RIOO,富山県,0,,-
-SINOBUZ,Summerlights(IIDX Edition),0,,-,1052,DEATH!,富山県,1707,NM-BET,富山県,3128,RIOO,富山県,0,,-
+SINOBUZ,Summerlights(IIDX Edition),0,,-,1052,DEATH!,富山県,1715,NYAN,富山県,3128,RIOO,富山県,0,,-
 SINOBUZ,Steel Edge,0,,-,798,OOPS!!,富山県,1379,NM-BET,富山県,3054,REVIUS,富山県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1010,Y.HIKI,富山県,2104,KAZTR*,富山県,3443,RIOO,富山県,0,,-
 SINOBUZ,Sky High,437,EIKRA7,富山県,1180,K.,富山県,2233,K.,富山県,3828,RIOO,富山県,0,,-
@@ -1021,7 +1021,7 @@ SINOBUZ,Caterpillar,0,,-,891,MRSK,富山県,2053,NECOZE,富山県,3020,RIOO,富�
 SINOBUZ,BroGamer,0,,-,1291,IIHITO,富山県,2031,DELTA,富山県,3098,RIOO,富山県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,701,EIKRA7,富山県,1287,DELTA,富山県,2317,RIOO,富山県,0,,-
 SINOBUZ,BREAK OVER,0,,-,749,AN-BM-,富山県,1375,NM-BET,富山県,2359,RIOO,富山県,0,,-
-SINOBUZ,Beyond The Seven,0,,-,649,YAMA,富山県,1295,KAZTR*,富山県,2639,RISHA.,富山県,0,,-
+SINOBUZ,Beyond The Seven,0,,-,679,YAMA,富山県,1295,KAZTR*,富山県,2639,RISHA.,富山県,0,,-
 SINOBUZ,Believe in you,0,,-,1131,DIOXIN,富山県,1825,DELTA,富山県,2373,KA,富山県,0,,-
 SINOBUZ,Beat Juggling Mix,0,,-,600,TIDUS,富山県,1494,DELTA,富山県,2196,RIOO,富山県,0,,-
 SINOBUZ,Be A Star,0,,-,802,YAMA,富山県,1801,AXEL.,富山県,2787,RISHA.,富山県,0,,-
@@ -1102,13 +1102,13 @@ CANNON BALLERS,Exhaust Hype,0,,-,1036,EIKRA7,富山県,1896,AXEL.,富山県,2694
 CANNON BALLERS,encounter,0,,-,924,AN-BM-,富山県,1736,YASUMI,富山県,3298,RIOO,富山県,0,,-
 CANNON BALLERS,EMERALDAS,0,,-,1325,TOSAGI,富山県,2388,YASUMI,富山県,3541,RIOO,富山県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,858,0655,富山県,1361,2SOCKS,富山県,2547,RIOO,富山県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1327,IIHITO,富山県,2278,NECOZE,富山県,4057,RIOO,富山県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1327,IIHITO,富山県,2340,NECOZE,富山県,4057,RIOO,富山県,0,,-
 CANNON BALLERS,DEADHEAT,0,,-,981,ALC.20,富山県,1909,IIHITO,富山県,3357,RIOO,富山県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,714,Y.HIKI,富山県,1407,EIKRA7,富山県,2090,RIOO,富山県,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1246,IIHITO,富山県,1786,KANO,富山県,2571,SENJU,富山県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,769,DIOXIN,富山県,1388,TOSAGI,富山県,2137,RIOO,富山県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,859,AN-BM-,富山県,1695,NONAME,富山県,2831,RIOO,富山県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,997,RYUKEN,富山県,1685,NM-BET,富山県,2376,AXEL.,富山県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,997,RYUKEN,富山県,1685,NM-BET,富山県,2391,NECOZE,富山県,0,,-
 CANNON BALLERS,Boomy and The Boost,0,,-,1006,WANI,富山県,1982,YUNO*,富山県,3603,RIOO,富山県,0,,-
 CANNON BALLERS,Best of Me,0,,-,707,YAMA,富山県,1490,WANI,富山県,2164,BEXTER,富山県,0,,-
 CANNON BALLERS,Beast mode,0,,-,1041,YUNO*,富山県,1429,OZ,富山県,2610,OKAYU,富山県,0,,-
@@ -1147,7 +1147,7 @@ Rootage,X-DEN,0,,-,1626,K.,富山県,2556,OKAYU,富山県,4142,RIOO,富山県,0,
 Rootage,Wonderland,0,,-,1052,K.,富山県,1760,NONAME,富山県,2707,REVIUS,富山県,0,,-
 Rootage,Won(*3*)Chu KissMe!,272,EIKRA7,富山県,933,K.,富山県,1393,EIKRA7,富山県,2441,HIKASA,富山県,0,,-
 Rootage,Wolf 1061,0,,-,985,OYATSU,富山県,1692,YUNO*,富山県,3014,REVIUS,富山県,0,,-
-Rootage,Wing of Hearts,0,,-,964,Y.HIKI,富山県,1702,OYATSU,富山県,2895,RISHA.,富山県,0,,-
+Rootage,Wing of Hearts,0,,-,984,YAMA,富山県,1702,OYATSU,富山県,2895,RISHA.,富山県,0,,-
 Rootage,Visterhv,0,,-,1265,K.,富山県,2195,NECOZE,富山県,3704,RIOO,富山県,0,,-
 Rootage,Urban Constellations,0,,-,642,YAMA,富山県,1375,OYATSU,富山県,2287,RIOO,富山県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1134,K.,富山県,2035,BEXTER,富山県,3198,REVIUS,富山県,0,,-
