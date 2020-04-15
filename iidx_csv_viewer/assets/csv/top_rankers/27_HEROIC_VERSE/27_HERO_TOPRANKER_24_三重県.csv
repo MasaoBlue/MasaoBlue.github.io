@@ -34,7 +34,7 @@
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,518,ISENO,三重県,1244,RIS.FD,三重県,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,840,NOHNA,三重県,984,712545,三重県,1296,T*CHA,三重県,0,,-
 4th style,SWEET LAB,0,,-,333,ZABROU,三重県,914,HAVCHM,三重県,1248,AKAR!?,三重県,0,,-
-4th style,starmine,429,QUERY,三重県,585,FRADLE,三重県,1283,WISTIA,三重県,1573,YUKITO,三重県,0,,-
+4th style,starmine,429,QUERY,三重県,610,GALLOP,三重県,1283,WISTIA,三重県,1573,YUKITO,三重県,0,,-
 4th style,Mr.T.(take me higher),0,,-,665,JUN,三重県,897,NOHNA,三重県,1741,39RA35,三重県,0,,-
 4th style,minimalian,0,,-,0,,-,794,METAL,三重県,1386,HAGGER,三重県,0,,-
 4th style,LOVE WILL・・・,0,,-,518,NOHNA,三重県,725,NOHNA,三重県,1449,RIS.TY,三重県,0,,-
@@ -200,7 +200,7 @@
 10th style,Back Into The Light,0,,-,780,NOHNA,三重県,1546,8MAZU4,三重県,2149,ALI*CE,三重県,0,,-
 10th style,BABY LOVE,0,,-,1035,NOHNA,三重県,1667,HAVCHM,三重県,2133,ATRIX,三重県,0,,-
 10th style,ASTRAL VOYAGE,0,,-,940,NOHNA,三重県,1338,NOHNA,三重県,1870,HAGGER,三重県,0,,-
-10th style,ALIEN TEMPLE,0,,-,0,,-,1509,NOHNA,三重県,1983,ALI*CE,三重県,0,,-
+10th style,ALIEN TEMPLE,0,,-,580,YOSHI*,三重県,1509,NOHNA,三重県,1983,ALI*CE,三重県,0,,-
 10th style,1st Samurai,0,,-,942,NOHNA,三重県,1843,HAVCHM,三重県,2561,31337,三重県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,905,NOHNA,三重県,1362,NOHNA,三重県,1984,RIS.FD,三重県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,545,KRC,三重県,1320,510*,三重県,1679,RIS.TY,三重県,0,,-
@@ -464,7 +464,7 @@ SIRIUS,Special One,0,,-,510,TAKUMI,三重県,1152,HAVCHM,三重県,1730,FRIP,三
 SIRIUS,Sorrows,0,,-,699,2SALTY,三重県,1653,HAVCHM,三重県,2464,T*CHA,三重県,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,275,NOHNA,三重県,2122,TACD,三重県,3495,FRIP,三重県,3513,39RA35,三重県
 SIRIUS,She is my wife,398,NOHNA,三重県,658,T-TMY,三重県,1189,RMASHI,三重県,1918,HAGGER,三重県,0,,-
-SIRIUS,Session 1 -Genesis-,0,,-,855,NOHNA,三重県,1458,SULME,三重県,2430,ATRIX,三重県,0,,-
+SIRIUS,Session 1 -Genesis-,0,,-,855,NOHNA,三重県,1462,HAM,三重県,2430,ATRIX,三重県,0,,-
 SIRIUS,Roots of my way!,0,,-,538,ZABROU,三重県,1306,AD08R,三重県,2016,RIS.TY,三重県,0,,-
 SIRIUS,Red. by Full Metal Jacket,0,,-,955,T-TMY,三重県,2010,SULME,三重県,3130,SAYA.H,三重県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,1136,NOHNA,三重県,2009,AKAR!?,三重県,2648,39RA35,三重県,0,,-
@@ -741,7 +741,7 @@ SPADA,Odin,0,,-,399,PFYCH,三重県,0,,-,2024,FRIP,三重県,0,,-
 SPADA,NPC World,0,,-,991,NOHNA,三重県,1368,URAOGI,三重県,2208,YOS,三重県,0,,-
 SPADA,Miracle 5ympho X,0,,-,470,RIO,三重県,1204,T-TMY,三重県,2593,FRIP,三重県,0,,-
 SPADA,MAGIC & LOVE,0,,-,985,NOHNA,三重県,1769,SULME,三重県,2881,ATRIX,三重県,0,,-
-SPADA,MAD ATTACK,0,,-,156,PAPER,三重県,1207,510*,三重県,1906,FRIP,三重県,0,,-
+SPADA,MAD ATTACK,0,,-,156,PAPER,三重県,1220,HAVCHM,三重県,1906,FRIP,三重県,0,,-
 SPADA,m1dy Deluxe,0,,-,1103,NOHNA,三重県,1506,510*,三重県,2551,FRIP,三重県,0,,-
 SPADA,M.D.Injection,0,,-,452,MAPPY,三重県,1231,T*CHA,三重県,2307,HAGGER,三重県,0,,-
 SPADA,Lighting Shower,0,,-,548,SATTI,三重県,1202,T-TMY,三重県,2350,YUKITO,三重県,0,,-
@@ -751,13 +751,13 @@ SPADA,KAISER PHOENIX,0,,-,1005,999,三重県,2032,SHINK*,三重県,3157,FRIP,三
 SPADA,IX,0,,-,1227,AKR*,三重県,2427,FRIP,三重県,3737,39RA35,三重県,0,,-
 SPADA,invoker,0,,-,1099,NOHNA,三重県,1766,AKR*,三重県,3125,39RA35,三重県,3482,39RA35,三重県
 SPADA,into the battlefield,0,,-,667,T-TMY,三重県,1362,FIA,三重県,2347,39RA35,三重県,0,,-
-SPADA,INSOMNIA,0,,-,531,PFYCH,三重県,1709,SULME,三重県,3122,FRIP,三重県,0,,-
+SPADA,INSOMNIA,0,,-,531,PFYCH,三重県,1795,HAVCHM,三重県,3122,FRIP,三重県,0,,-
 SPADA,Insane Techniques,0,,-,683,T-TMY,三重県,1287,RIS.FD,三重県,2377,SELENE,三重県,0,,-
 SPADA,"Idola ",0,,-,1180,NOHNA,三重県,2136,.OGINE,三重県,3546,39RA35,三重県,0,,-
 SPADA,I will be back -オレは帰ってきた-,0,,-,826,0020,三重県,1902,SULME,三重県,2898,ATRIX,三重県,0,,-
 SPADA,Hypersonik,0,,-,998,NOHNA,三重県,1553,510*,三重県,2506,ATRIX,三重県,0,,-
 SPADA,HYENA,0,,-,871,IIDX27,三重県,1854,SULME,三重県,2760,ATRIX,三重県,0,,-
-SPADA,Funny shuffle,0,,-,423,MI*,三重県,1082,NOHNA,三重県,2268,12.6,三重県,0,,-
+SPADA,Funny shuffle,0,,-,423,MI*,三重県,1114,HAVCHM,三重県,2268,12.6,三重県,0,,-
 SPADA,Feel The Beat,0,,-,1015,2SALTY,三重県,2043,DIDO,三重県,3488,FRIP,三重県,4179,39RA35,三重県
 SPADA,EXTREME MACH COLLIDER,0,,-,988,NOHNA,三重県,1414,FIA,三重県,2515,ALI*CE,三重県,0,,-
 SPADA,Engraved Mark,0,,-,509,GALLOP,三重県,1240,ONNA,三重県,2356,ATRIX,三重県,0,,-
@@ -770,7 +770,7 @@ SPADA,Dark Fall,0,,-,853,NOHNA,三重県,1368,510*,三重県,2646,FRIP,三重県
 SPADA,Critical Crystal,220,QUERY,三重県,1055,NOHNA,三重県,1754,SULME,三重県,2848,FRIP,三重県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1090,NOHNA,三重県,2022,HAVCHM,三重県,3355,39RA35,三重県,3763,39RA35,三重県
 SPADA,Cleopatrysm,0,,-,734,METAL,三重県,1273,AKR*,三重県,2446,RIS.FD,三重県,0,,-
-SPADA,Claiomh Solais,0,,-,0,,-,1318,L-TKB!,三重県,2082,T*CHA,三重県,0,,-
+SPADA,Claiomh Solais,0,,-,0,,-,1402,HAVCHM,三重県,2082,T*CHA,三重県,0,,-
 SPADA,BRAVE OUT,0,,-,723,ORION,三重県,1515,RIS.TY,三重県,2136,ATRIX,三重県,0,,-
 SPADA,BRAINSTORM,0,,-,473,PFYCH,三重県,1958,HAGGER,三重県,2747,FRIP,三重県,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1281,YU-KI,三重県,2160,HAYASK,三重県,3285,ALI*CE,三重県,0,,-
@@ -832,7 +832,7 @@ PENDUAL,m1dy Festival,0,,-,922,NOHNA,三重県,1463,TKS.N,三重県,2314,ATOZ,�
 PENDUAL,Line 4 Ruin,0,,-,694,NOHNA,三重県,1802,RIS.TY,三重県,2742,SAYA.H,三重県,0,,-
 PENDUAL,IXION,0,,-,804,JUN,三重県,1804,MAJIN!,三重県,2158,ALI*CE,三重県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1113,NOHNA,三重県,1503,NOHNA,三重県,2658,39RA35,三重県,0,,-
-PENDUAL,In The Breeze,0,,-,610,NOHNA,三重県,1069,FIA,三重県,1708,39RA35,三重県,0,,-
+PENDUAL,In The Breeze,0,,-,610,NOHNA,三重県,1151,HAVCHM,三重県,1708,39RA35,三重県,0,,-
 PENDUAL,IMPLANTATION,0,,-,622,NOHNA,三重県,1521,SUGOC,三重県,2276,SAYA.H,三重県,0,,-
 PENDUAL,illuminate,0,,-,542,ISENO,三重県,1480,FIA,三重県,2300,ALI*CE,三重県,0,,-
 PENDUAL,Hello Happiness,0,,-,859,NOHNA,三重県,1588,QUERY,三重県,2228,SELENE,三重県,0,,-
@@ -858,7 +858,7 @@ PENDUAL,Broken Sword,0,,-,1190,KINAKO,三重県,2048,MAJIN!,三重県,3647,FRIP,
 PENDUAL,BLUE MIRAGE,0,,-,1038,NOHNA,三重県,1975,ONNA,三重県,2949,FRIP,三重県,0,,-
 PENDUAL,Blaze it UP!,0,,-,926,NOHNA,三重県,1811,FIA,三重県,2880,HAKU0,三重県,0,,-
 PENDUAL,Beyond The Earth,0,,-,1219,NOHNA,三重県,2071,HAGGER,三重県,3118,FRIP,三重県,0,,-
-PENDUAL,Beat Radiance,0,,-,974,NOHNA,三重県,1562,FIA,三重県,2611,HAGGER,三重県,3532,T*CHA,三重県
+PENDUAL,Beat Radiance,0,,-,974,NOHNA,三重県,1597,HAVCHM,三重県,2611,HAGGER,三重県,3532,T*CHA,三重県
 PENDUAL,AFRO KNUCKLE,0,,-,915,YU-KI,三重県,1663,TAKUTO,三重県,2381,FRIP,三重県,0,,-
 PENDUAL,#The_Relentless,0,,-,1000,ISENO,三重県,1740,AKR*,三重県,2859,HAKU0,三重県,0,,-
 copula,麗 ～うらら～,262,QUERY,三重県,1045,NOHNA,三重県,1765,RIS.TY,三重県,2591,ALI*CE,三重県,0,,-
@@ -1216,7 +1216,7 @@ Rootage,Angels & Demons,0,,-,764,JUN,三重県,1637,QUERY,三重県,2419,FRIP,�
 Rootage,AGAiN,0,,-,638,TORIK,三重県,1500,TWT,三重県,2260,YUKITO,三重県,0,,-
 Rootage,A Tale Hidden In The Abyss,0,,-,821,JUN,三重県,1610,KANMI,三重県,2542,YUKITO,三重県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1211,NOHNA,三重県,1645,RIS.TY,三重県,2596,ATRIX,三重県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1002,NOHNA,三重県,1531,SHANA,三重県,2526,RIS.TY,三重県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1002,NOHNA,三重県,1553,FIA,三重県,2526,RIS.TY,三重県,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,879,NOHNA,三重県,1053,TANUKI,三重県,2196,T*CHA,三重県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,755,NOHNA,三重県,1563,FIA,三重県,2644,YUKITO,三重県,0,,-
 Rootage,& Intelligence,0,,-,931,JUN,三重県,2138,HAGGER,三重県,3094,ATRIX,三重県,0,,-
