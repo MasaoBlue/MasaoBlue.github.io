@@ -40,21 +40,34 @@ html
     h2 Newest Version
     ul
       li
-        a.new(href='./files/iidx_input_capturer_v0.2.zip') IIDX Input Capturer v0.2 (2020/11/4)
+        a.new(href='./files/iidx_input_capturer_v0.3.zip') IIDX Input Capturer v0.3 (2020/11/15)
         .detail
-          p ・v0.1のリリース資材が間違っていたので再公開
-          p ・1P/2Pの切り替えができるようになりました
-    h2 使用イメージ
-    img(src='images/iidx_input_capturer-thumbnail.png' style="width: 1000px; margin-bottom: 3em")
+          p ・押し始めからCNと判定するまでの時間調整
+          p ・背景を透過し、OBS上でゲーム画面と重ね合わせて表示
+          p ・緑数字/白数字を指定したノーツの速度/表示領域の調整
+    h2 【使用イメージ】
+    div(style="display: flex; flex-wrap: wrap; margin-bottom: 3em")
+      div(style="margin-right: 1em")
+        div 通常表示
+        img(src='images/iidx_input_capturer-thumbnail.png' style="width: 700px; margin-bottom: 1em")
+      div
+        div 背景を透過してゲーム画面に重ねて表示
+        img(src='images/iidx_input_capturer-transparent.png' style="width: 700px; margin-bottom: 1em")
     h2 Old Version
     ul.old
       li
-        a(href='./files/iidx_input_capturer_v0.1.zip') IIDX Input Capturer v0.1 (2020/11/3)
+        a.new(href='./files/iidx_input_capturer_v0.2.zip') v0.2 (2020/11/4)
+        .detail
+          p ・v0.1のリリース資材が間違っていたので再公開
+          p ・1P/2Pの切り替えができるようになりました
+      li
+        a(href='./files/iidx_input_capturer_v0.1.zip') v0.1 (2020/11/3)
         .detail
           p  ※リリース資材を間違えました
           p ・UIを改善
           p ・ボタンの入力回数を表示
           p ・マウススクロールで入力を遡って表示
       li
-        a(href='./files/iidx_input_capturer_v0.0.zip') IIDX Input Capturer v0.0 (2020/10/27)
+        a(href='./files/iidx_input_capturer_v0.0.zip') v0.0 (2020/10/27)
+        .detail
           p ・初回リリース
