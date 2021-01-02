@@ -39,26 +39,31 @@ html
     h2 Tools
     ul.tools
       li
-        a(href='./iidx_csv_viewer')
-          .name IIDX CSV Viewer
-          img(src='images/iidx_csv_viewer.png')
-          .detail IIDXの公式CSVを読み込んで見やすく表示するツールです。県別TOPとの比較表示もできます。
-      li
-        a.new(href='./iidx_csv_viewer/#/toprankers')
-          .name IIDX Top Rankers Viewer
-          img(src='images/toprankers.png')
-          .detail IIDXの公式ページで公開されているTopRankerの情報を一覧表示・比較するツールです。
-      li
-        a(href='./files/iidx_key_logger_v03.zip')
-          .name IIDX Key Logger
-          img(src='images/iidx_key_logger.png')
-          .detail
-            | IIDX専用コントローラの入力を見える化するツールです。二重階段を無限に自動生成して練習できる機能を追加。
+        a.new(href='./iidx_trainer.html')
+          .name IIDX Trainer
+          img(src='images/iidx_trainer.png')
+          .detail 苦手な譜面を繰り返し練習するためのツールです。
       li
         a.new(href='./iidx_input_capturer.html')
           .name IIDX Input Capturer
           img(src='images/iidx_input_capturer.jpg')
           .detail ゲームプレイ中に、鍵盤を押した所を可視化するツールです。
+      li
+        a(href='./iidx_csv_viewer/#/toprankers')
+          .name IIDX Top Rankers Viewer
+          img(src='images/toprankers.png')
+          .detail IIDXの公式ページで公開されているTopRankerの情報を一覧表示・比較するツールです。
+      li
+        a(href='./iidx_csv_viewer')
+          .name IIDX CSV Viewer
+          img(src='images/iidx_csv_viewer.png')
+          .detail IIDXの公式CSVを読み込んで見やすく表示するツールです。県別TOPとの比較表示もできます。
+      li
+        a(href='./files/iidx_key_logger_v03.zip')
+          .name IIDX Key Logger
+          img(src='images/iidx_key_logger.png')
+          .detail
+            | IIDX専用コントローラの入力を可視化するツールです。二重階段を無限に自動生成して練習できる機能を追加。(Input CapturerとTrainerに移行中)
     h2 Old Version
     ul.old
       li
