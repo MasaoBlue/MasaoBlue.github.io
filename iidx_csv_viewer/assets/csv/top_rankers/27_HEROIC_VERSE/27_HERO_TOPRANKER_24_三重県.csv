@@ -4,8 +4,8 @@
 1st&substream,R3,0,,-,481,ISENO,三重県,701,TURQUO,三重県,900,YUKITO,三重県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,413,STM-02,三重県,713,MISA,三重県,1088,O-DEN,三重県,0,,-
 1st&substream,Macho Gang,0,,-,369,39RA35,三重県,970,EIDOS,三重県,1603,ATRIX,三重県,0,,-
-1st&substream,KEEP ON MOVIN',0,,-,165,PEACH.,三重県,242,O-DEN,三重県,0,,-,0,,-
-1st&substream,GRADIUSIC CYBER,0,,-,705,PEACH.,三重県,927,FIA,三重県,1170,HAGGER,三重県,0,,-
+1st&substream,KEEP ON MOVIN',0,,-,165,XPERIA,三重県,242,O-DEN,三重県,0,,-,0,,-
+1st&substream,GRADIUSIC CYBER,0,,-,705,XPERIA,三重県,927,FIA,三重県,1170,HAGGER,三重県,0,,-
 1st&substream,gentle stress,0,,-,342,HAGGER,三重県,678,HAGGER,三重県,1436,39RA35,三重県,0,,-
 1st&substream,GENOM SCREAMS,0,,-,242,FRADLE,三重県,824,YUKITO,三重県,1061,FRIP,三重県,0,,-
 1st&substream,GAMBOL,0,,-,274,CIRNO9,三重県,274,CIRNO9,三重県,0,,-,0,,-
@@ -60,6 +60,7 @@
 5th style,still my words,0,,-,864,NOHNA,三重県,1216,HAGGER,三重県,0,,-,0,,-
 5th style,STILL IN MY HEART,0,,-,954,NOHNA,三重県,1290,HAVCHM,三重県,1886,39RA35,三重県,0,,-
 5th style,Spin the disc,0,,-,738,NOHNA,三重県,1123,MISA,三重県,1316,YUKITO,三重県,0,,-
+5th style,sometime,0,,-,774,HAGGER,三重県,1043,HAGGER,三重県,1312,39RA35,三重県,0,,-
 5th style,RISLIM,0,,-,704,ISENO,三重県,1206,FRIP,三重県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,762,ISENO,三重県,1015,NOHNA,三重県,1680,OARAI,三重県,1773,T*CHA,三重県
 5th style,Regulus,0,,-,946,NOHNA,三重県,1418,TAKUTO,三重県,1671,39RA35,三重県,0,,-
@@ -265,6 +266,7 @@ HAPPY SKY,INAZUMA,0,,-,1013,NOHNA,三重県,1708,TAKUTO,三重県,2698,47MO.R,�
 HAPPY SKY,in motion,0,,-,826,NOHNA,三重県,1057,HAVCHM,三重県,1293,.38,三重県,0,,-
 HAPPY SKY,I am,0,,-,1083,NOHNA,三重県,1746,RIS.TY,三重県,2147,FRIP,三重県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,654,QUERY,三重県,1008,NOHNA,三重県,1471,510*,三重県,2085,HAGGER,三重県,0,,-
+HAPPY SKY,GREEN EYES,0,,-,947,QUERY,三重県,1523,FIA,三重県,2196,ATRIX,三重県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,1106,NOHNA,三重県,1621,FIA,三重県,2244,39RA35,三重県,0,,-
 HAPPY SKY,garden,0,,-,810,NOHNA,三重県,1458,HAVCHM,三重県,2145,FRIP,三重県,0,,-
 HAPPY SKY,First Resolution,0,,-,763,NOHNA,三重県,1584,ATOZ,三重県,2131,YUKITO,三重県,0,,-
@@ -366,6 +368,7 @@ DJ TROOPERS,エコ爺,330,NOHNA,三重県,717,ISENO,三重県,1271,NOHNA,三重�
 DJ TROOPERS,Wanna Party?,0,,-,705,NOHNA,三重県,1157,HAVCHM,三重県,1509,YUKITO,三重県,2563,YUKITO,三重県
 DJ TROOPERS,Ubertreffen,0,,-,1033,NOHNA,三重県,1976,MAJIN!,三重県,2483,FRIP,三重県,3229,FRIP,三重県
 DJ TROOPERS,TROOPERS,0,,-,1168,NOHNA,三重県,2280,MAJIN!,三重県,2940,YUKITO,三重県,0,,-
+DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,641,NOHNA,三重県,1439,SULME,三重県,1806,FRIP,三重県,0,,-
 DJ TROOPERS,Time to Air,0,,-,1106,NAMATA,三重県,2064,HAGGER,三重県,2844,FRIP,三重県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,854,NOHNA,三重県,1175,39RA35,三重県,1843,T*CHA,三重県,0,,-
 DJ TROOPERS,THE DEEP STRIKER,528,QUERY,三重県,1013,NOHNA,三重県,2151,RIS.TY,三重県,2990,FRIP,三重県,3454,FRIP,三重県
@@ -378,6 +381,7 @@ DJ TROOPERS,scar in the earth,0,,-,573,JUN,三重県,1041,NOHNA,三重県,1488,.
 DJ TROOPERS,satfinal,0,,-,1057,NOHNA,三重県,1405,RIS.TY,三重県,1907,T*CHA,三重県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1299,*LOVE*,三重県,1729,SULME,三重県,2483,FRIP,三重県,0,,-
 DJ TROOPERS,Ristaccia,0,,-,1010,KRC,三重県,1783,SULME,三重県,2718,FRIP,三重県,0,,-
+DJ TROOPERS,Rising in the Sun(original mix),0,,-,899,QUERY,三重県,1597,TAKUTO,三重県,2335,FRIP,三重県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1200,RMASHI,三重県,1769,TAKO*,三重県,2342,YUKITO,三重県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,590,.AKARI,三重県,1484,HAVCHM,三重県,1746,T*CHA,三重県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,1070,T*CHA,三重県,1835,39RA35,三重県,2660,FRIP,三重県,0,,-
@@ -533,6 +537,7 @@ Resort Anthem,Programmed Life,0,,-,1057,NOHNA,三重県,1585,BOSS!!,三重県,23
 Resort Anthem,perditus†paradisus,0,,-,1169,AKR*,三重県,2483,FRIP,三重県,3794,39RA35,三重県,0,,-
 Resort Anthem,passionate fate,0,,-,1110,NOHNA,三重県,1635,RIS.TY,三重県,2105,47MO.R,三重県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,1320,NOHNA,三重県,2361,FRIP,三重県,3275,39RA35,三重県,0,,-
+Resort Anthem,New Castle Legions,0,,-,851,NOHNA,三重県,1800,TAKUTO,三重県,2629,39RA35,三重県,0,,-
 Resort Anthem,Never Fade Away,0,,-,744,NOHNA,三重県,1734,TAKO*,三重県,2991,FRIP,三重県,0,,-
 Resort Anthem,Mermaid girl,559,QUERY,三重県,936,NOHNA,三重県,1687,RIS.TY,三重県,2207,47MO.R,三重県,0,,-
 Resort Anthem,Medicine of love,0,,-,632,NOHNA,三重県,1074,MJN-L,三重県,1725,T*CHA,三重県,0,,-
@@ -978,7 +983,7 @@ SINOBUZ,Steel Edge,0,,-,874,NOHNA,三重県,1432,FIA,三重県,3129,FRIP,三重�
 SINOBUZ,Snakey Kung-fu,0,,-,1041,NOHNA,三重県,2160,HAGGER,三重県,3393,FRIP,三重県,0,,-
 SINOBUZ,Sky High,428,NOHNA,三重県,1099,NOHNA,三重県,2341,HAGGER,三重県,3778,FRIP,三重県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,1007,NOHNA,三重県,1605,QUERY,三重県,2414,T*CHA,三重県,0,,-
-SINOBUZ,shuriken,0,,-,714,PEACH.,三重県,1102,MJN-L,三重県,2509,FRIP,三重県,0,,-
+SINOBUZ,shuriken,0,,-,714,XPERIA,三重県,1102,MJN-L,三重県,2509,FRIP,三重県,0,,-
 SINOBUZ,Shoot'Em All,0,,-,755,YO,三重県,1407,FIA,三重県,2437,39RA35,三重県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,959,ISENO,三重県,2113,*BC*,三重県,2841,FRIP,三重県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,574,ISENO,三重県,911,NOHNA,三重県,1694,FRIP,三重県,0,,-
@@ -1064,9 +1069,10 @@ CANNON BALLERS,SPEED DEMON,0,,-,741,NOHNA,三重県,1374,NOHNA,三重県,2259,T*
 CANNON BALLERS,SPEED,0,,-,845,NOHNA,三重県,1286,T-TMY,三重県,2552,T*CHA,三重県,0,,-
 CANNON BALLERS,"Son, not gabba now",0,,-,855,NOHNA,三重県,1474,T-TMY,三重県,2366,39RA35,三重県,0,,-
 CANNON BALLERS,Slipstream,0,,-,1047,QUERY,三重県,1948,SULME,三重県,3495,FRIP,三重県,0,,-
-CANNON BALLERS,Sleepless days,0,,-,485,PEACH.,三重県,897,FIA,三重県,1573,T*CHA,三重県,0,,-
+CANNON BALLERS,Sleepless days,0,,-,485,XPERIA,三重県,897,FIA,三重県,1573,T*CHA,三重県,0,,-
 CANNON BALLERS,SHOX,0,,-,782,NOHNA,三重県,1093,MASSH.,三重県,1710,39RA35,三重県,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,923,NOHNA,三重県,1457,510*,三重県,2305,FRIP,三重県,0,,-
+CANNON BALLERS,REVOLVER,0,,-,887,NOHNA,三重県,1532,QUERY,三重県,2679,ATRIX,三重県,0,,-
 CANNON BALLERS,Raspberry Railgun,0,,-,1416,FRIP,三重県,2156,*BC*,三重県,3114,FRIP,三重県,0,,-
 CANNON BALLERS,Rampage,0,,-,1227,NOHNA,三重県,2468,RIS.TY,三重県,3591,FRIP,三重県,0,,-
 CANNON BALLERS,Persephone,0,,-,1201,NOHNA,三重県,1959,MAJIN!,三重県,2954,47MO.R,三重県,0,,-
@@ -1102,6 +1108,7 @@ CANNON BALLERS,Exhaust Hype,0,,-,959,NOHNA,三重県,1858,TAKUTO,三重県,2785,
 CANNON BALLERS,encounter,0,,-,928,NOHNA,三重県,1635,FIA,三重県,3252,39RA35,三重県,0,,-
 CANNON BALLERS,EMERALDAS,0,,-,1320,H4G3,三重県,2341,5128F,三重県,3476,FRIP,三重県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,892,NOHNA,三重県,1436,HAGGER,三重県,2538,39RA35,三重県,0,,-
+CANNON BALLERS,DropZ-Line-,0,,-,1243,NOHNA,三重県,2008,HAGGER,三重県,3161,39RA35,三重県,0,,-
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1319,ALPHA,三重県,2411,DIG,三重県,3972,FRIP,三重県,0,,-
 CANNON BALLERS,DEADHEAT,0,,-,1162,NOHNA,三重県,2009,SULME,三重県,3298,39RA35,三重県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,773,RIS.FD,三重県,1425,HAGGER,三重県,2080,T*CHA,三重県,0,,-
@@ -1133,6 +1140,8 @@ Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1052,T-TMY,三重�
 Rootage,金野火織の金色提言,0,,-,1105,STM-02,三重県,2179,*BC*,三重県,3069,39RA35,三重県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,653,MI*,三重県,1675,FRIP,三重県,2513,FRIP,三重県,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1177,NOHNA,三重県,1775,QUERY,三重県,2716,39RA35,三重県,0,,-
+Rootage,深愛のリグレット,0,,-,772,NOHNA,三重県,1205,RIS.TY,三重県,2376,FRIP,三重県,0,,-
+Rootage,泰東ノ翠霞,0,,-,465,NOHNA,三重県,741,HAGGER,三重県,1711,39RA35,三重県,0,,-
 Rootage,最小三倍完全数,0,,-,899,NOHNA,三重県,1752,HAGGER,三重県,2507,39RA35,三重県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1101,KRC,三重県,2292,HAGGER,三重県,4098,39RA35,三重県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,685,KYURA,三重県,1545,RIS.TY,三重県,2552,FRIP,三重県,0,,-
@@ -1144,8 +1153,10 @@ Rootage,サクラあっぱれーしょん,259,QUERY,三重県,510,ISENO,三重�
 Rootage,グラナダの風,0,,-,777,NOHNA,三重県,1172,SULME,三重県,1832,FRIP,三重県,0,,-
 Rootage,お菓子の王国,0,,-,1312,.JAM3.,三重県,2267,HAGGER,三重県,4032,39RA35,三重県,0,,-
 Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1092,HAGGER,三重県,1956,HAGGER,三重県,2898,FRIP,三重県,0,,-
+Rootage,ZENDEGI DANCE,0,,-,1138,NOHNA,三重県,1845,MAJIN!,三重県,2734,FRIP,三重県,0,,-
 Rootage,Yum Yum Jelly,0,,-,684,SIN-Q,三重県,1458,FIA,三重県,2333,T*CHA,三重県,0,,-
 Rootage,Xlo,0,,-,1433,MASSH.,三重県,2398,12.6,三重県,3709,FRIP,三重県,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1025,RUMIA,三重県,1682,TAKUTO,三重県,2951,FRIP,三重県,0,,-
 Rootage,X-DEN,0,,-,1625,HAGGER,三重県,2593,O-DEN,三重県,3999,39RA35,三重県,0,,-
 Rootage,Wonderland,0,,-,1008,NOHNA,三重県,1858,RIS.TY,三重県,2713,ATRIX,三重県,0,,-
 Rootage,Won(*3*)Chu KissMe!,266,QUERY,三重県,867,JUN,三重県,1392,RIS.TY,三重県,2471,39RA35,三重県,0,,-
@@ -1161,6 +1172,7 @@ Rootage,Twilight Warp,0,,-,843,.KWBT,三重県,1352,FIA,三重県,2120,39RA35,�
 Rootage,Trill auf G,0,,-,1076,NOHNA,三重県,2090,MAJIN!,三重県,3206,39RA35,三重県,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,721,T-TMY,三重県,1476,MJN-L,三重県,2235,12.6,三重県,0,,-
 Rootage,toy boxer,0,,-,721,712545,三重県,1402,HAGGER,三重県,2219,FRIP,三重県,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,777,NOHNA,三重県,1376,HAGGER,三重県,2197,12.6,三重県,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,1120,ADEL,三重県,1890,ATOZ,三重県,3036,39RA35,三重県,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1388,NOHNA,三重県,2286,TAKUTO,三重県,3420,FRIP,三重県,0,,-
 Rootage,The Best of Both Worlds,0,,-,496,ISENO,三重県,1348,TAKUTO,三重県,2154,FRIP,三重県,0,,-
@@ -1179,15 +1191,18 @@ Rootage,REPLAY,0,,-,871,NOHNA,三重県,1524,FIA,三重県,2200,RIS.FD,三重県
 Rootage,Red. by Jack Trance,0,,-,1406,HEKISA,三重県,2133,NONNKE,三重県,3406,47MO.R,三重県,0,,-
 Rootage,Re:Story,0,,-,394,ISENO,三重県,1032,MJN-L,三重県,1915,T*CHA,三重県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,536,SIN-Q,三重県,962,FIA,三重県,1631,T*CHA,三重県,0,,-
+Rootage,Please Welcome Mr.C,0,,-,1055,NOHNA,三重県,1765,HAGGER,三重県,2919,FRIP,三重県,0,,-
 Rootage,Playing With Fire,0,,-,945,NOHNA,三重県,1591,SULME,三重県,2303,39RA35,三重県,0,,-
 Rootage,Particle Arts,0,,-,816,KOZU.P,三重県,1534,NOHNA,三重県,2442,FRIP,三重県,0,,-
 Rootage,Painful Fate,0,,-,1101,METAL,三重県,2118,*BC*,三重県,3317,FRIP,三重県,0,,-
 Rootage,OVER TIME,0,,-,377,CINO,三重県,956,MJN-L,三重県,1541,RIS.TY,三重県,0,,-
 Rootage,ONIGOROSHI,0,,-,1005,JUN,三重県,1971,QUERY,三重県,2917,FRIP,三重県,0,,-
 Rootage,Night! Night! Night!,0,,-,1175,NOHNA,三重県,1820,MAJIN!,三重県,3006,FRIP,三重県,0,,-
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,861,NOHNA,三重県,1580,TAKUTO,三重県,2691,ATRIX,三重県,0,,-
 Rootage,Necroxis Girl,0,,-,1104,NOHNA,三重県,1776,SULME,三重県,2743,39RA35,三重県,0,,-
 Rootage,Macho Monky,0,,-,1443,HAGGER,三重県,2006,SULME,三重県,2960,FRIP,三重県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1050,NOHNA,三重県,1823,*BC*,三重県,3378,39RA35,三重県,0,,-
+Rootage,Lift Us High,0,,-,981,HAGGER,三重県,1540,TAKUTO,三重県,2448,ATRIX,三重県,0,,-
 Rootage,Level One,0,,-,1017,JUN,三重県,2247,RIS.FD,三重県,3399,39RA35,三重県,0,,-
 Rootage,Lethal Weapon,0,,-,1184,HAGGER,三重県,1896,HAGGER,三重県,3176,39RA35,三重県,0,,-
 Rootage,Let me be your cure,0,,-,1048,JUN,三重県,1428,RIS.TY,三重県,2667,FRIP,三重県,0,,-
@@ -1200,6 +1215,7 @@ Rootage,Hurry Hurry,0,,-,505,ELIZA*,三重県,923,TODE,三重県,2077,FRIP,三�
 Rootage,HOT LIMIT,397,QUERY,三重県,959,RUMIA,三重県,1729,YUKITO,三重県,2508,ATRIX,三重県,0,,-
 Rootage,HEISEI,0,,-,1166,RIS.FD,三重県,1926,MAJIN!,三重県,2530,ATRIX,三重県,0,,-
 Rootage,HARD BRAIN,0,,-,1299,NOHNA,三重県,2030,MAJIN!,三重県,3709,FRIP,三重県,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,903,.KWBT,三重県,2144,VERMUT,三重県,3841,39RA35,三重県,0,,-
 Rootage,Glory,0,,-,651,ISENO,三重県,1544,FIA,三重県,2311,FRIP,三重県,0,,-
 Rootage,GIGA THRASH,0,,-,1022,JUN,三重県,1879,HAKU0,三重県,2657,FRIP,三重県,0,,-
 Rootage,GENE,0,,-,1281,YOU!!,三重県,1952,39RA35,三重県,4272,FRIP,三重県,0,,-
@@ -1213,9 +1229,11 @@ Rootage,Dr. Chemical & Killing Machine,0,,-,930,JUN,三重県,1737,.JAM3.,三重
 Rootage,Digital Skipper,0,,-,957,T-TMY,三重県,1515,K,三重県,2203,HAGGER,三重県,0,,-
 Rootage,dAuntl3ss,0,,-,1054,TREIZE,三重県,2011,YUKITO,三重県,3454,FRIP,三重県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,821,NOHNA,三重県,1538,SULME,三重県,2367,FRIP,三重県,0,,-
+Rootage,COSMIC CYBER,0,,-,1007,VERMUT,三重県,1625,TAKUTO,三重県,2885,FRIP,三重県,0,,-
 Rootage,CoMAAAAAAA,0,,-,1049,YU-KI,三重県,2098,YUKITO,三重県,2388,47MO.R,三重県,0,,-
 Rootage,CODE:0,0,,-,1384,NOHNA,三重県,1924,TAKUTO,三重県,2743,39RA35,三重県,0,,-
 Rootage,Catch Our Fire!,0,,-,1277,NOHNA,三重県,2247,T*CHA,三重県,3668,39RA35,三重県,0,,-
+Rootage,Carry Me Away,0,,-,1093,NOHNA,三重県,1787,SULME,三重県,3135,39RA35,三重県,0,,-
 Rootage,Carmina,0,,-,1305,HAGGER,三重県,2408,HAGGER,三重県,3703,39RA35,三重県,0,,-
 Rootage,BLOSSOM,0,,-,1085,FRIP,三重県,1620,RIS.TY,三重県,2535,47MO.R,三重県,0,,-
 Rootage,BLACK JACKAL,0,,-,852,HAGGER,三重県,1522,TAKUTO,三重県,2314,FRIP,三重県,0,,-
@@ -1228,39 +1246,52 @@ Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1082,HAGGER,三重県,1654
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,962,HAGGER,三重県,1542,HAGGER,三重県,2235,39RA35,三重県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,828,HAGGER,三重県,1639,HAGGER,三重県,2680,T*CHA,三重県,0,,-
 Rootage,& Intelligence,0,,-,1023,.KWBT,三重県,2138,HAGGER,三重県,3128,ATRIX,三重県,0,,-
+HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,901,QUERY,三重県,1777,HAGGER,三重県,3039,39RA35,三重県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1140,HAGGER,三重県,1685,HAGGER,三重県,2848,39RA35,三重県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1047,TREIZE,三重県,1806,.AKARI,三重県,3181,39RA35,三重県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1328,NOHNA,三重県,2130,FRIP,三重県,3446,FRIP,三重県,0,,-
+HEROIC VERSE,眠りの国のステラ,0,,-,1149,KYURA,三重県,1823,HAGGER,三重県,2707,39RA35,三重県,0,,-
+HEROIC VERSE,狂水一華,0,,-,943,QUERY,三重県,1733,HAGGER,三重県,2669,FRIP,三重県,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,648,HAGGER,三重県,1117,HAGGER,三重県,1781,47MO.R,三重県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,854,CIRNO9,三重県,1618,HAGGER,三重県,2955,FRIP,三重県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1108,HAGGER,三重県,1749,HAGGER,三重県,2722,FRIP,三重県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,249,QUERY,三重県,642,CIRNO9,三重県,1299,HAGGER,三重県,1975,47MO.R,三重県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),337,NOHNA,三重県,565,HAGGER,三重県,1385,.AKARI,三重県,2164,FRIP,三重県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1147,TREIZE,三重県,1867,O-DEN,三重県,2906,FRIP,三重県,0,,-
+HEROIC VERSE,ラブキラ☆スプラッシュ,0,,-,1122,HAGGER,三重県,1652,HAGGER,三重県,2506,FRIP,三重県,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1031,HAGGER,三重県,2086,HAGGER,三重県,3668,39RA35,三重県,0,,-
+HEROIC VERSE,バッドエンド・シンドローム,0,,-,1059,HAGGER,三重県,1748,HAGGER,三重県,2954,T*CHA,三重県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),0,,-,806,HAGGER,三重県,1458,HAGGER,三重県,2382,ATRIX,三重県,0,,-
+HEROIC VERSE,シャムシールの舞,0,,-,843,HAGGER,三重県,1520,HAGGER,三重県,2509,39RA35,三重県,0,,-
 HEROIC VERSE,ガヴリールドロップキック,402,QUERY,三重県,781,CIRNO9,三重県,1626,HAKU0,三重県,2652,FRIP,三重県,0,,-
+HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1546,KYURA,三重県,2667,HAKU0,三重県,4202,39RA35,三重県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1079,RIVER*,三重県,1772,HAGGER,三重県,2882,FRIP,三重県,0,,-
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,872,TREIZE,三重県,1532,HAGGER,三重県,2470,39RA35,三重県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1076,HAGGER,三重県,1806,RIS.FD,三重県,2953,FRIP,三重県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,783,HAGGER,三重県,1529,HAGGER,三重県,2168,ATRIX,三重県,0,,-
+HEROIC VERSE,Vinculum stellarum,0,,-,940,HAGGER,三重県,2362,MAJIN!,三重県,3580,39RA35,三重県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,934,HAGGER,三重県,1319,HAGGER,三重県,1843,T*CHA,三重県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,454,QUERY,三重県,1044,HAGGER,三重県,1739,RIS.FD,三重県,2729,ATRIX,三重県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1492,HAGGER,三重県,2567,HAGGER,三重県,3293,FRIP,三重県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,940,MIEKEN,三重県,1978,HAKU0,三重県,3345,FRIP,三重県,0,,-
 HEROIC VERSE,Theory,0,,-,757,NOHNA,三重県,1379,HAGGER,三重県,2513,FRIP,三重県,0,,-
+HEROIC VERSE,The Sky of Sadness,0,,-,874,HAGGER,三重県,1505,HAGGER,三重県,2363,39RA35,三重県,0,,-
 HEROIC VERSE,THE F∀UST,0,,-,1281,QUERY,三重県,2272,HAGGER,三重県,3534,FRIP,三重県,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1410,HAGGER,三重県,2428,HAGGER,三重県,4036,FRIP,三重県,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,1017,HAGGER,三重県,1624,HAGGER,三重県,2804,ATRIX,三重県,0,,-
+HEROIC VERSE,take me higher,0,,-,819,HAGGER,三重県,1275,HAGGER,三重県,1987,T*CHA,三重県,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1387,HAGGER,三重県,1845,MIEKEN,三重県,3185,FRIP,三重県,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,749,YU-KI,三重県,1364,HAGGER,三重県,2056,39RA35,三重県,0,,-
+HEROIC VERSE,STOIC HYPOTHESIS,0,,-,1092,QUERY,三重県,1750,OARAI,三重県,2804,39RA35,三重県,0,,-
 HEROIC VERSE,Sparkle Smilin',0,,-,888,TURQUO,三重県,1488,O-DEN,三重県,2451,ATRIX,三重県,0,,-
+HEROIC VERSE,Smashing Wedge,0,,-,927,QUERY,三重県,2097,SYOTA,三重県,3682,39RA35,三重県,0,,-
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,985,HAGGER,三重県,1469,RIS.FD,三重県,2314,ATRIX,三重県,0,,-
 HEROIC VERSE,Silly Love,0,,-,789,CIRNO9,三重県,1403,RIS.FD,三重県,2061,FRIP,三重県,0,,-
 HEROIC VERSE,Shiva,0,,-,725,HAGGER,三重県,1476,RIS.FD,三重県,2104,47MO.R,三重県,0,,-
 HEROIC VERSE,Sellout,0,,-,547,CIRNO9,三重県,1060,HAGGER,三重県,2107,T*CHA,三重県,0,,-
 HEROIC VERSE,SCREW // owo // SCREW,0,,-,1117,HAGGER,三重県,2126,SULME,三重県,2944,FRIP,三重県,0,,-
 HEROIC VERSE,S!ck (Nhato Remix),0,,-,946,NOHNA,三重県,1616,HAGGER,三重県,2503,ATRIX,三重県,0,,-
+HEROIC VERSE,rough percussionythm,0,,-,1002,HAGGER,三重県,1628,SULME,三重県,2481,FRIP,三重県,0,,-
 HEROIC VERSE,Rave Patroller,0,,-,1340,QUERY,三重県,2326,HAGGER,三重県,3351,FRIP,三重県,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,1098,HAGGER,三重県,1749,HAGGER,三重県,2628,ATRIX,三重県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,996,HAGGER,三重県,1545,RIS.FD,三重県,2259,.32,三重県,0,,-
@@ -1271,36 +1302,53 @@ HEROIC VERSE,POP TEAM EPIC(kors k Remix),323,QUERY,三重県,538,HAGGER,三重�
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1214,NOHNA,三重県,1722,HAGGER,三重県,2804,ATRIX,三重県,0,,-
 HEROIC VERSE,Override,0,,-,933,NOHNA,三重県,1593,HAGGER,三重県,2876,ATRIX,三重県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,674,HAGGER,三重県,1413,HAGGER,三重県,2161,ATRIX,三重県,0,,-
+HEROIC VERSE,ORCA,0,,-,1268,RMASHI,三重県,2342,MAJIN!,三重県,3365,FRIP,三重県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,969,HAGGER,三重県,1583,HAGGER,三重県,2389,ATRIX,三重県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,1025,HAGGER,三重県,1503,HAGGER,三重県,2630,FRIP,三重県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,601,CIRNO9,三重県,1307,RIS.FD,三重県,1996,T*CHA,三重県,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,985,HAGGER,三重県,1684,HAGGER,三重県,2605,ATRIX,三重県,0,,-
 HEROIC VERSE,Moving on,0,,-,1044,HAGGER,三重県,1944,RIS.FD,三重県,2953,FRIP,三重県,0,,-
 HEROIC VERSE,Mel,0,,-,790,HAGGER,三重県,1521,RIS.FD,三重県,2164,T*CHA,三重県,0,,-
+HEROIC VERSE,Megalara Garuda,0,,-,1436,QUERY,三重県,1912,SYOTA,三重県,3000,T*CHA,三重県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1164,HAGGER,三重県,2111,HAGGER,三重県,3305,FRIP,三重県,0,,-
+HEROIC VERSE,Lost Souls,0,,-,657,QUERY,三重県,1610,TAKUTO,三重県,2428,39RA35,三重県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1059,FRIP,三重県,1825,SULME,三重県,2933,FRIP,三重県,0,,-
 HEROIC VERSE,Like+it!,0,,-,1028,.JAM3.,三重県,1754,YUKITO,三重県,2347,FRIP,三重県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,918,NOHNA,三重県,1665,HAGGER,三重県,3230,FRIP,三重県,0,,-
+HEROIC VERSE,Level 2,0,,-,892,QUERY,三重県,1696,FRIP,三重県,2767,FRIP,三重県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,758,NOHNA,三重県,1777,HAGGER,三重県,3515,FRIP,三重県,0,,-
+HEROIC VERSE,Jetcoaster Windy,0,,-,801,QUERY,三重県,1378,.JAM3.,三重県,2235,39RA35,三重県,0,,-
+HEROIC VERSE,Into The Madness,0,,-,969,QUERY,三重県,1588,MAJIN!,三重県,2480,FRIP,三重県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,853,CIRNO9,三重県,1395,HAGGER,三重県,2278,ATRIX,三重県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1001,TREIZE,三重県,1858,FRIP,三重県,3064,FRIP,三重県,0,,-
+HEROIC VERSE,If,0,,-,769,QUERY,三重県,1341,HAGGER,三重県,1881,FRIP,三重県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,668,HAGGER,三重県,1528,HAGGER,三重県,1973,ATRIX,三重県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,935,NOHNA,三重県,1515,HAGGER,三重県,2608,T*CHA,三重県,0,,-
 HEROIC VERSE,Hold My Hand,0,,-,937,HAGGER,三重県,1701,RIS.FD,三重県,2475,47MO.R,三重県,0,,-
 HEROIC VERSE,GIGA VIOLATE,0,,-,1108,HAGGER,三重県,1615,HAGGER,三重県,2722,FRIP,三重県,0,,-
+HEROIC VERSE,GHOST,0,,-,764,QUERY,三重県,1403,FIA,三重県,2692,FRIP,三重県,0,,-
+HEROIC VERSE,Friction[!]Function,0,,-,1102,RIS.FD,三重県,1783,RIS.FD,三重県,3162,FRIP,三重県,0,,-
+HEROIC VERSE,Forgetting Machine,0,,-,698,NOHNA,三重県,1196,QUERY,三重県,1696,ATRIX,三重県,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,860,NOHNA,三重県,1531,HAGGER,三重県,2379,YUKITO,三重県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,457,CIRNO9,三重県,1109,HAGGER,三重県,1640,ATRIX,三重県,0,,-
 HEROIC VERSE,EXCITE,322,QUERY,三重県,829,HAGGER,三重県,1368,HAGGER,三重県,2221,47MO.R,三重県,0,,-
+HEROIC VERSE,Everlasting Message,0,,-,1254,39RA35,三重県,2225,CHAM,三重県,3687,39RA35,三重県,0,,-
+HEROIC VERSE,EROICA,0,,-,1284,ADEL,三重県,2282,SYOTA,三重県,3792,39RA35,三重県,0,,-
 HEROIC VERSE,Duration,0,,-,542,CIRNO9,三重県,1023,HAGGER,三重県,1942,YUKITO,三重県,0,,-
 HEROIC VERSE,Drop It,0,,-,1385,HAGGER,三重県,1976,MAJIN!,三重県,2711,FRIP,三重県,0,,-
+HEROIC VERSE,Double Dribble,0,,-,1260,O-DEN,三重県,1916,SULME,三重県,3267,FRIP,三重県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,703,HAGGER,三重県,1274,HAGGER,三重県,1994,ATRIX,三重県,0,,-
+HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1336,CHAM,三重県,2224,39RA35,三重県,3363,39RA35,三重県,0,,-
 HEROIC VERSE,Crank It,0,,-,781,HAGGER,三重県,1447,HAGGER,三重県,2439,FRIP,三重県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,965,HAGGER,三重県,1746,HAGGER,三重県,2512,47MO.R,三重県,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,996,HAGGER,三重県,1526,HAGGER,三重県,2431,FRIP,三重県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,807,HAGGER,三重県,1955,YUKITO,三重県,3069,FRIP,三重県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,900,HAGGER,三重県,1712,HAGGER,三重県,2441,ATRIX,三重県,0,,-
 HEROIC VERSE,beatAffection,0,,-,1041,HAGGER,三重県,1556,HAGGER,三重県,2639,ATRIX,三重県,0,,-
+HEROIC VERSE,BEAT PRISONER,0,,-,1184,SYOTA,三重県,2068,HAGGER,三重県,3540,FRIP,三重県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,963,FEDKIA,三重県,1611,HAGGER,三重県,2234,FRIP,三重県,0,,-
+HEROIC VERSE,Artist,0,,-,1242,YOU!!,三重県,2325,HAGGER,三重県,3519,FRIP,三重県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,730,HAGGER,三重県,1308,HAGGER,三重県,1998,T*CHA,三重県,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1200,NOHNA,三重県,2358,HAGGER,三重県,3542,FRIP,三重県,0,,-
+HEROIC VERSE,Advent Infamous,0,,-,965,ADEL,三重県,1637,HAGGER,三重県,2839,FRIP,三重県,0,,-
 HEROIC VERSE,27th style,0,,-,1169,FRIP,三重県,1765,MAJIN!,三重県,2513,47MO.R,三重県,0,,-
