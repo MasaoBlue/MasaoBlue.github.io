@@ -7,7 +7,7 @@
 1st&substream,KEEP ON MOVIN',0,,-,184,HIR2,奈良県,228,LAPIS,奈良県,0,,-,0,,-
 1st&substream,GRADIUSIC CYBER,0,,-,799,HIR2,奈良県,903,LAPIS,奈良県,1187,4GEPO4,奈良県,0,,-
 1st&substream,gentle stress,0,,-,336,KOMONO,奈良県,658,LAPIS,奈良県,1421,CYBELE,奈良県,0,,-
-1st&substream,GENOM SCREAMS,0,,-,394,DAYAN,奈良県,704,LAPIS,奈良県,1033,4GEPO4,奈良県,0,,-
+1st&substream,GENOM SCREAMS,0,,-,394,DAYAN,奈良県,792,BELTRE,奈良県,1033,4GEPO4,奈良県,0,,-
 1st&substream,GAMBOL,0,,-,249,HIR2,奈良県,272,BELTRE,奈良県,0,,-,0,,-
 1st&substream,Dr.LOVE,0,,-,364,HIR2,奈良県,516,ROTALA,奈良県,571,ROTALA,奈良県,0,,-
 1st&substream,deep in you,0,,-,445,HIR2,奈良県,472,LAPIS,奈良県,646,ROTALA,奈良県,0,,-
@@ -51,7 +51,7 @@
 4th style,Burnin' The Floor,0,,-,532,HIR2,奈良県,932,BELTRE,奈良県,1411,BELTRE,奈良県,0,,-
 4th style,Broken My Heart,0,,-,879,HIR2,奈良県,1288,SETOA,奈良県,1763,AISBIS,奈良県,0,,-
 4th style,B4U,0,,-,961,*IKKI*,奈良県,1476,SSTILE,奈良県,1971,UOKI,奈良県,0,,-
-4th style,ABSOLUTE,0,,-,1129,TZ-TSU,奈良県,1738,SSTILE,奈良県,2361,PUIPUI,奈良県,2534,PUIPUI,奈良県
+4th style,ABSOLUTE,0,,-,1188,HIR2,奈良県,1738,SSTILE,奈良県,2361,PUIPUI,奈良県,2534,PUIPUI,奈良県
 4th style,250bpm,0,,-,611,TZ-TSU,奈良県,1003,7-11,奈良県,1338,ROTALA,奈良県,0,,-
 5th style,V,326,HIR2,奈良県,1178,NI9-G6,奈良県,2416,KAEDE,奈良県,2894,PUIPUI,奈良県,0,,-
 5th style,THE SHINING POLARIS,0,,-,842,HIR2,奈良県,1238,7-11,奈良県,1520,BELTRE,奈良県,0,,-
@@ -71,12 +71,12 @@
 5th style,in my eyes,0,,-,913,HIR2,奈良県,1310,LAPIS,奈良県,1473,LATZET,奈良県,0,,-
 5th style,Abyss,0,,-,1196,HIR2,奈良県,1586,KAEDE,奈良県,1824,4GEPO4,奈良県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,935,DAYAN,奈良県,1433,BELTRE,奈良県,0,,-,0,,-
-6th style,こっちを向いてよ,0,,-,718,HIR2,奈良県,1161,333233,奈良県,1305,CYBELE,奈良県,0,,-
+6th style,こっちを向いてよ,0,,-,718,HIR2,奈良県,1212,7-11,奈良県,1305,CYBELE,奈良県,0,,-
 6th style,VJ ARMY,0,,-,1147,NI9-G6,奈良県,1595,7-11,奈良県,2111,ROTALA,奈良県,0,,-
 6th style,Take It Easy,0,,-,0,,-,2291,SSTILE,奈良県,2444,D-CHAN,奈良県,0,,-
-6th style,Summer Vacation(CU mix),0,,-,0,,-,1799,4GEPO4,奈良県,0,,-,0,,-
-6th style,SOMETHING WONDERFUL,0,,-,865,NI9-G6,奈良県,1201,LAPIS,奈良県,1859,BELTRE,奈良県,0,,-
-6th style,route 80s,0,,-,791,333233,奈良県,1018,GR****,奈良県,1432,TYS-R,奈良県,0,,-
+6th style,Summer Vacation(CU mix),0,,-,1128,HIR2,奈良県,1799,4GEPO4,奈良県,0,,-,0,,-
+6th style,SOMETHING WONDERFUL,0,,-,865,NI9-G6,奈良県,1278,BELTRE,奈良県,1859,BELTRE,奈良県,0,,-
+6th style,route 80s,0,,-,791,333233,奈良県,1156,7-11,奈良県,1432,TYS-R,奈良県,0,,-
 6th style,rottel-da-sun,0,,-,731,HIR2,奈良県,1258,NI9-G6,奈良県,1739,SYPHA,奈良県,0,,-
 6th style,NEMESIS,0,,-,904,HIR2,奈良県,1527,SSTILE,奈良県,1770,KAEDE,奈良県,0,,-
 6th style,Linus,0,,-,888,HIR2,奈良県,1447,NI9-G6,奈良県,2156,PUIPUI,奈良県,0,,-
@@ -90,16 +90,16 @@
 6th style,Blueberry Stream,0,,-,728,HIR2,奈良県,1271,222255,奈良県,1570,AISBIS,奈良県,0,,-
 6th style,BALLAD FOR YOU～想いの雨～,0,,-,543,HIR2,奈良県,741,NI9-G6,奈良県,1059,BELTRE,奈良県,0,,-
 6th style,"19,November",0,,-,1028,HIR2,奈良県,1167,GR****,奈良県,1738,AISBIS,奈良県,0,,-
-7th style,革命,0,,-,737,7-11,奈良県,1815,BELTRE,奈良県,2197,ROTALA,奈良県,0,,-
+7th style,革命,0,,-,737,7-11,奈良県,1846,TAKU,奈良県,2197,ROTALA,奈良県,0,,-
 7th style,ZERO-ONE,0,,-,946,RYOTSU,奈良県,1614,SSTILE,奈良県,2154,MYANJI,奈良県,0,,-
 7th style,traces,0,,-,1379,333233,奈良県,1639,K,奈良県,2047,MAJOR,奈良県,0,,-
 7th style,Tomorrow Perfume,0,,-,1153,333233,奈良県,1813,BELTRE,奈良県,1994,AISBIS,奈良県,0,,-
-7th style,stoic,0,,-,1462,NI9-G6,奈良県,1971,SETOA,奈良県,2505,PUIPUI,奈良県,0,,-
-7th style,Spica,0,,-,623,7-11,奈良県,1402,BELTRE,奈良県,2080,4GEPO4,奈良県,0,,-
+7th style,stoic,0,,-,1462,NI9-G6,奈良県,2111,BELTRE,奈良県,2505,PUIPUI,奈良県,0,,-
+7th style,Spica,0,,-,623,7-11,奈良県,1410,7-11,奈良県,2080,4GEPO4,奈良県,0,,-
 7th style,Love Me Do,0,,-,1031,HIR2,奈良県,1647,NI9-G6,奈良県,2071,KAEDE,奈良県,0,,-
 7th style,Let the Snow Paint Me,0,,-,797,TZ-TSU,奈良県,1002,SETOA,奈良県,1217,BELTRE,奈良県,0,,-
 7th style,Last Message,0,,-,927,HIR2,奈良県,1237,BON1NU,奈良県,1527,2KU4MI,奈良県,0,,-
-7th style,Happy Wedding,0,,-,892,HAYATO,奈良県,1499,GR****,奈良県,1774,AISBIS,奈良県,0,,-
+7th style,Happy Wedding,0,,-,1075,HIR2,奈良県,1499,GR****,奈良県,1774,AISBIS,奈良県,0,,-
 7th style,Glorious Days,0,,-,469,HIR2,奈良県,679,HIR2,奈良県,872,BELTRE,奈良県,0,,-
 7th style,foreplay,0,,-,618,HIR2,奈良県,1137,SSTILE,奈良県,1228,2KU4MI,奈良県,0,,-
 7th style,DESTINY,0,,-,995,HIR2,奈良県,1368,BELTRE,奈良県,1776,4GEPO4,奈良県,0,,-
@@ -109,7 +109,7 @@
 7th style,Bad Routine,0,,-,947,HIR2,奈良県,1258,HIR2,奈良県,1885,ROTALA,奈良県,0,,-
 7th style,AVE DE RAPINA,0,,-,1107,HAM!?,奈良県,1599,BELTRE,奈良県,1725,7-11,奈良県,0,,-
 7th style,A,0,,-,1174,222255,奈良県,2004,BELTRE,奈良県,2450,PUIPUI,奈良県,0,,-
-8th style,蒼い衝動,0,,-,819,HIR2,奈良県,1144,GR****,奈良県,1561,ROTALA,奈良県,0,,-
+8th style,蒼い衝動,0,,-,819,HIR2,奈良県,1193,GR****,奈良県,1561,ROTALA,奈良県,0,,-
 8th style,桜,0,,-,850,MIZORE,奈良県,1391,7-11,奈良県,1984,4GEPO4,奈良県,0,,-
 8th style,xenon,0,,-,947,HIR2,奈良県,1580,YIMA,奈良県,2572,4GEPO4,奈良県,0,,-
 8th style,World Wide Love,0,,-,651,HIR2,奈良県,987,HIR2,奈良県,1102,BELTRE,奈良県,0,,-
@@ -123,7 +123,7 @@
 8th style,Monkey Dance,0,,-,765,HIR2,奈良県,1333,BELTRE,奈良県,1922,KAEDE,奈良県,0,,-
 8th style,memories,0,,-,1033,HIR2,奈良県,1851,NI9-G6,奈良県,2085,SYPHA,奈良県,0,,-
 8th style,Luv 2 Feel Your Body,0,,-,792,NI9-G6,奈良県,923,SETOA,奈良県,1559,KOMONO,奈良県,0,,-
-8th style,LOVE IS ORANGE,0,,-,729,HIR2,奈良県,925,NUHEHO,奈良県,1785,PUIPUI,奈良県,2090,PUIPUI,奈良県
+8th style,LOVE IS ORANGE,0,,-,765,NI9-G6,奈良県,940,HIR2,奈良県,1785,PUIPUI,奈良県,2090,PUIPUI,奈良県
 8th style,LAB,0,,-,951,HIR2,奈良県,1858,BELTRE,奈良県,1980,4GEPO4,奈良県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1185,NI9-G6,奈良県,1747,NI9-G6,奈良県,2074,SYPHA,奈良県,0,,-
 8th style,Halfway of promise,0,,-,883,HIR2,奈良県,1456,SSTILE,奈良県,1783,D-CHAN,奈良県,0,,-
@@ -147,13 +147,13 @@
 9th style,rottel-the-Mercury,0,,-,933,NYAAN,奈良県,1699,K,奈良県,2215,ROTALA,奈良県,0,,-
 9th style,RISLIM -Remix-,0,,-,721,HIR2,奈良県,953,BELTRE,奈良県,1772,STILE,奈良県,0,,-
 9th style,Really Love,0,,-,602,HIR2,奈良県,902,GR****,奈良県,1722,ROTALA,奈良県,0,,-
-9th style,Quickening,0,,-,848,HIR2,奈良県,1681,SSTILE,奈良県,2074,D-CHAN,奈良県,0,,-
+9th style,Quickening,0,,-,856,HIR2,奈良県,1681,SSTILE,奈良県,2074,D-CHAN,奈良県,0,,-
 9th style,quasar,0,,-,1085,333233,奈良県,1724,BELTRE,奈良県,2284,D-CHAN,奈良県,0,,-
 9th style,one or eight,0,,-,1213,Z&S,奈良県,1746,YIMA,奈良県,2257,PUIPUI,奈良県,0,,-
 9th style,moon_child,0,,-,970,HIR2,奈良県,1779,NI9-G6,奈良県,2498,D-CHAN,奈良県,0,,-
 9th style,MARIA (I believe... ),0,,-,711,HIR2,奈良県,1515,BELTRE,奈良県,1839,7-11,奈良県,0,,-
 9th style,Make A Difference,0,,-,734,HIR2,奈良県,1541,BELTRE,奈良県,2184,D-CHAN,奈良県,0,,-
-9th style,lower world,0,,-,1221,333233,奈良県,1620,SETOA,奈良県,2085,KAEDE,奈良県,0,,-
+9th style,lower world,0,,-,1221,333233,奈良県,1620,SETOA,奈良県,2108,KAEDE,奈良県,0,,-
 9th style,LOVE SHINE,491,HIR2,奈良県,794,HIR2,奈良県,1804,ARACCH,奈良県,2060,2KU4MI,奈良県,0,,-
 9th style,lights,0,,-,653,HIR2,奈良県,1356,BELTRE,奈良県,1672,BELTRE,奈良県,0,,-
 9th style,Karma,0,,-,1208,HIR2,奈良県,1458,SETOA,奈良県,1807,PUIPUI,奈良県,0,,-
@@ -163,23 +163,23 @@
 9th style,e-motion 2003  -romantic extra-,0,,-,1212,333233,奈良県,1547,BELTRE,奈良県,1855,IZAQ,奈良県,0,,-
 9th style,Distress,0,,-,827,DAYAN,奈良県,1705,SYPHA,奈良県,0,,-,0,,-
 9th style,Cradle,0,,-,848,HIR2,奈良県,1419,BELTRE,奈良県,1531,KIRITO,奈良県,0,,-
-9th style,BRIGHTNESS DARKNESS,0,,-,672,HIR2,奈良県,1198,HIR2,奈良県,1700,4GEPO4,奈良県,0,,-
+9th style,BRIGHTNESS DARKNESS,0,,-,672,HIR2,奈良県,1201,RMPS*,奈良県,1700,4GEPO4,奈良県,0,,-
 9th style,bag,0,,-,834,HIR2,奈良県,0,,-,1878,ROTALA,奈良県,0,,-
 9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,-,869,HIR2,奈良県,1235,SETOA,奈良県,1731,CYBELE,奈良県,0,,-
 9th style,ATOMIC AGE,0,,-,337,HIR2,奈良県,664,BELTRE,奈良県,1230,BELTRE,奈良県,0,,-
-9th style,ACT,0,,-,0,,-,1481,SETOA,奈良県,1721,BELTRE,奈良県,0,,-
+9th style,ACT,0,,-,657,ENJU,奈良県,1481,SETOA,奈良県,1721,BELTRE,奈良県,0,,-
 9th style,Abyss -The Heavens Remix-,523,HIR2,奈良県,1215,TZ-TSU,奈良県,1777,SSTILE,奈良県,2297,4GEPO4,奈良県,0,,-
 10th style,雪月花,0,,-,1078,333233,奈良県,1799,K-TA.N,奈良県,2482,PUIPUI,奈良県,0,,-
-10th style,システムロマンス,0,,-,821,HIR2,奈良県,1620,HIR2,奈良県,1939,BELTRE,奈良県,0,,-
+10th style,システムロマンス,0,,-,821,HIR2,奈良県,1713,BELTRE,奈良県,1939,BELTRE,奈良県,0,,-
 10th style,SPACE FIGHT,0,,-,613,DAYAN,奈良県,1454,SSTILE,奈良県,2119,ARACCH,奈良県,0,,-
 10th style,SHOOTING STAR,0,,-,968,JZXSTY,奈良県,1439,222255,奈良県,2120,7-11,奈良県,0,,-
 10th style,Rise'n Beauty,0,,-,1131,HIR2,奈良県,1301,222255,奈良県,2059,4GEPO4,奈良県,0,,-
-10th style,rainbow rainbow,0,,-,1329,MIZORE,奈良県,2079,BELTRE,奈良県,2644,4GEPO4,奈良県,0,,-
+10th style,rainbow rainbow,0,,-,1329,MIZORE,奈良県,2150,KAEDE,奈良県,2644,4GEPO4,奈良県,0,,-
 10th style,pandora,0,,-,827,HIR2,奈良県,1494,Z&S,奈良県,1791,EVO69,奈良県,0,,-
 10th style,One More Lovely,0,,-,807,DAYAN,奈良県,1548,NI9-G6,奈良県,2811,PUIPUI,奈良県,0,,-
 10th style,No.13,0,,-,1497,NI9-G6,奈良県,2483,BELTRE,奈良県,2929,STILE,奈良県,0,,-
 10th style,Narcissus At Oasis,0,,-,750,Z&S,奈良県,1492,YIMA,奈良県,1615,4GEPO4,奈良県,0,,-
-10th style,Lucy,0,,-,925,HIR2,奈良県,1593,LAPIS,奈良県,2300,D-CHAN,奈良県,0,,-
+10th style,Lucy,0,,-,925,HIR2,奈良県,1643,NI9-G6,奈良県,2300,D-CHAN,奈良県,0,,-
 10th style,Love Is Eternity,0,,-,1124,333233,奈良県,1921,SSTILE,奈良県,2360,4GEPO4,奈良県,0,,-
 10th style,Innocent Walls,0,,-,1578,SSTILE,奈良県,2365,4GEPO4,奈良県,2739,D-CHAN,奈良県,0,,-
 10th style,HIGH,0,,-,876,HIR2,奈良県,1862,BELTRE,奈良県,2084,EVO69,奈良県,0,,-
@@ -209,7 +209,7 @@ IIDX RED,The Hope of Tomorrow,0,,-,997,HIR2,奈良県,1639,BELTRE,奈良県,1910
 IIDX RED,spiral galaxy,0,,-,1010,HIR2,奈良県,1913,YIMA,奈良県,2473,PUIPUI,奈良県,3525,STILE,奈良県
 IIDX RED,Sphere,0,,-,1002,HIR2,奈良県,1781,BELTRE,奈良県,2112,KAEDE,奈良県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,1061,HIR2,奈良県,1383,222255,奈良県,1983,ROTALA,奈良県,0,,-
-IIDX RED,Secret of Love,0,,-,1001,HIR2,奈良県,1233,222255,奈良県,2011,D-CHAN,奈良県,0,,-
+IIDX RED,Secret of Love,0,,-,1001,HIR2,奈良県,1261,HIR2,奈良県,2011,D-CHAN,奈良県,0,,-
 IIDX RED,RESONATE 1794,0,,-,854,HIR2,奈良県,1292,NI9-G6,奈良県,1863,4GEPO4,奈良県,0,,-
 IIDX RED,RED ZONE,171,HIR2,奈良県,1016,HIR2,奈良県,1706,NI9-G6,奈良県,2294,4GEPO4,奈良県,2973,KIRITO,奈良県
 IIDX RED,Raspberry Heart(English version),0,,-,959,HIR2,奈良県,1521,7-11,奈良県,1791,AISBIS,奈良県,0,,-
@@ -217,13 +217,13 @@ IIDX RED,NEBULA GRASPER,0,,-,1289,333233,奈良県,1795,SETOA,奈良県,2416,D-C
 IIDX RED,KEY,0,,-,1051,HIR2,奈良県,1697,LAPIS,奈良県,2789,CYBELE,奈良県,0,,-
 IIDX RED,HORIZON,0,,-,1009,HIR2,奈良県,1474,NI9-G6,奈良県,1930,4GEPO4,奈良県,0,,-
 IIDX RED,gigadelic,638,HIR2,奈良県,1365,NI9-G6,奈良県,2048,ROTALA,奈良県,2365,AISBIS,奈良県,0,,-
-IIDX RED,GENOCIDE,0,,-,916,MIZORE,奈良県,1787,BELTRE,奈良県,2308,4GEPO4,奈良県,0,,-
+IIDX RED,GENOCIDE,0,,-,916,MIZORE,奈良県,1801,BELTRE,奈良県,2308,4GEPO4,奈良県,0,,-
 IIDX RED,Fly Away To India,0,,-,620,HIR2,奈良県,1022,333233,奈良県,1339,AISBIS,奈良県,0,,-
 IIDX RED,FAKE TIME,0,,-,928,HIR2,奈良県,1666,GAZEL,奈良県,2340,PUIPUI,奈良県,0,,-
 IIDX RED,earth scape,0,,-,425,AISBIS,奈良県,952,HIR2,奈良県,1247,7-11,奈良県,0,,-
 IIDX RED,Don't be afraid myself,0,,-,1017,HIR2,奈良県,1544,SETOA,奈良県,2163,AQOOA,奈良県,0,,-
 IIDX RED,D.A.N.C.E.!,0,,-,532,HIR2,奈良県,784,GR****,奈良県,1524,MYANJI,奈良県,0,,-
-IIDX RED,Close my Eyes for Me,0,,-,923,HIR2,奈良県,1247,SSTILE,奈良県,1728,4GEPO4,奈良県,0,,-
+IIDX RED,Close my Eyes for Me,0,,-,923,HIR2,奈良県,1377,BELTRE,奈良県,1728,4GEPO4,奈良県,0,,-
 IIDX RED,Click Again,0,,-,826,HIR2,奈良県,1382,7-11,奈良県,2115,D-CHAN,奈良県,0,,-
 IIDX RED,BREATH,0,,-,854,HIR2,奈良県,1184,KOTB-K,奈良県,1633,AISBIS,奈良県,0,,-
 IIDX RED,BLOCKS,0,,-,767,HIR2,奈良県,1237,7-11,奈良県,1947,D-CHAN,奈良県,0,,-
@@ -237,13 +237,13 @@ HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,
 HAPPY SKY,冥,544,HIR2,奈良県,1010,333233,奈良県,1943,PPHK,奈良県,3591,PUIPUI,奈良県,0,,-
 HAPPY SKY,ラクエン,0,,-,665,HIR2,奈良県,631,JZXSTY,奈良県,1943,D-CHAN,奈良県,0,,-
 HAPPY SKY,ヒマワリ,0,,-,531,HIR2,奈良県,1806,SSTILE,奈良県,2005,BBBBBB,奈良県,0,,-
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,0,,-,1380,BELTRE,奈良県,1668,ROTALA,奈良県,0,,-
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,702,DAYAN,奈良県,1380,BELTRE,奈良県,1668,ROTALA,奈良県,0,,-
 HAPPY SKY,Xepher,392,NI9-G6,奈良県,1090,7-11,奈良県,2043,K-TA.N,奈良県,2944,D-CHAN,奈良県,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,637,HIR2,奈良県,936,BELTRE,奈良県,1606,AAAAAA,奈良県,0,,-
 HAPPY SKY,Votum stellarum,0,,-,761,HIR2,奈良県,1485,HORI.,奈良県,1890,4GEPO4,奈良県,0,,-
 HAPPY SKY,vault of heaven,0,,-,720,HIR2,奈良県,1127,SENDO,奈良県,1933,ARACCH,奈良県,0,,-
 HAPPY SKY,Under the Sky,0,,-,842,HIR2,奈良県,1376,BELTRE,奈良県,1710,4GEPO4,奈良県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,1168,333233,奈良県,1297,SETOA,奈良県,1929,KAEDE,奈良県,3255,PUIPUI,奈良県
+HAPPY SKY,Twelfth Style,0,,-,1168,333233,奈良県,1321,SETOA,奈良県,1929,KAEDE,奈良県,3255,PUIPUI,奈良県
 HAPPY SKY,Tizona d'El Cid,0,,-,845,HIR2,奈良県,1804,SSTILE,奈良県,2204,AISBIS,奈良県,0,,-
 HAPPY SKY,SigSig,652,HIR2,奈良県,992,HIR2,奈良県,1423,MISO-T,奈良県,2506,MAJOR,奈良県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1293,YIMA,奈良県,1586,SSTILE,奈良県,1922,7-11,奈良県,0,,-
@@ -252,7 +252,7 @@ HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1325,RYOTSU,奈良県,2063,7-11,奈�
 HAPPY SKY,SCREAM SQUAD,0,,-,836,JZXSTY,奈良県,1524,YIMA,奈良県,1943,4GEPO4,奈良県,0,,-
 HAPPY SKY,rage against usual,0,,-,948,JZXSTY,奈良県,1911,BELTRE,奈良県,2937,PUIPUI,奈良県,0,,-
 HAPPY SKY,POODLE,0,,-,896,HIR2,奈良県,1610,NUHEHO,奈良県,2200,7-11,奈良県,3339,D-CHAN,奈良県
-HAPPY SKY,Pollinosis,0,,-,723,HIR2,奈良県,970,BUTA2Q,奈良県,2465,PUIPUI,奈良県,0,,-
+HAPPY SKY,Pollinosis,0,,-,723,HIR2,奈良県,1006,HIR2,奈良県,2465,PUIPUI,奈良県,0,,-
 HAPPY SKY,PLASMA,0,,-,890,HIR2,奈良県,1575,SSTILE,奈良県,2198,MYANJI,奈良県,0,,-
 HAPPY SKY,Pink Rose,0,,-,552,DAYAN,奈良県,886,GR****,奈良県,1398,4GEPO4,奈良県,0,,-
 HAPPY SKY,MOON RACE,0,,-,783,HIR2,奈良県,1169,ARACCH,奈良県,1753,LIME-B,奈良県,0,,-
@@ -276,7 +276,7 @@ HAPPY SKY,Aurora,0,,-,1257,HIR2,奈良県,1954,LIGHT,奈良県,2525,PUIPUI,奈�
 HAPPY SKY,alla turca con passione,0,,-,757,ALT.I,奈良県,1587,7-11,奈良県,2172,D-CHAN,奈良県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,837,HIR2,奈良県,1560,SSTILE,奈良県,1988,ROTALA,奈良県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,857,HIR2,奈良県,1535,BELTRE,奈良県,1667,PUIPUI,奈良県,0,,-
-DistorteD,虹色,0,,-,889,HIR2,奈良県,1522,K-TA.N,奈良県,1795,KOMONO,奈良県,0,,-
+DistorteD,虹色,0,,-,892,DAYAN,奈良県,1522,K-TA.N,奈良県,1795,KOMONO,奈良県,0,,-
 DistorteD,華蝶風雪,0,,-,1181,333233,奈良県,2015,KAEDE,奈良県,2915,MAJOR,奈良県,0,,-
 DistorteD,罠,0,,-,529,HIR2,奈良県,1509,7-11,奈良県,2412,BELTRE,奈良県,0,,-
 DistorteD,嘆きの樹,0,,-,1739,7-11,奈良県,2439,UOKI,奈良県,3863,PUIPUI,奈良県,0,,-
@@ -327,13 +327,13 @@ GOLD,TRANOID,0,,-,742,HIR2,奈良県,1617,SSTILE,奈良県,2026,PPHK,奈良県,2
 GOLD,The Smile of You,0,,-,878,HIR2,奈良県,1207,HIR2,奈良県,1622,D-CHAN,奈良県,0,,-
 GOLD,the shadow,0,,-,1096,DAYAN,奈良県,1771,SETOA,奈良県,2867,D-CHAN,奈良県,0,,-
 GOLD,snow storm,234,HIR2,奈良県,758,HIR2,奈良県,2035,SETOA,奈良県,2658,KAEDE,奈良県,3355,D-CHAN,奈良県
-GOLD,smile,0,,-,1468,7-11,奈良県,2025,NI9-G6,奈良県,2766,KE2-3,奈良県,0,,-
+GOLD,smile,0,,-,1468,7-11,奈良県,2025,NI9-G6,奈良県,2842,PUIPUI,奈良県,0,,-
 GOLD,Sense 2007,0,,-,1469,7-11,奈良県,2105,AISBIS,奈良県,2850,D-CHAN,奈良県,0,,-
 GOLD,Second Heaven,202,HIR2,奈良県,907,HIR2,奈良県,1528,7-11,奈良県,2111,PUIPUI,奈良県,0,,-
 GOLD,Roulette,0,,-,834,HIR2,奈良県,1395,SSTILE,奈良県,1982,SYPHA,奈良県,0,,-
 GOLD,PHOTONGENIC,0,,-,1177,HIR2,奈良県,1713,SETOA,奈良県,2186,SYPHA,奈良県,0,,-
 GOLD,op.31 叙情,0,,-,458,HIR2,奈良県,1116,ARACCH,奈良県,1465,ATRIX,奈良県,0,,-
-GOLD,never…,0,,-,760,HIR2,奈良県,1109,JZXSTY,奈良県,1770,7-11,奈良県,0,,-
+GOLD,never…,0,,-,760,HIR2,奈良県,1109,JZXSTY,奈良県,1780,PUIPUI,奈良県,0,,-
 GOLD,METALLIC MIND,0,,-,802,HIR2,奈良県,1397,7-11,奈良県,1609,D-CHAN,奈良県,0,,-
 GOLD,Make Me Your Own,0,,-,798,TZ-TSU,奈良県,1569,SSTILE,奈良県,2070,UOKI,奈良県,0,,-
 GOLD,Love Again...,0,,-,550,TZ-TSU,奈良県,742,TZ-TSU,奈良県,1057,ROTALA,奈良県,0,,-
@@ -341,9 +341,9 @@ GOLD,LASER CRUSTER,0,,-,1159,B-TAI,奈良県,2209,YIMA,奈良県,2963,KAEDE,奈�
 GOLD,KAMAITACHI,0,,-,1144,HIR2,奈良県,1702,HAL,奈良県,2552,KAEDE,奈良県,3841,PUIPUI,奈良県
 GOLD,INORI,0,,-,1275,TZ-TSU,奈良県,2482,SSTILE,奈良県,3039,KAEDE,奈良県,0,,-
 GOLD,High School Love,381,HIR2,奈良県,807,HIR2,奈良県,1492,NI9-G6,奈良県,2146,KOMONO,奈良県,0,,-
-GOLD,heaven above,0,,-,753,HIR2,奈良県,1187,ALT.I,奈良県,1808,PUIPUI,奈良県,0,,-
+GOLD,heaven above,0,,-,753,HIR2,奈良県,1187,ALT.I,奈良県,1812,PUIPUI,奈良県,0,,-
 GOLD,GRID KNIGHT,0,,-,735,HIR2,奈良県,1861,SSTILE,奈良県,2416,7-11,奈良県,3378,KIRITO,奈良県
-GOLD,GOLD RUSH,526,HIR2,奈良県,972,DAYAN,奈良県,1426,SSTILE,奈良県,2218,KAEDE,奈良県,0,,-
+GOLD,GOLD RUSH,526,HIR2,奈良県,1164,7-11,奈良県,1426,SSTILE,奈良県,2218,KAEDE,奈良県,0,,-
 GOLD,four-leaf,0,,-,705,HIR2,奈良県,1027,GR****,奈良県,1651,4GEPO4,奈良県,0,,-
 GOLD,FIRE FIRE,521,HIR2,奈良県,1093,DAYAN,奈良県,1738,7-11,奈良県,2695,UOKI,奈良県,0,,-
 GOLD,Fascination MAXX,0,,-,887,ARACCH,奈良県,1603,KAEDE,奈良県,2276,4GEPO4,奈良県,0,,-
@@ -373,7 +373,7 @@ DJ TROOPERS,STEEL NEEDLE,0,,-,902,DAYAN,奈良県,2071,GAZEL,奈良県,2431,PUIP
 DJ TROOPERS,State Of The Art,0,,-,1008,HIR2,奈良県,1512,EVO69,奈良県,2943,KE2-3,奈良県,0,,-
 DJ TROOPERS,SOUND OF GIALLARHORN,481,HIR2,奈良県,1359,7-11,奈良県,2490,LIME-B,奈良県,3178,MAJOR,奈良県,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,752,HIR2,奈良県,1522,BELTRE,奈良県,2290,NCS.,奈良県,0,,-
-DJ TROOPERS,scar in the earth,0,,-,606,HIR2,奈良県,1018,HIR2,奈良県,1475,ARACCH,奈良県,0,,-
+DJ TROOPERS,scar in the earth,0,,-,606,HIR2,奈良県,1018,HIR2,奈良県,1479,MYANJI,奈良県,0,,-
 DJ TROOPERS,satfinal,0,,-,1004,HIR2,奈良県,1327,SETOA,奈良県,1887,HEAVEN,奈良県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1208,HIR2,奈良県,1450,GA-F10,奈良県,2391,AISBIS,奈良県,0,,-
 DJ TROOPERS,Ristaccia,0,,-,1121,333233,奈良県,1891,SSTILE,奈良県,2662,PUIPUI,奈良県,0,,-
@@ -397,7 +397,7 @@ DJ TROOPERS,Do it!! Do it!!,0,,-,1012,SSTILE,奈良県,1482,F&F,奈良県,1792,4
 DJ TROOPERS,Digitank System,0,,-,696,JZXSTY,奈良県,1408,FKMZ,奈良県,2030,ROTALA,奈良県,0,,-
 DJ TROOPERS,Dazzlin' Darlin,328,HIR2,奈良県,859,DAYAN,奈良県,1377,KAEDE,奈良県,2209,PUIPUI,奈良県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,648,HIR2,奈良県,912,HIR2,奈良県,1350,KIRITO,奈良県,0,,-
-DJ TROOPERS,Blue Rain,323,HIR2,奈良県,946,HIR2,奈良県,1533,SSTILE,奈良県,2137,KAEDE,奈良県,3276,PUIPUI,奈良県
+DJ TROOPERS,Blue Rain,323,HIR2,奈良県,946,HIR2,奈良県,1533,SSTILE,奈良県,2146,KAEDE,奈良県,3276,PUIPUI,奈良県
 DJ TROOPERS,beatonic nation,0,,-,1201,HIR2,奈良県,1489,RYAN,奈良県,2031,SYPHA,奈良県,0,,-
 DJ TROOPERS,Be OK,0,,-,891,HIR2,奈良県,1640,Z&S,奈良県,2413,D-CHAN,奈良県,3274,D-CHAN,奈良県
 DJ TROOPERS,avant-guerre,0,,-,710,HIR2,奈良県,1095,HIR2,奈良県,1793,AISBIS,奈良県,0,,-
@@ -419,17 +419,17 @@ EMPRESS,V2,739,HIR2,奈良県,1368,333233,奈良県,3134,D-CHAN,奈良県,3464,P
 EMPRESS,Turii ～Panta rhei～,351,HIR2,奈良県,833,TZ-TSU,奈良県,1951,ARACCH,奈良県,2573,MAJOR,奈良県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,750,DAYAN,奈良県,1446,OMARU.,奈良県,2071,4GEPO4,奈良県,2959,PUIPUI,奈良県
 EMPRESS,SOLITON BEAM,0,,-,1288,HIR2,奈良県,1829,LAPIS,奈良県,2208,KAEDE,奈良県,0,,-
-EMPRESS,smooooch・∀・,380,HIR2,奈良県,792,DAYAN,奈良県,1597,SSTILE,奈良県,2093,MAJOR,奈良県,0,,-
+EMPRESS,smooooch・∀・,380,HIR2,奈良県,792,DAYAN,奈良県,1619,7-11,奈良県,2093,MAJOR,奈良県,0,,-
 EMPRESS,Secrets,0,,-,1160,HIR2,奈良県,2283,BELTRE,奈良県,3014,KIRITO,奈良県,4078,PUIPUI,奈良県
 EMPRESS,Queen's Tragedy,0,,-,792,HIR2,奈良県,1605,SSTILE,奈良県,2095,YIMA,奈良県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1052,DAYAN,奈良県,1462,HIR2,奈良県,2443,KAEDE,奈良県,0,,-
 EMPRESS,Programmed World,0,,-,880,HIR2,奈良県,1334,SHIRO,奈良県,2189,AISBIS,奈良県,0,,-
 EMPRESS,NΦ CRIME,275,HIR2,奈良県,774,DAYAN,奈良県,1317,SETOA,奈良県,1850,2KU4MI,奈良県,0,,-
 EMPRESS,neogenesis,0,,-,908,HIR2,奈良県,1315,BELTRE,奈良県,1682,4GEPO4,奈良県,0,,-
-EMPRESS,naughty girl@Queen's Palace,0,,-,798,HIR2,奈良県,1591,KIRITO,奈良県,2072,D-CHAN,奈良県,2487,ROTALA,奈良県
+EMPRESS,naughty girl@Queen's Palace,0,,-,798,HIR2,奈良県,1602,AISBIS,奈良県,2072,D-CHAN,奈良県,2487,ROTALA,奈良県
 EMPRESS,Monkey Dance '09,0,,-,802,HIR2,奈良県,1690,SSTILE,奈良県,2084,7-11,奈良県,0,,-
 EMPRESS,Mind Mapping,484,HIR2,奈良県,816,HIR2,奈良県,1173,HIR2,奈良県,1777,ARACCH,奈良県,2153,PUIPUI,奈良県
-EMPRESS,Kung-fu Empire,0,,-,0,,-,2515,2KU4MI,奈良県,3179,UOKI,奈良県,3565,ESPEON,奈良県
+EMPRESS,Kung-fu Empire,0,,-,1379,HIR2,奈良県,2515,2KU4MI,奈良県,3179,UOKI,奈良県,3565,ESPEON,奈良県
 EMPRESS,Just a Little Smile,0,,-,767,DAYAN,奈良県,1305,BELTRE,奈良県,2392,D-CHAN,奈良県,0,,-
 EMPRESS,Jack,0,,-,837,HIR2,奈良県,1249,HIR2,奈良県,2106,KIRITO,奈良県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,577,HIR2,奈良県,1298,7-11,奈良県,1678,PUIPUI,奈良県,0,,-
@@ -438,32 +438,32 @@ EMPRESS,Go Beyond!!,524,HIR2,奈良県,983,333233,奈良県,1666,YIMA,奈良県,
 EMPRESS,Fly Above,0,,-,917,HIR2,奈良県,1567,SETOA,奈良県,2012,MYANJI,奈良県,0,,-
 EMPRESS,Flash Back 90's,0,,-,869,HIR2,奈良県,1814,KAEDE,奈良県,2254,KAEDE,奈良県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,1013,HIR2,奈良県,1773,SSTILE,奈良県,2345,YIMA,奈良県,0,,-
-EMPRESS,Colorful Cookie,630,HIR2,奈良県,1124,7-11,奈良県,2209,HIRONO,奈良県,3391,PUIPUI,奈良県,0,,-
+EMPRESS,Colorful Cookie,630,HIR2,奈良県,1124,7-11,奈良県,2209,HIRONO,奈良県,3441,PUIPUI,奈良県,0,,-
 EMPRESS,CaptivAte2～覚醒～,230,HIR2,奈良県,1025,HIR2,奈良県,1370,MAC,奈良県,2314,KIRITO,奈良県,0,,-
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,894,HIR2,奈良県,1435,LIME-B,奈良県,2044,BON1NU,奈良県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1035,HIR2,奈良県,2127,K-TA.N,奈良県,3874,PUIPUI,奈良県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1007,HIR2,奈良県,1889,SSTILE,奈良県,2605,D-CHAN,奈良県,3231,PUIPUI,奈良県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1128,HIR2,奈良県,2164,SSTILE,奈良県,3342,AOSAN!,奈良県,4422,D-CHAN,奈良県
-EMPRESS,Arabian Rave Night,0,,-,1104,DAYAN,奈良県,2108,BELTRE,奈良県,2912,D-CHAN,奈良県,3658,PUIPUI,奈良県
-EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,912,DAYAN,奈良県,1764,SSTILE,奈良県,2425,AOSAN!,奈良県,0,,-
+EMPRESS,Arabian Rave Night,0,,-,1204,HIR2,奈良県,2108,BELTRE,奈良県,2912,D-CHAN,奈良県,3658,PUIPUI,奈良県
+EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,912,DAYAN,奈良県,1768,BELTRE,奈良県,2425,AOSAN!,奈良県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,1010,HIR2,奈良県,1628,7-11,奈良県,2058,ROTALA,奈良県,0,,-
 EMPRESS,3y3s,514,HIR2,奈良県,1236,TAKORO,奈良県,2365,GAZEL,奈良県,3514,PUIPUI,奈良県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,666,DAYAN,奈良県,1583,7-11,奈良県,2000,4GEPO4,奈良県,0,,-
 SIRIUS,未来のプリズム,0,,-,661,HIR2,奈良県,1084,TZ-TSU,奈良県,1723,ROTALA,奈良県,0,,-
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,914,SUIKAN,奈良県,2204,ARACCH,奈良県,2938,ROTALA,奈良県,0,,-
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,914,SUIKAN,奈良県,2204,ARACCH,奈良県,3023,PUIPUI,奈良県,0,,-
 SIRIUS,バビロニア,0,,-,800,DAYAN,奈良県,1261,HIR2,奈良県,1807,NI9-G6,奈良県,0,,-
 SIRIUS,サヨナラ・ヘヴン,367,HIR2,奈良県,874,HIR2,奈良県,1262,GR****,奈良県,1654,ARACCH,奈良県,0,,-
 SIRIUS,コスモス,0,,-,880,HIR2,奈良県,1382,WELS,奈良県,2048,2KU4MI,奈良県,0,,-
 SIRIUS,たからもの,0,,-,1157,TZ-TSU,奈良県,1735,HIR2,奈良県,2204,BELTRE,奈良県,0,,-
 SIRIUS,かずあそび,0,,-,503,DAYAN,奈良県,1166,7-11,奈良県,1668,ROTALA,奈良県,0,,-
-SIRIUS,The Story Begins,0,,-,787,HIR2,奈良県,1570,SETOA,奈良県,2422,D-CHAN,奈良県,0,,-
+SIRIUS,The Story Begins,0,,-,787,HIR2,奈良県,1752,SSTILE,奈良県,2422,D-CHAN,奈良県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1234,TZ-TSU,奈良県,1881,SSTILE,奈良県,2556,UOKI,奈良県,0,,-
 SIRIUS,Special One,0,,-,810,HIR2,奈良県,1185,7-11,奈良県,1717,ROTALA,奈良県,0,,-
 SIRIUS,Sorrows,0,,-,774,TZ-TSU,奈良県,1542,SETOA,奈良県,2420,2KU4MI,奈良県,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,967,HIR2,奈良県,2128,BELTRE,奈良県,3496,D-CHAN,奈良県,3467,KIRITO,奈良県
 SIRIUS,She is my wife,401,HIR2,奈良県,648,HIR2,奈良県,1329,LAPIS,奈良県,1851,KAEDE,奈良県,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,865,HIR2,奈良県,1135,MIZORE,奈良県,2304,4GEPO4,奈良県,0,,-
-SIRIUS,Roots of my way!,0,,-,835,HIR2,奈良県,1237,NI9-G6,奈良県,2022,D-CHAN,奈良県,0,,-
+SIRIUS,Roots of my way!,0,,-,835,HIR2,奈良県,1265,NI9-G6,奈良県,2022,D-CHAN,奈良県,0,,-
 SIRIUS,Red. by Full Metal Jacket,0,,-,1000,7-11,奈良県,2004,KAEDE,奈良県,3017,D-CHAN,奈良県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,1135,HIR2,奈良県,1861,LAPIS,奈良県,2610,KE2-3,奈良県,0,,-
 SIRIUS,quell～the seventh slave～,0,,-,911,HIR2,奈良県,1749,IZAQ,奈良県,3200,PUIPUI,奈良県,0,,-
@@ -477,7 +477,7 @@ SIRIUS,Last Burning,0,,-,849,HIR2,奈良県,1344,MIZORE,奈良県,2167,BELTRE,�
 SIRIUS,Keep it-秋葉工房mix-,0,,-,966,HIR2,奈良県,1566,7-11,奈良県,1759,GAZEL,奈良県,0,,-
 SIRIUS,IN THE NAME OF LOVE,494,HIR2,奈良県,685,HIR2,奈良県,1279,HORI.,奈良県,1802,EVO69,奈良県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,947,HIR2,奈良県,1653,SSTILE,奈良県,2214,ROTALA,奈良県,0,,-
-SIRIUS,GOLDEN CROSS,0,,-,1039,HIR2,奈良県,2002,KAEDE,奈良県,3439,PUIPUI,奈良県,0,,-
+SIRIUS,GOLDEN CROSS,0,,-,1039,HIR2,奈良県,2038,ARACCH,奈良県,3439,PUIPUI,奈良県,0,,-
 SIRIUS,GALGALIM,0,,-,1334,222255,奈良県,1876,SSTILE,奈良県,2181,LATZET,奈良県,0,,-
 SIRIUS,G59,0,,-,1729,7-11,奈良県,2231,BELTRE,奈良県,3826,D-CHAN,奈良県,0,,-
 SIRIUS,EXUSIA,0,,-,1204,7-11,奈良県,2356,GAZEL,奈良県,3611,KIRITO,奈良県,0,,-
@@ -487,24 +487,24 @@ SIRIUS,Empire State Glory,0,,-,1049,HIR2,奈良県,1617,&#9410,奈良県,2601,UO
 SIRIUS,Elisha,405,HIR2,奈良県,857,HIR2,奈良県,1417,F&F,奈良県,2201,KAEDE,奈良県,0,,-
 SIRIUS,DROP,0,,-,805,HIR2,奈良県,2075,SSTILE,奈良県,2617,D-CHAN,奈良県,0,,-
 SIRIUS,DOMINION,0,,-,1174,HIR2,奈良県,2205,BELTRE,奈良県,3029,AOSAN!,奈良県,0,,-
-SIRIUS,DESIRE,0,,-,881,HIR2,奈良県,1348,SHIRO,奈良県,2688,CYBELE,奈良県,0,,-
+SIRIUS,DESIRE,0,,-,881,HIR2,奈良県,1826,SSTILE,奈良県,2688,CYBELE,奈良県,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,763,HIR2,奈良県,1279,SETOA,奈良県,2060,D-CHAN,奈良県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1532,HIR2,奈良県,2222,ALUA,奈良県,3049,CYBELE,奈良県,0,,-
 SIRIUS,D,0,,-,1099,DRP*,奈良県,1790,ARACCH,奈良県,2332,HEAVEN,奈良県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,884,DAYAN,奈良県,1578,BELTRE,奈良県,2341,MYANJI,奈良県,0,,-
 SIRIUS,bloomin' feeling,378,HIR2,奈良県,1262,KE2-3,奈良県,1935,ARACCH,奈良県,2536,PUIPUI,奈良県,0,,-
-SIRIUS,being torn the sky,0,,-,610,HIR2,奈良県,1108,HIR2,奈良県,1941,ARACCH,奈良県,0,,-
+SIRIUS,being torn the sky,0,,-,610,HIR2,奈良県,1189,7-11,奈良県,1941,ARACCH,奈良県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,589,HIR2,奈良県,1564,NUHEHO,奈良県,2441,UOKI,奈良県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,969,HIR2,奈良県,1551,SSTILE,奈良県,1986,UOKI,奈良県,0,,-
 SIRIUS,bass 2 bass,270,HIR2,奈良県,685,HIR2,奈良県,1177,HIR2,奈良県,1837,D-CHAN,奈良県,0,,-
-SIRIUS,Bad Maniacs,0,,-,1040,AA,奈良県,1712,YIMA,奈良県,3228,PUIPUI,奈良県,0,,-
+SIRIUS,Bad Maniacs,0,,-,1040,AA,奈良県,1722,F&F,奈良県,3228,PUIPUI,奈良県,0,,-
 SIRIUS,Almagest,0,,-,1000,KAEDE,奈良県,2051,ARACCH,奈良県,3122,PUIPUI,奈良県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,520,HIR2,奈良県,731,IIDX28,奈良県,1436,222255,奈良県,2334,D-CHAN,奈良県,2927,PUIPUI,奈良県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,748,DAYAN,奈良県,1984,SYPHA,奈良県,3428,D-CHAN,奈良県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,545,HIR2,奈良県,1085,7-11,奈良県,1937,D-CHAN,奈良県,2903,4GEPO4,奈良県,0,,-
 Resort Anthem,旅人リラン,0,,-,1073,HIR2,奈良県,1882,SSTILE,奈良県,2609,D-CHAN,奈良県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,942,NI9-G6,奈良県,1795,Z&S,奈良県,2765,PUIPUI,奈良県,0,,-
-Resort Anthem,中華急行,0,,-,323,HIR2,奈良県,1493,SSTILE,奈良県,2265,MAJOR,奈良県,0,,-
+Resort Anthem,中華急行,0,,-,323,HIR2,奈良県,1493,SSTILE,奈良県,2270,PUIPUI,奈良県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,493,HIR2,奈良県,816,HIR2,奈良県,1244,ALT.I,奈良県,1854,AISBIS,奈良県,0,,-
 Resort Anthem,おおきなこえで,0,,-,419,HIR2,奈良県,991,BELTRE,奈良県,1462,PUIPUI,奈良県,2094,ROTALA,奈良県
 Resort Anthem,ZETA～素数の世界と超越者～,301,HIR2,奈良県,557,DAYAN,奈良県,2054,SSTILE,奈良県,2910,CYBELE,奈良県,0,,-
@@ -516,7 +516,7 @@ Resort Anthem,Vermillion,0,,-,494,HIR2,奈良県,822,JZXSTY,奈良県,1917,TARIA
 Resort Anthem,Tropical April,0,,-,1533,SSTILE,奈良県,2247,KAEDE,奈良県,2566,LIME-B,奈良県,0,,-
 Resort Anthem,THE FALLEN,0,,-,871,HIR2,奈良県,1431,SSTILE,奈良県,2537,CODE.,奈良県,0,,-
 Resort Anthem,THE DOOR INTO RAINBOW,0,,-,795,7-11,奈良県,1643,SSTILE,奈良県,2037,YIMA,奈良県,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,887,HIR2,奈良県,1827,ALUA,奈良県,2820,ATRIX,奈良県,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,887,HIR2,奈良県,2000,7-11,奈良県,2820,ATRIX,奈良県,0,,-
 Resort Anthem,STELLAR WIND,370,HIR2,奈良県,622,TZ-TSU,奈良県,1817,BELTRE,奈良県,2532,4GEPO4,奈良県,0,,-
 Resort Anthem,Stay my side,0,,-,600,JZXSTY,奈良県,1005,LAPIS,奈良県,1326,7-11,奈良県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,681,HIR2,奈良県,1576,SSTILE,奈良県,2819,KAEDE,奈良県,0,,-
@@ -528,7 +528,7 @@ Resort Anthem,SABER WING,0,,-,525,DAYAN,奈良県,1699,SSTILE,奈良県,2798,PUI
 Resort Anthem,Rock Da House,0,,-,834,HIR2,奈良県,1441,#GESO#,奈良県,2217,D-CHAN,奈良県,0,,-
 Resort Anthem,reunion,531,HIR2,奈良県,1275,S0H,奈良県,2285,K-TA.N,奈良県,3223,PUIPUI,奈良県,0,,-
 Resort Anthem,Programmed Life,0,,-,795,KOGASA,奈良県,1554,ALUA,奈良県,2379,D-CHAN,奈良県,0,,-
-Resort Anthem,perditus†paradisus,0,,-,996,DAYAN,奈良県,2290,F&F,奈良県,3849,PUIPUI,奈良県,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1035,HAM!?,奈良県,2290,F&F,奈良県,3849,PUIPUI,奈良県,0,,-
 Resort Anthem,passionate fate,0,,-,1068,HIR2,奈良県,1623,KAEDE,奈良県,2111,D-CHAN,奈良県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,1003,DAYAN,奈良県,2131,YIMA,奈良県,3104,KIRITO,奈良県,0,,-
 Resort Anthem,New Castle Legions,0,,-,891,HAL,奈良県,1768,KATUZI,奈良県,2523,4GEPO4,奈良県,0,,-
@@ -536,7 +536,7 @@ Resort Anthem,Never Fade Away,0,,-,732,DAYAN,奈良県,1624,LAPIS,奈良県,2852
 Resort Anthem,Mermaid girl,549,HIR2,奈良県,911,HIR2,奈良県,1632,SSTILE,奈良県,2200,PUIPUI,奈良県,0,,-
 Resort Anthem,Medicine of love,0,,-,618,HIR2,奈良県,1020,NI9-G6,奈良県,1713,KAEDE,奈良県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,609,#PRINL,奈良県,1595,BUTA2Q,奈良県,2567,D-CHAN,奈良県,0,,-
-Resort Anthem,Kailua,0,,-,502,HIR2,奈良県,1303,BELTRE,奈良県,2028,KAEDE,奈良県,0,,-
+Resort Anthem,Kailua,0,,-,502,HIR2,奈良県,1359,SSTILE,奈良県,2061,KAEDE,奈良県,0,,-
 Resort Anthem,I FIGHT ME,0,,-,610,TZ-TSU,奈良県,1292,HIR2,奈良県,2099,BELTRE,奈良県,0,,-
 Resort Anthem,Golden Palms,0,,-,706,HIR2,奈良県,1422,AISBIS,奈良県,1893,CYBELE,奈良県,2257,KIRITO,奈良県
 Resort Anthem,Fantasia,230,HIR2,奈良県,370,HIR2,奈良県,1487,NI9-G6,奈良県,2206,2KU4MI,奈良県,0,,-
@@ -574,7 +574,7 @@ Lincle,YAKSHA,0,,-,1193,YIMA,奈良県,2154,DJAPEX,奈良県,3684,KIRITO,奈良�
 Lincle,WONDER WALKER,0,,-,898,HIR2,奈良県,1868,SSTILE,奈良県,3672,ATRIX,奈良県,0,,-
 Lincle,Voxane,0,,-,564,HIR2,奈良県,1173,NI9-G6,奈良県,1706,ROTALA,奈良県,0,,-
 Lincle,Todestrieb,0,,-,1046,HIR2,奈良県,1773,SETOA,奈良県,3327,KIRITO,奈良県,0,,-
-Lincle,TITANS RETURN,312,HIR2,奈良県,610,HIR2,奈良県,1507,SSTILE,奈良県,2269,BON1NU,奈良県,2559,PUIPUI,奈良県
+Lincle,TITANS RETURN,312,HIR2,奈良県,610,HIR2,奈良県,1507,SSTILE,奈良県,2321,ESPEON,奈良県,2559,PUIPUI,奈良県
 Lincle,Thunderbolt,0,,-,967,TZ-TSU,奈良県,1732,DRP*,奈良県,3519,KIRITO,奈良県,0,,-
 Lincle,The Sampling Paradise,0,,-,826,BON1NU,奈良県,1791,KAEDE,奈良県,3000,D-CHAN,奈良県,0,,-
 Lincle,The Limbo,0,,-,1085,HIR2,奈良県,1999,ARACCH,奈良県,3205,KIRITO,奈良県,0,,-
@@ -583,13 +583,13 @@ Lincle,Snow Goose,286,HIR2,奈良県,359,HIR2,奈良県,1263,SSTILE,奈良県,24
 Lincle,Snake Stick,0,,-,984,NI9-G6,奈良県,1987,KAEDE,奈良県,2535,4GEPO4,奈良県,0,,-
 Lincle,SHADE,0,,-,1066,TYS-L,奈良県,1993,IIDX27,奈良県,2863,PUIPUI,奈良県,0,,-
 Lincle,Several Words,0,,-,597,HIR2,奈良県,1352,OMARU.,奈良県,2108,HEAVEN,奈良県,0,,-
-Lincle,Scharfrichter,0,,-,868,7-11,奈良県,1538,SSTILE,奈良県,2840,KIRITO,奈良県,0,,-
+Lincle,Scharfrichter,0,,-,868,7-11,奈良県,1580,TYS-R,奈良県,2840,KIRITO,奈良県,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,466,HIR2,奈良県,1175,SSTILE,奈良県,1659,D-CHAN,奈良県,0,,-
 Lincle,Round and Round,0,,-,759,HIR2,奈良県,1150,HIR2,奈良県,2145,D-CHAN,奈良県,0,,-
 Lincle,RESISTANCE,0,,-,616,NI9-G6,奈良県,1238,HIR2,奈良県,2290,BELTRE,奈良県,0,,-
 Lincle,Release The Music,0,,-,772,HIR2,奈良県,1230,MIZORE,奈良県,2050,ROTALA,奈良県,0,,-
 Lincle,Quick Silver,0,,-,728,HIR2,奈良県,1479,HAL,奈良県,2509,AOSAN!,奈良県,0,,-
-Lincle,quaver♪,272,HIR2,奈良県,658,HIR2,奈良県,2068,KAEDE,奈良県,3316,KIRITO,奈良県,0,,-
+Lincle,quaver♪,272,HIR2,奈良県,658,HIR2,奈良県,2068,KAEDE,奈良県,3371,PUIPUI,奈良県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,761,MIDGE,奈良県,2247,KAEDE,奈良県,2836,PUIPUI,奈良県,3577,D-CHAN,奈良県
 Lincle,prompt,0,,-,894,HIR2,奈良県,1589,ARACCH,奈良県,2718,KIRITO,奈良県,0,,-
 Lincle,Phoenix,0,,-,811,HIR2,奈良県,1100,MIZORE,奈良県,2318,SYPHA,奈良県,0,,-
@@ -612,7 +612,7 @@ Lincle,Far east nightbird,334,HIR2,奈良県,493,HIR2,奈良県,1280,TAKU,奈良
 Lincle,F,0,,-,1057,ARACCH,奈良県,2095,KAEDE,奈良県,3462,PUIPUI,奈良県,0,,-
 Lincle,Express Emotion,0,,-,728,DAYAN,奈良県,1003,7-11,奈良県,2436,2KU4MI,奈良県,0,,-
 Lincle,Drive Me Crazy,0,,-,689,DAYAN,奈良県,1403,ARACCH,奈良県,2243,ARACCH,奈良県,0,,-
-Lincle,DIAVOLO,0,,-,1101,JZXSTY,奈良県,1802,7-11,奈良県,3176,PUIPUI,奈良県,0,,-
+Lincle,DIAVOLO,0,,-,1205,HIR2,奈良県,1802,7-11,奈良県,3176,PUIPUI,奈良県,0,,-
 Lincle,Change the World,0,,-,786,HIR2,奈良県,1397,7-11,奈良県,1793,2KU4MI,奈良県,0,,-
 Lincle,Castle on the Moon,233,HIR2,奈良県,615,HIR2,奈良県,1552,Z&S,奈良県,2278,KIRITO,奈良県,0,,-
 Lincle,CALL,0,,-,337,HIR2,奈良県,755,C-PON,奈良県,1417,BELTRE,奈良県,0,,-
@@ -636,7 +636,7 @@ tricoro,トリカゴノ鳳凰,0,,-,1065,HIR2,奈良県,1953,BELTRE,奈良県,368
 tricoro,シュレーディンガーの猫,0,,-,1066,7-11,奈良県,2287,ARACCH,奈良県,3337,PUIPUI,奈良県,0,,-
 tricoro,キャトられ恋はモ～モク,0,,-,1432,7-11,奈良県,2328,NI9-G6,奈良県,3811,PUIPUI,奈良県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,590,HIR2,奈良県,1354,SSTILE,奈良県,2295,ATRIX,奈良県,0,,-
-tricoro,アストライアの双皿,0,,-,637,HIR2,奈良県,1983,SSTILE,奈良県,3131,PUIPUI,奈良県,0,,-
+tricoro,アストライアの双皿,0,,-,637,HIR2,奈良県,2012,SYPHA,奈良県,3131,PUIPUI,奈良県,0,,-
 tricoro,たまゆら,0,,-,979,DAYAN,奈良県,1795,TYS-R,奈良県,2658,KIRITO,奈良県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,841,HIR2,奈良県,1261,COOL,奈良県,2146,ATRIX,奈良県,3681,PUIPUI,奈良県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),233,HIR2,奈良県,535,DAYAN,奈良県,1632,BELTRE,奈良県,3338,KIRITO,奈良県,0,,-
@@ -650,12 +650,12 @@ tricoro,True Blue,0,,-,1022,HIR2,奈良県,2403,YIMA,奈良県,3629,KIRITO,奈�
 tricoro,Timepiece phase II (CN Ver.),0,,-,742,JZXSTY,奈良県,1781,F&F,奈良県,2841,PUIPUI,奈良県,0,,-
 tricoro,Timepiece phase II,0,,-,1008,HIR2,奈良県,2011,ARACCH,奈良県,2913,STILE,奈良県,0,,-
 tricoro,Time To Empress,0,,-,895,NI9-G6,奈良県,1590,RAMIEL,奈良県,2492,KAEDE,奈良県,0,,-
-tricoro,Thor's Hammer,0,,-,910,HIR2,奈良県,1682,SSTILE,奈良県,3030,PUIPUI,奈良県,0,,-
+tricoro,Thor's Hammer,0,,-,910,HIR2,奈良県,1727,SYPHA,奈良県,3030,PUIPUI,奈良県,0,,-
 tricoro,Take My Life,0,,-,922,HIR2,奈良県,1463,HIR2,奈良県,2847,KIRITO,奈良県,0,,-
 tricoro,Synergy For Angels,0,,-,857,HIR2,奈良県,1545,HIR2,奈良県,2573,GAZEL,奈良県,0,,-
 tricoro,SYNC-ANTHEM,0,,-,892,HIR2,奈良県,2299,YIMA,奈良県,3615,D-CHAN,奈良県,0,,-
 tricoro,STULTI,0,,-,734,HIR2,奈良県,1453,*IKKI*,奈良県,2609,KIRITO,奈良県,0,,-
-tricoro,Sol Cosine Job 2,0,,-,994,222255,奈良県,1593,SYPHA,奈良県,2804,ROTALA,奈良県,0,,-
+tricoro,Sol Cosine Job 2,0,,-,994,222255,奈良県,1616,SYPHA,奈良県,2804,ROTALA,奈良県,0,,-
 tricoro,SHION,0,,-,637,HIR2,奈良県,1211,HIR2,奈良県,2659,D-CHAN,奈良県,0,,-
 tricoro,Shining World,0,,-,1180,333233,奈良県,1544,KAEDE,奈良県,1911,KOMONO,奈良県,0,,-
 tricoro,Saturn,0,,-,1016,TZ-TSU,奈良県,1677,ALUA,奈良県,2481,KIRITO,奈良県,0,,-
@@ -669,7 +669,7 @@ tricoro,POINT ZERO,0,,-,666,HIR2,奈良県,0,,-,1962,LATZET,奈良県,0,,-
 tricoro,planarian,0,,-,685,ALT.I,奈良県,1537,HIR2,奈良県,2378,HIRONO,奈良県,0,,-
 tricoro,Plan 8,0,,-,1148,NI9-G6,奈良県,2072,TYS-R,奈良県,3076,PUIPUI,奈良県,0,,-
 tricoro,New Lights,0,,-,968,222255,奈良県,1645,333233,奈良県,2410,MYANJI,奈良県,0,,-
-tricoro,New Decade IIDX Edition,264,HIR2,奈良県,934,HIR2,奈良県,1647,ONGEKI,奈良県,2834,PUIPUI,奈良県,0,,-
+tricoro,New Decade IIDX Edition,264,HIR2,奈良県,934,HIR2,奈良県,1684,DRP*,奈良県,2834,PUIPUI,奈良県,0,,-
 tricoro,neu,189,HIR2,奈良県,989,ARACCH,奈良県,2162,ARACCH,奈良県,3851,PUIPUI,奈良県,0,,-
 tricoro,Neonlights,0,,-,618,HIR2,奈良県,1551,SSTILE,奈良県,2091,AISBIS,奈良県,0,,-
 tricoro,mnemoniq,0,,-,509,NI9-G6,奈良県,808,HIR2,奈良県,1286,PUIPUI,奈良県,0,,-
@@ -688,13 +688,13 @@ tricoro,GRADIUS 2012,0,,-,860,HIR2,奈良県,1507,HIR2,奈良県,2604,MAJOR,奈�
 tricoro,GAIA,0,,-,952,HIR2,奈良県,1967,OMMC,奈良県,3250,PUIPUI,奈良県,0,,-
 tricoro,Fly you to the star,0,,-,733,HIR2,奈良県,1470,4351.,奈良県,2193,AISBIS,奈良県,0,,-
 tricoro,FLOWER,333,HIR2,奈良県,1027,HIR2,奈良県,1582,HAL,奈良県,2866,PUIPUI,奈良県,0,,-
-tricoro,examination leave,0,,-,1067,HIR2,奈良県,1680,HAL,奈良県,3385,PUIPUI,奈良県,0,,-
+tricoro,examination leave,0,,-,1067,HIR2,奈良県,1720,ALUA,奈良県,3385,PUIPUI,奈良県,0,,-
 tricoro,Elemental Creation,255,HIR2,奈良県,1447,NI9-G6,奈良県,2273,SYPHA,奈良県,4112,PUIPUI,奈良県,0,,-
 tricoro,Devilz Staircase,0,,-,627,DAYAN,奈良県,2070,BELTRE,奈良県,3250,PUIPUI,奈良県,0,,-
 tricoro,DAY DREAM,0,,-,491,HAL,奈良県,1188,BON1NU,奈良県,1745,NCS.,奈良県,0,,-
 tricoro,Cookie Bouquets,0,,-,809,HIR2,奈良県,2067,AISBIS,奈良県,3258,LATZET,奈良県,0,,-
 tricoro,connective,0,,-,387,DAYAN,奈良県,1117,7-11,奈良県,1553,KOMONO,奈良県,0,,-
-tricoro,Confiserie,0,,-,835,HIR2,奈良県,1988,SYPHA,奈良県,3522,PUIPUI,奈良県,0,,-
+tricoro,Confiserie,0,,-,835,HIR2,奈良県,1992,F&F,奈良県,3522,PUIPUI,奈良県,0,,-
 tricoro,CONCEPTUAL,0,,-,820,7-11,奈良県,1188,HIR2,奈良県,2585,KAEDE,奈良県,0,,-
 tricoro,BRAVE GLOW,0,,-,766,HIR2,奈良県,1412,HIR2,奈良県,2362,2KU4MI,奈良県,0,,-
 tricoro,BLUE STRAGGLER,0,,-,784,HIR2,奈良県,1198,HIR2,奈良県,2375,AAAAAA,奈良県,0,,-
@@ -712,27 +712,27 @@ SPADA,海神,0,,-,870,JZXSTY,奈良県,1990,GAZEL,奈良県,2922,KAEDE,奈良県
 SPADA,旋律のドグマ～Miserables～,0,,-,1119,DAYAN,奈良県,2437,GAZEL,奈良県,3774,KIRITO,奈良県,0,,-
 SPADA,廿,0,,-,890,HIR2,奈良県,1517,Z&S,奈良県,2222,AOSAN!,奈良県,3023,KOMONO,奈良県
 SPADA,幻想系世界修復少女,204,HIR2,奈良県,588,HIR2,奈良県,1086,HIR2,奈良県,1935,KIRITO,奈良県,0,,-
-SPADA,バンブーソード・ガール,259,HIR2,奈良県,943,HIR2,奈良県,1665,BELTRE,奈良県,2237,CYBELE,奈良県,0,,-
+SPADA,バンブーソード・ガール,259,HIR2,奈良県,943,HIR2,奈良県,1758,BELTRE,奈良県,2237,CYBELE,奈良県,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,581,HIR2,奈良県,1514,SSTILE,奈良県,2572,4GEPO4,奈良県,0,,-
 SPADA,アルストロメリア,206,HIR2,奈良県,947,NI9-G6,奈良県,1429,HORI.,奈良県,2331,KAEDE,奈良県,0,,-
 SPADA,お願いアインシュタイン,0,,-,849,HIR2,奈良県,1462,7-11,奈良県,2120,PUIPUI,奈良県,0,,-
 SPADA,Wonder Girl feat. Kanae Asaba,0,,-,693,HIR2,奈良県,1201,NI9-G6,奈良県,2774,D-CHAN,奈良県,0,,-
 SPADA,VOX UP,0,,-,1484,ARACCH,奈良県,2766,4GEPO4,奈良県,3452,PUIPUI,奈良県,0,,-
-SPADA,Verflucht,0,,-,1153,HIR2,奈良県,2031,YIMA,奈良県,3411,KIRITO,奈良県,4683,PUIPUI,奈良県
+SPADA,Verflucht,0,,-,1153,HIR2,奈良県,2033,SYPHA,奈良県,3411,KIRITO,奈良県,4683,PUIPUI,奈良県
 SPADA,Valgus,0,,-,629,DAYAN,奈良県,1292,7-11,奈良県,2230,CYBELE,奈良県,0,,-
 SPADA,Unicorn tail,0,,-,825,TZ-TSU,奈良県,1952,NI9-G6,奈良県,3126,PUIPUI,奈良県,0,,-
 SPADA,THE DETONATOR,0,,-,1310,RYAN,奈良県,2340,BELTRE,奈良県,3077,PUIPUI,奈良県,0,,-
 SPADA,Squeeze,0,,-,773,DAYAN,奈良県,1337,SSTILE,奈良県,2216,TARIAN,奈良県,0,,-
 SPADA,Sigmund,0,,-,1219,HAM!?,奈良県,2256,F&F,奈良県,3830,PUIPUI,奈良県,4234,PUIPUI,奈良県
 SPADA,SCHWARZSCHILD FIELD,0,,-,852,HIR2,奈良県,1445,Z&S,奈良県,2296,PUIPUI,奈良県,0,,-
-SPADA,RIZING YOU UP,0,,-,970,HIR2,奈良県,2072,GAZEL,奈良県,2492,MYANJI,奈良県,0,,-
+SPADA,RIZING YOU UP,0,,-,970,HIR2,奈良県,2072,GAZEL,奈良県,2508,KAEDE,奈良県,0,,-
 SPADA,RISE,0,,-,865,ALT.I,奈良県,1302,SSTILE,奈良県,1743,YIMA,奈良県,0,,-
 SPADA,refractive index,0,,-,675,HIR2,奈良県,1386,KAEDE,奈良県,2563,KAEDE,奈良県,0,,-
 SPADA,Recollection,0,,-,1079,HIR2,奈良県,1394,JZXSTY,奈良県,2168,BELTRE,奈良県,0,,-
-SPADA,rainbow guitar weeps,0,,-,917,HIR2,奈良県,1645,HORI.,奈良県,2616,PUIPUI,奈良県,0,,-
+SPADA,rainbow guitar weeps,0,,-,917,HIR2,奈良県,1678,NI9-G6,奈良県,2616,PUIPUI,奈良県,0,,-
 SPADA,ra'am,0,,-,1100,SSTILE,奈良県,1811,GAZEL,奈良県,2625,PUIPUI,奈良県,0,,-
 SPADA,PUNISHER,0,,-,1046,HIR2,奈良県,2015,SYPHA,奈良県,3500,PUIPUI,奈良県,0,,-
-SPADA,Pharaoh,0,,-,596,HIR2,奈良県,1374,SSTILE,奈良県,2314,BON1NU,奈良県,0,,-
+SPADA,Pharaoh,0,,-,616,DAYAN,奈良県,1374,SSTILE,奈良県,2314,BON1NU,奈良県,0,,-
 SPADA,Overload Frontier,0,,-,732,HIR2,奈良県,1756,SSTILE,奈良県,2401,KAEDE,奈良県,0,,-
 SPADA,Odin,0,,-,728,HIR2,奈良県,981,JZXSTY,奈良県,1988,TYS-R,奈良県,0,,-
 SPADA,NPC World,0,,-,983,HIR2,奈良県,1494,NI9-G6,奈良県,2244,UOKI,奈良県,0,,-
@@ -762,25 +762,25 @@ SPADA,Element of SPADA,0,,-,666,DAYAN,奈良県,1273,HIR2,奈良県,2079,PUIPUI,
 SPADA,Elektrick U-Phoria,0,,-,1099,HIR2,奈良県,1759,DRP*,奈良県,2982,4GEPO4,奈良県,0,,-
 SPADA,diagram,0,,-,603,HIR2,奈良県,1079,ADDTIV,奈良県,2655,ESPEON,奈良県,0,,-
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,906,HIR2,奈良県,1655,YIMA,奈良県,2386,KIRITO,奈良県,0,,-
-SPADA,DARK LEGACY,0,,-,1066,JZXSTY,奈良県,1953,BELTRE,奈良県,3472,KIRITO,奈良県,0,,-
+SPADA,DARK LEGACY,0,,-,1136,DAYAN,奈良県,1953,BELTRE,奈良県,3472,KIRITO,奈良県,0,,-
 SPADA,Dark Fall,0,,-,828,HIR2,奈良県,1492,SSTILE,奈良県,2543,KAEDE,奈良県,0,,-
 SPADA,Critical Crystal,218,HIR2,奈良県,1022,TZ-TSU,奈良県,1612,KYOU,奈良県,2842,PUIPUI,奈良県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1062,HIR2,奈良県,2005,BELTRE,奈良県,3264,KIRITO,奈良県,3850,PUIPUI,奈良県
-SPADA,Cleopatrysm,0,,-,764,TZ-TSU,奈良県,1269,222255,奈良県,2400,AOSAN!,奈良県,0,,-
+SPADA,Cleopatrysm,0,,-,764,TZ-TSU,奈良県,1417,SSTILE,奈良県,2400,AOSAN!,奈良県,0,,-
 SPADA,Claiomh Solais,0,,-,325,HIR2,奈良県,1336,LAPIS,奈良県,2024,CYBELE,奈良県,0,,-
 SPADA,BRAVE OUT,0,,-,1006,NI9-G6,奈良県,1483,7-11,奈良県,2017,F&F,奈良県,0,,-
 SPADA,BRAINSTORM,0,,-,733,HIR2,奈良県,1878,YIMA,奈良県,2651,AOSAN!,奈良県,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1213,TZ-TSU,奈良県,2131,YIMA,奈良県,3154,AQOOA,奈良県,0,,-
-SPADA,ATHER,0,,-,930,HIR2,奈良県,1462,Z&S,奈良県,2736,PUIPUI,奈良県,0,,-
+SPADA,ATHER,0,,-,930,HIR2,奈良県,1462,Z&S,奈良県,2803,PUIPUI,奈良県,0,,-
 SPADA,Ancient Scapes,0,,-,1109,B-TAI,奈良県,1879,SSTILE,奈良県,3329,KIRITO,奈良県,4227,PUIPUI,奈良県
 SPADA,ALBA -黎明-,0,,-,630,DAYAN,奈良県,1530,BELTRE,奈良県,3136,KIRITO,奈良県,0,,-
 SPADA,Adularia,191,HIR2,奈良県,882,AA,奈良県,1733,BELTRE,奈良県,2785,D-CHAN,奈良県,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,860,TZ-TSU,奈良県,1677,SSTILE,奈良県,2744,KAEDE,奈良県,0,,-
 PENDUAL,鬼天,0,,-,932,HIR2,奈良県,1619,SSTILE,奈良県,2335,AOSAN!,奈良県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,967,HIR2,奈良県,1977,SSTILE,奈良県,2661,D-CHAN,奈良県,4042,PUIPUI,奈良県
-PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,935,CHO,奈良県,2017,TYS-R,奈良県,3484,D-CHAN,奈良県,0,,-
+PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,976,HIR2,奈良県,2017,TYS-R,奈良県,3484,D-CHAN,奈良県,0,,-
 PENDUAL,紅牡丹,447,HIR2,奈良県,995,222255,奈良県,1715,SSTILE,奈良県,2821,UOKI,奈良県,0,,-
-PENDUAL,白露の風,0,,-,444,HIR2,奈良県,1105,HIR2,奈良県,1988,ARACCH,奈良県,0,,-
+PENDUAL,白露の風,0,,-,444,HIR2,奈良県,1153,333233,奈良県,1988,ARACCH,奈良県,0,,-
 PENDUAL,時空トラベローグ,0,,-,941,DAYAN,奈良県,1770,SSTILE,奈良県,2543,KIRITO,奈良県,0,,-
 PENDUAL,打打打打打打打打打打,196,HIR2,奈良県,769,NI9-G6,奈良県,1331,SSTILE,奈良県,2614,PUIPUI,奈良県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,717,DAYAN,奈良県,1247,NI9-G6,奈良県,1980,ROTALA,奈良県,2742,PUIPUI,奈良県
@@ -803,7 +803,7 @@ PENDUAL,ZZ,197,HIR2,奈良県,1202,HIR2,奈良県,1979,ARACCH,奈良県,3033,PUI
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,962,KEI,奈良県,2243,K-TA.N,奈良県,3690,PUIPUI,奈良県,0,,-
 PENDUAL,Vulkan,0,,-,983,HIR2,奈良県,1804,SETOA,奈良県,2917,MAJOR,奈良県,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1420,RYAN,奈良県,2290,SYPHA,奈良県,3763,PUIPUI,奈良県,0,,-
-PENDUAL,TIEFSEE,0,,-,955,ENJU,奈良県,2070,SYPHA,奈良県,3403,UOKI,奈良県,0,,-
+PENDUAL,TIEFSEE,0,,-,1219,HIR2,奈良県,2070,SYPHA,奈良県,3403,UOKI,奈良県,0,,-
 PENDUAL,The Least 100sec,0,,-,743,&#9410,奈良県,1439,SYPHA,奈良県,2593,ESPEON,奈良県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1088,NI9-G6,奈良県,1599,BELTRE,奈良県,2216,MAJOR,奈良県,0,,-
 PENDUAL,Symmetry,0,,-,1045,HAM!?,奈良県,1965,YIMA,奈良県,3123,KIRITO,奈良県,0,,-
@@ -827,22 +827,22 @@ PENDUAL,NEO GENERATOR SEVEN,0,,-,883,HIR2,奈良県,1772,BELTRE,奈良県,3182,K
 PENDUAL,Monopole.,0,,-,770,NI9-G6,奈良県,1605,7-11,奈良県,3211,KIRITO,奈良県,0,,-
 PENDUAL,Line 4 Ruin,0,,-,677,HIR2,奈良県,1779,ARACCH,奈良県,2744,UOKI,奈良県,0,,-
 PENDUAL,IXION,0,,-,1029,HIR2,奈良県,1590,HIR2,奈良県,2025,UMH,奈良県,0,,-
-PENDUAL,Invitation from Mr.C,0,,-,766,SAKU,奈良県,1522,SSTILE,奈良県,2654,D-CHAN,奈良県,0,,-
+PENDUAL,Invitation from Mr.C,0,,-,890,JZXSTY,奈良県,1522,SSTILE,奈良県,2654,D-CHAN,奈良県,0,,-
 PENDUAL,In The Breeze,0,,-,605,HIR2,奈良県,892,W.MABO,奈良県,1642,IIDX27,奈良県,0,,-
 PENDUAL,IMPLANTATION,0,,-,650,7-11,奈良県,1578,BELTRE,奈良県,2134,PUIPUI,奈良県,0,,-
 PENDUAL,illuminate,0,,-,595,HIR2,奈良県,1103,N-ZAKI,奈良県,2116,SYPHA,奈良県,0,,-
 PENDUAL,Hello Happiness,0,,-,828,HIR2,奈良県,1362,KYOU,奈良県,2208,AOSAN!,奈良県,0,,-
-PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,898,HIR2,奈良県,1494,HIR2,奈良県,2695,KAEDE,奈良県,0,,-
+PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,898,HIR2,奈良県,1539,LAPIS,奈良県,2695,KAEDE,奈良県,0,,-
 PENDUAL,Gravigazer,0,,-,899,HIR2,奈良県,1593,LAPIS,奈良県,2978,D-CHAN,奈良県,0,,-
 PENDUAL,Flashes,0,,-,917,B-TAI,奈良県,1750,YIMA,奈良県,3097,KIRITO,奈良県,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1247,HIR2,奈良県,2106,BELTRE,奈良県,2933,ARACCH,奈良県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1099,HIR2,奈良県,2000,SYPHA,奈良県,3288,KIRITO,奈良県,0,,-
-PENDUAL,"Erosion Mark  ",0,,-,744,HIR2,奈良県,1239,RAMIA,奈良県,2140,MAJOR,奈良県,0,,-
+PENDUAL,"Erosion Mark  ",0,,-,744,HIR2,奈良県,1449,SSTILE,奈良県,2140,MAJOR,奈良県,0,,-
 PENDUAL,entelecheia,0,,-,984,HIR2,奈良県,2089,GAZEL,奈良県,3167,KIRITO,奈良県,0,,-
 PENDUAL,EBONY & IVORY,0,,-,954,222255,奈良県,1220,124W,奈良県,2964,PUIPUI,奈良県,3610,PUIPUI,奈良県
-PENDUAL,Discloze,0,,-,856,222255,奈良県,1179,HYUGA,奈良県,2610,D-CHAN,奈良県,0,,-
+PENDUAL,Discloze,0,,-,856,222255,奈良県,1265,HAL,奈良県,2610,D-CHAN,奈良県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,1159,HIR2,奈良県,2289,SSTILE,奈良県,4091,PUIPUI,奈良県,0,,-
-PENDUAL,Cosmic Cat,0,,-,826,HAM!?,奈良県,1675,SSTILE,奈良県,2282,D-CHAN,奈良県,3069,KIRITO,奈良県
+PENDUAL,Cosmic Cat,0,,-,867,HIR2,奈良県,1675,SSTILE,奈良県,2282,D-CHAN,奈良県,3069,KIRITO,奈良県
 PENDUAL,"COLOSSEUM ",0,,-,534,HIR2,奈良県,1193,NI9-G6,奈良県,2209,CYBELE,奈良県,0,,-
 PENDUAL,cinder,0,,-,778,HIR2,奈良県,1980,SSTILE,奈良県,3087,PUIPUI,奈良県,0,,-
 PENDUAL,Chronos,0,,-,798,DAYAN,奈良県,1338,7-11,奈良県,2218,CYBELE,奈良県,0,,-
@@ -865,20 +865,20 @@ copula,紫陽花 -AZISAI-,382,HIR2,奈良県,1205,NI9-G6,奈良県,1978,BELTRE,�
 copula,真 地獄超特急 -HELL or HELL-,0,,-,1303,RYOTSU,奈良県,2117,2KU4MI,奈良県,3081,D-CHAN,奈良県,0,,-
 copula,灼熱 Pt.2 Long Train Running,0,,-,1132,GR****,奈良県,2064,KAEDE,奈良県,3036,UOKI,奈良県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,885,HIR2,奈良県,1631,SSTILE,奈良県,2412,KIRITO,奈良県,0,,-
-copula,星屑ディスタンシア,0,,-,640,DAYAN,奈良県,975,JZXSTY,奈良県,1974,7-11,奈良県,0,,-
+copula,星屑ディスタンシア,0,,-,640,DAYAN,奈良県,1163,NI9-G6,奈良県,1974,7-11,奈良県,0,,-
 copula,明鏡止水,0,,-,801,HIR2,奈良県,1606,TL-STD,奈良県,2600,AISBIS,奈良県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,720,DAYAN,奈良県,1427,7-11,奈良県,1999,KATUZI,奈良県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,720,DAYAN,奈良県,1452,SSTILE,奈良県,2003,HIRONO,奈良県,0,,-
 copula,セロトニン,0,,-,1228,HIR2,奈良県,1763,SSTILE,奈良県,2217,KAEDE,奈良県,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,1063,HIR2,奈良県,1716,SSTILE,奈良県,2345,KIRITO,奈良県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,763,HIR2,奈良県,1372,SSTILE,奈良県,2342,D-CHAN,奈良県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,763,HIR2,奈良県,1422,7-11,奈良県,2342,D-CHAN,奈良県,0,,-
 copula,オルタネイトβ,0,,-,800,HIR2,奈良県,1402,7-11,奈良県,2195,KIRITO,奈良県,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,0,,-,2178,BELTRE,奈良県,3352,PUIPUI,奈良県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,1082,DAYAN,奈良県,1753,SSTILE,奈良県,2574,SYPHA,奈良県,0,,-
 copula,ZEPHYRANTHES,0,,-,942,HIR2,奈良県,1728,FKMZ,奈良県,2898,PUIPUI,奈良県,3862,PUIPUI,奈良県
 copula,X,0,,-,1157,JATT1,奈良県,2420,GAZEL,奈良県,3853,PUIPUI,奈良県,0,,-
-copula,Welcome,0,,-,836,HIR2,奈良県,1710,GAZEL,奈良県,2613,D-CHAN,奈良県,3229,D-CHAN,奈良県
+copula,Welcome,0,,-,836,HIR2,奈良県,1721,BELTRE,奈良県,2613,D-CHAN,奈良県,3229,D-CHAN,奈良県
 copula,Violet Rose,0,,-,698,TI-FU,奈良県,1889,BELTRE,奈良県,2401,ROTALA,奈良県,0,,-
-copula,Violet Pulse,0,,-,411,HIR2,奈良県,1321,HIR2,奈良県,2162,YIMA,奈良県,0,,-
+copula,Violet Pulse,0,,-,411,HIR2,奈良県,1612,7-11,奈良県,2162,YIMA,奈良県,0,,-
 copula,Uh-Oh,0,,-,1069,HIR2,奈良県,1663,SSTILE,奈良県,2294,ARACCH,奈良県,0,,-
 copula,Triple Counter,0,,-,1317,HIR2,奈良県,2081,TYS-R,奈良県,3781,KIRITO,奈良県,0,,-
 copula,Tori-no-kimochi,0,,-,239,TZ-TSU,奈良県,1173,NI9-G6,奈良県,1890,CYBELE,奈良県,0,,-
@@ -889,9 +889,9 @@ copula,STARLIGHT DANCEHALL,0,,-,1089,HIR2,奈良県,1497,RAMIEL,奈良県,2569,U
 copula,STARLiGHT,0,,-,891,HIR2,奈良県,1653,*IKKI*,奈良県,2567,KAEDE,奈良県,0,,-
 copula,SHELTER OF THE MIND,0,,-,1352,HIR2,奈良県,1840,168,奈良県,2957,KIRITO,奈良県,0,,-
 copula,Set U Free feat. Kanae Asaba,0,,-,886,HIR2,奈良県,1520,SSTILE,奈良県,2274,NCS.,奈良県,0,,-
-copula,Sephirot,0,,-,877,HIR2,奈良県,1183,N-ZAKI,奈良県,2321,PUIPUI,奈良県,0,,-
+copula,Sephirot,0,,-,877,HIR2,奈良県,1200,SAFRAN,奈良県,2321,PUIPUI,奈良県,0,,-
 copula,SEITEN NO TERIYAKI,0,,-,679,HIR2,奈良県,1168,NI9-G6,奈良県,2079,KOMONO,奈良県,0,,-
-copula,Routing,0,,-,847,222255,奈良県,1306,SO36,奈良県,2368,KIRITO,奈良県,0,,-
+copula,Routing,0,,-,847,222255,奈良県,1460,DRP*,奈良県,2368,KIRITO,奈良県,0,,-
 copula,Rock It,0,,-,1084,HIR2,奈良県,1647,7-11,奈良県,2930,D-CHAN,奈良県,0,,-
 copula,refrain,0,,-,1181,KINAKO,奈良県,2202,BELTRE,奈良県,3572,D-CHAN,奈良県,0,,-
 copula,quick master (reform version),0,,-,155,KINAKO,奈良県,332,HIR2,奈良県,518,BELTRE,奈良県,0,,-
@@ -911,8 +911,8 @@ copula,Konzert V,0,,-,1181,HIR2,奈良県,2220,BELTRE,奈良県,3364,PUIPUI,奈�
 copula,Journey,0,,-,663,DAYAN,奈良県,1213,NI9-G6,奈良県,1834,ARACCH,奈良県,3092,PUIPUI,奈良県
 copula,Inner Spirit,0,,-,826,HIR2,奈良県,1686,LAPIS,奈良県,2658,KAEDE,奈良県,0,,-
 copula,Highcharge Divolt,0,,-,798,SAFRAN,奈良県,1623,TAKU,奈良県,2686,KAEDE,奈良県,0,,-
-copula,Grand Chariot,0,,-,1010,TZ-TSU,奈良県,1800,SSTILE,奈良県,3471,PUIPUI,奈良県,0,,-
-copula,Godspeed,0,,-,872,TZ-TSU,奈良県,1867,YIMA,奈良県,3085,PUIPUI,奈良県,0,,-
+copula,Grand Chariot,0,,-,1019,JZXSTY,奈良県,1800,SSTILE,奈良県,3471,PUIPUI,奈良県,0,,-
+copula,Godspeed,0,,-,973,HIR2,奈良県,1867,YIMA,奈良県,3085,PUIPUI,奈良県,0,,-
 copula,GOBBLE,0,,-,460,HIR2,奈良県,709,ARACCH,奈良県,1684,D-CHAN,奈良県,0,,-
 copula,Go Faraway,0,,-,992,HIR2,奈良県,1373,HIR2,奈良県,2344,GAZEL,奈良県,0,,-
 copula,Glitch Nerds,0,,-,972,HIR2,奈良県,1177,RYAN,奈良県,2071,MYANJI,奈良県,0,,-
@@ -926,7 +926,7 @@ copula,DIAMOND CROSSING,0,,-,918,HIR2,奈良県,1679,YIMA,奈良県,2905,KIRITO,
 copula,Devil's Gear,0,,-,994,HIR2,奈良県,2094,BELTRE,奈良県,3501,PUIPUI,奈良県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,0,,-,1907,SSTILE,奈良県,2591,D-CHAN,奈良県,0,,-
 copula,Damage Per Second,0,,-,832,HIR2,奈良県,1180,RYAN,奈良県,2006,PUIPUI,奈良県,2188,MYANJI,奈良県
-copula,Daily Lunch Special,0,,-,950,JZXSTY,奈良県,2024,KOMONO,奈良県,2893,KIRITO,奈良県,0,,-
+copula,Daily Lunch Special,0,,-,950,JZXSTY,奈良県,2066,SSTILE,奈良県,2893,KIRITO,奈良県,0,,-
 copula,CODE:1 [revision1.0.1],0,,-,938,HIR2,奈良県,1667,SYPHA,奈良県,3055,D-CHAN,奈良県,0,,-
 copula,chaos eater -IIDX edition-,0,,-,1132,HIR2,奈良県,1573,LAPIS,奈良県,2487,ROTALA,奈良県,0,,-
 copula,Central Station,0,,-,962,HIR2,奈良県,1360,NUHEHO,奈良県,2258,MYANJI,奈良県,0,,-
@@ -940,7 +940,7 @@ copula,Acid Pumper,0,,-,629,HIR2,奈良県,1507,SSTILE,奈良県,2416,PUIPUI,奈
 copula,199024club -Re:BounceKiller-,0,,-,668,HIR2,奈良県,1563,AISBIS,奈良県,2249,D-CHAN,奈良県,0,,-
 SINOBUZ,鴉,0,,-,1455,NI9-G6,奈良県,2111,NI9-G6,奈良県,2673,PUIPUI,奈良県,0,,-
 SINOBUZ,童話回廊,0,,-,869,HIR2,奈良県,1667,SSTILE,奈良県,3043,D-CHAN,奈良県,0,,-
-SINOBUZ,禍根,0,,-,780,HIR2,奈良県,1153,ASUKA,奈良県,2499,ATRIX,奈良県,0,,-
+SINOBUZ,禍根,0,,-,780,HIR2,奈良県,1153,UMBRA,奈良県,2499,ATRIX,奈良県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,470,HIR2,奈良県,1010,333233,奈良県,1699,PUIPUI,奈良県,0,,-
 SINOBUZ,焔極OVERKILL,0,,-,1065,222255,奈良県,2040,GAZEL,奈良県,3590,PUIPUI,奈良県,0,,-
 SINOBUZ,火影,0,,-,688,HIR2,奈良県,1355,AISBIS,奈良県,2534,ATRIX,奈良県,0,,-
@@ -973,7 +973,7 @@ SINOBUZ,Steel Edge,0,,-,866,HIR2,奈良県,1428,SSTILE,奈良県,3143,PUIPUI,奈
 SINOBUZ,Snakey Kung-fu,0,,-,1101,7-11,奈良県,2107,7-11,奈良県,3348,PUIPUI,奈良県,0,,-
 SINOBUZ,Sky High,426,HIR2,奈良県,1080,HIR2,奈良県,2232,SYPHA,奈良県,3658,KIRITO,奈良県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,955,222255,奈良県,1578,SSTILE,奈良県,2381,KIRITO,奈良県,0,,-
-SINOBUZ,shuriken,0,,-,749,DAYAN,奈良県,926,JZXSTY,奈良県,2514,D-CHAN,奈良県,0,,-
+SINOBUZ,shuriken,0,,-,749,DAYAN,奈良県,1069,HIR2,奈良県,2514,D-CHAN,奈良県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,1037,HIR2,奈良県,1899,ALUA,奈良県,2571,LIME-B,奈良県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,621,HIR2,奈良県,952,7-11,奈良県,1676,ROTALA,奈良県,0,,-
 SINOBUZ,Seaside Labyrinth,0,,-,606,HIR2,奈良県,1094,HIR2,奈良県,1804,AISBIS,奈良県,0,,-
@@ -986,7 +986,7 @@ SINOBUZ,Remedy feat. Kanae Asaba,0,,-,884,HIR2,奈良県,1564,KITTEN,奈良県,2
 SINOBUZ,Rave Cannon,0,,-,993,HIR2,奈良県,1805,KAEDE,奈良県,3244,UOKI,奈良県,0,,-
 SINOBUZ,RAIN,0,,-,1125,NI9-G6,奈良県,1758,KAEDE,奈良県,3237,D-CHAN,奈良県,0,,-
 SINOBUZ,Quakes,0,,-,1027,HIR2,奈良県,1928,BELTRE,奈良県,3169,PUIPUI,奈良県,0,,-
-SINOBUZ,Piano Samurai,0,,-,971,HIR2,奈良県,1463,ASUKA,奈良県,2400,ROTALA,奈良県,0,,-
+SINOBUZ,Piano Samurai,0,,-,971,HIR2,奈良県,1463,UMBRA,奈良県,2400,ROTALA,奈良県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,746,HIR2,奈良県,1528,SSTILE,奈良県,2628,KOMONO,奈良県,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,1180,HIR2,奈良県,2048,BELTRE,奈良県,2844,ROTALA,奈良県,0,,-
 SINOBUZ,OOO,0,,-,662,DAYAN,奈良県,1443,7-11,奈良県,2040,UOKI,奈良県,0,,-
@@ -998,14 +998,14 @@ SINOBUZ,Magical,0,,-,769,HIR2,奈良県,1102,HIR2,奈良県,1956,2KU4MI,奈良�
 SINOBUZ,Macuilxochitl,479,HIR2,奈良県,1018,GULF,奈良県,2197,KITTEN,奈良県,3153,KIRITO,奈良県,0,,-
 SINOBUZ,Lost wing at.0,0,,-,860,HIR2,奈良県,1243,NUHEHO,奈良県,2222,HIRONO,奈良県,0,,-
 SINOBUZ,INVISIBLE STRIX,0,,-,837,DAYAN,奈良県,1932,TYS-R,奈良県,2410,GAZEL,奈良県,0,,-
-SINOBUZ,Honey Trap,0,,-,791,DAYAN,奈良県,1404,ASUKA,奈良県,2500,D-CHAN,奈良県,0,,-
+SINOBUZ,Honey Trap,0,,-,791,DAYAN,奈良県,1404,UMBRA,奈良県,2500,D-CHAN,奈良県,0,,-
 SINOBUZ,HAPPY★RUSH,0,,-,727,HIR2,奈良県,1790,TYS-R,奈良県,2759,KIRITO,奈良県,0,,-
 SINOBUZ,HADES,364,HIR2,奈良県,927,HIR2,奈良県,1754,SSTILE,奈良県,3018,D-CHAN,奈良県,0,,-
 SINOBUZ,GuNGNiR,0,,-,1300,NI9-G6,奈良県,2451,SYPHA,奈良県,3778,D-CHAN,奈良県,4546,PUIPUI,奈良県
 SINOBUZ,Go Ahead!!,0,,-,1009,7-11,奈良県,1525,K-TA.N,奈良県,2555,LATZET,奈良県,0,,-
 SINOBUZ,FUZIN RIZIN,0,,-,1130,HIR2,奈良県,1922,TYS-R,奈良県,3682,KIRITO,奈良県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,608,HIR2,奈良県,1098,333233,奈良県,1552,BELTRE,奈良県,0,,-
-SINOBUZ,Egret and Willow,0,,-,701,JATT1,奈良県,1358,NUHEHO,奈良県,2583,MYANJI,奈良県,0,,-
+SINOBUZ,Egret and Willow,0,,-,914,HIR2,奈良県,1358,NUHEHO,奈良県,2583,MYANJI,奈良県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1255,7-11,奈良県,1969,SYPHA,奈良県,3255,PUIPUI,奈良県,0,,-
 SINOBUZ,DORNWALD ～Junge～,0,,-,1219,HIR2,奈良県,2122,SYPHA,奈良県,3588,D-CHAN,奈良県,0,,-
 SINOBUZ,Cyber True Color,0,,-,911,HIR2,奈良県,1532,Z&S,奈良県,2062,KINAKO,奈良県,0,,-
@@ -1013,10 +1013,10 @@ SINOBUZ,crew,0,,-,605,DAYAN,奈良県,1615,SETOA,奈良県,2814,KIRITO,奈良県
 SINOBUZ,Caterpillar,0,,-,1041,TZ-TSU,奈良県,2043,SSTILE,奈良県,2960,D-CHAN,奈良県,0,,-
 SINOBUZ,BroGamer,0,,-,1276,RYOTSU,奈良県,2088,TYS-R,奈良県,3044,PUIPUI,奈良県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,650,HIR2,奈良県,1276,SSTILE,奈良県,2209,BELTRE,奈良県,0,,-
-SINOBUZ,BREAK OVER,0,,-,840,HIR2,奈良県,1197,HAL,奈良県,2280,KAEDE,奈良県,0,,-
+SINOBUZ,BREAK OVER,0,,-,840,HIR2,奈良県,1197,HAL,奈良県,2334,PUIPUI,奈良県,0,,-
 SINOBUZ,Beyond The Seven,0,,-,701,B-TAI,奈良県,1241,NI9-G6,奈良県,2702,D-CHAN,奈良県,0,,-
 SINOBUZ,Believe in you,0,,-,1106,HIR2,奈良県,1763,HIR2,奈良県,2394,UOKI,奈良県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,835,TZ-TSU,奈良県,1504,KIRITO,奈良県,2082,D-CHAN,奈良県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,835,TZ-TSU,奈良県,1519,TYS-R,奈良県,2082,D-CHAN,奈良県,0,,-
 SINOBUZ,Be A Star,0,,-,936,DAYAN,奈良県,1678,HIR2,奈良県,2739,KIRITO,奈良県,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,1141,222255,奈良県,2060,KITTEN,奈良県,2700,KIRITO,奈良県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,1170,NI9-G6,奈良県,1560,DOLFIN,奈良県,2427,AQOOA,奈良県,0,,-
@@ -1058,7 +1058,7 @@ CANNON BALLERS,Sleepless days,0,,-,487,DAYAN,奈良県,903,BELTRE,奈良県,1567
 CANNON BALLERS,Rise Circuit,0,,-,904,HIR2,奈良県,1541,SSTILE,奈良県,2131,NCS.,奈良県,0,,-
 CANNON BALLERS,REVOLVER,0,,-,860,HIR2,奈良県,1575,7-11,奈良県,2403,UMH,奈良県,0,,-
 CANNON BALLERS,Raspberry Railgun,0,,-,0,,-,2129,7-11,奈良県,3128,D-CHAN,奈良県,0,,-
-CANNON BALLERS,Rampage,0,,-,1207,HIR2,奈良県,2380,BELTRE,奈良県,3556,UOKI,奈良県,0,,-
+CANNON BALLERS,Rampage,0,,-,1207,HIR2,奈良県,2381,BELTRE,奈良県,3556,UOKI,奈良県,0,,-
 CANNON BALLERS,Persephone,0,,-,1113,HIR2,奈良県,1914,SSTILE,奈良県,2922,PUIPUI,奈良県,0,,-
 CANNON BALLERS,Papilio ulysses,0,,-,1136,HIR2,奈良県,1965,Z&S,奈良県,2804,D-CHAN,奈良県,0,,-
 CANNON BALLERS,Only for now,0,,-,834,HIR2,奈良県,1529,BELTRE,奈良県,2246,PUIPUI,奈良県,0,,-
@@ -1068,7 +1068,7 @@ CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,907,HIR2,奈良県,1435,
 CANNON BALLERS,NITROUS CANNON,0,,-,1308,7-11,奈良県,1814,BON1NU,奈良県,3213,KAEDE,奈良県,0,,-
 CANNON BALLERS,n'pa pa BBQ,0,,-,887,DAYAN,奈良県,1653,SSTILE,奈良県,2644,KOMONO,奈良県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,612,HIR2,奈良県,1106,NI9-G6,奈良県,1895,2KU4MI,奈良県,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,775,DAYAN,奈良県,1179,&#9410,奈良県,2454,PUIPUI,奈良県,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,775,DAYAN,奈良県,1418,SSTILE,奈良県,2454,PUIPUI,奈良県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,777,HIR2,奈良県,1265,NI9-G6,奈良県,2088,UOKI,奈良県,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,711,HIR2,奈良県,1309,GR****,奈良県,2354,UOKI,奈良県,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,979,JZXSTY,奈良県,1822,SYPHA,奈良県,3422,PUIPUI,奈良県,0,,-
@@ -1096,8 +1096,8 @@ CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,744,HIR2,奈良県,1335,NI9-G6,
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1069,DAYAN,奈良県,1690,333233,奈良県,2599,UOKI,奈良県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,774,HIR2,奈良県,1431,7-11,奈良県,2116,UOKI,奈良県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,964,HIR2,奈良県,1797,BELTRE,奈良県,2761,UOKI,奈良県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,961,KOTB-K,奈良県,1710,HAL,奈良県,2412,AISBIS,奈良県,0,,-
-CANNON BALLERS,Boomy and The Boost,0,,-,940,HIR2,奈良県,2004,HEAVEN,奈良県,3495,D-CHAN,奈良県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,1198,HIR2,奈良県,1829,7-11,奈良県,2412,AISBIS,奈良県,0,,-
+CANNON BALLERS,Boomy and The Boost,0,,-,977,HIR2,奈良県,2004,HEAVEN,奈良県,3495,D-CHAN,奈良県,0,,-
 CANNON BALLERS,Best of Me,0,,-,780,HIR2,奈良県,1510,SSTILE,奈良県,2186,PUIPUI,奈良県,0,,-
 CANNON BALLERS,Beast mode,0,,-,906,ADDTIV,奈良県,1264,SENDO,奈良県,2512,SYPHA,奈良県,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,714,HIR2,奈良県,1658,MSKRRR,奈良県,2796,AISBIS,奈良県,0,,-
@@ -1115,7 +1115,7 @@ CANNON BALLERS,ACCELERATE,0,,-,1091,DAYAN,奈良県,1675,SSTILE,奈良県,2499,D
 CANNON BALLERS,Abraxas,0,,-,741,HIR2,奈良県,1450,TL-STD,奈良県,2360,UOKI,奈良県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1160,NI9-G6,奈良県,2319,GAZEL,奈良県,3564,PUIPUI,奈良県,0,,-
 CANNON BALLERS,255,0,,-,884,7-11,奈良県,1585,ARACCH,奈良県,3222,PUIPUI,奈良県,0,,-
-CANNON BALLERS,2 Player,0,,-,0,,-,1529,SSTILE,奈良県,2531,D-CHAN,奈良県,0,,-
+CANNON BALLERS,2 Player,0,,-,874,HIR2,奈良県,1529,SSTILE,奈良県,2531,D-CHAN,奈良県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,978,DAYAN,奈良県,1662,2KU4MI,奈良県,2593,UOKI,奈良県,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,967,DAYAN,奈良県,2212,BELTRE,奈良県,3182,D-CHAN,奈良県,0,,-
 Rootage,金野火織の金色提言,0,,-,1145,222255,奈良県,2187,GAZEL,奈良県,2969,UOKI,奈良県,0,,-
@@ -1123,11 +1123,11 @@ Rootage,花冠 feat.Aikapin,0,,-,819,222255,奈良県,1502,SSTILE,奈良県,2523
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1122,222255,奈良県,1842,AISBIS,奈良県,2622,KIRITO,奈良県,0,,-
 Rootage,深愛のリグレット,0,,-,764,NI9-G6,奈良県,1184,7-11,奈良県,2380,D-CHAN,奈良県,0,,-
 Rootage,泰東ノ翠霞,0,,-,450,HIR2,奈良県,687,222255,奈良県,1687,4GEPO4,奈良県,0,,-
-Rootage,最小三倍完全数,0,,-,862,DAYAN,奈良県,1670,SYPHA,奈良県,2462,PUIPUI,奈良県,0,,-
+Rootage,最小三倍完全数,0,,-,862,DAYAN,奈良県,1688,TYS-R,奈良県,2462,PUIPUI,奈良県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1266,NI9-G6,奈良県,2234,ARACCH,奈良県,3990,D-CHAN,奈良県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,664,DAYAN,奈良県,1488,SSTILE,奈良県,2515,UOKI,奈良県,0,,-
 Rootage,ミッドナイト☆WAR,0,,-,805,NI9-G6,奈良県,1536,SSTILE,奈良県,2485,D-CHAN,奈良県,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,559,DAYAN,奈良県,871,JZXSTY,奈良県,1398,ARACCH,奈良県,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,559,DAYAN,奈良県,931,HIR2,奈良県,1398,ARACCH,奈良県,0,,-
 Rootage,ハードベース・フェスタ,0,,-,1061,333233,奈良県,1735,SSTILE,奈良県,2814,UOKI,奈良県,0,,-
 Rootage,セカンドピアス,0,,-,555,HIR2,奈良県,1031,D-SIDE,奈良県,2002,UOKI,奈良県,0,,-
 Rootage,サクラあっぱれーしょん,264,LIME-B,奈良県,581,HIR2,奈良県,1517,7-11,奈良県,2305,PUIPUI,奈良県,0,,-
@@ -1142,16 +1142,16 @@ Rootage,X-DEN,0,,-,1558,SSTILE,奈良県,2592,KAEDE,奈良県,4039,PUIPUI,奈良
 Rootage,Wonderland,0,,-,968,HIR2,奈良県,1448,MISO-T,奈良県,2729,PUIPUI,奈良県,0,,-
 Rootage,Won(*3*)Chu KissMe!,259,HIR2,奈良県,881,HIR2,奈良県,1337,SSTILE,奈良県,2484,D-CHAN,奈良県,0,,-
 Rootage,Wolf 1061,0,,-,967,NI9-G6,奈良県,1631,VICTOR,奈良県,3063,PUIPUI,奈良県,0,,-
-Rootage,Wing of Hearts,0,,-,1051,HIR2,奈良県,1734,7-11,奈良県,2893,UOKI,奈良県,0,,-
+Rootage,Wing of Hearts,0,,-,1051,HIR2,奈良県,1738,7-11,奈良県,2893,UOKI,奈良県,0,,-
 Rootage,voltississimo,0,,-,1041,222255,奈良県,1977,GAZEL,奈良県,3449,KIRITO,奈良県,0,,-
 Rootage,Visterhv,0,,-,1168,HIR2,奈良県,2179,AQOOA,奈良県,3677,PUIPUI,奈良県,0,,-
 Rootage,Urban Constellations,0,,-,668,HIR2,奈良県,1458,7-11,奈良県,2132,AISBIS,奈良県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1048,HIR2,奈良県,1778,LAPIS,奈良県,3149,KIRITO,奈良県,0,,-
-Rootage,Unbelief,0,,-,1040,NI9-G6,奈良県,1865,SYPHA,奈良県,3038,D-CHAN,奈良県,0,,-
+Rootage,Unbelief,0,,-,1040,NI9-G6,奈良県,1914,7-11,奈良県,3038,D-CHAN,奈良県,0,,-
 Rootage,U.S.A.,536,HIR2,奈良県,1047,DAYAN,奈良県,1818,7-11,奈良県,2831,MAJOR,奈良県,0,,-
 Rootage,Twilight Warp,0,,-,908,NI9-G6,奈良県,1331,NI9-G6,奈良県,2084,UOKI,奈良県,0,,-
 Rootage,Trill auf G,0,,-,1060,HIR2,奈良県,1994,GAZEL,奈良県,3167,PUIPUI,奈良県,0,,-
-Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,713,NI9-G6,奈良県,1052,JATT1,奈良県,2202,CYBELE,奈良県,0,,-
+Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,713,NI9-G6,奈良県,1414,HIR2,奈良県,2202,CYBELE,奈良県,0,,-
 Rootage,toy boxer,0,,-,727,HIR2,奈良県,1353,*IKKI*,奈良県,2177,AOSAN!,奈良県,0,,-
 Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,795,DAYAN,奈良県,1318,NI9-G6,奈良県,2179,ARACCH,奈良県,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,1058,HIR2,奈良県,1887,SSTILE,奈良県,2997,UOKI,奈良県,0,,-
@@ -1172,14 +1172,14 @@ Rootage,REPLAY,0,,-,861,HIR2,奈良県,1305,222255,奈良県,2182,AISBIS,奈良�
 Rootage,Red. by Jack Trance,0,,-,1445,TYS-L,奈良県,2096,KAEDE,奈良県,3276,D-CHAN,奈良県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,609,DAYAN,奈良県,868,RYAN,奈良県,1636,UOKI,奈良県,0,,-
 Rootage,Please Welcome Mr.C,0,,-,0,,-,1727,SSTILE,奈良県,2879,UOKI,奈良県,0,,-
-Rootage,Playing With Fire,0,,-,966,7-11,奈良県,1478,RAXA,奈良県,2333,UOKI,奈良県,0,,-
+Rootage,Playing With Fire,0,,-,966,7-11,奈良県,1520,TYS-R,奈良県,2333,UOKI,奈良県,0,,-
 Rootage,Particle Arts,0,,-,822,HIR2,奈良県,1613,SSTILE,奈良県,2375,KAEDE,奈良県,0,,-
 Rootage,Painful Fate,0,,-,1204,VICTOR,奈良県,2150,ARACCH,奈良県,3219,KIRITO,奈良県,0,,-
 Rootage,OVER TIME,0,,-,547,HIR2,奈良県,959,7-11,奈良県,1536,UOKI,奈良県,0,,-
 Rootage,ONIGOROSHI,0,,-,1114,NI9-G6,奈良県,1937,SYPHA,奈良県,2821,KIRITO,奈良県,0,,-
 Rootage,Night! Night! Night!,0,,-,1136,HIR2,奈良県,1570,HORI.,奈良県,3004,D-CHAN,奈良県,0,,-
 Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,849,HIR2,奈良県,1549,VICTOR,奈良県,2559,AQOOA,奈良県,0,,-
-Rootage,Necroxis Girl,0,,-,768,DAYAN,奈良県,1869,7-11,奈良県,2660,PUIPUI,奈良県,0,,-
+Rootage,Necroxis Girl,0,,-,1021,HIR2,奈良県,1869,7-11,奈良県,2660,PUIPUI,奈良県,0,,-
 Rootage,Macho Monky,0,,-,1361,7-11,奈良県,2025,F&F,奈良県,2949,D-CHAN,奈良県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1036,HIR2,奈良県,1780,SYPHA,奈良県,3355,UOKI,奈良県,0,,-
 Rootage,Lift Us High,0,,-,934,DAYAN,奈良県,1541,SSTILE,奈良県,2425,UOKI,奈良県,0,,-
@@ -1188,10 +1188,10 @@ Rootage,Lethal Weapon,0,,-,1118,NI9-G6,奈良県,1876,KAEDE,奈良県,3146,D-CHA
 Rootage,Let me be your cure,0,,-,1058,HIR2,奈良県,1424,7-11,奈良県,2610,KIRITO,奈良県,0,,-
 Rootage,LADYBIRD,0,,-,789,JZXSTY,奈良県,1543,SSTILE,奈良県,2410,UOKI,奈良県,0,,-
 Rootage,L.F.O,0,,-,825,HIR2,奈良県,1734,KAEDE,奈良県,3241,UOKI,奈良県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1298,NYAAN,奈良県,2182,GAZEL,奈良県,3773,PUIPUI,奈良県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1298,NYAAN,奈良県,2191,7-11,奈良県,3773,PUIPUI,奈良県,0,,-
 Rootage,IDOL syndrome.,0,,-,731,HIR2,奈良県,1233,HIR2,奈良県,2152,UOKI,奈良県,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1014,LIME-B,奈良県,1448,BELTRE,奈良県,2139,UOKI,奈良県,0,,-
-Rootage,Hurry Hurry,0,,-,706,HIR2,奈良県,844,RYAN,奈良県,2061,PUIPUI,奈良県,0,,-
+Rootage,Hurry Hurry,0,,-,706,HIR2,奈良県,947,HIR2,奈良県,2061,PUIPUI,奈良県,0,,-
 Rootage,HOT LIMIT,387,HIR2,奈良県,1026,NI9-G6,奈良県,1684,SSTILE,奈良県,2478,PUIPUI,奈良県,0,,-
 Rootage,HEISEI,357,C-PON,奈良県,1063,HIR2,奈良県,1872,HEAVEN,奈良県,2460,MAJOR,奈良県,0,,-
 Rootage,HARD BRAIN,0,,-,1255,HIR2,奈良県,1997,KAEDE,奈良県,3750,PUIPUI,奈良県,0,,-
@@ -1203,9 +1203,9 @@ Rootage,Geirskogul,0,,-,1036,NI9-G6,奈良県,1496,VICTOR,奈良県,2140,MYANJI,
 Rootage,Garuda,0,,-,918,HIR2,奈良県,1579,SSTILE,奈良県,2577,D-CHAN,奈良県,0,,-
 Rootage,EVANESCENT,0,,-,1174,NI9-G6,奈良県,2174,VICTOR,奈良県,3416,KIRITO,奈良県,0,,-
 Rootage,Ember Lights,0,,-,898,HIR2,奈良県,1581,SSTILE,奈良県,2662,UOKI,奈良県,0,,-
-Rootage,DRUNK MONKY,0,,-,917,NI9-G6,奈良県,1491,BELTRE,奈良県,2264,D-CHAN,奈良県,0,,-
+Rootage,DRUNK MONKY,0,,-,917,NI9-G6,奈良県,1523,7-11,奈良県,2264,D-CHAN,奈良県,0,,-
 Rootage,Drastic Dramatic,0,,-,1420,NI9-G6,奈良県,2300,SYPHA,奈良県,3487,D-CHAN,奈良県,0,,-
-Rootage,Dr. Chemical & Killing Machine,0,,-,1033,HIR2,奈良県,1214,BABAA,奈良県,3325,D-CHAN,奈良県,0,,-
+Rootage,Dr. Chemical & Killing Machine,0,,-,1033,HIR2,奈良県,1284,RMPS*,奈良県,3325,D-CHAN,奈良県,0,,-
 Rootage,Digital Skipper,0,,-,917,7-11,奈良県,1219,ZCC,奈良県,2159,KITTEN,奈良県,0,,-
 Rootage,dAuntl3ss,0,,-,963,RYAN,奈良県,1894,SSTILE,奈良県,3407,UOKI,奈良県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,812,NI9-G6,奈良県,1586,KITTEN,奈良県,2373,UOKI,奈良県,0,,-
@@ -1241,7 +1241,7 @@ HEROIC VERSE,ガヴリールドロップキック,370,HIR2,奈良県,741,DAYAN,�
 HEROIC VERSE,Ypsilon,0,,-,1047,HIR2,奈良県,1759,KAEDE,奈良県,2888,PUIPUI,奈良県,0,,-
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,866,ALT.I,奈良県,1434,333233,奈良県,2456,D-CHAN,奈良県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,982,HIR2,奈良県,1513,ZCC,奈良県,2931,PUIPUI,奈良県,0,,-
-HEROIC VERSE,Virus Funk,0,,-,716,HIR2,奈良県,1197,RYAN,奈良県,2182,UOKI,奈良県,0,,-
+HEROIC VERSE,Virus Funk,0,,-,716,HIR2,奈良県,1470,BELTRE,奈良県,2182,UOKI,奈良県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,851,HIR2,奈良県,1254,333233,奈良県,1833,UOKI,奈良県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,445,HIR2,奈良県,936,DAYAN,奈良県,1556,RAMIEL,奈良県,2722,D-CHAN,奈良県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1287,DAYAN,奈良県,2460,SYPHA,奈良県,3247,UOKI,奈良県,0,,-
@@ -1268,7 +1268,7 @@ HEROIC VERSE,Primitive Vibes,557,TZ-TSU,奈良県,1018,TZ-TSU,奈良県,1955,7-1
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),320,NI9-G6,奈良県,508,DAYAN,奈良県,1228,*IKKI*,奈良県,2109,UOKI,奈良県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1229,STILE,奈良県,1664,STILE,奈良県,2833,PUIPUI,奈良県,0,,-
 HEROIC VERSE,Override,0,,-,941,7-11,奈良県,1520,STILE,奈良県,2856,UOKI,奈良県,0,,-
-HEROIC VERSE,OUTER PLANETS,0,,-,649,HIR2,奈良県,1179,TOUMA,奈良県,2086,KIRITO,奈良県,0,,-
+HEROIC VERSE,OUTER PLANETS,0,,-,649,HIR2,奈良県,1358,7-11,奈良県,2086,KIRITO,奈良県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,889,HIR2,奈良県,1343,COOL,奈良県,2415,D-CHAN,奈良県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,935,HIR2,奈良県,1460,SSTILE,奈良県,2636,D-CHAN,奈良県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,567,DAYAN,奈良県,1271,7-11,奈良県,1926,KOMONO,奈良県,0,,-
@@ -1277,7 +1277,7 @@ HEROIC VERSE,Moving on,0,,-,981,HIR2,奈良県,1874,BELTRE,奈良県,2956,D-CHAN
 HEROIC VERSE,Mel,0,,-,757,HIR2,奈良県,1413,HIR2,奈良県,2147,UOKI,奈良県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1075,222255,奈良県,2055,SSTILE,奈良県,3304,D-CHAN,奈良県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1003,DAYAN,奈良県,1806,TYS-R,奈良県,2865,KAEDE,奈良県,0,,-
-HEROIC VERSE,Like+it!,0,,-,975,HIR2,奈良県,1561,KAZU#,奈良県,2309,UOKI,奈良県,0,,-
+HEROIC VERSE,Like+it!,0,,-,975,HIR2,奈良県,1598,TYS-R,奈良県,2309,UOKI,奈良県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,896,STILE,奈良県,1649,BELTRE,奈良県,3228,PUIPUI,奈良県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,733,HIR2,奈良県,1487,TKZWEI,奈良県,3167,KAEDE,奈良県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,803,HIR2,奈良県,1220,TYS-L,奈良県,2280,UOKI,奈良県,0,,-
@@ -1289,7 +1289,7 @@ HEROIC VERSE,GIGA VIOLATE,0,,-,1072,7-11,奈良県,1544,STILE,奈良県,2695,UOK
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,797,HIR2,奈良県,1454,BELTRE,奈良県,2283,UOKI,奈良県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,439,HIR2,奈良県,1092,7-11,奈良県,1564,BELTRE,奈良県,0,,-
 HEROIC VERSE,EXCITE,321,HIR2,奈良県,774,DAYAN,奈良県,1330,7-11,奈良県,2196,UOKI,奈良県,0,,-
-HEROIC VERSE,Duration,0,,-,508,HIR2,奈良県,981,D-SIDE,奈良県,1913,BELTRE,奈良県,0,,-
+HEROIC VERSE,Duration,0,,-,508,HIR2,奈良県,999,NCS.,奈良県,1913,BELTRE,奈良県,0,,-
 HEROIC VERSE,Drop It,0,,-,1080,HIR2,奈良県,1858,SSTILE,奈良県,2552,KE2-3,奈良県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,668,DAYAN,奈良県,1186,NI9-G6,奈良県,1968,UOKI,奈良県,0,,-
 HEROIC VERSE,Crank It,0,,-,746,DAYAN,奈良県,1448,7-11,奈良県,2437,PUIPUI,奈良県,0,,-
@@ -1297,7 +1297,7 @@ HEROIC VERSE,Change Yourself,0,,-,886,HIR2,奈良県,1653,SSTILE,奈良県,2474,
 HEROIC VERSE,Calvados Queen,0,,-,916,B-TAI,奈良県,1429,SSTILE,奈良県,2387,KIRITO,奈良県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,775,ALT.I,奈良県,1910,ARACCH,奈良県,3046,UOKI,奈良県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,850,HIR2,奈良県,1552,HIR2,奈良県,2443,D-CHAN,奈良県,0,,-
-HEROIC VERSE,beatAffection,0,,-,933,HIR2,奈良県,1449,TAMAZO,奈良県,2594,UOKI,奈良県,0,,-
+HEROIC VERSE,beatAffection,0,,-,933,HIR2,奈良県,1449,TAMAZO,奈良県,2601,PUIPUI,奈良県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,976,STILE,奈良県,1568,BELTRE,奈良県,2198,UOKI,奈良県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,696,B-TAI,奈良県,1325,BELTRE,奈良県,1978,KIRITO,奈良県,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1166,STILE,奈良県,2310,GAZEL,奈良県,3480,KIRITO,奈良県,0,,-
@@ -1306,7 +1306,7 @@ BISTROVER,魔法のかくれんぼ,0,,-,816,HIR2,奈良県,1626,KOMONO,奈良県
 BISTROVER,霧幻メモリア,0,,-,957,7-11,奈良県,1411,7-11,奈良県,2013,UOKI,奈良県,0,,-
 BISTROVER,紅蓮華,151,TZ-TSU,奈良県,524,2KU4MI,奈良県,973,BELTRE,奈良県,1477,PUIPUI,奈良県,0,,-
 BISTROVER,犬に雨傘,0,,-,886,NI9-G6,奈良県,1444,ARACCH,奈良県,2075,D-CHAN,奈良県,0,,-
-BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1310,NI9-G6,奈良県,1929,STILE,奈良県,2769,PUIPUI,奈良県,0,,-
+BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1342,BELTRE,奈良県,1929,STILE,奈良県,2769,PUIPUI,奈良県,0,,-
 BISTROVER,水鏡の異界,0,,-,880,7-11,奈良県,1710,KAEDE,奈良県,3074,UOKI,奈良県,0,,-
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1208,STILE,奈良県,1766,7-11,奈良県,2589,ATRIX,奈良県,0,,-
 BISTROVER,新宝島,511,HIR2,奈良県,774,7-11,奈良県,1372,2KU4MI,奈良県,2340,D-CHAN,奈良県,0,,-
@@ -1328,7 +1328,7 @@ BISTROVER,Rowdy,0,,-,1032,ALT.I,奈良県,1569,KITTEN,奈良県,2453,ATRIX,奈�
 BISTROVER,rommmo,0,,-,1175,STILE,奈良県,1812,CYBELE,奈良県,3458,PUIPUI,奈良県,0,,-
 BISTROVER,Romanticが止まらない,381,TZ-TSU,奈良県,940,7-11,奈良県,1662,KAEDE,奈良県,2722,PUIPUI,奈良県,0,,-
 BISTROVER,POLKAMAИIA,0,,-,956,NCS.,奈良県,1835,ARACCH,奈良県,2924,PUIPUI,奈良県,0,,-
-BISTROVER,Party Starter,0,,-,937,STILE,奈良県,1508,F&F,奈良県,2272,UOKI,奈良県,0,,-
+BISTROVER,Party Starter,0,,-,937,STILE,奈良県,1511,BELTRE,奈良県,2272,UOKI,奈良県,0,,-
 BISTROVER,Para siempre,0,,-,957,TYS-R,奈良県,1531,HEAVEN,奈良県,2843,UOKI,奈良県,0,,-
 BISTROVER,Overslept,0,,-,1103,STILE,奈良県,1734,HEAVEN,奈良県,2541,ATRIX,奈良県,0,,-
 BISTROVER,of the first magnitude,0,,-,1023,NI9-G6,奈良県,1858,SSTILE,奈良県,2929,PUIPUI,奈良県,0,,-
@@ -1345,7 +1345,7 @@ BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,
 BISTROVER,GIGA RAID,0,,-,970,7-11,奈良県,1849,7-11,奈良県,2396,UOKI,奈良県,0,,-
 BISTROVER,Farewell to Marrakech,0,,-,869,STILE,奈良県,1482,BELTRE,奈良県,2209,D-CHAN,奈良県,0,,-
 BISTROVER,Euphoric Lagoon,0,,-,856,STILE,奈良県,1599,7-11,奈良県,2575,PUIPUI,奈良県,0,,-
-BISTROVER,Empire of Fury,0,,-,1353,KAEDE,奈良県,2080,UOKI,奈良県,3248,PUIPUI,奈良県,0,,-
+BISTROVER,Empire of Fury,0,,-,1353,KAEDE,奈良県,2081,STILE,奈良県,3248,PUIPUI,奈良県,0,,-
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,677,NCS.,奈良県,1317,HEAVEN,奈良県,1846,ATRIX,奈良県,0,,-
 BISTROVER,Chewingood!!!,0,,-,847,NI9-G6,奈良県,1500,KAEDE,奈良県,2610,PUIPUI,奈良県,0,,-
 BISTROVER,Breakin' Rules,0,,-,1264,Z&S,奈良県,1745,F&F,奈良県,2743,PUIPUI,奈良県,0,,-
