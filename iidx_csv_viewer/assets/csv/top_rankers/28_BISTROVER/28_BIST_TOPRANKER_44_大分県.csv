@@ -1,8 +1,8 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,0,,-,975,LIAR,大分県,1153,ANDIRA,大分県,0,,-
 1st&substream,RUGGED ASH,0,,-,360,SAMMYK,大分県,395,743,大分県,1082,ANDIRA,大分県,2023,ANDIRA,大分県
-1st&substream,R3,0,,-,0,,-,689,URAMP,大分県,903,ANDIRA,大分県,0,,-
-1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,437,SYO9,大分県,680,HS,大分県,1118,ANDIRA,大分県,0,,-
+1st&substream,R3,0,,-,291,DAW1N,大分県,689,URAMP,大分県,903,ANDIRA,大分県,0,,-
+1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,471,HAIDO,大分県,680,HS,大分県,1118,ANDIRA,大分県,0,,-
 1st&substream,Macho Gang,0,,-,347,NGKAWA,大分県,937,J,大分県,1637,ANDIRA,大分県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,194,PUNICO,大分県,244,ANDIRA,大分県,0,,-,0,,-
 1st&substream,GRADIUSIC CYBER,0,,-,787,SAMMYK,大分県,860,NO.11,大分県,1209,ANDIRA,大分県,0,,-
@@ -16,7 +16,7 @@
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,461,SAMMYK,大分県,612,743,大分県,648,ANDIRA,大分県,0,,-
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,528,NGKAWA,大分県,865,ANDIRA,大分県,0,,-,0,,-
 2nd style,Indigo Vision(full flavour hide around mix),0,,-,442,CH.16P,大分県,1060,743,大分県,1222,ANDIRA,大分県,0,,-
-2nd style,I Was The One,0,,-,498,SAMMYK,大分県,322,CH.16P,大分県,695,ANDIRA,大分県,0,,-
+2nd style,I Was The One,0,,-,498,SAMMYK,大分県,581,MURA,大分県,695,ANDIRA,大分県,0,,-
 2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,870,NO.11,大分県,1070,ANDIRA,大分県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,690,SAMMYK,大分県,947,J,大分県,1133,ANDIRA,大分県,0,,-
 2nd style,.59,0,,-,671,SAMMYK,大分県,988,743,大分県,1158,ANDIRA,大分県,0,,-
@@ -71,7 +71,7 @@
 5th style,in my eyes,0,,-,543,#SPOON,大分県,808,#SPOON,大分県,1588,ANDIRA,大分県,0,,-
 5th style,Abyss,0,,-,873,#SPOON,大分県,1632,ANDIRA,大分県,1878,ANDIRA,大分県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,513,SHIRO,大分県,1579,ANDIRA,大分県,0,,-,0,,-
-6th style,こっちを向いてよ,0,,-,0,,-,868,HSU,大分県,1375,ANDIRA,大分県,0,,-
+6th style,こっちを向いてよ,0,,-,288,K,大分県,868,HSU,大分県,1375,ANDIRA,大分県,0,,-
 6th style,VJ ARMY,0,,-,1215,SAGE,大分県,1539,NGKAWA,大分県,2212,ANDIRA,大分県,0,,-
 6th style,Take It Easy,0,,-,0,,-,2161,KEMI*,大分県,2526,ANDIRA,大分県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,0,,-,1859,ANDIRA,大分県,0,,-,0,,-
@@ -137,7 +137,7 @@
 8th style,ALL RIGHT,0,,-,797,SAMMYK,大分県,1077,SAMMYK,大分県,1615,ANDIRA,大分県,0,,-
 8th style,airflow,0,,-,524,SAMMYK,大分県,686,PLAN.B,大分県,1430,ANDIRA,大分県,0,,-
 8th style,abstract,0,,-,0,,-,1478,743,大分県,1909,ANDIRA,大分県,0,,-
-9th style,真夏の花・真夏の夢,0,,-,0,,-,640,ALMOCH,大分県,1487,ANDIRA,大分県,0,,-
+9th style,真夏の花・真夏の夢,0,,-,402,AT75,大分県,640,ALMOCH,大分県,1487,ANDIRA,大分県,0,,-
 9th style,ライオン好き,0,,-,566,STAPH.,大分県,1179,743,大分県,1506,ANDIRA,大分県,0,,-
 9th style,SWEETEST SAVAGE,0,,-,472,GIBSON,大分県,845,QOOBEE,大分県,1823,ANDIRA,大分県,0,,-
 9th style,Sweet Sweet Magic,0,,-,674,#SPOON,大分県,1429,LIAR,大分県,2043,ANDIRA,大分県,0,,-
@@ -154,9 +154,9 @@
 9th style,MARIA (I believe... ),0,,-,0,,-,1325,SAMMYK,大分県,1960,ANDIRA,大分県,0,,-
 9th style,Make A Difference,0,,-,0,,-,1275,J,大分県,2195,MACDO.,大分県,0,,-
 9th style,lower world,0,,-,702,#SPOON,大分県,1431,J,大分県,2257,ZUTT,大分県,0,,-
-9th style,LOVE SHINE,234,CH.16P,大分県,856,BNGROL,大分県,1782,SAGE,大分県,2080,ANDIRA,大分県,0,,-
+9th style,LOVE SHINE,288,J,大分県,856,BNGROL,大分県,1782,SAGE,大分県,2080,ANDIRA,大分県,0,,-
 9th style,lights,0,,-,647,SAMMYK,大分県,858,#SPOON,大分県,1800,ANDIRA,大分県,0,,-
-9th style,Karma,0,,-,1183,SAMMYK,大分県,1449,774,大分県,1773,YAMADA,大分県,0,,-
+9th style,Karma,0,,-,1183,SAMMYK,大分県,1449,774,大分県,1832,ANDIRA,大分県,0,,-
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,0,,-,1002,HUAWEI,大分県,1448,ANDIRA,大分県,0,,-
 9th style,HYPER EUROBEAT (2DX style),0,,-,0,,-,1426,PLAN.B,大分県,1962,ANDIRA,大分県,0,,-
 9th style,Golden Horn,0,,-,640,MURA,大分県,808,POM,大分県,1517,ANDIRA,大分県,0,,-
@@ -188,7 +188,7 @@
 10th style,Freezing atmosphere,0,,-,0,,-,917,PLAN.B,大分県,1506,ANDIRA,大分県,0,,-
 10th style,FEEL IT,0,,-,854,SAMMYK,大分県,1372,SAMMYK,大分県,1974,ZUTT,大分県,0,,-
 10th style,Feedback,0,,-,919,THEEND,大分県,1504,URAMP,大分県,1944,ANDIRA,大分県,0,,-
-10th style,EXE,0,,-,721,THEEND,大分県,1495,743,大分県,2243,ANDIRA,大分県,0,,-
+10th style,EXE,0,,-,721,THEEND,大分県,1495,743,大分県,2246,ZUTT,大分県,0,,-
 10th style,DoLL,294,*M,大分県,628,#SPOON,大分県,1111,PLAN.B,大分県,1619,ZUTT,大分県,0,,-
 10th style,desolation,0,,-,453,SAMMYK,大分県,607,SAMMYK,大分県,765,ANDIRA,大分県,0,,-
 10th style,Debtty Daddy,0,,-,963,SAMMYK,大分県,1747,3BM,大分県,2691,ANDIRA,大分県,0,,-
@@ -225,7 +225,7 @@ IIDX RED,Don't be afraid myself,0,,-,932,KCHAMA,大分県,1339,KCHAMA,大分県,
 IIDX RED,D.A.N.C.E.!,0,,-,275,KOKUEI,大分県,703,THEEND,大分県,1620,ANDIRA,大分県,0,,-
 IIDX RED,Close my Eyes for Me,0,,-,0,,-,1258,URAMP,大分県,1847,ANDIRA,大分県,0,,-
 IIDX RED,Click Again,0,,-,0,,-,1398,743,大分県,2143,ANDIRA,大分県,0,,-
-IIDX RED,BREATH,0,,-,840,SAMMYK,大分県,1255,743,大分県,1719,ANDIRA,大分県,0,,-
+IIDX RED,BREATH,0,,-,840,SAMMYK,大分県,1255,743,大分県,1733,ANDIRA,大分県,0,,-
 IIDX RED,BLOCKS,0,,-,705,MURA,大分県,1030,J,大分県,1971,ANDIRA,大分県,0,,-
 IIDX RED,Be quiet,0,,-,744,SYO9,大分県,1610,3BM,大分県,2205,ANDIRA,大分県,2787,ANDIRA,大分県
 IIDX RED,awakening,0,,-,885,HAIDO,大分県,1343,743,大分県,1720,ANDIRA,大分県,0,,-
@@ -249,7 +249,7 @@ HAPPY SKY,SigSig,471,KURO,大分県,856,SYO9,大分県,1494,LIMIA,大分県,2603
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,749,#SPOON,大分県,1471,URAMP,大分県,2122,ANDIRA,大分県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1303,PLAN.B,大分県,1805,PURAG,大分県,2519,YAMADA,大分県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1591,LIAR,大分県,2061,NOOB,大分県,3078,ZUTT,大分県,0,,-
-HAPPY SKY,SCREAM SQUAD,0,,-,1134,LIAR,大分県,1503,KEMI*,大分県,2084,ANDIRA,大分県,0,,-
+HAPPY SKY,SCREAM SQUAD,0,,-,1134,LIAR,大分県,1541,KEMI*,大分県,2084,ANDIRA,大分県,0,,-
 HAPPY SKY,rage against usual,0,,-,1248,LIAR,大分県,1874,PEEP,大分県,2911,ZUTT,大分県,0,,-
 HAPPY SKY,POODLE,0,,-,0,,-,1811,LIAR,大分県,2306,ANDIRA,大分県,3389,ZUTT,大分県
 HAPPY SKY,Pollinosis,0,,-,709,SAMMYK,大分県,1084,BLYTHE,大分県,2517,ANDIRA,大分県,0,,-
@@ -262,7 +262,7 @@ HAPPY SKY,LESSON 5,0,,-,0,,-,1340,KAME-R,大分県,2502,ANDIRA,大分県,0,,-
 HAPPY SKY,INAZUMA,0,,-,984,SAMMYK,大分県,1562,PMASO,大分県,2706,YAMADA,大分県,0,,-
 HAPPY SKY,in motion,0,,-,782,SAMMYK,大分県,937,PLAN.B,大分県,1315,ANDIRA,大分県,0,,-
 HAPPY SKY,I am,0,,-,370,HTK*,大分県,1687,743,大分県,2121,WAROTA,大分県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,343,ANGEL,大分県,1000,SAMMYK,大分県,1475,IIDX29,大分県,2096,ANDIRA,大分県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,593,HAIDO,大分県,1000,SAMMYK,大分県,1475,IIDX29,大分県,2096,ANDIRA,大分県,0,,-
 HAPPY SKY,GREEN EYES,0,,-,891,THEEND,大分県,1414,NGKAWA,大分県,2225,ANDIRA,大分県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,1061,MURA,大分県,1470,SAMMYK,大分県,2266,MACDO.,大分県,0,,-
 HAPPY SKY,garden,0,,-,648,GIBSON,大分県,1352,PLAN.B,大分県,2181,ANDIRA,大分県,0,,-
@@ -271,9 +271,9 @@ HAPPY SKY,EMPTY OF THE SKY,0,,-,599,SAMMYK,大分県,975,NGKAWA,大分県,1683,A
 HAPPY SKY,EDEN,0,,-,1156,MIR,大分県,1862,LIAR,大分県,2714,ANDIRA,大分県,0,,-
 HAPPY SKY,double thrash,0,,-,869,THEEND,大分県,1853,LIAR,大分県,2369,ANDIRA,大分県,0,,-
 HAPPY SKY,Catch Me,0,,-,0,,-,1096,MOTTU,大分県,1803,ANDIRA,大分県,0,,-
-HAPPY SKY,CaptivAte～浄化～,0,,-,843,THEEND,大分県,1601,ISM,大分県,2467,ANDIRA,大分県,0,,-
+HAPPY SKY,CaptivAte～浄化～,0,,-,843,THEEND,大分県,1665,3BM,大分県,2467,ANDIRA,大分県,0,,-
 HAPPY SKY,Aurora,0,,-,1162,MURA,大分県,1975,YUKARI,大分県,2544,ANDIRA,大分県,0,,-
-HAPPY SKY,alla turca con passione,0,,-,0,,-,1343,MOTTU,大分県,2186,YAMADA,大分県,0,,-
+HAPPY SKY,alla turca con passione,0,,-,292,MANDAM,大分県,1343,MOTTU,大分県,2186,YAMADA,大分県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,815,MURA,大分県,1512,3BM,大分県,2071,ANDIRA,大分県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,0,,-,1470,KEMI*,大分県,1727,ANDIRA,大分県,0,,-
 DistorteD,虹色,0,,-,0,,-,1423,NGKAWA,大分県,1848,ANDIRA,大分県,0,,-
@@ -300,12 +300,12 @@ DistorteD,Leaving...,0,,-,0,,-,1190,J,大分県,2196,BNGROL,大分県,0,,-
 DistorteD,INFERNO,0,,-,0,,-,1419,KEMI*,大分県,1992,ANDIRA,大分県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,767,SAMMYK,大分県,1395,SAMMYK,大分県,2117,ANDIRA,大分県,0,,-
 DistorteD,Harmony and Lovely,0,,-,0,,-,1500,SAMMYK,大分県,2238,ANDIRA,大分県,0,,-
-DistorteD,Ganymede,0,,-,673,#SPOON,大分県,1514,KILA**,大分県,2327,ANDIRA,大分県,2570,ANDIRA,大分県
+DistorteD,Ganymede,0,,-,673,#SPOON,大分県,1552,3BM,大分県,2327,ANDIRA,大分県,2570,ANDIRA,大分県
 DistorteD,EURO-ROMANCE,0,,-,851,PLAN.B,大分県,1695,743,大分県,2104,ANDIRA,大分県,0,,-
 DistorteD,DUE TOMORROW,0,,-,789,SAMMYK,大分県,1191,LIAR,大分県,1986,ANDIRA,大分県,0,,-
 DistorteD,Double Loving Heart,0,,-,142,NOXAS,大分県,992,HSU,大分県,1814,ANDIRA,大分県,0,,-
 DistorteD,D.C.fish,0,,-,0,,-,1791,743,大分県,2344,ANDIRA,大分県,0,,-
-DistorteD,CONTRACT,0,,-,1102,MAM.85,大分県,1486,KEMI*,大分県,2073,ANDIRA,大分県,2723,BNGROL,大分県
+DistorteD,CONTRACT,0,,-,1102,MAM.85,大分県,1486,KEMI*,大分県,2081,ZUTT,大分県,2723,BNGROL,大分県
 DistorteD,Concertino in Blue,224,A,大分県,0,,-,1678,ZUTT,大分県,2534,ANDIRA,大分県,0,,-
 DistorteD,Broadbanded,0,,-,831,SAMMYK,大分県,1271,URAMP,大分県,2020,YAMADA,大分県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,0,,-,1371,POM,大分県,2281,ANDIRA,大分県,0,,-
@@ -325,14 +325,14 @@ GOLD,Watch out!!,0,,-,0,,-,706,DIALIS,大分県,1625,ANDIRA,大分県,0,,-
 GOLD,VANESSA,0,,-,934,ELIO,大分県,1829,YAMADA,大分県,2417,ANDIRA,大分県,3325,ANDIRA,大分県
 GOLD,TRANOID,0,,-,0,,-,1476,ELIO,大分県,2209,ANDIRA,大分県,2943,ZUTT,大分県
 GOLD,The Smile of You,0,,-,856,STAPH.,大分県,1297,743,大分県,1630,ANDIRA,大分県,0,,-
-GOLD,the shadow,0,,-,909,SYO9,大分県,1703,ELIO,大分県,2877,ZUTT,大分県,0,,-
+GOLD,the shadow,0,,-,909,SYO9,大分県,1703,ELIO,大分県,2888,ZUTT,大分県,0,,-
 GOLD,snow storm,227,SAMMYK,大分県,586,AAAAAA,大分県,2095,743,大分県,2801,ANDIRA,大分県,3371,ANDIRA,大分県
 GOLD,smile,0,,-,641,ECHO.,大分県,2089,PUNICO,大分県,2892,ANDIRA,大分県,0,,-
 GOLD,Sense 2007,0,,-,1410,PRUNE,大分県,2149,MACDO.,大分県,2914,ANDIRA,大分県,0,,-
-GOLD,Second Heaven,151,IIDX28,大分県,885,SUICA,大分県,1476,LIAR,大分県,2108,ZUTT,大分県,0,,-
+GOLD,Second Heaven,157,OREO,大分県,885,SUICA,大分県,1476,LIAR,大分県,2108,ZUTT,大分県,0,,-
 GOLD,Roulette,0,,-,599,XYZAL,大分県,1098,POM,大分県,2130,ANDIRA,大分県,0,,-
 GOLD,PHOTONGENIC,0,,-,882,QOOBEE,大分県,1606,J,大分県,2310,ANDIRA,大分県,0,,-
-GOLD,op.31 叙情,0,,-,527,NATAKU,大分県,1239,MACDO.,大分県,1552,ANDIRA,大分県,0,,-
+GOLD,op.31 叙情,0,,-,530,PA-SOU,大分県,1239,MACDO.,大分県,1552,ANDIRA,大分県,0,,-
 GOLD,never…,0,,-,768,SAMMYK,大分県,1222,PLAN.B,大分県,1825,ANDIRA,大分県,0,,-
 GOLD,METALLIC MIND,0,,-,720,TOMI,大分県,1261,URAMP,大分県,1636,ANDIRA,大分県,0,,-
 GOLD,Make Me Your Own,0,,-,0,,-,1501,743,大分県,2155,ANDIRA,大分県,0,,-
@@ -343,7 +343,7 @@ GOLD,INORI,0,,-,1149,HUAWEI,大分県,2360,KEMI*,大分県,3181,YAMADA,大分県
 GOLD,High School Love,274,ANGEL,大分県,594,AZUSA,大分県,1348,MIR,大分県,2201,ANDIRA,大分県,0,,-
 GOLD,heaven above,0,,-,0,,-,875,HSU,大分県,1846,ANDIRA,大分県,0,,-
 GOLD,GRID KNIGHT,0,,-,631,HATM-R,大分県,1507,POM,大分県,2565,PA-SOU,大分県,3470,ANDIRA,大分県
-GOLD,GOLD RUSH,370,SHIRO,大分県,924,ATRIUM,大分県,1219,LOTUS,大分県,2359,ANDIRA,大分県,0,,-
+GOLD,GOLD RUSH,370,SHIRO,大分県,924,ATRIUM,大分県,1258,LIMIA,大分県,2359,ANDIRA,大分県,0,,-
 GOLD,four-leaf,0,,-,713,NGKAWA,大分県,970,MURA,大分県,1724,ANDIRA,大分県,0,,-
 GOLD,FIRE FIRE,420,TAKO,大分県,1128,LIAR,大分県,1565,NGKAWA,大分県,2730,ANDIRA,大分県,0,,-
 GOLD,Fascination MAXX,0,,-,931,PA-SOU,大分県,1662,ANDIRA,大分県,2411,ANDIRA,大分県,0,,-
@@ -356,7 +356,7 @@ GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1131,THEEND,大分県,1
 GOLD,ANDROMEDA II,0,,-,634,#SPOON,大分県,1577,ELIO,大分県,2486,ANDIRA,大分県,0,,-
 GOLD,Air Bell,0,,-,911,SAMMYK,大分県,1122,S.SHI,大分県,1730,ANDIRA,大分県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,0,,-,533,MAKETA,大分県,1333,ANDIRA,大分県,0,,-
-DJ TROOPERS,華爛漫 -Flowers-,195,FATE,大分県,925,SUICA,大分県,1302,BONA,大分県,2052,ZUTT,大分県,0,,-
+DJ TROOPERS,華爛漫 -Flowers-,195,FATE,大分県,925,SUICA,大分県,1302,BONA,大分県,2055,ANDIRA,大分県,0,,-
 DJ TROOPERS,少年A,0,,-,1188,3ZUI,大分県,1963,KEMI*,大分県,2780,BNGROL,大分県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,1005,SAMMYK,大分県,1947,743,大分県,2661,ANDIRA,大分県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,0,,-,1296,743,大分県,1797,ANDIRA,大分県,0,,-
@@ -369,7 +369,7 @@ DJ TROOPERS,Time to Air,0,,-,0,,-,2001,LIAR,大分県,2890,ANDIRA,大分県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,806,PLAN.B,大分県,938,KTRST,大分県,1847,ANDIRA,大分県,0,,-
 DJ TROOPERS,THE DEEP STRIKER,342,HACHI,大分県,846,WECRA,大分県,1881,KEMI*,大分県,3019,ANDIRA,大分県,3508,ANDIRA,大分県
 DJ TROOPERS,switch,0,,-,0,,-,1326,BLYTHE,大分県,2101,ANDIRA,大分県,0,,-
-DJ TROOPERS,STEEL NEEDLE,0,,-,563,AAAAAA,大分県,1744,ZNM,大分県,2432,MACDO.,大分県,0,,-
+DJ TROOPERS,STEEL NEEDLE,0,,-,563,AAAAAA,大分県,1744,ZNM,大分県,2485,ANDIRA,大分県,0,,-
 DJ TROOPERS,State Of The Art,0,,-,0,,-,1353,NGKAWA,大分県,3118,ANDIRA,大分県,0,,-
 DJ TROOPERS,SOUND OF GIALLARHORN,368,*M,大分県,1005,#SPOON,大分県,2573,LIAR,大分県,3298,ANDIRA,大分県,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,710,MURA,大分県,1436,NOZOMU,大分県,2366,SAGE,大分県,0,,-
@@ -380,7 +380,7 @@ DJ TROOPERS,Ristaccia,0,,-,862,SYO9,大分県,1461,ELIO,大分県,2750,ANDIRA,�
 DJ TROOPERS,REMINISCENCE,0,,-,532,IIDX28,大分県,1791,LIAR,大分県,2346,ANDIRA,大分県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,574,SAMMYK,大分県,1362,ISM,大分県,1750,ANDIRA,大分県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,973,Y-CHAN,大分県,1796,MACDO.,大分県,2680,ANDIRA,大分県,0,,-
-DJ TROOPERS,oratio,0,,-,1241,PLAN.B,大分県,1850,KEMI*,大分県,2918,BNGROL,大分県,0,,-
+DJ TROOPERS,oratio,0,,-,1241,PLAN.B,大分県,1850,KEMI*,大分県,2926,ANDIRA,大分県,0,,-
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,773,#SPOON,大分県,1733,NGKAWA,大分県,2580,MACDO.,大分県,0,,-
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,0,,-,2030,KEMI*,大分県,2760,ZUTT,大分県,0,,-
 DJ TROOPERS,MENDES,0,,-,1070,NGKAWA,大分県,2570,MACDO.,大分県,3516,ZUTT,大分県,0,,-
@@ -390,7 +390,7 @@ DJ TROOPERS,LOVELY STORM,0,,-,1200,SAMMYK,大分県,1806,164Z3,大分県,2847,AN
 DJ TROOPERS,Kick Out 仮面,0,,-,996,HAIDO,大分県,1026,#SPOON,大分県,2037,ANDIRA,大分県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1211,PLAN.B,大分県,1997,NGKAWA,大分県,2545,ANDIRA,大分県,0,,-
 DJ TROOPERS,ICARUS,0,,-,887,ATRIUM,大分県,1836,K1-,大分県,2417,ANDIRA,大分県,3603,ZUTT,大分県
-DJ TROOPERS,Freeway Shuffle,219,PONKAN,大分県,742,SAMMYK,大分県,1078,J,大分県,1869,ZUTT,大分県,0,,-
+DJ TROOPERS,Freeway Shuffle,219,PONKAN,大分県,742,SAMMYK,大分県,1078,J,大分県,1871,ANDIRA,大分県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,719,STAPH.,大分県,1497,BALEB,大分県,2348,ANDIRA,大分県,0,,-
 DJ TROOPERS,end of world,0,,-,618,#SPOON,大分県,1457,ELIO,大分県,2434,KOKURI,大分県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,952,URAMP,大分県,1455,PA-SOU,大分県,1935,ANDIRA,大分県,0,,-
@@ -398,30 +398,30 @@ DJ TROOPERS,Digitank System,0,,-,860,SAMMYK,大分県,1556,ANDIRA,大分県,2147
 DJ TROOPERS,Dazzlin' Darlin,302,THEEND,大分県,843,PLAN.B,大分県,1326,LIAR,大分県,2228,ANDIRA,大分県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,639,SAMMYK,大分県,853,SAMMYK,大分県,1385,ANDIRA,大分県,0,,-
 DJ TROOPERS,Blue Rain,319,SAMMYK,大分県,586,HONEY.,大分県,1246,THEEND,大分県,2267,ANDIRA,大分県,3312,YAMADA,大分県
-DJ TROOPERS,beatonic nation,0,,-,0,,-,1475,YANSHU,大分県,2171,ANDIRA,大分県,0,,-
+DJ TROOPERS,beatonic nation,0,,-,0,,-,1608,MURA,大分県,2171,ANDIRA,大分県,0,,-
 DJ TROOPERS,Be OK,0,,-,859,STAPH.,大分県,1357,KAME-R,大分県,2403,ZUTT,大分県,3307,ANDIRA,大分県
 DJ TROOPERS,avant-guerre,0,,-,450,SHIRO,大分県,1052,NIBOSI,大分県,1922,ANDIRA,大分県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,932,HATM-R,大分県,1934,LIAR,大分県,2862,ANDIRA,大分県,0,,-
 DJ TROOPERS,2 tribe 4 K,0,,-,785,MIKE,大分県,1071,KAME-R,大分県,2758,ANDIRA,大分県,0,,-
-EMPRESS,鉄甲乙女-under the steel-,0,,-,0,,-,1432,MIR,大分県,2181,ZUTT,大分県,0,,-
+EMPRESS,鉄甲乙女-under the steel-,0,,-,0,,-,1432,MIR,大分県,2185,ANDIRA,大分県,0,,-
 EMPRESS,翼,0,,-,525,SHIRO,大分県,1349,MURA,大分県,1971,ANDIRA,大分県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,452,SHIRO,大分県,912,GOBO10,大分県,2055,ZUTT,大分県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,463,SYO9,大分県,1883,FE,大分県,2574,ZUTT,大分県,0,,-
 EMPRESS,卑弥呼,0,,-,878,#SPOON,大分県,2620,ANDIRA,大分県,3968,ZUTT,大分県,0,,-
 EMPRESS,凛として咲く花の如く,374,THEEND,大分県,1037,ALICE,大分県,2043,KILA**,大分県,2782,ANDIRA,大分県,3170,ANDIRA,大分県
-EMPRESS,不沈艦CANDY,417,KEI,大分県,701,#SPOON,大分県,1761,NGKAWA,大分県,3294,ZUTT,大分県,0,,-
+EMPRESS,不沈艦CANDY,417,KEI,大分県,701,#SPOON,大分県,1761,NGKAWA,大分県,3306,ZUTT,大分県,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,898,SAMMYK,大分県,1436,SAMMYK,大分県,2774,ZUTT,大分県,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,962,ANDIRA,大分県,1900,NGKAWA,大分県,2486,ANDIRA,大分県,0,,-
 EMPRESS,まほろば,0,,-,734,ELIO,大分県,1354,URAMP,大分県,2054,ANDIRA,大分県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1151,NGKAWA,大分県,1613,PURAG,大分県,2499,ZUTT,大分県,0,,-
 EMPRESS,Y&Co. is dead or alive,0,,-,677,#SPOON,大分県,1549,BLYTHE,大分県,2746,YAMADA,大分県,0,,-
-EMPRESS,V2,551,#DELTA,大分県,1051,ATRIUM,大分県,3178,ANDIRA,大分県,3519,ZUTT,大分県,0,,-
+EMPRESS,V2,714,HAIDO,大分県,1051,ATRIUM,大分県,3178,ANDIRA,大分県,3519,ZUTT,大分県,0,,-
 EMPRESS,Turii ～Panta rhei～,351,SAMMYK,大分県,0,,-,1944,743,大分県,2672,ANDIRA,大分県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,0,,-,1330,PLAN.B,大分県,1980,BUNTU!,大分県,2921,ANDIRA,大分県
-EMPRESS,SOLITON BEAM,0,,-,815,#SPOON,大分県,1724,ISM,大分県,2351,ANDIRA,大分県,0,,-
+EMPRESS,SOLITON BEAM,0,,-,1209,PLAN.B,大分県,1724,ISM,大分県,2353,ZUTT,大分県,0,,-
 EMPRESS,smooooch・∀・,358,SAMMYK,大分県,645,MII*,大分県,1429,ISM,大分県,2134,MACDO.,大分県,0,,-
 EMPRESS,Secrets,0,,-,823,#SPOON,大分県,1697,KAME-R,大分県,3155,ZUTT,大分県,4103,YAMADA,大分県
-EMPRESS,Queen's Tragedy,0,,-,355,MANDAM,大分県,1578,743,大分県,2248,ANDIRA,大分県,0,,-
+EMPRESS,Queen's Tragedy,0,,-,355,MANDAM,大分県,1601,LIAR,大分県,2248,ANDIRA,大分県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1018,PLAN.B,大分県,1709,ZUTT,大分県,2520,ANDIRA,大分県,0,,-
 EMPRESS,Programmed World,0,,-,0,,-,1598,743,大分県,2303,ANDIRA,大分県,0,,-
 EMPRESS,NΦ CRIME,283,NGKAWA,大分県,798,NGKAWA,大分県,1399,PA-SOU,大分県,1898,ANDIRA,大分県,0,,-
@@ -434,29 +434,29 @@ EMPRESS,Just a Little Smile,0,,-,0,,-,1276,TOILET,大分県,2484,ANDIRA,大分�
 EMPRESS,Jack,0,,-,0,,-,785,TACICA,大分県,2156,ANDIRA,大分県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,505,GIBSON,大分県,1207,PLAN.B,大分県,1700,YAMADA,大分県,0,,-
 EMPRESS,HYPERION,0,,-,761,#SPOON,大分県,1455,NIBOSI,大分県,2748,ZUTT,大分県,0,,-
-EMPRESS,Go Beyond!!,358,SHIRO,大分県,904,PLAN.B,大分県,1536,KEMI*,大分県,2186,ZUTT,大分県,0,,-
+EMPRESS,Go Beyond!!,376,PONKAN,大分県,904,PLAN.B,大分県,1536,KEMI*,大分県,2186,ZUTT,大分県,0,,-
 EMPRESS,Fly Above,0,,-,659,LIMONE,大分県,1462,LASMIN,大分県,2032,ANDIRA,大分県,0,,-
 EMPRESS,Flash Back 90's,0,,-,623,TAKO,大分県,1722,BLYTHE,大分県,2341,ANDIRA,大分県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,0,,-,1614,FKHR,大分県,2527,ZUTT,大分県,0,,-
 EMPRESS,Colorful Cookie,356,REAF,大分県,1064,SAMMYK,大分県,2189,KEMI*,大分県,3484,ANDIRA,大分県,0,,-
-EMPRESS,CaptivAte2～覚醒～,230,SAMMYK,大分県,900,PLAN.B,大分県,1384,164Z3,大分県,2401,ANDIRA,大分県,0,,-
+EMPRESS,CaptivAte2～覚醒～,233,HAIDO,大分県,900,PLAN.B,大分県,1384,164Z3,大分県,2401,ANDIRA,大分県,0,,-
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,0,,-,1514,ANDIRA,大分県,2133,ANDIRA,大分県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,602,ALMOCH,大分県,1820,LIMIA,大分県,3915,ANDIRA,大分県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,616,SHIRO,大分県,1764,3BM,大分県,2617,ANDIRA,大分県,3244,ANDIRA,大分県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,952,ATRIUM,大分県,1988,3BM,大分県,3535,YAMADA,大分県,4462,YAMADA,大分県
-EMPRESS,Arabian Rave Night,0,,-,951,SYO9,大分県,2098,K1-,大分県,2937,ANDIRA,大分県,3607,ANDIRA,大分県
+EMPRESS,Arabian Rave Night,0,,-,951,SYO9,大分県,2098,K1-,大分県,2937,ANDIRA,大分県,3609,ZUTT,大分県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,605,SHIRO,大分県,1529,E.M.C,大分県,2568,ZUTT,大分県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,651,SYO9,大分県,1116,QOOBEE,大分県,2143,ANDIRA,大分県,0,,-
 EMPRESS,3y3s,431,#DELTA,大分県,1351,SUICA,大分県,2308,KILA**,大分県,3533,ZUTT,大分県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,370,AAAAAA,大分県,1283,AYANE.,大分県,2089,ANDIRA,大分県,0,,-
-SIRIUS,未来のプリズム,0,,-,493,A,大分県,1125,KAME-R,大分県,1775,ANDIRA,大分県,0,,-
+SIRIUS,未来のプリズム,0,,-,646,PLAN.B,大分県,1125,KAME-R,大分県,1775,ANDIRA,大分県,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,716,#SPOON,大分県,2281,ANDIRA,大分県,3142,ZUTT,大分県,0,,-
 SIRIUS,バビロニア,0,,-,543,DIALIS,大分県,952,KINAKO,大分県,1875,ANDIRA,大分県,0,,-
 SIRIUS,サヨナラ・ヘヴン,351,SAMMYK,大分県,834,SAMMYK,大分県,1112,KUROHA,大分県,1689,ANDIRA,大分県,0,,-
 SIRIUS,コスモス,0,,-,0,,-,1378,ELIO,大分県,2095,ANDIRA,大分県,0,,-
 SIRIUS,たからもの,0,,-,1006,SYO9,大分県,1646,MOTTU,大分県,2244,ANDIRA,大分県,0,,-
 SIRIUS,かずあそび,0,,-,0,,-,1169,SOKI,大分県,1700,ANDIRA,大分県,0,,-
-SIRIUS,The Story Begins,0,,-,0,,-,1330,THEEND,大分県,2409,BNGROL,大分県,0,,-
+SIRIUS,The Story Begins,0,,-,0,,-,1714,LIAR,大分県,2409,BNGROL,大分県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1202,STAPH.,大分県,1592,SAMMYK,大分県,2612,YAMADA,大分県,0,,-
 SIRIUS,Special One,0,,-,792,ELIO,大分県,957,KAME-R,大分県,1782,ANDIRA,大分県,0,,-
 SIRIUS,Sorrows,0,,-,752,ELIO,大分県,1501,HS,大分県,2473,BNGROL,大分県,0,,-
@@ -474,12 +474,12 @@ SIRIUS,mosaic,0,,-,1465,SAGE,大分県,1989,NOOB,大分県,3003,ZUTT,大分県,0
 SIRIUS,MIRACLE MEETS,0,,-,857,SAMMYK,大分県,1468,3ZUI,大分県,2225,ZUTT,大分県,0,,-
 SIRIUS,Light Shine,0,,-,556,REON,大分県,1067,PLAN.B,大分県,1955,ANDIRA,大分県,0,,-
 SIRIUS,Last Burning,0,,-,755,HAIDO,大分県,1321,PLAN.B,大分県,2385,ANDIRA,大分県,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,0,,-,1405,IR1S,大分県,1837,BNGROL,大分県,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,0,,-,1405,IR1S,大分県,1867,ZUTT,大分県,0,,-
 SIRIUS,IN THE NAME OF LOVE,0,,-,373,MANDAM,大分県,1227,J,大分県,1942,ANDIRA,大分県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,941,PLAN.B,大分県,1451,ELIO,大分県,2323,ANDIRA,大分県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,751,#SPOON,大分県,1808,NGKAWA,大分県,3474,ZUTT,大分県,0,,-
 SIRIUS,GALGALIM,0,,-,0,,-,1880,KEMI*,大分県,2377,ANDIRA,大分県,0,,-
-SIRIUS,G59,0,,-,1155,#SPOON,大分県,2160,LIAR,大分県,3873,YAMADA,大分県,0,,-
+SIRIUS,G59,0,,-,1155,#SPOON,大分県,2160,LIAR,大分県,3884,ZUTT,大分県,0,,-
 SIRIUS,EXUSIA,0,,-,1109,PLAN.B,大分県,2665,SMAP,大分県,3842,ANDIRA,大分県,0,,-
 SIRIUS,Evans,570,SAMMYK,大分県,1200,743,大分県,2007,4KADES,大分県,2813,ANDIRA,大分県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,884,A*MUK,大分県,2110,3ZUI,大分県,3282,ANDIRA,大分県,0,,-
@@ -488,7 +488,7 @@ SIRIUS,Elisha,405,SAMMYK,大分県,728,GOBO10,大分県,1427,PUNICO,大分県,22
 SIRIUS,DROP,0,,-,788,SAMMYK,大分県,1692,SAMMYK,大分県,2631,ANDIRA,大分県,0,,-
 SIRIUS,DOMINION,0,,-,961,A*MUK,大分県,2153,LIAR,大分県,3203,ANDIRA,大分県,0,,-
 SIRIUS,DESIRE,0,,-,0,,-,1709,3BM,大分県,2857,ANDIRA,大分県,0,,-
-SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,425,AAAAAA,大分県,1258,164Z3,大分県,2089,ZUTT,大分県,0,,-
+SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,425,AAAAAA,大分県,1258,164Z3,大分県,2096,ZUTT,大分県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1617,LIAR,大分県,2589,LIAR,大分県,3130,ANDIRA,大分県,0,,-
 SIRIUS,D,0,,-,1325,URAMP,大分県,1528,PMASO,大分県,2515,ANDIRA,大分県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,661,A0,大分県,1230,KTRST,大分県,2434,BNGROL,大分県,0,,-
@@ -499,15 +499,15 @@ SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,716,SHIRO,大分県,
 SIRIUS,bass 2 bass,272,SAGE,大分県,571,SYO9,大分県,1209,LIAR,大分県,1895,ANDIRA,大分県,0,,-
 SIRIUS,Bad Maniacs,0,,-,870,QOOBEE,大分県,1718,LIAR,大分県,3195,ANDIRA,大分県,0,,-
 SIRIUS,Almagest,0,,-,808,HATM-R,大分県,2185,MACDO.,大分県,3107,ZUTT,大分県,0,,-
-SIRIUS,AIR RAID FROM THA UNDAGROUND,441,A,大分県,933,ATRIUM,大分県,1558,801,大分県,2329,ANDIRA,大分県,2913,ANDIRA,大分県
+SIRIUS,AIR RAID FROM THA UNDAGROUND,441,A,大分県,933,ATRIUM,大分県,1720,LIAR,大分県,2329,ANDIRA,大分県,2913,ANDIRA,大分県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,752,SAMMYK,大分県,1903,CHIURI,大分県,3443,ANDIRA,大分県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,553,SAMMYK,大分県,949,WECRA,大分県,1928,BNGROL,大分県,3088,ANDIRA,大分県,0,,-
 Resort Anthem,旅人リラン,0,,-,1008,PLAN.B,大分県,1527,MURA,大分県,2630,ZUTT,大分県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,775,HSU,大分県,1797,743,大分県,2807,ANDIRA,大分県,0,,-
-Resort Anthem,中華急行,0,,-,276,A,大分県,1473,LIAR,大分県,2309,BNGROL,大分県,0,,-
+Resort Anthem,中華急行,0,,-,276,A,大分県,1473,LIAR,大分県,2329,ANDIRA,大分県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,289,REIYA,大分県,621,SHIRO,大分県,1181,K,大分県,1928,ANDIRA,大分県,0,,-
 Resort Anthem,おおきなこえで,0,,-,414,SAMMYK,大分県,867,MURA,大分県,1490,ANDIRA,大分県,2165,ANDIRA,大分県
-Resort Anthem,ZETA～素数の世界と超越者～,223,SHIRO,大分県,399,SHIRO,大分県,1832,E.M.C,大分県,3104,ANDIRA,大分県,0,,-
+Resort Anthem,ZETA～素数の世界と超越者～,223,SHIRO,大分県,543,HAIDO,大分県,1832,E.M.C,大分県,3104,ANDIRA,大分県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,770,*M,大分県,1673,LIAR,大分県,2750,ANDIRA,大分県,0,,-
 Resort Anthem,Wuv U,0,,-,284,CH.16P,大分県,1026,KAME-R,大分県,1694,BNGROL,大分県,0,,-
 Resort Anthem,WISE UP!,188,HAJIN,大分県,284,ARAI,大分県,976,ISM,大分県,1599,ANDIRA,大分県,0,,-
@@ -532,75 +532,75 @@ Resort Anthem,perditus†paradisus,0,,-,969,YUGA,大分県,2524,ZUTT,大分県,3
 Resort Anthem,passionate fate,0,,-,1145,SAGE,大分県,1598,SAGE,大分県,2115,BNGROL,大分県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,1035,THEEND,大分県,2319,ZUTT,大分県,3284,BNGROL,大分県,0,,-
 Resort Anthem,New Castle Legions,0,,-,786,MURA,大分県,1839,SAGE,大分県,2711,ANDIRA,大分県,0,,-
-Resort Anthem,Never Fade Away,0,,-,0,,-,1387,164Z3,大分県,3012,YAMADA,大分県,0,,-
+Resort Anthem,Never Fade Away,0,,-,0,,-,1387,164Z3,大分県,3024,ANDIRA,大分県,0,,-
 Resort Anthem,Mermaid girl,328,ARIASU,大分県,681,#SPOON,大分県,1660,PA-SOU,大分県,2217,YAMADA,大分県,0,,-
 Resort Anthem,Medicine of love,0,,-,373,GJM,大分県,1102,743,大分県,1732,ANDIRA,大分県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,0,,-,1617,743,大分県,2665,ZUTT,大分県,0,,-
 Resort Anthem,Kailua,0,,-,475,STAPH.,大分県,1309,LIAR,大分県,2174,ZUTT,大分県,0,,-
 Resort Anthem,I FIGHT ME,0,,-,513,GIBSON,大分県,1286,ISM,大分県,2126,ANDIRA,大分県,0,,-
 Resort Anthem,Golden Palms,0,,-,487,CH.16P,大分県,928,#SPOON,大分県,1846,NOOB,大分県,2397,ANDIRA,大分県
-Resort Anthem,Fantasia,163,R6210*,大分県,353,MURA,大分県,1527,LIAR,大分県,2242,ANDIRA,大分県,0,,-
+Resort Anthem,Fantasia,234,HAIDO,大分県,353,MURA,大分県,1527,LIAR,大分県,2242,ANDIRA,大分県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,0,,-,871,#SPOON,大分県,1888,MACDO.,大分県,0,,-
-Resort Anthem,Eternal Tears,0,,-,254,TANIX,大分県,0,,-,1378,ANDIRA,大分県,0,,-
+Resort Anthem,Eternal Tears,0,,-,254,TANIX,大分県,1029,PLAN.B,大分県,1378,ANDIRA,大分県,0,,-
 Resort Anthem,Energy Drive,0,,-,624,GOLMNQ,大分県,1093,SUICA,大分県,2226,ANDIRA,大分県,0,,-
 Resort Anthem,DM STAR～関西 energy style～,0,,-,0,,-,1834,743,大分県,2391,ZUTT,大分県,0,,-
-Resort Anthem,Destiny Sword,0,,-,0,,-,1439,ISM,大分県,2389,ZUTT,大分県,0,,-
+Resort Anthem,Destiny Sword,0,,-,0,,-,1671,LIAR,大分県,2399,ZUTT,大分県,0,,-
 Resort Anthem,DAYDREAMER,0,,-,1023,HAIDO,大分県,1734,743,大分県,2523,ANDIRA,大分県,0,,-
 Resort Anthem,Dances with Snow Fairies,0,,-,1246,SAMMYK,大分県,1980,YUKARI,大分県,3116,ANDIRA,大分県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,894,PLAN.B,大分県,1581,BLYTHE,大分県,2318,ANDIRA,大分県,0,,-
-Resort Anthem,Broken,0,,-,1012,SAMMYK,大分県,1950,743,大分県,3144,ZUTT,大分県,0,,-
+Resort Anthem,Broken,0,,-,1012,SAMMYK,大分県,2036,ZUTT,大分県,3144,ZUTT,大分県,0,,-
 Resort Anthem,Breaking the ground,0,,-,1113,SAMMYK,大分県,1623,SAMMYK,大分県,2533,ANDIRA,大分県,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,944,PLAN.B,大分県,1581,743,大分県,2451,ANDIRA,大分県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,775,PLAN.B,大分県,1411,BLYTHE,大分県,2091,KOKURI,大分県,0,,-
 Resort Anthem,Believe In Me,0,,-,0,,-,1358,KAME-R,大分県,2398,ZUTT,大分県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,0,,-,1847,743,大分県,2949,YAMADA,大分県,0,,-
-Resort Anthem,Answer,0,,-,0,,-,1455,743,大分県,2419,ANDIRA,大分県,0,,-
-Resort Anthem,ALBIDA,513,SAGE,大分県,795,ALICE,大分県,1741,9683-G,大分県,3007,BNGROL,大分県,0,,-
+Resort Anthem,Answer,0,,-,0,,-,1455,743,大分県,2423,ZUTT,大分県,0,,-
+Resort Anthem,ALBIDA,513,SAGE,大分県,795,ALICE,大分県,1767,LIAR,大分県,3007,BNGROL,大分県,0,,-
 Resort Anthem,Aegis,0,,-,537,SHIRO,大分県,1302,LIAR,大分県,2327,ANDIRA,大分県,0,,-
 Lincle,陽炎,0,,-,410,#DELTA,大分県,1210,ANDIRA,大分県,2012,ANDIRA,大分県,0,,-
-Lincle,衰色小町メランコリア,0,,-,517,ANGEL,大分県,1228,KAME-R,大分県,2364,ANDIRA,大分県,0,,-
+Lincle,衰色小町メランコリア,0,,-,517,ANGEL,大分県,1228,KAME-R,大分県,2373,ANDIRA,大分県,0,,-
 Lincle,蛇神,209,AJQUU4,大分県,574,ALMOCH,大分県,1383,KILA**,大分県,2820,ANDIRA,大分県,0,,-
 Lincle,聖人の塔,0,,-,0,,-,1825,KEMI*,大分県,2934,BNGROL,大分県,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,582,ASA.AA,大分県,929,TOMI,大分県,2083,BNGROL,大分県,0,,-
 Lincle,恋する☆宇宙戦争っ！！,495,SAMMYK,大分県,868,THEEND,大分県,1590,KAME-R,大分県,3542,BNGROL,大分県,0,,-
 Lincle,子供の落書き帳,0,,-,666,HONEY.,大分県,1727,KEMI*,大分県,2656,ANDIRA,大分県,0,,-
 Lincle,天空の夜明け,0,,-,1007,QOOBEE,大分県,2018,KILA**,大分県,3945,ZUTT,大分県,0,,-
-Lincle,君のハートにロックオン,0,,-,387,7GI7GI,大分県,1329,AYANE.,大分県,2677,ANDIRA,大分県,0,,-
+Lincle,君のハートにロックオン,0,,-,387,7GI7GI,大分県,1480,ELIO,大分県,2677,ANDIRA,大分県,0,,-
 Lincle,ユミル,0,,-,347,ARIASU,大分県,1338,743,大分県,2824,ZUTT,大分県,0,,-
 Lincle,ビューティフルレシート,0,,-,366,REON,大分県,995,KTRST,大分県,1933,BNGROL,大分県,0,,-
 Lincle,Yellow Sunrise,0,,-,391,CH.16P,大分県,1409,LIAR,大分県,2283,ANDIRA,大分県,0,,-
-Lincle,yellow head joe,0,,-,395,AAAAAA,大分県,1353,801,大分県,2143,TEKUZO,大分県,0,,-
+Lincle,yellow head joe,0,,-,395,AAAAAA,大分県,1353,801,大分県,2263,KOKURI,大分県,0,,-
 Lincle,YAKSHA,0,,-,948,ALICE,大分県,2087,3ZUI,大分県,3878,ANDIRA,大分県,0,,-
 Lincle,WONDER WALKER,0,,-,554,DAW1N,大分県,1645,ELIO,大分県,3790,ANDIRA,大分県,0,,-
-Lincle,Voxane,0,,-,0,,-,785,#SPOON,大分県,1756,ANDIRA,大分県,0,,-
+Lincle,Voxane,0,,-,0,,-,1114,ELIO,大分県,1756,ANDIRA,大分県,0,,-
 Lincle,Todestrieb,0,,-,1015,THEEND,大分県,1856,743,大分県,3424,ZUTT,大分県,0,,-
 Lincle,TITANS RETURN,237,PONKAN,大分県,392,DAW1N,大分県,1096,YANSHU,大分県,2455,ZUTT,大分県,2534,BNGROL,大分県
 Lincle,Thunderbolt,0,,-,574,ANGEL,大分県,1768,KEMI*,大分県,3747,BNGROL,大分県,0,,-
 Lincle,The Sampling Paradise,0,,-,503,SHIRO,大分県,1698,KEMI*,大分県,2998,YAMADA,大分県,0,,-
 Lincle,The Limbo,0,,-,0,,-,1992,WAROTA,大分県,3293,ZUTT,大分県,0,,-
-Lincle,Star Trail,0,,-,639,KOKURI,大分県,946,KAME-R,大分県,1854,ZUTT,大分県,0,,-
+Lincle,Star Trail,0,,-,639,KOKURI,大分県,1056,ELIO,大分県,1862,ANDIRA,大分県,0,,-
 Lincle,Snow Goose,282,SAMMYK,大分県,346,SAMMYK,大分県,1165,MAM.85,大分県,2443,ANDIRA,大分県,0,,-
 Lincle,Snake Stick,0,,-,816,SYO9,大分県,1752,NOOB,大分県,2738,ANDIRA,大分県,0,,-
-Lincle,SHADE,0,,-,504,CH.16P,大分県,1716,SAMMYK,大分県,2894,ANDIRA,大分県,0,,-
+Lincle,SHADE,0,,-,504,CH.16P,大分県,1716,SAMMYK,大分県,2905,ZUTT,大分県,0,,-
 Lincle,Several Words,0,,-,0,,-,1118,HSU,大分県,2186,ANDIRA,大分県,0,,-
 Lincle,Scharfrichter,0,,-,798,THEEND,大分県,1564,743,大分県,2882,BNGROL,大分県,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,464,SAMMYK,大分県,1082,SAMMYK,大分県,1666,BNGROL,大分県,0,,-
 Lincle,Round and Round,0,,-,744,SAMMYK,大分県,1197,743,大分県,2161,ANDIRA,大分県,0,,-
 Lincle,RESISTANCE,0,,-,446,SYO9,大分県,1220,KAME-R,大分県,2235,TOFU,大分県,0,,-
-Lincle,Release The Music,0,,-,347,AAAAAA,大分県,1170,KAME-R,大分県,2096,BNGROL,大分県,0,,-
-Lincle,Quick Silver,0,,-,365,HATU,大分県,1557,ELIO,大分県,2655,ZUTT,大分県,0,,-
+Lincle,Release The Music,0,,-,347,AAAAAA,大分県,1279,ELIO,大分県,2115,BNGROL,大分県,0,,-
+Lincle,Quick Silver,0,,-,365,HATU,大分県,1557,ELIO,大分県,2669,ZUTT,大分県,0,,-
 Lincle,quaver♪,279,SAMMYK,大分県,673,SAMMYK,大分県,2140,ZUTT,大分県,3429,ZUTT,大分県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,809,#SPOON,大分県,2170,KEMI*,大分県,2797,YSG,大分県,3560,ANDIRA,大分県
 Lincle,prompt,0,,-,505,KOUJYE,大分県,1424,774,大分県,2797,BNGROL,大分県,0,,-
-Lincle,Phoenix,0,,-,562,SYO9,大分県,998,THEEND,大分県,2483,ZUTT,大分県,0,,-
+Lincle,Phoenix,0,,-,562,SYO9,大分県,1090,ELIO,大分県,2483,ZUTT,大分県,0,,-
 Lincle,NNRT,0,,-,670,SYO9,大分県,2159,K1-,大分県,3485,BNGROL,大分県,0,,-
-Lincle,Miami Sunset Drive,0,,-,0,,-,632,ANGEL,大分県,1672,ANDIRA,大分県,0,,-
+Lincle,Miami Sunset Drive,0,,-,0,,-,967,ELIO,大分県,1672,ANDIRA,大分県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,792,SAMMYK,大分県,1138,GOBO10,大分県,2058,ANDIRA,大分県,0,,-
 Lincle,Lucky Days,0,,-,425,ANGEL,大分県,1317,J,大分県,2158,BNGROL,大分県,0,,-
 Lincle,LOVE B.B.B,0,,-,708,PLAN.B,大分県,1275,PLAN.B,大分県,2033,ANDIRA,大分県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,0,,-,1046,PLAN.B,大分県,2019,ANDIRA,大分県,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,565,ALICE,大分県,1388,774,大分県,2203,ANDIRA,大分県,0,,-
-Lincle,LAX5 feat.Ryota Yoshinari,0,,-,0,,-,1744,NIBOSI,大分県,2700,NOOB,大分県,0,,-
+Lincle,LAX5 feat.Ryota Yoshinari,0,,-,0,,-,1925,ELIO,大分県,2700,NOOB,大分県,0,,-
 Lincle,Infinite cave,0,,-,713,SYO9,大分県,1105,AYANE.,大分県,2071,ANDIRA,大分県,0,,-
 Lincle,In the Blackest Den,0,,-,0,,-,1216,KAME-R,大分県,2591,ANDIRA,大分県,0,,-
 Lincle,I'm so Happy,278,TAKO,大分県,345,MORIIK,大分県,1346,KEMI*,大分県,2343,ZUTT,大分県,0,,-
@@ -628,7 +628,7 @@ tricoro,梅雪夜,0,,-,613,IIDX28,大分県,1512,ANDIRA,大分県,2158,ANDIRA,�
 tricoro,朧,200,SAMMYK,大分県,746,SUICA,大分県,1385,NGKAWA,大分県,2112,YAMADA,大分県,2545,ANDIRA,大分県
 tricoro,即席！脳直★ミュージックシステム,0,,-,978,PLAN.B,大分県,1847,KEMI*,大分県,3549,ANDIRA,大分県,0,,-
 tricoro,創世ノート,0,,-,555,GOLMNQ,大分県,1549,MAM.85,大分県,2951,BNGROL,大分県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,0,,-,1783,GAIA,大分県,2863,ZUTT,大分県,3828,ZUTT,大分県
+tricoro,仮想空間の旅人たち,0,,-,0,,-,1783,GAIA,大分県,2874,ZUTT,大分県,3828,ZUTT,大分県
 tricoro,下弦の月,0,,-,901,SAMMYK,大分県,1298,SAMMYK,大分県,1987,ANDIRA,大分県,0,,-
 tricoro,ラキラキ,0,,-,515,MII*,大分県,1255,PLAN.B,大分県,1979,ZUTT,大分県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,368,7GI7GI,大分県,1113,THEEND,大分県,1961,ANDIRA,大分県,0,,-
@@ -639,20 +639,20 @@ tricoro,カジノファイヤーことみちゃん,0,,-,390,IIDX28,大分県,128
 tricoro,アストライアの双皿,0,,-,487,A,大分県,1629,A*MZK,大分県,3124,ANDIRA,大分県,0,,-
 tricoro,たまゆら,0,,-,1031,STAPH.,大分県,1758,LIAR,大分県,2747,BNGROL,大分県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,625,XYZAL,大分県,1495,LIAR,大分県,2064,PLOK!,大分県,3570,PLOK!,大分県
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),234,SAMMYK,大分県,507,SAMMYK,大分県,1518,BLYTHE,大分県,3534,ANDIRA,大分県,0,,-
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),236,HAIDO,大分県,507,SAMMYK,大分県,1518,BLYTHE,大分県,3534,ANDIRA,大分県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,991,YUGA,大分県,1895,KILA**,大分県,3113,ZUTT,大分県,0,,-
 tricoro,Zirkfied,0,,-,490,YD-K,大分県,1836,KILA**,大分県,3727,ANDIRA,大分県,0,,-
 tricoro,ZED,0,,-,917,SOKI,大分県,1428,KUROHA,大分県,2764,ANDIRA,大分県,0,,-
 tricoro,VEGA,0,,-,925,F,大分県,2005,LIAR,大分県,3117,ANDIRA,大分県,0,,-
 tricoro,VALLIS-NERIA,259,SAMMYK,大分県,903,GOLMNQ,大分県,1971,KEMI*,大分県,2943,ZUTT,大分県,0,,-
 tricoro,Valanga,0,,-,1156,THEEND,大分県,2030,KEMI*,大分県,3230,ZUTT,大分県,0,,-
-tricoro,True Blue,0,,-,784,#SPOON,大分県,2134,773,大分県,3741,ANDIRA,大分県,0,,-
+tricoro,True Blue,0,,-,784,#SPOON,大分県,2177,BLYTHE,大分県,3743,YAMADA,大分県,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,807,HONEY.,大分県,1753,PUNICO,大分県,2949,ZUTT,大分県,0,,-
 tricoro,Timepiece phase II,0,,-,0,,-,1832,KEMI*,大分県,3222,ANDIRA,大分県,0,,-
 tricoro,Time To Empress,0,,-,0,,-,1757,K,大分県,2605,ZUTT,大分県,0,,-
 tricoro,Thor's Hammer,0,,-,889,SAMMYK,大分県,1699,KEMI*,大分県,2947,ZUTT,大分県,0,,-
 tricoro,Take My Life,0,,-,737,#SPOON,大分県,1474,801,大分県,2914,BNGROL,大分県,0,,-
-tricoro,Synergy For Angels,0,,-,473,ALICE,大分県,1314,KAME-R,大分県,2760,YAMADA,大分県,0,,-
+tricoro,Synergy For Angels,0,,-,473,ALICE,大分県,1314,KAME-R,大分県,2766,ZUTT,大分県,0,,-
 tricoro,SYNC-ANTHEM,0,,-,0,,-,2092,NO.11,大分県,3649,ZUTT,大分県,0,,-
 tricoro,STULTI,0,,-,412,RENTA-,大分県,1353,ZNM,大分県,2718,ANDIRA,大分県,0,,-
 tricoro,Sol Cosine Job 2,0,,-,750,MAKETA,大分県,1612,743,大分県,3126,ANDIRA,大分県,0,,-
@@ -664,12 +664,12 @@ tricoro,rumrum triplets,0,,-,0,,-,1675,773,大分県,3016,BNGROL,大分県,0,,-
 tricoro,Re:GENERATION,236,SAMMYK,大分県,534,A,大分県,1345,SAMMYK,大分県,2236,BNGROL,大分県,0,,-
 tricoro,Rainbow after snow,0,,-,419,MANDAM,大分県,1268,AYANE.,大分県,2165,ANDIRA,大分県,0,,-
 tricoro,Proof of the existence,0,,-,718,A,大分県,1779,773,大分県,3190,ANDIRA,大分県,0,,-
-tricoro,Praludium,0,,-,0,,-,1256,PLAN.B,大分県,2271,ZUTT,大分県,0,,-
+tricoro,Praludium,0,,-,0,,-,1256,PLAN.B,大分県,2285,ZUTT,大分県,0,,-
 tricoro,POINT ZERO,0,,-,436,CH.16P,大分県,1109,KAME-R,大分県,2064,ZUTT,大分県,0,,-
 tricoro,planarian,0,,-,650,MURA,大分県,1401,NIBOSI,大分県,2546,ZUTT,大分県,0,,-
 tricoro,Plan 8,0,,-,1042,SUICA,大分県,2071,LIAR,大分県,3141,BNGROL,大分県,0,,-
 tricoro,New Lights,0,,-,760,QOOBEE,大分県,1635,3BM,大分県,2487,ANDIRA,大分県,0,,-
-tricoro,New Decade IIDX Edition,248,SAMMYK,大分県,768,SYO9,大分県,1824,BALEB,大分県,2958,ZUTT,大分県,0,,-
+tricoro,New Decade IIDX Edition,251,Y-CHAN,大分県,768,SYO9,大分県,1824,BALEB,大分県,2958,ZUTT,大分県,0,,-
 tricoro,neu,184,SAMMYK,大分県,967,743,大分県,2022,KEMI*,大分県,3891,BNGROL,大分県,0,,-
 tricoro,Neonlights,0,,-,461,DAW1N,大分県,1487,URAMP,大分県,2236,ANDIRA,大分県,0,,-
 tricoro,mnemoniq,0,,-,513,SAMMYK,大分県,972,ANDIRA,大分県,1316,ANDIRA,大分県,0,,-
@@ -707,11 +707,11 @@ SPADA,超!!遠距離らぶメ～ル,0,,-,518,PLAN.B,大分県,1337,K,大分県,2
 SPADA,罪と罰,0,,-,796,FUWAN,大分県,1102,GOBO10,大分県,2160,ZUTT,大分県,0,,-
 SPADA,疾風迅雷,0,,-,960,STAPH.,大分県,1767,801,大分県,2852,ANDIRA,大分県,3341,ANDIRA,大分県
 SPADA,牧神笛吹きて,0,,-,696,PLAN.B,大分県,1317,LIAR,大分県,2062,ANDIRA,大分県,0,,-
-SPADA,煉獄のエルフェリア,0,,-,1140,KTRST,大分県,2200,KILA**,大分県,3858,ZUTT,大分県,0,,-
-SPADA,海神,0,,-,919,A*MUK,大分県,1962,KILA**,大分県,3140,BNGROL,大分県,0,,-
+SPADA,煉獄のエルフェリア,0,,-,1154,THEEND,大分県,2200,KILA**,大分県,3858,ZUTT,大分県,0,,-
+SPADA,海神,0,,-,919,A*MUK,大分県,1962,KILA**,大分県,3143,YAMADA,大分県,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,1054,GOBO10,大分県,2294,KEMI*,大分県,3911,ZUTT,大分県,0,,-
 SPADA,廿,0,,-,702,#SPOON,大分県,1421,J,大分県,2376,ANDIRA,大分県,3272,YAMADA,大分県
-SPADA,幻想系世界修復少女,207,SAMMYK,大分県,0,,-,763,#SPOON,大分県,1977,BNGROL,大分県,0,,-
+SPADA,幻想系世界修復少女,207,SAMMYK,大分県,0,,-,936,H4L1C3,大分県,1977,BNGROL,大分県,0,,-
 SPADA,バンブーソード・ガール,255,SAMMYK,大分県,936,NGKAWA,大分県,1447,Y,大分県,2444,ANDIRA,大分県,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,577,SAMMYK,大分県,1312,SAMMYK,大分県,2745,ANDIRA,大分県,0,,-
 SPADA,アルストロメリア,200,SAMMYK,大分県,816,GOBO10,大分県,1477,LIAR,大分県,2498,ANDIRA,大分県,0,,-
@@ -737,10 +737,10 @@ SPADA,Overload Frontier,0,,-,703,PLAN.B,大分県,1443,168,大分県,2610,ANDIRA
 SPADA,Odin,0,,-,446,ALMOCH,大分県,689,ALMOCH,大分県,2061,ANDIRA,大分県,0,,-
 SPADA,NPC World,0,,-,0,,-,1501,URAMP,大分県,2281,ANDIRA,大分県,0,,-
 SPADA,Miracle 5ympho X,0,,-,707,SAMMYK,大分県,1273,743,大分県,2608,ANDIRA,大分県,0,,-
-SPADA,MAGIC & LOVE,0,,-,585,SHIRO,大分県,1593,LOTUS,大分県,2924,ANDIRA,大分県,0,,-
+SPADA,MAGIC & LOVE,0,,-,585,SHIRO,大分県,1607,MURA,大分県,2924,ANDIRA,大分県,0,,-
 SPADA,MAD ATTACK,0,,-,403,SYO9,大分県,949,QOOBEE,大分県,1942,ANDIRA,大分県,0,,-
 SPADA,m1dy Deluxe,0,,-,1055,SAMMYK,大分県,1577,BLYTHE,大分県,2584,ANDIRA,大分県,0,,-
-SPADA,M.D.Injection,0,,-,423,#DELTA,大分県,1114,NARD*,大分県,2216,URAMP,大分県,0,,-
+SPADA,M.D.Injection,0,,-,423,#DELTA,大分県,1114,NARD*,大分県,2430,ANDIRA,大分県,0,,-
 SPADA,Lighting Shower,0,,-,0,,-,1095,KCHAMA,大分県,2418,ANDIRA,大分県,0,,-
 SPADA,Last Dance,0,,-,1145,NGKAWA,大分県,1634,KILA**,大分県,3212,YAMADA,大分県,0,,-
 SPADA,KHAMEN BREAK,0,,-,460,MORIIK,大分県,1198,SIKI,大分県,2510,ANDIRA,大分県,0,,-
@@ -755,7 +755,7 @@ SPADA,I will be back -オレは帰ってきた-,0,,-,866,GOBO10,大分県,1789,7
 SPADA,Hypersonik,0,,-,0,,-,1559,BLYTHE,大分県,2524,ZUTT,大分県,0,,-
 SPADA,HYENA,0,,-,898,SYO9,大分県,1567,SAMMYK,大分県,2830,ANDIRA,大分県,0,,-
 SPADA,Funny shuffle,0,,-,0,,-,1024,J,大分県,2334,ANDIRA,大分県,0,,-
-SPADA,Feel The Beat,0,,-,814,HUAWEI,大分県,1944,PURAG,大分県,3567,ANDIRA,大分県,4295,ZUTT,大分県
+SPADA,Feel The Beat,0,,-,814,HUAWEI,大分県,1944,PURAG,大分県,3578,YAMADA,大分県,4295,ZUTT,大分県
 SPADA,EXTREME MACH COLLIDER,0,,-,627,SYO9,大分県,949,A*MUK,大分県,2572,YAMADA,大分県,0,,-
 SPADA,Engraved Mark,0,,-,488,MORIIK,大分県,1069,KAME-R,大分県,2396,ANDIRA,大分県,0,,-
 SPADA,Element of SPADA,0,,-,600,SUB.38,大分県,1219,ISM,大分県,2088,ANDIRA,大分県,0,,-
@@ -764,7 +764,7 @@ SPADA,diagram,0,,-,383,KOKUEI,大分県,1010,HSU,大分県,2869,ANDIRA,大分県
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,563,TAKO,大分県,1519,ELIO,大分県,2494,ANDIRA,大分県,0,,-
 SPADA,DARK LEGACY,0,,-,0,,-,1751,OTOUFU,大分県,3576,BNGROL,大分県,0,,-
 SPADA,Dark Fall,0,,-,883,SAGE,大分県,1456,KEMI*,大分県,2771,ANDIRA,大分県,0,,-
-SPADA,Critical Crystal,149,DOPE!,大分県,835,SYO9,大分県,1761,LIAR,大分県,2885,ZUTT,大分県,0,,-
+SPADA,Critical Crystal,194,Y-CHAN,大分県,835,SYO9,大分県,1761,LIAR,大分県,2885,ZUTT,大分県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1060,PLAN.B,大分県,2008,NOOB,大分県,3393,ANDIRA,大分県,3812,ZUTT,大分県
 SPADA,Cleopatrysm,0,,-,569,THNHGO,大分県,1162,THEEND,大分県,2597,ANDIRA,大分県,0,,-
 SPADA,Claiomh Solais,0,,-,0,,-,1393,743,大分県,2097,ANDIRA,大分県,0,,-
@@ -779,13 +779,13 @@ PENDUAL,Ｘ↑Ｘ↓,0,,-,879,PLAN.B,大分県,1542,743,大分県,2922,ANDIRA,�
 PENDUAL,鬼天,0,,-,664,ALICE,大分県,1449,K,大分県,2462,ANDIRA,大分県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,770,MAKETA,大分県,1922,743,大分県,2677,YAMADA,大分県,4065,ZUTT,大分県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,767,HUAWEI,大分県,2016,FE,大分県,3562,ANDIRA,大分県,0,,-
-PENDUAL,紅牡丹,286,AYATAL,大分県,831,AAAAAA,大分県,1604,E.M.C,大分県,2852,ANDIRA,大分県,0,,-
+PENDUAL,紅牡丹,286,AYATAL,大分県,831,AAAAAA,大分県,1727,TOFU,大分県,2852,ANDIRA,大分県,0,,-
 PENDUAL,白露の風,0,,-,355,CH.16P,大分県,1029,MURA,大分県,2027,ZUTT,大分県,0,,-
 PENDUAL,時空トラベローグ,0,,-,540,PYUTA,大分県,1462,SAMMYK,大分県,2652,ANDIRA,大分県,0,,-
-PENDUAL,打打打打打打打打打打,184,SAMMYK,大分県,761,THEEND,大分県,1235,LIAR,大分県,2652,ANDIRA,大分県,0,,-
+PENDUAL,打打打打打打打打打打,192,HAIDO,大分県,761,THEEND,大分県,1235,LIAR,大分県,2652,ANDIRA,大分県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,329,7GI7GI,大分県,1026,KUROHA,大分県,2027,ANDIRA,大分県,2767,ANDIRA,大分県
 PENDUAL,少年は空を辿る,0,,-,1162,PLAN.B,大分県,1774,773,大分県,3308,ANDIRA,大分県,0,,-
-PENDUAL,妖隠し -あやかしかくし-,0,,-,895,LIMIA,大分県,1395,ISM,大分県,2188,ANDIRA,大分県,0,,-
+PENDUAL,妖隠し -あやかしかくし-,0,,-,895,LIMIA,大分県,1456,LIMIA,大分県,2188,ANDIRA,大分県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,653,#SPOON,大分県,1813,KEMI*,大分県,3072,ANDIRA,大分県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),243,SAMMYK,大分県,921,SAMMYK,大分県,1675,743,大分県,2208,YAMADA,大分県,0,,-
 PENDUAL,千年ノ理,0,,-,1199,YAMADA,大分県,1723,3ZUI,大分県,3170,ZUTT,大分県,4258,ZUTT,大分県
@@ -794,34 +794,34 @@ PENDUAL,共鳴遊戯の華,0,,-,995,ATRIUM,大分県,2210,STE7Q,大分県,3827,Z
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,947,THEEND,大分県,2165,LIAR,大分県,3428,ANDIRA,大分県,0,,-
 PENDUAL,ベィスドロップ・フリークス,0,,-,503,GIBSON,大分県,1139,PLAN.B,大分県,2258,ANDIRA,大分県,0,,-
 PENDUAL,パ→ピ→プ→Yeah!,352,SAMMYK,大分県,949,SAMMYK,大分県,1521,801,大分県,2543,ZUTT,大分県,0,,-
-PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,728,TAKO,大分県,1536,HINATA,大分県,2861,ANDIRA,大分県,0,,-
+PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,728,TAKO,大分県,1592,801,大分県,2861,ANDIRA,大分県,0,,-
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1210,SAMMYK,大分県,1819,NGKAWA,大分県,2683,ZUTT,大分県,0,,-
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,387,LOAM,大分県,1431,LIAR,大分県,2542,ANDIRA,大分県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,576,SHIRO,大分県,1237,KEMI*,大分県,2283,ANDIRA,大分県,0,,-
-PENDUAL,それは花火のような恋,550,*M,大分県,1265,LIAR,大分県,2283,LIAR,大分県,3837,YAMADA,大分県,0,,-
-PENDUAL,ZZ,194,SAMMYK,大分県,1191,SAMMYK,大分県,1861,YUKARI,大分県,3037,ANDIRA,大分県,0,,-
-PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1037,STAPH.,大分県,2162,LIAR,大分県,3681,ANDIRA,大分県,0,,-
+PENDUAL,それは花火のような恋,550,*M,大分県,1265,LIAR,大分県,2283,LIAR,大分県,3854,ANDIRA,大分県,0,,-
+PENDUAL,ZZ,198,HAIDO,大分県,1191,SAMMYK,大分県,1861,YUKARI,大分県,3037,ANDIRA,大分県,0,,-
+PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1037,STAPH.,大分県,2181,LIAR,大分県,3686,BNGROL,大分県,0,,-
 PENDUAL,Vulkan,0,,-,859,#SPOON,大分県,1581,GOBO10,大分県,3020,ANDIRA,大分県,0,,-
-PENDUAL,TOXIC VIBRATION,0,,-,1287,WECRA,大分県,2189,LIAR,大分県,3719,ANDIRA,大分県,0,,-
+PENDUAL,TOXIC VIBRATION,0,,-,1287,WECRA,大分県,2258,LIAR,大分県,3719,ANDIRA,大分県,0,,-
 PENDUAL,TIEFSEE,0,,-,962,#SPOON,大分県,1856,NGKAWA,大分県,3460,YAMADA,大分県,0,,-
 PENDUAL,The Least 100sec,0,,-,446,A,大分県,1297,Y-CHAN,大分県,2874,ANDIRA,大分県,0,,-
-PENDUAL,TA・DA ☆ YO・SHI,0,,-,745,SHIRO,大分県,1528,NGKAWA,大分県,2299,ZUTT,大分県,0,,-
+PENDUAL,TA・DA ☆ YO・SHI,0,,-,764,SHIRO,大分県,1528,NGKAWA,大分県,2309,ZUTT,大分県,0,,-
 PENDUAL,Symmetry,0,,-,0,,-,1934,BLYTHE,大分県,3239,ANDIRA,大分県,0,,-
 PENDUAL,Sweet Radar,0,,-,420,CRAZY,大分県,1268,ISM,大分県,2020,MACDO.,大分県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,906,SUB.38,大分県,1530,CHONBO,大分県,2940,ZUTT,大分県,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1031,SYO9,大分県,2019,KEMI*,大分県,2992,ZUTT,大分県,0,,-
-PENDUAL,Shooting Fireball,0,,-,842,ATRIUM,大分県,2088,KILA**,大分県,3889,YAMADA,大分県,0,,-
+PENDUAL,Shooting Fireball,0,,-,842,ATRIUM,大分県,2135,LIAR,大分県,3889,YAMADA,大分県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,576,CRAZY,大分県,1426,MURA,大分県,2885,ANDIRA,大分県,0,,-
 PENDUAL,Scarlet Moon,0,,-,915,ATRIUM,大分県,1643,MIKE,大分県,2748,ANDIRA,大分県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,846,SYO9,大分県,1826,SMAP,大分県,3289,ANDIRA,大分県,0,,-
 PENDUAL,SAMSARA,0,,-,798,PLAN.B,大分県,1332,LIMIA,大分県,2057,ANDIRA,大分県,0,,-
-PENDUAL,Sakura Mirage,0,,-,790,HSU,大分県,1092,SCEAAT,大分県,2325,BNGROL,大分県,0,,-
+PENDUAL,Sakura Mirage,0,,-,790,HSU,大分県,1092,SCEAAT,大分県,2335,ZUTT,大分県,0,,-
 PENDUAL,Reflux,0,,-,636,LIMIA,大分県,1367,Y-CHAN,大分県,3013,ANDIRA,大分県,0,,-
 PENDUAL,Realize Maze,0,,-,923,HATM-R,大分県,2019,NATAKU,大分県,2984,ANDIRA,大分県,0,,-
 PENDUAL,"Rave*it!! Rave*it!! ",0,,-,726,HUAWEI,大分県,1608,URAMP,大分県,3250,YAMADA,大分県,0,,-
 PENDUAL,PENDUAL TALISMAN,0,,-,633,SHIRO,大分県,1501,ISM,大分県,2551,MACDO.,大分県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,0,,-,1165,PLAN.B,大分県,1950,KOKURI,大分県,0,,-
-PENDUAL,No Tears,0,,-,0,,-,1497,KAME-R,大分県,2519,BNGROL,大分県,0,,-
+PENDUAL,No Tears,0,,-,0,,-,2006,PA-SOU,大分県,2519,BNGROL,大分県,0,,-
 PENDUAL,Night sky,0,,-,1076,NGKAWA,大分県,1624,KAME-R,大分県,2945,ANDIRA,大分県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,564,DAW1N,大分県,1771,KEMI*,大分県,3261,ANDIRA,大分県,0,,-
 PENDUAL,Monopole.,0,,-,0,,-,1378,774,大分県,3317,ANDIRA,大分県,0,,-
@@ -842,14 +842,14 @@ PENDUAL,entelecheia,0,,-,967,SAMMYK,大分県,1969,YUKARI,大分県,3268,ZUTT,�
 PENDUAL,EBONY & IVORY,0,,-,855,ATRIUM,大分県,1412,ELIO,大分県,2983,ANDIRA,大分県,3546,ZUTT,大分県
 PENDUAL,Discloze,0,,-,739,STAPH.,大分県,1402,SAMMYK,大分県,2664,ANDIRA,大分県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,957,HSU,大分県,2260,NOOB,大分県,4045,BNGROL,大分県,0,,-
-PENDUAL,Cosmic Cat,0,,-,775,ALICE,大分県,1615,743,大分県,2303,ANDIRA,大分県,3207,BNGROL,大分県
+PENDUAL,Cosmic Cat,0,,-,775,ALICE,大分県,1615,743,大分県,2303,ANDIRA,大分県,3236,ANDIRA,大分県
 PENDUAL,"COLOSSEUM ",0,,-,254,MANDAM,大分県,1165,BLYTHE,大分県,2291,ANDIRA,大分県,0,,-
 PENDUAL,cinder,0,,-,648,#SPOON,大分県,2032,ZUTT,大分県,3102,ANDIRA,大分県,0,,-
 PENDUAL,Chronos,0,,-,756,LIMIA,大分県,1235,801,大分県,2352,ANDIRA,大分県,0,,-
 PENDUAL,Chrono Diver -PENDULUMs-,490,WECRA,大分県,1398,PUNICO,大分県,2723,MACDO.,大分県,4262,ZUTT,大分県,0,,-
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,794,GARU#,大分県,2003,MOTTU,大分県,3082,ANDIRA,大分県,4320,ZUTT,大分県
 PENDUAL,chrono diver -fragment-,0,,-,646,SAMMYK,大分県,862,QOOBEE,大分県,1794,ANDIRA,大分県,2234,BNGROL,大分県
-PENDUAL,Chain of pain,0,,-,334,AAAAAA,大分県,1182,KTRST,大分県,2149,PLOK!,大分県,0,,-
+PENDUAL,Chain of pain,0,,-,334,AAAAAA,大分県,1182,KTRST,大分県,2227,ANDIRA,大分県,0,,-
 PENDUAL,Broken Sword,0,,-,0,,-,1912,YUKARI,大分県,3709,YAMADA,大分県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,828,HSU,大分県,1882,KILA**,大分県,2993,ANDIRA,大分県,0,,-
 PENDUAL,Blaze it UP!,0,,-,735,#SPOON,大分県,1776,URAMP,大分県,2985,ANDIRA,大分県,0,,-
@@ -866,11 +866,11 @@ copula,真 地獄超特急 -HELL or HELL-,0,,-,1301,PLAN.B,大分県,2097,KILA**
 copula,灼熱 Pt.2 Long Train Running,0,,-,1040,QOOBEE,大分県,2105,ANDIRA,大分県,3309,ANDIRA,大分県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,0,,-,1551,3ZUI,大分県,2525,BNGROL,大分県,0,,-
 copula,星屑ディスタンシア,0,,-,612,ISM,大分県,708,#SPOON,大分県,2120,ANDIRA,大分県,0,,-
-copula,明鏡止水,0,,-,791,SAMMYK,大分県,1617,RIRCHU,大分県,2754,BNGROL,大分県,0,,-
+copula,明鏡止水,0,,-,791,SAMMYK,大分県,1617,RIRCHU,大分県,2785,ANDIRA,大分県,0,,-
 copula,少女アリスと箱庭幻想コンチェルト,0,,-,495,ALMOCH,大分県,1009,HONEY.,大分県,2168,ANDIRA,大分県,0,,-
-copula,セロトニン,0,,-,1027,HAIDO,大分県,1669,743,大分県,2319,ZUTT,大分県,0,,-
+copula,セロトニン,0,,-,1027,HAIDO,大分県,1669,743,大分県,2324,ANDIRA,大分県,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,1104,SAGE,大分県,1557,MIR,大分県,2432,BNGROL,大分県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,686,ATRIUM,大分県,1189,THEEND,大分県,2356,BNGROL,大分県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,686,ATRIUM,大分県,1270,LIMIA,大分県,2362,ZUTT,大分県,0,,-
 copula,オルタネイトβ,0,,-,720,LIMIA,大分県,1287,ISM,大分県,2252,YAMADA,大分県,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,952,#SPOON,大分県,1958,743,大分県,3343,ANDIRA,大分県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,743,#SPOON,大分県,1500,OTOUFU,大分県,2839,BNGROL,大分県,0,,-
@@ -883,7 +883,7 @@ copula,Uh-Oh,0,,-,1020,LIMIA,大分県,1621,743,大分県,2401,YAMADA,大分県,
 copula,Triple Counter,0,,-,1250,MURA,大分県,2114,LIAR,大分県,3919,ANDIRA,大分県,0,,-
 copula,Tori-no-kimochi,0,,-,248,SAMMYK,大分県,1215,743,大分県,2023,ANDIRA,大分県,0,,-
 copula,SURVIVOR,0,,-,625,PLAN.B,大分県,1116,ISM,大分県,2019,ANDIRA,大分県,0,,-
-copula,Super Duper Racers,0,,-,0,,-,1252,KUROHA,大分県,2374,ANDIRA,大分県,0,,-
+copula,Super Duper Racers,0,,-,0,,-,1372,LIMIA,大分県,2374,ANDIRA,大分県,0,,-
 copula,StrayedCatz,0,,-,741,WECRA,大分県,1808,KEMI*,大分県,2805,ZUTT,大分県,0,,-
 copula,STARLIGHT DANCEHALL,0,,-,860,SYO9,大分県,1598,LIMIA,大分県,2653,ANDIRA,大分県,3355,ANDIRA,大分県
 copula,STARLiGHT,0,,-,704,*M,大分県,1649,BLYTHE,大分県,2723,ANDIRA,大分県,0,,-
@@ -930,11 +930,11 @@ copula,Daily Lunch Special,0,,-,987,STAPH.,大分県,1770,SCEAAT,大分県,2962,
 copula,CODE:1 [revision1.0.1],0,,-,849,HSU,大分県,1619,ANCO,大分県,3067,ANDIRA,大分県,0,,-
 copula,chaos eater -IIDX edition-,0,,-,1072,PLAN.B,大分県,1637,LASMIN,大分県,2630,ANDIRA,大分県,0,,-
 copula,Central Station,0,,-,0,,-,1372,FAT,大分県,2428,ANDIRA,大分県,0,,-
-copula,Blue Spring Express,0,,-,1064,MURA,大分県,1831,KEMI*,大分県,3254,ANDIRA,大分県,0,,-
+copula,Blue Spring Express,0,,-,1064,MURA,大分県,1831,KEMI*,大分県,3266,BNGROL,大分県,0,,-
 copula,Battle Train -IIDX Edition-,0,,-,0,,-,2257,URAMP,大分県,3251,ANDIRA,大分県,0,,-
 copula,Aublia,0,,-,0,,-,1455,743,大分県,2545,ANDIRA,大分県,0,,-
 copula,Arcana,0,,-,0,,-,1556,HS,大分県,2276,ANDIRA,大分県,0,,-
-copula,AO-1,0,,-,1008,THEEND,大分県,1817,LIAR,大分県,2776,ANDIRA,大分県,0,,-
+copula,AO-1,0,,-,1008,THEEND,大分県,1817,LIAR,大分県,2782,BNGROL,大分県,0,,-
 copula,Angelic Jelly,0,,-,761,WECRA,大分県,1919,801,大分県,2790,ANDIRA,大分県,0,,-
 copula,Acid Pumper,0,,-,527,STAPH.,大分県,1390,3BM,大分県,2464,ANDIRA,大分県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,536,HUAWEI,大分県,1550,PA-SOU,大分県,2362,ANDIRA,大分県,0,,-
@@ -947,9 +947,9 @@ SINOBUZ,火影,0,,-,538,SHIRO,大分県,1329,743,大分県,2731,ANDIRA,大分県
 SINOBUZ,津軽雪,0,,-,1076,XYZ,大分県,2098,KILA**,大分県,3817,ZUTT,大分県,0,,-
 SINOBUZ,次葉 -turn the page-,0,,-,479,IIDX28,大分県,1421,ANDIRA,大分県,1998,ANDIRA,大分県,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,0,,-,1167,743,大分県,2035,BNGROL,大分県,0,,-
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,947,SAMMYK,大分県,1531,SAGE,大分県,2459,ZUTT,大分県,0,,-
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,947,SAMMYK,大分県,1531,SAGE,大分県,2460,ZUTT,大分県,0,,-
 SINOBUZ,忍恋花,0,,-,773,SYO9,大分県,1497,BLYTHE,大分県,2241,BNGROL,大分県,0,,-
-SINOBUZ,刃図羅,0,,-,1139,PLAN.B,大分県,1794,3ZUI,大分県,3379,ANDIRA,大分県,0,,-
+SINOBUZ,刃図羅,0,,-,1139,PLAN.B,大分県,1996,MATCHA,大分県,3379,ANDIRA,大分県,0,,-
 SINOBUZ,冬椿 ft. Kanae Asaba,202,FUWAN,大分県,752,WECRA,大分県,1143,HS,大分県,2270,ZUTT,大分県,3041,YAMADA,大分県
 SINOBUZ,九尾狐夜行,0,,-,784,PLAN.B,大分県,1613,KEMI*,大分県,2955,ZUTT,大分県,0,,-
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,382,ARIASU,大分県,1183,MAM.85,大分県,2486,ZUTT,大分県,0,,-
@@ -963,7 +963,7 @@ SINOBUZ,Warrior,0,,-,0,,-,1498,KAME-R,大分県,2444,PLOK!,大分県,0,,-
 SINOBUZ,Vermilion,0,,-,604,XYZAL,大分県,1228,NGKAWA,大分県,2017,ANDIRA,大分県,0,,-
 SINOBUZ,Venom,0,,-,685,SHIRO,大分県,2082,SAGE,大分県,3175,ZUTT,大分県,0,,-
 SINOBUZ,Umbral,0,,-,530,HAIDO,大分県,1328,-555-,大分県,1923,ANDIRA,大分県,0,,-
-SINOBUZ,TOGAKUSHI,0,,-,857,THEEND,大分県,1605,AAAAAA,大分県,2606,ANDIRA,大分県,0,,-
+SINOBUZ,TOGAKUSHI,0,,-,857,THEEND,大分県,1673,9683-G,大分県,2606,ANDIRA,大分県,0,,-
 SINOBUZ,The Commanders,0,,-,839,SYO9,大分県,1388,HS,大分県,2444,ANDIRA,大分県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,484,DIALIS,大分県,1146,HS,大分県,1912,ANDIRA,大分県,0,,-
 SINOBUZ,Surf on the Light,0,,-,375,MANDAM,大分県,1378,NGKAWA,大分県,2263,BNGROL,大分県,0,,-
@@ -971,7 +971,7 @@ SINOBUZ,Super Rush,0,,-,774,MRY,大分県,1789,LIAR,大分県,3522,ZUTT,大分�
 SINOBUZ,Summerlights(IIDX Edition),0,,-,991,THEEND,大分県,1756,SQ-86,大分県,3101,BNGROL,大分県,0,,-
 SINOBUZ,Steel Edge,0,,-,577,IIDX28,大分県,1451,LIAR,大分県,3159,ZUTT,大分県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,793,#SPOON,大分県,1994,NGKAWA,大分県,3420,ZUTT,大分県,0,,-
-SINOBUZ,Sky High,409,SAMMYK,大分県,990,PLAN.B,大分県,2090,TOFU,大分県,3774,ANDIRA,大分県,0,,-
+SINOBUZ,Sky High,409,SAMMYK,大分県,990,PLAN.B,大分県,2090,TOFU,大分県,3784,YAMADA,大分県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,799,F,大分県,1503,CHONBO,大分県,2443,ANDIRA,大分県,0,,-
 SINOBUZ,shuriken,0,,-,689,HSU,大分県,985,MURA,大分県,2566,ANDIRA,大分県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,0,,-,2062,LIAR,大分県,2852,ANDIRA,大分県,0,,-
@@ -985,7 +985,7 @@ SINOBUZ,RISING FIRE HAWK,0,,-,627,DAW1N,大分県,1304,SAMMYK,大分県,2695,YAM
 SINOBUZ,Remedy feat. Kanae Asaba,0,,-,0,,-,1660,ANDIRA,大分県,2221,ANDIRA,大分県,0,,-
 SINOBUZ,Rave Cannon,0,,-,0,,-,1537,NIBOSI,大分県,3327,ANDIRA,大分県,0,,-
 SINOBUZ,RAIN,0,,-,846,ATRIUM,大分県,1584,E.M.C,大分県,3244,ANDIRA,大分県,0,,-
-SINOBUZ,Quakes,0,,-,1117,SAGE,大分県,1761,9683-G,大分県,3139,ANDIRA,大分県,0,,-
+SINOBUZ,Quakes,0,,-,1117,SAGE,大分県,1761,9683-G,大分県,3144,ZUTT,大分県,0,,-
 SINOBUZ,Piano Samurai,0,,-,746,#SPOON,大分県,1496,OTOUFU,大分県,2460,BNGROL,大分県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,623,SYO9,大分県,1312,SCEAAT,大分県,2795,ANDIRA,大分県,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,1029,GARU#,大分県,1933,BALEB,大分県,3123,ANDIRA,大分県,0,,-
@@ -1008,7 +1008,7 @@ SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,571,HSU,大分県,870,SYO9,大�
 SINOBUZ,Egret and Willow,0,,-,628,GOLMNQ,大分県,1627,SAGE,大分県,2736,ANDIRA,大分県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1004,THEEND,大分県,1937,NOOB,大分県,3337,ZUTT,大分県,0,,-
 SINOBUZ,DORNWALD ～Junge～,0,,-,699,MONO*,大分県,1981,743,大分県,3605,ZUTT,大分県,0,,-
-SINOBUZ,Cyber True Color,0,,-,585,A,大分県,1472,3BM,大分県,2334,ZUTT,大分県,0,,-
+SINOBUZ,Cyber True Color,0,,-,585,A,大分県,1472,3BM,大分県,2351,ZUTT,大分県,0,,-
 SINOBUZ,crew,0,,-,602,URAMP,大分県,1672,LIAR,大分県,2923,ZUTT,大分県,0,,-
 SINOBUZ,Caterpillar,0,,-,1051,THEEND,大分県,2009,KEMI*,大分県,3037,ANDIRA,大分県,0,,-
 SINOBUZ,BroGamer,0,,-,1059,GARU#,大分県,2049,SAGE,大分県,3100,ANDIRA,大分県,0,,-
@@ -1020,15 +1020,15 @@ SINOBUZ,Beat Juggling Mix,0,,-,817,STAPH.,大分県,1333,KEMI*,大分県,2197,BN
 SINOBUZ,Be A Star,0,,-,947,SAGE,大分県,1726,LIAR,大分県,2807,ZUTT,大分県,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,0,,-,1968,NOOB,大分県,2809,ANDIRA,大分県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,804,#SPOON,大分県,1573,ELINGI,大分県,2604,ANDIRA,大分県,0,,-
-SINOBUZ,Around The Galaxy,0,,-,0,,-,1962,LIAR,大分県,3387,ANDIRA,大分県,0,,-
-SINOBUZ,Apocalypse,0,,-,1000,STAPH.,大分県,1956,NGKAWA,大分県,3551,ANDIRA,大分県,0,,-
+SINOBUZ,Around The Galaxy,0,,-,0,,-,1997,3BM,大分県,3387,ANDIRA,大分県,0,,-
+SINOBUZ,Apocalypse,0,,-,1000,STAPH.,大分県,1956,NGKAWA,大分県,3558,ZUTT,大分県,0,,-
 SINOBUZ,AO-∞,0,,-,1162,SAGE,大分県,1514,MAM.85,大分県,2660,ZUTT,大分県,0,,-
 SINOBUZ,Amazing Mirage,263,CH.16P,大分県,677,SYO9,大分県,1437,SIKI,大分県,2625,YAMADA,大分県,3265,YAMADA,大分県
 SINOBUZ,(This Is Not) The Angels,0,,-,339,IIDX28,大分県,1200,ELIO,大分県,2697,ANDIRA,大分県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,954,GARU#,大分県,1917,KEMI*,大分県,3386,BNGROL,大分県,0,,-
 SINOBUZ,!Viva!,0,,-,893,K,大分県,1540,LIAR,大分県,2010,ANDIRA,大分県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,662,PLAN.B,大分県,1207,SAGE,大分県,2305,MACDO.,大分県,0,,-
-CANNON BALLERS,純真可憐デザイア,237,Y-CHAN,大分県,556,ALICE,大分県,1564,SAGE,大分県,2318,BNGROL,大分県,0,,-
+CANNON BALLERS,純真可憐デザイア,237,Y-CHAN,大分県,556,ALICE,大分県,1564,SAGE,大分県,2329,ANDIRA,大分県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1212,ATRIUM,大分県,2447,SAGE,大分県,3976,ZUTT,大分県,0,,-
 CANNON BALLERS,東京神話,468,ANDIRA,大分県,820,ALICE,大分県,1503,ISM,大分県,2804,ANDIRA,大分県,0,,-
 CANNON BALLERS,命の標本,0,,-,407,JIRO,大分県,1342,SAMMYK,大分県,2677,ANDIRA,大分県,0,,-
@@ -1036,7 +1036,7 @@ CANNON BALLERS,共犯へヴンズコード,0,,-,225,HAJIN,大分県,1135,MIR,大
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,0,,-,1214,KTRST,大分県,2184,ANDIRA,大分県,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,665,IIDX28,大分県,1499,ISM,大分県,2770,BNGROL,大分県,0,,-
 CANNON BALLERS,バスルーム ロマンス,0,,-,623,ANGEL,大分県,1405,LIAR,大分県,2445,ANDIRA,大分県,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,727,HAIDO,大分県,1659,NO.11,大分県,2539,BNGROL,大分県,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,727,HAIDO,大分県,1680,BLYTHE,大分県,2539,BNGROL,大分県,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,547,IIDX28,大分県,1502,LIAR,大分県,2444,ANDIRA,大分県,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,967,MURA,大分県,1496,743,大分県,2088,ANDIRA,大分県,0,,-
 CANNON BALLERS,シムルグの目醒め,0,,-,1026,SYO9,大分県,2155,KILA**,大分県,3463,BNGROL,大分県,0,,-
@@ -1047,7 +1047,7 @@ CANNON BALLERS,Usual Days-remix,0,,-,1019,SAMMYK,大分県,1322,ANCO,大分県,2
 CANNON BALLERS,UMMU,413,SAMMYK,大分県,818,#SPOON,大分県,1938,LIAR,大分県,3078,ANDIRA,大分県,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,333,AAAAAA,大分県,1483,SAGE,大分県,1848,ZUTT,大分県,0,,-
 CANNON BALLERS,The Chase,0,,-,518,HUAWEI,大分県,1374,ANDIRA,大分県,2156,ANDIRA,大分県,0,,-
-CANNON BALLERS,THE CANNONBALLER,323,ARAI,大分県,1178,TOMI,大分県,2014,NGKAWA,大分県,3430,YAMADA,大分県,0,,-
+CANNON BALLERS,THE CANNONBALLER,323,ARAI,大分県,1178,TOMI,大分県,2020,PLAN.B,大分県,3430,YAMADA,大分県,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,670,REON,大分県,1359,SAMMYK,大分県,2660,ANDIRA,大分県,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,0,,-,1565,BLYTHE,大分県,2653,ZUTT,大分県,0,,-
 CANNON BALLERS,Static State,0,,-,776,F,大分県,1745,SAGE,大分県,2370,ANDIRA,大分県,0,,-
@@ -1056,13 +1056,13 @@ CANNON BALLERS,SPEED DEMON,0,,-,299,ALMOCH,大分県,1429,SAGE,大分県,2330,AN
 CANNON BALLERS,Slipstream,0,,-,1055,SAGE,大分県,2002,SAGE,大分県,3517,ANDIRA,大分県,0,,-
 CANNON BALLERS,Sleepless days,0,,-,348,MANDAM,大分県,900,SAGE,大分県,1576,ANDIRA,大分県,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,930,SAGE,大分県,1525,PUNICO,大分県,2323,ZUTT,大分県,0,,-
-CANNON BALLERS,REVOLVER,0,,-,898,SAGE,大分県,1599,SAGE,大分県,2724,YAMADA,大分県,0,,-
-CANNON BALLERS,Raspberry Railgun,0,,-,963,GARU#,大分県,1915,HARD,大分県,3146,ANDIRA,大分県,0,,-
+CANNON BALLERS,REVOLVER,0,,-,898,SAGE,大分県,1599,SAGE,大分県,2756,ANDIRA,大分県,0,,-
+CANNON BALLERS,Raspberry Railgun,0,,-,963,GARU#,大分県,2029,LIAR,大分県,3146,ANDIRA,大分県,0,,-
 CANNON BALLERS,Rampage,0,,-,1039,SYO9,大分県,2337,LIAR,大分県,3595,BNGROL,大分県,0,,-
 CANNON BALLERS,Persephone,0,,-,911,THEEND,大分県,1889,SMAP,大分県,2974,BNGROL,大分県,0,,-
 CANNON BALLERS,Papilio ulysses,0,,-,850,*M,大分県,1786,AAAAAA,大分県,2902,ZUTT,大分県,0,,-
 CANNON BALLERS,Only for now,0,,-,525,IIDX28,大分県,1529,SAGE,大分県,2269,ANDIRA,大分県,0,,-
-CANNON BALLERS,O/D*20,0,,-,0,,-,1644,URAMP,大分県,2118,ZUTT,大分県,0,,-
+CANNON BALLERS,O/D*20,0,,-,0,,-,1644,URAMP,大分県,2124,ANDIRA,大分県,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,552,S0RU00,大分県,1341,ISM,大分県,2853,ANDIRA,大分県,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,516,KOUJYE,大分県,1198,YANSHU,大分県,2349,ANDIRA,大分県,0,,-
 CANNON BALLERS,NITROUS CANNON,0,,-,1192,MURA,大分県,2044,ZUTT,大分県,3594,ANDIRA,大分県,0,,-
@@ -1079,18 +1079,18 @@ CANNON BALLERS,I Love You,0,,-,899,STAPH.,大分県,1665,PRUNE,大分県,2737,ZU
 CANNON BALLERS,HYPE THE CORE,0,,-,999,SAMMYK,大分県,1970,SAGE,大分県,2993,ANDIRA,大分県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,590,PLAN.B,大分県,892,STAPH.,大分県,1859,ANDIRA,大分県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,421,HATU,大分県,1112,TAKO,大分県,2215,ANDIRA,大分県,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,505,HSU,大分県,853,KOBO,大分県,1859,BNGROL,大分県,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,505,HSU,大分県,853,KOBO,大分県,1905,ANDIRA,大分県,0,,-
 CANNON BALLERS,FUTURE is Dead,0,,-,622,#SPOON,大分県,1065,AYANE.,大分県,2232,ANDIRA,大分県,0,,-
 CANNON BALLERS,From Time To Time,0,,-,0,,-,1737,MOTTU,大分県,2542,ANDIRA,大分県,0,,-
-CANNON BALLERS,FREEDOM,0,,-,986,SAGE,大分県,1590,URAMP,大分県,2928,YAMADA,大分県,0,,-
-CANNON BALLERS,Fervidex,0,,-,839,SAGE,大分県,1769,743,大分県,2703,ANDIRA,大分県,0,,-
+CANNON BALLERS,FREEDOM,0,,-,986,SAGE,大分県,1670,SAGE,大分県,2928,YAMADA,大分県,0,,-
+CANNON BALLERS,Fervidex,0,,-,839,SAGE,大分県,1769,743,大分県,2706,ZUTT,大分県,0,,-
 CANNON BALLERS,Expanded !!,0,,-,627,MURA,大分県,1520,SAGE,大分県,2619,ANDIRA,大分県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,1022,SAGE,大分県,1869,NANATI,大分県,2806,ANDIRA,大分県,0,,-
 CANNON BALLERS,encounter,0,,-,924,SAGE,大分県,1597,PLAN.B,大分県,3256,ANDIRA,大分県,0,,-
 CANNON BALLERS,EMERALDAS,527,ANDIRA,大分県,1168,PE6PE6,大分県,2316,MACDO.,大分県,3439,ZUTT,大分県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,479,IIDX28,大分県,1139,ISM,大分県,2591,ANDIRA,大分県,0,,-
 CANNON BALLERS,DropZ-Line-,0,,-,1255,SAGE,大分県,2026,SAGE,大分県,3151,ANDIRA,大分県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1219,MIR,大分県,2073,FRDRK,大分県,4016,ZUTT,大分県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1219,MIR,大分県,2079,LIAR,大分県,4016,ZUTT,大分県,0,,-
 CANNON BALLERS,DEADHEAT,0,,-,1069,PLAN.B,大分県,1957,SAGE,大分県,3312,ANDIRA,大分県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,729,MURA,大分県,1246,ISM,大分県,2090,ZUTT,大分県,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,969,A*MUK,大分県,1824,SAGE,大分県,2661,ANDIRA,大分県,0,,-
@@ -1110,17 +1110,17 @@ CANNON BALLERS,ANCHOR,0,,-,943,#SPOON,大分県,2387,MATCHA,大分県,3569,ZUTT,
 CANNON BALLERS,ANAGMA,0,,-,629,SYO9,大分県,1755,SAGE,大分県,2586,KOKURI,大分県,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,720,MURA,大分県,1314,URAMP,大分県,2326,ANDIRA,大分県,0,,-
 CANNON BALLERS,Alpheratz,0,,-,381,HSU,大分県,876,ISM,大分県,2093,ANDIRA,大分県,0,,-
-CANNON BALLERS,Acidiva 303,0,,-,799,SAGE,大分県,738,#SPOON,大分県,2293,YAMADA,大分県,0,,-
+CANNON BALLERS,Acidiva 303,0,,-,799,SAGE,大分県,1095,NIBOSI,大分県,2293,YAMADA,大分県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,0,,-,1546,HS,大分県,2454,KOKURI,大分県,0,,-
 CANNON BALLERS,Abraxas,0,,-,720,STAPH.,大分県,1432,3BM,大分県,2435,ANDIRA,大分県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1247,SAGE,大分県,2112,-555-,大分県,3582,ZUTT,大分県,0,,-
 CANNON BALLERS,255,0,,-,697,ATRIUM,大分県,1486,3BM,大分県,3251,ZUTT,大分県,0,,-
-CANNON BALLERS,2 Player,0,,-,0,,-,1372,ISM,大分県,2561,ANDIRA,大分県,0,,-
-CANNON BALLERS,1001 -ESCAPE-,0,,-,870,MURA,大分県,1491,LIMIA,大分県,2621,YAMADA,大分県,0,,-
+CANNON BALLERS,2 Player,0,,-,0,,-,1583,SAGE,大分県,2561,ANDIRA,大分県,0,,-
+CANNON BALLERS,1001 -ESCAPE-,0,,-,870,MURA,大分県,1491,LIMIA,大分県,2638,ANDIRA,大分県,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,626,TAKO,大分県,2279,SAGE,大分県,3196,ANDIRA,大分県,0,,-
 Rootage,金野火織の金色提言,0,,-,1052,774,大分県,2086,PUNICO,大分県,3064,ANDIRA,大分県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,620,#SPOON,大分県,1442,MAM.85,大分県,2575,ANDIRA,大分県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,1047,STAPH.,大分県,1734,SAGE,大分県,2706,MACDO.,大分県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1047,STAPH.,大分県,1804,SAGE,大分県,2706,MACDO.,大分県,0,,-
 Rootage,深愛のリグレット,0,,-,657,SAGE,大分県,1067,THEEND,大分県,2398,YAMADA,大分県,0,,-
 Rootage,泰東ノ翠霞,0,,-,487,SAGE,大分県,734,SAGE,大分県,1768,YAMADA,大分県,0,,-
 Rootage,最小三倍完全数,0,,-,909,SAGE,大分県,1670,801,大分県,2514,ANDIRA,大分県,0,,-
@@ -1137,7 +1137,7 @@ Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,
 Rootage,ZENDEGI DANCE,0,,-,1165,SAGE,大分県,1773,SAGE,大分県,2752,ANDIRA,大分県,0,,-
 Rootage,Yum Yum Jelly,0,,-,570,GIBSON,大分県,1489,FIES,大分県,2366,ANDIRA,大分県,0,,-
 Rootage,Xlo,0,,-,1360,PLAN.B,大分県,2372,SAGE,大分県,3804,ANDIRA,大分県,0,,-
-Rootage,XENON II ～TOMOYUKIの野望～,0,,-,977,STAPH.,大分県,1628,743,大分県,2981,ANDIRA,大分県,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,977,STAPH.,大分県,1654,SAGE,大分県,2981,ANDIRA,大分県,0,,-
 Rootage,X-DEN,0,,-,1592,SAGE,大分県,2753,ANDIRA,大分県,3991,ZUTT,大分県,0,,-
 Rootage,Wonderland,0,,-,916,THEEND,大分県,1835,SAGE,大分県,2750,ANDIRA,大分県,0,,-
 Rootage,Won(*3*)Chu KissMe!,171,7QUIZ,大分県,663,MII*,大分県,1294,NGKAWA,大分県,2505,ANDIRA,大分県,0,,-
@@ -1152,14 +1152,14 @@ Rootage,U.S.A.,466,MORIIK,大分県,952,ATRIUM,大分県,1862,SAGE,大分県,289
 Rootage,Twilight Warp,0,,-,0,,-,1177,ALEX.,大分県,2156,ANDIRA,大分県,0,,-
 Rootage,Trill auf G,0,,-,1066,SAMMYK,大分県,2002,SAGE,大分県,3222,ANDIRA,大分県,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,740,SAGE,大分県,1490,SAGE,大分県,2267,ANDIRA,大分県,0,,-
-Rootage,toy boxer,0,,-,758,SAGE,大分県,1400,SAGE,大分県,2219,ZUTT,大分県,0,,-
+Rootage,toy boxer,0,,-,758,SAGE,大分県,1400,SAGE,大分県,2222,ANDIRA,大分県,0,,-
 Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,816,SAGE,大分県,1361,LIAR,大分県,2226,ANDIRA,大分県,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,1028,MURA,大分県,1930,SAGE,大分県,3095,YAMADA,大分県,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1245,ALEX.,大分県,2213,LIAR,大分県,3451,ANDIRA,大分県,0,,-
 Rootage,The Best of Both Worlds,0,,-,247,AGUROU,大分県,1097,KTRST,大分県,2188,MACDO.,大分県,0,,-
-Rootage,Technicolour Dreams,0,,-,0,,-,1393,SAGE,大分県,2375,ZUTT,大分県,0,,-
+Rootage,Technicolour Dreams,0,,-,0,,-,1393,SAGE,大分県,2386,ZUTT,大分県,0,,-
 Rootage,Starry Night,0,,-,478,LOCKER,大分県,1370,Y-CHAN,大分県,2472,KOKURI,大分県,0,,-
-Rootage,SPEED ROCKER,0,,-,165,AYATAL,大分県,1362,MAM.85,大分県,2302,YAMADA,大分県,0,,-
+Rootage,SPEED ROCKER,0,,-,165,AYATAL,大分県,1665,SAGE,大分県,2302,YAMADA,大分県,0,,-
 Rootage,Six String Proof,0,,-,868,SAGE,大分県,1477,IIDX29,大分県,2555,ANDIRA,大分県,0,,-
 Rootage,SIGMA,0,,-,555,REON,大分県,1492,SAGE,大分県,2671,ZUTT,大分県,0,,-
 Rootage,Sidechained Threats,0,,-,890,A*MUK,大分県,1866,SAGE,大分県,2394,YAMADA,大分県,0,,-
@@ -1172,7 +1172,7 @@ Rootage,REPLAY,0,,-,929,SAGE,大分県,1614,SAGE,大分県,2277,ANDIRA,大分県
 Rootage,Red. by Jack Trance,0,,-,1218,K,大分県,2183,ANDIRA,大分県,3511,ANDIRA,大分県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,501,A,大分県,773,QOOBEE,大分県,1671,ANDIRA,大分県,0,,-
 Rootage,Please Welcome Mr.C,0,,-,783,SYO9,大分県,1638,NGKAWA,大分県,2958,ANDIRA,大分県,0,,-
-Rootage,Playing With Fire,0,,-,846,THEEND,大分県,1448,NGKAWA,大分県,2337,ANDIRA,大分県,0,,-
+Rootage,Playing With Fire,0,,-,846,THEEND,大分県,1448,NGKAWA,大分県,2362,ZUTT,大分県,0,,-
 Rootage,Particle Arts,0,,-,755,THEEND,大分県,1604,SAGE,大分県,2462,ANDIRA,大分県,0,,-
 Rootage,Painful Fate,0,,-,1096,PLAN.B,大分県,2243,SMAP,大分県,3275,BNGROL,大分県,0,,-
 Rootage,OVER TIME,0,,-,542,SAMMYK,大分県,752,IIDX28,大分県,1557,ANDIRA,大分県,0,,-
@@ -1200,7 +1200,7 @@ Rootage,Glory,0,,-,411,KURO,大分県,1484,PLAN.B,大分県,2338,ANDIRA,大分�
 Rootage,GIGA THRASH,0,,-,1244,SAGE,大分県,1815,SAGE,大分県,2739,ANDIRA,大分県,0,,-
 Rootage,GENE,0,,-,1287,SAGE,大分県,1912,MATCHA,大分県,4301,ZUTT,大分県,0,,-
 Rootage,Geirskogul,0,,-,1064,SAGE,大分県,1560,SAGE,大分県,2235,ANDIRA,大分県,0,,-
-Rootage,Garuda,0,,-,1008,SAGE,大分県,1566,SAGE,大分県,2588,BNGROL,大分県,0,,-
+Rootage,Garuda,0,,-,1008,SAGE,大分県,1566,SAGE,大分県,2592,ZUTT,大分県,0,,-
 Rootage,EVANESCENT,0,,-,1065,STAPH.,大分県,2305,SAGE,大分県,3536,ZUTT,大分県,0,,-
 Rootage,Ember Lights,0,,-,946,SAGE,大分県,1290,ASA.AA,大分県,2706,ZUTT,大分県,0,,-
 Rootage,DRUNK MONKY,0,,-,802,STAPH.,大分県,1412,3BM,大分県,2289,YAMADA,大分県,0,,-
@@ -1209,7 +1209,7 @@ Rootage,Dr. Chemical & Killing Machine,0,,-,0,,-,1607,Y-CHAN,大分県,3362,ZUTT
 Rootage,Digital Skipper,0,,-,965,NGKAWA,大分県,1517,SAGE,大分県,2129,SAGE,大分県,0,,-
 Rootage,dAuntl3ss,0,,-,1067,SAGE,大分県,1851,SAGE,大分県,3486,ANDIRA,大分県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,589,IIDX28,大分県,1404,ELIO,大分県,2439,ANDIRA,大分県,0,,-
-Rootage,COSMIC CYBER,0,,-,996,SAGE,大分県,1573,NGKAWA,大分県,2905,ANDIRA,大分県,0,,-
+Rootage,COSMIC CYBER,0,,-,996,SAGE,大分県,1573,NGKAWA,大分県,2908,ZUTT,大分県,0,,-
 Rootage,CoMAAAAAAA,0,,-,911,HSU,大分県,1976,LIAR,大分県,2404,ANDIRA,大分県,0,,-
 Rootage,CODE:0,0,,-,689,MONO*,大分県,2153,ZUTT,大分県,2845,ANDIRA,大分県,0,,-
 Rootage,Catch Our Fire!,0,,-,1346,SAGE,大分県,2200,SAGE,大分県,3659,YAMADA,大分県,0,,-
@@ -1218,18 +1218,18 @@ Rootage,Carmina,0,,-,923,HSU,大分県,2326,SAGE,大分県,3683,ZUTT,大分県,0
 Rootage,BLOSSOM,0,,-,966,LIMIA,大分県,1447,TA7KA3,大分県,2552,ANDIRA,大分県,0,,-
 Rootage,BLACK JACKAL,0,,-,644,#SPOON,大分県,1460,LIAR,大分県,2336,ANDIRA,大分県,0,,-
 Rootage,Angels & Demons,0,,-,0,,-,1661,LIAR,大分県,2439,ANDIRA,大分県,0,,-
-Rootage,AGAiN,0,,-,0,,-,1571,SAGE,大分県,2303,ZUTT,大分県,0,,-
+Rootage,AGAiN,0,,-,0,,-,1571,SAGE,大分県,2307,ZUTT,大分県,0,,-
 Rootage,Afterimage d'automne,0,,-,1006,SAGE,大分県,1698,ZUTT,大分県,2799,MACDO.,大分県,0,,-
 Rootage,A Tale Hidden In The Abyss,0,,-,919,SAGE,大分県,1529,NOZOMU,大分県,2627,ANDIRA,大分県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1239,ANDIRA,大分県,1402,J,大分県,2610,YAMADA,大分県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,657,KINAKO,大分県,1506,SAGE,大分県,2602,YAMADA,大分県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,689,SHIRO,大分県,1506,SAGE,大分県,2602,YAMADA,大分県,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,604,KINAKO,大分県,1317,URAMP,大分県,2246,KOKURI,大分県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,786,SAGE,大分県,1296,YANSHU,大分県,2680,YAMADA,大分県,0,,-
 Rootage,& Intelligence,0,,-,1125,SAGE,大分県,1901,NGKAWA,大分県,3182,ANDIRA,大分県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1085,SAGE,大分県,1637,SAGE,大分県,2889,YAMADA,大分県,0,,-
-HEROIC VERSE,錬成人間トリコロイダー,0,,-,564,DAW1N,大分県,1640,MAM.85,大分県,3185,BNGROL,大分県,0,,-
+HEROIC VERSE,錬成人間トリコロイダー,0,,-,564,DAW1N,大分県,1640,MAM.85,大分県,3211,ANDIRA,大分県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1281,LIAR,大分県,2125,ANDIRA,大分県,3422,ZUTT,大分県,0,,-
-HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,620,SAMMYK,大分県,985,NGKAWA,大分県,1809,YAMADA,大分県,0,,-
+HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,620,SAMMYK,大分県,985,NGKAWA,大分県,1811,ANDIRA,大分県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,836,SAGE,大分県,1470,NO.11,大分県,2998,ZUTT,大分県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,680,HONEY.,大分県,1487,GOBO10,大分県,2735,BNGROL,大分県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,155,JIRO,大分県,611,3ZUI,大分県,958,MURA,大分県,1982,BNGROL,大分県,0,,-
@@ -1242,7 +1242,7 @@ HEROIC VERSE,Ypsilon,0,,-,1122,ZUTT,大分県,1716,SAGE,大分県,2895,YAMADA,�
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,892,SAGE,大分県,1491,SAGE,大分県,2474,ZUTT,大分県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,530,DIALIS,大分県,1773,SAGE,大分県,2927,BNGROL,大分県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,536,MORIIK,大分県,1071,KAME-R,大分県,2215,ANDIRA,大分県,0,,-
-HEROIC VERSE,VIBRΛ,0,,-,925,SAGE,大分県,1110,E.M.C,大分県,1847,BNGROL,大分県,0,,-
+HEROIC VERSE,VIBRΛ,0,,-,925,SAGE,大分県,1110,E.M.C,大分県,1857,ANDIRA,大分県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,437,CHONBO,大分県,1029,SAGE,大分県,1604,BLYTHE,大分県,2752,ANDIRA,大分県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1105,A*MUK,大分県,2504,SAGE,大分県,3280,YAMADA,大分県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,780,SYO9,大分県,1938,ZUTT,大分県,3348,ZUTT,大分県,0,,-
@@ -1250,10 +1250,10 @@ HEROIC VERSE,Theory,0,,-,771,SAGE,大分県,1332,NGKAWA,大分県,2575,ANDIRA,�
 HEROIC VERSE,THE F∀UST,0,,-,1290,SAGE,大分県,2215,SAGE,大分県,3553,ZUTT,大分県,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1202,MURA,大分県,2369,SAGE,大分県,4019,ZUTT,大分県,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,821,STAPH.,大分県,1571,SAGE,大分県,2833,ZUTT,大分県,0,,-
-HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1372,SAGE,大分県,1547,IR1S,大分県,3172,BNGROL,大分県,0,,-
+HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1372,SAGE,大分県,1713,SAGE,大分県,3172,BNGROL,大分県,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,761,SAGE,大分県,1310,LIAR,大分県,2102,ANDIRA,大分県,0,,-
 HEROIC VERSE,Sparkle Smilin',0,,-,905,SAGE,大分県,1432,SAGE,大分県,2455,ZUTT,大分県,0,,-
-HEROIC VERSE,Ska-sh All Neurons!!,0,,-,715,GIBSON,大分県,1381,NGKAWA,大分県,2243,SAGE,大分県,0,,-
+HEROIC VERSE,Ska-sh All Neurons!!,0,,-,715,GIBSON,大分県,1381,NGKAWA,大分県,2331,ANDIRA,大分県,0,,-
 HEROIC VERSE,Silly Love,257,ANDIRA,大分県,764,SAGE,大分県,1369,SAGE,大分県,2080,ANDIRA,大分県,0,,-
 HEROIC VERSE,Shiva,0,,-,719,SAGE,大分県,1436,SAGE,大分県,2126,ANDIRA,大分県,0,,-
 HEROIC VERSE,Sellout,0,,-,0,,-,973,E.M.C,大分県,2112,ANDIRA,大分県,0,,-
@@ -1277,16 +1277,16 @@ HEROIC VERSE,Moving on,0,,-,1016,SAGE,大分県,1867,SAGE,大分県,2978,ANDIRA,
 HEROIC VERSE,Mel,0,,-,780,SAGE,大分県,1494,SAGE,大分県,2166,ANDIRA,大分県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,0,,-,1759,K,大分県,3332,ZUTT,大分県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1004,SAGE,大分県,1830,ZUTT,大分県,2984,ANDIRA,大分県,0,,-
-HEROIC VERSE,Like+it!,0,,-,774,A*MUK,大分県,1679,SAGE,大分県,2346,YAMADA,大分県,0,,-
+HEROIC VERSE,Like+it!,0,,-,774,A*MUK,大分県,1679,SAGE,大分県,2353,BNGROL,大分県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,926,SAGE,大分県,1639,089,大分県,3236,ANDIRA,大分県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,325,CRAZY,大分県,1660,SAGE,大分県,3522,BNGROL,大分県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,834,SAGE,大分県,1358,SAGE,大分県,2309,ZUTT,大分県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1006,SAGE,大分県,1864,BNGROL,大分県,3074,ANDIRA,大分県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,0,,-,1307,POM,大分県,1993,ANDIRA,大分県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,0,,-,1500,743,大分県,2626,ANDIRA,大分県,0,,-
-HEROIC VERSE,Hold My Hand,0,,-,930,SAGE,大分県,1645,SAGE,大分県,2472,MACDO.,大分県,0,,-
+HEROIC VERSE,Hold My Hand,0,,-,930,SAGE,大分県,1645,SAGE,大分県,2483,ANDIRA,大分県,0,,-
 HEROIC VERSE,GIGA VIOLATE,0,,-,966,PLAN.B,大分県,1577,LIAR,大分県,2744,ANDIRA,大分県,0,,-
-HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,0,,-,1438,NGKAWA,大分県,2360,BNGROL,大分県,0,,-
+HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,0,,-,1438,NGKAWA,大分県,2383,ANDIRA,大分県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,402,HSU,大分県,869,KAME-R,大分県,1644,ANDIRA,大分県,0,,-
 HEROIC VERSE,EXCITE,227,KOKUEI,大分県,532,SHIRO,大分県,1102,KAME-R,大分県,2220,YAMADA,大分県,0,,-
 HEROIC VERSE,Duration,0,,-,484,HSU,大分県,918,KAME-R,大分県,1942,ANDIRA,大分県,0,,-
@@ -1297,7 +1297,7 @@ HEROIC VERSE,Change Yourself,0,,-,0,,-,1700,SAGE,大分県,2514,YAMADA,大分県
 HEROIC VERSE,Calvados Queen,0,,-,0,,-,1481,SAGE,大分県,2401,KOKURI,大分県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,0,,-,1966,ZUTT,大分県,3091,ANDIRA,大分県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,842,SAMMYK,大分県,1661,SAGE,大分県,2481,ANDIRA,大分県,0,,-
-HEROIC VERSE,beatAffection,0,,-,1004,SAGE,大分県,1547,SAGE,大分県,2612,MACDO.,大分県,0,,-
+HEROIC VERSE,beatAffection,0,,-,1004,SAGE,大分県,1547,SAGE,大分県,2651,ZUTT,大分県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,1018,SAGE,大分県,1520,UMIN*,大分県,2247,ANDIRA,大分県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,719,NOOB,大分県,1289,LIAR,大分県,2009,ANDIRA,大分県,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1243,SAGE,大分県,2334,SAGE,大分県,3552,ANDIRA,大分県,0,,-
