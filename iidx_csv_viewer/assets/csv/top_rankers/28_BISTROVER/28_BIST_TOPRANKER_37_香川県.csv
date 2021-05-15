@@ -1,12 +1,12 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,577,NAKA,香川県,987,02GIRI,香川県,1120,JINJER,香川県,0,,-
-1st&substream,RUGGED ASH,0,,-,319,NAKA,香川県,369,GOEBBE,香川県,1035,NAGISA,香川県,2001,KOFJI,香川県
+1st&substream,RUGGED ASH,0,,-,319,NAKA,香川県,369,GOEBBE,香川県,1036,TM,香川県,2001,KOFJI,香川県
 1st&substream,R3,0,,-,541,HYU,香川県,671,TOMY,香川県,877,FTB294,香川県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,450,NAKA,香川県,415,M0U53,香川県,1074,NA,香川県,0,,-
 1st&substream,Macho Gang,0,,-,349,M-2-BR,香川県,919,LE,香川県,1558,FTB294,香川県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,181,PSYCHE,香川県,231,REM,香川県,0,,-,0,,-
 1st&substream,GRADIUSIC CYBER,0,,-,601,BLOOD,香川県,763,256EXE,香川県,1159,KIKYO,香川県,0,,-
-1st&substream,gentle stress,0,,-,332,LE,香川県,655,T,香川県,1413,VAN73,香川県,0,,-
+1st&substream,gentle stress,0,,-,332,LE,香川県,655,T,香川県,1456,KOFJI,香川県,0,,-
 1st&substream,GENOM SCREAMS,0,,-,0,,-,719,GOEBBE,香川県,1062,KOFJI,香川県,0,,-
 1st&substream,GAMBOL,0,,-,246,KAEDE,香川県,262,256EXE,香川県,0,,-,0,,-
 1st&substream,Dr.LOVE,0,,-,322,FUJI,香川県,468,256EXE,香川県,565,KIKYO,香川県,0,,-
@@ -15,7 +15,7 @@
 1st&substream,22DUNK,0,,-,426,SHELA,香川県,471,256EXE,香川県,641,JINJER,香川県,0,,-
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,233,YKHR,香川県,0,,-,641,TM,香川県,0,,-
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,493,SHELA,香川県,836,M-2-BR,香川県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,689,SHELA,香川県,1000,TOMY,香川県,1161,VAN73,香川県,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,689,SHELA,香川県,1000,TOMY,香川県,1234,KOFJI,香川県,0,,-
 2nd style,I Was The One,0,,-,493,256EXE,香川県,261,YKHR,香川県,681,JINJER,香川県,0,,-
 2nd style,Electro Tuned(the SubS mix),0,,-,608,NAKA,香川県,911,PSYCHE,香川県,1022,TM,香川県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,572,CAFEGG,香川県,918,GOEBBE,香川県,1043,VAN27,香川県,0,,-
@@ -36,8 +36,8 @@
 4th style,SWEET LAB,0,,-,205,YKHR,香川県,877,LE,香川県,1375,KOFJI,香川県,0,,-
 4th style,starmine,432,LE,香川県,851,TOMY,香川県,1363,KYLE.A,香川県,1534,TM,香川県,0,,-
 4th style,Mr.T.(take me higher),0,,-,649,NAKA,香川県,0,,-,1741,WL2,香川県,0,,-
-4th style,minimalian,0,,-,462,SHELA,香川県,1017,02GIRI,香川県,1339,4RSN4L,香川県,0,,-
-4th style,LOVE WILL・・・,0,,-,464,HYU,香川県,676,TANAKA,香川県,1428,M-2-BR,香川県,0,,-
+4th style,minimalian,0,,-,462,SHELA,香川県,1047,02GIRI,香川県,1339,4RSN4L,香川県,0,,-
+4th style,LOVE WILL・・・,0,,-,464,HYU,香川県,676,TANAKA,香川県,1458,KOFJI,香川県,0,,-
 4th style,KAMIKAZE,0,,-,816,K,香川県,1102,FUJI,香川県,2230,ENBRY,香川県,0,,-
 4th style,Jam&Marmalade,0,,-,604,NAKA,香川県,814,TOMY,香川県,930,KIKYO,香川県,0,,-
 4th style,Hitch Hiker2,0,,-,682,HYU,香川県,809,OJISAN,香川県,1213,TM,香川県,1927,KOFJI,香川県
@@ -49,7 +49,7 @@
 4th style,Clione,0,,-,441,NAKA,香川県,910,VAN3,香川県,1535,KIKYO,香川県,2014,VAN73,香川県
 4th style,CHECKING YOU OUT,0,,-,578,LE,香川県,915,KOFJI,香川県,1352,KOFJI,香川県,0,,-
 4th style,Burnin' The Floor,0,,-,484,NAKA,香川県,503,CAFEGG,香川県,1435,KOFJI,香川県,0,,-
-4th style,Broken My Heart,0,,-,672,OJISAN,香川県,1137,MANA,香川県,1687,TRD*N,香川県,0,,-
+4th style,Broken My Heart,0,,-,672,OJISAN,香川県,1137,MANA,香川県,1739,NA,香川県,0,,-
 4th style,B4U,0,,-,975,ADB,香川県,1445,VAN73,香川県,1998,KOFJI,香川県,0,,-
 4th style,ABSOLUTE,0,,-,1079,CAFEGG,香川県,1631,TOMY,香川県,2234,TM,香川県,2616,VAN3,香川県
 4th style,250bpm,0,,-,495,SHELA,香川県,900,TOMY,香川県,1315,KIKYO,香川県,0,,-
@@ -80,7 +80,7 @@
 6th style,rottel-da-sun,0,,-,452,NAKA,香川県,1229,02GIRI,香川県,1867,KOFJI,香川県,0,,-
 6th style,NEMESIS,0,,-,0,,-,1375,EMPELT,香川県,1911,KOFJI,香川県,0,,-
 6th style,Linus,0,,-,773,REG,香川県,1385,LE,香川県,2196,KOFJI,香川県,0,,-
-6th style,G2,0,,-,1270,ADB,香川県,1513,LE,香川県,2343,KOFJI,香川県,0,,-
+6th style,G2,0,,-,1270,ADB,香川県,1546,LE,香川県,2343,KOFJI,香川県,0,,-
 6th style,Frozen Ray (original mix),0,,-,1221,LE,香川県,1550,RINGO,香川県,1746,IIDX28,香川県,0,,-
 6th style,Free Style,0,,-,844,ADB,香川県,809,PASERI,香川県,1251,JINJER,香川県,0,,-
 6th style,fly through the night,0,,-,723,NAKA,香川県,1186,TOMY,香川県,1626,JINJER,香川県,0,,-
@@ -89,7 +89,7 @@
 6th style,Buffalo,0,,-,680,NAKA,香川県,1292,TOMY,香川県,1745,TTT,香川県,2430,GNSCCI,香川県
 6th style,Blueberry Stream,0,,-,659,SHELA,香川県,1236,KAMO,香川県,1610,WL2,香川県,0,,-
 6th style,BALLAD FOR YOU～想いの雨～,0,,-,493,NAKA,香川県,584,KJR-42,香川県,1057,4RSN4L,香川県,0,,-
-6th style,"19,November",0,,-,1013,IIDX28,香川県,1351,TOMY,香川県,1662,CORONA,香川県,0,,-
+6th style,"19,November",0,,-,1013,IIDX28,香川県,1351,TOMY,香川県,1708,TM,香川県,0,,-
 7th style,革命,0,,-,519,NAKA,香川県,1847,LOBM,香川県,2224,IIDX28,香川県,0,,-
 7th style,ZERO-ONE,0,,-,834,PASERI,香川県,1537,KT-BEL,香川県,2248,KOFJI,香川県,0,,-
 7th style,traces,0,,-,1322,GOEBBE,香川県,1554,4770MA,香川県,2154,KOFJI,香川県,0,,-
@@ -115,7 +115,7 @@
 8th style,World Wide Love,0,,-,383,HARUU,香川県,948,REG,香川県,1096,YU-YAN,香川県,0,,-
 8th style,WAR GAME,0,,-,757,NAKA,香川県,1452,TOMY,香川県,2085,JINJER,香川県,0,,-
 8th style,thunder,0,,-,1092,LE,香川県,1479,EMPELT,香川県,1868,KOFJI,香川県,0,,-
-8th style,symbolic,0,,-,1257,GOEBBE,香川県,1739,NAGISA,香川県,2252,KOFJI,香川県,0,,-
+8th style,symbolic,0,,-,1257,GOEBBE,香川県,1739,NAGISA,香川県,2266,KOFJI,香川県,0,,-
 8th style,rainbow flyer,0,,-,675,REG,香川県,1390,SERIKA,香川県,2143,KOFJI,香川県,0,,-
 8th style,PLEASE DON'T GO,0,,-,921,LE,香川県,1039,PASERI,香川県,2458,KOFJI,香川県,0,,-
 8th style,MUSIC TO YOUR HEAD,0,,-,584,NAKA,香川県,1343,02GIRI,香川県,1685,KOFJI,香川県,0,,-
@@ -123,7 +123,7 @@
 8th style,Monkey Dance,0,,-,708,REG,香川県,1331,KIKYO,香川県,1981,KOFJI,香川県,0,,-
 8th style,memories,0,,-,851,NAKA,香川県,1778,TCF,香川県,2253,KOFJI,香川県,0,,-
 8th style,Luv 2 Feel Your Body,0,,-,801,LE,香川県,979,LE,香川県,1516,TM,香川県,0,,-
-8th style,LOVE IS ORANGE,0,,-,631,NAKA,香川県,996,34.*S2,香川県,1742,VAN3,香川県,2067,GNSCCI,香川県
+8th style,LOVE IS ORANGE,0,,-,631,NAKA,香川県,996,34.*S2,香川県,1761,NA,香川県,2067,GNSCCI,香川県
 8th style,LAB,0,,-,781,NAKA,香川県,1706,LE,香川県,2123,KOFJI,香川県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1220,LE,香川県,1745,T,香川県,2122,M-2-BR,香川県,0,,-
 8th style,Halfway of promise,0,,-,0,,-,1422,ADB,香川県,1822,KOFJI,香川県,0,,-
@@ -140,7 +140,7 @@
 9th style,真夏の花・真夏の夢,0,,-,701,1DAY,香川県,935,FUJI,香川県,1425,TM,香川県,0,,-
 9th style,ライオン好き,0,,-,534,NAKA,香川県,1144,TOMY,香川県,1507,KOFJI,香川県,0,,-
 9th style,SWEETEST SAVAGE,0,,-,624,LE,香川県,1308,LE,香川県,1823,KOFJI,香川県,0,,-
-9th style,Sweet Sweet Magic,0,,-,802,N075U,香川県,1131,AKIHA,香川県,2035,ENBRY,香川県,0,,-
+9th style,Sweet Sweet Magic,0,,-,802,N075U,香川県,1368,ADB,香川県,2035,ENBRY,香川県,0,,-
 9th style,STAR FIELD,0,,-,642,LE,香川県,994,POPO,香川県,1888,KOFJI,香川県,0,,-
 9th style,SNOW,0,,-,706,NAKA,香川県,1101,GOEBBE,香川県,2062,KOFJI,香川県,0,,-
 9th style,Silvia Drive,0,,-,763,BOSS77,香川県,1399,TOMY,香川県,2011,JINJER,香川県,0,,-
@@ -150,9 +150,9 @@
 9th style,Quickening,0,,-,712,SHELA,香川県,1474,LE,香川県,2119,KOFJI,香川県,0,,-
 9th style,quasar,0,,-,858,N075U,香川県,1627,YAMADA,香川県,2313,KOFJI,香川県,0,,-
 9th style,one or eight,0,,-,1165,GOEBBE,香川県,1716,KYLE.A,香川県,2274,KOFJI,香川県,0,,-
-9th style,moon_child,0,,-,855,NAKA,香川県,1635,K.,香川県,2554,KOFJI,香川県,0,,-
+9th style,moon_child,0,,-,855,NAKA,香川県,1758,HOUNAN,香川県,2554,KOFJI,香川県,0,,-
 9th style,MARIA (I believe... ),0,,-,340,YKHR,香川県,1369,ATZB,香川県,1922,KOFJI,香川県,0,,-
-9th style,Make A Difference,0,,-,628,NAKA,香川県,1122,KOMM,香川県,2177,WL2,香川県,0,,-
+9th style,Make A Difference,0,,-,628,NAKA,香川県,1204,MAITOO,香川県,2177,WL2,香川県,0,,-
 9th style,lower world,0,,-,810,NAKA,香川県,1444,YU-R,香川県,2239,KOFJI,香川県,0,,-
 9th style,LOVE SHINE,524,LE,香川県,838,VAN3,香川県,1763,34.*S2,香川県,2084,KOFJI,香川県,0,,-
 9th style,lights,0,,-,353,HARUU,香川県,1161,ARIA,香川県,1752,WL2,香川県,0,,-
@@ -165,8 +165,8 @@
 9th style,Cradle,0,,-,680,NAKA,香川県,1018,LASK-,香川県,1531,M-2-BR,香川県,0,,-
 9th style,BRIGHTNESS DARKNESS,0,,-,647,SHELA,香川県,1387,02GIRI,香川県,1770,KOFJI,香川県,0,,-
 9th style,bag,0,,-,584,NAKA,香川県,855,LASK-,香川県,1865,FTB294,香川県,0,,-
-9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,-,902,ADB,香川県,1339,02GIRI,香川県,1723,TRD*N,香川県,0,,-
-9th style,ATOMIC AGE,0,,-,360,T,香川県,620,T,香川県,1207,9-NYA,香川県,0,,-
+9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,-,902,ADB,香川県,1339,02GIRI,香川県,1731,VAN4,香川県,0,,-
+9th style,ATOMIC AGE,0,,-,360,T,香川県,620,T,香川県,1220,4RSN4L,香川県,0,,-
 9th style,ACT,0,,-,724,MRSR,香川県,1461,HOUNAN,香川県,1808,ENBRY,香川県,0,,-
 9th style,Abyss -The Heavens Remix-,556,LE,香川県,1300,GOEBBE,香川県,1663,K.,香川県,2317,ENBRY,香川県,0,,-
 10th style,雪月花,0,,-,993,1DAY,香川県,1794,M-2-BR,香川県,2533,KOFJI,香川県,0,,-
@@ -175,7 +175,7 @@
 10th style,SHOOTING STAR,0,,-,658,KUNI,香川県,1141,MAITOO,香川県,2251,KOFJI,香川県,0,,-
 10th style,Rise'n Beauty,0,,-,943,LASK-,香川県,1458,MOASHI,香川県,2159,WL2,香川県,0,,-
 10th style,rainbow rainbow,0,,-,1381,GOEBBE,香川県,1979,HOUNAN,香川県,2730,KOFJI,香川県,0,,-
-10th style,pandora,0,,-,716,NAKA,香川県,1422,GOEBBE,香川県,1799,JINJER,香川県,0,,-
+10th style,pandora,0,,-,716,NAKA,香川県,1546,02GIRI,香川県,1799,JINJER,香川県,0,,-
 10th style,One More Lovely,0,,-,647,NAKA,香川県,1565,FIRIAS,香川県,2821,KOFJI,香川県,0,,-
 10th style,No.13,0,,-,1389,YUURI,香川県,2420,4RSN4L,香川県,3199,KOFJI,香川県,0,,-
 10th style,Narcissus At Oasis,0,,-,686,REG,香川県,1314,HOUNAN,香川県,1632,WL2,香川県,0,,-
@@ -191,7 +191,7 @@
 10th style,EXE,0,,-,853,H1RO,香川県,1447,ADB,香川県,2260,KOFJI,香川県,0,,-
 10th style,DoLL,331,LE,香川県,796,NAKA,香川県,1042,KAEDE,香川県,1599,FTB294,香川県,0,,-
 10th style,desolation,0,,-,164,YKHR,香川県,613,VAN27,香川県,718,AREMA,香川県,0,,-
-10th style,Debtty Daddy,0,,-,760,NAKA,香川県,1661,FIRIAS,香川県,2725,KOFJI,香川県,0,,-
+10th style,Debtty Daddy,0,,-,760,NAKA,香川県,1727,HOUNAN,香川県,2725,KOFJI,香川県,0,,-
 10th style,Daisuke,464,LE,香川県,1179,TOMY,香川県,1534,ATZB,香川県,2371,ENBRY,香川県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,754,NAKA,香川県,1160,GOEBBE,香川県,2065,KOFJI,香川県,0,,-
 10th style,Boundary,0,,-,327,YKHR,香川県,1739,EMPELT,香川県,2052,KOFJI,香川県,0,,-
@@ -200,7 +200,7 @@
 10th style,ASTRAL VOYAGE,0,,-,728,NAKA,香川県,972,OJISAN,香川県,1907,WL2,香川県,0,,-
 10th style,ALIEN TEMPLE,0,,-,948,ADB,香川県,1667,KOFJI,香川県,1899,KIKYO,香川県,0,,-
 10th style,1st Samurai,0,,-,859,CAFEGG,香川県,1506,YUURI,香川県,2712,KOFJI,香川県,0,,-
-IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,922,LE,香川県,1112,SHELA,香川県,2002,KOFJI,香川県,0,,-
+IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,922,LE,香川県,1277,PASERI,香川県,2002,KOFJI,香川県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,644,NAKA,香川県,1337,02GIRI,香川県,1577,9-NYA,香川県,0,,-
 IIDX RED,大桟橋,0,,-,364,SHELA,香川県,845,GOEBBE,香川県,1848,KOFJI,香川県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,719,ARIAXX,香川県,2172,KOFJI,香川県,2629,KOFJI,香川県,0,,-
@@ -243,12 +243,12 @@ HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,572,HYU,香川県,883,M-M,香�
 HAPPY SKY,Votum stellarum,0,,-,710,GOEBBE,香川県,1470,GOEBBE,香川県,1867,9-NYA,香川県,0,,-
 HAPPY SKY,vault of heaven,0,,-,756,BOSS77,香川県,1160,ARIAXX,香川県,1939,JINJER,香川県,0,,-
 HAPPY SKY,Under the Sky,0,,-,882,NAGISA,香川県,1328,02GIRI,香川県,1696,GNSCCI,香川県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,817,NAKA,香川県,1388,TOMY,香川県,1880,IIDX28,香川県,3100,VAN3,香川県
+HAPPY SKY,Twelfth Style,0,,-,817,NAKA,香川県,1388,TOMY,香川県,1907,4RSN4L,香川県,3100,VAN3,香川県
 HAPPY SKY,Tizona d'El Cid,0,,-,634,OJISAN,香川県,1759,VAN73,香川県,2291,ENBRY,香川県,0,,-
 HAPPY SKY,SigSig,656,LE,香川県,1052,TOMY,香川県,1568,02GIRI,香川県,2578,ENBRY,香川県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1042,RENA-F,香川県,1428,ADB,香川県,2135,KOFJI,香川県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1504,LE,香川県,1740,MITA,香川県,2531,KOFJI,香川県,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1322,PASERI,香川県,1949,H,香川県,3127,KOFJI,香川県,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1339,PASERI,香川県,1949,H,香川県,3127,KOFJI,香川県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,1074,GOEBBE,香川県,1551,IIDX28,香川県,2012,KOFJI,香川県,0,,-
 HAPPY SKY,rage against usual,0,,-,1150,GOEBBE,香川県,1744,FUCA3*,香川県,2923,KOFJI,香川県,0,,-
 HAPPY SKY,POODLE,0,,-,546,ZEN,香川県,1696,TAQRO,香川県,2239,L#1000,香川県,3383,KOFJI,香川県
@@ -258,22 +258,22 @@ HAPPY SKY,Pink Rose,0,,-,539,ARIAXX,香川県,816,NYAN*K,香川県,1400,JINJER,�
 HAPPY SKY,MOON RACE,0,,-,581,NAKA,香川県,894,GOEBBE,香川県,1844,JINJER,香川県,0,,-
 HAPPY SKY,Love Magic,0,,-,733,NAKA,香川県,1416,NAGISA,香川県,1757,T,香川県,0,,-
 HAPPY SKY,Little Little Princess,0,,-,865,N075U,香川県,2027,CORONA,香川県,2757,KOFJI,香川県,3700,VAN3,香川県
-HAPPY SKY,LESSON 5,0,,-,1021,SHELA,香川県,1669,LE,香川県,2474,WL2,香川県,0,,-
-HAPPY SKY,INAZUMA,0,,-,747,NAKA,香川県,1700,02GIRI,香川県,2721,KOFJI,香川県,0,,-
+HAPPY SKY,LESSON 5,0,,-,1021,SHELA,香川県,1669,LE,香川県,2492,KOFJI,香川県,0,,-
+HAPPY SKY,INAZUMA,0,,-,747,NAKA,香川県,1711,02GIRI,香川県,2721,KOFJI,香川県,0,,-
 HAPPY SKY,in motion,0,,-,789,LE,香川県,887,REG,香川県,1270,M-2-BR,香川県,0,,-
 HAPPY SKY,I am,0,,-,845,NAKA,香川県,1572,GOEBBE,香川県,2168,KOFJI,香川県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,645,LE,香川県,0,,-,1481,TOMY,香川県,2074,ENBRY,香川県,0,,-
 HAPPY SKY,GREEN EYES,0,,-,966,LE,香川県,1522,M-2-BR,香川県,1982,FABULA,香川県,0,,-
-HAPPY SKY,Get'em up to R.A.V.E,0,,-,793,NAKA,香川県,1468,GOEBBE,香川県,2301,KOFJI,香川県,0,,-
+HAPPY SKY,Get'em up to R.A.V.E,0,,-,793,NAKA,香川県,1630,02GIRI,香川県,2301,KOFJI,香川県,0,,-
 HAPPY SKY,garden,0,,-,763,SHELA,香川県,1260,ARIAXX,香川県,2118,WL2,香川県,0,,-
 HAPPY SKY,First Resolution,0,,-,0,,-,1539,02GIRI,香川県,2146,KOFJI,香川県,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,624,LE,香川県,0,,-,1664,JINJER,香川県,0,,-
 HAPPY SKY,EDEN,0,,-,1237,TOMY,香川県,1846,34.*S2,香川県,2689,ENBRY,香川県,0,,-
 HAPPY SKY,double thrash,0,,-,967,LE,香川県,1799,HOUNAN,香川県,2112,NAGISA,香川県,0,,-
-HAPPY SKY,Catch Me,0,,-,651,REG,香川県,1087,ADB,香川県,1790,ENBRY,香川県,0,,-
+HAPPY SKY,Catch Me,0,,-,651,REG,香川県,1087,ADB,香川県,1811,KOFJI,香川県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,340,YKHR,香川県,1667,LE,香川県,2472,KOFJI,香川県,0,,-
 HAPPY SKY,Aurora,0,,-,1281,TOMY,香川県,1951,CORONA,香川県,2550,KOFJI,香川県,0,,-
-HAPPY SKY,alla turca con passione,0,,-,657,NAKA,香川県,1424,ADB,香川県,2199,KOFJI,香川県,0,,-
+HAPPY SKY,alla turca con passione,0,,-,657,NAKA,香川県,1424,ADB,香川県,2200,KOFJI,香川県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,656,OJISAN,香川県,1494,LE,香川県,2042,ENBRY,香川県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,783,SHELA,香川県,1419,DENOU,香川県,1714,KOFJI,香川県,0,,-
 DistorteD,虹色,0,,-,696,NAKA,香川県,1437,TOMY,香川県,1763,TM,香川県,0,,-
@@ -293,7 +293,7 @@ DistorteD,This is Love,0,,-,801,SHELA,香川県,1638,TOMY,香川県,2461,KOFJI,�
 DistorteD,The Dirty of Loudness,0,,-,1315,LE,香川県,1923,HOUNAN,香川県,2639,KOFJI,香川県,0,,-
 DistorteD,Sun Field,0,,-,482,NAKA,香川県,1163,ARIAXX,香川県,2451,KOFJI,香川県,0,,-
 DistorteD,So Fabulous !!,0,,-,886,REG,香川県,1482,02GIRI,香川県,2368,KOFJI,香川県,0,,-
-DistorteD,Power of Love,0,,-,0,,-,1320,REG,香川県,2036,NA,香川県,0,,-
+DistorteD,Power of Love,0,,-,792,NAKA,香川県,1320,REG,香川県,2036,NA,香川県,0,,-
 DistorteD,MOON,0,,-,779,GOEBBE,香川県,1849,TOMY,香川県,2175,JINJER,香川県,0,,-
 DistorteD,MINT,0,,-,780,PASERI,香川県,1569,HOUNAN,香川県,2304,KOFJI,香川県,0,,-
 DistorteD,Leaving...,0,,-,619,SHELA,香川県,1303,02GIRI,香川県,2218,KOFJI,香川県,0,,-
@@ -320,9 +320,9 @@ GOLD,星をこの手に,0,,-,897,N0B1TA,香川県,1529,ADB,香川県,2103,GNSCCI
 GOLD,リグレット,0,,-,1022,NAKA,香川県,1634,LE,香川県,2306,SHAK3*,香川県,0,,-
 GOLD,ヨシダさん,0,,-,760,PASERI,香川県,1392,02GIRI,香川県,1930,TTT,香川県,0,,-
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,424,LE,香川県,397,YKHR,香川県,1411,NAGISA,香川県,2224,ENBRY,香川県,0,,-
-GOLD,With your Smile,0,,-,684,LE,香川県,1132,TOMY,香川県,1529,TTT,香川県,0,,-
+GOLD,With your Smile,0,,-,684,LE,香川県,1132,TOMY,香川県,1530,9-NYA,香川県,0,,-
 GOLD,Watch out!!,0,,-,318,HARUU,香川県,912,GOEBBE,香川県,1575,KOFJI,香川県,0,,-
-GOLD,VANESSA,0,,-,747,N0B1TA,香川県,1864,KOFJI,香川県,2422,KOFJI,香川県,3403,KOFJI,香川県
+GOLD,VANESSA,0,,-,790,OJISAN,香川県,1864,KOFJI,香川県,2422,KOFJI,香川県,3403,KOFJI,香川県
 GOLD,TRANOID,0,,-,542,NAKA,香川県,1263,REG,香川県,2097,VAN73,香川県,2825,ENBRY,香川県
 GOLD,The Smile of You,0,,-,699,NAKA,香川県,1256,02GIRI,香川県,1624,KOFJI,香川県,0,,-
 GOLD,the shadow,0,,-,0,,-,1837,KT-BEL,香川県,2921,KOFJI,香川県,0,,-
@@ -331,10 +331,10 @@ GOLD,smile,0,,-,1121,K,香川県,2067,M-2-BR,香川県,2915,KOFJI,香川県,0,,-
 GOLD,Sense 2007,0,,-,1398,LE,香川県,2289,KOFJI,香川県,2982,KOFJI,香川県,0,,-
 GOLD,Second Heaven,221,LE,香川県,648,GURUTO,香川県,1425,LE,香川県,2111,KOFJI,香川県,0,,-
 GOLD,Roulette,0,,-,0,,-,1105,JZX.##,香川県,2127,KOFJI,香川県,0,,-
-GOLD,PHOTONGENIC,0,,-,651,RIRIA,香川県,1762,MRMAIN,香川県,2271,ENBRY,香川県,0,,-
+GOLD,PHOTONGENIC,0,,-,999,HYU,香川県,1762,MRMAIN,香川県,2271,ENBRY,香川県,0,,-
 GOLD,op.31 叙情,0,,-,559,KOFJI,香川県,1220,KOFJI,香川県,1523,KOFJI,香川県,0,,-
 GOLD,never…,0,,-,691,NAKA,香川県,1303,EMPELT,香川県,1731,TM,香川県,0,,-
-GOLD,METALLIC MIND,0,,-,726,HYU,香川県,1303,ADB,香川県,1634,KOFJI,香川県,0,,-
+GOLD,METALLIC MIND,0,,-,726,HYU,香川県,1326,02GIRI,香川県,1634,KOFJI,香川県,0,,-
 GOLD,Make Me Your Own,0,,-,851,LE,香川県,1426,K.,香川県,2137,KOFJI,香川県,0,,-
 GOLD,Love Again...,0,,-,340,BREAD,香川県,0,,-,1066,KOFJI,香川県,0,,-
 GOLD,LASER CRUSTER,0,,-,1430,TTT,香川県,2107,MOASHI,香川県,3245,KOFJI,香川県,0,,-
@@ -364,7 +364,7 @@ DJ TROOPERS,エコ爺,334,LE,香川県,656,NAKA,香川県,1122,LASK-,香川県,1
 DJ TROOPERS,Wanna Party?,0,,-,562,NAKA,香川県,1088,02GIRI,香川県,1482,TT,香川県,2581,KOFJI,香川県
 DJ TROOPERS,Ubertreffen,0,,-,954,ARIAXX,香川県,1774,34.*S2,香川県,2537,KOFJI,香川県,3183,ENBRY,香川県
 DJ TROOPERS,TROOPERS,0,,-,948,LASK-,香川県,2140,KT-BEL,香川県,2920,ENBRY,香川県,0,,-
-DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,676,LE,香川県,1521,M-2-BR,香川県,1733,YU-YAN,香川県,0,,-
+DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,676,LE,香川県,1521,M-2-BR,香川県,1764,TT,香川県,0,,-
 DJ TROOPERS,Time to Air,0,,-,971,NAKA,香川県,1979,H,香川県,2897,KOFJI,香川県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,760,NAKA,香川県,1159,02GIRI,香川県,1831,9-NYA,香川県,0,,-
 DJ TROOPERS,THE DEEP STRIKER,524,LE,香川県,874,SHELA,香川県,2012,SUBARU,香川県,3035,KOFJI,香川県,3365,VAN3,香川県
@@ -421,7 +421,7 @@ EMPRESS,THANK YOU FOR PLAYING,0,,-,609,NAKA,香川県,1529,LE,香川県,1881,HOU
 EMPRESS,SOLITON BEAM,0,,-,1205,PASERI,香川県,2092,ENBRY,香川県,2367,KOFJI,香川県,0,,-
 EMPRESS,smooooch・∀・,380,LE,香川県,769,LE,香川県,1575,VAN73,香川県,2097,GNSCCI,香川県,0,,-
 EMPRESS,Secrets,0,,-,906,OJISAN,香川県,2230,34.*S2,香川県,3164,KOFJI,香川県,4126,KOFJI,香川県
-EMPRESS,Queen's Tragedy,0,,-,724,NAKA,香川県,1334,T.K.C.,香川県,2193,WL2,香川県,0,,-
+EMPRESS,Queen's Tragedy,0,,-,724,NAKA,香川県,1397,ARIAXX,香川県,2193,WL2,香川県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,0,,-,1677,KYLE.A,香川県,2516,KOFJI,香川県,0,,-
 EMPRESS,Programmed World,0,,-,365,YKHR,香川県,1554,NYAN*K,香川県,2310,KOFJI,香川県,0,,-
 EMPRESS,NΦ CRIME,286,LE,香川県,682,NAKA,香川県,1316,TOMY,香川県,1884,ENBRY,香川県,0,,-
@@ -432,7 +432,7 @@ EMPRESS,Mind Mapping,505,LE,香川県,663,NAKA,香川県,1204,4RSN4L,香川県,1
 EMPRESS,Kung-fu Empire,0,,-,992,MASA,香川県,2157,ADB,香川県,3114,GNSCCI,香川県,3858,ENBRY,香川県
 EMPRESS,Just a Little Smile,0,,-,700,LASK-,香川県,960,LASK-,香川県,2387,WL2,香川県,0,,-
 EMPRESS,Jack,0,,-,681,NAKA,香川県,1005,HYU,香川県,2164,KOFJI,香川県,0,,-
-EMPRESS,I'm Screaming LOVE,0,,-,599,LE,香川県,1221,TAQRO,香川県,1652,TTT,香川県,0,,-
+EMPRESS,I'm Screaming LOVE,0,,-,599,LE,香川県,1221,TAQRO,香川県,1670,VAN3,香川県,0,,-
 EMPRESS,HYPERION,0,,-,982,ARIAXX,香川県,1707,LE,香川県,2520,VAN73,香川県,0,,-
 EMPRESS,Go Beyond!!,532,LE,香川県,899,MASA,香川県,1619,H,香川県,2163,KOFJI,香川県,0,,-
 EMPRESS,Fly Above,0,,-,934,LE,香川県,1537,ATZB,香川県,2011,TT,香川県,0,,-
@@ -444,12 +444,12 @@ EMPRESS,BRIDAL FESTIVAL !!!,0,,-,700,NAKA,香川県,1442,H1RO,香川県,2056,NA,
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,800,LASK-,香川県,2004,KTZW-3,香川県,3910,KOFJI,香川県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,630,ZEN,香川県,1850,34.*S2,香川県,2590,WL2,香川県,3261,KOFJI,香川県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,917,JYOU.,香川県,2017,TACO,香川県,3586,KOFJI,香川県,4531,KOFJI,香川県
-EMPRESS,Arabian Rave Night,0,,-,1060,LASK-,香川県,1963,K.,香川県,2806,GNSCCI,香川県,3572,ENBRY,香川県
+EMPRESS,Arabian Rave Night,0,,-,1060,LASK-,香川県,1963,K.,香川県,2814,GNSCCI,香川県,3572,ENBRY,香川県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,806,OJISAN,香川県,1440,DZF4R,香川県,2609,KOFJI,香川県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,1028,ADB,香川県,1331,YUZU,香川県,2086,WL2,香川県,0,,-
 EMPRESS,3y3s,540,LE,香川県,1477,4RSN4L,香川県,2429,02GIRI,香川県,3458,ENBRY,香川県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,317,YKHR,香川県,1147,1DAY,香川県,2070,KOFJI,香川県,0,,-
-SIRIUS,未来のプリズム,0,,-,449,HARUU,香川県,1127,M-M,香川県,1713,VAN3,香川県,0,,-
+SIRIUS,未来のプリズム,0,,-,449,HARUU,香川県,1187,M-M,香川県,1713,VAN3,香川県,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1080,HSN,香川県,2106,UMAPYO,香川県,3100,KOFJI,香川県,0,,-
 SIRIUS,バビロニア,0,,-,781,BOSS77,香川県,1293,LE,香川県,1812,L#HAPY,香川県,0,,-
 SIRIUS,サヨナラ・ヘヴン,364,LE,香川県,795,NAKA,香川県,1006,OJISAN,香川県,1639,VAN3,香川県,0,,-
@@ -470,7 +470,7 @@ SIRIUS,quell～the seventh slave～,0,,-,752,NAKA,香川県,1714,VAN3,香川県,
 SIRIUS,Programmed Sun,0,,-,800,NAKA,香川県,1353,TATSU,香川県,2592,KOFJI,香川県,0,,-
 SIRIUS,NoN-Fiction Story!,0,,-,575,MIMOSA,香川県,1331,02GIRI,香川県,2190,KOFJI,香川県,0,,-
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1039,SHELA,香川県,1883,T.K.C.,香川県,2676,KOFJI,香川県,0,,-
-SIRIUS,mosaic,0,,-,1239,JYOU.,香川県,1973,34.*S2,香川県,2953,VAN3,香川県,0,,-
+SIRIUS,mosaic,0,,-,1239,JYOU.,香川県,1973,34.*S2,香川県,2961,VAN3,香川県,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,884,LE,香川県,1492,LE,香川県,2217,KOFJI,香川県,0,,-
 SIRIUS,Light Shine,0,,-,766,IIDX28,香川県,1104,02GIRI,香川県,1965,KOFJI,香川県,0,,-
 SIRIUS,Last Burning,0,,-,754,SHELA,香川県,1460,LE,香川県,2346,WL2,香川県,0,,-
@@ -482,19 +482,19 @@ SIRIUS,GALGALIM,0,,-,0,,-,1659,KA3NOK,香川県,2404,KOFJI,香川県,0,,-
 SIRIUS,G59,0,,-,1616,LE,香川県,2202,KYLE.A,香川県,3886,KOFJI,香川県,0,,-
 SIRIUS,EXUSIA,0,,-,997,SHELA,香川県,2483,4RSN4L,香川県,3845,KOFJI,香川県,0,,-
 SIRIUS,Evans,592,LE,香川県,1209,TOMY,香川県,2211,KOFJI,香川県,2789,KOFJI,香川県,0,,-
-SIRIUS,eRAseRmOToRpHAntOM,0,,-,1207,HYU,香川県,1950,FIRIAS,香川県,3287,KOFJI,香川県,0,,-
+SIRIUS,eRAseRmOToRpHAntOM,0,,-,1207,HYU,香川県,2093,HOUNAN,香川県,3287,KOFJI,香川県,0,,-
 SIRIUS,Empire State Glory,0,,-,1021,REG,香川県,1750,4RSN4L,香川県,2651,KOFJI,香川県,0,,-
 SIRIUS,Elisha,419,LE,香川県,835,GOEBBE,香川県,1352,MRMAIN,香川県,2282,KOFJI,香川県,0,,-
 SIRIUS,DROP,0,,-,348,YKHR,香川県,1726,KA3NOK,香川県,2588,WL2,香川県,0,,-
 SIRIUS,DOMINION,0,,-,1019,N0B1TA,香川県,2150,HOUNAN,香川県,3186,KOFJI,香川県,0,,-
-SIRIUS,DESIRE,0,,-,0,,-,1612,RINGO,香川県,2853,KOFJI,香川県,0,,-
+SIRIUS,DESIRE,0,,-,0,,-,1801,YU-YAN,香川県,2853,KOFJI,香川県,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,647,NAKA,香川県,1434,VAN73,香川県,2085,KOFJI,香川県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1437,GOEBBE,香川県,2223,TAQRO,香川県,3133,KOFJI,香川県,0,,-
 SIRIUS,D,0,,-,1196,ADB,香川県,1545,FUCA3*,香川県,2531,KOFJI,香川県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,732,K,香川県,1560,VAN73,香川県,2255,4RSN4L,香川県,0,,-
 SIRIUS,bloomin' feeling,388,LE,香川県,1258,NAGISA,香川県,1873,02GIRI,香川県,2606,KOFJI,香川県,0,,-
 SIRIUS,being torn the sky,0,,-,404,ZEN,香川県,1079,PASERI,香川県,1968,ENBRY,香川県,0,,-
-SIRIUS,BEAUTIFUL ANGEL,0,,-,510,NAKA,香川県,1536,4RSN4L,香川県,2446,KOFJI,香川県,0,,-
+SIRIUS,BEAUTIFUL ANGEL,0,,-,510,NAKA,香川県,1536,4RSN4L,香川県,2479,KOFJI,香川県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,970,ADB,香川県,1544,TOMY,香川県,1997,KOFJI,香川県,0,,-
 SIRIUS,bass 2 bass,273,LE,香川県,609,FUJI,香川県,1224,02GIRI,香川県,1811,VAN3,香川県,0,,-
 SIRIUS,Bad Maniacs,0,,-,1139,GOEBBE,香川県,1691,4RSN4L,香川県,3223,KOFJI,香川県,0,,-
@@ -536,9 +536,9 @@ Resort Anthem,Never Fade Away,0,,-,671,NAKA,香川県,1552,LE,香川県,3021,KOF
 Resort Anthem,Mermaid girl,571,LE,香川県,842,OJISAN,香川県,1620,34.*S2,香川県,2218,KOFJI,香川県,0,,-
 Resort Anthem,Medicine of love,0,,-,450,GURUTO,香川県,938,REG,香川県,1727,KOFJI,香川県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,0,,-,1641,LE,香川県,2697,KOFJI,香川県,0,,-
-Resort Anthem,Kailua,0,,-,403,NAKA,香川県,1282,PIPOPA,香川県,2199,KOFJI,香川県,0,,-
+Resort Anthem,Kailua,0,,-,403,NAKA,香川県,1318,VAN73,香川県,2199,KOFJI,香川県,0,,-
 Resort Anthem,I FIGHT ME,0,,-,453,HARUU,香川県,1268,IIDX28,香川県,2135,KOFJI,香川県,0,,-
-Resort Anthem,Golden Palms,0,,-,532,NAKA,香川県,1100,LASK-,香川県,1908,JINJER,香川県,2386,KOFJI,香川県
+Resort Anthem,Golden Palms,0,,-,559,HARUU,香川県,1100,LASK-,香川県,1908,JINJER,香川県,2386,KOFJI,香川県
 Resort Anthem,Fantasia,239,LE,香川県,368,SHELA,香川県,1486,TOMY,香川県,2221,GNSCCI,香川県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,773,HYU,香川県,982,MOYA4,香川県,1858,ENBRY,香川県,0,,-
 Resort Anthem,Eternal Tears,0,,-,0,,-,1075,KIKYO,香川県,1347,TOMYZ,香川県,0,,-
@@ -553,8 +553,8 @@ Resort Anthem,Breaking the ground,0,,-,0,,-,1747,VAN73,香川県,2524,KOFJI,香�
 Resort Anthem,Bounce Bounce Bounce,0,,-,892,REG,香川県,1649,VAN3,香川県,2445,KOFJI,香川県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,778,ADB,香川県,1482,LE,香川県,2019,TM,香川県,0,,-
 Resort Anthem,Believe In Me,0,,-,925,REG,香川県,1771,4RSN4L,香川県,2331,GNSCCI,香川県,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,674,Y.Y,香川県,1839,34.*S2,香川県,2963,KOFJI,香川県,0,,-
-Resort Anthem,Answer,0,,-,471,YKHR,香川県,1293,SHELA,香川県,2345,GNSCCI,香川県,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,737,RENA-F,香川県,1839,34.*S2,香川県,2963,KOFJI,香川県,0,,-
+Resort Anthem,Answer,0,,-,569,YKHR,香川県,1293,SHELA,香川県,2345,GNSCCI,香川県,0,,-
 Resort Anthem,ALBIDA,521,LE,香川県,730,RIRIA,香川県,1808,4RSN4L,香川県,2845,GNSCCI,香川県,0,,-
 Resort Anthem,Aegis,0,,-,607,OJISAN,香川県,1267,ADB,香川県,2350,KOFJI,香川県,0,,-
 Lincle,陽炎,0,,-,594,SHELA,香川県,1025,SHELA,香川県,1960,GNSCCI,香川県,0,,-
@@ -569,7 +569,7 @@ Lincle,君のハートにロックオン,0,,-,0,,-,1582,TANAKA,香川県,2676,KO
 Lincle,ユミル,0,,-,592,REG,香川県,1280,02GIRI,香川県,2743,JINJER,香川県,0,,-
 Lincle,ビューティフルレシート,337,H1RO,香川県,468,RED-I,香川県,1033,AAAAAA,香川県,1878,NA,香川県,0,,-
 Lincle,Yellow Sunrise,0,,-,614,NAKA,香川県,1292,KJ.,香川県,2250,JINJER,香川県,0,,-
-Lincle,yellow head joe,0,,-,527,TA.,香川県,1383,TANAKA,香川県,2212,GNSCCI,香川県,0,,-
+Lincle,yellow head joe,0,,-,613,NAKA,香川県,1383,TANAKA,香川県,2212,GNSCCI,香川県,0,,-
 Lincle,YAKSHA,0,,-,560,GUNDAM,香川県,2203,4RSN4L,香川県,3758,ENBRY,香川県,0,,-
 Lincle,WONDER WALKER,0,,-,634,AFIBRE,香川県,1625,MOKA,香川県,3751,ENBRY,香川県,0,,-
 Lincle,Voxane,0,,-,538,SHELA,香川県,1115,REG,香川県,1722,WL2,香川県,0,,-
@@ -578,7 +578,7 @@ Lincle,TITANS RETURN,322,LE,香川県,453,TA.,香川県,1277,CHAM,香川県,2496
 Lincle,Thunderbolt,0,,-,893,PASERI,香川県,1661,CORONA,香川県,3794,KOFJI,香川県,0,,-
 Lincle,The Sampling Paradise,0,,-,821,NAGISA,香川県,1743,UMAPYO,香川県,3018,KOFJI,香川県,0,,-
 Lincle,The Limbo,0,,-,1123,LE,香川県,1958,UMAPYO,香川県,3311,KOFJI,香川県,0,,-
-Lincle,Star Trail,0,,-,564,NAKA,香川県,908,OJISAN,香川県,1857,KOFJI,香川県,0,,-
+Lincle,Star Trail,0,,-,564,NAKA,香川県,952,PASERI,香川県,1857,KOFJI,香川県,0,,-
 Lincle,Snow Goose,299,LE,香川県,332,HYU,香川県,1084,PASERI,香川県,2423,ENBRY,香川県,0,,-
 Lincle,Snake Stick,0,,-,786,CHAM,香川県,1854,VAN73,香川県,2705,KOFJI,香川県,0,,-
 Lincle,SHADE,0,,-,968,IIDX28,香川県,1968,02GIRI,香川県,2913,KOFJI,香川県,0,,-
@@ -599,7 +599,7 @@ Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,677,NAKA,香川県,1306,TOMY,香川�
 Lincle,Lucky Days,0,,-,553,LASK-,香川県,1181,PASERI,香川県,1971,H,香川県,0,,-
 Lincle,LOVE B.B.B,0,,-,677,HYU,香川県,1247,FENRIR,香川県,2011,ENBRY,香川県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,0,,-,1082,LE,香川県,1882,TRD*N,香川県,0,,-
-Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,847,NAKA,香川県,1549,TOMY,香川県,2197,ENBRY,香川県,0,,-
+Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,992,ADB,香川県,1549,TOMY,香川県,2197,ENBRY,香川県,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,879,NAKA,香川県,1944,MRMAIN,香川県,2672,SHAK3*,香川県,0,,-
 Lincle,Infinite cave,0,,-,778,NAKA,香川県,1454,LE,香川県,1959,TM,香川県,0,,-
 Lincle,In the Blackest Den,0,,-,0,,-,1441,SUBARU,香川県,2534,KOFJI,香川県,0,,-
@@ -628,7 +628,7 @@ tricoro,梅雪夜,0,,-,853,4RSN4L,香川県,1463,M-2-BR,香川県,2114,VAN3,香�
 tricoro,朧,205,LE,香川県,756,BOSS77,香川県,1458,VAN73,香川県,2053,VAN4,香川県,2474,GNSCCI,香川県
 tricoro,即席！脳直★ミュージックシステム,0,,-,0,,-,1793,CORONA,香川県,3532,ENBRY,香川県,0,,-
 tricoro,創世ノート,0,,-,568,MRSR,香川県,1756,HOUNAN,香川県,2816,VAN3,香川県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,564,NAKA,香川県,1740,MOKA,香川県,2872,KOFJI,香川県,3836,KOFJI,香川県
+tricoro,仮想空間の旅人たち,0,,-,564,NAKA,香川県,2108,VAN73,香川県,2872,KOFJI,香川県,3836,KOFJI,香川県
 tricoro,下弦の月,0,,-,227,5103,香川県,1419,02GIRI,香川県,1944,VAN3,香川県,0,,-
 tricoro,ラキラキ,0,,-,555,NAKA,香川県,1254,RINGO,香川県,1854,TOMYZ,香川県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,445,ZEN,香川県,1248,02GIRI,香川県,1900,GNSCCI,香川県,0,,-
@@ -657,7 +657,7 @@ tricoro,SYNC-ANTHEM,0,,-,198,PIANO,香川県,2282,H1RO,香川県,3647,KOFJI,香�
 tricoro,STULTI,0,,-,646,LASK-,香川県,1425,CORONA,香川県,2750,KOFJI,香川県,0,,-
 tricoro,Sol Cosine Job 2,0,,-,793,NAKA,香川県,1587,LE,香川県,2954,428.N,香川県,0,,-
 tricoro,SHION,0,,-,572,NAKA,香川県,1281,TOMY,香川県,2695,KOFJI,香川県,0,,-
-tricoro,Shining World,0,,-,1087,PEKO,香川県,1552,02GIRI,香川県,1900,VAN3,香川県,0,,-
+tricoro,Shining World,0,,-,1087,PEKO,香川県,1552,02GIRI,香川県,1901,NA,香川県,0,,-
 tricoro,Saturn,0,,-,1050,1DAY,香川県,1714,K.,香川県,2646,KOFJI,香川県,0,,-
 tricoro,S!ck,0,,-,652,NAKA,香川県,1489,EMPELT,香川県,2685,KOFJI,香川県,0,,-
 tricoro,rumrum triplets,0,,-,509,ZEN,香川県,1671,KA2DON,香川県,2912,VAN3,香川県,0,,-
@@ -682,13 +682,13 @@ tricoro,In Heaven,0,,-,672,LASK-,香川県,1425,TOMY,香川県,2113,WL2,香川�
 tricoro,Illegal Function Call,0,,-,941,LE,香川県,1736,M-2-BR,香川県,2603,KOFJI,香川県,0,,-
 tricoro,ILIAS,0,,-,766,LE,香川県,1272,02GIRI,香川県,2109,VAN4,香川県,0,,-
 tricoro,I know You know,0,,-,364,YKHR,香川県,935,NAKA,香川県,1847,JINJER,香川県,0,,-
-tricoro,Howling,0,,-,472,U-M,香川県,1084,YUZU,香川県,2124,KOFJI,香川県,2555,GNSCCI,香川県
-tricoro,Hollywood Galaxy,0,,-,822,NAKA,香川県,1499,TANAKA,香川県,2703,KOFJI,香川県,0,,-
+tricoro,Howling,0,,-,472,U-M,香川県,1145,YUZU,香川県,2124,KOFJI,香川県,2555,GNSCCI,香川県
+tricoro,Hollywood Galaxy,0,,-,822,NAKA,香川県,1622,IKKI,香川県,2703,KOFJI,香川県,0,,-
 tricoro,GRADIUS 2012,0,,-,757,LASK-,香川県,1532,SUBARU,香川県,2485,KYLE.A,香川県,0,,-
 tricoro,GAIA,0,,-,891,SHELA,香川県,2108,TTT,香川県,3293,KOFJI,香川県,0,,-
 tricoro,Fly you to the star,0,,-,705,REG,香川県,1581,VAN73,香川県,2269,KOFJI,香川県,0,,-
 tricoro,FLOWER,356,LE,香川県,781,LASK-,香川県,1571,RINGO,香川県,2902,KOFJI,香川県,0,,-
-tricoro,examination leave,0,,-,855,NAKA,香川県,1703,NNNZ,香川県,3389,KOFJI,香川県,0,,-
+tricoro,examination leave,0,,-,855,NAKA,香川県,1703,NNNZ,香川県,3392,KOFJI,香川県,0,,-
 tricoro,Elemental Creation,258,LE,香川県,1234,OJISAN,香川県,2217,KTZW-3,香川県,4159,KOFJI,香川県,0,,-
 tricoro,Devilz Staircase,0,,-,598,HYU,香川県,1890,CORONA,香川県,3268,KOFJI,香川県,0,,-
 tricoro,DAY DREAM,0,,-,403,LE,香川県,1088,LEMAHU,香川県,1968,KOFJI,香川県,0,,-
@@ -700,11 +700,11 @@ tricoro,BRAVE GLOW,0,,-,461,GUNDAM,香川県,1599,TOMY,香川県,2436,GNSCCI,香
 tricoro,BLUE STRAGGLER,0,,-,751,REG,香川県,1053,SKEB,香川県,2574,KOFJI,香川県,0,,-
 tricoro,Beastie Starter,0,,-,348,BREAD,香川県,1004,PASERI,香川県,2213,KOFJI,香川県,0,,-
 tricoro,Ascalon,0,,-,729,IIDX28,香川県,1387,MAITOO,香川県,2217,NA,香川県,0,,-
-tricoro,8bit Princess,0,,-,429,YKHR,香川県,1336,34.*S2,香川県,2591,ENBRY,香川県,0,,-
+tricoro,8bit Princess,0,,-,429,YKHR,香川県,1336,34.*S2,香川県,2600,L#1000,香川県,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,903,TOMY,香川県,1609,FUCA3*,香川県,2588,KOFJI,香川県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,742,OJISAN,香川県,1828,UMAPYO,香川県,3554,KOFJI,香川県,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,484,MASA,香川県,1233,OJISAN,香川県,2529,VAN3,香川県,0,,-
-SPADA,罪と罰,0,,-,749,KJR-42,香川県,1296,TOMY,香川県,2069,VAN3,香川県,0,,-
+SPADA,罪と罰,0,,-,1011,ADB,香川県,1296,TOMY,香川県,2069,VAN3,香川県,0,,-
 SPADA,疾風迅雷,0,,-,1031,T.O,香川県,1685,AJIMI,香川県,2913,KOFJI,香川県,3387,KOFJI,香川県
 SPADA,牧神笛吹きて,0,,-,659,NAKA,香川県,1207,CORONA,香川県,1997,VAN3,香川県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1018,OJISAN,香川県,2244,UMAPYO,香川県,3857,KOFJI,香川県,0,,-
@@ -769,28 +769,28 @@ SPADA,Close the World feat.a☆ru,0,,-,953,N075U,香川県,1917,34.*S2,香川県
 SPADA,Cleopatrysm,0,,-,664,NAKA,香川県,1110,256EXE,香川県,2563,KOFJI,香川県,0,,-
 SPADA,Claiomh Solais,0,,-,173,YKHR,香川県,850,HONO,香川県,2097,ENBRY,香川県,0,,-
 SPADA,BRAVE OUT,0,,-,0,,-,1412,LE,香川県,2121,ENBRY,香川県,0,,-
-SPADA,BRAINSTORM,0,,-,474,HARUU,香川県,1680,K.,香川県,2792,KOFJI,香川県,0,,-
+SPADA,BRAINSTORM,0,,-,474,HARUU,香川県,1685,LE,香川県,2792,KOFJI,香川県,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1220,LASK-,香川県,2066,CORONA,香川県,3379,KOFJI,香川県,0,,-
 SPADA,ATHER,0,,-,649,Y.Y,香川県,1468,LE,香川県,2854,KOFJI,香川県,0,,-
 SPADA,Ancient Scapes,0,,-,1122,LE,香川県,1914,4RSN4L,香川県,3474,KOFJI,香川県,4211,KOFJI,香川県
 SPADA,ALBA -黎明-,0,,-,626,ADB,香川県,1433,TOMY,香川県,3238,KOFJI,香川県,0,,-
 SPADA,Adularia,194,LE,香川県,829,JYOU.,香川県,1783,4RSN4L,香川県,2857,KOFJI,香川県,0,,-
-PENDUAL,Ｘ↑Ｘ↓,0,,-,833,SHELA,香川県,1582,RINGO,香川県,2928,KOFJI,香川県,0,,-
+PENDUAL,Ｘ↑Ｘ↓,0,,-,907,ADB,香川県,1582,RINGO,香川県,2928,KOFJI,香川県,0,,-
 PENDUAL,鬼天,0,,-,971,LE,香川県,1730,KOFJI,香川県,2514,KOFJI,香川県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,902,SHELA,香川県,1987,02GIRI,香川県,2690,KOFJI,香川県,4091,KOFJI,香川県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,1018,GOEBBE,香川県,1876,AREMA,香川県,3577,KOFJI,香川県,0,,-
 PENDUAL,紅牡丹,480,LE,香川県,984,IIDX28,香川県,1619,HOUNAN,香川県,2873,KOFJI,香川県,0,,-
-PENDUAL,白露の風,0,,-,440,SHELA,香川県,1155,LE,香川県,1977,VAN3,香川県,0,,-
+PENDUAL,白露の風,0,,-,440,SHELA,香川県,1155,LE,香川県,1980,NA,香川県,0,,-
 PENDUAL,時空トラベローグ,0,,-,864,NAKA,香川県,1230,SKEB,香川県,2594,ENBRY,香川県,0,,-
-PENDUAL,打打打打打打打打打打,196,H1RO,香川県,685,GURUTO,香川県,1268,TOMY,香川県,2654,KOFJI,香川県,0,,-
+PENDUAL,打打打打打打打打打打,196,H1RO,香川県,685,GURUTO,香川県,1280,VAN73,香川県,2654,KOFJI,香川県,0,,-
 PENDUAL,恋は白帯、サンシロー,0,,-,573,MASA,香川県,1253,4RSN4L,香川県,1953,FTB294,香川県,2730,GNSCCI,香川県
-PENDUAL,少年は空を辿る,0,,-,1195,LE,香川県,2020,NA,香川県,3299,KOFJI,香川県,0,,-
+PENDUAL,少年は空を辿る,0,,-,1195,LE,香川県,2023,NA,香川県,3299,KOFJI,香川県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,896,999,香川県,1524,LE,香川県,2199,KOFJI,香川県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,938,LE,香川県,1742,KT-BEL,香川県,3032,ENBRY,香川県,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),241,LE,香川県,885,999,香川県,1619,4RSN4L,香川県,2194,ENBRY,香川県,0,,-
 PENDUAL,千年ノ理,0,,-,1183,LE,香川県,1887,34.*S2,香川県,3197,KOFJI,香川県,4255,KOFJI,香川県
 PENDUAL,十六夜セツナ,0,,-,640,AFIBRE,香川県,1538,TOMY,香川県,2139,VAN3,香川県,0,,-
-PENDUAL,共鳴遊戯の華,0,,-,1268,TOMY,香川県,2248,4RSN4L,香川県,3837,KOFJI,香川県,0,,-
+PENDUAL,共鳴遊戯の華,0,,-,1268,TOMY,香川県,2374,KYLE.A,香川県,3837,KOFJI,香川県,0,,-
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,834,OJISAN,香川県,2234,4RSN4L,香川県,3318,VAN3,香川県,0,,-
 PENDUAL,ベィスドロップ・フリークス,0,,-,559,NAKA,香川県,1192,4770MA,香川県,2200,ENBRY,香川県,0,,-
 PENDUAL,パ→ピ→プ→Yeah!,373,LE,香川県,1015,LE,香川県,1500,KYLE.A,香川県,2551,KOFJI,香川県,0,,-
@@ -807,7 +807,7 @@ PENDUAL,TIEFSEE,0,,-,958,NAKA,香川県,2080,4RSN4L,香川県,3483,KOFJI,香川�
 PENDUAL,The Least 100sec,0,,-,732,LE,香川県,1238,SYAKIN,香川県,2851,KOFJI,香川県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,1117,LE,香川県,1485,TOMY,香川県,2238,JINJER,香川県,0,,-
 PENDUAL,Symmetry,0,,-,869,LASK-,香川県,1957,34.*S2,香川県,3270,KOFJI,香川県,0,,-
-PENDUAL,Sweet Radar,0,,-,564,NAKA,香川県,1318,02GIRI,香川県,1966,TTT,香川県,0,,-
+PENDUAL,Sweet Radar,0,,-,564,NAKA,香川県,1318,02GIRI,香川県,1973,VAN4,香川県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,780,HONO,香川県,1502,LE,香川県,2872,ENBRY,香川県,0,,-
 PENDUAL,"Sounds Of Summer ",0,,-,1233,LE,香川県,1897,HOUNAN,香川県,2972,KOFJI,香川県,0,,-
 PENDUAL,Shooting Fireball,0,,-,831,LASK-,香川県,2175,4RSN4L,香川県,3891,KOFJI,香川県,0,,-
@@ -837,9 +837,9 @@ PENDUAL,Gravigazer,0,,-,923,LE,香川県,1656,MITA,香川県,3030,KOFJI,香川�
 PENDUAL,Flashes,0,,-,787,K,香川県,1725,TRD*N,香川県,3260,KOFJI,香川県,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,985,K,香川県,1948,HOUNAN,香川県,3208,KOFJI,香川県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1003,PASERI,香川県,1961,4RSN4L,香川県,3421,KOFJI,香川県,0,,-
-PENDUAL,"Erosion Mark  ",0,,-,378,YKHR,香川県,1242,AKIHA,香川県,2125,GNSCCI,香川県,0,,-
+PENDUAL,"Erosion Mark  ",0,,-,378,YKHR,香川県,1261,ARIAXX,香川県,2125,GNSCCI,香川県,0,,-
 PENDUAL,entelecheia,0,,-,999,LE,香川県,2083,VAN3,香川県,3287,KOFJI,香川県,0,,-
-PENDUAL,EBONY & IVORY,0,,-,1039,LE,香川県,1668,NA,香川県,2840,VAN3,香川県,3583,KOFJI,香川県
+PENDUAL,EBONY & IVORY,0,,-,1039,LE,香川県,1668,NA,香川県,2895,ENBRY,香川県,3583,KOFJI,香川県
 PENDUAL,Discloze,0,,-,888,LE,香川県,1362,T.K.C.,香川県,2527,JINJER,香川県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,1207,TOMY,香川県,2295,NA,香川県,4076,KOFJI,香川県,0,,-
 PENDUAL,Cosmic Cat,0,,-,714,NAKA,香川県,1468,4770MA,香川県,2307,KOFJI,香川県,3054,VAN3,香川県
@@ -849,7 +849,7 @@ PENDUAL,Chronos,0,,-,848,LE,香川県,1339,VAN3,香川県,2302,VAN3,香川県,0,
 PENDUAL,Chrono Diver -PENDULUMs-,555,LE,香川県,1386,02GIRI,香川県,2808,KOFJI,香川県,4286,KOFJI,香川県,0,,-
 PENDUAL,CHRONO DIVER -NORNIR-,0,,-,909,NAKA,香川県,2051,LE,香川県,3042,GNSCCI,香川県,4299,KOFJI,香川県
 PENDUAL,chrono diver -fragment-,0,,-,674,TOMY,香川県,1076,4RSN4L,香川県,1771,FTB294,香川県,2218,VAN3,香川県
-PENDUAL,Chain of pain,0,,-,312,HARUU,香川県,1268,IIDX28,香川県,2198,ENBRY,香川県,0,,-
+PENDUAL,Chain of pain,0,,-,312,HARUU,香川県,1268,IIDX28,香川県,2241,KOFJI,香川県,0,,-
 PENDUAL,Broken Sword,0,,-,797,MASA,香川県,2009,4RSN4L,香川県,3711,KOFJI,香川県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,950,ADB,香川県,1675,TACO,香川県,3067,KOFJI,香川県,0,,-
 PENDUAL,Blaze it UP!,0,,-,823,NAKA,香川県,1754,TOMY,香川県,2911,ENBRY,香川県,0,,-
@@ -879,7 +879,7 @@ copula,X,0,,-,1530,LE,香川県,2402,4RSN4L,香川県,3845,KOFJI,香川県,0,,-
 copula,Welcome,0,,-,857,LE,香川県,1706,UMAPYO,香川県,2689,KOFJI,香川県,3327,KOFJI,香川県
 copula,Violet Rose,0,,-,1153,LE,香川県,1931,VAN3,香川県,2583,KOFJI,香川県,0,,-
 copula,Violet Pulse,0,,-,406,LE,香川県,1286,SHELA,香川県,2220,TTT,香川県,0,,-
-copula,Uh-Oh,0,,-,1077,LE,香川県,1641,T,香川県,2412,KOFJI,香川県,0,,-
+copula,Uh-Oh,0,,-,1077,LE,香川県,1641,T,香川県,2419,KOFJI,香川県,0,,-
 copula,Triple Counter,0,,-,1349,LE,香川県,2043,CORONA,香川県,3901,ENBRY,香川県,0,,-
 copula,Tori-no-kimochi,0,,-,254,LE,香川県,1201,LE,香川県,1905,NA,香川県,0,,-
 copula,SURVIVOR,0,,-,694,LE,香川県,1219,LE,香川県,1945,IIDX28,香川県,0,,-
@@ -910,9 +910,9 @@ copula,La dolce primavera,0,,-,694,LE,香川県,1282,LE,香川県,2077,NA,香川
 copula,Konzert V,0,,-,1251,LE,香川県,2096,TTT,香川県,3341,KOFJI,香川県,0,,-
 copula,Journey,0,,-,664,LE,香川県,1197,LE,香川県,1839,VAN3,香川県,3130,KOFJI,香川県
 copula,Inner Spirit,0,,-,847,LE,香川県,1739,VAN4,香川県,2822,KOFJI,香川県,0,,-
-copula,Highcharge Divolt,0,,-,825,LE,香川県,1571,CORONA,香川県,2779,KOFJI,香川県,0,,-
+copula,Highcharge Divolt,0,,-,825,LE,香川県,1571,CORONA,香川県,2782,KOFJI,香川県,0,,-
 copula,Grand Chariot,0,,-,1131,LE,香川県,1589,HOUNAN,香川県,3415,KOFJI,香川県,0,,-
-copula,Godspeed,0,,-,1027,LE,香川県,1755,CORONA,香川県,2951,JINJER,香川県,0,,-
+copula,Godspeed,0,,-,1027,LE,香川県,1755,CORONA,香川県,2972,VAN3,香川県,0,,-
 copula,GOBBLE,0,,-,482,LE,香川県,644,LE,香川県,1701,KOFJI,香川県,0,,-
 copula,Go Faraway,0,,-,994,LE,香川県,1459,4RSN4L,香川県,2397,IIDX28,香川県,0,,-
 copula,Glitch Nerds,0,,-,998,LE,香川県,1379,VAN73,香川県,2107,TM,香川県,0,,-
@@ -922,7 +922,7 @@ copula,Everlasting Last,0,,-,816,LE,香川県,1523,TOMY,香川県,2094,REM,香�
 copula,Dynamite,540,LE,香川県,1137,LE,香川県,2406,NA,香川県,3861,KOFJI,香川県,0,,-
 copula,Donkey Donk,0,,-,1091,LE,香川県,1427,KA3NOK,香川県,2272,KOFJI,香川県,0,,-
 copula,do the thing feat. Kanae Asaba,0,,-,616,LE,香川県,958,NAKA,香川県,2254,JINJER,香川県,0,,-
-copula,DIAMOND CROSSING,0,,-,942,LE,香川県,1647,UMAPYO,香川県,3071,KOFJI,香川県,0,,-
+copula,DIAMOND CROSSING,0,,-,942,LE,香川県,1731,NA,香川県,3071,KOFJI,香川県,0,,-
 copula,Devil's Gear,0,,-,1037,LE,香川県,2025,CORONA,香川県,3406,KOFJI,香川県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,1281,LE,香川県,933,LASK-,香川県,2658,KOFJI,香川県,0,,-
 copula,Damage Per Second,0,,-,865,LE,香川県,1343,TOMY,香川県,1997,VAN4,香川県,2236,VAN3,香川県
@@ -947,7 +947,7 @@ SINOBUZ,火影,0,,-,694,LE,香川県,1326,4RSN4L,香川県,2670,KOFJI,香川県,
 SINOBUZ,津軽雪,0,,-,1483,LE,香川県,1975,MACHI8,香川県,3885,KOFJI,香川県,0,,-
 SINOBUZ,次葉 -turn the page-,0,,-,821,LE,香川県,1402,4RSN4L,香川県,1978,ENBRY,香川県,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,806,LE,香川県,1227,LE,香川県,2093,KOFJI,香川県,0,,-
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,998,LE,香川県,1474,TOMY,香川県,2410,L#1000,香川県,0,,-
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,998,LE,香川県,1474,TOMY,香川県,2414,VAN3,香川県,0,,-
 SINOBUZ,忍恋花,0,,-,970,LE,香川県,1498,HOUNAN,香川県,2241,KOFJI,香川県,0,,-
 SINOBUZ,刃図羅,0,,-,1200,LE,香川県,1917,KT-BEL,香川県,3356,ENBRY,香川県,0,,-
 SINOBUZ,冬椿 ft. Kanae Asaba,258,H1RO,香川県,935,LE,香川県,1199,TOMY,香川県,2237,IIDX28,香川県,2990,ENBRY,香川県
@@ -957,17 +957,17 @@ SINOBUZ,イザナミノナゲキ,0,,-,1182,LE,香川県,1936,NA,香川県,3223,K
 SINOBUZ,ちらちら・はらはら,0,,-,390,LE,香川県,931,LE,香川県,1395,NA,香川県,0,,-
 SINOBUZ,〆,0,,-,1232,LE,香川県,2190,4RSN4L,香川県,3675,KOFJI,香川県,0,,-
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,743,LE,香川県,1329,PASERI,香川県,2872,KOFJI,香川県,0,,-
-SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,909,LE,香川県,1343,SERIKA,香川県,2645,KOFJI,香川県,0,,-
-SINOBUZ,XINOBIKILL,0,,-,970,LE,香川県,1343,YU-R,香川県,2878,KOFJI,香川県,0,,-
+SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,909,LE,香川県,1343,SERIKA,香川県,2647,KOFJI,香川県,0,,-
+SINOBUZ,XINOBIKILL,0,,-,970,LE,香川県,1343,YU-R,香川県,2896,KOFJI,香川県,0,,-
 SINOBUZ,Warrior,0,,-,976,LE,香川県,0,,-,2505,KOFJI,香川県,0,,-
 SINOBUZ,Vermilion,0,,-,848,LE,香川県,984,FIAMMA,香川県,1934,VAN3,香川県,0,,-
 SINOBUZ,Venom,0,,-,1213,LE,香川県,2018,4RSN4L,香川県,3208,KOFJI,香川県,0,,-
 SINOBUZ,Umbral,0,,-,588,LE,香川県,1264,LE,香川県,1833,ANCHAN,香川県,0,,-
-SINOBUZ,TOGAKUSHI,0,,-,968,LE,香川県,1817,UMAPYO,香川県,2597,KOFJI,香川県,0,,-
+SINOBUZ,TOGAKUSHI,0,,-,968,LE,香川県,1817,UMAPYO,香川県,2617,KOFJI,香川県,0,,-
 SINOBUZ,The Commanders,0,,-,933,LE,香川県,1473,M-2-BR,香川県,2440,KOFJI,香川県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,559,TOMY,香川県,1219,LE,香川県,1891,VAN3,香川県,0,,-
 SINOBUZ,Surf on the Light,0,,-,757,LE,香川県,1377,TOMY,香川県,2162,TOMYZ,香川県,0,,-
-SINOBUZ,Super Rush,0,,-,1004,LE,香川県,1808,4RSN4L,香川県,3534,KOFJI,香川県,0,,-
+SINOBUZ,Super Rush,0,,-,1004,LE,香川県,1808,4RSN4L,香川県,3540,KOFJI,香川県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1101,TOMY,香川県,1769,4RSN4L,香川県,3126,KOFJI,香川県,0,,-
 SINOBUZ,Steel Edge,0,,-,905,LE,香川県,1436,34.*S2,香川県,3190,KOFJI,香川県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1086,LE,香川県,2020,UMAPYO,香川県,3434,KOFJI,香川県,0,,-
@@ -982,7 +982,7 @@ SINOBUZ,Sarutobi Champion is 拙者,0,,-,916,LE,香川県,1242,ARIA,香川県,22
 SINOBUZ,SAMURAI-Scramble,0,,-,954,LE,香川県,1554,VAN73,香川県,2410,KOFJI,香川県,0,,-
 SINOBUZ,ROTTERDAM SHOGUN,537,LE,香川県,1102,LE,香川県,1738,KT-BEL,香川県,2572,KOFJI,香川県,0,,-
 SINOBUZ,RISING FIRE HAWK,0,,-,837,LE,香川県,1441,VAN73,香川県,2725,KOFJI,香川県,0,,-
-SINOBUZ,Remedy feat. Kanae Asaba,0,,-,876,LE,香川県,1304,SIO,香川県,2122,JINJER,香川県,0,,-
+SINOBUZ,Remedy feat. Kanae Asaba,0,,-,876,LE,香川県,1509,LE,香川県,2122,JINJER,香川県,0,,-
 SINOBUZ,Rave Cannon,0,,-,1040,LE,香川県,1701,TOMY,香川県,3346,KOFJI,香川県,0,,-
 SINOBUZ,RAIN,0,,-,1134,LE,香川県,1640,T,香川県,3270,KOFJI,香川県,0,,-
 SINOBUZ,Quakes,0,,-,1097,LE,香川県,1836,CORONA,香川県,3189,KOFJI,香川県,0,,-
@@ -1010,7 +1010,7 @@ SINOBUZ,ECHIDNA,0,,-,1216,LE,香川県,1964,4RSN4L,香川県,3376,KOFJI,香川�
 SINOBUZ,DORNWALD ～Junge～,0,,-,1223,LE,香川県,2063,CORONA,香川県,3634,KOFJI,香川県,0,,-
 SINOBUZ,Cyber True Color,0,,-,965,LE,香川県,1303,BAGO,香川県,2334,KOFJI,香川県,0,,-
 SINOBUZ,crew,0,,-,620,LE,香川県,1663,LEMAHU,香川県,2937,KOFJI,香川県,0,,-
-SINOBUZ,Caterpillar,0,,-,1137,LE,香川県,2110,4RSN4L,香川県,3055,KOFJI,香川県,0,,-
+SINOBUZ,Caterpillar,0,,-,1137,LE,香川県,2110,4RSN4L,香川県,3060,KOFJI,香川県,0,,-
 SINOBUZ,BroGamer,0,,-,1314,LE,香川県,2018,SULUME,香川県,3108,KOFJI,香川県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,688,LE,香川県,1277,NAGISA,香川県,2163,NAGISA,香川県,0,,-
 SINOBUZ,BREAK OVER,0,,-,874,LE,香川県,1213,8.9,香川県,2372,KOFJI,香川県,0,,-
@@ -1025,16 +1025,16 @@ SINOBUZ,Apocalypse,0,,-,1127,LE,香川県,1900,999,香川県,3514,KOFJI,香川�
 SINOBUZ,AO-∞,0,,-,1098,LE,香川県,1667,LE,香川県,2649,GNSCCI,香川県,0,,-
 SINOBUZ,Amazing Mirage,368,LE,香川県,878,LE,香川県,1654,4RSN4L,香川県,2642,KOFJI,香川県,3252,KOFJI,香川県
 SINOBUZ,(This Is Not) The Angels,0,,-,573,LE,香川県,1409,ENBRY,香川県,2703,KOFJI,香川県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1123,LE,香川県,1909,4RSN4L,香川県,3421,KOFJI,香川県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1123,LE,香川県,1909,4RSN4L,香川県,3424,KOFJI,香川県,0,,-
 SINOBUZ,!Viva!,0,,-,940,LE,香川県,1558,02GIRI,香川県,2014,KOFJI,香川県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,677,LE,香川県,1180,LE,香川県,2238,VAN3,香川県,0,,-
 CANNON BALLERS,純真可憐デザイア,250,H1RO,香川県,808,LE,香川県,1586,VAN3,香川県,2323,ENBRY,香川県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1359,LE,香川県,2524,GNSCCI,香川県,4003,KOFJI,香川県,0,,-
 CANNON BALLERS,東京神話,465,TOMY,香川県,999,LE,香川県,1665,34.*S2,香川県,2680,VAN3,香川県,0,,-
-CANNON BALLERS,命の標本,0,,-,717,LE,香川県,1593,02GIRI,香川県,2643,KOFJI,香川県,0,,-
+CANNON BALLERS,命の標本,0,,-,717,LE,香川県,1593,02GIRI,香川県,2682,KOFJI,香川県,0,,-
 CANNON BALLERS,共犯へヴンズコード,0,,-,482,LE,香川県,1303,M-2-BR,香川県,2246,KOFJI,香川県,0,,-
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,827,LE,香川県,1467,LE,香川県,2050,TM,香川県,0,,-
-CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1002,LE,香川県,1654,ADB,香川県,2660,GNSCCI,香川県,0,,-
+CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1002,LE,香川県,1676,ADB,香川県,2660,GNSCCI,香川県,0,,-
 CANNON BALLERS,バスルーム ロマンス,0,,-,930,LE,香川県,1022,LASK-,香川県,2447,KOFJI,香川県,0,,-
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,822,LE,香川県,1683,KT-BEL,香川県,2462,GNSCCI,香川県,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,842,LE,香川県,1464,TOMY,香川県,2370,GNSCCI,香川県,0,,-
@@ -1056,7 +1056,7 @@ CANNON BALLERS,SPEED DEMON,0,,-,733,LE,香川県,1392,LE,香川県,2164,TM,香�
 CANNON BALLERS,Slipstream,0,,-,1055,LE,香川県,1991,NA,香川県,3542,KOFJI,香川県,0,,-
 CANNON BALLERS,Sleepless days,0,,-,493,LE,香川県,892,LE,香川県,1572,KOFJI,香川県,0,,-
 CANNON BALLERS,Rise Circuit,0,,-,921,LE,香川県,1305,PASERI,香川県,2323,KOFJI,香川県,0,,-
-CANNON BALLERS,REVOLVER,0,,-,894,LE,香川県,1329,YUZU,香川県,2593,VAN3,香川県,0,,-
+CANNON BALLERS,REVOLVER,0,,-,894,LE,香川県,1420,LE,香川県,2593,VAN3,香川県,0,,-
 CANNON BALLERS,Raspberry Railgun,0,,-,1024,OJISAN,香川県,2035,34.*S2,香川県,3170,KOFJI,香川県,0,,-
 CANNON BALLERS,Rampage,0,,-,1279,LE,香川県,2385,UMAPYO,香川県,3621,KOFJI,香川県,0,,-
 CANNON BALLERS,Persephone,0,,-,1252,LE,香川県,1839,4RSN4L,香川県,3018,KOFJI,香川県,0,,-
@@ -1107,7 +1107,7 @@ CANNON BALLERS,Around the Future,0,,-,1046,LE,香川県,1344,REG,香川県,2639,
 CANNON BALLERS,Arca,0,,-,916,LE,香川県,1694,LE,香川県,3115,KOFJI,香川県,0,,-
 CANNON BALLERS,Antigravity,0,,-,1015,LE,香川県,1932,UMAPYO,香川県,3000,KOFJI,香川県,0,,-
 CANNON BALLERS,ANCHOR,0,,-,1284,LE,香川県,2360,SULA,香川県,3537,KOFJI,香川県,0,,-
-CANNON BALLERS,ANAGMA,0,,-,985,LE,香川県,1645,LE,香川県,2435,VAN4,香川県,0,,-
+CANNON BALLERS,ANAGMA,0,,-,985,LE,香川県,1645,LE,香川県,2617,KOFJI,香川県,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,769,LE,香川県,1326,LE,香川県,2353,KOFJI,香川県,0,,-
 CANNON BALLERS,Alpheratz,0,,-,421,LE,香川県,977,LE,香川県,2036,L#1000,香川県,0,,-
 CANNON BALLERS,Acidiva 303,0,,-,390,AFIBRE,香川県,1275,LE,香川県,2305,KOFJI,香川県,0,,-
@@ -1121,7 +1121,7 @@ Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1094,LE,香川県,2
 Rootage,金野火織の金色提言,0,,-,1231,LE,香川県,2141,KYLE.A,香川県,3058,KOFJI,香川県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,928,LE,香川県,1559,ANCHAN,香川県,2608,KOFJI,香川県,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1166,LE,香川県,1631,HOUNAN,香川県,2742,KOFJI,香川県,0,,-
-Rootage,深愛のリグレット,0,,-,773,LE,香川県,1173,TOMY,香川県,2306,TRD*N,香川県,0,,-
+Rootage,深愛のリグレット,0,,-,773,LE,香川県,1173,TOMY,香川県,2310,NA,香川県,0,,-
 Rootage,泰東ノ翠霞,0,,-,466,LE,香川県,729,TOMY,香川県,1719,VAN3,香川県,0,,-
 Rootage,最小三倍完全数,0,,-,896,LE,香川県,1486,AJIMI,香川県,2447,VAN3,香川県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1276,LE,香川県,2195,PAREJA,香川県,4108,KOFJI,香川県,0,,-
@@ -1152,13 +1152,13 @@ Rootage,U.S.A.,558,H1RO,香川県,1018,LE,香川県,1713,TOMY,香川県,2916,KOF
 Rootage,Twilight Warp,0,,-,913,LE,香川県,1337,LE,香川県,2082,NA,香川県,0,,-
 Rootage,Trill auf G,0,,-,1114,LE,香川県,1902,CORONA,香川県,3215,KOFJI,香川県,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,721,LE,香川県,1477,LE,香川県,2240,VAN3,香川県,0,,-
-Rootage,toy boxer,0,,-,735,LE,香川県,1353,KT-BEL,香川県,2177,GNSCCI,香川県,0,,-
+Rootage,toy boxer,0,,-,735,LE,香川県,1353,KT-BEL,香川県,2180,NA,香川県,0,,-
 Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,812,LE,香川県,1362,LE,香川県,2192,GNSCCI,香川県,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,1130,LE,香川県,1866,4RSN4L,香川県,3093,KOFJI,香川県,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1446,LE,香川県,2169,KT-BEL,香川県,3323,ENBRY,香川県,0,,-
 Rootage,The Best of Both Worlds,0,,-,577,LE,香川県,1269,ADB,香川県,2239,KOFJI,香川県,0,,-
 Rootage,Technicolour Dreams,0,,-,922,LE,香川県,1353,LE,香川県,2331,VAN3,香川県,0,,-
-Rootage,Starry Night,0,,-,887,LE,香川県,1571,LE,香川県,2453,IIDX28,香川県,0,,-
+Rootage,Starry Night,0,,-,887,LE,香川県,1589,4RSN4L,香川県,2453,IIDX28,香川県,0,,-
 Rootage,SPEED ROCKER,0,,-,890,LE,香川県,1499,HOUNAN,香川県,2321,KOFJI,香川県,0,,-
 Rootage,Six String Proof,0,,-,881,LE,香川県,1274,8.9,香川県,2491,ENBRY,香川県,0,,-
 Rootage,SIGMA,0,,-,826,LE,香川県,1464,02GIRI,香川県,2416,VAN27,香川県,0,,-
@@ -1168,14 +1168,14 @@ Rootage,R∞tAge,539,KIKYO,香川県,1061,LE,香川県,1593,4RSN4L,香川県,297
 Rootage,ruin of opals,0,,-,950,LE,香川県,1803,4RSN4L,香川県,3104,KOFJI,香川県,0,,-
 Rootage,ROZA DE ANDALUCIA,0,,-,1255,LE,香川県,1649,GOEBBE,香川県,3051,KOFJI,香川県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1025,LE,香川県,1525,KYLE.A,香川県,2720,KOFJI,香川県,0,,-
-Rootage,REPLAY,0,,-,910,LE,香川県,1462,CORONA,香川県,2264,KOFJI,香川県,0,,-
+Rootage,REPLAY,0,,-,910,LE,香川県,1476,LE,香川県,2264,KOFJI,香川県,0,,-
 Rootage,Red. by Jack Trance,0,,-,1362,LE,香川県,2133,VAN3,香川県,3549,KOFJI,香川県,0,,-
-Rootage,Psycho Sheep Riddim,0,,-,612,LE,香川県,923,LE,香川県,1603,JINJER,香川県,0,,-
+Rootage,Psycho Sheep Riddim,0,,-,612,LE,香川県,923,LE,香川県,1617,VAN3,香川県,0,,-
 Rootage,Please Welcome Mr.C,0,,-,1069,LE,香川県,1723,4RSN4L,香川県,2786,VAN3,香川県,0,,-
 Rootage,Playing With Fire,0,,-,966,LE,香川県,1585,4RSN4L,香川県,2375,KOFJI,香川県,0,,-
-Rootage,Particle Arts,0,,-,853,LE,香川県,1391,PASERI,香川県,2414,VAN3,香川県,0,,-
+Rootage,Particle Arts,0,,-,853,LE,香川県,1537,LE,香川県,2414,VAN3,香川県,0,,-
 Rootage,Painful Fate,0,,-,1187,LE,香川県,2068,34.*S2,香川県,3109,VAN3,香川県,0,,-
-Rootage,OVER TIME,0,,-,562,LE,香川県,935,LE,香川県,1504,VAN4,香川県,0,,-
+Rootage,OVER TIME,0,,-,562,LE,香川県,935,LE,香川県,1509,VAN4,香川県,0,,-
 Rootage,ONIGOROSHI,0,,-,1135,LE,香川県,1765,HOUNAN,香川県,2979,KOFJI,香川県,0,,-
 Rootage,Night! Night! Night!,0,,-,1166,LE,香川県,1698,34.*S2,香川県,3063,KOFJI,香川県,0,,-
 Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,869,LE,香川県,1631,JINJER,香川県,2733,KOFJI,香川県,0,,-
@@ -1204,7 +1204,7 @@ Rootage,Garuda,0,,-,1021,LE,香川県,1465,HOUNAN,香川県,2610,KOFJI,香川県
 Rootage,EVANESCENT,0,,-,1237,LE,香川県,1897,HOUNAN,香川県,3533,KOFJI,香川県,0,,-
 Rootage,Ember Lights,0,,-,924,LE,香川県,1576,VAN4,香川県,2723,KOFJI,香川県,0,,-
 Rootage,DRUNK MONKY,0,,-,913,LE,香川県,1337,NONAME,香川県,2318,KOFJI,香川県,0,,-
-Rootage,Drastic Dramatic,0,,-,1443,LE,香川県,2177,34.*S2,香川県,3483,KOFJI,香川県,0,,-
+Rootage,Drastic Dramatic,0,,-,1443,LE,香川県,2177,34.*S2,香川県,3508,KOFJI,香川県,0,,-
 Rootage,Dr. Chemical & Killing Machine,0,,-,1086,LE,香川県,1607,CHAM,香川県,3380,KOFJI,香川県,0,,-
 Rootage,Digital Skipper,0,,-,953,TOMY,香川県,1407,TOMY,香川県,2083,9-NYA,香川県,0,,-
 Rootage,dAuntl3ss,0,,-,1055,LE,香川県,1797,HOUNAN,香川県,3336,VAN3,香川県,0,,-
@@ -1214,7 +1214,7 @@ Rootage,CoMAAAAAAA,0,,-,1191,LE,香川県,1959,34.*S2,香川県,2408,KOFJI,香�
 Rootage,CODE:0,0,,-,1395,LE,香川県,2056,4RSN4L,香川県,2824,KOFJI,香川県,0,,-
 Rootage,Catch Our Fire!,0,,-,1320,LE,香川県,1935,NYAN*K,香川県,3651,KOFJI,香川県,0,,-
 Rootage,Carry Me Away,0,,-,1056,LE,香川県,1781,4RSN4L,香川県,3187,KOFJI,香川県,0,,-
-Rootage,Carmina,0,,-,1219,LE,香川県,2230,NA,香川県,3777,KOFJI,香川県,0,,-
+Rootage,Carmina,0,,-,1219,LE,香川県,2230,NA,香川県,3779,KOFJI,香川県,0,,-
 Rootage,BLOSSOM,0,,-,1050,LE,香川県,1530,TOMY,香川県,2551,KOFJI,香川県,0,,-
 Rootage,BLACK JACKAL,0,,-,830,LE,香川県,1542,VAN73,香川県,2352,KOFJI,香川県,0,,-
 Rootage,Angels & Demons,0,,-,886,LE,香川県,1489,LE,香川県,2312,FTB294,香川県,0,,-
@@ -1239,7 +1239,7 @@ HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1007,LE,�
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),377,KIKYO,香川県,786,LE,香川県,1409,TOMY,香川県,2331,TM,香川県,0,,-
 HEROIC VERSE,ガヴリールドロップキック,406,LE,香川県,774,LE,香川県,1545,TOMY,香川県,2574,KOFJI,香川県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1071,LE,香川県,1683,4RSN4L,香川県,2903,KOFJI,香川県,0,,-
-HEROIC VERSE,Voo Doo Bamboleo,0,,-,885,LE,香川県,1448,TOMY,香川県,2370,VAN4,香川県,0,,-
+HEROIC VERSE,Voo Doo Bamboleo,0,,-,885,LE,香川県,1448,TOMY,香川県,2418,VAN3,香川県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1052,LE,香川県,1650,SE27,香川県,2967,KOFJI,香川県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,728,LE,香川県,1383,LE,香川県,2142,VAN3,香川県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,894,LE,香川県,1248,LE,香川県,1761,VAN3,香川県,0,,-
@@ -1252,7 +1252,7 @@ HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1359,LE,香川県,2376,UMAPYO,香川県,406
 HEROIC VERSE,TECHNO Style Essentials,0,,-,970,LE,香川県,1568,02GIRI,香川県,2875,KOFJI,香川県,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1305,LE,香川県,1694,VAN4,香川県,3167,KOFJI,香川県,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,758,LE,香川県,1316,LE,香川県,1985,NA,香川県,0,,-
-HEROIC VERSE,Sparkle Smilin',0,,-,893,LE,香川県,1365,TOMY,香川県,2447,KOFJI,香川県,0,,-
+HEROIC VERSE,Sparkle Smilin',0,,-,893,LE,香川県,1437,4RSN4L,香川県,2447,KOFJI,香川県,0,,-
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,966,LE,香川県,1388,LE,香川県,2285,GNSCCI,香川県,0,,-
 HEROIC VERSE,Silly Love,260,KIKYO,香川県,783,LE,香川県,1243,CORONA,香川県,2078,KOFJI,香川県,0,,-
 HEROIC VERSE,Shiva,0,,-,651,LASK-,香川県,1269,KJ.,香川県,2128,KOFJI,香川県,0,,-
@@ -1266,10 +1266,10 @@ HEROIC VERSE,Queen Kaguya,0,,-,954,LE,香川県,1729,MOKA,香川県,2496,VAN3,�
 HEROIC VERSE,Punching Down (IIDX Mix),0,,-,637,LE,香川県,1086,LE,香川県,1875,KOFJI,香川県,0,,-
 HEROIC VERSE,Primitive Vibes,580,TOMY,香川県,1125,LE,香川県,1932,UMAPYO,香川県,3102,KOFJI,香川県,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),321,LE,香川県,501,LE,香川県,1202,GOEBBE,香川県,2072,VAN3,香川県,0,,-
-HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1228,LE,香川県,1652,NB3TCS,香川県,2860,KOFJI,香川県,0,,-
+HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1228,LE,香川県,1652,NB3TCS,香川県,2867,KOFJI,香川県,0,,-
 HEROIC VERSE,Override,0,,-,931,NAGISA,香川県,1526,TOMY,香川県,2917,KOFJI,香川県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,646,LE,香川県,1316,LE,香川県,2041,FTB294,香川県,0,,-
-HEROIC VERSE,Ohayo!,0,,-,913,LE,香川県,1262,SIO,香川県,2404,KOFJI,香川県,0,,-
+HEROIC VERSE,Ohayo!,0,,-,913,LE,香川県,1439,LE,香川県,2404,KOFJI,香川県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,986,LE,香川県,1382,LE,香川県,2661,KOFJI,香川県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,560,LE,香川県,1157,LE,香川県,1930,VAN3,香川県,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,950,LE,香川県,1449,SERIKA,香川県,2572,JINJER,香川県,0,,-
@@ -1292,7 +1292,7 @@ HEROIC VERSE,EXCITE,326,LE,香川県,806,LE,香川県,1285,LE,香川県,2223,KOF
 HEROIC VERSE,Duration,0,,-,520,LE,香川県,996,LE,香川県,1903,34.*S2,香川県,0,,-
 HEROIC VERSE,Drop It,0,,-,1273,LE,香川県,1511,DZF4R,香川県,2777,KOFJI,香川県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,690,LE,香川県,1173,LE,香川県,1955,JINJER,香川県,0,,-
-HEROIC VERSE,Crank It,0,,-,759,02GIRI,香川県,1419,M-2-BR,香川県,2412,JINJER,香川県,0,,-
+HEROIC VERSE,Crank It,0,,-,759,02GIRI,香川県,1423,4RSN4L,香川県,2412,JINJER,香川県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,907,LE,香川県,1582,PSYCHE,香川県,2417,VAN4,香川県,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,925,LE,香川県,1401,LE,香川県,2390,JINJER,香川県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,0,,-,1918,TM,香川県,3111,KOFJI,香川県,0,,-
@@ -1312,7 +1312,7 @@ BISTROVER,水無月の雫 ft. 小林まな,0,,-,1240,KIKYO,香川県,1778,KIKYO,
 BISTROVER,新宝島,524,KIKYO,香川県,778,KIKYO,香川県,1376,KIKYO,香川県,2359,KOFJI,香川県,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1189,KIKYO,香川県,1864,NA,香川県,3862,KOFJI,香川県,0,,-
 BISTROVER,ここからよろしく大作戦143,0,,-,956,KIKYO,香川県,1744,H1RO,香川県,2507,KOFJI,香川県,0,,-
-BISTROVER,∀,603,TOMY,香川県,1294,KIKYO,香川県,2175,4RSN4L,香川県,3517,KOFJI,香川県,0,,-
+BISTROVER,∀,603,TOMY,香川県,1294,KIKYO,香川県,2188,NA,香川県,3517,KOFJI,香川県,0,,-
 BISTROVER,When I Met U,0,,-,876,LE,香川県,1292,KIKYO,香川県,2059,KOFJI,香川県,0,,-
 BISTROVER,WAKE UP NOW,0,,-,950,KIKYO,香川県,1428,KIKYO,香川県,2007,KOFJI,香川県,0,,-
 BISTROVER,Vitrum,0,,-,1078,KIKYO,香川県,1708,KIKYO,香川県,3527,KOFJI,香川県,0,,-
@@ -1349,7 +1349,7 @@ BISTROVER,Empire of Fury,0,,-,1356,KIKYO,香川県,2065,4RSN4L,香川県,3286,KO
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,680,KIKYO,香川県,1279,TOMY,香川県,1861,KOFJI,香川県,0,,-
 BISTROVER,Chewingood!!!,0,,-,863,KIKYO,香川県,1515,KOFJI,香川県,2611,KOFJI,香川県,0,,-
 BISTROVER,Breakin' Rules,0,,-,1276,KIKYO,香川県,1745,4RSN4L,香川県,2726,ENBRY,香川県,0,,-
-BISTROVER,BIGソムタム,0,,-,1248,KIKYO,香川県,1851,TM,香川県,3357,KOFJI,香川県,0,,-
+BISTROVER,BIGソムタム,0,,-,1251,TRD*N,香川県,1864,NA,香川県,3357,KOFJI,香川県,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,776,KIKYO,香川県,1364,KIKYO,香川県,1903,VAN3,香川県,0,,-
 BISTROVER,apo:llioth,0,,-,1204,KIKYO,香川県,2037,4RSN4L,香川県,2977,KOFJI,香川県,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,901,YU-YAN,香川県,1592,KIKYO,香川県,2687,ENBRY,香川県,0,,-
