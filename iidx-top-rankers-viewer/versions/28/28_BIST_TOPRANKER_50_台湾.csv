@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,340,POM#*-,台湾,894,SH!ZO,台湾,1733,OTTER,台湾,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,268,POM#*-,台湾,384,R*RPNT,台湾,0,,-,0,,-
 3rd style,Skyscraper,0,,-,338,LIEN,台湾,1118,R*RPNT,台湾,1190,GENYA,台湾,0,,-
-3rd style,Schlagwerk,0,,-,728,OTLOTL,台湾,1025,FOG,台湾,1646,A-SAM-,台湾,0,,-
+3rd style,Schlagwerk,0,,-,728,OTLOTL,台湾,1108,OTLOTL,台湾,1646,A-SAM-,台湾,0,,-
 3rd style,REINCARNATION,0,,-,515,MOMO,台湾,731,BLO,台湾,1238,TAMAGO,台湾,0,,-
 3rd style,R5,0,,-,745,YOKO.H,台湾,1109,THECRY,台湾,1720,CORGIB,台湾,0,,-
 3rd style,Presto,0,,-,499,POM#*-,台湾,967,KASUMI,台湾,949,YORHA!,台湾,0,,-
@@ -118,7 +118,7 @@
 8th style,symbolic,0,,-,1287,*,台湾,1608,BARRY,台湾,2120,KKORE,台湾,0,,-
 8th style,rainbow flyer,0,,-,0,,-,1532,S,台湾,2075,A-SAM-,台湾,0,,-
 8th style,PLEASE DON'T GO,0,,-,618,MENDOR,台湾,1359,TAMAGO,台湾,2294,RMNBOT,台湾,0,,-
-8th style,MUSIC TO YOUR HEAD,0,,-,729,YOKO.H,台湾,1292,R*RPNT,台湾,1637,CORGIG,台湾,0,,-
+8th style,MUSIC TO YOUR HEAD,0,,-,729,YOKO.H,台湾,1366,R*RPNT,台湾,1637,CORGIG,台湾,0,,-
 8th style,murmur twins,0,,-,950,MENDOR,台湾,1585,NOV.,台湾,2334,A-SAM-,台湾,0,,-
 8th style,Monkey Dance,0,,-,588,SLEEP.,台湾,1313,VY.Y8,台湾,1939,CORGIB,台湾,0,,-
 8th style,memories,0,,-,760,MENDOR,台湾,1882,R*RPNT,台湾,2185,A-SAM-,台湾,0,,-
@@ -458,7 +458,7 @@ SIRIUS,たからもの,0,,-,1235,*,台湾,1807,*,台湾,2217,LASK,台湾,0,,-
 SIRIUS,かずあそび,0,,-,510,POM#*-,台湾,1086,*,台湾,1684,A-SAM-,台湾,0,,-
 SIRIUS,The Story Begins,0,,-,294,SUNNY,台湾,1731,CRSH.0,台湾,2401,OTTER,台湾,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1327,*,台湾,1774,YOKO.H,台湾,2549,CORGIL,台湾,0,,-
-SIRIUS,Special One,0,,-,580,KIKA,台湾,1092,*,台湾,1714,KKORE,台湾,0,,-
+SIRIUS,Special One,0,,-,580,KIKA,台湾,1092,*,台湾,1715,EB199X,台湾,0,,-
 SIRIUS,Sorrows,0,,-,744,R,台湾,1598,S,台湾,2454,A-SAM-,台湾,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,897,OTLOTL,台湾,2193,RYU.,台湾,3491,OTTER,台湾,3551,OTTER,台湾
 SIRIUS,She is my wife,394,POM#*-,台湾,555,R,台湾,1357,KS4728,台湾,1849,THECRY,台湾,0,,-
@@ -692,7 +692,7 @@ tricoro,examination leave,0,,-,863,TAZZZ,台湾,1901,YUNAS1,台湾,3344,A-SAM-,�
 tricoro,Elemental Creation,242,POM#*-,台湾,1260,JENNY*,台湾,2245,RYU.,台湾,3965,OTTER,台湾,0,,-
 tricoro,Devilz Staircase,0,,-,633,POM#*-,台湾,2101,VY.Y8,台湾,3074,A-SAM-,台湾,0,,-
 tricoro,DAY DREAM,0,,-,372,ATK-BV,台湾,1247,TAMAGO,台湾,1872,CORGIG,台湾,0,,-
-tricoro,Cookie Bouquets,0,,-,690,MENDOR,台湾,1987,PA*,台湾,3359,OTTER,台湾,0,,-
+tricoro,Cookie Bouquets,0,,-,690,MENDOR,台湾,2063,EB199X,台湾,3359,OTTER,台湾,0,,-
 tricoro,connective,0,,-,365,POM#*-,台湾,879,AAAAAA,台湾,1546,CORGIL,台湾,0,,-
 tricoro,Confiserie,0,,-,778,CYTANG,台湾,2001,VY.Y8,台湾,3408,LASK,台湾,0,,-
 tricoro,CONCEPTUAL,0,,-,635,KUREHA,台湾,1239,1234,台湾,2608,A-SAM-,台湾,0,,-
@@ -705,13 +705,13 @@ tricoro,405nm (Ryu☆mix),0,,-,907,CRSH.0,台湾,1617,PA*,台湾,2537,LASK,台�
 SPADA,轟け！恋のビーンボール！！,0,,-,889,AAAAAA,台湾,1862,RYU.,台湾,3286,A-SAM-,台湾,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,381,AMAYUN,台湾,1294,OTLOTL,台湾,2475,NOVA,台湾,0,,-
 SPADA,罪と罰,0,,-,868,AAAAAA,台湾,1270,F!5H-D,台湾,2118,CORGIB,台湾,0,,-
-SPADA,疾風迅雷,0,,-,926,AAAAAA,台湾,1861,XIB-YK,台湾,2734,CORGIL,台湾,3247,LASK,台湾
-SPADA,牧神笛吹きて,0,,-,669,OTLOTL,台湾,1228,R*RPNT,台湾,1999,CORGIB,台湾,0,,-
+SPADA,疾風迅雷,0,,-,926,AAAAAA,台湾,1936,ND-H2K,台湾,2734,CORGIL,台湾,3247,LASK,台湾
+SPADA,牧神笛吹きて,0,,-,669,OTLOTL,台湾,1284,R*RPNT,台湾,1999,CORGIB,台湾,0,,-
 SPADA,煉獄のエルフェリア,0,,-,1184,MAX-,台湾,2313,A-SAM-,台湾,3730,OTTER,台湾,0,,-
 SPADA,海神,0,,-,1036,RUKA,台湾,2003,RYU.,台湾,3015,TAMAGO,台湾,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,1128,R,台湾,2365,TAMAGO,台湾,3683,KASUSU,台湾,0,,-
 SPADA,廿,0,,-,738,KROOS!,台湾,1439,POM#*-,台湾,2233,TAMAGO,台湾,3037,A-SAM-,台湾
-SPADA,幻想系世界修復少女,203,POM#*-,台湾,555,AAAAAA,台湾,1103,*,台湾,1886,-BENNY,台湾,0,,-
+SPADA,幻想系世界修復少女,203,POM#*-,台湾,555,AAAAAA,台湾,1103,*,台湾,1896,TAMAGO,台湾,0,,-
 SPADA,バンブーソード・ガール,255,POM#*-,台湾,897,AAAAAA,台湾,1731,------,台湾,2327,A-SAM-,台湾,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,391,K.LINK,台湾,1425,1234,台湾,2635,CORGIG,台湾,0,,-
 SPADA,アルストロメリア,206,ZRSBEE,台湾,760,MENDOR,台湾,1485,R*RPNT,台湾,2333,NOVA,台湾,0,,-
@@ -858,7 +858,7 @@ PENDUAL,Beat Radiance,0,,-,832,R,台湾,1550,*,台湾,2568,RMNBOT,台湾,3470,CO
 PENDUAL,AFRO KNUCKLE,0,,-,759,MENDOR,台湾,1687,POM#*-,台湾,2340,CORGIB,台湾,0,,-
 PENDUAL,#The_Relentless,0,,-,1177,TONG!?,台湾,1894,YORHA!,台湾,2866,OTTER,台湾,0,,-
 copula,麗 ～うらら～,242,R,台湾,953,R,台湾,1701,SHINGO,台湾,2568,FEU,台湾,0,,-
-copula,駅猫のワルツ,0,,-,973,OTLOTL,台湾,1960,TAMAGO,台湾,2677,OTTER,台湾,0,,-
+copula,駅猫のワルツ,0,,-,973,OTLOTL,台湾,1970,TAMAGO,台湾,2677,OTTER,台湾,0,,-
 copula,量子の海のリントヴルム,0,,-,843,*,台湾,1569,R*RPNT,台湾,2877,CORGIG,台湾,0,,-
 copula,追想快晴テーマパーク,0,,-,1033,BANANA,台湾,2040,TAMAGO,台湾,2979,A-SAM-,台湾,0,,-
 copula,紫陽花 -AZISAI-,394,POM#*-,台湾,1200,BARRY,台湾,2037,CORGIB,台湾,2730,A-SAM-,台湾,0,,-
@@ -976,7 +976,7 @@ SINOBUZ,SINOBUZ Fantasy,0,,-,714,S-,台湾,1588,R*RPNT,台湾,2307,TAMAGO,台湾
 SINOBUZ,shuriken,0,,-,586,FST,台湾,1045,SO-NYA,台湾,2405,------,台湾,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,843,JOY-S2,台湾,2149,NOVA,台湾,2835,OTTER,台湾,0,,-
 SINOBUZ,Selfish Sweet,0,,-,299,K*CHAM,台湾,841,KOROMO,台湾,1668,FEU,台湾,0,,-
-SINOBUZ,Seaside Labyrinth,0,,-,437,LOKO,台湾,1222,R*RPNT,台湾,1801,TAMAGO,台湾,0,,-
+SINOBUZ,Seaside Labyrinth,0,,-,437,LOKO,台湾,1242,R*RPNT,台湾,1801,TAMAGO,台湾,0,,-
 SINOBUZ,SAY BAY,0,,-,761,OTLOTL,台湾,1443,TAMAGO,台湾,2693,A-SAM-,台湾,0,,-
 SINOBUZ,Sarutobi Champion is 拙者,0,,-,804,500ACB,台湾,1502,A-SAM-,台湾,2101,CORGIG,台湾,0,,-
 SINOBUZ,SAMURAI-Scramble,0,,-,937,POM#*-,台湾,1656,A-SAM-,台湾,2302,OTTER,台湾,0,,-
@@ -1011,7 +1011,7 @@ SINOBUZ,DORNWALD ～Junge～,0,,-,1234,BARRY,台湾,2040,CRSH.0,台湾,3540,LASK
 SINOBUZ,Cyber True Color,0,,-,952,500ACB,台湾,1512,ND-H2K,台湾,2296,A-SAM-,台湾,0,,-
 SINOBUZ,crew,0,,-,602,PA*,台湾,1691,VY.Y8,台湾,2845,A-SAM-,台湾,0,,-
 SINOBUZ,Caterpillar,0,,-,1174,500ACB,台湾,2134,------,台湾,2875,OTTER,台湾,0,,-
-SINOBUZ,BroGamer,0,,-,1290,PA*,台湾,2002,KS4728,台湾,2998,L1X.-L,台湾,0,,-
+SINOBUZ,BroGamer,0,,-,1290,PA*,台湾,2060,EB199X,台湾,2998,L1X.-L,台湾,0,,-
 SINOBUZ,Breakin' Chain,0,,-,531,CHIKO,台湾,1266,POM#*-,台湾,2223,RINKO.,台湾,0,,-
 SINOBUZ,BREAK OVER,0,,-,751,TSUNA?,台湾,1224,KAKU26,台湾,2311,OTTER,台湾,0,,-
 SINOBUZ,Beyond The Seven,0,,-,529,JIMMYY,台湾,1272,CRSH.0,台湾,2676,OTTER,台湾,0,,-
@@ -1092,7 +1092,7 @@ CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,941,500ACB,�
 CANNON BALLERS,DropZ-Line-,0,,-,1131,GANGA!,台湾,2020,TAMAGO,台湾,2980,LASK,台湾,0,,-
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1248,IIDX72,台湾,2291,TAMAGO,台湾,3762,LASK,台湾,0,,-
 CANNON BALLERS,DEADHEAT,0,,-,1166,POM#*-,台湾,1967,------,台湾,3223,OTTER,台湾,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,401,LWHITE,台湾,1329,SSA*,台湾,2074,CORGIB,台湾,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,401,LWHITE,台湾,1384,EB199X,台湾,2074,CORGIB,台湾,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1220,BARRY,台湾,1739,KS4728,台湾,2602,A-SAM-,台湾,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,746,R,台湾,1356,CORGIE,台湾,2065,LASK,台湾,0,,-
 CANNON BALLERS,ChaserXX,0,,-,813,IIDX28,台湾,1812,------,台湾,2764,OTTER,台湾,0,,-
@@ -1352,7 +1352,7 @@ BISTROVER,Breakin' Rules,0,,-,1254,CORGIB,台湾,1707,SHINGO,台湾,2732,A-SAM-,
 BISTROVER,BIGソムタム,0,,-,1242,CRSH.0,台湾,1871,KKORE,台湾,3276,OTTER,台湾,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,747,500ACB,台湾,1347,KS4728,台湾,1949,LASK,台湾,0,,-
 BISTROVER,apo:llioth,0,,-,1119,ZRSBEE,台湾,2002,PPTP,台湾,2844,KASUSU,台湾,0,,-
-BISTROVER,AMRITA -不滅ノ花-,0,,-,883,S.CAT,台湾,1566,KS4728,台湾,2729,OTTER,台湾,0,,-
+BISTROVER,AMRITA -不滅ノ花-,0,,-,883,S.CAT,台湾,1585,EB199X,台湾,2729,OTTER,台湾,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,680,500ACB,台湾,1324,SSA*,台湾,2075,A-SAM-,台湾,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,930,------,台湾,1490,------,台湾,2574,OTTER,台湾,0,,-
 BISTROVER,3!dolon Forc3,0,,-,947,------,台湾,1555,A-SAM-,台湾,2818,OTTER,台湾,0,,-
