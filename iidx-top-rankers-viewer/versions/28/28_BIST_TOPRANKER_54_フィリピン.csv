@@ -1,9 +1,9 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,0,,-,971,IIDX28,フィリピン,1090,S-RAN,フィリピン,0,,-
 1st&substream,RUGGED ASH,0,,-,0,,-,394,KZSD-!,フィリピン,1034,SELEN*,フィリピン,1933,ZZZZZ,フィリピン
-1st&substream,R3,0,,-,0,,-,0,,-,771,MAYAMA,フィリピン,0,,-
+1st&substream,R3,0,,-,0,,-,0,,-,781,PEKORA,フィリピン,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,275,JSER12,フィリピン,713,KZSD-!,フィリピン,1030,JAMON5,フィリピン,0,,-
-1st&substream,Macho Gang,0,,-,0,,-,1010,KZSD-!,フィリピン,1535,465.,フィリピン,0,,-
+1st&substream,Macho Gang,0,,-,363,465.,フィリピン,1010,KZSD-!,フィリピン,1535,465.,フィリピン,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,90,CIGAR,フィリピン,236,TAKO,フィリピン,0,,-,0,,-
 1st&substream,GRADIUSIC CYBER,0,,-,0,,-,0,,-,1115,TTY*TL,フィリピン,0,,-
 1st&substream,gentle stress,0,,-,0,,-,658,KZSD-!,フィリピン,1404,KMSR,フィリピン,0,,-
@@ -33,7 +33,7 @@
 3rd style,Don't Stop!,0,,-,0,,-,804,KZSD-!,フィリピン,874,OGRCAP,フィリピン,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,298,AAAAAA,フィリピン,1197,TAKO,フィリピン,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,0,,-,0,,-,1259,IIDX28,フィリピン,0,,-
-4th style,SWEET LAB,0,,-,0,,-,816,HAMETN,フィリピン,1196,KZSD-!,フィリピン,0,,-
+4th style,SWEET LAB,0,,-,0,,-,869,HAMETN,フィリピン,1196,KZSD-!,フィリピン,0,,-
 4th style,starmine,442,KZSD-!,フィリピン,0,,-,1358,KZSD-!,フィリピン,1491,TAKO,フィリピン,0,,-
 4th style,Mr.T.(take me higher),0,,-,0,,-,1003,KZSD-!,フィリピン,1660,KZSD-!,フィリピン,0,,-
 4th style,minimalian,0,,-,0,,-,1038,KZSD-!,フィリピン,1317,AA-VIP,フィリピン,0,,-
@@ -48,7 +48,7 @@
 4th style,DXY!,0,,-,0,,-,1682,IIDX28,フィリピン,2146,S-RAN,フィリピン,0,,-
 4th style,Clione,0,,-,0,,-,924,KZSD-!,フィリピン,1535,MRZ,フィリピン,2122,IIDX28,フィリピン
 4th style,CHECKING YOU OUT,0,,-,0,,-,699,KZSD-!,フィリピン,1250,465.,フィリピン,0,,-
-4th style,Burnin' The Floor,0,,-,253,AAAAAA,フィリピン,384,AAAAAA,フィリピン,1373,KZSD-!,フィリピン,0,,-
+4th style,Burnin' The Floor,0,,-,253,AAAAAA,フィリピン,384,AAAAAA,フィリピン,1378,OGRCAP,フィリピン,0,,-
 4th style,Broken My Heart,0,,-,0,,-,0,,-,1752,KMSR,フィリピン,0,,-
 4th style,B4U,0,,-,958,SELEN*,フィリピン,1027,DORO-2,フィリピン,1949,IIDX28,フィリピン,0,,-
 4th style,ABSOLUTE,0,,-,718,RINLIT,フィリピン,1631,89,フィリピン,2253,MRZ,フィリピン,2620,IIDX28,フィリピン
@@ -93,7 +93,7 @@
 7th style,革命,0,,-,702,KZSD-!,フィリピン,1701,IIDX28,フィリピン,2227,465.,フィリピン,0,,-
 7th style,ZERO-ONE,0,,-,353,2T6#,フィリピン,1247,96,フィリピン,2152,465.,フィリピン,0,,-
 7th style,traces,0,,-,1493,KZSD-!,フィリピン,1742,KZSD-!,フィリピン,1972,TINDER,フィリピン,0,,-
-7th style,Tomorrow Perfume,0,,-,1267,KZSD-!,フィリピン,1364,96,フィリピン,1958,TINDER,フィリピン,0,,-
+7th style,Tomorrow Perfume,0,,-,1267,KZSD-!,フィリピン,1679,HAMETN,フィリピン,1958,TINDER,フィリピン,0,,-
 7th style,stoic,0,,-,1612,KZSD-!,フィリピン,1993,SAM,フィリピン,2427,465.,フィリピン,0,,-
 7th style,Spica,0,,-,581,KZSD-!,フィリピン,759,00000,フィリピン,2119,465.,フィリピン,0,,-
 7th style,Love Me Do,0,,-,1045,KZSD-!,フィリピン,1317,CHEGYU,フィリピン,2064,KMSR,フィリピン,0,,-
@@ -139,7 +139,7 @@
 8th style,abstract,0,,-,1241,KZSD-!,フィリピン,1434,E.F-D,フィリピン,1831,KMSR,フィリピン,0,,-
 9th style,真夏の花・真夏の夢,0,,-,820,KZSD-!,フィリピン,0,,-,1419,IIDX28,フィリピン,0,,-
 9th style,ライオン好き,0,,-,632,KZSD-!,フィリピン,1163,KZSD-!,フィリピン,1438,OGRCAP,フィリピン,0,,-
-9th style,SWEETEST SAVAGE,0,,-,637,KZSD-!,フィリピン,0,,-,1722,TINDER,フィリピン,0,,-
+9th style,SWEETEST SAVAGE,0,,-,637,KZSD-!,フィリピン,1244,HAMETN,フィリピン,1722,TINDER,フィリピン,0,,-
 9th style,Sweet Sweet Magic,0,,-,992,KZSD-!,フィリピン,1460,KZSD-!,フィリピン,1902,TINDER,フィリピン,0,,-
 9th style,STAR FIELD,0,,-,674,KZSD-!,フィリピン,1458,KZSD-!,フィリピン,1792,KZSD-!,フィリピン,0,,-
 9th style,SNOW,0,,-,1048,KZSD-!,フィリピン,0,,-,1966,YAGIU,フィリピン,0,,-
@@ -196,7 +196,7 @@
 10th style,CARRY ON NIGHT (English version),0,,-,992,KZSD-!,フィリピン,736,NKORLL,フィリピン,1887,KZSD-!,フィリピン,0,,-
 10th style,Boundary,0,,-,851,KZSD-!,フィリピン,1783,KZSD-!,フィリピン,2007,KMSR,フィリピン,0,,-
 10th style,Back Into The Light,0,,-,1147,KZSD-!,フィリピン,0,,-,2098,IIDX28,フィリピン,0,,-
-10th style,BABY LOVE,0,,-,1157,KZSD-!,フィリピン,0,,-,2063,IIDX28,フィリピン,0,,-
+10th style,BABY LOVE,0,,-,1157,KZSD-!,フィリピン,1118,YURI,フィリピン,2063,IIDX28,フィリピン,0,,-
 10th style,ASTRAL VOYAGE,0,,-,992,KZSD-!,フィリピン,0,,-,1807,IIDX28,フィリピン,0,,-
 10th style,ALIEN TEMPLE,0,,-,967,KZSD-!,フィリピン,0,,-,1914,KMSR,フィリピン,0,,-
 10th style,1st Samurai,0,,-,1050,KZSD-!,フィリピン,1229,96,フィリピン,2542,465.,フィリピン,0,,-
@@ -223,7 +223,7 @@ IIDX RED,FAKE TIME,0,,-,995,KZSD-!,フィリピン,1660,TAKO,フィリピン,227
 IIDX RED,earth scape,0,,-,425,KZSD-!,フィリピン,0,,-,1220,465.,フィリピン,0,,-
 IIDX RED,Don't be afraid myself,0,,-,1086,KZSD-!,フィリピン,1811,KZSD-!,フィリピン,2213,IIDX28,フィリピン,0,,-
 IIDX RED,D.A.N.C.E.!,0,,-,565,KZSD-!,フィリピン,0,,-,1526,ZZZZZ,フィリピン,0,,-
-IIDX RED,Close my Eyes for Me,0,,-,983,KZSD-!,フィリピン,1238,KZSD-!,フィリピン,1650,KZSD-!,フィリピン,0,,-
+IIDX RED,Close my Eyes for Me,0,,-,983,KZSD-!,フィリピン,1238,KZSD-!,フィリピン,1742,465.,フィリピン,0,,-
 IIDX RED,Click Again,0,,-,858,KZSD-!,フィリピン,0,,-,2005,KMSR,フィリピン,0,,-
 IIDX RED,BREATH,0,,-,889,KZSD-!,フィリピン,1007,SA,フィリピン,1623,TTY*TL,フィリピン,0,,-
 IIDX RED,BLOCKS,0,,-,791,KZSD-!,フィリピン,1095,TSU*NA,フィリピン,1877,KMSR,フィリピン,0,,-
@@ -251,9 +251,9 @@ HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1684,KZSD-!,フィリピン,1874,KZS
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1576,KZSD-!,フィリピン,2078,KZSD-!,フィリピン,2945,465.,フィリピン,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,1147,KZSD-!,フィリピン,1602,KZSD-!,フィリピン,1933,465.,フィリピン,0,,-
 HAPPY SKY,rage against usual,0,,-,1283,KZSD-!,フィリピン,1938,KZSD-!,フィリピン,2749,IIDX28,フィリピン,0,,-
-HAPPY SKY,POODLE,0,,-,938,KZSD-!,フィリピン,1331,YS4-R*,フィリピン,2225,IIDX28,フィリピン,3077,K*AMM8,フィリピン
+HAPPY SKY,POODLE,0,,-,938,KZSD-!,フィリピン,1331,YS4-R*,フィリピン,2225,IIDX28,フィリピン,3226,ZZZZZ,フィリピン
 HAPPY SKY,Pollinosis,0,,-,761,KZSD-!,フィリピン,816,00000,フィリピン,2367,465.,フィリピン,0,,-
-HAPPY SKY,PLASMA,0,,-,928,KZSD-!,フィリピン,0,,-,2207,IIDX28,フィリピン,0,,-
+HAPPY SKY,PLASMA,0,,-,928,KZSD-!,フィリピン,1497,CPU69,フィリピン,2207,IIDX28,フィリピン,0,,-
 HAPPY SKY,Pink Rose,0,,-,564,KZSD-!,フィリピン,940,KZSD-!,フィリピン,1404,YAGIU,フィリピン,0,,-
 HAPPY SKY,MOON RACE,0,,-,831,KZSD-!,フィリピン,0,,-,1815,465.,フィリピン,0,,-
 HAPPY SKY,Love Magic,0,,-,948,KZSD-!,フィリピン,0,,-,1856,ZZZZZ,フィリピン,0,,-
@@ -292,7 +292,7 @@ DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1200,KZSD-!,フィリ
 DistorteD,This is Love,0,,-,923,KZSD-!,フィリピン,0,,-,2341,DANABL,フィリピン,0,,-
 DistorteD,The Dirty of Loudness,0,,-,1405,KZSD-!,フィリピン,2138,KMSR,フィリピン,2522,465.,フィリピン,0,,-
 DistorteD,Sun Field,0,,-,556,KZSD-!,フィリピン,0,,-,2313,465.,フィリピン,0,,-
-DistorteD,So Fabulous !!,0,,-,1087,KZSD-!,フィリピン,1390,HAMETN,フィリピン,2209,TTY*TL,フィリピン,0,,-
+DistorteD,So Fabulous !!,0,,-,1087,KZSD-!,フィリピン,1390,HAMETN,フィリピン,2248,465.,フィリピン,0,,-
 DistorteD,Power of Love,0,,-,1005,KZSD-!,フィリピン,0,,-,1988,JAMON5,フィリピン,0,,-
 DistorteD,MOON,0,,-,840,KZSD-!,フィリピン,1923,KZSD-!,フィリピン,2108,465.,フィリピン,0,,-
 DistorteD,MINT,0,,-,959,KZSD-!,フィリピン,1658,KZSD-!,フィリピン,2237,IIDX28,フィリピン,0,,-
@@ -317,7 +317,7 @@ GOLD,電人、暁に斃れる。,642,KZSD-!,フィリピン,1489,KZSD-!,フィ�
 GOLD,零 - ZERO -,218,KZSD-!,フィリピン,1165,KZSD-!,フィリピン,1636,84*,フィリピン,2228,ZZZZZ,フィリピン,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,702,KZSD-!,フィリピン,672,KUMAMI,フィリピン,1362,TINDER,フィリピン,0,,-
 GOLD,星をこの手に,0,,-,1176,KZSD-!,フィリピン,1242,MH-KT1,フィリピン,2041,KZSD-!,フィリピン,0,,-
-GOLD,リグレット,0,,-,1267,KZSD-!,フィリピン,1547,TSU*NA,フィリピン,2366,KMSR,フィリピン,0,,-
+GOLD,リグレット,0,,-,1267,KZSD-!,フィリピン,1564,84*,フィリピン,2366,KMSR,フィリピン,0,,-
 GOLD,ヨシダさん,0,,-,886,KZSD-!,フィリピン,1362,SR-OUI,フィリピン,1933,KMSR,フィリピン,0,,-
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,426,KZSD-!,フィリピン,947,KZSD-!,フィリピン,1374,84*,フィリピン,2164,KMSR,フィリピン,0,,-
 GOLD,With your Smile,0,,-,707,KZSD-!,フィリピン,839,SHIRON,フィリピン,1534,KMSR,フィリピン,0,,-
@@ -341,12 +341,12 @@ GOLD,LASER CRUSTER,0,,-,1399,KZSD-!,フィリピン,2118,OGRCAP,フィリピン,
 GOLD,KAMAITACHI,0,,-,1242,KZSD-!,フィリピン,1959,KZSD-!,フィリピン,2633,IIDX28,フィリピン,3699,IIDX28,フィリピン
 GOLD,INORI,0,,-,1304,KZSD-!,フィリピン,2107,84*,フィリピン,3044,465.,フィリピン,0,,-
 GOLD,High School Love,399,KZSD-!,フィリピン,849,KZSD-!,フィリピン,0,,-,2135,ZZZZZ,フィリピン,0,,-
-GOLD,heaven above,0,,-,796,KZSD-!,フィリピン,833,MUGEN3,フィリピン,1764,JAMON5,フィリピン,0,,-
+GOLD,heaven above,0,,-,796,KZSD-!,フィリピン,1179,84*,フィリピン,1764,JAMON5,フィリピン,0,,-
 GOLD,GRID KNIGHT,0,,-,801,KZSD-!,フィリピン,1918,KZSD-!,フィリピン,2549,KMSR,フィリピン,3328,INU!!!,フィリピン
 GOLD,GOLD RUSH,557,KZSD-!,フィリピン,590,GIN63,フィリピン,1453,KZSD-!,フィリピン,2262,INU!!!,フィリピン,0,,-
 GOLD,four-leaf,0,,-,750,KZSD-!,フィリピン,659,00000,フィリピン,1702,YAGIU,フィリピン,0,,-
 GOLD,FIRE FIRE,569,KZSD-!,フィリピン,1133,KZSD-!,フィリピン,1673,MAYAMA,フィリピン,2598,ZZZZZ,フィリピン,0,,-
-GOLD,Fascination MAXX,0,,-,760,TAKO,フィリピン,1553,E.F-D,フィリピン,2286,INU!!!,フィリピン,0,,-
+GOLD,Fascination MAXX,0,,-,760,TAKO,フィリピン,1553,E.F-D,フィリピン,2298,INU!!!,フィリピン,0,,-
 GOLD,Cyber Force,0,,-,1225,KZSD-!,フィリピン,1879,KZSD-!,フィリピン,2308,IIDX28,フィリピン,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,1107,KZSD-!,フィリピン,1737,KZSD-!,フィリピン,2170,YAGIU,フィリピン,0,,-
 GOLD,CaptivAte～誓い～,0,,-,1314,KZSD-!,フィリピン,1889,KZSD-!,フィリピン,2185,KZSD-!,フィリピン,0,,-
@@ -361,7 +361,7 @@ DJ TROOPERS,少年A,0,,-,1098,KZSD-!,フィリピン,1899,KZSD-!,フィリピン
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,1077,KZSD-!,フィリピン,0,,-,2394,OGRCAP,フィリピン,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,800,KZSD-!,フィリピン,0,,-,1745,KZSD-!,フィリピン,0,,-
 DJ TROOPERS,エコ爺,323,KZSD-!,フィリピン,820,KZSD-!,フィリピン,0,,-,1774,VRCHAT,フィリピン,0,,-
-DJ TROOPERS,Wanna Party?,0,,-,754,KZSD-!,フィリピン,0,,-,1488,KZSD-!,フィリピン,2542,KMSR,フィリピン
+DJ TROOPERS,Wanna Party?,0,,-,754,KZSD-!,フィリピン,1081,84*,フィリピン,1488,KZSD-!,フィリピン,2542,KMSR,フィリピン
 DJ TROOPERS,Ubertreffen,0,,-,1038,KZSD-!,フィリピン,1650,SAM,フィリピン,2425,465.,フィリピン,3216,IIDX28,フィリピン
 DJ TROOPERS,TROOPERS,0,,-,1185,KZSD-!,フィリピン,2190,866-4.,フィリピン,2822,INU!!!,フィリピン,0,,-
 DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,665,KZSD-!,フィリピン,1483,KMSR,フィリピン,1594,AA-VIP,フィリピン,0,,-
@@ -374,7 +374,7 @@ DJ TROOPERS,State Of The Art,0,,-,1070,KZSD-!,フィリピン,1137,SA,フィリ�
 DJ TROOPERS,SOUND OF GIALLARHORN,498,KZSD-!,フィリピン,1316,KZSD-!,フィリピン,2437,KZSD-!,フィリピン,3197,465.,フィリピン,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,786,KZSD-!,フィリピン,1405,AA-VIP,フィリピン,2298,TINDER,フィリピン,0,,-
 DJ TROOPERS,scar in the earth,0,,-,647,KZSD-!,フィリピン,0,,-,1447,465.,フィリピン,0,,-
-DJ TROOPERS,satfinal,0,,-,1037,KZSD-!,フィリピン,1086,96,フィリピン,1826,AA-VIP,フィリピン,0,,-
+DJ TROOPERS,satfinal,0,,-,1037,KZSD-!,フィリピン,1350,84*,フィリピン,1826,AA-VIP,フィリピン,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1315,KZSD-!,フィリピン,1493,MYO*MY,フィリピン,2216,PEKORA,フィリピン,0,,-
 DJ TROOPERS,Ristaccia,0,,-,1159,KZSD-!,フィリピン,1559,84*,フィリピン,2618,KMSR,フィリピン,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1244,KZSD-!,フィリピン,1590,SR-OUI,フィリピン,2283,IIDX28,フィリピン,0,,-
@@ -385,12 +385,12 @@ DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,1005,KZSD-!,
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,1143,KZSD-!,フィリピン,2093,KZSD-!,フィリピン,2565,TTY*TL,フィリピン,0,,-
 DJ TROOPERS,MENDES,0,,-,1125,KZSD-!,フィリピン,2229,CPU69,フィリピン,3446,IIDX28,フィリピン,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,1394,KZSD-!,フィリピン,1986,AFRICA,フィリピン,2598,KMSR,フィリピン,0,,-
-DJ TROOPERS,madrugada,0,,-,710,KZSD-!,フィリピン,0,,-,1736,JAMON5,フィリピン,0,,-
+DJ TROOPERS,madrugada,0,,-,710,KZSD-!,フィリピン,1088,84*,フィリピン,1736,JAMON5,フィリピン,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,1322,KZSD-!,フィリピン,2078,KZSD-!,フィリピン,2647,OGRCAP,フィリピン,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1148,KZSD-!,フィリピン,0,,-,1940,KMSR,フィリピン,0,,-
 DJ TROOPERS,in the Sky,0,,-,1321,KZSD-!,フィリピン,2047,TAKO,フィリピン,2472,INU!!!,フィリピン,0,,-
 DJ TROOPERS,ICARUS,0,,-,1178,KZSD-!,フィリピン,1809,OGRCAP,フィリピン,2236,465.,フィリピン,3347,465.,フィリピン
-DJ TROOPERS,Freeway Shuffle,338,KZSD-!,フィリピン,796,KZSD-!,フィリピン,623,UIICHI,フィリピン,1774,TINDER,フィリピン,0,,-
+DJ TROOPERS,Freeway Shuffle,338,KZSD-!,フィリピン,796,KZSD-!,フィリピン,1083,SR-OUI,フィリピン,1774,TINDER,フィリピン,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,900,KZSD-!,フィリピン,1336,SAM,フィリピン,2188,465.,フィリピン,0,,-
 DJ TROOPERS,end of world,0,,-,1006,KZSD-!,フィリピン,1733,KZSD-!,フィリピン,2289,TINDER,フィリピン,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,846,KZSD-!,フィリピン,1334,CPU69,フィリピン,1810,465.,フィリピン,0,,-
@@ -414,7 +414,7 @@ EMPRESS,ミッドナイト堕天使,0,,-,969,KZSD-!,フィリピン,957,KUMAMI,�
 EMPRESS,ハリツヤランデヴー,0,,-,945,KZSD-!,フィリピン,2046,TAKO,フィリピン,2419,465.,フィリピン,0,,-
 EMPRESS,まほろば,0,,-,761,IIDX28,フィリピン,950,MUGEN3,フィリピン,1967,ZZZZZ,フィリピン,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1163,KZSD-!,フィリピン,1129,96,フィリピン,2433,IIDX28,フィリピン,0,,-
-EMPRESS,Y&Co. is dead or alive,0,,-,997,KZSD-!,フィリピン,1481,84*,フィリピン,2309,TAKO,フィリピン,0,,-
+EMPRESS,Y&Co. is dead or alive,0,,-,997,KZSD-!,フィリピン,1481,84*,フィリピン,2538,INU!!!,フィリピン,0,,-
 EMPRESS,V2,749,KZSD-!,フィリピン,1417,KZSD-!,フィリピン,3132,IIDX28,フィリピン,3401,ZZZZZ,フィリピン,0,,-
 EMPRESS,Turii ～Panta rhei～,366,KZSD-!,フィリピン,883,KZSD-!,フィリピン,1593,96,フィリピン,2511,TAKO,フィリピン,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,777,KZSD-!,フィリピン,1184,CHEGYU,フィリピン,1960,MRZ,フィリピン,2813,KMSR,フィリピン
@@ -461,7 +461,7 @@ SIRIUS,THE LAST STRIKER,0,,-,1375,KZSD-!,フィリピン,1576,MYO*MY,フィリ�
 SIRIUS,Special One,0,,-,847,KZSD-!,フィリピン,0,,-,1671,KZSD-!,フィリピン,0,,-
 SIRIUS,Sorrows,0,,-,775,KZSD-!,フィリピン,1578,84*,フィリピン,2431,INU!!!,フィリピン,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,990,KZSD-!,フィリピン,2050,KZSD-!,フィリピン,3442,IIDX28,フィリピン,3426,ZZZZZ,フィリピン
-SIRIUS,She is my wife,390,KZSD-!,フィリピン,671,KZSD-!,フィリピン,1160,IIDX28,フィリピン,1803,KZSD-!,フィリピン,0,,-
+SIRIUS,She is my wife,390,KZSD-!,フィリピン,671,KZSD-!,フィリピン,1160,IIDX28,フィリピン,1850,INU!!!,フィリピン,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,827,KZSD-!,フィリピン,1140,84*,フィリピン,2363,465.,フィリピン,0,,-
 SIRIUS,Roots of my way!,0,,-,850,KZSD-!,フィリピン,0,,-,1952,ZZZZZ,フィリピン,0,,-
 SIRIUS,Red. by Full Metal Jacket,0,,-,997,KZSD-!,フィリピン,1934,866-4.,フィリピン,3000,INU!!!,フィリピン,0,,-
@@ -498,7 +498,7 @@ SIRIUS,BEAUTIFUL ANGEL,0,,-,623,KZSD-!,フィリピン,1676,KZSD-!,フィリピ�
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,934,KZSD-!,フィリピン,1523,KZSD-!,フィリピン,1941,ZZZZZ,フィリピン,0,,-
 SIRIUS,bass 2 bass,276,KZSD-!,フィリピン,710,KZSD-!,フィリピン,1261,KZSD-!,フィリピン,1800,INU!!!,フィリピン,0,,-
 SIRIUS,Bad Maniacs,0,,-,1238,KZSD-!,フィリピン,1777,SELEN*,フィリピン,3156,IIDX28,フィリピン,0,,-
-SIRIUS,Almagest,0,,-,975,KZSD-!,フィリピン,2054,ZZZZZ,フィリピン,2960,ZZZZZ,フィリピン,0,,-
+SIRIUS,Almagest,0,,-,975,KZSD-!,フィリピン,2054,ZZZZZ,フィリピン,2974,465.,フィリピン,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,544,KZSD-!,フィリピン,1149,KZSD-!,フィリピン,1495,84*,フィリピン,2222,465.,フィリピン,2848,IIDX28,フィリピン
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,803,KZSD-!,フィリピン,2019,KZSD-!,フィリピン,3237,ZZZZZ,フィリピン,0,,-
 Resort Anthem,灼熱Beach Side Bunny,564,KZSD-!,フィリピン,1027,KZSD-!,フィリピン,1825,KMSR,フィリピン,2758,INU!!!,フィリピン,0,,-
@@ -515,7 +515,7 @@ Resort Anthem,Watch Out Pt.2,0,,-,1088,KZSD-!,フィリピン,1770,TAKO,フィ�
 Resort Anthem,Vermillion,0,,-,535,KZSD-!,フィリピン,0,,-,1953,KZSD-!,フィリピン,0,,-
 Resort Anthem,Tropical April,0,,-,1571,KZSD-!,フィリピン,2232,KZSD-!,フィリピン,2651,465.,フィリピン,0,,-
 Resort Anthem,THE FALLEN,0,,-,897,KZSD-!,フィリピン,1219,KY0K!N,フィリピン,2533,ZZZZZ,フィリピン,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,784,KZSD-!,フィリピン,946,DORO-2,フィリピン,1942,OGRCAP,フィリピン,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,784,KZSD-!,フィリピン,1549,HAMETN,フィリピン,1942,OGRCAP,フィリピン,0,,-
 Resort Anthem,THE BLACK KNIGHT,0,,-,910,KZSD-!,フィリピン,1933,KZSD-!,フィリピン,2802,465.,フィリピン,0,,-
 Resort Anthem,STELLAR WIND,384,KZSD-!,フィリピン,633,KZSD-!,フィリピン,1473,IIDX28,フィリピン,2598,IIDX28,フィリピン,0,,-
 Resort Anthem,Stay my side,0,,-,630,KZSD-!,フィリピン,1040,IIDX28,フィリピン,1316,KZSD-!,フィリピン,0,,-
@@ -524,7 +524,7 @@ Resort Anthem,Space Time,0,,-,608,KZSD-!,フィリピン,1522,84*,フィリピ�
 Resort Anthem,Session 9 -Chronicles-,0,,-,740,KZSD-!,フィリピン,2342,KZSD-!,フィリピン,3448,465.,フィリピン,0,,-
 Resort Anthem,sakura storm,0,,-,1030,KZSD-!,フィリピン,1218,84*,フィリピン,2263,INU!!!,フィリピン,0,,-
 Resort Anthem,Sakura Reflection,0,,-,475,KZSD-!,フィリピン,1506,MH-KT1,フィリピン,2285,ZZZZZ,フィリピン,0,,-
-Resort Anthem,SABER WING,0,,-,435,KZSD-!,フィリピン,1683,MAYAMA,フィリピン,2686,465.,フィリピン,0,,-
+Resort Anthem,SABER WING,0,,-,435,KZSD-!,フィリピン,1683,MAYAMA,フィリピン,2709,465.,フィリピン,0,,-
 Resort Anthem,Rock Da House,0,,-,891,KZSD-!,フィリピン,1535,OGRCAP,フィリピン,2159,TTY*TL,フィリピン,0,,-
 Resort Anthem,reunion,558,KZSD-!,フィリピン,1348,KZSD-!,フィリピン,2227,TAKO,フィリピン,3070,465.,フィリピン,0,,-
 Resort Anthem,Programmed Life,0,,-,1089,KZSD-!,フィリピン,0,,-,2226,TTY*TL,フィリピン,0,,-
@@ -537,7 +537,7 @@ Resort Anthem,Mermaid girl,573,KZSD-!,フィリピン,974,KZSD-!,フィリピン
 Resort Anthem,Medicine of love,0,,-,641,KZSD-!,フィリピン,0,,-,1687,ZZZZZ,フィリピン,0,,-
 Resort Anthem,Let The Track Flow,0,,-,1099,KZSD-!,フィリピン,1680,KZSD-!,フィリピン,2528,465.,フィリピン,0,,-
 Resort Anthem,Kailua,0,,-,513,KZSD-!,フィリピン,1265,KZSD-!,フィリピン,2029,465.,フィリピン,0,,-
-Resort Anthem,I FIGHT ME,0,,-,617,KZSD-!,フィリピン,1031,96,フィリピン,2089,KMSR,フィリピン,0,,-
+Resort Anthem,I FIGHT ME,0,,-,617,KZSD-!,フィリピン,1245,MH-KT1,フィリピン,2089,KMSR,フィリピン,0,,-
 Resort Anthem,Golden Palms,0,,-,745,KZSD-!,フィリピン,1385,KZSD-!,フィリピン,1885,TAKO,フィリピン,2239,ZZZZZ,フィリピン
 Resort Anthem,Fantasia,236,KZSD-!,フィリピン,397,KZSD-!,フィリピン,1494,KZSD-!,フィリピン,2179,SELEN*,フィリピン,0,,-
 Resort Anthem,Everlasting Resort,0,,-,874,KZSD-!,フィリピン,0,,-,1734,JAMON5,フィリピン,0,,-
@@ -552,7 +552,7 @@ Resort Anthem,Broken,0,,-,1057,KZSD-!,フィリピン,1971,KZSD-!,フィリピ�
 Resort Anthem,Breaking the ground,0,,-,1171,KZSD-!,フィリピン,1717,HAMETN,フィリピン,2360,PEKORA,フィリピン,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,1049,KZSD-!,フィリピン,1629,KZSD-!,フィリピン,2316,ZZZZZ,フィリピン,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,818,KZSD-!,フィリピン,1567,KZSD-!,フィリピン,2052,KMSR,フィリピン,0,,-
-Resort Anthem,Believe In Me,0,,-,1030,KZSD-!,フィリピン,1812,KZSD-!,フィリピン,2271,ZZZZZ,フィリピン,0,,-
+Resort Anthem,Believe In Me,0,,-,1030,KZSD-!,フィリピン,1812,KZSD-!,フィリピン,2342,465.,フィリピン,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,961,KZSD-!,フィリピン,1900,KZSD-!,フィリピン,2882,IIDX28,フィリピン,0,,-
 Resort Anthem,Answer,0,,-,772,KZSD-!,フィリピン,1233,SAM,フィリピン,2337,INU!!!,フィリピン,0,,-
 Resort Anthem,ALBIDA,531,KZSD-!,フィリピン,1092,KZSD-!,フィリピン,1845,TAKO,フィリピン,2913,IIDX28,フィリピン,0,,-
@@ -574,9 +574,9 @@ Lincle,YAKSHA,0,,-,1227,KZSD-!,フィリピン,2225,KZSD-!,フィリピン,3805,
 Lincle,WONDER WALKER,0,,-,967,KZSD-!,フィリピン,1817,HAMETN,フィリピン,3723,IIDX28,フィリピン,0,,-
 Lincle,Voxane,0,,-,609,KZSD-!,フィリピン,0,,-,1664,KMSR,フィリピン,0,,-
 Lincle,Todestrieb,0,,-,1094,KZSD-!,フィリピン,1794,AA-VIP,フィリピン,3337,IIDX28,フィリピン,0,,-
-Lincle,TITANS RETURN,313,KZSD-!,フィリピン,625,KZSD-!,フィリピン,1490,84*,フィリピン,2400,465.,フィリピン,2338,SEIKIN,フィリピン
+Lincle,TITANS RETURN,313,KZSD-!,フィリピン,625,KZSD-!,フィリピン,1490,84*,フィリピン,2400,465.,フィリピン,2338,VVV,フィリピン
 Lincle,Thunderbolt,0,,-,1019,KZSD-!,フィリピン,1710,IIDX28,フィリピン,3540,465.,フィリピン,0,,-
-Lincle,The Sampling Paradise,0,,-,839,KZSD-!,フィリピン,1491,SEIKIN,フィリピン,2822,ZZZZZ,フィリピン,0,,-
+Lincle,The Sampling Paradise,0,,-,839,KZSD-!,フィリピン,1491,VVV,フィリピン,2822,ZZZZZ,フィリピン,0,,-
 Lincle,The Limbo,0,,-,1173,KZSD-!,フィリピン,1750,AFRICA,フィリピン,3236,IIDX28,フィリピン,0,,-
 Lincle,Star Trail,0,,-,643,KZSD-!,フィリピン,0,,-,1788,KZSD-!,フィリピン,0,,-
 Lincle,Snow Goose,284,KZSD-!,フィリピン,363,KZSD-!,フィリピン,875,CIGAR,フィリピン,2309,ZZZZZ,フィリピン,0,,-
@@ -584,7 +584,7 @@ Lincle,Snake Stick,0,,-,1026,KZSD-!,フィリピン,1852,ZZZZZ,フィリピン,2
 Lincle,SHADE,0,,-,1056,KZSD-!,フィリピン,1714,HAMETN,フィリピン,2843,IIDX28,フィリピン,0,,-
 Lincle,Several Words,0,,-,636,KZSD-!,フィリピン,1257,SR-OUI,フィリピン,2090,TINDER,フィリピン,0,,-
 Lincle,Scharfrichter,0,,-,873,KZSD-!,フィリピン,1502,FLOWEY,フィリピン,2755,465.,フィリピン,0,,-
-Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,476,KZSD-!,フィリピン,1012,KTT,フィリピン,1539,KZSD-!,フィリピン,0,,-
+Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,476,KZSD-!,フィリピン,1012,KTT,フィリピン,1648,KMSR,フィリピン,0,,-
 Lincle,Round and Round,0,,-,699,NYA0Z-,フィリピン,0,,-,2092,VRCHAT,フィリピン,0,,-
 Lincle,RESISTANCE,0,,-,625,KZSD-!,フィリピン,1260,84*,フィリピン,2332,IIDX28,フィリピン,0,,-
 Lincle,Release The Music,0,,-,826,KZSD-!,フィリピン,0,,-,2013,KZSD-!,フィリピン,0,,-
@@ -597,7 +597,7 @@ Lincle,NNRT,0,,-,1233,KZSD-!,フィリピン,2346,SELEN*,フィリピン,3308,KM
 Lincle,Miami Sunset Drive,0,,-,632,KZSD-!,フィリピン,1020,EGG!?,フィリピン,1555,KZSD-!,フィリピン,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,815,KZSD-!,フィリピン,1235,IIDX28,フィリピン,2036,IIDX28,フィリピン,0,,-
 Lincle,Lucky Days,0,,-,652,KZSD-!,フィリピン,1479,KMSR,フィリピン,2161,IIDX28,フィリピン,0,,-
-Lincle,LOVE B.B.B,0,,-,768,KZSD-!,フィリピン,1183,SA,フィリピン,1942,A-MIT2,フィリピン,0,,-
+Lincle,LOVE B.B.B,0,,-,768,KZSD-!,フィリピン,1214,PRIM,フィリピン,1942,A-MIT2,フィリピン,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,395,KZSD-!,フィリピン,0,,-,1950,KMSR,フィリピン,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,964,KZSD-!,フィリピン,1462,IIDX28,フィリピン,2157,ZZZZZ,フィリピン,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1056,KZSD-!,フィリピン,2064,KZSD-!,フィリピン,2699,TINDER,フィリピン,0,,-
@@ -678,7 +678,7 @@ tricoro,Little Star,0,,-,946,KZSD-!,フィリピン,1623,84*,フィリピン,297
 tricoro,Light and Cyber…,0,,-,1026,KZSD-!,フィリピン,1979,KZSD-!,フィリピン,3008,465.,フィリピン,0,,-
 tricoro,Liberation,0,,-,1475,KZSD-!,フィリピン,2153,KZSD-!,フィリピン,3580,465.,フィリピン,0,,-
 tricoro,JOMANDA,215,KZSD-!,フィリピン,825,KZSD-!,フィリピン,2234,TAKO,フィリピン,3448,465.,フィリピン,0,,-
-tricoro,In Heaven,0,,-,764,KZSD-!,フィリピン,934,JSER12,フィリピン,2092,IIDX28,フィリピン,0,,-
+tricoro,In Heaven,0,,-,764,KZSD-!,フィリピン,1239,PRIM,フィリピン,2092,IIDX28,フィリピン,0,,-
 tricoro,Illegal Function Call,0,,-,965,KZSD-!,フィリピン,1696,LESYEF,フィリピン,2476,465.,フィリピン,0,,-
 tricoro,ILIAS,0,,-,800,KZSD-!,フィリピン,760,CIGAR,フィリピン,2136,IIDX28,フィリピン,0,,-
 tricoro,I know You know,0,,-,599,KZSD-!,フィリピン,0,,-,1747,K*AMM8,フィリピン,0,,-
@@ -698,9 +698,9 @@ tricoro,Confiserie,0,,-,933,KZSD-!,フィリピン,2015,TAKO,フィリピン,339
 tricoro,CONCEPTUAL,0,,-,824,KZSD-!,フィリピン,0,,-,2587,ZZZZZ,フィリピン,0,,-
 tricoro,BRAVE GLOW,0,,-,814,KZSD-!,フィリピン,1594,KZSD-!,フィリピン,2340,SELEN*,フィリピン,0,,-
 tricoro,BLUE STRAGGLER,0,,-,827,KZSD-!,フィリピン,0,,-,2423,465.,フィリピン,0,,-
-tricoro,Beastie Starter,0,,-,534,KZSD-!,フィリピン,1154,TAKO,フィリピン,2024,TTY*TL,フィリピン,0,,-
+tricoro,Beastie Starter,0,,-,534,KZSD-!,フィリピン,1260,INU!!!,フィリピン,2024,TTY*TL,フィリピン,0,,-
 tricoro,Ascalon,0,,-,1122,KZSD-!,フィリピン,1363,DORO-2,フィリピン,2197,TINDER,フィリピン,0,,-
-tricoro,8bit Princess,0,,-,640,KZSD-!,フィリピン,1319,84*,フィリピン,2560,465.,フィリピン,0,,-
+tricoro,8bit Princess,0,,-,640,KZSD-!,フィリピン,1325,84*,フィリピン,2560,465.,フィリピン,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,861,KZSD-!,フィリピン,1597,HAMETN,フィリピン,2488,IIDX28,フィリピン,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,1023,KZSD-!,フィリピン,1834,TINDER,フィリピン,3307,KMSR,フィリピン,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,572,KZSD-!,フィリピン,1326,84*,フィリピン,2492,TINDER,フィリピン,0,,-
@@ -747,7 +747,7 @@ SPADA,KHAMEN BREAK,0,,-,570,KZSD-!,フィリピン,0,,-,2314,TAKO,フィリピ�
 SPADA,KAISER PHOENIX,0,,-,1256,KZSD-!,フィリピン,2021,JAMON5,フィリピン,3174,IIDX28,フィリピン,3597,465.,フィリピン
 SPADA,IX,0,,-,1267,KZSD-!,フィリピン,2276,TAKO,フィリピン,3743,IIDX28,フィリピン,0,,-
 SPADA,invoker,0,,-,1081,KZSD-!,フィリピン,1879,KZSD-!,フィリピン,2924,TAKO,フィリピン,3301,465.,フィリピン
-SPADA,into the battlefield,0,,-,721,KZSD-!,フィリピン,0,,-,2294,IIDX28,フィリピン,0,,-
+SPADA,into the battlefield,0,,-,721,KZSD-!,フィリピン,676,JSER12,フィリピン,2294,IIDX28,フィリピン,0,,-
 SPADA,INSOMNIA,0,,-,787,KZSD-!,フィリピン,1614,84*,フィリピン,3023,465.,フィリピン,0,,-
 SPADA,Insane Techniques,0,,-,737,KZSD-!,フィリピン,0,,-,2372,465.,フィリピン,0,,-
 SPADA,"Idola ",0,,-,1202,KZSD-!,フィリピン,2139,KZSD-!,フィリピン,3474,465.,フィリピン,0,,-
@@ -856,7 +856,7 @@ PENDUAL,Blaze it UP!,0,,-,957,KZSD-!,フィリピン,1817,KZSD-!,フィリピン
 PENDUAL,Beyond The Earth,0,,-,1250,KZSD-!,フィリピン,1912,TAKO,フィリピン,3103,IIDX28,フィリピン,0,,-
 PENDUAL,Beat Radiance,0,,-,971,KZSD-!,フィリピン,1552,KZSD-!,フィリピン,2555,ZZZZZ,フィリピン,3485,ZZZZZ,フィリピン
 PENDUAL,AFRO KNUCKLE,0,,-,255,RUDEY!,フィリピン,1146,DORO-2,フィリピン,2334,IIDX28,フィリピン,0,,-
-PENDUAL,#The_Relentless,0,,-,0,,-,1734,TSU*NA,フィリピン,2871,IIDX28,フィリピン,0,,-
+PENDUAL,#The_Relentless,0,,-,0,,-,1795,84*,フィリピン,2871,IIDX28,フィリピン,0,,-
 copula,麗 ～うらら～,255,KZSD-!,フィリピン,855,00000,フィリピン,1722,866-4.,フィリピン,2594,IIDX28,フィリピン,0,,-
 copula,駅猫のワルツ,0,,-,0,,-,1863,KMSR,フィリピン,2672,ZZZZZ,フィリピン,0,,-
 copula,量子の海のリントヴルム,0,,-,628,AAAAAA,フィリピン,1514,TSU*NA,フィリピン,2873,IIDX28,フィリピン,0,,-
@@ -897,7 +897,7 @@ copula,refrain,0,,-,869,00000,フィリピン,2195,SELEN*,フィリピン,3486,I
 copula,quick master (reform version),0,,-,152,OGRCAP,フィリピン,334,KZSD-!,フィリピン,517,866-4.,フィリピン,0,,-
 copula,POSSESSION,477,KZSD-!,フィリピン,1318,TAKO,フィリピン,2026,A-MIT2,フィリピン,2792,465.,フィリピン,0,,-
 copula,Outbreak,0,,-,1054,96,フィリピン,1376,K0-J!8,フィリピン,2910,IIDX28,フィリピン,0,,-
-copula,On the FM,0,,-,0,,-,1407,AFRICA,フィリピン,2552,A-MIT2,フィリピン,0,,-
+copula,On the FM,0,,-,0,,-,1407,AFRICA,フィリピン,2633,465.,フィリピン,0,,-
 copula,NZM,0,,-,0,,-,1424,HAMETN,フィリピン,3255,465.,フィリピン,0,,-
 copula,Nowhere,0,,-,0,,-,933,DORO-2,フィリピン,2006,TINDER,フィリピン,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,799,KZSD-!,フィリピン,912,DORO-2,フィリピン,2199,KMSR,フィリピン,0,,-
@@ -923,7 +923,7 @@ copula,Dynamite,540,KZSD-!,フィリピン,971,SHIRON,フィリピン,2333,A-MIT
 copula,Donkey Donk,0,,-,0,,-,1592,SELEN*,フィリピン,2174,INU!!!,フィリピン,0,,-
 copula,do the thing feat. Kanae Asaba,0,,-,341,KOTO,フィリピン,1348,84*,フィリピン,2199,ZZZZZ,フィリピン,0,,-
 copula,DIAMOND CROSSING,0,,-,891,SR-OUI,フィリピン,1598,866-4.,フィリピン,2854,465.,フィリピン,0,,-
-copula,Devil's Gear,0,,-,948,IIDX28,フィリピン,1919,CPU69,フィリピン,3341,IIDX28,フィリピン,0,,-
+copula,Devil's Gear,0,,-,1000,SR-OUI,フィリピン,1919,CPU69,フィリピン,3341,IIDX28,フィリピン,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,0,,-,1844,KZSD-!,フィリピン,2491,IIDX28,フィリピン,0,,-
 copula,Damage Per Second,0,,-,518,AAAAAA,フィリピン,1145,96,フィリピン,1958,ZZZZZ,フィリピン,2142,OGRCAP,フィリピン
 copula,Daily Lunch Special,0,,-,1039,IIDX28,フィリピン,2050,KZSD-!,フィリピン,2779,A-MIT2,フィリピン,0,,-
@@ -943,9 +943,9 @@ SINOBUZ,童話回廊,0,,-,0,,-,1650,CPU69,フィリピン,2917,IIDX28,フィリ�
 SINOBUZ,禍根,0,,-,0,,-,1325,KZSD-!,フィリピン,2489,IIDX28,フィリピン,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,495,KZSD-!,フィリピン,0,,-,1662,ZZZZZ,フィリピン,0,,-
 SINOBUZ,焔極OVERKILL,0,,-,1133,TAKO,フィリピン,2037,KZSD-!,フィリピン,3412,ZZZZZ,フィリピン,0,,-
-SINOBUZ,火影,0,,-,446,HDMR,フィリピン,1213,TSU*NA,フィリピン,2480,INU!!!,フィリピン,0,,-
+SINOBUZ,火影,0,,-,446,HDMR,フィリピン,1213,TSU*NA,フィリピン,2536,465.,フィリピン,0,,-
 SINOBUZ,津軽雪,0,,-,1118,96,フィリピン,1993,E.F-D,フィリピン,3708,YAGIU,フィリピン,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,845,KZSD-!,フィリピン,1381,KZSD-!,フィリピン,1918,ZZZZZ,フィリピン,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,845,KZSD-!,フィリピン,1381,KZSD-!,フィリピン,1940,KMSR,フィリピン,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,602,AAAAAA,フィリピン,0,,-,1971,KMSR,フィリピン,0,,-
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,0,,-,1529,KZSD-!,フィリピン,2416,IIDX28,フィリピン,0,,-
 SINOBUZ,忍恋花,0,,-,0,,-,1625,KZSD-!,フィリピン,2157,IIDX28,フィリピン,0,,-
@@ -954,7 +954,7 @@ SINOBUZ,冬椿 ft. Kanae Asaba,253,KZSD-!,フィリピン,732,NOOBWW,フィリ�
 SINOBUZ,九尾狐夜行,0,,-,0,,-,1448,BMKNO1,フィリピン,2734,KMSR,フィリピン,0,,-
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,699,KZSD-!,フィリピン,1308,84*,フィリピン,2350,KMSR,フィリピン,0,,-
 SINOBUZ,イザナミノナゲキ,0,,-,1174,KZSD-!,フィリピン,1586,IIDX28,フィリピン,3089,A-MIT2,フィリピン,0,,-
-SINOBUZ,ちらちら・はらはら,0,,-,306,TOMOZO,フィリピン,492,00000,フィリピン,1392,ZZZZZ,フィリピン,0,,-
+SINOBUZ,ちらちら・はらはら,0,,-,306,TOMOZO,フィリピン,492,00000,フィリピン,1398,TAKO,フィリピン,0,,-
 SINOBUZ,〆,0,,-,0,,-,2239,KZSD-!,フィリピン,3464,465.,フィリピン,0,,-
 SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,735,KZSD-!,フィリピン,1529,84*,フィリピン,2825,IIDX28,フィリピン,0,,-
 SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,500,FLUFF,フィリピン,1555,KZSD-!,フィリピン,2513,465.,フィリピン,0,,-
@@ -1011,7 +1011,7 @@ SINOBUZ,DORNWALD ～Junge～,0,,-,1192,IIDX28,フィリピン,2101,KZSD-!,フィ
 SINOBUZ,Cyber True Color,0,,-,0,,-,1605,KMSR,フィリピン,2220,INU!!!,フィリピン,0,,-
 SINOBUZ,crew,0,,-,624,KZSD-!,フィリピン,1557,84*,フィリピン,2821,KMSR,フィリピン,0,,-
 SINOBUZ,Caterpillar,0,,-,826,96,フィリピン,2079,TAKO,フィリピン,2876,IIDX28,フィリピン,0,,-
-SINOBUZ,BroGamer,0,,-,1150,KBTIT,フィリピン,2005,KZSD-!,フィリピン,2987,465.,フィリピン,0,,-
+SINOBUZ,BroGamer,0,,-,1150,KBTIT,フィリピン,2069,866-4.,フィリピン,2987,465.,フィリピン,0,,-
 SINOBUZ,Breakin' Chain,0,,-,703,KZSD-!,フィリピン,1274,KZSD-!,フィリピン,2252,ZZZZZ,フィリピン,0,,-
 SINOBUZ,BREAK OVER,0,,-,451,FLUFF,フィリピン,1390,KZSD-!,フィリピン,2252,KMSR,フィリピン,0,,-
 SINOBUZ,Beyond The Seven,0,,-,735,KZSD-!,フィリピン,1279,IIDX28,フィリピン,2562,TINDER,フィリピン,0,,-
@@ -1028,7 +1028,7 @@ SINOBUZ,(This Is Not) The Angels,0,,-,582,KZSD-!,フィリピン,1320,TAKO,フ�
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1108,IIDX28,フィリピン,1907,HAMETN,フィリピン,3297,ZZZZZ,フィリピン,0,,-
 SINOBUZ,!Viva!,0,,-,954,KZSD-!,フィリピン,935,OSSAN,フィリピン,1952,IIDX28,フィリピン,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,81,KOTO,フィリピン,984,IIDX28,フィリピン,2185,PEKORA,フィリピン,0,,-
-CANNON BALLERS,純真可憐デザイア,246,KZSD-!,フィリピン,818,KZSD-!,フィリピン,1440,KZSD-!,フィリピン,2293,YAGIU,フィリピン,0,,-
+CANNON BALLERS,純真可憐デザイア,246,KZSD-!,フィリピン,818,KZSD-!,フィリピン,1524,E.F-D,フィリピン,2293,YAGIU,フィリピン,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1337,IIDX28,フィリピン,2392,ELAINA,フィリピン,3922,IIDX28,フィリピン,0,,-
 CANNON BALLERS,東京神話,466,KZSD-!,フィリピン,1031,KZSD-!,フィリピン,1697,TAKO,フィリピン,2723,IIDX28,フィリピン,0,,-
 CANNON BALLERS,命の標本,0,,-,533,JSER12,フィリピン,1440,KZSD-!,フィリピン,2589,IIDX28,フィリピン,0,,-
@@ -1060,7 +1060,7 @@ CANNON BALLERS,REVOLVER,0,,-,897,KZSD-!,フィリピン,1596,KMSR,フィリピ�
 CANNON BALLERS,Raspberry Railgun,0,,-,1401,KZSD-!,フィリピン,2105,KZSD-!,フィリピン,2983,KMSR,フィリピン,0,,-
 CANNON BALLERS,Rampage,0,,-,1263,KZSD-!,フィリピン,2308,SELEN*,フィリピン,3474,465.,フィリピン,0,,-
 CANNON BALLERS,Persephone,0,,-,1326,KZSD-!,フィリピン,1765,RF2CUL,フィリピン,2920,IIDX28,フィリピン,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,1176,KZSD-!,フィリピン,1939,KZSD-!,フィリピン,2733,465.,フィリピン,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,1176,KZSD-!,フィリピン,1939,KZSD-!,フィリピン,2734,465.,フィリピン,0,,-
 CANNON BALLERS,Only for now,0,,-,0,,-,1415,84*,フィリピン,2238,IIDX28,フィリピン,0,,-
 CANNON BALLERS,O/D*20,0,,-,1127,TAKO,フィリピン,1615,ZZZZZ,フィリピン,2043,KZSD-!,フィリピン,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,0,,-,1126,8SP4WD,フィリピン,2797,IIDX28,フィリピン,0,,-
@@ -1072,17 +1072,17 @@ CANNON BALLERS,MAXIVCORD,0,,-,816,KZSD-!,フィリピン,1237,IIDX28,フィリ�
 CANNON BALLERS,LUV DRIVE,0,,-,0,,-,0,,-,2033,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,757,KZSD-!,フィリピン,344,JSER12,フィリピン,2203,AA-VIP,フィリピン,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1252,KZSD-!,フィリピン,1843,KZSD-!,フィリピン,3280,IIDX28,フィリピン,0,,-
-CANNON BALLERS,Let's Bounce !!,0,,-,730,KZSD-!,フィリピン,1142,84*,フィリピン,1695,AFRICA,フィリピン,0,,-
+CANNON BALLERS,Let's Bounce !!,0,,-,730,KZSD-!,フィリピン,1142,84*,フィリピン,2156,INU!!!,フィリピン,0,,-
 CANNON BALLERS,Initiation,645,KZSD-!,フィリピン,1477,KZSD-!,フィリピン,2290,KZSD-!,フィリピン,3710,465.,フィリピン,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1300,KZSD-!,フィリピン,2110,KZSD-!,フィリピン,3360,IIDX28,フィリピン,0,,-
 CANNON BALLERS,I Love You,0,,-,0,,-,1654,KZSD-!,フィリピン,2636,465.,フィリピン,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,1070,KZSD-!,フィリピン,1905,KZSD-!,フィリピン,2901,465.,フィリピン,0,,-
-CANNON BALLERS,Hella Deep,0,,-,628,KMSR,フィリピン,881,AMURO,フィリピン,1603,IIDX28,フィリピン,0,,-
+CANNON BALLERS,Hella Deep,0,,-,628,KMSR,フィリピン,881,AMURO,フィリピン,1720,KMSR,フィリピン,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,0,,-,1340,PEKORA,フィリピン,2113,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,0,,-,1140,84*,フィリピン,1795,KMSR,フィリピン,0,,-
 CANNON BALLERS,FUTURE is Dead,0,,-,377,KOTO,フィリピン,0,,-,2041,KMSR,フィリピン,0,,-
 CANNON BALLERS,From Time To Time,0,,-,793,KZSD-!,フィリピン,1812,KZSD-!,フィリピン,2313,AA-VIP,フィリピン,0,,-
-CANNON BALLERS,FREEDOM,0,,-,572,AAAAAA,フィリピン,1486,84*,フィリピン,2815,IIDX28,フィリピン,0,,-
+CANNON BALLERS,FREEDOM,0,,-,871,PRIM,フィリピン,1486,84*,フィリピン,2815,IIDX28,フィリピン,0,,-
 CANNON BALLERS,Fervidex,0,,-,848,KZSD-!,フィリピン,1776,KMSR,フィリピン,2634,465.,フィリピン,0,,-
 CANNON BALLERS,Expanded !!,0,,-,0,,-,1427,84*,フィリピン,2545,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,0,,-,1875,KZSD-!,フィリピン,2670,ZZZZZ,フィリピン,0,,-
@@ -1098,7 +1098,7 @@ CANNON BALLERS,Chemical Cookie,0,,-,778,IIDX28,フィリピン,1416,KZSD-!,フ�
 CANNON BALLERS,ChaserXX,0,,-,0,,-,1818,KZSD-!,フィリピン,2675,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,Break Stasis,0,,-,622,FLUFF,フィリピン,1845,KZSD-!,フィリピン,2387,TAKO,フィリピン,0,,-
 CANNON BALLERS,Boomy and The Boost,0,,-,1031,KZSD-!,フィリピン,1982,KZSD-!,フィリピン,3382,465.,フィリピン,0,,-
-CANNON BALLERS,Best of Me,0,,-,253,DEAD,フィリピン,1166,MUGEN3,フィリピン,2125,ZZZZZ,フィリピン,0,,-
+CANNON BALLERS,Best of Me,0,,-,253,DEAD,フィリピン,1302,PRIM,フィリピン,2125,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,Beast mode,0,,-,1055,KZSD-!,フィリピン,1485,KZSD-!,フィリピン,2531,TAKO,フィリピン,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,621,NYA0Z-,フィリピン,1642,84*,フィリピン,2830,ZZZZZ,フィリピン,0,,-
 CANNON BALLERS,Battleground,0,,-,0,,-,1826,KZSD-!,フィリピン,2457,TAKO,フィリピン,0,,-
@@ -1121,7 +1121,7 @@ Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1135,KZSD-!,フィ�
 Rootage,金野火織の金色提言,0,,-,1185,KZSD-!,フィリピン,2080,OGRCAP,フィリピン,2950,ZZZZZ,フィリピン,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,0,,-,1552,KZSD-!,フィリピン,2420,465.,フィリピン,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1136,84*,フィリピン,0,,-,2589,ZZZZZ,フィリピン,0,,-
-Rootage,深愛のリグレット,0,,-,765,KZSD-!,フィリピン,993,YS4-R*,フィリピン,2324,YAGIU,フィリピン,0,,-
+Rootage,深愛のリグレット,0,,-,765,KZSD-!,フィリピン,1174,465.,フィリピン,2324,YAGIU,フィリピン,0,,-
 Rootage,泰東ノ翠霞,0,,-,472,KZSD-!,フィリピン,710,KZSD-!,フィリピン,1632,465.,フィリピン,0,,-
 Rootage,最小三倍完全数,0,,-,903,KZSD-!,フィリピン,1715,KZSD-!,フィリピン,2323,KMSR,フィリピン,0,,-
 Rootage,抱きしめてモナムール,0,,-,1270,KZSD-!,フィリピン,2086,HAMETN,フィリピン,4014,IIDX28,フィリピン,0,,-
@@ -1192,7 +1192,7 @@ Rootage,KILL EACH OTHER,0,,-,0,,-,2363,KMSR,フィリピン,3679,IIDX28,フィ�
 Rootage,IDOL syndrome.,0,,-,720,KZSD-!,フィリピン,1118,96,フィリピン,2138,IIDX28,フィリピン,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,992,CPU69,フィリピン,1469,KZSD-!,フィリピン,2052,INU!!!,フィリピン,0,,-
 Rootage,Hurry Hurry,0,,-,0,,-,964,84*,フィリピン,2018,ZZZZZ,フィリピン,0,,-
-Rootage,HOT LIMIT,386,KZSD-!,フィリピン,884,KZSD-!,フィリピン,1420,K0-J!8,フィリピン,2437,ZZZZZ,フィリピン,0,,-
+Rootage,HOT LIMIT,386,KZSD-!,フィリピン,884,KZSD-!,フィリピン,1543,MH-KT1,フィリピン,2437,ZZZZZ,フィリピン,0,,-
 Rootage,HEISEI,365,KZSD-!,フィリピン,1123,TAKO,フィリピン,1523,IIDX28,フィリピン,2455,ZZZZZ,フィリピン,0,,-
 Rootage,HARD BRAIN,0,,-,1356,KZSD-!,フィリピン,1814,KZSD-!,フィリピン,3620,IIDX28,フィリピン,0,,-
 Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,1065,KZSD-!,フィリピン,2141,KZSD-!,フィリピン,3732,MA24TA,フィリピン,0,,-
@@ -1237,7 +1237,7 @@ HEROIC VERSE,令和(1991RAVE REMIX),351,KZSD-!,フィリピン,0,,-,1332,CPU69,�
 HEROIC VERSE,ランカーキラーガール,0,,-,1124,KZSD-!,フィリピン,1748,KZSD-!,フィリピン,2815,KMSR,フィリピン,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,986,84*,フィリピン,1932,E.F-D,フィリピン,3539,IIDX28,フィリピン,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),374,KZSD-!,フィリピン,708,96,フィリピン,1299,SR-OUI,フィリピン,2343,KMSR,フィリピン,0,,-
-HEROIC VERSE,ガヴリールドロップキック,402,KZSD-!,フィリピン,720,IIDX28,フィリピン,1333,ZW3,フィリピン,2559,465.,フィリピン,0,,-
+HEROIC VERSE,ガヴリールドロップキック,402,KZSD-!,フィリピン,720,IIDX28,フィリピン,1405,KBTIT,フィリピン,2559,465.,フィリピン,0,,-
 HEROIC VERSE,Ypsilon,0,,-,690,JSER12,フィリピン,1678,AFRICA,フィリピン,2742,465.,フィリピン,3355,KMSR,フィリピン
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,0,,-,1367,866-4.,フィリピン,2311,ZZZZZ,フィリピン,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,0,,-,1387,KBTIT,フィリピン,2880,IIDX28,フィリピン,0,,-
@@ -1274,7 +1274,7 @@ HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,0,,-,1158,MUGEN3,フィリピ�
 HEROIC VERSE,NEWALONE,0,,-,0,,-,0,,-,1896,PEKORA,フィリピン,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,0,,-,1536,HAMETN,フィリピン,2554,ZZZZZ,フィリピン,0,,-
 HEROIC VERSE,Moving on,0,,-,722,RINLIT,フィリピン,1902,KMSR,フィリピン,2871,IIDX28,フィリピン,0,,-
-HEROIC VERSE,Mel,0,,-,558,HDMR,フィリピン,0,,-,2099,ZZZZZ,フィリピン,0,,-
+HEROIC VERSE,Mel,0,,-,558,HDMR,フィリピン,0,,-,2109,465.,フィリピン,0,,-
 HEROIC VERSE,Matt Silver,0,,-,0,,-,1870,CPU69,フィリピン,3252,IIDX28,フィリピン,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1024,84*,フィリピン,1712,A-MIT2,フィリピン,2858,INU!!!,フィリピン,0,,-
 HEROIC VERSE,Like+it!,0,,-,538,JSER12,フィリピン,1563,84*,フィリピン,2290,IIDX28,フィリピン,0,,-
@@ -1290,7 +1290,7 @@ HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,809,84*,フィリピン,1400,84*
 HEROIC VERSE,fairy cocktail,0,,-,0,,-,1046,84*,フィリピン,1583,ZZZZZ,フィリピン,0,,-
 HEROIC VERSE,EXCITE,319,KZSD-!,フィリピン,420,REY,フィリピン,0,,-,2147,ZZZZZ,フィリピン,0,,-
 HEROIC VERSE,Duration,0,,-,476,K*AMM8,フィリピン,978,84*,フィリピン,1907,A-MIT2,フィリピン,0,,-
-HEROIC VERSE,Drop It,0,,-,0,,-,1722,HAMETN,フィリピン,2488,TAKO,フィリピン,0,,-
+HEROIC VERSE,Drop It,0,,-,0,,-,1722,HAMETN,フィリピン,2646,465.,フィリピン,0,,-
 HEROIC VERSE,Do What You Want,0,,-,511,HDMR,フィリピン,767,NKORLL,フィリピン,1871,EEEEEE,フィリピン,0,,-
 HEROIC VERSE,Crank It,0,,-,719,SELEN*,フィリピン,1278,AFRICA,フィリピン,2371,SELEN*,フィリピン,0,,-
 HEROIC VERSE,Change Yourself,0,,-,0,,-,1353,KBTIT,フィリピン,2406,ZZZZZ,フィリピン,0,,-
@@ -1302,7 +1302,7 @@ HEROIC VERSE,Backyard Stars,0,,-,561,BUCK!?,フィリピン,558,GIMMIX,フィリ
 HEROIC VERSE,And-RoiD,0,,-,0,,-,0,,-,1954,ZZZZZ,フィリピン,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1246,KZSD-!,フィリピン,2264,TAKO,フィリピン,3464,IIDX28,フィリピン,0,,-
 HEROIC VERSE,27th style,0,,-,0,,-,1577,ELAINA,フィリピン,2451,465.,フィリピン,0,,-
-BISTROVER,魔法のかくれんぼ,0,,-,873,TAKO,フィリピン,1600,TAKO,フィリピン,2548,465.,フィリピン,0,,-
+BISTROVER,魔法のかくれんぼ,0,,-,873,TAKO,フィリピン,1600,TAKO,フィリピン,2569,465.,フィリピン,0,,-
 BISTROVER,霧幻メモリア,0,,-,928,TAKO,フィリピン,1376,KZSD-!,フィリピン,1985,IIDX28,フィリピン,0,,-
 BISTROVER,紅蓮華,153,KZSD-!,フィリピン,520,KZSD-!,フィリピン,956,866-4.,フィリピン,1459,INU!!!,フィリピン,0,,-
 BISTROVER,犬に雨傘,0,,-,907,TAKO,フィリピン,1421,KZSD-!,フィリピン,2033,465.,フィリピン,0,,-
@@ -1311,7 +1311,7 @@ BISTROVER,水鏡の異界,0,,-,868,TAKO,フィリピン,1630,TAKO,フィリピ�
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1228,TAKO,フィリピン,1747,KZSD-!,フィリピン,2570,YAGIU,フィリピン,0,,-
 BISTROVER,新宝島,512,KZSD-!,フィリピン,783,KZSD-!,フィリピン,1375,KZSD-!,フィリピン,2315,IIDX28,フィリピン,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1185,KZSD-!,フィリピン,1838,KZSD-!,フィリピン,3744,IIDX28,フィリピン,0,,-
-BISTROVER,ここからよろしく大作戦143,0,,-,951,KMSR,フィリピン,1728,KZSD-!,フィリピン,2463,KMSR,フィリピン,0,,-
+BISTROVER,ここからよろしく大作戦143,0,,-,951,KMSR,フィリピン,1747,TAKO,フィリピン,2463,KMSR,フィリピン,0,,-
 BISTROVER,∀,567,KZSD-!,フィリピン,1306,KZSD-!,フィリピン,2214,IIDX28,フィリピン,3450,IIDX28,フィリピン,0,,-
 BISTROVER,When I Met U,0,,-,862,KZSD-!,フィリピン,1273,KZSD-!,フィリピン,2038,IIDX28,フィリピン,0,,-
 BISTROVER,WAKE UP NOW,0,,-,926,TAKO,フィリピン,1438,KZSD-!,フィリピン,1970,VRCHAT,フィリピン,0,,-
@@ -1333,7 +1333,7 @@ BISTROVER,Para siempre,0,,-,941,AA-VIP,フィリピン,1487,TAKO,フィリピン
 BISTROVER,Overslept,0,,-,1125,KZSD-!,フィリピン,1710,KZSD-!,フィリピン,2512,IIDX28,フィリピン,0,,-
 BISTROVER,of the first magnitude,0,,-,1017,CPU69,フィリピン,1834,KZSD-!,フィリピン,2863,IIDX28,フィリピン,0,,-
 BISTROVER,Ocean Blue feat. Luschel,0,,-,840,TAKO,フィリピン,1425,TAKO,フィリピン,2423,IIDX28,フィリピン,0,,-
-BISTROVER,Neo Heritage,0,,-,945,KZSD-!,フィリピン,1619,KZSD-!,フィリピン,2738,465.,フィリピン,0,,-
+BISTROVER,Neo Heritage,0,,-,945,KZSD-!,フィリピン,1636,TAKO,フィリピン,2738,465.,フィリピン,0,,-
 BISTROVER,Midnight Drive,0,,-,578,CPU69,フィリピン,1220,AFRICA,フィリピン,1929,465.,フィリピン,0,,-
 BISTROVER,Mars beach,0,,-,610,KZSD-!,フィリピン,1339,TAKO,フィリピン,2205,IIDX28,フィリピン,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,1055,TAKO,フィリピン,1782,TAKO,フィリピン,2647,IIDX28,フィリピン,0,,-
