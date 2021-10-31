@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,552,CICO2A,長崎県,989,ABABA,長崎県,1135,HEIPON,長崎県,0,,-
-1st&substream,RUGGED ASH,0,,-,344,GOMI,長崎県,369,AOI*,長崎県,1015,K.FLAN,長崎県,1959,LAMY,長崎県
+1st&substream,RUGGED ASH,0,,-,344,GOMI,長崎県,369,AOI*,長崎県,1015,K.FLAN,長崎県,1959,HITA,長崎県
 1st&substream,R3,0,,-,499,KAYAKI,長崎県,701,L,長崎県,890,KAEDE,長崎県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,480,CICO2A,長崎県,710,SHIURA,長崎県,1092,HEIPON,長崎県,0,,-
 1st&substream,Macho Gang,0,,-,346,HTS,長崎県,1029,SHIURA,長崎県,1545,HEIPON,長崎県,0,,-
@@ -14,7 +14,7 @@
 1st&substream,5.1.1.,0,,-,173,CICO2A,長崎県,966,NAGO,長崎県,1536,KAEDE,長崎県,0,,-
 1st&substream,22DUNK,0,,-,495,ARCAEA,長崎県,599,SHIURA,長崎県,649,HEIPON,長崎県,0,,-
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,466,CICO2A,長崎県,561,AOI*,長崎県,639,HEIPON,長崎県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,452,CICO2A,長崎県,850,LAMY,長崎県,0,,-,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,452,CICO2A,長崎県,850,HITA,長崎県,0,,-,0,,-
 2nd style,Indigo Vision(full flavour hide around mix),0,,-,846,ABABA,長崎県,1065,ABABA,長崎県,1185,KAEDE,長崎県,0,,-
 2nd style,I Was The One,0,,-,458,CICO2A,長崎県,632,SHIURA,長崎県,676,TAU,長崎県,0,,-
 2nd style,Electro Tuned(the SubS mix),0,,-,749,ARCAEA,長崎県,912,ABABA,長崎県,975,IIDX28,長崎県,0,,-
@@ -22,7 +22,7 @@
 2nd style,.59,0,,-,574,KAYAKI,長崎県,811,AOI*,長崎県,1114,HEIPON,長崎県,0,,-
 3rd style,THE SAFARI,345,NOZOM!,長崎県,925,RA,長崎県,1716,HEIPON,長崎県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,255,CICO2A,長崎県,379,ROBROY,長崎県,0,,-,0,,-
-3rd style,Skyscraper,0,,-,513,CICO2A,長崎県,1035,AOI*,長崎県,1232,P,長崎県,0,,-
+3rd style,Skyscraper,0,,-,513,CICO2A,長崎県,1035,AOI*,長崎県,1233,HEIPON,長崎県,0,,-
 3rd style,Schlagwerk,0,,-,677,CICO2A,長崎県,1238,SHIURA,長崎県,1619,P,長崎県,0,,-
 3rd style,REINCARNATION,0,,-,698,CICO2A,長崎県,961,YUA*M,長崎県,1246,HEIPON,長崎県,0,,-
 3rd style,R5,0,,-,631,LOVELY,長崎県,1108,Z-GIRL,長崎県,1727,P,長崎県,0,,-
@@ -34,7 +34,7 @@
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,524,CICO2A,長崎県,1209,HEIPON,長崎県,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,632,TOMO,長崎県,1124,SHIURA,長崎県,1269,P,長崎県,0,,-
 4th style,SWEET LAB,0,,-,427,CICO2A,長崎県,889,SHIURA,長崎県,1237,KAEDE,長崎県,0,,-
-4th style,starmine,415,NOZOM!,長崎県,776,CICO2A,長崎県,1368,SHIURA,長崎県,1544,LAMY,長崎県,0,,-
+4th style,starmine,415,NOZOM!,長崎県,776,CICO2A,長崎県,1368,SHIURA,長崎県,1544,HITA,長崎県,0,,-
 4th style,Mr.T.(take me higher),0,,-,660,CICO2A,長崎県,820,AOI*,長崎県,1690,TAU,長崎県,0,,-
 4th style,minimalian,0,,-,470,CICO2A,長崎県,864,ROBROY,長崎県,1358,HEIPON,長崎県,0,,-
 4th style,LOVE WILL・・・,0,,-,486,CICO2A,長崎県,666,AOI*,長崎県,1431,HEIPON,長崎県,0,,-
@@ -45,12 +45,12 @@
 4th style,FLOWERS for ALBION,0,,-,202,CICO2A,長崎県,429,P,長崎県,0,,-,0,,-
 4th style,era (step mix),0,,-,883,CICO2A,長崎県,1307,SHIURA,長崎県,1626,HEIPON,長崎県,0,,-
 4th style,empathy,0,,-,659,CICO2A,長崎県,1258,SHIURA,長崎県,1420,HEIPON,長崎県,0,,-
-4th style,DXY!,0,,-,1261,LAMY,長崎県,1721,ABABA,長崎県,2113,KAEDE,長崎県,0,,-
+4th style,DXY!,0,,-,1261,HITA,長崎県,1721,ABABA,長崎県,2113,KAEDE,長崎県,0,,-
 4th style,Clione,0,,-,462,CICO2A,長崎県,715,CICO2A,長崎県,1531,2HISOX,長崎県,2094,HEIPON,長崎県
 4th style,CHECKING YOU OUT,0,,-,484,CICO2A,長崎県,758,SHIURA,長崎県,1266,HEIPON,長崎県,0,,-
 4th style,Burnin' The Floor,0,,-,525,CICO2A,長崎県,853,AOI*,長崎県,1421,HEIPON,長崎県,0,,-
 4th style,Broken My Heart,0,,-,725,CICO2A,長崎県,1354,F-REO,長崎県,1774,HEIPON,長崎県,0,,-
-4th style,B4U,0,,-,764,CICO2A,長崎県,1454,SHIURA,長崎県,1918,HEIPON,長崎県,0,,-
+4th style,B4U,0,,-,764,CICO2A,長崎県,1454,SHIURA,長崎県,1928,HEIPON,長崎県,0,,-
 4th style,ABSOLUTE,0,,-,1076,LOVELY,長崎県,1660,MASA.,長崎県,2325,HEIPON,長崎県,2621,HEIPON,長崎県
 4th style,250bpm,0,,-,472,CICO2A,長崎県,958,SHIURA,長崎県,1343,KAEDE,長崎県,0,,-
 5th style,V,312,IIDX28,長崎県,1019,COPEN.,長崎県,2364,MASA.,長崎県,2817,HEIPON,長崎県,0,,-
@@ -62,9 +62,9 @@
 5th style,Spin the disc,0,,-,644,CICO2A,長崎県,739,CICO2A,長崎県,1251,K.FLAN,長崎県,0,,-
 5th style,RISLIM,0,,-,633,CICO2A,長崎県,1184,HEIPON,長崎県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,774,CICO2A,長崎県,924,AOI*,長崎県,1684,HEIPON,長崎県,1733,P,長崎県
-5th style,Regulus,0,,-,616,CICO2A,長崎県,1238,UNTAN,長崎県,1608,LAMY,長崎県,0,,-
+5th style,Regulus,0,,-,616,CICO2A,長崎県,1238,UNTAN,長崎県,1608,HITA,長崎県,0,,-
 5th style,Real,0,,-,770,CICO2A,長崎県,1569,SHIURA,長崎県,1739,HEIPON,長崎県,0,,-
-5th style,Radical Faith,0,,-,1007,CICO2A,長崎県,1331,AKI..,長崎県,1199,FV4005,長崎県,0,,-
+5th style,Radical Faith,0,,-,1007,CICO2A,長崎県,1331,AKI..,長崎県,1199,RYOMA,長崎県,0,,-
 5th style,QQQ,0,,-,964,CICO2A,長崎県,1814,ABABA,長崎県,2126,P,長崎県,0,,-
 5th style,outer wall,0,,-,692,CICO2A,長崎県,1223,UNTAN,長崎県,1705,HEIPON,長崎県,0,,-
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,661,CICO2A,長崎県,959,SHIURA,長崎県,1106,HEIPON,長崎県,0,,-
@@ -72,14 +72,14 @@
 5th style,Abyss,0,,-,935,CICO2A,長崎県,1596,KAEDE,長崎県,1827,P,長崎県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,806,CICO2A,長崎県,1459,K.FLAN,長崎県,0,,-,0,,-
 6th style,こっちを向いてよ,0,,-,629,TOMO,長崎県,1237,SHIURA,長崎県,1319,HEIPON,長崎県,0,,-
-6th style,VJ ARMY,0,,-,1023,GOMI,長崎県,1554,RAICHI,長崎県,1904,SHIURA,長崎県,0,,-
+6th style,VJ ARMY,0,,-,1023,GOMI,長崎県,1554,RAICHI,長崎県,1947,8RUURR,長崎県,0,,-
 6th style,Take It Easy,0,,-,1073,CICO2A,長崎県,2274,SHIURA,長崎県,2427,HEIPON,長崎県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,903,CICO2A,長崎県,1711,K.FLAN,長崎県,0,,-,0,,-
 6th style,SOMETHING WONDERFUL,0,,-,717,CICO2A,長崎県,1145,ROBROY,長崎県,1925,HEIPON,長崎県,0,,-
 6th style,route 80s,0,,-,704,CICO2A,長崎県,914,JISOO*,長崎県,1461,HEIPON,長崎県,0,,-
 6th style,rottel-da-sun,0,,-,658,CICO2A,長崎県,1210,SHIURA,長崎県,1808,HEIPON,長崎県,0,,-
-6th style,NEMESIS,0,,-,633,CICO2A,長崎県,1272,NAMERK,長崎県,1720,K.FLAN,長崎県,0,,-
-6th style,Linus,0,,-,805,CICO2A,長崎県,1340,RAICHI,長崎県,2155,LAMY,長崎県,0,,-
+6th style,NEMESIS,0,,-,633,CICO2A,長崎県,1272,NAMERK,長崎県,1766,STEAK,長崎県,0,,-
+6th style,Linus,0,,-,805,CICO2A,長崎県,1340,RAICHI,長崎県,2155,HITA,長崎県,0,,-
 6th style,G2,0,,-,1172,ROBROY,長崎県,1650,SHIURA,長崎県,2125,KAEDE,長崎県,0,,-
 6th style,Frozen Ray (original mix),0,,-,851,3GPO,長崎県,1632,SHIURA,長崎県,1731,HEIPON,長崎県,0,,-
 6th style,Free Style,0,,-,614,CICO2A,長崎県,844,KAYAKI,長崎県,1261,HEIPON,長崎県,0,,-
@@ -108,34 +108,34 @@
 7th style,Burning Heat! (Full Option Mix),0,,-,544,CICO2A,長崎県,778,AOI*,長崎県,1331,OKAYU,長崎県,0,,-
 7th style,Bad Routine,0,,-,863,CICO2A,長崎県,1326,SHIURA,長崎県,1893,HEIPON,長崎県,0,,-
 7th style,AVE DE RAPINA,0,,-,1275,FATE.L,長崎県,1424,ROBROY,長崎県,1616,IIDX28,長崎県,0,,-
-7th style,A,0,,-,891,CICO2A,長崎県,2006,8RUURR,長崎県,2411,LAMY,長崎県,0,,-
-8th style,蒼い衝動,0,,-,732,CICO2A,長崎県,1002,KAYAKI,長崎県,1564,P,長崎県,0,,-
-8th style,桜,0,,-,707,CICO2A,長崎県,1369,K.FLAN,長崎県,2033,LAMY,長崎県,0,,-
-8th style,xenon,0,,-,782,CICO2A,長崎県,1405,NAMERK,長崎県,2662,P,長崎県,0,,-
+7th style,A,0,,-,891,CICO2A,長崎県,2006,8RUURR,長崎県,2411,HITA,長崎県,0,,-
+8th style,蒼い衝動,0,,-,744,TOMO,長崎県,1002,KAYAKI,長崎県,1564,P,長崎県,0,,-
+8th style,桜,0,,-,707,CICO2A,長崎県,1369,K.FLAN,長崎県,2033,HITA,長崎県,0,,-
+8th style,xenon,0,,-,822,S-K.T,長崎県,1405,NAMERK,長崎県,2662,P,長崎県,0,,-
 8th style,World Wide Love,0,,-,549,CICO2A,長崎県,965,AOI*,長崎県,1099,HEIPON,長崎県,0,,-
 8th style,WAR GAME,0,,-,911,CICO2A,長崎県,1413,YUA*M,長崎県,2104,KAEDE,長崎県,0,,-
 8th style,thunder,0,,-,1104,Z-GIRL,長崎県,1347,FENCER,長崎県,1818,K.FLAN,長崎県,0,,-
 8th style,symbolic,0,,-,1045,CICO2A,長崎県,1556,U46?,長崎県,2155,HEIPON,長崎県,0,,-
 8th style,rainbow flyer,0,,-,609,CICO2A,長崎県,1460,Z-GIRL,長崎県,2036,HEIPON,長崎県,0,,-
 8th style,PLEASE DON'T GO,0,,-,632,TOMO,長崎県,1242,NAGO,長崎県,2302,P,長崎県,0,,-
-8th style,MUSIC TO YOUR HEAD,0,,-,593,CICO2A,長崎県,1191,ROBROY,長崎県,1641,LAMY,長崎県,0,,-
+8th style,MUSIC TO YOUR HEAD,0,,-,593,CICO2A,長崎県,1191,ROBROY,長崎県,1641,HITA,長崎県,0,,-
 8th style,murmur twins,0,,-,1016,LOVELY,長崎県,1376,UNTAN,長崎県,2298,P,長崎県,0,,-
 8th style,Monkey Dance,0,,-,673,CICO2A,長崎県,1319,ARCAEA,長崎県,1936,HEIPON,長崎県,0,,-
 8th style,memories,0,,-,979,VIVI12,長崎県,1747,ROBROY,長崎県,2177,HEIPON,長崎県,0,,-
 8th style,Luv 2 Feel Your Body,0,,-,676,CICO2A,長崎県,843,KAYAKI,長崎県,1537,KAEDE,長崎県,0,,-
-8th style,LOVE IS ORANGE,0,,-,697,CICO2A,長崎県,848,CICO2A,長崎県,1753,P,長崎県,2066,P,長崎県
+8th style,LOVE IS ORANGE,0,,-,697,CICO2A,長崎県,864,GOMI,長崎県,1753,P,長崎県,2066,P,長崎県
 8th style,LAB,0,,-,857,CICO2A,長崎県,1759,SHIURA,長崎県,2027,HEIPON,長崎県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,845,CICO2A,長崎県,1267,KRH**,長崎県,2106,K.FLAN,長崎県,0,,-
 8th style,Halfway of promise,0,,-,852,CICO2A,長崎県,1366,ROBROY,長崎県,1760,HEIPON,長崎県,0,,-
 8th style,Giudecca,0,,-,705,TOMO,長崎県,1783,ABABA,長崎県,2557,P,長崎県,0,,-
 8th style,dual control,0,,-,586,TOMO,長崎県,895,TM0.IN,長崎県,1748,TAU,長崎県,0,,-
-8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,969,CICO2A,長崎県,1806,COPEN.,長崎県,2155,LAMY,長崎県,0,,-
+8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,969,CICO2A,長崎県,1806,COPEN.,長崎県,2155,HITA,長崎県,0,,-
 8th style,CELEBRATE NITE,0,,-,751,GOMI,長崎県,971,HAGE,長崎県,1377,HEIPON,長崎県,0,,-
 8th style,Blame,0,,-,741,CICO2A,長崎県,827,LOVELY,長崎県,1864,P,長崎県,0,,-
 8th style,bit mania,0,,-,797,CICO2A,長崎県,1248,KAEDE,長崎県,1850,P,長崎県,0,,-
 8th style,Attitude,0,,-,794,TOMO,長崎県,1143,FENCER,長崎県,1674,HEIPON,長崎県,0,,-
-8th style,ALL RIGHT,0,,-,788,COPEN.,長崎県,1222,NAMERK,長崎県,1507,FV4005,長崎県,0,,-
-8th style,airflow,0,,-,459,CICO2A,長崎県,661,AOI*,長崎県,1415,LAMY,長崎県,0,,-
+8th style,ALL RIGHT,0,,-,788,COPEN.,長崎県,1222,NAMERK,長崎県,1507,RYOMA,長崎県,0,,-
+8th style,airflow,0,,-,459,CICO2A,長崎県,661,AOI*,長崎県,1415,HITA,長崎県,0,,-
 8th style,abstract,0,,-,855,CICO2A,長崎県,1502,ABABA,長崎県,1822,P,長崎県,0,,-
 9th style,真夏の花・真夏の夢,0,,-,650,CICO2A,長崎県,959,KAYAKI,長崎県,1427,TAU,長崎県,0,,-
 9th style,ライオン好き,0,,-,579,CICO2A,長崎県,1071,AOI*,長崎県,1488,HEIPON,長崎県,0,,-
@@ -148,7 +148,7 @@
 9th style,RISLIM -Remix-,0,,-,622,CICO2A,長崎県,833,AOI*,長崎県,1812,P,長崎県,0,,-
 9th style,Really Love,0,,-,563,CICO2A,長崎県,912,ARCAEA,長崎県,1661,LUFT,長崎県,0,,-
 9th style,Quickening,0,,-,653,CICO2A,長崎県,1365,ROBROY,長崎県,2018,P,長崎県,0,,-
-9th style,quasar,0,,-,912,KONA2.,長崎県,1552,F-REO,長崎県,2261,LAMY,長崎県,0,,-
+9th style,quasar,0,,-,1139,ARCAEA,長崎県,1552,F-REO,長崎県,2261,HITA,長崎県,0,,-
 9th style,one or eight,0,,-,755,TM0.IN,長崎県,1715,ACBEXE,長崎県,2136,P,長崎県,0,,-
 9th style,moon_child,0,,-,860,CICO2A,長崎県,1837,SHIURA,長崎県,2443,P,長崎県,0,,-
 9th style,MARIA (I believe... ),0,,-,639,CICO2A,長崎県,0,,-,1908,P,長崎県,0,,-
@@ -156,7 +156,7 @@
 9th style,lower world,0,,-,766,CICO2A,長崎県,1729,MASA.,長崎県,2181,HEIPON,長崎県,0,,-
 9th style,LOVE SHINE,508,ROBROY,長崎県,813,NOZOM!,長崎県,1772,YUA*M,長崎県,2063,KAEDE,長崎県,0,,-
 9th style,lights,0,,-,574,CICO2A,長崎県,1063,KAYAKI,長崎県,1739,P,長崎県,0,,-
-9th style,Karma,0,,-,921,CICO2A,長崎県,1560,SHIURA,長崎県,1771,HEIPON,長崎県,0,,-
+9th style,Karma,0,,-,977,TAIKI,長崎県,1560,SHIURA,長崎県,1771,HEIPON,長崎県,0,,-
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,701,CICO2A,長崎県,1207,YUA*M,長崎県,1420,P,長崎県,0,,-
 9th style,HYPER EUROBEAT (2DX style),0,,-,790,TOMO,長崎県,0,,-,1884,P,長崎県,0,,-
 9th style,Golden Horn,0,,-,573,CICO2A,長崎県,977,ROBROY,長崎県,1411,KAEDE,長崎県,0,,-
@@ -169,30 +169,30 @@
 9th style,ATOMIC AGE,0,,-,323,CICO2A,長崎県,606,SG2.TR,長崎県,1266,P,長崎県,0,,-
 9th style,ACT,0,,-,801,CICO2A,長崎県,1514,Z-GIRL,長崎県,1764,K.FLAN,長崎県,0,,-
 9th style,Abyss -The Heavens Remix-,510,CICO2A,長崎県,1109,JARO.,長崎県,1689,YUA*M,長崎県,2313,P,長崎県,0,,-
-10th style,雪月花,0,,-,1134,AZU*,長崎県,1739,SHIURA,長崎県,2411,LAMY,長崎県,0,,-
+10th style,雪月花,0,,-,1134,AZU*,長崎県,1773,ARCAEA,長崎県,2411,HITA,長崎県,0,,-
 10th style,システムロマンス,0,,-,728,CICO2A,長崎県,1547,ROBROY,長崎県,1998,HEIPON,長崎県,0,,-
 10th style,SPACE FIGHT,0,,-,540,CICO2A,長崎県,1271,AOI*,長崎県,2079,KAEDE,長崎県,0,,-
 10th style,SHOOTING STAR,0,,-,900,CICO2A,長崎県,1315,ROBROY,長崎県,2195,HEIPON,長崎県,0,,-
 10th style,Rise'n Beauty,0,,-,827,CICO2A,長崎県,1530,ABABA,長崎県,2095,HEIPON,長崎県,0,,-
 10th style,rainbow rainbow,0,,-,1235,KAYAKI,長崎県,2102,ABABA,長崎県,2617,HEIPON,長崎県,0,,-
-10th style,pandora,0,,-,750,CICO2A,長崎県,1442,YUSUKE,長崎県,1808,LAMY,長崎県,0,,-
-10th style,One More Lovely,0,,-,747,CICO2A,長崎県,1499,AKI..,長崎県,2719,LAMY,長崎県,0,,-
+10th style,pandora,0,,-,750,CICO2A,長崎県,1442,YUSUKE,長崎県,1808,HITA,長崎県,0,,-
+10th style,One More Lovely,0,,-,747,CICO2A,長崎県,1499,AKI..,長崎県,2719,HITA,長崎県,0,,-
 10th style,No.13,0,,-,1349,ROBROY,長崎県,2460,LUFT,長崎県,3019,P,長崎県,0,,-
 10th style,Narcissus At Oasis,0,,-,610,CICO2A,長崎県,1483,ABABA,長崎県,1597,HEIPON,長崎県,0,,-
-10th style,Lucy,0,,-,853,CICO2A,長崎県,1561,JISOO*,長崎県,2289,LAMY,長崎県,0,,-
-10th style,Love Is Eternity,0,,-,909,LOVELY,長崎県,1764,K.FLAN,長崎県,2332,LAMY,長崎県,0,,-
+10th style,Lucy,0,,-,853,CICO2A,長崎県,1561,JISOO*,長崎県,2289,HITA,長崎県,0,,-
+10th style,Love Is Eternity,0,,-,909,LOVELY,長崎県,1764,K.FLAN,長崎県,2332,HITA,長崎県,0,,-
 10th style,Innocent Walls,0,,-,1452,AZU*,長崎県,2328,HEIPON,長崎県,2667,HEIPON,長崎県,0,,-
 10th style,HIGH,0,,-,825,CICO2A,長崎県,1779,ROBROY,長崎県,2081,T41K1N,長崎県,0,,-
-10th style,GRADIUS -FULL SPEED-,0,,-,501,CICO2A,長崎県,1140,KAEDE,長崎県,2050,LAMY,長崎県,0,,-
+10th style,GRADIUS -FULL SPEED-,0,,-,501,CICO2A,長崎県,1140,KAEDE,長崎県,2050,HITA,長崎県,0,,-
 10th style,GHOST REVIVAL,0,,-,676,TOMO,長崎県,1707,B6,長崎県,2432,KAEDE,長崎県,0,,-
 10th style,Freezing atmosphere,0,,-,613,CICO2A,長崎県,1080,SHIURA,長崎県,1428,TAU,長崎県,0,,-
-10th style,FEEL IT,0,,-,735,CICO2A,長崎県,1320,ROBROY,長崎県,1845,LAMY,長崎県,0,,-
+10th style,FEEL IT,0,,-,735,CICO2A,長崎県,1320,ROBROY,長崎県,1845,HITA,長崎県,0,,-
 10th style,Feedback,0,,-,739,CICO2A,長崎県,1314,NAMERK,長崎県,1824,P,長崎県,0,,-
 10th style,EXE,0,,-,641,CICO2A,長崎県,1314,ROBROY,長崎県,2210,P,長崎県,0,,-
 10th style,DoLL,324,CICO2A,長崎県,869,CICO2A,長崎県,1101,AOI*,長崎県,1607,P,長崎県,0,,-
 10th style,desolation,0,,-,455,FATE.L,長崎県,587,AOI*,長崎県,705,ROBROY,長崎県,0,,-
 10th style,Debtty Daddy,0,,-,852,CICO2A,長崎県,1538,ROBROY,長崎県,2639,P,長崎県,0,,-
-10th style,Daisuke,431,CICO2A,長崎県,1022,LOVELY,長崎県,1642,MASA.,長崎県,2356,LAMY,長崎県,0,,-
+10th style,Daisuke,431,CICO2A,長崎県,1022,LOVELY,長崎県,1642,MASA.,長崎県,2356,HITA,長崎県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,958,ABABA,長崎県,1067,AOI*,長崎県,1999,P,長崎県,0,,-
 10th style,Boundary,0,,-,807,ABABA,長崎県,1525,ROBROY,長崎県,2012,P,長崎県,0,,-
 10th style,Back Into The Light,0,,-,734,CICO2A,長崎県,1284,YUSUKE,長崎県,2104,P,長崎県,0,,-
@@ -209,18 +209,18 @@ IIDX RED,The Hope of Tomorrow,0,,-,872,CICO2A,長崎県,1220,AOI*,長崎県,1885
 IIDX RED,spiral galaxy,0,,-,1011,YUA*M,長崎県,1989,ABABA,長崎県,2453,EDMPAN,長崎県,3582,P,長崎県
 IIDX RED,Sphere,0,,-,859,CICO2A,長崎県,1795,SHIURA,長崎県,2132,P,長崎県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,988,CICO2A,長崎県,1378,YUSUKE,長崎県,2002,P,長崎県,0,,-
-IIDX RED,Secret of Love,0,,-,824,CICO2A,長崎県,1064,TENRYU,長崎県,1983,LAMY,長崎県,0,,-
+IIDX RED,Secret of Love,0,,-,824,CICO2A,長崎県,1064,TENRYU,長崎県,1983,HITA,長崎県,0,,-
 IIDX RED,RESONATE 1794,0,,-,890,ABABA,長崎県,1341,SG2.TR,長崎県,1827,HEIPON,長崎県,0,,-
-IIDX RED,RED ZONE,158,CICO2A,長崎県,964,RA,長崎県,1777,ACBEXE,長崎県,2273,P,長崎県,3037,LAMY,長崎県
+IIDX RED,RED ZONE,158,CICO2A,長崎県,964,RA,長崎県,1777,ACBEXE,長崎県,2273,P,長崎県,3037,HITA,長崎県
 IIDX RED,Raspberry Heart(English version),0,,-,581,KANON,長崎県,1400,RYTHEM,長崎県,1826,P,長崎県,0,,-
-IIDX RED,NEBULA GRASPER,0,,-,896,CICO2A,長崎県,1597,ROBROY,長崎県,2327,K.FLAN,長崎県,0,,-
+IIDX RED,NEBULA GRASPER,0,,-,896,CICO2A,長崎県,1900,ACBEXE,長崎県,2327,K.FLAN,長崎県,0,,-
 IIDX RED,KEY,0,,-,1024,LOVELY,長崎県,1594,HAGE,長崎県,2796,KAEDE,長崎県,0,,-
 IIDX RED,HORIZON,0,,-,894,CICO2A,長崎県,1514,ABABA,長崎県,1921,P,長崎県,0,,-
 IIDX RED,gigadelic,377,ME765,長崎県,1231,ROBROY,長崎県,2082,HEIPON,長崎県,2410,HEIPON,長崎県,0,,-
 IIDX RED,GENOCIDE,0,,-,698,YUKASH,長崎県,1970,K.FLAN,長崎県,2271,HEIPON,長崎県,0,,-
 IIDX RED,Fly Away To India,0,,-,655,KAEDE,長崎県,927,AOI*,長崎県,1367,HEIPON,長崎県,0,,-
-IIDX RED,FAKE TIME,0,,-,726,CICO2A,長崎県,1716,LAMY,長崎県,2258,HEIPON,長崎県,0,,-
-IIDX RED,earth scape,0,,-,364,CICO2A,長崎県,1000,ARCAEA,長崎県,1231,LAMY,長崎県,0,,-
+IIDX RED,FAKE TIME,0,,-,726,CICO2A,長崎県,1716,HITA,長崎県,2258,HEIPON,長崎県,0,,-
+IIDX RED,earth scape,0,,-,364,CICO2A,長崎県,1000,ARCAEA,長崎県,1231,HITA,長崎県,0,,-
 IIDX RED,Don't be afraid myself,0,,-,813,CICO2A,長崎県,1774,ACBEXE,長崎県,2214,P,長崎県,0,,-
 IIDX RED,D.A.N.C.E.!,0,,-,467,CICO2A,長崎県,720,AOI*,長崎県,1547,P,長崎県,0,,-
 IIDX RED,Close my Eyes for Me,0,,-,733,TOMO,長崎県,1202,ROBROY,長崎県,1709,TAU,長崎県,0,,-
@@ -231,14 +231,14 @@ IIDX RED,Be quiet,0,,-,724,CICO2A,長崎県,1607,ACBEXE,長崎県,2127,P,長崎�
 IIDX RED,awakening,0,,-,835,CICO2A,長崎県,886,CICO2A,長崎県,1640,HEIPON,長崎県,0,,-
 IIDX RED,ANDROMEDA,0,,-,830,CICO2A,長崎県,1766,JENNY,長崎県,2770,HEIPON,長崎県,0,,-
 IIDX RED,AGEHA,545,CICO2A,長崎県,886,CICO2A,長崎県,1589,YUA*M,長崎県,1837,HEIPON,長崎県,0,,-
-IIDX RED,AA,0,,-,1165,YUSUKE,長崎県,2590,K.FLAN,長崎県,3517,LAMY,長崎県,0,,-
+IIDX RED,AA,0,,-,1165,YUSUKE,長崎県,2590,K.FLAN,長崎県,3517,HITA,長崎県,0,,-
 HAPPY SKY,月光,0,,-,714,CICO2A,長崎県,1581,YUA*M,長崎県,2407,P,長崎県,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,890,CICO2A,長崎県,1445,IIDX28,長崎県,1887,P,長崎県,0,,-
-HAPPY SKY,冥,569,P,長崎県,1037,LAMY,長崎県,1966,K.FLAN,長崎県,3296,LAMY,長崎県,0,,-
+HAPPY SKY,冥,569,P,長崎県,1037,HITA,長崎県,1966,K.FLAN,長崎県,3296,HITA,長崎県,0,,-
 HAPPY SKY,ラクエン,0,,-,582,CICO2A,長崎県,384,KAYAKI,長崎県,1860,KAEDE,長崎県,0,,-
 HAPPY SKY,ヒマワリ,0,,-,463,CICO2A,長崎県,1685,NOZOM!,長崎県,2029,HEIPON,長崎県,0,,-
 HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,610,CICO2A,長崎県,1185,KRH**,長崎県,1628,TAU,長崎県,0,,-
-HAPPY SKY,Xepher,320,TTZK,長崎県,1042,KOU,長崎県,2049,SHIURA,長崎県,2883,LAMY,長崎県,0,,-
+HAPPY SKY,Xepher,320,TTZK,長崎県,1042,KOU,長崎県,2049,SHIURA,長崎県,2883,HITA,長崎県,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,609,CICO2A,長崎県,803,VIVI12,長崎県,1591,TAU,長崎県,0,,-
 HAPPY SKY,Votum stellarum,0,,-,569,CICO2A,長崎県,1579,ACBEXE,長崎県,1895,KAEDE,長崎県,0,,-
 HAPPY SKY,vault of heaven,0,,-,744,GOMI,長崎県,1220,CLUMSY,長崎県,1950,P,長崎県,0,,-
@@ -248,7 +248,7 @@ HAPPY SKY,Tizona d'El Cid,0,,-,870,ROBROY,長崎県,1616,IIIIDX,長崎県,2228,K
 HAPPY SKY,SigSig,617,CICO2A,長崎県,956,ZAKI,長崎県,1622,SHIURA,長崎県,2550,P,長崎県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,838,CICO2A,長崎県,1534,SHIURA,長崎県,1997,KAEDE,長崎県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,911,LOVELY,長崎県,1740,TEKA*Y,長崎県,2368,KAEDE,長崎県,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1350,FENCER,長崎県,2068,LUFT,長崎県,2912,LAMY,長崎県,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1350,FENCER,長崎県,2068,LUFT,長崎県,2912,HITA,長崎県,0,,-
 HAPPY SKY,SCREAM SQUAD,0,,-,856,VIVI12,長崎県,1579,K.FLAN,長崎県,1940,HEIPON,長崎県,0,,-
 HAPPY SKY,rage against usual,0,,-,908,CICO2A,長崎県,1859,ACBEXE,長崎県,2725,HEIPON,長崎県,0,,-
 HAPPY SKY,POODLE,0,,-,843,CICO2A,長崎県,1655,RYTHEM,長崎県,2272,P,長崎県,3240,HEIPON,長崎県
@@ -262,7 +262,7 @@ HAPPY SKY,LESSON 5,0,,-,945,CICO2A,長崎県,1375,KAYAKI,長崎県,2424,HEIPON,�
 HAPPY SKY,INAZUMA,0,,-,819,CICO2A,長崎県,1626,ABABA,長崎県,2622,P,長崎県,0,,-
 HAPPY SKY,in motion,0,,-,680,CICO2A,長崎県,969,SG2.TR,長崎県,1239,2HISOX,長崎県,0,,-
 HAPPY SKY,I am,0,,-,934,CICO2A,長崎県,1497,RYTHEM,長崎県,2077,TAU,長崎県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,633,RIV*,長崎県,928,CICO2A,長崎県,1420,FATE.L,長崎県,2072,P,長崎県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,633,RIV*,長崎県,931,CICO2A,長崎県,1420,FATE.L,長崎県,2072,P,長崎県,0,,-
 HAPPY SKY,GREEN EYES,0,,-,937,NOZOM!,長崎県,1456,SHIURA,長崎県,2080,KAEDE,長崎県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,953,CICO2A,長崎県,1235,ARCAEA,長崎県,2201,P,長崎県,0,,-
 HAPPY SKY,garden,0,,-,759,CICO2A,長崎県,1376,ROBROY,長崎県,2051,KAEDE,長崎県,0,,-
@@ -272,31 +272,31 @@ HAPPY SKY,EDEN,0,,-,958,CICO2A,長崎県,1807,YUA*M,長崎県,2658,KAEDE,長崎�
 HAPPY SKY,double thrash,0,,-,852,LOVELY,長崎県,1931,ARCAEA,長崎県,2302,P,長崎県,0,,-
 HAPPY SKY,Catch Me,0,,-,661,CICO2A,長崎県,1024,ROBROY,長崎県,1720,KAEDE,長崎県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,836,CICO2A,長崎県,1662,YUA*M,長崎県,2394,P,長崎県,0,,-
-HAPPY SKY,Aurora,0,,-,953,CICO2A,長崎県,1966,SHIURA,長崎県,2471,P,長崎県,0,,-
+HAPPY SKY,Aurora,0,,-,953,CICO2A,長崎県,1980,ACBEXE,長崎県,2471,P,長崎県,0,,-
 HAPPY SKY,alla turca con passione,0,,-,714,CICO2A,長崎県,1439,NOZOM!,長崎県,2128,HEIPON,長崎県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,731,CICO2A,長崎県,1409,S.MAYU,長崎県,1990,KAEDE,長崎県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,761,CICO2A,長崎県,1503,ACBEXE,長崎県,1645,KAEDE,長崎県,0,,-
 DistorteD,虹色,0,,-,770,CICO2A,長崎県,1471,SHIURA,長崎県,1808,P,長崎県,0,,-
 DistorteD,華蝶風雪,0,,-,1167,YUSUKE,長崎県,1933,YUA*M,長崎県,2929,P,長崎県,0,,-
-DistorteD,罠,0,,-,503,CICO2A,長崎県,1428,FV4005,長崎県,2430,P,長崎県,0,,-
-DistorteD,嘆きの樹,0,,-,1681,YUA*M,長崎県,2377,LAMY,長崎県,3714,EDMPAN,長崎県,0,,-
-DistorteD,タシカナモノ,0,,-,849,CICO2A,長崎県,1335,FV4005,長崎県,2006,HEIPON,長崎県,0,,-
-DistorteD,カゴノトリ～弐式～,0,,-,892,LOVELY,長崎県,1769,8RUURR,長崎県,2578,LAMY,長崎県,0,,-
+DistorteD,罠,0,,-,503,CICO2A,長崎県,1428,RYOMA,長崎県,2430,P,長崎県,0,,-
+DistorteD,嘆きの樹,0,,-,1681,YUA*M,長崎県,2377,HITA,長崎県,3714,EDMPAN,長崎県,0,,-
+DistorteD,タシカナモノ,0,,-,849,CICO2A,長崎県,1335,RYOMA,長崎県,2006,HEIPON,長崎県,0,,-
+DistorteD,カゴノトリ～弐式～,0,,-,892,LOVELY,長崎県,1770,ARCAEA,長崎県,2578,HITA,長崎県,0,,-
 DistorteD,Zenius -I- vanisher,0,,-,834,CICO2A,長崎県,1532,KAEDE,長崎県,2347,P,長崎県,0,,-
 DistorteD,with you…,0,,-,640,CICO2A,長崎県,978,ROBROY,長崎県,1692,K.FLAN,長崎県,0,,-
 DistorteD,WISH(EUROBEAT MIX),0,,-,883,CICO2A,長崎県,1429,Z-GIRL,長崎県,1958,P,長崎県,0,,-
 DistorteD,Why did you go away,548,CICO2A,長崎県,964,CICO2A,長崎県,1672,SHIURA,長崎県,2278,P,長崎県,0,,-
-DistorteD,waxing and wanding,0,,-,1184,GOMI,長崎県,1898,ABABA,長崎県,2822,P,長崎県,3830,LAMY,長崎県
+DistorteD,waxing and wanding,0,,-,1184,GOMI,長崎県,1898,ABABA,長崎県,2822,P,長崎県,3830,HITA,長崎県
 DistorteD,TYPE MARS(G-Style Mix),0,,-,895,CICO2A,長崎県,1484,ROBROY,長崎県,2296,KAEDE,長崎県,0,,-
-DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,810,SHAGIR,長崎県,1743,MASA.,長崎県,2401,LAMY,長崎県,0,,-
+DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,810,SHAGIR,長崎県,1743,MASA.,長崎県,2401,HITA,長崎県,0,,-
 DistorteD,This is Love,0,,-,802,CICO2A,長崎県,1593,YUSUKE,長崎県,2401,P,長崎県,0,,-
-DistorteD,The Dirty of Loudness,0,,-,1193,ROBROY,長崎県,2166,HEIPON,長崎県,2472,LAMY,長崎県,0,,-
+DistorteD,The Dirty of Loudness,0,,-,1323,OCTSZY,長崎県,2166,HEIPON,長崎県,2482,P,長崎県,0,,-
 DistorteD,Sun Field,0,,-,470,CICO2A,長崎県,1319,COPEN.,長崎県,2348,HEIPON,長崎県,0,,-
-DistorteD,So Fabulous !!,0,,-,906,CICO2A,長崎県,1339,MASA.,長崎県,2263,HEIPON,長崎県,0,,-
+DistorteD,So Fabulous !!,0,,-,906,CICO2A,長崎県,1517,MASA.,長崎県,2263,HEIPON,長崎県,0,,-
 DistorteD,Power of Love,0,,-,629,CICO2A,長崎県,1264,AOI*,長崎県,2037,K.FLAN,長崎県,0,,-
 DistorteD,MOON,0,,-,752,CICO2A,長崎県,1692,ROBROY,長崎県,2166,P,長崎県,0,,-
 DistorteD,MINT,0,,-,654,CICO2A,長崎県,1663,ABABA,長崎県,2251,P,長崎県,0,,-
-DistorteD,Leaving...,0,,-,733,FV4005,長崎県,1275,HTS,長崎県,2130,P,長崎県,0,,-
+DistorteD,Leaving...,0,,-,733,RYOMA,長崎県,1275,HTS,長崎県,2130,P,長崎県,0,,-
 DistorteD,INFERNO,0,,-,1095,ABABA,長崎県,1302,AOI*,長崎県,1805,ACBEXE,長崎県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,681,CICO2A,長崎県,1298,AOI*,長崎県,2066,KAEDE,長崎県,0,,-
 DistorteD,Harmony and Lovely,0,,-,756,CICO2A,長崎県,1658,SHIURA,長崎県,2163,KAEDE,長崎県,0,,-
@@ -307,89 +307,89 @@ DistorteD,Double Loving Heart,0,,-,281,ASACO*,長崎県,1111,AOI*,長崎県,1789
 DistorteD,D.C.fish,0,,-,809,CICO2A,長崎県,1844,ACBEXE,長崎県,2283,P,長崎県,0,,-
 DistorteD,CONTRACT,0,,-,1068,ROBROY,長崎県,1486,ACBEXE,長崎県,1944,KAEDE,長崎県,2579,P,長崎県
 DistorteD,Concertino in Blue,323,CICO2A,長崎県,658,LOVELY,長崎県,1549,ABABA,長崎県,2345,P,長崎県,0,,-
-DistorteD,Broadbanded,0,,-,736,CICO2A,長崎県,1173,ROBROY,長崎県,1957,KAEDE,長崎県,0,,-
+DistorteD,Broadbanded,0,,-,783,GOMI,長崎県,1173,ROBROY,長崎県,1957,KAEDE,長崎県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,784,CICO2A,長崎県,1477,ROBROY,長崎県,2234,P,長崎県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,964,CICO2A,長崎県,1832,YUA*M,長崎県,2112,P,長崎県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,623,CICO2A,長崎県,899,AOI*,長崎県,1445,ARCAEA,長崎県,0,,-
-DistorteD,Apocalypse ～dirge of swans～,222,CICO2A,長崎県,747,CICO2A,長崎県,1747,LAMY,長崎県,2275,KAEDE,長崎県,0,,-
+DistorteD,Apocalypse ～dirge of swans～,222,CICO2A,長崎県,747,CICO2A,長崎県,1747,HITA,長崎県,2325,P,長崎県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,339,TTZK,長崎県,951,CICO2A,長崎県,1520,YUSUKE,長崎県,2056,P,長崎県,0,,-
-GOLD,電人、暁に斃れる。,596,CICO2A,長崎県,962,CICO2A,長崎県,2205,LUFT,長崎県,3302,LAMY,長崎県,0,,-
+GOLD,電人、暁に斃れる。,596,CICO2A,長崎県,962,CICO2A,長崎県,2205,LUFT,長崎県,3302,HITA,長崎県,0,,-
 GOLD,零 - ZERO -,206,CICO2A,長崎県,1084,YUSUKE,長崎県,1708,ABABA,長崎県,2295,P,長崎県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,631,CICO2A,長崎県,918,AOI*,長崎県,1397,HEIPON,長崎県,0,,-
 GOLD,星をこの手に,0,,-,1161,ABABA,長崎県,1497,ROBROY,長崎県,2061,KAEDE,長崎県,0,,-
 GOLD,リグレット,0,,-,1054,CICO2A,長崎県,1500,AOI*,長崎県,2326,KAEDE,長崎県,0,,-
-GOLD,ヨシダさん,0,,-,840,GOMI,長崎県,1318,AOI*,長崎県,1931,LAMY,長崎県,0,,-
+GOLD,ヨシダさん,0,,-,840,GOMI,長崎県,1318,AOI*,長崎県,1931,HITA,長崎県,0,,-
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,353,TTZK,長崎県,793,CICO2A,長崎県,1381,AIR,長崎県,2206,P,長崎県,0,,-
 GOLD,With your Smile,0,,-,663,CICO2A,長崎県,1075,AOI*,長崎県,1549,HEIPON,長崎県,0,,-
 GOLD,Watch out!!,0,,-,602,CICO2A,長崎県,646,CICO2A,長崎県,1504,HEIPON,長崎県,0,,-
-GOLD,VANESSA,0,,-,828,RA,長崎県,1659,K.FLAN,長崎県,2246,HEIPON,長崎県,3037,LAMY,長崎県
-GOLD,TRANOID,0,,-,664,CICO2A,長崎県,1403,UNTAN,長崎県,1973,MASA.,長崎県,2741,LAMY,長崎県
+GOLD,VANESSA,0,,-,828,RA,長崎県,1659,K.FLAN,長崎県,2246,HEIPON,長崎県,3037,HITA,長崎県
+GOLD,TRANOID,0,,-,664,CICO2A,長崎県,1403,UNTAN,長崎県,1973,MASA.,長崎県,2741,HITA,長崎県
 GOLD,The Smile of You,0,,-,806,CICO2A,長崎県,1174,AOI*,長崎県,1613,ARCAEA,長崎県,0,,-
 GOLD,the shadow,0,,-,843,AZ-PON,長崎県,1651,ROBROY,長崎県,2807,HEIPON,長崎県,0,,-
-GOLD,snow storm,132,CI,長崎県,654,CICO2A,長崎県,2005,R,長崎県,2686,EDMPAN,長崎県,3282,LAMY,長崎県
+GOLD,snow storm,132,CI,長崎県,654,CICO2A,長崎県,2005,R,長崎県,2686,EDMPAN,長崎県,3282,HITA,長崎県
 GOLD,smile,0,,-,1168,CICO2A,長崎県,2082,YUA*M,長崎県,2739,KAEDE,長崎県,0,,-
 GOLD,Sense 2007,0,,-,1429,ABABA,長崎県,2052,8RUURR,長崎県,2731,P,長崎県,0,,-
 GOLD,Second Heaven,199,CICO2A,長崎県,807,COPEN.,長崎県,1435,YUA*M,長崎県,2081,HEIPON,長崎県,0,,-
 GOLD,Roulette,0,,-,765,CICO2A,長崎県,1169,AOI*,長崎県,2071,HEIPON,長崎県,0,,-
 GOLD,PHOTONGENIC,0,,-,891,3GPO,長崎県,1747,Z-GIRL,長崎県,2224,K.FLAN,長崎県,0,,-
-GOLD,op.31 叙情,0,,-,549,LAMY,長崎県,1126,KAEDE,長崎県,1498,LAMY,長崎県,0,,-
+GOLD,op.31 叙情,0,,-,549,HITA,長崎県,1126,KAEDE,長崎県,1498,HITA,長崎県,0,,-
 GOLD,never…,0,,-,738,CICO2A,長崎県,1169,AOI*,長崎県,1789,HEIPON,長崎県,0,,-
 GOLD,METALLIC MIND,0,,-,668,CICO2A,長崎県,1333,SHIURA,長崎県,1563,P,長崎県,0,,-
 GOLD,Make Me Your Own,0,,-,668,CICO2A,長崎県,1307,NAMERK,長崎県,2021,KAEDE,長崎県,0,,-
-GOLD,Love Again...,0,,-,467,CICO2A,長崎県,732,AOI*,長崎県,1054,HEIPON,長崎県,0,,-
+GOLD,Love Again...,0,,-,467,CICO2A,長崎県,762,ARCAEA,長崎県,1054,HEIPON,長崎県,0,,-
 GOLD,LASER CRUSTER,0,,-,1060,CICO2A,長崎県,2253,K.FLAN,長崎県,3076,P,長崎県,0,,-
-GOLD,KAMAITACHI,0,,-,876,AZ-PON,長崎県,1700,F-REO,長崎県,2644,P,長崎県,3628,LAMY,長崎県
-GOLD,INORI,0,,-,1161,CICO2A,長崎県,2411,ABABA,長崎県,3081,LAMY,長崎県,0,,-
-GOLD,High School Love,379,CICO2A,長崎県,769,CICO2A,長崎県,1403,AOI*,長崎県,2157,LAMY,長崎県,0,,-
+GOLD,KAMAITACHI,0,,-,876,AZ-PON,長崎県,1700,F-REO,長崎県,2644,P,長崎県,3628,HITA,長崎県
+GOLD,INORI,0,,-,1161,CICO2A,長崎県,2411,ABABA,長崎県,3081,HITA,長崎県,0,,-
+GOLD,High School Love,379,CICO2A,長崎県,769,CICO2A,長崎県,1403,AOI*,長崎県,2157,HITA,長崎県,0,,-
 GOLD,heaven above,0,,-,628,TOMO,長崎県,996,KAYAKI,長崎県,1713,K.FLAN,長崎県,0,,-
 GOLD,GRID KNIGHT,0,,-,648,CICO2A,長崎県,1638,ROBROY,長崎県,2556,P,長崎県,3352,KAEDE,長崎県
 GOLD,GOLD RUSH,528,RIV*,長崎県,954,GOMI,長崎県,1297,NAMERK,長崎県,2238,KAEDE,長崎県,0,,-
-GOLD,four-leaf,0,,-,615,CICO2A,長崎県,556,CICO2A,長崎県,1575,MASA.,長崎県,0,,-
+GOLD,four-leaf,0,,-,615,CICO2A,長崎県,556,CICO2A,長崎県,1599,MASA.,長崎県,0,,-
 GOLD,FIRE FIRE,501,CICO2A,長崎県,991,JENNY,長崎県,1683,K.FLAN,長崎県,2601,HEIPON,長崎県,0,,-
-GOLD,Fascination MAXX,0,,-,931,LAMY,長崎県,1664,LAMY,長崎県,2344,LAMY,長崎県,0,,-
+GOLD,Fascination MAXX,0,,-,931,HITA,長崎県,1664,HITA,長崎県,2344,HITA,長崎県,0,,-
 GOLD,Cyber Force,0,,-,968,CICO2A,長崎県,1772,MASA.,長崎県,2319,P,長崎県,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,936,CICO2A,長崎県,1639,YUA*M,長崎県,2184,P,長崎県,0,,-
 GOLD,CaptivAte～誓い～,0,,-,926,CICO2A,長崎県,1813,SHIURA,長崎県,2206,P,長崎県,0,,-
 GOLD,CaptivAte～裁き～,350,CICO2A,長崎県,676,CICO2A,長崎県,1239,KAEDE,長崎県,1693,TAU,長崎県,0,,-
-GOLD,Candy Galy,0,,-,1269,RYTHEM,長崎県,2370,MASA.,長崎県,3419,LAMY,長崎県,0,,-
+GOLD,Candy Galy,0,,-,1269,RYTHEM,長崎県,2370,MASA.,長崎県,3419,HITA,長崎県,0,,-
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1094,GOMI,長崎県,1873,ARCAEA,長崎県,2442,P,長崎県,0,,-
 GOLD,ANDROMEDA II,0,,-,801,CICO2A,長崎県,1767,ABABA,長崎県,2350,KAEDE,長崎県,0,,-
 GOLD,Air Bell,0,,-,778,CICO2A,長崎県,1207,AOI*,長崎県,1693,HEIPON,長崎県,0,,-
-DJ TROOPERS,走馬灯 -The Last Song-,0,,-,431,CICO2A,長崎県,751,CICO2A,長崎県,1332,LAMY,長崎県,0,,-
+DJ TROOPERS,走馬灯 -The Last Song-,0,,-,431,CICO2A,長崎県,751,CICO2A,長崎県,1332,HITA,長崎県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,272,3GPO,長崎県,793,DAOS,長崎県,1465,AIR,長崎県,2012,P,長崎県,0,,-
 DJ TROOPERS,少年A,0,,-,844,AZ-PON,長崎県,1843,SHIURA,長崎県,2602,KAEDE,長崎県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,989,GOMI,長崎県,1662,RAICHI,長崎県,2591,P,長崎県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,722,CICO2A,長崎県,1228,AOI*,長崎県,1767,HEIPON,長崎県,0,,-
-DJ TROOPERS,エコ爺,184,HASMI,長崎県,776,ARCAEA,長崎県,1059,KAYAKI,長崎県,1811,TAU,長崎県,0,,-
-DJ TROOPERS,Wanna Party?,0,,-,621,CICO2A,長崎県,1011,AOI*,長崎県,1468,ARCAEA,長崎県,2507,LAMY,長崎県
+DJ TROOPERS,エコ爺,323,ROBROY,長崎県,776,ARCAEA,長崎県,1059,KAYAKI,長崎県,1811,TAU,長崎県,0,,-
+DJ TROOPERS,Wanna Party?,0,,-,621,CICO2A,長崎県,1011,AOI*,長崎県,1468,ARCAEA,長崎県,2507,HITA,長崎県
 DJ TROOPERS,Ubertreffen,0,,-,866,LOVELY,長崎県,1885,ACBEXE,長崎県,2364,KAEDE,長崎県,3098,P,長崎県
 DJ TROOPERS,TROOPERS,0,,-,1024,CICO2A,長崎県,2110,ABABA,長崎県,2828,HEIPON,長崎県,0,,-
 DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,554,CICO2A,長崎県,1518,ABABA,長崎県,1712,KAEDE,長崎県,0,,-
 DJ TROOPERS,Time to Air,0,,-,1059,CICO2A,長崎県,1982,YUA*M,長崎県,2781,P,長崎県,0,,-
-DJ TROOPERS,the trigger of innocence,0,,-,795,CICO2A,長崎県,1109,AOI*,長崎県,1841,LAMY,長崎県,3017,K.FLAN,長崎県
+DJ TROOPERS,the trigger of innocence,0,,-,795,CICO2A,長崎県,1109,AOI*,長崎県,1841,HITA,長崎県,3017,K.FLAN,長崎県
 DJ TROOPERS,THE DEEP STRIKER,397,TTZK,長崎県,855,CICO2A,長崎県,2014,ACBEXE,長崎県,2924,P,長崎県,3281,KAEDE,長崎県
 DJ TROOPERS,switch,0,,-,688,GOMI,長崎県,1211,ROBROY,長崎県,1981,K.FLAN,長崎県,0,,-
 DJ TROOPERS,STEEL NEEDLE,0,,-,922,CICO2A,長崎県,1971,RIV*,長崎県,2268,ARCAEA,長崎県,2922,HEIPON,長崎県
 DJ TROOPERS,State Of The Art,0,,-,878,CICO2A,長崎県,1333,KOU,長崎県,3007,HEIPON,長崎県,0,,-
-DJ TROOPERS,SOUND OF GIALLARHORN,427,SKN,長崎県,1094,LOVELY,長崎県,2555,K.FLAN,長崎県,3196,LAMY,長崎県,0,,-
-DJ TROOPERS,soldier's waltz,0,,-,649,CICO2A,長崎県,1378,ROBROY,長崎県,2333,KAEDE,長崎県,0,,-
+DJ TROOPERS,SOUND OF GIALLARHORN,427,SKN,長崎県,1094,LOVELY,長崎県,2555,K.FLAN,長崎県,3196,HITA,長崎県,0,,-
+DJ TROOPERS,soldier's waltz,0,,-,649,CICO2A,長崎県,1378,ROBROY,長崎県,2341,HEIPON,長崎県,0,,-
 DJ TROOPERS,scar in the earth,0,,-,573,CICO2A,長崎県,982,HAGE,長崎県,1480,HEIPON,長崎県,0,,-
 DJ TROOPERS,satfinal,0,,-,1073,ABABA,長崎県,1339,COPEN.,長崎県,1888,KAEDE,長崎県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,791,CICO2A,長崎県,1779,ACBEXE,長崎県,2420,HEIPON,長崎県,0,,-
-DJ TROOPERS,Ristaccia,0,,-,963,CICO2A,長崎県,1698,RAICHI,長崎県,2625,LAMY,長崎県,0,,-
+DJ TROOPERS,Ristaccia,0,,-,963,CICO2A,長崎県,1698,RAICHI,長崎県,2625,HITA,長崎県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1263,ABABA,長崎県,1648,ROBROY,長崎県,2288,P,長崎県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,559,CICO2A,長崎県,1395,AOI*,長崎県,1721,ARCAEA,長崎県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,941,SIGNUM,長崎県,1728,K.FLAN,長崎県,2547,HEIPON,長崎県,0,,-
 DJ TROOPERS,oratio,0,,-,1115,KRH**,長崎県,1793,YUA*M,長崎県,2813,P,長崎県,0,,-
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,836,CICO2A,長崎県,1797,SHIURA,長崎県,2482,P,長崎県,0,,-
-DJ TROOPERS,MENTAL MELTDOWN,0,,-,1015,GOMI,長崎県,2045,ABABA,長崎県,2660,LAMY,長崎県,0,,-
-DJ TROOPERS,MENDES,0,,-,947,ZAKI,長崎県,2454,K.FLAN,長崎県,3369,LAMY,長崎県,0,,-
-DJ TROOPERS,MAX LOVE,0,,-,1271,CICO2A,長崎県,2044,Z-GIRL,長崎県,2613,P,長崎県,0,,-
+DJ TROOPERS,MENTAL MELTDOWN,0,,-,1015,GOMI,長崎県,2045,ABABA,長崎県,2660,HITA,長崎県,0,,-
+DJ TROOPERS,MENDES,0,,-,947,ZAKI,長崎県,2454,K.FLAN,長崎県,3369,HITA,長崎県,0,,-
+DJ TROOPERS,MAX LOVE,0,,-,1284,GOMI,長崎県,2044,Z-GIRL,長崎県,2613,P,長崎県,0,,-
 DJ TROOPERS,madrugada,0,,-,621,CICO2A,長崎県,1135,SHIURA,長崎県,1783,P,長崎県,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,980,CICO2A,長崎県,2004,F-REO,長崎県,2795,P,長崎県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1078,GOMI,長崎県,1295,AOI*,長崎県,2003,P,長崎県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1143,KAYAKI,長崎県,2124,P,長崎県,2506,P,長崎県,0,,-
-DJ TROOPERS,ICARUS,0,,-,1243,KAEDE,長崎県,1993,HEIPON,長崎県,2260,LAMY,長崎県,3366,LAMY,長崎県
+DJ TROOPERS,ICARUS,0,,-,1243,KAEDE,長崎県,1993,HEIPON,長崎県,2260,HITA,長崎県,3366,HITA,長崎県
 DJ TROOPERS,Freeway Shuffle,218,IIDX28,長崎県,697,CICO2A,長崎県,879,RA,長崎県,1818,HEIPON,長崎県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,452,#-QNK-,長崎県,1444,ROXAS,長崎県,2189,P,長崎県,0,,-
 DJ TROOPERS,end of world,0,,-,710,TOMO,長崎県,1647,ABABA,長崎県,2366,KAEDE,長崎県,0,,-
@@ -401,26 +401,26 @@ DJ TROOPERS,Blue Rain,310,CICO2A,長崎県,934,SG2.TR,長崎県,1498,SHIURA,長�
 DJ TROOPERS,beatonic nation,0,,-,1036,CICO2A,長崎県,1650,AOI*,長崎県,2119,HEIPON,長崎県,0,,-
 DJ TROOPERS,Be OK,0,,-,898,FATE.L,長崎県,1444,AOI*,長崎県,2352,P,長崎県,3160,KAEDE,長崎県
 DJ TROOPERS,avant-guerre,0,,-,562,CICO2A,長崎県,956,KAYAKI,長崎県,1774,KAEDE,長崎県,0,,-
-DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,961,CICO2A,長崎県,2056,MASA.,長崎県,2765,P,長崎県,3563,LAMY,長崎県
-DJ TROOPERS,2 tribe 4 K,0,,-,738,CICO2A,長崎県,816,CICO2A,長崎県,2656,LAMY,長崎県,0,,-
+DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,961,CICO2A,長崎県,2056,MASA.,長崎県,2765,P,長崎県,3563,HITA,長崎県
+DJ TROOPERS,2 tribe 4 K,0,,-,738,CICO2A,長崎県,1141,NAGO,長崎県,2678,HEIPON,長崎県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,839,CICO2A,長崎県,1432,AOI*,長崎県,2117,P,長崎県,0,,-
-EMPRESS,翼,0,,-,775,CICO2A,長崎県,1442,IIDX28,長崎県,1931,HEIPON,長崎県,0,,-
+EMPRESS,翼,0,,-,775,CICO2A,長崎県,1469,SHIURA,長崎県,1931,HEIPON,長崎県,0,,-
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,602,CICO2A,長崎県,1108,AOI*,長崎県,2011,P,長崎県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,764,CICO2A,長崎県,1996,K.FLAN,長崎県,2419,KAEDE,長崎県,0,,-
-EMPRESS,卑弥呼,0,,-,828,YAN,長崎県,2514,8RUURR,長崎県,3691,LAMY,長崎県,0,,-
+EMPRESS,卑弥呼,0,,-,828,YAN,長崎県,2514,8RUURR,長崎県,3691,HITA,長崎県,0,,-
 EMPRESS,凛として咲く花の如く,366,GOMI,長崎県,1152,LOVELY,長崎県,1985,F-REO,長崎県,2750,P,長崎県,3123,P,長崎県
-EMPRESS,不沈艦CANDY,557,CICO2A,長崎県,986,ZAKI,長崎県,1858,FV4005,長崎県,3188,LAMY,長崎県,0,,-
+EMPRESS,不沈艦CANDY,557,CICO2A,長崎県,986,ZAKI,長崎県,1860,ARCAEA,長崎県,3188,HITA,長崎県,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,816,LOVELY,長崎県,1562,SHIURA,長崎県,2670,KAEDE,長崎県,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,852,CICO2A,長崎県,2121,P,長崎県,2408,KAEDE,長崎県,0,,-
 EMPRESS,まほろば,0,,-,650,CICO2A,長崎県,1227,AOI*,長崎県,1977,P,長崎県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1110,FATE.L,長崎県,1666,ACBEXE,長崎県,2365,K.FLAN,長崎県,0,,-
-EMPRESS,Y&Co. is dead or alive,0,,-,827,CICO2A,長崎県,1482,ROBROY,長崎県,2614,HEIPON,長崎県,0,,-
-EMPRESS,V2,714,CICO2A,長崎県,1183,CICO2A,長崎県,3085,LAMY,長崎県,3407,LAMY,長崎県,0,,-
+EMPRESS,Y&Co. is dead or alive,0,,-,844,CICO2A,長崎県,1482,ROBROY,長崎県,2614,HEIPON,長崎県,0,,-
+EMPRESS,V2,714,CICO2A,長崎県,1183,CICO2A,長崎県,3085,HITA,長崎県,3407,HITA,長崎県,0,,-
 EMPRESS,Turii ～Panta rhei～,344,CICO2A,長崎県,782,CICO2A,長崎県,1890,ACBEXE,長崎県,2593,P,長崎県,0,,-
-EMPRESS,THANK YOU FOR PLAYING,0,,-,702,VIVI12,長崎県,1522,AZU*,長崎県,1984,K.FLAN,長崎県,2850,LAMY,長崎県
+EMPRESS,THANK YOU FOR PLAYING,0,,-,702,VIVI12,長崎県,1522,AZU*,長崎県,1984,K.FLAN,長崎県,2850,HITA,長崎県
 EMPRESS,SOLITON BEAM,0,,-,757,CICO2A,長崎県,2037,SHIURA,長崎県,2272,K.FLAN,長崎県,0,,-
 EMPRESS,smooooch・∀・,380,CICO2A,長崎県,757,CICO2A,長崎県,1496,RYTHEM,長崎県,2099,P,長崎県,0,,-
-EMPRESS,Secrets,0,,-,956,CICO2A,長崎県,1904,ROBROY,長崎県,3012,P,長崎県,3816,LAMY,長崎県
+EMPRESS,Secrets,0,,-,956,CICO2A,長崎県,1904,ROBROY,長崎県,3012,P,長崎県,3816,HITA,長崎県
 EMPRESS,Queen's Tragedy,0,,-,690,CICO2A,長崎県,1406,ROBROY,長崎県,2173,HEIPON,長崎県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,998,CICO2A,長崎県,1640,SHIURA,長崎県,2468,P,長崎県,0,,-
 EMPRESS,Programmed World,0,,-,651,TOMO,長崎県,1489,ROBROY,長崎県,2228,STEAK,長崎県,0,,-
@@ -438,23 +438,23 @@ EMPRESS,Go Beyond!!,483,CICO2A,長崎県,724,YAN,長崎県,1649,K.FLAN,長崎県
 EMPRESS,Fly Above,0,,-,897,CICO2A,長崎県,1472,AOI*,長崎県,2014,HEIPON,長崎県,0,,-
 EMPRESS,Flash Back 90's,0,,-,803,CICO2A,長崎県,1757,ABABA,長崎県,2275,P,長崎県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,836,CICO2A,長崎県,1576,ROBROY,長崎県,2401,K.FLAN,長崎県,0,,-
-EMPRESS,Colorful Cookie,625,CICO2A,長崎県,1067,YUSUKE,長崎県,2211,K.FLAN,長崎県,3331,LAMY,長崎県,0,,-
+EMPRESS,Colorful Cookie,625,CICO2A,長崎県,1067,YUSUKE,長崎県,2211,K.FLAN,長崎県,3331,HITA,長崎県,0,,-
 EMPRESS,CaptivAte2～覚醒～,213,CICO2A,長崎県,787,CICO2A,長崎県,1539,F-REO,長崎県,2272,KAEDE,長崎県,0,,-
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,810,CICO2A,長崎県,1458,KAEDE,長崎県,2007,OKAYU,長崎県,0,,-
-EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,882,CICO2A,長崎県,2052,KOY,長崎県,3714,LAMY,長崎県,0,,-
-EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1005,KOU,長崎県,1691,HIROO,長崎県,2578,P,長崎県,3156,LAMY,長崎県
-EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,823,AZ-PON,長崎県,2179,ACBEXE,長崎県,3447,LAMY,長崎県,4331,EDMPAN,長崎県
-EMPRESS,Arabian Rave Night,0,,-,1063,CICO2A,長崎県,2135,SHIURA,長崎県,2830,P,長崎県,3398,LAMY,長崎県
+EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,882,CICO2A,長崎県,2052,KOY,長崎県,3714,HITA,長崎県,0,,-
+EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1005,KOU,長崎県,1691,HIROO,長崎県,2578,P,長崎県,3156,HITA,長崎県
+EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,823,AZ-PON,長崎県,2179,ACBEXE,長崎県,3447,HITA,長崎県,4331,EDMPAN,長崎県
+EMPRESS,Arabian Rave Night,0,,-,1063,CICO2A,長崎県,2135,SHIURA,長崎県,2830,P,長崎県,3398,HITA,長崎県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,896,CICO2A,長崎県,1757,ABABA,長崎県,2447,KAEDE,長崎県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,905,CICO2A,長崎県,1388,ROBROY,長崎県,1998,ARCAEA,長崎県,0,,-
 EMPRESS,3y3s,443,CICO2A,長崎県,1361,OCTSZY,長崎県,2451,8RUURR,長崎県,3227,8RUURR,長崎県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,534,CICO2A,長崎県,1101,KAYAKI,長崎県,1966,KAEDE,長崎県,0,,-
 SIRIUS,未来のプリズム,0,,-,613,CICO2A,長崎県,1129,ROBROY,長崎県,1733,HEIPON,長崎県,0,,-
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,824,AZ-PON,長崎県,2059,SHIURA,長崎県,2990,LAMY,長崎県,0,,-
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,824,AZ-PON,長崎県,2059,SHIURA,長崎県,2990,HITA,長崎県,0,,-
 SIRIUS,バビロニア,0,,-,749,CICO2A,長崎県,1244,AOI*,長崎県,1784,OKAYU,長崎県,0,,-
 SIRIUS,サヨナラ・ヘヴン,305,TTZK,長崎県,798,GOMI,長崎県,1224,IIDX28,長崎県,1617,KAEDE,長崎県,0,,-
 SIRIUS,コスモス,0,,-,797,CICO2A,長崎県,1380,UNTAN,長崎県,2059,HEIPON,長崎県,0,,-
-SIRIUS,たからもの,0,,-,1179,CICO2A,長崎県,1748,FV4005,長崎県,2208,HEIPON,長崎県,0,,-
+SIRIUS,たからもの,0,,-,1179,CICO2A,長崎県,1748,RYOMA,長崎県,2208,HEIPON,長崎県,0,,-
 SIRIUS,かずあそび,0,,-,470,CICO2A,長崎県,1085,YUSUKE,長崎県,1643,OKAYU,長崎県,0,,-
 SIRIUS,The Story Begins,0,,-,769,CICO2A,長崎県,1487,RYTHEM,長崎県,2332,KAEDE,長崎県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,1060,AZ-PON,長崎県,1378,RA,長崎県,2552,EDMPAN,長崎県,0,,-
@@ -467,42 +467,42 @@ SIRIUS,Roots of my way!,0,,-,790,CICO2A,長崎県,1141,AOI*,長崎県,1916,8RUUR
 SIRIUS,Red. by Full Metal Jacket,0,,-,883,CICO2A,長崎県,1958,KAEDE,長崎県,2927,P,長崎県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,817,CICO2A,長崎県,1780,UNTAN,長崎県,2571,8RUURR,長崎県,0,,-
 SIRIUS,quell～the seventh slave～,0,,-,775,CICO2A,長崎県,1734,K.FLAN,長崎県,3029,EDMPAN,長崎県,0,,-
-SIRIUS,Programmed Sun,0,,-,805,CICO2A,長崎県,1528,U46?,長崎県,2438,LAMY,長崎県,0,,-
+SIRIUS,Programmed Sun,0,,-,805,CICO2A,長崎県,1528,U46?,長崎県,2438,HITA,長崎県,0,,-
 SIRIUS,NoN-Fiction Story!,0,,-,652,CICO2A,長崎県,1283,ROBROY,長崎県,2159,P,長崎県,0,,-
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1080,LOVELY,長崎県,1956,ACBEXE,長崎県,2605,STEAK,長崎県,0,,-
-SIRIUS,mosaic,0,,-,1425,ROBROY,長崎県,1967,ABABA,長崎県,2971,P,長崎県,0,,-
-SIRIUS,MIRACLE MEETS,0,,-,827,CICO2A,長崎県,1504,ABABA,長崎県,2172,LAMY,長崎県,0,,-
+SIRIUS,mosaic,0,,-,1425,ROBROY,長崎県,1988,ARCAEA,長崎県,2971,P,長崎県,0,,-
+SIRIUS,MIRACLE MEETS,0,,-,827,CICO2A,長崎県,1504,ABABA,長崎県,2172,HITA,長崎県,0,,-
 SIRIUS,Light Shine,0,,-,697,CICO2A,長崎県,986,AOI*,長崎県,1896,EDMPAN,長崎県,0,,-
 SIRIUS,Last Burning,0,,-,777,CICO2A,長崎県,1267,AOI*,長崎県,2257,KAEDE,長崎県,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,870,CICO2A,長崎県,1371,RAICHI,長崎県,1805,HEIPON,長崎県,0,,-
-SIRIUS,IN THE NAME OF LOVE,513,RIV*,長崎県,617,CICO2A,長崎県,1148,AOI*,長崎県,1893,LAMY,長崎県,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,870,CICO2A,長崎県,1579,ACBEXE,長崎県,1805,HEIPON,長崎県,0,,-
+SIRIUS,IN THE NAME OF LOVE,513,RIV*,長崎県,617,CICO2A,長崎県,1148,AOI*,長崎県,1893,HITA,長崎県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,939,CICO2A,長崎県,1392,WILL,長崎県,2243,KAEDE,長崎県,0,,-
-SIRIUS,GOLDEN CROSS,0,,-,963,LOVELY,長崎県,2036,K.FLAN,長崎県,3349,LAMY,長崎県,0,,-
+SIRIUS,GOLDEN CROSS,0,,-,963,LOVELY,長崎県,2036,K.FLAN,長崎県,3349,HITA,長崎県,0,,-
 SIRIUS,GALGALIM,0,,-,1054,LOVELY,長崎県,1802,ACBEXE,長崎県,2275,HEIPON,長崎県,0,,-
 SIRIUS,G59,0,,-,1343,RA,長崎県,2204,ABABA,長崎県,3723,P,長崎県,0,,-
 SIRIUS,EXUSIA,0,,-,1007,CICO2A,長崎県,2511,ARCAEA,長崎県,3599,P,長崎県,0,,-
 SIRIUS,Evans,463,3GPO,長崎県,1046,RA,長崎県,2108,MASA.,長崎県,2634,P,長崎県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1163,CICO2A,長崎県,2341,SHIURA,長崎県,3067,KAEDE,長崎県,0,,-
-SIRIUS,Empire State Glory,0,,-,919,CICO2A,長崎県,1649,NAMERK,長崎県,2583,P,長崎県,0,,-
+SIRIUS,Empire State Glory,0,,-,1066,ARCAEA,長崎県,1678,SHIURA,長崎県,2583,P,長崎県,0,,-
 SIRIUS,Elisha,346,TTZK,長崎県,839,IIDX28,長崎県,1376,SIGNUM,長崎県,2194,8RUURR,長崎県,0,,-
 SIRIUS,DROP,0,,-,722,CICO2A,長崎県,1631,ROBROY,長崎県,2512,HEIPON,長崎県,0,,-
 SIRIUS,DOMINION,0,,-,1001,VIVI12,長崎県,2180,ABABA,長崎県,3092,P,長崎県,0,,-
 SIRIUS,DESIRE,0,,-,833,CICO2A,長崎県,1641,B6,長崎県,2737,P,長崎県,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,702,CICO2A,長崎県,1328,MRK*HL,長崎県,2056,P,長崎県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1547,RYTHEM,長崎県,2553,YUA*M,長崎県,3009,KAEDE,長崎県,0,,-
-SIRIUS,D,0,,-,1105,ROBROY,長崎県,1500,NAGO,長崎県,2357,8RUURR,長崎県,0,,-
+SIRIUS,D,0,,-,1105,ROBROY,長崎県,1644,SHIURA,長崎県,2357,8RUURR,長崎県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,827,CICO2A,長崎県,1431,AOI*,長崎県,2332,K.FLAN,長崎県,0,,-
 SIRIUS,bloomin' feeling,262,ASACO*,長崎県,1238,ACBEXE,長崎県,1889,ABABA,長崎県,2538,P,長崎県,0,,-
 SIRIUS,being torn the sky,0,,-,606,CICO2A,長崎県,1154,SHIURA,長崎県,1937,P,長崎県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,565,CICO2A,長崎県,1655,Z-GIRL,長崎県,2357,TAU,長崎県,0,,-
-SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,934,CICO2A,長崎県,1536,YUA*M,長崎県,1964,LAMY,長崎県,0,,-
+SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,934,CICO2A,長崎県,1536,YUA*M,長崎県,1964,HITA,長崎県,0,,-
 SIRIUS,bass 2 bass,249,CICO2A,長崎県,660,CICO2A,長崎県,1132,COPEN.,長崎県,1825,HEIPON,長崎県,0,,-
 SIRIUS,Bad Maniacs,0,,-,913,VIVI12,長崎県,1781,K.FLAN,長崎県,3013,STEAK,長崎県,0,,-
-SIRIUS,Almagest,0,,-,956,FATE.L,長崎県,2036,MASA.,長崎県,2921,LAMY,長崎県,0,,-
+SIRIUS,Almagest,0,,-,956,FATE.L,長崎県,2036,MASA.,長崎県,2921,HITA,長崎県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,500,CICO2A,長崎県,942,CICO2A,長崎県,1579,S.MAYU,長崎県,2183,K.FLAN,長崎県,2788,8RUURR,長崎県
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,692,CICO2A,長崎県,1830,Z-GIRL,長崎県,3299,HEIPON,長崎県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,714,CICO2A,長崎県,1830,Z-GIRL,長崎県,3299,HEIPON,長崎県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,564,RIV*,長崎県,972,CICO2A,長崎県,1814,RIV*,長崎県,2696,HEIPON,長崎県,0,,-
-Resort Anthem,旅人リラン,0,,-,1048,YUA*M,長崎県,1789,ABABA,長崎県,2558,LAMY,長崎県,0,,-
+Resort Anthem,旅人リラン,0,,-,1048,YUA*M,長崎県,1789,ABABA,長崎県,2558,HITA,長崎県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,829,CICO2A,長崎県,1889,SHIURA,長崎県,2687,HEIPON,長崎県,0,,-
 Resort Anthem,中華急行,0,,-,317,LOVELY,長崎県,1503,SHIURA,長崎県,2284,P,長崎県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,427,CICO2A,長崎県,714,CICO2A,長崎県,1185,AOI*,長崎県,1810,TAU,長崎県,0,,-
@@ -511,7 +511,7 @@ Resort Anthem,ZETA～素数の世界と超越者～,294,CICO2A,長崎県,460,CIC
 Resort Anthem,XANADU OF TWO,0,,-,925,B6,長崎県,1584,IIIIDX,長崎県,2713,P,長崎県,0,,-
 Resort Anthem,Wuv U,0,,-,391,CICO2A,長崎県,1136,RYTHEM,長崎県,1650,KAEDE,長崎県,0,,-
 Resort Anthem,WISE UP!,188,BCDF,長崎県,441,CICO2A,長崎県,899,KAYAKI,長崎県,1557,HEIPON,長崎県,0,,-
-Resort Anthem,Watch Out Pt.2,0,,-,901,CICO2A,長崎県,1846,TAU,長崎県,2628,LAMY,長崎県,0,,-
+Resort Anthem,Watch Out Pt.2,0,,-,923,CICO2A,長崎県,1846,TAU,長崎県,2628,HITA,長崎県,0,,-
 Resort Anthem,Vermillion,0,,-,520,Z-GIRL,長崎県,938,AOI*,長崎県,1989,KAEDE,長崎県,0,,-
 Resort Anthem,Tropical April,0,,-,1472,ROBROY,長崎県,2149,YUA*M,長崎県,2655,HEIPON,長崎県,0,,-
 Resort Anthem,THE FALLEN,0,,-,824,CICO2A,長崎県,1252,NAMERK,長崎県,2558,KAEDE,長崎県,0,,-
@@ -519,21 +519,21 @@ Resort Anthem,THE DOOR INTO RAINBOW,0,,-,720,CICO2A,長崎県,1446,ROBROY,長崎
 Resort Anthem,THE BLACK KNIGHT,0,,-,826,CICO2A,長崎県,1990,K.FLAN,長崎県,2820,EDMPAN,長崎県,0,,-
 Resort Anthem,STELLAR WIND,364,CICO2A,長崎県,557,CICO2A,長崎県,1468,ROBROY,長崎県,2473,KAEDE,長崎県,0,,-
 Resort Anthem,Stay my side,0,,-,595,CICO2A,長崎県,979,AOI*,長崎県,1287,K.FLAN,長崎県,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,676,CICO2A,長崎県,1378,ROBROY,長崎県,2872,LAMY,長崎県,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,676,CICO2A,長崎県,1378,ROBROY,長崎県,2872,HITA,長崎県,0,,-
 Resort Anthem,Space Time,0,,-,529,CICO2A,長崎県,1315,MA,長崎県,2069,EDMPAN,長崎県,0,,-
 Resort Anthem,Session 9 -Chronicles-,0,,-,574,CICO2A,長崎県,2037,OKAYU,長崎県,3302,P,長崎県,0,,-
 Resort Anthem,sakura storm,0,,-,966,GOMI,長崎県,1232,YUA*M,長崎県,2315,HEIPON,長崎県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,461,CICO2A,長崎県,1532,NAMERK,長崎県,2319,KAEDE,長崎県,0,,-
-Resort Anthem,SABER WING,0,,-,445,CICO2A,長崎県,1701,ABABA,長崎県,2748,LAMY,長崎県,0,,-
+Resort Anthem,SABER WING,0,,-,445,CICO2A,長崎県,1701,ABABA,長崎県,2748,HITA,長崎県,0,,-
 Resort Anthem,Rock Da House,0,,-,726,CICO2A,長崎県,1493,NAMERK,長崎県,2143,KAEDE,長崎県,0,,-
-Resort Anthem,reunion,519,CICO2A,長崎県,1256,ROBROY,長崎県,2279,HEIPON,長崎県,3096,LAMY,長崎県,0,,-
+Resort Anthem,reunion,519,CICO2A,長崎県,1256,ROBROY,長崎県,2279,HEIPON,長崎県,3096,HITA,長崎県,0,,-
 Resort Anthem,Programmed Life,0,,-,713,AAAAAA,長崎県,1439,YUSUKE,長崎県,2229,K.FLAN,長崎県,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1118,COPEN.,長崎県,2267,K.FLAN,長崎県,3637,EDMPAN,長崎県,0,,-
 Resort Anthem,passionate fate,0,,-,975,CICO2A,長崎県,1350,AOI*,長崎県,2049,HEIPON,長崎県,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1027,KAYAKI,長崎県,2196,LAMY,長崎県,2982,EDMPAN,長崎県,0,,-
-Resort Anthem,New Castle Legions,0,,-,895,EXCUBE,長崎県,1933,LAMY,長崎県,2552,HEIPON,長崎県,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1181,ROBROY,長崎県,2196,HITA,長崎県,2982,EDMPAN,長崎県,0,,-
+Resort Anthem,New Castle Legions,0,,-,895,EXCUBE,長崎県,1933,HITA,長崎県,2552,HEIPON,長崎県,0,,-
 Resort Anthem,Never Fade Away,0,,-,712,CICO2A,長崎県,1668,ABABA,長崎県,2904,P,長崎県,0,,-
-Resort Anthem,Mermaid girl,541,CICO2A,長崎県,810,CICO2A,長崎県,1497,UNTAN,長崎県,2200,LAMY,長崎県,0,,-
+Resort Anthem,Mermaid girl,541,CICO2A,長崎県,810,CICO2A,長崎県,1497,UNTAN,長崎県,2200,HITA,長崎県,0,,-
 Resort Anthem,Medicine of love,0,,-,583,CICO2A,長崎県,1030,HAGE,長崎県,1715,P,長崎県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,650,CICO2A,長崎県,1610,F-REO,長崎県,2506,HEIPON,長崎県,0,,-
 Resort Anthem,Kailua,0,,-,442,CICO2A,長崎県,1289,ABABA,長崎県,2048,HEIPON,長崎県,0,,-
@@ -543,20 +543,20 @@ Resort Anthem,Fantasia,206,CICO2A,長崎県,258,ASACO*,長崎県,1504,YUA*M,長�
 Resort Anthem,Everlasting Resort,0,,-,734,CICO2A,長崎県,1137,AOI*,長崎県,1852,HEIPON,長崎県,0,,-
 Resort Anthem,Eternal Tears,0,,-,402,CICO2A,長崎県,1033,AOI*,長崎県,1350,HEIPON,長崎県,0,,-
 Resort Anthem,Energy Drive,0,,-,736,CICO2A,長崎県,1054,KAYAKI,長崎県,2122,HEIPON,長崎県,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,931,LOVELY,長崎県,1585,AOI*,長崎県,2376,P,長崎県,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,931,LOVELY,長崎県,1852,ACBEXE,長崎県,2376,P,長崎県,0,,-
 Resort Anthem,Destiny Sword,0,,-,745,CICO2A,長崎県,1599,UNTAN,長崎県,2340,P,長崎県,0,,-
 Resort Anthem,DAYDREAMER,0,,-,1089,KONA2.,長崎県,1690,YUA*M,長崎県,2496,KAEDE,長崎県,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1056,KAYAKI,長崎県,2189,K.FLAN,長崎県,2930,LAMY,長崎県,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1056,KAYAKI,長崎県,2189,K.FLAN,長崎県,2930,HITA,長崎県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,1029,ABABA,長崎県,1430,ROBROY,長崎県,2264,P,長崎県,0,,-
 Resort Anthem,Broken,0,,-,979,CICO2A,長崎県,1850,AZU*,長崎県,3038,EDMPAN,長崎県,0,,-
 Resort Anthem,Breaking the ground,0,,-,1047,CICO2A,長崎県,1662,YUA*M,長崎県,2461,KAEDE,長崎県,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,1021,F-REO,長崎県,1545,RAICHI,長崎県,2311,HEIPON,長崎県,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,1021,F-REO,長崎県,1615,MASA.,長崎県,2311,HEIPON,長崎県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,657,EUREKA,長崎県,1207,HIROO,長崎県,2065,HEIPON,長崎県,0,,-
-Resort Anthem,Believe In Me,0,,-,879,CICO2A,長崎県,1558,RYTHEM,長崎県,2291,LAMY,長崎県,0,,-
+Resort Anthem,Believe In Me,0,,-,879,CICO2A,長崎県,1558,RYTHEM,長崎県,2291,HITA,長崎県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,798,CICO2A,長崎県,1753,AKI..,長崎県,2867,P,長崎県,0,,-
-Resort Anthem,Answer,0,,-,729,COPEN.,長崎県,1219,KAYAKI,長崎県,2369,P,長崎県,0,,-
-Resort Anthem,ALBIDA,454,CICO2A,長崎県,837,CICO2A,長崎県,1848,K.FLAN,長崎県,2854,LAMY,長崎県,0,,-
-Resort Anthem,Aegis,0,,-,741,CICO2A,長崎県,1259,FV4005,長崎県,2228,LAMY,長崎県,0,,-
+Resort Anthem,Answer,0,,-,729,COPEN.,長崎県,1223,YUSUKE,長崎県,2369,P,長崎県,0,,-
+Resort Anthem,ALBIDA,454,CICO2A,長崎県,837,CICO2A,長崎県,1848,K.FLAN,長崎県,2854,HITA,長崎県,0,,-
+Resort Anthem,Aegis,0,,-,741,CICO2A,長崎県,1337,ARCAEA,長崎県,2228,HITA,長崎県,0,,-
 Lincle,陽炎,0,,-,567,CICO2A,長崎県,1083,YUA*M,長崎県,1970,HEIPON,長崎県,0,,-
 Lincle,衰色小町メランコリア,0,,-,738,GOMI,長崎県,1211,MIZUKI,長崎県,2293,KAEDE,長崎県,0,,-
 Lincle,蛇神,394,CICO2A,長崎県,637,CICO2A,長崎県,1352,ROBROY,長崎県,2705,P,長崎県,0,,-
@@ -569,18 +569,18 @@ Lincle,君のハートにロックオン,0,,-,466,N,長崎県,1525,SHIURA,長崎
 Lincle,ユミル,0,,-,567,CICO2A,長崎県,1269,Z-GIRL,長崎県,2777,P,長崎県,0,,-
 Lincle,ビューティフルレシート,307,CICO2A,長崎県,485,GOMI,長崎県,1111,NAMERK,長崎県,1855,KAEDE,長崎県,0,,-
 Lincle,Yellow Sunrise,0,,-,693,CICO2A,長崎県,1329,YUSUKE,長崎県,2236,P,長崎県,0,,-
-Lincle,yellow head joe,0,,-,657,CICO2A,長崎県,1400,F-REO,長崎県,2164,MASA.,長崎県,0,,-
+Lincle,yellow head joe,0,,-,757,ARCAEA,長崎県,1400,F-REO,長崎県,2164,MASA.,長崎県,0,,-
 Lincle,YAKSHA,0,,-,999,CICO2A,長崎県,2245,LUFT,長崎県,3599,P,長崎県,0,,-
-Lincle,WONDER WALKER,0,,-,866,CICO2A,長崎県,1730,ROY#,長崎県,3690,LAMY,長崎県,0,,-
-Lincle,Voxane,0,,-,506,CICO2A,長崎県,932,KAYAKI,長崎県,1629,KYON**,長崎県,0,,-
-Lincle,Todestrieb,0,,-,985,CICO2A,長崎県,1826,K.FLAN,長崎県,3315,LAMY,長崎県,0,,-
-Lincle,TITANS RETURN,311,CICO2A,長崎県,587,CICO2A,長崎県,1386,ROBROY,長崎県,2328,KAEDE,長崎県,2383,LAMY,長崎県
+Lincle,WONDER WALKER,0,,-,866,CICO2A,長崎県,1730,ROY#,長崎県,3690,HITA,長崎県,0,,-
+Lincle,Voxane,0,,-,506,CICO2A,長崎県,932,KAYAKI,長崎県,1669,TAU,長崎県,0,,-
+Lincle,Todestrieb,0,,-,985,CICO2A,長崎県,1826,K.FLAN,長崎県,3315,HITA,長崎県,0,,-
+Lincle,TITANS RETURN,311,CICO2A,長崎県,587,CICO2A,長崎県,1386,ROBROY,長崎県,2328,KAEDE,長崎県,2383,HITA,長崎県
 Lincle,Thunderbolt,0,,-,893,CICO2A,長崎県,1618,ROBROY,長崎県,3579,P,長崎県,0,,-
 Lincle,The Sampling Paradise,0,,-,707,CICO2A,長崎県,1753,K.FLAN,長崎県,2852,P,長崎県,0,,-
 Lincle,The Limbo,0,,-,993,CICO2A,長崎県,1958,K.FLAN,長崎県,3111,MASA.,長崎県,0,,-
-Lincle,Star Trail,0,,-,526,TOMO,長崎県,1012,AOI*,長崎県,1810,LAMY,長崎県,0,,-
+Lincle,Star Trail,0,,-,526,TOMO,長崎県,1012,AOI*,長崎県,1810,HITA,長崎県,0,,-
 Lincle,Snow Goose,238,TTZK,長崎県,347,CICO2A,長崎県,1229,ROBROY,長崎県,2293,HEIPON,長崎県,0,,-
-Lincle,Snake Stick,0,,-,861,CICO2A,長崎県,1756,ABABA,長崎県,2485,HEIPON,長崎県,0,,-
+Lincle,Snake Stick,0,,-,861,CICO2A,長崎県,1831,ARCAEA,長崎県,2485,HEIPON,長崎県,0,,-
 Lincle,SHADE,0,,-,915,CICO2A,長崎県,2027,HEIPON,長崎県,2847,STEAK,長崎県,0,,-
 Lincle,Several Words,0,,-,574,CICO2A,長崎県,1224,GOMI,長崎県,2132,HEIPON,長崎県,0,,-
 Lincle,Scharfrichter,0,,-,799,LOVELY,長崎県,1461,NAGO,長崎県,2772,KAEDE,長崎県,0,,-
@@ -589,7 +589,7 @@ Lincle,Round and Round,0,,-,696,CICO2A,長崎県,1055,AOI*,長崎県,2066,TAU,�
 Lincle,RESISTANCE,0,,-,303,ASACO*,長崎県,1131,KAYAKI,長崎県,2341,P,長崎県,0,,-
 Lincle,Release The Music,0,,-,711,CICO2A,長崎県,1401,SHIURA,長崎県,1986,K.FLAN,長崎県,0,,-
 Lincle,Quick Silver,0,,-,698,CICO2A,長崎県,1485,ROBROY,長崎県,2545,KAEDE,長崎県,0,,-
-Lincle,quaver♪,275,CICO2A,長崎県,650,CICO2A,長崎県,1954,ROBROY,長崎県,3307,LAMY,長崎県,0,,-
+Lincle,quaver♪,275,CICO2A,長崎県,650,CICO2A,長崎県,1954,ROBROY,長崎県,3307,HITA,長崎県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,988,CICO2A,長崎県,2094,ABABA,長崎県,2739,EDMPAN,長崎県,3443,EDMPAN,長崎県
 Lincle,prompt,0,,-,846,CICO2A,長崎県,1523,AZU*,長崎県,2691,STEAK,長崎県,0,,-
 Lincle,Phoenix,0,,-,688,CICO2A,長崎県,879,KAYAKI,長崎県,2311,K.FLAN,長崎県,0,,-
@@ -604,63 +604,63 @@ Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1014,CICO2A,長崎県,2042,YUA*M,長崎県
 Lincle,Infinite cave,0,,-,712,CICO2A,長崎県,1357,NAMERK,長崎県,1960,KAEDE,長崎県,0,,-
 Lincle,In the Blackest Den,0,,-,731,CICO2A,長崎県,1332,KOU,長崎県,2473,P,長崎県,0,,-
 Lincle,I'm so Happy,219,ASACO*,長崎県,343,KONA2.,長崎県,1216,YUA*M,長崎県,2261,P,長崎県,0,,-
-Lincle,HAERETICUS,0,,-,699,CICO2A,長崎県,1690,IIDX28,長崎県,2836,P,長崎県,0,,-
+Lincle,HAERETICUS,0,,-,699,CICO2A,長崎県,1761,RYS,長崎県,2836,P,長崎県,0,,-
 Lincle,Follow Tomorrow,0,,-,767,CICO2A,長崎県,1383,NAMERK,長崎県,2214,P,長崎県,0,,-
 Lincle,Flip Flap,174,HEISHU,長崎県,534,CICO2A,長崎県,1203,AOI*,長崎県,2149,KAEDE,長崎県,0,,-
-Lincle,fffff,0,,-,781,B6,長崎県,1937,K.FLAN,長崎県,2987,LAMY,長崎県,0,,-
+Lincle,fffff,0,,-,781,B6,長崎県,1937,K.FLAN,長崎県,2987,HITA,長崎県,0,,-
 Lincle,Far east nightbird,267,TTZK,長崎県,438,CICO2A,長崎県,1200,HAGE,長崎県,1952,KAEDE,長崎県,0,,-
 Lincle,F,0,,-,1010,YUSUKE,長崎県,2081,K.FLAN,長崎県,3468,EDMPAN,長崎県,0,,-
-Lincle,Express Emotion,0,,-,702,CICO2A,長崎県,952,CICO2A,長崎県,2478,LAMY,長崎県,0,,-
-Lincle,Drive Me Crazy,0,,-,506,IT-MOO,長崎県,1373,OKAYU,長崎県,2270,P,長崎県,0,,-
-Lincle,DIAVOLO,0,,-,1165,YUSUKE,長崎県,1771,ABABA,長崎県,2899,LAMY,長崎県,0,,-
+Lincle,Express Emotion,0,,-,702,CICO2A,長崎県,952,CICO2A,長崎県,2478,HITA,長崎県,0,,-
+Lincle,Drive Me Crazy,0,,-,529,DIRK,長崎県,1373,OKAYU,長崎県,2270,P,長崎県,0,,-
+Lincle,DIAVOLO,0,,-,1165,YUSUKE,長崎県,1771,ABABA,長崎県,2899,HITA,長崎県,0,,-
 Lincle,Change the World,0,,-,740,CICO2A,長崎県,1240,YUSUKE,長崎県,1790,HEIPON,長崎県,0,,-
 Lincle,Castle on the Moon,224,CICO2A,長崎県,595,CICO2A,長崎県,1366,NAMERK,長崎県,2214,TAU,長崎県,0,,-
 Lincle,CALL,0,,-,344,CICO2A,長崎県,762,AOI*,長崎県,1381,KAEDE,長崎県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,814,TTZK,長崎県,2013,ACBEXE,長崎県,3108,HEIPON,長崎県,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,858,YUSUKE,長崎県,1246,LOVELY,長崎県,2450,P,長崎県,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,858,YUSUKE,長崎県,1619,ARCAEA,長崎県,2450,P,長崎県,0,,-
 Lincle,Almace,0,,-,752,CICO2A,長崎県,1166,ROBROY,長崎県,1931,P,長崎県,0,,-
 Lincle,532nm,0,,-,497,CICO2A,長崎県,1046,HAGE,長崎県,2565,P,長崎県,0,,-
 Lincle,24th Century BOY,0,,-,779,CICO2A,長崎県,1738,Z-GIRL,長崎県,2766,P,長崎県,0,,-
-tricoro,龍と少女とデコヒーレンス,0,,-,772,VIVI12,長崎県,1417,IIDX28,長崎県,2900,P,長崎県,3269,LAMY,長崎県
-tricoro,音楽,0,,-,877,LAMY,長崎県,1793,ARCAEA,長崎県,2698,LAMY,長崎県,0,,-
-tricoro,狂イ咲ケ焔ノ華,0,,-,1027,CICO2A,長崎県,2321,K.FLAN,長崎県,3393,LAMY,長崎県,0,,-
+tricoro,龍と少女とデコヒーレンス,0,,-,772,VIVI12,長崎県,1417,IIDX28,長崎県,2900,P,長崎県,3269,HITA,長崎県
+tricoro,音楽,0,,-,877,HITA,長崎県,1793,ARCAEA,長崎県,2698,HITA,長崎県,0,,-
+tricoro,狂イ咲ケ焔ノ華,0,,-,1027,CICO2A,長崎県,2321,K.FLAN,長崎県,3393,HITA,長崎県,0,,-
 tricoro,梅雪夜,0,,-,802,CICO2A,長崎県,1479,KAEDE,長崎県,2125,P,長崎県,0,,-
-tricoro,朧,197,CICO2A,長崎県,766,ACBEXE,長崎県,1429,8RUURR,長崎県,2085,LAMY,長崎県,2470,HEIPON,長崎県
+tricoro,朧,197,CICO2A,長崎県,766,ACBEXE,長崎県,1429,8RUURR,長崎県,2085,HITA,長崎県,2470,HEIPON,長崎県
 tricoro,即席！脳直★ミュージックシステム,0,,-,946,CICO2A,長崎県,1889,K.FLAN,長崎県,3299,HEIPON,長崎県,0,,-
 tricoro,創世ノート,0,,-,724,CICO2A,長崎県,1624,ROBROY,長崎県,2774,KAEDE,長崎県,0,,-
 tricoro,仮想空間の旅人たち,0,,-,1007,GOMI,長崎県,1859,UNTAN,長崎県,2815,EDMPAN,長崎県,3656,HEIPON,長崎県
-tricoro,下弦の月,0,,-,876,CICO2A,長崎県,1314,R,長崎県,1967,LAMY,長崎県,0,,-
+tricoro,下弦の月,0,,-,876,CICO2A,長崎県,1314,R,長崎県,1967,HITA,長崎県,0,,-
 tricoro,ラキラキ,0,,-,581,CICO2A,長崎県,1208,ROBROY,長崎県,1926,HEIPON,長崎県,0,,-
-tricoro,メイメツ、フラグメンツ,0,,-,570,CICO2A,長崎県,1200,ROBROY,長崎県,1926,LAMY,長崎県,0,,-
-tricoro,トリカゴノ鳳凰,0,,-,956,CICO2A,長崎県,1831,F-REO,長崎県,3548,LAMY,長崎県,0,,-
+tricoro,メイメツ、フラグメンツ,0,,-,570,CICO2A,長崎県,1200,ROBROY,長崎県,1926,HITA,長崎県,0,,-
+tricoro,トリカゴノ鳳凰,0,,-,956,CICO2A,長崎県,1831,F-REO,長崎県,3548,HITA,長崎県,0,,-
 tricoro,シュレーディンガーの猫,0,,-,525,CONOG,長崎県,2248,MASA.,長崎県,3262,EDMPAN,長崎県,0,,-
-tricoro,キャトられ恋はモ～モク,0,,-,1232,KRONE,長崎県,2322,SR,長崎県,3578,LAMY,長崎県,0,,-
+tricoro,キャトられ恋はモ～モク,0,,-,1232,KRONE,長崎県,2322,SR,長崎県,3578,HITA,長崎県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,528,CICO2A,長崎県,1224,ROBROY,長崎県,2316,P,長崎県,0,,-
-tricoro,アストライアの双皿,0,,-,490,SY,長崎県,1752,Z-GIRL,長崎県,2993,P,長崎県,0,,-
+tricoro,アストライアの双皿,0,,-,490,SY,長崎県,1948,ARCAEA,長崎県,2993,P,長崎県,0,,-
 tricoro,たまゆら,0,,-,1042,YUSUKE,長崎県,1773,LUFT,長崎県,2673,MASA.,長崎県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,747,CICO2A,長崎県,1421,YUA*M,長崎県,2081,TAU,長崎県,3248,P,長崎県
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),222,CICO2A,長崎県,508,CICO2A,長崎県,1525,FV4005,長崎県,3321,P,長崎県,0,,-
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),222,CICO2A,長崎県,508,CICO2A,長崎県,1525,RYOMA,長崎県,3321,P,長崎県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,1009,CICO2A,長崎県,1925,MASA.,長崎県,3043,EDMPAN,長崎県,3335,HEIPON,長崎県
-tricoro,Zirkfied,0,,-,912,LOVELY,長崎県,1827,MASA.,長崎県,3646,LAMY,長崎県,0,,-
+tricoro,Zirkfied,0,,-,912,LOVELY,長崎県,1827,MASA.,長崎県,3646,HITA,長崎県,0,,-
 tricoro,ZED,0,,-,797,CICO2A,長崎県,1546,ROBROY,長崎県,2636,P,長崎県,0,,-
-tricoro,VEGA,0,,-,1009,CICO2A,長崎県,2000,SHIURA,長崎県,3005,LAMY,長崎県,0,,-
-tricoro,VALLIS-NERIA,239,CICO2A,長崎県,897,CICO2A,長崎県,1873,YUA*M,長崎県,2822,LAMY,長崎県,0,,-
-tricoro,Valanga,0,,-,1152,RA,長崎県,2067,RIV*,長崎県,3078,LAMY,長崎県,0,,-
-tricoro,True Blue,0,,-,939,CICO2A,長崎県,2468,K.FLAN,長崎県,3665,LAMY,長崎県,0,,-
+tricoro,VEGA,0,,-,1009,CICO2A,長崎県,2000,SHIURA,長崎県,3005,HITA,長崎県,0,,-
+tricoro,VALLIS-NERIA,239,CICO2A,長崎県,897,CICO2A,長崎県,1873,YUA*M,長崎県,2822,HITA,長崎県,0,,-
+tricoro,Valanga,0,,-,1152,RA,長崎県,2067,RIV*,長崎県,3078,HITA,長崎県,0,,-
+tricoro,True Blue,0,,-,939,CICO2A,長崎県,2468,K.FLAN,長崎県,3665,HITA,長崎県,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,679,3GPO,長崎県,1800,K.FLAN,長崎県,2654,HEIPON,長崎県,0,,-
 tricoro,Timepiece phase II,0,,-,812,CICO2A,長崎県,1940,K.FLAN,長崎県,3016,HEIPON,長崎県,0,,-
 tricoro,Time To Empress,0,,-,788,CICO2A,長崎県,1658,AOI*,長崎県,2554,HEIPON,長崎県,0,,-
-tricoro,Thor's Hammer,0,,-,819,CICO2A,長崎県,1773,K.FLAN,長崎県,2719,LAMY,長崎県,0,,-
+tricoro,Thor's Hammer,0,,-,819,CICO2A,長崎県,1773,K.FLAN,長崎県,2719,HITA,長崎県,0,,-
 tricoro,Take My Life,0,,-,791,CICO2A,長崎県,1496,Z-GIRL,長崎県,2827,P,長崎県,0,,-
 tricoro,Synergy For Angels,0,,-,798,CICO2A,長崎県,1582,Z-GIRL,長崎県,2684,P,長崎県,0,,-
-tricoro,SYNC-ANTHEM,0,,-,836,CICO2A,長崎県,2451,LAMY,長崎県,3534,LAMY,長崎県,0,,-
+tricoro,SYNC-ANTHEM,0,,-,836,CICO2A,長崎県,2451,HITA,長崎県,3534,HITA,長崎県,0,,-
 tricoro,STULTI,0,,-,618,LOVELY,長崎県,1402,ABABA,長崎県,2555,P,長崎県,0,,-
-tricoro,Sol Cosine Job 2,0,,-,831,CICO2A,長崎県,1554,ROBROY,長崎県,2948,LAMY,長崎県,0,,-
+tricoro,Sol Cosine Job 2,0,,-,831,CICO2A,長崎県,1554,ROBROY,長崎県,2948,HITA,長崎県,0,,-
 tricoro,SHION,0,,-,604,CICO2A,長崎県,1232,YUSUKE,長崎県,2673,P,長崎県,0,,-
-tricoro,Shining World,0,,-,1040,GOMI,長崎県,1544,L,長崎県,1928,LAMY,長崎県,0,,-
+tricoro,Shining World,0,,-,1040,GOMI,長崎県,1544,L,長崎県,1928,HITA,長崎県,0,,-
 tricoro,Saturn,0,,-,981,KRH**,長崎県,1851,ACBEXE,長崎県,2524,P,長崎県,0,,-
 tricoro,S!ck,0,,-,796,TOMO,長崎県,1445,Z-GIRL,長崎県,2573,P,長崎県,0,,-
-tricoro,rumrum triplets,0,,-,850,CICO2A,長崎県,1858,YUA*M,長崎県,2888,HEIPON,長崎県,0,,-
+tricoro,rumrum triplets,0,,-,850,CICO2A,長崎県,1959,K.FLAN,長崎県,2888,HEIPON,長崎県,0,,-
 tricoro,Re:GENERATION,218,CICO2A,長崎県,768,CICO2A,長崎県,1402,SG2.TR,長崎県,2143,EDMPAN,長崎県,0,,-
 tricoro,Rainbow after snow,0,,-,666,CICO2A,長崎県,1350,AOI*,長崎県,2146,P,長崎県,0,,-
 tricoro,Proof of the existence,0,,-,1062,ROBROY,長崎県,2010,K.FLAN,長崎県,3083,EDMPAN,長崎県,0,,-
@@ -670,29 +670,29 @@ tricoro,planarian,0,,-,664,CICO2A,長崎県,1503,CLUMSY,長崎県,2521,P,長崎�
 tricoro,Plan 8,0,,-,1071,YUA*M,長崎県,2066,8RUURR,長崎県,2851,HEIPON,長崎県,0,,-
 tricoro,New Lights,0,,-,888,CICO2A,長崎県,1692,K.FLAN,長崎県,2356,TAU,長崎県,0,,-
 tricoro,New Decade IIDX Edition,212,SPGTEE,長崎県,902,CICO2A,長崎県,1723,ROBROY,長崎県,2783,T41K1N,長崎県,0,,-
-tricoro,neu,174,CICO2A,長崎県,587,CICO2A,長崎県,2102,K.FLAN,長崎県,3711,P,長崎県,0,,-
+tricoro,neu,174,CICO2A,長崎県,751,YAN,長崎県,2102,K.FLAN,長崎県,3711,P,長崎県,0,,-
 tricoro,Neonlights,0,,-,598,CICO2A,長崎県,1430,FENCER,長崎県,2099,KAEDE,長崎県,0,,-
 tricoro,mnemoniq,0,,-,482,CICO2A,長崎県,713,CICO2A,長崎県,1211,Z-GIRL,長崎県,0,,-
-tricoro,LUV CAN SAVE U,0,,-,499,CICO2A,長崎県,1239,AOI*,長崎県,2089,LAMY,長崎県,2712,P,長崎県
-tricoro,Little Star,0,,-,947,ABABA,長崎県,1629,ROBROY,長崎県,3069,LAMY,長崎県,0,,-
-tricoro,Light and Cyber…,0,,-,900,CICO2A,長崎県,1935,MASA.,長崎県,3003,P,長崎県,0,,-
-tricoro,Liberation,0,,-,1186,CICO2A,長崎県,2059,UNTAN,長崎県,3593,LAMY,長崎県,0,,-
+tricoro,LUV CAN SAVE U,0,,-,499,CICO2A,長崎県,1239,AOI*,長崎県,2089,HITA,長崎県,2712,P,長崎県
+tricoro,Little Star,0,,-,947,ABABA,長崎県,1629,ROBROY,長崎県,3069,HITA,長崎県,0,,-
+tricoro,Light and Cyber…,0,,-,900,CICO2A,長崎県,1950,ACBEXE,長崎県,3003,P,長崎県,0,,-
+tricoro,Liberation,0,,-,1186,CICO2A,長崎県,2059,UNTAN,長崎県,3593,HITA,長崎県,0,,-
 tricoro,JOMANDA,219,CICO2A,長崎県,949,LOVELY,長崎県,2274,K.FLAN,長崎県,3378,HEIPON,長崎県,0,,-
 tricoro,In Heaven,0,,-,711,CICO2A,長崎県,1335,COPEN.,長崎県,2060,STEAK,長崎県,0,,-
 tricoro,Illegal Function Call,0,,-,820,LOVELY,長崎県,1635,NAGO,長崎県,2477,EDMPAN,長崎県,0,,-
 tricoro,ILIAS,0,,-,741,CICO2A,長崎県,1149,AOI*,長崎県,2122,P,長崎県,0,,-
 tricoro,I know You know,0,,-,545,CICO2A,長崎県,827,CICO2A,長崎県,1809,TAU,長崎県,0,,-
-tricoro,Howling,0,,-,494,CICO2A,長崎県,1166,AOI*,長崎県,2023,LAMY,長崎県,2574,HEIPON,長崎県
-tricoro,Hollywood Galaxy,0,,-,951,CICO2A,長崎県,1929,K.FLAN,長崎県,2562,LAMY,長崎県,0,,-
+tricoro,Howling,0,,-,494,CICO2A,長崎県,1166,AOI*,長崎県,2023,HITA,長崎県,2574,HEIPON,長崎県
+tricoro,Hollywood Galaxy,0,,-,951,CICO2A,長崎県,1929,K.FLAN,長崎県,2562,HITA,長崎県,0,,-
 tricoro,GRADIUS 2012,0,,-,832,CICO2A,長崎県,1537,MASA.,長崎県,2634,P,長崎県,0,,-
-tricoro,GAIA,0,,-,949,FV4005,長崎県,2033,ABABA,長崎県,3171,LAMY,長崎県,0,,-
-tricoro,Fly you to the star,0,,-,706,CICO2A,長崎県,1600,LAMY,長崎県,2224,KAEDE,長崎県,0,,-
+tricoro,GAIA,0,,-,949,RYOMA,長崎県,2033,ABABA,長崎県,3171,HITA,長崎県,0,,-
+tricoro,Fly you to the star,0,,-,706,CICO2A,長崎県,1600,HITA,長崎県,2224,KAEDE,長崎県,0,,-
 tricoro,FLOWER,302,NYANTI,長崎県,835,3GPO,長崎県,1643,Z-GIRL,長崎県,2780,P,長崎県,0,,-
 tricoro,examination leave,0,,-,1024,CICO2A,長崎県,1794,ACBEXE,長崎県,3312,P,長崎県,0,,-
-tricoro,Elemental Creation,228,CICO2A,長崎県,1236,MTY.T,長崎県,2265,K.FLAN,長崎県,3765,LAMY,長崎県,0,,-
+tricoro,Elemental Creation,228,CICO2A,長崎県,1236,MTY.T,長崎県,2265,K.FLAN,長崎県,3765,HITA,長崎県,0,,-
 tricoro,Devilz Staircase,0,,-,571,CICO2A,長崎県,1998,ACBEXE,長崎県,3069,P,長崎県,0,,-
-tricoro,DAY DREAM,0,,-,554,LAMY,長崎県,1100,K.FLAN,長崎県,1783,HEIPON,長崎県,0,,-
-tricoro,Cookie Bouquets,0,,-,817,ROBROY,長崎県,1980,NAMERK,長崎県,3340,LAMY,長崎県,0,,-
+tricoro,DAY DREAM,0,,-,554,HITA,長崎県,1100,K.FLAN,長崎県,1783,HEIPON,長崎県,0,,-
+tricoro,Cookie Bouquets,0,,-,817,ROBROY,長崎県,1980,NAMERK,長崎県,3340,HITA,長崎県,0,,-
 tricoro,connective,0,,-,368,CICO2A,長崎県,927,SKN,長崎県,1565,HEIPON,長崎県,0,,-
 tricoro,Confiserie,0,,-,849,CICO2A,長崎県,1996,K.FLAN,長崎県,3319,EDMPAN,長崎県,0,,-
 tricoro,CONCEPTUAL,0,,-,740,CICO2A,長崎県,1170,COPEN.,長崎県,2606,KAEDE,長崎県,0,,-
@@ -704,7 +704,7 @@ tricoro,8bit Princess,0,,-,550,WORTHY,長崎県,1282,AOI*,長崎県,2572,P,長�
 tricoro,405nm (Ryu☆mix),0,,-,784,GOMI,長崎県,1503,RYTHEM,長崎県,2490,P,長崎県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,824,CICO2A,長崎県,1836,LUFT,長崎県,3262,P,長崎県,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,559,ABABA,長崎県,1368,NOZOM!,長崎県,2531,KAEDE,長崎県,0,,-
-SPADA,罪と罰,0,,-,988,KONA2.,長崎県,1214,AOI*,長崎県,2121,LAMY,長崎県,0,,-
+SPADA,罪と罰,0,,-,988,KONA2.,長崎県,1214,AOI*,長崎県,2121,HITA,長崎県,0,,-
 SPADA,疾風迅雷,0,,-,872,CICO2A,長崎県,1971,K.FLAN,長崎県,2700,HEIPON,長崎県,3054,P,長崎県
 SPADA,牧神笛吹きて,0,,-,647,CICO2A,長崎県,1113,AOI*,長崎県,2007,HEIPON,長崎県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,985,CICO2A,長崎県,2181,K.FLAN,長崎県,3643,EDMPAN,長崎県,0,,-
@@ -722,94 +722,94 @@ SPADA,Verflucht,0,,-,1148,FATE.L,長崎県,2006,K.FLAN,長崎県,3426,EDMPAN,長
 SPADA,Valgus,0,,-,586,CICO2A,長崎県,1225,HAGE,長崎県,2165,K.FLAN,長崎県,0,,-
 SPADA,Unicorn tail,0,,-,749,CICO2A,長崎県,1939,YUA*M,長崎県,3062,P,長崎県,0,,-
 SPADA,THE DETONATOR,0,,-,1213,CICO2A,長崎県,2388,ABABA,長崎県,3130,P,長崎県,0,,-
-SPADA,Squeeze,0,,-,699,CICO2A,長崎県,1227,HAGE,長崎県,2383,LAMY,長崎県,0,,-
-SPADA,Sigmund,0,,-,1072,LOVELY,長崎県,2181,ABABA,長崎県,3490,LAMY,長崎県,4015,EDMPAN,長崎県
+SPADA,Squeeze,0,,-,699,CICO2A,長崎県,1227,HAGE,長崎県,2383,HITA,長崎県,0,,-
+SPADA,Sigmund,0,,-,1072,LOVELY,長崎県,2181,ABABA,長崎県,3490,HITA,長崎県,4015,EDMPAN,長崎県
 SPADA,SCHWARZSCHILD FIELD,0,,-,742,CICO2A,長崎県,1506,ACBEXE,長崎県,2257,P,長崎県,0,,-
 SPADA,RIZING YOU UP,0,,-,811,CICO2A,長崎県,1989,YUA*M,長崎県,2503,EDMPAN,長崎県,0,,-
 SPADA,RISE,0,,-,723,CICO2A,長崎県,838,TM0.IN,長崎県,1788,TAU,長崎県,0,,-
 SPADA,refractive index,0,,-,661,CICO2A,長崎県,1003,AAAAAA,長崎県,2624,P,長崎県,0,,-
 SPADA,Recollection,0,,-,1064,LOVELY,長崎県,1453,LOVELY,長崎県,2210,HEIPON,長崎県,0,,-
 SPADA,rainbow guitar weeps,0,,-,841,CICO2A,長崎県,1591,ROY#,長崎県,2652,HEIPON,長崎県,0,,-
-SPADA,ra'am,0,,-,1014,ROBROY,長崎県,1621,NAMERK,長崎県,2540,LAMY,長崎県,0,,-
-SPADA,PUNISHER,0,,-,984,CICO2A,長崎県,2015,K.FLAN,長崎県,3373,P,長崎県,0,,-
+SPADA,ra'am,0,,-,1014,ROBROY,長崎県,1621,NAMERK,長崎県,2540,HITA,長崎県,0,,-
+SPADA,PUNISHER,0,,-,984,CICO2A,長崎県,2015,K.FLAN,長崎県,3413,P,長崎県,0,,-
 SPADA,Pharaoh,0,,-,628,ABABA,長崎県,1088,NAGO,長崎県,2306,KAEDE,長崎県,0,,-
 SPADA,Overload Frontier,0,,-,759,ABABA,長崎県,1749,K.FLAN,長崎県,2447,HEIPON,長崎県,0,,-
 SPADA,Odin,0,,-,632,CICO2A,長崎県,1023,RA,長崎県,1926,K.FLAN,長崎県,0,,-
 SPADA,NPC World,0,,-,852,CICO2A,長崎県,1416,U46?,長崎県,2175,TAU,長崎県,0,,-
 SPADA,Miracle 5ympho X,0,,-,622,CICO2A,長崎県,1223,ROBROY,長崎県,2459,KAEDE,長崎県,0,,-
-SPADA,MAGIC & LOVE,0,,-,897,CICO2A,長崎県,1643,ROBROY,長崎県,2753,LAMY,長崎県,0,,-
+SPADA,MAGIC & LOVE,0,,-,897,CICO2A,長崎県,1643,ROBROY,長崎県,2753,HITA,長崎県,0,,-
 SPADA,MAD ATTACK,0,,-,566,CICO2A,長崎県,995,LOVELY,長崎県,1850,TAU,長崎県,0,,-
-SPADA,m1dy Deluxe,0,,-,739,CICO2A,長崎県,1625,K.FLAN,長崎県,2392,LAMY,長崎県,0,,-
+SPADA,m1dy Deluxe,0,,-,739,CICO2A,長崎県,1625,K.FLAN,長崎県,2392,HITA,長崎県,0,,-
 SPADA,M.D.Injection,0,,-,443,TTZK,長崎県,1002,CICO2A,長崎県,2282,KAEDE,長崎県,0,,-
 SPADA,Lighting Shower,0,,-,682,CICO2A,長崎県,994,180SX,長崎県,2195,K.FLAN,長崎県,0,,-
 SPADA,Last Dance,0,,-,1089,FATE.L,長崎県,1790,ABABA,長崎県,3081,EDMPAN,長崎県,0,,-
 SPADA,KHAMEN BREAK,0,,-,502,CICO2A,長崎県,1193,AOI*,長崎県,2361,TAU,長崎県,0,,-
-SPADA,KAISER PHOENIX,0,,-,1338,HEIPON,長崎県,2082,LUFT,長崎県,3093,P,長崎県,3686,LAMY,長崎県
+SPADA,KAISER PHOENIX,0,,-,1338,HEIPON,長崎県,2082,LUFT,長崎県,3093,P,長崎県,3686,HITA,長崎県
 SPADA,IX,0,,-,1081,CICO2A,長崎県,2267,K.FLAN,長崎県,3571,EDMPAN,長崎県,0,,-
 SPADA,invoker,0,,-,946,CICO2A,長崎県,1854,ACBEXE,長崎県,3016,HEIPON,長崎県,3331,HEIPON,長崎県
 SPADA,into the battlefield,0,,-,635,CICO2A,長崎県,1267,ROBROY,長崎県,2312,KAEDE,長崎県,0,,-
 SPADA,INSOMNIA,0,,-,723,CICO2A,長崎県,1663,Z-GIRL,長崎県,3030,P,長崎県,0,,-
 SPADA,Insane Techniques,0,,-,664,CICO2A,長崎県,909,ARCAEA,長崎県,2375,HEIPON,長崎県,0,,-
-SPADA,"Idola ",0,,-,957,LOVELY,長崎県,2184,K.FLAN,長崎県,3421,LAMY,長崎県,0,,-
+SPADA,"Idola ",0,,-,957,LOVELY,長崎県,2184,K.FLAN,長崎県,3421,HITA,長崎県,0,,-
 SPADA,I will be back -オレは帰ってきた-,0,,-,888,CICO2A,長崎県,1810,YUA*M,長崎県,2752,TAU,長崎県,0,,-
 SPADA,Hypersonik,0,,-,873,CICO2A,長崎県,1457,FENCER,長崎県,2454,P,長崎県,0,,-
 SPADA,HYENA,0,,-,971,CICO2A,長崎県,1960,HEIPON,長崎県,2644,TAU,長崎県,0,,-
 SPADA,Funny shuffle,0,,-,401,PONCHO,長崎県,934,GOMI,長崎県,2225,KAEDE,長崎県,0,,-
-SPADA,Feel The Beat,0,,-,1200,YUSUKE,長崎県,2086,MASA.,長崎県,3395,P,長崎県,4034,LAMY,長崎県
+SPADA,Feel The Beat,0,,-,1200,YUSUKE,長崎県,2086,MASA.,長崎県,3395,P,長崎県,4034,HITA,長崎県
 SPADA,EXTREME MACH COLLIDER,0,,-,812,GOMI,長崎県,1211,NAMERK,長崎県,2453,HEIPON,長崎県,0,,-
 SPADA,Engraved Mark,0,,-,707,CICO2A,長崎県,1064,U46?,長崎県,2245,KAEDE,長崎県,0,,-
 SPADA,Element of SPADA,0,,-,605,CICO2A,長崎県,1248,KOU,長崎県,2074,P,長崎県,0,,-
 SPADA,Elektrick U-Phoria,0,,-,1028,LOVELY,長崎県,1813,TAU,長崎県,3012,P,長崎県,0,,-
 SPADA,diagram,0,,-,579,CICO2A,長崎県,1048,LOVELY,長崎県,2667,KAEDE,長崎県,0,,-
-SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,773,CICO2A,長崎県,1672,ACBEXE,長崎県,2326,KAEDE,長崎県,0,,-
+SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,774,CICO2A,長崎県,1678,ARCAEA,長崎県,2326,KAEDE,長崎県,0,,-
 SPADA,DARK LEGACY,0,,-,971,AGS,長崎県,1918,ACBEXE,長崎県,3417,P,長崎県,0,,-
 SPADA,Dark Fall,0,,-,797,IIDX28,長崎県,1156,RA,長崎県,2472,TAU,長崎県,0,,-
 SPADA,Critical Crystal,214,FATE.L,長崎県,934,CICO2A,長崎県,1755,K.FLAN,長崎県,2783,KAEDE,長崎県,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,1088,ABABA,長崎県,1987,K.FLAN,長崎県,3242,LAMY,長崎県,3579,LAMY,長崎県
+SPADA,Close the World feat.a☆ru,0,,-,1088,ABABA,長崎県,1987,K.FLAN,長崎県,3242,HITA,長崎県,3579,HITA,長崎県
 SPADA,Cleopatrysm,0,,-,716,CICO2A,長崎県,1307,ROBROY,長崎県,2386,KAEDE,長崎県,0,,-
-SPADA,Claiomh Solais,0,,-,316,CICO2A,長崎県,1076,CICO2A,長崎県,2061,P,長崎県,0,,-
+SPADA,Claiomh Solais,0,,-,316,CICO2A,長崎県,1284,AOI*,長崎県,2061,P,長崎県,0,,-
 SPADA,BRAVE OUT,0,,-,925,CICO2A,長崎県,1300,RYTHEM,長崎県,2099,KAEDE,長崎県,0,,-
 SPADA,BRAINSTORM,0,,-,664,CICO2A,長崎県,1934,KAEDE,長崎県,2662,HEIPON,長崎県,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,994,CICO2A,長崎県,2117,ACBEXE,長崎県,3166,P,長崎県,0,,-
 SPADA,ATHER,0,,-,879,CICO2A,長崎県,1463,ROBROY,長崎県,2679,KAEDE,長崎県,0,,-
-SPADA,Ancient Scapes,0,,-,830,CICO2A,長崎県,1884,K.FLAN,長崎県,3202,T41K1N,長崎県,3993,P,長崎県
+SPADA,Ancient Scapes,0,,-,943,GOMI,長崎県,1884,K.FLAN,長崎県,3202,T41K1N,長崎県,3993,P,長崎県
 SPADA,ALBA -黎明-,0,,-,595,LOVELY,長崎県,1475,ARCAEA,長崎県,3133,P,長崎県,0,,-
 SPADA,Adularia,127,HASMI,長崎県,904,WILL,長崎県,1732,LUFT,長崎県,2727,P,長崎県,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,791,CICO2A,長崎県,1551,ROBROY,長崎県,2813,P,長崎県,0,,-
-PENDUAL,鬼天,0,,-,726,CICO2A,長崎県,1388,RAICHI,長崎県,2371,LAMY,長崎県,0,,-
-PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,882,RA,長崎県,1873,AKI..,長崎県,2634,LAMY,長崎県,3914,LAMY,長崎県
+PENDUAL,鬼天,0,,-,726,CICO2A,長崎県,1388,RAICHI,長崎県,2371,HITA,長崎県,0,,-
+PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,882,RA,長崎県,1873,AKI..,長崎県,2634,HITA,長崎県,3914,HITA,長崎県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,1068,ROBROY,長崎県,2105,K.FLAN,長崎県,3465,P,長崎県,0,,-
 PENDUAL,紅牡丹,433,CICO2A,長崎県,957,LOVELY,長崎県,1660,S.MAYU,長崎県,2722,HEIPON,長崎県,0,,-
-PENDUAL,白露の風,0,,-,454,CICO2A,長崎県,1184,FV4005,長崎県,2012,LAMY,長崎県,0,,-
+PENDUAL,白露の風,0,,-,454,CICO2A,長崎県,1184,RYOMA,長崎県,2012,HITA,長崎県,0,,-
 PENDUAL,時空トラベローグ,0,,-,886,CICO2A,長崎県,1560,ROBROY,長崎県,2562,P,長崎県,0,,-
-PENDUAL,打打打打打打打打打打,167,Y011,長崎県,706,CICO2A,長崎県,1265,FV4005,長崎県,2560,LAMY,長崎県,0,,-
-PENDUAL,恋は白帯、サンシロー,0,,-,680,CICO2A,長崎県,1188,AOI*,長崎県,1998,HEIPON,長崎県,2713,LAMY,長崎県
+PENDUAL,打打打打打打打打打打,167,Y011,長崎県,706,CICO2A,長崎県,1265,RYOMA,長崎県,2560,HITA,長崎県,0,,-
+PENDUAL,恋は白帯、サンシロー,0,,-,680,CICO2A,長崎県,1188,AOI*,長崎県,1998,HEIPON,長崎県,2713,HITA,長崎県
 PENDUAL,少年は空を辿る,0,,-,919,LOVELY,長崎県,1987,K.FLAN,長崎県,3120,HEIPON,長崎県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,873,CICO2A,長崎県,1491,LUFT,長崎県,2157,KAEDE,長崎県,0,,-
 PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,697,CICO2A,長崎県,1716,YUA*M,長崎県,2859,HEIPON,長崎県,0,,-
-PENDUAL,取り残された美術(Arranged:HiZuMi),236,CICO2A,長崎県,909,GOMI,長崎県,1605,ARCAEA,長崎県,2181,LAMY,長崎県,0,,-
-PENDUAL,千年ノ理,0,,-,1110,YUSUKE,長崎県,1766,YUA*M,長崎県,3131,LAMY,長崎県,4043,LAMY,長崎県
-PENDUAL,十六夜セツナ,0,,-,846,CICO2A,長崎県,1397,ROBROY,長崎県,2154,KAEDE,長崎県,0,,-
-PENDUAL,共鳴遊戯の華,0,,-,1112,LOVELY,長崎県,2286,LUFT,長崎県,3550,LAMY,長崎県,0,,-
+PENDUAL,取り残された美術(Arranged:HiZuMi),236,CICO2A,長崎県,909,GOMI,長崎県,1605,ARCAEA,長崎県,2181,HITA,長崎県,0,,-
+PENDUAL,千年ノ理,0,,-,1110,YUSUKE,長崎県,1766,YUA*M,長崎県,3131,HITA,長崎県,4043,HITA,長崎県
+PENDUAL,十六夜セツナ,0,,-,846,CICO2A,長崎県,1397,ROBROY,長崎県,2188,P,長崎県,0,,-
+PENDUAL,共鳴遊戯の華,0,,-,1112,LOVELY,長崎県,2286,LUFT,長崎県,3550,HITA,長崎県,0,,-
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,863,CICO2A,長崎県,2219,K.FLAN,長崎県,3212,8RUURR,長崎県,0,,-
-PENDUAL,ベィスドロップ・フリークス,0,,-,551,CICO2A,長崎県,1149,YUSUKE,長崎県,2144,TAU,長崎県,0,,-
+PENDUAL,ベィスドロップ・フリークス,0,,-,565,CICO2A,長崎県,1149,YUSUKE,長崎県,2144,TAU,長崎県,0,,-
 PENDUAL,パ→ピ→プ→Yeah!,337,CICO2A,長崎県,900,CICO2A,長崎県,1458,R,長崎県,2466,KAEDE,長崎県,0,,-
 PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,834,CICO2A,長崎県,1610,ROBROY,長崎県,2730,P,長崎県,0,,-
-PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,825,AGS,長崎県,1933,K.FLAN,長崎県,2554,LAMY,長崎県,0,,-
+PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,825,AGS,長崎県,1933,K.FLAN,長崎県,2554,HITA,長崎県,0,,-
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,808,CICO2A,長崎県,1243,LOVELY,長崎県,2474,P,長崎県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,710,ZAKI,長崎県,1365,ROBROY,長崎県,2158,KAEDE,長崎県,0,,-
 PENDUAL,それは花火のような恋,676,RIV*,長崎県,1087,CICO2A,長崎県,2414,VALSE.,長崎県,3709,P,長崎県,0,,-
-PENDUAL,ZZ,188,CICO2A,長崎県,961,LOVELY,長崎県,1786,SG2.TR,長崎県,2985,LAMY,長崎県,0,,-
+PENDUAL,ZZ,188,CICO2A,長崎県,961,LOVELY,長崎県,1786,SG2.TR,長崎県,2985,HITA,長崎県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,854,CICO2A,長崎県,2209,K.FLAN,長崎県,3528,P,長崎県,0,,-
-PENDUAL,Vulkan,0,,-,918,CICO2A,長崎県,1779,ROBROY,長崎県,2897,LAMY,長崎県,0,,-
+PENDUAL,Vulkan,0,,-,918,CICO2A,長崎県,1779,ROBROY,長崎県,2897,HITA,長崎県,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1318,LOVELY,長崎県,2244,LUFT,長崎県,3525,EDMPAN,長崎県,0,,-
-PENDUAL,TIEFSEE,0,,-,962,CICO2A,長崎県,1997,FV4005,長崎県,3383,LAMY,長崎県,0,,-
-PENDUAL,The Least 100sec,0,,-,713,B6,長崎県,1390,MASA.,長崎県,2712,LAMY,長崎県,0,,-
+PENDUAL,TIEFSEE,0,,-,962,CICO2A,長崎県,1997,RYOMA,長崎県,3383,HITA,長崎県,0,,-
+PENDUAL,The Least 100sec,0,,-,713,B6,長崎県,1390,MASA.,長崎県,2712,HITA,長崎県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,982,VIVI12,長崎県,1517,SHIURA,長崎県,2208,HEIPON,長崎県,0,,-
-PENDUAL,Symmetry,0,,-,968,CICO2A,長崎県,2035,TAU,長崎県,3119,LAMY,長崎県,0,,-
+PENDUAL,Symmetry,0,,-,968,CICO2A,長崎県,2035,TAU,長崎県,3119,HITA,長崎県,0,,-
 PENDUAL,Sweet Radar,0,,-,640,CICO2A,長崎県,1317,MASA.,長崎県,2007,HEIPON,長崎県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,977,CICO2A,長崎県,1705,K.FLAN,長崎県,2855,P,長崎県,0,,-
-PENDUAL,"Sounds Of Summer ",0,,-,1064,CICO2A,長崎県,1987,IFRINA,長崎県,2904,LAMY,長崎県,0,,-
+PENDUAL,"Sounds Of Summer ",0,,-,1064,CICO2A,長崎県,1987,IFRINA,長崎県,2904,HITA,長崎県,0,,-
 PENDUAL,Shooting Fireball,0,,-,796,CICO2A,長崎県,2219,K.FLAN,長崎県,3799,EDMPAN,長崎県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,740,TOMO,長崎県,1570,Z-GIRL,長崎県,2783,P,長崎県,0,,-
 PENDUAL,Scarlet Moon,0,,-,1059,ABABA,長崎県,1505,ROBROY,長崎県,2647,P,長崎県,0,,-
@@ -818,28 +818,28 @@ PENDUAL,SAMSARA,0,,-,742,CICO2A,長崎県,1361,F-REO,長崎県,1996,KAEDE,長崎
 PENDUAL,Sakura Mirage,0,,-,812,CICO2A,長崎県,1312,8RUURR,長崎県,2252,HEIPON,長崎県,0,,-
 PENDUAL,Reflux,0,,-,695,CICO2A,長崎県,1531,SHIURA,長崎県,2839,P,長崎県,0,,-
 PENDUAL,Realize Maze,0,,-,995,LOVELY,長崎県,1886,IIIIDX,長崎県,2908,P,長崎県,0,,-
-PENDUAL,"Rave*it!! Rave*it!! ",0,,-,819,CICO2A,長崎県,1576,LOW.S,長崎県,3011,LAMY,長崎県,0,,-
+PENDUAL,"Rave*it!! Rave*it!! ",0,,-,819,CICO2A,長崎県,1576,LOW.S,長崎県,3011,HITA,長崎県,0,,-
 PENDUAL,PENDUAL TALISMAN,0,,-,926,CICO2A,長崎県,1491,YUSUKE,長崎県,2524,K.FLAN,長崎県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,785,CICO2A,長崎県,1018,KAYAKI,長崎県,1921,TAU,長崎県,0,,-
 PENDUAL,No Tears,0,,-,991,LOVELY,長崎県,2029,ACBEXE,長崎県,2470,P,長崎県,0,,-
 PENDUAL,Night sky,0,,-,1026,CICO2A,長崎県,1722,NAMERK,長崎県,2752,EDMPAN,長崎県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,802,CICO2A,長崎県,1663,NAMERK,長崎県,3136,P,長崎県,0,,-
 PENDUAL,Monopole.,0,,-,645,CICO2A,長崎県,1427,ROBROY,長崎県,3098,P,長崎県,0,,-
-PENDUAL,Line 4 Ruin,0,,-,585,CICO2A,長崎県,1603,ROBROY,長崎県,2692,LAMY,長崎県,0,,-
+PENDUAL,Line 4 Ruin,0,,-,585,CICO2A,長崎県,1603,ROBROY,長崎県,2692,HITA,長崎県,0,,-
 PENDUAL,IXION,0,,-,910,CICO2A,長崎県,1190,SKN,長崎県,2099,P,長崎県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1104,ROBROY,長崎県,1423,ROBROY,長崎県,2572,HEIPON,長崎県,0,,-
 PENDUAL,In The Breeze,0,,-,520,CICO2A,長崎県,817,CICO2A,長崎県,1672,TAU,長崎県,0,,-
-PENDUAL,IMPLANTATION,0,,-,545,SKN,長崎県,1655,K.FLAN,長崎県,2182,LAMY,長崎県,0,,-
+PENDUAL,IMPLANTATION,0,,-,545,SKN,長崎県,1655,K.FLAN,長崎県,2182,HITA,長崎県,0,,-
 PENDUAL,illuminate,0,,-,576,CICO2A,長崎県,927,TM0.IN,長崎県,2216,TAU,長崎県,0,,-
 PENDUAL,Hello Happiness,0,,-,747,CICO2A,長崎県,1446,YUA*M,長崎県,2185,STEAK,長崎県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,842,CICO2A,長崎県,1554,RYTHEM,長崎県,2714,KAEDE,長崎県,0,,-
 PENDUAL,Gravigazer,0,,-,719,CICO2A,長崎県,1780,K.FLAN,長崎県,2838,P,長崎県,0,,-
 PENDUAL,Flashes,0,,-,880,CICO2A,長崎県,1694,SHIURA,長崎県,3053,P,長崎県,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1014,KAYAKI,長崎県,1874,NAGO,長崎県,3061,P,長崎県,0,,-
-PENDUAL,fallen leaves -IIDX edition-,0,,-,966,CICO2A,長崎県,1981,K.FLAN,長崎県,3256,LAMY,長崎県,0,,-
+PENDUAL,fallen leaves -IIDX edition-,0,,-,966,CICO2A,長崎県,1981,K.FLAN,長崎県,3256,HITA,長崎県,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,692,CICO2A,長崎県,1343,ROBROY,長崎県,2111,HEIPON,長崎県,0,,-
 PENDUAL,entelecheia,0,,-,862,CICO2A,長崎県,2031,K.FLAN,長崎県,3189,EDMPAN,長崎県,0,,-
-PENDUAL,EBONY & IVORY,0,,-,773,IIDX28,長崎県,1562,YUA*M,長崎県,2879,LAMY,長崎県,3319,LAMY,長崎県
+PENDUAL,EBONY & IVORY,0,,-,773,IIDX28,長崎県,1562,YUA*M,長崎県,2879,HITA,長崎県,3319,HITA,長崎県
 PENDUAL,Discloze,0,,-,677,CICO2A,長崎県,1469,NAMERK,長崎県,2474,KAEDE,長崎県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,985,LOVELY,長崎県,2325,K.FLAN,長崎県,3830,KAEDE,長崎県,0,,-
 PENDUAL,Cosmic Cat,0,,-,793,CICO2A,長崎県,1630,ACBEXE,長崎県,2178,KAEDE,長崎県,3070,HEIPON,長崎県
@@ -847,23 +847,23 @@ PENDUAL,"COLOSSEUM ",0,,-,463,CICO2A,長崎県,1100,RA,長崎県,2216,HEIPON,長
 PENDUAL,cinder,0,,-,749,GOMI,長崎県,1845,YUA*M,長崎県,2941,P,長崎県,0,,-
 PENDUAL,Chronos,0,,-,737,CICO2A,長崎県,1212,AIR,長崎県,2217,KAEDE,長崎県,2868,KAEDE,長崎県
 PENDUAL,Chrono Diver -PENDULUMs-,544,FATE.L,長崎県,1361,YUA*M,長崎県,2593,8RUURR,長崎県,4018,EDMPAN,長崎県,0,,-
-PENDUAL,CHRONO DIVER -NORNIR-,0,,-,1052,CICO2A,長崎県,2004,NAMERK,長崎県,3023,LAMY,長崎県,4117,HEIPON,長崎県
+PENDUAL,CHRONO DIVER -NORNIR-,0,,-,1052,CICO2A,長崎県,2004,NAMERK,長崎県,3023,HITA,長崎県,4117,HEIPON,長崎県
 PENDUAL,chrono diver -fragment-,0,,-,599,CICO2A,長崎県,1061,AOI*,長崎県,1778,P,長崎県,2235,P,長崎県
 PENDUAL,Chain of pain,0,,-,618,CICO2A,長崎県,1192,IKESAN,長崎県,2131,KAEDE,長崎県,0,,-
-PENDUAL,Broken Sword,0,,-,1046,CICO2A,長崎県,1847,YUA*M,長崎県,3607,LAMY,長崎県,0,,-
+PENDUAL,Broken Sword,0,,-,1063,CICO2A,長崎県,1847,YUA*M,長崎県,3607,HITA,長崎県,0,,-
 PENDUAL,BLUE MIRAGE,0,,-,674,CICO2A,長崎県,1708,ABABA,長崎県,2753,HEIPON,長崎県,0,,-
 PENDUAL,Blaze it UP!,0,,-,860,CICO2A,長崎県,1795,Z-GIRL,長崎県,2893,P,長崎県,0,,-
 PENDUAL,Beyond The Earth,0,,-,1028,S-K.T,長崎県,1877,OKAYU,長崎県,3049,HEIPON,長崎県,0,,-
 PENDUAL,Beat Radiance,0,,-,812,CICO2A,長崎県,1483,AOI*,長崎県,2570,KAEDE,長崎県,3453,KAEDE,長崎県
-PENDUAL,AFRO KNUCKLE,0,,-,786,CICO2A,長崎県,1510,FV4005,長崎県,2321,HEIPON,長崎県,0,,-
+PENDUAL,AFRO KNUCKLE,0,,-,786,CICO2A,長崎県,1510,RYOMA,長崎県,2321,HEIPON,長崎県,0,,-
 PENDUAL,#The_Relentless,0,,-,983,CICO2A,長崎県,1941,ACBEXE,長崎県,2853,P,長崎県,0,,-
-copula,麗 ～うらら～,241,CICO2A,長崎県,931,CICO2A,長崎県,1574,MASA.,長崎県,2540,LAMY,長崎県,0,,-
-copula,駅猫のワルツ,0,,-,1065,ABABA,長崎県,1749,SR,長崎県,2527,LAMY,長崎県,0,,-
+copula,麗 ～うらら～,241,CICO2A,長崎県,931,CICO2A,長崎県,1574,MASA.,長崎県,2540,HITA,長崎県,0,,-
+copula,駅猫のワルツ,0,,-,1065,ABABA,長崎県,2011,K.FLAN,長崎県,2527,HITA,長崎県,0,,-
 copula,量子の海のリントヴルム,0,,-,768,LOVELY,長崎県,1531,SG2.TR,長崎県,2847,KAEDE,長崎県,0,,-
 copula,追想快晴テーマパーク,0,,-,1034,CICO2A,長崎県,1945,LUFT,長崎県,2995,P,長崎県,0,,-
 copula,紫陽花 -AZISAI-,384,CICO2A,長崎県,1083,CICO2A,長崎県,2017,K.FLAN,長崎県,2687,HEIPON,長崎県,0,,-
 copula,真 地獄超特急 -HELL or HELL-,0,,-,1081,3GPO,長崎県,2087,ABABA,長崎県,2986,HEIPON,長崎県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1209,AZU*,長崎県,1985,LAMY,長崎県,2851,HEIPON,長崎県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1209,AZU*,長崎県,1985,HITA,長崎県,2851,HEIPON,長崎県,0,,-
 copula,朝焼けから始まるボクらの小さな旅,0,,-,830,CICO2A,長崎県,1627,SR,長崎県,2442,KAEDE,長崎県,0,,-
 copula,星屑ディスタンシア,0,,-,582,CICO2A,長崎県,1027,LOVELY,長崎県,2037,HEIPON,長崎県,0,,-
 copula,明鏡止水,0,,-,679,TOMO,長崎県,1636,Z-GIRL,長崎県,2671,HEIPON,長崎県,0,,-
@@ -872,9 +872,9 @@ copula,セロトニン,0,,-,931,YUUCO3,長崎県,1674,Z-GIRL,長崎県,2200,KAED
 copula,シュッパツシンコウ・シサカンコ,0,,-,1040,CICO2A,長崎県,1693,YUA*M,長崎県,2399,P,長崎県,0,,-
 copula,ギョギョっと人魚 爆婚ブライダル,0,,-,738,CICO2A,長崎県,1217,AOI*,長崎県,2278,KAEDE,長崎県,0,,-
 copula,オルタネイトβ,0,,-,729,CICO2A,長崎県,1292,MASA.,長崎県,2234,P,長崎県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,899,CICO2A,長崎県,2240,K.FLAN,長崎県,3250,LAMY,長崎県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,899,CICO2A,長崎県,2240,K.FLAN,長崎県,3250,HITA,長崎県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,1024,CICO2A,長崎県,1442,RAICHI,長崎県,2749,P,長崎県,0,,-
-copula,ZEPHYRANTHES,0,,-,862,CICO2A,長崎県,1599,YUA*M,長崎県,2764,8RUURR,長崎県,3656,LAMY,長崎県
+copula,ZEPHYRANTHES,0,,-,862,CICO2A,長崎県,1599,YUA*M,長崎県,2764,8RUURR,長崎県,3656,HITA,長崎県
 copula,X,0,,-,1129,CICO2A,長崎県,2425,MASA.,長崎県,3762,EDMPAN,長崎県,0,,-
 copula,Welcome,0,,-,758,CICO2A,長崎県,1714,LUFT,長崎県,2480,MASA.,長崎県,3066,MASA.,長崎県
 copula,Violet Rose,0,,-,949,GOMI,長崎県,1993,HEIPON,長崎県,2466,HEIPON,長崎県,0,,-
@@ -895,13 +895,13 @@ copula,Routing,0,,-,762,CICO2A,長崎県,1551,SHIURA,長崎県,2388,P,長崎県,
 copula,Rock It,0,,-,1099,F-REO,長崎県,1514,ROBROY,長崎県,2813,HEIPON,長崎県,0,,-
 copula,refrain,0,,-,1142,GOMI,長崎県,2223,K.FLAN,長崎県,3515,EDMPAN,長崎県,0,,-
 copula,quick master (reform version),0,,-,153,RUSKE,長崎県,280,TOMO,長崎県,516,KAEDE,長崎県,0,,-
-copula,POSSESSION,518,8RUURR,長崎県,1320,YUA*M,長崎県,2043,HEIPON,長崎県,2886,LAMY,長崎県,0,,-
-copula,Outbreak,0,,-,1209,GOMI,長崎県,1729,NAMERK,長崎県,2904,KAEDE,長崎県,0,,-
+copula,POSSESSION,518,8RUURR,長崎県,1320,YUA*M,長崎県,2043,HEIPON,長崎県,2886,HITA,長崎県,0,,-
+copula,Outbreak,0,,-,1209,GOMI,長崎県,1740,ROBROY,長崎県,2904,KAEDE,長崎県,0,,-
 copula,On the FM,0,,-,1079,ABABA,長崎県,1430,NAMERK,長崎県,2578,KAEDE,長崎県,0,,-
 copula,NZM,0,,-,922,CICO2A,長崎県,1537,FRENCH,長崎県,3288,EDMPAN,長崎県,0,,-
 copula,Nowhere,0,,-,644,CICO2A,長崎県,1133,ROBROY,長崎県,2075,KAEDE,長崎県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,691,CICO2A,長崎県,1004,LOVELY,長崎県,2189,LAMY,長崎県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,914,NEON,長崎県,1752,MRK*HL,長崎県,2912,LAMY,長崎県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,691,CICO2A,長崎県,1004,LOVELY,長崎県,2189,HITA,長崎県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,914,NEON,長崎県,1752,MRK*HL,長崎県,2912,HITA,長崎県,0,,-
 copula,Nightmare before oversleep,0,,-,900,TM0.IN,長崎県,1852,K.FLAN,長崎県,2862,EDMPAN,長崎県,0,,-
 copula,NANAIRO,0,,-,858,KONA2.,長崎県,1630,RAICHI,長崎県,2456,KAEDE,長崎県,0,,-
 copula,Musik LoverZ,0,,-,889,CICO2A,長崎県,1307,ROBROY,長崎県,2363,KAEDE,長崎県,0,,-
@@ -911,8 +911,8 @@ copula,Konzert V,0,,-,889,CICO2A,長崎県,2137,ABABA,長崎県,3136,KAEDE,長�
 copula,Journey,0,,-,391,ASACO*,長崎県,1193,SHIURA,長崎県,1839,TAU,長崎県,3045,KAEDE,長崎県
 copula,Inner Spirit,0,,-,751,CICO2A,長崎県,1760,ACBEXE,長崎県,2631,KAEDE,長崎県,0,,-
 copula,Highcharge Divolt,0,,-,759,CICO2A,長崎県,1584,ACBEXE,長崎県,2629,P,長崎県,0,,-
-copula,Grand Chariot,0,,-,1068,YUSUKE,長崎県,1737,FV4005,長崎県,3198,LAMY,長崎県,0,,-
-copula,Godspeed,0,,-,871,CICO2A,長崎県,1820,ACBEXE,長崎県,2916,LAMY,長崎県,0,,-
+copula,Grand Chariot,0,,-,1068,YUSUKE,長崎県,1737,RYOMA,長崎県,3198,HITA,長崎県,0,,-
+copula,Godspeed,0,,-,871,CICO2A,長崎県,1820,ACBEXE,長崎県,2916,HITA,長崎県,0,,-
 copula,GOBBLE,0,,-,397,CICO2A,長崎県,648,KOU,長崎県,1554,KAEDE,長崎県,0,,-
 copula,Go Faraway,0,,-,864,CICO2A,長崎県,1254,HAGE,長崎県,2418,HEIPON,長崎県,0,,-
 copula,Glitch Nerds,0,,-,820,CICO2A,長崎県,1303,SG2.TR,長崎県,2113,KAEDE,長崎県,0,,-
@@ -921,36 +921,36 @@ copula,Exchange Place,0,,-,651,CICO2A,長崎県,1161,F-REO,長崎県,1754,HEIPON
 copula,Everlasting Last,0,,-,726,CICO2A,長崎県,1400,FENCER,長崎県,2182,HEIPON,長崎県,0,,-
 copula,Dynamite,511,CICO2A,長崎県,1116,YUSUKE,長崎県,2314,ACBEXE,長崎県,3605,HEIPON,長崎県,0,,-
 copula,Donkey Donk,0,,-,821,CICO2A,長崎県,1567,SHIURA,長崎県,2181,HEIPON,長崎県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,490,CICO2A,長崎県,1255,RYTHEM,長崎県,2257,LAMY,長崎県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,490,CICO2A,長崎県,1255,RYTHEM,長崎県,2257,HITA,長崎県,0,,-
 copula,DIAMOND CROSSING,0,,-,860,CICO2A,長崎県,1663,K.FLAN,長崎県,2868,8RUURR,長崎県,0,,-
-copula,Devil's Gear,0,,-,862,CICO2A,長崎県,2067,ABABA,長崎県,3208,LAMY,長崎県,0,,-
+copula,Devil's Gear,0,,-,862,CICO2A,長崎県,2067,ABABA,長崎県,3208,HITA,長崎県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,886,CICO2A,長崎県,1605,NAGO,長崎県,2485,KAEDE,長崎県,0,,-
 copula,Damage Per Second,0,,-,772,CICO2A,長崎県,1263,YUSUKE,長崎県,1880,KOY,長崎県,2248,HEIPON,長崎県
 copula,Daily Lunch Special,0,,-,930,CICO2A,長崎県,1929,UNTAN,長崎県,2881,HEIPON,長崎県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,763,AAAAAA,長崎県,1508,HAGE,長崎県,2931,LAMY,長崎県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,763,AAAAAA,長崎県,1508,HAGE,長崎県,2931,HITA,長崎県,0,,-
 copula,chaos eater -IIDX edition-,0,,-,946,CICO2A,長崎県,1619,ACBEXE,長崎県,2506,KAEDE,長崎県,0,,-
-copula,Central Station,0,,-,899,CICO2A,長崎県,1319,RYTHEM,長崎県,2282,KAEDE,長崎県,0,,-
+copula,Central Station,0,,-,915,GOMI,長崎県,1319,RYTHEM,長崎県,2282,KAEDE,長崎県,0,,-
 copula,Blue Spring Express,0,,-,1172,RYTHEM,長崎県,1968,K.FLAN,長崎県,3122,HEIPON,長崎県,0,,-
 copula,Battle Train -IIDX Edition-,0,,-,712,CICO2A,長崎県,2296,ACBEXE,長崎県,3028,HEIPON,長崎県,0,,-
 copula,Aublia,0,,-,705,CICO2A,長崎県,1311,YUSUKE,長崎県,2374,KAEDE,長崎県,0,,-
-copula,Arcana,0,,-,784,AAAAAM,長崎県,1585,Z-GIRL,長崎県,2212,LAMY,長崎県,0,,-
+copula,Arcana,0,,-,784,AAAAAM,長崎県,1585,Z-GIRL,長崎県,2212,HITA,長崎県,0,,-
 copula,AO-1,0,,-,1057,OXALIS,長崎県,1833,LUFT,長崎県,2668,HEIPON,長崎県,0,,-
-copula,Angelic Jelly,0,,-,969,CICO2A,長崎県,1974,FV4005,長崎県,2584,8RUURR,長崎県,0,,-
-copula,Acid Pumper,0,,-,664,FATE.L,長崎県,1541,LAMY,長崎県,2351,LAMY,長崎県,0,,-
+copula,Angelic Jelly,0,,-,969,CICO2A,長崎県,1974,RYOMA,長崎県,2584,8RUURR,長崎県,0,,-
+copula,Acid Pumper,0,,-,664,FATE.L,長崎県,1541,HITA,長崎県,2351,HITA,長崎県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,591,CICO2A,長崎県,1468,B6,長崎県,2230,HEIPON,長崎県,0,,-
 SINOBUZ,鴉,0,,-,1269,GOMI,長崎県,2149,K.FLAN,長崎県,2629,KAEDE,長崎県,0,,-
 SINOBUZ,童話回廊,0,,-,836,LOVELY,長崎県,1227,ROBROY,長崎県,2929,KAEDE,長崎県,0,,-
 SINOBUZ,禍根,0,,-,687,CICO2A,長崎県,1193,ROBROY,長崎県,2497,P,長崎県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,444,CICO2A,長崎県,960,AOI*,長崎県,1674,KAEDE,長崎県,0,,-
-SINOBUZ,焔極OVERKILL,0,,-,865,MIKIO,長崎県,2013,ABABA,長崎県,3265,LAMY,長崎県,0,,-
+SINOBUZ,焔極OVERKILL,0,,-,865,MIKIO,長崎県,2013,ABABA,長崎県,3311,P,長崎県,0,,-
 SINOBUZ,火影,0,,-,642,YUSUKE,長崎県,1230,NAMERK,長崎県,2562,HEIPON,長崎県,0,,-
-SINOBUZ,津軽雪,0,,-,1241,RA,長崎県,2221,LAMY,長崎県,3719,LAMY,長崎県,0,,-
+SINOBUZ,津軽雪,0,,-,1241,RA,長崎県,2221,HITA,長崎県,3719,HITA,長崎県,0,,-
 SINOBUZ,次葉 -turn the page-,0,,-,710,CICO2A,長崎県,1390,ABABA,長崎県,1970,P,長崎県,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,682,CICO2A,長崎県,1069,LOVELY,長崎県,1992,KAEDE,長崎県,0,,-
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,861,CICO2A,長崎県,1437,SIGNUM,長崎県,2370,HEIPON,長崎県,0,,-
 SINOBUZ,忍恋花,0,,-,891,LOVELY,長崎県,1482,UNTAN,長崎県,2099,TAU,長崎県,0,,-
 SINOBUZ,刃図羅,0,,-,1039,LOVELY,長崎県,1945,ACBEXE,長崎県,3281,P,長崎県,0,,-
-SINOBUZ,冬椿 ft. Kanae Asaba,238,CICO2A,長崎県,834,CICO2A,長崎県,1205,F-REO,長崎県,2237,P,長崎県,2968,LAMY,長崎県
+SINOBUZ,冬椿 ft. Kanae Asaba,238,CICO2A,長崎県,834,CICO2A,長崎県,1205,F-REO,長崎県,2237,P,長崎県,2968,HITA,長崎県
 SINOBUZ,九尾狐夜行,0,,-,838,ABABA,長崎県,1720,ABABA,長崎県,2789,KAEDE,長崎県,0,,-
 SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,626,CICO2A,長崎県,1111,LOVELY,長崎県,2354,8RUURR,長崎県,0,,-
 SINOBUZ,イザナミノナゲキ,0,,-,1038,CICO2A,長崎県,1866,K.FLAN,長崎県,3133,EDMPAN,長崎県,0,,-
@@ -966,33 +966,33 @@ SINOBUZ,Umbral,0,,-,547,CICO2A,長崎県,971,CICO2A,長崎県,1878,P,長崎県,0
 SINOBUZ,TOGAKUSHI,0,,-,735,TOMO,長崎県,1715,ABABA,長崎県,2449,HEIPON,長崎県,0,,-
 SINOBUZ,The Commanders,0,,-,857,CICO2A,長崎県,1401,NAGO,長崎県,2396,HEIPON,長崎県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,508,CICO2A,長崎県,1131,RYTHEM,長崎県,1897,P,長崎県,0,,-
-SINOBUZ,Surf on the Light,0,,-,694,CICO2A,長崎県,1372,AKI..,長崎県,2205,LAMY,長崎県,0,,-
+SINOBUZ,Surf on the Light,0,,-,694,CICO2A,長崎県,1372,AKI..,長崎県,2205,HITA,長崎県,0,,-
 SINOBUZ,Super Rush,0,,-,923,CICO2A,長崎県,1801,K.FLAN,長崎県,3433,STEAK,長崎県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1129,8RUURR,長崎県,1773,K.FLAN,長崎県,2948,P,長崎県,0,,-
 SINOBUZ,Steel Edge,0,,-,757,CICO2A,長崎県,1375,JENNY,長崎県,3050,HEIPON,長崎県,0,,-
-SINOBUZ,Snakey Kung-fu,0,,-,971,CICO2A,長崎県,2091,K.FLAN,長崎県,3290,LAMY,長崎県,0,,-
-SINOBUZ,Sky High,407,CICO2A,長崎県,898,CICO2A,長崎県,2251,K.FLAN,長崎県,3695,LAMY,長崎県,0,,-
+SINOBUZ,Snakey Kung-fu,0,,-,971,CICO2A,長崎県,2091,K.FLAN,長崎県,3290,HITA,長崎県,0,,-
+SINOBUZ,Sky High,407,CICO2A,長崎県,898,CICO2A,長崎県,2251,K.FLAN,長崎県,3695,HITA,長崎県,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,882,CICO2A,長崎県,1516,UNTAN,長崎県,2381,HEIPON,長崎県,0,,-
 SINOBUZ,shuriken,0,,-,691,CICO2A,長崎県,990,CICO2A,長崎県,2420,KAEDE,長崎県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,958,CICO2A,長崎県,2160,K.FLAN,長崎県,2756,EDMPAN,長崎県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,585,CICO2A,長崎県,742,CICO2A,長崎県,1672,HEIPON,長崎県,0,,-
 SINOBUZ,Seaside Labyrinth,0,,-,536,CICO2A,長崎県,996,AOI*,長崎県,1755,TAU,長崎県,0,,-
-SINOBUZ,SAY BAY,0,,-,756,CICO2A,長崎県,1363,Z-GIRL,長崎県,2690,LAMY,長崎県,0,,-
+SINOBUZ,SAY BAY,0,,-,756,CICO2A,長崎県,1363,Z-GIRL,長崎県,2690,HITA,長崎県,0,,-
 SINOBUZ,Sarutobi Champion is 拙者,0,,-,661,CICO2A,長崎県,1289,IIDX28,長崎県,2067,KAEDE,長崎県,0,,-
 SINOBUZ,SAMURAI-Scramble,0,,-,824,CICO2A,長崎県,1513,ROBROY,長崎県,2293,HEIPON,長崎県,2251,ARCAEA,長崎県
 SINOBUZ,ROTTERDAM SHOGUN,494,CICO2A,長崎県,945,CICO2A,長崎県,1705,ROBROY,長崎県,2503,HEIPON,長崎県,0,,-
 SINOBUZ,RISING FIRE HAWK,0,,-,702,CICO2A,長崎県,1470,ABABA,長崎県,2579,KAEDE,長崎県,0,,-
 SINOBUZ,Remedy feat. Kanae Asaba,0,,-,908,ABABA,長崎県,1467,SG2.TR,長崎県,2142,HEIPON,長崎県,0,,-
 SINOBUZ,Rave Cannon,0,,-,850,CICO2A,長崎県,1665,Z-GIRL,長崎県,3169,HEIPON,長崎県,0,,-
-SINOBUZ,RAIN,0,,-,936,CICO2A,長崎県,1746,K.FLAN,長崎県,3158,LAMY,長崎県,0,,-
+SINOBUZ,RAIN,0,,-,936,CICO2A,長崎県,1746,K.FLAN,長崎県,3158,HITA,長崎県,0,,-
 SINOBUZ,Quakes,0,,-,759,U.RUNO,長崎県,1835,YUA*M,長崎県,2915,HEIPON,長崎県,0,,-
 SINOBUZ,Piano Samurai,0,,-,842,CICO2A,長崎県,1496,ROBROY,長崎県,2359,KAEDE,長崎県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,714,KONA2.,長崎県,1416,SIGNUM,長崎県,2720,P,長崎県,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,809,CICO2A,長崎県,1877,Z-GIRL,長崎県,2957,HEIPON,長崎県,0,,-
-SINOBUZ,OOO,0,,-,625,CICO2A,長崎県,1304,AOI*,長崎県,2029,LAMY,長崎県,0,,-
+SINOBUZ,OOO,0,,-,625,CICO2A,長崎県,1304,AOI*,長崎県,2029,HITA,長崎県,0,,-
 SINOBUZ,nostos,0,,-,724,CICO2A,長崎県,1269,ABABA,長崎県,2421,KAEDE,長崎県,0,,-
 SINOBUZ,Music is The Answer,0,,-,647,CICO2A,長崎県,1349,KAEDE,長崎県,1787,TAU,長崎県,0,,-
-SINOBUZ,Modular Technology,0,,-,913,CICO2A,長崎県,1821,K.FLAN,長崎県,2546,LAMY,長崎県,0,,-
+SINOBUZ,Modular Technology,0,,-,913,CICO2A,長崎県,1821,K.FLAN,長崎県,2546,HITA,長崎県,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1179,AOI*,長崎県,1956,8RUURR,長崎県,3466,EDMPAN,長崎県,0,,-
 SINOBUZ,Magical,0,,-,750,CICO2A,長崎県,1142,ROBROY,長崎県,1955,HEIPON,長崎県,0,,-
 SINOBUZ,Macuilxochitl,433,CICO2A,長崎県,895,CICO2A,長崎県,2180,K.FLAN,長崎県,3143,STEAK,長崎県,0,,-
@@ -1001,22 +1001,22 @@ SINOBUZ,INVISIBLE STRIX,0,,-,872,CICO2A,長崎県,1874,ACBEXE,長崎県,2425,K.F
 SINOBUZ,Honey Trap,0,,-,763,CICO2A,長崎県,1470,ACBEXE,長崎県,2454,STEAK,長崎県,0,,-
 SINOBUZ,HAPPY★RUSH,0,,-,698,CICO2A,長崎県,1687,NAMERK,長崎県,2701,KAEDE,長崎県,0,,-
 SINOBUZ,HADES,306,KTSY31,長崎県,880,CICO2A,長崎県,1548,UNTAN,長崎県,2946,HEIPON,長崎県,0,,-
-SINOBUZ,GuNGNiR,0,,-,1226,UNTAN,長崎県,2509,HEIPON,長崎県,3488,MASA.,長崎県,4027,LAMY,長崎県
-SINOBUZ,Go Ahead!!,0,,-,909,ROBROY,長崎県,1425,K.FLAN,長崎県,2535,LAMY,長崎県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,1100,KONA2.,長崎県,1837,FV4005,長崎県,3620,LAMY,長崎県,0,,-
+SINOBUZ,GuNGNiR,0,,-,1226,UNTAN,長崎県,2509,HEIPON,長崎県,3488,MASA.,長崎県,4027,HITA,長崎県
+SINOBUZ,Go Ahead!!,0,,-,909,ROBROY,長崎県,1425,K.FLAN,長崎県,2535,HITA,長崎県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,1100,KONA2.,長崎県,1837,RYOMA,長崎県,3620,HITA,長崎県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,530,CICO2A,長崎県,769,CICO2A,長崎県,1474,*AMIN*,長崎県,0,,-
-SINOBUZ,Egret and Willow,0,,-,843,CICO2A,長崎県,1543,ROBROY,長崎県,2625,LAMY,長崎県,0,,-
-SINOBUZ,ECHIDNA,0,,-,1156,ROBROY,長崎県,1880,LUFT,長崎県,3172,LAMY,長崎県,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1160,KOU,長崎県,2180,K.FLAN,長崎県,3428,LAMY,長崎県,0,,-
-SINOBUZ,Cyber True Color,0,,-,835,CICO2A,長崎県,1438,SG2.TR,長崎県,2237,LAMY,長崎県,0,,-
+SINOBUZ,Egret and Willow,0,,-,843,CICO2A,長崎県,1543,ROBROY,長崎県,2625,HITA,長崎県,0,,-
+SINOBUZ,ECHIDNA,0,,-,1156,ROBROY,長崎県,1880,LUFT,長崎県,3172,HITA,長崎県,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1160,KOU,長崎県,2180,K.FLAN,長崎県,3428,HITA,長崎県,0,,-
+SINOBUZ,Cyber True Color,0,,-,835,CICO2A,長崎県,1438,SG2.TR,長崎県,2237,HITA,長崎県,0,,-
 SINOBUZ,crew,0,,-,587,LOW.S,長崎県,1514,AOI*,長崎県,2841,EDMPAN,長崎県,0,,-
 SINOBUZ,Caterpillar,0,,-,924,CICO2A,長崎県,2110,K.FLAN,長崎県,2839,P,長崎県,0,,-
-SINOBUZ,BroGamer,0,,-,1152,CICO2A,長崎県,2035,SHIURA,長崎県,2962,LAMY,長崎県,0,,-
+SINOBUZ,BroGamer,0,,-,1152,CICO2A,長崎県,2035,SHIURA,長崎県,2962,HITA,長崎県,0,,-
 SINOBUZ,Breakin' Chain,0,,-,631,CICO2A,長崎県,1253,ROBROY,長崎県,2242,KAEDE,長崎県,0,,-
-SINOBUZ,BREAK OVER,0,,-,656,TOMO,長崎県,1337,ROBROY,長崎県,2281,HEIPON,長崎県,0,,-
+SINOBUZ,BREAK OVER,0,,-,705,IT-MOO,長崎県,1337,ROBROY,長崎県,2281,HEIPON,長崎県,0,,-
 SINOBUZ,Beyond The Seven,0,,-,640,CICO2A,長崎県,1230,KOU,長崎県,2637,HEIPON,長崎県,0,,-
 SINOBUZ,Believe in you,0,,-,968,CICO2A,長崎県,1725,HIROO,長崎県,2402,P,長崎県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,741,CICO2A,長崎県,1416,NAMERK,長崎県,2045,LAMY,長崎県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,741,CICO2A,長崎県,1416,NAMERK,長崎県,2045,HITA,長崎県,0,,-
 SINOBUZ,Be A Star,0,,-,850,CICO2A,長崎県,1746,YUA*M,長崎県,2764,P,長崎県,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,1156,ROBROY,長崎県,1895,*AMIN*,長崎県,2682,HEIPON,長崎県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,1014,CICO2A,長崎県,1655,SHIURA,長崎県,2524,HEIPON,長崎県,0,,-
@@ -1025,11 +1025,11 @@ SINOBUZ,Apocalypse,0,,-,1007,CICO2A,長崎県,1747,RYTHEM,長崎県,3435,P,長�
 SINOBUZ,AO-∞,0,,-,941,CICO2A,長崎県,1521,S.MAYU,長崎県,2522,KAEDE,長崎県,0,,-
 SINOBUZ,Amazing Mirage,275,TTZK,長崎県,737,CICO2A,長崎県,1644,ACBEXE,長崎県,2479,KAEDE,長崎県,3083,P,長崎県
 SINOBUZ,(This Is Not) The Angels,0,,-,545,T41K1N,長崎県,1369,K.FLAN,長崎県,2581,KAEDE,長崎県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,879,AZ-PON,長崎県,1868,Z-GIRL,長崎県,3263,LAMY,長崎県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,879,AZ-PON,長崎県,1868,Z-GIRL,長崎県,3263,HITA,長崎県,0,,-
 SINOBUZ,!Viva!,0,,-,784,CICO2A,長崎県,1373,FENCER,長崎県,1965,HEIPON,長崎県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,659,8RUURR,長崎県,1100,IIIIDX,長崎県,2255,HEIPON,長崎県,0,,-
 CANNON BALLERS,純真可憐デザイア,217,CICO2A,長崎県,697,CICO2A,長崎県,1455,YUSUKE,長崎県,2305,P,長崎県,0,,-
-CANNON BALLERS,神謳 -RESONANCE-,0,,-,1334,SIGNUM,長崎県,2498,LAMY,長崎県,3862,LAMY,長崎県,0,,-
+CANNON BALLERS,神謳 -RESONANCE-,0,,-,1334,SIGNUM,長崎県,2498,HITA,長崎県,3862,HITA,長崎県,0,,-
 CANNON BALLERS,東京神話,456,ROBROY,長崎県,924,GOMI,長崎県,1541,SG2.TR,長崎県,2631,HEIPON,長崎県,0,,-
 CANNON BALLERS,命の標本,0,,-,666,CICO2A,長崎県,1479,B6,長崎県,2634,P,長崎県,0,,-
 CANNON BALLERS,共犯へヴンズコード,0,,-,451,CICO2A,長崎県,986,LOVELY,長崎県,2184,KAEDE,長崎県,0,,-
@@ -1039,11 +1039,11 @@ CANNON BALLERS,バスルーム ロマンス,0,,-,947,ABABA,長崎県,1173,MRK*HL
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,736,KONA2.,長崎県,1647,YUA*M,長崎県,2362,KAEDE,長崎県,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,797,CICO2A,長崎県,1313,RYTHEM,長崎県,2405,STEAK,長崎県,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,927,CICO2A,長崎県,1457,ROBROY,長崎県,2061,P,長崎県,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1288,S.MAYU,長崎県,2203,K.FLAN,長崎県,3280,LAMY,長崎県,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1288,S.MAYU,長崎県,2203,K.FLAN,長崎県,3280,HITA,長崎県,0,,-
 CANNON BALLERS,エディブルフラワーの独白,0,,-,758,CICO2A,長崎県,1374,KONA2.,長崎県,2162,P,長崎県,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,783,CICO2A,長崎県,1296,ROBROY,長崎県,2453,KAEDE,長崎県,0,,-
 CANNON BALLERS,Xperanza,474,CICO2A,長崎県,1291,YUSUKE,長崎県,2324,K.FLAN,長崎県,2956,HEIPON,長崎県,0,,-
-CANNON BALLERS,Usual Days-remix,0,,-,889,CICO2A,長崎県,1335,UNTAN,長崎県,2543,LAMY,長崎県,0,,-
+CANNON BALLERS,Usual Days-remix,0,,-,889,CICO2A,長崎県,1335,UNTAN,長崎県,2543,HITA,長崎県,0,,-
 CANNON BALLERS,UMMU,389,CICO2A,長崎県,362,KYLE,長崎県,1938,ABABA,長崎県,2914,P,長崎県,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,625,CICO2A,長崎県,1283,HAGE,長崎県,1775,KAEDE,長崎県,0,,-
 CANNON BALLERS,The Chase,0,,-,600,CICO2A,長崎県,1232,L,長崎県,1953,HEIPON,長崎県,0,,-
@@ -1058,49 +1058,49 @@ CANNON BALLERS,Sleepless days,0,,-,481,LOVELY,長崎県,860,NOZOM!,長崎県,156
 CANNON BALLERS,Rise Circuit,0,,-,806,CICO2A,長崎県,1452,NAGO,長崎県,2157,K.FLAN,長崎県,0,,-
 CANNON BALLERS,REVOLVER,0,,-,746,CICO2A,長崎県,1488,SHIURA,長崎県,2640,P,長崎県,0,,-
 CANNON BALLERS,Raspberry Railgun,0,,-,876,AGS,長崎県,2175,K.FLAN,長崎県,3023,P,長崎県,0,,-
-CANNON BALLERS,Rampage,0,,-,1108,CICO2A,長崎県,2377,K.FLAN,長崎県,3486,P,長崎県,0,,-
-CANNON BALLERS,Persephone,0,,-,926,NAMERK,長崎県,1711,S.MAYU,長崎県,2865,LAMY,長崎県,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,1055,YUSUKE,長崎県,1995,K.FLAN,長崎県,2697,LAMY,長崎県,0,,-
+CANNON BALLERS,Rampage,0,,-,1136,CICO2A,長崎県,2377,K.FLAN,長崎県,3505,P,長崎県,0,,-
+CANNON BALLERS,Persephone,0,,-,926,NAMERK,長崎県,1711,S.MAYU,長崎県,2865,HITA,長崎県,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,1055,YUSUKE,長崎県,1995,K.FLAN,長崎県,2697,HITA,長崎県,0,,-
 CANNON BALLERS,Only for now,0,,-,800,CICO2A,長崎県,1366,YUSUKE,長崎県,2246,P,長崎県,0,,-
 CANNON BALLERS,O/D*20,0,,-,1091,SHIURA,長崎県,1632,JARO.,長崎県,2096,P,長崎県,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,886,CICO2A,長崎県,1379,MNWING,長崎県,2793,P,長崎県,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,796,TOMO,長崎県,1427,Z-GIRL,長崎県,2293,P,長崎県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,988,TM0.IN,長崎県,1886,LUFT,長崎県,3401,LAMY,長崎県,0,,-
-CANNON BALLERS,n'pa pa BBQ,0,,-,833,CICO2A,長崎県,1532,ROBROY,長崎県,2704,LAMY,長崎県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,988,TM0.IN,長崎県,1886,LUFT,長崎県,3401,HITA,長崎県,0,,-
+CANNON BALLERS,n'pa pa BBQ,0,,-,833,CICO2A,長崎県,1532,ROBROY,長崎県,2704,HITA,長崎県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,582,CICO2A,長崎県,1075,JARO.,長崎県,1892,TAU,長崎県,0,,-
 CANNON BALLERS,MAXIVCORD,0,,-,692,TOMO,長崎県,1216,NAMERK,長崎県,2318,KAEDE,長崎県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,727,CICO2A,長崎県,1229,IIIIDX,長崎県,2045,KAEDE,長崎県,0,,-
 CANNON BALLERS,LIGHTS ft. EVO+,0,,-,622,CICO2A,長崎県,1328,ROBROY,長崎県,2306,KAEDE,長崎県,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1046,CICO2A,長崎県,1780,YUA*M,長崎県,3242,8RUURR,長崎県,0,,-
-CANNON BALLERS,Let's Bounce !!,0,,-,615,CICO2A,長崎県,912,CICO2A,長崎県,2124,TAU,長崎県,0,,-
-CANNON BALLERS,Initiation,636,ROBROY,長崎県,1449,ABABA,長崎県,2336,K.FLAN,長崎県,3682,LAMY,長崎県,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1017,CICO2A,長崎県,2053,ABABA,長崎県,3289,LAMY,長崎県,0,,-
+CANNON BALLERS,Let's Bounce !!,0,,-,647,CICO2A,長崎県,912,CICO2A,長崎県,2124,TAU,長崎県,0,,-
+CANNON BALLERS,Initiation,636,ROBROY,長崎県,1449,ABABA,長崎県,2336,K.FLAN,長崎県,3682,HITA,長崎県,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1017,CICO2A,長崎県,2053,ABABA,長崎県,3289,HITA,長崎県,0,,-
 CANNON BALLERS,I Love You,0,,-,956,LOVELY,長崎県,1761,ABABA,長崎県,2659,P,長崎県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,806,CICO2A,長崎県,1908,ABABA,長崎県,2809,KAEDE,長崎県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,572,CICO2A,長崎県,903,WILL,長崎県,1737,KAEDE,長崎県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,694,CICO2A,長崎県,1232,KROKRO,長崎県,2134,P,長崎県,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,312,ASACO*,長崎県,773,HISSSS,長崎県,1839,P,長崎県,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,785,CICO2A,長崎県,1430,ACBEXE,長崎県,2092,LAMY,長崎県,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,785,CICO2A,長崎県,1430,ACBEXE,長崎県,2092,HITA,長崎県,0,,-
 CANNON BALLERS,From Time To Time,0,,-,676,CICO2A,長崎県,1660,ROBROY,長崎県,2426,KAEDE,長崎県,0,,-
 CANNON BALLERS,FREEDOM,0,,-,794,CICO2A,長崎県,1516,ROBROY,長崎県,2780,KAEDE,長崎県,0,,-
-CANNON BALLERS,Fervidex,0,,-,816,ROBROY,長崎県,1769,ABABA,長崎県,2655,LAMY,長崎県,0,,-
+CANNON BALLERS,Fervidex,0,,-,816,ROBROY,長崎県,1769,ABABA,長崎県,2655,HITA,長崎県,0,,-
 CANNON BALLERS,Expanded !!,0,,-,640,CICO2A,長崎県,1357,SIGNUM,長崎県,2593,STEAK,長崎県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,884,CICO2A,長崎県,1898,ABABA,長崎県,2727,HEIPON,長崎県,0,,-
-CANNON BALLERS,encounter,0,,-,815,CICO2A,長崎県,1668,FV4005,長崎県,3114,P,長崎県,0,,-
-CANNON BALLERS,EMERALDAS,506,RIV*,長崎県,1124,RINN,長崎県,2301,KAEDE,長崎県,3212,LAMY,長崎県,0,,-
+CANNON BALLERS,encounter,0,,-,815,CICO2A,長崎県,1668,RYOMA,長崎県,3114,P,長崎県,0,,-
+CANNON BALLERS,EMERALDAS,506,RIV*,長崎県,1124,RINN,長崎県,2301,KAEDE,長崎県,3212,HITA,長崎県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,869,CICO2A,長崎県,1386,8RUURR,長崎県,2437,HEIPON,長崎県,0,,-
 CANNON BALLERS,DropZ-Line-,0,,-,960,MIKIO,長崎県,1845,SHIURA,長崎県,2885,HEIPON,長崎県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1309,SYU-,長崎県,2316,K.FLAN,長崎県,3717,LAMY,長崎県,0,,-
-CANNON BALLERS,DEADHEAT,0,,-,988,WILL,長崎県,1835,K.FLAN,長崎県,3136,LAMY,長崎県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1309,SYU-,長崎県,2316,K.FLAN,長崎県,3717,HITA,長崎県,0,,-
+CANNON BALLERS,DEADHEAT,0,,-,988,WILL,長崎県,1835,K.FLAN,長崎県,3136,HITA,長崎県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,692,CICO2A,長崎県,1217,MRK*HL,長崎県,2061,HEIPON,長崎県,0,,-
-CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,889,CICO2A,長崎県,1787,ACBEXE,長崎県,2559,LAMY,長崎県,0,,-
+CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,889,CICO2A,長崎県,1809,ARCAEA,長崎県,2559,HITA,長崎県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,686,CICO2A,長崎県,1379,MASA.,長崎県,2095,STEAK,長崎県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,805,CICO2A,長崎県,1588,UNTAN,長崎県,2690,EDMPAN,長崎県,0,,-
 CANNON BALLERS,Break Stasis,0,,-,981,MK,長崎県,1647,ROBROY,長崎県,2421,KAEDE,長崎県,0,,-
-CANNON BALLERS,Boomy and The Boost,0,,-,988,KOU,長崎県,1952,KOY,長崎県,3337,LAMY,長崎県,0,,-
-CANNON BALLERS,Best of Me,0,,-,716,CICO2A,長崎県,1530,SHIURA,長崎県,2115,KAEDE,長崎県,0,,-
+CANNON BALLERS,Boomy and The Boost,0,,-,988,KOU,長崎県,1952,KOY,長崎県,3337,HITA,長崎県,0,,-
+CANNON BALLERS,Best of Me,0,,-,716,CICO2A,長崎県,1530,SHIURA,長崎県,2120,K.FLAN,長崎県,0,,-
 CANNON BALLERS,Beast mode,0,,-,880,NGC7KZ,長崎県,1426,NAMERK,長崎県,2592,HEIPON,長崎県,0,,-
-CANNON BALLERS,Be a Hero!,0,,-,525,ME765,長崎県,1670,ROBROY,長崎県,2880,KAEDE,長崎県,0,,-
+CANNON BALLERS,Be a Hero!,0,,-,632,LULUN,長崎県,1836,ACBEXE,長崎県,2880,KAEDE,長崎県,0,,-
 CANNON BALLERS,Battleground,0,,-,953,CICO2A,長崎県,1774,ACBEXE,長崎県,2602,HEIPON,長崎県,0,,-
 CANNON BALLERS,Back Spin Sweeper,0,,-,828,SHIURA,長崎県,1321,ACBEXE,長崎県,2127,KAEDE,長崎県,0,,-
 CANNON BALLERS,Around the Future,0,,-,783,BITOU,長崎県,1481,Z-GIRL,長崎県,2515,HEIPON,長崎県,0,,-
@@ -1113,13 +1113,13 @@ CANNON BALLERS,Alpheratz,0,,-,412,AZU*,長崎県,903,CICO2A,長崎県,1929,IIDX2
 CANNON BALLERS,Acidiva 303,0,,-,685,CICO2A,長崎県,1092,KAYAKI,長崎県,2233,P,長崎県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1014,CICO2A,長崎県,1638,MASA.,長崎県,2402,KAEDE,長崎県,0,,-
 CANNON BALLERS,Abraxas,0,,-,723,CICO2A,長崎県,1574,ACBEXE,長崎県,2338,P,長崎県,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1158,F-REO,長崎県,2309,K.FLAN,長崎県,3457,LAMY,長崎県,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1158,F-REO,長崎県,2309,K.FLAN,長崎県,3457,HITA,長崎県,0,,-
 CANNON BALLERS,255,0,,-,673,CICO2A,長崎県,1454,K.FLAN,長崎県,3037,KAEDE,長崎県,0,,-
 CANNON BALLERS,2 Player,0,,-,775,CICO2A,長崎県,1496,ACBEXE,長崎県,2418,KAEDE,長崎県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,827,TOMO,長崎県,1499,MRK*HL,長崎県,2574,HEIPON,長崎県,0,,-
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,860,AAAAAA,長崎県,2199,K.FLAN,長崎県,3100,LAMY,長崎県,0,,-
-Rootage,金野火織の金色提言,0,,-,1057,RA,長崎県,2093,LUFT,長崎県,2880,LAMY,長崎県,0,,-
-Rootage,花冠 feat.Aikapin,0,,-,755,CICO2A,長崎県,1509,SG2.TR,長崎県,2377,LAMY,長崎県,0,,-
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,860,AAAAAA,長崎県,2199,K.FLAN,長崎県,3100,HITA,長崎県,0,,-
+Rootage,金野火織の金色提言,0,,-,1057,RA,長崎県,2093,LUFT,長崎県,2880,HITA,長崎県,0,,-
+Rootage,花冠 feat.Aikapin,0,,-,755,CICO2A,長崎県,1509,SG2.TR,長崎県,2377,HITA,長崎県,0,,-
 Rootage,爆ゼニ☆がってんワーカー,0,,-,716,CICO2A,長崎県,1520,MRK*HL,長崎県,2614,P,長崎県,0,,-
 Rootage,深愛のリグレット,0,,-,703,CICO2A,長崎県,1154,SHIURA,長崎県,2338,P,長崎県,0,,-
 Rootage,泰東ノ翠霞,0,,-,402,NEON,長崎県,729,SHIURA,長崎県,1672,KAEDE,長崎県,0,,-
@@ -1130,21 +1130,21 @@ Rootage,ミッドナイト☆WAR,0,,-,766,CICO2A,長崎県,1429,ROBROY,長崎県
 Rootage,ミストレス・アンに花束を,0,,-,507,CICO2A,長崎県,937,F-REO,長崎県,1400,HEIPON,長崎県,0,,-
 Rootage,ハードベース・フェスタ,0,,-,969,CICO2A,長崎県,1610,F-REO,長崎県,2776,P,長崎県,0,,-
 Rootage,セカンドピアス,0,,-,587,ABABA,長崎県,953,CICO2A,長崎県,1979,HEIPON,長崎県,0,,-
-Rootage,サクラあっぱれーしょん,252,CICO2A,長崎県,554,CICO2A,長崎県,1334,YUA*M,長崎県,2283,LAMY,長崎県,0,,-
+Rootage,サクラあっぱれーしょん,252,CICO2A,長崎県,554,CICO2A,長崎県,1334,YUA*M,長崎県,2283,HITA,長崎県,0,,-
 Rootage,グラナダの風,0,,-,650,CICO2A,長崎県,987,HIROO,長崎県,1776,KAEDE,長崎県,0,,-
-Rootage,お菓子の王国,0,,-,1337,YUSUKE,長崎県,2135,ABABA,長崎県,3820,LAMY,長崎県,0,,-
+Rootage,お菓子の王国,0,,-,1337,YUSUKE,長崎県,2135,ABABA,長崎県,3820,HITA,長崎県,0,,-
 Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1079,8RUURR,長崎県,1702,NOZOM!,長崎県,2774,STEAK,長崎県,0,,-
-Rootage,ZENDEGI DANCE,0,,-,1049,CICO2A,長崎県,1704,SHIURA,長崎県,2680,LAMY,長崎県,0,,-
+Rootage,ZENDEGI DANCE,0,,-,1049,CICO2A,長崎県,1704,SHIURA,長崎県,2680,HITA,長崎県,0,,-
 Rootage,Yum Yum Jelly,0,,-,712,CICO2A,長崎県,1427,ROBROY,長崎県,2260,KAEDE,長崎県,0,,-
 Rootage,Xlo,0,,-,1187,MNWING,長崎県,2296,K.FLAN,長崎県,3544,P,長崎県,0,,-
 Rootage,XENON II ～TOMOYUKIの野望～,0,,-,825,CICO2A,長崎県,1564,YUA*M,長崎県,2884,EDMPAN,長崎県,0,,-
-Rootage,X-DEN,0,,-,1408,ROBROY,長崎県,2609,LAMY,長崎県,3630,LAMY,長崎県,0,,-
+Rootage,X-DEN,0,,-,1408,ROBROY,長崎県,2609,HITA,長崎県,3630,HITA,長崎県,0,,-
 Rootage,Wonderland,0,,-,797,CICO2A,長崎県,1822,ABABA,長崎県,2651,EARTH,長崎県,0,,-
 Rootage,Won(*3*)Chu KissMe!,251,AKI..,長崎県,853,CICO2A,長崎県,1263,YUA*M,長崎県,2415,P,長崎県,0,,-
 Rootage,Wolf 1061,0,,-,830,CICO2A,長崎県,1647,JARO.,長崎県,2999,P,長崎県,0,,-
 Rootage,Wing of Hearts,0,,-,1003,CICO2A,長崎県,1699,YUA*M,長崎県,2867,KAEDE,長崎県,0,,-
 Rootage,voltississimo,0,,-,1015,GOMI,長崎県,1888,S.MAYU,長崎県,3359,HEIPON,長崎県,0,,-
-Rootage,Visterhv,0,,-,1021,KRONE,長崎県,2130,K.FLAN,長崎県,3514,LAMY,長崎県,0,,-
+Rootage,Visterhv,0,,-,1021,KRONE,長崎県,2130,K.FLAN,長崎県,3514,HITA,長崎県,0,,-
 Rootage,Urban Constellations,0,,-,659,GOMI,長崎県,1071,ROBROY,長崎県,2122,KAEDE,長崎県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1127,ABABA,長崎県,1664,NAO,長崎県,3079,KAEDE,長崎県,0,,-
 Rootage,Unbelief,0,,-,785,CICO2A,長崎県,1981,K.FLAN,長崎県,2940,EDMPAN,長崎県,0,,-
@@ -1158,24 +1158,24 @@ Rootage,The Rebellion of Sequencer,0,,-,1031,YUSUKE,長崎県,1775,IIDX28,長崎
 Rootage,THE DAY OF JUBILATIONS,0,,-,1240,MA,長崎県,2060,RAICHI,長崎県,3299,P,長崎県,0,,-
 Rootage,The Best of Both Worlds,0,,-,569,HEIPON,長崎県,1225,ROBROY,長崎県,2079,KAEDE,長崎県,0,,-
 Rootage,Technicolour Dreams,0,,-,824,CICO2A,長崎県,1325,YUSUKE,長崎県,2329,KAEDE,長崎県,0,,-
-Rootage,Starry Night,0,,-,811,CICO2A,長崎県,1133,LOVELY,長崎県,2446,HEIPON,長崎県,0,,-
+Rootage,Starry Night,0,,-,811,CICO2A,長崎県,1162,CICO2A,長崎県,2446,HEIPON,長崎県,0,,-
 Rootage,SPEED ROCKER,0,,-,769,CICO2A,長崎県,1601,ABABA,長崎県,2157,KAEDE,長崎県,0,,-
 Rootage,Six String Proof,0,,-,725,CICO2A,長崎県,1350,NAGO,長崎県,2403,KAEDE,長崎県,0,,-
-Rootage,SIGMA,0,,-,661,CICO2A,長崎県,1064,KRH**,長崎県,2381,ARCAEA,長崎県,0,,-
+Rootage,SIGMA,0,,-,661,CICO2A,長崎県,1203,GOMI,長崎県,2381,ARCAEA,長崎県,0,,-
 Rootage,Sidechained Threats,0,,-,967,CICO2A,長崎県,1892,SHIURA,長崎県,2289,K.FLAN,長崎県,0,,-
 Rootage,Serious?,0,,-,503,CICO2A,長崎県,1073,MA,長崎県,2136,HEIPON,長崎県,0,,-
 Rootage,R∞tAge,522,ROBROY,長崎県,968,NAGO,長崎県,1594,ACBEXE,長崎県,2788,KAEDE,長崎県,0,,-
 Rootage,ruin of opals,0,,-,805,GOMI,長崎県,1728,SHIURA,長崎県,2977,P,長崎県,0,,-
 Rootage,ROZA DE ANDALUCIA,0,,-,960,CICO2A,長崎県,1695,RYTHEM,長崎県,2848,HEIPON,長崎県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,802,CICO2A,長崎県,1552,RAICHI,長崎県,2489,TAU,長崎県,0,,-
-Rootage,REPLAY,0,,-,740,SKN,長崎県,1590,SHIURA,長崎県,2172,TAU,長崎県,0,,-
+Rootage,REPLAY,0,,-,867,LATHAM,長崎県,1590,SHIURA,長崎県,2172,TAU,長崎県,0,,-
 Rootage,Red. by Jack Trance,0,,-,1430,ABABA,長崎県,2056,HEIPON,長崎県,3119,HEIPON,長崎県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,551,CICO2A,長崎県,806,RA,長崎県,1481,OKAYU,長崎県,0,,-
 Rootage,Please Welcome Mr.C,0,,-,960,GOMI,長崎県,1689,SHIURA,長崎県,2814,HEIPON,長崎県,0,,-
 Rootage,Playing With Fire,0,,-,981,ABABA,長崎県,1378,RYTHEM,長崎県,2237,HEIPON,長崎県,0,,-
 Rootage,Particle Arts,0,,-,858,ABABA,長崎県,1331,MA,長崎県,2343,HEIPON,長崎県,0,,-
 Rootage,Painful Fate,0,,-,1077,PIPO,長崎県,2151,K.FLAN,長崎県,3129,EDMPAN,長崎県,0,,-
-Rootage,OVER TIME,0,,-,522,CICO2A,長崎県,858,CICO2A,長崎県,1530,HEIPON,長崎県,0,,-
+Rootage,OVER TIME,0,,-,562,ARCAEA,長崎県,858,CICO2A,長崎県,1530,HEIPON,長崎県,0,,-
 Rootage,ONIGOROSHI,0,,-,880,CICO2A,長崎県,1920,ACBEXE,長崎県,2773,HEIPON,長崎県,0,,-
 Rootage,Night! Night! Night!,0,,-,970,CICO2A,長崎県,1697,SHIURA,長崎県,2860,HEIPON,長崎県,0,,-
 Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,730,CICO2A,長崎県,1583,SHIURA,長崎県,2594,MASA.,長崎県,0,,-
@@ -1183,42 +1183,42 @@ Rootage,Necroxis Girl,0,,-,963,GOMI,長崎県,1649,Z-GIRL,長崎県,2715,P,長�
 Rootage,Macho Monky,0,,-,1044,LOVELY,長崎県,1979,K.FLAN,長崎県,2834,HEIPON,長崎県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,857,CICO2A,長崎県,1680,Z-GIRL,長崎県,3251,P,長崎県,0,,-
 Rootage,Lift Us High,0,,-,874,CICO2A,長崎県,1519,SHIURA,長崎県,2355,KAEDE,長崎県,0,,-
-Rootage,Level One,0,,-,1154,FATE.L,長崎県,2140,MASA.,長崎県,3141,HEIPON,長崎県,0,,-
-Rootage,Lethal Weapon,0,,-,1036,CICO2A,長崎県,1792,SHIURA,長崎県,3070,LAMY,長崎県,0,,-
-Rootage,Let me be your cure,0,,-,1079,SIGNUM,長崎県,1309,AOI*,長崎県,2620,LAMY,長崎県,0,,-
+Rootage,Level One,0,,-,1154,FATE.L,長崎県,2153,ACBEXE,長崎県,3141,HEIPON,長崎県,0,,-
+Rootage,Lethal Weapon,0,,-,1036,CICO2A,長崎県,1792,SHIURA,長崎県,3070,HITA,長崎県,0,,-
+Rootage,Let me be your cure,0,,-,1079,SIGNUM,長崎県,1309,AOI*,長崎県,2620,HITA,長崎県,0,,-
 Rootage,LADYBIRD,0,,-,1051,LUFT,長崎県,1403,ROBROY,長崎県,2276,TAU,長崎県,0,,-
-Rootage,L.F.O,0,,-,765,GOMI,長崎県,1694,K.FLAN,長崎県,3124,LAMY,長崎県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1123,NGC7KZ,長崎県,2297,K.FLAN,長崎県,3637,LAMY,長崎県,0,,-
+Rootage,L.F.O,0,,-,765,GOMI,長崎県,1694,K.FLAN,長崎県,3124,HITA,長崎県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1123,NGC7KZ,長崎県,2297,K.FLAN,長崎県,3637,HITA,長崎県,0,,-
 Rootage,IDOL syndrome.,0,,-,685,KONA2.,長崎県,1253,AOI*,長崎県,2125,KAEDE,長崎県,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1018,KAEDE,長崎県,1451,ACBEXE,長崎県,2078,P,長崎県,0,,-
-Rootage,Hurry Hurry,0,,-,717,FV4005,長崎県,891,CICO2A,長崎県,2037,P,長崎県,0,,-
+Rootage,Hurry Hurry,0,,-,717,RYOMA,長崎県,891,CICO2A,長崎県,2037,P,長崎県,0,,-
 Rootage,HOT LIMIT,307,PLANET,長崎県,943,CICO2A,長崎県,1694,K.FLAN,長崎県,2442,HEIPON,長崎県,0,,-
-Rootage,HEISEI,365,ROBROY,長崎県,802,CICO2A,長崎県,1874,K.FLAN,長崎県,2487,LAMY,長崎県,0,,-
+Rootage,HEISEI,365,ROBROY,長崎県,802,CICO2A,長崎県,1874,K.FLAN,長崎県,2487,HITA,長崎県,0,,-
 Rootage,HARD BRAIN,0,,-,1104,GOMI,長崎県,1972,SHIURA,長崎県,3617,P,長崎県,0,,-
 Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,847,CICO2A,長崎県,2123,K.FLAN,長崎県,3743,EDMPAN,長崎県,0,,-
 Rootage,Glory,0,,-,647,CICO2A,長崎県,1506,NAO,長崎県,2120,MASA.,長崎県,0,,-
 Rootage,GIGA THRASH,0,,-,943,CICO2A,長崎県,1525,ROBROY,長崎県,2612,HEIPON,長崎県,0,,-
-Rootage,GENE,0,,-,1298,P,長崎県,1890,K.FLAN,長崎県,4177,LAMY,長崎県,0,,-
+Rootage,GENE,0,,-,1298,P,長崎県,1890,K.FLAN,長崎県,4177,HITA,長崎県,0,,-
 Rootage,Geirskogul,0,,-,897,CICO2A,長崎県,1539,SHIURA,長崎県,2132,KAEDE,長崎県,0,,-
-Rootage,Garuda,0,,-,825,CICO2A,長崎県,1371,NAMERK,長崎県,2472,P,長崎県,0,,-
+Rootage,Garuda,0,,-,844,GOMI,長崎県,1371,NAMERK,長崎県,2472,P,長崎県,0,,-
 Rootage,EVANESCENT,0,,-,1031,GOMI,長崎県,1954,IKEDA.,長崎県,3389,P,長崎県,0,,-
 Rootage,Ember Lights,0,,-,735,CICO2A,長崎県,1492,Z-GIRL,長崎県,2619,P,長崎県,0,,-
-Rootage,DRUNK MONKY,0,,-,992,HEIPON,長崎県,1377,SR,長崎県,2194,LAMY,長崎県,0,,-
-Rootage,Drastic Dramatic,0,,-,787,CICO2A,長崎県,2285,K.FLAN,長崎県,3395,LAMY,長崎県,0,,-
+Rootage,DRUNK MONKY,0,,-,992,HEIPON,長崎県,1377,SR,長崎県,2194,HITA,長崎県,0,,-
+Rootage,Drastic Dramatic,0,,-,787,CICO2A,長崎県,2285,K.FLAN,長崎県,3395,HITA,長崎県,0,,-
 Rootage,Dr. Chemical & Killing Machine,0,,-,976,VIVI12,長崎県,1658,SG2.TR,長崎県,3251,EDMPAN,長崎県,0,,-
 Rootage,Digital Skipper,0,,-,925,ZAKI,長崎県,1167,KRH**,長崎県,2137,KAEDE,長崎県,0,,-
 Rootage,dAuntl3ss,0,,-,1007,KONA2.,長崎県,1928,K.FLAN,長崎県,3416,P,長崎県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,738,CICO2A,長崎県,1428,F-REO,長崎県,2315,KAEDE,長崎県,0,,-
 Rootage,COSMIC CYBER,0,,-,915,CICO2A,長崎県,1643,K.FLAN,長崎県,2809,P,長崎県,0,,-
-Rootage,CoMAAAAAAA,0,,-,815,CICO2A,長崎県,1896,YUA*M,長崎県,2307,K.FLAN,長崎県,0,,-
+Rootage,CoMAAAAAAA,0,,-,918,CICO2A,長崎県,1896,YUA*M,長崎県,2307,K.FLAN,長崎県,0,,-
 Rootage,CODE:0,0,,-,1032,CICO2A,長崎県,2018,SHIURA,長崎県,2672,HEIPON,長崎県,0,,-
 Rootage,Catch Our Fire!,0,,-,1081,CICO2A,長崎県,2021,ACBEXE,長崎県,3485,P,長崎県,0,,-
-Rootage,Carry Me Away,0,,-,966,KONA2.,長崎県,1697,SHIURA,長崎県,3061,P,長崎県,0,,-
+Rootage,Carry Me Away,0,,-,1017,LATHAM,長崎県,1697,SHIURA,長崎県,3061,P,長崎県,0,,-
 Rootage,Carmina,0,,-,1138,YUSUKE,長崎県,2251,K.FLAN,長崎県,3469,EDMPAN,長崎県,0,,-
 Rootage,BLOSSOM,0,,-,1016,MASA.,長崎県,1504,YUA*M,長崎県,2426,KAEDE,長崎県,0,,-
 Rootage,BLACK JACKAL,0,,-,760,CICO2A,長崎県,1507,JARO.,長崎県,2233,KAEDE,長崎県,0,,-
 Rootage,Angels & Demons,0,,-,872,ABABA,長崎県,1549,U46?,長崎県,2307,KAEDE,長崎県,0,,-
-Rootage,AGAiN,0,,-,918,GOMI,長崎県,1385,HIROO,長崎県,2173,KAEDE,長崎県,0,,-
+Rootage,AGAiN,0,,-,918,GOMI,長崎県,1385,HIROO,長崎県,2230,HEIPON,長崎県,0,,-
 Rootage,Afterimage d'automne,0,,-,887,GOMI,長崎県,1582,SHIURA,長崎県,2639,KAEDE,長崎県,0,,-
 Rootage,A Tale Hidden In The Abyss,0,,-,904,ABABA,長崎県,1504,ROBROY,長崎県,2450,KAEDE,長崎県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1114,CICO2A,長崎県,1458,NOZOM!,長崎県,2539,HEIPON,長崎県,0,,-
@@ -1228,38 +1228,38 @@ Rootage,50th Memorial Songs -Beginning Story-,0,,-,769,CICO2A,長崎県,1481,NOZ
 Rootage,& Intelligence,0,,-,1127,ABABA,長崎県,1954,ACBEXE,長崎県,2924,KAEDE,長崎県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1022,CICO2A,長崎県,1558,YUA*M,長崎県,2722,KAEDE,長崎県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,979,CICO2A,長崎県,1790,HEIPON,長崎県,3090,HEIPON,長崎県,0,,-
-HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1007,LOVELY,長崎県,1942,SHIURA,長崎県,3263,LAMY,長崎県,0,,-
-HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,647,TAU,長崎県,1078,TAU,長崎県,1679,LAMY,長崎県,0,,-
+HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1255,M4M1M1,長崎県,1942,SHIURA,長崎県,3263,HITA,長崎県,0,,-
+HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,647,TAU,長崎県,1078,TAU,長崎県,1679,HITA,長崎県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,746,CICO2A,長崎県,1496,F-REO,長崎県,2860,HEIPON,長崎県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,961,CICO2A,長崎県,1692,K.FLAN,長崎県,2578,K.FLAN,長崎県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,224,CICO2A,長崎県,611,HAMA,長崎県,978,GOMI,長崎県,1943,HEIPON,長崎県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),343,8RUURR,長崎県,509,CICO2A,長崎県,1374,HEIPON,長崎県,2141,HEIPON,長崎県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1127,ABABA,長崎県,1781,SHIURA,長崎県,2813,KAEDE,長崎県,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1008,TAU,長崎県,2000,TAU,長崎県,3445,EDMPAN,長崎県,0,,-
-HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),370,RIV*,長崎県,712,CICO2A,長崎県,1303,YUSUKE,長崎県,2360,LAMY,長崎県,0,,-
-HEROIC VERSE,ガヴリールドロップキック,365,CICO2A,長崎県,749,ABABA,長崎県,1542,NAMERK,長崎県,2572,LAMY,長崎県,0,,-
+HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),370,RIV*,長崎県,712,CICO2A,長崎県,1303,YUSUKE,長崎県,2360,HITA,長崎県,0,,-
+HEROIC VERSE,ガヴリールドロップキック,365,CICO2A,長崎県,749,ABABA,長崎県,1542,NAMERK,長崎県,2572,HITA,長崎県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,982,NAGO,長崎県,1603,RAICHI,長崎県,2787,P,長崎県,3368,P,長崎県
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,780,CICO2A,長崎県,1338,MRK*HL,長崎県,2396,KAEDE,長崎県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,949,GOMI,長崎県,1695,JARO.,長崎県,2893,HEIPON,長崎県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,623,CICO2A,長崎県,1387,SHIURA,長崎県,2128,KAEDE,長崎県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,819,CICO2A,長崎県,1034,WILL,長崎県,1750,KAEDE,長崎県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,417,CICO2A,長崎県,923,CICO2A,長崎県,1626,SHIURA,長崎県,2684,P,長崎県,0,,-
-HEROIC VERSE,UNITE THE HEART,0,,-,1359,YUSUKE,長崎県,2266,UNTAN,長崎県,3227,LAMY,長崎県,0,,-
+HEROIC VERSE,UNITE THE HEART,0,,-,1359,YUSUKE,長崎県,2266,UNTAN,長崎県,3227,HITA,長崎県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,867,CICO2A,長崎県,1878,MASA.,長崎県,3177,P,長崎県,0,,-
 HEROIC VERSE,Theory,0,,-,767,HEIPON,長崎県,1399,HEIPON,長崎県,2353,HEIPON,長崎県,0,,-
 HEROIC VERSE,THE F∀UST,0,,-,970,GOMI,長崎県,2169,K.FLAN,長崎県,3294,P,長崎県,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1197,GOMI,長崎県,2215,IIDX28,長崎県,3810,P,長崎県,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,931,YUA*M,長崎県,1532,ABABA,長崎県,2693,HEIPON,長崎県,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1228,GOMI,長崎県,1602,ROBROY,長崎県,3076,STEAK,長崎県,0,,-
-HEROIC VERSE,Sugar Drippin',0,,-,772,HEIPON,長崎県,1340,HEIPON,長崎県,1913,IFRINA,長崎県,0,,-
+HEROIC VERSE,Sugar Drippin',0,,-,772,HEIPON,長崎県,1340,HEIPON,長崎県,1973,K.FLAN,長崎県,0,,-
 HEROIC VERSE,Sparkle Smilin',0,,-,768,CICO2A,長崎県,1246,SMKG,長崎県,2399,STEAK,長崎県,0,,-
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,870,LOVELY,長崎県,1266,AOI*,長崎県,2269,STEAK,長崎県,0,,-
 HEROIC VERSE,Silly Love,250,RIV*,長崎県,643,CICO2A,長崎県,1321,SHIURA,長崎県,2013,HEIPON,長崎県,0,,-
 HEROIC VERSE,Shiva,0,,-,597,CICO2A,長崎県,1215,RA,長崎県,2057,HEIPON,長崎県,0,,-
 HEROIC VERSE,Sellout,0,,-,482,CICO2A,長崎県,949,GOMI,長崎県,2088,P,長崎県,0,,-
 HEROIC VERSE,SCREW // owo // SCREW,0,,-,1065,ABABA,長崎県,2044,SHIURA,長崎県,2798,P,長崎県,0,,-
-HEROIC VERSE,S!ck (Nhato Remix),0,,-,953,TAU,長崎県,1543,TAU,長崎県,2412,LAMY,長崎県,0,,-
-HEROIC VERSE,Rave Patroller,0,,-,1149,CICO2A,長崎県,2109,SHIURA,長崎県,3264,LAMY,長崎県,0,,-
+HEROIC VERSE,S!ck (Nhato Remix),0,,-,953,TAU,長崎県,1543,TAU,長崎県,2412,HITA,長崎県,0,,-
+HEROIC VERSE,Rave Patroller,0,,-,1149,CICO2A,長崎県,2109,SHIURA,長崎県,3264,HITA,長崎県,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,889,CICO2A,長崎県,1216,RINN,長崎県,2531,KAEDE,長崎県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,781,CICO2A,長崎県,1187,IIDX28,長崎県,2180,KAEDE,長崎県,0,,-
 HEROIC VERSE,Queen Kaguya,0,,-,869,GOMI,長崎県,1722,NAMERK,長崎県,2491,KAEDE,長崎県,0,,-
@@ -1267,7 +1267,7 @@ HEROIC VERSE,Punching Down (IIDX Mix),0,,-,535,CICO2A,長崎県,1099,ABABA,長�
 HEROIC VERSE,Primitive Vibes,568,ROBROY,長崎県,1145,SHIURA,長崎県,1921,SHIURA,長崎県,2946,HEIPON,長崎県,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),309,GOMI,長崎県,492,CICO2A,長崎県,1181,AOI*,長崎県,2052,2HISOX,長崎県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1258,HEIPON,長崎県,1682,HEIPON,長崎県,2657,K.FLAN,長崎県,0,,-
-HEROIC VERSE,Override,0,,-,935,HEIPON,長崎県,1610,HEIPON,長崎県,2789,LAMY,長崎県,0,,-
+HEROIC VERSE,Override,0,,-,935,HEIPON,長崎県,1610,HEIPON,長崎県,2789,HITA,長崎県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,568,CICO2A,長崎県,1203,FENCER,長崎県,2047,KAEDE,長崎県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,762,CICO2A,長崎県,1357,ROBROY,長崎県,2259,KAEDE,長崎県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,812,CICO2A,長崎県,1342,ROBROY,長崎県,2494,TAU,長崎県,0,,-
@@ -1278,10 +1278,10 @@ HEROIC VERSE,Mel,0,,-,682,CICO2A,長崎県,1302,AOI*,長崎県,2133,P,長崎県,
 HEROIC VERSE,Matt Silver,0,,-,960,GOMI,長崎県,1973,ABABA,長崎県,3142,HEIPON,長崎県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,928,CICO2A,長崎県,1667,ACBEXE,長崎県,2688,KAEDE,長崎県,0,,-
 HEROIC VERSE,Like+it!,0,,-,913,GOMI,長崎県,1504,ROBROY,長崎県,2286,HEIPON,長崎県,0,,-
-HEROIC VERSE,LIGHTNING STRIKES,0,,-,912,HEIPON,長崎県,1636,HEIPON,長崎県,3163,LAMY,長崎県,0,,-
+HEROIC VERSE,LIGHTNING STRIKES,0,,-,912,HEIPON,長崎県,1636,HEIPON,長崎県,3163,HITA,長崎県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,589,CICO2A,長崎県,1586,JOHAN,長崎県,3240,HEIPON,長崎県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,693,CICO2A,長崎県,1341,SHIURA,長崎県,2251,STEAK,長崎県,0,,-
-HEROIC VERSE,Inferno of Fomalhaut,0,,-,772,CICO2A,長崎県,1633,SHIURA,長崎県,2861,LAMY,長崎県,0,,-
+HEROIC VERSE,Inferno of Fomalhaut,0,,-,772,CICO2A,長崎県,1633,SHIURA,長崎県,2861,HITA,長崎県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,602,CICO2A,長崎県,1415,JARO.,長崎県,1941,KAEDE,長崎県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,841,CICO2A,長崎県,1458,SHIURA,長崎県,2546,KAEDE,長崎県,0,,-
 HEROIC VERSE,Hold My Hand,0,,-,855,CICO2A,長崎県,1478,NOZOM!,長崎県,2409,KAEDE,長崎県,0,,-
@@ -1292,12 +1292,12 @@ HEROIC VERSE,EXCITE,316,CICO2A,長崎県,750,LOVELY,長崎県,1284,S.MAYU,長崎
 HEROIC VERSE,Duration,0,,-,496,CICO2A,長崎県,916,CICO2A,長崎県,1886,OKAYU,長崎県,0,,-
 HEROIC VERSE,Drop It,0,,-,1268,NAO,長崎県,1796,K.FLAN,長崎県,2646,HEIPON,長崎県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,650,CICO2A,長崎県,1216,ACBEXE,長崎県,1942,KAEDE,長崎県,0,,-
-HEROIC VERSE,Crank It,0,,-,770,HEIPON,長崎県,1441,HEIPON,長崎県,2414,LAMY,長崎県,0,,-
+HEROIC VERSE,Crank It,0,,-,770,HEIPON,長崎県,1441,HEIPON,長崎県,2414,HITA,長崎県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,695,CICO2A,長崎県,1465,ROBROY,長崎県,2379,KAEDE,長崎県,0,,-
-HEROIC VERSE,Calvados Queen,0,,-,722,TOMO,長崎県,1299,HAGE,長崎県,2377,LAMY,長崎県,0,,-
+HEROIC VERSE,Calvados Queen,0,,-,722,TOMO,長崎県,1299,HAGE,長崎県,2377,HITA,長崎県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,770,YUSUKE,長崎県,1834,Z-GIRL,長崎県,2961,MASA.,長崎県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,771,CICO2A,長崎県,1455,HIROO,長崎県,2347,KAEDE,長崎県,0,,-
-HEROIC VERSE,beatAffection,0,,-,935,CICO2A,長崎県,1488,FV4005,長崎県,2612,LAMY,長崎県,0,,-
+HEROIC VERSE,beatAffection,0,,-,935,CICO2A,長崎県,1488,RYOMA,長崎県,2612,HITA,長崎県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,1038,HEIPON,長崎県,1600,HEIPON,長崎県,2083,T41K1N,長崎県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,725,HEIPON,長崎県,1322,HEIPON,長崎県,1959,HEIPON,長崎県,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1234,HEIPON,長崎県,2330,HEIPON,長崎県,3401,P,長崎県,0,,-
@@ -1308,9 +1308,9 @@ BISTROVER,紅蓮華,152,RIV*,長崎県,518,HEIPON,長崎県,961,TAU,長崎県,14
 BISTROVER,犬に雨傘,0,,-,918,HEIPON,長崎県,1432,TAU,長崎県,2055,P,長崎県,0,,-
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1356,HEIPON,長崎県,1981,HEIPON,長崎県,2727,P,長崎県,0,,-
 BISTROVER,水鏡の異界,0,,-,871,TAU,長崎県,1709,HEIPON,長崎県,2962,P,長崎県,0,,-
-BISTROVER,水無月の雫 ft. 小林まな,0,,-,1227,HEIPON,長崎県,1762,HEIPON,長崎県,2579,LAMY,長崎県,0,,-
-BISTROVER,新宝島,507,RIV*,長崎県,775,HEIPON,長崎県,1373,HEIPON,長崎県,2310,LAMY,長崎県,0,,-
-BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1181,HEIPON,長崎県,1854,HEIPON,長崎県,3638,LAMY,長崎県,0,,-
+BISTROVER,水無月の雫 ft. 小林まな,0,,-,1227,HEIPON,長崎県,1762,HEIPON,長崎県,2579,HITA,長崎県,0,,-
+BISTROVER,新宝島,507,RIV*,長崎県,775,HEIPON,長崎県,1373,HEIPON,長崎県,2310,HITA,長崎県,0,,-
+BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1181,HEIPON,長崎県,1854,HEIPON,長崎県,3638,HITA,長崎県,0,,-
 BISTROVER,ここからよろしく大作戦143,0,,-,954,HEIPON,長崎県,1752,HEIPON,長崎県,2487,P,長崎県,0,,-
 BISTROVER,∀,583,ROBROY,長崎県,1311,HEIPON,長崎県,2171,TAU,長崎県,3382,EDMPAN,長崎県,0,,-
 BISTROVER,When I Met U,0,,-,886,HEIPON,長崎県,1286,HEIPON,長崎県,2021,STEAK,長崎県,0,,-
@@ -1319,14 +1319,14 @@ BISTROVER,Vitrum,0,,-,1082,TAU,長崎県,1715,HEIPON,長崎県,3327,HEIPON,長�
 BISTROVER,TOMORROW,434,ROBROY,長崎県,779,HEIPON,長崎県,1510,HEIPON,長崎県,2206,STEAK,長崎県,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,991,TAU,長崎県,1661,HEIPON,長崎県,2505,STEAK,長崎県,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,1038,HEIPON,長崎県,1510,HEIPON,長崎県,2272,HEIPON,長崎県,0,,-
-BISTROVER,So Punky,0,,-,879,HEIPON,長崎県,1668,HEIPON,長崎県,2531,LAMY,長崎県,0,,-
-BISTROVER,smooooch・∀・ (Snail's House Remix),0,,-,864,TAU,長崎県,1548,TAU,長崎県,2296,LAMY,長崎県,0,,-
+BISTROVER,So Punky,0,,-,879,HEIPON,長崎県,1668,HEIPON,長崎県,2531,HITA,長崎県,0,,-
+BISTROVER,smooooch・∀・ (Snail's House Remix),0,,-,864,TAU,長崎県,1548,TAU,長崎県,2296,HITA,長崎県,0,,-
 BISTROVER,S-Bahn,0,,-,971,HEIPON,長崎県,1550,HEIPON,長崎県,2141,P,長崎県,0,,-
 BISTROVER,Rubrum Piano,0,,-,951,TAU,長崎県,1711,HEIPON,長崎県,2404,P,長崎県,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,925,TAU,長崎県,1482,HEIPON,長崎県,2130,STEAK,長崎県,0,,-
 BISTROVER,Rowdy,0,,-,1034,HEIPON,長崎県,1553,SHIURA,長崎県,2413,KAEDE,長崎県,0,,-
 BISTROVER,rommmo,0,,-,1174,HEIPON,長崎県,1794,TAU,長崎県,3248,P,長崎県,0,,-
-BISTROVER,Romanticが止まらない,382,RIV*,長崎県,949,HEIPON,長崎県,1667,HEIPON,長崎県,2701,LAMY,長崎県,0,,-
+BISTROVER,Romanticが止まらない,382,RIV*,長崎県,949,HEIPON,長崎県,1667,HEIPON,長崎県,2701,HITA,長崎県,0,,-
 BISTROVER,POLKAMAИIA,0,,-,965,HEIPON,長崎県,1820,HEIPON,長崎県,2813,HEIPON,長崎県,0,,-
 BISTROVER,Party Starter,0,,-,974,HEIPON,長崎県,1527,HEIPON,長崎県,2247,HEIPON,長崎県,0,,-
 BISTROVER,Para siempre,0,,-,946,HEIPON,長崎県,1515,HEIPON,長崎県,2801,HEIPON,長崎県,0,,-
@@ -1347,11 +1347,11 @@ BISTROVER,Farewell to Marrakech,0,,-,901,HEIPON,長崎県,1469,HEIPON,長崎県,
 BISTROVER,Euphoric Lagoon,0,,-,880,HEIPON,長崎県,1586,HEIPON,長崎県,2538,P,長崎県,0,,-
 BISTROVER,Empire of Fury,0,,-,1355,HEIPON,長崎県,2092,HEIPON,長崎県,3065,P,長崎県,0,,-
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,678,HEIPON,長崎県,1285,HEIPON,長崎県,1839,P,長崎県,0,,-
-BISTROVER,Chewingood!!!,0,,-,853,HEIPON,長崎県,1509,LAMY,長崎県,2573,LAMY,長崎県,0,,-
+BISTROVER,Chewingood!!!,0,,-,853,HEIPON,長崎県,1509,HITA,長崎県,2573,HITA,長崎県,0,,-
 BISTROVER,Breakin' Rules,0,,-,1260,HEIPON,長崎県,1764,HEIPON,長崎県,2705,P,長崎県,0,,-
 BISTROVER,BIGソムタム,0,,-,1250,HEIPON,長崎県,1855,KAEDE,長崎県,3230,KAEDE,長崎県,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,759,TAU,長崎県,1376,HEIPON,長崎県,1923,HEIPON,長崎県,0,,-
-BISTROVER,apo:llioth,0,,-,1180,TAU,長崎県,2002,TAU,長崎県,2792,KAEDE,長崎県,0,,-
+BISTROVER,apo:llioth,0,,-,1180,TAU,長崎県,2002,TAU,長崎県,2798,STEAK,長崎県,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,897,HEIPON,長崎県,1575,HEIPON,長崎県,2699,P,長崎県,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,687,HEIPON,長崎県,1346,HEIPON,長崎県,2038,P,長崎県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,922,HEIPON,長崎県,1466,TAU,長崎県,2453,HEIPON,長崎県,0,,-
