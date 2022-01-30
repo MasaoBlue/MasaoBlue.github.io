@@ -25,7 +25,7 @@
 3rd style,Skyscraper,0,,-,671,HIRORO,群馬県,1117,N.C.,群馬県,1239,SYNCH,群馬県,0,,-
 3rd style,Schlagwerk,0,,-,797,7&MM!3,群馬県,1229,N.C.,群馬県,1681,SYNCH,群馬県,0,,-
 3rd style,REINCARNATION,0,,-,797,D.NANA,群馬県,1015,COG,群馬県,1263,NEKOZE,群馬県,0,,-
-3rd style,R5,0,,-,666,MA*KO,群馬県,1137,5KEY,群馬県,1761,G*,群馬県,0,,-
+3rd style,R5,0,,-,666,MA*KO,群馬県,1137,ZI,群馬県,1761,G*,群馬県,0,,-
 3rd style,Presto,0,,-,507,N.C.,群馬県,973,NEKOZE,群馬県,1003,BEERKZ,群馬県,0,,-
 3rd style,LEADING CYBER,0,,-,753,N.C.,群馬県,1164,*TMHR*,群馬県,1248,SYNCH,群馬県,0,,-
 3rd style,Holic,0,,-,756,COG,群馬県,1124,H-BOMB,群馬県,1720,G*,群馬県,0,,-
@@ -60,6 +60,7 @@
 5th style,still my words,0,,-,849,MU$ECA,群馬県,1221,G*,群馬県,0,,-,0,,-
 5th style,STILL IN MY HEART,0,,-,972,N.C.,群馬県,1303,AAAAAA,群馬県,1895,SYNCH,群馬県,0,,-
 5th style,Spin the disc,0,,-,785,B-1824,群馬県,1177,SAKURA,群馬県,1326,BEISIA,群馬県,0,,-
+5th style,sometime,0,,-,741,SAKURA,群馬県,1059,ARUS,群馬県,1311,BEERKZ,群馬県,0,,-
 5th style,RISLIM,0,,-,841,N.C.,群馬県,1222,NEKOZE,群馬県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,856,MU$ECA,群馬県,1076,COG,群馬県,1715,G*,群馬県,1838,G*,群馬県
 5th style,Regulus,0,,-,1024,7&MM!3,群馬県,1452,BEISIA,群馬県,1672,BEERKZ,群馬県,0,,-
@@ -270,6 +271,7 @@ HAPPY SKY,First Resolution,0,,-,796,MU$ECA,群馬県,1429,ANJI,群馬県,2131,BE
 HAPPY SKY,EMPTY OF THE SKY,0,,-,567,RYUK,群馬県,1038,BEISIA,群馬県,1674,BEERKZ,群馬県,0,,-
 HAPPY SKY,EDEN,0,,-,1264,7&MM!3,群馬県,1904,GRAN,群馬県,2711,BEERKZ,群馬県,0,,-
 HAPPY SKY,double thrash,0,,-,865,HIRORO,群馬県,1994,BEISIA,群馬県,2384,G*,群馬県,0,,-
+HAPPY SKY,Don't let it go,0,,-,710,TAQAN,群馬県,1278,BEERKZ,群馬県,1686,NEKOZE,群馬県,0,,-
 HAPPY SKY,Catch Me,0,,-,726,S0R1N,群馬県,1258,COG,群馬県,1775,SYNCH,群馬県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,1028,46TA,群馬県,1682,LUNK,群馬県,2436,BEERKZ,群馬県,0,,-
 HAPPY SKY,Aurora,0,,-,1316,7&MM!3,群馬県,1969,46TA,群馬県,2542,G*,群馬県,0,,-
@@ -355,6 +357,8 @@ GOLD,Candy Galy,0,,-,1501,MU$ECA,群馬県,2462,GRAN,群馬県,3572,G*,群馬県
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1311,B-1824,群馬県,1903,BEISIA,群馬県,2483,G*,群馬県,0,,-
 GOLD,ANDROMEDA II,0,,-,938,MU$ECA,群馬県,1681,CROW,群馬県,2490,G*,群馬県,0,,-
 GOLD,Air Bell,0,,-,934,MU$ECA,群馬県,1164,SERITH,群馬県,1713,BEERKZ,群馬県,0,,-
+GOLD,2hot2eat,0,,-,596,RINNE*,群馬県,1152,ARUS,群馬県,1639,G*,群馬県,0,,-
+DJ TROOPERS,高高度降下低高度開傘,0,,-,911,RINNE*,群馬県,1542,NEKOZE,群馬県,1976,NEKOZE,群馬県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,471,7&MM!3,群馬県,878,HIRORO,群馬県,1320,Z-1004,群馬県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,333,FLG.,群馬県,950,AOMI,群馬県,1523,TENHO!,群馬県,2051,G*,群馬県,0,,-
 DJ TROOPERS,少年A,0,,-,1104,MARIN,群馬県,2233,G*,群馬県,2788,BEERKZ,群馬県,0,,-
@@ -377,6 +381,7 @@ DJ TROOPERS,scar in the earth,0,,-,605,ZFLUX,群馬県,1018,AOMI,群馬県,1504,
 DJ TROOPERS,satfinal,0,,-,885,TTTTTT,群馬県,1358,7&MM!3,群馬県,1922,G*,群馬県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1222,7&MM!3,群馬県,1842,BEISIA,群馬県,2505,BEERKZ,群馬県,0,,-
 DJ TROOPERS,Ristaccia,0,,-,1134,AOMI,群馬県,1759,H-BOMB,群馬県,2741,G*,群馬県,0,,-
+DJ TROOPERS,Rising in the Sun(original mix),0,,-,913,SAKURA,群馬県,1625,ARUS,群馬県,2375,G*,群馬県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1213,MU$ECA,群馬県,1816,BEISIA,群馬県,2326,BEERKZ,群馬県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,586,7&MM!3,群馬県,1457,TENHO!,群馬県,1743,BEERKZ,群馬県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,996,HAMA3,群馬県,1856,G*,群馬県,2717,G*,群馬県,0,,-
@@ -417,6 +422,7 @@ EMPRESS,"You'll say ""Now!""",0,,-,1234,BEERKZ,群馬県,1754,BIRD-M,群馬県,2
 EMPRESS,Y&Co. is dead or alive,0,,-,1079,31AISU,群馬県,1722,COG,群馬県,2663,XJAPAN,群馬県,0,,-
 EMPRESS,V2,710,SAKIRO,群馬県,1345,MU$ECA,群馬県,3158,G*,群馬県,3576,G*,群馬県,0,,-
 EMPRESS,Turii ～Panta rhei～,350,SAKIRO,群馬県,887,COG,群馬県,1922,H-BOMB,群馬県,2668,G*,群馬県,0,,-
+EMPRESS,thunder HOUSE NATION Remix,0,,-,1075,BEERKZ,群馬県,1627,RINNE*,群馬県,2435,NEKOZE,群馬県,3880,G*,群馬県
 EMPRESS,THANK YOU FOR PLAYING,0,,-,749,MU$ECA,群馬県,1577,BEISIA,群馬県,2096,SYNCH,群馬県,2958,G*,群馬県
 EMPRESS,SOLITON BEAM,0,,-,1392,7&MM!3,群馬県,2043,BEISIA,群馬県,2365,G*,群馬県,0,,-
 EMPRESS,smooooch・∀・,391,FLG.,群馬県,770,YAE.,群馬県,1620,GRAN,群馬県,2163,G*,群馬県,0,,-
@@ -429,6 +435,7 @@ EMPRESS,neogenesis,0,,-,545,HSY.,群馬県,1226,KG.NZN,群馬県,1702,BEERKZ,群
 EMPRESS,naughty girl@Queen's Palace,0,,-,782,ANJI,群馬県,1674,BEISIA,群馬県,2122,G*,群馬県,2606,G*,群馬県
 EMPRESS,Monkey Dance '09,0,,-,739,CHARME,群馬県,1550,A-,群馬県,2249,BEERKZ,群馬県,0,,-
 EMPRESS,Mind Mapping,474,SAKIRO,群馬県,818,MU$ECA,群馬県,1231,BEISIA,群馬県,1831,G*,群馬県,2213,BEISIA,群馬県
+EMPRESS,Marie Antoinette,0,,-,1065,RINNE*,群馬県,1953,NEKOZE,群馬県,2582,BEERKZ,群馬県,3155,BEERKZ,群馬県
 EMPRESS,Kung-fu Empire,0,,-,1433,AOMI,群馬県,2524,BEISIA,群馬県,3254,G*,群馬県,3933,G*,群馬県
 EMPRESS,Just a Little Smile,0,,-,763,N.C.,群馬県,1339,COG,群馬県,2427,G*,群馬県,0,,-
 EMPRESS,Jack,0,,-,829,MU$ECA,群馬県,1352,AOMI,群馬県,2159,G*,群馬県,0,,-
@@ -965,7 +972,7 @@ SINOBUZ,Venom,0,,-,1248,7&MM!3,群馬県,1951,MAKO,群馬県,3204,G*,群馬県,0
 SINOBUZ,Umbral,0,,-,389,OHAGI,群馬県,1144,3GO,群馬県,1889,BEERKZ,群馬県,0,,-
 SINOBUZ,TOGAKUSHI,0,,-,994,B-1824,群馬県,1874,BEISIA,群馬県,2625,G*,群馬県,0,,-
 SINOBUZ,The Commanders,0,,-,870,RAZER,群馬県,1475,TANU3,群馬県,2428,BEERKZ,群馬県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,565,5KEY,群馬県,1236,W,群馬県,1909,BEERKZ,群馬県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,565,ZI,群馬県,1236,W,群馬県,1909,BEERKZ,群馬県,0,,-
 SINOBUZ,Surf on the Light,0,,-,657,NECO,群馬県,1476,BEISIA,群馬県,2258,NEKOZE,群馬県,0,,-
 SINOBUZ,Super Rush,0,,-,1001,AOMI,群馬県,1855,GRAN,群馬県,3539,G*,群馬県,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1068,HIRORO,群馬県,1745,PIZZA,群馬県,3127,G*,群馬県,0,,-
@@ -1133,7 +1140,7 @@ Rootage,セカンドピアス,0,,-,564,MACRO3,群馬県,1070,AOMI,群馬県,2012
 Rootage,サクラあっぱれーしょん,263,SAKIRO,群馬県,568,KAZUPI,群馬県,1497,TUONE*,群馬県,2317,G*,群馬県,0,,-
 Rootage,グラナダの風,0,,-,804,B-1824,群馬県,1201,3TMIN*,群馬県,1833,BEERKZ,群馬県,0,,-
 Rootage,お菓子の王国,0,,-,1432,G*,群馬県,2191,33CJL,群馬県,4083,G*,群馬県,0,,-
-Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1018,VAN,群馬県,1947,5KEY,群馬県,2928,G*,群馬県,0,,-
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1018,VAN,群馬県,1947,ZI,群馬県,2928,G*,群馬県,0,,-
 Rootage,ZENDEGI DANCE,0,,-,1166,MACRO3,群馬県,1816,TUONE*,群馬県,2739,G*,群馬県,0,,-
 Rootage,Yum Yum Jelly,0,,-,711,92SATO,群馬県,1465,SPHERE,群馬県,2382,G*,群馬県,0,,-
 Rootage,Xlo,0,,-,1449,MACRO3,群馬県,2433,BEISIA,群馬県,3777,G*,群馬県,0,,-
@@ -1226,39 +1233,52 @@ Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1049,7&MM!3,群馬県,1577
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,832,VAN,群馬県,1482,WADATI,群馬県,2239,SYNCH,群馬県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,792,MU$ECA,群馬県,1584,MACRO3,群馬県,2646,SYNCH,群馬県,0,,-
 Rootage,& Intelligence,0,,-,1048,MU$ECA,群馬県,2090,MACRO3,群馬県,3192,G*,群馬県,0,,-
+HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,884,FLG.,群馬県,1737,B-1824,群馬県,2931,3TOTIN,群馬県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1095,7&MM!3,群馬県,1658,HAKA!,群馬県,2871,G*,群馬県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1001,VAN,群馬県,1776,B-1824,群馬県,3198,G*,群馬県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1358,B-1824,群馬県,1944,B-1824,群馬県,3440,G*,群馬県,0,,-
+HEROIC VERSE,眠りの国のステラ,0,,-,1140,HIRORO,群馬県,1856,BEERKZ,群馬県,2667,BEISIA,群馬県,0,,-
+HEROIC VERSE,狂水一華,0,,-,934,FLG.,群馬県,1680,B-1824,群馬県,2715,G*,群馬県,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,653,B-1824,群馬県,1122,B-1824,群馬県,1817,G*,群馬県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,774,$MOMO$,群馬県,1610,HELL,群馬県,2951,3TOTIN,群馬県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1079,7&MM!3,群馬県,1659,B-1824,群馬県,2723,BEERKZ,群馬県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,247,SAKIRO,群馬県,614,MU$ECA,群馬県,1270,TANU3,群馬県,1947,NEKOZE,群馬県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),348,148,群馬県,493,$MOMO$,群馬県,1382,SYNCH,群馬県,2190,G*,群馬県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1123,7&MM!3,群馬県,1829,42TAI,群馬県,2890,BEERKZ,群馬県,0,,-
+HEROIC VERSE,ラブキラ☆スプラッシュ,0,,-,1059,VAN,群馬県,1608,BEISIA,群馬県,2493,I.S#,群馬県,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1019,B-1824,群馬県,2046,B-1824,群馬県,3722,G*,群馬県,0,,-
+HEROIC VERSE,バッドエンド・シンドローム,0,,-,995,FLG.,群馬県,1712,6RARIN,群馬県,2959,BEERKZ,群馬県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),379,RINNE*,群馬県,776,HIRORO,群馬県,1434,MACRO3,群馬県,2375,BEERKZ,群馬県,0,,-
+HEROIC VERSE,シャムシールの舞,0,,-,839,TUONE*,群馬県,1516,BEISIA,群馬県,2526,BEERKZ,群馬県,0,,-
 HEROIC VERSE,ガヴリールドロップキック,400,148,群馬県,702,ARIA,群馬県,1649,TUONE*,群馬県,2669,G*,群馬県,0,,-
+HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1516,B-1824,群馬県,2650,TUONE*,群馬県,4255,G*,群馬県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1104,B-1824,群馬県,1759,BEISIA,群馬県,2895,G*,群馬県,3539,G*,群馬県
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,758,CHARME,群馬県,1506,AAAAAA,群馬県,2481,G*,群馬県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1035,7&MM!3,群馬県,1765,BEISIA,群馬県,2930,3TOTIN,群馬県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,534,CANDY*,群馬県,1523,BEISIA,群馬県,2212,G*,群馬県,0,,-
+HEROIC VERSE,Vinculum stellarum,0,,-,943,B-1824,群馬県,2292,B-1824,群馬県,3594,3TOTIN,群馬県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,867,VAN,群馬県,1263,MACRO3,群馬県,1857,G*,群馬県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,456,148,群馬県,1021,MACRO3,群馬県,1726,GRAN,群馬県,2725,BEERKZ,群馬県,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1436,MU$ECA,群馬県,2514,MACRO3,群馬県,3266,BEERKZ,群馬県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,931,B-1824,群馬県,1973,BEISIA,群馬県,3373,G*,群馬県,0,,-
 HEROIC VERSE,Theory,0,,-,731,MU$ECA,群馬県,1404,COG,群馬県,2589,G*,群馬県,0,,-
+HEROIC VERSE,The Sky of Sadness,0,,-,853,$EVAN$,群馬県,1468,HAKA!,群馬県,2381,BEERKZ,群馬県,0,,-
 HEROIC VERSE,THE F∀UST,0,,-,1330,BEISIA,群馬県,2132,LUNK,群馬県,3610,G*,群馬県,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1380,7&MM!3,群馬県,2393,TUONE*,群馬県,4088,G*,群馬県,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,1004,NAMKOO,群馬県,1554,B-1824,群馬県,2859,G*,群馬県,0,,-
+HEROIC VERSE,take me higher,0,,-,806,FLG.,群馬県,1227,BEISIA,群馬県,2015,G*,群馬県,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1304,FLG.,群馬県,1772,MACRO3,群馬県,3213,G*,群馬県,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,745,7&MM!3,群馬県,1329,TUONE*,群馬県,2094,G*,群馬県,0,,-
+HEROIC VERSE,STOIC HYPOTHESIS,0,,-,899,NOEL,群馬県,1683,6RARIN,群馬県,2843,G*,群馬県,0,,-
 HEROIC VERSE,Sparkle Smilin',0,,-,895,MACRO3,群馬県,1478,GRAN,群馬県,2465,G*,群馬県,0,,-
+HEROIC VERSE,Smashing Wedge,0,,-,950,B-1824,群馬県,2075,6RARIN,群馬県,3796,G*,群馬県,0,,-
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,955,7&MM!3,群馬県,1390,H-BOMB,群馬県,2314,BEERKZ,群馬県,0,,-
 HEROIC VERSE,Silly Love,254,TAQAN,群馬県,614,LEE,群馬県,1351,COG,群馬県,2093,G*,群馬県,0,,-
 HEROIC VERSE,Shiva,0,,-,623,RAY,群馬県,1433,7&MM!3,群馬県,2135,G*,群馬県,0,,-
 HEROIC VERSE,Sellout,0,,-,497,NAMEKO,群馬県,1034,HAKA!,群馬県,2111,G*,群馬県,0,,-
 HEROIC VERSE,SCREW // owo // SCREW,0,,-,1060,FLG.,群馬県,2153,BEISIA,群馬県,3017,G*,群馬県,0,,-
 HEROIC VERSE,S!ck (Nhato Remix),0,,-,942,SAKURA,群馬県,1536,6RARIN,群馬県,2535,G*,群馬県,0,,-
+HEROIC VERSE,rough percussionythm,0,,-,934,IRIS,群馬県,1629,GRAN,群馬県,2531,G*,群馬県,0,,-
 HEROIC VERSE,Rave Patroller,0,,-,1285,VAN,群馬県,2269,BEISIA,群馬県,3379,G*,群馬県,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,987,NAMEKO,群馬県,1695,HAKA!,群馬県,2618,NEKOZE,群馬県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,761,KAZAM1,群馬県,1524,BEISIA,群馬県,2240,BEERKZ,群馬県,0,,-
@@ -1269,90 +1289,160 @@ HEROIC VERSE,POP TEAM EPIC(kors k Remix),326,148,群馬県,497,MACRO3,群馬県,
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1243,7&MM!3,群馬県,1681,TUONE*,群馬県,2856,G*,群馬県,0,,-
 HEROIC VERSE,Override,0,,-,862,VAN,群馬県,1595,B-1824,群馬県,2864,NEKOZE,群馬県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,493,SAL812,群馬県,1362,MACRO3,群馬県,2123,SYNCH,群馬県,0,,-
+HEROIC VERSE,ORCA,0,,-,1300,BEISIA,群馬県,2243,S0R1N,群馬県,3453,G*,群馬県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,970,B-1824,群馬県,1525,B-1824,群馬県,2426,G*,群馬県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,1001,7&MM!3,群馬県,1475,TUONE*,群馬県,2620,NEKOZE,群馬県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,572,7&MM!3,群馬県,1229,MACRO3,群馬県,1970,SYNCH,群馬県,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,922,92SATO,群馬県,1639,MACRO3,群馬県,2650,G*,群馬県,0,,-
 HEROIC VERSE,Moving on,0,,-,973,HIRORO,群馬県,1939,3TOTIN,群馬県,2988,G*,群馬県,0,,-
 HEROIC VERSE,Mel,0,,-,777,FLG.,群馬県,1473,MACRO3,群馬県,2173,G*,群馬県,0,,-
+HEROIC VERSE,Megalara Garuda,0,,-,1349,VAN,群馬県,1908,KOUME,群馬県,3050,G*,群馬県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1048,VAN,群馬県,2095,$7.00,群馬県,3347,G*,群馬県,0,,-
+HEROIC VERSE,Lost Souls,0,,-,680,FLG.,群馬県,1696,BEERKZ,群馬県,2455,G*,群馬県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,961,VAN,群馬県,1809,$7.00,群馬県,3023,G*,群馬県,0,,-
 HEROIC VERSE,Like+it!,0,,-,966,VAN,群馬県,1656,AAAAAA,群馬県,2371,G*,群馬県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,0,,-,880,MU$ECA,群馬県,1700,G*,群馬県,3248,G*,群馬県,0,,-
+HEROIC VERSE,Level 2,0,,-,930,B-1824,群馬県,1668,COG,群馬県,2839,G*,群馬県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,759,SAKURA,群馬県,1688,BEISIA,群馬県,3560,G*,群馬県,0,,-
+HEROIC VERSE,Jetcoaster Windy,0,,-,778,HAKA!,群馬県,1323,FLG.,群馬県,2233,3TOTIN,群馬県,0,,-
+HEROIC VERSE,Into The Madness,0,,-,983,PA-SHI,群馬県,1559,BEISIA,群馬県,2523,G*,群馬県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,806,VAN,群馬県,1373,TUONE*,群馬県,2297,G*,群馬県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1027,B-1824,群馬県,1813,46TA,群馬県,3176,G*,群馬県,0,,-
+HEROIC VERSE,If,0,,-,762,VAN,群馬県,1314,7&MM!3,群馬県,1910,G*,群馬県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,646,MU$ECA,群馬県,1487,MACRO3,群馬県,1992,G*,群馬県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,914,FLG.,群馬県,1499,BEISIA,群馬県,2608,BEERKZ,群馬県,0,,-
 HEROIC VERSE,Hold My Hand,0,,-,893,S0R1N,群馬県,1624,S0R1N,群馬県,2461,BEERKZ,群馬県,0,,-
 HEROIC VERSE,GIGA VIOLATE,0,,-,1085,MACRO3,群馬県,1577,7&MM!3,群馬県,2747,G*,群馬県,0,,-
+HEROIC VERSE,GHOST,0,,-,813,FLG.,群馬県,1442,BEISIA,群馬県,2765,G*,群馬県,0,,-
+HEROIC VERSE,Friction[!]Function,0,,-,1108,B-1824,群馬県,1746,Q-JET.,群馬県,3201,G*,群馬県,0,,-
+HEROIC VERSE,Forgetting Machine,0,,-,694,VAN,群馬県,1194,7&MM!3,群馬県,1719,G*,群馬県,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,855,SAKURA,群馬県,1480,B-1824,群馬県,2352,NEKOZE,群馬県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,437,MU$ECA,群馬県,1073,MACRO3,群馬県,1641,G*,群馬県,0,,-
 HEROIC VERSE,EXCITE,326,FLG.,群馬県,796,MACRO3,群馬県,1347,BEISIA,群馬県,2214,BEERKZ,群馬県,0,,-
+HEROIC VERSE,Everlasting Message,0,,-,1241,B-1824,群馬県,2237,I.S#,群馬県,3755,G*,群馬県,0,,-
+HEROIC VERSE,EROICA,0,,-,1394,COG,群馬県,2326,G*,群馬県,3777,G*,群馬県,0,,-
 HEROIC VERSE,Duration,0,,-,513,MACRO3,群馬県,994,MACRO3,群馬県,1951,G*,群馬県,0,,-
 HEROIC VERSE,Drop It,0,,-,1360,7&MM!3,群馬県,1928,BEISIA,群馬県,2768,G*,群馬県,0,,-
+HEROIC VERSE,Double Dribble,0,,-,1164,VAN,群馬県,1860,PA-SHI,群馬県,3311,G*,群馬県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,674,GRAVE,群馬県,1247,BEISIA,群馬県,2019,G*,群馬県,0,,-
+HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1354,HAMA3,群馬県,2163,KOUME,群馬県,3417,G*,群馬県,0,,-
 HEROIC VERSE,Crank It,0,,-,763,MAME48,群馬県,1449,TUONE*,群馬県,2446,G*,群馬県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,604,TTTTTT,群馬県,1647,MACRO3,群馬県,2493,BEERKZ,群馬県,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,821,92SATO,群馬県,1463,MACRO3,群馬県,2455,BEERKZ,群馬県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,810,B-1824,群馬県,1922,GRAN,群馬県,3105,G*,群馬県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,889,B-1824,群馬県,1698,B-1824,群馬県,2479,G*,群馬県,0,,-
 HEROIC VERSE,beatAffection,0,,-,1008,MACRO3,群馬県,1532,GRAN,群馬県,2616,BEERKZ,群馬県,0,,-
+HEROIC VERSE,BEAT PRISONER,0,,-,1210,BEISIA,群馬県,1993,COG,群馬県,3611,G*,群馬県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,999,SAKURA,群馬県,1583,6RARIN,群馬県,2259,G*,群馬県,0,,-
+HEROIC VERSE,Artist,0,,-,1284,B-1824,群馬県,2233,NAEPO4,群馬県,3584,G*,群馬県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,700,MU$ECA,群馬県,1277,BEISIA,群馬県,2003,BEERKZ,群馬県,0,,-
 HEROIC VERSE,AKASHIC BREAK,0,,-,1247,B-1824,群馬県,2335,B-1824,群馬県,3523,BEERKZ,群馬県,0,,-
+HEROIC VERSE,Advent Infamous,0,,-,1009,B-1824,群馬県,1623,BEISIA,群馬県,2866,G*,群馬県,0,,-
 HEROIC VERSE,27th style,0,,-,1163,RINNE*,群馬県,1749,COG,群馬県,2529,G*,群馬県,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,889,COG,群馬県,1655,COG,群馬県,2800,G*,群馬県,0,,-
 BISTROVER,霧幻メモリア,0,,-,958,COG,群馬県,1422,COG,群馬県,2021,SYNCH,群馬県,0,,-
+BISTROVER,閠槞彁の願い,0,,-,1046,TAQAN,群馬県,2182,G*,群馬県,3167,G*,群馬県,0,,-
 BISTROVER,紅蓮華,158,$EVAN$,群馬県,528,B-1824,群馬県,985,TAKA-P,群馬県,1486,G*,群馬県,0,,-
 BISTROVER,犬に雨傘,0,,-,935,B-1824,群馬県,1462,COG,群馬県,2087,3TOTIN,群馬県,0,,-
+BISTROVER,無意識のフィロソフィア,0,,-,1131,COG,群馬県,2221,BEISIA,群馬県,3329,G*,群馬県,0,,-
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1382,COG,群馬県,1992,RINNE*,群馬県,2801,G*,群馬県,0,,-
 BISTROVER,水鏡の異界,0,,-,899,COG,群馬県,1711,COG,群馬県,3156,G*,群馬県,0,,-
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1256,COG,群馬県,1790,BEISIA,群馬県,2618,G*,群馬県,0,,-
 BISTROVER,新宝島,519,RINNE*,群馬県,790,B-1824,群馬県,1393,ENDURE,群馬県,2355,G*,群馬県,0,,-
+BISTROVER,儚き恋の華,0,,-,1069,COG,群馬県,1844,COG,群馬県,2988,G*,群馬県,0,,-
+BISTROVER,伐折羅-vajra-,0,,-,1148,RINNE*,群馬県,2082,BEISIA,群馬県,3687,G*,群馬県,0,,-
+BISTROVER,二人ノ廃城幽踊宴,0,,-,1227,B-1824,群馬県,2199,BEISIA,群馬県,3507,G*,群馬県,0,,-
+BISTROVER,乱膳の舞姫,0,,-,1052,B-1824,群馬県,1799,BGI#19,群馬県,2699,G*,群馬県,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1182,COG,群馬県,1867,GRAN,群馬県,3882,G*,群馬県,0,,-
+BISTROVER,バッド・スイーツ、バッド・ドリーム,0,,-,1111,COG,群馬県,1829,COG,群馬県,3580,G*,群馬県,0,,-
+BISTROVER,ディスコルディア,0,,-,1372,COG,群馬県,2401,G*,群馬県,3858,G*,群馬県,0,,-
+BISTROVER,スーパー戦湯ババンバーン,0,,-,1274,RINNE*,群馬県,2093,TUONE*,群馬県,3443,G*,群馬県,0,,-
 BISTROVER,ここからよろしく大作戦143,0,,-,967,COG,群馬県,1770,COG,群馬県,2520,G*,群馬県,0,,-
 BISTROVER,∀,603,TAQAN,群馬県,1324,B-1824,群馬県,2233,RINNE*,群馬県,3542,G*,群馬県,0,,-
+BISTROVER,Zenith,0,,-,834,COG,群馬県,1427,COG,群馬県,2103,G*,群馬県,0,,-
+BISTROVER,X-ray binary,0,,-,997,B-1824,群馬県,1921,COG,群馬県,2820,G*,群馬県,0,,-
+BISTROVER,Winner's Proof ft. KANASA from bless4,272,TAQAN,群馬県,769,B-1824,群馬県,1381,COG,群馬県,2222,G*,群馬県,0,,-
 BISTROVER,When I Met U,0,,-,898,COG,群馬県,1314,COG,群馬県,2054,G*,群馬県,0,,-
 BISTROVER,WAKE UP NOW,0,,-,957,COG,群馬県,1461,COG,群馬県,1997,NEKOZE,群馬県,0,,-
 BISTROVER,Vitrum,0,,-,1105,COG,群馬県,1759,COG,群馬県,3578,G*,群馬県,0,,-
+BISTROVER,Viridian,0,,-,1081,COG,群馬県,1943,COG,群馬県,3367,G*,群馬県,0,,-
 BISTROVER,TOMORROW,447,BGI#19,群馬県,790,COG,群馬県,1541,COG,群馬県,2250,SYNCH,群馬県,0,,-
+BISTROVER,Tiempo Loco,0,,-,1079,B-1824,群馬県,2007,BEISIA,群馬県,3692,G*,群馬県,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,1001,TAQAN,群馬県,1693,BEISIA,群馬県,2554,G*,群馬県,0,,-
+BISTROVER,THE PEERLESS UNDER HEAVEN,0,,-,1148,B-1824,群馬県,2026,BEISIA,群馬県,3407,G*,群馬県,0,,-
+BISTROVER,That Feeling,0,,-,722,RINNE*,群馬県,1248,3TOTIN,群馬県,1923,G*,群馬県,0,,-
+BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1133,COG,群馬県,1620,ARUS,群馬県,2771,NEKOZE,群馬県,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,1059,COG,群馬県,1536,COG,群馬県,2381,G*,群馬県,0,,-
+BISTROVER,Sugarplum,0,,-,885,RINNE*,群馬県,1857,BEISIA,群馬県,2524,G*,群馬県,0,,-
+BISTROVER,SOLID STATE SQUAD -RISEN RELIC REMIX-,0,,-,1306,B-1824,群馬県,2253,BEISIA,群馬県,3248,G*,群馬県,0,,-
 BISTROVER,So Punky,0,,-,895,B-1824,群馬県,1669,COG,群馬県,2571,G*,群馬県,0,,-
 BISTROVER,smooooch・∀・ (Snail's House Remix),0,,-,867,COG,群馬県,1582,COG,群馬県,2368,G*,群馬県,0,,-
+BISTROVER,Sinus Iridum,0,,-,1244,B-1824,群馬県,2032,SYNCH,群馬県,3253,G*,群馬県,0,,-
+BISTROVER,Scandal,0,,-,965,COG,群馬県,1943,COG,群馬県,2815,BEISIA,群馬県,0,,-
 BISTROVER,S-Bahn,0,,-,974,COG,群馬県,1582,BEISIA,群馬県,2175,G*,群馬県,0,,-
 BISTROVER,Rubrum Piano,0,,-,962,B-1824,群馬県,1700,RINNE*,群馬県,2450,BEERKZ,群馬県,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,951,COG,群馬県,1516,COG,群馬県,2174,SYNCH,群馬県,0,,-
 BISTROVER,Rowdy,0,,-,1053,COG,群馬県,1583,BEERKZ,群馬県,2494,G*,群馬県,0,,-
+BISTROVER,Rosa azuL,0,,-,890,COG,群馬県,1793,BEISIA,群馬県,2774,G*,群馬県,0,,-
 BISTROVER,rommmo,0,,-,1217,COG,群馬県,1839,I.S#,群馬県,3483,G*,群馬県,0,,-
 BISTROVER,Romanticが止まらない,388,RINNE*,群馬県,954,COG,群馬県,1676,RINNE*,群馬県,2727,G*,群馬県,0,,-
+BISTROVER,Ritual of Anubis,0,,-,1159,GRAN,群馬県,1818,COG,群馬県,2812,G*,群馬県,0,,-
+BISTROVER,Rejection Girl,0,,-,1015,COG,群馬県,1653,BEISIA,群馬県,2669,G*,群馬県,0,,-
 BISTROVER,POLKAMAИIA,0,,-,993,COG,群馬県,1838,BEISIA,群馬県,2944,G*,群馬県,0,,-
+BISTROVER,Playball,0,,-,692,B-1824,群馬県,916,COG,群馬県,1370,SYNCH,群馬県,0,,-
+BISTROVER,Parvati,0,,-,1024,-,群馬県,1817,COG,群馬県,2796,3TOTIN,群馬県,0,,-
 BISTROVER,Party Starter,0,,-,999,COG,群馬県,1541,COG,群馬県,2287,BEERKZ,群馬県,0,,-
 BISTROVER,Para siempre,0,,-,964,COG,群馬県,1542,B-1824,群馬県,2867,G*,群馬県,0,,-
 BISTROVER,Overslept,0,,-,1148,COG,群馬県,1734,ARUS,群馬県,2572,G*,群馬県,0,,-
+BISTROVER,OTOKOZAKA,0,,-,1037,RINNE*,群馬県,1876,BEISIA,群馬県,2829,3TOTIN,群馬県,0,,-
 BISTROVER,of the first magnitude,0,,-,1045,COG,群馬県,1903,COG,群馬県,2966,G*,群馬県,0,,-
 BISTROVER,Ocean Blue feat. Luschel,0,,-,856,B-1824,群馬県,1454,COG,群馬県,2455,G*,群馬県,0,,-
 BISTROVER,Neo Heritage,0,,-,959,B-1824,群馬県,1677,B-1824,群馬県,2870,G*,群馬県,0,,-
+BISTROVER,MOVE! (We Keep It Movin'),0,,-,762,COG,群馬県,1343,ARUS,群馬県,2168,3TOTIN,群馬県,0,,-
 BISTROVER,Midnight Drive,0,,-,608,COG,群馬県,1315,NEKOZE,群馬県,1944,SYNCH,群馬県,0,,-
+BISTROVER,MEGAERA,0,,-,1446,COG,群馬県,2120,3TOTIN,群馬県,3455,G*,群馬県,0,,-
+BISTROVER,MA・TSU・RI,0,,-,1093,COG,群馬県,1853,BEISIA,群馬県,2578,G*,群馬県,0,,-
 BISTROVER,Mars beach,0,,-,622,RINNE*,群馬県,1386,COG,群馬県,2248,G*,群馬県,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,1095,COG,群馬県,1842,BEISIA,群馬県,2788,G*,群馬県,0,,-
+BISTROVER,LOCUS OF THE TRAVEL,0,,-,1107,B-1824,群馬県,2438,BEISIA,群馬県,3669,G*,群馬県,0,,-
+BISTROVER,LIKE A VAMPIRE,0,,-,1052,COG,群馬県,1755,BEISIA,群馬県,2751,3TOTIN,群馬県,0,,-
+BISTROVER,Level 3,0,,-,1172,COG,群馬県,2264,NEKOZE,群馬県,3484,G*,群馬県,0,,-
 BISTROVER,LAST DAY,0,,-,1143,COG,群馬県,1719,COG,群馬県,3075,G*,群馬県,0,,-
+BISTROVER,Jungle Eater,0,,-,1012,-,群馬県,1845,G*,群馬県,3005,G*,群馬県,0,,-
+BISTROVER,innocent revolver,0,,-,1119,COG,群馬県,2282,BEISIA,群馬県,3842,G*,群馬県,0,,-
 BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,652,COG,群馬県,1202,COG,群馬県,1850,BEISIA,群馬県,0,,-
+BISTROVER,Ignis†Irae,0,,-,1105,B-1824,群馬県,2353,BEISIA,群馬県,3765,G*,群馬県,0,,-
 BISTROVER,HIGH VOLTAGE,0,,-,838,B-1824,群馬県,1437,COG,群馬県,2270,G*,群馬県,0,,-
 BISTROVER,Here We Are,399,RINNE*,群馬県,1090,COG,群馬県,1714,RINNE*,群馬県,2447,SYNCH,群馬県,0,,-
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,1143,COG,群馬県,1759,RINNE*,群馬県,2367,3TOTIN,群馬県,0,,-
+BISTROVER,Globe Glitter,0,,-,1052,MEGANE,群馬県,1650,BEISIA,群馬県,2654,3TOTIN,群馬県,0,,-
 BISTROVER,GIGA RAID,0,,-,980,COG,群馬県,1859,RINNE*,群馬県,2416,G*,群馬県,0,,-
+BISTROVER,Frisk And Squeak,0,,-,813,B-1824,群馬県,1556,COG,群馬県,2418,G*,群馬県,0,,-
+BISTROVER,Fire Beat,0,,-,1114,B-1824,群馬県,1777,RINNE*,群馬県,2646,NEKOZE,群馬県,0,,-
 BISTROVER,Farewell to Marrakech,0,,-,920,COG,群馬県,1497,COG,群馬県,2231,G*,群馬県,0,,-
+BISTROVER,Explorer feat. ぷにぷに電機,0,,-,754,BGI#19,群馬県,1304,ARUS,群馬県,2152,G*,群馬県,0,,-
 BISTROVER,Euphoric Lagoon,0,,-,890,COG,群馬県,1606,COG,群馬県,2582,G*,群馬県,0,,-
 BISTROVER,Empire of Fury,0,,-,1376,COG,群馬県,2191,G*,群馬県,3319,G*,群馬県,0,,-
+BISTROVER,DUAL STRIKER,0,,-,1192,COG,群馬県,2455,COG,群馬県,3838,G*,群馬県,0,,-
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,695,B-1824,群馬県,1337,COG,群馬県,1874,G*,群馬県,0,,-
+BISTROVER,DENIM,0,,-,602,NEKOZE,群馬県,1314,RINNE*,群馬県,1752,G*,群馬県,0,,-
+BISTROVER,Dawn Saga,0,,-,963,B-1824,群馬県,1618,COG,群馬県,2721,G*,群馬県,0,,-
+BISTROVER,Danza Aestas,0,,-,993,COG,群馬県,1733,COG,群馬県,2966,3TOTIN,群馬県,0,,-
+BISTROVER,Crazy Jackpot,0,,-,1004,B-1824,群馬県,1669,ARUS,群馬県,2853,G*,群馬県,0,,-
+BISTROVER,COSMIC RAY,0,,-,1292,COG,群馬県,2111,BEISIA,群馬県,2934,G*,群馬県,0,,-
+BISTROVER,CONNECT-,0,,-,1029,COG,群馬県,1818,ARUS,群馬県,2937,G*,群馬県,0,,-
 BISTROVER,Chewingood!!!,0,,-,867,COG,群馬県,1503,BGI#19,群馬県,2624,G*,群馬県,0,,-
+BISTROVER,Burning Flame,0,,-,1194,COG,群馬県,1816,BEISIA,群馬県,2911,G*,群馬県,0,,-
 BISTROVER,Breakin' Rules,0,,-,1295,COG,群馬県,1786,ARUS,群馬県,2759,BEERKZ,群馬県,0,,-
+BISTROVER,Brahma,0,,-,1223,COG,群馬県,1776,BEISIA,群馬県,2868,G*,群馬県,0,,-
+BISTROVER,BLACK or WHITE?,0,,-,1299,TUONE*,群馬県,2472,BEISIA,群馬県,3942,G*,群馬県,0,,-
 BISTROVER,BIGソムタム,0,,-,1261,RINNE*,群馬県,1897,G*,群馬県,3336,G*,群馬県,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,783,COG,群馬県,1401,COG,群馬県,1957,G*,群馬県,0,,-
+BISTROVER,ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS),0,,-,1074,B-1824,群馬県,1860,B,群馬県,3342,G*,群馬県,0,,-
+BISTROVER,As You Want,0,,-,849,B-1824,群馬県,1462,COG,群馬県,2455,G*,群馬県,0,,-
 BISTROVER,apo:llioth,0,,-,1214,COG,群馬県,2060,COG,群馬県,2957,G*,群馬県,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,910,COG,群馬県,1613,COG,群馬県,2764,G*,群馬県,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,723,RINNE*,群馬県,1393,RINNE*,群馬県,2143,G*,群馬県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,944,B-1824,群馬県,1523,COG,群馬県,2566,SYNCH,群馬県,0,,-
 BISTROVER,3!dolon Forc3,0,,-,976,-,群馬県,1539,BEISIA,群馬県,2932,G*,群馬県,0,,-
+BISTROVER,-65℃,0,,-,1405,BGI#19,群馬県,2225,BEISIA,群馬県,3712,G*,群馬県,0,,-
