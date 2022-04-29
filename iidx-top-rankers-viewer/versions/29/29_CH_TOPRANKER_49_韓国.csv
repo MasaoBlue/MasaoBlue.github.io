@@ -20,18 +20,6 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,400,AAAAAA,韓国,605,SM,韓国,1069,STANLY,韓国,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,613,MTPINN,韓国,345,P5.CLD,韓国,1122,STANLY,韓国,0,,-
 2nd style,.59,0,,-,647,SUZUNE,韓国,900,MIN,韓国,1153,KOWAI,韓国,0,,-
-3rd style,THE SAFARI,271,H.LYE*,韓国,1121,FEYLIN,韓国,1782,LILPA,韓国,0,,-,0,,-
-3rd style,Tangerine Stream,0,,-,236,L.DASH,韓国,394,STANLY,韓国,0,,-,0,,-
-3rd style,Skyscraper,0,,-,673,L.DASH,韓国,1082,MIN,韓国,1244,STANLY,韓国,0,,-
-3rd style,Schlagwerk,0,,-,392,MOKA.0,韓国,608,SUI,韓国,1688,FAFNIR,韓国,0,,-
-3rd style,REINCARNATION,0,,-,781,L.DASH,韓国,778,CERKIT,韓国,1278,KKM*,韓国,0,,-
-3rd style,R5,0,,-,602,NULS,韓国,1176,KOWAI,韓国,1770,KOWAI,韓国,0,,-
-3rd style,Presto,0,,-,460,L.DASH,韓国,976,UNIMIX,韓国,1009,STANLY,韓国,0,,-
-3rd style,LEADING CYBER,0,,-,611,JOY-S,韓国,1198,S2YM,韓国,1276,STANLY,韓国,0,,-
-3rd style,Holic,0,,-,550,SASARA,韓国,1047,CSC01,韓国,1736,LILPA,韓国,0,,-
-3rd style,era (nostalmix),0,,-,791,R301,韓国,1063,ALASTO,韓国,1546,FAFNIR,韓国,0,,-
-3rd style,Don't Stop!,0,,-,531,HNNW-,韓国,546,NEX,韓国,904,NURUNG,韓国,0,,-
-3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,356,LEETA!,韓国,1255,KOWAI,韓国,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,571,SUI,韓国,1242,FAFNIR,韓国,1335,.,韓国,0,,-
 4th style,SWEET LAB,0,,-,298,962015,韓国,506,DKLWR,韓国,1382,KOWAI,韓国,0,,-
 4th style,starmine,382,D.KWAN,韓国,641,DKLWR,韓国,1123,BY,韓国,1597,KOWAI,韓国,0,,-
@@ -53,6 +41,18 @@
 4th style,B4U,0,,-,800,TOSHI*,韓国,1589,BANARI,韓国,2028,LILPA,韓国,0,,-
 4th style,ABSOLUTE,0,,-,958,JOY-S,韓国,1715,CLOUD-,韓国,2421,LILPA,韓国,2781,LILPA,韓国
 4th style,250bpm,0,,-,571,CARLY,韓国,861,*KARU*,韓国,1433,CHEPY.,韓国,0,,-
+3rd style,THE SAFARI,271,H.LYE*,韓国,1121,FEYLIN,韓国,1782,LILPA,韓国,0,,-,0,,-
+3rd style,Tangerine Stream,0,,-,236,L.DASH,韓国,394,STANLY,韓国,0,,-,0,,-
+3rd style,Skyscraper,0,,-,673,L.DASH,韓国,1082,MIN,韓国,1244,STANLY,韓国,0,,-
+3rd style,Schlagwerk,0,,-,392,MOKA.0,韓国,608,SUI,韓国,1688,FAFNIR,韓国,0,,-
+3rd style,REINCARNATION,0,,-,781,L.DASH,韓国,778,CERKIT,韓国,1278,KKM*,韓国,0,,-
+3rd style,R5,0,,-,602,NULS,韓国,1176,KOWAI,韓国,1770,KOWAI,韓国,0,,-
+3rd style,Presto,0,,-,460,L.DASH,韓国,976,UNIMIX,韓国,1009,STANLY,韓国,0,,-
+3rd style,LEADING CYBER,0,,-,611,JOY-S,韓国,1198,S2YM,韓国,1276,STANLY,韓国,0,,-
+3rd style,Holic,0,,-,550,SASARA,韓国,1047,CSC01,韓国,1736,LILPA,韓国,0,,-
+3rd style,era (nostalmix),0,,-,791,R301,韓国,1063,ALASTO,韓国,1546,FAFNIR,韓国,0,,-
+3rd style,Don't Stop!,0,,-,531,HNNW-,韓国,546,NEX,韓国,904,NURUNG,韓国,0,,-
+3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,356,LEETA!,韓国,1255,KOWAI,韓国,0,,-,0,,-
 5th style,V,328,MIN,韓国,1151,DO.,韓国,2500,STANLY,韓国,3036,LILPA,韓国,0,,-
 5th style,THE SHINING POLARIS,0,,-,551,LEJA,韓国,1205,KRABER,韓国,1585,BANARI,韓国,0,,-
 5th style,THE CUBE,0,,-,530,U,韓国,704,SHUUUU,韓国,1352,STANLY,韓国,0,,-
@@ -110,6 +110,34 @@
 7th style,Bad Routine,0,,-,908,L.DASH,韓国,1265,MIN,韓国,1910,STANLY,韓国,0,,-
 7th style,AVE DE RAPINA,0,,-,943,DKLWR,韓国,1641,E.K.2.,韓国,1853,KOWAI,韓国,0,,-
 7th style,A,0,,-,1033,NAGATO,韓国,2191,KOWAI,韓国,2477,BANARI,韓国,0,,-
+8th style,蒼い衝動,0,,-,526,CYNA,韓国,1184,RWBY-Y,韓国,1593,DNBD,韓国,0,,-
+8th style,桜,0,,-,884,RWBY-Y,韓国,1516,KKKKKK,韓国,2159,KKM*,韓国,0,,-
+8th style,xenon,0,,-,391,B,韓国,1726,KOWAI,韓国,2757,LILPA,韓国,0,,-
+8th style,World Wide Love,0,,-,646,L.DASH,韓国,999,MIN,韓国,1116,STANLY,韓国,0,,-
+8th style,WAR GAME,0,,-,875,L.DASH,韓国,1414,SPENCR,韓国,2153,KOWAI,韓国,0,,-
+8th style,thunder,0,,-,814,MDC,韓国,1510,E.K.2.,韓国,1900,.,韓国,0,,-
+8th style,symbolic,0,,-,1111,SL21-,韓国,1585,MIN,韓国,2273,LILPA,韓国,0,,-
+8th style,rainbow flyer,0,,-,571,JOY-S,韓国,1558,EZ3DJ,韓国,2141,FAFNIR,韓国,0,,-
+8th style,PLEASE DON'T GO,0,,-,0,,-,1354,OPTION,韓国,2489,LILPA,韓国,0,,-
+8th style,MUSIC TO YOUR HEAD,0,,-,616,KG108,韓国,888,WACCA,韓国,1685,LILPA,韓国,0,,-
+8th style,murmur twins,0,,-,1125,RAPID3,韓国,1599,CLOUD-,韓国,2400,BANARI,韓国,0,,-
+8th style,Monkey Dance,0,,-,660,JOY-S,韓国,1347,RAPID3,韓国,1983,STANLY,韓国,0,,-
+8th style,memories,0,,-,628,RGB,韓国,1955,JOHN**,韓国,2275,.,韓国,0,,-
+8th style,Luv 2 Feel Your Body,0,,-,285,KIM.MY,韓国,692,DKLWR,韓国,1650,STANLY,韓国,0,,-
+8th style,LOVE IS ORANGE,0,,-,741,L.DASH,韓国,924,CERKIT,韓国,1803,KOWAI,韓国,2100,FAFNIR,韓国
+8th style,LAB,0,,-,715,MXXXI.,韓国,1831,ISPIN,韓国,2131,BANARI,韓国,0,,-
+8th style,HYPER BOUNDARY GATE,0,,-,1150,MIN,韓国,1330,NIEUAU,韓国,2216,KOWAI,韓国,0,,-
+8th style,Halfway of promise,0,,-,728,JOY-S,韓国,1507,ZERO.S,韓国,1860,KOWAI,韓国,0,,-
+8th style,Giudecca,0,,-,726,JOY-S,韓国,1774,AHNI!?,韓国,2734,LILPA,韓国,0,,-
+8th style,dual control,0,,-,442,MOKA.0,韓国,1293,DEARS,韓国,1896,FAFNIR,韓国,0,,-
+8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,916,MTPINN,韓国,1931,ZERO.S,韓国,2196,NOROOT,韓国,0,,-
+8th style,CELEBRATE NITE,0,,-,0,,-,827,DKLWR,韓国,1421,NOROOT,韓国,0,,-
+8th style,Blame,0,,-,1009,L.DASH,韓国,1435,K.H.B,韓国,1954,LILPA,韓国,0,,-
+8th style,bit mania,0,,-,534,SENICA,韓国,1144,HVT,韓国,1868,KOWAI,韓国,0,,-
+8th style,Attitude,0,,-,754,CAPRRI,韓国,1342,ONE,韓国,1761,KOWAI,韓国,0,,-
+8th style,ALL RIGHT,0,,-,813,HIHUMI,韓国,1270,ZERO.S,韓国,1617,STANLY,韓国,0,,-
+8th style,airflow,0,,-,572,MINY,韓国,581,L.FISH,韓国,1437,KOWAI,韓国,0,,-
+8th style,abstract,0,,-,1231,ESPITZ,韓国,1503,KRABER,韓国,1913,LILPA,韓国,0,,-
 9th style,真夏の花・真夏の夢,0,,-,757,L.DASH,韓国,1138,ANB,韓国,1471,STANLY,韓国,0,,-
 9th style,ライオン好き,0,,-,593,KRABER,韓国,1048,JRADIO,韓国,1508,CHEPY.,韓国,0,,-
 9th style,SWEETEST SAVAGE,0,,-,569,L.DASH,韓国,1158,DDISC,韓国,1845,KOWAI,韓国,0,,-
@@ -142,34 +170,6 @@
 9th style,ATOMIC AGE,0,,-,321,JOY-S,韓国,622,K.H.B,韓国,1317,NURUNG,韓国,0,,-
 9th style,ACT,0,,-,778,RFX,韓国,1712,BANARI,韓国,1854,BANARI,韓国,0,,-
 9th style,Abyss -The Heavens Remix-,410,HNNW-,韓国,1225,LWLI,韓国,1812,ERII.,韓国,2374,KOWAI,韓国,0,,-
-8th style,蒼い衝動,0,,-,526,CYNA,韓国,1184,RWBY-Y,韓国,1593,DNBD,韓国,0,,-
-8th style,桜,0,,-,884,RWBY-Y,韓国,1516,KKKKKK,韓国,2159,KKM*,韓国,0,,-
-8th style,xenon,0,,-,391,B,韓国,1726,KOWAI,韓国,2757,LILPA,韓国,0,,-
-8th style,World Wide Love,0,,-,646,L.DASH,韓国,999,MIN,韓国,1116,STANLY,韓国,0,,-
-8th style,WAR GAME,0,,-,875,L.DASH,韓国,1414,SPENCR,韓国,2153,KOWAI,韓国,0,,-
-8th style,thunder,0,,-,814,MDC,韓国,1510,E.K.2.,韓国,1900,.,韓国,0,,-
-8th style,symbolic,0,,-,1111,SL21-,韓国,1585,MIN,韓国,2273,LILPA,韓国,0,,-
-8th style,rainbow flyer,0,,-,571,JOY-S,韓国,1558,EZ3DJ,韓国,2141,FAFNIR,韓国,0,,-
-8th style,PLEASE DON'T GO,0,,-,0,,-,1354,OPTION,韓国,2489,LILPA,韓国,0,,-
-8th style,MUSIC TO YOUR HEAD,0,,-,616,KG108,韓国,888,WACCA,韓国,1685,LILPA,韓国,0,,-
-8th style,murmur twins,0,,-,1125,RAPID3,韓国,1599,CLOUD-,韓国,2400,BANARI,韓国,0,,-
-8th style,Monkey Dance,0,,-,660,JOY-S,韓国,1347,RAPID3,韓国,1983,STANLY,韓国,0,,-
-8th style,memories,0,,-,628,RGB,韓国,1955,JOHN**,韓国,2275,.,韓国,0,,-
-8th style,Luv 2 Feel Your Body,0,,-,285,KIM.MY,韓国,692,DKLWR,韓国,1650,STANLY,韓国,0,,-
-8th style,LOVE IS ORANGE,0,,-,741,L.DASH,韓国,924,CERKIT,韓国,1803,KOWAI,韓国,2100,FAFNIR,韓国
-8th style,LAB,0,,-,715,MXXXI.,韓国,1831,ISPIN,韓国,2131,BANARI,韓国,0,,-
-8th style,HYPER BOUNDARY GATE,0,,-,1150,MIN,韓国,1330,NIEUAU,韓国,2216,KOWAI,韓国,0,,-
-8th style,Halfway of promise,0,,-,728,JOY-S,韓国,1507,ZERO.S,韓国,1860,KOWAI,韓国,0,,-
-8th style,Giudecca,0,,-,726,JOY-S,韓国,1774,AHNI!?,韓国,2734,LILPA,韓国,0,,-
-8th style,dual control,0,,-,442,MOKA.0,韓国,1293,DEARS,韓国,1896,FAFNIR,韓国,0,,-
-8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,916,MTPINN,韓国,1931,ZERO.S,韓国,2196,NOROOT,韓国,0,,-
-8th style,CELEBRATE NITE,0,,-,0,,-,827,DKLWR,韓国,1421,NOROOT,韓国,0,,-
-8th style,Blame,0,,-,1009,L.DASH,韓国,1435,K.H.B,韓国,1954,LILPA,韓国,0,,-
-8th style,bit mania,0,,-,534,SENICA,韓国,1144,HVT,韓国,1868,KOWAI,韓国,0,,-
-8th style,Attitude,0,,-,754,CAPRRI,韓国,1342,ONE,韓国,1761,KOWAI,韓国,0,,-
-8th style,ALL RIGHT,0,,-,813,HIHUMI,韓国,1270,ZERO.S,韓国,1617,STANLY,韓国,0,,-
-8th style,airflow,0,,-,572,MINY,韓国,581,L.FISH,韓国,1437,KOWAI,韓国,0,,-
-8th style,abstract,0,,-,1231,ESPITZ,韓国,1503,KRABER,韓国,1913,LILPA,韓国,0,,-
 10th style,雪月花,0,,-,1211,ZERO.S,韓国,1872,OPTION,韓国,2560,LILPA,韓国,0,,-
 10th style,システムロマンス,0,,-,787,L.DASH,韓国,1635,K.H.B,韓国,2042,LILPA,韓国,0,,-
 10th style,SPACE FIGHT,0,,-,421,AMN.SH,韓国,1476,ZERO.S,韓国,2260,LILPA,韓国,0,,-
@@ -228,48 +228,11 @@ IIDX RED,Close my Eyes for Me,0,,-,0,,-,1162,CORONA,韓国,1866,KOWAI,韓国,0,,
 IIDX RED,Click Again,0,,-,501,PODA??,韓国,1187,BMQTS,韓国,2175,LILPA,韓国,0,,-
 IIDX RED,BREATH,0,,-,551,SAFARI,韓国,1293,SILVER,韓国,1739,FAFNIR,韓国,0,,-
 IIDX RED,BLOCKS,0,,-,499,SUI,韓国,1163,CHROME,韓国,2000,LILPA,韓国,0,,-
-IIDX RED,Be quiet,0,,-,1074,INTE,韓国,1754,SD.,韓国,2227,LILPA,韓国,2899,KKM*,韓国
+IIDX RED,Be quiet,0,,-,1074,INTE,韓国,1754,SD.,韓国,2227,LILPA,韓国,2902,KKM*,韓国
 IIDX RED,awakening,0,,-,789,DKLWR,韓国,960,AMN.SH,韓国,1720,FAFNIR,韓国,0,,-
 IIDX RED,ANDROMEDA,0,,-,953,SOAP.,韓国,1830,CLOUD-,韓国,2891,LILPA,韓国,0,,-
 IIDX RED,AGEHA,503,U,韓国,1044,KRABER,韓国,1719,EULER.,韓国,1896,KOWAI,韓国,2456,KOWAI,韓国
 IIDX RED,AA,0,,-,1111,L.DASH,韓国,2677,UMAN,韓国,3656,FAFNIR,韓国,0,,-
-DistorteD,虹色,0,,-,854,HIDARI,韓国,1534,RAPID3,韓国,1861,KOWAI,韓国,0,,-
-DistorteD,華蝶風雪,0,,-,1175,NANTES,韓国,2080,UMAN,韓国,2985,KYOGRE,韓国,0,,-
-DistorteD,罠,0,,-,481,JOY-S,韓国,1473,SUE,韓国,2461,KOWAI,韓国,0,,-
-DistorteD,嘆きの樹,0,,-,1737,GYUN,韓国,2523,JOUCHO,韓国,3956,KKM*,韓国,0,,-
-DistorteD,タシカナモノ,0,,-,793,JOY-S,韓国,1311,MING-,韓国,2045,STANLY,韓国,0,,-
-DistorteD,カゴノトリ～弐式～,0,,-,976,DDISC,韓国,1884,KOWAI,韓国,2648,LILPA,韓国,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,676,HWAN,韓国,1550,RAPID3,韓国,2412,KOWAI,韓国,0,,-
-DistorteD,with you…,0,,-,470,COLIN,韓国,732,DKLWR,韓国,1777,NOROOT,韓国,0,,-
-DistorteD,WISH(EUROBEAT MIX),0,,-,752,JOY-S,韓国,1269,HVT,韓国,1979,KYOGRE,韓国,0,,-
-DistorteD,Why did you go away,480,BDGZXD,韓国,900,JOY-S,韓国,1733,CHI,韓国,2327,BANARI,韓国,0,,-
-DistorteD,waxing and wanding,0,,-,1252,NCS,韓国,1951,CHACHA,韓国,2908,KOWAI,韓国,3980,CHEPY.,韓国
-DistorteD,TYPE MARS(G-Style Mix),0,,-,239,SANSO!,韓国,1901,BANARI,韓国,2440,KKM*,韓国,0,,-
-DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1198,KRABER,韓国,1925,Y.S,韓国,2492,CHEPY.,韓国,0,,-
-DistorteD,This is Love,0,,-,290,REQUED,韓国,1633,BMQTS,韓国,2496,KYOGRE,韓国,0,,-
-DistorteD,The Dirty of Loudness,0,,-,1398,REZI07,韓国,2125,WOONG,韓国,2643,LILPA,韓国,0,,-
-DistorteD,Sun Field,0,,-,381,U,韓国,936,ORANGE,韓国,2463,CHEPY.,韓国,0,,-
-DistorteD,So Fabulous !!,0,,-,659,ANTI,韓国,1529,DON*X1,韓国,2370,LILPA,韓国,0,,-
-DistorteD,Power of Love,0,,-,768,JOY-S,韓国,1187,IIXXII,韓国,2135,FAFNIR,韓国,0,,-
-DistorteD,MOON,0,,-,674,BREEZE,韓国,1952,HPMP,韓国,2226,LILPA,韓国,0,,-
-DistorteD,MINT,0,,-,911,ZINC,韓国,1667,TT.021,韓国,2312,LILPA,韓国,0,,-
-DistorteD,Leaving...,0,,-,432,SUI,韓国,1345,GEHENA,韓国,2228,LILPA,韓国,0,,-
-DistorteD,INFERNO,0,,-,751,TOFU-1,韓国,1118,MING-,韓国,1990,STANLY,韓国,0,,-
-DistorteD,Heavenly Sun (IIDX VERSION),0,,-,562,D,韓国,1265,DDISC,韓国,2116,FAFNIR,韓国,0,,-
-DistorteD,Harmony and Lovely,0,,-,705,HYEON*,韓国,1664,AAAAAA,韓国,2248,FAFNIR,韓国,0,,-
-DistorteD,Ganymede,0,,-,840,SDVXVI,韓国,1760,KOWAI,韓国,2365,CHEPY.,韓国,2663,KKM*,韓国
-DistorteD,EURO-ROMANCE,0,,-,803,JOY-S,韓国,1836,DON*X1,韓国,2112,KOWAI,韓国,0,,-
-DistorteD,DUE TOMORROW,0,,-,819,KRABER,韓国,1368,UMAN,韓国,2082,CHEPY.,韓国,0,,-
-DistorteD,Double Loving Heart,0,,-,549,L.DASH,韓国,922,JOY-S,韓国,1817,KOWAI,韓国,0,,-
-DistorteD,D.C.fish,0,,-,764,JOY-S,韓国,1680,BMQTS,韓国,2353,FAFNIR,韓国,0,,-
-DistorteD,CONTRACT,0,,-,1170,MIN,韓国,1569,ZERO.S,韓国,2079,NOROOT,韓国,2786,CHEPY.,韓国
-DistorteD,Concertino in Blue,315,CES,韓国,569,MILY,韓国,1738,BANARI,韓国,2578,CHEPY.,韓国,0,,-
-DistorteD,Broadbanded,0,,-,760,JOY-S,韓国,1397,KSM,韓国,2036,LILPA,韓国,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,824,JOY-S,韓国,1714,CLOUD-,韓国,2301,LILPA,韓国,0,,-
-DistorteD,Bloody Tears(IIDX EDITION),0,,-,914,ZAHLEN,韓国,1922,ZERO.S,韓国,2174,STANLY,韓国,0,,-
-DistorteD,BALLAD THE FEATHERS,0,,-,445,LEJA,韓国,953,CERKIT,韓国,1509,STANLY,韓国,0,,-
-DistorteD,Apocalypse ～dirge of swans～,192,WA...A,韓国,944,J1N4N,韓国,1441,HERSHE,韓国,2410,KKM*,韓国,0,,-
-DistorteD,ALFARSHEAR 双神威に廻る夢,422,MIN,韓国,1023,MIN,韓国,1537,HERSHE,韓国,2092,KOWAI,韓国,0,,-
 HAPPY SKY,月光,0,,-,831,MIN,韓国,1786,KOWAI,韓国,2489,LILPA,韓国,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1086,ENVY*,韓国,1371,SPSH,韓国,1939,KKM*,韓国,0,,-
 HAPPY SKY,冥,565,KRABER,韓国,1070,NOROOT,韓国,2050,UMAN,韓国,3895,KKM*,韓国,0,,-
@@ -314,6 +277,43 @@ HAPPY SKY,Aurora,0,,-,1153,SAKUKU,韓国,1978,ZERO.S,韓国,2550,KOWAI,韓国,0,
 HAPPY SKY,alla turca con passione,0,,-,707,L.DASH,韓国,1552,CLOUD-,韓国,2200,KKM*,韓国,0,,-
 HAPPY SKY,Agnus Dei,0,,-,674,AJERSY,韓国,1527,HKM*,韓国,2077,STANLY,韓国,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,574,D,韓国,1462,CYTRUS,韓国,1759,KOWAI,韓国,0,,-
+DistorteD,虹色,0,,-,854,HIDARI,韓国,1534,RAPID3,韓国,1861,KOWAI,韓国,0,,-
+DistorteD,華蝶風雪,0,,-,1175,NANTES,韓国,2080,UMAN,韓国,2985,KYOGRE,韓国,0,,-
+DistorteD,罠,0,,-,481,JOY-S,韓国,1473,SUE,韓国,2461,KOWAI,韓国,0,,-
+DistorteD,嘆きの樹,0,,-,1737,GYUN,韓国,2523,JOUCHO,韓国,3956,KKM*,韓国,0,,-
+DistorteD,タシカナモノ,0,,-,793,JOY-S,韓国,1311,MING-,韓国,2045,STANLY,韓国,0,,-
+DistorteD,カゴノトリ～弐式～,0,,-,976,DDISC,韓国,1884,KOWAI,韓国,2648,LILPA,韓国,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,676,HWAN,韓国,1550,RAPID3,韓国,2412,KOWAI,韓国,0,,-
+DistorteD,with you…,0,,-,470,COLIN,韓国,732,DKLWR,韓国,1777,NOROOT,韓国,0,,-
+DistorteD,WISH(EUROBEAT MIX),0,,-,752,JOY-S,韓国,1269,HVT,韓国,1979,KYOGRE,韓国,0,,-
+DistorteD,Why did you go away,480,BDGZXD,韓国,900,JOY-S,韓国,1733,CHI,韓国,2327,BANARI,韓国,0,,-
+DistorteD,waxing and wanding,0,,-,1252,NCS,韓国,1951,CHACHA,韓国,2908,KOWAI,韓国,3980,CHEPY.,韓国
+DistorteD,TYPE MARS(G-Style Mix),0,,-,239,SANSO!,韓国,1901,BANARI,韓国,2440,KKM*,韓国,0,,-
+DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1198,KRABER,韓国,1925,Y.S,韓国,2492,CHEPY.,韓国,0,,-
+DistorteD,This is Love,0,,-,290,REQUED,韓国,1633,BMQTS,韓国,2496,KYOGRE,韓国,0,,-
+DistorteD,The Dirty of Loudness,0,,-,1398,REZI07,韓国,2125,WOONG,韓国,2643,LILPA,韓国,0,,-
+DistorteD,Sun Field,0,,-,381,U,韓国,936,ORANGE,韓国,2463,CHEPY.,韓国,0,,-
+DistorteD,So Fabulous !!,0,,-,659,ANTI,韓国,1529,DON*X1,韓国,2370,LILPA,韓国,0,,-
+DistorteD,Power of Love,0,,-,768,JOY-S,韓国,1187,IIXXII,韓国,2135,FAFNIR,韓国,0,,-
+DistorteD,MOON,0,,-,674,BREEZE,韓国,1952,HPMP,韓国,2226,LILPA,韓国,0,,-
+DistorteD,MINT,0,,-,911,ZINC,韓国,1667,TT.021,韓国,2312,LILPA,韓国,0,,-
+DistorteD,Leaving...,0,,-,432,SUI,韓国,1345,GEHENA,韓国,2228,LILPA,韓国,0,,-
+DistorteD,INFERNO,0,,-,751,TOFU-1,韓国,1118,MING-,韓国,1990,STANLY,韓国,0,,-
+DistorteD,Heavenly Sun (IIDX VERSION),0,,-,562,D,韓国,1265,DDISC,韓国,2116,FAFNIR,韓国,0,,-
+DistorteD,Harmony and Lovely,0,,-,705,HYEON*,韓国,1664,AAAAAA,韓国,2248,FAFNIR,韓国,0,,-
+DistorteD,Ganymede,0,,-,840,SDVXVI,韓国,1760,KOWAI,韓国,2365,CHEPY.,韓国,2663,KKM*,韓国
+DistorteD,EURO-ROMANCE,0,,-,803,JOY-S,韓国,1836,DON*X1,韓国,2112,KOWAI,韓国,0,,-
+DistorteD,DUE TOMORROW,0,,-,819,KRABER,韓国,1368,UMAN,韓国,2082,CHEPY.,韓国,0,,-
+DistorteD,Double Loving Heart,0,,-,549,L.DASH,韓国,922,JOY-S,韓国,1817,KOWAI,韓国,0,,-
+DistorteD,D.C.fish,0,,-,764,JOY-S,韓国,1680,BMQTS,韓国,2353,FAFNIR,韓国,0,,-
+DistorteD,CONTRACT,0,,-,1170,MIN,韓国,1569,ZERO.S,韓国,2079,NOROOT,韓国,2786,CHEPY.,韓国
+DistorteD,Concertino in Blue,315,CES,韓国,569,MILY,韓国,1738,BANARI,韓国,2578,CHEPY.,韓国,0,,-
+DistorteD,Broadbanded,0,,-,760,JOY-S,韓国,1397,KSM,韓国,2036,LILPA,韓国,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,824,JOY-S,韓国,1714,CLOUD-,韓国,2301,LILPA,韓国,0,,-
+DistorteD,Bloody Tears(IIDX EDITION),0,,-,914,ZAHLEN,韓国,1922,ZERO.S,韓国,2174,STANLY,韓国,0,,-
+DistorteD,BALLAD THE FEATHERS,0,,-,445,LEJA,韓国,953,CERKIT,韓国,1509,STANLY,韓国,0,,-
+DistorteD,Apocalypse ～dirge of swans～,192,WA...A,韓国,944,J1N4N,韓国,1441,HERSHE,韓国,2410,KKM*,韓国,0,,-
+DistorteD,ALFARSHEAR 双神威に廻る夢,422,MIN,韓国,1023,MIN,韓国,1537,HERSHE,韓国,2092,KOWAI,韓国,0,,-
 GOLD,電人、暁に斃れる。,560,MAGUNI,韓国,1191,L.DASH,韓国,2365,JUN,韓国,3438,KKM*,韓国,0,,-
 GOLD,零 - ZERO -,177,FELYS,韓国,962,NECO,韓国,1782,ZERO.S,韓国,2319,KOWAI,韓国,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,585,JOY-S,韓国,1034,47.,韓国,1438,KOWAI,韓国,0,,-
@@ -403,7 +403,7 @@ DJ TROOPERS,Blue Rain,247,HJC23,韓国,831,NERO*,韓国,1608,BANARI,韓国,2288,
 DJ TROOPERS,beatonic nation,0,,-,1062,JOY-S,韓国,1786,CLOUD-,韓国,2180,KOWAI,韓国,0,,-
 DJ TROOPERS,Be OK,0,,-,631,TALE*,韓国,1747,DON*X1,韓国,2426,LILPA,韓国,3349,LILPA,韓国
 DJ TROOPERS,avant-guerre,0,,-,558,JOY-S,韓国,1313,NAKO,韓国,1937,KYOGRE,韓国,0,,-
-DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,784,MOKA.0,韓国,2017,BYUL.,韓国,2875,BANARI,韓国,3906,KKM*,韓国
+DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,784,MOKA.0,韓国,2017,BYUL.,韓国,2875,BANARI,韓国,3912,KKM*,韓国
 DJ TROOPERS,2 tribe 4 K,0,,-,812,L.DASH,韓国,1293,CTPLT*,韓国,2784,LILPA,韓国,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,904,L.DASH,韓国,1519,K.H.B,韓国,2193,LILPA,韓国,0,,-
 EMPRESS,翼,0,,-,856,KRABER,韓国,1493,TAKES,韓国,1973,STANLY,韓国,2515,KOWAI,韓国
@@ -498,7 +498,7 @@ SIRIUS,bloomin' feeling,358,HYEON*,韓国,1166,YBY!?,韓国,1892,YUME,韓国,261
 SIRIUS,being torn the sky,0,,-,641,245LIK,韓国,1112,WINDY,韓国,1990,KOWAI,韓国,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,569,JOY-S,韓国,1783,ZERO.S,韓国,2495,BANARI,韓国,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,725,JOY-S,韓国,1601,628496,韓国,2030,CHEPY.,韓国,0,,-
-SIRIUS,bass 2 bass,270,HIMEKA,韓国,682,L.DASH,韓国,1243,ZERO.S,韓国,1933,KOWAI,韓国,0,,-
+SIRIUS,bass 2 bass,270,HIMEKA,韓国,725,MINY,韓国,1243,ZERO.S,韓国,1933,KOWAI,韓国,0,,-
 SIRIUS,Bad Maniacs,0,,-,1128,DDISC,韓国,1860,UMAN,韓国,3287,KKM*,韓国,0,,-
 SIRIUS,Almagest,0,,-,980,K.H.B,韓国,2234,NOROOT,韓国,3219,KKM*,韓国,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,519,MIN,韓国,1115,CSC01,韓国,1868,UMAN,韓国,2362,KOWAI,韓国,3035,KKM*,韓国
@@ -859,6 +859,87 @@ PENDUAL,Beyond The Earth,0,,-,1197,K.H.B,韓国,2021,ZERO.S,韓国,3244,.,韓国
 PENDUAL,Beat Radiance,0,,-,892,SANDY,韓国,1603,ZERO.S,韓国,2662,DNBD,韓国,3602,KOWAI,韓国
 PENDUAL,AFRO KNUCKLE,0,,-,781,AIF,韓国,1713,CLOUD-,韓国,2437,NOROOT,韓国,0,,-
 PENDUAL,#The_Relentless,0,,-,998,SAKUKU,韓国,1807,MOGU*,韓国,2946,BANARI,韓国,0,,-
+copula,麗 ～うらら～,232,JONZAL,韓国,1084,HAZE*,韓国,1718,EE,韓国,2658,LILPA,韓国,0,,-
+copula,駅猫のワルツ,0,,-,827,ME.,韓国,2082,ALASTO,韓国,2940,KKM*,韓国,0,,-
+copula,量子の海のリントヴルム,0,,-,837,ROBLE,韓国,1758,ZERO.S,韓国,3011,LILPA,韓国,0,,-
+copula,追想快晴テーマパーク,0,,-,1159,KRABER,韓国,2046,PPOCHI,韓国,3132,KYOGRE,韓国,0,,-
+copula,紫陽花 -AZISAI-,381,NOFU,韓国,1130,FUMIKA,韓国,2091,SD.,韓国,2947,CHEPY.,韓国,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1252,ONEH,韓国,2233,BANARI,韓国,3412,KOWAI,韓国,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1269,ZERO.S,韓国,2165,KOWAI,韓国,3522,HELP3,韓国,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,781,JOY-S,韓国,1713,BANARI,韓国,2567,.,韓国,0,,-
+copula,星屑ディスタンシア,0,,-,626,L.DASH,韓国,1203,ZERO.S,韓国,2132,KYOGRE,韓国,0,,-
+copula,明鏡止水,0,,-,760,MTPINN,韓国,1829,ZERO.S,韓国,2840,KOWAI,韓国,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,668,AIF,韓国,1431,LILY*,韓国,2172,CHLOE,韓国,0,,-
+copula,セロトニン,0,,-,1011,JOY-S,韓国,1800,ZERO.S,韓国,2369,CHEPY.,韓国,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,849,KONEKO,韓国,1685,MON,韓国,2459,CHEPY.,韓国,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,730,HIDARI,韓国,1409,ZERO.S,韓国,2398,KOWAI,韓国,0,,-
+copula,オルタネイトβ,0,,-,778,L.DASH,韓国,1422,ZERO.S,韓国,2270,KOWAI,韓国,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1348,SOAP.,韓国,2247,ZERO.S,韓国,3401,KKM*,韓国,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,1067,L.DASH,韓国,1697,TT.321,韓国,2884,KOWAI,韓国,0,,-
+copula,ZEPHYRANTHES,0,,-,896,KYARU!,韓国,1747,YS*DAD,韓国,2979,DNBD,韓国,3925,KKM*,韓国
+copula,X,0,,-,1445,LUDA,韓国,2433,8,韓国,3880,FAFNIR,韓国,0,,-
+copula,Welcome,0,,-,756,JOY-S,韓国,1744,YS*DAD,韓国,2691,KKM*,韓国,3383,KKM*,韓国
+copula,Violet Rose,0,,-,930,SUNYI,韓国,1524,XUEHUA,韓国,2610,LILPA,韓国,0,,-
+copula,Violet Pulse,0,,-,365,JOY-S,韓国,1306,CTB,韓国,2476,FAFNIR,韓国,0,,-
+copula,Uh-Oh,0,,-,939,AN2NA,韓国,1767,GG,韓国,2446,KOWAI,韓国,0,,-
+copula,Triple Counter,0,,-,1230,MTPINN,韓国,2260,ALASTO,韓国,3996,CHEPY.,韓国,0,,-
+copula,Tori-no-kimochi,0,,-,249,MTPINN,韓国,1025,L.DASH,韓国,2037,LILPA,韓国,0,,-
+copula,SURVIVOR,0,,-,678,L.DASH,韓国,1194,MIN,韓国,2021,CHEPY.,韓国,0,,-
+copula,Super Duper Racers,0,,-,627,COLIN,韓国,1443,BMQTS,韓国,2365,STANLY,韓国,0,,-
+copula,StrayedCatz,0,,-,952,L.DASH,韓国,2022,SGH,韓国,2946,CHEPY.,韓国,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1217,*,韓国,1757,ZERO.S,韓国,2677,KKM*,韓国,3389,KKM*,韓国
+copula,STARLiGHT,0,,-,641,GEN,韓国,1799,ZERO.S,韓国,2801,KOWAI,韓国,0,,-
+copula,SHELTER OF THE MIND,0,,-,1253,DKLWR,韓国,1999,BANARI,韓国,3068,FAFNIR,韓国,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,700,DONG1E,韓国,1176,KFPLJM,韓国,2564,FAFNIR,韓国,0,,-
+copula,Sephirot,0,,-,850,AIF,韓国,1545,CLOUD-,韓国,2375,LILPA,韓国,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,546,LEE123,韓国,1015,KONEKO,韓国,2277,KOWAI,韓国,0,,-
+copula,Routing,0,,-,952,MINY,韓国,1618,MALNIM,韓国,2581,LILPA,韓国,0,,-
+copula,Rock It,0,,-,927,TOFU-1,韓国,1613,CLOUD-,韓国,2986,KYOGRE,韓国,0,,-
+copula,refrain,0,,-,1176,MIN,韓国,2334,8,韓国,3681,KKM*,韓国,0,,-
+copula,quick master (reform version),0,,-,155,CTPLT*,韓国,318,L.DASH,韓国,528,KOWAI,韓国,0,,-
+copula,POSSESSION,529,NAKO,韓国,1361,NAKO,韓国,2152,EOS*,韓国,2997,CHEPY.,韓国,0,,-
+copula,Outbreak,0,,-,1129,TOFU-1,韓国,1762,INTER,韓国,3038,KKM*,韓国,0,,-
+copula,On the FM,0,,-,876,LEE123,韓国,1524,CTPLT*,韓国,2824,CHEPY.,韓国,0,,-
+copula,NZM,0,,-,1035,-TIC-,韓国,1577,ESPITZ,韓国,3523,CHEPY.,韓国,0,,-
+copula,Nowhere,0,,-,725,L.DASH,韓国,1313,WONTIK,韓国,2181,NOROOT,韓国,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,670,KIARAN,韓国,1053,TGRT,韓国,2288,KOWAI,韓国,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,1205,CHEERS,韓国,1767,ZPK,韓国,3024,KOWAI,韓国,0,,-
+copula,Nightmare before oversleep,0,,-,1067,MTPINN,韓国,1922,UMAN,韓国,2983,CHEPY.,韓国,0,,-
+copula,NANAIRO,0,,-,915,LAIN,韓国,1716,ATAHI,韓国,2601,KOWAI,韓国,0,,-
+copula,Musik LoverZ,0,,-,1050,INTE,韓国,1306,ANB,韓国,2523,LILPA,韓国,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1062,HOSHI,韓国,2088,ERII.,韓国,3069,KOWAI,韓国,0,,-
+copula,La dolce primavera,0,,-,707,INTE,韓国,1305,CTPLT*,韓国,2181,KYOGRE,韓国,0,,-
+copula,Konzert V,0,,-,1003,JOY-S,韓国,2229,GEHO,韓国,3397,KKM*,韓国,0,,-
+copula,Journey,0,,-,563,KUROKO,韓国,975,HIDARI,韓国,1877,TT.000,韓国,3145,CHLOE,韓国
+copula,Inner Spirit,0,,-,704,JOY-S,韓国,1684,K.H.B,韓国,2876,CHEPY.,韓国,0,,-
+copula,Highcharge Divolt,0,,-,812,A,韓国,1694,ASAP,韓国,2827,CHEPY.,韓国,0,,-
+copula,Grand Chariot,0,,-,1107,WONTIK,韓国,1855,ZERO.S,韓国,3461,CHLOE,韓国,0,,-
+copula,Godspeed,0,,-,907,BBLACK,韓国,1910,ZERO.S,韓国,3232,KKM*,韓国,0,,-
+copula,GOBBLE,0,,-,449,L.DASH,韓国,629,HERSHE,韓国,1729,LILPA,韓国,0,,-
+copula,Go Faraway,0,,-,780,OOOPR,韓国,1089,KONEKO,韓国,2497,KOWAI,韓国,0,,-
+copula,Glitch Nerds,0,,-,914,330.,韓国,1345,MIN,韓国,2272,KYOGRE,韓国,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1014,21,韓国,1773,GG,韓国,2360,CHEPY.,韓国,0,,-
+copula,Exchange Place,0,,-,705,L.DASH,韓国,1172,HERSHE,韓国,1799,.,韓国,0,,-
+copula,Everlasting Last,0,,-,704,HIDARI,韓国,1517,5480,韓国,2218,STANLY,韓国,0,,-
+copula,Dynamite,488,NOFU,韓国,1169,GOSEGU,韓国,2491,KOWAI,韓国,3889,KOWAI,韓国,0,,-
+copula,Donkey Donk,0,,-,823,CUVELL,韓国,1532,HEARTS,韓国,2294,CHEPY.,韓国,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,588,L.DASH,韓国,1403,CLOUD-,韓国,2328,.,韓国,0,,-
+copula,DIAMOND CROSSING,0,,-,955,245LIK,韓国,1791,UMAN,韓国,3148,CHEPY.,韓国,0,,-
+copula,Devil's Gear,0,,-,1048,KRABER,韓国,2152,ZERO.S,韓国,3518,KKM*,韓国,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1216,XEEEEE,韓国,1945,BANARI,韓国,2662,KOWAI,韓国,0,,-
+copula,Damage Per Second,0,,-,769,JOY-S,韓国,1322,K.H.B,韓国,2049,.,韓国,2302,JOUCHO,韓国
+copula,Daily Lunch Special,0,,-,872,XARY*,韓国,2175,BANARI,韓国,2974,CHEPY.,韓国,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,721,ICHU,韓国,1658,CHTS.,韓国,3154,.,韓国,0,,-
+copula,chaos eater -IIDX edition-,0,,-,852,KYARU!,韓国,1571,YUO,韓国,2619,SILON,韓国,0,,-
+copula,Central Station,0,,-,816,SAKUKU,韓国,1407,BMQTS,韓国,2434,KOWAI,韓国,0,,-
+copula,Blue Spring Express,0,,-,989,WINDY,韓国,2073,OPTION,韓国,3384,KKM*,韓国,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,511,MOKA.0,韓国,2381,IIDX23,韓国,3324,CHEPY.,韓国,0,,-
+copula,Aublia,0,,-,928,SOAP.,韓国,1476,CLOUD-,韓国,2578,KKM*,韓国,0,,-
+copula,Arcana,0,,-,889,KARUNA,韓国,1732,DON*X1,韓国,2271,999999,韓国,0,,-
+copula,AO-1,0,,-,1117,MIN,韓国,1935,OPTION,韓国,2864,KOWAI,韓国,0,,-
+copula,Angelic Jelly,0,,-,1018,NAGATO,韓国,2006,GKDL,韓国,2773,KKM*,韓国,0,,-
+copula,Acid Pumper,0,,-,584,JOY-S,韓国,1582,EULER.,韓国,2505,LILPA,韓国,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,642,47.,韓国,1618,ERII.,韓国,2472,HELP3,韓国,0,,-
 SINOBUZ,鴉,0,,-,1317,KR,韓国,2164,SUE,韓国,2708,KOWAI,韓国,0,,-
 SINOBUZ,童話回廊,0,,-,741,KYARU!,韓国,1650,245LIK,韓国,3148,CHEPY.,韓国,0,,-
 SINOBUZ,禍根,0,,-,547,ARCAHV,韓国,1334,VIOL3T,韓国,2646,KYOGRE,韓国,0,,-
@@ -948,87 +1029,6 @@ SINOBUZ,Amazing Mirage,296,D0G,韓国,764,HIDARI,韓国,1754,RAPID3,韓国,2663,
 SINOBUZ,(This Is Not) The Angels,0,,-,608,TT.000,韓国,1363,47.,韓国,2715,CHEPY.,韓国,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,972,SCALET,韓国,1938,EPIC.7,韓国,3465,CHLOE,韓国,0,,-
 SINOBUZ,!Viva!,0,,-,630,K3LVIN,韓国,1497,123,韓国,2019,CHEPY.,韓国,0,,-
-copula,麗 ～うらら～,232,JONZAL,韓国,1084,HAZE*,韓国,1718,EE,韓国,2658,LILPA,韓国,0,,-
-copula,駅猫のワルツ,0,,-,827,ME.,韓国,2082,ALASTO,韓国,2940,KKM*,韓国,0,,-
-copula,量子の海のリントヴルム,0,,-,837,ROBLE,韓国,1758,ZERO.S,韓国,3011,LILPA,韓国,0,,-
-copula,追想快晴テーマパーク,0,,-,1159,KRABER,韓国,2046,PPOCHI,韓国,3132,KYOGRE,韓国,0,,-
-copula,紫陽花 -AZISAI-,381,NOFU,韓国,1130,FUMIKA,韓国,2091,SD.,韓国,2947,CHEPY.,韓国,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1252,ONEH,韓国,2233,BANARI,韓国,3412,KOWAI,韓国,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1269,ZERO.S,韓国,2165,KOWAI,韓国,3522,HELP3,韓国,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,781,JOY-S,韓国,1713,BANARI,韓国,2567,.,韓国,0,,-
-copula,星屑ディスタンシア,0,,-,626,L.DASH,韓国,1203,ZERO.S,韓国,2132,KYOGRE,韓国,0,,-
-copula,明鏡止水,0,,-,760,MTPINN,韓国,1829,ZERO.S,韓国,2840,KOWAI,韓国,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,668,AIF,韓国,1431,LILY*,韓国,2172,CHLOE,韓国,0,,-
-copula,セロトニン,0,,-,1011,JOY-S,韓国,1800,ZERO.S,韓国,2369,CHEPY.,韓国,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,849,KONEKO,韓国,1685,MON,韓国,2459,CHEPY.,韓国,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,730,HIDARI,韓国,1409,ZERO.S,韓国,2398,KOWAI,韓国,0,,-
-copula,オルタネイトβ,0,,-,778,L.DASH,韓国,1422,ZERO.S,韓国,2270,KOWAI,韓国,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1348,SOAP.,韓国,2247,ZERO.S,韓国,3401,KKM*,韓国,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,1067,L.DASH,韓国,1697,TT.321,韓国,2884,KOWAI,韓国,0,,-
-copula,ZEPHYRANTHES,0,,-,896,KYARU!,韓国,1747,YS*DAD,韓国,2979,DNBD,韓国,3925,KKM*,韓国
-copula,X,0,,-,1445,LUDA,韓国,2433,8,韓国,3880,FAFNIR,韓国,0,,-
-copula,Welcome,0,,-,756,JOY-S,韓国,1744,YS*DAD,韓国,2691,KKM*,韓国,3383,KKM*,韓国
-copula,Violet Rose,0,,-,930,SUNYI,韓国,1524,XUEHUA,韓国,2610,LILPA,韓国,0,,-
-copula,Violet Pulse,0,,-,365,JOY-S,韓国,1306,CTB,韓国,2476,FAFNIR,韓国,0,,-
-copula,Uh-Oh,0,,-,939,AN2NA,韓国,1767,GG,韓国,2446,KOWAI,韓国,0,,-
-copula,Triple Counter,0,,-,1230,MTPINN,韓国,2260,ALASTO,韓国,3996,CHEPY.,韓国,0,,-
-copula,Tori-no-kimochi,0,,-,249,MTPINN,韓国,1025,L.DASH,韓国,2037,LILPA,韓国,0,,-
-copula,SURVIVOR,0,,-,678,L.DASH,韓国,1194,MIN,韓国,2021,CHEPY.,韓国,0,,-
-copula,Super Duper Racers,0,,-,627,COLIN,韓国,1443,BMQTS,韓国,2365,STANLY,韓国,0,,-
-copula,StrayedCatz,0,,-,952,L.DASH,韓国,2022,SGH,韓国,2946,CHEPY.,韓国,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1217,*,韓国,1757,ZERO.S,韓国,2677,KKM*,韓国,3389,KKM*,韓国
-copula,STARLiGHT,0,,-,641,GEN,韓国,1799,ZERO.S,韓国,2801,KOWAI,韓国,0,,-
-copula,SHELTER OF THE MIND,0,,-,1253,DKLWR,韓国,1999,BANARI,韓国,3068,FAFNIR,韓国,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,700,DONG1E,韓国,1176,KFPLJM,韓国,2564,FAFNIR,韓国,0,,-
-copula,Sephirot,0,,-,850,AIF,韓国,1545,CLOUD-,韓国,2375,LILPA,韓国,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,546,LEE123,韓国,1015,KONEKO,韓国,2277,KOWAI,韓国,0,,-
-copula,Routing,0,,-,952,MINY,韓国,1618,MALNIM,韓国,2581,LILPA,韓国,0,,-
-copula,Rock It,0,,-,927,TOFU-1,韓国,1613,CLOUD-,韓国,2986,KYOGRE,韓国,0,,-
-copula,refrain,0,,-,1176,MIN,韓国,2334,8,韓国,3681,KKM*,韓国,0,,-
-copula,quick master (reform version),0,,-,155,CTPLT*,韓国,318,L.DASH,韓国,528,KOWAI,韓国,0,,-
-copula,POSSESSION,529,NAKO,韓国,1361,NAKO,韓国,2152,EOS*,韓国,2997,CHEPY.,韓国,0,,-
-copula,Outbreak,0,,-,1129,TOFU-1,韓国,1762,INTER,韓国,3036,KOWAI,韓国,0,,-
-copula,On the FM,0,,-,876,LEE123,韓国,1524,CTPLT*,韓国,2824,CHEPY.,韓国,0,,-
-copula,NZM,0,,-,1035,-TIC-,韓国,1577,ESPITZ,韓国,3523,CHEPY.,韓国,0,,-
-copula,Nowhere,0,,-,725,L.DASH,韓国,1313,WONTIK,韓国,2181,NOROOT,韓国,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,670,KIARAN,韓国,1053,TGRT,韓国,2288,KOWAI,韓国,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,1205,CHEERS,韓国,1767,ZPK,韓国,3024,KOWAI,韓国,0,,-
-copula,Nightmare before oversleep,0,,-,1067,MTPINN,韓国,1922,UMAN,韓国,2983,CHEPY.,韓国,0,,-
-copula,NANAIRO,0,,-,915,LAIN,韓国,1716,ATAHI,韓国,2601,KOWAI,韓国,0,,-
-copula,Musik LoverZ,0,,-,1050,INTE,韓国,1306,ANB,韓国,2523,LILPA,韓国,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1062,HOSHI,韓国,2088,ERII.,韓国,3069,KOWAI,韓国,0,,-
-copula,La dolce primavera,0,,-,707,INTE,韓国,1305,CTPLT*,韓国,2181,KYOGRE,韓国,0,,-
-copula,Konzert V,0,,-,1003,JOY-S,韓国,2229,GEHO,韓国,3397,KKM*,韓国,0,,-
-copula,Journey,0,,-,563,KUROKO,韓国,975,HIDARI,韓国,1877,TT.000,韓国,3145,CHLOE,韓国
-copula,Inner Spirit,0,,-,704,JOY-S,韓国,1684,K.H.B,韓国,2876,CHEPY.,韓国,0,,-
-copula,Highcharge Divolt,0,,-,812,A,韓国,1694,ASAP,韓国,2827,CHEPY.,韓国,0,,-
-copula,Grand Chariot,0,,-,1107,WONTIK,韓国,1855,ZERO.S,韓国,3461,CHLOE,韓国,0,,-
-copula,Godspeed,0,,-,907,BBLACK,韓国,1910,ZERO.S,韓国,3232,KKM*,韓国,0,,-
-copula,GOBBLE,0,,-,449,L.DASH,韓国,629,HERSHE,韓国,1729,LILPA,韓国,0,,-
-copula,Go Faraway,0,,-,780,OOOPR,韓国,1089,KONEKO,韓国,2497,KOWAI,韓国,0,,-
-copula,Glitch Nerds,0,,-,914,330.,韓国,1345,MIN,韓国,2272,KYOGRE,韓国,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1014,21,韓国,1773,GG,韓国,2360,CHEPY.,韓国,0,,-
-copula,Exchange Place,0,,-,705,L.DASH,韓国,1172,HERSHE,韓国,1799,.,韓国,0,,-
-copula,Everlasting Last,0,,-,704,HIDARI,韓国,1517,5480,韓国,2218,STANLY,韓国,0,,-
-copula,Dynamite,488,NOFU,韓国,1169,GOSEGU,韓国,2491,KOWAI,韓国,3889,KOWAI,韓国,0,,-
-copula,Donkey Donk,0,,-,823,CUVELL,韓国,1532,HEARTS,韓国,2294,CHEPY.,韓国,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,588,L.DASH,韓国,1403,CLOUD-,韓国,2328,.,韓国,0,,-
-copula,DIAMOND CROSSING,0,,-,955,245LIK,韓国,1791,UMAN,韓国,3148,CHEPY.,韓国,0,,-
-copula,Devil's Gear,0,,-,1048,KRABER,韓国,2152,ZERO.S,韓国,3518,KKM*,韓国,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1216,XEEEEE,韓国,1945,BANARI,韓国,2662,KOWAI,韓国,0,,-
-copula,Damage Per Second,0,,-,769,JOY-S,韓国,1322,K.H.B,韓国,2049,.,韓国,2302,JOUCHO,韓国
-copula,Daily Lunch Special,0,,-,872,XARY*,韓国,2175,BANARI,韓国,2974,CHEPY.,韓国,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,721,ICHU,韓国,1658,CHTS.,韓国,3154,.,韓国,0,,-
-copula,chaos eater -IIDX edition-,0,,-,852,KYARU!,韓国,1571,YUO,韓国,2619,SILON,韓国,0,,-
-copula,Central Station,0,,-,816,SAKUKU,韓国,1407,BMQTS,韓国,2434,KOWAI,韓国,0,,-
-copula,Blue Spring Express,0,,-,989,WINDY,韓国,2073,OPTION,韓国,3384,KKM*,韓国,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,511,MOKA.0,韓国,2381,IIDX23,韓国,3324,CHEPY.,韓国,0,,-
-copula,Aublia,0,,-,928,SOAP.,韓国,1476,CLOUD-,韓国,2578,KKM*,韓国,0,,-
-copula,Arcana,0,,-,889,KARUNA,韓国,1732,DON*X1,韓国,2271,999999,韓国,0,,-
-copula,AO-1,0,,-,1117,MIN,韓国,1935,OPTION,韓国,2864,KOWAI,韓国,0,,-
-copula,Angelic Jelly,0,,-,1018,NAGATO,韓国,2006,GKDL,韓国,2773,KKM*,韓国,0,,-
-copula,Acid Pumper,0,,-,584,JOY-S,韓国,1582,EULER.,韓国,2505,LILPA,韓国,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,642,47.,韓国,1618,ERII.,韓国,2472,HELP3,韓国,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,593,JOY-S,韓国,1217,ZERO.S,韓国,2328,NOROOT,韓国,0,,-
 CANNON BALLERS,純真可憐デザイア,239,TAKES,韓国,735,KYARU!,韓国,1613,ZERO.S,韓国,2338,KOWAI,韓国,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1286,MANGO,韓国,2540,OPTION,韓国,4060,.,韓国,0,,-

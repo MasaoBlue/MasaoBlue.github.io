@@ -20,6 +20,18 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,0,,-,974,COCO,フィリピン,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,0,,-,1021,MAYAMA,フィリピン,0,,-
 2nd style,.59,0,,-,694,COCO,フィリピン,674,DJ,フィリピン,1104,COCO,フィリピン,0,,-
+3rd style,THE SAFARI,326,QUILLY,フィリピン,1011,SR-OUI,フィリピン,1669,KWSK,フィリピン,0,,-,0,,-
+3rd style,Tangerine Stream,0,,-,251,QUILLY,フィリピン,385,TAKO,フィリピン,0,,-,0,,-
+3rd style,Skyscraper,0,,-,0,,-,1145,HIMIKO,フィリピン,1160,COCO,フィリピン,0,,-
+3rd style,Schlagwerk,0,,-,0,,-,1252,HIMIKO,フィリピン,1543,COCO,フィリピン,0,,-
+3rd style,REINCARNATION,0,,-,0,,-,707,PUKITA,フィリピン,1192,CPU69,フィリピン,0,,-
+3rd style,R5,0,,-,0,,-,1123,COCO,フィリピン,1722,A-MIT2,フィリピン,0,,-
+3rd style,Presto,0,,-,450,QUILLY,フィリピン,912,KOMI,フィリピン,949,COCO,フィリピン,0,,-
+3rd style,LEADING CYBER,0,,-,0,,-,1101,HIMIKO,フィリピン,1165,COCO,フィリピン,0,,-
+3rd style,Holic,0,,-,0,,-,992,QUILLY,フィリピン,1575,M3.COM,フィリピン,0,,-
+3rd style,era (nostalmix),0,,-,0,,-,1054,TAKO,フィリピン,1421,TAKO,フィリピン,0,,-
+3rd style,Don't Stop!,0,,-,0,,-,683,PUKITA,フィリピン,0,,-,0,,-
+3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,0,,-,1018,QUILLY,フィリピン,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,0,,-,1193,KZSD-!,フィリピン,1236,AAAAAA,フィリピン,0,,-
 4th style,SWEET LAB,0,,-,486,QUILLY,フィリピン,868,KZSD-!,フィリピン,1209,COCO,フィリピン,0,,-
 4th style,starmine,415,QUILLY,フィリピン,0,,-,1227,QUILLY,フィリピン,1523,IIDX29,フィリピン,0,,-
@@ -41,18 +53,6 @@
 4th style,B4U,0,,-,529,JCNA22,フィリピン,0,,-,1865,COCO,フィリピン,0,,-
 4th style,ABSOLUTE,0,,-,0,,-,1640,HAMETN,フィリピン,2220,AAAAAA,フィリピン,2552,TAKO,フィリピン
 4th style,250bpm,0,,-,0,,-,821,QUILLY,フィリピン,1321,COCO,フィリピン,0,,-
-3rd style,THE SAFARI,326,QUILLY,フィリピン,1011,SR-OUI,フィリピン,1669,KWSK,フィリピン,0,,-,0,,-
-3rd style,Tangerine Stream,0,,-,251,QUILLY,フィリピン,385,TAKO,フィリピン,0,,-,0,,-
-3rd style,Skyscraper,0,,-,0,,-,1145,HIMIKO,フィリピン,1160,COCO,フィリピン,0,,-
-3rd style,Schlagwerk,0,,-,0,,-,1252,HIMIKO,フィリピン,1543,COCO,フィリピン,0,,-
-3rd style,REINCARNATION,0,,-,0,,-,707,PUKITA,フィリピン,1192,CPU69,フィリピン,0,,-
-3rd style,R5,0,,-,0,,-,1123,COCO,フィリピン,1722,A-MIT2,フィリピン,0,,-
-3rd style,Presto,0,,-,450,QUILLY,フィリピン,912,KOMI,フィリピン,949,COCO,フィリピン,0,,-
-3rd style,LEADING CYBER,0,,-,0,,-,1101,HIMIKO,フィリピン,1165,COCO,フィリピン,0,,-
-3rd style,Holic,0,,-,0,,-,992,QUILLY,フィリピン,1575,M3.COM,フィリピン,0,,-
-3rd style,era (nostalmix),0,,-,0,,-,1054,TAKO,フィリピン,1421,TAKO,フィリピン,0,,-
-3rd style,Don't Stop!,0,,-,0,,-,683,PUKITA,フィリピン,0,,-,0,,-
-3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,0,,-,1018,QUILLY,フィリピン,0,,-,0,,-
 5th style,V,317,HIMIKO,フィリピン,836,ZSNHA#,フィリピン,2356,COCO,フィリピン,2833,A-MIT2,フィリピン,0,,-
 5th style,THE SHINING POLARIS,0,,-,0,,-,1269,KZSD-!,フィリピン,1543,KWSK,フィリピン,0,,-
 5th style,THE CUBE,0,,-,420,DANI,フィリピン,1262,KZSD-!,フィリピン,1330,COCO,フィリピン,0,,-
@@ -233,43 +233,6 @@ IIDX RED,awakening,0,,-,732,SNNM,フィリピン,1381,HIMIKO,フィリピン,159
 IIDX RED,ANDROMEDA,0,,-,0,,-,1285,PU.,フィリピン,2736,A-MIT2,フィリピン,0,,-
 IIDX RED,AGEHA,571,QUILLY,フィリピン,625,MOTI,フィリピン,1441,QUILLY,フィリピン,1744,COCO,フィリピン,2333,A-MIT2,フィリピン
 IIDX RED,AA,0,,-,1144,SIXONE,フィリピン,2564,COCO,フィリピン,3458,A-MIT2,フィリピン,0,,-
-DistorteD,虹色,0,,-,611,AARIN,フィリピン,1475,COCO,フィリピン,1801,COCO,フィリピン,0,,-
-DistorteD,華蝶風雪,0,,-,708,0721-!,フィリピン,2014,COCO,フィリピン,2901,A-MIT2,フィリピン,0,,-
-DistorteD,罠,0,,-,531,QUILLY,フィリピン,0,,-,2253,POLT10,フィリピン,0,,-
-DistorteD,嘆きの樹,0,,-,1495,PIPI,フィリピン,2384,TAKO,フィリピン,3709,DBERRY,フィリピン,0,,-
-DistorteD,タシカナモノ,0,,-,639,DANSTR,フィリピン,1302,HIMIKO,フィリピン,1796,TASO-T,フィリピン,0,,-
-DistorteD,カゴノトリ～弐式～,0,,-,0,,-,1712,KOMI,フィリピン,2507,A-MIT2,フィリピン,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,599,DANI,フィリピン,1211,PU.,フィリピン,2290,KWSK,フィリピン,0,,-
-DistorteD,with you…,0,,-,359,RIXXA,フィリピン,1097,HIMIKO,フィリピン,1768,DBERRY,フィリピン,0,,-
-DistorteD,WISH(EUROBEAT MIX),0,,-,1011,HIMIKO,フィリピン,929,LENA,フィリピン,1922,KWSK,フィリピン,0,,-
-DistorteD,Why did you go away,617,HIMIKO,フィリピン,606,DANI,フィリピン,1573,SIXONE,フィリピン,2265,KWSK,フィリピン,0,,-
-DistorteD,waxing and wanding,0,,-,1079,??????,フィリピン,1858,COCO,フィリピン,2811,A-MIT2,フィリピン,3875,A-MIT2,フィリピン
-DistorteD,TYPE MARS(G-Style Mix),0,,-,1077,HIMIKO,フィリピン,1774,KZSD-!,フィリピン,2180,COCO,フィリピン,0,,-
-DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,0,,-,1774,HIMIKO,フィリピン,2298,TAKO,フィリピン,0,,-
-DistorteD,This is Love,0,,-,0,,-,1548,QUILLY,フィリピン,2253,HIMIKO,フィリピン,0,,-
-DistorteD,The Dirty of Loudness,0,,-,839,07H0LE,フィリピン,2028,COCO,フィリピン,2466,TAKO,フィリピン,0,,-
-DistorteD,Sun Field,0,,-,0,,-,0,,-,2334,KWSK,フィリピン,0,,-
-DistorteD,So Fabulous !!,0,,-,552,DERP00,フィリピン,1232,2BKAGE,フィリピン,2241,A-MIT2,フィリピン,0,,-
-DistorteD,Power of Love,0,,-,977,HIMIKO,フィリピン,1633,KZSD-!,フィリピン,2010,RDYVZI,フィリピン,0,,-
-DistorteD,MOON,0,,-,0,,-,1511,DORO-2,フィリピン,2132,A-MIT2,フィリピン,0,,-
-DistorteD,MINT,0,,-,618,DANI,フィリピン,1055,MIUCLN,フィリピン,2199,A-MIT2,フィリピン,0,,-
-DistorteD,Leaving...,0,,-,469,00000,フィリピン,0,,-,1923,HIMIKO,フィリピン,0,,-
-DistorteD,INFERNO,0,,-,0,,-,1502,HIMIKO,フィリピン,1875,M3.COM,フィリピン,0,,-
-DistorteD,Heavenly Sun (IIDX VERSION),0,,-,0,,-,1559,KZSD-!,フィリピン,1980,RDYVZI,フィリピン,0,,-
-DistorteD,Harmony and Lovely,0,,-,576,DANI,フィリピン,1752,KZSD-!,フィリピン,2220,DBERRY,フィリピン,0,,-
-DistorteD,Ganymede,0,,-,596,MOTI,フィリピン,1398,KSKHND,フィリピン,2190,A-MIT2,フィリピン,2422,A-MIT2,フィリピン
-DistorteD,EURO-ROMANCE,0,,-,341,ADAM,フィリピン,0,,-,2064,KWSK,フィリピン,0,,-
-DistorteD,DUE TOMORROW,0,,-,448,MOTI,フィリピン,1257,UNIMAN,フィリピン,1930,A-MIT2,フィリピン,0,,-
-DistorteD,Double Loving Heart,0,,-,476,QUILLY,フィリピン,1310,KZSD-!,フィリピン,1752,M3.COM,フィリピン,0,,-
-DistorteD,D.C.fish,0,,-,967,HIMIKO,フィリピン,1650,KAIWEN,フィリピン,2248,A-MIT2,フィリピン,0,,-
-DistorteD,CONTRACT,0,,-,1087,SIXONE,フィリピン,1594,CPU69,フィリピン,1949,COCO,フィリピン,2644,A-MIT2,フィリピン
-DistorteD,Concertino in Blue,335,HIMIKO,フィリピン,807,HIMIKO,フィリピン,1083,QUILLY,フィリピン,2287,A-MIT2,フィリピン,0,,-
-DistorteD,Broadbanded,0,,-,521,00000,フィリピン,1185,QUILLY,フィリピン,1883,A-MIT2,フィリピン,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,0,,-,1466,QUILLY,フィリピン,2185,COCO,フィリピン,0,,-
-DistorteD,Bloody Tears(IIDX EDITION),0,,-,589,DERP00,フィリピン,1691,SIXONE,フィリピン,2122,A-MIT2,フィリピン,0,,-
-DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,0,,-,1452,M3.COM,フィリピン,0,,-
-DistorteD,Apocalypse ～dirge of swans～,225,QUILLY,フィリピン,0,,-,0,,-,2313,A-MIT2,フィリピン,0,,-
-DistorteD,ALFARSHEAR 双神威に廻る夢,415,HIMIKO,フィリピン,0,,-,1624,KZSD-!,フィリピン,2013,TAKO,フィリピン,0,,-
 HAPPY SKY,月光,0,,-,0,,-,1498,QUILLY,フィリピン,2315,COCO,フィリピン,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,0,,-,1292,PIPI,フィリピン,1807,COCO,フィリピン,0,,-
 HAPPY SKY,冥,532,HIMIKO,フィリピン,669,727,フィリピン,2005,COCO,フィリピン,3395,A-MIT2,フィリピン,0,,-
@@ -314,13 +277,50 @@ HAPPY SKY,Aurora,0,,-,913,07H0LE,フィリピン,1821,KSKHND,フィリピン,243
 HAPPY SKY,alla turca con passione,0,,-,294,TKM,フィリピン,1392,SIXONE,フィリピン,2064,RDYVZI,フィリピン,0,,-
 HAPPY SKY,Agnus Dei,0,,-,539,YUU-!!,フィリピン,1382,FAXXFC,フィリピン,1889,CPU69,フィリピン,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,895,HIMIKO,フィリピン,1562,HIMIKO,フィリピン,1617,M3.COM,フィリピン,0,,-
+DistorteD,虹色,0,,-,611,AARIN,フィリピン,1475,COCO,フィリピン,1801,COCO,フィリピン,0,,-
+DistorteD,華蝶風雪,0,,-,708,0721-!,フィリピン,2014,COCO,フィリピン,2901,A-MIT2,フィリピン,0,,-
+DistorteD,罠,0,,-,531,QUILLY,フィリピン,0,,-,2253,POLT10,フィリピン,0,,-
+DistorteD,嘆きの樹,0,,-,1495,PIPI,フィリピン,2384,TAKO,フィリピン,3709,DBERRY,フィリピン,0,,-
+DistorteD,タシカナモノ,0,,-,639,DANSTR,フィリピン,1302,HIMIKO,フィリピン,1796,TASO-T,フィリピン,0,,-
+DistorteD,カゴノトリ～弐式～,0,,-,0,,-,1712,KOMI,フィリピン,2507,A-MIT2,フィリピン,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,599,DANI,フィリピン,1211,PU.,フィリピン,2290,KWSK,フィリピン,0,,-
+DistorteD,with you…,0,,-,359,RIXXA,フィリピン,1097,HIMIKO,フィリピン,1768,DBERRY,フィリピン,0,,-
+DistorteD,WISH(EUROBEAT MIX),0,,-,1011,HIMIKO,フィリピン,929,LENA,フィリピン,1922,KWSK,フィリピン,0,,-
+DistorteD,Why did you go away,617,HIMIKO,フィリピン,606,DANI,フィリピン,1573,SIXONE,フィリピン,2265,KWSK,フィリピン,0,,-
+DistorteD,waxing and wanding,0,,-,1079,??????,フィリピン,1858,COCO,フィリピン,2811,A-MIT2,フィリピン,3875,A-MIT2,フィリピン
+DistorteD,TYPE MARS(G-Style Mix),0,,-,1077,HIMIKO,フィリピン,1774,KZSD-!,フィリピン,2180,COCO,フィリピン,0,,-
+DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,0,,-,1774,HIMIKO,フィリピン,2298,TAKO,フィリピン,0,,-
+DistorteD,This is Love,0,,-,0,,-,1548,QUILLY,フィリピン,2253,HIMIKO,フィリピン,0,,-
+DistorteD,The Dirty of Loudness,0,,-,839,07H0LE,フィリピン,2028,COCO,フィリピン,2466,TAKO,フィリピン,0,,-
+DistorteD,Sun Field,0,,-,0,,-,0,,-,2334,KWSK,フィリピン,0,,-
+DistorteD,So Fabulous !!,0,,-,552,DERP00,フィリピン,1232,2BKAGE,フィリピン,2241,A-MIT2,フィリピン,0,,-
+DistorteD,Power of Love,0,,-,977,HIMIKO,フィリピン,1633,KZSD-!,フィリピン,2010,RDYVZI,フィリピン,0,,-
+DistorteD,MOON,0,,-,0,,-,1511,DORO-2,フィリピン,2132,A-MIT2,フィリピン,0,,-
+DistorteD,MINT,0,,-,618,DANI,フィリピン,1055,MIUCLN,フィリピン,2199,A-MIT2,フィリピン,0,,-
+DistorteD,Leaving...,0,,-,469,00000,フィリピン,0,,-,1923,HIMIKO,フィリピン,0,,-
+DistorteD,INFERNO,0,,-,0,,-,1502,HIMIKO,フィリピン,1875,M3.COM,フィリピン,0,,-
+DistorteD,Heavenly Sun (IIDX VERSION),0,,-,0,,-,1559,KZSD-!,フィリピン,1980,RDYVZI,フィリピン,0,,-
+DistorteD,Harmony and Lovely,0,,-,576,DANI,フィリピン,1752,KZSD-!,フィリピン,2220,DBERRY,フィリピン,0,,-
+DistorteD,Ganymede,0,,-,596,MOTI,フィリピン,1398,KSKHND,フィリピン,2190,A-MIT2,フィリピン,2422,A-MIT2,フィリピン
+DistorteD,EURO-ROMANCE,0,,-,341,ADAM,フィリピン,0,,-,2064,KWSK,フィリピン,0,,-
+DistorteD,DUE TOMORROW,0,,-,448,MOTI,フィリピン,1257,UNIMAN,フィリピン,1930,A-MIT2,フィリピン,0,,-
+DistorteD,Double Loving Heart,0,,-,476,QUILLY,フィリピン,1310,KZSD-!,フィリピン,1752,M3.COM,フィリピン,0,,-
+DistorteD,D.C.fish,0,,-,967,HIMIKO,フィリピン,1650,KAIWEN,フィリピン,2248,A-MIT2,フィリピン,0,,-
+DistorteD,CONTRACT,0,,-,1087,SIXONE,フィリピン,1594,CPU69,フィリピン,1949,COCO,フィリピン,2644,A-MIT2,フィリピン
+DistorteD,Concertino in Blue,335,HIMIKO,フィリピン,807,HIMIKO,フィリピン,1083,QUILLY,フィリピン,2287,A-MIT2,フィリピン,0,,-
+DistorteD,Broadbanded,0,,-,521,00000,フィリピン,1185,QUILLY,フィリピン,1883,A-MIT2,フィリピン,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,0,,-,1466,QUILLY,フィリピン,2185,COCO,フィリピン,0,,-
+DistorteD,Bloody Tears(IIDX EDITION),0,,-,589,DERP00,フィリピン,1691,SIXONE,フィリピン,2122,A-MIT2,フィリピン,0,,-
+DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,0,,-,1452,M3.COM,フィリピン,0,,-
+DistorteD,Apocalypse ～dirge of swans～,225,QUILLY,フィリピン,0,,-,0,,-,2313,A-MIT2,フィリピン,0,,-
+DistorteD,ALFARSHEAR 双神威に廻る夢,415,HIMIKO,フィリピン,0,,-,1624,KZSD-!,フィリピン,2013,TAKO,フィリピン,0,,-
 GOLD,電人、暁に斃れる。,636,HIMIKO,フィリピン,0,,-,2099,HIMIKO,フィリピン,3184,A-MIT2,フィリピン,0,,-
 GOLD,零 - ZERO -,210,QUILLY,フィリピン,814,FLIPPY,フィリピン,1153,FLIPPY,フィリピン,2249,COCO,フィリピン,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,0,,-,1078,KZSD-!,フィリピン,1342,AAAAAA,フィリピン,0,,-
 GOLD,星をこの手に,0,,-,0,,-,1754,KZSD-!,フィリピン,1999,TAKO,フィリピン,0,,-
 GOLD,リグレット,0,,-,0,,-,1685,TAKO,フィリピン,2318,COCO,フィリピン,0,,-
 GOLD,ヨシダさん,0,,-,611,DANI,フィリピン,1127,POLT10,フィリピン,1943,KWSK,フィリピン,0,,-
-GOLD,クルクル☆ラブ～Opioid Peptide MIX～,415,HIMIKO,フィリピン,0,,-,984,KRSM,フィリピン,2027,HIMIKO,フィリピン,0,,-
+GOLD,クルクル☆ラブ～Opioid Peptide MIX～,415,HIMIKO,フィリピン,0,,-,1219,?,フィリピン,2027,HIMIKO,フィリピン,0,,-
 GOLD,With your Smile,0,,-,499,RE.0,フィリピン,1013,TJBA01,フィリピン,1556,KWSK,フィリピン,0,,-
 GOLD,Watch out!!,0,,-,521,AARIN,フィリピン,987,KZSD-!,フィリピン,1435,COCO,フィリピン,0,,-
 GOLD,VANESSA,0,,-,628,KRSM,フィリピン,1625,COCO,フィリピン,2267,A-MIT2,フィリピン,3015,A-MIT2,フィリピン
@@ -560,7 +560,7 @@ Resort Anthem,Answer,0,,-,184,00000,フィリピン,1439,KZSD-!,フィリピン,
 Resort Anthem,ALBIDA,505,HIMIKO,フィリピン,1039,SIXONE,フィリピン,1810,HIMIKO,フィリピン,2893,A-MIT2,フィリピン,0,,-
 Resort Anthem,Aegis,0,,-,585,DJ,フィリピン,1169,SIXONE,フィリピン,2213,TAKO,フィリピン,0,,-
 Lincle,陽炎,0,,-,553,QUILLY,フィリピン,727,DANI,フィリピン,1904,AAAAAA,フィリピン,0,,-
-Lincle,衰色小町メランコリア,0,,-,326,URIZEN,フィリピン,0,,-,2222,COCO,フィリピン,0,,-
+Lincle,衰色小町メランコリア,0,,-,326,URIZEN,フィリピン,1083,HTMNGL,フィリピン,2222,COCO,フィリピン,0,,-
 Lincle,蛇神,407,HIMIKO,フィリピン,0,,-,1356,SR-OUI,フィリピン,2657,A-MIT2,フィリピン,0,,-
 Lincle,聖人の塔,0,,-,483,CHIBI*,フィリピン,1377,QUILLY,フィリピン,2814,TAKO,フィリピン,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,631,2DXKIN,フィリピン,787,DJ,フィリピン,2043,COCO,フィリピン,0,,-
@@ -587,7 +587,7 @@ Lincle,SHADE,0,,-,0,,-,0,,-,2800,A-MIT2,フィリピン,0,,-
 Lincle,Several Words,0,,-,0,,-,1426,KZSD-!,フィリピン,2108,KWSK,フィリピン,0,,-
 Lincle,Scharfrichter,0,,-,0,,-,1532,KZSD-!,フィリピン,2799,A-MIT2,フィリピン,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,261,PHIX,フィリピン,1054,QUILLY,フィリピン,1542,UNIMAN,フィリピン,0,,-
-Lincle,Round and Round,0,,-,589,RE.0,フィリピン,0,,-,2046,KWSK,フィリピン,0,,-
+Lincle,Round and Round,0,,-,589,RE.0,フィリピン,620,HTMNGL,フィリピン,2046,KWSK,フィリピン,0,,-
 Lincle,RESISTANCE,0,,-,569,QUILLY,フィリピン,849,PUKITA,フィリピン,2240,HIMIKO,フィリピン,0,,-
 Lincle,Release The Music,0,,-,0,,-,0,,-,2025,M3.COM,フィリピン,0,,-
 Lincle,Quick Silver,0,,-,562,SNNM,フィリピン,0,,-,2540,KWSK,フィリピン,0,,-
@@ -718,7 +718,7 @@ SPADA,バンブーソード・ガール,260,QUILLY,フィリピン,1000,HIMIKO,�
 SPADA,デッドボヲルdeホームラン,0,,-,543,QUILLY,フィリピン,1106,GIMMIX,フィリピン,2572,A-MIT2,フィリピン,0,,-
 SPADA,アルストロメリア,186,NIKKIS,フィリピン,697,MACHAO,フィリピン,1472,CPU69,フィリピン,2355,A-MIT2,フィリピン,0,,-
 SPADA,お願いアインシュタイン,0,,-,0,,-,1327,POLT10,フィリピン,1983,RDYVZI,フィリピン,0,,-
-SPADA,Wonder Girl feat. Kanae Asaba,0,,-,0,,-,784,DANI,フィリピン,2716,A-MIT2,フィリピン,0,,-
+SPADA,Wonder Girl feat. Kanae Asaba,0,,-,0,,-,1037,HTMNGL,フィリピン,2716,A-MIT2,フィリピン,0,,-
 SPADA,VOX UP,0,,-,1313,?,フィリピン,2510,COCO,フィリピン,3418,A-MIT2,フィリピン,0,,-
 SPADA,Verflucht,0,,-,1167,QUILLY,フィリピン,2017,COCO,フィリピン,3381,A-MIT2,フィリピン,4234,A-MIT2,フィリピン
 SPADA,Valgus,0,,-,457,RE.0,フィリピン,0,,-,2154,CPU69,フィリピン,0,,-
@@ -1033,7 +1033,7 @@ CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,626,QUILLY,フィリピ�
 CANNON BALLERS,純真可憐デザイア,228,QUILLY,フィリピン,429,SEC,フィリピン,1482,POLT10,フィリピン,2271,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,848,DANI,フィリピン,2378,AAAAAA,フィリピン,3844,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,東京神話,460,HIMIKO,フィリピン,634,DANI,フィリピン,1701,TAKO,フィリピン,2678,TAKO,フィリピン,0,,-
-CANNON BALLERS,命の標本,0,,-,0,,-,1070,MIUCLN,フィリピン,2384,Z,フィリピン,0,,-
+CANNON BALLERS,命の標本,0,,-,0,,-,1070,MIUCLN,フィリピン,2435,CPU69,フィリピン,0,,-
 CANNON BALLERS,共犯へヴンズコード,0,,-,443,QUILLY,フィリピン,1327,KZSD-!,フィリピン,2137,TAKO,フィリピン,0,,-
 CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,632,3RISE,フィリピン,1497,HAMETN,フィリピン,2100,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1002,HIMIKO,フィリピン,1578,PIPI,フィリピン,2468,CPU69,フィリピン,0,,-
@@ -1072,7 +1072,7 @@ CANNON BALLERS,Midnight Lady,0,,-,490,AARIN,フィリピン,613,JEDAH,フィリ�
 CANNON BALLERS,MAXIVCORD,0,,-,792,HIMIKO,フィリピン,1409,KZSD-!,フィリピン,2190,TAKO,フィリピン,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,0,,-,1333,KZSD-!,フィリピン,2026,KZSD-!,フィリピン,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,0,,-,1780,COCO,フィリピン,3309,A-MIT2,フィリピン,0,,-
-CANNON BALLERS,Initiation,603,QUILLY,フィリピン,1245,T7R,フィリピン,2260,UNIMAN,フィリピン,3618,A-MIT2,フィリピン,0,,-
+CANNON BALLERS,Initiation,603,QUILLY,フィリピン,1245,T7R,フィリピン,2302,CPU69,フィリピン,3618,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1182,HIMIKO,フィリピン,1424,PIPI,フィリピン,3296,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,I Love You,0,,-,637,AARIN,フィリピン,0,,-,2611,A-MIT2,フィリピン,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,0,,-,1350,MIUCLN,フィリピン,2848,A-MIT2,フィリピン,0,,-

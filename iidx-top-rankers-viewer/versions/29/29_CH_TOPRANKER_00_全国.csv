@@ -181,7 +181,7 @@
 10th style,No.13,0,,-,1706,PICO,東京都,2695,718,大阪府,3206,O24CUP,香川県,0,,-
 10th style,Narcissus At Oasis,0,,-,784,IMOTO*,大阪府,1593,N!?,北海道,1674,KOWAI,韓国,0,,-
 10th style,Lucy,0,,-,970,*BOMI*,熊本県,1798,PICO,東京都,2334,LILPA,韓国,0,,-
-10th style,Love Is Eternity,0,,-,1193,H1RO,香川県,2017,GIGANT,和歌山県,2423,PEACE,愛知県,0,,-
+10th style,Love Is Eternity,0,,-,1223,STEEL*,神奈川県,2017,GIGANT,和歌山県,2423,PEACE,愛知県,0,,-
 10th style,Innocent Walls,0,,-,1643,718,大阪府,2547,LILPA,韓国,2886,LILPA,韓国,0,,-
 10th style,HIGH,0,,-,938,YUDEX4,東京都,1946,CYBERX,神奈川県,2173,CYBERX,神奈川県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,770,NEODIO,青森県,1243,WAMDUS,大阪府,2132,PEACE,愛知県,0,,-
@@ -228,7 +228,7 @@ IIDX RED,Close my Eyes for Me,0,,-,1024,TE2ROW,熊本県,1487,SHINPO,東京都,1
 IIDX RED,Click Again,0,,-,887,1.2.3.,宮崎県,1466,PICO,東京都,2175,LILPA,韓国,0,,-
 IIDX RED,BREATH,0,,-,933,ZXCV,石川県,1322,PICO,東京都,1748,OVER.V,大阪府,0,,-
 IIDX RED,BLOCKS,0,,-,834,PICO,東京都,1344,IMOTO*,大阪府,2000,LILPA,韓国,0,,-
-IIDX RED,Be quiet,0,,-,1116,IMOTO*,大阪府,1773,IMOTO*,大阪府,2227,LILPA,韓国,2899,KKM*,韓国
+IIDX RED,Be quiet,0,,-,1116,IMOTO*,大阪府,1773,IMOTO*,大阪府,2227,LILPA,韓国,2902,KKM*,韓国
 IIDX RED,awakening,0,,-,1099,IMOTO*,大阪府,1484,GIGANT,和歌山県,1726,MIKAMO,東京都,0,,-
 IIDX RED,ANDROMEDA,0,,-,1019,NO4CUP,山梨県,1934,*ALEX*,静岡県,2891,LILPA,韓国,0,,-
 IIDX RED,AGEHA,610,IMOTO*,大阪府,1070,IMOTO*,大阪府,1752,RK,神奈川県,1896,KOWAI,韓国,2456,KOWAI,韓国
@@ -314,6 +314,48 @@ DistorteD,Bloody Tears(IIDX EDITION),0,,-,1148,IMOTO*,大阪府,1998,DICE,東京
 DistorteD,BALLAD THE FEATHERS,0,,-,734,*BOMI*,熊本県,1106,IMOTO*,大阪府,1526,PEACE,愛知県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,242,*9N2*,神奈川県,1020,PICO,東京都,1834,PICO,東京都,2421,PEACE,愛知県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,444,IMOTO*,大阪府,1093,IMOTO*,大阪府,1672,*ALEX*,静岡県,2098,KUREI,愛知県,0,,-
+GOLD,電人、暁に斃れる。,669,PPJT,神奈川県,1562,IMOTO*,大阪府,2442,718,大阪府,3438,KKM*,韓国,0,,-
+GOLD,零 - ZERO -,220,*9N2*,神奈川県,1192,IMOTO*,大阪府,1806,*ALEX*,静岡県,2321,OVER.V,大阪府,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,734,YUDEX2,愛知県,1146,PICO,東京都,1438,KOWAI,韓国,0,,-
+GOLD,星をこの手に,0,,-,1210,TAKPOP,愛知県,1857,PICO,東京都,2195,NCHO72,茨城県,0,,-
+GOLD,リグレット,0,,-,1300,RK,神奈川県,1774,G*,群馬県,2445,PEACE,愛知県,0,,-
+GOLD,ヨシダさん,0,,-,940,IMOTO*,大阪府,1453,IMOTO*,大阪府,1974,YAMADA,大分県,0,,-
+GOLD,クルクル☆ラブ～Opioid Peptide MIX～,432,GB-XTO,富山県,961,ALIKA,北海道,1529,PICO,東京都,2280,54GAYA,東京都,0,,-
+GOLD,With your Smile,0,,-,732,IMOTO*,大阪府,1193,IMOTO*,大阪府,1576,PEACE,愛知県,0,,-
+GOLD,Watch out!!,0,,-,747,PICO,東京都,1052,PICO,東京都,1650,CORIVE,岡山県,0,,-
+GOLD,VANESSA,0,,-,1165,WA2.RB,愛知県,1872,O24CUP,香川県,2451,LILPA,韓国,3493,KKM*,韓国
+GOLD,TRANOID,0,,-,825,3.MPS*,広島県,1838,PICO,東京都,2268,KUREI,愛知県,3045,U*TAKA,千葉県
+GOLD,The Smile of You,0,,-,944,IMOTO*,大阪府,1316,IMOTO*,大阪府,1630,YUDEX2,愛知県,0,,-
+GOLD,the shadow,0,,-,1221,HATO,秋田県,2121,AZARA4,埼玉県,2946,LILPA,韓国,0,,-
+GOLD,snow storm,236,*9N2*,神奈川県,806,IMOTO*,大阪府,2325,N!?,北海道,2814,U*TAKA,千葉県,3408,LILPA,韓国
+GOLD,smile,0,,-,1474,SHTOLA,大阪府,2167,KURA,東京都,2922,G*,群馬県,0,,-
+GOLD,Sense 2007,0,,-,1559,*ALEX*,静岡県,2345,O24CUP,香川県,3016,MIKAMO,東京都,0,,-
+GOLD,Second Heaven,224,*9N2*,神奈川県,996,STEEL*,神奈川県,1563,STEEL*,神奈川県,2135,LILPA,韓国,0,,-
+GOLD,Roulette,0,,-,892,1.2.3.,宮崎県,1461,GIGANT,和歌山県,2142,O24CUP,香川県,0,,-
+GOLD,PHOTONGENIC,0,,-,1349,KR-976,千葉県,1978,RE*,和歌山県,2324,54GAYA,東京都,0,,-
+GOLD,op.31 叙情,0,,-,633,NEODIO,青森県,1377,AMMKRN,愛知県,1650,DOLCE.,岩手県,0,,-
+GOLD,never…,0,,-,828,*BOMI*,熊本県,1381,GENO,和歌山県,1829,PEACE,愛知県,0,,-
+GOLD,METALLIC MIND,0,,-,895,DICE,東京都,1428,4KIB!,神奈川県,1650,PEACE,愛知県,0,,-
+GOLD,Make Me Your Own,0,,-,861,1.2.3.,宮崎県,1647,GIGANT,和歌山県,2166,KOWAI,韓国,0,,-
+GOLD,Love Again...,0,,-,586,IMOTO*,大阪府,800,IMOTO*,大阪府,1076,GOEMON,神奈川県,0,,-
+GOLD,LASER CRUSTER,0,,-,1450,DICE,東京都,2467,O24CUP,香川県,3271,KKM*,韓国,0,,-
+GOLD,KAMAITACHI,0,,-,1262,NO4CUP,山梨県,2042,AZARA4,埼玉県,2733,PEACE,愛知県,3944,KKM*,韓国
+GOLD,INORI,0,,-,1400,YUDEX4,東京都,2634,GIGANT,和歌山県,3224,LILPA,韓国,0,,-
+GOLD,High School Love,408,*9N2*,神奈川県,876,IMOTO*,大阪府,1567,DICE,東京都,2212,MOKA.A,茨城県,0,,-
+GOLD,heaven above,0,,-,813,WWWWWW,神奈川県,1408,IMOTO*,大阪府,1854,PEACE,愛知県,0,,-
+GOLD,GRID KNIGHT,0,,-,845,IMOTO*,大阪府,1997,MASAKI,神奈川県,2650,KUREI,愛知県,3488,WELLOW,神奈川県
+GOLD,GOLD RUSH,564,IMOTO*,大阪府,1216,PICO,東京都,1513,PICO,東京都,2393,DOLCE.,岩手県,0,,-
+GOLD,four-leaf,0,,-,756,Y.Y-LH,新潟県,1279,*ALEX*,静岡県,1729,KUREI,愛知県,0,,-
+GOLD,FIRE FIRE,574,IMOTO*,大阪府,1226,PICO,東京都,1837,BANARI,韓国,2808,LILPA,韓国,0,,-
+GOLD,Fascination MAXX,0,,-,1004,NEODIO,青森県,1719,GAHOU,神奈川県,2595,DOLCE.,岩手県,0,,-
+GOLD,Cyber Force,0,,-,1272,YUDEX4,東京都,1942,STEEL*,神奈川県,2399,PEACE,愛知県,0,,-
+GOLD,CROSSROAD ～Left Story～,0,,-,1142,AIKA,岡山県,1764,YUDEX2,愛知県,2194,STYU--,神奈川県,0,,-
+GOLD,CaptivAte～誓い～,0,,-,1352,PICO,東京都,2029,PICO,東京都,2254,MIKAMO,東京都,0,,-
+GOLD,CaptivAte～裁き～,428,IMOTO*,大阪府,864,B-RABI,滋賀県,1320,PICO,東京都,1794,KOWAI,韓国,0,,-
+GOLD,Candy Galy,0,,-,1599,PICO,東京都,2571,RE*,和歌山県,3590,U*TAKA,千葉県,0,,-
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1355,PICO,東京都,1995,PICO,東京都,2489,PEACE,愛知県,0,,-
+GOLD,ANDROMEDA II,0,,-,995,YUDEX4,東京都,1933,STEEL*,神奈川県,2502,KYOGRE,韓国,0,,-
+GOLD,Air Bell,0,,-,998,PICO,東京都,1374,PICO,東京都,1733,1-PIN,埼玉県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,516,MAD2KI,長野県,928,RE*,和歌山県,1345,WA2.RB,愛知県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,338,MAD2KI,長野県,1020,IMOTO*,大阪府,1597,STEEL*,神奈川県,2058,PEACE,愛知県,0,,-
 DJ TROOPERS,少年A,0,,-,1268,KI.,千葉県,2191,ZENI,富山県,2862,U*TAKA,千葉県,0,,-
@@ -363,48 +405,6 @@ DJ TROOPERS,Be OK,0,,-,941,WWWWWW,神奈川県,1788,*ALEX*,静岡県,2428,PEACE,
 DJ TROOPERS,avant-guerre,0,,-,744,TORO,岡山県,1339,GOEMON,神奈川県,1955,PEACE,愛知県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1245,HATO,秋田県,2151,TKPU-3,埼玉県,2881,O24CUP,香川県,3914,U*TAKA,千葉県
 DJ TROOPERS,2 tribe 4 K,0,,-,900,*9N2*,神奈川県,1351,ARTE3S,福島県,2784,LILPA,韓国,0,,-
-GOLD,電人、暁に斃れる。,669,PPJT,神奈川県,1562,IMOTO*,大阪府,2442,718,大阪府,3438,KKM*,韓国,0,,-
-GOLD,零 - ZERO -,220,*9N2*,神奈川県,1192,IMOTO*,大阪府,1806,*ALEX*,静岡県,2321,OVER.V,大阪府,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,734,YUDEX2,愛知県,1146,PICO,東京都,1438,KOWAI,韓国,0,,-
-GOLD,星をこの手に,0,,-,1210,TAKPOP,愛知県,1857,PICO,東京都,2195,NCHO72,茨城県,0,,-
-GOLD,リグレット,0,,-,1300,RK,神奈川県,1774,G*,群馬県,2445,PEACE,愛知県,0,,-
-GOLD,ヨシダさん,0,,-,940,IMOTO*,大阪府,1453,IMOTO*,大阪府,1974,YAMADA,大分県,0,,-
-GOLD,クルクル☆ラブ～Opioid Peptide MIX～,432,GB-XTO,富山県,961,ALIKA,北海道,1529,PICO,東京都,2280,54GAYA,東京都,0,,-
-GOLD,With your Smile,0,,-,732,IMOTO*,大阪府,1193,IMOTO*,大阪府,1576,PEACE,愛知県,0,,-
-GOLD,Watch out!!,0,,-,747,PICO,東京都,1052,PICO,東京都,1650,CORIVE,岡山県,0,,-
-GOLD,VANESSA,0,,-,1165,WA2.RB,愛知県,1872,O24CUP,香川県,2451,LILPA,韓国,3493,KKM*,韓国
-GOLD,TRANOID,0,,-,825,3.MPS*,広島県,1838,PICO,東京都,2268,KUREI,愛知県,3045,U*TAKA,千葉県
-GOLD,The Smile of You,0,,-,944,IMOTO*,大阪府,1316,IMOTO*,大阪府,1630,YUDEX2,愛知県,0,,-
-GOLD,the shadow,0,,-,1221,HATO,秋田県,2121,AZARA4,埼玉県,2946,LILPA,韓国,0,,-
-GOLD,snow storm,236,*9N2*,神奈川県,806,IMOTO*,大阪府,2325,N!?,北海道,2814,U*TAKA,千葉県,3408,LILPA,韓国
-GOLD,smile,0,,-,1474,SHTOLA,大阪府,2167,KURA,東京都,2922,G*,群馬県,0,,-
-GOLD,Sense 2007,0,,-,1559,*ALEX*,静岡県,2345,O24CUP,香川県,3016,MIKAMO,東京都,0,,-
-GOLD,Second Heaven,224,*9N2*,神奈川県,996,STEEL*,神奈川県,1563,STEEL*,神奈川県,2135,LILPA,韓国,0,,-
-GOLD,Roulette,0,,-,892,1.2.3.,宮崎県,1461,GIGANT,和歌山県,2142,O24CUP,香川県,0,,-
-GOLD,PHOTONGENIC,0,,-,1349,KR-976,千葉県,1978,RE*,和歌山県,2324,54GAYA,東京都,0,,-
-GOLD,op.31 叙情,0,,-,633,NEODIO,青森県,1377,AMMKRN,愛知県,1650,DOLCE.,岩手県,0,,-
-GOLD,never…,0,,-,828,*BOMI*,熊本県,1381,GENO,和歌山県,1829,PEACE,愛知県,0,,-
-GOLD,METALLIC MIND,0,,-,895,DICE,東京都,1428,4KIB!,神奈川県,1650,PEACE,愛知県,0,,-
-GOLD,Make Me Your Own,0,,-,861,1.2.3.,宮崎県,1647,GIGANT,和歌山県,2166,KOWAI,韓国,0,,-
-GOLD,Love Again...,0,,-,586,IMOTO*,大阪府,800,IMOTO*,大阪府,1076,GOEMON,神奈川県,0,,-
-GOLD,LASER CRUSTER,0,,-,1450,DICE,東京都,2467,O24CUP,香川県,3271,KKM*,韓国,0,,-
-GOLD,KAMAITACHI,0,,-,1262,NO4CUP,山梨県,2042,AZARA4,埼玉県,2733,PEACE,愛知県,3944,KKM*,韓国
-GOLD,INORI,0,,-,1400,YUDEX4,東京都,2634,GIGANT,和歌山県,3224,LILPA,韓国,0,,-
-GOLD,High School Love,408,*9N2*,神奈川県,876,IMOTO*,大阪府,1567,DICE,東京都,2212,MOKA.A,茨城県,0,,-
-GOLD,heaven above,0,,-,813,WWWWWW,神奈川県,1408,IMOTO*,大阪府,1854,PEACE,愛知県,0,,-
-GOLD,GRID KNIGHT,0,,-,845,IMOTO*,大阪府,1997,MASAKI,神奈川県,2650,KUREI,愛知県,3488,WELLOW,神奈川県
-GOLD,GOLD RUSH,564,IMOTO*,大阪府,1216,PICO,東京都,1513,PICO,東京都,2393,DOLCE.,岩手県,0,,-
-GOLD,four-leaf,0,,-,756,Y.Y-LH,新潟県,1279,*ALEX*,静岡県,1729,KUREI,愛知県,0,,-
-GOLD,FIRE FIRE,574,IMOTO*,大阪府,1226,PICO,東京都,1837,BANARI,韓国,2808,LILPA,韓国,0,,-
-GOLD,Fascination MAXX,0,,-,1004,NEODIO,青森県,1719,GAHOU,神奈川県,2595,DOLCE.,岩手県,0,,-
-GOLD,Cyber Force,0,,-,1272,YUDEX4,東京都,1942,STEEL*,神奈川県,2399,PEACE,愛知県,0,,-
-GOLD,CROSSROAD ～Left Story～,0,,-,1142,AIKA,岡山県,1764,YUDEX2,愛知県,2194,STYU--,神奈川県,0,,-
-GOLD,CaptivAte～誓い～,0,,-,1352,PICO,東京都,2029,PICO,東京都,2254,MIKAMO,東京都,0,,-
-GOLD,CaptivAte～裁き～,428,IMOTO*,大阪府,864,B-RABI,滋賀県,1320,PICO,東京都,1794,KOWAI,韓国,0,,-
-GOLD,Candy Galy,0,,-,1599,PICO,東京都,2571,RE*,和歌山県,3590,U*TAKA,千葉県,0,,-
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1355,PICO,東京都,1995,PICO,東京都,2489,PEACE,愛知県,0,,-
-GOLD,ANDROMEDA II,0,,-,995,YUDEX4,東京都,1933,STEEL*,神奈川県,2502,KYOGRE,韓国,0,,-
-GOLD,Air Bell,0,,-,998,PICO,東京都,1374,PICO,東京都,1733,1-PIN,埼玉県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,948,IMOTO*,大阪府,1644,GENO,和歌山県,2196,1-PIN,埼玉県,0,,-
 EMPRESS,翼,0,,-,908,*BOMI*,熊本県,1528,RE*,和歌山県,1976,STYU--,神奈川県,2515,KOWAI,韓国
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,678,IMOTO*,大阪府,1395,STEEL*,神奈川県,2070,G*,群馬県,0,,-
@@ -557,7 +557,7 @@ Resort Anthem,BLUST OF WIND,0,,-,849,*BOMI*,熊本県,1598,IMOTO*,大阪府,2151
 Resort Anthem,Believe In Me,0,,-,1066,YUDEX4,東京都,1900,SHINPO,東京都,2413,KOWAI,韓国,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,978,IMOTO*,大阪府,1954,SLEEPY,栃木県,2966,LILPA,韓国,0,,-
 Resort Anthem,Answer,0,,-,786,IMOTO*,大阪府,1496,YUDEX2,愛知県,2443,MIKAMO,東京都,0,,-
-Resort Anthem,ALBIDA,534,IMOTO*,大阪府,1120,B-RABI,滋賀県,1990,RE*,和歌山県,3036,RIOO,富山県,0,,-
+Resort Anthem,ALBIDA,534,IMOTO*,大阪府,1120,B-RABI,滋賀県,1990,RE*,和歌山県,3038,SOMORI,福岡県,0,,-
 Resort Anthem,Aegis,0,,-,913,IMOTO*,大阪府,1426,N!?,北海道,2383,LILPA,韓国,0,,-
 Lincle,陽炎,0,,-,634,IMOTO*,大阪府,1211,MONO,愛知県,2020,KOWAI,韓国,0,,-
 Lincle,衰色小町メランコリア,0,,-,802,IMOTO*,大阪府,1419,IMOTO*,大阪府,2379,SEIRYU,千葉県,0,,-
@@ -641,7 +641,7 @@ tricoro,カジノファイヤーことみちゃん,0,,-,651,Y.Y-LH,新潟県,144
 tricoro,アストライアの双皿,0,,-,688,Y.Y-LH,新潟県,2175,N!?,北海道,3232,LILPA,韓国,0,,-
 tricoro,たまゆら,0,,-,1187,NO4CUP,山梨県,1912,BANARI,韓国,2798,1-PIN,埼玉県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,904,IMOTO*,大阪府,1583,T3N.*,山梨県,2232,KUREI,愛知県,3750,SOMORI,福岡県
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),246,*9N2*,神奈川県,558,IMOTO*,大阪府,1675,DIVE,新潟県,3648,U*TAKA,千葉県,0,,-
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),246,*9N2*,神奈川県,558,IMOTO*,大阪府,1686,YUDEX2,愛知県,3648,U*TAKA,千葉県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,1168,IMOTO*,大阪府,2127,RE*,和歌山県,3179,LILPA,韓国,3650,CHEPY.,韓国
 tricoro,Zirkfied,0,,-,1044,IMOTO*,大阪府,2056,RMRORO,神奈川県,3910,U*TAKA,千葉県,0,,-
 tricoro,ZED,0,,-,937,LEGACY,宮城県,1724,ONLOOK,沖縄県,2793,PEACE,愛知県,0,,-
@@ -651,7 +651,7 @@ tricoro,Valanga,0,,-,1343,PICO,東京都,2225,N!?,北海道,3280,PEACE,愛知県
 tricoro,True Blue,0,,-,1102,IMOTO*,大阪府,2545,MAJIN!,三重県,3789,.,韓国,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,997,PICO,東京都,1941,BANO,東京都,3061,CHEPY.,韓国,0,,-
 tricoro,Timepiece phase II,0,,-,1092,IMOTO*,大阪府,2260,BANO,東京都,3299,.,韓国,0,,-
-tricoro,Time To Empress,0,,-,934,IMOTO*,大阪府,1936,RE*,和歌山県,2641,CHEPY.,韓国,0,,-
+tricoro,Time To Empress,0,,-,934,IMOTO*,大阪府,1942,MUCC,北海道,2641,CHEPY.,韓国,0,,-
 tricoro,Thor's Hammer,0,,-,982,YUDEX2,愛知県,1851,N!?,北海道,3090,KKM*,韓国,0,,-
 tricoro,Take My Life,0,,-,978,VKANIV,北海道,1607,ITSUKI,岐阜県,2963,LILPA,韓国,0,,-
 tricoro,Synergy For Angels,0,,-,917,RYU,東京都,1717,PICO,東京都,2791,O24CUP,香川県,0,,-
@@ -732,7 +732,7 @@ SPADA,RISE,0,,-,931,INYS,岡山県,1388,DICE,東京都,1896,KOWAI,韓国,0,,-
 SPADA,refractive index,0,,-,745,WRC,福島県,1461,N!?,北海道,2717,LILPA,韓国,0,,-
 SPADA,Recollection,0,,-,1189,*BOMI*,熊本県,1764,RE*,和歌山県,2235,I6VV,神奈川県,0,,-
 SPADA,rainbow guitar weeps,0,,-,978,STEEL*,神奈川県,1876,STEEL*,神奈川県,2797,KKM*,韓国,0,,-
-SPADA,ra'am,0,,-,1290,DOLCE.,岩手県,1885,HA-,愛知県,2863,DOLCE.,岩手県,0,,-
+SPADA,ra'am,0,,-,1290,DOLCE.,岩手県,1885,HA-,愛知県,2864,OVER.V,大阪府,0,,-
 SPADA,PUNISHER,0,,-,1163,IMOTO*,大阪府,2146,I6VV,神奈川県,3607,.,韓国,0,,-
 SPADA,Pharaoh,0,,-,662,IMOTO*,大阪府,1444,RE*,和歌山県,2470,1-PIN,埼玉県,0,,-
 SPADA,Overload Frontier,0,,-,807,YUDEX4,東京都,1890,N!?,北海道,2652,DOLCE.,岩手県,0,,-
@@ -902,7 +902,7 @@ copula,Outbreak,0,,-,1347,IMOTO*,大阪府,1864,*ALEX*,静岡県,3039,SEIRYU,千
 copula,On the FM,0,,-,1139,MASAKI,神奈川県,1637,*ALEX*,静岡県,2824,CHEPY.,韓国,0,,-
 copula,NZM,0,,-,1086,MEW,東京都,1632,YUDEX2,愛知県,3538,U*TAKA,千葉県,0,,-
 copula,Nowhere,0,,-,879,YUDEX4,東京都,1507,GIGANT,和歌山県,2195,MIKAMO,東京都,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,840,MASAKI,神奈川県,1254,MONO,愛知県,2289,NIKE.,東京都,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,840,MASAKI,神奈川県,1254,MONO,愛知県,2290,U*TAKA,千葉県,0,,-
 copula,NINJA IS DEAD IIDX ver.,0,,-,1243,IMOTO*,大阪府,1957,PICO,東京都,3027,WELLOW,神奈川県,0,,-
 copula,Nightmare before oversleep,0,,-,1206,B-RABI,滋賀県,1938,SUIGIN,海外,2985,U*TAKA,千葉県,0,,-
 copula,NANAIRO,0,,-,1072,IMOTO*,大阪府,1847,RE*,和歌山県,2601,KOWAI,韓国,0,,-
@@ -1107,7 +1107,7 @@ CANNON BALLERS,Arca,0,,-,931,PPJT,神奈川県,1908,PPJT,神奈川県,3169,LILPA
 CANNON BALLERS,Antigravity,0,,-,1066,*BOMI*,熊本県,2009,MASAKI,神奈川県,3144,DOLCE.,岩手県,0,,-
 CANNON BALLERS,ANCHOR,0,,-,1358,IMOTO*,大阪府,2519,STEEL*,神奈川県,3641,KKM*,韓国,0,,-
 CANNON BALLERS,ANAGMA,0,,-,1040,PPJT,神奈川県,1839,IMOTO*,大阪府,2658,PPJT,神奈川県,0,,-
-CANNON BALLERS,Amor De Verao,0,,-,803,DICE,東京都,1442,PPJT,神奈川県,2364,U*TAKA,千葉県,0,,-
+CANNON BALLERS,Amor De Verao,0,,-,803,DICE,東京都,1442,PPJT,神奈川県,2367,PEACE,愛知県,0,,-
 CANNON BALLERS,Alpheratz,0,,-,436,IMOTO*,大阪府,1038,IMOTO*,大阪府,2098,MIKAMO,東京都,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1192,IMOTO*,大阪府,1782,IMOTO*,大阪府,2519,KOWAI,韓国,0,,-
 CANNON BALLERS,Abraxas,0,,-,804,PPJT,神奈川県,1670,Q-NO,和歌山県,2468,DOLCE.,岩手県,0,,-
@@ -1140,7 +1140,7 @@ Rootage,X-DEN,0,,-,1696,PPJT,神奈川県,2774,O24CUP,香川県,4284,A.HYSK,東�
 Rootage,Wonderland,0,,-,1075,MASAKI,神奈川県,1904,RE*,和歌山県,2779,KOWAI,韓国,0,,-
 Rootage,Won(*3*)Chu KissMe!,272,*9N2*,神奈川県,942,IMOTO*,大阪府,1417,IMOTO*,大阪府,2518,SEIRYU,千葉県,0,,-
 Rootage,Wolf 1061,0,,-,1032,IMOTO*,大阪府,1743,N!?,北海道,3151,O24CUP,香川県,0,,-
-Rootage,Wing of Hearts,0,,-,1130,YUDEX4,東京都,1822,GENO,和歌山県,2942,TETSUO,東京都,0,,-
+Rootage,Wing of Hearts,0,,-,1131,YUDEX2,愛知県,1822,GENO,和歌山県,2942,TETSUO,東京都,0,,-
 Rootage,voltississimo,0,,-,1212,PPJT,神奈川県,2230,PPJT,神奈川県,3718,CHEPY.,韓国,0,,-
 Rootage,Visterhv,0,,-,1276,B-RABI,滋賀県,2288,BANARI,韓国,3731,U*TAKA,千葉県,0,,-
 Rootage,Urban Constellations,0,,-,722,*BOMI*,熊本県,1519,DICE,東京都,2324,RIOO,富山県,0,,-
@@ -1175,7 +1175,7 @@ Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,914,*BOMI*,熊
 Rootage,Necroxis Girl,0,,-,1197,PICO,東京都,2030,PICO,東京都,2857,DOLCE.,岩手県,0,,-
 Rootage,Macho Monky,0,,-,1486,PICO,東京都,2177,BANARI,韓国,3126,CHEPY.,韓国,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1173,PICO,東京都,1942,PPJT,神奈川県,3579,CHEPY.,韓国,0,,-
-Rootage,Lift Us High,0,,-,986,MASAKI,神奈川県,1615,RE*,和歌山県,2482,YUI.OR,埼玉県,0,,-
+Rootage,Lift Us High,0,,-,986,MASAKI,神奈川県,1615,RE*,和歌山県,2482,CIIKAW,埼玉県,0,,-
 Rootage,Level One,0,,-,1285,DICE,東京都,2359,KOWAI,韓国,3669,DOLCE.,岩手県,0,,-
 Rootage,Lethal Weapon,0,,-,1193,SMILY.,千葉県,1908,PPJT,神奈川県,3258,DOLCE.,岩手県,0,,-
 Rootage,Let me be your cure,0,,-,1146,B-RABI,滋賀県,1436,IMOTO*,大阪府,2688,MIKAMO,東京都,0,,-
@@ -1210,7 +1210,7 @@ Rootage,Carry Me Away,536,TMR089,愛知県,1145,PPJT,神奈川県,1853,RE*,和�
 Rootage,Carmina,532,YUUNA*,岐阜県,1356,N!?,北海道,2521,PPJT,神奈川県,3911,U*TAKA,千葉県,0,,-
 Rootage,BLOSSOM,0,,-,1100,IMOTO*,大阪府,1680,N!?,北海道,2569,O24CUP,香川県,0,,-
 Rootage,BLACK JACKAL,0,,-,854,IMOTO*,大阪府,1614,PPJT,神奈川県,2353,KOWAI,韓国,0,,-
-Rootage,Afterimage d'automne,0,,-,1031,PPJT,神奈川県,1745,PPJT,神奈川県,2905,MIKAMO,東京都,0,,-
+Rootage,Afterimage d'automne,0,,-,1031,PPJT,神奈川県,1745,PPJT,神奈川県,2916,SOMORI,福岡県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1242,IMOTO*,大阪府,1664,*ALEX*,静岡県,2620,BBMT,愛知県,0,,-
 Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1086,PPJT,神奈川県,1689,BANARI,韓国,2676,CHEPY.,韓国,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,974,PICO,東京都,1558,GIGANT,和歌山県,2302,DOLCE.,岩手県,0,,-
@@ -1276,7 +1276,7 @@ HEROIC VERSE,Lost Souls,0,,-,714,PPJT,神奈川県,1706,PPJT,神奈川県,2469,P
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1081,PPJT,神奈川県,1870,NUFAN,神奈川県,3142,DOLCE.,岩手県,0,,-
 HEROIC VERSE,Like+it!,0,,-,1076,PPJT,神奈川県,1763,PPJT,神奈川県,2389,O24CUP,香川県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,474,GB-XTO,富山県,942,IMOTO*,大阪府,1708,KUREI,愛知県,3269,.,韓国,0,,-
-HEROIC VERSE,Level 2,0,,-,950,*BOMI*,熊本県,1740,SHINPO,東京都,2927,U*TAKA,千葉県,0,,-
+HEROIC VERSE,Level 2,0,,-,950,*BOMI*,熊本県,1740,SHINPO,東京都,2936,DOLCE.,岩手県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,798,IMOTO*,大阪府,1794,TAKMI,東京都,3612,.,韓国,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,868,PPJT,神奈川県,1416,N!?,北海道,2324,PEACE,愛知県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1042,PPJT,神奈川県,1925,KYOGRE,韓国,3327,U*TAKA,千葉県,0,,-
@@ -1289,7 +1289,7 @@ HEROIC VERSE,GHOST,0,,-,844,PPJT,神奈川県,1523,N!?,北海道,2790,KOWAI,韓�
 HEROIC VERSE,Friction[!]Function,0,,-,1116,PPJT,神奈川県,1816,N!?,北海道,3256,KKM*,韓国,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,888,RE*,和歌山県,1555,RE*,和歌山県,2393,343434,東京都,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,460,IMOTO*,大阪府,1112,PPJT,神奈川県,1648,TETSUO,東京都,0,,-
-HEROIC VERSE,EXCITE,332,IMOTO*,大阪府,830,IMOTO*,大阪府,1373,IMOTO*,大阪府,2243,YUI.OR,埼玉県,0,,-
+HEROIC VERSE,EXCITE,332,IMOTO*,大阪府,830,IMOTO*,大阪府,1373,IMOTO*,大阪府,2243,CIIKAW,埼玉県,0,,-
 HEROIC VERSE,EROICA,0,,-,1405,PICO,東京都,2363,PPJT,神奈川県,3998,KKM*,韓国,0,,-
 HEROIC VERSE,Duration,0,,-,544,IMOTO*,大阪府,1028,IMOTO*,大阪府,1953,MIKAMO,東京都,0,,-
 HEROIC VERSE,Drop It,0,,-,1410,PPJT,神奈川県,2030,BANARI,韓国,2807,MIKAMO,東京都,0,,-

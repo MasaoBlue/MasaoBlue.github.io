@@ -1,4 +1,11 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,457,INA-Q,新潟県,319,EMA,新潟県,635,AGYPO3,新潟県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,565,Y.Y-LH,新潟県,856,REO,新潟県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,746,IKA,新潟県,1083,INTAI,新潟県,1189,BLONK,新潟県,0,,-
+2nd style,I Was The One,0,,-,505,DERA3,新潟県,589,REST,新潟県,679,AGYPO3,新潟県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,875,REST,新潟県,1049,BLONK,新潟県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,622,MIKOTO,新潟県,898,REST,新潟県,1133,REO,新潟県,0,,-
+2nd style,.59,0,,-,647,ARA,新潟県,848,IKA,新潟県,1142,NADJA.,新潟県,0,,-
 1st&substream,THE EARTH LIGHT,0,,-,729,Y.Y-LH,新潟県,1029,DASCA,新潟県,1137,MORTIS,新潟県,0,,-
 1st&substream,RUGGED ASH,0,,-,330,MIKOTO,新潟県,388,WEDGE,新潟県,1058,AOI,新潟県,1994,HORIZN,新潟県
 1st&substream,R3,0,,-,628,Y.Y-LH,新潟県,707,CHINO*,新潟県,877,SIMCA7,新潟県,0,,-
@@ -13,13 +20,6 @@
 1st&substream,deep in you,0,,-,479,Y.Y-LH,新潟県,490,Y.Y-LH,新潟県,646,INTAI,新潟県,0,,-
 1st&substream,5.1.1.,0,,-,198,INTAI,新潟県,956,PLAYER,新潟県,1568,MAKO-G,新潟県,0,,-
 1st&substream,22DUNK,0,,-,481,DERA3,新潟県,592,Y.Y-LH,新潟県,640,AOI,新潟県,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,457,INA-Q,新潟県,319,EMA,新潟県,635,AGYPO3,新潟県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,565,Y.Y-LH,新潟県,856,REO,新潟県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,746,IKA,新潟県,1083,INTAI,新潟県,1189,BLONK,新潟県,0,,-
-2nd style,I Was The One,0,,-,505,DERA3,新潟県,589,REST,新潟県,679,AGYPO3,新潟県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,875,REST,新潟県,1049,BLONK,新潟県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,622,MIKOTO,新潟県,898,REST,新潟県,1133,REO,新潟県,0,,-
-2nd style,.59,0,,-,647,ARA,新潟県,848,IKA,新潟県,1142,NADJA.,新潟県,0,,-
 3rd style,THE SAFARI,357,SYOCHA,新潟県,1130,Y.Y-LH,新潟県,1736,REO,新潟県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,282,Y.Y-LH,新潟県,396,9MAMON,新潟県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,706,Y.Y-LH,新潟県,1184,PROTEX,新潟県,1226,BLONK,新潟県,0,,-
@@ -859,6 +859,87 @@ PENDUAL,Beyond The Earth,0,,-,1257,LEAFLY,新潟県,1994,DIVE,新潟県,3175,#PA
 PENDUAL,Beat Radiance,0,,-,975,PASTEL,新潟県,1621,SYOCHA,新潟県,2628,#PACHI,新潟県,3533,MAKO-G,新潟県
 PENDUAL,AFRO KNUCKLE,0,,-,798,SA1988,新潟県,1713,R,新潟県,2417,#PACHI,新潟県,0,,-
 PENDUAL,#The_Relentless,0,,-,1162,Y.Y-LH,新潟県,1875,96861,新潟県,2912,MAKO-G,新潟県,0,,-
+copula,麗 ～うらら～,264,SYOCHA,新潟県,975,NGT48,新潟県,1735,INTAI,新潟県,2629,#PACHI,新潟県,0,,-
+copula,駅猫のワルツ,0,,-,1109,Y.Y-LH,新潟県,2020,TKSHO,新潟県,2754,HORIZN,新潟県,0,,-
+copula,量子の海のリントヴルム,0,,-,890,Y.Y-LH,新潟県,1679,RYO,新潟県,2941,HORIZN,新潟県,0,,-
+copula,追想快晴テーマパーク,0,,-,1178,Y.Y-LH,新潟県,2053,TOROMU,新潟県,3088,#PACHI,新潟県,0,,-
+copula,紫陽花 -AZISAI-,315,ASYY,新潟県,1289,BLONK,新潟県,1965,MIZU1,新潟県,2854,#PACHI,新潟県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1395,Y.Y-LH,新潟県,2154,TKSHO,新潟県,3233,HORIZN,新潟県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1264,46KUMA,新潟県,2059,9MAMON,新潟県,3283,REO,新潟県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,943,MOYA?,新潟県,1650,SYOCHA,新潟県,2455,AXIOM.,新潟県,0,,-
+copula,星屑ディスタンシア,0,,-,704,Y.Y-LH,新潟県,1169,96861,新潟県,2102,HORIZN,新潟県,0,,-
+copula,明鏡止水,0,,-,729,POJI,新潟県,1801,TF25,新潟県,2684,IIDX29,新潟県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,661,XYZY,新潟県,1449,TOROMU,新潟県,2163,MAKO-G,新潟県,0,,-
+copula,セロトニン,0,,-,1267,Y.Y-LH,新潟県,1755,TOROMU,新潟県,2332,HORIZN,新潟県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,993,NANA77,新潟県,1733,SYOCHA,新潟県,2396,SOS!,新潟県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,822,Y.Y-LH,新潟県,1413,TF25,新潟県,2367,HORIZN,新潟県,0,,-
+copula,オルタネイトβ,0,,-,833,PASTEL,新潟県,1401,PASTEL,新潟県,2255,MAKO-G,新潟県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1494,TOROMU,新潟県,2288,DIVE,新潟県,3327,#PACHI,新潟県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,1172,Y.Y-LH,新潟県,1663,KISAKA,新潟県,2807,MAKO-G,新潟県,0,,-
+copula,ZEPHYRANTHES,0,,-,957,KAKA15,新潟県,1707,M.BLBN,新潟県,2937,#PACHI,新潟県,3739,M1M1,新潟県
+copula,X,0,,-,1578,TOROMU,新潟県,2409,CHINO*,新潟県,3786,AXIOM.,新潟県,0,,-
+copula,Welcome,0,,-,853,Y.Y-LH,新潟県,1742,MIZU1,新潟県,2546,DASCA,新潟県,3292,REO,新潟県
+copula,Violet Rose,0,,-,1224,TOROMU,新潟県,1557,VAL-K,新潟県,2587,HORIZN,新潟県,0,,-
+copula,Violet Pulse,0,,-,402,DOKUO,新潟県,1666,AGYPO3,新潟県,2373,DASCA,新潟県,0,,-
+copula,Uh-Oh,0,,-,1118,46KUMA,新潟県,1652,LEAFLY,新潟県,2392,#PACHI,新潟県,0,,-
+copula,Triple Counter,0,,-,1232,CLOVER,新潟県,2245,SOS!,新潟県,3912,#PACHI,新潟県,0,,-
+copula,Tori-no-kimochi,0,,-,248,KANADE,新潟県,1306,MAKO-G,新潟県,2011,HORIZN,新潟県,0,,-
+copula,SURVIVOR,0,,-,708,AGYPO3,新潟県,1282,AGYPO3,新潟県,2009,MAKO-G,新潟県,0,,-
+copula,Super Duper Racers,0,,-,945,Y.Y-LH,新潟県,1467,Y.Y-LH,新潟県,2334,SOS!,新潟県,0,,-
+copula,StrayedCatz,0,,-,1039,Y.Y-LH,新潟県,1886,INTAI,新潟県,2678,AXIOM.,新潟県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1231,MIZU1,新潟県,1767,LEAFLY,新潟県,2659,#PACHI,新潟県,3138,M1M1,新潟県
+copula,STARLiGHT,0,,-,694,TOMMEL,新潟県,1731,MIZU1,新潟県,2724,MAKO-G,新潟県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1424,Y.Y-LH,新潟県,1924,SYOCHA,新潟県,3054,REO,新潟県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,905,Y.Y-LH,新潟県,1048,WHITE,新潟県,2465,O3LU,新潟県,0,,-
+copula,Sephirot,0,,-,928,GAIA9,新潟県,1620,AGYPO3,新潟県,2320,MAKO-G,新潟県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,724,Y.Y-LH,新潟県,1126,LIZ,新潟県,2268,HORIZN,新潟県,0,,-
+copula,Routing,0,,-,927,Y.Y-LH,新潟県,1569,TOROMU,新潟県,2521,HORIZN,新潟県,0,,-
+copula,Rock It,0,,-,982,29CSTH,新潟県,1645,Y.Y-LH,新潟県,2939,MAKO-G,新潟県,0,,-
+copula,refrain,0,,-,1236,PASTEL,新潟県,2187,AAAA,新潟県,3522,REO,新潟県,0,,-
+copula,quick master (reform version),0,,-,153,BERI,新潟県,351,Y.Y-LH,新潟県,527,REO,新潟県,0,,-
+copula,POSSESSION,534,REO,新潟県,1389,BLONK,新潟県,2076,M1M1,新潟県,2926,AXIOM.,新潟県,0,,-
+copula,Outbreak,0,,-,1312,Y.Y-LH,新潟県,1840,MIZU1,新潟県,3010,REO,新潟県,0,,-
+copula,On the FM,0,,-,1123,AGYPO3,新潟県,1606,AGYPO3,新潟県,2756,MAKO-G,新潟県,0,,-
+copula,NZM,0,,-,1077,AGYPO3,新潟県,1534,MIZU1,新潟県,3372,MAKO-G,新潟県,0,,-
+copula,Nowhere,0,,-,841,Y.Y-LH,新潟県,1464,AOI,新潟県,2135,BLONK,新潟県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,828,Y.Y-LH,新潟県,1213,PASTEL,新潟県,2260,#PACHI,新潟県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,1214,Y.Y-LH,新潟県,1823,MIZU1,新潟県,3000,HORIZN,新潟県,0,,-
+copula,Nightmare before oversleep,0,,-,1073,Z88,新潟県,1886,R,新潟県,2912,MAKO-G,新潟県,0,,-
+copula,NANAIRO,0,,-,877,DOKUO,新潟県,1739,TOROMU,新潟県,2528,AGYPO3,新潟県,0,,-
+copula,Musik LoverZ,0,,-,1044,KANADE,新潟県,1364,MIZU1,新潟県,2495,#PACHI,新潟県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1400,BLONK,新潟県,2107,BLONK,新潟県,3005,REO,新潟県,0,,-
+copula,La dolce primavera,0,,-,685,Y.Y-LH,新潟県,1372,AGYPO3,新潟県,2157,MAKO-G,新潟県,0,,-
+copula,Konzert V,0,,-,1279,AGYPO3,新潟県,2201,INTAI,新潟県,3338,#PACHI,新潟県,0,,-
+copula,Journey,0,,-,689,Y.Y-LH,新潟県,1139,OMOMO3,新潟県,1881,HORIZN,新潟県,3122,HORIZN,新潟県
+copula,Inner Spirit,0,,-,827,DERA3,新潟県,1758,96KOGE,新潟県,2723,R,新潟県,0,,-
+copula,Highcharge Divolt,0,,-,896,MIZU1,新潟県,1730,SOS!,新潟県,2769,HORIZN,新潟県,0,,-
+copula,Grand Chariot,0,,-,1047,KISERP,新潟県,1789,SAICA,新潟県,3409,MAKO-G,新潟県,0,,-
+copula,Godspeed,0,,-,1030,TOROMU,新潟県,1838,INTAI,新潟県,3095,MAKO-G,新潟県,0,,-
+copula,GOBBLE,0,,-,481,Y.Y-LH,新潟県,656,Y.Y-LH,新潟県,1698,REO,新潟県,0,,-
+copula,Go Faraway,0,,-,0,,-,1468,PASTEL,新潟県,2430,OR,新潟県,0,,-
+copula,Glitch Nerds,0,,-,934,IKA,新潟県,1387,Q2,新潟県,2227,MAKO-G,新潟県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1123,Y.Y-LH,新潟県,1674,DE-SKE,新潟県,2350,REO,新潟県,0,,-
+copula,Exchange Place,0,,-,765,Y.Y-LH,新潟県,1141,REST,新潟県,1765,BLONK,新潟県,0,,-
+copula,Everlasting Last,0,,-,843,Y.Y-LH,新潟県,1535,96KOGE,新潟県,2226,AXIOM.,新潟県,0,,-
+copula,Dynamite,497,NGT48,新潟県,1210,Y.Y-LH,新潟県,2398,TKSHO,新潟県,3821,MAKO-G,新潟県,0,,-
+copula,Donkey Donk,0,,-,1129,BERI,新潟県,1617,SYOCHA,新潟県,2262,REO,新潟県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,597,Y.Y-RH,新潟県,1431,CHAMI,新潟県,2237,BLONK,新潟県,0,,-
+copula,DIAMOND CROSSING,0,,-,962,TOROMU,新潟県,1713,TKSHO,新潟県,3073,REO,新潟県,0,,-
+copula,Devil's Gear,0,,-,1026,MIZU1,新潟県,2223,SOS!,新潟県,3371,REO,新潟県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1362,MIZU1,新潟県,1747,96KOGE,新潟県,2642,#PACHI,新潟県,0,,-
+copula,Damage Per Second,0,,-,884,96KOGE,新潟県,1282,REST,新潟県,2034,R,新潟県,2252,R,新潟県
+copula,Daily Lunch Special,0,,-,1076,PASTEL,新潟県,1991,MARU,新潟県,2934,HORIZN,新潟県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,551,HIS123,新潟県,1680,KENTA6,新潟県,3097,#PACHI,新潟県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,566,UTO.SS,新潟県,1569,46KUMA,新潟県,2605,HORIZN,新潟県,0,,-
+copula,Central Station,0,,-,0,,-,1490,MIDO,新潟県,2405,MAKO-G,新潟県,0,,-
+copula,Blue Spring Express,0,,-,1260,TOROMU,新潟県,1949,TF25,新潟県,3272,HORIZN,新潟県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,883,Y.Y-LH,新潟県,2336,CORJ,新潟県,3260,#PACHI,新潟県,0,,-
+copula,Aublia,0,,-,774,ZEAL,新潟県,1510,TOROMU,新潟県,2551,#PACHI,新潟県,0,,-
+copula,Arcana,0,,-,853,UTO.SS,新潟県,1651,DE-SKE,新潟県,2269,REO,新潟県,0,,-
+copula,AO-1,0,,-,1209,TOROMU,新潟県,1911,TKSHO,新潟県,2773,#PACHI,新潟県,0,,-
+copula,Angelic Jelly,0,,-,955,SUBTIL,新潟県,2008,TKM,新潟県,2676,REO,新潟県,0,,-
+copula,Acid Pumper,0,,-,673,NUMEPO,新潟県,1556,R,新潟県,2472,#PACHI,新潟県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,704,PASTEL,新潟県,1625,9MAMON,新潟県,2357,#PACHI,新潟県,0,,-
 SINOBUZ,鴉,0,,-,1377,PANDA?,新潟県,2231,SOS!,新潟県,2684,MAKO-G,新潟県,0,,-
 SINOBUZ,童話回廊,0,,-,818,POJI,新潟県,1662,MIZU1,新潟県,3095,HORIZN,新潟県,0,,-
 SINOBUZ,禍根,0,,-,716,WAROP,新潟県,1322,MIZU1,新潟県,2573,MAKO-G,新潟県,0,,-
@@ -948,87 +1029,6 @@ SINOBUZ,Amazing Mirage,373,*SHO*,新潟県,868,KB,新潟県,1709,O3LU,新潟県,
 SINOBUZ,(This Is Not) The Angels,0,,-,568,REIMU,新潟県,1422,INTAI,新潟県,2705,#PACHI,新潟県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1168,SYOCHA,新潟県,1947,SYOCHA,新潟県,3404,HORIZN,新潟県,0,,-
 SINOBUZ,!Viva!,0,,-,870,SA1988,新潟県,1558,TOROMU,新潟県,1981,AGYPO3,新潟県,0,,-
-copula,麗 ～うらら～,264,SYOCHA,新潟県,975,NGT48,新潟県,1735,INTAI,新潟県,2629,#PACHI,新潟県,0,,-
-copula,駅猫のワルツ,0,,-,1109,Y.Y-LH,新潟県,2020,TKSHO,新潟県,2754,HORIZN,新潟県,0,,-
-copula,量子の海のリントヴルム,0,,-,890,Y.Y-LH,新潟県,1679,RYO,新潟県,2941,HORIZN,新潟県,0,,-
-copula,追想快晴テーマパーク,0,,-,1178,Y.Y-LH,新潟県,2053,TOROMU,新潟県,3088,#PACHI,新潟県,0,,-
-copula,紫陽花 -AZISAI-,315,ASYY,新潟県,1289,BLONK,新潟県,1965,MIZU1,新潟県,2854,#PACHI,新潟県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1395,Y.Y-LH,新潟県,2154,TKSHO,新潟県,3233,HORIZN,新潟県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1264,46KUMA,新潟県,2059,9MAMON,新潟県,3283,REO,新潟県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,943,MOYA?,新潟県,1650,SYOCHA,新潟県,2455,AXIOM.,新潟県,0,,-
-copula,星屑ディスタンシア,0,,-,704,Y.Y-LH,新潟県,1169,96861,新潟県,2102,HORIZN,新潟県,0,,-
-copula,明鏡止水,0,,-,729,POJI,新潟県,1801,TF25,新潟県,2684,IIDX29,新潟県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,661,XYZY,新潟県,1449,TOROMU,新潟県,2163,MAKO-G,新潟県,0,,-
-copula,セロトニン,0,,-,1267,Y.Y-LH,新潟県,1755,TOROMU,新潟県,2332,HORIZN,新潟県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,993,NANA77,新潟県,1733,SYOCHA,新潟県,2396,SOS!,新潟県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,822,Y.Y-LH,新潟県,1413,TF25,新潟県,2367,HORIZN,新潟県,0,,-
-copula,オルタネイトβ,0,,-,833,PASTEL,新潟県,1401,PASTEL,新潟県,2255,MAKO-G,新潟県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1494,TOROMU,新潟県,2288,DIVE,新潟県,3327,#PACHI,新潟県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,1172,Y.Y-LH,新潟県,1663,KISAKA,新潟県,2807,MAKO-G,新潟県,0,,-
-copula,ZEPHYRANTHES,0,,-,957,KAKA15,新潟県,1707,M.BLBN,新潟県,2937,#PACHI,新潟県,3739,M1M1,新潟県
-copula,X,0,,-,1578,TOROMU,新潟県,2409,CHINO*,新潟県,3786,AXIOM.,新潟県,0,,-
-copula,Welcome,0,,-,853,Y.Y-LH,新潟県,1742,MIZU1,新潟県,2546,DASCA,新潟県,3292,REO,新潟県
-copula,Violet Rose,0,,-,1224,TOROMU,新潟県,1557,VAL-K,新潟県,2587,HORIZN,新潟県,0,,-
-copula,Violet Pulse,0,,-,402,DOKUO,新潟県,1666,AGYPO3,新潟県,2373,DASCA,新潟県,0,,-
-copula,Uh-Oh,0,,-,1118,46KUMA,新潟県,1652,LEAFLY,新潟県,2392,#PACHI,新潟県,0,,-
-copula,Triple Counter,0,,-,1232,CLOVER,新潟県,2245,SOS!,新潟県,3912,#PACHI,新潟県,0,,-
-copula,Tori-no-kimochi,0,,-,248,KANADE,新潟県,1306,MAKO-G,新潟県,2011,HORIZN,新潟県,0,,-
-copula,SURVIVOR,0,,-,708,AGYPO3,新潟県,1282,AGYPO3,新潟県,2009,MAKO-G,新潟県,0,,-
-copula,Super Duper Racers,0,,-,945,Y.Y-LH,新潟県,1467,Y.Y-LH,新潟県,2334,SOS!,新潟県,0,,-
-copula,StrayedCatz,0,,-,1039,Y.Y-LH,新潟県,1886,INTAI,新潟県,2678,AXIOM.,新潟県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1231,MIZU1,新潟県,1767,LEAFLY,新潟県,2659,#PACHI,新潟県,3138,M1M1,新潟県
-copula,STARLiGHT,0,,-,694,TOMMEL,新潟県,1731,MIZU1,新潟県,2724,MAKO-G,新潟県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1424,Y.Y-LH,新潟県,1924,SYOCHA,新潟県,3054,REO,新潟県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,905,Y.Y-LH,新潟県,1048,WHITE,新潟県,2465,O3LU,新潟県,0,,-
-copula,Sephirot,0,,-,928,GAIA9,新潟県,1620,AGYPO3,新潟県,2320,MAKO-G,新潟県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,724,Y.Y-LH,新潟県,1126,LIZ,新潟県,2268,HORIZN,新潟県,0,,-
-copula,Routing,0,,-,927,Y.Y-LH,新潟県,1569,TOROMU,新潟県,2521,HORIZN,新潟県,0,,-
-copula,Rock It,0,,-,982,29CSTH,新潟県,1645,Y.Y-LH,新潟県,2939,MAKO-G,新潟県,0,,-
-copula,refrain,0,,-,1236,PASTEL,新潟県,2187,AAAA,新潟県,3522,REO,新潟県,0,,-
-copula,quick master (reform version),0,,-,153,BERI,新潟県,351,Y.Y-LH,新潟県,527,REO,新潟県,0,,-
-copula,POSSESSION,534,REO,新潟県,1389,BLONK,新潟県,2076,M1M1,新潟県,2926,AXIOM.,新潟県,0,,-
-copula,Outbreak,0,,-,1312,Y.Y-LH,新潟県,1840,MIZU1,新潟県,3010,REO,新潟県,0,,-
-copula,On the FM,0,,-,1123,AGYPO3,新潟県,1606,AGYPO3,新潟県,2756,MAKO-G,新潟県,0,,-
-copula,NZM,0,,-,1077,AGYPO3,新潟県,1534,MIZU1,新潟県,3372,MAKO-G,新潟県,0,,-
-copula,Nowhere,0,,-,841,Y.Y-LH,新潟県,1464,AOI,新潟県,2135,BLONK,新潟県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,828,Y.Y-LH,新潟県,1213,PASTEL,新潟県,2260,#PACHI,新潟県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,1214,Y.Y-LH,新潟県,1823,MIZU1,新潟県,3000,HORIZN,新潟県,0,,-
-copula,Nightmare before oversleep,0,,-,1073,Z88,新潟県,1886,R,新潟県,2912,MAKO-G,新潟県,0,,-
-copula,NANAIRO,0,,-,877,DOKUO,新潟県,1739,TOROMU,新潟県,2528,AGYPO3,新潟県,0,,-
-copula,Musik LoverZ,0,,-,1044,KANADE,新潟県,1364,MIZU1,新潟県,2495,#PACHI,新潟県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1400,BLONK,新潟県,2107,BLONK,新潟県,3005,REO,新潟県,0,,-
-copula,La dolce primavera,0,,-,685,Y.Y-LH,新潟県,1372,AGYPO3,新潟県,2157,MAKO-G,新潟県,0,,-
-copula,Konzert V,0,,-,1279,AGYPO3,新潟県,2201,INTAI,新潟県,3338,#PACHI,新潟県,0,,-
-copula,Journey,0,,-,689,Y.Y-LH,新潟県,1139,OMOMO3,新潟県,1881,HORIZN,新潟県,3122,HORIZN,新潟県
-copula,Inner Spirit,0,,-,827,DERA3,新潟県,1758,96KOGE,新潟県,2723,R,新潟県,0,,-
-copula,Highcharge Divolt,0,,-,896,MIZU1,新潟県,1730,SOS!,新潟県,2769,HORIZN,新潟県,0,,-
-copula,Grand Chariot,0,,-,1047,KISERP,新潟県,1789,SAICA,新潟県,3409,MAKO-G,新潟県,0,,-
-copula,Godspeed,0,,-,1030,TOROMU,新潟県,1838,INTAI,新潟県,3095,MAKO-G,新潟県,0,,-
-copula,GOBBLE,0,,-,481,Y.Y-LH,新潟県,656,Y.Y-LH,新潟県,1698,REO,新潟県,0,,-
-copula,Go Faraway,0,,-,0,,-,1468,PASTEL,新潟県,2430,OR,新潟県,0,,-
-copula,Glitch Nerds,0,,-,934,IKA,新潟県,1387,Q2,新潟県,2227,MAKO-G,新潟県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1123,Y.Y-LH,新潟県,1674,DE-SKE,新潟県,2350,REO,新潟県,0,,-
-copula,Exchange Place,0,,-,765,Y.Y-LH,新潟県,1141,REST,新潟県,1765,BLONK,新潟県,0,,-
-copula,Everlasting Last,0,,-,843,Y.Y-LH,新潟県,1535,96KOGE,新潟県,2226,AXIOM.,新潟県,0,,-
-copula,Dynamite,497,NGT48,新潟県,1210,Y.Y-LH,新潟県,2398,TKSHO,新潟県,3821,MAKO-G,新潟県,0,,-
-copula,Donkey Donk,0,,-,1129,BERI,新潟県,1617,SYOCHA,新潟県,2262,REO,新潟県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,597,Y.Y-RH,新潟県,1431,CHAMI,新潟県,2237,BLONK,新潟県,0,,-
-copula,DIAMOND CROSSING,0,,-,962,TOROMU,新潟県,1713,TKSHO,新潟県,3073,REO,新潟県,0,,-
-copula,Devil's Gear,0,,-,1026,MIZU1,新潟県,2223,SOS!,新潟県,3371,REO,新潟県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1362,MIZU1,新潟県,1747,96KOGE,新潟県,2642,#PACHI,新潟県,0,,-
-copula,Damage Per Second,0,,-,884,96KOGE,新潟県,1282,REST,新潟県,2034,R,新潟県,2252,R,新潟県
-copula,Daily Lunch Special,0,,-,1076,PASTEL,新潟県,1991,MARU,新潟県,2934,HORIZN,新潟県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,551,HIS123,新潟県,1680,KENTA6,新潟県,3097,#PACHI,新潟県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,566,UTO.SS,新潟県,1569,46KUMA,新潟県,2605,HORIZN,新潟県,0,,-
-copula,Central Station,0,,-,0,,-,1490,MIDO,新潟県,2405,MAKO-G,新潟県,0,,-
-copula,Blue Spring Express,0,,-,1260,TOROMU,新潟県,1949,TF25,新潟県,3272,HORIZN,新潟県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,883,Y.Y-LH,新潟県,2336,CORJ,新潟県,3260,#PACHI,新潟県,0,,-
-copula,Aublia,0,,-,774,ZEAL,新潟県,1510,TOROMU,新潟県,2551,#PACHI,新潟県,0,,-
-copula,Arcana,0,,-,853,UTO.SS,新潟県,1651,DE-SKE,新潟県,2269,REO,新潟県,0,,-
-copula,AO-1,0,,-,1209,TOROMU,新潟県,1911,TKSHO,新潟県,2773,#PACHI,新潟県,0,,-
-copula,Angelic Jelly,0,,-,955,SUBTIL,新潟県,2008,TKM,新潟県,2676,REO,新潟県,0,,-
-copula,Acid Pumper,0,,-,661,Y.Y-LH,新潟県,1556,R,新潟県,2472,#PACHI,新潟県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,704,PASTEL,新潟県,1625,9MAMON,新潟県,2357,#PACHI,新潟県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,698,Y.Y-LH,新潟県,1225,INTAI,新潟県,2317,HORIZN,新潟県,0,,-
 CANNON BALLERS,純真可憐デザイア,254,SYOCHA,新潟県,831,Y.Y-LH,新潟県,1598,M1M1,新潟県,2307,SOL.,新潟県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1382,PASTEL,新潟県,2454,33KIDS,新潟県,4010,#PACHI,新潟県,0,,-
