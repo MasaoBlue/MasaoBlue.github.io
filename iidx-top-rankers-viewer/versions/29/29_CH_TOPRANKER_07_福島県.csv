@@ -111,7 +111,7 @@
 7th style,AVE DE RAPINA,0,,-,1284,MINO,福島県,1529,WRC,福島県,1828,KOME-S,福島県,0,,-
 7th style,A,0,,-,1202,MINO,福島県,1970,2.TA!!,福島県,2491,U*PAFE,福島県,0,,-
 8th style,蒼い衝動,0,,-,913,WRC,福島県,1371,ARTE3S,福島県,1593,73K1Y9,福島県,0,,-
-8th style,桜,0,,-,923,AKZW,福島県,1409,AMANE,福島県,2121,U*PAFE,福島県,0,,-
+8th style,桜,0,,-,923,AKZW,福島県,1409,AMANE,福島県,2122,U*PAFE,福島県,0,,-
 8th style,xenon,0,,-,1042,WRC,福島県,1419,EILL,福島県,2709,07KING,福島県,0,,-
 8th style,World Wide Love,0,,-,700,WRC,福島県,1017,*5YNC*,福島県,1116,KOME-S,福島県,0,,-
 8th style,WAR GAME,0,,-,961,WRC,福島県,1521,WALZER,福島県,2140,07KING,福島県,0,,-
@@ -143,7 +143,7 @@
 9th style,SWEETEST SAVAGE,0,,-,609,KEISE,福島県,1239,2.TA!!,福島県,1780,KOME-S,福島県,0,,-
 9th style,Sweet Sweet Magic,0,,-,983,WRC,福島県,1362,WRC,福島県,2044,U*PAFE,福島県,0,,-
 9th style,STAR FIELD,0,,-,695,WRC,福島県,1487,DAIFU9,福島県,1860,KOME-S,福島県,0,,-
-9th style,SNOW,0,,-,909,KEISE,福島県,1184,KAICHO,福島県,1980,07KING,福島県,0,,-
+9th style,SNOW,0,,-,909,KEISE,福島県,1292,YUI,福島県,1980,07KING,福島県,0,,-
 9th style,Silvia Drive,0,,-,825,WRC,福島県,1435,SAK#9,福島県,2050,XWHW73,福島県,0,,-
 9th style,rottel-the-Mercury,0,,-,979,WRC,福島県,1799,RGDOLL,福島県,2259,KOME-S,福島県,0,,-
 9th style,RISLIM -Remix-,0,,-,720,KEISE,福島県,740,ZONE0,福島県,1867,07KING,福島県,0,,-
@@ -167,7 +167,7 @@
 9th style,BRIGHTNESS DARKNESS,0,,-,688,KEISE,福島県,1357,HITOMI,福島県,1735,XWHW73,福島県,0,,-
 9th style,bag,0,,-,722,FALK3N,福島県,1000,KAICHO,福島県,1888,CLA,福島県,0,,-
 9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,-,879,KEISE,福島県,1288,SAK#9,福島県,1794,07KING,福島県,0,,-
-9th style,ATOMIC AGE,0,,-,366,WRC,福島県,661,WRC,福島県,1276,KOME-S,福島県,0,,-
+9th style,ATOMIC AGE,0,,-,366,WRC,福島県,661,WRC,福島県,1305,ARTE3S,福島県,0,,-
 9th style,ACT,0,,-,1036,SORA,福島県,1702,ARTE3S,福島県,1850,KOME-S,福島県,0,,-
 9th style,Abyss -The Heavens Remix-,407,IIDX29,福島県,1374,WRC,福島県,1833,ARTE3S,福島県,2353,07KING,福島県,0,,-
 10th style,雪月花,0,,-,1157,SAK#9,福島県,1829,SORA,福島県,2461,U*PAFE,福島県,0,,-
@@ -212,7 +212,7 @@ IIDX RED,Sphere,0,,-,1032,KEISE,福島県,1859,CPU1,福島県,2191,U*PAFE,福島
 IIDX RED,SPEEDY CAT,0,,-,1092,SILVIA,福島県,1565,SAK#9,福島県,2025,07KING,福島県,0,,-
 IIDX RED,Secret of Love,0,,-,1023,KEISE,福島県,1332,AKZW,福島県,2003,07KING,福島県,0,,-
 IIDX RED,RESONATE 1794,0,,-,855,KEISE,福島県,1358,MEIK-L,福島県,1877,07KING,福島県,0,,-
-IIDX RED,RED ZONE,168,AAAA,福島県,1068,IIDX29,福島県,1883,ARTE3S,福島県,2329,07KING,福島県,3009,07KING,福島県
+IIDX RED,RED ZONE,168,AAAA,福島県,1068,IIDX29,福島県,1883,ARTE3S,福島県,2329,07KING,福島県,3011,KINYA,福島県
 IIDX RED,Raspberry Heart(English version),0,,-,967,KEISE,福島県,1467,KAOTEN,福島県,1854,U*PAFE,福島県,0,,-
 IIDX RED,NEBULA GRASPER,0,,-,1115,A!L35,福島県,1794,MANJUU,福島県,2339,GW,福島県,0,,-
 IIDX RED,KEY,0,,-,674,UDON,福島県,1758,DAIFU9,福島県,2851,07KING,福島県,0,,-
@@ -233,50 +233,6 @@ IIDX RED,awakening,0,,-,990,KEISE,福島県,1390,SORA,福島県,1675,KOME-S,福�
 IIDX RED,ANDROMEDA,0,,-,932,KEISE,福島県,1826,REA*,福島県,2866,U*PAFE,福島県,0,,-
 IIDX RED,AGEHA,435,WASA,福島県,742,SETZER,福島県,1718,WALZER,福島県,1890,U*PAFE,福島県,2427,U*PAFE,福島県
 IIDX RED,AA,0,,-,1228,SORA,福島県,2676,WALZER,福島県,3607,U*PAFE,福島県,0,,-
-HAPPY SKY,月光,0,,-,887,SORA,福島県,1720,IIDX29,福島県,2440,07KING,福島県,0,,-
-HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1040,KEISE,福島県,1533,SORA,福島県,1908,U*PAFE,福島県,0,,-
-HAPPY SKY,冥,572,KEISE,福島県,1026,9-LL,福島県,2041,WALZER,福島県,3768,U*PAFE,福島県,0,,-
-HAPPY SKY,ラクエン,0,,-,696,-FRAN-,福島県,863,HITOMI,福島県,1959,AEGIS,福島県,0,,-
-HAPPY SKY,ヒマワリ,0,,-,538,KEISE,福島県,1701,-0-IN-,福島県,2056,KOME-S,福島県,0,,-
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,674,KO9BUN,福島県,1381,WRC,福島県,1707,U*PAFE,福島県,0,,-
-HAPPY SKY,Xepher,373,H.R.R.,福島県,1017,163-N,福島県,1885,7COLOR,福島県,2976,07KING,福島県,0,,-
-HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,646,KEISE,福島県,778,ZONE0,福島県,1655,ARTE3S,福島県,0,,-
-HAPPY SKY,Votum stellarum,0,,-,597,DIAN07,福島県,1560,SAK#9,福島県,1934,AEGIS,福島県,0,,-
-HAPPY SKY,vault of heaven,0,,-,797,WRC,福島県,1339,SAK#9,福島県,2007,07KING,福島県,0,,-
-HAPPY SKY,Under the Sky,0,,-,861,KEISE,福島県,1363,SAK#9,福島県,1718,KOME-S,福島県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,1165,HITOMI,福島県,1388,KAOTEN,福島県,2026,07KING,福島県,3140,AEGIS,福島県
-HAPPY SKY,Tizona d'El Cid,0,,-,949,WRC,福島県,1725,SAK#9,福島県,2290,KOME-S,福島県,0,,-
-HAPPY SKY,SigSig,655,MINO,福島県,1074,WRC,福島県,1608,SAK#9,福島県,2595,U*PAFE,福島県,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1187,WRC,福島県,1459,AURA,福島県,2084,ARTE3S,福島県,0,,-
-HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1655,SORA,福島県,1867,MEIK-L,福島県,2472,07KING,福島県,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1332,GN,福島県,1944,TSU,福島県,3104,U*PAFE,福島県,3331,U*PAFE,福島県
-HAPPY SKY,SCREAM SQUAD,0,,-,979,163-N,福島県,1626,CPU1,福島県,2033,U*PAFE,福島県,0,,-
-HAPPY SKY,rage against usual,0,,-,1204,WRC,福島県,1950,AMANE,福島県,2962,U*PAFE,福島県,0,,-
-HAPPY SKY,POODLE,0,,-,916,KEISE,福島県,1801,I-L,福島県,2265,SECIL,福島県,3365,07KING,福島県
-HAPPY SKY,Pollinosis,0,,-,730,KEISE,福島県,893,AAAA,福島県,2519,U*PAFE,福島県,0,,-
-HAPPY SKY,PLASMA,0,,-,928,WRC,福島県,1666,ARTE3S,福島県,2277,U*PAFE,福島県,0,,-
-HAPPY SKY,Pink Rose,0,,-,559,KEISE,福島県,889,KEISE,福島県,1409,KOME-S,福島県,0,,-
-HAPPY SKY,MOON RACE,0,,-,748,KO9BUN,福島県,1097,082THK,福島県,1891,U*PAFE,福島県,0,,-
-HAPPY SKY,Love Magic,0,,-,934,KEISE,福島県,1511,AURA,福島県,1948,U*PAFE,福島県,0,,-
-HAPPY SKY,Little Little Princess,0,,-,912,VISTA.,福島県,2168,ARTE3S,福島県,2738,07KING,福島県,3719,AEGIS,福島県
-HAPPY SKY,LESSON 5,0,,-,1183,KEISE,福島県,1804,SORA,福島県,2481,07KING,福島県,0,,-
-HAPPY SKY,INAZUMA,0,,-,975,KEISE,福島県,1670,HITOMI,福島県,2678,07KING,福島県,0,,-
-HAPPY SKY,in motion,0,,-,785,HITOMI,福島県,1065,SORA,福島県,1304,ARTE3S,福島県,0,,-
-HAPPY SKY,I am,0,,-,1064,WRC,福島県,1541,A!L35,福島県,2144,KINYA,福島県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,618,KENO,福島県,1049,KEISE,福島県,1445,WRC,福島県,2083,07KING,福島県,0,,-
-HAPPY SKY,GREEN EYES,0,,-,949,AAAA,福島県,1352,KAICHO,福島県,2219,U*PAFE,福島県,0,,-
-HAPPY SKY,Get'em up to R.A.V.E,0,,-,1107,KEISE,福島県,1763,ARTE3S,福島県,2266,07KING,福島県,0,,-
-HAPPY SKY,garden,0,,-,699,SETZER,福島県,1334,IIDX20,福島県,2147,KOME-S,福島県,0,,-
-HAPPY SKY,First Resolution,0,,-,777,KEISE,福島県,1607,ARTE3S,福島県,2141,ARTE3S,福島県,0,,-
-HAPPY SKY,EMPTY OF THE SKY,0,,-,663,WRC,福島県,750,1023YA,福島県,1679,KINYA,福島県,0,,-
-HAPPY SKY,EDEN,0,,-,1297,SIYORI,福島県,1912,ARTE3S,福島県,2702,KOME-S,福島県,0,,-
-HAPPY SKY,double thrash,0,,-,734,AKO,福島県,2041,ARTE3S,福島県,2233,REA*,福島県,0,,-
-HAPPY SKY,Catch Me,0,,-,724,KEISE,福島県,1094,A!L35,福島県,1787,07KING,福島県,0,,-
-HAPPY SKY,CaptivAte～浄化～,0,,-,951,KEISE,福島県,1713,RGDOLL,福島県,2455,07KING,福島県,0,,-
-HAPPY SKY,Aurora,0,,-,1227,-RUKI-,福島県,1952,TSU,福島県,2522,07KING,福島県,0,,-
-HAPPY SKY,alla turca con passione,0,,-,731,A!L35,福島県,1583,SORA,福島県,2145,ARTE3S,福島県,0,,-
-HAPPY SKY,Agnus Dei,0,,-,860,KEISE,福島県,1552,IIDX29,福島県,2057,07KING,福島県,0,,-
-HAPPY SKY,100％ minimoo-G,0,,-,871,KEISE,福島県,1509,ECO-G,福島県,1676,AEGIS,福島県,0,,-
 DistorteD,虹色,0,,-,943,WRC,福島県,1372,WRC,福島県,1848,KOME-S,福島県,0,,-
 DistorteD,華蝶風雪,0,,-,1136,KEISE,福島県,2032,G0OJEA,福島県,2979,U*PAFE,福島県,0,,-
 DistorteD,罠,0,,-,565,WRC,福島県,1444,WRC,福島県,2448,07KING,福島県,0,,-
@@ -314,6 +270,50 @@ DistorteD,Bloody Tears(IIDX EDITION),0,,-,1080,HITOMI,福島県,1965,ARTE3S,福�
 DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,1068,SORA,福島県,1503,ARTE3S,福島県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,213,MASATO,福島県,938,ARCO,福島県,1533,HITOMI,福島県,2373,XWHW73,福島県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,428,KEISE,福島県,1007,MALO,福島県,1593,SAK#9,福島県,2085,U*PAFE,福島県,0,,-
+HAPPY SKY,月光,0,,-,887,SORA,福島県,1720,IIDX29,福島県,2440,07KING,福島県,0,,-
+HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1040,KEISE,福島県,1533,SORA,福島県,1908,U*PAFE,福島県,0,,-
+HAPPY SKY,冥,572,KEISE,福島県,1026,9-LL,福島県,2041,WALZER,福島県,3768,U*PAFE,福島県,0,,-
+HAPPY SKY,ラクエン,0,,-,696,-FRAN-,福島県,863,HITOMI,福島県,1959,AEGIS,福島県,0,,-
+HAPPY SKY,ヒマワリ,0,,-,538,KEISE,福島県,1701,-0-IN-,福島県,2056,KOME-S,福島県,0,,-
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,674,KO9BUN,福島県,1381,WRC,福島県,1707,U*PAFE,福島県,0,,-
+HAPPY SKY,Xepher,373,H.R.R.,福島県,1017,163-N,福島県,1885,7COLOR,福島県,2976,07KING,福島県,0,,-
+HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,646,KEISE,福島県,778,ZONE0,福島県,1655,ARTE3S,福島県,0,,-
+HAPPY SKY,Votum stellarum,0,,-,597,DIAN07,福島県,1560,SAK#9,福島県,1934,AEGIS,福島県,0,,-
+HAPPY SKY,vault of heaven,0,,-,797,WRC,福島県,1339,SAK#9,福島県,2007,07KING,福島県,0,,-
+HAPPY SKY,Under the Sky,0,,-,861,KEISE,福島県,1363,SAK#9,福島県,1718,KOME-S,福島県,0,,-
+HAPPY SKY,Twelfth Style,0,,-,1165,HITOMI,福島県,1388,KAOTEN,福島県,2026,07KING,福島県,3140,AEGIS,福島県
+HAPPY SKY,Tizona d'El Cid,0,,-,949,WRC,福島県,1725,SAK#9,福島県,2290,KOME-S,福島県,0,,-
+HAPPY SKY,SigSig,655,MINO,福島県,1074,WRC,福島県,1608,SAK#9,福島県,2595,U*PAFE,福島県,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1187,WRC,福島県,1459,AURA,福島県,2084,ARTE3S,福島県,0,,-
+HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1655,SORA,福島県,1867,MEIK-L,福島県,2472,07KING,福島県,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1332,GN,福島県,1944,TSU,福島県,3104,U*PAFE,福島県,3331,U*PAFE,福島県
+HAPPY SKY,SCREAM SQUAD,0,,-,979,163-N,福島県,1626,CPU1,福島県,2033,U*PAFE,福島県,0,,-
+HAPPY SKY,rage against usual,0,,-,1204,WRC,福島県,1950,AMANE,福島県,2962,U*PAFE,福島県,0,,-
+HAPPY SKY,POODLE,0,,-,916,KEISE,福島県,1801,I-L,福島県,2265,SECIL,福島県,3365,07KING,福島県
+HAPPY SKY,Pollinosis,0,,-,730,KEISE,福島県,893,AAAA,福島県,2519,U*PAFE,福島県,0,,-
+HAPPY SKY,PLASMA,0,,-,928,WRC,福島県,1666,ARTE3S,福島県,2277,U*PAFE,福島県,0,,-
+HAPPY SKY,Pink Rose,0,,-,559,KEISE,福島県,889,KEISE,福島県,1409,KOME-S,福島県,0,,-
+HAPPY SKY,MOON RACE,0,,-,748,KO9BUN,福島県,1097,082THK,福島県,1891,U*PAFE,福島県,0,,-
+HAPPY SKY,Love Magic,0,,-,934,KEISE,福島県,1511,AURA,福島県,1948,U*PAFE,福島県,0,,-
+HAPPY SKY,Little Little Princess,0,,-,912,VISTA.,福島県,2168,ARTE3S,福島県,2738,07KING,福島県,3719,AEGIS,福島県
+HAPPY SKY,LESSON 5,0,,-,1183,KEISE,福島県,1804,SORA,福島県,2481,07KING,福島県,0,,-
+HAPPY SKY,INAZUMA,0,,-,975,KEISE,福島県,1670,HITOMI,福島県,2678,07KING,福島県,0,,-
+HAPPY SKY,in motion,0,,-,785,HITOMI,福島県,1065,SORA,福島県,1304,ARTE3S,福島県,0,,-
+HAPPY SKY,I am,0,,-,1064,WRC,福島県,1541,A!L35,福島県,2144,KINYA,福島県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,618,KENO,福島県,1049,KEISE,福島県,1445,WRC,福島県,2083,07KING,福島県,0,,-
+HAPPY SKY,GREEN EYES,0,,-,949,AAAA,福島県,1352,KAICHO,福島県,2219,U*PAFE,福島県,0,,-
+HAPPY SKY,Get'em up to R.A.V.E,0,,-,1107,KEISE,福島県,1763,ARTE3S,福島県,2266,07KING,福島県,0,,-
+HAPPY SKY,garden,0,,-,699,SETZER,福島県,1334,IIDX20,福島県,2147,KOME-S,福島県,0,,-
+HAPPY SKY,First Resolution,0,,-,777,KEISE,福島県,1607,ARTE3S,福島県,2141,ARTE3S,福島県,0,,-
+HAPPY SKY,EMPTY OF THE SKY,0,,-,663,WRC,福島県,1011,HERMES,福島県,1679,KINYA,福島県,0,,-
+HAPPY SKY,EDEN,0,,-,1297,SIYORI,福島県,1912,ARTE3S,福島県,2702,KOME-S,福島県,0,,-
+HAPPY SKY,double thrash,0,,-,734,AKO,福島県,2041,ARTE3S,福島県,2233,REA*,福島県,0,,-
+HAPPY SKY,Catch Me,0,,-,724,KEISE,福島県,1094,A!L35,福島県,1787,07KING,福島県,0,,-
+HAPPY SKY,CaptivAte～浄化～,0,,-,951,KEISE,福島県,1713,RGDOLL,福島県,2455,07KING,福島県,0,,-
+HAPPY SKY,Aurora,0,,-,1227,-RUKI-,福島県,1952,TSU,福島県,2522,07KING,福島県,0,,-
+HAPPY SKY,alla turca con passione,0,,-,731,A!L35,福島県,1583,SORA,福島県,2145,ARTE3S,福島県,0,,-
+HAPPY SKY,Agnus Dei,0,,-,860,KEISE,福島県,1552,IIDX29,福島県,2057,07KING,福島県,0,,-
+HAPPY SKY,100％ minimoo-G,0,,-,871,KEISE,福島県,1509,ECO-G,福島県,1676,AEGIS,福島県,0,,-
 GOLD,電人、暁に斃れる。,430,T-CAT,福島県,1490,SORA,福島県,2206,AMANE,福島県,3295,07KING,福島県,0,,-
 GOLD,零 - ZERO -,215,AAAA,福島県,1110,-0-IN-,福島県,1682,&#9749,福島県,2302,07KING,福島県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,724,WRC,福島県,1084,SAK#9,福島県,1418,07KING,福島県,0,,-
@@ -329,7 +329,7 @@ GOLD,The Smile of You,0,,-,918,WRC,福島県,1222,-RUKI-,福島県,1627,73K1Y9,�
 GOLD,the shadow,0,,-,896,TETE,福島県,1731,DAIFU9,福島県,2909,U*PAFE,福島県,0,,-
 GOLD,snow storm,187,MPISTA,福島県,786,WRC,福島県,2249,ARTE3S,福島県,2734,07KING,福島県,3327,07KING,福島県
 GOLD,smile,0,,-,1458,SORA,福島県,1953,PICO*N,福島県,2908,U*PAFE,福島県,0,,-
-GOLD,Sense 2007,0,,-,1380,-0-IN-,福島県,2180,L42TAI,福島県,2847,XWHW73,福島県,0,,-
+GOLD,Sense 2007,0,,-,1380,-0-IN-,福島県,2180,L42TAI,福島県,2884,U*PAFE,福島県,0,,-
 GOLD,Second Heaven,196,MPISTA,福島県,941,WRC,福島県,1446,TSU,福島県,2119,U*PAFE,福島県,0,,-
 GOLD,Roulette,0,,-,862,KEISE,福島県,1281,SILVIA,福島県,2097,07KING,福島県,0,,-
 GOLD,PHOTONGENIC,0,,-,1240,HERMES,福島県,1793,DAIFU9,福島県,2311,07KING,福島県,0,,-
@@ -382,16 +382,16 @@ DJ TROOPERS,Rising in the Sun(original mix),0,,-,943,WRC,福島県,1575,SAK#9,�
 DJ TROOPERS,REMINISCENCE,0,,-,1218,KEISE,福島県,1850,ARTE3S,福島県,2317,4NOBIN,福島県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,599,WRC,福島県,1413,NARURU,福島県,1748,KOME-S,福島県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,1024,U18RU*,福島県,1764,4NOBIN,福島県,2618,U*PAFE,福島県,0,,-
-DJ TROOPERS,oratio,0,,-,1298,KEISE,福島県,1830,DAIFU9,福島県,2907,07KING,福島県,0,,-
+DJ TROOPERS,oratio,0,,-,1298,KEISE,福島県,1847,SISOO?,福島県,2907,07KING,福島県,0,,-
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,695,1023YA,福島県,1892,RGDOLL,福島県,2565,KOME-S,福島県,3504,4NOBIN,福島県
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,1099,KEISE,福島県,2011,G0OJEA,福島県,2764,07KING,福島県,0,,-
-DJ TROOPERS,MENDES,0,,-,1092,AAAA,福島県,2482,YOSHI,福島県,3589,U*PAFE,福島県,0,,-
+DJ TROOPERS,MENDES,0,,-,1092,AAAA,福島県,2542,4NOBIN,福島県,3589,U*PAFE,福島県,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,1372,MOON.,福島県,2175,ARTE3S,福島県,2680,07KING,福島県,0,,-
 DJ TROOPERS,madrugada,0,,-,683,KEISE,福島県,1102,I-L,福島県,1814,GW,福島県,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,0,,-,1870,MAMAN,福島県,2821,07KING,福島県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1113,KEISE,福島県,0,,-,2025,73K1Y9,福島県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1255,BNO31,福島県,1967,HERMES,福島県,2518,KINYA,福島県,0,,-
-DJ TROOPERS,ICARUS,0,,-,1174,KEISE,福島県,1930,AMANE,福島県,2302,KOME-S,福島県,3581,U*PAFE,福島県
+DJ TROOPERS,ICARUS,0,,-,1174,KEISE,福島県,1930,AMANE,福島県,2306,4NOBIN,福島県,3581,U*PAFE,福島県
 DJ TROOPERS,Freeway Shuffle,275,T-CAT,福島県,800,WRC,福島県,1145,NARURU,福島県,1857,WTMATE,福島県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,911,WRC,福島県,1668,AMANE,福島県,2253,07KING,福島県,0,,-
 DJ TROOPERS,end of world,0,,-,0,,-,1681,HITOMI,福島県,2455,07KING,福島県,0,,-
@@ -449,7 +449,7 @@ EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1117,KAICHO,福島県,1969,NARURU,福島県
 EMPRESS,Arabian Rave Night,0,,-,1230,WRC,福島県,2125,SCOLAR,福島県,2928,U*PAFE,福島県,3493,4NOBIN,福島県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,985,KEISE,福島県,1505,-RUKI-,福島県,2563,07KING,福島県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,635,MPISTA,福島県,1713,ARTE3S,福島県,2088,ARTE3S,福島県,0,,-
-EMPRESS,3y3s,540,KEISE,福島県,1421,AAAA,福島県,2445,WALZER,福島県,3467,U*PAFE,福島県,0,,-
+EMPRESS,3y3s,540,KEISE,福島県,1466,SORA,福島県,2445,WALZER,福島県,3467,U*PAFE,福島県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,710,WRC,福島県,1581,4RO9MA,福島県,2089,U*PAFE,福島県,0,,-
 SIRIUS,未来のプリズム,0,,-,698,WRC,福島県,1280,WRC,福島県,1754,ARTE3S,福島県,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1113,KEISE,福島県,2123,SORA,福島県,3224,U*PAFE,福島県,0,,-
@@ -462,13 +462,13 @@ SIRIUS,The Story Begins,0,,-,837,WRC,福島県,1792,REA*,福島県,2396,07KING,�
 SIRIUS,THE LAST STRIKER,0,,-,0,,-,1756,-FRAN-,福島県,2627,U*PAFE,福島県,0,,-
 SIRIUS,Special One,0,,-,435,MORO,福島県,719,IGRUU,福島県,1725,SIYORI,福島県,0,,-
 SIRIUS,Sorrows,0,,-,782,AAAA,福島県,1634,HERMES,福島県,2476,07KING,福島県,0,,-
-SIRIUS,SOLID STATE SQUAD,0,,-,723,1023YA,福島県,2104,G0OJEA,福島県,3541,U*PAFE,福島県,3496,07KING,福島県
+SIRIUS,SOLID STATE SQUAD,0,,-,723,1023YA,福島県,2104,G0OJEA,福島県,3541,U*PAFE,福島県,3497,WALZER,福島県
 SIRIUS,She is my wife,293,FUTTI,福島県,633,KEISE,福島県,1409,HITOMI,福島県,1961,WALZER,福島県,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,806,A!L35,福島県,1413,AKZW,福島県,2431,07KING,福島県,0,,-
 SIRIUS,Roots of my way!,0,,-,878,WRC,福島県,1353,ARTE3S,福島県,2032,07KING,福島県,0,,-
 SIRIUS,Red. by Full Metal Jacket,0,,-,1009,WRC,福島県,2021,RGDOLL,福島県,3098,U*PAFE,福島県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,1192,SILVIA,福島県,2148,ATH,福島県,2720,U*PAFE,福島県,0,,-
-SIRIUS,quell～the seventh slave～,0,,-,755,SETZER,福島県,1783,GWR.GR,福島県,3127,U*PAFE,福島県,0,,-
+SIRIUS,quell～the seventh slave～,0,,-,755,SETZER,福島県,1799,HAMITN,福島県,3127,U*PAFE,福島県,0,,-
 SIRIUS,Programmed Sun,0,,-,783,FALK3N,福島県,1775,HITOMI,福島県,2547,07KING,福島県,0,,-
 SIRIUS,NoN-Fiction Story!,0,,-,712,WRC,福島県,1308,WRC,福島県,2204,07KING,福島県,0,,-
 SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,978,MAXX,福島県,1915,SUZURI,福島県,2661,07KING,福島県,0,,-
@@ -504,7 +504,7 @@ SIRIUS,Almagest,0,,-,994,AKZW,福島県,2122,KINYA,福島県,3128,U*PAFE,福島�
 SIRIUS,AIR RAID FROM THA UNDAGROUND,401,ROWSI,福島県,1151,WRC,福島県,1750,SORA,福島県,2349,U*PAFE,福島県,2816,KINYA,福島県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,772,KEISE,福島県,1898,HITOMI,福島県,3406,U*PAFE,福島県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,548,KEISE,福島県,1076,AAAA,福島県,1919,KOME-S,福島県,3015,U*PAFE,福島県,0,,-
-Resort Anthem,旅人リラン,0,,-,920,SIG,福島県,1861,RGDOLL,福島県,2595,07KING,福島県,0,,-
+Resort Anthem,旅人リラン,0,,-,1139,SORA,福島県,1861,RGDOLL,福島県,2595,07KING,福島県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,964,SORA,福島県,1794,AKZW,福島県,2779,07KING,福島県,0,,-
 Resort Anthem,中華急行,0,,-,327,*HAMU*,福島県,1501,REA*,福島県,2319,07KING,福島県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,332,OCTY-M,福島県,755,AAAA,福島県,1148,-RUKI-,福島県,1873,KOME-S,福島県,0,,-
@@ -594,7 +594,7 @@ Lincle,Quick Silver,0,,-,777,KEISE,福島県,1621,DAIFU9,福島県,2627,07KING,�
 Lincle,quaver♪,283,RGDOLL,福島県,568,MAXX,福島県,2113,ARTE3S,福島県,3438,U*PAFE,福島県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1355,FUSEI3,福島県,2067,TSU,福島県,2925,U*PAFE,福島県,3514,AEGIS,福島県
 Lincle,prompt,0,,-,611,SETZER,福島県,1590,ARTE3S,福島県,2807,U*PAFE,福島県,0,,-
-Lincle,Phoenix,0,,-,863,HITOMI,福島県,1142,BNO31,福島県,2450,07KING,福島県,3625,9800MS,福島県
+Lincle,Phoenix,0,,-,863,HITOMI,福島県,1142,BNO31,福島県,2450,07KING,福島県,3721,4NOBIN,福島県
 Lincle,NNRT,0,,-,1242,WALZER,福島県,2398,CHAMA,福島県,3505,U*PAFE,福島県,0,,-
 Lincle,Miami Sunset Drive,0,,-,647,WRC,福島県,1054,SORA,福島県,1653,KOME-S,福島県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,777,MALO,福島県,1338,SIYORI,福島県,2050,73K1Y9,福島県,0,,-
@@ -769,7 +769,7 @@ SPADA,Dark Fall,0,,-,847,KEISE,福島県,1444,AURA,福島県,2763,U*PAFE,福島�
 SPADA,Critical Crystal,203,KENO,福島県,886,SIG,福島県,1712,BNO31,福島県,2894,07KING,福島県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1127,SILVIA,福島県,1986,SCOLAR,福島県,3378,07KING,福島県,3891,U*PAFE,福島県
 SPADA,Cleopatrysm,0,,-,759,KEISE,福島県,1345,NARURU,福島県,2595,U*PAFE,福島県,0,,-
-SPADA,Claiomh Solais,0,,-,343,WRC,福島県,948,MSGKAF,福島県,2081,KOME-S,福島県,0,,-
+SPADA,Claiomh Solais,0,,-,343,WRC,福島県,1437,ARTE3S,福島県,2081,KOME-S,福島県,0,,-
 SPADA,BRAVE OUT,0,,-,964,KEISE,福島県,1428,AKZW,福島県,2116,KINYA,福島県,0,,-
 SPADA,BRAINSTORM,0,,-,562,SETZER,福島県,2004,ARTE3S,福島県,2772,07KING,福島県,0,,-
 SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1421,MINO,福島県,2232,CHAMA,福島県,3339,U*PAFE,福島県,0,,-
@@ -816,7 +816,7 @@ PENDUAL,Shooting Fireball,0,,-,948,WRC,福島県,2089,DAI#,福島県,3817,07KING
 PENDUAL,Scars of FAUNA,0,,-,839,SAK#9,福島県,1595,082THK,福島県,2828,07KING,福島県,0,,-
 PENDUAL,Scarlet Moon,0,,-,1054,SILVIA,福島県,1794,HITOMI,福島県,2749,07KING,福島県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1068,MIKLK,福島県,1837,ARTE3S,福島県,3135,SIYORI,福島県,0,,-
-PENDUAL,SAMSARA,0,,-,860,WRC,福島県,1442,ARTE3S,福島県,2042,07KING,福島県,0,,-
+PENDUAL,SAMSARA,0,,-,860,WRC,福島県,1453,ARTE3S,福島県,2042,07KING,福島県,0,,-
 PENDUAL,Sakura Mirage,0,,-,928,KEISE,福島県,1277,NARURU,福島県,2338,07KING,福島県,0,,-
 PENDUAL,Reflux,0,,-,665,VISTA.,福島県,1533,9800MS,福島県,3039,U*PAFE,福島県,0,,-
 PENDUAL,Realize Maze,0,,-,958,*MELL*,福島県,2068,ARTE3S,福島県,2944,07KING,福島県,0,,-
@@ -859,87 +859,6 @@ PENDUAL,Beyond The Earth,0,,-,1257,WRC,福島県,1925,M-K2,福島県,3143,U*PAFE
 PENDUAL,Beat Radiance,0,,-,978,WRC,福島県,1601,HERMES,福島県,2626,KOME-S,福島県,3563,U*PAFE,福島県
 PENDUAL,AFRO KNUCKLE,0,,-,718,SETZER,福島県,1560,2.TA!!,福島県,2382,KOME-S,福島県,0,,-
 PENDUAL,#The_Relentless,0,,-,888,VISTA.,福島県,1904,SAK#9,福島県,2921,U*PAFE,福島県,0,,-
-copula,麗 ～うらら～,227,MPISTA,福島県,1123,CHAMA,福島県,1743,CHAMA,福島県,2615,07KING,福島県,0,,-
-copula,駅猫のワルツ,0,,-,911,RYUKA,福島県,2052,L42TAI,福島県,2784,U*PAFE,福島県,0,,-
-copula,量子の海のリントヴルム,0,,-,801,ACT,福島県,1695,BNO31,福島県,2972,U*PAFE,福島県,0,,-
-copula,追想快晴テーマパーク,0,,-,1007,DAIKI,福島県,1956,SUZURI,福島県,3042,07KING,福島県,0,,-
-copula,紫陽花 -AZISAI-,377,UZ.,福島県,1176,-RUKI-,福島県,1983,SCOLAR,福島県,2757,L42TAI,福島県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1354,KAICHO,福島県,2190,WTMATE,福島県,3100,KOME-S,福島県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1275,RGDOLL,福島県,2028,ARTE3S,福島県,3027,5LBATT,福島県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,788,VISTA.,福島県,1598,MANJON,福島県,2566,U*PAFE,福島県,0,,-
-copula,星屑ディスタンシア,0,,-,662,KO9BUN,福島県,1188,WRC,福島県,2061,KINYA,福島県,0,,-
-copula,明鏡止水,0,,-,794,163-N,福島県,1848,SORA,福島県,2703,KINYA,福島県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,655,VISTA.,福島県,1456,SAK#9,福島県,2182,U*PAFE,福島県,0,,-
-copula,セロトニン,0,,-,1318,SORA,福島県,1685,AKZW,福島県,2265,4NOBIN,福島県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,1125,SORA,福島県,1795,ARTE3S,福島県,2427,SIYORI,福島県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,820,WRC,福島県,1455,ARTE3S,福島県,2325,XWHW73,福島県,0,,-
-copula,オルタネイトβ,0,,-,815,SILVIA,福島県,1434,ARTE3S,福島県,2249,07KING,福島県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1439,SAK#9,福島県,2329,ARTE3S,福島県,3271,07KING,福島県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,989,NYU-L,福島県,1872,ARTE3S,福島県,2855,U*PAFE,福島県,0,,-
-copula,ZEPHYRANTHES,0,,-,989,?,福島県,1722,SUZURI,福島県,2939,U*PAFE,福島県,3734,07KING,福島県
-copula,X,0,,-,1466,AAAA,福島県,2444,YOSHI,福島県,3751,07KING,福島県,0,,-
-copula,Welcome,0,,-,828,KAOTEN,福島県,1602,SUZURI,福島県,2634,XWHW73,福島県,3235,07KING,福島県
-copula,Violet Rose,0,,-,1236,SORA,福島県,1822,RGDOLL,福島県,2506,L42TAI,福島県,0,,-
-copula,Violet Pulse,0,,-,423,KEISE,福島県,1466,KAICHO,福島県,2307,KOO,福島県,0,,-
-copula,Uh-Oh,0,,-,960,FALK3N,福島県,1460,AAAA,福島県,2389,07KING,福島県,0,,-
-copula,Triple Counter,0,,-,1300,BNO31,福島県,2102,DVMA2A,福島県,3834,07KING,福島県,0,,-
-copula,Tori-no-kimochi,0,,-,265,WRC,福島県,973,AAAA,福島県,2032,U*PAFE,福島県,0,,-
-copula,SURVIVOR,0,,-,704,?,福島県,1301,ARTE3S,福島県,2002,RUNO,福島県,0,,-
-copula,Super Duper Racers,0,,-,945,WRC,福島県,1445,NARURU,福島県,2305,GW,福島県,0,,-
-copula,StrayedCatz,0,,-,692,SETZER,福島県,1848,9-LL,福島県,2699,4NOBIN,福島県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1246,SORA,福島県,1853,ARTE3S,福島県,2661,U*PAFE,福島県,3248,07KING,福島県
-copula,STARLiGHT,0,,-,881,KEISE,福島県,1670,AKZW,福島県,2715,U*PAFE,福島県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1272,163-N,福島県,2004,ARTE3S,福島県,3057,U*PAFE,福島県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,514,YOMIN,福島県,1366,DAIFU9,福島県,2485,XWHW73,福島県,0,,-
-copula,Sephirot,0,,-,824,DIAN07,福島県,1524,082THK,福島県,2351,U*PAFE,福島県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,587,N.MFY,福島県,914,GUEST,福島県,2187,GWR.GR,福島県,0,,-
-copula,Routing,0,,-,909,WRC,福島県,1490,M1K4,福島県,2439,07KING,福島県,0,,-
-copula,Rock It,0,,-,1072,KEISE,福島県,1645,SORA,福島県,2915,RUNO,福島県,0,,-
-copula,refrain,0,,-,1128,FISH,福島県,2085,DAIFU9,福島県,3606,U*PAFE,福島県,0,,-
-copula,quick master (reform version),0,,-,159,WRC,福島県,344,WRC,福島県,528,KOME-S,福島県,0,,-
-copula,POSSESSION,510,KEISE,福島県,1382,TSU,福島県,2065,4NOBIN,福島県,2939,07KING,福島県,0,,-
-copula,Outbreak,0,,-,1010,SIG,福島県,1807,HERMES,福島県,3026,U*PAFE,福島県,0,,-
-copula,On the FM,0,,-,793,VISTA.,福島県,1457,NARURU,福島県,2713,07KING,福島県,0,,-
-copula,NZM,0,,-,891,RYUKA,福島県,1513,SA2KI,福島県,3405,U*PAFE,福島県,0,,-
-copula,Nowhere,0,,-,746,MAMAN,福島県,1434,SORA,福島県,2109,L42TAI,福島県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,822,WRC,福島県,1224,WRC,福島県,2247,07KING,福島県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,884,D0,福島県,1813,TSU,福島県,3027,U*PAFE,福島県,0,,-
-copula,Nightmare before oversleep,0,,-,1144,WRC,福島県,1850,AMANE,福島県,2958,U*PAFE,福島県,0,,-
-copula,NANAIRO,0,,-,1020,NMI.NU,福島県,1782,SORA,福島県,2577,U*PAFE,福島県,0,,-
-copula,Musik LoverZ,0,,-,1015,KEISE,福島県,1306,WRC,福島県,2441,KOME-S,福島県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1337,SAK#9,福島県,1978,SCOLAR,福島県,3015,U*PAFE,福島県,0,,-
-copula,La dolce primavera,0,,-,648,MIKLK,福島県,1338,SORA,福島県,2172,U*PAFE,福島県,0,,-
-copula,Konzert V,0,,-,1021,SETZER,福島県,2010,CAT2DX,福島県,3250,WTMATE,福島県,0,,-
-copula,Journey,0,,-,288,IIDX29,福島県,1090,163-N,福島県,1853,KOME-S,福島県,3120,U*PAFE,福島県
-copula,Inner Spirit,0,,-,821,KENO,福島県,1676,AKZW,福島県,2839,U*PAFE,福島県,0,,-
-copula,Highcharge Divolt,0,,-,659,SHIGE,福島県,1602,7*SE,福島県,2799,U*PAFE,福島県,0,,-
-copula,Grand Chariot,0,,-,1122,IIDX29,福島県,1689,SA2KI,福島県,3332,07KING,福島県,0,,-
-copula,Godspeed,0,,-,929,-RUKI-,福島県,1822,APINYA,福島県,3078,07KING,福島県,0,,-
-copula,GOBBLE,0,,-,470,MINO,福島県,680,YUI,福島県,1675,SIYORI,福島県,0,,-
-copula,Go Faraway,0,,-,993,KEISE,福島県,1514,ARTE3S,福島県,2442,ARTE3S,福島県,0,,-
-copula,Glitch Nerds,0,,-,976,KEISE,福島県,1381,SORA,福島県,2177,4NOBIN,福島県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1068,KEISE,福島県,1774,ARTE3S,福島県,2331,KOME-S,福島県,0,,-
-copula,Exchange Place,0,,-,764,WRC,福島県,1201,WRC,福島県,1742,L42TAI,福島県,0,,-
-copula,Everlasting Last,0,,-,836,WRC,福島県,1541,SAK#9,福島県,2185,GWR.GR,福島県,0,,-
-copula,Dynamite,533,KEISE,福島県,1192,IIDX29,福島県,2441,ARTE3S,福島県,3831,U*PAFE,福島県,0,,-
-copula,Donkey Donk,0,,-,1131,SILVIA,福島県,1716,ARTE3S,福島県,2254,07KING,福島県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,628,WRC,福島県,1449,SAK#9,福島県,2298,KOME-S,福島県,0,,-
-copula,DIAMOND CROSSING,0,,-,973,SAK#9,福島県,1691,SCOLAR,福島県,2952,07KING,福島県,0,,-
-copula,Devil's Gear,0,,-,982,-FRAN-,福島県,2128,G0OJEA,福島県,3474,U*PAFE,福島県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,838,RA,福島県,1801,SAK#9,福島県,2601,07KING,福島県,0,,-
-copula,Damage Per Second,0,,-,857,WRC,福島県,1291,WRC,福島県,2030,KOME-S,福島県,2271,WTMATE,福島県
-copula,Daily Lunch Special,0,,-,781,SETZER,福島県,2154,ARTE3S,福島県,2925,07KING,福島県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,956,KEISE,福島県,1585,PICO*N,福島県,3119,U*PAFE,福島県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,0,,-,1588,AKZW,福島県,2611,U*PAFE,福島県,0,,-
-copula,Central Station,0,,-,993,KEISE,福島県,1474,AKZW,福島県,2373,07KING,福島県,0,,-
-copula,Blue Spring Express,0,,-,1192,MELOBO,福島県,1856,HITOMI,福島県,3187,07KING,福島県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,384,BEBTN,福島県,2402,DVMA2A,福島県,3192,07KING,福島県,0,,-
-copula,Aublia,0,,-,0,,-,1109,TAMA,福島県,2440,COLA,福島県,0,,-
-copula,Arcana,0,,-,1141,SAK#9,福島県,1717,9800MS,福島県,2212,COLA,福島県,0,,-
-copula,AO-1,0,,-,1195,I-L,福島県,1863,SCOLAR,福島県,2719,TOSH,福島県,0,,-
-copula,Angelic Jelly,0,,-,953,MAXX,福島県,1982,7*SE,福島県,2700,SIYORI,福島県,0,,-
-copula,Acid Pumper,0,,-,657,HITOMI,福島県,1590,ARTE3S,福島県,2410,SIYORI,福島県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,665,HITOMI,福島県,1593,RGDOLL,福島県,2292,U*PAFE,福島県,0,,-
 SINOBUZ,鴉,0,,-,1492,SORA,福島県,2154,APINYA,福島県,2679,07KING,福島県,0,,-
 SINOBUZ,童話回廊,0,,-,850,KEISE,福島県,1548,NARURU,福島県,3021,U*PAFE,福島県,0,,-
 SINOBUZ,禍根,0,,-,802,WRC,福島県,1326,SORA,福島県,2493,FUTABA,福島県,0,,-
@@ -1029,6 +948,87 @@ SINOBUZ,Amazing Mirage,304,MPISTA,福島県,869,KAICHO,福島県,1695,SAGA,福�
 SINOBUZ,(This Is Not) The Angels,0,,-,580,KAICHO,福島県,1389,73K1Y9,福島県,2683,U*PAFE,福島県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1034,H9BZZA,福島県,1929,9800MS,福島県,3415,U*PAFE,福島県,0,,-
 SINOBUZ,!Viva!,0,,-,902,KEISE,福島県,1427,EILL,福島県,2005,KOME-S,福島県,0,,-
+copula,麗 ～うらら～,227,MPISTA,福島県,1123,CHAMA,福島県,1743,CHAMA,福島県,2615,07KING,福島県,0,,-
+copula,駅猫のワルツ,0,,-,911,RYUKA,福島県,2052,L42TAI,福島県,2784,U*PAFE,福島県,0,,-
+copula,量子の海のリントヴルム,0,,-,801,ACT,福島県,1695,BNO31,福島県,2972,U*PAFE,福島県,0,,-
+copula,追想快晴テーマパーク,0,,-,1007,DAIKI,福島県,1956,SUZURI,福島県,3042,07KING,福島県,0,,-
+copula,紫陽花 -AZISAI-,377,UZ.,福島県,1176,-RUKI-,福島県,1983,SCOLAR,福島県,2757,L42TAI,福島県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1354,KAICHO,福島県,2190,WTMATE,福島県,3100,KOME-S,福島県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1275,RGDOLL,福島県,2028,ARTE3S,福島県,3027,5LBATT,福島県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,788,VISTA.,福島県,1598,MANJON,福島県,2566,U*PAFE,福島県,0,,-
+copula,星屑ディスタンシア,0,,-,662,KO9BUN,福島県,1188,WRC,福島県,2061,KINYA,福島県,0,,-
+copula,明鏡止水,0,,-,794,163-N,福島県,1848,SORA,福島県,2703,KINYA,福島県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,655,VISTA.,福島県,1456,SAK#9,福島県,2182,U*PAFE,福島県,0,,-
+copula,セロトニン,0,,-,1318,SORA,福島県,1685,AKZW,福島県,2265,4NOBIN,福島県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,1125,SORA,福島県,1795,ARTE3S,福島県,2427,SIYORI,福島県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,820,WRC,福島県,1455,ARTE3S,福島県,2325,XWHW73,福島県,0,,-
+copula,オルタネイトβ,0,,-,815,SILVIA,福島県,1434,ARTE3S,福島県,2249,07KING,福島県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1439,SAK#9,福島県,2329,ARTE3S,福島県,3271,07KING,福島県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,989,NYU-L,福島県,1872,ARTE3S,福島県,2855,U*PAFE,福島県,0,,-
+copula,ZEPHYRANTHES,0,,-,989,?,福島県,1722,SUZURI,福島県,2939,U*PAFE,福島県,3734,07KING,福島県
+copula,X,0,,-,1466,AAAA,福島県,2444,YOSHI,福島県,3751,07KING,福島県,0,,-
+copula,Welcome,0,,-,828,KAOTEN,福島県,1602,SUZURI,福島県,2634,XWHW73,福島県,3235,07KING,福島県
+copula,Violet Rose,0,,-,1236,SORA,福島県,1822,RGDOLL,福島県,2506,L42TAI,福島県,0,,-
+copula,Violet Pulse,0,,-,423,KEISE,福島県,1466,KAICHO,福島県,2307,KOO,福島県,0,,-
+copula,Uh-Oh,0,,-,960,FALK3N,福島県,1460,AAAA,福島県,2389,07KING,福島県,0,,-
+copula,Triple Counter,0,,-,1300,BNO31,福島県,2102,DVMA2A,福島県,3834,07KING,福島県,0,,-
+copula,Tori-no-kimochi,0,,-,265,WRC,福島県,973,AAAA,福島県,2032,U*PAFE,福島県,0,,-
+copula,SURVIVOR,0,,-,704,?,福島県,1301,ARTE3S,福島県,2002,RUNO,福島県,0,,-
+copula,Super Duper Racers,0,,-,945,WRC,福島県,1445,NARURU,福島県,2305,GW,福島県,0,,-
+copula,StrayedCatz,0,,-,692,SETZER,福島県,1850,SCOLAR,福島県,2699,4NOBIN,福島県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1246,SORA,福島県,1853,ARTE3S,福島県,2661,U*PAFE,福島県,3248,07KING,福島県
+copula,STARLiGHT,0,,-,881,KEISE,福島県,1670,AKZW,福島県,2715,U*PAFE,福島県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1272,163-N,福島県,2004,ARTE3S,福島県,3057,U*PAFE,福島県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,514,YOMIN,福島県,1366,DAIFU9,福島県,2485,XWHW73,福島県,0,,-
+copula,Sephirot,0,,-,824,DIAN07,福島県,1524,082THK,福島県,2351,U*PAFE,福島県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,587,N.MFY,福島県,914,GUEST,福島県,2187,GWR.GR,福島県,0,,-
+copula,Routing,0,,-,909,WRC,福島県,1537,SCOLAR,福島県,2439,07KING,福島県,0,,-
+copula,Rock It,0,,-,1072,KEISE,福島県,1645,SORA,福島県,2915,RUNO,福島県,0,,-
+copula,refrain,0,,-,1128,FISH,福島県,2085,DAIFU9,福島県,3606,U*PAFE,福島県,0,,-
+copula,quick master (reform version),0,,-,159,WRC,福島県,344,WRC,福島県,528,KOME-S,福島県,0,,-
+copula,POSSESSION,510,KEISE,福島県,1382,TSU,福島県,2065,4NOBIN,福島県,2939,07KING,福島県,0,,-
+copula,Outbreak,0,,-,1010,SIG,福島県,1807,HERMES,福島県,3026,U*PAFE,福島県,0,,-
+copula,On the FM,0,,-,793,VISTA.,福島県,1457,NARURU,福島県,2713,07KING,福島県,0,,-
+copula,NZM,0,,-,891,RYUKA,福島県,1513,SA2KI,福島県,3405,U*PAFE,福島県,0,,-
+copula,Nowhere,0,,-,746,MAMAN,福島県,1434,SORA,福島県,2109,L42TAI,福島県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,822,WRC,福島県,1224,WRC,福島県,2247,07KING,福島県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,884,D0,福島県,1813,TSU,福島県,3027,U*PAFE,福島県,0,,-
+copula,Nightmare before oversleep,0,,-,1144,WRC,福島県,1850,AMANE,福島県,2958,U*PAFE,福島県,0,,-
+copula,NANAIRO,0,,-,1020,NMI.NU,福島県,1782,SORA,福島県,2577,U*PAFE,福島県,0,,-
+copula,Musik LoverZ,0,,-,1015,KEISE,福島県,1306,WRC,福島県,2441,KOME-S,福島県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1337,SAK#9,福島県,1978,SCOLAR,福島県,3015,U*PAFE,福島県,0,,-
+copula,La dolce primavera,0,,-,648,MIKLK,福島県,1338,SORA,福島県,2172,U*PAFE,福島県,0,,-
+copula,Konzert V,0,,-,1021,SETZER,福島県,2010,CAT2DX,福島県,3250,WTMATE,福島県,0,,-
+copula,Journey,0,,-,288,IIDX29,福島県,1090,163-N,福島県,1853,KOME-S,福島県,3120,U*PAFE,福島県
+copula,Inner Spirit,0,,-,821,KENO,福島県,1676,AKZW,福島県,2839,U*PAFE,福島県,0,,-
+copula,Highcharge Divolt,0,,-,659,SHIGE,福島県,1602,7*SE,福島県,2799,U*PAFE,福島県,0,,-
+copula,Grand Chariot,0,,-,1122,IIDX29,福島県,1689,SA2KI,福島県,3332,07KING,福島県,0,,-
+copula,Godspeed,0,,-,929,-RUKI-,福島県,1822,APINYA,福島県,3078,07KING,福島県,0,,-
+copula,GOBBLE,0,,-,470,MINO,福島県,680,YUI,福島県,1675,SIYORI,福島県,0,,-
+copula,Go Faraway,0,,-,993,KEISE,福島県,1514,ARTE3S,福島県,2442,ARTE3S,福島県,0,,-
+copula,Glitch Nerds,0,,-,976,KEISE,福島県,1381,SORA,福島県,2177,4NOBIN,福島県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1068,KEISE,福島県,1774,ARTE3S,福島県,2331,KOME-S,福島県,0,,-
+copula,Exchange Place,0,,-,764,WRC,福島県,1201,WRC,福島県,1742,L42TAI,福島県,0,,-
+copula,Everlasting Last,0,,-,836,WRC,福島県,1541,SAK#9,福島県,2185,GWR.GR,福島県,0,,-
+copula,Dynamite,533,KEISE,福島県,1192,IIDX29,福島県,2441,ARTE3S,福島県,3831,U*PAFE,福島県,0,,-
+copula,Donkey Donk,0,,-,1131,SILVIA,福島県,1716,ARTE3S,福島県,2254,07KING,福島県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,628,WRC,福島県,1449,SAK#9,福島県,2298,KOME-S,福島県,0,,-
+copula,DIAMOND CROSSING,0,,-,973,SAK#9,福島県,1691,SCOLAR,福島県,2952,07KING,福島県,0,,-
+copula,Devil's Gear,0,,-,982,-FRAN-,福島県,2128,G0OJEA,福島県,3474,U*PAFE,福島県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,838,RA,福島県,1801,SAK#9,福島県,2601,07KING,福島県,0,,-
+copula,Damage Per Second,0,,-,857,WRC,福島県,1291,WRC,福島県,2030,KOME-S,福島県,2271,WTMATE,福島県
+copula,Daily Lunch Special,0,,-,781,SETZER,福島県,2154,ARTE3S,福島県,2925,07KING,福島県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,956,KEISE,福島県,1585,PICO*N,福島県,3119,U*PAFE,福島県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,0,,-,1588,AKZW,福島県,2611,U*PAFE,福島県,0,,-
+copula,Central Station,0,,-,993,KEISE,福島県,1474,AKZW,福島県,2373,07KING,福島県,0,,-
+copula,Blue Spring Express,0,,-,1192,MELOBO,福島県,1856,HITOMI,福島県,3187,07KING,福島県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,384,BEBTN,福島県,2402,DVMA2A,福島県,3192,07KING,福島県,0,,-
+copula,Aublia,0,,-,0,,-,1109,TAMA,福島県,2440,COLA,福島県,0,,-
+copula,Arcana,0,,-,1141,SAK#9,福島県,1717,9800MS,福島県,2212,COLA,福島県,0,,-
+copula,AO-1,0,,-,1195,I-L,福島県,1863,SCOLAR,福島県,2719,TOSH,福島県,0,,-
+copula,Angelic Jelly,0,,-,953,MAXX,福島県,1982,7*SE,福島県,2700,SIYORI,福島県,0,,-
+copula,Acid Pumper,0,,-,657,HITOMI,福島県,1590,ARTE3S,福島県,2410,SIYORI,福島県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,665,HITOMI,福島県,1593,RGDOLL,福島県,2292,U*PAFE,福島県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,695,WRC,福島県,1240,ARTE3S,福島県,2331,U*PAFE,福島県,0,,-
 CANNON BALLERS,純真可憐デザイア,251,WRC,福島県,828,WRC,福島県,1543,SAK#9,福島県,2318,07KING,福島県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1330,KAICHO,福島県,2521,ARTE3S,福島県,3946,07KING,福島県,0,,-
@@ -1086,7 +1086,7 @@ CANNON BALLERS,Fervidex,0,,-,827,KAICHO,福島県,1769,HERMES,福島県,2706,U*P
 CANNON BALLERS,Expanded !!,0,,-,681,WRC,福島県,1487,DAIFU9,福島県,2599,RUNO,福島県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,990,KAICHO,福島県,1800,ALYCE,福島県,2786,07KING,福島県,0,,-
 CANNON BALLERS,encounter,0,,-,954,KEISE,福島県,1697,SORA,福島県,3264,U*PAFE,福島県,0,,-
-CANNON BALLERS,EMERALDAS,499,SILVIA,福島県,1231,KAICHO,福島県,2345,L42TAI,福島県,3462,U*PAFE,福島県,0,,-
+CANNON BALLERS,EMERALDAS,499,SILVIA,福島県,1284,G0OJEA,福島県,2345,L42TAI,福島県,3462,U*PAFE,福島県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,947,KAICHO,福島県,1381,DAIFU9,福島県,2568,U*PAFE,福島県,0,,-
 CANNON BALLERS,DropZ-Line-,0,,-,1244,9-LL,福島県,1959,SCOLAR,福島県,3022,AEGIS,福島県,0,,-
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1293,DAIFU9,福島県,2282,TSU,福島県,4052,U*PAFE,福島県,0,,-
@@ -1121,7 +1121,7 @@ Rootage,花冠 feat.Aikapin,0,,-,913,KAICHO,福島県,1606,CPU1,福島県,2523,X
 Rootage,爆ゼニ☆がってんワーカー,0,,-,1195,-FRAN-,福島県,1918,ARTE3S,福島県,2642,07KING,福島県,0,,-
 Rootage,深愛のリグレット,0,,-,796,WRC,福島県,1200,ARTE3S,福島県,2362,ARTE3S,福島県,0,,-
 Rootage,泰東ノ翠霞,0,,-,490,WRC,福島県,693,AAAA,福島県,1762,U*PAFE,福島県,0,,-
-Rootage,最小三倍完全数,0,,-,864,KEISE,福島県,1587,ARCO,福島県,2573,U*PAFE,福島県,0,,-
+Rootage,最小三倍完全数,0,,-,912,MO3ZI,福島県,1587,ARCO,福島県,2573,U*PAFE,福島県,0,,-
 Rootage,抱きしめてモナムール,0,,-,1261,HITOMI,福島県,2209,M-K2,福島県,4132,U*PAFE,福島県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,691,WRC,福島県,1542,ARTE3S,福島県,2550,07KING,福島県,0,,-
 Rootage,ミッドナイト☆WAR,0,,-,811,-FRAN-,福島県,1540,CHUSO2,福島県,2499,U*PAFE,福島県,0,,-
@@ -1145,7 +1145,7 @@ Rootage,voltississimo,0,,-,1140,SORA,福島県,2102,CHAMA,福島県,3591,U*PAFE,
 Rootage,Visterhv,0,,-,1037,RITCKA,福島県,2171,SCOLAR,福島県,3654,07KING,福島県,0,,-
 Rootage,Urban Constellations,0,,-,689,KAICHO,福島県,1384,SAK#9,福島県,2232,KOME-S,福島県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1060,KEISE,福島県,1885,HERMES,福島県,3259,U*PAFE,福島県,0,,-
-Rootage,Unbelief,0,,-,1006,KEISE,福島県,1974,LOW-R!,福島県,3003,FUTABA,福島県,0,,-
+Rootage,Unbelief,0,,-,1010,KAICHO,福島県,1974,LOW-R!,福島県,3004,4NOBIN,福島県,0,,-
 Rootage,U.S.A.,324,JENN?!,福島県,1108,SORA,福島県,1767,TSU,福島県,2896,07KING,福島県,0,,-
 Rootage,Twilight Warp,0,,-,902,KAICHO,福島県,1405,XWHW73,福島県,2129,ARTE3S,福島県,0,,-
 Rootage,Trill auf G,0,,-,857,FALK3N,福島県,2032,RMBOX,福島県,3133,07KING,福島県,0,,-
@@ -1160,7 +1160,7 @@ Rootage,SPEED ROCKER,0,,-,903,KAICHO,福島県,1670,RGDOLL,福島県,2115,RGDOLL
 Rootage,Six String Proof,0,,-,864,KAICHO,福島県,1393,AKZW,福島県,2456,XWHW73,福島県,0,,-
 Rootage,Serious?,0,,-,579,KAICHO,福島県,1144,WRC,福島県,2180,07KING,福島県,0,,-
 Rootage,R∞tAge,325,SAW,福島県,1062,KAICHO,福島県,1540,NARURU,福島県,2957,U*PAFE,福島県,0,,-
-Rootage,ruin of opals,0,,-,958,KAICHO,福島県,1665,2.TA!!,福島県,2995,U*PAFE,福島県,0,,-
+Rootage,ruin of opals,0,,-,958,KAICHO,福島県,1665,2.TA!!,福島県,3088,U*PAFE,福島県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1015,KAICHO,福島県,1725,G0OJEA,福島県,2708,U*PAFE,福島県,0,,-
 Rootage,REPLAY,0,,-,903,KAICHO,福島県,1587,SORA,福島県,2181,CPU1,福島県,0,,-
 Rootage,Red. by Jack Trance,0,,-,1460,9800MS,福島県,2050,REA*,福島県,3355,07KING,福島県,0,,-
@@ -1183,12 +1183,12 @@ Rootage,LADYBIRD,0,,-,1019,R-GR4Y,福島県,1489,178UA-,福島県,2457,U*PAFE,�
 Rootage,L.F.O,0,,-,851,KEISE,福島県,1766,ARTE3S,福島県,3318,U*PAFE,福島県,0,,-
 Rootage,KILL EACH OTHER,0,,-,1326,-0-IN-,福島県,2332,EBI,福島県,3797,U*PAFE,福島県,0,,-
 Rootage,IDOL syndrome.,0,,-,751,KAICHO,福島県,1461,ARTE3S,福島県,2198,U*PAFE,福島県,0,,-
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1003,WRC,福島県,1444,M1K4,福島県,2094,KOME-S,福島県,0,,-
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1003,WRC,福島県,1444,M1K4,福島県,2121,HAMITN,福島県,0,,-
 Rootage,Hurry Hurry,0,,-,739,KAICHO,福島県,1032,082THK,福島県,2079,73K1Y9,福島県,0,,-
 Rootage,HOT LIMIT,317,DMR?,福島県,1028,KAICHO,福島県,1723,ARTE3S,福島県,2499,ARTE3S,福島県,0,,-
 Rootage,HEISEI,157,AAAIII,福島県,1049,-FRAN-,福島県,1808,SAK#9,福島県,2532,07KING,福島県,0,,-
 Rootage,HARD BRAIN,0,,-,1315,WRC,福島県,1849,SCOLAR,福島県,3654,07KING,福島県,0,,-
-Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,814,IGRUU,福島県,2105,SCOLAR,福島県,3829,73K1Y9,福島県,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,814,IGRUU,福島県,2116,SCOLAR,福島県,3908,U*PAFE,福島県,0,,-
 Rootage,Glory,0,,-,709,KAICHO,福島県,1613,SORA,福島県,2297,XWHW73,福島県,0,,-
 Rootage,GIGA THRASH,0,,-,1192,178UA-,福島県,1732,HITOMI,福島県,2649,XWHW73,福島県,0,,-
 Rootage,GENE,0,,-,1135,BNO31,福島県,1972,ARTE3S,福島県,4306,U*PAFE,福島県,0,,-
@@ -1276,7 +1276,7 @@ HEROIC VERSE,Lost Souls,0,,-,697,KAICHO,福島県,1575,SUZURI,福島県,2452,U*P
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1031,WRC,福島県,1821,RGDOLL,福島県,2985,U*PAFE,福島県,0,,-
 HEROIC VERSE,Like+it!,0,,-,986,A!L35,福島県,1734,ARTE3S,福島県,2353,07KING,福島県,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,471,AMANE,福島県,896,KAICHO,福島県,1695,KOME-S,福島県,3250,U*PAFE,福島県,0,,-
-HEROIC VERSE,Level 2,0,,-,866,SILVIA,福島県,1546,HITOMI,福島県,2752,HAMITN,福島県,0,,-
+HEROIC VERSE,Level 2,0,,-,866,SILVIA,福島県,1587,ATH,福島県,2752,HAMITN,福島県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,760,178UA-,福島県,1627,4RO9MA,福島県,3568,U*PAFE,福島県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,806,KAICHO,福島県,1359,9800MS,福島県,2265,WTMATE,福島県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,758,1023YA,福島県,1712,G0OJEA,福島県,2930,07KING,福島県,0,,-
@@ -1310,7 +1310,7 @@ HEROIC VERSE,AKASHIC BREAK,0,,-,1225,SORA,福島県,2276,RGDOLL,福島県,3460,0
 HEROIC VERSE,Advent Infamous,0,,-,970,MAR,福島県,1567,BNO31,福島県,2764,KOME-S,福島県,0,,-
 HEROIC VERSE,27th style,0,,-,1091,KEISE,福島県,1793,ARTE3S,福島県,2454,KINYA,福島県,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,786,178UA-,福島県,1584,L42TAI,福島県,2722,U*PAFE,福島県,0,,-
-BISTROVER,霧幻メモリア,0,,-,895,KEISE,福島県,1379,SORA,福島県,1988,XWHW73,福島県,0,,-
+BISTROVER,霧幻メモリア,0,,-,895,KEISE,福島県,1413,ARTE3S,福島県,1988,XWHW73,福島県,0,,-
 BISTROVER,紅蓮華,158,WRC,福島県,519,WRC,福島県,986,ARTE3S,福島県,1476,ARTE3S,福島県,0,,-
 BISTROVER,犬に雨傘,0,,-,917,AMANE,福島県,1387,178UA-,福島県,2074,XWHW73,福島県,0,,-
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1342,AMANE,福島県,1824,7*SE,福島県,2769,73K1Y9,福島県,0,,-
@@ -1352,7 +1352,7 @@ BISTROVER,HIGH VOLTAGE,0,,-,795,KEISE,福島県,1446,ARTE3S,福島県,2252,U*PAF
 BISTROVER,Here We Are,371,MASATO,福島県,1004,KAICHO,福島県,1660,SAK#9,福島県,2432,GWR.GR,福島県,0,,-
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,1083,KEISE,福島県,1625,178UA-,福島県,2362,XWHW73,福島県,0,,-
 BISTROVER,GIGA RAID,0,,-,922,KAICHO,福島県,1786,4RO9MA,福島県,2395,U*PAFE,福島県,0,,-
-BISTROVER,Farewell to Marrakech,0,,-,899,AMANE,福島県,1536,ARTE3S,福島県,2169,XWHW73,福島県,0,,-
+BISTROVER,Farewell to Marrakech,0,,-,899,AMANE,福島県,1536,ARTE3S,福島県,2170,KINYA,福島県,0,,-
 BISTROVER,Euphoric Lagoon,0,,-,878,AMANE,福島県,1620,XWHW73,福島県,2505,AMANE,福島県,0,,-
 BISTROVER,Empire of Fury,0,,-,1356,AMANE,福島県,2024,G0OJEA,福島県,3316,U*PAFE,福島県,0,,-
 BISTROVER,DUAL STRIKER,0,,-,1074,DAIKI,福島県,2425,U18RU*,福島県,3756,07KING,福島県,0,,-

@@ -10,7 +10,7 @@
 1st&substream,GENOM SCREAMS,0,,-,376,K,大分県,703,MURA,大分県,1066,YAMADA,大分県,0,,-
 1st&substream,GAMBOL,0,,-,265,SOKI,大分県,262,089,大分県,0,,-,0,,-
 1st&substream,Dr.LOVE,0,,-,0,,-,476,PLAN.B,大分県,577,LO,大分県,0,,-
-1st&substream,deep in you,0,,-,0,,-,0,,-,656,MIACH,大分県,0,,-
+1st&substream,deep in you,0,,-,0,,-,0,,-,657,MIACH,大分県,0,,-
 1st&substream,5.1.1.,0,,-,191,089,大分県,1017,ANITA,大分県,1567,ANITA,大分県,0,,-
 1st&substream,22DUNK,0,,-,0,,-,0,,-,650,MIACH,大分県,0,,-
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,0,,-,0,,-,639,10FU86,大分県,0,,-
@@ -20,18 +20,6 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,755,KAME-R,大分県,1032,SOKI,大分県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,385,SPOON-,大分県,0,,-,1132,LO,大分県,0,,-
 2nd style,.59,0,,-,487,DAW1N,大分県,957,YUIHAN,大分県,1159,YAMADA,大分県,0,,-
-3rd style,THE SAFARI,0,,-,801,SPOON-,大分県,1767,YAMADA,大分県,0,,-,0,,-
-3rd style,Tangerine Stream,0,,-,81,TANIX,大分県,384,089,大分県,0,,-,0,,-
-3rd style,Skyscraper,0,,-,0,,-,480,REON,大分県,1223,KORONE,大分県,0,,-
-3rd style,Schlagwerk,0,,-,0,,-,1235,YUIHAN,大分県,1609,SOKI,大分県,0,,-
-3rd style,REINCARNATION,0,,-,544,KTGK,大分県,634,*SNOW*,大分県,1279,YAMADA,大分県,0,,-
-3rd style,R5,0,,-,646,KTRST,大分県,1073,PIYO*,大分県,1761,ANITA,大分県,0,,-
-3rd style,Presto,0,,-,0,,-,894,MITTEI,大分県,1005,YAMADA,大分県,0,,-
-3rd style,LEADING CYBER,0,,-,161,A,大分県,1134,YUIHAN,大分県,1206,089,大分県,0,,-
-3rd style,Holic,0,,-,597,SPOON-,大分県,1046,GG*853,大分県,1718,YAMADA,大分県,0,,-
-3rd style,era (nostalmix),0,,-,718,KORONE,大分県,1091,KYON,大分県,1505,YAMADA,大分県,0,,-
-3rd style,Don't Stop!,0,,-,0,,-,0,,-,898,YAMADA,大分県,0,,-
-3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,322,*SNOW*,大分県,1255,YAMADA,大分県,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,752,HSU,大分県,1067,J,大分県,1320,YAMADA,大分県,0,,-
 4th style,SWEET LAB,0,,-,0,,-,0,,-,1295,MIACH,大分県,0,,-
 4th style,starmine,244,CHROU.,大分県,467,SPOON-,大分県,979,SHIRO,大分県,1563,ANITA,大分県,0,,-
@@ -53,6 +41,18 @@
 4th style,B4U,0,,-,766,ALEX.,大分県,1221,SCEAAT,大分県,2022,YAMADA,大分県,0,,-
 4th style,ABSOLUTE,0,,-,1202,SAMMYK,大分県,1473,GG*853,大分県,2390,YAMADA,大分県,2711,KYON,大分県
 4th style,250bpm,0,,-,0,,-,892,SAMMYK,大分県,1421,YAMADA,大分県,0,,-
+3rd style,THE SAFARI,0,,-,801,SPOON-,大分県,1767,YAMADA,大分県,0,,-,0,,-
+3rd style,Tangerine Stream,0,,-,81,TANIX,大分県,384,089,大分県,0,,-,0,,-
+3rd style,Skyscraper,0,,-,0,,-,480,REON,大分県,1223,KORONE,大分県,0,,-
+3rd style,Schlagwerk,0,,-,0,,-,1235,YUIHAN,大分県,1609,SOKI,大分県,0,,-
+3rd style,REINCARNATION,0,,-,544,KTGK,大分県,634,*SNOW*,大分県,1279,YAMADA,大分県,0,,-
+3rd style,R5,0,,-,646,KTRST,大分県,1073,PIYO*,大分県,1761,ANITA,大分県,0,,-
+3rd style,Presto,0,,-,0,,-,894,MITTEI,大分県,1005,YAMADA,大分県,0,,-
+3rd style,LEADING CYBER,0,,-,161,A,大分県,1134,YUIHAN,大分県,1206,089,大分県,0,,-
+3rd style,Holic,0,,-,597,SPOON-,大分県,1046,GG*853,大分県,1718,YAMADA,大分県,0,,-
+3rd style,era (nostalmix),0,,-,718,KORONE,大分県,1091,KYON,大分県,1505,YAMADA,大分県,0,,-
+3rd style,Don't Stop!,0,,-,0,,-,0,,-,898,YAMADA,大分県,0,,-
+3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,322,*SNOW*,大分県,1255,YAMADA,大分県,0,,-,0,,-
 5th style,V,239,SHIKA,大分県,878,XYZAL,大分県,2447,MIACH,大分県,2981,YAMADA,大分県,0,,-
 5th style,THE SHINING POLARIS,0,,-,0,,-,939,PTC,大分県,1580,YAMADA,大分県,0,,-
 5th style,THE CUBE,0,,-,0,,-,0,,-,1289,SOKI,大分県,0,,-
@@ -127,7 +127,7 @@
 8th style,LOVE IS ORANGE,0,,-,502,KURO?,大分県,807,SPOON-,大分県,1771,KOKURI,大分県,2097,KYON,大分県
 8th style,LAB,0,,-,0,,-,1833,YUIHAN,大分県,2056,AA3570,大分県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1215,NGKAWA,大分県,1817,NGKAWA,大分県,2186,TIKUWA,大分県,0,,-
-8th style,Halfway of promise,0,,-,894,SAMMYK,大分県,1323,MITTEI,大分県,1820,YAMADA,大分県,0,,-
+8th style,Halfway of promise,0,,-,894,SAMMYK,大分県,1325,MITTEI,大分県,1820,YAMADA,大分県,0,,-
 8th style,Giudecca,0,,-,614,DAW1N,大分県,1770,KWN.CI,大分県,2684,YAMADA,大分県,0,,-
 8th style,dual control,0,,-,0,,-,845,KTRST,大分県,1879,YAMADA,大分県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,794,*SNOW*,大分県,1636,PLAN.B,大分県,2181,YAMADA,大分県,0,,-
@@ -177,7 +177,7 @@
 10th style,Rise'n Beauty,0,,-,0,,-,1540,WAMDUS,大分県,2169,YAMADA,大分県,0,,-
 10th style,rainbow rainbow,0,,-,1439,SAMMYK,大分県,2063,YUIHAN,大分県,2653,KOKURI,大分県,0,,-
 10th style,pandora,0,,-,0,,-,1496,NGKAWA,大分県,1806,MIACH,大分県,0,,-
-10th style,One More Lovely,0,,-,833,K,大分県,1502,BLYTHE,大分県,2833,ENNUI,大分県,0,,-
+10th style,One More Lovely,0,,-,833,K,大分県,1528,Y-CHAN,大分県,2833,ENNUI,大分県,0,,-
 10th style,No.13,0,,-,1289,FEW,大分県,2299,YUIHAN,大分県,3187,YAMADA,大分県,0,,-
 10th style,Narcissus At Oasis,0,,-,765,WAMDUS,大分県,1420,-555-,大分県,1645,KYON,大分県,0,,-
 10th style,Lucy,0,,-,0,,-,1700,WAMDUS,大分県,2328,YAMADA,大分県,0,,-
@@ -211,7 +211,7 @@ IIDX RED,spiral galaxy,0,,-,769,DAW1N,大分県,1849,YUIHAN,大分県,2474,KORON
 IIDX RED,Sphere,0,,-,600,ABC,大分県,1854,KORONE,大分県,2187,YAMADA,大分県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,0,,-,974,BEN,大分県,2041,YAMADA,大分県,0,,-
 IIDX RED,Secret of Love,0,,-,0,,-,1381,YUIHAN,大分県,1987,ANITA,大分県,0,,-
-IIDX RED,RESONATE 1794,0,,-,645,DAW1N,大分県,1311,YUIHAN,大分県,1881,YAMADA,大分県,0,,-
+IIDX RED,RESONATE 1794,0,,-,674,DAW1N,大分県,1311,YUIHAN,大分県,1881,YAMADA,大分県,0,,-
 IIDX RED,RED ZONE,108,PATCHU,大分県,1082,YUIHAN,大分県,1713,YUIHAN,大分県,2342,ENNUI,大分県,3086,YAMADA,大分県
 IIDX RED,Raspberry Heart(English version),0,,-,538,*SNOW*,大分県,1378,MURA,大分県,1858,YAMADA,大分県,0,,-
 IIDX RED,NEBULA GRASPER,0,,-,1140,HSU,大分県,1456,NIBOSI,大分県,2422,KOKURI,大分県,0,,-
@@ -259,7 +259,7 @@ HAPPY SKY,Pink Rose,0,,-,555,ELIO,大分県,877,ISM,大分県,1409,ENNUI,大分�
 HAPPY SKY,MOON RACE,0,,-,796,YUIHAN,大分県,1008,IIDX29,大分県,1885,YAMADA,大分県,0,,-
 HAPPY SKY,Love Magic,0,,-,0,,-,1422,LASMIN,大分県,1796,SOKI,大分県,0,,-
 HAPPY SKY,Little Little Princess,0,,-,0,,-,2108,KEMI*,大分県,2732,ANITA,大分県,3776,AA3570,大分県
-HAPPY SKY,LESSON 5,0,,-,131,DAW1N,大分県,1504,GG*853,大分県,2464,ANITA,大分県,0,,-
+HAPPY SKY,LESSON 5,0,,-,131,DAW1N,大分県,1534,J,大分県,2464,ANITA,大分県,0,,-
 HAPPY SKY,INAZUMA,0,,-,977,GG*853,大分県,1553,PLAN.B,大分県,2715,YAMADA,大分県,0,,-
 HAPPY SKY,in motion,0,,-,0,,-,0,,-,1261,10FU86,大分県,0,,-
 HAPPY SKY,I am,0,,-,894,OKOVIC,大分県,1664,WAMDUS,大分県,2175,YAMADA,大分県,0,,-
@@ -299,7 +299,7 @@ DistorteD,MOON,0,,-,156,LOAM,大分県,1923,MOGION,大分県,2166,KORONE,大分�
 DistorteD,MINT,0,,-,0,,-,1275,GG*853,大分県,2308,YAMADA,大分県,0,,-
 DistorteD,Leaving...,0,,-,0,,-,885,SPOON-,大分県,2211,YAMADA,大分県,0,,-
 DistorteD,INFERNO,0,,-,0,,-,1163,HSU,大分県,1953,KOKURI,大分県,0,,-
-DistorteD,Heavenly Sun (IIDX VERSION),0,,-,0,,-,1351,J,大分県,2108,LO,大分県,0,,-
+DistorteD,Heavenly Sun (IIDX VERSION),0,,-,0,,-,1368,J,大分県,2108,LO,大分県,0,,-
 DistorteD,Harmony and Lovely,0,,-,0,,-,1598,RIRCHU,大分県,2216,LO,大分県,0,,-
 DistorteD,Ganymede,0,,-,0,,-,1409,IIDX29,大分県,2299,YAMADA,大分県,2551,YAMADA,大分県
 DistorteD,EURO-ROMANCE,0,,-,952,YUIHAN,大分県,1742,YUIHAN,大分県,2108,YAMADA,大分県,0,,-
@@ -364,8 +364,8 @@ DJ TROOPERS,マチ子の唄,0,,-,823,WAMDUS,大分県,1310,WAMDUS,大分県,1795
 DJ TROOPERS,エコ爺,228,SHIKA,大分県,345,HAMA,大分県,1270,LOLWTF,大分県,1817,ANITA,大分県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,564,DAW1N,大分県,1160,WAMDUS,大分県,1521,LO,大分県,2573,YAMADA,大分県
 DJ TROOPERS,Ubertreffen,0,,-,1040,PLAN.B,大分県,1729,801,大分県,2542,YAMADA,大分県,3263,YAMADA,大分県
-DJ TROOPERS,TROOPERS,0,,-,848,TOTORO,大分県,2268,NATAKU,大分県,2940,YAMADA,大分県,0,,-
-DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,607,PLAN.B,大分県,1340,TAKE*M,大分県,1700,SOKI,大分県,0,,-
+DJ TROOPERS,TROOPERS,0,,-,1221,TOILET,大分県,2268,NATAKU,大分県,2940,YAMADA,大分県,0,,-
+DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,607,PLAN.B,大分県,1340,TAKE*M,大分県,1771,AA3570,大分県,0,,-
 DJ TROOPERS,Time to Air,0,,-,1119,YRN7S,大分県,1919,YUIHAN,大分県,2888,YAMADA,大分県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,0,,-,1044,ISM,大分県,1847,YAMADA,大分県,3110,YAMADA,大分県
 DJ TROOPERS,THE DEEP STRIKER,318,PATCHU,大分県,801,SHIRO,大分県,1925,NGKAWA,大分県,2951,KYON,大分県,3511,YAMADA,大分県
@@ -399,7 +399,7 @@ DJ TROOPERS,Do it!! Do it!!,0,,-,969,YUIHAN,大分県,1046,DAFNE,大分県,1932,
 DJ TROOPERS,Digitank System,0,,-,873,SAMMYK,大分県,1419,WAMDUS,大分県,2071,KYON,大分県,0,,-
 DJ TROOPERS,Dazzlin' Darlin,232,RAPTOR,大分県,867,LOLWTF,大分県,1165,KUROHA,大分県,2228,YAMADA,大分県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,0,,-,676,JORO,大分県,1374,10FU86,大分県,0,,-
-DJ TROOPERS,Blue Rain,182,KKKKKK,大分県,747,SPOON-,大分県,1358,IIDX29,大分県,2251,KYON,大分県,3353,YAMADA,大分県
+DJ TROOPERS,Blue Rain,182,KKKKKK,大分県,747,SPOON-,大分県,1377,J,大分県,2251,KYON,大分県,3353,YAMADA,大分県
 DJ TROOPERS,beatonic nation,0,,-,0,,-,1253,SHI-NO,大分県,2120,TIKUWA,大分県,0,,-
 DJ TROOPERS,Be OK,0,,-,0,,-,1380,K-PEN.,大分県,2413,LO,大分県,3302,KYON,大分県
 DJ TROOPERS,avant-guerre,0,,-,409,KTGK,大分県,1128,PLAN.B,大分県,1901,YAMADA,大分県,0,,-
@@ -466,7 +466,7 @@ SIRIUS,SOLID STATE SQUAD,0,,-,748,KTRST,大分県,1907,OTOUFU,大分県,3591,YAM
 SIRIUS,She is my wife,216,JAJJYY,大分県,498,DAW1N,大分県,1276,PLAN.B,大分県,1919,KORONE,大分県,0,,-
 SIRIUS,Session 1 -Genesis-,0,,-,808,PLAN.B,大分県,1426,PIYO*,大分県,2430,KYON,大分県,0,,-
 SIRIUS,Roots of my way!,0,,-,0,,-,1033,HATM-R,大分県,2029,KOKURI,大分県,0,,-
-SIRIUS,Red. by Full Metal Jacket,0,,-,946,SAMMYK,大分県,1869,TOILET,大分県,3161,YAMADA,大分県,0,,-
+SIRIUS,Red. by Full Metal Jacket,0,,-,946,SAMMYK,大分県,2028,KORONE,大分県,3161,YAMADA,大分県,0,,-
 SIRIUS,Raison d'etre～交差する宿命～,0,,-,625,KIRARA,大分県,2007,NGKAWA,大分県,2719,ENNUI,大分県,0,,-
 SIRIUS,quell～the seventh slave～,0,,-,0,,-,1635,KEMI*,大分県,3172,YAMADA,大分県,0,,-
 SIRIUS,Programmed Sun,0,,-,0,,-,1711,WAMDUS,大分県,2523,KYON,大分県,0,,-
@@ -476,7 +476,7 @@ SIRIUS,mosaic,0,,-,1261,IIDX28,大分県,2001,KILA**,大分県,3010,KYON,大分�
 SIRIUS,MIRACLE MEETS,0,,-,874,K,大分県,1462,YUKARI,大分県,2219,KYON,大分県,0,,-
 SIRIUS,Light Shine,0,,-,602,AOBARA,大分県,821,SPOON-,大分県,1955,YAMADA,大分県,0,,-
 SIRIUS,Last Burning,0,,-,555,TEGL4,大分県,1596,WAMDUS,大分県,2334,KYON,大分県,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,0,,-,1368,S1,大分県,1868,YAMADA,大分県,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,0,,-,1523,BLYTHE,大分県,1868,YAMADA,大分県,0,,-
 SIRIUS,IN THE NAME OF LOVE,0,,-,407,GANDAM,大分県,1102,KAME-R,大分県,1937,YAMADA,大分県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,0,,-,1464,FEW,大分県,2323,YAMADA,大分県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,698,AOBARA,大分県,1937,WAMDUS,大分県,3475,YAMADA,大分県,0,,-
@@ -499,7 +499,7 @@ SIRIUS,being torn the sky,0,,-,381,GANDAM,大分県,1077,ISM,大分県,1961,MIAC
 SIRIUS,BEAUTIFUL ANGEL,0,,-,319,OMARIO,大分県,1503,ISM,大分県,2425,KORONE,大分県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,962,K,大分県,1571,WAMDUS,大分県,2016,ENNUI,大分県,0,,-
 SIRIUS,bass 2 bass,163,MINE,大分県,681,SAMMYK,大分県,1263,AA3570,大分県,1876,KYON,大分県,0,,-
-SIRIUS,Bad Maniacs,0,,-,852,SYO9,大分県,1693,BLYTHE,大分県,3222,YAMADA,大分県,0,,-
+SIRIUS,Bad Maniacs,0,,-,1096,J,大分県,1693,BLYTHE,大分県,3222,YAMADA,大分県,0,,-
 SIRIUS,Almagest,0,,-,942,KAME-R,大分県,2221,YAMADA,大分県,3123,YAMADA,大分県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,404,KASUSA,大分県,1068,K,大分県,1659,YUIHAN,大分県,2342,YAMADA,大分県,2931,AA3570,大分県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,441,KURO?,大分県,1942,YUKARI,大分県,3455,YAMADA,大分県,0,,-
@@ -534,7 +534,7 @@ Resort Anthem,perditus†paradisus,0,,-,1088,KAME-R,大分県,2542,YAMADA,大分
 Resort Anthem,passionate fate,0,,-,396,LOAM,大分県,1320,KANADE,大分県,2136,YAMADA,大分県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,897,TOM,大分県,2336,ENNUI,大分県,3318,KYON,大分県,0,,-
 Resort Anthem,New Castle Legions,0,,-,361,SPOON-,大分県,1720,NGKAWA,大分県,2670,AA3570,大分県,0,,-
-Resort Anthem,Never Fade Away,0,,-,0,,-,1574,IIDX29,大分県,2936,KORONE,大分県,0,,-
+Resort Anthem,Never Fade Away,0,,-,501,RFA*,大分県,1574,IIDX29,大分県,2936,KORONE,大分県,0,,-
 Resort Anthem,Mermaid girl,454,MIRAI,大分県,722,MIRAI,大分県,1678,WAMDUS,大分県,2224,YAMADA,大分県,0,,-
 Resort Anthem,Medicine of love,0,,-,494,KOBO,大分県,1107,WAMDUS,大分県,1720,ANITA,大分県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,814,SPOON-,大分県,1547,ALEX.,大分県,2690,YAMADA,大分県,0,,-
@@ -594,7 +594,7 @@ Lincle,Quick Silver,0,,-,0,,-,1702,WAMDUS,大分県,2689,YAMADA,大分県,0,,-
 Lincle,quaver♪,142,RENA,大分県,458,TIKUWA,大分県,2072,KEMI*,大分県,3435,YAMADA,大分県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1219,PLAN.B,大分県,1892,IIDX30,大分県,2816,AA3570,大分県,3628,YAMADA,大分県
 Lincle,prompt,0,,-,660,TUGIHA,大分県,1507,MOTTU,大分県,2807,YAMADA,大分県,0,,-
-Lincle,Phoenix,0,,-,0,,-,1169,LOLWTF,大分県,2478,ENNUI,大分県,3583,LO,大分県
+Lincle,Phoenix,0,,-,0,,-,1169,LOLWTF,大分県,2478,ENNUI,大分県,3672,AA3570,大分県
 Lincle,NNRT,0,,-,1151,PLAN.B,大分県,2280,YUKARI,大分県,3504,KYON,大分県,0,,-
 Lincle,Miami Sunset Drive,0,,-,619,SAMMYK,大分県,672,SPOON-,大分県,1602,SOKI,大分県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,784,HAIDO,大分県,1283,SAMMYK,大分県,2057,ENNUI,大分県,0,,-
@@ -754,7 +754,7 @@ PENDUAL,No Tears,0,,-,1093,PLAN.B,大分県,1783,MURA,大分県,2528,KYON,大分
 PENDUAL,Night sky,0,,-,645,KTGK,大分県,1605,KAME-R,大分県,2914,YAMADA,大分県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,0,,-,1689,GG*853,大分県,3301,YAMADA,大分県,0,,-
 PENDUAL,Monopole.,0,,-,0,,-,1557,YUIHAN,大分県,3344,KYON,大分県,0,,-
-PENDUAL,Line 4 Ruin,0,,-,539,AOBARA,大分県,1607,AKSW,大分県,2797,ENNUI,大分県,0,,-
+PENDUAL,Line 4 Ruin,0,,-,587,K-PEN.,大分県,1607,AKSW,大分県,2797,ENNUI,大分県,0,,-
 PENDUAL,IXION,0,,-,0,,-,1673,YUIHAN,大分県,2121,KOKURI,大分県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,717,KTGK,大分県,1424,801,大分県,2711,KYON,大分県,0,,-
 PENDUAL,In The Breeze,0,,-,614,HAIDO,大分県,915,PLAN.B,大分県,1711,MIACH,大分県,0,,-
@@ -815,7 +815,7 @@ SPADA,refractive index,0,,-,458,HAMA,大分県,1304,MURA,大分県,2711,YAMADA,�
 SPADA,Recollection,0,,-,0,,-,1167,HATM-R,大分県,2226,YAMADA,大分県,0,,-
 SPADA,rainbow guitar weeps,0,,-,920,PLAN.B,大分県,1746,YUKARI,大分県,2765,KYON,大分県,0,,-
 SPADA,ra'am,0,,-,909,THEEND,大分県,1754,TAKA.4,大分県,2757,KYON,大分県,0,,-
-SPADA,PUNISHER,0,,-,686,GM,大分県,1919,YUKARI,大分県,3559,YAMADA,大分県,0,,-
+SPADA,PUNISHER,0,,-,749,RFA*,大分県,1919,YUKARI,大分県,3559,YAMADA,大分県,0,,-
 SPADA,Pharaoh,0,,-,0,,-,1336,NGKAWA,大分県,2443,KYON,大分県,0,,-
 SPADA,Overload Frontier,0,,-,694,KAME-R,大分県,1559,OTOUFU,大分県,2618,YAMADA,大分県,0,,-
 SPADA,Odin,0,,-,0,,-,1359,WAMDUS,大分県,2014,ANITA,大分県,0,,-
@@ -1051,7 +1051,7 @@ CANNON BALLERS,The Revolution (VIP Mix),0,,-,411,KTGK,大分県,865,PORTER,大�
 CANNON BALLERS,The Chase,0,,-,635,SAMMYK,大分県,1228,BALEB,大分県,2142,YAMADA,大分県,0,,-
 CANNON BALLERS,THE CANNONBALLER,347,SHIKA,大分県,1422,GG*853,大分県,2275,LOLWTF,大分県,3447,YAMADA,大分県,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,794,TOTORO,大分県,1321,BONA,大分県,2667,YAMADA,大分県,0,,-
-CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,0,,-,1489,S.TORA,大分県,2685,YAMADA,大分県,0,,-
+CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,897,J,大分県,1489,S.TORA,大分県,2685,YAMADA,大分県,0,,-
 CANNON BALLERS,Static State,0,,-,0,,-,1374,K-PEN.,大分県,2363,KYON,大分県,0,,-
 CANNON BALLERS,STARLIGHT JUNCTION,0,,-,771,ANGEL,大分県,1314,LIMIA,大分県,2293,YAMADA,大分県,0,,-
 CANNON BALLERS,SPEED DEMON,0,,-,733,PLAN.B,大分県,1381,YUIHAN,大分県,2192,10FU86,大分県,0,,-
@@ -1095,7 +1095,7 @@ CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,755,NGKAWA,大分県,1355,NGKAW
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1141,ALEX.,大分県,1919,KYON,大分県,2646,YAMADA,大分県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,599,AAAAAA,大分県,1247,GG*853,大分県,2128,KYON,大分県,0,,-
 CANNON BALLERS,ChaserXX,0,,-,767,KTGK,大分県,1571,YUIHAN,大分県,2826,YAMADA,大分県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,949,SPOON-,大分県,1688,BONA,大分県,2529,ENNUI,大分県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,949,SPOON-,大分県,1692,GG*853,大分県,2529,ENNUI,大分県,0,,-
 CANNON BALLERS,Boomy and The Boost,408,10FU86,大分県,660,KTGK,大分県,1816,BALEB,大分県,3560,KYON,大分県,0,,-
 CANNON BALLERS,Best of Me,0,,-,348,KTGK,大分県,1559,WAMDUS,大分県,2226,YAMADA,大分県,0,,-
 CANNON BALLERS,Beast mode,0,,-,620,KTGK,大分県,1258,KAME-R,大分県,2690,KYON,大分県,0,,-
@@ -1108,7 +1108,7 @@ CANNON BALLERS,Antigravity,0,,-,833,REAF,大分県,1808,YUIHAN,大分県,3029,KY
 CANNON BALLERS,ANCHOR,0,,-,1182,NIBOSI,大分県,2232,MOGION,大分県,3570,YAMADA,大分県,0,,-
 CANNON BALLERS,ANAGMA,0,,-,889,KAME-R,大分県,1581,YUIHAN,大分県,2603,KOKURI,大分県,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,716,SAMMYK,大分県,1251,GG*853,大分県,2318,YAMADA,大分県,0,,-
-CANNON BALLERS,Alpheratz,0,,-,361,PIYO*,大分県,0,,-,2086,YAMADA,大分県,0,,-
+CANNON BALLERS,Alpheratz,0,,-,361,PIYO*,大分県,590,SPOON-,大分県,2086,YAMADA,大分県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1087,PLAN.B,大分県,1513,BONA,大分県,2419,SOKI,大分県,0,,-
 CANNON BALLERS,Abraxas,0,,-,708,KAME-R,大分県,1433,PLAN.B,大分県,2425,KYON,大分県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1037,THEEND,大分県,2286,YUKARI,大分県,3583,ENNUI,大分県,0,,-
