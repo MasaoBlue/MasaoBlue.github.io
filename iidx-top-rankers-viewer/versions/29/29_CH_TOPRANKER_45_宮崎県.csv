@@ -1,11 +1,4 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,501,1.2.3.,宮崎県,618,1.2.3.,宮崎県,643,COBOL,宮崎県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,562,1.2.3.,宮崎県,842,COBOL,宮崎県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,850,1.2.3.,宮崎県,1052,1.2.3.,宮崎県,1176,COBOL,宮崎県,0,,-
-2nd style,I Was The One,0,,-,524,1.2.3.,宮崎県,634,1.2.3.,宮崎県,689,COBOL,宮崎県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,758,1.2.3.,宮崎県,914,1.2.3.,宮崎県,1027,COBOL,宮崎県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,727,1.2.3.,宮崎県,993,1.2.3.,宮崎県,1082,COBOL,宮崎県,0,,-
-2nd style,.59,0,,-,697,1.2.3.,宮崎県,951,1.2.3.,宮崎県,1121,COBOL,宮崎県,0,,-
 1st&substream,THE EARTH LIGHT,0,,-,758,1.2.3.,宮崎県,983,1.2.3.,宮崎県,1099,COBOL,宮崎県,0,,-
 1st&substream,RUGGED ASH,0,,-,367,1.2.3.,宮崎県,396,IKKI##,宮崎県,1047,COBOL,宮崎県,1894,WILLY,宮崎県
 1st&substream,R3,0,,-,637,1.2.3.,宮崎県,721,1.2.3.,宮崎県,883,COBOL,宮崎県,0,,-
@@ -20,6 +13,13 @@
 1st&substream,deep in you,0,,-,484,1.2.3.,宮崎県,486,1.2.3.,宮崎県,651,COBOL,宮崎県,0,,-
 1st&substream,5.1.1.,0,,-,195,1.2.3.,宮崎県,971,1.2.3.,宮崎県,1550,COBOL,宮崎県,0,,-
 1st&substream,22DUNK,0,,-,512,1.2.3.,宮崎県,627,1.2.3.,宮崎県,647,COBOL,宮崎県,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,501,1.2.3.,宮崎県,618,1.2.3.,宮崎県,643,COBOL,宮崎県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,562,1.2.3.,宮崎県,842,COBOL,宮崎県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,850,1.2.3.,宮崎県,1052,1.2.3.,宮崎県,1176,COBOL,宮崎県,0,,-
+2nd style,I Was The One,0,,-,524,1.2.3.,宮崎県,634,1.2.3.,宮崎県,689,COBOL,宮崎県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,758,1.2.3.,宮崎県,914,1.2.3.,宮崎県,1027,COBOL,宮崎県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,727,1.2.3.,宮崎県,993,1.2.3.,宮崎県,1082,COBOL,宮崎県,0,,-
+2nd style,.59,0,,-,697,1.2.3.,宮崎県,951,1.2.3.,宮崎県,1121,COBOL,宮崎県,0,,-
 3rd style,THE SAFARI,359,1.2.3.,宮崎県,1143,1.2.3.,宮崎県,1641,COBOL,宮崎県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,279,1.2.3.,宮崎県,387,COBOL,宮崎県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,711,1.2.3.,宮崎県,1127,1.2.3.,宮崎県,1230,COBOL,宮崎県,0,,-
@@ -309,7 +309,7 @@ DistorteD,D.C.fish,0,,-,986,1.2.3.,宮崎県,1816,LEAFA,宮崎県,2277,FJ.OFN,�
 DistorteD,CONTRACT,0,,-,1173,LEAFA,宮崎県,1644,COBOL,宮崎県,1971,COBOL,宮崎県,2526,F,宮崎県
 DistorteD,Concertino in Blue,382,1.2.3.,宮崎県,842,1.2.3.,宮崎県,1639,COBOL,宮崎県,2273,FJ.OFN,宮崎県,0,,-
 DistorteD,Broadbanded,0,,-,872,1.2.3.,宮崎県,1101,SAKO-3,宮崎県,1943,TY,宮崎県,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,1018,1.2.3.,宮崎県,1007,KANATA,宮崎県,2217,COBOL,宮崎県,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,1018,1.2.3.,宮崎県,1249,RURI,宮崎県,2217,COBOL,宮崎県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1119,1.2.3.,宮崎県,1868,BCD,宮崎県,2137,TY,宮崎県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,704,1.2.3.,宮崎県,1052,1.2.3.,宮崎県,1468,COBOL,宮崎県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,240,1.2.3.,宮崎県,941,1.2.3.,宮崎県,1635,LEAFA,宮崎県,2282,COBOL,宮崎県,0,,-
@@ -930,7 +930,7 @@ SINOBUZ,Egret and Willow,0,,-,1026,1.2.3.,宮崎県,1524,AC,宮崎県,2612,F,宮
 SINOBUZ,ECHIDNA,0,,-,1275,1.2.3.,宮崎県,2039,RYOTA,宮崎県,3045,F,宮崎県,0,,-
 SINOBUZ,DORNWALD ～Junge～,0,,-,1258,1.2.3.,宮崎県,2186,COBOL,宮崎県,3406,109.C,宮崎県,0,,-
 SINOBUZ,Cyber True Color,0,,-,975,1.2.3.,宮崎県,1465,LEAFA,宮崎県,2228,F,宮崎県,0,,-
-SINOBUZ,crew,0,,-,623,1.2.3.,宮崎県,1226,ME.,宮崎県,2782,F,宮崎県,0,,-
+SINOBUZ,crew,0,,-,623,1.2.3.,宮崎県,1642,SKY.RV,宮崎県,2782,F,宮崎県,0,,-
 SINOBUZ,Caterpillar,0,,-,1171,1.2.3.,宮崎県,2192,COBOL,宮崎県,2864,F,宮崎県,0,,-
 SINOBUZ,BroGamer,0,,-,1330,1.2.3.,宮崎県,1991,SKY.RV,宮崎県,2941,F,宮崎県,4356,109.C,宮崎県
 SINOBUZ,Breakin' Chain,0,,-,714,1.2.3.,宮崎県,1153,WARI84,宮崎県,2255,COBOL,宮崎県,0,,-
