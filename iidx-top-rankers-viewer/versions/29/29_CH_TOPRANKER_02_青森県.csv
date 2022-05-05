@@ -1,11 +1,4 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,483,SIRO,青森県,343,SPYRO,青森県,635,M.K*AY,青森県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,0,,-,857,SUICA,青森県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,881,NEODIO,青森県,1021,JETHY,青森県,1218,MOSAPI,青森県,0,,-
-2nd style,I Was The One,0,,-,476,CALFD,青森県,613,TE*3,青森県,665,TE*3,青森県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,769,NEODIO,青森県,391,YUMI,青森県,1036,M.K*AY,青森県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,331,YUMI,青森県,976,JETHY,青森県,1087,KAWADX,青森県,0,,-
-2nd style,.59,0,,-,434,YUMI,青森県,689,U-ZAN,青森県,1154,MOSAPI,青森県,0,,-
 1st&substream,THE EARTH LIGHT,0,,-,511,SPYRO,青森県,1027,5MIKAS,青森県,1126,TAKOPI,青森県,0,,-
 1st&substream,RUGGED ASH,0,,-,0,,-,401,T,青森県,1052,C7LK,青森県,1983,A.X.L.,青森県
 1st&substream,R3,0,,-,313,YUMI,青森県,565,AB4,青森県,888,TAKOPI,青森県,0,,-
@@ -20,6 +13,13 @@
 1st&substream,deep in you,0,,-,149,DANMAK,青森県,176,YUMI,青森県,657,KAWADX,青森県,0,,-
 1st&substream,5.1.1.,0,,-,118,DISK,青森県,878,NEZ3,青森県,1557,NAKAG,青森県,0,,-
 1st&substream,22DUNK,0,,-,278,YUMI,青森県,627,SUICA,青森県,651,KAWADX,青森県,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,483,SIRO,青森県,343,SPYRO,青森県,635,M.K*AY,青森県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,0,,-,857,SUICA,青森県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,881,NEODIO,青森県,1021,JETHY,青森県,1218,MOSAPI,青森県,0,,-
+2nd style,I Was The One,0,,-,476,CALFD,青森県,613,TE*3,青森県,665,TE*3,青森県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,769,NEODIO,青森県,391,YUMI,青森県,1036,M.K*AY,青森県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,331,YUMI,青森県,976,JETHY,青森県,1087,KAWADX,青森県,0,,-
+2nd style,.59,0,,-,434,YUMI,青森県,689,U-ZAN,青森県,1154,MOSAPI,青森県,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,499,HACK.6,青森県,1191,MUNE,青森県,1318,A.X.L.,青森県,0,,-
 4th style,SWEET LAB,0,,-,542,RU4AN,青森県,974,NEODIO,青森県,1340,NAKAG,青森県,0,,-
 4th style,starmine,261,CHINON,青森県,505,SPYRO,青森県,1137,Y!D!,青森県,1556,HIORIN,青森県,0,,-
@@ -89,7 +89,7 @@
 6th style,Colors (radio edit),0,,-,1081,BIRD,青森県,1800,M.K*AY,青森県,2416,MOSAPI,青森県,0,,-
 6th style,Buffalo,0,,-,993,ARCARD,青森県,1316,KAI,青森県,1772,IIDX30,青森県,2461,NAKAG,青森県
 6th style,Blueberry Stream,0,,-,701,NEZ3,青森県,1242,SIRO,青森県,1615,PERU.,青森県,0,,-
-6th style,BALLAD FOR YOU～想いの雨～,0,,-,448,NOT,青森県,157,PY0,青森県,1072,SYAMU,青森県,0,,-
+6th style,BALLAD FOR YOU～想いの雨～,0,,-,448,NOT,青森県,742,ARU.68,青森県,1072,SYAMU,青森県,0,,-
 6th style,"19,November",0,,-,616,NAO39,青森県,1454,NEODIO,青森県,1789,MOSAPI,青森県,0,,-
 7th style,革命,0,,-,504,TOWAC,青森県,1898,PAN2,青森県,2187,FALCO,青森県,0,,-
 7th style,ZERO-ONE,0,,-,579,POOO,青森県,1415,AB4,青森県,2232,MOSAPI,青森県,0,,-
@@ -151,7 +151,7 @@
 9th style,Quickening,0,,-,897,JETHY,青森県,1595,AHHUN*,青森県,2103,MOSAPI,青森県,0,,-
 9th style,quasar,0,,-,977,BIRD,青森県,1782,A.X.L.,青森県,2312,MOSAPI,青森県,0,,-
 9th style,one or eight,0,,-,1322,SIY,青森県,1770,LUCIA.,青森県,2279,MOSAPI,青森県,0,,-
-9th style,moon_child,0,,-,691,POOO,青森県,1709,NAOKI,青森県,2544,MOSAPI,青森県,0,,-
+9th style,moon_child,0,,-,691,POOO,青森県,1816,FALCO,青森県,2544,MOSAPI,青森県,0,,-
 9th style,MARIA (I believe... ),0,,-,439,NOT,青森県,1296,REITO.,青森県,1954,MOSAPI,青森県,0,,-
 9th style,Make A Difference,0,,-,644,HIBA,青森県,1267,AB4,青森県,2219,MOSAPI,青森県,0,,-
 9th style,lower world,0,,-,486,POOO,青森県,1691,VERD,青森県,2267,MOSAPI,青森県,0,,-
@@ -188,7 +188,7 @@
 10th style,GHOST REVIVAL,0,,-,359,SHELPA,青森県,1588,RYO-SK,青森県,2579,MOSAPI,青森県,0,,-
 10th style,Freezing atmosphere,0,,-,0,,-,796,BIRD,青森県,1490,MOSAPI,青森県,0,,-
 10th style,FEEL IT,0,,-,454,NAO39,青森県,1535,VERD,青森県,1916,IIDX30,青森県,0,,-
-10th style,Feedback,0,,-,1025,JETHY,青森県,1141,A.AURA,青森県,1951,MOSAPI,青森県,0,,-
+10th style,Feedback,0,,-,1025,JETHY,青森県,1206,NEZ3,青森県,1951,MOSAPI,青森県,0,,-
 10th style,EXE,0,,-,758,JKUN,青森県,1460,AOIHGR,青森県,2252,MOSAPI,青森県,0,,-
 10th style,DoLL,279,JJ,青森県,872,A.773,青森県,1075,NEZ3,青森県,1617,MOSAPI,青森県,0,,-
 10th style,desolation,0,,-,479,TYURAL,青森県,594,NEZ3,青森県,763,KAWADX,青森県,0,,-
@@ -199,7 +199,7 @@
 10th style,Back Into The Light,0,,-,1150,JETHY,青森県,1292,NEZ3,青森県,2157,MOSAPI,青森県,0,,-
 10th style,BABY LOVE,0,,-,788,TSU9NE,青森県,1517,OH!?,青森県,2149,MOSAPI,青森県,0,,-
 10th style,ASTRAL VOYAGE,0,,-,834,NEZ3,青森県,0,,-,1873,SUICA,青森県,0,,-
-10th style,ALIEN TEMPLE,0,,-,0,,-,1307,URAKI,青森県,2004,SUICA,青森県,0,,-
+10th style,ALIEN TEMPLE,0,,-,0,,-,1370,AOIHGR,青森県,2004,SUICA,青森県,0,,-
 10th style,1st Samurai,0,,-,1020,ARCARD,青森県,1975,MOSAPI,青森県,2683,MOSAPI,青森県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,0,,-,1428,ARCARD,青森県,1997,MOSAPI,青森県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,819,NAKAG,青森県,1238,D-HERO,青森県,1748,MOSAPI,青森県,0,,-
@@ -228,8 +228,8 @@ IIDX RED,Close my Eyes for Me,0,,-,0,,-,1198,JOB2,青森県,1800,MOSAPI,青森�
 IIDX RED,Click Again,0,,-,680,A.773,青森県,1400,SUZRAN,青森県,2131,MOSAPI,青森県,0,,-
 IIDX RED,BREATH,0,,-,277,KOUKI,青森県,1085,URAKI,青森県,1741,MOSAPI,青森県,0,,-
 IIDX RED,BLOCKS,0,,-,311,KOUKI,青森県,1162,NEZ3,青森県,1979,MOSAPI,青森県,0,,-
-IIDX RED,Be quiet,0,,-,1055,JETHY,青森県,1676,REU,青森県,2195,MOSAPI,青森県,2757,MOSAPI,青森県
-IIDX RED,awakening,0,,-,701,ADUTI,青森県,1300,NEZ3,青森県,1693,RU4AN,青森県,0,,-
+IIDX RED,Be quiet,0,,-,1055,JETHY,青森県,1676,REU,青森県,2196,MOSAPI,青森県,2757,MOSAPI,青森県
+IIDX RED,awakening,0,,-,701,ADUTI,青森県,1310,NEZ3,青森県,1693,RU4AN,青森県,0,,-
 IIDX RED,ANDROMEDA,0,,-,504,KOUKI,青森県,1790,FALCO,青森県,2876,MOSAPI,青森県,0,,-
 IIDX RED,AGEHA,395,TON,青森県,643,PAYA!?,青森県,1508,OKTM,青森県,1843,TYURAL,青森県,2435,A.X.L.,青森県
 IIDX RED,AA,0,,-,1175,SIRO,青森県,2592,REU,青森県,3613,MOSAPI,青森県,0,,-
@@ -246,7 +246,7 @@ HAPPY SKY,vault of heaven,0,,-,787,ARCARD,青森県,1384,SIY,青森県,2004,MOSA
 HAPPY SKY,Under the Sky,0,,-,524,COCOA,青森県,1403,SYAMU,青森県,1744,MOSAPI,青森県,0,,-
 HAPPY SKY,Twelfth Style,0,,-,1177,JETHY,青森県,1470,ARCARD,青森県,1992,SUZRAN,青森県,3275,MOSAPI,青森県
 HAPPY SKY,Tizona d'El Cid,0,,-,829,JKUN,青森県,1882,NEODIO,青森県,2295,PERU.,青森県,0,,-
-HAPPY SKY,SigSig,492,IHA-,青森県,844,KONFOX,青森県,1606,JETHY,青森県,2593,MOSAPI,青森県,0,,-
+HAPPY SKY,SigSig,588,BLITZ,青森県,844,KONFOX,青森県,1606,JETHY,青森県,2593,MOSAPI,青森県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,726,SPIRAL,青森県,1456,D-HERO,青森県,2053,TYURAL,青森県,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1350,NEZ3,青森県,1764,VERD,青森県,2512,MOSAPI,青森県,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1439,SHIFT,青森県,1815,SHIFT,青森県,3070,MOSAPI,青森県,3421,MOSAPI,青森県
@@ -271,7 +271,7 @@ HAPPY SKY,First Resolution,0,,-,622,A170,青森県,1451,KAI,青森県,2144,MOSAP
 HAPPY SKY,EMPTY OF THE SKY,0,,-,310,SVETLA,青森県,0,,-,1678,TAKOPI,青森県,0,,-
 HAPPY SKY,EDEN,0,,-,926,IRIS-Q,青森県,1879,FALCO,青森県,2710,MOSAPI,青森県,0,,-
 HAPPY SKY,double thrash,0,,-,0,,-,1836,HUK,青森県,2280,TYURAL,青森県,0,,-
-HAPPY SKY,Catch Me,0,,-,776,JETHY,青森県,1205,JOB2,青森県,1759,IIDX30,青森県,0,,-
+HAPPY SKY,Catch Me,0,,-,776,JETHY,青森県,1214,MILES.,青森県,1759,IIDX30,青森県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,512,TKT,青森県,1647,D-HERO,青森県,2466,MOSAPI,青森県,0,,-
 HAPPY SKY,Aurora,0,,-,926,GYRO,青森県,1921,KOI10,青森県,2515,MOSAPI,青森県,0,,-
 HAPPY SKY,alla turca con passione,0,,-,0,,-,1456,YUT.,青森県,2191,MOSAPI,青森県,0,,-
@@ -311,9 +311,9 @@ DistorteD,Concertino in Blue,395,T,青森県,0,,-,1559,LUCIA.,青森県,2504,MOS
 DistorteD,Broadbanded,0,,-,0,,-,1349,JETHY,青森県,2008,MOSAPI,青森県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,992,JETHY,青森県,1459,N2,青森県,2286,MOSAPI,青森県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1066,NEZ3,青森県,1850,KLEBER,青森県,2167,MOSAPI,青森県,0,,-
-DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,0,,-,1501,DIS-L,青森県,0,,-
+DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,0,,-,1502,MOSAPI,青森県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,229,AMIL,青森県,977,5MIKAS,青森県,1552,NCG.NG,青森県,2369,PERU.,青森県,0,,-
-DistorteD,ALFARSHEAR 双神威に廻る夢,257,RTL*,青森県,1013,KAI,青森県,1611,JETHY,青森県,2072,PERU.,青森県,0,,-
+DistorteD,ALFARSHEAR 双神威に廻る夢,331,SYADOW,青森県,1013,KAI,青森県,1611,JETHY,青森県,2072,PERU.,青森県,0,,-
 GOLD,電人、暁に斃れる。,326,KOZUE#,青森県,1092,JKUN,青森県,2236,NEODIO,青森県,3384,MOSAPI,青森県,0,,-
 GOLD,零 - ZERO -,211,AMIL,青森県,1016,KONFOX,青森県,1685,K.M*SA,青森県,2309,MOSAPI,青森県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,484,PAYA!?,青森県,1021,PAC,青森県,1431,MOSAPI,青森県,0,,-
@@ -391,7 +391,7 @@ DJ TROOPERS,madrugada,0,,-,0,,-,1107,TABAI,青森県,1839,MOSAPI,青森県,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,816,POOO,青森県,1894,BONTEN,青森県,2832,MOSAPI,青森県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,0,,-,1570,TYURAL,青森県,2035,MOSAPI,青森県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1075,GYRO,青森県,2019,JETHY,青森県,2544,MOSAPI,青森県,0,,-
-DJ TROOPERS,ICARUS,0,,-,1035,TENTAI,青森県,1993,REU,青森県,2382,MOSAPI,青森県,3570,NAKAG,青森県
+DJ TROOPERS,ICARUS,0,,-,1191,NEZ3,青森県,1993,REU,青森県,2382,MOSAPI,青森県,3570,NAKAG,青森県
 DJ TROOPERS,Freeway Shuffle,279,KOZUE#,青森県,733,SIRO,青森県,1106,NEZ3,青森県,1873,MOSAPI,青森県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,958,NEODIO,青森県,1780,SIY,青森県,2252,IIDX30,青森県,0,,-
 DJ TROOPERS,end of world,0,,-,381,SHELPA,青森県,1693,APUNOS,青森県,2512,MOSAPI,青森県,0,,-
@@ -414,10 +414,10 @@ EMPRESS,凛として咲く花の如く,387,OTIS,青森県,1239,Y!D!,青森県,20
 EMPRESS,不沈艦CANDY,567,APUNOS,青森県,1049,PAC,青森県,1870,VERD,青森県,3276,MOSAPI,青森県,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,946,SIRO,青森県,1534,GATTO*,青森県,2784,MOSAPI,青森県,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,960,LIEZA.,青森県,1986,SACHA,青森県,2490,MOSAPI,青森県,0,,-
-EMPRESS,まほろば,0,,-,452,NAO39,青森県,1182,URAKI,青森県,2054,MOSAPI,青森県,0,,-
+EMPRESS,まほろば,0,,-,452,NAO39,青森県,1182,URAKI,青森県,2056,MOSAPI,青森県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,1228,ARCARD,青森県,1802,SIY,青森県,2515,MOSAPI,青森県,0,,-
 EMPRESS,Y&Co. is dead or alive,0,,-,1130,T,青森県,1608,FALCO,青森県,2760,MOSAPI,青森県,0,,-
-EMPRESS,V2,778,APUNOS,青森県,932,NOT,青森県,2955,NEODIO,青森県,3556,MOSAPI,青森県,0,,-
+EMPRESS,V2,778,APUNOS,青森県,932,NOT,青森県,2955,NEODIO,青森県,3560,MOSAPI,青森県,0,,-
 EMPRESS,Turii ～Panta rhei～,352,OTIS,青森県,512,NOT,青森県,1765,AAAABI,青森県,2668,MOSAPI,青森県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,815,NEODIO,青森県,1592,VERD,青森県,2044,DIS-L,青森県,2906,IIDX30,青森県
 EMPRESS,SOLITON BEAM,0,,-,0,,-,2032,RU4AN,青森県,2355,MOSAPI,青森県,0,,-
@@ -426,7 +426,7 @@ EMPRESS,Secrets,0,,-,1189,NEZ3,青森県,2336,ARCARD,青森県,3146,MOSAPI,青�
 EMPRESS,Queen's Tragedy,0,,-,501,NYA2KI,青森県,1537,KARUBO,青森県,2232,MOSAPI,青森県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,598,SHENMU,青森県,1491,NITT,青森県,2519,MOSAPI,青森県,0,,-
 EMPRESS,Programmed World,0,,-,927,JETHY,青森県,1652,FALCO,青森県,2301,MOSAPI,青森県,0,,-
-EMPRESS,NΦ CRIME,207,NOT,青森県,633,URAKI,青森県,1342,RAICHA,青森県,1898,MOSAPI,青森県,0,,-
+EMPRESS,NΦ CRIME,207,NOT,青森県,633,URAKI,青森県,1363,KASS,青森県,1898,MOSAPI,青森県,0,,-
 EMPRESS,neogenesis,0,,-,0,,-,1223,SIRO,青森県,1716,MOSAPI,青森県,0,,-
 EMPRESS,naughty girl@Queen's Palace,0,,-,693,BBA,青森県,1637,REU,青森県,2107,MOSAPI,青森県,2636,MOMOKO,青森県
 EMPRESS,Monkey Dance '09,0,,-,634,POOO,青森県,1576,OH!?,青森県,2264,MOSAPI,青森県,0,,-
@@ -493,7 +493,7 @@ SIRIUS,DESIRE,0,,-,239,MIDLO,青森県,1922,SIY,青森県,2831,MOSAPI,青森県,
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,523,RINGO,青森県,1426,SIY,青森県,2099,MOSAPI,青森県,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1236,ISZ,青森県,2679,SYAMU,青森県,3125,MOSAPI,青森県,0,,-
 SIRIUS,D,0,,-,1513,NEODIO,青森県,1786,LUCIA.,青森県,2541,MOSAPI,青森県,0,,-
-SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,870,OKTM,青森県,1388,RYO-SK,青森県,2387,TYURAL,青森県,0,,-
+SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,870,OKTM,青森県,1431,JUN.,青森県,2387,TYURAL,青森県,0,,-
 SIRIUS,bloomin' feeling,356,JJ,青森県,1172,OKTM,青森県,1853,VERD,青森県,2597,MOSAPI,青森県,0,,-
 SIRIUS,being torn the sky,0,,-,457,HACK.6,青森県,1009,HACK.6,青森県,1974,IIDX30,青森県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,407,NS.351,青森県,1522,S,青森県,2471,MOSAPI,青森県,0,,-
@@ -505,7 +505,7 @@ SIRIUS,AIR RAID FROM THA UNDAGROUND,528,OTIS,青森県,849,M1K4N,青森県,1757,
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,651,KONFOX,青森県,1957,M,青森県,3433,MOSAPI,青森県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,563,JETHY,青森県,1043,JETHY,青森県,1932,KAWADX,青森県,2944,MOSAPI,青森県,0,,-
 Resort Anthem,旅人リラン,0,,-,1038,CSM,青森県,1839,VERD,青森県,2628,MOSAPI,青森県,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,692,NS.351,青森県,2033,NAKAG,青森県,2800,MOSAPI,青森県,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,722,NS.351,青森県,2033,NAKAG,青森県,2800,MOSAPI,青森県,0,,-
 Resort Anthem,中華急行,0,,-,327,TAKOPI,青森県,1476,7C6,青森県,2301,SUZRAN,青森県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,522,APUNOS,青森県,638,PAYA!?,青森県,1249,KAI,青森県,1853,GONZUX,青森県,0,,-
 Resort Anthem,おおきなこえで,0,,-,439,SIRO,青森県,690,ADUTI,青森県,1477,TAKOPI,青森県,2111,TAKOPI,青森県
@@ -535,7 +535,7 @@ Resort Anthem,passionate fate,0,,-,765,HACK.6,青森県,1552,KETTY,青森県,213
 Resort Anthem,PARADISE LOST,0,,-,1286,N4TSU.,青森県,2226,MIST,青森県,3241,MOSAPI,青森県,0,,-
 Resort Anthem,New Castle Legions,0,,-,1017,NEODIO,青森県,1772,PRAWN.,青森県,2671,NAKAG,青森県,0,,-
 Resort Anthem,Never Fade Away,0,,-,0,,-,1120,NITE!,青森県,3010,MOSAPI,青森県,0,,-
-Resort Anthem,Mermaid girl,530,APUNOS,青森県,820,NSX,青森県,1629,RYU,青森県,2221,MOSAPI,青森県,0,,-
+Resort Anthem,Mermaid girl,530,APUNOS,青森県,950,SIRO,青森県,1629,RYU,青森県,2221,MOSAPI,青森県,0,,-
 Resort Anthem,Medicine of love,0,,-,0,,-,811,KONFOX,青森県,1728,MOSAPI,青森県,0,,-
 Resort Anthem,Let The Track Flow,0,,-,854,A.773,青森県,1723,VERD,青森県,2623,MOSAPI,青森県,0,,-
 Resort Anthem,Kailua,0,,-,0,,-,1406,MOSAPI,青森県,2183,MOSAPI,青森県,0,,-
@@ -557,7 +557,7 @@ Resort Anthem,BLUST OF WIND,0,,-,465,NOT,青森県,1297,TURAMI,青森県,2137,MO
 Resort Anthem,Believe In Me,0,,-,401,SHELPA,青森県,1736,VERD,青森県,2393,MOSAPI,青森県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,929,SIRO,青森県,1907,SIY,青森県,2953,MOSAPI,青森県,0,,-
 Resort Anthem,Answer,0,,-,567,YOHANE,青森県,1409,NEZ3,青森県,2412,A.X.L.,青森県,0,,-
-Resort Anthem,ALBIDA,522,APUNOS,青森県,805,W,青森県,1896,FALCO,青森県,2999,MOSAPI,青森県,0,,-
+Resort Anthem,ALBIDA,522,APUNOS,青森県,814,M1NT1A,青森県,1896,FALCO,青森県,2999,MOSAPI,青森県,0,,-
 Resort Anthem,Aegis,0,,-,552,TSU9NE,青森県,1257,NEZ3,青森県,2336,MOSAPI,青森県,0,,-
 Lincle,陽炎,0,,-,181,AAAAAA,青森県,934,U-ZAN,青森県,2012,MOSAPI,青森県,0,,-
 Lincle,衰色小町メランコリア,0,,-,784,FALCO,青森県,1323,EGGMAN,青森県,2362,MOSAPI,青森県,0,,-
@@ -612,11 +612,11 @@ Lincle,Flip Flap,275,OTIS,青森県,342,**,青森県,1179,N4TSU.,青森県,2216,
 Lincle,fffff,0,,-,840,ARCARD,青森県,2105,MOSAPI,青森県,3123,MOSAPI,青森県,0,,-
 Lincle,Far east nightbird,302,PROCAL,青森県,315,DANMAK,青森県,1301,NITT,青森県,2009,SUZRAN,青森県,0,,-
 Lincle,F,0,,-,990,SIRO,青森県,2106,REU,青森県,3552,MOSAPI,青森県,0,,-
-Lincle,Express Emotion,0,,-,728,K.K,青森県,997,SUFFY,青森県,2515,MOSAPI,青森県,0,,-
+Lincle,Express Emotion,0,,-,728,K.K,青森県,1041,SYAMU,青森県,2515,MOSAPI,青森県,0,,-
 Lincle,Drive Me Crazy,0,,-,498,CANARY,青森県,1349,NCG.NG,青森県,2303,MOSAPI,青森県,0,,-
 Lincle,DIAVOLO,0,,-,1215,RYU,青森県,1837,FALCO,青森県,3132,SUZRAN,青森県,0,,-
 Lincle,Change the World,0,,-,816,RASCAL,青森県,1313,NCG.NG,青森県,1849,MOSAPI,青森県,0,,-
-Lincle,Castle on the Moon,234,AMIL,青森県,538,SPYRO,青森県,1524,VERD,青森県,2401,A.X.L.,青森県,0,,-
+Lincle,Castle on the Moon,234,AMIL,青森県,541,DISK,青森県,1524,VERD,青森県,2401,A.X.L.,青森県,0,,-
 Lincle,CALL,0,,-,243,IIDX29,青森県,797,CALFD,青森県,1436,KAWADX,青森県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,947,NEZ3,青森県,2125,MIST,青森県,3322,MOSAPI,青森県,0,,-
 Lincle,ANAGRAMS I to Y,0,,-,632,CANARY,青森県,1564,KAI,青森県,2460,SUZRAN,青森県,0,,-
@@ -693,7 +693,7 @@ tricoro,FLOWER,273,POOO,青森県,845,AKA,青森県,1620,CERES,青森県,2843,PE
 tricoro,examination leave,0,,-,1073,KAI,青森県,1848,VERD,青森県,3365,RU4AN,青森県,0,,-
 tricoro,Elemental Creation,245,AMIL,青森県,1402,ARU.68,青森県,2325,M,青森県,4035,A.X.L.,青森県,0,,-
 tricoro,Devilz Staircase,0,,-,577,NEZ3,青森県,2151,SUZRAN,青森県,3249,MOSAPI,青森県,0,,-
-tricoro,DAY DREAM,0,,-,585,T,青森県,1185,LUCIA.,青森県,1985,MOSAPI,青森県,0,,-
+tricoro,DAY DREAM,0,,-,585,T,青森県,1200,RIBEA,青森県,1985,MOSAPI,青森県,0,,-
 tricoro,Cookie Bouquets,0,,-,766,NU51M0,青森県,1923,AAAAAA,青森県,3372,RU4AN,青森県,0,,-
 tricoro,connective,0,,-,269,IIDX29,青森県,964,NEZ3,青森県,1592,TAKOPI,青森県,0,,-
 tricoro,Confiserie,0,,-,714,KYK,青森県,1965,LUCIA.,青森県,3465,MOSAPI,青森県,0,,-
@@ -726,7 +726,7 @@ SPADA,Unicorn tail,0,,-,851,LUCIA.,青森県,1927,ASH,青森県,3124,MOSAPI,青�
 SPADA,THE DETONATOR,0,,-,1231,A.773,青森県,2425,LUCIA.,青森県,3211,MOSAPI,青森県,0,,-
 SPADA,Squeeze,0,,-,491,HACK.6,青森県,1008,A.AURA,青森県,2325,FALCO,青森県,0,,-
 SPADA,Sigmund,0,,-,1473,JETHY,青森県,2307,REU,青森県,3733,SUZRAN,青森県,4134,MOSAPI,青森県
-SPADA,SCHWARZSCHILD FIELD,0,,-,0,,-,1495,VERD,青森県,2386,MOSAPI,青森県,0,,-
+SPADA,SCHWARZSCHILD FIELD,0,,-,631,NS.351,青森県,1495,VERD,青森県,2386,MOSAPI,青森県,0,,-
 SPADA,RIZING YOU UP,0,,-,1047,JETHY,青森県,1946,ICC,青森県,2562,A.X.L.,青森県,0,,-
 SPADA,RISE,0,,-,920,LUCIA.,青森県,1338,GNH,青森県,1853,TYURAL,青森県,0,,-
 SPADA,refractive index,0,,-,406,NOT,青森県,1335,NITT,青森県,2694,MOSAPI,青森県,0,,-
@@ -766,7 +766,7 @@ SPADA,diagram,0,,-,380,CHINON,青森県,1051,GILFY.,青森県,2847,MOSAPI,青森
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,960,LUCIA.,青森県,1696,LUCIA.,青森県,2478,MOSAPI,青森県,0,,-
 SPADA,DARK LEGACY,0,,-,1270,JETHY,青森県,2036,FXSEN4,青森県,3559,MOSAPI,青森県,0,,-
 SPADA,Dark Fall,0,,-,704,KONFOX,青森県,1350,NITT,青森県,2781,A.X.L.,青森県,0,,-
-SPADA,Critical Crystal,210,AMIL,青森県,757,!?,青森県,1760,D-HERO,青森県,2903,MOSAPI,青森県,0,,-
+SPADA,Critical Crystal,210,AMIL,青森県,833,AKI*,青森県,1760,D-HERO,青森県,2903,MOSAPI,青森県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1107,GO,青森県,2038,M,青森県,3389,MOSAPI,青森県,3801,MOSAPI,青森県
 SPADA,Cleopatrysm,0,,-,474,IIDX29,青森県,1312,CERES,青森県,2498,IIDX30,青森県,0,,-
 SPADA,Claiomh Solais,0,,-,262,NOT,青森県,0,,-,2082,MOSAPI,青森県,0,,-
@@ -781,7 +781,7 @@ PENDUAL,Ｘ↑Ｘ↓,0,,-,774,A.AURA,青森県,1584,FALCO,青森県,2854,IIDX30,
 PENDUAL,鬼天,0,,-,668,ZELU,青森県,1470,SUIREN,青森県,2473,MOSAPI,青森県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,912,A.773,青森県,1990,REU,青森県,2687,MOSAPI,青森県,4065,A.X.L.,青森県
 PENDUAL,表裏一体！？怪盗いいんちょの悩み,0,,-,993,A.773,青森県,2120,FXSEN4,青森県,3575,MOSAPI,青森県,0,,-
-PENDUAL,紅牡丹,286,#49UN,青森県,995,KAI,青森県,1739,VERD,青森県,2858,A.X.L.,青森県,0,,-
+PENDUAL,紅牡丹,324,SYADOW,青森県,995,KAI,青森県,1739,VERD,青森県,2858,A.X.L.,青森県,0,,-
 PENDUAL,白露の風,0,,-,372,IIDX29,青森県,1237,SIY,青森県,2027,MOSAPI,青森県,0,,-
 PENDUAL,時空トラベローグ,0,,-,645,HACK.6,青森県,1745,MAL,青森県,2642,A.X.L.,青森県,0,,-
 PENDUAL,打打打打打打打打打打,196,OTIS,青森県,745,KONFOX,青森県,1313,TE*3,青森県,2635,MOSAPI,青森県,0,,-
@@ -856,7 +856,7 @@ PENDUAL,Broken Sword,0,,-,735,NOT,青森県,2024,EBI*,青森県,3719,MOSAPI,青�
 PENDUAL,BLUE MIRAGE,0,,-,1129,LUCIA.,青森県,1919,MAL,青森県,2963,MOSAPI,青森県,0,,-
 PENDUAL,Blaze it UP!,0,,-,924,ARU.68,青森県,1644,NITT,青森県,2958,MOSAPI,青森県,0,,-
 PENDUAL,Beyond The Earth,0,,-,1252,LUCIA.,青森県,2059,FALCO,青森県,3204,MOSAPI,青森県,0,,-
-PENDUAL,Beat Radiance,0,,-,979,LUCIA.,青森県,1502,CERES,青森県,2620,RU4AN,青森県,3565,A.X.L.,青森県
+PENDUAL,Beat Radiance,0,,-,979,LUCIA.,青森県,1505,AOIHGR,青森県,2620,RU4AN,青森県,3565,A.X.L.,青森県
 PENDUAL,AFRO KNUCKLE,0,,-,753,BBA,青森県,1749,ARCARD,青森県,2423,MOSAPI,青森県,0,,-
 PENDUAL,#The_Relentless,0,,-,0,,-,1953,ARCARD,青森県,2932,MOSAPI,青森県,0,,-
 SINOBUZ,鴉,0,,-,1490,JETHY,青森県,2195,PNSP!!,青森県,2681,IIDX30,青森県,0,,-
@@ -922,7 +922,7 @@ SINOBUZ,INVISIBLE STRIX,0,,-,727,TSU9NE,青森県,1811,D-HERO,青森県,2567,A.X
 SINOBUZ,Honey Trap,0,,-,680,YKTR,青森県,1500,MERC,青森県,2533,MOSAPI,青森県,0,,-
 SINOBUZ,HAPPY★RUSH,0,,-,626,SPYRO,青森県,1795,VERD,青森県,2773,RU4AN,青森県,0,,-
 SINOBUZ,HADES,361,AMIL,青森県,975,LUCIA.,青森県,1794,FALCO,青森県,3077,MOSAPI,青森県,0,,-
-SINOBUZ,GuNGNiR,0,,-,1180,MYSTI9,青森県,2566,5MIKAS,青森県,3833,SUZRAN,青森県,4419,A.X.L.,青森県
+SINOBUZ,GuNGNiR,0,,-,1180,MYSTI9,青森県,2649,IIDX30,青森県,3833,SUZRAN,青森県,4419,A.X.L.,青森県
 SINOBUZ,Go Ahead!!,0,,-,839,N4TSU.,青森県,1450,M,青森県,2617,MOSAPI,青森県,0,,-
 SINOBUZ,FUZIN RIZIN,0,,-,0,,-,1989,SYAMU,青森県,3767,A.X.L.,青森県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,482,AMIL,青森県,1061,TENTAI,青森県,1634,MOSAPI,青森県,0,,-
@@ -965,7 +965,7 @@ copula,ギョギョっと人魚 爆婚ブライダル,0,,-,767,KAI,青森県,141
 copula,オルタネイトβ,0,,-,594,NAO39,青森県,1358,SA,青森県,2253,MOSAPI,青森県,0,,-
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,1131,A.773,青森県,2258,C7LK,青森県,3345,MOSAPI,青森県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,0,,-,1785,FALCO,青森県,2813,A.X.L.,青森県,0,,-
-copula,ZEPHYRANTHES,0,,-,752,SUKERO,青森県,1764,FXSEN4,青森県,2914,LIEZA.,青森県,3822,MOSAPI,青森県
+copula,ZEPHYRANTHES,0,,-,944,KASS,青森県,1764,FXSEN4,青森県,2914,LIEZA.,青森県,3822,MOSAPI,青森県
 copula,X,0,,-,1452,KAI,青森県,2399,SIY,青森県,3834,A.X.L.,青森県,0,,-
 copula,Welcome,0,,-,824,7C6,青森県,1630,7C6,青森県,2579,5MIKAS,青森県,3321,MOSAPI,青森県
 copula,Violet Rose,0,,-,924,GILFY.,青森県,1803,VERD,青森県,2539,MOSAPI,青森県,0,,-
@@ -981,7 +981,7 @@ copula,STARLiGHT,0,,-,806,A.773,青森県,1683,VERD,青森県,2741,A.X.L.,青森
 copula,SHELTER OF THE MIND,0,,-,1006,COCOA,青森県,1873,VERD,青森県,3039,MOSAPI,青森県,0,,-
 copula,Set U Free feat. Kanae Asaba,0,,-,606,ADUTI,青森県,1439,NCG.NG,青森県,2551,MOSAPI,青森県,0,,-
 copula,Sephirot,0,,-,942,LUCIA.,青森県,1643,LUCIA.,青森県,2344,A.X.L.,青森県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,469,KYK,青森県,1174,KAI,青森県,2175,IIDX30,青森県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,520,M1NT1A,青森県,1174,KAI,青森県,2175,IIDX30,青森県,0,,-
 copula,Routing,0,,-,719,TSU9NE,青森県,1545,FXSEN4,青森県,2524,MOSAPI,青森県,0,,-
 copula,Rock It,0,,-,0,,-,1647,RASCAL,青森県,2888,5MIKAS,青森県,0,,-
 copula,refrain,0,,-,1022,AKI*,青森県,2230,SIY,青森県,3611,MOSAPI,青森県,0,,-
@@ -1021,7 +1021,7 @@ copula,Daily Lunch Special,0,,-,880,SHOOOO,青森県,2125,SIY,青森県,2929,MOS
 copula,CODE:1 [revision1.0.1],0,,-,0,,-,1577,LYNX,青森県,3108,MOSAPI,青森県,0,,-
 copula,chaos eater -IIDX edition-,0,,-,746,NNOOQQ,青森県,1625,VERD,青森県,2577,IIDX30,青森県,0,,-
 copula,Central Station,0,,-,0,,-,1471,HIORIN,青森県,2375,IIDX30,青森県,0,,-
-copula,Blue Spring Express,0,,-,1166,N4TSU.,青森県,1951,GNH,青森県,3240,MOSAPI,青森県,0,,-
+copula,Blue Spring Express,0,,-,1166,N4TSU.,青森県,2015,MIST,青森県,3240,MOSAPI,青森県,0,,-
 copula,Battle Train -IIDX Edition-,0,,-,0,,-,2236,FEL,青森県,3255,MOSAPI,青森県,0,,-
 copula,Aublia,0,,-,526,IIDX29,青森県,1239,N2,青森県,2576,MOSAPI,青森県,0,,-
 copula,Arcana,0,,-,563,POOO,青森県,1598,KAI,青森県,2282,MOSAPI,青森県,0,,-
@@ -1029,107 +1029,6 @@ copula,AO-1,0,,-,1112,OKTM,青森県,1818,FALCO,青森県,2739,MOSAPI,青森県,
 copula,Angelic Jelly,0,,-,1116,LUCIA.,青森県,2021,LUCIA.,青森県,2699,IIDX30,青森県,0,,-
 copula,Acid Pumper,0,,-,684,SIY,青森県,1512,GATTO*,青森県,2479,MOSAPI,青森県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,656,TENTAI,青森県,1657,REU,青森県,2352,MOMOKO,青森県,0,,-
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1037,5181,青森県,2273,SIY,青森県,3190,MOSAPI,青森県,0,,-
-Rootage,金野火織の金色提言,0,,-,1253,SIY,青森県,2217,SIY,青森県,3051,A.X.L.,青森県,0,,-
-Rootage,花冠 feat.Aikapin,0,,-,1022,NEODIO,青森県,1565,JETHY,青森県,2601,A.X.L.,青森県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,794,NNOOQQ,青森県,1807,VERD,青森県,2714,A.X.L.,青森県,0,,-
-Rootage,深愛のリグレット,0,,-,597,CANARY,青森県,958,GYRO,青森県,2395,MOSAPI,青森県,0,,-
-Rootage,泰東ノ翠霞,0,,-,268,CHOCO,青森県,747,JETHY,青森県,1723,MOSAPI,青森県,0,,-
-Rootage,最小三倍完全数,0,,-,608,A170,青森県,1670,VERD,青森県,2478,A.X.L.,青森県,0,,-
-Rootage,抱きしめてモナムール,0,,-,992,AKI*,青森県,2247,REU,青森県,4082,A.X.L.,青森県,0,,-
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,407,NOT,青森県,1500,PNSP!!,青森県,2556,MOSAPI,青森県,0,,-
-Rootage,ミッドナイト☆WAR,0,,-,649,TAM,青森県,1520,MERC,青森県,2502,MOSAPI,青森県,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,346,TMPTDK,青森県,706,.EILA.,青森県,1415,TYURAL,青森県,0,,-
-Rootage,ハードベース・フェスタ,0,,-,956,JKUN,青森県,1787,LUCIA.,青森県,2864,MOSAPI,青森県,0,,-
-Rootage,セカンドピアス,0,,-,564,TENTAI,青森県,1062,IWASHI,青森県,2019,MOSAPI,青森県,0,,-
-Rootage,サクラあっぱれーしょん,256,AMIL,青森県,407,9C.CAS,青森県,1410,KAI,青森県,2318,MOSAPI,青森県,0,,-
-Rootage,グラナダの風,0,,-,541,A170,青森県,1146,MERC,青森県,1823,IIDX30,青森県,0,,-
-Rootage,お菓子の王国,0,,-,1288,N4TSU.,青森県,2131,MAL,青森県,4000,SUZRAN,青森県,0,,-
-Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,893,NU51M0,青森県,1892,SIY,青森県,2906,A.X.L.,青森県,0,,-
-Rootage,ZENDEGI DANCE,0,,-,701,M1K4N,青森県,1757,FALCO,青森県,2753,MOSAPI,青森県,0,,-
-Rootage,Yum Yum Jelly,0,,-,778,MANA,青森県,1505,LUCIA.,青森県,2367,MOSAPI,青森県,0,,-
-Rootage,Xlo,0,,-,1218,MADAO,青森県,2345,F,青森県,3727,MOSAPI,青森県,0,,-
-Rootage,XENON II ～TOMOYUKIの野望～,0,,-,917,AB4,青森県,1611,LYNX,青森県,2971,A.X.L.,青森県,0,,-
-Rootage,X-DEN,0,,-,1564,TYURAL,青森県,2611,2TORI,青森県,3972,SUZRAN,青森県,0,,-
-Rootage,Wonderland,0,,-,0,,-,1824,SATO,青森県,2710,LIEZA.,青森県,0,,-
-Rootage,Won(*3*)Chu KissMe!,257,AMIL,青森県,656,YKTR,青森県,1307,KAI,青森県,2462,IIDX30,青森県,0,,-
-Rootage,Wolf 1061,0,,-,950,IWASHI,青森県,1632,LYNX,青森県,3089,A.X.L.,青森県,0,,-
-Rootage,Wing of Hearts,0,,-,825,.EILA.,青森県,1808,SYAMU,青森県,2921,RU4AN,青森県,0,,-
-Rootage,voltississimo,0,,-,710,POOO,青森県,2108,SIY,青森県,3462,NAKAG,青森県,0,,-
-Rootage,Visterhv,0,,-,1061,RABI.,青森県,2230,SYAMU,青森県,3689,A.X.L.,青森県,0,,-
-Rootage,Urban Constellations,0,,-,378,HACK.6,青森県,1366,FALCO,青森県,2239,IIDX30,青森県,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1131,LUCIA.,青森県,1958,VERD,青森県,3241,A.X.L.,青森県,0,,-
-Rootage,Unbelief,0,,-,643,HOUJI,青森県,1915,LUCIA.,青森県,3110,SUZRAN,青森県,0,,-
-Rootage,U.S.A.,549,OTIS,青森県,905,KONFOX,青森県,1797,VERD,青森県,2895,A.X.L.,青森県,0,,-
-Rootage,Twilight Warp,0,,-,895,SIRO,青森県,1279,NEZ3,青森県,2161,MOSAPI,青森県,0,,-
-Rootage,Trill auf G,0,,-,980,ME,青森県,2004,ARCARD,青森県,3195,MOSAPI,青森県,0,,-
-Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,0,,-,1505,MERC,青森県,2239,5MIKAS,青森県,0,,-
-Rootage,toy boxer,0,,-,485,TAKAO,青森県,1427,SYAMU,青森県,2230,A.X.L.,青森県,0,,-
-Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,403,NOT,青森県,1239,NEZ3,青森県,2209,TAKOPI,青森県,0,,-
-Rootage,The Rebellion of Sequencer,0,,-,1164,ARU.68,青森県,1842,.87OGG,青森県,3107,MOSAPI,青森県,0,,-
-Rootage,THE DAY OF JUBILATIONS,0,,-,1251,AZCAT,青森県,2262,NEODIO,青森県,3387,MOSAPI,青森県,0,,-
-Rootage,The Best of Both Worlds,0,,-,551,SIRO,青森県,1367,LUCIA.,青森県,2198,A.X.L.,青森県,0,,-
-Rootage,Technicolour Dreams,0,,-,831,SQUID.,青森県,1378,MERC,青森県,2352,TYURAL,青森県,0,,-
-Rootage,SPEED ROCKER,0,,-,906,ARCARD,青森県,1544,D-HERO,青森県,2248,TYURAL,青森県,0,,-
-Rootage,Six String Proof,0,,-,790,AS10R,青森県,1510,VERD,青森県,2458,RU4AN,青森県,0,,-
-Rootage,Serious?,0,,-,376,NOT,青森県,1164,NITT,青森県,2243,MOSAPI,青森県,0,,-
-Rootage,R∞tAge,412,KYK,青森県,836,NNOOQQ,青森県,1536,KETTY,青森県,2967,MOSAPI,青森県,0,,-
-Rootage,ruin of opals,0,,-,1062,NEODIO,青森県,1929,GONZUX,青森県,3032,NAKAG,青森県,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,853,A.AURA,青森県,1588,TOAD,青森県,2685,MOSAPI,青森県,0,,-
-Rootage,REPLAY,0,,-,0,,-,1476,MERC,青森県,2258,MOSAPI,青森県,0,,-
-Rootage,Red. by Jack Trance,0,,-,1471,ARCARD,青森県,2133,MIST,青森県,3472,MOSAPI,青森県,0,,-
-Rootage,Psycho Sheep Riddim,0,,-,562,JKUN,青森県,929,CSM,青森県,1634,KAWADX,青森県,2214,A.X.L.,青森県
-Rootage,Please Welcome Mr.C,0,,-,1002,RAV,青森県,1650,ELD.GX,青森県,2961,MOSAPI,青森県,0,,-
-Rootage,Playing With Fire,0,,-,0,,-,1560,VERD,青森県,2270,PERU.,青森県,0,,-
-Rootage,Painful Fate,0,,-,1012,A.AURA,青森県,2175,LUCIA.,青森県,3290,A.X.L.,青森県,0,,-
-Rootage,OVER TIME,0,,-,501,KBT,青森県,905,KAI,青森県,1555,MOSAPI,青森県,0,,-
-Rootage,ONIGOROSHI,0,,-,1031,A.773,青森県,2111,TOAD,青森県,2882,MOSAPI,青森県,0,,-
-Rootage,Night! Night! Night!,0,,-,1026,YU,青森県,1582,Y,青森県,3031,MOSAPI,青森県,0,,-
-Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,867,SIRO,青森県,1556,LUCIA.,青森県,2638,SUZRAN,青森県,0,,-
-Rootage,Necroxis Girl,0,,-,1119,LUCIA.,青森県,1853,GATTO*,青森県,2805,MOSAPI,青森県,0,,-
-Rootage,Macho Monky,0,,-,1365,IWASHI,青森県,2046,MIST,青森県,3005,MOSAPI,青森県,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,1038,IWASHI,青森県,1776,MERC,青森県,3500,MOSAPI,青森県,0,,-
-Rootage,Lift Us High,0,,-,952,LUCIA.,青森県,1574,LUCIA.,青森県,2428,5MIKAS,青森県,0,,-
-Rootage,Level One,0,,-,1254,ARCARD,青森県,2289,QUERTY,青森県,3415,MOSAPI,青森県,0,,-
-Rootage,Lethal Weapon,0,,-,1179,T,青森県,1852,FXSEN4,青森県,3173,MOMOKO,青森県,0,,-
-Rootage,Let me be your cure,0,,-,1017,TMPTDK,青森県,1421,SIY,青森県,2645,LIEZA.,青森県,0,,-
-Rootage,LADYBIRD,0,,-,1066,GATTO*,青森県,1561,MERC,青森県,2380,IIDX30,青森県,0,,-
-Rootage,L.F.O,0,,-,862,LUCIA.,青森県,1708,FXSEN4,青森県,3281,MOSAPI,青森県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1253,MYSTI9,青森県,2324,REU,青森県,3794,MOSAPI,青森県,0,,-
-Rootage,IDOL syndrome.,0,,-,716,SIRO,青森県,1268,OKTM,青森県,2184,PERU.,青森県,0,,-
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1063,ARCARD,青森県,1531,LUCIA.,青森県,2154,MOSAPI,青森県,0,,-
-Rootage,Hurry Hurry,0,,-,464,NOT,青森県,1028,LUCIA.,青森県,2081,MOSAPI,青森県,0,,-
-Rootage,HOT LIMIT,317,MOFNEM,青森県,1060,LUCIA.,青森県,1692,LUCIA.,青森県,2485,QUERTY,青森県,0,,-
-Rootage,HEISEI,372,OTIS,青森県,632,HACK.6,青森県,1876,SIY,青森県,2547,A.X.L.,青森県,0,,-
-Rootage,HARD BRAIN,0,,-,926,M1K4N,青森県,1874,VERD,青森県,3758,MOSAPI,青森県,0,,-
-Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,964,RAV,青森県,2129,NCG.NG,青森県,3869,SUZRAN,青森県,0,,-
-Rootage,Glory,0,,-,774,T,青森県,1582,LUCIA.,青森県,2276,DIS-L,青森県,0,,-
-Rootage,GIGA THRASH,0,,-,977,RABI.,青森県,1859,LUCIA.,青森県,2628,TYURAL,青森県,0,,-
-Rootage,GENE,0,,-,1274,KETSU*,青森県,1932,TYURAL,青森県,4296,A.X.L.,青森県,0,,-
-Rootage,Geirskogul,0,,-,0,,-,1508,MERC,青森県,2201,IIDX30,青森県,0,,-
-Rootage,Garuda,0,,-,0,,-,1549,MERC,青森県,2584,MOSAPI,青森県,0,,-
-Rootage,EVANESCENT,0,,-,652,TOWAC,青森県,2260,NEODIO,青森県,3543,MOSAPI,青森県,0,,-
-Rootage,Ember Lights,0,,-,915,ARU.68,青森県,1610,LUCIA.,青森県,2713,MOSAPI,青森県,0,,-
-Rootage,DRUNK MONKY,0,,-,794,TURAMI,青森県,1537,TYURAL,青森県,2310,MOSAPI,青森県,0,,-
-Rootage,Drastic Dramatic,0,,-,1492,GATTO*,青森県,2286,SIY,青森県,3470,MOSAPI,青森県,0,,-
-Rootage,Dr. Chemical & Killing Machine,0,,-,729,SPYRO,青森県,1864,MOSAPI,青森県,3356,MOSAPI,青森県,0,,-
-Rootage,Digital Skipper,0,,-,639,TOWAC,青森県,1261,N2,青森県,2173,TYURAL,青森県,0,,-
-Rootage,dAuntl3ss,0,,-,905,NASU.,青森県,1873,KASS,青森県,3483,MOSAPI,青森県,0,,-
-Rootage,Cranberry City ft. Luschel,0,,-,678,G0R1,青森県,1553,NCG.NG,青森県,2412,A.X.L.,青森県,0,,-
-Rootage,COSMIC CYBER,0,,-,1035,GATTO*,青森県,1625,FALCO,青森県,2845,IIDX30,青森県,0,,-
-Rootage,CoMAAAAAAA,0,,-,1221,LUCIA.,青森県,2032,LUCIA.,青森県,2381,MOSAPI,青森県,0,,-
-Rootage,CODE:0,0,,-,1420,ARCARD,青森県,1993,ELD.GX,青森県,2766,MOSAPI,青森県,0,,-
-Rootage,Catch Our Fire!,0,,-,1093,JKUN,青森県,2163,FXSEN4,青森県,3653,A.X.L.,青森県,0,,-
-Rootage,Carry Me Away,536,NEODIO,青森県,1075,ARCARD,青森県,1791,SIY,青森県,3154,MOSAPI,青森県,0,,-
-Rootage,Carmina,532,NEODIO,青森県,1150,TENTAI,青森県,2394,TYURAL,青森県,3667,SUZRAN,青森県,0,,-
-Rootage,BLOSSOM,0,,-,0,,-,1605,LUCIA.,青森県,2490,TYURAL,青森県,0,,-
-Rootage,BLACK JACKAL,0,,-,836,LUCIA.,青森県,1585,TYURAL,青森県,2315,MOSAPI,青森県,0,,-
-Rootage,Afterimage d'automne,0,,-,857,TALOT,青森県,1584,S,青森県,2797,A.X.L.,青森県,0,,-
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,665,KOUKI,青森県,1516,SA,青森県,2603,MOSAPI,青森県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,989,AS10R,青森県,1510,VERD,青森県,2573,NAKAG,青森県,0,,-
-Rootage,50th Memorial Songs -Flagship medley-,0,,-,428,PAYA!?,青森県,1289,TMPTDK,青森県,2292,A.X.L.,青森県,0,,-
-Rootage,50th Memorial Songs -Beginning Story-,0,,-,763,KAI,青森県,1591,NCG.NG,青森県,2709,MOSAPI,青森県,0,,-
-Rootage,& Intelligence,0,,-,0,,-,1973,LYNX,青森県,3160,MOSAPI,青森県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,688,TENTAI,青森県,1174,JETHY,青森県,2277,TYURAL,青森県,0,,-
 CANNON BALLERS,純真可憐デザイア,235,AMIL,青森県,800,SIRO,青森県,1521,LYNX,青森県,2330,MOSAPI,青森県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1103,SEKAI,青森県,2378,M,青森県,3979,MOSAPI,青森県,0,,-
@@ -1209,20 +1108,121 @@ CANNON BALLERS,Antigravity,0,,-,1033,JETHY,青森県,1925,LUCIA.,青森県,2952,
 CANNON BALLERS,ANCHOR,0,,-,1312,GATTO*,青森県,2391,SIY,青森県,3555,MOSAPI,青森県,0,,-
 CANNON BALLERS,ANAGMA,0,,-,1021,JETHY,青森県,1729,MERC,青森県,2542,SUICA,青森県,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,778,ARCARD,青森県,1338,IWASHI,青森県,2319,MOSAPI,青森県,0,,-
-CANNON BALLERS,Alpheratz,0,,-,255,NOT,青森県,954,KAI,青森県,2079,A.X.L.,青森県,0,,-
+CANNON BALLERS,Alpheratz,0,,-,255,NOT,青森県,954,KAI,青森県,2082,MOSAPI,青森県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1091,SIRO,青森県,1532,KETSA,青森県,2500,MOSAPI,青森県,0,,-
 CANNON BALLERS,Abraxas,0,,-,577,YOHANE,青森県,1453,AAAABI,青森県,2411,A.X.L.,青森県,0,,-
 CANNON BALLERS,AA -rebuild-,0,,-,1113,OKTM,青森県,2299,F,青森県,3570,A.X.L.,青森県,0,,-
 CANNON BALLERS,255,0,,-,746,TURAMI,青森県,1524,JETHY,青森県,3243,NAKAG,青森県,0,,-
 CANNON BALLERS,2 Player,0,,-,895,NEZ3,青森県,1470,KETSA,青森県,2506,IIDX30,青森県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,1015,LUCIA.,青森県,1680,LUCIA.,青森県,2588,IIDX30,青森県,0,,-
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1037,5181,青森県,2273,SIY,青森県,3190,MOSAPI,青森県,0,,-
+Rootage,金野火織の金色提言,0,,-,1253,SIY,青森県,2217,SIY,青森県,3051,A.X.L.,青森県,0,,-
+Rootage,花冠 feat.Aikapin,0,,-,1022,NEODIO,青森県,1565,JETHY,青森県,2601,A.X.L.,青森県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,794,NNOOQQ,青森県,1807,VERD,青森県,2714,A.X.L.,青森県,0,,-
+Rootage,深愛のリグレット,0,,-,597,CANARY,青森県,958,GYRO,青森県,2395,MOSAPI,青森県,0,,-
+Rootage,泰東ノ翠霞,0,,-,268,CHOCO,青森県,747,JETHY,青森県,1723,MOSAPI,青森県,0,,-
+Rootage,最小三倍完全数,0,,-,608,A170,青森県,1670,VERD,青森県,2478,A.X.L.,青森県,0,,-
+Rootage,抱きしめてモナムール,0,,-,992,AKI*,青森県,2247,REU,青森県,4082,A.X.L.,青森県,0,,-
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,407,NOT,青森県,1500,PNSP!!,青森県,2556,MOSAPI,青森県,0,,-
+Rootage,ミッドナイト☆WAR,0,,-,649,TAM,青森県,1520,MERC,青森県,2502,MOSAPI,青森県,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,346,TMPTDK,青森県,706,.EILA.,青森県,1415,TYURAL,青森県,0,,-
+Rootage,ハードベース・フェスタ,0,,-,956,JKUN,青森県,1787,LUCIA.,青森県,2864,MOSAPI,青森県,0,,-
+Rootage,セカンドピアス,0,,-,564,TENTAI,青森県,1062,IWASHI,青森県,2019,MOSAPI,青森県,0,,-
+Rootage,サクラあっぱれーしょん,256,AMIL,青森県,407,9C.CAS,青森県,1410,KAI,青森県,2318,MOSAPI,青森県,0,,-
+Rootage,グラナダの風,0,,-,541,A170,青森県,1146,MERC,青森県,1823,IIDX30,青森県,0,,-
+Rootage,お菓子の王国,0,,-,1288,N4TSU.,青森県,2131,MAL,青森県,4000,SUZRAN,青森県,0,,-
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,893,NU51M0,青森県,1892,SIY,青森県,2906,A.X.L.,青森県,0,,-
+Rootage,ZENDEGI DANCE,0,,-,701,M1K4N,青森県,1757,FALCO,青森県,2753,MOSAPI,青森県,0,,-
+Rootage,Yum Yum Jelly,0,,-,778,MANA,青森県,1505,LUCIA.,青森県,2367,MOSAPI,青森県,0,,-
+Rootage,Xlo,0,,-,1218,MADAO,青森県,2345,F,青森県,3727,MOSAPI,青森県,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,917,AB4,青森県,1611,LYNX,青森県,2971,A.X.L.,青森県,0,,-
+Rootage,X-DEN,0,,-,1564,TYURAL,青森県,2611,2TORI,青森県,3972,SUZRAN,青森県,0,,-
+Rootage,Wonderland,0,,-,0,,-,1824,SATO,青森県,2710,LIEZA.,青森県,0,,-
+Rootage,Won(*3*)Chu KissMe!,257,AMIL,青森県,656,YKTR,青森県,1307,KAI,青森県,2462,IIDX30,青森県,0,,-
+Rootage,Wolf 1061,0,,-,950,IWASHI,青森県,1632,LYNX,青森県,3089,A.X.L.,青森県,0,,-
+Rootage,Wing of Hearts,0,,-,825,.EILA.,青森県,1808,SYAMU,青森県,2921,RU4AN,青森県,0,,-
+Rootage,voltississimo,0,,-,710,POOO,青森県,2108,SIY,青森県,3462,NAKAG,青森県,0,,-
+Rootage,Visterhv,0,,-,1061,RABI.,青森県,2230,SYAMU,青森県,3689,A.X.L.,青森県,0,,-
+Rootage,Urban Constellations,0,,-,378,HACK.6,青森県,1366,FALCO,青森県,2239,IIDX30,青森県,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1131,LUCIA.,青森県,1958,VERD,青森県,3241,A.X.L.,青森県,0,,-
+Rootage,Unbelief,0,,-,643,HOUJI,青森県,1915,LUCIA.,青森県,3110,SUZRAN,青森県,0,,-
+Rootage,U.S.A.,549,OTIS,青森県,905,KONFOX,青森県,1797,VERD,青森県,2895,A.X.L.,青森県,0,,-
+Rootage,Twilight Warp,0,,-,895,SIRO,青森県,1279,NEZ3,青森県,2161,MOSAPI,青森県,0,,-
+Rootage,Trill auf G,0,,-,980,ME,青森県,2004,ARCARD,青森県,3195,MOSAPI,青森県,0,,-
+Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,0,,-,1505,MERC,青森県,2239,5MIKAS,青森県,0,,-
+Rootage,toy boxer,0,,-,485,TAKAO,青森県,1427,SYAMU,青森県,2230,A.X.L.,青森県,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,403,NOT,青森県,1239,NEZ3,青森県,2209,TAKOPI,青森県,0,,-
+Rootage,The Rebellion of Sequencer,0,,-,1164,ARU.68,青森県,1842,.87OGG,青森県,3107,MOSAPI,青森県,0,,-
+Rootage,THE DAY OF JUBILATIONS,0,,-,1251,AZCAT,青森県,2262,NEODIO,青森県,3387,MOSAPI,青森県,0,,-
+Rootage,The Best of Both Worlds,0,,-,551,SIRO,青森県,1367,LUCIA.,青森県,2198,A.X.L.,青森県,0,,-
+Rootage,Technicolour Dreams,0,,-,831,SQUID.,青森県,1378,MERC,青森県,2352,TYURAL,青森県,0,,-
+Rootage,SPEED ROCKER,0,,-,906,ARCARD,青森県,1544,D-HERO,青森県,2248,TYURAL,青森県,0,,-
+Rootage,Six String Proof,0,,-,790,AS10R,青森県,1510,VERD,青森県,2458,RU4AN,青森県,0,,-
+Rootage,Serious?,0,,-,376,NOT,青森県,1164,NITT,青森県,2243,MOSAPI,青森県,0,,-
+Rootage,R∞tAge,412,KYK,青森県,836,NNOOQQ,青森県,1536,KETTY,青森県,2967,MOSAPI,青森県,0,,-
+Rootage,ruin of opals,0,,-,1062,NEODIO,青森県,1929,GONZUX,青森県,3032,NAKAG,青森県,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,853,A.AURA,青森県,1588,TOAD,青森県,2685,MOSAPI,青森県,0,,-
+Rootage,REPLAY,0,,-,0,,-,1476,MERC,青森県,2258,MOSAPI,青森県,0,,-
+Rootage,Red. by Jack Trance,0,,-,1471,ARCARD,青森県,2133,MIST,青森県,3472,MOSAPI,青森県,0,,-
+Rootage,Psycho Sheep Riddim,0,,-,562,JKUN,青森県,929,CSM,青森県,1634,KAWADX,青森県,2214,A.X.L.,青森県
+Rootage,Please Welcome Mr.C,0,,-,1002,RAV,青森県,1650,ELD.GX,青森県,2961,MOSAPI,青森県,0,,-
+Rootage,Playing With Fire,0,,-,0,,-,1560,VERD,青森県,2270,PERU.,青森県,0,,-
+Rootage,Painful Fate,0,,-,1012,A.AURA,青森県,2175,LUCIA.,青森県,3290,A.X.L.,青森県,0,,-
+Rootage,OVER TIME,0,,-,501,KBT,青森県,905,KAI,青森県,1555,MOSAPI,青森県,0,,-
+Rootage,ONIGOROSHI,0,,-,1031,A.773,青森県,2111,TOAD,青森県,2882,MOSAPI,青森県,0,,-
+Rootage,Night! Night! Night!,0,,-,1026,YU,青森県,1582,Y.NB,青森県,3031,MOSAPI,青森県,0,,-
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,867,SIRO,青森県,1556,LUCIA.,青森県,2638,SUZRAN,青森県,0,,-
+Rootage,Necroxis Girl,0,,-,1119,LUCIA.,青森県,1853,GATTO*,青森県,2805,MOSAPI,青森県,0,,-
+Rootage,Macho Monky,0,,-,1365,IWASHI,青森県,2046,MIST,青森県,3005,MOSAPI,青森県,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,1038,IWASHI,青森県,1776,MERC,青森県,3500,MOSAPI,青森県,0,,-
+Rootage,Lift Us High,0,,-,952,LUCIA.,青森県,1574,LUCIA.,青森県,2428,5MIKAS,青森県,0,,-
+Rootage,Level One,0,,-,1254,ARCARD,青森県,2289,QUERTY,青森県,3415,MOSAPI,青森県,0,,-
+Rootage,Lethal Weapon,0,,-,1179,T,青森県,1852,FXSEN4,青森県,3173,MOMOKO,青森県,0,,-
+Rootage,Let me be your cure,0,,-,1017,TMPTDK,青森県,1421,SIY,青森県,2645,LIEZA.,青森県,0,,-
+Rootage,LADYBIRD,0,,-,1066,GATTO*,青森県,1561,MERC,青森県,2380,IIDX30,青森県,0,,-
+Rootage,L.F.O,0,,-,862,LUCIA.,青森県,1708,FXSEN4,青森県,3281,MOSAPI,青森県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1253,MYSTI9,青森県,2324,REU,青森県,3794,MOSAPI,青森県,0,,-
+Rootage,IDOL syndrome.,0,,-,716,SIRO,青森県,1268,OKTM,青森県,2184,PERU.,青森県,0,,-
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1063,ARCARD,青森県,1531,LUCIA.,青森県,2154,MOSAPI,青森県,0,,-
+Rootage,Hurry Hurry,0,,-,464,NOT,青森県,1028,LUCIA.,青森県,2081,MOSAPI,青森県,0,,-
+Rootage,HOT LIMIT,317,MOFNEM,青森県,1060,LUCIA.,青森県,1692,LUCIA.,青森県,2492,IIDX30,青森県,0,,-
+Rootage,HEISEI,372,OTIS,青森県,632,HACK.6,青森県,1876,SIY,青森県,2547,A.X.L.,青森県,0,,-
+Rootage,HARD BRAIN,0,,-,926,M1K4N,青森県,1874,VERD,青森県,3758,MOSAPI,青森県,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,964,RAV,青森県,2129,NCG.NG,青森県,3869,SUZRAN,青森県,0,,-
+Rootage,Glory,0,,-,774,T,青森県,1582,LUCIA.,青森県,2276,DIS-L,青森県,0,,-
+Rootage,GIGA THRASH,0,,-,977,RABI.,青森県,1859,LUCIA.,青森県,2628,TYURAL,青森県,0,,-
+Rootage,GENE,0,,-,1274,KETSU*,青森県,1932,TYURAL,青森県,4296,A.X.L.,青森県,0,,-
+Rootage,Geirskogul,0,,-,0,,-,1508,MERC,青森県,2201,IIDX30,青森県,0,,-
+Rootage,Garuda,0,,-,0,,-,1549,MERC,青森県,2584,MOSAPI,青森県,0,,-
+Rootage,EVANESCENT,0,,-,652,TOWAC,青森県,2260,NEODIO,青森県,3543,MOSAPI,青森県,0,,-
+Rootage,Ember Lights,0,,-,915,ARU.68,青森県,1610,LUCIA.,青森県,2713,MOSAPI,青森県,0,,-
+Rootage,DRUNK MONKY,0,,-,794,TURAMI,青森県,1537,TYURAL,青森県,2310,MOSAPI,青森県,0,,-
+Rootage,Drastic Dramatic,0,,-,1492,GATTO*,青森県,2286,SIY,青森県,3470,MOSAPI,青森県,0,,-
+Rootage,Dr. Chemical & Killing Machine,0,,-,729,SPYRO,青森県,1864,MOSAPI,青森県,3356,MOSAPI,青森県,0,,-
+Rootage,Digital Skipper,0,,-,639,TOWAC,青森県,1261,N2,青森県,2173,TYURAL,青森県,0,,-
+Rootage,dAuntl3ss,0,,-,905,NASU.,青森県,1873,KASS,青森県,3483,MOSAPI,青森県,0,,-
+Rootage,Cranberry City ft. Luschel,0,,-,678,G0R1,青森県,1553,NCG.NG,青森県,2412,A.X.L.,青森県,0,,-
+Rootage,COSMIC CYBER,0,,-,1035,GATTO*,青森県,1625,FALCO,青森県,2845,IIDX30,青森県,0,,-
+Rootage,CoMAAAAAAA,0,,-,1221,LUCIA.,青森県,2032,LUCIA.,青森県,2381,MOSAPI,青森県,0,,-
+Rootage,CODE:0,0,,-,1420,ARCARD,青森県,1993,ELD.GX,青森県,2766,MOSAPI,青森県,0,,-
+Rootage,Catch Our Fire!,0,,-,1093,JKUN,青森県,2163,FXSEN4,青森県,3653,A.X.L.,青森県,0,,-
+Rootage,Carry Me Away,536,NEODIO,青森県,1075,ARCARD,青森県,1791,SIY,青森県,3154,MOSAPI,青森県,0,,-
+Rootage,Carmina,532,NEODIO,青森県,1150,TENTAI,青森県,2394,TYURAL,青森県,3667,SUZRAN,青森県,0,,-
+Rootage,BLOSSOM,0,,-,0,,-,1605,LUCIA.,青森県,2490,TYURAL,青森県,0,,-
+Rootage,BLACK JACKAL,0,,-,836,LUCIA.,青森県,1585,TYURAL,青森県,2315,MOSAPI,青森県,0,,-
+Rootage,Afterimage d'automne,0,,-,857,TALOT,青森県,1584,S,青森県,2797,A.X.L.,青森県,0,,-
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,665,KOUKI,青森県,1516,SA,青森県,2603,MOSAPI,青森県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,989,AS10R,青森県,1510,VERD,青森県,2573,NAKAG,青森県,0,,-
+Rootage,50th Memorial Songs -Flagship medley-,0,,-,428,PAYA!?,青森県,1289,TMPTDK,青森県,2292,A.X.L.,青森県,0,,-
+Rootage,50th Memorial Songs -Beginning Story-,0,,-,763,KAI,青森県,1591,NCG.NG,青森県,2709,MOSAPI,青森県,0,,-
+Rootage,& Intelligence,0,,-,0,,-,1973,LYNX,青森県,3160,MOSAPI,青森県,0,,-
 HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,867,ARU.68,青森県,1772,GNH,青森県,3053,A.X.L.,青森県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,0,,-,1598,NITT,青森県,2825,SUZRAN,青森県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1052,ARCARD,青森県,1821,SYAMU,青森県,3201,A.X.L.,青森県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1238,SIRO,青森県,2044,IIDX30,青森県,3457,MOSAPI,青森県,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,643,FEL,青森県,1047,FEL,青森県,1781,NAKAG,青森県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,810,MERC,青森県,1540,SK!T,青森県,2981,MOSAPI,青森県,0,,-
-HEROIC VERSE,曼荼羅恋々,0,,-,858,G0R1,青森県,1693,VERD,青森県,2703,MOSAPI,青森県,0,,-
+HEROIC VERSE,曼荼羅恋々,0,,-,1021,OKTM,青森県,1693,VERD,青森県,2703,MOSAPI,青森県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,241,AMIL,青森県,541,KONFOX,青森県,1177,NITT,青森県,1915,IIDX30,青森県,0,,-
 HEROIC VERSE,令和(1991RAVE REMIX),353,ARCARD,青森県,489,KONFOX,青森県,1362,TYURAL,青森県,2183,MOSAPI,青森県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,893,HACK.6,青森県,1888,SYAMU,青森県,2898,A.X.L.,青森県,0,,-
@@ -1236,7 +1236,7 @@ HEROIC VERSE,Volcanic Dragon,0,,-,794,HIBA,青森県,1709,JETHY,青森県,2960,M
 HEROIC VERSE,Virus Funk,0,,-,751,ARU.68,青森県,1454,GATTO*,青森県,2197,NAKAG,青森県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,857,TENTAI,青森県,1234,IWASHI,青森県,1832,IIDX30,青森県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,271,SUGAR,青森県,647,AAAA,青森県,1603,TE*3,青森県,2738,A.X.L.,青森県,0,,-
-HEROIC VERSE,UNITE THE HEART,0,,-,1164,A,青森県,2449,MAL,青森県,3292,A.X.L.,青森県,0,,-
+HEROIC VERSE,UNITE THE HEART,0,,-,1386,OKTM,青森県,2449,MAL,青森県,3292,A.X.L.,青森県,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,775,TSU9NE,青森県,1945,M,青森県,3352,A.X.L.,青森県,0,,-
 HEROIC VERSE,Theory,0,,-,824,NEODIO,青森県,1326,GATTO*,青森県,2500,NAKAG,青森県,0,,-
 HEROIC VERSE,The Sky of Sadness,0,,-,814,FEL,青森県,1326,FEL,青森県,2368,PERU.,青森県,0,,-
@@ -1301,7 +1301,7 @@ HEROIC VERSE,Change Yourself,0,,-,457,COSMOS,青森県,1596,MERC,青森県,2547,
 HEROIC VERSE,Calvados Queen,0,,-,935,ARU.68,青森県,1423,MERC,青森県,2397,TYURAL,青森県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,759,JKUN,青森県,1901,.87OGG,青森県,3082,MOSAPI,青森県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,0,,-,1546,MERC,青森県,2391,DIS-L,青森県,0,,-
-HEROIC VERSE,beatAffection,0,,-,568,SPYRO,青森県,1305,N2,青森県,2622,A.X.L.,青森県,0,,-
+HEROIC VERSE,beatAffection,0,,-,568,SPYRO,青森県,1339,NCG.NG,青森県,2622,A.X.L.,青森県,0,,-
 HEROIC VERSE,BEAT PRISONER,0,,-,1208,LUCIA.,青森県,2038,LUCIA.,青森県,3591,MOSAPI,青森県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,991,SIRO,青森県,1474,FEL,青森県,2214,A.X.L.,青森県,0,,-
 HEROIC VERSE,Artist,0,,-,1237,FEL,青森県,2282,LUCIA.,青森県,3534,MOSAPI,青森県,0,,-
@@ -1327,7 +1327,7 @@ BISTROVER,Vitrum,0,,-,1092,ARCARD,青森県,1722,FALCO,青森県,3533,MOSAPI,青
 BISTROVER,TOMORROW,343,KUJUHA,青森県,728,KAI,青森県,1447,MERC,青森県,2197,TYURAL,青森県,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,1001,ARCARD,青森県,1586,KAI,青森県,2530,IIDX30,青森県,0,,-
 BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1137,NEODIO,青森県,1631,SYAMU,青森県,2831,A.X.L.,青森県,0,,-
-BISTROVER,Swarm Of Scarabs,0,,-,786,NNOOQQ,青森県,1451,NITT,青森県,2317,SUICA,青森県,0,,-
+BISTROVER,Swarm Of Scarabs,0,,-,864,COCOA,青森県,1451,NITT,青森県,2317,SUICA,青森県,0,,-
 BISTROVER,So Punky,0,,-,0,,-,1540,LYNX,青森県,2543,PERU.,青森県,0,,-
 BISTROVER,"smooooch・∀・ (Snail's House Remix) ",0,,-,856,IWASHI,青森県,1451,FEL,青森県,2299,NAKAG,青森県,0,,-
 BISTROVER,S-Bahn,0,,-,621,SPYRO,青森県,1482,JETHY,青森県,2148,SUICA,青森県,0,,-
@@ -1347,7 +1347,7 @@ BISTROVER,Midnight Drive,0,,-,538,D-HERO,青森県,1132,RABI.,青森県,1954,A.X
 BISTROVER,Mars beach,0,,-,299,CHINON,青森県,1295,KAI,青森県,2174,FALCO,青森県,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,972,A.AURA,青森県,1740,MERC,青森県,2761,A.X.L.,青森県,0,,-
 BISTROVER,LAST DAY,0,,-,1133,ARCARD,青森県,1686,GNH,青森県,2973,LIEZA.,青森県,0,,-
-BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,613,KAI,青森県,1090,T-2REE,青森県,1862,MOSAPI,青森県,0,,-
+BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,613,KAI,青森県,1182,SYAMU,青森県,1862,MOSAPI,青森県,0,,-
 BISTROVER,HIGH VOLTAGE,0,,-,794,IWASHI,青森県,1356,GATTO*,青森県,2257,MOSAPI,青森県,0,,-
 BISTROVER,Here We Are,311,JJ,青森県,1059,JETHY,青森県,1723,SYAMU,青森県,2449,IIDX30,青森県,0,,-
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,730,BITA*,青森県,1735,RIBEA,青森県,2313,TYURAL,青森県,0,,-
@@ -1366,7 +1366,7 @@ BISTROVER,apo:llioth,0,,-,1211,KETSU*,青森県,2002,RIBEA,青森県,2885,IIDX30
 BISTROVER,AMRITA -不滅ノ花-,0,,-,516,NOT,青森県,1561,MAL,青森県,2749,A.X.L.,青森県,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,734,NEODIO,青森県,1359,JETHY,青森県,2087,IIDX30,青森県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,893,AS10R,青森県,1470,YUMENA,青森県,2507,TYURAL,青森県,0,,-
-BISTROVER,3!dolon Forc3,0,,-,945,LUCIA.,青森県,1386,VERD,青森県,2813,NAKAG,青森県,0,,-
+BISTROVER,3!dolon Forc3,0,,-,945,LUCIA.,青森県,1391,SIRO,青森県,2813,NAKAG,青森県,0,,-
 CastHour,踊,184,NEODIO,青森県,366,NEODIO,青森県,826,NEODIO,青森県,1621,PERU.,青森県,0,,-
 CastHour,月とミルク,0,,-,1000,SYAMU,青森県,1596,NEODIO,青森県,2781,MOSAPI,青森県,0,,-
 CastHour,愛しくてラヴィンユー ft. マナ,0,,-,813,NEODIO,青森県,1493,NEODIO,青森県,2399,MOSAPI,青森県,0,,-

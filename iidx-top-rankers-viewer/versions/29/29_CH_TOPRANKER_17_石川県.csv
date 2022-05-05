@@ -151,7 +151,7 @@
 9th style,Quickening,0,,-,368,LPIP,石川県,1629,NAGI*,石川県,2067,4S.E1.,石川県,0,,-
 9th style,quasar,0,,-,1097,DUKE,石川県,1698,AURUM,石川県,2290,AZUSA,石川県,0,,-
 9th style,one or eight,0,,-,1100,&#8367,石川県,1794,TOUNYU,石川県,2192,ZXCV,石川県,0,,-
-9th style,moon_child,0,,-,896,ABYSS,石川県,1717,TORY,石川県,2516,4S.E1.,石川県,0,,-
+9th style,moon_child,0,,-,968,K-NA,石川県,1766,NAGI*,石川県,2516,4S.E1.,石川県,0,,-
 9th style,MARIA (I believe... ),0,,-,713,DUKE,石川県,1311,SATOLA,石川県,1951,ZXCV,石川県,0,,-
 9th style,Make A Difference,0,,-,625,F-G01,石川県,1260,&#8367,石川県,2204,FRIAAA,石川県,0,,-
 9th style,lower world,0,,-,993,ABYSS,石川県,1723,NAGI*,石川県,2207,DJZXCV,石川県,0,,-
@@ -188,7 +188,7 @@
 10th style,GHOST REVIVAL,0,,-,714,POINTY,石川県,1709,K-66.,石川県,2511,4S.E1.,石川県,0,,-
 10th style,Freezing atmosphere,0,,-,738,DUKE,石川県,0,,-,1484,AZUSA,石川県,0,,-
 10th style,FEEL IT,0,,-,549,YUZU,石川県,1544,TAK875,石川県,1988,AZUSA,石川県,0,,-
-10th style,Feedback,0,,-,834,POINTY,石川県,1243,CUR*RY,石川県,1934,FRIAAA,石川県,0,,-
+10th style,Feedback,0,,-,902,K-NA,石川県,1390,.,石川県,1934,FRIAAA,石川県,0,,-
 10th style,EXE,0,,-,828,DUKE,石川県,1441,RYOKI.,石川県,2227,FRIAAA,石川県,0,,-
 10th style,DoLL,336,DUKE,石川県,820,POINTY,石川県,1192,HCENTV,石川県,1614,ZXCV,石川県,0,,-
 10th style,desolation,0,,-,466,DUKE,石川県,626,DUKE,石川県,757,ZXCV,石川県,0,,-
@@ -431,7 +431,7 @@ EMPRESS,neogenesis,0,,-,954,DUKE,石川県,1256,&#8367,石川県,1705,ZXCV,石�
 EMPRESS,naughty girl@Queen's Palace,0,,-,820,&#8367,石川県,1664,4S.E1.,石川県,2098,FRIAAA,石川県,2564,FRIAAA,石川県
 EMPRESS,Monkey Dance '09,0,,-,807,DUKE,石川県,1611,NAGI*,石川県,2210,ZXCV,石川県,0,,-
 EMPRESS,Mind Mapping,512,DUKE,石川県,851,DUKE,石川県,1079,RIND0,石川県,1809,4S.E1.,石川県,2208,ZXCV,石川県
-EMPRESS,Kung-fu Empire,0,,-,1382,CUR*RY,石川県,2335,NAGI*,石川県,3170,ADO,石川県,3863,AZUSA,石川県
+EMPRESS,Kung-fu Empire,0,,-,1382,CUR*RY,石川県,2335,NAGI*,石川県,3184,AZUSA,石川県,3863,AZUSA,石川県
 EMPRESS,Just a Little Smile,0,,-,784,DUKE,石川県,1347,FRIAAA,石川県,2397,ZXCV,石川県,0,,-
 EMPRESS,Jack,0,,-,843,POINTY,石川県,1257,.,石川県,2156,3BOTEN,石川県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,600,DUKE,石川県,1266,HCENTV,石川県,1697,ZXCV,石川県,0,,-
@@ -442,7 +442,7 @@ EMPRESS,Flash Back 90's,0,,-,901,DUKE,石川県,1644,DUKE,石川県,2301,ZXCV,�
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,876,POINTY,石川県,1678,J-.-J,石川県,2506,ZXCV,石川県,0,,-
 EMPRESS,Colorful Cookie,666,DUKE,石川県,1112,DUKE,石川県,2223,AURUM,石川県,3404,4S.E1.,石川県,0,,-
 EMPRESS,CaptivAte2～覚醒～,241,DUKE,石川県,488,ASD-59,石川県,1500,KASISU,石川県,2364,DJZXCV,石川県,0,,-
-EMPRESS,BRIDAL FESTIVAL !!!,0,,-,923,DUKE,石川県,1248,&#8367,石川県,2121,DJZXCV,石川県,0,,-
+EMPRESS,BRIDAL FESTIVAL !!!,0,,-,923,DUKE,石川県,1324,YMN,石川県,2121,DJZXCV,石川県,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,971,STARTC,石川県,2074,FUL.,石川県,3850,3BOTEN,石川県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1029,DUKE,石川県,1872,EDEN,石川県,2600,DJZXCV,石川県,3232,4S.E1.,石川県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,876,YUI,石川県,2274,4S.E1.,石川県,3485,4S.E1.,石川県,4367,4S.E1.,石川県
@@ -545,7 +545,7 @@ Resort Anthem,Fantasia,239,DUKE,石川県,398,DUKE,石川県,1486,NAGI*,石川�
 Resort Anthem,Everlasting Resort,0,,-,866,DUKE,石川県,1223,RYOKI.,石川県,1880,4S.E1.,石川県,0,,-
 Resort Anthem,Eternal Tears,0,,-,435,DUKE,石川県,1048,KASANE,石川県,1361,I-CY,石川県,0,,-
 Resort Anthem,Energy Drive,0,,-,545,ASD-59,石川県,1338,DUKE,石川県,2166,4S.E1.,石川県,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,675,IIDX29,石川県,1817,FUL.,石川県,2397,DJZXCV,石川県,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,848,NIBOSH,石川県,1817,FUL.,石川県,2397,DJZXCV,石川県,0,,-
 Resort Anthem,Destiny Sword,0,,-,501,27592,石川県,1390,CUR*RY,石川県,2365,4S.E1.,石川県,0,,-
 Resort Anthem,DAYDREAMER,0,,-,1155,DUKE,石川県,1739,EDEN,石川県,2510,4S.E1.,石川県,0,,-
 Resort Anthem,Dances with Snow Fairies,0,,-,1321,DUKE,石川県,2185,TOUNYU,石川県,3070,AZUSA,石川県,0,,-
@@ -573,7 +573,7 @@ Lincle,ビューティフルレシート,336,DUKE,石川県,508,DUKE,石川県,1
 Lincle,Yellow Sunrise,0,,-,749,DUKE,石川県,1321,.,石川県,2276,DJZXCV,石川県,0,,-
 Lincle,yellow head joe,0,,-,752,DUKE,石川県,1346,YUURI,石川県,2248,DJZXCV,石川県,0,,-
 Lincle,YAKSHA,0,,-,957,YUI,石川県,2125,IIDX28,石川県,3841,AZUSA,石川県,0,,-
-Lincle,WONDER WALKER,0,,-,940,178,石川県,1890,16-CHA,石川県,3704,4S.E1.,石川県,0,,-
+Lincle,WONDER WALKER,0,,-,940,178,石川県,1890,16-CHA,石川県,3764,AZUSA,石川県,0,,-
 Lincle,Voxane,0,,-,593,DUKE,石川県,1193,RYOKI.,石川県,1734,FRIAAA,石川県,0,,-
 Lincle,Todestrieb,0,,-,1082,DUKE,石川県,1787,HCENTV,石川県,3395,AZUSA,石川県,0,,-
 Lincle,TITANS RETURN,321,DUKE,石川県,623,DUKE,石川県,1422,DUKE,石川県,2409,KYON,石川県,2479,4S.E1.,石川県
@@ -670,7 +670,7 @@ tricoro,Praludium,0,,-,691,DUKE,石川県,1295,&#8367,石川県,2278,AZUSA,石�
 tricoro,POINT ZERO,0,,-,722,DUKE,石川県,1143,VVVVVV,石川県,2060,DJZXCV,石川県,0,,-
 tricoro,planarian,0,,-,701,DUKE,石川県,1554,FUL.,石川県,2540,AZUSA,石川県,0,,-
 tricoro,Plan 8,0,,-,1066,ARENN.,石川県,2047,S.CROW,石川県,3042,AZUSA,石川県,0,,-
-tricoro,New Lights,0,,-,684,ASD-59,石川県,1541,TS8,石川県,2447,KYON,石川県,0,,-
+tricoro,New Lights,0,,-,684,ASD-59,石川県,1575,USOGUI,石川県,2447,KYON,石川県,0,,-
 tricoro,New Decade IIDX Edition,267,DUKE,石川県,971,DUKE,石川県,1792,NAGI*,石川県,2976,KYON,石川県,0,,-
 tricoro,neu,195,DUKE,石川県,919,178,石川県,2118,16-CHA,石川県,3880,AZUSA,石川県,0,,-
 tricoro,Neonlights,0,,-,639,DUKE,石川県,1421,O2,石川県,2189,4S.E1.,石川県,0,,-
@@ -739,7 +739,7 @@ SPADA,Overload Frontier,0,,-,627,MAC,石川県,1563,TORY,石川県,2521,ZXCV,石
 SPADA,Odin,0,,-,753,DUKE,石川県,1318,RYOKI.,石川県,2011,ZXCV,石川県,0,,-
 SPADA,NPC World,0,,-,859,POINTY,石川県,1421,DUKE,石川県,2204,ZXCV,石川県,0,,-
 SPADA,Miracle 5ympho X,0,,-,751,DUKE,石川県,1238,DUKE,石川県,2592,KYON,石川県,0,,-
-SPADA,MAGIC & LOVE,0,,-,619,ASD-59,石川県,1684,MO*CHI,石川県,2885,DJZXCV,石川県,0,,-
+SPADA,MAGIC & LOVE,0,,-,619,ASD-59,石川県,1778,EDEN,石川県,2885,DJZXCV,石川県,0,,-
 SPADA,MAD ATTACK,0,,-,646,4S.E1.,石川県,728,TYAKI,石川県,1936,ZXCV,石川県,0,,-
 SPADA,m1dy Deluxe,0,,-,958,MGF,石川県,1720,SZHR,石川県,2425,ZXCV,石川県,0,,-
 SPADA,M.D.Injection,0,,-,586,DUKE,石川県,1195,DUKE,石川県,2383,ADO,石川県,0,,-
@@ -824,7 +824,7 @@ PENDUAL,"Rave*it!! Rave*it!! ",0,,-,838,CHA2P,石川県,1706,ZXCV,石川県,3190
 PENDUAL,PENDUAL TALISMAN,0,,-,664,ZC33S,石川県,1519,RYOKI.,石川県,2577,4S.E1.,石川県,0,,-
 PENDUAL,On My Wings(Hardstyle IIDX),0,,-,547,YINU,石川県,1159,STARTC,石川県,1979,ZXCV,石川県,0,,-
 PENDUAL,No Tears,0,,-,1157,DUKE,石川県,1913,NAGI*,石川県,2502,FRIAAA,石川県,0,,-
-PENDUAL,Night sky,0,,-,982,RINON,石川県,1518,POINTY,石川県,2874,3BOTEN,石川県,0,,-
+PENDUAL,Night sky,0,,-,982,RINON,石川県,1535,USOGUI,石川県,2874,3BOTEN,石川県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,630,SHO-U,石川県,1620,SI,石川県,3214,4S.E1.,石川県,0,,-
 PENDUAL,Monopole.,0,,-,775,DUKE,石川県,1477,RYOKI.,石川県,3199,4S.E1.,石川県,0,,-
 PENDUAL,Line 4 Ruin,0,,-,707,DUKE,石川県,1761,FUL.,石川県,2776,AZUSA,石川県,0,,-
@@ -859,7 +859,7 @@ PENDUAL,Beyond The Earth,0,,-,1229,DUKE,石川県,1949,12YUJ!,石川県,3145,AZU
 PENDUAL,Beat Radiance,0,,-,849,POINTY,石川県,1569,NAGI*,石川県,2621,4S.E1.,石川県,3549,4S.E1.,石川県
 PENDUAL,AFRO KNUCKLE,0,,-,920,DUKE,石川県,1554,DUKE,石川県,2393,FRIAAA,石川県,0,,-
 PENDUAL,#The_Relentless,0,,-,0,,-,1838,MO*CHI,石川県,2898,AZUSA,石川県,0,,-
-copula,麗 ～うらら～,263,DUKE,石川県,918,WAFU-,石川県,1615,10DON,石川県,2602,AZUSA,石川県,0,,-
+copula,麗 ～うらら～,263,DUKE,石川県,918,WAFU-,石川県,1636,NAGI*,石川県,2602,AZUSA,石川県,0,,-
 copula,駅猫のワルツ,0,,-,925,ABYSS,石川県,1878,KONJAC,石川県,2656,4S.E1.,石川県,0,,-
 copula,量子の海のリントヴルム,0,,-,899,DUKE,石川県,1720,32K!,石川県,2912,AZUSA,石川県,0,,-
 copula,追想快晴テーマパーク,0,,-,912,MANAKA,石川県,1967,S.CROW,石川県,3062,AZUSA,石川県,0,,-
@@ -869,7 +869,7 @@ copula,灼熱 Pt.2 Long Train Running,0,,-,1273,4S.E1.,石川県,2031,*NEKO,石�
 copula,朝焼けから始まるボクらの小さな旅,0,,-,852,KYURI,石川県,1476,YUURI,石川県,2483,ZXCY,石川県,0,,-
 copula,星屑ディスタンシア,0,,-,677,DUKE,石川県,1155,RYOKI.,石川県,2073,ZXCV,石川県,0,,-
 copula,明鏡止水,0,,-,810,DUKE,石川県,1669,NAGI*,石川県,2714,4S.E1.,石川県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,637,YAMADA,石川県,1376,NEM0-T,石川県,2136,4S.E1.,石川県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,637,YAMADA,石川県,1414,NAGI*,石川県,2136,4S.E1.,石川県,0,,-
 copula,セロトニン,0,,-,1294,DUKE,石川県,1673,NAGI*,石川県,2302,AZUSA,石川県,0,,-
 copula,シュッパツシンコウ・シサカンコ,0,,-,992,YUI,石川県,1694,DUKE,石川県,2408,ZXCV,石川県,0,,-
 copula,ギョギョっと人魚 爆婚ブライダル,0,,-,807,DUKE,石川県,1387,EDEN,石川県,2327,ZXCV,石川県,0,,-
@@ -893,7 +893,7 @@ copula,SHELTER OF THE MIND,0,,-,1294,POINTY,石川県,1894,KT-UMA,石川県,3014
 copula,Set U Free feat. Kanae Asaba,0,,-,910,DUKE,石川県,1357,MA3TAS,石川県,2481,ZXCV,石川県,0,,-
 copula,Sephirot,0,,-,741,F-G01,石川県,1549,EDEN,石川県,2324,DJZXCV,石川県,0,,-
 copula,SEITEN NO TERIYAKI,0,,-,718,DUKE,石川県,989,RE&,石川県,2223,AZUSA,石川県,0,,-
-copula,Routing,0,,-,545,SBUBB7,石川県,1449,RUMMY.,石川県,2468,AZUSA,石川県,0,,-
+copula,Routing,0,,-,601,NIBOSH,石川県,1449,RUMMY.,石川県,2468,AZUSA,石川県,0,,-
 copula,Rock It,0,,-,1056,178,石川県,1532,.,石川県,2912,DJZXCV,石川県,0,,-
 copula,refrain,0,,-,987,PARUKU,石川県,2161,9RI,石川県,3540,AZUSA,石川県,0,,-
 copula,quick master (reform version),0,,-,160,4S.E1.,石川県,337,DUKE,石川県,527,ZXCV,石川県,0,,-
@@ -982,9 +982,9 @@ SINOBUZ,Seaside Labyrinth,0,,-,637,DUKE,石川県,1204,R461,石川県,1850,DJZXC
 SINOBUZ,SAY BAY,0,,-,832,DUKE,石川県,1444,TAKAC,石川県,2750,4S.E1.,石川県,0,,-
 SINOBUZ,Sarutobi Champion is 拙者,0,,-,826,178,石川県,1305,&#8367,石川県,2097,ZXCV,石川県,0,,-
 SINOBUZ,SAMURAI-Scramble,0,,-,982,DUKE,石川県,1553,KT-UMA,石川県,2360,FRIAAA,石川県,2676,FRIAAA,石川県
-SINOBUZ,ROTTERDAM SHOGUN,532,DUKE,石川県,1115,DUKE,石川県,1702,DUKE,石川県,2547,ADO,石川県,0,,-
+SINOBUZ,ROTTERDAM SHOGUN,532,DUKE,石川県,1115,DUKE,石川県,1702,DUKE,石川県,2552,ADO,石川県,0,,-
 SINOBUZ,RISING FIRE HAWK,0,,-,564,TYAKI,石川県,1305,&#8367,石川県,2656,4S.E1.,石川県,0,,-
-SINOBUZ,Remedy feat. Kanae Asaba,0,,-,763,YUI,石川県,1387,CHACHA,石川県,2190,ZXCV,石川県,0,,-
+SINOBUZ,Remedy feat. Kanae Asaba,0,,-,763,YUI,石川県,1471,ONO$!!,石川県,2190,ZXCV,石川県,0,,-
 SINOBUZ,Rave Cannon,0,,-,1022,DUKE,石川県,1773,TOUNYU,石川県,3248,DJZXCV,石川県,0,,-
 SINOBUZ,RAIN,0,,-,1096,&#8367,石川県,1538,K-66.,石川県,3226,4S.E1.,石川県,0,,-
 SINOBUZ,Quakes,0,,-,793,YUI,石川県,1838,NAGI*,石川県,3036,4S.E1.,石川県,0,,-
@@ -1004,7 +1004,7 @@ SINOBUZ,Honey Trap,0,,-,744,9LOUD,石川県,1526,NAGI*,石川県,2495,FRIAAA,石
 SINOBUZ,HAPPY★RUSH,0,,-,782,DUKE,石川県,1783,32K!,石川県,2807,FRIAAA,石川県,0,,-
 SINOBUZ,HADES,382,DUKE,石川県,972,DUKE,石川県,1763,EDEN,石川県,2998,4S.E1.,石川県,0,,-
 SINOBUZ,GuNGNiR,0,,-,1264,DUKE,石川県,2638,ADO,石川県,3729,4S.E1.,石川県,4358,AZUSA,石川県
-SINOBUZ,Go Ahead!!,0,,-,953,DUKE,石川県,1460,16-CHA,石川県,2593,4S.E1.,石川県,0,,-
+SINOBUZ,Go Ahead!!,0,,-,953,DUKE,石川県,1460,16-CHA,石川県,2660,AZUSA,石川県,0,,-
 SINOBUZ,FUZIN RIZIN,0,,-,698,SONIA,石川県,1829,YUURI,石川県,3718,DJZXCV,石川県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,624,DUKE,石川県,1090,YMA,石川県,1618,ZXCV,石川県,0,,-
 SINOBUZ,Egret and Willow,0,,-,881,ABYSS,石川県,1454,RUJIAO,石川県,2710,AZUSA,石川県,0,,-
@@ -1018,7 +1018,7 @@ SINOBUZ,Breakin' Chain,0,,-,673,DUKE,石川県,1291,DUKE,石川県,2289,ZXCV,石
 SINOBUZ,BREAK OVER,0,,-,785,KYURI,石川県,1396,&#8367,石川県,2314,FRIAAA,石川県,0,,-
 SINOBUZ,Beyond The Seven,0,,-,729,DUKE,石川県,1301,EDEN,石川県,2662,ZXCV,石川県,0,,-
 SINOBUZ,Believe in you,0,,-,951,YUI,石川県,1769,DUKE,石川県,2421,FRIAAA,石川県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,927,&#8367,石川県,1507,DERA*,石川県,2123,FRIAAA,石川県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,927,&#8367,石川県,1507,DERA*,石川県,2152,AZUSA,石川県,0,,-
 SINOBUZ,Be A Star,0,,-,948,DUKE,石川県,1686,&#8367,石川県,2762,4S.E1.,石川県,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,1144,2MOL,石川県,1855,10DON,石川県,2724,AZUSA,石川県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,785,TYAKI,石川県,1596,DUKE,石川県,2559,FRIAAA,石川県,0,,-
@@ -1071,7 +1071,7 @@ CANNON BALLERS,n'pa pa BBQ,0,,-,913,DUKE,石川県,1673,EDEN,石川県,2764,AZUS
 CANNON BALLERS,Midnight Lady,0,,-,630,DUKE,石川県,1148,RYOKI.,石川県,1943,ZXCV,石川県,0,,-
 CANNON BALLERS,MAXIVCORD,0,,-,563,SORA,石川県,1184,R-PACA,石川県,2327,*TOTO*,石川県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,629,SRTS,石川県,1225,RYOKI.,石川県,2103,ADO,石川県,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,914,MAC,石川県,1852,16-CHA,石川県,3308,4S.E1.,石川県,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,914,MAC,石川県,1852,16-CHA,石川県,3417,AZUSA,石川県,0,,-
 CANNON BALLERS,Initiation,647,DUKE,石川県,1261,ARENN.,石川県,2249,16-CHA,石川県,3802,AZUSA,石川県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,0,,-,2051,NAGI*,石川県,3363,4S.E1.,石川県,0,,-
 CANNON BALLERS,I Love You,0,,-,786,FED,石川県,1532,SATOLA,石川県,2695,4S.E1.,石川県,0,,-
@@ -1111,10 +1111,103 @@ CANNON BALLERS,Amor De Verao,0,,-,761,DUKE,石川県,1345,RYOKI.,石川県,2286,
 CANNON BALLERS,Alpheratz,0,,-,418,DUKE,石川県,996,DUKE,石川県,2080,ZXCV,石川県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1158,DUKE,石川県,1646,NAGI*,石川県,2457,ZXCV,石川県,0,,-
 CANNON BALLERS,Abraxas,0,,-,773,DUKE,石川県,1440,CITRON,石川県,2369,DJZXCV,石川県,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1209,DUKE,石川県,2244,16-CHA,石川県,3494,4S.E1.,石川県,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1209,DUKE,石川県,2244,16-CHA,石川県,3520,AZUSA,石川県,0,,-
 CANNON BALLERS,255,0,,-,885,DUKE,石川県,1513,HCENTV,石川県,3146,3373A8,石川県,0,,-
 CANNON BALLERS,2 Player,0,,-,809,POINTY,石川県,1518,KASANE,石川県,2514,DJZXCV,石川県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,997,DUKE,石川県,1555,&#8367,石川県,2615,AZUSA,石川県,0,,-
+HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,893,RYOKI.,石川県,1681,TAKAC,石川県,2927,4S.E1.,石川県,0,,-
+HEROIC VERSE,開きたまえ！Next stAge！,0,,-,699,ASD-59,石川県,1627,EDEN,石川県,2837,4S.E1.,石川県,0,,-
+HEROIC VERSE,錬成人間トリコロイダー,0,,-,1035,MUS,石川県,1686,YMA,石川県,3192,AZUSA,石川県,0,,-
+HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1263,RYOKI.,石川県,1982,FUL.,石川県,3407,4S.E1.,石川県,0,,-
+HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,636,DUKE,石川県,1062,J-.-J,石川県,1754,ZXCV,石川県,0,,-
+HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,581,TYAKI,石川県,1565,EDEN,石川県,2960,4S.E1.,石川県,0,,-
+HEROIC VERSE,曼荼羅恋々,0,,-,958,KEI,石川県,1597,ARCIE.,石川県,2693,4S.E1.,石川県,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,244,DUKE,石川県,620,DUKE,石川県,1232,EDEN,石川県,1949,ZXCV,石川県,0,,-
+HEROIC VERSE,令和(1991RAVE REMIX),350,DUKE,石川県,551,DUKE,石川県,1298,YUURI,石川県,2188,ZXCV,石川県,0,,-
+HEROIC VERSE,ランカーキラーガール,0,,-,1003,CH0BI,石川県,1823,HCENTV,石川県,2854,4S.E1.,石川県,0,,-
+HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,961,CORAL,石川県,2011,EDEN,石川県,3645,4S.E1.,石川県,0,,-
+HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),371,DUKE,石川県,787,DUKE,石川県,1413,DUKE,石川県,2375,3BOTEN,石川県,0,,-
+HEROIC VERSE,ガヴリールドロップキック,396,DUKE,石川県,759,DUKE,石川県,1640,16-CHA,石川県,2654,AZUSA,石川県,0,,-
+HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1427,CUR*RY,石川県,2712,ADO,石川県,4071,4S.E1.,石川県,0,,-
+HEROIC VERSE,Ypsilon,0,,-,1073,CUR*RY,石川県,1778,ADO,石川県,2829,ADO,石川県,3497,4S.E1.,石川県
+HEROIC VERSE,Voo Doo Bamboleo,0,,-,884,DUKE,石川県,1481,DUKE,石川県,2470,4S.E1.,石川県,0,,-
+HEROIC VERSE,Volcanic Dragon,0,,-,1044,DUKE,石川県,1609,MASA,石川県,2917,AETHER,石川県,0,,-
+HEROIC VERSE,Virus Funk,0,,-,756,DUKE,石川県,1454,RYOKI.,石川県,2200,ZXCV,石川県,0,,-
+HEROIC VERSE,VIBRΛ,0,,-,734,!-!,石川県,1255,DUKE,石川県,1832,FRIAAA,石川県,0,,-
+HEROIC VERSE,VALKYRIAS -英雄誕生-,463,DUKE,石川県,1016,DUKE,石川県,1702,EDEN,石川県,2723,4S.E1.,石川県,0,,-
+HEROIC VERSE,UNITE THE HEART,0,,-,1245,SLCSZK,石川県,2482,16-CHA,石川県,3249,AETHER,石川県,0,,-
+HEROIC VERSE,TRIUMPH,0,,-,748,NANNAN,石川県,1878,32K!,石川県,3276,4S.E1.,石川県,0,,-
+HEROIC VERSE,Theory,0,,-,770,KYON,石川県,1410,ZXCY,石川県,2489,AZUSA,石川県,0,,-
+HEROIC VERSE,The Sky of Sadness,0,,-,864,DUKE,石川県,1368,DUKE,石川県,2335,ZXCY,石川県,0,,-
+HEROIC VERSE,THE F∀UST,0,,-,1038,K-NA,石川県,2065,16-CHA,石川県,3440,4S.E1.,石川県,0,,-
+HEROIC VERSE,THE BRAVE MUST DIE,0,,-,748,TYAKI,石川県,2286,12YUJ!,石川県,3924,4S.E1.,石川県,0,,-
+HEROIC VERSE,TECHNO Style Essentials,0,,-,677,YUI,石川県,1357,YUURI,石川県,2772,4S.E1.,石川県,0,,-
+HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1187,KYURI,石川県,1677,TAKAC,石川県,3127,AZUSA,石川県,0,,-
+HEROIC VERSE,Sugar Drippin',0,,-,743,DUKE,石川県,1213,SATOLA,石川県,2078,FRIAAA,石川県,0,,-
+HEROIC VERSE,STOIC HYPOTHESIS,0,,-,783,YINU,石川県,1577,YMA,石川県,2732,ADO,石川県,0,,-
+HEROIC VERSE,Sparkle Smilin',0,,-,907,DUKE,石川県,1379,DUKE,石川県,2420,4S.E1.,石川県,0,,-
+HEROIC VERSE,Smashing Wedge,0,,-,942,DUKE,石川県,2193,4S.E1.,石川県,3617,AETHER,石川県,0,,-
+HEROIC VERSE,Ska-sh All Neurons!!,0,,-,955,DUKE,石川県,1383,CUR*RY,石川県,2305,4S.E1.,石川県,0,,-
+HEROIC VERSE,Silly Love,260,DUKE,石川県,780,DUKE,石川県,1235,YMA,石川県,2056,DJZXCV,石川県,0,,-
+HEROIC VERSE,Shiva,0,,-,721,DUKE,石川県,1359,RYOKI.,石川県,2080,FRIAAA,石川県,0,,-
+HEROIC VERSE,Sellout,0,,-,540,DUKE,石川県,756,YINU,石川県,2107,DJZXCV,石川県,0,,-
+HEROIC VERSE,SCREW // owo // SCREW,0,,-,1118,4S.E1.,石川県,2011,32K!,石川県,2894,ADO,石川県,0,,-
+HEROIC VERSE,S!ck (Nhato Remix),0,,-,975,DUKE,石川県,1531,12YUJ!,石川県,2469,ZXCY,石川県,0,,-
+HEROIC VERSE,rough percussionythm,0,,-,829,YUI,石川県,1611,16-CHA,石川県,2455,ADO,石川県,0,,-
+HEROIC VERSE,Rave Patroller,0,,-,1300,2MOL,石川県,2211,16-CHA,石川県,3322,4S.E1.,石川県,0,,-
+HEROIC VERSE,Rave lithosphere,0,,-,819,NIBOSH,石川県,1612,RYOKI.,石川県,2602,4S.E1.,石川県,0,,-
+HEROIC VERSE,Rainstorm,0,,-,728,NIBOSH,石川県,1430,RYOKI.,石川県,2267,4S.E1.,石川県,0,,-
+HEROIC VERSE,Queen Kaguya,0,,-,695,YUI,石川県,1676,YMA,石川県,2571,DJZXCV,石川県,0,,-
+HEROIC VERSE,Punching Down (IIDX Mix),0,,-,615,DUKE,石川県,773,INAFE,石川県,1834,ZXCV,石川県,0,,-
+HEROIC VERSE,Primitive Vibes,580,DUKE,石川県,686,TYAKI,石川県,1962,PANNU,石川県,3049,AZUSA,石川県,0,,-
+HEROIC VERSE,POP TEAM EPIC(kors k Remix),328,DUKE,石川県,521,DUKE,石川県,1212,&#8367,石川県,2142,ZXCV,石川県,0,,-
+HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,844,YUI,石川県,1591,RYOKI.,石川県,2825,DJZXCV,石川県,0,,-
+HEROIC VERSE,Override,0,,-,872,BB-KUN,石川県,1521,DUKE,石川県,2872,DJZXCV,石川県,0,,-
+HEROIC VERSE,OUTER PLANETS,0,,-,672,DUKE,石川県,1324,RYOKI.,石川県,2133,4S.E1.,石川県,0,,-
+HEROIC VERSE,Ohayo!,0,,-,489,AMB,石川県,1346,&#8367,石川県,2356,FRIAAA,石川県,0,,-
+HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,0,,-,1382,DUKE,石川県,2628,AZUSA,石川県,0,,-
+HEROIC VERSE,NEWALONE,0,,-,600,DUKE,石川県,1253,EDEN,石川県,1984,ZXCV,石川県,0,,-
+HEROIC VERSE,Nasty Techniques,0,,-,967,DUKE,石川県,1588,RYOKI.,石川県,2579,3BOTEN,石川県,0,,-
+HEROIC VERSE,Moving on,0,,-,801,CH0BI,石川県,1665,K-66.,石川県,2950,4S.E1.,石川県,0,,-
+HEROIC VERSE,Mel,0,,-,770,DUKE,石川県,1419,RYOKI.,石川県,2161,3BOTEN,石川県,0,,-
+HEROIC VERSE,Matt Silver,0,,-,686,ASD-59,石川県,2016,SZHR,石川県,3320,AZUSA,石川県,0,,-
+HEROIC VERSE,Lost Souls,0,,-,689,DUKE,石川県,1427,YMA,石川県,2412,AETHER,石川県,0,,-
+HEROIC VERSE,Lords Of The Roundtable,0,,-,1015,CORAL,石川県,1775,ADO,石川県,2892,FRIAAA,石川県,0,,-
+HEROIC VERSE,Like+it!,0,,-,923,K-NA,石川県,1580,NAGI*,石川県,2338,DJZXCV,石川県,0,,-
+HEROIC VERSE,LIGHTNING STRIKES,471,ZXCV,石川県,895,&#8367,石川県,1701,DJZXCV,石川県,3220,AZUSA,石川県,0,,-
+HEROIC VERSE,Level 2,0,,-,631,LC,石川県,1592,SEIKIN,石川県,2741,FRIAAA,石川県,0,,-
+HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,767,DUKE,石川県,1636,NAGI*,石川県,3431,4S.E1.,石川県,0,,-
+HEROIC VERSE,Infinity Mirror,0,,-,686,PARUKU,石川県,1322,DUKE,石川県,2283,AZUSA,石川県,0,,-
+HEROIC VERSE,Inferno of Fomalhaut,0,,-,999,DUKE,石川県,1763,AKISTE,石川県,2937,1048,石川県,0,,-
+HEROIC VERSE,If,0,,-,610,F-G01,石川県,1159,CITRON,石川県,1868,ADO,石川県,0,,-
+HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,659,DUKE,石川県,1372,2MOL,石川県,1971,ZXCV,石川県,0,,-
+HEROIC VERSE,Horizons of Promise,0,,-,939,DUKE,石川県,1403,YMA,石川県,2581,ZXCV,石川県,0,,-
+HEROIC VERSE,Hold My Hand,0,,-,650,ASD-59,石川県,1505,SATOLA,石川県,2472,ZXCV,石川県,0,,-
+HEROIC VERSE,GIGA VIOLATE,0,,-,928,BB-KUN,石川県,1506,NAGI*,石川県,2653,1048,石川県,0,,-
+HEROIC VERSE,GHOST,0,,-,671,CH0BI,石川県,1406,TAK875,石川県,2701,4S.E1.,石川県,0,,-
+HEROIC VERSE,Friction[!]Function,0,,-,653,TOKIA,石川県,1648,NAGI*,石川県,3085,4S.E1.,石川県,0,,-
+HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,869,DUKE,石川県,1461,DUKE,石川県,2345,AETHER,石川県,0,,-
+HEROIC VERSE,fairy cocktail,0,,-,447,ZXCY,石川県,999,SATOLA,石川県,1627,ZXCV,石川県,0,,-
+HEROIC VERSE,EXCITE,327,DUKE,石川県,809,DUKE,石川県,1306,RYOKI.,石川県,2187,4S.E1.,石川県,0,,-
+HEROIC VERSE,EROICA,0,,-,1354,DUKE,石川県,2283,PONYO?,石川県,3727,4S.E1.,石川県,0,,-
+HEROIC VERSE,Duration,0,,-,536,DUKE,石川県,966,SATOLA,石川県,1936,ZXCV,石川県,0,,-
+HEROIC VERSE,Drop It,0,,-,1272,DUKE,石川県,1670,RYOKI.,石川県,2685,4S.E1.,石川県,0,,-
+HEROIC VERSE,Double Dribble,0,,-,720,ASD-59,石川県,1795,DUKE,石川県,3243,4S.E1.,石川県,0,,-
+HEROIC VERSE,Do What You Want,0,,-,695,DUKE,石川県,0,,-,1993,ZXCV,石川県,0,,-
+HEROIC VERSE,Dans la nuit de l'eternite,0,,-,912,AMB,石川県,2121,SZHR,石川県,3326,4S.E1.,石川県,0,,-
+HEROIC VERSE,Crank It,0,,-,767,DUKE,石川県,1408,HCENTV,石川県,2432,ZXCV,石川県,0,,-
+HEROIC VERSE,Change Yourself,0,,-,901,DUKE,石川県,1484,YUURI,石川県,2487,FRIAAA,石川県,0,,-
+HEROIC VERSE,Calvados Queen,0,,-,587,ASD-59,石川県,1426,R461,石川県,2405,ZXCV,石川県,0,,-
+HEROIC VERSE,Bow shock!!,0,,-,805,DUKE,石川県,1843,NAGI*,石川県,3051,4S.E1.,石川県,0,,-
+HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,865,DUKE,石川県,1562,RYOKI.,石川県,2429,ZXCV,石川県,0,,-
+HEROIC VERSE,beatAffection,0,,-,0,,-,1499,DUKE,石川県,2623,4S.E1.,石川県,0,,-
+HEROIC VERSE,BEAT PRISONER,0,,-,773,TOKIA,石川県,2069,4S.E1.,石川県,3496,4S.E1.,石川県,0,,-
+HEROIC VERSE,Backyard Stars,0,,-,978,DUKE,石川県,1627,ADO,石川県,2213,4S.E1.,石川県,0,,-
+HEROIC VERSE,Artist,0,,-,1179,DUKE,石川県,2174,16-CHA,石川県,3450,4S.E1.,石川県,0,,-
+HEROIC VERSE,And-RoiD,0,,-,711,DUKE,石川県,1250,RYOKI.,石川県,1989,4S.E1.,石川県,0,,-
+HEROIC VERSE,AKASHIC BREAK,0,,-,1092,&#8367,石川県,2287,AURUM,石川県,3487,AETHER,石川県,0,,-
+HEROIC VERSE,Advent Infamous,0,,-,960,DUKE,石川県,1567,EDEN,石川県,2790,FRIAAA,石川県,0,,-
+HEROIC VERSE,27th style,0,,-,0,,-,1796,ZXCV,石川県,2501,FRIAAA,石川県,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,770,AMB,石川県,2159,NAGI*,石川県,3154,4S.E1.,石川県,0,,-
 Rootage,金野火織の金色提言,0,,-,1213,RYOKI.,石川県,2135,SZHR,石川県,2980,4S.E1.,石川県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,577,RE&,石川県,1435,.,石川県,2490,FRIAAA,石川県,0,,-
@@ -1126,7 +1219,7 @@ Rootage,抱きしめてモナムール,0,,-,1262,DUKE,石川県,2181,16-CHA,石�
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,680,DUKE,石川県,1486,STARTC,石川県,2542,4S.E1.,石川県,0,,-
 Rootage,ミッドナイト☆WAR,0,,-,809,DUKE,石川県,1498,RYOKI.,石川県,2466,ZXCV,石川県,0,,-
 Rootage,ミストレス・アンに花束を,0,,-,572,DUKE,石川県,977,DUKE,石川県,1415,4S.E1.,石川県,0,,-
-Rootage,ハードベース・フェスタ,0,,-,1019,9LOUD,石川県,1671,MUS,石川県,2816,FRIAAA,石川県,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1019,9LOUD,石川県,1680,NAGI*,石川県,2816,FRIAAA,石川県,0,,-
 Rootage,セカンドピアス,0,,-,583,DUKE,石川県,1072,RYOKI.,石川県,1997,4S.E1.,石川県,0,,-
 Rootage,サクラあっぱれーしょん,265,DUKE,石川県,618,DUKE,石川県,1423,YMA,石川県,2305,ZXCV,石川県,0,,-
 Rootage,グラナダの風,0,,-,492,ASD-59,石川県,1146,TAKAC,石川県,1834,4S.E1.,石川県,0,,-
@@ -1159,11 +1252,11 @@ Rootage,Technicolour Dreams,0,,-,556,AMB,石川県,1353,DUKE,石川県,2363,FRIA
 Rootage,SPEED ROCKER,0,,-,892,DUKE,石川県,1459,&#8367,石川県,2269,4S.E1.,石川県,0,,-
 Rootage,Six String Proof,0,,-,857,DUKE,石川県,1307,TAKAC,石川県,2451,FRIAAA,石川県,0,,-
 Rootage,Serious?,0,,-,582,DUKE,石川県,1104,REAM,石川県,2193,4S.E1.,石川県,0,,-
-Rootage,R∞tAge,538,DUKE,石川県,690,YUI,石川県,1565,KASANE,石川県,2919,FRIAAA,石川県,0,,-
+Rootage,R∞tAge,538,DUKE,石川県,690,YUI,石川県,1565,KASANE,石川県,2926,AZUSA,石川県,0,,-
 Rootage,ruin of opals,0,,-,860,&#8367,石川県,1857,ZXCY,石川県,3033,AZUSA,石川県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,764,YUI,石川県,1644,P191ES,石川県,2658,FRIAAA,石川県,0,,-
 Rootage,REPLAY,0,,-,907,DUKE,石川県,1466,DUKE,石川県,2252,ZXCV,石川県,0,,-
-Rootage,Red. by Jack Trance,0,,-,1415,10DON,石川県,2096,4S.E1.,石川県,3380,AZUSA,石川県,0,,-
+Rootage,Red. by Jack Trance,0,,-,1415,10DON,石川県,2096,4S.E1.,石川県,3459,AZUSA,石川県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,640,DUKE,石川県,865,283,石川県,1657,ZXCV,石川県,2179,4S.E1.,石川県
 Rootage,Please Welcome Mr.C,0,,-,965,&#8367,石川県,1563,TAKAC,石川県,2864,ZXCV,石川県,0,,-
 Rootage,Playing With Fire,0,,-,941,&#8367,石川県,1354,VVVVVV,石川県,2299,4S.E1.,石川県,0,,-
@@ -1204,7 +1297,7 @@ Rootage,dAuntl3ss,0,,-,806,LPIP,石川県,1851,NAGI*,石川県,3420,4S.E1.,石�
 Rootage,Cranberry City ft. Luschel,0,,-,605,TYAKI,石川県,1459,DUKE,石川県,2417,AZUSA,石川県,0,,-
 Rootage,COSMIC CYBER,0,,-,1012,DUKE,石川県,1619,NANNAN,石川県,2889,DJZXCV,石川県,0,,-
 Rootage,CoMAAAAAAA,0,,-,891,YUI,石川県,1934,NAGI*,石川県,2380,DJZXCV,石川県,0,,-
-Rootage,CODE:0,0,,-,1340,&#8367,石川県,1803,K-66.,石川県,2702,ZXCV,石川県,0,,-
+Rootage,CODE:0,0,,-,1340,&#8367,石川県,1803,K-66.,石川県,2751,ADO,石川県,0,,-
 Rootage,Catch Our Fire!,0,,-,1284,DUKE,石川県,2029,AAA,石川県,3566,4S.E1.,石川県,0,,-
 Rootage,Carry Me Away,533,ZXCV,石川県,1052,CHACHA,石川県,1698,32K!,石川県,3083,DJZXCV,石川県,0,,-
 Rootage,Carmina,523,ZXCV,石川県,1158,178,石川県,2440,ADO,石川県,3539,TANAOO,石川県,0,,-
@@ -1216,99 +1309,6 @@ Rootage,50th Memorial Songs -The BEMANI History-,0,,-,770,AMB,石川県,1327,&#8
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,452,ASD-59,石川県,1415,NAGI*,石川県,2236,FRIAAA,石川県,0,,-
 Rootage,50th Memorial Songs -Beginning Story-,0,,-,795,DUKE,石川県,1568,RYOKI.,石川県,2637,ZXCV,石川県,0,,-
 Rootage,& Intelligence,0,,-,848,NIBOSH,石川県,1749,R-PACA,石川県,3080,ADO,石川県,0,,-
-HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,893,RYOKI.,石川県,1681,TAKAC,石川県,2927,4S.E1.,石川県,0,,-
-HEROIC VERSE,開きたまえ！Next stAge！,0,,-,699,ASD-59,石川県,1627,EDEN,石川県,2837,4S.E1.,石川県,0,,-
-HEROIC VERSE,錬成人間トリコロイダー,0,,-,1035,MUS,石川県,1686,YMA,石川県,3192,AZUSA,石川県,0,,-
-HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1263,RYOKI.,石川県,1982,FUL.,石川県,3407,4S.E1.,石川県,0,,-
-HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,636,DUKE,石川県,1062,J-.-J,石川県,1754,ZXCV,石川県,0,,-
-HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,581,TYAKI,石川県,1565,EDEN,石川県,2960,4S.E1.,石川県,0,,-
-HEROIC VERSE,曼荼羅恋々,0,,-,958,KEI,石川県,1597,ARCIE.,石川県,2693,4S.E1.,石川県,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,244,DUKE,石川県,620,DUKE,石川県,1232,EDEN,石川県,1949,ZXCV,石川県,0,,-
-HEROIC VERSE,令和(1991RAVE REMIX),350,DUKE,石川県,551,DUKE,石川県,1298,YUURI,石川県,2188,ZXCV,石川県,0,,-
-HEROIC VERSE,ランカーキラーガール,0,,-,1003,CH0BI,石川県,1823,HCENTV,石川県,2854,4S.E1.,石川県,0,,-
-HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,961,CORAL,石川県,2011,EDEN,石川県,3645,4S.E1.,石川県,0,,-
-HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),371,DUKE,石川県,787,DUKE,石川県,1413,DUKE,石川県,2375,3BOTEN,石川県,0,,-
-HEROIC VERSE,ガヴリールドロップキック,396,DUKE,石川県,759,DUKE,石川県,1640,16-CHA,石川県,2654,AZUSA,石川県,0,,-
-HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1427,CUR*RY,石川県,2712,ADO,石川県,4071,4S.E1.,石川県,0,,-
-HEROIC VERSE,Ypsilon,0,,-,1073,CUR*RY,石川県,1778,ADO,石川県,2829,ADO,石川県,3497,4S.E1.,石川県
-HEROIC VERSE,Voo Doo Bamboleo,0,,-,884,DUKE,石川県,1481,DUKE,石川県,2470,4S.E1.,石川県,0,,-
-HEROIC VERSE,Volcanic Dragon,0,,-,1044,DUKE,石川県,1609,MASA,石川県,2917,AETHER,石川県,0,,-
-HEROIC VERSE,Virus Funk,0,,-,756,DUKE,石川県,1454,RYOKI.,石川県,2200,ZXCV,石川県,0,,-
-HEROIC VERSE,VIBRΛ,0,,-,734,!-!,石川県,1255,DUKE,石川県,1832,FRIAAA,石川県,0,,-
-HEROIC VERSE,VALKYRIAS -英雄誕生-,463,DUKE,石川県,1016,DUKE,石川県,1702,EDEN,石川県,2723,4S.E1.,石川県,0,,-
-HEROIC VERSE,UNITE THE HEART,0,,-,1245,SLCSZK,石川県,2482,16-CHA,石川県,3249,AETHER,石川県,0,,-
-HEROIC VERSE,TRIUMPH,0,,-,748,NANNAN,石川県,1878,32K!,石川県,3276,4S.E1.,石川県,0,,-
-HEROIC VERSE,Theory,0,,-,770,KYON,石川県,1410,ZXCY,石川県,2444,FRIAAA,石川県,0,,-
-HEROIC VERSE,The Sky of Sadness,0,,-,864,DUKE,石川県,1368,DUKE,石川県,2335,ZXCY,石川県,0,,-
-HEROIC VERSE,THE F∀UST,0,,-,1038,K-NA,石川県,2065,16-CHA,石川県,3440,4S.E1.,石川県,0,,-
-HEROIC VERSE,THE BRAVE MUST DIE,0,,-,748,TYAKI,石川県,2286,12YUJ!,石川県,3924,4S.E1.,石川県,0,,-
-HEROIC VERSE,TECHNO Style Essentials,0,,-,677,YUI,石川県,1357,YUURI,石川県,2772,4S.E1.,石川県,0,,-
-HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1187,KYURI,石川県,1677,TAKAC,石川県,3127,AZUSA,石川県,0,,-
-HEROIC VERSE,Sugar Drippin',0,,-,743,DUKE,石川県,1213,SATOLA,石川県,2078,FRIAAA,石川県,0,,-
-HEROIC VERSE,STOIC HYPOTHESIS,0,,-,783,YINU,石川県,1577,YMA,石川県,2732,ADO,石川県,0,,-
-HEROIC VERSE,Sparkle Smilin',0,,-,907,DUKE,石川県,1379,DUKE,石川県,2420,4S.E1.,石川県,0,,-
-HEROIC VERSE,Smashing Wedge,0,,-,942,DUKE,石川県,2193,4S.E1.,石川県,3617,AETHER,石川県,0,,-
-HEROIC VERSE,Ska-sh All Neurons!!,0,,-,955,DUKE,石川県,1383,CUR*RY,石川県,2305,4S.E1.,石川県,0,,-
-HEROIC VERSE,Silly Love,260,DUKE,石川県,780,DUKE,石川県,1235,YMA,石川県,2056,DJZXCV,石川県,0,,-
-HEROIC VERSE,Shiva,0,,-,721,DUKE,石川県,1359,RYOKI.,石川県,2080,FRIAAA,石川県,0,,-
-HEROIC VERSE,Sellout,0,,-,540,DUKE,石川県,756,YINU,石川県,2107,DJZXCV,石川県,0,,-
-HEROIC VERSE,SCREW // owo // SCREW,0,,-,1118,4S.E1.,石川県,2011,32K!,石川県,2894,ADO,石川県,0,,-
-HEROIC VERSE,S!ck (Nhato Remix),0,,-,975,DUKE,石川県,1531,12YUJ!,石川県,2469,ZXCY,石川県,0,,-
-HEROIC VERSE,rough percussionythm,0,,-,829,YUI,石川県,1611,16-CHA,石川県,2455,ADO,石川県,0,,-
-HEROIC VERSE,Rave Patroller,0,,-,1300,2MOL,石川県,2211,16-CHA,石川県,3322,4S.E1.,石川県,0,,-
-HEROIC VERSE,Rave lithosphere,0,,-,819,NIBOSH,石川県,1612,RYOKI.,石川県,2602,4S.E1.,石川県,0,,-
-HEROIC VERSE,Rainstorm,0,,-,728,NIBOSH,石川県,1430,RYOKI.,石川県,2267,4S.E1.,石川県,0,,-
-HEROIC VERSE,Queen Kaguya,0,,-,695,YUI,石川県,1676,YMA,石川県,2571,DJZXCV,石川県,0,,-
-HEROIC VERSE,Punching Down (IIDX Mix),0,,-,615,DUKE,石川県,773,INAFE,石川県,1834,ZXCV,石川県,0,,-
-HEROIC VERSE,Primitive Vibes,580,DUKE,石川県,686,TYAKI,石川県,1962,PANNU,石川県,3049,AZUSA,石川県,0,,-
-HEROIC VERSE,POP TEAM EPIC(kors k Remix),328,DUKE,石川県,521,DUKE,石川県,1212,&#8367,石川県,2142,ZXCV,石川県,0,,-
-HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,844,YUI,石川県,1591,RYOKI.,石川県,2825,DJZXCV,石川県,0,,-
-HEROIC VERSE,Override,0,,-,872,BB-KUN,石川県,1521,DUKE,石川県,2872,DJZXCV,石川県,0,,-
-HEROIC VERSE,OUTER PLANETS,0,,-,672,DUKE,石川県,1324,RYOKI.,石川県,2133,4S.E1.,石川県,0,,-
-HEROIC VERSE,Ohayo!,0,,-,489,AMB,石川県,1346,&#8367,石川県,2356,FRIAAA,石川県,0,,-
-HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,0,,-,1382,DUKE,石川県,2601,ZXCV,石川県,0,,-
-HEROIC VERSE,NEWALONE,0,,-,600,DUKE,石川県,1253,EDEN,石川県,1984,ZXCV,石川県,0,,-
-HEROIC VERSE,Nasty Techniques,0,,-,967,DUKE,石川県,1588,RYOKI.,石川県,2579,3BOTEN,石川県,0,,-
-HEROIC VERSE,Moving on,0,,-,801,CH0BI,石川県,1665,K-66.,石川県,2950,4S.E1.,石川県,0,,-
-HEROIC VERSE,Mel,0,,-,770,DUKE,石川県,1419,RYOKI.,石川県,2161,3BOTEN,石川県,0,,-
-HEROIC VERSE,Matt Silver,0,,-,686,ASD-59,石川県,2016,SZHR,石川県,3320,AZUSA,石川県,0,,-
-HEROIC VERSE,Lost Souls,0,,-,689,DUKE,石川県,1427,YMA,石川県,2412,AETHER,石川県,0,,-
-HEROIC VERSE,Lords Of The Roundtable,0,,-,1015,CORAL,石川県,1775,ADO,石川県,2892,FRIAAA,石川県,0,,-
-HEROIC VERSE,Like+it!,0,,-,923,K-NA,石川県,1580,NAGI*,石川県,2338,DJZXCV,石川県,0,,-
-HEROIC VERSE,LIGHTNING STRIKES,471,ZXCV,石川県,895,&#8367,石川県,1701,DJZXCV,石川県,3220,AZUSA,石川県,0,,-
-HEROIC VERSE,Level 2,0,,-,631,LC,石川県,1592,SEIKIN,石川県,2741,FRIAAA,石川県,0,,-
-HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,767,DUKE,石川県,1636,NAGI*,石川県,3431,4S.E1.,石川県,0,,-
-HEROIC VERSE,Infinity Mirror,0,,-,686,PARUKU,石川県,1322,DUKE,石川県,2283,AZUSA,石川県,0,,-
-HEROIC VERSE,Inferno of Fomalhaut,0,,-,999,DUKE,石川県,1763,AKISTE,石川県,2937,1048,石川県,0,,-
-HEROIC VERSE,If,0,,-,610,F-G01,石川県,1159,CITRON,石川県,1868,ADO,石川県,0,,-
-HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,659,DUKE,石川県,1372,2MOL,石川県,1971,ZXCV,石川県,0,,-
-HEROIC VERSE,Horizons of Promise,0,,-,939,DUKE,石川県,1403,YMA,石川県,2581,ZXCV,石川県,0,,-
-HEROIC VERSE,Hold My Hand,0,,-,650,ASD-59,石川県,1505,SATOLA,石川県,2472,ZXCV,石川県,0,,-
-HEROIC VERSE,GIGA VIOLATE,0,,-,928,BB-KUN,石川県,1506,NAGI*,石川県,2653,1048,石川県,0,,-
-HEROIC VERSE,GHOST,0,,-,671,CH0BI,石川県,1406,TAK875,石川県,2701,4S.E1.,石川県,0,,-
-HEROIC VERSE,Friction[!]Function,0,,-,653,TOKIA,石川県,1648,NAGI*,石川県,3085,4S.E1.,石川県,0,,-
-HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,869,DUKE,石川県,1461,DUKE,石川県,2345,AETHER,石川県,0,,-
-HEROIC VERSE,fairy cocktail,0,,-,447,ZXCY,石川県,999,SATOLA,石川県,1627,ZXCV,石川県,0,,-
-HEROIC VERSE,EXCITE,327,DUKE,石川県,809,DUKE,石川県,1306,RYOKI.,石川県,2187,4S.E1.,石川県,0,,-
-HEROIC VERSE,EROICA,0,,-,1354,DUKE,石川県,2283,PONYO?,石川県,3727,4S.E1.,石川県,0,,-
-HEROIC VERSE,Duration,0,,-,536,DUKE,石川県,966,SATOLA,石川県,1936,ZXCV,石川県,0,,-
-HEROIC VERSE,Drop It,0,,-,1272,DUKE,石川県,1670,RYOKI.,石川県,2685,4S.E1.,石川県,0,,-
-HEROIC VERSE,Double Dribble,0,,-,720,ASD-59,石川県,1795,DUKE,石川県,3243,4S.E1.,石川県,0,,-
-HEROIC VERSE,Do What You Want,0,,-,695,DUKE,石川県,0,,-,1993,ZXCV,石川県,0,,-
-HEROIC VERSE,Dans la nuit de l'eternite,0,,-,912,AMB,石川県,2121,SZHR,石川県,3326,4S.E1.,石川県,0,,-
-HEROIC VERSE,Crank It,0,,-,767,DUKE,石川県,1408,HCENTV,石川県,2432,ZXCV,石川県,0,,-
-HEROIC VERSE,Change Yourself,0,,-,901,DUKE,石川県,1484,YUURI,石川県,2487,FRIAAA,石川県,0,,-
-HEROIC VERSE,Calvados Queen,0,,-,587,ASD-59,石川県,1426,R461,石川県,2405,ZXCV,石川県,0,,-
-HEROIC VERSE,Bow shock!!,0,,-,805,DUKE,石川県,1823,NAGI*,石川県,3051,4S.E1.,石川県,0,,-
-HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,865,DUKE,石川県,1562,RYOKI.,石川県,2429,ZXCV,石川県,0,,-
-HEROIC VERSE,beatAffection,0,,-,0,,-,1499,DUKE,石川県,2623,4S.E1.,石川県,0,,-
-HEROIC VERSE,BEAT PRISONER,0,,-,773,TOKIA,石川県,2069,4S.E1.,石川県,3496,4S.E1.,石川県,0,,-
-HEROIC VERSE,Backyard Stars,0,,-,978,DUKE,石川県,1627,ADO,石川県,2213,4S.E1.,石川県,0,,-
-HEROIC VERSE,Artist,0,,-,1179,DUKE,石川県,2174,16-CHA,石川県,3450,4S.E1.,石川県,0,,-
-HEROIC VERSE,And-RoiD,0,,-,711,DUKE,石川県,1250,RYOKI.,石川県,1989,4S.E1.,石川県,0,,-
-HEROIC VERSE,AKASHIC BREAK,0,,-,1092,&#8367,石川県,2287,AURUM,石川県,3487,AETHER,石川県,0,,-
-HEROIC VERSE,Advent Infamous,0,,-,960,DUKE,石川県,1567,EDEN,石川県,2790,FRIAAA,石川県,0,,-
-HEROIC VERSE,27th style,0,,-,0,,-,1796,ZXCV,石川県,2501,FRIAAA,石川県,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,758,STBLAC,石川県,1490,O2,石川県,2656,PONYO?,石川県,0,,-
 BISTROVER,霧幻メモリア,0,,-,904,1048,石川県,1359,DUKE,石川県,2014,ZXCV,石川県,0,,-
 BISTROVER,紅蓮華,156,DUKE,石川県,516,DUKE,石川県,936,J-.-J,石川県,1484,ZXCV,石川県,0,,-
@@ -1334,7 +1334,7 @@ BISTROVER,S-Bahn,0,,-,931,DUKE,石川県,1455,RYOKI.,石川県,2162,ZXCV,石川�
 BISTROVER,Rubrum Piano,0,,-,900,DUKE,石川県,1666,MEMO,石川県,2445,4S.E1.,石川県,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,655,YAMAC,石川県,1361,YUURI,石川県,2161,ZXCV,石川県,0,,-
 BISTROVER,Rowdy,0,,-,1011,MO*CHI,石川県,1448,&#8367,石川県,2465,4S.E1.,石川県,0,,-
-BISTROVER,rommmo,0,,-,1104,178,石川県,1521,VVVVVV,石川県,3334,AETHER,石川県,0,,-
+BISTROVER,rommmo,0,,-,1104,178,石川県,1604,YUKKU,石川県,3334,AETHER,石川県,0,,-
 BISTROVER,Romanticが止まらない,385,DUKE,石川県,922,DUKE,石川県,1644,EDEN,石川県,2722,DJZXCV,石川県,0,,-
 BISTROVER,POLKAMANIA,432,ZXCV,石川県,853,BB-KUN,石川県,1811,4S.E1.,石川県,2847,FRIAAA,石川県,0,,-
 BISTROVER,Party Starter,0,,-,951,DUKE,石川県,1452,NAGI*,石川県,2260,ZXCV,石川県,0,,-
@@ -1402,7 +1402,7 @@ CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1620,ZXCV,石川県,2514,ADO,石川
 CastHour,Lawes's Parotia,0,,-,883,DUKE,石川県,1681,ZXCV,石川県,2542,AZUSA,石川県,0,,-
 CastHour,ILAYZA,0,,-,1186,ZXCV,石川県,2039,ZXCV,石川県,2784,DJZXCV,石川県,0,,-
 CastHour,HEARTACHE,0,,-,488,S.CROW,石川県,1186,ZXCV,石川県,1826,ZXCV,石川県,0,,-
-CastHour,GiGaGaHell,0,,-,1340,ZXCV,石川県,2026,ADO,石川県,2960,4S.E1.,石川県,0,,-
+CastHour,GiGaGaHell,0,,-,1340,ZXCV,石川県,2026,ADO,石川県,3020,AZUSA,石川県,0,,-
 CastHour,FINALLY BLAZE,0,,-,915,ZXCV,石川県,1777,ZXCV,石川県,2767,PANNU,石川県,0,,-
 CastHour,Fegrix,0,,-,1252,ZXCV,石川県,2213,ZXCV,石川県,3166,4S.E1.,石川県,0,,-
 CastHour,Fantastic Merry-Go-Round,0,,-,1075,ZXCV,石川県,1479,RIBA,石川県,2113,DJZXCV,石川県,0,,-
