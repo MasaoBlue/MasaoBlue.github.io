@@ -64,7 +64,7 @@
 5th style,RISLIM,0,,-,622,MAKI,北海道,1227,MUCC,北海道,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,868,LAIKA,北海道,1042,KAWASE,北海道,1713,ROOMBA,北海道,1798,KAMA,北海道
 5th style,Regulus,0,,-,958,USE,北海道,1435,ALIKA,北海道,1716,N!?,北海道,0,,-
-5th style,Real,0,,-,1086,ALIKA,北海道,1576,A,北海道,1803,JOHN.S,北海道,0,,-
+5th style,Real,0,,-,1086,ALIKA,北海道,1576,A,北海道,1812,MARIO$,北海道,0,,-
 5th style,Radical Faith,0,,-,848,SHRIMP,北海道,1496,DONMEL,北海道,1282,*JILL*,北海道,0,,-
 5th style,QQQ,0,,-,991,HIMEKA,北海道,1871,COSTCO,北海道,2166,COSTCO,北海道,0,,-
 5th style,outer wall,0,,-,420,PEPE,北海道,1270,KAWASE,北海道,1754,MUCC,北海道,0,,-
@@ -151,7 +151,7 @@
 9th style,Quickening,0,,-,327,AAAAAA,北海道,1680,X-ME,北海道,2113,DPSTN,北海道,0,,-
 9th style,quasar,0,,-,1136,ALIKA,北海道,1763,MUCC,北海道,2313,DPSTN,北海道,0,,-
 9th style,one or eight,0,,-,1258,AGRES,北海道,1932,N!?,北海道,2267,HINO38,北海道,0,,-
-9th style,moon_child,0,,-,1006,39RADA,北海道,2007,N!?,北海道,2535,JOHN.S,北海道,0,,-
+9th style,moon_child,0,,-,1007,MASIMO,北海道,2007,N!?,北海道,2535,JOHN.S,北海道,0,,-
 9th style,MARIA (I believe... ),0,,-,704,9ROKA.,北海道,1583,VKANIV,北海道,1951,99MOON,北海道,0,,-
 9th style,Make A Difference,0,,-,789,K.,北海道,1562,LOTUS.,北海道,2211,DPSTN,北海道,0,,-
 9th style,lower world,0,,-,1287,MASIMO,北海道,1795,AGRES,北海道,2241,DPSTN,北海道,0,,-
@@ -207,7 +207,7 @@ IIDX RED,大桟橋,0,,-,425,LAIKA,北海道,950,ERROR,北海道,1846,JOHN.S,北�
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,830,RABBIT,北海道,2135,JOHN.S,北海道,2695,DPSTN,北海道,0,,-
 IIDX RED,Wonder Bullfighter,0,,-,914,MASIMO,北海道,1435,VKANIV,北海道,2056,*WOOL*,北海道,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,1042,NZ,北海道,1625,SUKA,北海道,1932,MUCC,北海道,0,,-
-IIDX RED,spiral galaxy,0,,-,1006,4-BIRD,北海道,2087,MUCC,北海道,2575,AKI,北海道,3735,KAMA,北海道
+IIDX RED,spiral galaxy,0,,-,1006,4-BIRD,北海道,2087,MUCC,北海道,2575,AKI,北海道,3764,DPSTN,北海道
 IIDX RED,Sphere,0,,-,928,ROPN,北海道,1976,N!?,北海道,2175,MUCC,北海道,0,,-
 IIDX RED,SPEEDY CAT,0,,-,881,SAKI,北海道,1708,M-CHA*,北海道,2041,DPSTN,北海道,0,,-
 IIDX RED,Secret of Love,0,,-,794,MUTSU,北海道,1467,VKANIV,北海道,2019,*WOOL*,北海道,0,,-
@@ -260,7 +260,7 @@ HAPPY SKY,MOON RACE,0,,-,786,K.,北海道,1130,9MA3RO,北海道,1889,N!?,北海�
 HAPPY SKY,Love Magic,0,,-,958,KURO-U,北海道,1676,REIN-A,北海道,1929,MGRK,北海道,0,,-
 HAPPY SKY,Little Little Princess,0,,-,1071,MASIMO,北海道,2164,NYAMA,北海道,2782,JOHN.S,北海道,3792,DPSTN,北海道
 HAPPY SKY,LESSON 5,0,,-,1251,ALIKA,北海道,1791,HA-2.C,北海道,2475,MGRK,北海道,0,,-
-HAPPY SKY,INAZUMA,0,,-,1115,RABBIT,北海道,1823,MUCC,北海道,2719,DPSTN,北海道,0,,-
+HAPPY SKY,INAZUMA,0,,-,1117,RABBIT,北海道,1823,MUCC,北海道,2719,DPSTN,北海道,0,,-
 HAPPY SKY,in motion,0,,-,821,DA-XY,北海道,1031,SNCHAN,北海道,1315,COSTCO,北海道,0,,-
 HAPPY SKY,I am,0,,-,1020,KURO-U,北海道,1698,HA-2.C,北海道,2154,KAZZ,北海道,0,,-
 HAPPY SKY,HAPPY☆ANGEL,635,HATUNE,北海道,1036,NOZ,北海道,1533,RABBIT,北海道,2093,DPSTN,北海道,0,,-
@@ -445,11 +445,68 @@ EMPRESS,CaptivAte2～覚醒～,242,LAIKA,北海道,1016,LAIKA,北海道,1739,VKA
 EMPRESS,BRIDAL FESTIVAL !!!,0,,-,930,LAIKA,北海道,1470,BREEZE,北海道,2111,DONMEL,北海道,0,,-
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1014,LAIKA,北海道,2144,VKANIV,北海道,3936,HINO38,北海道,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1045,MASIMO,北海道,1978,JOHN.S,北海道,2622,DPSTN,北海道,3235,*WOOL*,北海道
-EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1142,LAIKA,北海道,2179,U-TA,北海道,3574,DPSTN,北海道,4621,DPSTN,北海道
+EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1142,LAIKA,北海道,2259,CRES.,北海道,3574,DPSTN,北海道,4621,DPSTN,北海道
 EMPRESS,Arabian Rave Night,0,,-,1266,SNCHAN,北海道,2116,X-ME,北海道,2905,TAMAGO,北海道,3578,9MARY0,北海道
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,972,LAIKA,北海道,1666,REIN-A,北海道,2568,*WOOL*,北海道,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,1113,RABBIT,北海道,1626,HA-2.C,北海道,2104,*WOOL*,北海道,0,,-
 EMPRESS,3y3s,552,LAIKA,北海道,1458,AGRES,北海道,2531,MUCC,北海道,3656,DPSTN,北海道,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,779,LAIKA,北海道,2141,N!?,北海道,3454,DPSTN,北海道,0,,-
+Resort Anthem,灼熱Beach Side Bunny,580,79L,北海道,1087,MGRK,北海道,2004,N!?,北海道,3219,DPSTN,北海道,0,,-
+Resort Anthem,旅人リラン,0,,-,1116,LAIKA,北海道,1927,RABBIT,北海道,2629,JOHN.S,北海道,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,957,NOZ,北海道,2017,LOTUS.,北海道,2795,*WOOL*,北海道,0,,-
+Resort Anthem,中華急行,0,,-,326,LAIKA,北海道,1489,SUKA,北海道,2326,DPSTN,北海道,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,526,LAIKA,北海道,862,LAIKA,北海道,1309,BASS.H,北海道,1895,*JILL*,北海道,0,,-
+Resort Anthem,おおきなこえで,0,,-,457,LAIKA,北海道,989,RABBIT,北海道,1499,N!?,北海道,2126,*WOOL*,北海道
+Resort Anthem,ZETA～素数の世界と超越者～,330,LAIKA,北海道,607,LAIKA,北海道,2135,VKANIV,北海道,3067,99MOON,北海道,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,970,LAIKA,北海道,1713,HA-2.C,北海道,2757,DPSTN,北海道,0,,-
+Resort Anthem,Wuv U,0,,-,416,LAIKA,北海道,1306,MQUEEN,北海道,1707,99MOON,北海道,0,,-
+Resort Anthem,WISE UP!,343,LAIKA,北海道,483,LAIKA,北海道,1080,9ROKA.,北海道,1585,MUCC,北海道,0,,-
+Resort Anthem,Watch Out Pt.2,0,,-,1114,SUWA,北海道,1997,MUCC,北海道,2882,DPSTN,北海道,0,,-
+Resort Anthem,Vermillion,0,,-,534,ALIKA,北海道,1051,KITUNE,北海道,2063,TAMAGO,北海道,0,,-
+Resort Anthem,Tropical April,0,,-,1537,PS,北海道,2197,AGO,北海道,2734,TEFNUT,北海道,0,,-
+Resort Anthem,THE FALLEN,0,,-,898,YSKDM*,北海道,1437,HIROO,北海道,2658,ME$O,北海道,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,789,LAIKA,北海道,1627,ALIKA,北海道,2152,KAMA,北海道,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,902,LAIKA,北海道,2056,NYAMA,北海道,2933,DPSTN,北海道,0,,-
+Resort Anthem,STELLAR WIND,383,LAIKA,北海道,626,LAIKA,北海道,1905,N!?,北海道,2622,9MARY0,北海道,0,,-
+Resort Anthem,Stay my side,0,,-,642,LAIKA,北海道,1011,LAIKA,北海道,1339,AKI,北海道,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,707,LAIKA,北海道,1642,VKANIV,北海道,2947,*WOOL*,北海道,0,,-
+Resort Anthem,Space Time,0,,-,614,SNCHAN,北海道,1719,N!?,北海道,2188,COSTCO,北海道,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,686,HIMEKA,北海道,2317,LOTUS.,北海道,3630,DPSTN,北海道,0,,-
+Resort Anthem,sakura storm,0,,-,1056,COSTCO,北海道,1310,MUCC,北海道,2396,HINO38,北海道,0,,-
+Resort Anthem,Sakura Reflection,0,,-,479,LAIKA,北海道,1625,N!?,北海道,2365,DPSTN,北海道,0,,-
+Resort Anthem,SABER WING,0,,-,538,79L,北海道,1888,N!?,北海道,2819,99MOON,北海道,0,,-
+Resort Anthem,Rock Da House,0,,-,866,MASIMO,北海道,1624,LOTUS.,北海道,2227,COSTCO,北海道,0,,-
+Resort Anthem,reunion,557,LAIKA,北海道,1378,VKANIV,北海道,2412,MUCC,北海道,3286,DPSTN,北海道,0,,-
+Resort Anthem,Programmed Life,0,,-,1080,USE,北海道,1735,L!A,北海道,2337,TAMAGO,北海道,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1249,MASIMO,北海道,2430,TSURRR,北海道,3963,DPSTN,北海道,0,,-
+Resort Anthem,passionate fate,0,,-,768,ROPN,北海道,1567,LIZ.KM,北海道,2120,*JILL*,北海道,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1379,ALIKA,北海道,2360,TEFNUT,北海道,3396,DPSTN,北海道,0,,-
+Resort Anthem,New Castle Legions,0,,-,1002,RABBIT,北海道,1912,KIX,北海道,2680,KAMA,北海道,0,,-
+Resort Anthem,Never Fade Away,0,,-,769,LAIKA,北海道,1720,PS,北海道,3001,*WOOL*,北海道,0,,-
+Resort Anthem,Mermaid girl,580,79L,北海道,965,LAIKA,北海道,1657,S.BREZ,北海道,2211,COSTCO,北海道,0,,-
+Resort Anthem,Medicine of love,0,,-,626,LAIKA,北海道,1054,NASSAN,北海道,1732,DPSTN,北海道,0,,-
+Resort Anthem,Let The Track Flow,0,,-,1037,LAIKA,北海道,1783,LOTUS.,北海道,2618,KAMA,北海道,0,,-
+Resort Anthem,Kailua,0,,-,531,LAIKA,北海道,1406,N!?,北海道,2183,DPSTN,北海道,0,,-
+Resort Anthem,I FIGHT ME,0,,-,627,LAIKA,北海道,1377,MASIMO,北海道,2130,M-CHA*,北海道,0,,-
+Resort Anthem,Golden Palms,0,,-,724,NOZ,北海道,1412,KAWASE,北海道,2007,COSTCO,北海道,2390,TEFNUT,北海道
+Resort Anthem,Fantasia,243,LAIKA,北海道,398,LAIKA,北海道,1536,PINGU.,北海道,2245,DPSTN,北海道,0,,-
+Resort Anthem,Everlasting Resort,0,,-,867,LAIKA,北海道,1323,RABBIT,北海道,1888,N!?,北海道,0,,-
+Resort Anthem,Eternal Tears,0,,-,429,LAIKA,北海道,1042,TARO,北海道,1368,OOSAKA,北海道,0,,-
+Resort Anthem,Energy Drive,0,,-,866,ALIKA,北海道,1412,PS,北海道,2211,*WOOL*,北海道,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,1052,LAIKA,北海道,1918,MUCC,北海道,2391,99MOON,北海道,0,,-
+Resort Anthem,Destiny Sword,0,,-,553,SMYS38,北海道,1720,SISUI,北海道,2364,MUCC,北海道,0,,-
+Resort Anthem,DAYDREAMER,0,,-,1178,ALIKA,北海道,1760,RABBIT,北海道,2518,SOISEI,北海道,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1482,N!?,北海道,2271,MUCC,北海道,3108,JOHN.S,北海道,0,,-
+Resort Anthem,BROKEN EDEN,0,,-,1019,MASIMO,北海道,1723,HA-2.C,北海道,2320,*WOOL*,北海道,0,,-
+Resort Anthem,Broken,0,,-,1065,SUWA,北海道,2055,MUCC,北海道,3171,DPSTN,北海道,0,,-
+Resort Anthem,Breaking the ground,0,,-,1189,RABBIT,北海道,1785,SAI.,北海道,2517,*WOOL*,北海道,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,1020,NOZ,北海道,1638,JOE,北海道,2448,DPSTN,北海道,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,798,USE,北海道,1477,KOME-G,北海道,2110,89#CHU,北海道,0,,-
+Resort Anthem,Believe In Me,0,,-,676,ATIR,北海道,1841,LOTUS.,北海道,2362,JOHN.S,北海道,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,965,ALIKA,北海道,1950,89#CHU,北海道,2956,DPSTN,北海道,0,,-
+Resort Anthem,Answer,0,,-,771,NASSAN,北海道,1470,LOTUS.,北海道,2434,*WOOL*,北海道,0,,-
+Resort Anthem,ALBIDA,519,79L,北海道,1091,MASIMO,北海道,1905,MQUEEN,北海道,3034,DPSTN,北海道,0,,-
+Resort Anthem,Aegis,0,,-,853,USE,北海道,1426,N!?,北海道,2314,*WOOL*,北海道,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,693,SUWA,北海道,1597,TO*RUN,北海道,2070,KANONE,北海道,0,,-
 SIRIUS,未来のプリズム,0,,-,687,LAIKA,北海道,1367,VKANIV,北海道,1779,N!?,北海道,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1299,9MARY0,北海道,2181,.LOEWE,北海道,3175,DPSTN,北海道,0,,-
@@ -502,127 +559,6 @@ SIRIUS,bass 2 bass,279,LAIKA,北海道,710,LAIKA,北海道,1259,LOTUS.,北海道
 SIRIUS,Bad Maniacs,0,,-,1261,ALIKA,北海道,1894,MUCC,北海道,3283,DPSTN,北海道,0,,-
 SIRIUS,Almagest,0,,-,1037,N!?,北海道,2173,N!?,北海道,3207,DPSTN,北海道,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,541,79L,北海道,1112,9ROKA.,北海道,1884,N!?,北海道,2340,*WOOL*,北海道,3016,DPSTN,北海道
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,779,LAIKA,北海道,2141,N!?,北海道,3454,DPSTN,北海道,0,,-
-Resort Anthem,灼熱Beach Side Bunny,580,79L,北海道,1087,MGRK,北海道,2004,N!?,北海道,3219,DPSTN,北海道,0,,-
-Resort Anthem,旅人リラン,0,,-,1116,LAIKA,北海道,1927,RABBIT,北海道,2629,JOHN.S,北海道,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,957,NOZ,北海道,2017,LOTUS.,北海道,2795,*WOOL*,北海道,0,,-
-Resort Anthem,中華急行,0,,-,326,LAIKA,北海道,1489,SUKA,北海道,2326,DPSTN,北海道,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,526,LAIKA,北海道,862,LAIKA,北海道,1309,BASS.H,北海道,1895,*JILL*,北海道,0,,-
-Resort Anthem,おおきなこえで,0,,-,457,LAIKA,北海道,989,RABBIT,北海道,1499,N!?,北海道,2126,*WOOL*,北海道
-Resort Anthem,ZETA～素数の世界と超越者～,330,LAIKA,北海道,607,LAIKA,北海道,2135,VKANIV,北海道,3067,99MOON,北海道,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,970,LAIKA,北海道,1713,HA-2.C,北海道,2757,DPSTN,北海道,0,,-
-Resort Anthem,Wuv U,0,,-,416,LAIKA,北海道,1306,MQUEEN,北海道,1707,99MOON,北海道,0,,-
-Resort Anthem,WISE UP!,343,LAIKA,北海道,483,LAIKA,北海道,1080,9ROKA.,北海道,1585,MUCC,北海道,0,,-
-Resort Anthem,Watch Out Pt.2,0,,-,1114,SUWA,北海道,1997,MUCC,北海道,2882,DPSTN,北海道,0,,-
-Resort Anthem,Vermillion,0,,-,534,ALIKA,北海道,1051,KITUNE,北海道,2063,TAMAGO,北海道,0,,-
-Resort Anthem,Tropical April,0,,-,1537,PS,北海道,2197,AGO,北海道,2734,TEFNUT,北海道,0,,-
-Resort Anthem,THE FALLEN,0,,-,898,YSKDM*,北海道,1437,HIROO,北海道,2658,ME$O,北海道,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,789,LAIKA,北海道,1627,ALIKA,北海道,2152,KAMA,北海道,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,902,LAIKA,北海道,2056,NYAMA,北海道,2933,DPSTN,北海道,0,,-
-Resort Anthem,STELLAR WIND,383,LAIKA,北海道,626,LAIKA,北海道,1905,N!?,北海道,2622,9MARY0,北海道,0,,-
-Resort Anthem,Stay my side,0,,-,642,LAIKA,北海道,1011,LAIKA,北海道,1339,AKI,北海道,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,707,LAIKA,北海道,1642,VKANIV,北海道,2947,*WOOL*,北海道,0,,-
-Resort Anthem,Space Time,0,,-,614,SNCHAN,北海道,1719,N!?,北海道,2188,COSTCO,北海道,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,686,HIMEKA,北海道,2317,LOTUS.,北海道,3630,DPSTN,北海道,0,,-
-Resort Anthem,sakura storm,0,,-,1056,COSTCO,北海道,1310,MUCC,北海道,2396,HINO38,北海道,0,,-
-Resort Anthem,Sakura Reflection,0,,-,479,LAIKA,北海道,1625,N!?,北海道,2365,DPSTN,北海道,0,,-
-Resort Anthem,SABER WING,0,,-,538,79L,北海道,1888,N!?,北海道,2819,99MOON,北海道,0,,-
-Resort Anthem,Rock Da House,0,,-,866,MASIMO,北海道,1624,LOTUS.,北海道,2227,COSTCO,北海道,0,,-
-Resort Anthem,reunion,557,LAIKA,北海道,1378,VKANIV,北海道,2412,MUCC,北海道,3286,DPSTN,北海道,0,,-
-Resort Anthem,Programmed Life,0,,-,1080,USE,北海道,1735,L!A,北海道,2337,TAMAGO,北海道,0,,-
-Resort Anthem,perditus†paradisus,0,,-,1249,MASIMO,北海道,2430,TSURRR,北海道,3963,DPSTN,北海道,0,,-
-Resort Anthem,passionate fate,0,,-,768,ROPN,北海道,1567,LIZ.KM,北海道,2120,*JILL*,北海道,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1379,ALIKA,北海道,2360,TEFNUT,北海道,3396,DPSTN,北海道,0,,-
-Resort Anthem,New Castle Legions,0,,-,1002,RABBIT,北海道,1912,KIX,北海道,2680,KAMA,北海道,0,,-
-Resort Anthem,Never Fade Away,0,,-,769,LAIKA,北海道,1720,PS,北海道,3001,*WOOL*,北海道,0,,-
-Resort Anthem,Mermaid girl,580,79L,北海道,965,LAIKA,北海道,1657,S.BREZ,北海道,2211,COSTCO,北海道,0,,-
-Resort Anthem,Medicine of love,0,,-,626,LAIKA,北海道,1054,NASSAN,北海道,1732,DPSTN,北海道,0,,-
-Resort Anthem,Let The Track Flow,0,,-,1037,LAIKA,北海道,1783,LOTUS.,北海道,2618,KAMA,北海道,0,,-
-Resort Anthem,Kailua,0,,-,531,LAIKA,北海道,1406,N!?,北海道,2183,DPSTN,北海道,0,,-
-Resort Anthem,I FIGHT ME,0,,-,627,LAIKA,北海道,1377,MASIMO,北海道,2130,M-CHA*,北海道,0,,-
-Resort Anthem,Golden Palms,0,,-,724,NOZ,北海道,1412,KAWASE,北海道,2007,COSTCO,北海道,2390,TEFNUT,北海道
-Resort Anthem,Fantasia,243,LAIKA,北海道,398,LAIKA,北海道,1536,PINGU.,北海道,2245,DPSTN,北海道,0,,-
-Resort Anthem,Everlasting Resort,0,,-,867,LAIKA,北海道,1323,RABBIT,北海道,1888,N!?,北海道,0,,-
-Resort Anthem,Eternal Tears,0,,-,429,LAIKA,北海道,1042,TARO,北海道,1368,OOSAKA,北海道,0,,-
-Resort Anthem,Energy Drive,0,,-,866,ALIKA,北海道,1412,PS,北海道,2211,*WOOL*,北海道,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,1052,LAIKA,北海道,1918,MUCC,北海道,2391,99MOON,北海道,0,,-
-Resort Anthem,Destiny Sword,0,,-,553,SMYS38,北海道,1720,SISUI,北海道,2364,MUCC,北海道,0,,-
-Resort Anthem,DAYDREAMER,0,,-,1178,ALIKA,北海道,1760,RABBIT,北海道,2518,SOISEI,北海道,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1482,N!?,北海道,2271,MUCC,北海道,3108,JOHN.S,北海道,0,,-
-Resort Anthem,BROKEN EDEN,0,,-,1019,MASIMO,北海道,1723,HA-2.C,北海道,2320,*WOOL*,北海道,0,,-
-Resort Anthem,Broken,0,,-,1065,SUWA,北海道,2055,MUCC,北海道,3171,DPSTN,北海道,0,,-
-Resort Anthem,Breaking the ground,0,,-,1162,JAKE,北海道,1785,SAI.,北海道,2517,*WOOL*,北海道,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,1020,NOZ,北海道,1638,JOE,北海道,2448,DPSTN,北海道,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,798,USE,北海道,1477,KOME-G,北海道,2110,89#CHU,北海道,0,,-
-Resort Anthem,Believe In Me,0,,-,676,ATIR,北海道,1841,LOTUS.,北海道,2362,JOHN.S,北海道,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,965,ALIKA,北海道,1950,89#CHU,北海道,2956,DPSTN,北海道,0,,-
-Resort Anthem,Answer,0,,-,771,NASSAN,北海道,1470,LOTUS.,北海道,2434,*WOOL*,北海道,0,,-
-Resort Anthem,ALBIDA,519,79L,北海道,1091,MASIMO,北海道,1905,MQUEEN,北海道,3034,DPSTN,北海道,0,,-
-Resort Anthem,Aegis,0,,-,853,USE,北海道,1426,N!?,北海道,2314,*WOOL*,北海道,0,,-
-Lincle,陽炎,0,,-,623,LAIKA,北海道,1151,MASIMO,北海道,2011,DPSTN,北海道,0,,-
-Lincle,衰色小町メランコリア,0,,-,783,LAIKA,北海道,1346,S.BREZ,北海道,2369,DPSTN,北海道,0,,-
-Lincle,蛇神,419,LAIKA,北海道,729,LAIKA,北海道,1517,MUCC,北海道,2794,KAMA,北海道,0,,-
-Lincle,聖人の塔,0,,-,936,LAIKA,北海道,1954,PINGU.,北海道,2950,KAMA,北海道,0,,-
-Lincle,突撃!ガラスのニーソ姫!,0,,-,653,LAIKA,北海道,1158,KOME-G,北海道,2096,KAMA,北海道,0,,-
-Lincle,恋する☆宇宙戦争っ！！,511,LAIKA,北海道,903,LAIKA,北海道,1762,N!?,北海道,3623,DPSTN,北海道,0,,-
-Lincle,子供の落書き帳,0,,-,845,LAIKA,北海道,1915,MUCC,北海道,2649,JOHN.S,北海道,0,,-
-Lincle,天空の夜明け,0,,-,1344,ALIKA,北海道,2185,MUCC,北海道,4065,DPSTN,北海道,0,,-
-Lincle,君のハートにロックオン,0,,-,704,LAIKA,北海道,1738,BISKE,北海道,2633,KA10.T,北海道,3477,DPSTN,北海道
-Lincle,ユミル,0,,-,661,LAIKA,北海道,1364,RABBIT,北海道,2846,DPSTN,北海道,0,,-
-Lincle,ビューティフルレシート,339,LAIKA,北海道,512,LAIKA,北海道,1149,AGRES,北海道,1923,9MARY0,北海道,0,,-
-Lincle,Yellow Sunrise,0,,-,749,NOZ,北海道,1381,KASU,北海道,2265,TEFNUT,北海道,0,,-
-Lincle,yellow head joe,0,,-,768,LAIKA,北海道,1508,M-CHA*,北海道,2267,HINO38,北海道,0,,-
-Lincle,YAKSHA,0,,-,1235,USE,北海道,2253,PINGU.,北海道,3958,DPSTN,北海道,0,,-
-Lincle,WONDER WALKER,0,,-,965,MASIMO,北海道,1978,N!?,北海道,3813,DPSTN,北海道,0,,-
-Lincle,Voxane,0,,-,618,LAIKA,北海道,1201,HA-2.C,北海道,1748,*WOOL*,北海道,0,,-
-Lincle,Todestrieb,0,,-,1089,MASIMO,北海道,1927,MUCC,北海道,3456,DPSTN,北海道,0,,-
-Lincle,TITANS RETURN,320,LAIKA,北海道,618,LAIKA,北海道,1479,PS,北海道,2465,TEFNUT,北海道,2645,DPSTN,北海道
-Lincle,Thunderbolt,0,,-,1011,LAIKA,北海道,1907,.LOEWE,北海道,3758,9MARY0,北海道,0,,-
-Lincle,The Sampling Paradise,0,,-,855,LAIKA,北海道,1847,MUCC,北海道,3042,DPSTN,北海道,0,,-
-Lincle,The Limbo,0,,-,1198,RABBIT,北海道,1990,ASSAV!,北海道,3388,DPSTN,北海道,0,,-
-Lincle,Star Trail,0,,-,615,LAIKA,北海道,1190,RABBIT,北海道,1864,N!?,北海道,0,,-
-Lincle,Snow Goose,299,LAIKA,北海道,376,LAIKA,北海道,1276,BO**SS,北海道,2458,DPSTN,北海道,0,,-
-Lincle,Snake Stick,0,,-,1049,RABBIT,北海道,2007,NYAMA,北海道,2774,DPSTN,北海道,0,,-
-Lincle,SHADE,0,,-,1084,S1BA-L,北海道,1963,HA-2.C,北海道,2914,DPSTN,北海道,0,,-
-Lincle,Several Words,0,,-,621,LAIKA,北海道,1400,SNCHAN,北海道,2166,YKN.C,北海道,0,,-
-Lincle,Scharfrichter,0,,-,883,LAIKA,北海道,1603,YU,北海道,2873,*WOOL*,北海道,0,,-
-Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,471,LAIKA,北海道,1216,PS,北海道,1666,TEFNUT,北海道,0,,-
-Lincle,Round and Round,0,,-,771,LAIKA,北海道,1174,LAIKA,北海道,2163,N!?,北海道,0,,-
-Lincle,RESISTANCE,0,,-,633,LAIKA,北海道,1278,KITUNE,北海道,2365,DONMEL,北海道,0,,-
-Lincle,Release The Music,0,,-,816,LAIKA,北海道,1362,YU,北海道,2087,KASU,北海道,0,,-
-Lincle,Quick Silver,0,,-,767,LAIKA,北海道,1726,MASIMO,北海道,2668,*WOOL*,北海道,0,,-
-Lincle,quaver♪,289,LAIKA,北海道,702,LAIKA,北海道,2114,M.,北海道,3464,DPSTN,北海道,0,,-
-Lincle,QUANTUM TELEPORTATION,0,,-,1360,ALIKA,北海道,2385,N!?,北海道,2928,*WOOL*,北海道,3578,HINO38,北海道
-Lincle,prompt,0,,-,956,ALIKA,北海道,1587,MUCC,北海道,2772,JOHN.S,北海道,0,,-
-Lincle,Phoenix,0,,-,891,ALIKA,北海道,1191,S1BA-L,北海道,2478,MARIO$,北海道,3856,KAMA,北海道
-Lincle,NNRT,0,,-,1171,LAIKA,北海道,2441,VKANIV,北海道,3530,DPSTN,北海道,0,,-
-Lincle,Miami Sunset Drive,0,,-,640,LAIKA,北海道,1004,NAO!,北海道,1676,N!?,北海道,0,,-
-Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,814,USE,北海道,1277,LAIKA,北海道,2059,N!?,北海道,0,,-
-Lincle,Lucky Days,0,,-,632,LAIKA,北海道,1416,PS,北海道,2162,DONMEL,北海道,0,,-
-Lincle,LOVE B.B.B,0,,-,759,LAIKA,北海道,1481,PS,北海道,2029,DPSTN,北海道,0,,-
-Lincle,Liquid Crystal Girl feat. echo,0,,-,403,LAIKA,北海道,905,SYOMA,北海道,2017,M-CHA*,北海道,0,,-
-Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,991,LAIKA,北海道,1620,HA-2.C,北海道,2207,99MOON,北海道,0,,-
-Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1033,LAIKA,北海道,2117,LOTUS.,北海道,2835,*WOOL*,北海道,0,,-
-Lincle,Infinite cave,0,,-,960,9ROKA.,北海道,1509,AR-GAS,北海道,2039,M-CHA*,北海道,0,,-
-Lincle,In the Blackest Den,0,,-,858,LAIKA,北海道,1622,N!?,北海道,2612,DPSTN,北海道,0,,-
-Lincle,I'm so Happy,317,LAIKA,北海道,420,LAIKA,北海道,1353,HA-2.C,北海道,2336,*WOOL*,北海道,0,,-
-Lincle,HAERETICUS,0,,-,815,LAIKA,北海道,1872,VKANIV,北海道,3081,DPSTN,北海道,0,,-
-Lincle,Follow Tomorrow,0,,-,893,LAIKA,北海道,1478,BISKE,北海道,2262,DPSTN,北海道,0,,-
-Lincle,Flip Flap,277,79L,北海道,578,LAIKA,北海道,1393,LOTUS.,北海道,2240,TEFNUT,北海道,0,,-
-Lincle,fffff,0,,-,831,FU2YA,北海道,2123,MUCC,北海道,3128,JOHN.S,北海道,0,,-
-Lincle,Far east nightbird,359,LAIKA,北海道,522,LAIKA,北海道,1303,BO**SS,北海道,2022,99MOON,北海道,0,,-
-Lincle,F,0,,-,1061,RABBIT,北海道,2150,MUCC,北海道,3530,KAMA,北海道,0,,-
-Lincle,Express Emotion,0,,-,764,LAIKA,北海道,1033,RABBIT,北海道,2511,99MOON,北海道,0,,-
-Lincle,Drive Me Crazy,0,,-,716,LAIKA,北海道,1406,VKANIV,北海道,2308,9MARY0,北海道,0,,-
-Lincle,DIAVOLO,0,,-,1236,LAIKA,北海道,1907,MUCC,北海道,3235,DPSTN,北海道,0,,-
-Lincle,Change the World,0,,-,783,LAIKA,北海道,1375,LIZ.KM,北海道,1827,MGRK,北海道,0,,-
-Lincle,Castle on the Moon,238,LAIKA,北海道,640,USE,北海道,1587,ALIKA,北海道,2392,9MARY0,北海道,0,,-
-Lincle,CALL,0,,-,360,USE,北海道,818,HMNG,北海道,1465,N!?,北海道,0,,-
-Lincle,BLACK.by X-Cross Fade,0,,-,987,LAIKA,北海道,2198,N!?,北海道,3407,DPSTN,北海道,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,880,KURO-U,北海道,1683,RABBIT,北海道,2476,MUCC,北海道,0,,-
-Lincle,Almace,0,,-,848,LAIKA,北海道,1259,SNCHAN,北海道,1993,DPSTN,北海道,0,,-
-Lincle,532nm,0,,-,564,LAIKA,北海道,1198,BO**SS,北海道,2668,DPSTN,北海道,0,,-
-Lincle,24th Century BOY,0,,-,844,LAIKA,北海道,1975,N!?,北海道,2838,99MOON,北海道,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,829,LAIKA,北海道,1633,ALIKA,北海道,3015,DPSTN,北海道,3342,CIS,北海道
 tricoro,音楽,0,,-,820,79L,北海道,1969,MQUEEN,北海道,2807,DPSTN,北海道,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,1201,LAIKA,北海道,2381,BISKE,北海道,3689,DPSTN,北海道,0,,-
@@ -704,6 +640,70 @@ tricoro,Beastie Starter,0,,-,526,LAIKA,北海道,1306,JOHN.S,北海道,2138,KAMA
 tricoro,Ascalon,0,,-,1090,LAIKA,北海道,1727,SISUI,北海道,2296,MUCC,北海道,0,,-
 tricoro,8bit Princess,0,,-,643,USE,北海道,1362,HA-2.C,北海道,2632,DPSTN,北海道,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,908,MASIMO,北海道,1743,.LOEWE,北海道,2589,DPSTN,北海道,0,,-
+Lincle,陽炎,0,,-,623,LAIKA,北海道,1151,MASIMO,北海道,2011,DPSTN,北海道,0,,-
+Lincle,衰色小町メランコリア,0,,-,783,LAIKA,北海道,1346,S.BREZ,北海道,2369,DPSTN,北海道,0,,-
+Lincle,蛇神,419,LAIKA,北海道,729,LAIKA,北海道,1517,MUCC,北海道,2794,KAMA,北海道,0,,-
+Lincle,聖人の塔,0,,-,936,LAIKA,北海道,1954,PINGU.,北海道,2950,KAMA,北海道,0,,-
+Lincle,突撃!ガラスのニーソ姫!,0,,-,653,LAIKA,北海道,1158,KOME-G,北海道,2096,KAMA,北海道,0,,-
+Lincle,恋する☆宇宙戦争っ！！,511,LAIKA,北海道,903,LAIKA,北海道,1762,N!?,北海道,3623,DPSTN,北海道,0,,-
+Lincle,子供の落書き帳,0,,-,845,LAIKA,北海道,1915,MUCC,北海道,2649,JOHN.S,北海道,0,,-
+Lincle,天空の夜明け,0,,-,1344,ALIKA,北海道,2185,MUCC,北海道,4065,DPSTN,北海道,0,,-
+Lincle,君のハートにロックオン,0,,-,704,LAIKA,北海道,1738,BISKE,北海道,2633,KA10.T,北海道,3477,DPSTN,北海道
+Lincle,ユミル,0,,-,661,LAIKA,北海道,1364,RABBIT,北海道,2846,DPSTN,北海道,0,,-
+Lincle,ビューティフルレシート,339,LAIKA,北海道,512,LAIKA,北海道,1149,AGRES,北海道,1923,9MARY0,北海道,0,,-
+Lincle,Yellow Sunrise,0,,-,749,NOZ,北海道,1381,KASU,北海道,2265,TEFNUT,北海道,0,,-
+Lincle,yellow head joe,0,,-,768,LAIKA,北海道,1508,M-CHA*,北海道,2267,HINO38,北海道,0,,-
+Lincle,YAKSHA,0,,-,1235,USE,北海道,2253,PINGU.,北海道,3958,DPSTN,北海道,0,,-
+Lincle,WONDER WALKER,0,,-,965,MASIMO,北海道,1978,N!?,北海道,3813,DPSTN,北海道,0,,-
+Lincle,Voxane,0,,-,618,LAIKA,北海道,1201,HA-2.C,北海道,1748,*WOOL*,北海道,0,,-
+Lincle,Todestrieb,0,,-,1089,MASIMO,北海道,1927,MUCC,北海道,3456,DPSTN,北海道,0,,-
+Lincle,TITANS RETURN,320,LAIKA,北海道,618,LAIKA,北海道,1479,PS,北海道,2465,TEFNUT,北海道,2645,DPSTN,北海道
+Lincle,Thunderbolt,0,,-,1011,LAIKA,北海道,1907,.LOEWE,北海道,3758,9MARY0,北海道,0,,-
+Lincle,The Sampling Paradise,0,,-,855,LAIKA,北海道,1847,MUCC,北海道,3042,DPSTN,北海道,0,,-
+Lincle,The Limbo,0,,-,1199,RABBIT,北海道,1990,ASSAV!,北海道,3388,DPSTN,北海道,0,,-
+Lincle,Star Trail,0,,-,615,LAIKA,北海道,1190,RABBIT,北海道,1864,N!?,北海道,0,,-
+Lincle,Snow Goose,299,LAIKA,北海道,376,LAIKA,北海道,1276,BO**SS,北海道,2458,DPSTN,北海道,0,,-
+Lincle,Snake Stick,0,,-,1049,RABBIT,北海道,2007,NYAMA,北海道,2774,DPSTN,北海道,0,,-
+Lincle,SHADE,0,,-,1084,S1BA-L,北海道,1963,HA-2.C,北海道,2914,DPSTN,北海道,0,,-
+Lincle,Several Words,0,,-,621,LAIKA,北海道,1400,SNCHAN,北海道,2166,YKN.C,北海道,0,,-
+Lincle,Scharfrichter,0,,-,883,LAIKA,北海道,1603,YU,北海道,2873,*WOOL*,北海道,0,,-
+Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,471,LAIKA,北海道,1216,PS,北海道,1666,TEFNUT,北海道,0,,-
+Lincle,Round and Round,0,,-,771,LAIKA,北海道,1174,LAIKA,北海道,2163,N!?,北海道,0,,-
+Lincle,RESISTANCE,0,,-,633,LAIKA,北海道,1278,KITUNE,北海道,2373,CIS,北海道,0,,-
+Lincle,Release The Music,0,,-,816,LAIKA,北海道,1362,YU,北海道,2087,KASU,北海道,0,,-
+Lincle,Quick Silver,0,,-,767,LAIKA,北海道,1726,MASIMO,北海道,2668,*WOOL*,北海道,0,,-
+Lincle,quaver♪,289,LAIKA,北海道,702,LAIKA,北海道,2114,M.,北海道,3464,DPSTN,北海道,0,,-
+Lincle,QUANTUM TELEPORTATION,0,,-,1360,ALIKA,北海道,2385,N!?,北海道,2928,*WOOL*,北海道,3578,HINO38,北海道
+Lincle,prompt,0,,-,956,ALIKA,北海道,1587,MUCC,北海道,2772,JOHN.S,北海道,0,,-
+Lincle,Phoenix,0,,-,891,ALIKA,北海道,1191,S1BA-L,北海道,2478,MARIO$,北海道,3856,KAMA,北海道
+Lincle,NNRT,0,,-,1171,LAIKA,北海道,2441,VKANIV,北海道,3530,DPSTN,北海道,0,,-
+Lincle,Miami Sunset Drive,0,,-,640,LAIKA,北海道,1004,NAO!,北海道,1676,N!?,北海道,0,,-
+Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,814,USE,北海道,1277,LAIKA,北海道,2059,N!?,北海道,0,,-
+Lincle,Lucky Days,0,,-,632,LAIKA,北海道,1416,PS,北海道,2162,DONMEL,北海道,0,,-
+Lincle,LOVE B.B.B,0,,-,759,LAIKA,北海道,1481,PS,北海道,2029,DPSTN,北海道,0,,-
+Lincle,Liquid Crystal Girl feat. echo,0,,-,403,LAIKA,北海道,905,SYOMA,北海道,2017,M-CHA*,北海道,0,,-
+Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,991,LAIKA,北海道,1620,HA-2.C,北海道,2207,99MOON,北海道,0,,-
+Lincle,LAX5 feat.Ryota Yoshinari,0,,-,1033,LAIKA,北海道,2117,LOTUS.,北海道,2835,*WOOL*,北海道,0,,-
+Lincle,Infinite cave,0,,-,960,9ROKA.,北海道,1509,AR-GAS,北海道,2039,M-CHA*,北海道,0,,-
+Lincle,In the Blackest Den,0,,-,858,LAIKA,北海道,1622,N!?,北海道,2612,DPSTN,北海道,0,,-
+Lincle,I'm so Happy,317,LAIKA,北海道,420,LAIKA,北海道,1353,HA-2.C,北海道,2336,*WOOL*,北海道,0,,-
+Lincle,HAERETICUS,0,,-,815,LAIKA,北海道,1872,VKANIV,北海道,3081,DPSTN,北海道,0,,-
+Lincle,Follow Tomorrow,0,,-,893,LAIKA,北海道,1478,BISKE,北海道,2262,DPSTN,北海道,0,,-
+Lincle,Flip Flap,277,79L,北海道,578,LAIKA,北海道,1393,LOTUS.,北海道,2240,TEFNUT,北海道,0,,-
+Lincle,fffff,0,,-,831,FU2YA,北海道,2123,MUCC,北海道,3128,JOHN.S,北海道,0,,-
+Lincle,Far east nightbird,359,LAIKA,北海道,522,LAIKA,北海道,1303,BO**SS,北海道,2022,99MOON,北海道,0,,-
+Lincle,F,0,,-,1061,RABBIT,北海道,2150,MUCC,北海道,3530,KAMA,北海道,0,,-
+Lincle,Express Emotion,0,,-,764,LAIKA,北海道,1033,RABBIT,北海道,2511,99MOON,北海道,0,,-
+Lincle,Drive Me Crazy,0,,-,716,LAIKA,北海道,1406,VKANIV,北海道,2308,9MARY0,北海道,0,,-
+Lincle,DIAVOLO,0,,-,1236,LAIKA,北海道,1907,MUCC,北海道,3235,DPSTN,北海道,0,,-
+Lincle,Change the World,0,,-,783,LAIKA,北海道,1375,LIZ.KM,北海道,1827,MGRK,北海道,0,,-
+Lincle,Castle on the Moon,238,LAIKA,北海道,640,USE,北海道,1587,ALIKA,北海道,2392,9MARY0,北海道,0,,-
+Lincle,CALL,0,,-,360,USE,北海道,818,HMNG,北海道,1465,N!?,北海道,0,,-
+Lincle,BLACK.by X-Cross Fade,0,,-,987,LAIKA,北海道,2198,N!?,北海道,3407,DPSTN,北海道,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,880,KURO-U,北海道,1683,RABBIT,北海道,2476,MUCC,北海道,0,,-
+Lincle,Almace,0,,-,848,LAIKA,北海道,1259,SNCHAN,北海道,1993,DPSTN,北海道,0,,-
+Lincle,532nm,0,,-,564,LAIKA,北海道,1198,BO**SS,北海道,2668,DPSTN,北海道,0,,-
+Lincle,24th Century BOY,0,,-,844,LAIKA,北海道,1975,N!?,北海道,2838,99MOON,北海道,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,1012,LAIKA,北海道,1901,ALIKA,北海道,3488,9MARY0,北海道,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,578,LAIKA,北海道,1532,MUCC,北海道,2652,99MOON,北海道,0,,-
 SPADA,罪と罰,0,,-,1079,MASIMO,北海道,1377,RABBIT,北海道,2163,HINO38,北海道,0,,-
@@ -766,7 +766,7 @@ SPADA,diagram,0,,-,625,LAIKA,北海道,1242,T.N.T.,北海道,2800,MARIO$,北海�
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,924,79L,北海道,1742,JOE,北海道,2461,*WOOL*,北海道,0,,-
 SPADA,DARK LEGACY,0,,-,1273,USE,北海道,2081,VKANIV,北海道,3617,DPSTN,北海道,0,,-
 SPADA,Dark Fall,0,,-,856,LAIKA,北海道,1538,T.N.T.,北海道,2694,PERO,北海道,0,,-
-SPADA,Critical Crystal,224,LAIKA,北海道,1048,K.,北海道,1751,PS,北海道,2934,DPSTN,北海道,0,,-
+SPADA,Critical Crystal,224,LAIKA,北海道,1048,K.,北海道,1767,RERUN,北海道,2934,DPSTN,北海道,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1117,LAIKA,北海道,2087,MUCC,北海道,3455,DPSTN,北海道,3922,DPSTN,北海道
 SPADA,Cleopatrysm,0,,-,801,SNCHAN,北海道,1406,REIN-A,北海道,2521,*JILL*,北海道,0,,-
 SPADA,Claiomh Solais,0,,-,345,LAIKA,北海道,1383,KAWASE,北海道,2089,*WOOL*,北海道,0,,-
@@ -858,7 +858,7 @@ PENDUAL,Blaze it UP!,0,,-,947,LAIKA,北海道,1859,HA-2.C,北海道,2974,*WOOL*,
 PENDUAL,Beyond The Earth,0,,-,1235,SNCHAN,北海道,2083,MUCC,北海道,3134,N!?,北海道,0,,-
 PENDUAL,Beat Radiance,0,,-,973,LAIKA,北海道,1609,HA-2.C,北海道,2644,*WOOL*,北海道,3593,9MARY0,北海道
 PENDUAL,AFRO KNUCKLE,0,,-,972,VKANIV,北海道,1753,VKANIV,北海道,2422,*WOOL*,北海道,0,,-
-PENDUAL,#The_Relentless,0,,-,1143,9ROKA.,北海道,1971,BISKE,北海道,2909,*WOOL*,北海道,0,,-
+PENDUAL,#The_Relentless,0,,-,1216,RABBIT,北海道,1971,BISKE,北海道,2909,*WOOL*,北海道,0,,-
 SINOBUZ,鴉,0,,-,1526,N!?,北海道,2254,M-CHA*,北海道,2686,99MOON,北海道,0,,-
 SINOBUZ,童話回廊,0,,-,915,LAIKA,北海道,1659,LOTUS.,北海道,3071,EUREKA,北海道,0,,-
 SINOBUZ,禍根,0,,-,605,TORY**,北海道,1350,NO.14,北海道,2547,*WOOL*,北海道,0,,-
@@ -888,7 +888,7 @@ SINOBUZ,TOGAKUSHI,0,,-,1008,79L,北海道,1885,ME$O,北海道,2648,DPSTN,北海�
 SINOBUZ,The Commanders,0,,-,945,LAIKA,北海道,1470,PS,北海道,2444,*WOOL*,北海道,0,,-
 SINOBUZ,Sweet Clapper,0,,-,566,LAIKA,北海道,1210,KOME-G,北海道,1915,MARIO$,北海道,0,,-
 SINOBUZ,Surf on the Light,0,,-,753,NOZ,北海道,1465,NO.14,北海道,2274,DPSTN,北海道,0,,-
-SINOBUZ,Super Rush,0,,-,1041,RABBIT,北海道,1903,N!?,北海道,3549,DPSTN,北海道,0,,-
+SINOBUZ,Super Rush,0,,-,1042,RABBIT,北海道,1903,N!?,北海道,3549,DPSTN,北海道,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1121,USE,北海道,1816,LOTUS.,北海道,3142,DPSTN,北海道,0,,-
 SINOBUZ,Steel Edge,0,,-,915,LAIKA,北海道,1497,M-CHA*,北海道,3186,DPSTN,北海道,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1084,USE,北海道,2204,N!?,北海道,3464,DPSTN,北海道,0,,-
@@ -917,7 +917,7 @@ SINOBUZ,Modular Technology,0,,-,1215,79L,北海道,1969,MUCC,北海道,2668,DPST
 SINOBUZ,Mare Nectaris,0,,-,1468,DONMEL,北海道,2116,TEFNUT,北海道,3881,DPSTN,北海道,0,,-
 SINOBUZ,Magical,0,,-,790,79L,北海道,1164,0CROWN,北海道,2006,M-CHA*,北海道,0,,-
 SINOBUZ,Macuilxochitl,525,79L,北海道,1438,SUWA,北海道,2267,M-CHA*,北海道,3289,*WOOL*,北海道,0,,-
-SINOBUZ,Lost wing at.0,0,,-,895,LAIKA,北海道,1366,NOZ,北海道,2436,9MARY0,北海道,0,,-
+SINOBUZ,Lost wing at.0,0,,-,895,LAIKA,北海道,1366,NOZ,北海道,2438,MARIO$,北海道,0,,-
 SINOBUZ,INVISIBLE STRIX,0,,-,1168,79L,北海道,1997,HIROO,北海道,2601,*WOOL*,北海道,0,,-
 SINOBUZ,Honey Trap,0,,-,819,LAIKA,北海道,1606,MUCC,北海道,2511,*WOOL*,北海道,0,,-
 SINOBUZ,HAPPY★RUSH,0,,-,766,9ROKA.,北海道,1879,LOTUS.,北海道,2888,EUREKA,北海道,0,,-
@@ -1129,7 +1129,7 @@ Rootage,ミストレス・アンに花束を,0,,-,578,LAIKA,北海道,962,AYUMU,
 Rootage,ハードベース・フェスタ,0,,-,1125,79L,北海道,1806,.LOEWE,北海道,2834,HINO38,北海道,0,,-
 Rootage,セカンドピアス,0,,-,597,LAIKA,北海道,1078,KIRIE*,北海道,2012,M-CHA*,北海道,0,,-
 Rootage,サクラあっぱれーしょん,267,SA-MON,北海道,629,LAIKA,北海道,1520,LIZ.KM,北海道,2317,DPSTN,北海道,0,,-
-Rootage,グラナダの風,0,,-,779,LAIKA,北海道,1151,BASS.H,北海道,1825,*JILL*,北海道,0,,-
+Rootage,グラナダの風,0,,-,779,LAIKA,北海道,1151,BASS.H,北海道,1828,MARIO$,北海道,0,,-
 Rootage,お菓子の王国,0,,-,1400,AAA,北海道,2296,M-CHA*,北海道,4117,DPSTN,北海道,0,,-
 Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1081,LAIKA,北海道,1902,NO.14,北海道,2896,*WOOL*,北海道,0,,-
 Rootage,ZENDEGI DANCE,0,,-,1165,79L,北海道,1841,MUCC,北海道,2768,DPSTN,北海道,0,,-
@@ -1151,7 +1151,7 @@ Rootage,Twilight Warp,0,,-,930,LAIKA,北海道,1391,MASIMO,北海道,2158,N!?,�
 Rootage,Trill auf G,0,,-,1123,MASIMO,北海道,2091,MUCC,北海道,3180,KAMA,北海道,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,732,NO.14,北海道,1507,NO.14,北海道,2278,M-CHA*,北海道,0,,-
 Rootage,toy boxer,0,,-,763,NO.14,北海道,1407,ALIKA,北海道,2201,.LOEWE,北海道,0,,-
-Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,832,LAIKA,北海道,1304,ERISE*,北海道,2196,YU,北海道,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,832,LAIKA,北海道,1304,ERISE*,北海道,2199,CIS,北海道,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,1230,MASIMO,北海道,2037,M-CHA*,北海道,3135,DPSTN,北海道,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1515,MASIMO,北海道,2374,RABU*,北海道,3380,KAMA,北海道,0,,-
 Rootage,The Best of Both Worlds,0,,-,585,LAIKA,北海道,1403,NO.14,北海道,2236,DPSTN,北海道,0,,-
@@ -1175,7 +1175,7 @@ Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,880,LAIKA,北�
 Rootage,Necroxis Girl,0,,-,1134,79L,北海道,1980,MUCC,北海道,2778,HINO38,北海道,0,,-
 Rootage,Macho Monky,0,,-,1419,SUWA,北海道,2153,*WOOL*,北海道,3073,DPSTN,北海道,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1126,79L,北海道,1866,MUCC,北海道,3381,KAMA,北海道,0,,-
-Rootage,Lift Us High,0,,-,970,79L,北海道,1549,ALIKA,北海道,2462,MUCC,北海道,0,,-
+Rootage,Lift Us High,0,,-,970,79L,北海道,1595,MUCC,北海道,2462,MUCC,北海道,0,,-
 Rootage,Level One,0,,-,1192,LAIKA,北海道,2301,JOHN.S,北海道,3585,DPSTN,北海道,0,,-
 Rootage,Lethal Weapon,0,,-,1165,YOSSY,北海道,1859,.LOEWE,北海道,3236,DPSTN,北海道,0,,-
 Rootage,Let me be your cure,0,,-,1114,79L,北海道,1409,HA-2.C,北海道,2672,DPSTN,北海道,0,,-
@@ -1209,7 +1209,7 @@ Rootage,Catch Our Fire!,0,,-,1347,MASIMO,北海道,2148,YTX,北海道,3631,MARIO
 Rootage,Carry Me Away,533,LAIKA,北海道,1106,MASIMO,北海道,1794,VKANIV,北海道,3144,I,北海道,0,,-
 Rootage,Carmina,531,DONMEL,北海道,1356,N!?,北海道,2429,.LOEWE,北海道,3871,DPSTN,北海道,0,,-
 Rootage,BLOSSOM,0,,-,1064,CONPAQ,北海道,1680,N!?,北海道,2556,N!?,北海道,0,,-
-Rootage,BLACK JACKAL,0,,-,804,GEMINI,北海道,1563,HA-2.C,北海道,2326,DPSTN,北海道,0,,-
+Rootage,BLACK JACKAL,0,,-,825,RERUN,北海道,1568,TAGY,北海道,2326,DPSTN,北海道,0,,-
 Rootage,Afterimage d'automne,0,,-,969,79L,北海道,1622,*YUKI.,北海道,2797,M-CHA*,北海道,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1198,MASIMO,北海道,1569,*YUKI.,北海道,2601,DPSTN,北海道,0,,-
 Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1035,LAIKA,北海道,1590,.TAR,北海道,2613,MARIO$,北海道,0,,-
@@ -1241,7 +1241,7 @@ HEROIC VERSE,TRIUMPH,0,,-,928,MASIMO,北海道,1961,.LOEWE,北海道,3404,DPSTN,
 HEROIC VERSE,Theory,0,,-,752,LAIKA,北海道,1390,ALIKA,北海道,2591,DPSTN,北海道,0,,-
 HEROIC VERSE,The Sky of Sadness,0,,-,874,LAIKA,北海道,1470,NO.14,北海道,2400,N!?,北海道,0,,-
 HEROIC VERSE,THE F∀UST,0,,-,1303,MASIMO,北海道,2188,LOTUS.,北海道,3642,DPSTN,北海道,0,,-
-HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1390,MASIMO,北海道,2370,*YUKI.,北海道,4028,HINO38,北海道,0,,-
+HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1390,MASIMO,北海道,2387,TAMATU,北海道,4028,HINO38,北海道,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,1029,RABBIT,北海道,1627,MUCC,北海道,2857,DPSTN,北海道,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1390,MASIMO,北海道,1813,-MJKK-,北海道,3209,DPSTN,北海道,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,762,LAIKA,北海道,1343,MASIMO,北海道,2062,MUCC,北海道,0,,-

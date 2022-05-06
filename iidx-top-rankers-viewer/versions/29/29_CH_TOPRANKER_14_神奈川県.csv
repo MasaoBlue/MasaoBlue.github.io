@@ -9,7 +9,7 @@
 1st&substream,gentle stress,0,,-,344,*9N2*,神奈川県,678,GOEMON,神奈川県,1442,IKESJD,神奈川県,0,,-
 1st&substream,GENOM SCREAMS,0,,-,403,M-PEKO,神奈川県,825,GOEMON,神奈川県,1066,I6VV,神奈川県,0,,-
 1st&substream,GAMBOL,0,,-,274,*9N2*,神奈川県,274,*9N2*,神奈川県,0,,-,0,,-
-1st&substream,Dr.LOVE,0,,-,366,SHUREI,神奈川県,515,OMENKO,神奈川県,580,STEEL*,神奈川県,0,,-
+1st&substream,Dr.LOVE,0,,-,366,SHUREI,神奈川県,515,CINCIN,神奈川県,580,STEEL*,神奈川県,0,,-
 1st&substream,deep in you,0,,-,463,SHUREI,神奈川県,508,GOEMON,神奈川県,665,I6VV,神奈川県,0,,-
 1st&substream,5.1.1.,0,,-,198,*9N2*,神奈川県,1021,GOEMON,神奈川県,1571,TATSU,神奈川県,0,,-
 1st&substream,22DUNK,0,,-,521,HELMES,神奈川県,643,GOEMON,神奈川県,657,IKESJD,神奈川県,0,,-
@@ -43,7 +43,7 @@
 4th style,Hitch Hiker2,0,,-,806,HELMES,神奈川県,1212,STEEL*,神奈川県,1317,I6VV,神奈川県,1934,I6VV,神奈川県
 4th style,HIGHER,0,,-,508,CHEKIN,神奈川県,935,GOEMON,神奈川県,1277,I6VV,神奈川県,0,,-
 4th style,FLOWERS for ALBION,0,,-,239,PA84.,神奈川県,439,I6VV,神奈川県,0,,-,0,,-
-4th style,era (step mix),0,,-,906,IIDX27,神奈川県,1338,OMENKO,神奈川県,1707,I6VV,神奈川県,0,,-
+4th style,era (step mix),0,,-,906,IIDX27,神奈川県,1338,CINCIN,神奈川県,1707,I6VV,神奈川県,0,,-
 4th style,empathy,0,,-,769,MOWDMP,神奈川県,1349,GOEMON,神奈川県,1449,I6VV,神奈川県,0,,-
 4th style,DXY!,0,,-,1283,STEEL*,神奈川県,1830,PUPUTA,神奈川県,2262,TATSU,神奈川県,0,,-
 4th style,Clione,0,,-,528,*9N2*,神奈川県,927,QSAMA,神奈川県,1617,CYBERX,神奈川県,2173,SASARA,神奈川県
@@ -196,7 +196,7 @@
 10th style,Daisuke,472,PPJT,神奈川県,1223,STEEL*,神奈川県,1696,STEEL*,神奈川県,2406,WELLOW,神奈川県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,922,HARUKA,神奈川県,1382,STEEL*,神奈川県,2066,I6VV,神奈川県,0,,-
 10th style,Boundary,0,,-,725,HARUKA,神奈川県,1802,KA2718,神奈川県,2061,CYBERX,神奈川県,0,,-
-10th style,Back Into The Light,0,,-,1112,HOMURA,神奈川県,1631,OMENKO,神奈川県,2166,CYBERX,神奈川県,0,,-
+10th style,Back Into The Light,0,,-,1112,HOMURA,神奈川県,1631,CINCIN,神奈川県,2166,CYBERX,神奈川県,0,,-
 10th style,BABY LOVE,0,,-,1030,ONNEKO,神奈川県,1685,KA2718,神奈川県,2167,BBMT.,神奈川県,0,,-
 10th style,ASTRAL VOYAGE,0,,-,936,RX-0N,神奈川県,1438,STEEL*,神奈川県,1930,CYBERX,神奈川県,0,,-
 10th style,ALIEN TEMPLE,0,,-,956,JULYRE,神奈川県,1660,GOEMON,神奈川県,2034,CYBERX,神奈川県,0,,-
@@ -274,7 +274,7 @@ HAPPY SKY,double thrash,0,,-,978,539ZU*,神奈川県,2080,GOEMON,神奈川県,23
 HAPPY SKY,Catch Me,0,,-,777,BBMT.,神奈川県,1242,BBMT.,神奈川県,1836,TATSU,神奈川県,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,1047,BBMT.,神奈川県,1868,STEEL*,神奈川県,2475,BBMT.,神奈川県,0,,-
 HAPPY SKY,Aurora,0,,-,1386,KA2718,神奈川県,2055,O2O1,神奈川県,2541,CYBERX,神奈川県,0,,-
-HAPPY SKY,alla turca con passione,0,,-,784,BBMT.,神奈川県,1644,STEEL*,神奈川県,2191,I6VV,神奈川県,0,,-
+HAPPY SKY,alla turca con passione,0,,-,784,BBMT.,神奈川県,1644,STEEL*,神奈川県,2196,STYU--,神奈川県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,917,STEEL*,神奈川県,1654,4SA9RA,神奈川県,2085,PPJT,神奈川県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,943,STEEL*,神奈川県,1680,IKESJD,神奈川県,1745,CYBERX,神奈川県,0,,-
 DistorteD,虹色,0,,-,843,NACDIA,神奈川県,1522,DJ*SCK,神奈川県,1865,STYU--,神奈川県,0,,-
@@ -283,20 +283,20 @@ DistorteD,罠,0,,-,527,BKTARO,神奈川県,1540,STEEL*,神奈川県,2461,RK,神�
 DistorteD,嘆きの樹,0,,-,1797,STEEL*,神奈川県,2536,KANON,神奈川県,3891,WELLOW,神奈川県,0,,-
 DistorteD,タシカナモノ,0,,-,925,BBMT.,神奈川県,1443,GOEMON,神奈川県,2037,I6VV,神奈川県,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,1083,Y-08,神奈川県,1835,KAZU34,神奈川県,2640,KANON,神奈川県,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,954,TOTO,神奈川県,1527,2SENEN,神奈川県,2404,GRK,神奈川県,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,954,TOTO,神奈川県,1569,STEEL*,神奈川県,2404,GRK,神奈川県,0,,-
 DistorteD,with you…,0,,-,778,BBMT.,神奈川県,1129,BBMT.,神奈川県,1780,I6VV,神奈川県,0,,-
-DistorteD,WISH(EUROBEAT MIX),0,,-,1014,BBMT.,神奈川県,1594,HELMES,神奈川県,1974,CYBERX,神奈川県,0,,-
+DistorteD,WISH(EUROBEAT MIX),0,,-,1014,BBMT.,神奈川県,1635,STEEL*,神奈川県,1974,CYBERX,神奈川県,0,,-
 DistorteD,Why did you go away,640,PPJT,神奈川県,1069,BBMT.,神奈川県,1735,O2O1,神奈川県,2325,CYBERX,神奈川県,0,,-
 DistorteD,waxing and wanding,0,,-,1306,210,神奈川県,1965,434,神奈川県,2900,CYBERX,神奈川県,3969,I6VV,神奈川県
-DistorteD,TYPE MARS(G-Style Mix),0,,-,1100,BBMT.,神奈川県,1832,KA2718,神奈川県,2426,I6VV,神奈川県,0,,-
+DistorteD,TYPE MARS(G-Style Mix),0,,-,1137,STEEL*,神奈川県,1832,KA2718,神奈川県,2426,I6VV,神奈川県,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1199,MTK.Y?,神奈川県,1930,KA2718,神奈川県,2494,CYBERX,神奈川県,0,,-
 DistorteD,This is Love,0,,-,933,BBMT.,神奈川県,1731,BBMT.,神奈川県,2490,CYBERX,神奈川県,0,,-
 DistorteD,The Dirty of Loudness,0,,-,1467,STEEL*,神奈川県,2273,STEEL*,神奈川県,2626,TATSU,神奈川県,0,,-
 DistorteD,Sun Field,0,,-,554,KARENA,神奈川県,1476,BBMT.,神奈川県,2451,CYBERX,神奈川県,0,,-
 DistorteD,So Fabulous !!,0,,-,1034,BBMT.,神奈川県,1497,QSAMA,神奈川県,2359,I6VV,神奈川県,0,,-
-DistorteD,Power of Love,0,,-,944,BBMT.,神奈川県,1678,STEEL*,神奈川県,2135,IKESJD,神奈川県,0,,-
+DistorteD,Power of Love,0,,-,1023,STEEL*,神奈川県,1678,STEEL*,神奈川県,2135,IKESJD,神奈川県,0,,-
 DistorteD,MOON,0,,-,788,MOWDMP,神奈川県,2082,KAZU34,神奈川県,2222,PPJT,神奈川県,0,,-
-DistorteD,MINT,0,,-,1027,BBMT.,神奈川県,1762,A,神奈川県,2310,STYU--,神奈川県,0,,-
+DistorteD,MINT,0,,-,1040,STEEL*,神奈川県,1808,STEEL*,神奈川県,2310,STYU--,神奈川県,0,,-
 DistorteD,Leaving...,0,,-,750,TOTO,神奈川県,1402,*9N2*,神奈川県,2215,CYBERX,神奈川県,0,,-
 DistorteD,INFERNO,0,,-,1139,BBMT.,神奈川県,1564,KA2718,神奈川県,1983,RMRORO,神奈川県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,789,BBMT.,神奈川県,1606,GOEMON,神奈川県,2114,STYU--,神奈川県,0,,-
@@ -304,7 +304,7 @@ DistorteD,Harmony and Lovely,0,,-,889,BBMT.,神奈川県,1732,778.S,神奈川県
 DistorteD,Ganymede,0,,-,1037,BBMT.,神奈川県,1635,TOMOYA,神奈川県,2353,PPJT,神奈川県,2607,WELLOW,神奈川県
 DistorteD,EURO-ROMANCE,0,,-,954,BBMT.,神奈川県,1777,TOMOYA,神奈川県,2105,STYU--,神奈川県,0,,-
 DistorteD,DUE TOMORROW,0,,-,875,M-PEKO,神奈川県,1434,FMN,神奈川県,2045,I6VV,神奈川県,0,,-
-DistorteD,Double Loving Heart,0,,-,552,BKTARO,神奈川県,1320,OMENKO,神奈川県,1817,STYU--,神奈川県,0,,-
+DistorteD,Double Loving Heart,0,,-,552,BKTARO,神奈川県,1320,CINCIN,神奈川県,1817,STYU--,神奈川県,0,,-
 DistorteD,D.C.fish,0,,-,979,BBMT.,神奈川県,1979,STEEL*,神奈川県,2347,CYBERX,神奈川県,0,,-
 DistorteD,CONTRACT,0,,-,1280,IIDX29,神奈川県,1622,FMN,神奈川県,2087,CYBERX,神奈川県,2767,WELLOW,神奈川県
 DistorteD,Concertino in Blue,385,PPJT,神奈川県,838,BBMT.,神奈川県,1692,*9N2*,神奈川県,2535,I6VV,神奈川県,0,,-
@@ -326,7 +326,7 @@ GOLD,Watch out!!,0,,-,706,FMN,神奈川県,1005,LAPIS,神奈川県,1613,I6VV,神
 GOLD,VANESSA,0,,-,1079,KUTORI,神奈川県,1847,STYU--,神奈川県,2440,CYBERX,神奈川県,3490,WELLOW,神奈川県
 GOLD,TRANOID,0,,-,747,BBMT.,神奈川県,1727,O2O1,神奈川県,2247,I6VV,神奈川県,3001,WELLOW,神奈川県
 GOLD,The Smile of You,0,,-,909,KARENA,神奈川県,1307,COCOAF,神奈川県,1629,I6VV,神奈川県,0,,-
-GOLD,the shadow,0,,-,1062,K.ROSE,神奈川県,2117,STEEL*,神奈川県,2929,TATSU,神奈川県,0,,-
+GOLD,the shadow,0,,-,1062,K.ROSE,神奈川県,2120,STEEL*,神奈川県,2929,TATSU,神奈川県,0,,-
 GOLD,snow storm,236,*9N2*,神奈川県,775,BBMT.,神奈川県,2309,STEEL*,神奈川県,2802,PPJT,神奈川県,3378,WELLOW,神奈川県
 GOLD,smile,0,,-,1456,KA2718,神奈川県,2159,PUPUTA,神奈川県,2908,I6VV,神奈川県,0,,-
 GOLD,Sense 2007,0,,-,1511,IIDX29,神奈川県,2305,I6VV,神奈川県,2995,WELLOW,神奈川県,0,,-
@@ -335,14 +335,14 @@ GOLD,Roulette,0,,-,865,HOMURA,神奈川県,1404,BBMT.,神奈川県,2127,I6VV,神
 GOLD,PHOTONGENIC,0,,-,1326,KA2718,神奈川県,1950,MASAKI,神奈川県,2322,CYBERX,神奈川県,0,,-
 GOLD,op.31 叙情,0,,-,595,TAILS.,神奈川県,1350,PPJT,神奈川県,1636,KANON,神奈川県,0,,-
 GOLD,never…,0,,-,790,RACOON,神奈川県,1373,GOEMON,神奈川県,1815,GOEMON,神奈川県,0,,-
-GOLD,METALLIC MIND,0,,-,878,BBMT.,神奈川県,1428,4KIB!,神奈川県,1621,I6VV,神奈川県,0,,-
+GOLD,METALLIC MIND,0,,-,878,BBMT.,神奈川県,1455,STEEL*,神奈川県,1621,I6VV,神奈川県,0,,-
 GOLD,Make Me Your Own,0,,-,832,BBMT.,神奈川県,1578,PUPUTA,神奈川県,2161,WELLOW,神奈川県,0,,-
 GOLD,Love Again...,0,,-,538,VODKA7,神奈川県,799,GOEMON,神奈川県,1076,GOEMON,神奈川県,0,,-
-GOLD,LASER CRUSTER,0,,-,1387,LUC-07,神奈川県,2483,KANON,神奈川県,3256,WELLOW,神奈川県,0,,-
+GOLD,LASER CRUSTER,0,,-,1449,STEEL*,神奈川県,2483,KANON,神奈川県,3256,WELLOW,神奈川県,0,,-
 GOLD,KAMAITACHI,0,,-,1247,BBMT.,神奈川県,2002,PUPUTA,神奈川県,2718,CYBERX,神奈川県,3931,WELLOW,神奈川県
 GOLD,INORI,0,,-,1345,BBMT.,神奈川県,2462,KA2718,神奈川県,3208,IIDX29,神奈川県,0,,-
 GOLD,High School Love,408,*9N2*,神奈川県,853,M-PEKO,神奈川県,1527,434,神奈川県,2208,CYBERX,神奈川県,0,,-
-GOLD,heaven above,0,,-,813,WWWWWW,神奈川県,1343,KA2718,神奈川県,1852,STYU--,神奈川県,0,,-
+GOLD,heaven above,0,,-,830,STEEL*,神奈川県,1343,KA2718,神奈川県,1852,STYU--,神奈川県,0,,-
 GOLD,GRID KNIGHT,0,,-,795,BBMT.,神奈川県,1997,MASAKI,神奈川県,2645,I6VV,神奈川県,3488,WELLOW,神奈川県
 GOLD,GOLD RUSH,563,MASAKI,神奈川県,1185,KA2718,神奈川県,1472,PUPUTA,神奈川県,2377,CYBERX,神奈川県,0,,-
 GOLD,four-leaf,0,,-,723,BBMT.,神奈川県,1235,HELMES,神奈川県,1723,I6VV,神奈川県,0,,-
@@ -361,7 +361,7 @@ DJ TROOPERS,華爛漫 -Flowers-,335,PPJT,神奈川県,983,Y-08,神奈川県,1597
 DJ TROOPERS,少年A,0,,-,1203,UBETYA,神奈川県,2123,I-----,神奈川県,2820,I6VV,神奈川県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,1148,STEEL*,神奈川県,2176,STEEL*,神奈川県,2666,I6VV,神奈川県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,808,KARENA,神奈川県,1322,AZUM1.,神奈川県,1801,I6VV,神奈川県,0,,-
-DJ TROOPERS,エコ爺,348,PPJT,神奈川県,825,BBMT.,神奈川県,1334,OMENKO,神奈川県,1834,I6VV,神奈川県,0,,-
+DJ TROOPERS,エコ爺,348,PPJT,神奈川県,825,BBMT.,神奈川県,1334,CINCIN,神奈川県,1834,I6VV,神奈川県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,730,BBMT.,神奈川県,1168,KA2718,神奈川県,1521,WELLOW,神奈川県,2590,WELLOW,神奈川県
 DJ TROOPERS,Ubertreffen,0,,-,1061,0M3G4.,神奈川県,1942,KA2718,神奈川県,2540,WELLOW,神奈川県,3274,I6VV,神奈川県
 DJ TROOPERS,TROOPERS,0,,-,1179,Y-08,神奈川県,2359,*9N2*,神奈川県,2971,TATSU,神奈川県,0,,-
@@ -391,8 +391,8 @@ DJ TROOPERS,madrugada,0,,-,721,*9N2*,神奈川県,1232,FMN,神奈川県,1860,I6V
 DJ TROOPERS,LOVELY STORM,0,,-,1319,BBMT.,神奈川県,2146,A,神奈川県,2843,TATSU,神奈川県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1169,HELMES,神奈川県,1554,KA2718,神奈川県,2043,STYU--,神奈川県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1360,KA2718,神奈川県,2120,*9N2*,神奈川県,2549,TATSU,神奈川県,0,,-
-DJ TROOPERS,ICARUS,0,,-,1247,Y-08,神奈川県,2018,KAZU34,神奈川県,2491,IIDX29,神奈川県,3749,WELLOW,神奈川県
-DJ TROOPERS,Freeway Shuffle,346,PPJT,神奈川県,777,BBMT.,神奈川県,1261,OMENKO,神奈川県,1879,I6VV,神奈川県,0,,-
+DJ TROOPERS,ICARUS,0,,-,1285,KA2718,神奈川県,2018,KAZU34,神奈川県,2491,IIDX29,神奈川県,3749,WELLOW,神奈川県
+DJ TROOPERS,Freeway Shuffle,346,PPJT,神奈川県,777,BBMT.,神奈川県,1261,CINCIN,神奈川県,1879,I6VV,神奈川県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,871,BBMT.,神奈川県,1758,KAZU,神奈川県,2382,WELLOW,神奈川県,0,,-
 DJ TROOPERS,end of world,0,,-,1028,BBMT.,神奈川県,1811,GOEMON,神奈川県,2514,PPJT,神奈川県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,988,DOIT!!,神奈川県,1573,I6VV,神奈川県,1946,CYBERX,神奈川県,0,,-
@@ -425,7 +425,7 @@ EMPRESS,smooooch・∀・,398,*9N2*,神奈川県,825,BBMT.,神奈川県,1613,QSA
 EMPRESS,Secrets,0,,-,1226,TOTO,神奈川県,2476,STEEL*,神奈川県,3166,I6VV,神奈川県,4184,WELLOW,神奈川県
 EMPRESS,Queen's Tragedy,0,,-,825,TOTO,神奈川県,1676,AZUM1.,神奈川県,2254,PPJT,神奈川県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,869,SIRASU,神奈川県,1694,ZER0.H,神奈川県,2523,BBMT.,神奈川県,0,,-
-EMPRESS,Programmed World,0,,-,951,STEEL*,神奈川県,1805,STEEL*,神奈川県,2310,CYBERX,神奈川県,0,,-
+EMPRESS,Programmed World,0,,-,951,STEEL*,神奈川県,1805,STEEL*,神奈川県,2315,STYU--,神奈川県,0,,-
 EMPRESS,NΦ CRIME,294,*9N2*,神奈川県,815,BBMT.,神奈川県,1458,MASAKI,神奈川県,1901,STYU--,神奈川県,0,,-
 EMPRESS,neogenesis,0,,-,981,BBMT.,神奈川県,1324,BBMT.,神奈川県,1714,I6VV,神奈川県,0,,-
 EMPRESS,naughty girl@Queen's Palace,0,,-,835,BBMT.,神奈川県,1623,M-PEKO,神奈川県,2142,PPJT,神奈川県,2704,WELLOW,神奈川県
@@ -767,7 +767,7 @@ SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,959,ONISHI,神奈川県,1826,BBMT.,�
 SPADA,DARK LEGACY,0,,-,1294,BBMT.,神奈川県,2055,KA2718,神奈川県,3609,PPJT,神奈川県,0,,-
 SPADA,Dark Fall,0,,-,871,BBMT.,神奈川県,1592,434,神奈川県,2800,STYU--,神奈川県,0,,-
 SPADA,Critical Crystal,224,*9N2*,神奈川県,987,K.ROSE,神奈川県,1806,ZER0.H,神奈川県,2925,GYAO-!,神奈川県,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,1154,MASAKI,神奈川県,2124,GOEMON,神奈川県,3427,WELLOW,神奈川県,3898,WELLOW,神奈川県
+SPADA,Close the World feat.a☆ru,0,,-,1154,MASAKI,神奈川県,2124,GOEMON,神奈川県,3448,STYU--,神奈川県,3898,WELLOW,神奈川県
 SPADA,Cleopatrysm,0,,-,790,MASAKI,神奈川県,1410,KUTORI,神奈川県,2617,I6VV,神奈川県,0,,-
 SPADA,Claiomh Solais,0,,-,346,*9N2*,神奈川県,1362,539ZU*,神奈川県,2092,I6VV,神奈川県,0,,-
 SPADA,BRAVE OUT,0,,-,1039,MASAKI,神奈川県,1529,GOEMON,神奈川県,2166,PPJT,神奈川県,0,,-
@@ -827,7 +827,7 @@ PENDUAL,No Tears,0,,-,1207,MASAKI,神奈川県,2065,KA2718,神奈川県,2550,PPJ
 PENDUAL,Night sky,0,,-,1131,BBMT.,神奈川県,1898,GOEMON,神奈川県,2948,CYBERX,神奈川県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,938,STEEL*,神奈川県,1927,STEEL*,神奈川県,3341,WELLOW,神奈川県,0,,-
 PENDUAL,Monopole.,0,,-,804,MASAKI,神奈川県,1618,FMN,神奈川県,3347,SIREN2,神奈川県,0,,-
-PENDUAL,Line 4 Ruin,0,,-,725,MASAKI,神奈川県,1821,GOEMON,神奈川県,2794,SIREN2,神奈川県,0,,-
+PENDUAL,Line 4 Ruin,0,,-,725,MASAKI,神奈川県,1821,GOEMON,神奈川県,2795,STYU--,神奈川県,0,,-
 PENDUAL,IXION,0,,-,1130,MASAKI,神奈川県,1817,STEEL*,神奈川県,2166,STYU--,神奈川県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1172,MASAKI,神奈川県,1562,KAZU34,神奈川県,2767,WELLOW,神奈川県,0,,-
 PENDUAL,In The Breeze,0,,-,660,MASAKI,神奈川県,1146,KA2718,神奈川県,1778,PPJT,神奈川県,0,,-
@@ -859,6 +859,87 @@ PENDUAL,Beyond The Earth,0,,-,1321,MASAKI,神奈川県,2098,*9N2*,神奈川県,3
 PENDUAL,Beat Radiance,0,,-,1003,MASAKI,神奈川県,1612,DJ*SCK,神奈川県,2658,SASARA,神奈川県,3591,STYU--,神奈川県
 PENDUAL,AFRO KNUCKLE,0,,-,986,STEEL*,神奈川県,1792,STEEL*,神奈川県,2435,TATSU,神奈川県,0,,-
 PENDUAL,#The_Relentless,0,,-,1173,TAILSJ,神奈川県,2017,GOEMON,神奈川県,2935,STYU--,神奈川県,0,,-
+copula,麗 ～うらら～,264,*9N2*,神奈川県,1126,106.,神奈川県,1776,*9N2*,神奈川県,2639,GRK,神奈川県,0,,-
+copula,駅猫のワルツ,0,,-,1158,106.,神奈川県,2077,TOMMY,神奈川県,2905,PPJT,神奈川県,0,,-
+copula,量子の海のリントヴルム,0,,-,917,106.,神奈川県,1822,STEEL*,神奈川県,2982,IKESJD,神奈川県,0,,-
+copula,追想快晴テーマパーク,0,,-,1207,TAILSJ,神奈川県,2098,KAZU34,神奈川県,3116,PPJT,神奈川県,0,,-
+copula,紫陽花 -AZISAI-,424,*9N2*,神奈川県,1276,KA2718,神奈川県,2113,KA2718,神奈川県,2919,WELLOW,神奈川県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1422,106.,神奈川県,2174,H.RS.M,神奈川県,3375,WELLOW,神奈川県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1287,KA2718,神奈川県,2140,WELLOW,神奈川県,3455,WELLOW,神奈川県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,958,106.,神奈川県,1684,HAWK,神奈川県,2549,I6VV,神奈川県,0,,-
+copula,星屑ディスタンシア,0,,-,701,MASAKI,神奈川県,1200,TOMOYA,神奈川県,2121,STYU--,神奈川県,0,,-
+copula,明鏡止水,0,,-,845,MASAKI,神奈川県,1839,HELMES,神奈川県,2829,TATSU,神奈川県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,779,MASAKI,神奈川県,1513,STEEL*,神奈川県,2174,I6VV,神奈川県,0,,-
+copula,セロトニン,0,,-,1309,TOTO,神奈川県,1858,STEEL*,神奈川県,2353,PPJT,神奈川県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,1133,MASAKI,神奈川県,1801,RMRORO,神奈川県,2460,STYU--,神奈川県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,830,MASAKI,神奈川県,1443,O2O1,神奈川県,2389,I6VV,神奈川県,0,,-
+copula,オルタネイトβ,0,,-,843,MASAKI,神奈川県,1442,GOEMON,神奈川県,2264,IIDX29,神奈川県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1500,KA2718,神奈川県,2341,AZUM1.,神奈川県,3385,WELLOW,神奈川県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,1163,106.,神奈川県,1866,GOEMON,神奈川県,2863,I6VV,神奈川県,0,,-
+copula,ZEPHYRANTHES,0,,-,1003,106.,神奈川県,1793,O2O1,神奈川県,2967,I6VV,神奈川県,3906,WELLOW,神奈川県
+copula,X,0,,-,1588,KA2718,神奈川県,2509,STEEL*,神奈川県,3869,WELLOW,神奈川県,0,,-
+copula,Welcome,0,,-,876,MASAKI,神奈川県,1764,WAKIGE,神奈川県,2684,TATSU,神奈川県,3360,WELLOW,神奈川県
+copula,Violet Rose,0,,-,1271,106.,神奈川県,1855,HELIOS,神奈川県,2629,PPJT,神奈川県,0,,-
+copula,Violet Pulse,0,,-,429,MASAKI,神奈川県,1721,GOEMON,神奈川県,2441,IIDX29,神奈川県,0,,-
+copula,Uh-Oh,0,,-,1131,MASAKI,神奈川県,1701,QSAMA,神奈川県,2427,TATSU,神奈川県,0,,-
+copula,Triple Counter,0,,-,1398,106.,神奈川県,2187,KA2718,神奈川県,3968,WELLOW,神奈川県,0,,-
+copula,Tori-no-kimochi,0,,-,266,*9N2*,神奈川県,1206,MARU3G,神奈川県,2012,I6VV,神奈川県,0,,-
+copula,SURVIVOR,0,,-,714,106.,神奈川県,1290,AZUM1.,神奈川県,2019,RMRORO,神奈川県,0,,-
+copula,Super Duper Racers,0,,-,949,106.,神奈川県,1621,STEEL*,神奈川県,2388,CYBERX,神奈川県,0,,-
+copula,StrayedCatz,0,,-,1075,106.,神奈川県,1993,KA2718,神奈川県,2897,WELLOW,神奈川県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1287,MASAKI,神奈川県,1867,STEEL*,神奈川県,2671,WELLOW,神奈川県,3367,WELLOW,神奈川県
+copula,STARLiGHT,0,,-,936,106.,神奈川県,1824,GOOD3,神奈川県,2805,STYU--,神奈川県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1441,MASAKI,神奈川県,2025,GOEMON,神奈川県,3069,I6VV,神奈川県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,945,MASAKI,神奈川県,1611,STEEL*,神奈川県,2550,STYU--,神奈川県,0,,-
+copula,Sephirot,0,,-,968,*9N2*,神奈川県,1681,STEEL*,神奈川県,2365,STYU--,神奈川県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,747,MASAKI,神奈川県,1284,KA2718,神奈川県,2277,I6VV,神奈川県,0,,-
+copula,Routing,0,,-,960,MASAKI,神奈川県,1606,ZER0.H,神奈川県,2535,YUZ*,神奈川県,0,,-
+copula,Rock It,0,,-,1169,MASAKI,神奈川県,1685,434,神奈川県,2978,I6VV,神奈川県,0,,-
+copula,refrain,0,,-,1189,CHEKIN,神奈川県,2383,STEEL*,神奈川県,3645,PPJT,神奈川県,0,,-
+copula,quick master (reform version),0,,-,160,*9N2*,神奈川県,356,*9N2*,神奈川県,528,CYBERX,神奈川県,0,,-
+copula,POSSESSION,543,MASAKI,神奈川県,1378,210,神奈川県,2162,STYU--,神奈川県,3004,SIREN2,神奈川県,0,,-
+copula,Outbreak,0,,-,1335,106.,神奈川県,1829,434,神奈川県,3032,RK,神奈川県,0,,-
+copula,On the FM,0,,-,1139,MASAKI,神奈川県,1567,ZER0.H,神奈川県,2796,STYU--,神奈川県,0,,-
+copula,NZM,0,,-,1052,106.,神奈川県,1607,KAZU34,神奈川県,3471,WELLOW,神奈川県,0,,-
+copula,Nowhere,0,,-,871,MASAKI,神奈川県,1503,STEEL*,神奈川県,2173,PPJT,神奈川県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,840,MASAKI,神奈川県,1208,KARENA,神奈川県,2274,TATSU,神奈川県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,1208,106.,神奈川県,1895,FMN,神奈川県,3027,WELLOW,神奈川県,0,,-
+copula,Nightmare before oversleep,0,,-,1199,106.,神奈川県,1895,KA2718,神奈川県,2966,PPJT,神奈川県,0,,-
+copula,NANAIRO,0,,-,1066,MASAKI,神奈川県,1778,IIDX29,神奈川県,2581,I6VV,神奈川県,0,,-
+copula,Musik LoverZ,0,,-,1076,MASAKI,神奈川県,1419,*9N2*,神奈川県,2517,I6VV,神奈川県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1376,106.,神奈川県,2096,KA2718,神奈川県,3046,TATSU,神奈川県,0,,-
+copula,La dolce primavera,0,,-,703,106.,神奈川県,1358,TOMOYA,神奈川県,2176,I6VV,神奈川県,0,,-
+copula,Konzert V,0,,-,1274,BBMT.,神奈川県,2303,STEEL*,神奈川県,3379,WELLOW,神奈川県,0,,-
+copula,Journey,0,,-,695,KU,神奈川県,1232,BBMT.,神奈川県,1887,PPJT,神奈川県,3149,SIREN2,神奈川県
+copula,Inner Spirit,0,,-,885,MASAKI,神奈川県,1933,BBMT.,神奈川県,2847,CYBERX,神奈川県,0,,-
+copula,Highcharge Divolt,0,,-,909,MASAKI,神奈川県,1719,HIDEKA,神奈川県,2810,I6VV,神奈川県,0,,-
+copula,Grand Chariot,0,,-,1155,M-PEKO,神奈川県,1898,KAZU34,神奈川県,3480,WELLOW,神奈川県,0,,-
+copula,Godspeed,0,,-,1048,KA2718,神奈川県,1957,KAZU34,神奈川県,3181,TATSU,神奈川県,0,,-
+copula,GOBBLE,0,,-,496,MASAKI,神奈川県,699,KA2718,神奈川県,1722,CYBERX,神奈川県,0,,-
+copula,Go Faraway,0,,-,1036,MASAKI,神奈川県,1479,KA2718,神奈川県,2501,PPJT,神奈川県,0,,-
+copula,Glitch Nerds,0,,-,1047,MASAKI,神奈川県,1394,BBMT.,神奈川県,2262,I6VV,神奈川県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1139,MASAKI,神奈川県,1774,STEEL*,神奈川県,2357,STYU--,神奈川県,0,,-
+copula,Exchange Place,0,,-,776,MASAKI,神奈川県,1254,KA2718,神奈川県,1796,I6VV,神奈川県,0,,-
+copula,Everlasting Last,0,,-,852,MASAKI,神奈川県,1618,CINCIN,神奈川県,2238,RK,神奈川県,0,,-
+copula,Dynamite,552,PPJT,神奈川県,1198,KA2718,神奈川県,2465,MASAKI,神奈川県,3866,WELLOW,神奈川県,0,,-
+copula,Donkey Donk,0,,-,1213,*9N2*,神奈川県,1677,MARURI,神奈川県,2289,TATSU,神奈川県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,632,106.,神奈川県,1539,GOEMON,神奈川県,2319,I6VV,神奈川県,0,,-
+copula,DIAMOND CROSSING,0,,-,999,LAPIS,神奈川県,1721,ZER0.H,神奈川県,3105,I6VV,神奈川県,0,,-
+copula,Devil's Gear,0,,-,1090,MASAKI,神奈川県,2277,WELLOW,神奈川県,3499,WELLOW,神奈川県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1414,*9N2*,神奈川県,1940,STEEL*,神奈川県,2645,PFIZER,神奈川県,0,,-
+copula,Damage Per Second,0,,-,894,MASAKI,神奈川県,1411,KA2718,神奈川県,2052,STYU--,神奈川県,2299,I6VV,神奈川県
+copula,Daily Lunch Special,0,,-,1077,106.,神奈川県,2174,BBMT.,神奈川県,2976,STYU--,神奈川県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,994,MASAKI,神奈川県,1756,STEEL*,神奈川県,3131,WELLOW,神奈川県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,1206,MASAKI,神奈川県,1704,KA2718,神奈川県,2641,I6VV,神奈川県,0,,-
+copula,Central Station,0,,-,1050,MASAKI,神奈川県,1583,STEEL*,神奈川県,2425,CYBERX,神奈川県,0,,-
+copula,Blue Spring Express,0,,-,1308,106.,神奈川県,2068,KAZU34,神奈川県,3324,SASARA,神奈川県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,907,MASAKI,神奈川県,2553,GOEMON,神奈川県,3290,STYU--,神奈川県,0,,-
+copula,Aublia,0,,-,990,MASAKI,神奈川県,1485,BBMT.,神奈川県,2574,STYU--,神奈川県,0,,-
+copula,Arcana,0,,-,1218,MASAKI,神奈川県,1776,STEEL*,神奈川県,2285,TATSU,神奈川県,0,,-
+copula,AO-1,0,,-,1252,KA2718,神奈川県,1979,TATSU,神奈川県,2803,BBMT.,神奈川県,0,,-
+copula,Angelic Jelly,0,,-,1154,MASAKI,神奈川県,2069,IIDX29,神奈川県,2788,I6VV,神奈川県,0,,-
+copula,Acid Pumper,0,,-,696,MASAKI,神奈川県,1567,IIDX29,神奈川県,2481,WELLOW,神奈川県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,708,MASAKI,神奈川県,1670,PFIZER,神奈川県,2412,GYAO-!,神奈川県,0,,-
 SINOBUZ,鴉,0,,-,1513,PPJT,神奈川県,2248,GOEMON,神奈川県,2703,STYU--,神奈川県,0,,-
 SINOBUZ,童話回廊,0,,-,967,MASAKI,神奈川県,1765,PPJT,神奈川県,3129,WELLOW,神奈川県,0,,-
 SINOBUZ,禍根,0,,-,821,MASAKI,神奈川県,1386,PPJT,神奈川県,2629,PPJT,神奈川県,0,,-
@@ -948,87 +1029,6 @@ SINOBUZ,Amazing Mirage,378,*9N2*,神奈川県,913,PPJT,神奈川県,1778,BBMT.,�
 SINOBUZ,(This Is Not) The Angels,0,,-,598,ASLY,神奈川県,1459,MASAKI,神奈川県,2714,WELLOW,神奈川県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1175,PPJT,神奈川県,1975,WELLOW,神奈川県,3449,PPJT,神奈川県,0,,-
 SINOBUZ,!Viva!,0,,-,981,PPJT,神奈川県,1634,PPJT,神奈川県,2009,STYU--,神奈川県,0,,-
-copula,麗 ～うらら～,264,*9N2*,神奈川県,1126,106.,神奈川県,1776,*9N2*,神奈川県,2639,GRK,神奈川県,0,,-
-copula,駅猫のワルツ,0,,-,1158,106.,神奈川県,2077,TOMMY,神奈川県,2905,PPJT,神奈川県,0,,-
-copula,量子の海のリントヴルム,0,,-,917,106.,神奈川県,1822,STEEL*,神奈川県,2982,IKESJD,神奈川県,0,,-
-copula,追想快晴テーマパーク,0,,-,1207,TAILSJ,神奈川県,2098,KAZU34,神奈川県,3116,PPJT,神奈川県,0,,-
-copula,紫陽花 -AZISAI-,424,*9N2*,神奈川県,1276,KA2718,神奈川県,2113,KA2718,神奈川県,2919,WELLOW,神奈川県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1422,106.,神奈川県,2174,H.RS.M,神奈川県,3375,WELLOW,神奈川県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1287,KA2718,神奈川県,2140,WELLOW,神奈川県,3455,WELLOW,神奈川県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,958,106.,神奈川県,1684,HAWK,神奈川県,2549,I6VV,神奈川県,0,,-
-copula,星屑ディスタンシア,0,,-,701,MASAKI,神奈川県,1200,TOMOYA,神奈川県,2121,STYU--,神奈川県,0,,-
-copula,明鏡止水,0,,-,845,MASAKI,神奈川県,1839,HELMES,神奈川県,2829,TATSU,神奈川県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,779,MASAKI,神奈川県,1513,STEEL*,神奈川県,2174,I6VV,神奈川県,0,,-
-copula,セロトニン,0,,-,1309,TOTO,神奈川県,1858,STEEL*,神奈川県,2353,PPJT,神奈川県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,1133,MASAKI,神奈川県,1801,RMRORO,神奈川県,2460,STYU--,神奈川県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,830,MASAKI,神奈川県,1443,O2O1,神奈川県,2389,I6VV,神奈川県,0,,-
-copula,オルタネイトβ,0,,-,843,MASAKI,神奈川県,1442,GOEMON,神奈川県,2264,IIDX29,神奈川県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1500,KA2718,神奈川県,2341,AZUM1.,神奈川県,3385,WELLOW,神奈川県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,1163,106.,神奈川県,1866,GOEMON,神奈川県,2863,I6VV,神奈川県,0,,-
-copula,ZEPHYRANTHES,0,,-,1003,106.,神奈川県,1793,O2O1,神奈川県,2967,I6VV,神奈川県,3906,WELLOW,神奈川県
-copula,X,0,,-,1588,KA2718,神奈川県,2509,STEEL*,神奈川県,3869,WELLOW,神奈川県,0,,-
-copula,Welcome,0,,-,876,MASAKI,神奈川県,1764,WAKIGE,神奈川県,2684,TATSU,神奈川県,3360,WELLOW,神奈川県
-copula,Violet Rose,0,,-,1271,106.,神奈川県,1855,HELIOS,神奈川県,2629,PPJT,神奈川県,0,,-
-copula,Violet Pulse,0,,-,429,MASAKI,神奈川県,1721,GOEMON,神奈川県,2441,IIDX29,神奈川県,0,,-
-copula,Uh-Oh,0,,-,1131,MASAKI,神奈川県,1701,QSAMA,神奈川県,2427,TATSU,神奈川県,0,,-
-copula,Triple Counter,0,,-,1398,106.,神奈川県,2187,KA2718,神奈川県,3968,WELLOW,神奈川県,0,,-
-copula,Tori-no-kimochi,0,,-,266,*9N2*,神奈川県,1206,MARU3G,神奈川県,2012,I6VV,神奈川県,0,,-
-copula,SURVIVOR,0,,-,714,106.,神奈川県,1290,AZUM1.,神奈川県,2019,RMRORO,神奈川県,0,,-
-copula,Super Duper Racers,0,,-,949,106.,神奈川県,1621,STEEL*,神奈川県,2388,CYBERX,神奈川県,0,,-
-copula,StrayedCatz,0,,-,1075,106.,神奈川県,1993,KA2718,神奈川県,2897,WELLOW,神奈川県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1287,MASAKI,神奈川県,1867,STEEL*,神奈川県,2671,WELLOW,神奈川県,3367,WELLOW,神奈川県
-copula,STARLiGHT,0,,-,936,106.,神奈川県,1824,GOOD3,神奈川県,2805,STYU--,神奈川県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1441,MASAKI,神奈川県,2025,GOEMON,神奈川県,3069,I6VV,神奈川県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,945,MASAKI,神奈川県,1611,STEEL*,神奈川県,2550,STYU--,神奈川県,0,,-
-copula,Sephirot,0,,-,968,*9N2*,神奈川県,1681,STEEL*,神奈川県,2365,STYU--,神奈川県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,747,MASAKI,神奈川県,1284,KA2718,神奈川県,2277,I6VV,神奈川県,0,,-
-copula,Routing,0,,-,960,MASAKI,神奈川県,1606,ZER0.H,神奈川県,2535,YUZ*,神奈川県,0,,-
-copula,Rock It,0,,-,1169,MASAKI,神奈川県,1685,434,神奈川県,2978,I6VV,神奈川県,0,,-
-copula,refrain,0,,-,1189,CHEKIN,神奈川県,2383,STEEL*,神奈川県,3645,PPJT,神奈川県,0,,-
-copula,quick master (reform version),0,,-,160,*9N2*,神奈川県,356,*9N2*,神奈川県,528,CYBERX,神奈川県,0,,-
-copula,POSSESSION,543,MASAKI,神奈川県,1378,210,神奈川県,2162,STYU--,神奈川県,3004,SIREN2,神奈川県,0,,-
-copula,Outbreak,0,,-,1335,106.,神奈川県,1829,434,神奈川県,3032,RK,神奈川県,0,,-
-copula,On the FM,0,,-,1139,MASAKI,神奈川県,1567,ZER0.H,神奈川県,2796,STYU--,神奈川県,0,,-
-copula,NZM,0,,-,1052,106.,神奈川県,1607,KAZU34,神奈川県,3471,WELLOW,神奈川県,0,,-
-copula,Nowhere,0,,-,871,MASAKI,神奈川県,1503,STEEL*,神奈川県,2173,PPJT,神奈川県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,840,MASAKI,神奈川県,1208,KARENA,神奈川県,2274,TATSU,神奈川県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,1208,106.,神奈川県,1895,FMN,神奈川県,3027,WELLOW,神奈川県,0,,-
-copula,Nightmare before oversleep,0,,-,1199,106.,神奈川県,1895,KA2718,神奈川県,2966,PPJT,神奈川県,0,,-
-copula,NANAIRO,0,,-,1066,MASAKI,神奈川県,1778,IIDX29,神奈川県,2581,I6VV,神奈川県,0,,-
-copula,Musik LoverZ,0,,-,1076,MASAKI,神奈川県,1419,*9N2*,神奈川県,2517,I6VV,神奈川県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1376,106.,神奈川県,2096,KA2718,神奈川県,3046,TATSU,神奈川県,0,,-
-copula,La dolce primavera,0,,-,703,106.,神奈川県,1358,TOMOYA,神奈川県,2176,I6VV,神奈川県,0,,-
-copula,Konzert V,0,,-,1274,BBMT.,神奈川県,2303,STEEL*,神奈川県,3379,WELLOW,神奈川県,0,,-
-copula,Journey,0,,-,695,KU,神奈川県,1232,BBMT.,神奈川県,1887,PPJT,神奈川県,3149,SIREN2,神奈川県
-copula,Inner Spirit,0,,-,885,MASAKI,神奈川県,1933,BBMT.,神奈川県,2847,CYBERX,神奈川県,0,,-
-copula,Highcharge Divolt,0,,-,909,MASAKI,神奈川県,1719,HIDEKA,神奈川県,2810,I6VV,神奈川県,0,,-
-copula,Grand Chariot,0,,-,1155,M-PEKO,神奈川県,1898,KAZU34,神奈川県,3480,WELLOW,神奈川県,0,,-
-copula,Godspeed,0,,-,1048,KA2718,神奈川県,1957,KAZU34,神奈川県,3181,TATSU,神奈川県,0,,-
-copula,GOBBLE,0,,-,496,MASAKI,神奈川県,699,KA2718,神奈川県,1722,CYBERX,神奈川県,0,,-
-copula,Go Faraway,0,,-,1036,MASAKI,神奈川県,1479,KA2718,神奈川県,2501,PPJT,神奈川県,0,,-
-copula,Glitch Nerds,0,,-,1047,MASAKI,神奈川県,1394,BBMT.,神奈川県,2262,I6VV,神奈川県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1139,MASAKI,神奈川県,1774,STEEL*,神奈川県,2357,STYU--,神奈川県,0,,-
-copula,Exchange Place,0,,-,776,MASAKI,神奈川県,1254,KA2718,神奈川県,1796,I6VV,神奈川県,0,,-
-copula,Everlasting Last,0,,-,852,MASAKI,神奈川県,1618,OMENKO,神奈川県,2238,RK,神奈川県,0,,-
-copula,Dynamite,552,PPJT,神奈川県,1198,KA2718,神奈川県,2465,MASAKI,神奈川県,3866,WELLOW,神奈川県,0,,-
-copula,Donkey Donk,0,,-,1213,*9N2*,神奈川県,1677,MARURI,神奈川県,2289,TATSU,神奈川県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,632,106.,神奈川県,1539,GOEMON,神奈川県,2319,I6VV,神奈川県,0,,-
-copula,DIAMOND CROSSING,0,,-,999,LAPIS,神奈川県,1721,ZER0.H,神奈川県,3105,I6VV,神奈川県,0,,-
-copula,Devil's Gear,0,,-,1090,MASAKI,神奈川県,2277,WELLOW,神奈川県,3499,WELLOW,神奈川県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1414,*9N2*,神奈川県,1940,STEEL*,神奈川県,2645,PFIZER,神奈川県,0,,-
-copula,Damage Per Second,0,,-,894,MASAKI,神奈川県,1411,KA2718,神奈川県,2052,STYU--,神奈川県,2299,I6VV,神奈川県
-copula,Daily Lunch Special,0,,-,1077,106.,神奈川県,2174,BBMT.,神奈川県,2976,STYU--,神奈川県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,994,MASAKI,神奈川県,1756,STEEL*,神奈川県,3131,WELLOW,神奈川県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,1206,MASAKI,神奈川県,1704,KA2718,神奈川県,2641,I6VV,神奈川県,0,,-
-copula,Central Station,0,,-,1050,MASAKI,神奈川県,1583,STEEL*,神奈川県,2425,CYBERX,神奈川県,0,,-
-copula,Blue Spring Express,0,,-,1308,106.,神奈川県,2068,KAZU34,神奈川県,3324,SASARA,神奈川県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,907,MASAKI,神奈川県,2553,GOEMON,神奈川県,3290,STYU--,神奈川県,0,,-
-copula,Aublia,0,,-,990,MASAKI,神奈川県,1485,BBMT.,神奈川県,2574,STYU--,神奈川県,0,,-
-copula,Arcana,0,,-,1218,MASAKI,神奈川県,1776,STEEL*,神奈川県,2285,TATSU,神奈川県,0,,-
-copula,AO-1,0,,-,1252,KA2718,神奈川県,1979,TATSU,神奈川県,2803,BBMT.,神奈川県,0,,-
-copula,Angelic Jelly,0,,-,1154,MASAKI,神奈川県,2069,IIDX29,神奈川県,2788,I6VV,神奈川県,0,,-
-copula,Acid Pumper,0,,-,696,MASAKI,神奈川県,1567,IIDX29,神奈川県,2481,WELLOW,神奈川県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,708,MASAKI,神奈川県,1670,PFIZER,神奈川県,2412,GYAO-!,神奈川県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,702,MASAKI,神奈川県,1244,PPJT,神奈川県,2322,SIREN2,神奈川県,0,,-
 CANNON BALLERS,純真可憐デザイア,254,PPJT,神奈川県,844,MASAKI,神奈川県,1635,PPJT,神奈川県,2338,STYU--,神奈川県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1400,PPJT,神奈川県,2511,GOEMON,神奈川県,4031,I6VV,神奈川県,0,,-
@@ -1401,7 +1401,7 @@ CastHour,N.O.,0,,-,845,SIREN2,神奈川県,1536,SIREN2,神奈川県,2541,SIREN2,
 CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1630,MASAKI,神奈川県,2535,STEEL*,神奈川県,3864,WELLOW,神奈川県,0,,-
 CastHour,Lawes's Parotia,0,,-,907,STEEL*,神奈川県,1761,PPJT,神奈川県,2578,STYU--,神奈川県,0,,-
 CastHour,ILAYZA,0,,-,1195,BAY.,神奈川県,2089,PPJT,神奈川県,2843,PPJT,神奈川県,0,,-
-CastHour,HEARTACHE,0,,-,499,PPJT,神奈川県,1196,PPJT,神奈川県,1844,PPJT,神奈川県,0,,-
+CastHour,HEARTACHE,0,,-,499,PPJT,神奈川県,1196,PPJT,神奈川県,1850,STYU--,神奈川県,0,,-
 CastHour,GiGaGaHell,0,,-,1387,MASAKI,神奈川県,2123,PPJT,神奈川県,3256,WELLOW,神奈川県,0,,-
 CastHour,FINALLY BLAZE,0,,-,938,MASAKI,神奈川県,1804,PPJT,神奈川県,2833,PPJT,神奈川県,0,,-
 CastHour,Fegrix,0,,-,1265,PPJT,神奈川県,2309,STYU--,神奈川県,3326,WELLOW,神奈川県,0,,-

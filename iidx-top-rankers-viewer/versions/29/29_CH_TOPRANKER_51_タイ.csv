@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,409,CAM,タイ,706,PMILF,タイ,1068,T-BACK,タイ,0,,-
-1st&substream,RUGGED ASH,0,,-,246,CAM,タイ,399,T-BACK,タイ,1067,AYA.K,タイ,1890,GOLUSI,タイ
+1st&substream,RUGGED ASH,0,,-,246,CAM,タイ,399,T-BACK,タイ,1067,AYA.K,タイ,1913,GOLUSI,タイ
 1st&substream,R3,0,,-,535,DUO,タイ,636,IMA???,タイ,833,T-BACK,タイ,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,436,DUO,タイ,616,PMILF,タイ,1039,T-BACK,タイ,0,,-
 1st&substream,Macho Gang,0,,-,348,DOMHEE,タイ,0,,-,1409,NOTXDN,タイ,0,,-
@@ -23,7 +23,7 @@
 3rd style,THE SAFARI,344,DOMHEE,タイ,1012,DOMHEE,タイ,1711,GOLUSI,タイ,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,257,DOMHEE,タイ,392,EZ2AC?,タイ,0,,-,0,,-
 3rd style,Skyscraper,0,,-,0,,-,587,CG505,タイ,1093,YHVH,タイ,0,,-
-3rd style,Schlagwerk,0,,-,0,,-,1127,IMA???,タイ,1467,YHVH,タイ,0,,-
+3rd style,Schlagwerk,0,,-,0,,-,1127,IMA???,タイ,1477,MOIKEY,タイ,0,,-
 3rd style,REINCARNATION,0,,-,0,,-,908,DOMHEE,タイ,1256,AYA.K,タイ,0,,-
 3rd style,R5,0,,-,454,CAM,タイ,1052,OPTN,タイ,1739,GOLUSI,タイ,0,,-
 3rd style,Presto,0,,-,522,EZ2AC?,タイ,835,CELERY,タイ,984,AYA.K,タイ,0,,-
@@ -50,7 +50,7 @@
 4th style,CHECKING YOU OUT,0,,-,0,,-,878,GOLUSI,タイ,1207,KYABIA,タイ,0,,-
 4th style,Burnin' The Floor,0,,-,387,CAM,タイ,421,CAM,タイ,1420,GOLUSI,タイ,0,,-
 4th style,Broken My Heart,0,,-,691,B-RAX,タイ,944,PMILF,タイ,1634,NOTXDN,タイ,0,,-
-4th style,B4U,0,,-,330,CAM,タイ,0,,-,1936,GOLUSI,タイ,0,,-
+4th style,B4U,0,,-,625,CHIBA,タイ,0,,-,1936,GOLUSI,タイ,0,,-
 4th style,ABSOLUTE,0,,-,832,DUO,タイ,1559,HYPER,タイ,2173,82KASU,タイ,2636,GOLUSI,タイ
 4th style,250bpm,0,,-,0,,-,732,LIQ,タイ,1225,T-BACK,タイ,0,,-
 5th style,V,327,DOMHEE,タイ,1147,DOMHEE,タイ,2411,GOLUSI,タイ,2903,AYA.K,タイ,0,,-
@@ -66,7 +66,7 @@
 5th style,Regulus,0,,-,0,,-,0,,-,1406,DANGNO,タイ,0,,-
 5th style,Real,0,,-,0,,-,269,**3KE!,タイ,1657,IIDX29,タイ,0,,-
 5th style,Radical Faith,0,,-,0,,-,0,,-,1165,T-BACK,タイ,0,,-
-5th style,QQQ,0,,-,455,BAISO,タイ,1698,CELERY,タイ,2110,GOLUSI,タイ,0,,-
+5th style,QQQ,0,,-,1123,KKKK,タイ,1698,CELERY,タイ,2110,GOLUSI,タイ,0,,-
 5th style,outer wall,0,,-,0,,-,0,,-,1505,MOIKEY,タイ,0,,-
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,490,CAM,タイ,0,,-,1004,YHVH,タイ,0,,-
 5th style,in my eyes,0,,-,0,,-,976,STANK,タイ,1311,YHVH,タイ,0,,-
@@ -80,7 +80,7 @@
 6th style,route 80s,0,,-,0,,-,773,AAAAAA,タイ,1474,GOLUSI,タイ,0,,-
 6th style,rottel-da-sun,0,,-,700,PMILF,タイ,1173,RU4A.U,タイ,1537,BUNNY,タイ,0,,-
 6th style,NEMESIS,0,,-,465,JA,タイ,1317,DOMHEE,タイ,1863,AYA.K,タイ,0,,-
-6th style,Linus,0,,-,367,LIXE,タイ,1096,DAVID,タイ,2152,AYA.K,タイ,0,,-
+6th style,Linus,0,,-,367,LIXE,タイ,1096,DAVID,タイ,2163,GOLUSI,タイ,0,,-
 6th style,G2,0,,-,639,ZXVS,タイ,1385,DOMHEE,タイ,1912,SUNA*,タイ,0,,-
 6th style,Frozen Ray (original mix),0,,-,0,,-,1562,KAIJIN,タイ,1765,GOLUSI,タイ,0,,-
 6th style,Free Style,0,,-,0,,-,0,,-,1270,GOLUSI,タイ,0,,-
@@ -135,7 +135,7 @@
 8th style,Blame,0,,-,0,,-,1246,YHVH,タイ,1820,GOLUSI,タイ,0,,-
 8th style,bit mania,0,,-,739,DUO,タイ,875,STANK,タイ,1844,GOLUSI,タイ,0,,-
 8th style,Attitude,0,,-,472,VATES,タイ,1181,ZEE,タイ,1578,DIPITY,タイ,0,,-
-8th style,ALL RIGHT,0,,-,668,B-RAX,タイ,0,,-,1486,CUTE,タイ,0,,-
+8th style,ALL RIGHT,0,,-,668,B-RAX,タイ,191,CHIBA,タイ,1486,CUTE,タイ,0,,-
 8th style,airflow,0,,-,360,CAM,タイ,506,B-RAX,タイ,1405,GOLUSI,タイ,0,,-
 8th style,abstract,0,,-,0,,-,1262,JEDI*M,タイ,1848,GOLUSI,タイ,0,,-
 9th style,真夏の花・真夏の夢,0,,-,511,ELI,タイ,0,,-,1451,AYA.K,タイ,0,,-
@@ -151,7 +151,7 @@
 9th style,Quickening,0,,-,0,,-,1296,A,タイ,2015,GOLUSI,タイ,0,,-
 9th style,quasar,0,,-,1102,DOMHEE,タイ,1629,82KASU,タイ,2291,AYA.K,タイ,0,,-
 9th style,one or eight,0,,-,754,DUO,タイ,1720,T-BACK,タイ,2179,AYA.K,タイ,0,,-
-9th style,moon_child,0,,-,0,,-,1364,MOL?LU,タイ,2468,GOLUSI,タイ,0,,-
+9th style,moon_child,0,,-,0,,-,1768,MOIKEY,タイ,2468,GOLUSI,タイ,0,,-
 9th style,MARIA (I believe... ),0,,-,0,,-,1309,DOMHEE,タイ,1901,AYA.K,タイ,0,,-
 9th style,Make A Difference,0,,-,0,,-,0,,-,1844,MOIKEY,タイ,0,,-
 9th style,lower world,0,,-,0,,-,0,,-,2206,AYA.K,タイ,0,,-
@@ -233,6 +233,50 @@ IIDX RED,awakening,0,,-,0,,-,1029,STANK,タイ,1657,GOLUSI,タイ,0,,-
 IIDX RED,ANDROMEDA,0,,-,0,,-,1526,KKKK,タイ,2829,AYA.K,タイ,0,,-
 IIDX RED,AGEHA,582,DOMHEE,タイ,883,PMILF,タイ,1309,LIQ,タイ,1546,C*SHIN,タイ,2379,AYA.K,タイ
 IIDX RED,AA,0,,-,1109,DOMHEE,タイ,2416,82KASU,タイ,3591,AYA.K,タイ,0,,-
+HAPPY SKY,月光,0,,-,738,PMILF,タイ,1102,DAVID,タイ,2396,AYA.K,タイ,0,,-
+HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,735,B-RAX,タイ,1188,Z3TN,タイ,1899,GOLUSI,タイ,0,,-
+HAPPY SKY,冥,552,!,タイ,867,PMILF,タイ,1882,T-T,タイ,3668,AYA.K,タイ,0,,-
+HAPPY SKY,ラクエン,0,,-,0,,-,0,,-,1918,AYA.K,タイ,0,,-
+HAPPY SKY,ヒマワリ,0,,-,341,CHROME,タイ,1699,82KASU,タイ,1915,82KASU,タイ,0,,-
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,0,,-,1153,ZEE,タイ,1611,T-BACK,タイ,0,,-
+HAPPY SKY,Xepher,380,DOMHEE,タイ,932,YUCHI,タイ,1904,KKMTC*,タイ,2966,AYA.K,タイ,0,,-
+HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,0,,-,0,,-,1628,GOLUSI,タイ,0,,-
+HAPPY SKY,Votum stellarum,0,,-,577,LIQ,タイ,1408,DOMHEE,タイ,1852,ANAL,タイ,0,,-
+HAPPY SKY,vault of heaven,0,,-,615,H!NO??,タイ,989,T.YSXV,タイ,1943,AYA.K,タイ,0,,-
+HAPPY SKY,Under the Sky,0,,-,769,PUN,タイ,833,SCHAUF,タイ,1690,AYA.K,タイ,0,,-
+HAPPY SKY,Twelfth Style,0,,-,0,,-,1127,SLP.LS,タイ,1882,NOTXDN,タイ,3175,AYA.K,タイ
+HAPPY SKY,Tizona d'El Cid,0,,-,0,,-,1477,YOD00,タイ,2280,AYA.K,タイ,0,,-
+HAPPY SKY,SigSig,638,DOMHEE,タイ,785,DUO,タイ,1593,KKMTC*,タイ,2590,AYA.K,タイ,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,0,,-,991,FREDX,タイ,1780,MOIKEY,タイ,0,,-
+HAPPY SKY,Scripted Connection⇒ H mix,0,,-,0,,-,1679,DIPITY,タイ,2176,T-BACK,タイ,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,0,,-,1765,MIKAGE,タイ,2944,GOLUSI,タイ,3354,AYA.K,タイ
+HAPPY SKY,SCREAM SQUAD,0,,-,726,ZXVS,タイ,1472,MOIKEY,タイ,1991,AYA.K,タイ,0,,-
+HAPPY SKY,rage against usual,0,,-,0,,-,1601,DOMHEE,タイ,2772,AYA.K,タイ,0,,-
+HAPPY SKY,POODLE,0,,-,0,,-,1628,ZEE,タイ,2149,EPN,タイ,3310,GOLUSI,タイ
+HAPPY SKY,Pollinosis,0,,-,0,,-,668,PMILF,タイ,2425,AYA.K,タイ,0,,-
+HAPPY SKY,PLASMA,0,,-,0,,-,1510,CELERY,タイ,2080,82KASU,タイ,0,,-
+HAPPY SKY,Pink Rose,0,,-,538,DOMHEE,タイ,894,DOMHEE,タイ,1402,GOLUSI,タイ,0,,-
+HAPPY SKY,MOON RACE,0,,-,0,,-,997,HYPER,タイ,1850,GOLUSI,タイ,0,,-
+HAPPY SKY,Love Magic,0,,-,0,,-,0,,-,1816,GOLUSI,タイ,0,,-
+HAPPY SKY,Little Little Princess,0,,-,493,TOKAGE,タイ,2035,82KASU,タイ,2729,AYA.K,タイ,3726,AYA.K,タイ
+HAPPY SKY,LESSON 5,0,,-,0,,-,0,,-,2375,AYA.K,タイ,0,,-
+HAPPY SKY,INAZUMA,0,,-,488,TOKAGE,タイ,1688,T-BACK,タイ,2621,GOLUSI,タイ,0,,-
+HAPPY SKY,in motion,0,,-,519,SOUP?,タイ,876,YHVH,タイ,1297,GOLUSI,タイ,0,,-
+HAPPY SKY,I am,0,,-,353,LIXE,タイ,1584,T-BACK,タイ,2161,AYA.K,タイ,0,,-
+HAPPY SKY,HAPPY☆ANGEL,631,DOMHEE,タイ,0,,-,1454,NOTXDN,タイ,2034,AYA.K,タイ,0,,-
+HAPPY SKY,GREEN EYES,0,,-,0,,-,1177,YHVH,タイ,1848,82KASU,タイ,0,,-
+HAPPY SKY,Get'em up to R.A.V.E,0,,-,0,,-,1048,CHIBA,タイ,2263,AYA.K,タイ,0,,-
+HAPPY SKY,garden,0,,-,0,,-,1326,HYPER,タイ,2069,GOLUSI,タイ,0,,-
+HAPPY SKY,First Resolution,0,,-,0,,-,1157,MOOPY,タイ,1976,T-BACK,タイ,0,,-
+HAPPY SKY,EMPTY OF THE SKY,0,,-,610,!,タイ,519,CAM,タイ,1618,82KASU,タイ,0,,-
+HAPPY SKY,EDEN,0,,-,872,AAAAAA,タイ,1846,82KASU,タイ,2643,T-T,タイ,0,,-
+HAPPY SKY,double thrash,0,,-,0,,-,1625,DOMHEE,タイ,2002,82KASU,タイ,0,,-
+HAPPY SKY,Catch Me,0,,-,406,SOUP?,タイ,1258,GOLUSI,タイ,1683,GOLUSI,タイ,0,,-
+HAPPY SKY,CaptivAte～浄化～,0,,-,0,,-,1483,DOMHEE,タイ,2447,GOLUSI,タイ,0,,-
+HAPPY SKY,Aurora,0,,-,939,PMILF,タイ,2055,IIDX29,タイ,2509,AYA.K,タイ,0,,-
+HAPPY SKY,alla turca con passione,0,,-,0,,-,0,,-,2133,GOLUSI,タイ,0,,-
+HAPPY SKY,Agnus Dei,0,,-,0,,-,1141,--RN--,タイ,1942,T-T,タイ,0,,-
+HAPPY SKY,100％ minimoo-G,0,,-,0,,-,1374,OMAME,タイ,1548,NOTXDN,タイ,0,,-
 DistorteD,虹色,0,,-,507,TOKAGE,タイ,1353,CELERY,タイ,1843,GOLUSI,タイ,0,,-
 DistorteD,華蝶風雪,0,,-,1000,PMILF,タイ,1890,OMAME,タイ,2963,AYA.K,タイ,0,,-
 DistorteD,罠,0,,-,0,,-,0,,-,2304,OMAME,タイ,0,,-
@@ -270,50 +314,48 @@ DistorteD,Bloody Tears(IIDX EDITION),0,,-,1064,DOMHEE,タイ,1685,DOMHEE,タイ,
 DistorteD,BALLAD THE FEATHERS,0,,-,0,,-,926,YHVH,タイ,1264,YHVH,タイ,0,,-
 DistorteD,Apocalypse ～dirge of swans～,234,DOMHEE,タイ,636,STANK,タイ,1004,STANK,タイ,2374,AYA.K,タイ,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,416,DOMHEE,タイ,887,PMILF,タイ,1507,DOMHEE,タイ,2070,AYA.K,タイ,0,,-
-HAPPY SKY,月光,0,,-,738,PMILF,タイ,1102,DAVID,タイ,2396,AYA.K,タイ,0,,-
-HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,735,B-RAX,タイ,1188,Z3TN,タイ,1899,GOLUSI,タイ,0,,-
-HAPPY SKY,冥,552,!,タイ,867,PMILF,タイ,1882,T-T,タイ,3668,AYA.K,タイ,0,,-
-HAPPY SKY,ラクエン,0,,-,0,,-,0,,-,1918,AYA.K,タイ,0,,-
-HAPPY SKY,ヒマワリ,0,,-,341,CHROME,タイ,1699,82KASU,タイ,1915,82KASU,タイ,0,,-
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,0,,-,1153,ZEE,タイ,1611,T-BACK,タイ,0,,-
-HAPPY SKY,Xepher,380,DOMHEE,タイ,932,YUCHI,タイ,1904,KKMTC*,タイ,2966,AYA.K,タイ,0,,-
-HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,0,,-,0,,-,1628,GOLUSI,タイ,0,,-
-HAPPY SKY,Votum stellarum,0,,-,577,LIQ,タイ,1408,DOMHEE,タイ,1852,ANAL,タイ,0,,-
-HAPPY SKY,vault of heaven,0,,-,615,H!NO??,タイ,989,T.YSXV,タイ,1943,AYA.K,タイ,0,,-
-HAPPY SKY,Under the Sky,0,,-,769,PUN,タイ,833,SCHAUF,タイ,1690,AYA.K,タイ,0,,-
-HAPPY SKY,Twelfth Style,0,,-,0,,-,1127,SLP.LS,タイ,1882,NOTXDN,タイ,3175,AYA.K,タイ
-HAPPY SKY,Tizona d'El Cid,0,,-,0,,-,1477,YOD00,タイ,2280,AYA.K,タイ,0,,-
-HAPPY SKY,SigSig,638,DOMHEE,タイ,785,DUO,タイ,1593,KKMTC*,タイ,2590,AYA.K,タイ,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,0,,-,991,FREDX,タイ,1780,MOIKEY,タイ,0,,-
-HAPPY SKY,Scripted Connection⇒ H mix,0,,-,0,,-,1679,DIPITY,タイ,2176,T-BACK,タイ,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,0,,-,1765,MIKAGE,タイ,2944,GOLUSI,タイ,3354,AYA.K,タイ
-HAPPY SKY,SCREAM SQUAD,0,,-,726,ZXVS,タイ,1472,MOIKEY,タイ,1991,AYA.K,タイ,0,,-
-HAPPY SKY,rage against usual,0,,-,0,,-,1601,DOMHEE,タイ,2772,AYA.K,タイ,0,,-
-HAPPY SKY,POODLE,0,,-,0,,-,1628,ZEE,タイ,2149,EPN,タイ,3310,GOLUSI,タイ
-HAPPY SKY,Pollinosis,0,,-,0,,-,668,PMILF,タイ,2425,AYA.K,タイ,0,,-
-HAPPY SKY,PLASMA,0,,-,0,,-,1510,CELERY,タイ,2080,82KASU,タイ,0,,-
-HAPPY SKY,Pink Rose,0,,-,538,DOMHEE,タイ,894,DOMHEE,タイ,1402,GOLUSI,タイ,0,,-
-HAPPY SKY,MOON RACE,0,,-,0,,-,997,HYPER,タイ,1850,GOLUSI,タイ,0,,-
-HAPPY SKY,Love Magic,0,,-,0,,-,0,,-,1816,GOLUSI,タイ,0,,-
-HAPPY SKY,Little Little Princess,0,,-,493,TOKAGE,タイ,2035,82KASU,タイ,2729,AYA.K,タイ,3726,AYA.K,タイ
-HAPPY SKY,LESSON 5,0,,-,0,,-,0,,-,2375,AYA.K,タイ,0,,-
-HAPPY SKY,INAZUMA,0,,-,488,TOKAGE,タイ,1688,T-BACK,タイ,2621,GOLUSI,タイ,0,,-
-HAPPY SKY,in motion,0,,-,519,SOUP?,タイ,876,YHVH,タイ,1297,GOLUSI,タイ,0,,-
-HAPPY SKY,I am,0,,-,353,LIXE,タイ,1584,T-BACK,タイ,2161,AYA.K,タイ,0,,-
-HAPPY SKY,HAPPY☆ANGEL,631,DOMHEE,タイ,0,,-,1454,NOTXDN,タイ,2034,AYA.K,タイ,0,,-
-HAPPY SKY,GREEN EYES,0,,-,0,,-,1177,YHVH,タイ,1848,82KASU,タイ,0,,-
-HAPPY SKY,Get'em up to R.A.V.E,0,,-,0,,-,203,CHIBA,タイ,2263,AYA.K,タイ,0,,-
-HAPPY SKY,garden,0,,-,0,,-,1326,HYPER,タイ,2069,GOLUSI,タイ,0,,-
-HAPPY SKY,First Resolution,0,,-,0,,-,1157,MOOPY,タイ,1976,T-BACK,タイ,0,,-
-HAPPY SKY,EMPTY OF THE SKY,0,,-,610,!,タイ,519,CAM,タイ,1618,82KASU,タイ,0,,-
-HAPPY SKY,EDEN,0,,-,872,AAAAAA,タイ,1846,82KASU,タイ,2643,T-T,タイ,0,,-
-HAPPY SKY,double thrash,0,,-,0,,-,1625,DOMHEE,タイ,2002,82KASU,タイ,0,,-
-HAPPY SKY,Catch Me,0,,-,406,SOUP?,タイ,1258,GOLUSI,タイ,1683,GOLUSI,タイ,0,,-
-HAPPY SKY,CaptivAte～浄化～,0,,-,0,,-,1483,DOMHEE,タイ,2447,GOLUSI,タイ,0,,-
-HAPPY SKY,Aurora,0,,-,939,PMILF,タイ,2055,IIDX29,タイ,2509,AYA.K,タイ,0,,-
-HAPPY SKY,alla turca con passione,0,,-,0,,-,0,,-,2133,GOLUSI,タイ,0,,-
-HAPPY SKY,Agnus Dei,0,,-,0,,-,1141,--RN--,タイ,1942,T-T,タイ,0,,-
-HAPPY SKY,100％ minimoo-G,0,,-,0,,-,1374,OMAME,タイ,1548,NOTXDN,タイ,0,,-
+GOLD,電人、暁に斃れる。,644,DOMHEE,タイ,1040,PMILF,タイ,2074,AXID,タイ,3322,AYA.K,タイ,0,,-
+GOLD,零 - ZERO -,210,DOMHEE,タイ,980,PMILF,タイ,1662,YOD00,タイ,2285,AYA.K,タイ,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,0,,-,0,,-,1384,AYA.K,タイ,0,,-
+GOLD,星をこの手に,0,,-,1102,DOMHEE,タイ,1489,YOD00,タイ,2006,T-BACK,タイ,0,,-
+GOLD,リグレット,0,,-,975,PMILF,タイ,1624,82KASU,タイ,2383,AYA.K,タイ,0,,-
+GOLD,ヨシダさん,0,,-,0,,-,1322,86URR,タイ,1961,AYA.K,タイ,0,,-
+GOLD,クルクル☆ラブ～Opioid Peptide MIX～,404,DOMHEE,タイ,0,,-,1516,AYA.K,タイ,2249,AYA.K,タイ,0,,-
+GOLD,With your Smile,0,,-,0,,-,791,CG505,タイ,1573,GOLUSI,タイ,0,,-
+GOLD,Watch out!!,0,,-,422,KAT,タイ,806,TE4MA$,タイ,1496,GOLUSI,タイ,0,,-
+GOLD,VANESSA,0,,-,1027,EZ2AC?,タイ,1769,AYA.K,タイ,2323,AYA.K,タイ,3182,AYA.K,タイ
+GOLD,TRANOID,0,,-,660,LIQ,タイ,1398,MOIKEY,タイ,2144,AYA.K,タイ,2899,AYA.K,タイ
+GOLD,The Smile of You,0,,-,413,REVICE,タイ,1182,YHVH,タイ,1584,1919,タイ,0,,-
+GOLD,the shadow,0,,-,1053,PMILF,タイ,1224,LIQ,タイ,2813,GOLUSI,タイ,0,,-
+GOLD,snow storm,232,DOMHEE,タイ,555,YR,タイ,2113,82KASU,タイ,2714,GOLUSI,タイ,3314,AYA.K,タイ
+GOLD,smile,0,,-,0,,-,1857,MOIKEY,タイ,2848,AYA.K,タイ,0,,-
+GOLD,Sense 2007,0,,-,1408,T-BACK,タイ,2115,GOLUSI,タイ,2818,AYA.K,タイ,0,,-
+GOLD,Second Heaven,210,DOMHEE,タイ,504,TOKAGE,タイ,1399,EZ2AC?,タイ,2092,GOLUSI,タイ,0,,-
+GOLD,Roulette,0,,-,0,,-,1065,LIQ,タイ,1908,82KASU,タイ,0,,-
+GOLD,PHOTONGENIC,0,,-,1125,DOMHEE,タイ,1794,MOIKEY,タイ,2240,KYABIA,タイ,0,,-
+GOLD,op.31 叙情,0,,-,497,GOLUSI,タイ,1121,GOLUSI,タイ,1414,GOLUSI,タイ,0,,-
+GOLD,never…,0,,-,0,,-,0,,-,1631,53ZRK,タイ,0,,-
+GOLD,METALLIC MIND,0,,-,0,,-,1253,MOOPY,タイ,1558,GOLUSI,タイ,0,,-
+GOLD,Make Me Your Own,0,,-,0,,-,1256,T-BACK,タイ,1919,T-BACK,タイ,0,,-
+GOLD,Love Again...,0,,-,264,CLOWN,タイ,0,,-,986,DOMHEE,タイ,0,,-
+GOLD,LASER CRUSTER,0,,-,0,,-,2083,T-BACK,タイ,3099,AYA.K,タイ,0,,-
+GOLD,KAMAITACHI,0,,-,1147,DOMHEE,タイ,1744,MOIKEY,タイ,2428,OWL,タイ,3747,AYA.K,タイ
+GOLD,INORI,0,,-,848,KRZY05,タイ,2178,YOD00,タイ,3062,AYA.K,タイ,0,,-
+GOLD,High School Love,402,DOMHEE,タイ,416,CJC,タイ,1282,HYPER,タイ,2173,AYA.K,タイ,0,,-
+GOLD,heaven above,0,,-,0,,-,0,,-,1690,82KASU,タイ,0,,-
+GOLD,GRID KNIGHT,0,,-,0,,-,0,,-,2579,GOLUSI,タイ,3418,GOLUSI,タイ
+GOLD,GOLD RUSH,531,DOMHEE,タイ,943,PMILF,タイ,1237,YAMU,タイ,2338,GOLUSI,タイ,0,,-
+GOLD,four-leaf,0,,-,82,RITSU,タイ,946,YHVH,タイ,1567,RU4A.U,タイ,0,,-
+GOLD,FIRE FIRE,554,DOMHEE,タイ,758,KBTIT,タイ,1639,82KASU,タイ,2674,AYA.K,タイ,0,,-
+GOLD,Fascination MAXX,0,,-,746,KAIJIN,タイ,1421,T-BACK,タイ,2404,AYA.K,タイ,0,,-
+GOLD,Cyber Force,0,,-,0,,-,0,,-,2175,T-BACK,タイ,0,,-
+GOLD,CROSSROAD ～Left Story～,0,,-,689,B-RAX,タイ,1616,DOMHEE,タイ,2175,GOLUSI,タイ,0,,-
+GOLD,CaptivAte～誓い～,0,,-,1086,YHVH,タイ,1804,82KASU,タイ,2206,AYA.K,タイ,0,,-
+GOLD,CaptivAte～裁き～,391,DOMHEE,タイ,701,PMILF,タイ,1133,EZ2AC?,タイ,1571,53ZRK,タイ,0,,-
+GOLD,Candy Galy,0,,-,1235,YHVH,タイ,2326,CUTE,タイ,3531,AYA.K,タイ,0,,-
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1241,DOMHEE,タイ,1839,MOIKEY,タイ,2459,GOLUSI,タイ,0,,-
+GOLD,ANDROMEDA II,0,,-,353,AAHYUN,タイ,1045,FREDX,タイ,2263,SUNA*,タイ,0,,-
+GOLD,Air Bell,0,,-,377,CLUBRK,タイ,1051,YHVH,タイ,1701,AYA.K,タイ,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,0,,-,0,,-,1324,AYA.K,タイ,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,323,DOMHEE,タイ,849,PUN,タイ,1524,MOIKEY,タイ,2041,GOLUSI,タイ,0,,-
 DJ TROOPERS,少年A,0,,-,766,IMA???,タイ,1488,YAMU,タイ,2398,T-T,タイ,0,,-
@@ -363,48 +405,6 @@ DJ TROOPERS,Be OK,0,,-,0,,-,1643,MOOPY,タイ,2213,82KASU,タイ,3200,GOLUSI,タ
 DJ TROOPERS,avant-guerre,0,,-,0,,-,0,,-,1890,AYA.K,タイ,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1184,NOTXDN,タイ,1849,82KASU,タイ,2810,AYA.K,タイ,3757,AYA.K,タイ
 DJ TROOPERS,2 tribe 4 K,0,,-,0,,-,1111,ZEE,タイ,2689,AYA.K,タイ,0,,-
-GOLD,電人、暁に斃れる。,644,DOMHEE,タイ,1040,PMILF,タイ,2074,AXID,タイ,3322,AYA.K,タイ,0,,-
-GOLD,零 - ZERO -,210,DOMHEE,タイ,980,PMILF,タイ,1662,YOD00,タイ,2285,AYA.K,タイ,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,0,,-,0,,-,1384,AYA.K,タイ,0,,-
-GOLD,星をこの手に,0,,-,1102,DOMHEE,タイ,1489,YOD00,タイ,2006,T-BACK,タイ,0,,-
-GOLD,リグレット,0,,-,975,PMILF,タイ,1624,82KASU,タイ,2383,AYA.K,タイ,0,,-
-GOLD,ヨシダさん,0,,-,0,,-,1322,86URR,タイ,1961,AYA.K,タイ,0,,-
-GOLD,クルクル☆ラブ～Opioid Peptide MIX～,404,DOMHEE,タイ,0,,-,1516,AYA.K,タイ,2249,AYA.K,タイ,0,,-
-GOLD,With your Smile,0,,-,0,,-,791,CG505,タイ,1573,GOLUSI,タイ,0,,-
-GOLD,Watch out!!,0,,-,422,KAT,タイ,806,TE4MA$,タイ,1496,GOLUSI,タイ,0,,-
-GOLD,VANESSA,0,,-,1027,EZ2AC?,タイ,1769,AYA.K,タイ,2323,AYA.K,タイ,3182,AYA.K,タイ
-GOLD,TRANOID,0,,-,660,LIQ,タイ,1398,MOIKEY,タイ,2144,AYA.K,タイ,2899,AYA.K,タイ
-GOLD,The Smile of You,0,,-,413,REVICE,タイ,1182,YHVH,タイ,1584,1919,タイ,0,,-
-GOLD,the shadow,0,,-,1053,PMILF,タイ,1224,LIQ,タイ,2813,GOLUSI,タイ,0,,-
-GOLD,snow storm,232,DOMHEE,タイ,555,YR,タイ,2113,82KASU,タイ,2714,GOLUSI,タイ,3314,AYA.K,タイ
-GOLD,smile,0,,-,0,,-,1857,MOIKEY,タイ,2848,AYA.K,タイ,0,,-
-GOLD,Sense 2007,0,,-,1408,T-BACK,タイ,2115,GOLUSI,タイ,2818,AYA.K,タイ,0,,-
-GOLD,Second Heaven,210,DOMHEE,タイ,504,TOKAGE,タイ,1399,EZ2AC?,タイ,2092,GOLUSI,タイ,0,,-
-GOLD,Roulette,0,,-,0,,-,1065,LIQ,タイ,1908,82KASU,タイ,0,,-
-GOLD,PHOTONGENIC,0,,-,1125,DOMHEE,タイ,1794,MOIKEY,タイ,2240,KYABIA,タイ,0,,-
-GOLD,op.31 叙情,0,,-,497,GOLUSI,タイ,1121,GOLUSI,タイ,1414,GOLUSI,タイ,0,,-
-GOLD,never…,0,,-,0,,-,0,,-,1631,53ZRK,タイ,0,,-
-GOLD,METALLIC MIND,0,,-,0,,-,1253,MOOPY,タイ,1558,GOLUSI,タイ,0,,-
-GOLD,Make Me Your Own,0,,-,0,,-,1256,T-BACK,タイ,1919,T-BACK,タイ,0,,-
-GOLD,Love Again...,0,,-,264,CLOWN,タイ,0,,-,986,DOMHEE,タイ,0,,-
-GOLD,LASER CRUSTER,0,,-,0,,-,2083,T-BACK,タイ,3099,AYA.K,タイ,0,,-
-GOLD,KAMAITACHI,0,,-,1147,DOMHEE,タイ,1744,MOIKEY,タイ,2428,OWL,タイ,3747,AYA.K,タイ
-GOLD,INORI,0,,-,848,KRZY05,タイ,2178,YOD00,タイ,3062,AYA.K,タイ,0,,-
-GOLD,High School Love,402,DOMHEE,タイ,416,CJC,タイ,1282,HYPER,タイ,2173,AYA.K,タイ,0,,-
-GOLD,heaven above,0,,-,0,,-,0,,-,1690,82KASU,タイ,0,,-
-GOLD,GRID KNIGHT,0,,-,0,,-,0,,-,2579,GOLUSI,タイ,3418,GOLUSI,タイ
-GOLD,GOLD RUSH,531,DOMHEE,タイ,943,PMILF,タイ,1237,YAMU,タイ,2338,GOLUSI,タイ,0,,-
-GOLD,four-leaf,0,,-,82,RITSU,タイ,946,YHVH,タイ,1567,RU4A.U,タイ,0,,-
-GOLD,FIRE FIRE,554,DOMHEE,タイ,758,KBTIT,タイ,1639,82KASU,タイ,2674,AYA.K,タイ,0,,-
-GOLD,Fascination MAXX,0,,-,746,KAIJIN,タイ,1421,T-BACK,タイ,2404,AYA.K,タイ,0,,-
-GOLD,Cyber Force,0,,-,0,,-,0,,-,2175,T-BACK,タイ,0,,-
-GOLD,CROSSROAD ～Left Story～,0,,-,689,B-RAX,タイ,1616,DOMHEE,タイ,2175,GOLUSI,タイ,0,,-
-GOLD,CaptivAte～誓い～,0,,-,1086,YHVH,タイ,1804,82KASU,タイ,2206,AYA.K,タイ,0,,-
-GOLD,CaptivAte～裁き～,391,DOMHEE,タイ,701,PMILF,タイ,1133,EZ2AC?,タイ,1571,53ZRK,タイ,0,,-
-GOLD,Candy Galy,0,,-,1235,YHVH,タイ,2326,CUTE,タイ,3531,AYA.K,タイ,0,,-
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1241,DOMHEE,タイ,1839,MOIKEY,タイ,2459,GOLUSI,タイ,0,,-
-GOLD,ANDROMEDA II,0,,-,0,,-,1045,FREDX,タイ,2263,SUNA*,タイ,0,,-
-GOLD,Air Bell,0,,-,377,CLUBRK,タイ,1051,YHVH,タイ,1701,AYA.K,タイ,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,634,WWWW,タイ,1166,LIQ,タイ,2171,AYA.K,タイ,0,,-
 EMPRESS,翼,0,,-,471,WWWW,タイ,1233,LIQ,タイ,1915,GOLUSI,タイ,2474,GOLUSI,タイ
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,0,,-,1051,INHER!,タイ,2034,GOLUSI,タイ,0,,-
@@ -509,7 +509,7 @@ Resort Anthem,夕焼け ～Fading Day～,0,,-,445,ELI,タイ,1579,HYPER,タイ,2
 Resort Anthem,中華急行,0,,-,226,CAM,タイ,1355,KANON,タイ,2292,GOLUSI,タイ,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,483,DOMHEE,タイ,0,,-,934,ZXVS,タイ,1738,82KASU,タイ,0,,-
 Resort Anthem,おおきなこえで,0,,-,242,SKM,タイ,689,B-RAX,タイ,1412,T-BACK,タイ,2093,T-T,タイ
-Resort Anthem,ZETA～素数の世界と超越者～,306,DOMHEE,タイ,522,IMA???,タイ,1846,HYPER,タイ,2751,RU4A.U,タイ,0,,-
+Resort Anthem,ZETA～素数の世界と超越者～,306,DOMHEE,タイ,522,IMA???,タイ,1846,HYPER,タイ,3008,GOLUSI,タイ,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,0,,-,1183,VATES,タイ,2726,GOLUSI,タイ,0,,-
 Resort Anthem,Wuv U,0,,-,372,PMILF,タイ,964,PMILF,タイ,1654,GOLUSI,タイ,0,,-
 Resort Anthem,WISE UP!,324,DOMHEE,タイ,227,JENNIE,タイ,968,YHVH,タイ,1548,AYA.K,タイ,0,,-
@@ -535,7 +535,7 @@ Resort Anthem,passionate fate,0,,-,1092,Y0NE3*,タイ,1269,YHVH,タイ,2111,GOLU
 Resort Anthem,PARADISE LOST,0,,-,1193,DOMHEE,タイ,2018,T-T,タイ,3210,AYA.K,タイ,0,,-
 Resort Anthem,New Castle Legions,0,,-,0,,-,1787,T-BACK,タイ,2667,AYA.K,タイ,0,,-
 Resort Anthem,Never Fade Away,0,,-,356,CHECOS,タイ,1277,YHVH,タイ,2491,82KASU,タイ,0,,-
-Resort Anthem,Mermaid girl,550,DOMHEE,タイ,744,CG505,タイ,1488,YHVH,タイ,2192,GOLUSI,タイ,0,,-
+Resort Anthem,Mermaid girl,550,DOMHEE,タイ,744,CG505,タイ,1586,KKKK,タイ,2192,GOLUSI,タイ,0,,-
 Resort Anthem,Medicine of love,0,,-,0,,-,997,YHVH,タイ,1698,NOTXDN,タイ,0,,-
 Resort Anthem,Let The Track Flow,0,,-,706,*AYYY*,タイ,1700,T-BACK,タイ,2542,GOLUSI,タイ,0,,-
 Resort Anthem,Kailua,0,,-,0,,-,1254,OPTN,タイ,2112,GOLUSI,タイ,0,,-
@@ -736,7 +736,7 @@ SPADA,ra'am,0,,-,0,,-,1665,82KASU,タイ,2711,AYA.K,タイ,0,,-
 SPADA,PUNISHER,0,,-,0,,-,1978,MOW3,タイ,3461,AYA.K,タイ,0,,-
 SPADA,Pharaoh,0,,-,0,,-,992,ELY,タイ,2418,AYA.K,タイ,0,,-
 SPADA,Overload Frontier,0,,-,0,,-,1616,DOMHEE,タイ,2270,OWL,タイ,0,,-
-SPADA,Odin,0,,-,0,,-,1359,KKMTC*,タイ,2023,AYA.K,タイ,0,,-
+SPADA,Odin,0,,-,0,,-,1359,KKMTC*,タイ,2024,GOLUSI,タイ,0,,-
 SPADA,NPC World,0,,-,0,,-,0,,-,2161,KYABIA,タイ,0,,-
 SPADA,Miracle 5ympho X,0,,-,700,DOMHEE,タイ,1245,MOIKEY,タイ,2562,GOLUSI,タイ,0,,-
 SPADA,MAGIC & LOVE,0,,-,994,MOIKEY,タイ,1696,YOD00,タイ,2891,AYA.K,タイ,0,,-
@@ -1132,7 +1132,7 @@ Rootage,サクラあっぱれーしょん,255,DOMHEE,タイ,450,CHROME,タイ,61
 Rootage,グラナダの風,0,,-,0,,-,905,VOID!!,タイ,1756,KYABIA,タイ,0,,-
 Rootage,お菓子の王国,0,,-,1231,IMA???,タイ,2157,NART!!,タイ,4018,AYA.K,タイ,0,,-
 Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,957,MEGURU,タイ,1880,NOTXDN,タイ,2861,AYA.K,タイ,0,,-
-Rootage,ZENDEGI DANCE,0,,-,0,,-,1642,YOD00,タイ,2718,GOLUSI,タイ,0,,-
+Rootage,ZENDEGI DANCE,0,,-,0,,-,1642,YOD00,タイ,2720,GOLUSI,タイ,0,,-
 Rootage,Yum Yum Jelly,0,,-,697,3,タイ,1439,MOW3,タイ,2260,GOLUSI,タイ,0,,-
 Rootage,Xlo,0,,-,1215,FREDX,タイ,2245,T-BACK,タイ,3730,AYA.K,タイ,0,,-
 Rootage,XENON II ～TOMOYUKIの野望～,0,,-,0,,-,921,EARTH!,タイ,2914,AYA.K,タイ,0,,-
