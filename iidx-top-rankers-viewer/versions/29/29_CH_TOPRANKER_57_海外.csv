@@ -1,18 +1,4 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-1st&substream,THE EARTH LIGHT,0,,-,354,ACCELA,海外,982,GALANT,海外,1149,SUFOLK,海外,0,,-
-1st&substream,RUGGED ASH,0,,-,223,AKIRA,海外,0,,-,1071,NATORI,海外,1918,X-KYAK,海外
-1st&substream,R3,0,,-,455,6OKKA,海外,721,LAWSON,海外,900,LAWSON,海外,0,,-
-1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,546,BBQ,海外,678,KTGR,海外,1065,SIRASE,海外,0,,-
-1st&substream,Macho Gang,0,,-,373,PAL-S,海外,783,ITZY.,海外,1617,NATORI,海外,0,,-
-1st&substream,KEEP ON MOVIN',0,,-,181,UNCO3*,海外,244,IIDX29,海外,0,,-,0,,-
-1st&substream,GRADIUSIC CYBER,0,,-,0,,-,953,GALANT,海外,1150,WHA?NO,海外,0,,-
-1st&substream,gentle stress,0,,-,290,KAZUMI,海外,408,C-LAS,海外,1443,UI.KZK,海外,0,,-
-1st&substream,GENOM SCREAMS,0,,-,244,CH1AKI,海外,781,SHOW,海外,1048,SIN16U,海外,0,,-
-1st&substream,GAMBOL,0,,-,249,FLORA,海外,269,4GNE5B,海外,0,,-,0,,-
-1st&substream,Dr.LOVE,0,,-,166,ZERO-X,海外,356,NONAME,海外,572,NATORI,海外,0,,-
-1st&substream,deep in you,0,,-,323,KURANT,海外,447,Y,海外,586,JAYBEE,海外,0,,-
-1st&substream,5.1.1.,0,,-,182,UNCO3*,海外,985,LAWSON,海外,1559,X-KYAK,海外,0,,-
-1st&substream,22DUNK,0,,-,499,METHY,海外,584,KATANA,海外,647,NATORI,海外,0,,-
 2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,342,NVRAM,海外,449,NONAME,海外,593,APEC,海外,0,,-
 2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,535,14-FVR,海外,834,UI.KZK,海外,0,,-,0,,-
 2nd style,Indigo Vision(full flavour hide around mix),0,,-,465,YUI,海外,1054,METHY,海外,1212,NATORI,海外,0,,-
@@ -20,6 +6,20 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,736,METHY,海外,857,KTGR,海外,1058,NATORI,海外,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,657,KURANT,海外,1124,NATORI,海外,0,,-
 2nd style,.59,0,,-,646,ECNES,海外,704,NONAME,海外,1135,SIRASE,海外,0,,-
+1st&substream,THE EARTH LIGHT,0,,-,354,ACCELA,海外,982,GALANT,海外,1149,SUFOLK,海外,0,,-
+1st&substream,RUGGED ASH,0,,-,223,AKIRA,海外,0,,-,1071,NATORI,海外,1918,X-KYAK,海外
+1st&substream,R3,0,,-,455,6OKKA,海外,721,LAWSON,海外,900,LAWSON,海外,0,,-
+1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,546,BBQ,海外,678,KTGR,海外,1065,SIRASE,海外,0,,-
+1st&substream,Macho Gang,0,,-,373,PAL-S,海外,783,ITZY.,海外,1617,NATORI,海外,0,,-
+1st&substream,KEEP ON MOVIN',0,,-,181,MRSB,海外,244,IIDX29,海外,0,,-,0,,-
+1st&substream,GRADIUSIC CYBER,0,,-,0,,-,953,GALANT,海外,1150,WHA?NO,海外,0,,-
+1st&substream,gentle stress,0,,-,290,KAZUMI,海外,408,C-LAS,海外,1443,UI.KZK,海外,0,,-
+1st&substream,GENOM SCREAMS,0,,-,244,CH1AKI,海外,781,SHOW,海外,1048,SIN16U,海外,0,,-
+1st&substream,GAMBOL,0,,-,249,FLORA,海外,269,4GNE5B,海外,0,,-,0,,-
+1st&substream,Dr.LOVE,0,,-,166,ZERO-X,海外,356,NONAME,海外,572,NATORI,海外,0,,-
+1st&substream,deep in you,0,,-,323,KURANT,海外,447,Y,海外,586,JAYBEE,海外,0,,-
+1st&substream,5.1.1.,0,,-,182,MRSB,海外,985,LAWSON,海外,1559,X-KYAK,海外,0,,-
+1st&substream,22DUNK,0,,-,499,METHY,海外,584,KATANA,海外,647,NATORI,海外,0,,-
 3rd style,THE SAFARI,238,NERF,海外,890,ACDC,海外,1715,SIRASE,海外,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,263,METHY,海外,371,METHY,海外,0,,-,0,,-
 3rd style,Skyscraper,0,,-,468,CH1AKI,海外,0,,-,1241,NATORI,海外,0,,-
@@ -28,7 +28,7 @@
 3rd style,R5,0,,-,537,RYUJI,海外,1116,METHY,海外,1730,LAWSON,海外,0,,-
 3rd style,Presto,0,,-,491,KATANA,海外,932,METHY,海外,1001,NATORI,海外,0,,-
 3rd style,LEADING CYBER,0,,-,522,CH1AKI,海外,1071,KRAKEN,海外,1234,SIRASE,海外,0,,-
-3rd style,Holic,0,,-,0,,-,1203,ERA,海外,1690,SIRASE,海外,0,,-
+3rd style,Holic,0,,-,580,CH1AKI,海外,1203,ERA,海外,1690,SIRASE,海外,0,,-
 3rd style,era (nostalmix),0,,-,777,14-FVR,海外,1065,245RIK,海外,1515,NATORI,海外,0,,-
 3rd style,Don't Stop!,0,,-,0,,-,0,,-,864,XYN,海外,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,542,Y,海外,1137,METHY,海外,0,,-,0,,-
@@ -52,7 +52,7 @@
 4th style,Broken My Heart,0,,-,587,C-LAS,海外,1378,CAT.,海外,1803,NATORI,海外,0,,-
 4th style,B4U,0,,-,867,$EXY,海外,1266,MTMT,海外,1994,NATORI,海外,0,,-
 4th style,ABSOLUTE,0,,-,1004,NONAME,海外,1747,IIDX29,海外,2379,SIRASE,海外,2659,ERA,海外
-4th style,250bpm,0,,-,417,AIGEIM,海外,934,UNCO3*,海外,1293,ALDRA,海外,0,,-
+4th style,250bpm,0,,-,417,AIGEIM,海外,934,MRSB,海外,1293,ALDRA,海外,0,,-
 5th style,V,270,PONY,海外,1187,SATORI,海外,2440,IIDX29,海外,2887,IIDX29,海外,0,,-
 5th style,THE SHINING POLARIS,0,,-,934,X-KYAK,海外,1194,KRAKEN,海外,1521,KYA-RU,海外,0,,-
 5th style,THE CUBE,0,,-,350,NERF,海外,1248,X-KYAK,海外,1354,NATORI,海外,0,,-
@@ -94,7 +94,7 @@
 7th style,革命,0,,-,581,NONAME,海外,1793,GMOVER,海外,2234,OKK,海外,0,,-
 7th style,ZERO-ONE,0,,-,1047,METHY,海外,1573,METHY,海外,2210,SIRASE,海外,0,,-
 7th style,traces,0,,-,740,CH1AKI,海外,1844,IIDX29,海外,2128,NATORI,海外,0,,-
-7th style,Tomorrow Perfume,0,,-,805,FRAMPY,海外,1659,KATANA,海外,2044,IIDX29,海外,0,,-
+7th style,Tomorrow Perfume,0,,-,895,FRAMPY,海外,1659,KATANA,海外,2044,IIDX29,海外,0,,-
 7th style,stoic,0,,-,1592,ERA,海外,2381,OKK,海外,2523,NATORI,海外,0,,-
 7th style,Spica,0,,-,602,DKG,海外,1308,GALANT,海外,2166,UI.KZK,海外,0,,-
 7th style,Love Me Do,0,,-,769,CH1AKI,海外,1696,IIDX29,海外,2091,IIDX29,海外,0,,-
@@ -137,7 +137,7 @@
 8th style,Attitude,0,,-,652,CH1AKI,海外,1361,4GNE5B,海外,1746,NATORI,海外,0,,-
 8th style,ALL RIGHT,0,,-,599,DANNY,海外,1182,MIO29?,海外,1483,ASHN*,海外,0,,-
 8th style,airflow,0,,-,302,NVRAM,海外,504,NECOZE,海外,1411,IIDX29,海外,0,,-
-8th style,abstract,0,,-,874,JORGE!,海外,1557,UNCO3*,海外,1894,NATORI,海外,0,,-
+8th style,abstract,0,,-,874,JORGE!,海外,1557,MRSB,海外,1894,NATORI,海外,0,,-
 9th style,真夏の花・真夏の夢,0,,-,576,CH1AKI,海外,1111,IIDX29,海外,1469,NATORI,海外,0,,-
 9th style,ライオン好き,0,,-,386,TANI,海外,850,NECOZE,海外,1492,OKK,海外,0,,-
 9th style,SWEETEST SAVAGE,0,,-,459,CH1AKI,海外,1315,METHY,海外,1798,NATORI,海外,0,,-
@@ -164,43 +164,12 @@
 9th style,e-motion 2003  -romantic extra-,0,,-,706,KAI,海外,1585,IIDX29,海外,1974,SIRASE,海外,0,,-
 9th style,Distress,0,,-,810,JORGE!,海外,1714,IIDX29,海外,0,,-,0,,-
 9th style,Cradle,0,,-,497,YYYYYY,海外,0,,-,1555,SIRASE,海外,0,,-
-9th style,BRIGHTNESS DARKNESS,0,,-,537,G,海外,1369,UNCO3*,海外,1711,LAWSON,海外,0,,-
+9th style,BRIGHTNESS DARKNESS,0,,-,537,G,海外,1369,MRSB,海外,1711,LAWSON,海外,0,,-
 9th style,bag,0,,-,587,KURANT,海外,629,NONAME,海外,1782,SANS!,海外,0,,-
 9th style,BAD BOY BASS!! (dj Remo-con MIX),0,,-,0,,-,1197,DKG,海外,1792,NATORI,海外,0,,-
 9th style,ATOMIC AGE,0,,-,228,NVRAM,海外,458,NONAME,海外,1287,NATORI,海外,0,,-
 9th style,ACT,0,,-,741,NONAME,海外,1486,GOZMEZ,海外,1741,OKK,海外,0,,-
 9th style,Abyss -The Heavens Remix-,454,ALICE?,海外,1412,APEC,海外,1761,CHAMBO,海外,2343,SIRASE,海外,0,,-
-10th style,雪月花,0,,-,1151,OKK,海外,1877,SHMERT,海外,2456,NATORI,海外,0,,-
-10th style,システムロマンス,0,,-,842,KATANA,海外,1562,CRAM,海外,2016,IIDX29,海外,0,,-
-10th style,SPACE FIGHT,0,,-,506,CH1AKI,海外,1361,METHY,海外,2235,NATORI,海外,0,,-
-10th style,SHOOTING STAR,0,,-,944,LOVE,海外,1571,7MA-53,海外,2234,SIRASE,海外,0,,-
-10th style,Rise'n Beauty,0,,-,815,FRAMPY,海外,1596,IIDX29,海外,2141,SUFOLK,海外,0,,-
-10th style,rainbow rainbow,0,,-,1202,NI9DSN,海外,2110,4GNE5B,海外,2654,LAWSON,海外,0,,-
-10th style,pandora,0,,-,514,C-LAS,海外,1639,IIDX29,海外,1795,X-KYAK,海外,0,,-
-10th style,One More Lovely,0,,-,642,FRAMPY,海外,1560,4GNE5B,海外,2702,X-KYAK,海外,0,,-
-10th style,No.13,0,,-,1429,CRAM,海外,2471,OKK,海外,3096,SIRASE,海外,0,,-
-10th style,Narcissus At Oasis,0,,-,672,PITONE,海外,1549,LAWSON,海外,1641,LAWSON,海外,0,,-
-10th style,Lucy,0,,-,802,NAVIER,海外,1612,GALANT,海外,2306,NATORI,海外,0,,-
-10th style,Love Is Eternity,0,,-,871,NONAME,海外,1927,IIDX29,海外,2367,SIRASE,海外,0,,-
-10th style,Innocent Walls,0,,-,1596,IIDX29,海外,2409,P1EN.,海外,2798,NATORI,海外,0,,-
-10th style,HIGH,0,,-,890,CAT.,海外,1911,NATORI,海外,2067,ALDRA,海外,0,,-
-10th style,GRADIUS -FULL SPEED-,0,,-,415,CH1AKI,海外,1153,SIRASE,海外,2055,NATORI,海外,0,,-
-10th style,GHOST REVIVAL,0,,-,0,,-,1509,RTD,海外,2481,SUFOLK,海外,0,,-
-10th style,Freezing atmosphere,0,,-,0,,-,1062,401K1,海外,1441,X-KYAK,海外,0,,-
-10th style,FEEL IT,0,,-,0,,-,999,NONAME,海外,1889,X-KYAK,海外,0,,-
-10th style,Feedback,0,,-,565,CH1AKI,海外,1483,GALANT,海外,1937,NATORI,海外,0,,-
-10th style,EXE,0,,-,522,ACCELA,海外,1442,CAT.,海外,2194,SYM,海外,0,,-
-10th style,DoLL,340,KRAKEN,海外,685,CH1AKI,海外,1228,OKK,海外,1613,SIRASE,海外,0,,-
-10th style,desolation,0,,-,218,NVRAM,海外,412,WHITE.,海外,743,GALANT,海外,0,,-
-10th style,Debtty Daddy,0,,-,647,KURANT,海外,1914,OKK,海外,2649,CSGO,海外,0,,-
-10th style,Daisuke,467,KRAKEN,海外,1052,MKRY**,海外,1673,IIDX29,海外,2375,NATORI,海外,0,,-
-10th style,CARRY ON NIGHT (English version),0,,-,553,CH1AKI,海外,1283,METHY,海外,2038,NATORI,海外,0,,-
-10th style,Boundary,0,,-,464,KURANT,海外,1617,HILL&N,海外,2004,OKK,海外,0,,-
-10th style,Back Into The Light,0,,-,897,NAVIER,海外,1633,X-KYAK,海外,2138,SIRASE,海外,0,,-
-10th style,BABY LOVE,0,,-,992,NI9DSN,海外,1645,METHY,海外,2100,SIRASE,海外,0,,-
-10th style,ASTRAL VOYAGE,0,,-,548,CH1AKI,海外,1403,X-KYAK,海外,1711,GOZMEZ,海外,0,,-
-10th style,ALIEN TEMPLE,0,,-,679,G,海外,1559,METHY,海外,2017,NATORI,海外,0,,-
-10th style,1st Samurai,0,,-,543,GTXIAS,海外,1936,X-KYAK,海外,2524,WHA?NO,海外,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,546,CH1AKI,海外,1440,4GNE5B,海外,1952,LAWSON,海外,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,605,AIGEIM,海外,1096,YAMAVK,海外,1712,SIRASE,海外,0,,-
 IIDX RED,大桟橋,0,,-,185,RUSHIE,海外,810,LARP!,海外,1821,IIDX29,海外,0,,-
@@ -224,7 +193,7 @@ IIDX RED,FAKE TIME,0,,-,531,CH1AKI,海外,1692,245RIK,海外,2309,NATORI,海外,
 IIDX RED,earth scape,0,,-,386,3710,海外,661,KUROKI,海外,1253,SIRASE,海外,0,,-
 IIDX RED,Don't be afraid myself,0,,-,596,CH1AKI,海外,1792,4GNE5B,海外,2249,SIRASE,海外,0,,-
 IIDX RED,D.A.N.C.E.!,0,,-,419,CH1AKI,海外,796,KATANA,海外,1548,IIDX29,海外,0,,-
-IIDX RED,Close my Eyes for Me,0,,-,0,,-,1304,KATANA,海外,1776,X-KYAK,海外,0,,-
+IIDX RED,Close my Eyes for Me,0,,-,663,CH1AKI,海外,1378,METHY,海外,1776,X-KYAK,海外,0,,-
 IIDX RED,Click Again,0,,-,721,KKS*,海外,1359,METHY,海外,2090,NATORI,海外,0,,-
 IIDX RED,BREATH,0,,-,544,RAIN,海外,1148,CRAM,海外,1714,CSGO,海外,0,,-
 IIDX RED,BLOCKS,0,,-,725,DKG,海外,1274,METHY,海外,1910,SIRASE,海外,0,,-
@@ -233,8 +202,39 @@ IIDX RED,awakening,0,,-,680,CH1AKI,海外,1353,GALANT,海外,1660,SIRASE,海外,
 IIDX RED,ANDROMEDA,0,,-,705,G,海外,1901,SHMERT,海外,2841,SIRASE,海外,0,,-
 IIDX RED,AGEHA,567,KRAKEN,海外,769,ZEKKU#,海外,1214,BALR.,海外,1833,P1EN.,海外,2425,NATORI,海外
 IIDX RED,AA,0,,-,1228,WOODY,海外,2684,SHMERT,海外,3564,SUFOLK,海外,0,,-
+10th style,雪月花,0,,-,1151,OKK,海外,1877,SHMERT,海外,2456,NATORI,海外,0,,-
+10th style,システムロマンス,0,,-,842,KATANA,海外,1562,CRAM,海外,2016,IIDX29,海外,0,,-
+10th style,SPACE FIGHT,0,,-,506,CH1AKI,海外,1361,METHY,海外,2235,NATORI,海外,0,,-
+10th style,SHOOTING STAR,0,,-,944,LOVE,海外,1571,7MA-53,海外,2234,SIRASE,海外,0,,-
+10th style,Rise'n Beauty,0,,-,815,FRAMPY,海外,1596,IIDX29,海外,2141,SUFOLK,海外,0,,-
+10th style,rainbow rainbow,0,,-,1202,NI9DSN,海外,2110,4GNE5B,海外,2654,LAWSON,海外,0,,-
+10th style,pandora,0,,-,514,C-LAS,海外,1639,IIDX29,海外,1795,X-KYAK,海外,0,,-
+10th style,One More Lovely,0,,-,642,FRAMPY,海外,1560,4GNE5B,海外,2702,X-KYAK,海外,0,,-
+10th style,No.13,0,,-,1429,CRAM,海外,2471,OKK,海外,3096,SIRASE,海外,0,,-
+10th style,Narcissus At Oasis,0,,-,672,PITONE,海外,1549,LAWSON,海外,1641,LAWSON,海外,0,,-
+10th style,Lucy,0,,-,802,NAVIER,海外,1612,GALANT,海外,2306,NATORI,海外,0,,-
+10th style,Love Is Eternity,0,,-,871,NONAME,海外,1927,IIDX29,海外,2367,SIRASE,海外,0,,-
+10th style,Innocent Walls,0,,-,1596,IIDX29,海外,2409,P1EN.,海外,2798,NATORI,海外,0,,-
+10th style,HIGH,0,,-,890,CAT.,海外,1911,NATORI,海外,2067,ALDRA,海外,0,,-
+10th style,GRADIUS -FULL SPEED-,0,,-,415,CH1AKI,海外,1153,SIRASE,海外,2055,NATORI,海外,0,,-
+10th style,GHOST REVIVAL,0,,-,0,,-,1509,RTD,海外,2481,SUFOLK,海外,0,,-
+10th style,Freezing atmosphere,0,,-,0,,-,1062,401K1,海外,1441,X-KYAK,海外,0,,-
+10th style,FEEL IT,0,,-,522,NVRAM,海外,999,NONAME,海外,1889,X-KYAK,海外,0,,-
+10th style,Feedback,0,,-,565,CH1AKI,海外,1483,GALANT,海外,1937,NATORI,海外,0,,-
+10th style,EXE,0,,-,522,ACCELA,海外,1442,CAT.,海外,2194,SYM,海外,0,,-
+10th style,DoLL,340,KRAKEN,海外,685,CH1AKI,海外,1228,OKK,海外,1613,SIRASE,海外,0,,-
+10th style,desolation,0,,-,218,NVRAM,海外,412,WHITE.,海外,743,GALANT,海外,0,,-
+10th style,Debtty Daddy,0,,-,647,KURANT,海外,1914,OKK,海外,2649,CSGO,海外,0,,-
+10th style,Daisuke,467,KRAKEN,海外,1052,MKRY**,海外,1673,IIDX29,海外,2375,NATORI,海外,0,,-
+10th style,CARRY ON NIGHT (English version),0,,-,553,CH1AKI,海外,1283,METHY,海外,2038,NATORI,海外,0,,-
+10th style,Boundary,0,,-,464,KURANT,海外,1617,HILL&N,海外,2004,OKK,海外,0,,-
+10th style,Back Into The Light,0,,-,897,NAVIER,海外,1633,X-KYAK,海外,2138,SIRASE,海外,0,,-
+10th style,BABY LOVE,0,,-,992,NI9DSN,海外,1645,METHY,海外,2100,SIRASE,海外,0,,-
+10th style,ASTRAL VOYAGE,0,,-,548,CH1AKI,海外,1403,X-KYAK,海外,1711,GOZMEZ,海外,0,,-
+10th style,ALIEN TEMPLE,0,,-,679,G,海外,1559,METHY,海外,2017,NATORI,海外,0,,-
+10th style,1st Samurai,0,,-,543,GTXIAS,海外,1936,X-KYAK,海外,2524,WHA?NO,海外,0,,-
 HAPPY SKY,月光,0,,-,620,G,海外,1732,SIRASE,海外,2417,IIDX29,海外,0,,-
-HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,808,CH1AKI,海外,1373,BLSKY#,海外,1907,NATORI,海外,0,,-
+HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,808,CH1AKI,海外,1507,METHY,海外,1907,NATORI,海外,0,,-
 HAPPY SKY,冥,551,METHY,海外,1078,X-KYAK,海外,2081,P1EN.,海外,3572,SIN16U,海外,0,,-
 HAPPY SKY,ラクエン,0,,-,0,,-,893,METHY,海外,1915,SIRASE,海外,0,,-
 HAPPY SKY,ヒマワリ,0,,-,410,NEMATO,海外,1794,4GNE5B,海外,2072,NATORI,海外,0,,-
@@ -291,7 +291,7 @@ DistorteD,waxing and wanding,0,,-,1215,OKK,海外,1932,GMOVER,海外,2851,CSGO,�
 DistorteD,TYPE MARS(G-Style Mix),0,,-,0,,-,1659,CAT.,海外,2217,OKK,海外,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,0,,-,1844,CHAMBO,海外,2427,NATORI,海外,0,,-
 DistorteD,This is Love,0,,-,480,NVRAM,海外,1780,IIDX29,海外,2360,.,海外,0,,-
-DistorteD,The Dirty of Loudness,0,,-,883,MUGI,海外,2015,GMOVER,海外,2569,CSGO,海外,0,,-
+DistorteD,The Dirty of Loudness,0,,-,1120,ITZY.,海外,2062,GMOVER,海外,2569,CSGO,海外,0,,-
 DistorteD,Sun Field,0,,-,0,,-,1310,CRAM,海外,2343,X-KYAK,海外,0,,-
 DistorteD,So Fabulous !!,0,,-,831,ALICE?,海外,1455,7MA-53,海外,2292,IIDX29,海外,0,,-
 DistorteD,Power of Love,0,,-,0,,-,1385,CRAM,海外,2063,ERA,海外,0,,-
@@ -315,7 +315,7 @@ DistorteD,BALLAD THE FEATHERS,0,,-,427,KURANT,海外,677,NONAME,海外,1493,CPTS
 DistorteD,Apocalypse ～dirge of swans～,215,N.1KA,海外,921,BBQ,海外,1685,4GNE5B,海外,2322,LAWSON,海外,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,410,DEBU*,海外,808,KTGW,海外,1620,4GNE5B,海外,2061,NATORI,海外,0,,-
 GOLD,電人、暁に斃れる。,645,KRAKEN,海外,1256,SOMARI,海外,2310,OKK,海外,3276,NATORI,海外,0,,-
-GOLD,零 - ZERO -,197,KRAKEN,海外,971,4HYOU,海外,1704,UNCO3*,海外,2284,X-KYAK,海外,0,,-
+GOLD,零 - ZERO -,197,KRAKEN,海外,971,4HYOU,海外,1704,MRSB,海外,2284,X-KYAK,海外,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,693,KATANA,海外,1112,IIDX29,海外,1406,X-KYAK,海外,0,,-
 GOLD,星をこの手に,0,,-,964,G,海外,1733,METHY,海外,2121,SIN16U,海外,0,,-
 GOLD,リグレット,0,,-,862,PPP,海外,1694,4GNE5B,海外,2394,X-KYAK,海外,0,,-
@@ -326,7 +326,7 @@ GOLD,Watch out!!,0,,-,467,Z00ZZZ,海外,972,IIDX29,海外,1574,NATORI,海外,0,,
 GOLD,VANESSA,0,,-,606,9V0LT,海外,1704,245RIK,海外,2316,SUFOLK,海外,3206,CSGO,海外
 GOLD,TRANOID,0,,-,717,DKG,海外,1647,METHY,海外,2135,X-KYAK,海外,2805,UI.KZK,海外
 GOLD,The Smile of You,0,,-,833,KARUMI,海外,1306,IIDX29,海外,1620,SHMERT,海外,0,,-
-GOLD,the shadow,0,,-,0,,-,1931,DDDDX,海外,2810,IIDX29,海外,0,,-
+GOLD,the shadow,0,,-,0,,-,1974,GMOVER,海外,2810,IIDX29,海外,0,,-
 GOLD,snow storm,226,14-FVR,海外,620,CH1AKI,海外,2267,OKK,海外,2716,IIDX29,海外,3323,NATORI,海外
 GOLD,smile,0,,-,1118,JORGE!,海外,2108,IIDX29,海外,2828,LAWSON,海外,0,,-
 GOLD,Sense 2007,0,,-,1523,OKK,海外,2249,NATORI,海外,2948,NATORI,海外,0,,-
@@ -336,12 +336,12 @@ GOLD,PHOTONGENIC,0,,-,794,MILLE,海外,1908,GMOVER,海外,2300,NATORI,海外,0,,
 GOLD,op.31 叙情,0,,-,215,KATANA,海外,1173,OKK,海外,1514,IIDX29,海外,0,,-
 GOLD,never…,0,,-,537,ALICE?,海外,1167,DKG,海外,1780,SHMERT,海外,0,,-
 GOLD,METALLIC MIND,0,,-,576,KRAKEN,海外,1247,KRAKEN,海外,1577,LAWSON,海外,0,,-
-GOLD,Make Me Your Own,0,,-,613,6OKKA,海外,1312,CRAM,海外,2108,NATORI,海外,0,,-
+GOLD,Make Me Your Own,0,,-,613,6OKKA,海外,1389,AMPUL,海外,2108,NATORI,海外,0,,-
 GOLD,Love Again...,0,,-,0,,-,764,IIDX29,海外,1049,NANASE,海外,0,,-
 GOLD,LASER CRUSTER,0,,-,1395,GALANT,海外,2399,SIRASE,海外,3078,SIRASE,海外,0,,-
 GOLD,KAMAITACHI,0,,-,600,ORUG,海外,1784,$EXY,海外,2659,CSGO,海外,3578,CSGO,海外
 GOLD,INORI,0,,-,1243,OKK,海外,2520,OKK,海外,3141,LAWSON,海外,0,,-
-GOLD,High School Love,386,KRAKEN,海外,568,ACCELA,海外,1468,UNCO3*,海外,2185,NATORI,海外,0,,-
+GOLD,High School Love,386,KRAKEN,海外,568,ACCELA,海外,1468,MRSB,海外,2185,NATORI,海外,0,,-
 GOLD,heaven above,0,,-,572,MOCKBA,海外,1237,CRAM,海外,1841,SUFOLK,海外,0,,-
 GOLD,GRID KNIGHT,0,,-,784,GALANT,海外,1888,IIDX29,海外,2578,IIDX29,海外,3440,NATORI,海外
 GOLD,GOLD RUSH,522,KRAKEN,海外,1154,METHY,海外,1292,CAT.,海外,2306,SIRASE,海外,0,,-
@@ -365,9 +365,9 @@ DJ TROOPERS,エコ爺,335,KRAKEN,海外,671,CH1AKI,海外,862,SEIKIN,海外,1831
 DJ TROOPERS,Wanna Party?,0,,-,596,A!R1S?,海外,1083,CAT.,海外,1511,SHMERT,海外,2567,SYM,海外
 DJ TROOPERS,Ubertreffen,0,,-,1063,WOODY,海外,1968,P1EN.,海外,2464,SIRASE,海外,3140,NATORI,海外
 DJ TROOPERS,TROOPERS,0,,-,1118,KTGR,海外,2323,OKK,海外,2895,245RIK,海外,0,,-
-DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,530,NONAME,海外,1441,METHY,海外,1610,UNCO3*,海外,0,,-
-DJ TROOPERS,Time to Air,0,,-,892,TINPO!,海外,2052,4GNE5B,海外,2815,SIRASE,海外,0,,-
-DJ TROOPERS,the trigger of innocence,0,,-,0,,-,1178,IIDX29,海外,1837,245RIK,海外,3054,X-KYAK,海外
+DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,530,NONAME,海外,1441,METHY,海外,1610,MRSB,海外,0,,-
+DJ TROOPERS,Time to Air,0,,-,1062,ITZY.,海外,2052,4GNE5B,海外,2815,SIRASE,海外,0,,-
+DJ TROOPERS,the trigger of innocence,0,,-,0,,-,1178,IIDX29,海外,1837,245RIK,海外,3079,X-KYAK,海外
 DJ TROOPERS,THE DEEP STRIKER,506,KRAKEN,海外,0,,-,2143,OKK,海外,2888,OKK,海外,3355,X-KYAK,海外
 DJ TROOPERS,switch,0,,-,0,,-,1318,AVMOTW,海外,2059,NATORI,海外,0,,-
 DJ TROOPERS,STEEL NEEDLE,0,,-,748,!?,海外,1946,HOM,海外,2433,NATORI,海外,3116,CSGO,海外
@@ -481,7 +481,7 @@ SIRIUS,IN THE NAME OF LOVE,509,I.O,海外,0,,-,1378,METHY,海外,1883,ERA,海外
 SIRIUS,Hydrogen Blueback,0,,-,666,KAI,海外,1559,WOODY,海外,2286,SIRASE,海外,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,998,I.O,海外,2020,OKK,海外,3393,NATORI,海外,0,,-
 SIRIUS,GALGALIM,0,,-,297,IIDX29,海外,1931,CHAMBO,海外,2303,X-KYAK,海外,0,,-
-SIRIUS,G59,0,,-,1643,STELLA,海外,2249,4GNE5B,海外,3689,CSGO,海外,0,,-
+SIRIUS,G59,0,,-,1643,STELLA,海外,2249,4GNE5B,海外,3696,X-KYAK,海外,0,,-
 SIRIUS,EXUSIA,0,,-,943,G,海外,2597,CHAMBO,海外,3666,UI.KZK,海外,0,,-
 SIRIUS,Evans,575,KRAKEN,海外,1224,WOODY,海外,2138,LAWSON,海外,2670,WHA?NO,海外,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,0,,-,2398,OKK,海外,3172,X-KYAK,海外,0,,-
@@ -492,7 +492,7 @@ SIRIUS,DOMINION,0,,-,1173,CAT.,海外,2199,GMOVER,海外,3081,LAWSON,海外,0,,-
 SIRIUS,DESIRE,0,,-,626,NVRAM,海外,1759,301CBN,海外,2757,UI.KZK,海外,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,570,DANNY,海外,1128,MIRAI,海外,2057,P1EN.,海外,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1121,08,海外,2511,GABRIL,海外,3102,NATORI,海外,0,,-
-SIRIUS,D,0,,-,926,KTGR,海外,1749,UNCO3*,海外,2462,CSGO,海外,0,,-
+SIRIUS,D,0,,-,926,KTGR,海外,1749,MRSB,海外,2462,CSGO,海外,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,749,KAI,海外,1456,CRAM,海外,2253,NANASE,海外,0,,-
 SIRIUS,bloomin' feeling,366,DEBU*,海外,992,MIRAI,海外,1947,4GNE5B,海外,2532,LAWSON,海外,0,,-
 SIRIUS,being torn the sky,0,,-,0,,-,1104,DKG,海外,1918,401K1,海外,0,,-
@@ -504,13 +504,13 @@ SIRIUS,Almagest,0,,-,952,KATANA,海外,2174,NATORI,海外,2976,NATORI,海外,0,,
 SIRIUS,AIR RAID FROM THA UNDAGROUND,537,METHY,海外,970,UKN.,海外,1792,4GNE5B,海外,2288,UI.KZK,海外,2879,UI.KZK,海外
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,814,IIDX29,海外,2061,IIDX29,海外,3323,X-KYAK,海外,0,,-
 Resort Anthem,灼熱Beach Side Bunny,551,METHY,海外,1099,OKK,海外,1986,245RIK,海外,3135,245RIK,海外,0,,-
-Resort Anthem,旅人リラン,0,,-,893,NONAME,海外,1846,UNCO3*,海外,2613,NATORI,海外,0,,-
+Resort Anthem,旅人リラン,0,,-,893,NONAME,海外,1846,MRSB,海外,2613,NATORI,海外,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,621,CH1AKI,海外,1909,NANASE,海外,2775,NATORI,海外,0,,-
 Resort Anthem,中華急行,0,,-,321,SHOW,海外,1518,4GNE5B,海外,2278,LAWSON,海外,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,519,METHY,海外,642,GTXIAS,海外,1269,KATANA,海外,1898,NATORI,海外,0,,-
 Resort Anthem,おおきなこえで,0,,-,341,ACCELA,海外,873,B00BS,海外,1460,OKK,海外,2126,NATORI,海外
 Resort Anthem,ZETA～素数の世界と超越者～,308,KRAKEN,海外,426,ACCELA,海外,1983,DDGA-O,海外,3013,CSGO,海外,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,0,,-,1747,IIDX29,海外,2715,LAWSON,海外,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,664,NVRAM,海外,1747,IIDX29,海外,2715,LAWSON,海外,0,,-
 Resort Anthem,Wuv U,0,,-,359,GTXIAS,海外,1109,MIO29?,海外,1677,LAWSON,海外,0,,-
 Resort Anthem,WISE UP!,325,KRAKEN,海外,354,KURANT,海外,1051,CRAM,海外,1556,OKK,海外,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1067,CAT.,海外,1887,OKK,海外,2794,NATORI,海外,0,,-
@@ -556,7 +556,7 @@ Resort Anthem,Bounce Bounce Bounce,0,,-,941,I.O,海外,1657,OKK,海外,2347,245R
 Resort Anthem,BLUST OF WIND,0,,-,645,CH1AKI,海外,1290,G,海外,2107,NATORI,海外,0,,-
 Resort Anthem,Believe In Me,0,,-,0,,-,1796,4GNE5B,海外,2359,NATORI,海外,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,932,GALANT,海外,1906,IIDX29,海外,2890,SIRASE,海外,0,,-
-Resort Anthem,Answer,0,,-,640,CH1AKI,海外,1481,IIDX29,海外,2400,SIRASE,海外,0,,-
+Resort Anthem,Answer,0,,-,656,CH1AKI,海外,1481,IIDX29,海外,2400,SIRASE,海外,0,,-
 Resort Anthem,ALBIDA,510,METHY,海外,898,SEIKIN,海外,1811,NANASE,海外,2884,UI.KZK,海外,0,,-
 Resort Anthem,Aegis,0,,-,639,G,海外,1225,*ITO.*,海外,2270,CSGO,海外,0,,-
 Lincle,陽炎,0,,-,609,#SUBLO,海外,1016,OKK,海外,1974,SIRASE,海外,0,,-
@@ -565,7 +565,7 @@ Lincle,蛇神,395,KRAKEN,海外,606,CH1AKI,海外,1455,ALDRA,海外,2733,CSGO,�
 Lincle,聖人の塔,0,,-,602,G,海外,1761,GMOVER,海外,2903,NATORI,海外,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,484,DEEEEE,海外,1008,RTD,海外,2055,LAWSON,海外,0,,-
 Lincle,恋する☆宇宙戦争っ！！,509,METHY,海外,853,O*KA*N,海外,1737,IIDX29,海外,3386,SIRASE,海外,0,,-
-Lincle,子供の落書き帳,0,,-,409,CH1AKI,海外,1791,NANASE,海外,2538,NATORI,海外,0,,-
+Lincle,子供の落書き帳,0,,-,518,FRAMPY,海外,1791,NANASE,海外,2538,NATORI,海外,0,,-
 Lincle,天空の夜明け,0,,-,1351,IIDX29,海外,2075,OKK,海外,3822,SYM,海外,0,,-
 Lincle,君のハートにロックオン,0,,-,617,IIDX29,海外,1506,CRAM,海外,2638,SIRASE,海外,3307,UI.KZK,海外
 Lincle,ユミル,0,,-,632,GALANT,海外,1314,GALANT,海外,2791,CSGO,海外,0,,-
@@ -574,7 +574,7 @@ Lincle,Yellow Sunrise,0,,-,619,CH1AKI,海外,1353,KATANA,海外,2222,SYM,海外,
 Lincle,yellow head joe,0,,-,792,IIDX29,海外,1498,IIDX29,海外,2227,UI.KZK,海外,0,,-
 Lincle,YAKSHA,0,,-,810,LUMI,海外,2278,4GNE5B,海外,3717,NATORI,海外,0,,-
 Lincle,WONDER WALKER,0,,-,887,ALOHAN,海外,1852,CHAMBO,海外,3678,CSGO,海外,0,,-
-Lincle,Voxane,0,,-,479,CH1AKI,海外,1006,BAMBOO,海外,1739,NATORI,海外,0,,-
+Lincle,Voxane,0,,-,517,CH1AKI,海外,1006,BAMBOO,海外,1739,NATORI,海外,0,,-
 Lincle,Todestrieb,0,,-,929,IIDX29,海外,1876,FUWEI,海外,3392,CSGO,海外,0,,-
 Lincle,TITANS RETURN,319,METHY,海外,398,PONY,海外,1270,G,海外,2437,LAWSON,海外,2483,NATORI,海外
 Lincle,Thunderbolt,0,,-,725,FRAMPY,海外,1809,GALANT,海外,3653,SIRASE,海外,0,,-
@@ -590,7 +590,7 @@ Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,377,9V0LT,海外,809,MO,海外,1575,KYA-RU,�
 Lincle,Round and Round,0,,-,654,CH1AKI,海外,1206,OKK,海外,2106,CSGO,海外,0,,-
 Lincle,RESISTANCE,0,,-,612,I.O,海外,1256,CRAM,海外,2299,KYA-RU,海外,0,,-
 Lincle,Release The Music,0,,-,0,,-,1417,IIDX29,海外,2062,ERA,海外,0,,-
-Lincle,Quick Silver,0,,-,786,GALANT,海外,1737,METHY,海外,2609,X-KYAK,海外,0,,-
+Lincle,Quick Silver,0,,-,786,GALANT,海外,1746,4GNE5B,海外,2609,X-KYAK,海外,0,,-
 Lincle,quaver♪,287,METHY,海外,616,CH1AKI,海外,2061,4GNE5B,海外,3335,CSGO,海外,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1296,KATANA,海外,2117,4GNE5B,海外,2830,SIRASE,海外,3504,NATORI,海外
 Lincle,prompt,0,,-,718,CH1AKI,海外,1573,IIDX29,海外,2738,CSGO,海外,0,,-
@@ -646,10 +646,10 @@ tricoro,ΕΛΠΙΣ,0,,-,1034,CRAM,海外,1961,PROTEI,海外,3061,UI.KZK,海外,3
 tricoro,Zirkfied,0,,-,711,NEMATO,海外,1849,JAK-SU,海外,3601,UI.KZK,海外,0,,-
 tricoro,ZED,0,,-,691,G,海外,1590,KATANA,海外,2731,CSGO,海外,0,,-
 tricoro,VEGA,0,,-,947,GTXIAS,海外,2001,4GNE5B,海外,3084,CSGO,海外,0,,-
-tricoro,VALLIS-NERIA,249,KRAKEN,海外,1154,KATANA,海外,2003,4GNE5B,海外,2811,WHA?NO,海外,0,,-
+tricoro,VALLIS-NERIA,249,KRAKEN,海外,1168,GALANT,海外,2003,4GNE5B,海外,2811,WHA?NO,海外,0,,-
 tricoro,Valanga,0,,-,1214,CRAM,海外,2068,CHAMBO,海外,3177,CSGO,海外,0,,-
 tricoro,True Blue,0,,-,1006,I.O,海外,2431,OKK,海外,3671,CSGO,海外,0,,-
-tricoro,Timepiece phase II (CN Ver.),0,,-,0,,-,1548,*ITO.*,海外,2763,NATORI,海外,0,,-
+tricoro,Timepiece phase II (CN Ver.),0,,-,0,,-,1692,USHI,海外,2763,NATORI,海外,0,,-
 tricoro,Timepiece phase II,0,,-,864,CRYUZU,海外,2029,INU.,海外,3073,CSGO,海外,0,,-
 tricoro,Time To Empress,0,,-,102,ALICE?,海外,1886,IIDX29,海外,2579,INU.,海外,0,,-
 tricoro,Thor's Hammer,0,,-,967,IIDX29,海外,1787,OKK,海外,2747,WHA?NO,海外,0,,-
@@ -687,13 +687,13 @@ tricoro,I know You know,0,,-,447,AKIRA,海外,976,AALI-Z,海外,1810,OKK,海外,
 tricoro,Howling,0,,-,404,G,海外,1225,CRAM,海外,2035,UI.KZK,海外,2526,ERA,海外
 tricoro,Hollywood Galaxy,0,,-,663,CH1AKI,海外,1923,4GNE5B,海外,2643,UI.KZK,海外,0,,-
 tricoro,GRADIUS 2012,0,,-,704,SYUKO,海外,1596,KATANA,海外,2678,CSGO,海外,0,,-
-tricoro,GAIA,0,,-,946,I.O,海外,2063,ALDRA,海外,3194,NATORI,海外,0,,-
+tricoro,GAIA,0,,-,946,I.O,海外,2063,ALDRA,海外,3198,CSGO,海外,0,,-
 tricoro,Fly you to the star,0,,-,716,LUCI?!,海外,1611,OKK,海外,2233,CSGO,海外,0,,-
 tricoro,FLOWER,337,KRAKEN,海外,1040,ORANGE,海外,1730,KKKKKK,海外,2833,CSGO,海外,0,,-
 tricoro,examination leave,0,,-,957,SUGA,海外,1748,GOZMEZ,海外,3354,CSGO,海外,0,,-
 tricoro,Elemental Creation,255,14-FVR,海外,1428,KYA-RU,海外,2324,OKK,海外,3930,NATORI,海外,0,,-
 tricoro,Devilz Staircase,0,,-,430,KURANT,海外,2035,4GNE5B,海外,3116,NATORI,海外,0,,-
-tricoro,DAY DREAM,0,,-,525,UNCO3*,海外,1298,SIN16U,海外,1920,CSGO,海外,0,,-
+tricoro,DAY DREAM,0,,-,525,MRSB,海外,1298,SIN16U,海外,1920,CSGO,海外,0,,-
 tricoro,Cookie Bouquets,0,,-,625,G,海外,1924,GOZMEZ,海外,3355,CPTSU,海外,0,,-
 tricoro,connective,0,,-,312,CH1AKI,海外,868,NONAME,海外,1595,SIRASE,海外,0,,-
 tricoro,Confiserie,0,,-,932,WOODY,海外,2017,NANASE,海外,3336,UI.KZK,海外,0,,-
@@ -733,7 +733,7 @@ SPADA,refractive index,0,,-,574,CH1AKI,海外,1357,KATANA,海外,2672,SIRASE,海
 SPADA,Recollection,0,,-,855,CH1AKI,海外,1608,CRAM,海外,2225,SIN16U,海外,0,,-
 SPADA,rainbow guitar weeps,0,,-,914,WYVERN,海外,1832,IIDX29,海外,2698,CSGO,海外,0,,-
 SPADA,ra'am,0,,-,906,IIDX29,海外,1806,SIRASE,海外,2677,WHA?NO,海外,0,,-
-SPADA,PUNISHER,0,,-,1075,CAT.,海外,2035,4GNE5B,海外,3422,X-KYAK,海外,0,,-
+SPADA,PUNISHER,0,,-,1075,CAT.,海外,2035,4GNE5B,海外,3458,CSGO,海外,0,,-
 SPADA,Pharaoh,0,,-,395,NVRAM,海外,1314,KATANA,海外,2424,CSGO,海外,0,,-
 SPADA,Overload Frontier,0,,-,583,CH1AKI,海外,1765,4GNE5B,海外,2456,245RIK,海外,0,,-
 SPADA,Odin,0,,-,532,GTXIAS,海外,1188,SATORI,海外,1993,CPTSU,海外,0,,-
@@ -831,7 +831,7 @@ PENDUAL,Line 4 Ruin,0,,-,548,DANNY,海外,1785,IIDX29,海外,2741,CSGO,海外,0,
 PENDUAL,IXION,0,,-,769,CH1AKI,海外,1732,IIDX29,海外,2152,NATORI,海外,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,995,!,海外,1480,ALDRA,海外,2685,NATORI,海外,0,,-
 PENDUAL,In The Breeze,0,,-,481,CH1AKI,海外,923,KRAKEN,海外,1676,ERA,海外,0,,-
-PENDUAL,IMPLANTATION,0,,-,609,UNCO3*,海外,1672,OKK,海外,2233,NATORI,海外,0,,-
+PENDUAL,IMPLANTATION,0,,-,609,MRSB,海外,1672,OKK,海外,2233,NATORI,海外,0,,-
 PENDUAL,illuminate,0,,-,430,NVRAM,海外,1382,WOODY,海外,2118,4GNE5B,海外,0,,-
 PENDUAL,Hello Happiness,0,,-,649,BAK...,海外,1628,LAWSON,海外,2255,P1EN.,海外,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,856,CSM,海外,1526,FLORA,海外,2837,NATORI,海外,0,,-
@@ -877,13 +877,13 @@ copula,オルタネイトβ,0,,-,530,FINO,海外,1432,IIDX29,海外,2225,SIN16U,
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,1097,UKN.,海外,2329,NATORI,海外,3286,NATORI,海外,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,837,NONAME,海外,1522,BALMAN,海外,2784,UI.KZK,海外,0,,-
 copula,ZEPHYRANTHES,0,,-,844,O*KA*N,海外,1745,4GNE5B,海外,2835,X-KYAK,海外,3669,X-KYAK,海外
-copula,X,0,,-,1497,KATANA,海外,2331,PROTEI,海外,3730,SIN16U,海外,0,,-
+copula,X,0,,-,1497,KATANA,海外,2376,CHAMBO,海外,3730,SIN16U,海外,0,,-
 copula,Welcome,0,,-,570,CH1AKI,海外,1810,CSGO,海外,2646,NATORI,海外,3211,X-KYAK,海外
 copula,Violet Rose,0,,-,1266,IIDX29,海外,1879,IIDX29,海外,2558,NATORI,海外,0,,-
 copula,Violet Pulse,0,,-,315,TINPO!,海外,1593,METHY,海外,2391,NATORI,海外,0,,-
 copula,Uh-Oh,0,,-,995,SYUKO,海外,1540,CHAMBO,海外,2372,NATORI,海外,0,,-
 copula,Triple Counter,0,,-,1367,KYA-RU,海外,2161,NANASE,海外,3737,X-KYAK,海外,0,,-
-copula,Tori-no-kimochi,0,,-,0,,-,1022,G,海外,1807,NANASE,海外,0,,-
+copula,Tori-no-kimochi,0,,-,240,CH1AKI,海外,1022,G,海外,1807,NANASE,海外,0,,-
 copula,SURVIVOR,0,,-,463,6OKKA,海外,1274,4GNE5B,海外,2006,NATORI,海外,0,,-
 copula,Super Duper Racers,0,,-,715,ACCELA,海外,1489,KATANA,海外,2232,NANASE,海外,0,,-
 copula,StrayedCatz,0,,-,824,G,海外,1913,SIRASE,海外,2684,SYM,海外,0,,-
@@ -1015,9 +1015,9 @@ SINOBUZ,crew,0,,-,532,GTXIAS,海外,1538,PO!,海外,2836,IIDX29,海外,0,,-
 SINOBUZ,Caterpillar,0,,-,1184,GALANT,海外,2098,4GNE5B,海外,2894,X-KYAK,海外,0,,-
 SINOBUZ,BroGamer,0,,-,1259,TEMPLE,海外,2057,4GNE5B,海外,2972,245RIK,海外,4455,SIN16U,海外
 SINOBUZ,Breakin' Chain,0,,-,614,G,海外,1110,MIRAI,海外,2294,NATORI,海外,0,,-
-SINOBUZ,BREAK OVER,0,,-,668,A.....,海外,1274,NECOZ,海外,2186,401K1,海外,0,,-
+SINOBUZ,BREAK OVER,0,,-,668,A.....,海外,1274,NECOZ,海外,2205,METHY,海外,0,,-
 SINOBUZ,Beyond The Seven,0,,-,627,ALICE?,海外,1175,CRAM,海外,2656,SIRASE,海外,0,,-
-SINOBUZ,Believe in you,0,,-,736,KURANT,海外,1729,TEMPLE,海外,2385,CSGO,海外,0,,-
+SINOBUZ,Believe in you,0,,-,736,KURANT,海外,1774,TEMPLE,海外,2385,CSGO,海外,0,,-
 SINOBUZ,Beat Juggling Mix,0,,-,654,CH1AKI,海外,1452,CHAMBO,海外,2123,245RIK,海外,0,,-
 SINOBUZ,Be A Star,0,,-,681,G,海外,1793,4GNE5B,海外,2783,CSGO,海外,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,1121,DKG,海外,1909,NANASE,海外,2765,NATORI,海外,0,,-
@@ -1063,7 +1063,7 @@ CANNON BALLERS,Rampage,0,,-,1161,MKRY**,海外,2440,4GNE5B,海外,3533,ERA,海�
 CANNON BALLERS,Persephone,0,,-,855,KAI,海外,1827,CHAMBO,海外,2885,CSGO,海外,0,,-
 CANNON BALLERS,Papilio ulysses,0,,-,986,CYNDI,海外,1961,4GNE5B,海外,2792,X-KYAK,海外,0,,-
 CANNON BALLERS,Only for now,0,,-,709,NOMLAS,海外,1446,MIO29?,海外,2202,NANASE,海外,0,,-
-CANNON BALLERS,O/D*20,0,,-,0,,-,1670,401K1,海外,2089,SIRASE,海外,0,,-
+CANNON BALLERS,O/D*20,0,,-,802,CH1AKI,海外,1670,401K1,海外,2096,CSGO,海外,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,1007,CRAM,海外,1401,CHERRY,海外,2827,CSGO,海外,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,827,BAK...,海外,1524,METHY,海外,2323,NATORI,海外,0,,-
 CANNON BALLERS,NITROUS CANNON,0,,-,934,LOVE,海外,1880,CHAMBO,海外,3448,NATORI,海外,0,,-
@@ -1093,7 +1093,7 @@ CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1291,GALANT,
 CANNON BALLERS,DEADHEAT,0,,-,1016,NOMLAS,海外,1861,301CBN,海外,3247,NATORI,海外,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,467,PONY,海外,1407,IIDX29,海外,2059,CSGO,海外,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1013,UKN.,海外,1824,DDDDX,海外,2633,NATORI,海外,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,567,G,海外,1402,4GNE5B,海外,2080,UI.KZK,海外,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,567,G,海外,1402,4GNE5B,海外,2109,CSGO,海外,0,,-
 CANNON BALLERS,ChaserXX,0,,-,803,G,海外,1797,METHY,海外,2712,CSGO,海外,0,,-
 CANNON BALLERS,Break Stasis,0,,-,1003,ICHI,海外,1795,4GNE5B,海外,2485,SIN16U,海外,0,,-
 CANNON BALLERS,Boomy and The Boost,414,METHY,海外,856,!?,海外,1948,4GNE5B,海外,3447,CSGO,海外,0,,-
@@ -1236,7 +1236,7 @@ HEROIC VERSE,Volcanic Dragon,0,,-,881,G,海外,1765,4GNE5B,海外,2938,NATORI,�
 HEROIC VERSE,Virus Funk,0,,-,603,DANNY,海外,1358,CRAM,海外,2199,NATORI,海外,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,868,KRAKEN,海外,1165,KRAKEN,海外,1861,NATORI,海外,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,446,KYA-RU,海外,875,G,海外,1678,4GNE5B,海外,2716,CSGO,海外,0,,-
-HEROIC VERSE,UNITE THE HEART,0,,-,1126,G,海外,2436,NANASE,海外,3242,UI.KZK,海外,0,,-
+HEROIC VERSE,UNITE THE HEART,0,,-,1135,FRAMPY,海外,2436,NANASE,海外,3242,UI.KZK,海外,0,,-
 HEROIC VERSE,TRIUMPH,0,,-,833,NI9DSN,海外,1938,4GNE5B,海外,3289,NATORI,海外,0,,-
 HEROIC VERSE,Theory,0,,-,632,YASE,海外,1411,ERA,海外,2464,245RIK,海外,0,,-
 HEROIC VERSE,The Sky of Sadness,0,,-,841,DEBU*,海外,1442,4GNE5B,海外,2236,GB-426,海外,0,,-
@@ -1295,7 +1295,7 @@ HEROIC VERSE,Duration,0,,-,372,KURANT,海外,900,UMA,海外,1935,NATORI,海外,0
 HEROIC VERSE,Drop It,0,,-,442,AKIRA,海外,1896,X-KYAK,海外,2721,NATORI,海外,0,,-
 HEROIC VERSE,Double Dribble,0,,-,1142,GALANT,海外,1766,*ITO.*,海外,3248,NATORI,海外,0,,-
 HEROIC VERSE,Do What You Want,0,,-,534,DANNY,海外,1145,GALANT,海外,2007,NATORI,海外,0,,-
-HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1234,KRAKEN,海外,2084,METHY,海外,3260,UI.KZK,海外,0,,-
+HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1325,GALANT,海外,2084,METHY,海外,3260,UI.KZK,海外,0,,-
 HEROIC VERSE,Crank It,0,,-,726,KRAKEN,海外,1458,CSGO,海外,2439,NATORI,海外,0,,-
 HEROIC VERSE,Change Yourself,0,,-,946,GALANT,海外,1595,GALANT,海外,2333,245RIK,海外,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,604,C-LAS,海外,1495,IIDX29,海外,2283,SCALET,海外,0,,-
@@ -1311,7 +1311,7 @@ HEROIC VERSE,Advent Infamous,0,,-,945,KRAKEN,海外,1561,*ITO.*,海外,2829,NATO
 HEROIC VERSE,27th style,0,,-,944,I.O,海外,1760,CSGO,海外,2460,SIRASE,海外,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,681,NOMLAS,海外,1597,ERA,海外,2621,ERA,海外,0,,-
 BISTROVER,霧幻メモリア,0,,-,548,XUXYO,海外,1368,METHY,海外,1940,X-KYAK,海外,0,,-
-BISTROVER,紅蓮華,153,XYN,海外,508,WOODY,海外,910,UNCO3*,海外,1429,NANASE,海外,0,,-
+BISTROVER,紅蓮華,153,XYN,海外,508,WOODY,海外,910,MRSB,海外,1429,NANASE,海外,0,,-
 BISTROVER,犬に雨傘,0,,-,842,I.O,海外,1438,METHY,海外,2072,NATORI,海外,0,,-
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1294,KATANA,海外,1867,4GNE5B,海外,2796,NATORI,海外,0,,-
 BISTROVER,水鏡の異界,0,,-,600,NOMLAS,海外,1662,4GNE5B,海外,3062,NATORI,海外,0,,-
@@ -1327,7 +1327,7 @@ BISTROVER,Vitrum,0,,-,1069,METHY,海外,1647,METHY,海外,3473,NATORI,海外,0,,
 BISTROVER,TOMORROW,418,KRAKEN,海外,465,NVRAM,海外,1488,METHY,海外,2203,NANASE,海外,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,997,METHY,海外,1654,METHY,海外,2528,P1EN.,海外,0,,-
 BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1112,METHY,海外,1615,WHA?NO,海外,2826,SIRASE,海外,0,,-
-BISTROVER,Swarm Of Scarabs,0,,-,834,SYUKO,海外,1425,KATANA,海外,2277,ERA,海外,0,,-
+BISTROVER,Swarm Of Scarabs,0,,-,834,SYUKO,海外,1461,GALANT,海外,2277,ERA,海外,0,,-
 BISTROVER,So Punky,0,,-,878,METHY,海外,1642,4GNE5B,海外,2458,NANASE,海外,0,,-
 BISTROVER,"smooooch・∀・ (Snail's House Remix) ",0,,-,812,KRAKEN,海外,1551,4GNE5B,海外,2334,NATORI,海外,0,,-
 BISTROVER,S-Bahn,0,,-,929,KATANA,海外,1485,METHY,海外,2156,SHMERT,海外,0,,-
