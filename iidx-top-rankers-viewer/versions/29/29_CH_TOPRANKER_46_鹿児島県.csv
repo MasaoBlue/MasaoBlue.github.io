@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-1st&substream,THE EARTH LIGHT,0,,-,642,BARUCO,鹿児島県,975,ALICE,鹿児島県,1076,TRANCE,鹿児島県,0,,-
-1st&substream,RUGGED ASH,0,,-,218,SHOKI,鹿児島県,360,AXL,鹿児島県,1021,TRANCE,鹿児島県,1962,AITHON,鹿児島県
+1st&substream,THE EARTH LIGHT,0,,-,642,BARUCO,鹿児島県,975,ALICE,鹿児島県,1150,SUMIRE,鹿児島県,0,,-
+1st&substream,RUGGED ASH,0,,-,228,JUNK,鹿児島県,360,AXL,鹿児島県,1021,TRANCE,鹿児島県,1962,AITHON,鹿児島県
 1st&substream,R3,0,,-,589,KAI046,鹿児島県,719,LOUVRE,鹿児島県,897,FUSI,鹿児島県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,516,HAKU*,鹿児島県,676,BARUCO,鹿児島県,1104,CHP*1E,鹿児島県,0,,-
 1st&substream,Macho Gang,0,,-,375,EEE.,鹿児島県,863,AXL,鹿児島県,1533,FUSI,鹿児島県,0,,-
@@ -20,18 +20,6 @@
 2nd style,Electro Tuned(the SubS mix),0,,-,395,SHOKI,鹿児島県,711,AXL,鹿児島県,1056,FUSI,鹿児島県,0,,-
 2nd style,Digital MinD(A/T Libra mix),0,,-,358,DISIDE,鹿児島県,865,AXL,鹿児島県,1124,FUSI,鹿児島県,0,,-
 2nd style,.59,0,,-,481,SOPHER,鹿児島県,632,AXL,鹿児島県,1073,TRANCE,鹿児島県,0,,-
-3rd style,THE SAFARI,269,RING0,鹿児島県,1026,RPG,鹿児島県,1709,CHP*1E,鹿児島県,0,,-,0,,-
-3rd style,Tangerine Stream,0,,-,261,BARUCO,鹿児島県,396,FUSI,鹿児島県,0,,-,0,,-
-3rd style,Skyscraper,0,,-,0,,-,1012,BARUCO,鹿児島県,1234,SACHI,鹿児島県,0,,-
-3rd style,Schlagwerk,0,,-,0,,-,927,AXL,鹿児島県,1644,URADLE,鹿児島県,0,,-
-3rd style,REINCARNATION,0,,-,0,,-,781,AXL,鹿児島県,1233,TRANCE,鹿児島県,0,,-
-3rd style,R5,0,,-,0,,-,1123,HAKU*,鹿児島県,1763,FUSI,鹿児島県,0,,-
-3rd style,Presto,0,,-,164,MASABO,鹿児島県,886,HAKU*,鹿児島県,999,FUSI,鹿児島県,0,,-
-3rd style,LEADING CYBER,0,,-,248,SHOKI,鹿児島県,1136,SEKKEN,鹿児島県,1254,FUSI,鹿児島県,0,,-
-3rd style,Holic,0,,-,529,SUPIKA,鹿児島県,997,RPG,鹿児島県,1693,SACHI,鹿児島県,0,,-
-3rd style,era (nostalmix),0,,-,769,BARUCO,鹿児島県,1102,CHP*1E,鹿児島県,1471,MANZEN,鹿児島県,0,,-
-3rd style,Don't Stop!,0,,-,514,SQUIRT,鹿児島県,812,OFUTON,鹿児島県,905,AAABBB,鹿児島県,0,,-
-3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,351,RUTO,鹿児島県,1195,TRANCE,鹿児島県,0,,-,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,481,BKAWBT,鹿児島県,1124,SEKKEN,鹿児島県,1323,CHP*1E,鹿児島県,0,,-
 4th style,SWEET LAB,0,,-,425,YOU,鹿児島県,816,SEKKEN,鹿児島県,1301,FUSI,鹿児島県,0,,-
 4th style,starmine,328,RYU,鹿児島県,636,SETUKO,鹿児島県,1005,AAAAAA,鹿児島県,1533,URADLE,鹿児島県,0,,-
@@ -53,7 +41,19 @@
 4th style,B4U,0,,-,650,SPROUT,鹿児島県,1432,EVIAN.,鹿児島県,1967,FUSI,鹿児島県,0,,-
 4th style,ABSOLUTE,0,,-,781,JUNIN,鹿児島県,1749,NEKO*3,鹿児島県,2341,HIRO99,鹿児島県,2712,HIRO99,鹿児島県
 4th style,250bpm,0,,-,412,SETUKO,鹿児島県,761,AXL,鹿児島県,1390,FUSI,鹿児島県,0,,-
-5th style,V,308,TALA,鹿児島県,1122,BARUCO,鹿児島県,2420,SACHI,鹿児島県,2942,HIRO99,鹿児島県,0,,-
+3rd style,THE SAFARI,269,RING0,鹿児島県,1026,RPG,鹿児島県,1732,HIRO99,鹿児島県,0,,-,0,,-
+3rd style,Tangerine Stream,0,,-,261,BARUCO,鹿児島県,396,FUSI,鹿児島県,0,,-,0,,-
+3rd style,Skyscraper,0,,-,0,,-,1012,BARUCO,鹿児島県,1234,SACHI,鹿児島県,0,,-
+3rd style,Schlagwerk,0,,-,0,,-,927,AXL,鹿児島県,1644,URADLE,鹿児島県,0,,-
+3rd style,REINCARNATION,0,,-,0,,-,781,AXL,鹿児島県,1233,TRANCE,鹿児島県,0,,-
+3rd style,R5,0,,-,0,,-,1123,HAKU*,鹿児島県,1763,FUSI,鹿児島県,0,,-
+3rd style,Presto,0,,-,164,MASABO,鹿児島県,886,HAKU*,鹿児島県,999,FUSI,鹿児島県,0,,-
+3rd style,LEADING CYBER,0,,-,248,SHOKI,鹿児島県,1136,SEKKEN,鹿児島県,1254,FUSI,鹿児島県,0,,-
+3rd style,Holic,0,,-,529,SUPIKA,鹿児島県,997,RPG,鹿児島県,1693,SACHI,鹿児島県,0,,-
+3rd style,era (nostalmix),0,,-,769,BARUCO,鹿児島県,1102,CHP*1E,鹿児島県,1471,MANZEN,鹿児島県,0,,-
+3rd style,Don't Stop!,0,,-,514,SQUIRT,鹿児島県,812,OFUTON,鹿児島県,905,AAABBB,鹿児島県,0,,-
+3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,351,RUTO,鹿児島県,1195,TRANCE,鹿児島県,0,,-,0,,-
+5th style,V,308,TALA,鹿児島県,1122,BARUCO,鹿児島県,2496,HIRO99,鹿児島県,2942,HIRO99,鹿児島県,0,,-
 5th style,THE SHINING POLARIS,0,,-,305,SQUIRT,鹿児島県,1262,NEKO*3,鹿児島県,1566,SACHI,鹿児島県,0,,-
 5th style,THE CUBE,0,,-,532,A-KAZ,鹿児島県,715,MUSIC,鹿児島県,1298,UNAGI*,鹿児島県,0,,-
 5th style,sync,0,,-,641,MUSIC,鹿児島県,1491,JUN,鹿児島県,2328,FUSI,鹿児島県,0,,-
@@ -70,10 +70,10 @@
 5th style,outer wall,0,,-,0,,-,0,,-,1707,SACHI,鹿児島県,0,,-
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,0,,-,0,,-,1109,FUSI,鹿児島県,0,,-
 5th style,in my eyes,0,,-,516,POKA,鹿児島県,1394,SEKKEN,鹿児島県,1565,FUSI,鹿児島県,0,,-
-5th style,Abyss,0,,-,607,CC141,鹿児島県,1591,NEKO*3,鹿児島県,1821,GULI,鹿児島県,0,,-
+5th style,Abyss,0,,-,696,SUPIKA,鹿児島県,1591,NEKO*3,鹿児島県,1821,GULI,鹿児島県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,484,SHOKI,鹿児島県,1574,FUSI,鹿児島県,0,,-,0,,-
 6th style,こっちを向いてよ,0,,-,396,SHOKI,鹿児島県,930,AXL,鹿児島県,1378,CHP*1E,鹿児島県,0,,-
-6th style,VJ ARMY,0,,-,1044,BARUCO,鹿児島県,1515,SEKKEN,鹿児島県,2101,CHP*1E,鹿児島県,0,,-
+6th style,VJ ARMY,0,,-,1044,BARUCO,鹿児島県,1587,SEKKEN,鹿児島県,2138,HIRO99,鹿児島県,0,,-
 6th style,Take It Easy,0,,-,878,SPROUT,鹿児島県,2228,HAKU*,鹿児島県,2454,CHP*1E,鹿児島県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,1082,BARUCO,鹿児島県,1829,FUSI,鹿児島県,0,,-,0,,-
 6th style,SOMETHING WONDERFUL,0,,-,621,YOU,鹿児島県,1148,WENLI,鹿児島県,1892,SUQNE*,鹿児島県,0,,-
@@ -81,7 +81,7 @@
 6th style,rottel-da-sun,0,,-,342,SHOKI,鹿児島県,914,AXL,鹿児島県,1849,HIRO99,鹿児島県,0,,-
 6th style,NEMESIS,0,,-,399,A-KAZ,鹿児島県,1328,DARU08,鹿児島県,1893,HIRO99,鹿児島県,0,,-
 6th style,Linus,0,,-,722,BASVAL,鹿児島県,1455,HAKU*,鹿児島県,2172,HIRO99,鹿児島県,0,,-
-6th style,G2,0,,-,1030,CHI9B,鹿児島県,1497,KAI046,鹿児島県,2300,CHP*1E,鹿児島県,0,,-
+6th style,G2,0,,-,1030,CHI9B,鹿児島県,1563,SEKKEN,鹿児島県,2300,CHP*1E,鹿児島県,0,,-
 6th style,Frozen Ray (original mix),0,,-,819,KYOKO,鹿児島県,1516,*KRR*,鹿児島県,1786,SACHI,鹿児島県,0,,-
 6th style,Free Style,0,,-,0,,-,989,HAKU*,鹿児島県,1311,CHP*1E,鹿児島県,0,,-
 6th style,fly through the night,0,,-,0,,-,889,AXL,鹿児島県,1660,SACHI,鹿児島県,0,,-
@@ -105,14 +105,14 @@
 7th style,foreplay,0,,-,0,,-,772,CC141,鹿児島県,1309,INOKI!,鹿児島県,0,,-
 7th style,DESTINY,0,,-,1006,HAKU*,鹿児島県,1312,HAKU*,鹿児島県,1837,HIRO99,鹿児島県,0,,-
 7th style,D2R,0,,-,0,,-,635,AXL,鹿児島県,1627,HIRO99,鹿児島県,0,,-
-7th style,Cheer Train,0,,-,0,,-,1008,AXL,鹿児島県,1717,SACHI,鹿児島県,0,,-
+7th style,Cheer Train,0,,-,566,SHOKI,鹿児島県,1008,AXL,鹿児島県,1717,SACHI,鹿児島県,0,,-
 7th style,Burning Heat! (Full Option Mix),0,,-,368,SHOKI,鹿児島県,725,AXL,鹿児島県,1452,FUSI,鹿児島県,0,,-
 7th style,Bad Routine,0,,-,692,BAA,鹿児島県,1407,SACHI,鹿児島県,1906,CHP*1E,鹿児島県,0,,-
 7th style,AVE DE RAPINA,0,,-,0,,-,1368,TEKUNI,鹿児島県,1654,ALICE,鹿児島県,0,,-
 7th style,A,0,,-,1123,SEINA.,鹿児島県,2063,EEE.,鹿児島県,2424,SUMIRE,鹿児島県,0,,-
 8th style,蒼い衝動,0,,-,639,KYOKO,鹿児島県,1293,HAKU*,鹿児島県,1581,SACHI,鹿児島県,0,,-
 8th style,桜,0,,-,808,RPG,鹿児島県,1348,ALICE,鹿児島県,2074,SUMIRE,鹿児島県,0,,-
-8th style,xenon,0,,-,0,,-,1146,SMORE,鹿児島県,2629,SUMIRE,鹿児島県,0,,-
+8th style,xenon,0,,-,0,,-,1146,SMORE,鹿児島県,2671,SUMIRE,鹿児島県,0,,-
 8th style,World Wide Love,0,,-,451,SHOKI,鹿児島県,1031,HAKU*,鹿児島県,1114,FUSI,鹿児島県,0,,-
 8th style,WAR GAME,0,,-,287,HUH!?!,鹿児島県,1407,SEKKEN,鹿児島県,2133,FUSI,鹿児島県,0,,-
 8th style,thunder,0,,-,0,,-,1503,NEKO*3,鹿児島県,1874,AITHON,鹿児島県,0,,-
@@ -141,8 +141,8 @@
 9th style,真夏の花・真夏の夢,0,,-,0,,-,1107,HAKU*,鹿児島県,1434,POIFUL,鹿児島県,0,,-
 9th style,ライオン好き,0,,-,298,CHIKWA,鹿児島県,1160,NEKO*3,鹿児島県,1481,SACHI,鹿児島県,0,,-
 9th style,SWEETEST SAVAGE,0,,-,574,BARUCO,鹿児島県,980,AXL,鹿児島県,1819,HIRO99,鹿児島県,0,,-
-9th style,Sweet Sweet Magic,0,,-,0,,-,1316,DARU08,鹿児島県,1984,MANZEN,鹿児島県,0,,-
-9th style,STAR FIELD,0,,-,528,SPROUT,鹿児島県,0,,-,1868,HIRO99,鹿児島県,0,,-
+9th style,Sweet Sweet Magic,0,,-,519,POKA,鹿児島県,1316,DARU08,鹿児島県,1984,MANZEN,鹿児島県,0,,-
+9th style,STAR FIELD,0,,-,528,SPROUT,鹿児島県,1078,JUNIN,鹿児島県,1868,HIRO99,鹿児島県,0,,-
 9th style,SNOW,0,,-,459,SHOKI,鹿児島県,1021,AXL,鹿児島県,1989,AMURO,鹿児島県,0,,-
 9th style,Silvia Drive,0,,-,600,SUPIKA,鹿児島県,1131,AXL,鹿児島県,2029,HIRO99,鹿児島県,0,,-
 9th style,rottel-the-Mercury,0,,-,692,BASVAL,鹿児島県,1594,SEKKEN,鹿児島県,2253,FUSI,鹿児島県,0,,-
@@ -150,7 +150,7 @@
 9th style,Really Love,0,,-,468,SHOKI,鹿児島県,942,ASIC,鹿児島県,1757,HIRO99,鹿児島県,0,,-
 9th style,Quickening,0,,-,481,POKA,鹿児島県,1660,NEKO*3,鹿児島県,2062,HIRO99,鹿児島県,0,,-
 9th style,quasar,0,,-,1032,MASA,鹿児島県,1682,NEKO*3,鹿児島県,2294,SUMIRE,鹿児島県,0,,-
-9th style,one or eight,0,,-,450,SUNA.A,鹿児島県,1762,TRANCE,鹿児島県,2249,HIRO99,鹿児島県,0,,-
+9th style,one or eight,0,,-,450,SUNA.A,鹿児島県,1769,EEE.,鹿児島県,2249,HIRO99,鹿児島県,0,,-
 9th style,moon_child,0,,-,610,SHOKI,鹿児島県,1933,EEE.,鹿児島県,2500,HIRO99,鹿児島県,0,,-
 9th style,MARIA (I believe... ),0,,-,360,SOL,鹿児島県,1485,HAKU*,鹿児島県,1949,HIRO99,鹿児島県,0,,-
 9th style,Make A Difference,0,,-,458,RUTO,鹿児島県,1418,0000,鹿児島県,2175,AITHON,鹿児島県,0,,-
@@ -161,7 +161,7 @@
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,722,BARUCO,鹿児島県,1082,320,鹿児島県,1435,SACHI,鹿児島県,0,,-
 9th style,HYPER EUROBEAT (2DX style),0,,-,454,POKA,鹿児島県,1374,WENLI,鹿児島県,1864,SUQNE*,鹿児島県,0,,-
 9th style,Golden Horn,0,,-,0,,-,462,WOLF,鹿児島県,1225,ALICE,鹿児島県,0,,-
-9th style,e-motion 2003  -romantic extra-,0,,-,587,KEN,鹿児島県,1339,MASA,鹿児島県,1969,SACHI,鹿児島県,0,,-
+9th style,e-motion 2003  -romantic extra-,0,,-,587,KEN,鹿児島県,1356,SEKKEN,鹿児島県,1969,SACHI,鹿児島県,0,,-
 9th style,Distress,0,,-,1097,SEINA.,鹿児島県,1806,FUSI,鹿児島県,0,,-,0,,-
 9th style,Cradle,0,,-,565,POKA,鹿児島県,1107,SEINA.,鹿児島県,1574,HIRO99,鹿児島県,0,,-
 9th style,BRIGHTNESS DARKNESS,0,,-,477,SHOKI,鹿児島県,1315,DARU08,鹿児島県,1742,FUSI,鹿児島県,0,,-
@@ -174,13 +174,13 @@
 10th style,システムロマンス,0,,-,912,HIRO99,鹿児島県,1213,NIBE,鹿児島県,2025,SACHI,鹿児島県,0,,-
 10th style,SPACE FIGHT,0,,-,591,BARUCO,鹿児島県,1348,BARUCO,鹿児島県,2221,SUMIRE,鹿児島県,0,,-
 10th style,SHOOTING STAR,0,,-,1195,HAKU*,鹿児島県,1574,HAKU*,鹿児島県,2213,HIRO99,鹿児島県,0,,-
-10th style,Rise'n Beauty,0,,-,1076,BARUCO,鹿児島県,1472,HAKU*,鹿児島県,2142,HIRO99,鹿児島県,0,,-
+10th style,Rise'n Beauty,0,,-,1076,BARUCO,鹿児島県,1472,HAKU*,鹿児島県,2143,SUMIRE,鹿児島県,0,,-
 10th style,rainbow rainbow,0,,-,1240,JUNIN,鹿児島県,2022,TAK4MA,鹿児島県,2658,SUMIRE,鹿児島県,0,,-
 10th style,pandora,0,,-,837,BARUCO,鹿児島県,1544,NEKO*3,鹿児島県,1813,FUSI,鹿児島県,0,,-
 10th style,One More Lovely,0,,-,819,BARUCO,鹿児島県,1603,TRANCE,鹿児島県,2776,AAAAAA,鹿児島県,0,,-
-10th style,No.13,0,,-,1080,T-DAK,鹿児島県,2301,MUU,鹿児島県,3133,HIRO99,鹿児島県,0,,-
+10th style,No.13,0,,-,1080,T-DAK,鹿児島県,2531,EEE.,鹿児島県,3133,HIRO99,鹿児島県,0,,-
 10th style,Narcissus At Oasis,0,,-,533,#FAMS.,鹿児島県,1293,DARU08,鹿児島県,1641,HIRO99,鹿児島県,0,,-
-10th style,Lucy,0,,-,948,HAKU*,鹿児島県,1693,NEKO*3,鹿児島県,2264,SUMIRE,鹿児島県,0,,-
+10th style,Lucy,0,,-,948,HAKU*,鹿児島県,1693,NEKO*3,鹿児島県,2285,SUMIRE,鹿児島県,0,,-
 10th style,Love Is Eternity,0,,-,690,SUPIKA,鹿児島県,1836,EEE.,鹿児島県,2383,SUMIRE,鹿児島県,0,,-
 10th style,Innocent Walls,0,,-,1541,TRANCE,鹿児島県,2428,SUMIRE,鹿児島県,2774,HIRO99,鹿児島県,0,,-
 10th style,HIGH,0,,-,0,,-,1904,SUMIRE,鹿児島県,2158,HIRO99,鹿児島県,0,,-
@@ -190,14 +190,14 @@
 10th style,FEEL IT,0,,-,0,,-,1530,SEKKEN,鹿児島県,1938,HIRO99,鹿児島県,0,,-
 10th style,Feedback,0,,-,444,SHOKI,鹿児島県,1346,SEKKEN,鹿児島県,1943,SACHI,鹿児島県,0,,-
 10th style,EXE,0,,-,0,,-,1294,WENLI,鹿児島県,2232,HIRO99,鹿児島県,0,,-
-10th style,DoLL,228,IIIIII,鹿児島県,863,BARUCO,鹿児島県,1121,BARUCO,鹿児島県,1612,FUSI,鹿児島県,0,,-
+10th style,DoLL,228,IIIIII,鹿児島県,863,BARUCO,鹿児島県,1154,SEKKEN,鹿児島県,1612,FUSI,鹿児島県,0,,-
 10th style,desolation,0,,-,0,,-,561,AXL,鹿児島県,762,FUSI,鹿児島県,0,,-
 10th style,Debtty Daddy,0,,-,691,MUSIC,鹿児島県,1689,831,鹿児島県,2675,SACHI,鹿児島県,0,,-
 10th style,Daisuke,466,NEKO*3,鹿児島県,1146,BARUCO,鹿児島県,1466,KYORSK,鹿児島県,2384,INOKI!,鹿児島県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,545,SHOKI,鹿児島県,1222,HAKU*,鹿児島県,2043,HIRO99,鹿児島県,0,,-
 10th style,Boundary,0,,-,387,SHOKI,鹿児島県,0,,-,2023,HIRO99,鹿児島県,0,,-
 10th style,Back Into The Light,0,,-,0,,-,1553,NEKO*3,鹿児島県,2159,INOKI!,鹿児島県,0,,-
-10th style,BABY LOVE,0,,-,871,MUSIC,鹿児島県,1219,AXL,鹿児島県,2141,HIRO99,鹿児島県,0,,-
+10th style,BABY LOVE,0,,-,871,MUSIC,鹿児島県,1267,SEINA.,鹿児島県,2141,HIRO99,鹿児島県,0,,-
 10th style,ASTRAL VOYAGE,0,,-,0,,-,725,BESVAL,鹿児島県,1812,CHIKIN,鹿児島県,0,,-
 10th style,ALIEN TEMPLE,0,,-,706,CHAOS!,鹿児島県,1449,RPG,鹿児島県,1976,FUSI,鹿児島県,0,,-
 10th style,1st Samurai,0,,-,1021,HAKU*,鹿児島県,1941,SUMIRE,鹿児島県,2647,HIRO99,鹿児島県,0,,-
@@ -217,8 +217,8 @@ IIDX RED,Raspberry Heart(English version),0,,-,988,HAKU*,鹿児島県,1537,NEKO*
 IIDX RED,NEBULA GRASPER,0,,-,0,,-,1769,LEVEL1,鹿児島県,2347,SUQNE*,鹿児島県,0,,-
 IIDX RED,KEY,0,,-,733,BESVAL,鹿児島県,1575,CHI9B,鹿児島県,2841,SUMIRE,鹿児島県,0,,-
 IIDX RED,HORIZON,0,,-,0,,-,904,KYOKO,鹿児島県,1960,HIRO99,鹿児島県,0,,-
-IIDX RED,gigadelic,378,SHINHH,鹿児島県,1359,HAKU*,鹿児島県,2153,HIRO99,鹿児島県,2509,HIRO99,鹿児島県,0,,-
-IIDX RED,GENOCIDE,0,,-,735,YOU,鹿児島県,1794,D.O.G.,鹿児島県,2337,SUMIRE,鹿児島県,0,,-
+IIDX RED,gigadelic,445,JUNK,鹿児島県,1359,HAKU*,鹿児島県,2153,HIRO99,鹿児島県,2509,HIRO99,鹿児島県,0,,-
+IIDX RED,GENOCIDE,0,,-,869,BARUCO,鹿児島県,1794,D.O.G.,鹿児島県,2337,SUMIRE,鹿児島県,0,,-
 IIDX RED,Fly Away To India,0,,-,0,,-,1061,NEKO*3,鹿児島県,1403,SACHI,鹿児島県,0,,-
 IIDX RED,FAKE TIME,0,,-,0,,-,1702,SUMIRE,鹿児島県,2354,AITHON,鹿児島県,0,,-
 IIDX RED,earth scape,0,,-,0,,-,993,SEKKEN,鹿児島県,1283,CHP*1E,鹿児島県,0,,-
@@ -264,7 +264,7 @@ HAPPY SKY,INAZUMA,0,,-,532,KAI046,鹿児島県,1703,NEKO*3,鹿児島県,2684,SAC
 HAPPY SKY,in motion,0,,-,621,YOU,鹿児島県,806,AXL,鹿児島県,1304,INOKI!,鹿児島県,0,,-
 HAPPY SKY,I am,0,,-,584,X-W?,鹿児島県,1503,MAKI*2,鹿児島県,2152,HIRO99,鹿児島県,0,,-
 HAPPY SKY,HAPPY☆ANGEL,491,TORORO,鹿児島県,719,CHAOS!,鹿児島県,1490,HAKU*,鹿児島県,2091,HIRO99,鹿児島県,0,,-
-HAPPY SKY,GREEN EYES,0,,-,723,YOU,鹿児島県,1553,SUQNE*,鹿児島県,2060,SUQNE*,鹿児島県,0,,-
+HAPPY SKY,GREEN EYES,0,,-,723,YOU,鹿児島県,1553,SUQNE*,鹿児島県,2104,EEE.,鹿児島県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,503,BYTE-7,鹿児島県,1535,SEKKEN,鹿児島県,2267,SUMIRE,鹿児島県,0,,-
 HAPPY SKY,garden,0,,-,510,RUTO,鹿児島県,1244,CHI9B,鹿児島県,2144,HIRO99,鹿児島県,0,,-
 HAPPY SKY,First Resolution,0,,-,563,MUSIC,鹿児島県,1314,CHI9B,鹿児島県,2137,HIRO99,鹿児島県,0,,-
@@ -280,7 +280,7 @@ HAPPY SKY,100％ minimoo-G,0,,-,580,SUPIKA,鹿児島県,1421,0000,鹿児島県,1
 DistorteD,虹色,0,,-,329,ZEROST,鹿児島県,1441,HAKU*,鹿児島県,1834,HIRO99,鹿児島県,0,,-
 DistorteD,華蝶風雪,0,,-,945,YOU,鹿児島県,2011,NEKO*3,鹿児島県,2959,SUMIRE,鹿児島県,0,,-
 DistorteD,罠,0,,-,368,URAN,鹿児島県,1488,NEKO*3,鹿児島県,2454,HIRO99,鹿児島県,0,,-
-DistorteD,嘆きの樹,0,,-,1681,HAKU*,鹿児島県,2471,SUMIRE,鹿児島県,3727,SUMIRE,鹿児島県,0,,-
+DistorteD,嘆きの樹,0,,-,1681,HAKU*,鹿児島県,2489,HIRO99,鹿児島県,3727,SUMIRE,鹿児島県,0,,-
 DistorteD,タシカナモノ,0,,-,727,BASVAL,鹿児島県,1007,MIO35P,鹿児島県,1951,GULI,鹿児島県,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,746,SUPIKA,鹿児島県,1718,SEKKEN,鹿児島県,2591,HIRO99,鹿児島県,0,,-
 DistorteD,Zenius -I- vanisher,0,,-,453,SHOKI,鹿児島県,1511,NEKO*3,鹿児島県,2388,HIRO99,鹿児島県,0,,-
@@ -293,10 +293,10 @@ DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,500,POKA,鹿児島県
 DistorteD,This is Love,0,,-,423,SHOKI,鹿児島県,1667,831,鹿児島県,2460,HIRO99,鹿児島県,0,,-
 DistorteD,The Dirty of Loudness,0,,-,986,RAMUN3,鹿児島県,2065,TRANCE,鹿児島県,2603,HIRO99,鹿児島県,0,,-
 DistorteD,Sun Field,0,,-,423,#FAMS.,鹿児島県,1427,ALICE,鹿児島県,2401,SACHI,鹿児島県,0,,-
-DistorteD,So Fabulous !!,0,,-,0,,-,1417,ALICE,鹿児島県,2341,HIRO99,鹿児島県,0,,-
+DistorteD,So Fabulous !!,0,,-,714,SUPIKA,鹿児島県,1417,ALICE,鹿児島県,2341,HIRO99,鹿児島県,0,,-
 DistorteD,Power of Love,0,,-,207,SHOKI,鹿児島県,964,SUNA.A,鹿児島県,2114,AITHON,鹿児島県,0,,-
 DistorteD,MOON,0,,-,526,SHOKI,鹿児島県,1715,FO-SU,鹿児島県,2207,HIRO99,鹿児島県,0,,-
-DistorteD,MINT,0,,-,737,BYTE-7,鹿児島県,1679,NEKO*3,鹿児島県,2287,HIRO99,鹿児島県,0,,-
+DistorteD,MINT,0,,-,737,BYTE-7,鹿児島県,1762,EEE.,鹿児島県,2287,HIRO99,鹿児島県,0,,-
 DistorteD,Leaving...,0,,-,556,YOU,鹿児島県,1291,SEKKEN,鹿児島県,2183,SUMIRE,鹿児島県,0,,-
 DistorteD,INFERNO,0,,-,0,,-,1106,CC141,鹿児島県,1968,HIRO99,鹿児島県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,499,FUKU#,鹿児島県,938,0,鹿児島県,2051,POIFUL,鹿児島県,0,,-
@@ -306,15 +306,15 @@ DistorteD,EURO-ROMANCE,0,,-,887,BARUCO,鹿児島県,1619,BARUCO,鹿児島県,209
 DistorteD,DUE TOMORROW,0,,-,516,SUPIKA,鹿児島県,1380,CHP*1E,鹿児島県,1972,AAAAAA,鹿児島県,0,,-
 DistorteD,Double Loving Heart,0,,-,545,BARUCO,鹿児島県,1293,NEKO*3,鹿児島県,1812,SUMIRE,鹿児島県,0,,-
 DistorteD,D.C.fish,0,,-,582,SHOKI,鹿児島県,1697,SEKKEN,鹿児島県,2330,HIRO99,鹿児島県,0,,-
-DistorteD,CONTRACT,0,,-,1096,SEINA.,鹿児島県,1616,EEE.,鹿児島県,2029,HIRO99,鹿児島県,2619,SUMIRE,鹿児島県
+DistorteD,CONTRACT,0,,-,1096,SEINA.,鹿児島県,1616,EEE.,鹿児島県,2038,SUMIRE,鹿児島県,2619,SUMIRE,鹿児島県
 DistorteD,Concertino in Blue,226,RYU,鹿児島県,544,SETUKO,鹿児島県,1619,NEKO*3,鹿児島県,2457,HIRO99,鹿児島県,0,,-
-DistorteD,Broadbanded,0,,-,658,YOU,鹿児島県,1109,TEKUNI,鹿児島県,1973,SUMIRE,鹿児島県,0,,-
+DistorteD,Broadbanded,0,,-,820,BARUCO,鹿児島県,1274,SEKKEN,鹿児島県,1973,SUMIRE,鹿児島県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,548,RUTO,鹿児島県,1696,HAKU*,鹿児島県,2248,HIRO99,鹿児島県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,528,SHOKI,鹿児島県,1887,NEKO*3,鹿児島県,2152,HIRO99,鹿児島県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,417,SHOKI,鹿児島県,462,MUSIC,鹿児島県,1463,CARSEX,鹿児島県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,184,CEL,鹿児島県,808,CHI9B,鹿児島県,1714,NEKO*3,鹿児島県,2386,HIRO99,鹿児島県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,324,KEN,鹿児島県,791,KYOKO,鹿児島県,1559,HAKU*,鹿児島県,2078,HIRO99,鹿児島県,0,,-
-GOLD,電人、暁に斃れる。,430,OPKL,鹿児島県,141,KAI046,鹿児島県,2223,MANZEN,鹿児島県,3322,HIRO99,鹿児島県,0,,-
+GOLD,電人、暁に斃れる。,430,OPKL,鹿児島県,1061,SPROUT,鹿児島県,2223,MANZEN,鹿児島県,3322,HIRO99,鹿児島県,0,,-
 GOLD,零 - ZERO -,166,YUYUKO,鹿児島県,806,SS,鹿児島県,1695,HAKU*,鹿児島県,2292,HIRO99,鹿児島県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,633,BARUCO,鹿児島県,1040,HAKU*,鹿児島県,1420,SACHI,鹿児島県,0,,-
 GOLD,星をこの手に,0,,-,1071,TEKUNI,鹿児島県,1746,NEKO*3,鹿児島県,2172,HIRO99,鹿児島県,0,,-
@@ -329,7 +329,7 @@ GOLD,The Smile of You,0,,-,566,BASVAL,鹿児島県,1284,HAKU*,鹿児島県,1626,
 GOLD,the shadow,0,,-,0,,-,1750,0000,鹿児島県,2884,HIRO99,鹿児島県,0,,-
 GOLD,snow storm,218,NEKO*3,鹿児島県,641,BESVAL,鹿児島県,2073,HAKU*,鹿児島県,2783,HIRO99,鹿児島県,3314,HIRO99,鹿児島県
 GOLD,smile,0,,-,1380,DARU08,鹿児島県,1823,BARUCO,鹿児島県,2852,HIRO99,鹿児島県,0,,-
-GOLD,Sense 2007,0,,-,1441,TRANCE,鹿児島県,2224,SUMIRE,鹿児島県,2853,SACHI,鹿児島県,0,,-
+GOLD,Sense 2007,0,,-,1441,TRANCE,鹿児島県,2224,SUMIRE,鹿児島県,2886,SUMIRE,鹿児島県,0,,-
 GOLD,Second Heaven,189,R,鹿児島県,885,BARUCO,鹿児島県,1525,NEKO*3,鹿児島県,2105,HIRO99,鹿児島県,0,,-
 GOLD,Roulette,0,,-,470,POKA,鹿児島県,1393,NEKO*3,鹿児島県,2008,NEKO*3,鹿児島県,0,,-
 GOLD,PHOTONGENIC,0,,-,1028,CHI9B,鹿児島県,1791,HAKU*,鹿児島県,2302,SUMIRE,鹿児島県,0,,-
@@ -341,14 +341,14 @@ GOLD,Love Again...,0,,-,563,HAKU*,鹿児島県,772,HAKU*,鹿児島県,1073,AAABB
 GOLD,LASER CRUSTER,0,,-,1266,RPG,鹿児島県,2367,SUMIRE,鹿児島県,3114,SUMIRE,鹿児島県,0,,-
 GOLD,KAMAITACHI,0,,-,0,,-,1818,HAKU*,鹿児島県,2642,SUMIRE,鹿児島県,3644,HIRO99,鹿児島県
 GOLD,INORI,0,,-,1346,ALICE,鹿児島県,2463,NEKO*3,鹿児島県,3144,SUMIRE,鹿児島県,0,,-
-GOLD,High School Love,284,RIN,鹿児島県,439,SHOKI,鹿児島県,1453,SEKKEN,鹿児島県,2196,INOKI!,鹿児島県,0,,-
+GOLD,High School Love,284,RIN,鹿児島県,460,IIIIII,鹿児島県,1453,SEKKEN,鹿児島県,2196,INOKI!,鹿児島県,0,,-
 GOLD,heaven above,0,,-,758,BARUCO,鹿児島県,1174,BARUCO,鹿児島県,1834,SUMIRE,鹿児島県,0,,-
 GOLD,GRID KNIGHT,0,,-,0,,-,1201,RAMUN3,鹿児島県,2589,YAMITA,鹿児島県,3451,INOKI!,鹿児島県
 GOLD,GOLD RUSH,377,TORORO,鹿児島県,763,SUPIKA,鹿児島県,1307,SEKKEN,鹿児島県,2346,HIRO99,鹿児島県,0,,-
 GOLD,four-leaf,0,,-,176,IIIIII,鹿児島県,0,,-,1697,CHP*1E,鹿児島県,0,,-
 GOLD,FIRE FIRE,388,KEN,鹿児島県,1113,HAKU*,鹿児島県,1712,NEKO*3,鹿児島県,2703,HIRO99,鹿児島県,0,,-
 GOLD,Fascination MAXX,0,,-,913,URADLE,鹿児島県,1637,SUMIRE,鹿児島県,2400,SUMIRE,鹿児島県,0,,-
-GOLD,Cyber Force,0,,-,0,,-,1547,TEKUNI,鹿児島県,2312,SUQNE*,鹿児島県,0,,-
+GOLD,Cyber Force,0,,-,723,SHOKI,鹿児島県,1547,TEKUNI,鹿児島県,2312,SUQNE*,鹿児島県,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,0,,-,1725,NEKO*3,鹿児島県,2185,CHP*1E,鹿児島県,0,,-
 GOLD,CaptivAte～誓い～,0,,-,887,TYU.,鹿児島県,2005,SUMIRE,鹿児島県,2188,SUQNE*,鹿児島県,0,,-
 GOLD,CaptivAte～裁き～,307,RING0,鹿児島県,579,KYOKO,鹿児島県,1264,NEKO*3,鹿児島県,1765,CHP*1E,鹿児島県,0,,-
@@ -359,7 +359,7 @@ GOLD,Air Bell,0,,-,587,SHOKI,鹿児島県,1317,NEKO*3,鹿児島県,1712,AAABBB,�
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,432,BASVAL,鹿児島県,910,HAKU*,鹿児島県,1307,MANZEN,鹿児島県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,322,NEKO*3,鹿児島県,731,KYOKO,鹿児島県,1492,HAKU*,鹿児島県,2043,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,少年A,0,,-,637,MUSIC,鹿児島県,2024,EEE.,鹿児島県,2767,HIRO99,鹿児島県,0,,-
-DJ TROOPERS,ミラージュ・レジデンス,0,,-,680,SETUKO,鹿児島県,2037,NEKO*3,鹿児島県,2507,CHP*1E,鹿児島県,0,,-
+DJ TROOPERS,ミラージュ・レジデンス,0,,-,680,SETUKO,鹿児島県,2037,NEKO*3,鹿児島県,2606,CHP*1E,鹿児島県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,783,BARUCO,鹿児島県,946,SHOKI,鹿児島県,1788,FUSI,鹿児島県,0,,-
 DJ TROOPERS,エコ爺,277,#FAMS.,鹿児島県,737,BARUCO,鹿児島県,1213,KAI046,鹿児島県,1843,CHP*1E,鹿児島県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,506,RUTO,鹿児島県,1104,HAKU*,鹿児島県,1514,SACHI,鹿児島県,2567,SUMIRE,鹿児島県
@@ -369,12 +369,12 @@ DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,647,0000,鹿児島県,1382,CAOS.,鹿児島
 DJ TROOPERS,Time to Air,0,,-,872,YOU,鹿児島県,2014,TRANCE,鹿児島県,2848,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,the trigger of innocence,0,,-,0,,-,1073,SHADOW,鹿児島県,1846,INOKI!,鹿児島県,3093,SUMIRE,鹿児島県
 DJ TROOPERS,THE DEEP STRIKER,337,SHOKI,鹿児島県,0,,-,2222,SACHI,鹿児島県,2988,SUMIRE,鹿児島県,3418,SUMIRE,鹿児島県
-DJ TROOPERS,switch,0,,-,0,,-,1240,0000,鹿児島県,2080,SUMIRE,鹿児島県,0,,-
-DJ TROOPERS,STEEL NEEDLE,0,,-,861,0,鹿児島県,1881,OMNMIX,鹿児島県,2429,INOKI!,鹿児島県,3207,SUMIRE,鹿児島県
+DJ TROOPERS,switch,0,,-,0,,-,1435,NEKO*3,鹿児島県,2080,SUMIRE,鹿児島県,0,,-
+DJ TROOPERS,STEEL NEEDLE,0,,-,861,0,鹿児島県,1881,OMNMIX,鹿児島県,2433,SUMIRE,鹿児島県,3207,SUMIRE,鹿児島県
 DJ TROOPERS,State Of The Art,0,,-,1032,BARUCO,鹿児島県,1489,SUQNE*,鹿児島県,3081,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,SOUND OF GIALLARHORN,347,YUYUKO,鹿児島県,965,JUNIN,鹿児島県,2642,TRANCE,鹿児島県,3208,SUMIRE,鹿児島県,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,649,YOU,鹿児島県,1271,CAOS.,鹿児島県,2485,HIRO99,鹿児島県,0,,-
-DJ TROOPERS,scar in the earth,0,,-,542,AAAAAA,鹿児島県,0,,-,1518,CHP*1E,鹿児島県,0,,-
+DJ TROOPERS,scar in the earth,0,,-,542,AAAAAA,鹿児島県,637,SHOKI,鹿児島県,1518,CHP*1E,鹿児島県,0,,-
 DJ TROOPERS,satfinal,0,,-,0,,-,1320,BARUCO,鹿児島県,1908,CHP*1E,鹿児島県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1125,BARUCO,鹿児島県,1322,CHI9B,鹿児島県,2474,SUMIRE,鹿児島県,0,,-
 DJ TROOPERS,Ristaccia,0,,-,908,MERO*,鹿児島県,1980,SACHI,鹿児島県,2713,HIRO99,鹿児島県,0,,-
@@ -388,7 +388,7 @@ DJ TROOPERS,MENTAL MELTDOWN,0,,-,633,SHOKI,鹿児島県,2222,SACHI,鹿児島県,
 DJ TROOPERS,MENDES,0,,-,1047,RYUSAN,鹿児島県,2589,SUMIRE,鹿児島県,3451,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,MAX LOVE,0,,-,1063,A-KAZ,鹿児島県,2070,HAKU*,鹿児島県,2638,AMURO,鹿児島県,0,,-
 DJ TROOPERS,madrugada,0,,-,596,YOU,鹿児島県,1166,NEKO*3,鹿児島県,1842,HIRO99,鹿児島県,0,,-
-DJ TROOPERS,LOVELY STORM,0,,-,799,SPROUT,鹿児島県,1721,SEINA.,鹿児島県,2807,HIRO99,鹿児島県,0,,-
+DJ TROOPERS,LOVELY STORM,0,,-,799,SPROUT,鹿児島県,1833,PAS,鹿児島県,2807,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,829,SHOKI,鹿児島県,1041,KYOKO,鹿児島県,2022,HIRO99,鹿児島県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1214,BARUCO,鹿児島県,1868,WENLI,鹿児島県,2531,SUMIRE,鹿児島県,0,,-
 DJ TROOPERS,ICARUS,0,,-,994,0,鹿児島県,1954,EEE.,鹿児島県,2427,SUMIRE,鹿児島県,3513,SUMIRE,鹿児島県
@@ -399,7 +399,7 @@ DJ TROOPERS,Do it!! Do it!!,0,,-,802,TEKUNI,鹿児島県,1409,EEE.,鹿児島県,
 DJ TROOPERS,Digitank System,0,,-,852,BARUCO,鹿児島県,1467,ALICE,鹿児島県,2075,SUMIRE,鹿児島県,0,,-
 DJ TROOPERS,Dazzlin' Darlin,336,NEKO*3,鹿児島県,673,YOU,鹿児島県,1285,SHADOW,鹿児島県,2226,INOKI!,鹿児島県,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,421,SHOKI,鹿児島県,532,SHOKI,鹿児島県,1380,CHP*1E,鹿児島県,0,,-
-DJ TROOPERS,Blue Rain,251,#FAMS.,鹿児島県,869,BARUCO,鹿児島県,1215,CHI9B,鹿児島県,2263,HIRO99,鹿児島県,3199,AMURO,鹿児島県
+DJ TROOPERS,Blue Rain,251,#FAMS.,鹿児島県,869,BARUCO,鹿児島県,1215,CHI9B,鹿児島県,2263,HIRO99,鹿児島県,3207,HIRO99,鹿児島県
 DJ TROOPERS,beatonic nation,0,,-,820,SHOKI,鹿児島県,1199,JUNIN,鹿児島県,2136,FUSI,鹿児島県,0,,-
 DJ TROOPERS,Be OK,0,,-,0,,-,1725,NEKO*3,鹿児島県,2303,TRANCE,鹿児島県,3229,SUMIRE,鹿児島県
 DJ TROOPERS,avant-guerre,0,,-,485,CAHAC,鹿児島県,1144,SEKKEN,鹿児島県,1695,TRANCE,鹿児島県,0,,-
@@ -419,7 +419,7 @@ EMPRESS,"You'll say ""Now!""",0,,-,0,,-,1520,CAOS.,鹿児島県,2431,SUMIRE,鹿�
 EMPRESS,Y&Co. is dead or alive,0,,-,679,SIOOOO,鹿児島県,1575,HIRO,鹿児島県,2699,HIRO99,鹿児島県,0,,-
 EMPRESS,V2,565,TORORO,鹿児島県,1082,CAHAC,鹿児島県,2910,NEKO*3,鹿児島県,3513,SUMIRE,鹿児島県,0,,-
 EMPRESS,Turii ～Panta rhei～,355,NEKO*3,鹿児島県,581,XYOHX,鹿児島県,1929,HAKU*,鹿児島県,2663,SUMIRE,鹿児島県,0,,-
-EMPRESS,THANK YOU FOR PLAYING,0,,-,763,BARUCO,鹿児島県,1499,ALICE,鹿児島県,2110,SUMIRE,鹿児島県,2858,SUMIRE,鹿児島県
+EMPRESS,THANK YOU FOR PLAYING,0,,-,763,BARUCO,鹿児島県,1499,ALICE,鹿児島県,2117,HIRO99,鹿児島県,2858,SUMIRE,鹿児島県
 EMPRESS,SOLITON BEAM,0,,-,0,,-,0,,-,2211,MANZEN,鹿児島県,0,,-
 EMPRESS,smooooch・∀・,390,NEKO*3,鹿児島県,779,BARUCO,鹿児島県,1581,HAKU*,鹿児島県,2140,HIRO99,鹿児島県,0,,-
 EMPRESS,Secrets,0,,-,707,SHOKI,鹿児島県,2140,HAKU*,鹿児島県,3113,HIRO99,鹿児島県,3906,SUMIRE,鹿児島県
@@ -436,9 +436,9 @@ EMPRESS,Just a Little Smile,0,,-,498,SHOKI,鹿児島県,1348,SUMIRE,鹿児島県
 EMPRESS,Jack,0,,-,650,KYOKO,鹿児島県,1343,SEKKEN,鹿児島県,2164,HIRO99,鹿児島県,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,513,A-KAZ,鹿児島県,965,AXL,鹿児島県,1693,FUSI,鹿児島県,0,,-
 EMPRESS,HYPERION,0,,-,502,SHOKI,鹿児島県,1579,WENLI,鹿児島県,2710,HIRO99,鹿児島県,0,,-
-EMPRESS,Go Beyond!!,273,A,鹿児島県,763,SPROUT,鹿児島県,1614,TRANCE,鹿児島県,2149,HIRO99,鹿児島県,0,,-
+EMPRESS,Go Beyond!!,296,A,鹿児島県,763,SPROUT,鹿児島県,1638,TRANCE,鹿児島県,2149,HIRO99,鹿児島県,0,,-
 EMPRESS,Fly Above,0,,-,949,HAKU*,鹿児島県,1571,HAKU*,鹿児島県,2027,SUMIRE,鹿児島県,0,,-
-EMPRESS,Flash Back 90's,0,,-,634,SHOKI,鹿児島県,1527,OITAN,鹿児島県,2330,HIRO99,鹿児島県,0,,-
+EMPRESS,Flash Back 90's,0,,-,634,SHOKI,鹿児島県,1596,3X3X3,鹿児島県,2330,HIRO99,鹿児島県,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,604,RUTO,鹿児島県,1523,CHI9B,鹿児島県,2395,SUQNE*,鹿児島県,0,,-
 EMPRESS,Colorful Cookie,467,SARIEL,鹿児島県,939,MERO*,鹿児島県,2216,TRANCE,鹿児島県,3441,HIRO99,鹿児島県,0,,-
 EMPRESS,CaptivAte2～覚醒～,0,,-,780,CC141,鹿児島県,1422,HIRO,鹿児島県,2366,HIRO99,鹿児島県,0,,-
@@ -446,7 +446,7 @@ EMPRESS,BRIDAL FESTIVAL !!!,0,,-,896,BARUCO,鹿児島県,1428,NEKO*3,鹿児島�
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,0,,-,2225,HIRO99,鹿児島県,3865,HIRO99,鹿児島県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,803,SEIIII,鹿児島県,1928,SUQNE*,鹿児島県,2613,INOKI!,鹿児島県,3208,SUMIRE,鹿児島県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,792,SUPIKA,鹿児島県,1900,IRIS,鹿児島県,3505,HIRO99,鹿児島県,4334,AMURO,鹿児島県
-EMPRESS,Arabian Rave Night,0,,-,0,,-,2057,EEE.,鹿児島県,2907,HIRO99,鹿児島県,3563,HIRO99,鹿児島県
+EMPRESS,Arabian Rave Night,0,,-,878,SUPIKA,鹿児島県,2057,EEE.,鹿児島県,2907,HIRO99,鹿児島県,3563,HIRO99,鹿児島県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,656,T-DAK,鹿児島県,1479,A-COOP,鹿児島県,2559,HIRO99,鹿児島県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,0,,-,1640,NEKO*3,鹿児島県,2093,SACHI,鹿児島県,0,,-
 EMPRESS,3y3s,403,IIDX29,鹿児島県,1219,BARUCO,鹿児島県,2316,TRANCE,鹿児島県,3350,AMURO,鹿児島県,0,,-
@@ -460,7 +460,7 @@ SIRIUS,たからもの,0,,-,955,KYOKO,鹿児島県,1819,HAKU*,鹿児島県,2236,
 SIRIUS,かずあそび,0,,-,482,BARUCO,鹿児島県,1127,SEKKEN,鹿児島県,1685,CHP*1E,鹿児島県,0,,-
 SIRIUS,The Story Begins,0,,-,428,SOL,鹿児島県,1179,SLIME,鹿児島県,2365,FUSI,鹿児島県,0,,-
 SIRIUS,THE LAST STRIKER,0,,-,0,,-,1707,CHI9B,鹿児島県,2594,SUMIRE,鹿児島県,0,,-
-SIRIUS,Special One,0,,-,0,,-,896,JUNIN,鹿児島県,1768,CHP*1E,鹿児島県,0,,-
+SIRIUS,Special One,0,,-,0,,-,930,SPROUT,鹿児島県,1768,CHP*1E,鹿児島県,0,,-
 SIRIUS,Sorrows,0,,-,695,AAAAAA,鹿児島県,1580,SEKKEN,鹿児島県,2471,INOKI!,鹿児島県,0,,-
 SIRIUS,SOLID STATE SQUAD,0,,-,574,SHOKI,鹿児島県,2138,TRANCE,鹿児島県,3478,HIRO99,鹿児島県,3499,SUMIRE,鹿児島県
 SIRIUS,She is my wife,270,TORORO,鹿児島県,438,CC141,鹿児島県,1148,MARUKO,鹿児島県,1982,HIRO99,鹿児島県,0,,-
@@ -479,10 +479,10 @@ SIRIUS,Last Burning,0,,-,836,BARUCO,鹿児島県,1567,NEKO*3,鹿児島県,2379,H
 SIRIUS,Keep it-秋葉工房mix-,0,,-,1011,HAKU*,鹿児島県,1411,0000,鹿児島県,1844,FUSI,鹿児島県,0,,-
 SIRIUS,IN THE NAME OF LOVE,321,MASABO,鹿児島県,424,SHOKI,鹿児島県,1200,BARUCO,鹿児島県,1904,INOKI!,鹿児島県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,0,,-,1449,CHI9B,鹿児島県,2320,HIRO99,鹿児島県,0,,-
-SIRIUS,GOLDEN CROSS,0,,-,498,SQUIRT,鹿児島県,1848,BAD429,鹿児島県,3399,HIRO99,鹿児島県,0,,-
+SIRIUS,GOLDEN CROSS,0,,-,498,SQUIRT,鹿児島県,1848,RELIX,鹿児島県,3399,HIRO99,鹿児島県,0,,-
 SIRIUS,GALGALIM,0,,-,952,SPROUT,鹿児島県,1954,EEE.,鹿児島県,2310,SUMIRE,鹿児島県,0,,-
 SIRIUS,G59,0,,-,1143,BYTE-7,鹿児島県,2236,TRANCE,鹿児島県,3778,SUMIRE,鹿児島県,0,,-
-SIRIUS,EXUSIA,0,,-,1074,BARUCO,鹿児島県,2313,DARU08,鹿児島県,3781,HIRO99,鹿児島県,0,,-
+SIRIUS,EXUSIA,0,,-,1074,BARUCO,鹿児島県,2370,NEKO*3,鹿児島県,3781,HIRO99,鹿児島県,0,,-
 SIRIUS,Evans,442,MOTIDA,鹿児島県,1161,CHI9B,鹿児島県,2173,SUMIRE,鹿児島県,2742,HIRO99,鹿児島県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,995,NIBE,鹿児島県,2039,CLEF,鹿児島県,3207,HIRO99,鹿児島県,0,,-
 SIRIUS,Empire State Glory,0,,-,1070,BARUCO,鹿児島県,1692,SEKKEN,鹿児島県,2609,CHP*1E,鹿児島県,0,,-
@@ -502,16 +502,16 @@ SIRIUS,bass 2 bass,234,JUNIN,鹿児島県,557,SUPIKA,鹿児島県,1217,HAKU*,鹿
 SIRIUS,Bad Maniacs,0,,-,1227,TRANCE,鹿児島県,1672,TRANCE,鹿児島県,3135,HIRO99,鹿児島県,0,,-
 SIRIUS,Almagest,0,,-,983,HAKU*,鹿児島県,2154,SUMIRE,鹿児島県,3029,AAAAAA,鹿児島県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,355,MASABO,鹿児島県,1088,BARUCO,鹿児島県,1572,SEKKEN,鹿児島県,2301,HIRO99,鹿児島県,2876,SUMIRE,鹿児島県
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,521,OMN,鹿児島県,2012,NEKO*3,鹿児島県,3357,SACHI,鹿児島県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,521,OMN,鹿児島県,2012,NEKO*3,鹿児島県,3362,SUMIRE,鹿児島県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,515,TALA,鹿児島県,1049,KAI046,鹿児島県,1850,MANZEN,鹿児島県,3070,HIRO99,鹿児島県,0,,-
 Resort Anthem,旅人リラン,0,,-,855,A-KAZ,鹿児島県,1571,MINOR,鹿児島県,2604,HIRO99,鹿児島県,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,799,NAC,鹿児島県,1753,BAD429,鹿児島県,2728,SUMIRE,鹿児島県,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,799,NAC,鹿児島県,1753,RELIX,鹿児島県,2728,SUMIRE,鹿児島県,0,,-
 Resort Anthem,中華急行,0,,-,322,HAKU*,鹿児島県,1469,HAKU*,鹿児島県,2306,HIRO99,鹿児島県,0,,-
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,357,SARIEL,鹿児島県,662,SUPIKA,鹿児島県,1285,SEKKEN,鹿児島県,1917,HIRO99,鹿児島県,0,,-
 Resort Anthem,おおきなこえで,0,,-,289,MASABO,鹿児島県,869,WENLI,鹿児島県,1480,YAMITA,鹿児島県,2132,AITHON,鹿児島県
 Resort Anthem,ZETA～素数の世界と超越者～,239,SEIIII,鹿児島県,526,BARUCO,鹿児島県,1930,HIRO,鹿児島県,3041,SUMIRE,鹿児島県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,497,SHOKI,鹿児島県,1390,AZU*,鹿児島県,2722,CHP*1E,鹿児島県,0,,-
-Resort Anthem,Wuv U,0,,-,310,SOPHER,鹿児島県,964,JUNIN,鹿児島県,1704,HIRO99,鹿児島県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,497,SHOKI,鹿児島県,1390,AZU*,鹿児島県,2731,HIRO99,鹿児島県,0,,-
+Resort Anthem,Wuv U,0,,-,319,JUNK,鹿児島県,964,JUNIN,鹿児島県,1704,HIRO99,鹿児島県,0,,-
 Resort Anthem,WISE UP!,177,CHIKWA,鹿児島県,0,,-,757,KYOKO,鹿児島県,1584,HIRO99,鹿児島県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1008,BARUCO,鹿児島県,1892,SACHI,鹿児島県,2825,HIRO99,鹿児島県,0,,-
 Resort Anthem,Vermillion,0,,-,0,,-,588,CHAOS!,鹿児島県,1997,FUSI,鹿児島県,0,,-
@@ -532,7 +532,7 @@ Resort Anthem,reunion,528,0000,鹿児島県,1327,HAKU*,鹿児島県,2351,SUMIRE,
 Resort Anthem,Programmed Life,0,,-,698,SHOKI,鹿児島県,1381,NAH,鹿児島県,2325,AITHON,鹿児島県,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1157,HAKU*,鹿児島県,2481,SUMIRE,鹿児島県,3816,AAAAAA,鹿児島県,0,,-
 Resort Anthem,passionate fate,0,,-,384,SIOOOO,鹿児島県,1587,NEKO*3,鹿児島県,2097,HIRO99,鹿児島県,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1202,RYUSAN,鹿児島県,2302,CHP*1E,鹿児島県,3141,SUMIRE,鹿児島県,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1280,SEKKEN,鹿児島県,2302,CHP*1E,鹿児島県,3141,SUMIRE,鹿児島県,0,,-
 Resort Anthem,New Castle Legions,0,,-,863,RYUSAN,鹿児島県,1541,GOLD.S,鹿児島県,2651,SUMIRE,鹿児島県,0,,-
 Resort Anthem,Never Fade Away,0,,-,0,,-,0,,-,2965,SUMIRE,鹿児島県,0,,-
 Resort Anthem,Mermaid girl,416,SHINHH,鹿児島県,722,RUTO,鹿児島県,1621,HAKU*,鹿児島県,2218,INOKI!,鹿児島県,0,,-
@@ -570,8 +570,8 @@ Lincle,天空の夜明け,0,,-,1289,RPG,鹿児島県,2056,SACHI,鹿児島県,392
 Lincle,君のハートにロックオン,0,,-,645,BARUCO,鹿児島県,1366,BARUCO,鹿児島県,2638,SUMIRE,鹿児島県,3334,AAAAAA,鹿児島県
 Lincle,ユミル,0,,-,613,BARUCO,鹿児島県,1163,WENLI,鹿児島県,2763,SUMIRE,鹿児島県,0,,-
 Lincle,ビューティフルレシート,215,MOS,鹿児島県,377,A-KAZ,鹿児島県,1190,NEKO*3,鹿児島県,1895,FUSI,鹿児島県,0,,-
-Lincle,Yellow Sunrise,0,,-,712,BARUCO,鹿児島県,1310,VOID,鹿児島県,2254,CHP*1E,鹿児島県,0,,-
-Lincle,yellow head joe,0,,-,635,BASVAL,鹿児島県,1219,831,鹿児島県,2258,INOKI!,鹿児島県,0,,-
+Lincle,Yellow Sunrise,0,,-,712,BARUCO,鹿児島県,1310,VOID,鹿児島県,2276,HIRO99,鹿児島県,0,,-
+Lincle,yellow head joe,0,,-,696,BARUCO,鹿児島県,1270,WENLI,鹿児島県,2258,INOKI!,鹿児島県,0,,-
 Lincle,YAKSHA,0,,-,933,BASVAL,鹿児島県,2057,ALICE,鹿児島県,3786,SUMIRE,鹿児島県,0,,-
 Lincle,WONDER WALKER,0,,-,790,BASVAL,鹿児島県,1766,LOUVRE,鹿児島県,3707,SUMIRE,鹿児島県,0,,-
 Lincle,Voxane,0,,-,310,MASABO,鹿児島県,1134,SEKKEN,鹿児島県,1723,AITHON,鹿児島県,0,,-
@@ -595,11 +595,11 @@ Lincle,quaver♪,206,SSSSSS,鹿児島県,691,HAKU*,鹿児島県,2078,TRANCE,鹿�
 Lincle,QUANTUM TELEPORTATION,0,,-,1184,DARU08,鹿児島県,2201,NEKO*3,鹿児島県,2887,SACHI,鹿児島県,3492,AMURO,鹿児島県
 Lincle,prompt,0,,-,732,SUPIKA,鹿児島県,1540,HAKU*,鹿児島県,2781,SUMIRE,鹿児島県,0,,-
 Lincle,Phoenix,0,,-,730,BARUCO,鹿児島県,1189,SEKKEN,鹿児島県,2465,HIRO99,鹿児島県,3659,AMURO,鹿児島県
-Lincle,NNRT,0,,-,975,0,鹿児島県,2413,EEE.,鹿児島県,3374,POIFUL,鹿児島県,0,,-
+Lincle,NNRT,0,,-,975,0,鹿児島県,2413,EEE.,鹿児島県,3415,SUMIRE,鹿児島県,0,,-
 Lincle,Miami Sunset Drive,0,,-,587,BARUCO,鹿児島県,1010,SEKKEN,鹿児島県,1655,AITHON,鹿児島県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,580,SHIRO,鹿児島県,1294,SEKKEN,鹿児島県,2053,INOKI!,鹿児島県,0,,-
 Lincle,Lucky Days,0,,-,559,TALA,鹿児島県,1172,SLIME,鹿児島県,2068,TRANCE,鹿児島県,0,,-
-Lincle,LOVE B.B.B,0,,-,730,BARUCO,鹿児島県,1128,DANIM0,鹿児島県,1948,SUQNE*,鹿児島県,0,,-
+Lincle,LOVE B.B.B,0,,-,730,BARUCO,鹿児島県,1399,SEKKEN,鹿児島県,1981,FUSI,鹿児島県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,0,,-,789,SHOKI,鹿児島県,1998,FUSI,鹿児島県,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,508,MMLJI?,鹿児島県,1575,HAKU*,鹿児島県,2209,HIRO99,鹿児島県,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,826,BASVAL,鹿児島県,2032,NEKO*3,鹿児島県,2779,MANZEN,鹿児島県,0,,-
@@ -612,26 +612,26 @@ Lincle,Flip Flap,156,IIDX29,鹿児島県,410,1J&WKA,鹿児島県,1318,SEKKEN,鹿
 Lincle,fffff,0,,-,784,BARUCO,鹿児島県,1901,TRANCE,鹿児島県,3048,HIRO99,鹿児島県,0,,-
 Lincle,Far east nightbird,182,IIIIII,鹿児島県,426,SOPHER,鹿児島県,1243,SEKKEN,鹿児島県,2018,HIRO99,鹿児島県,0,,-
 Lincle,F,0,,-,1045,ALICE,鹿児島県,2017,I.O,鹿児島県,3476,SUMIRE,鹿児島県,0,,-
-Lincle,Express Emotion,0,,-,724,BARUCO,鹿児島県,1023,HAKU*,鹿児島県,2486,HIRO99,鹿児島県,0,,-
+Lincle,Express Emotion,0,,-,724,BARUCO,鹿児島県,1023,HAKU*,鹿児島県,2507,FUSI,鹿児島県,0,,-
 Lincle,Drive Me Crazy,0,,-,554,A-KAZ,鹿児島県,1347,HAKU*,鹿児島県,2298,SUMIRE,鹿児島県,0,,-
 Lincle,DIAVOLO,0,,-,1212,BARUCO,鹿児島県,1824,EEE.,鹿児島県,3086,AAAAAA,鹿児島県,0,,-
 Lincle,Change the World,0,,-,0,,-,1147,AXL,鹿児島県,1851,HIRO99,鹿児島県,0,,-
 Lincle,Castle on the Moon,119,LOTUS7,鹿児島県,509,IIDX29,鹿児島県,1444,0000,鹿児島県,2343,SUMIRE,鹿児島県,0,,-
 Lincle,CALL,0,,-,72,GOTYYY,鹿児島県,811,SEKKEN,鹿児島県,1433,SUQNE*,鹿児島県,0,,-
 Lincle,BLACK.by X-Cross Fade,0,,-,973,KAI046,鹿児島県,2167,SACHI,鹿児島県,3309,HIRO99,鹿児島県,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,0,,-,1253,AXL,鹿児島県,2477,HIRO99,鹿児島県,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,492,IIIIII,鹿児島県,1253,AXL,鹿児島県,2477,HIRO99,鹿児島県,0,,-
 Lincle,Almace,0,,-,596,SHOKI,鹿児島県,1273,NEKO*3,鹿児島県,1908,EEE.,鹿児島県,0,,-
-Lincle,532nm,0,,-,360,IIIIII,鹿児島県,1209,NEKO*3,鹿児島県,2617,SUMIRE,鹿児島県,0,,-
+Lincle,532nm,0,,-,365,JUNK,鹿児島県,1209,NEKO*3,鹿児島県,2617,SUMIRE,鹿児島県,0,,-
 Lincle,24th Century BOY,0,,-,813,BARUCO,鹿児島県,1881,NEKO*3,鹿児島県,2828,HIRO99,鹿児島県,0,,-
-tricoro,龍と少女とデコヒーレンス,0,,-,391,SHOKI,鹿児島県,1034,NA41A,鹿児島県,2940,SUMIRE,鹿児島県,3270,SUMIRE,鹿児島県
+tricoro,龍と少女とデコヒーレンス,0,,-,391,SHOKI,鹿児島県,1215,SLIME,鹿児島県,2940,SUMIRE,鹿児島県,3270,SUMIRE,鹿児島県
 tricoro,音楽,0,,-,795,TEL,鹿児島県,1821,LOUVRE,鹿児島県,2666,HIRO99,鹿児島県,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,814,TYU.,鹿児島県,2295,TRANCE,鹿児島県,3535,SUMIRE,鹿児島県,0,,-
 tricoro,梅雪夜,0,,-,603,FUKU#,鹿児島県,1365,831,鹿児島県,2119,CHP*1E,鹿児島県,0,,-
 tricoro,朧,200,NEKO*3,鹿児島県,685,*NICO*,鹿児島県,1417,HAKU*,鹿児島県,2107,CHP*1E,鹿児島県,2501,SUMIRE,鹿児島県
 tricoro,即席！脳直★ミュージックシステム,0,,-,971,BARUCO,鹿児島県,1831,TRANCE,鹿児島県,3461,HIRO99,鹿児島県,0,,-
 tricoro,創世ノート,0,,-,782,BARUCO,鹿児島県,1649,SEKKEN,鹿児島県,2923,SUMIRE,鹿児島県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,692,SHOKI,鹿児島県,2179,SUMIRE,鹿児島県,2855,SUMIRE,鹿児島県,3797,HIRO99,鹿児島県
-tricoro,下弦の月,0,,-,700,KYOKO,鹿児島県,1049,NIBE,鹿児島県,1967,YAMITA,鹿児島県,0,,-
+tricoro,仮想空間の旅人たち,0,,-,852,SUPIKA,鹿児島県,2179,SUMIRE,鹿児島県,2855,SUMIRE,鹿児島県,3797,HIRO99,鹿児島県
+tricoro,下弦の月,0,,-,700,KYOKO,鹿児島県,1247,SEKKEN,鹿児島県,1967,YAMITA,鹿児島県,0,,-
 tricoro,ラキラキ,0,,-,429,TABC,鹿児島県,1103,TEKUNI,鹿児島県,1969,HIRO99,鹿児島県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,611,BARUCO,鹿児島県,1213,SEKKEN,鹿児島県,1940,SUMIRE,鹿児島県,0,,-
 tricoro,トリカゴノ鳳凰,0,,-,1120,HAKU*,鹿児島県,1617,XINJIN,鹿児島県,3648,HIRO99,鹿児島県,0,,-
@@ -639,24 +639,24 @@ tricoro,シュレーディンガーの猫,0,,-,861,JUNIN,鹿児島県,2212,SUQNE
 tricoro,キャトられ恋はモ～モク,0,,-,1260,IIDX28,鹿児島県,2505,TRANCE,鹿児島県,3685,HIRO99,鹿児島県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,517,A-KAZ,鹿児島県,1126,SMORE,鹿児島県,2421,HIRO99,鹿児島県,0,,-
 tricoro,アストライアの双皿,0,,-,533,OMN,鹿児島県,1780,CLEF,鹿児島県,3079,HIRO99,鹿児島県,0,,-
-tricoro,たまゆら,0,,-,803,SEIIII,鹿児島県,1793,TRANCE,鹿児島県,2704,SUMIRE,鹿児島県,0,,-
+tricoro,たまゆら,0,,-,835,SPROUT,鹿児島県,1793,TRANCE,鹿児島県,2729,HIRO99,鹿児島県,0,,-
 tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,624,SUPIKA,鹿児島県,1364,BARUCO,鹿児島県,2114,CHP*1E,鹿児島県,3477,AMURO,鹿児島県
 tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),146,SYURI,鹿児島県,429,IIDX29,鹿児島県,1587,TRANCE,鹿児島県,3449,HIRO99,鹿児島県,0,,-
 tricoro,ΕΛΠΙΣ,0,,-,781,KYOKO,鹿児島県,1994,TRANCE,鹿児島県,3065,HIRO99,鹿児島県,3458,SUMIRE,鹿児島県
-tricoro,Zirkfied,0,,-,0,,-,2006,CHP*1E,鹿児島県,3604,HIRO99,鹿児島県,0,,-
+tricoro,Zirkfied,0,,-,0,,-,2042,HIRO99,鹿児島県,3604,HIRO99,鹿児島県,0,,-
 tricoro,ZED,0,,-,543,SHOKI,鹿児島県,1513,MASA,鹿児島県,2743,SUMIRE,鹿児島県,0,,-
 tricoro,VEGA,0,,-,832,SPROUT,鹿児島県,1916,RIMI,鹿児島県,3054,HIRO99,鹿児島県,0,,-
 tricoro,VALLIS-NERIA,156,IIDX29,鹿児島県,1129,BARUCO,鹿児島県,2015,TRANCE,鹿児島県,2923,HIRO99,鹿児島県,0,,-
-tricoro,Valanga,0,,-,1266,HAKU*,鹿児島県,2174,CHP*1E,鹿児島県,3164,HIRO99,鹿児島県,0,,-
+tricoro,Valanga,0,,-,1266,HAKU*,鹿児島県,2226,HIRO99,鹿児島県,3164,HIRO99,鹿児島県,0,,-
 tricoro,True Blue,0,,-,1020,BARUCO,鹿児島県,2201,HAKU*,鹿児島県,3727,HIRO99,鹿児島県,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,0,,-,1610,K.Z,鹿児島県,2799,HIRO99,鹿児島県,0,,-
-tricoro,Timepiece phase II,0,,-,767,SETUKO,鹿児島県,2016,CHP*1E,鹿児島県,3110,SUMIRE,鹿児島県,0,,-
+tricoro,Timepiece phase II,0,,-,767,SETUKO,鹿児島県,2207,HIRO99,鹿児島県,3110,SUMIRE,鹿児島県,0,,-
 tricoro,Time To Empress,0,,-,773,TARO*,鹿児島県,1783,SEKKEN,鹿児島県,2599,HIRO99,鹿児島県,0,,-
 tricoro,Thor's Hammer,0,,-,623,SUPIKA,鹿児島県,1708,TRANCE,鹿児島県,2813,SUMIRE,鹿児島県,0,,-
 tricoro,Take My Life,0,,-,734,MERO*,鹿児島県,1247,SPROUT,鹿児島県,2863,SUMIRE,鹿児島県,0,,-
 tricoro,Synergy For Angels,0,,-,687,OMN,鹿児島県,1178,JUNIN,鹿児島県,2742,HIRO99,鹿児島県,0,,-
 tricoro,SYNC-ANTHEM,0,,-,559,CC141,鹿児島県,2202,3X3X3,鹿児島県,3588,HIRO99,鹿児島県,0,,-
-tricoro,STULTI,0,,-,426,SETUKO,鹿児島県,1160,LK,鹿児島県,2651,SUMIRE,鹿児島県,0,,-
+tricoro,STULTI,0,,-,426,SETUKO,鹿児島県,1160,LK,鹿児島県,2655,HIRO99,鹿児島県,0,,-
 tricoro,Sol Cosine Job 2,0,,-,905,RAMUN3,鹿児島県,1548,CEMNN.,鹿児島県,3000,SUMIRE,鹿児島県,0,,-
 tricoro,SHION,0,,-,502,IIDX29,鹿児島県,1292,HAKU*,鹿児島県,2656,YAMITA,鹿児島県,0,,-
 tricoro,Shining World,0,,-,1155,HAKU*,鹿児島県,1499,HAKU*,鹿児島県,1942,FUSI,鹿児島県,0,,-
@@ -673,7 +673,7 @@ tricoro,Plan 8,0,,-,989,0,鹿児島県,2063,TRANCE,鹿児島県,3060,HIRO99,鹿�
 tricoro,New Lights,0,,-,707,BESVAL,鹿児島県,1651,EVIAN.,鹿児島県,2433,FUSI,鹿児島県,0,,-
 tricoro,New Decade IIDX Edition,163,CHASE,鹿児島県,820,AAAAAA,鹿児島県,1778,SEKKEN,鹿児島県,2964,SUMIRE,鹿児島県,0,,-
 tricoro,neu,0,,-,786,JUNIN,鹿児島県,2120,EEE.,鹿児島県,3840,SUMIRE,鹿児島県,0,,-
-tricoro,Neonlights,0,,-,468,IIDX29,鹿児島県,1387,CHI9B,鹿児島県,2204,AAABBB,鹿児島県,0,,-
+tricoro,Neonlights,0,,-,632,BARUCO,鹿児島県,1387,CHI9B,鹿児島県,2204,AAABBB,鹿児島県,0,,-
 tricoro,mnemoniq,0,,-,498,BARUCO,鹿児島県,764,AXL,鹿児島県,1303,CHP*1E,鹿児島県,0,,-
 tricoro,LUV CAN SAVE U,0,,-,342,GLITTR,鹿児島県,1188,JUNIN,鹿児島県,2112,CHP*1E,鹿児島県,2779,SUMIRE,鹿児島県
 tricoro,Little Star,0,,-,835,MUSIC,鹿児島県,1665,HAKU*,鹿児島県,3127,SUMIRE,鹿児島県,0,,-
@@ -705,39 +705,39 @@ tricoro,Ascalon,0,,-,1074,TEL,鹿児島県,1645,831,鹿児島県,2275,POIFUL,鹿
 tricoro,8bit Princess,0,,-,608,BYTE-7,鹿児島県,1345,HAKU*,鹿児島県,2591,FUSI,鹿児島県,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,846,BARUCO,鹿児島県,1443,SEINA.,鹿児島県,2552,SUMIRE,鹿児島県,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,888,SLIME,鹿児島県,1899,TRANCE,鹿児島県,3420,SUMIRE,鹿児島県,0,,-
-SPADA,超!!遠距離らぶメ～ル,0,,-,479,ARI9,鹿児島県,1405,BARUCO,鹿児島県,2590,SACHI,鹿児島県,0,,-
+SPADA,超!!遠距離らぶメ～ル,0,,-,479,ARI9,鹿児島県,1405,BARUCO,鹿児島県,2595,FUSI,鹿児島県,0,,-
 SPADA,罪と罰,0,,-,815,KYOKO,鹿児島県,1244,HAKU*,鹿児島県,2128,SUMIRE,鹿児島県,0,,-
 SPADA,疾風迅雷,0,,-,701,KYOKO,鹿児島県,1958,TRANCE,鹿児島県,2809,SUMIRE,鹿児島県,3226,SUMIRE,鹿児島県
-SPADA,牧神笛吹きて,0,,-,374,SHOKI,鹿児島県,1261,KAI046,鹿児島県,2026,SUMIRE,鹿児島県,0,,-
+SPADA,牧神笛吹きて,0,,-,374,SHOKI,鹿児島県,1261,KAI046,鹿児島県,2036,HIRO99,鹿児島県,0,,-
 SPADA,煉獄のエルフェリア,0,,-,997,N.MOFU,鹿児島県,2121,I.O,鹿児島県,3697,SUMIRE,鹿児島県,0,,-
 SPADA,海神,0,,-,1095,NEKO*3,鹿児島県,1988,TRANCE,鹿児島県,3067,HIRO99,鹿児島県,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,995,*NICO*,鹿児島県,2410,TRANCE,鹿児島県,3829,SUMIRE,鹿児島県,0,,-
-SPADA,廿,0,,-,636,SOL,鹿児島県,0,,-,2057,3X3X3,鹿児島県,3231,HIRO99,鹿児島県
+SPADA,廿,0,,-,667,SUPIKA,鹿児島県,0,,-,2057,3X3X3,鹿児島県,3231,HIRO99,鹿児島県
 SPADA,幻想系世界修復少女,0,,-,604,BARUCO,鹿児島県,1089,SEKKEN,鹿児島県,2004,HIRO99,鹿児島県,0,,-
 SPADA,バンブーソード・ガール,0,,-,661,KYOKO,鹿児島県,1597,NARU,鹿児島県,2408,HIRO99,鹿児島県,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,421,*HIGU*,鹿児島県,1026,JUNIN,鹿児島県,2692,HIRO99,鹿児島県,0,,-
 SPADA,アルストロメリア,147,TAKUTO,鹿児島県,919,KAI046,鹿児島県,1421,ALICE,鹿児島県,2450,CHP*1E,鹿児島県,0,,-
 SPADA,お願いアインシュタイン,0,,-,764,BASVAL,鹿児島県,1316,SHIKI,鹿児島県,2118,SUMIRE,鹿児島県,0,,-
-SPADA,Wonder Girl feat. Kanae Asaba,0,,-,447,MASABO,鹿児島県,1185,.,鹿児島県,2741,AMURO,鹿児島県,0,,-
+SPADA,Wonder Girl feat. Kanae Asaba,0,,-,447,MASABO,鹿児島県,1185,.,鹿児島県,2759,SUMIRE,鹿児島県,0,,-
 SPADA,VOX UP,0,,-,1365,BARUCO,鹿児島県,2741,SUMIRE,鹿児島県,3502,SUMIRE,鹿児島県,0,,-
-SPADA,Verflucht,0,,-,1235,KAI046,鹿児島県,2085,SACHI,鹿児島県,3415,AMURO,鹿児島県,4371,AMURO,鹿児島県
+SPADA,Verflucht,0,,-,1235,KAI046,鹿児島県,2130,HIRO99,鹿児島県,3415,AMURO,鹿児島県,4371,AMURO,鹿児島県
 SPADA,Valgus,0,,-,396,IIIIII,鹿児島県,0,,-,2335,SUMIRE,鹿児島県,0,,-
 SPADA,Unicorn tail,0,,-,508,RUTO,鹿児島県,2050,CHP*1E,鹿児島県,3064,SUMIRE,鹿児島県,0,,-
 SPADA,THE DETONATOR,0,,-,1486,KAI046,鹿児島県,2252,HAKU*,鹿児島県,3180,SUMIRE,鹿児島県,0,,-
 SPADA,Squeeze,0,,-,0,,-,1162,CHI9B,鹿児島県,2412,SUMIRE,鹿児島県,0,,-
 SPADA,Sigmund,0,,-,1370,HAKU*,鹿児島県,2201,LOUVRE,鹿児島県,3666,HIRO99,鹿児島県,3975,AMURO,鹿児島県
-SPADA,SCHWARZSCHILD FIELD,0,,-,0,,-,1082,SMORE,鹿児島県,2316,SUMIRE,鹿児島県,0,,-
+SPADA,SCHWARZSCHILD FIELD,0,,-,547,JACK,鹿児島県,1082,SMORE,鹿児島県,2316,SUMIRE,鹿児島県,0,,-
 SPADA,RIZING YOU UP,0,,-,423,YOKAZE,鹿児島県,1977,RUNA96,鹿児島県,2561,HIRO99,鹿児島県,0,,-
 SPADA,RISE,0,,-,833,BARUCO,鹿児島県,1180,SEKKEN,鹿児島県,1851,HIRO99,鹿児島県,0,,-
 SPADA,refractive index,0,,-,648,TALA,鹿児島県,1361,SEKKEN,鹿児島県,2633,AITHON,鹿児島県,0,,-
 SPADA,Recollection,0,,-,1107,BARUCO,鹿児島県,1745,NEKO*3,鹿児島県,2193,POIFUL,鹿児島県,0,,-
-SPADA,rainbow guitar weeps,0,,-,692,SHOKI,鹿児島県,1584,DARU08,鹿児島県,2721,HIRO99,鹿児島県,0,,-
+SPADA,rainbow guitar weeps,0,,-,694,FUKU#,鹿児島県,1584,DARU08,鹿児島県,2721,HIRO99,鹿児島県,0,,-
 SPADA,ra'am,0,,-,1012,TEKUNI,鹿児島県,1761,TRANCE,鹿児島県,2667,HIRO99,鹿児島県,0,,-
 SPADA,PUNISHER,0,,-,1059,BARUCO,鹿児島県,1890,WASECH,鹿児島県,3522,HIRO99,鹿児島県,0,,-
 SPADA,Pharaoh,0,,-,0,,-,1247,BARUCO,鹿児島県,2416,HIRO99,鹿児島県,0,,-
 SPADA,Overload Frontier,0,,-,0,,-,1622,SEKKEN,鹿児島県,2557,HIRO99,鹿児島県,0,,-
 SPADA,Odin,0,,-,729,BARUCO,鹿児島県,1219,BARUCO,鹿児島県,2045,HIRO99,鹿児島県,0,,-
-SPADA,NPC World,0,,-,950,BARUCO,鹿児島県,1341,BARUCO,鹿児島県,2232,FUSI,鹿児島県,0,,-
+SPADA,NPC World,0,,-,950,BARUCO,鹿児島県,1445,SEKKEN,鹿児島県,2232,FUSI,鹿児島県,0,,-
 SPADA,Miracle 5ympho X,0,,-,587,SUPIKA,鹿児島県,1226,SEKKEN,鹿児島県,2543,SACHI,鹿児島県,0,,-
 SPADA,MAGIC & LOVE,0,,-,761,A-KAZ,鹿児島県,1678,SEKKEN,鹿児島県,2868,HIRO99,鹿児島県,0,,-
 SPADA,MAD ATTACK,0,,-,414,SOL,鹿児島県,1067,CHI9B,鹿児島県,1956,CHP*1E,鹿児島県,0,,-
@@ -752,7 +752,7 @@ SPADA,invoker,0,,-,0,,-,1796,HAKU*,鹿児島県,3155,SUMIRE,鹿児島県,3399,AM
 SPADA,into the battlefield,0,,-,708,KAI046,鹿児島県,1383,SEKKEN,鹿児島県,2368,HIRO99,鹿児島県,0,,-
 SPADA,INSOMNIA,0,,-,770,KAI046,鹿児島県,1773,TRANCE,鹿児島県,3071,HIRO99,鹿児島県,0,,-
 SPADA,Insane Techniques,0,,-,386,IIIIII,鹿児島県,1217,HAKU*,鹿児島県,2437,HIRO99,鹿児島県,0,,-
-SPADA,"Idola ",0,,-,986,SLIME,鹿児島県,2244,TRANCE,鹿児島県,3520,HIRO99,鹿児島県,0,,-
+SPADA,"Idola ",0,,-,986,SLIME,鹿児島県,2244,TRANCE,鹿児島県,3528,HIRO99,鹿児島県,0,,-
 SPADA,I will be back -オレは帰ってきた-,0,,-,673,SHOKI,鹿児島県,1680,CAOS.,鹿児島県,2907,SUMIRE,鹿児島県,0,,-
 SPADA,Hypersonik,0,,-,711,A-KAZ,鹿児島県,1160,JUNIN,鹿児島県,2428,TRANCE,鹿児島県,0,,-
 SPADA,HYENA,0,,-,933,SLIME,鹿児島県,1774,SEKKEN,鹿児島県,2801,HIRO99,鹿児島県,0,,-
@@ -764,7 +764,7 @@ SPADA,Element of SPADA,0,,-,695,HAKU*,鹿児島県,1330,HAKU*,鹿児島県,2080,
 SPADA,Elektrick U-Phoria,0,,-,0,,-,1413,STYCK,鹿児島県,3095,HIRO99,鹿児島県,0,,-
 SPADA,diagram,0,,-,359,MASABO,鹿児島県,977,CHAOS!,鹿児島県,2820,HIRO99,鹿児島県,0,,-
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,873,BARUCO,鹿児島県,1610,RAM.,鹿児島県,2461,SUMIRE,鹿児島県,0,,-
-SPADA,DARK LEGACY,0,,-,765,MUSIC,鹿児島県,1825,K.Z,鹿児島県,3487,INOKI!,鹿児島県,0,,-
+SPADA,DARK LEGACY,0,,-,842,SUPIKA,鹿児島県,1825,K.Z,鹿児島県,3487,INOKI!,鹿児島県,0,,-
 SPADA,Dark Fall,0,,-,545,NEEEEE,鹿児島県,839,TINK0*,鹿児島県,2682,SUMIRE,鹿児島県,0,,-
 SPADA,Critical Crystal,219,NEKO*3,鹿児島県,775,IIDX29,鹿児島県,1647,831,鹿児島県,2870,HIRO99,鹿児島県,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,493,SHOKI,鹿児島県,2119,HIRO99,鹿児島県,3325,HIRO99,鹿児島県,3725,HIRO99,鹿児島県
@@ -801,21 +801,21 @@ PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1301,HAKU*,鹿児
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,542,SOPHER,鹿児島県,1456,HAKU*,鹿児島県,2517,SUMIRE,鹿児島県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,552,SUPIKA,鹿児島県,1234,3X3X3,鹿児島県,2248,HIRO99,鹿児島県,0,,-
 PENDUAL,それは花火のような恋,620,#FAMS.,鹿児島県,1213,BARUCO,鹿児島県,2459,CHP*1E,鹿児島県,3764,HIRO99,鹿児島県,0,,-
-PENDUAL,ZZ,121,KONA,鹿児島県,1172,BARUCO,鹿児島県,1958,CHP*1E,鹿児島県,3005,HIRO99,鹿児島県,0,,-
+PENDUAL,ZZ,121,KONA,鹿児島県,1172,BARUCO,鹿児島県,2056,HIRO99,鹿児島県,3005,HIRO99,鹿児島県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,0,,-,2225,TRANCE,鹿児島県,3612,SUMIRE,鹿児島県,0,,-
 PENDUAL,Vulkan,0,,-,0,,-,1749,KELLER,鹿児島県,2945,HIRO99,鹿児島県,0,,-
-PENDUAL,TOXIC VIBRATION,0,,-,1273,YOU,鹿児島県,2399,CHP*1E,鹿児島県,3643,HIRO99,鹿児島県,0,,-
+PENDUAL,TOXIC VIBRATION,0,,-,1273,YOU,鹿児島県,2439,HIRO99,鹿児島県,3643,HIRO99,鹿児島県,0,,-
 PENDUAL,TIEFSEE,0,,-,1254,HAKU*,鹿児島県,1682,NAH,鹿児島県,3421,HIRO99,鹿児島県,0,,-
 PENDUAL,The Least 100sec,0,,-,397,AL,鹿児島県,1375,TRANCE,鹿児島県,2814,SUMIRE,鹿児島県,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,0,,-,1448,SEKKEN,鹿児島県,2310,HIRO99,鹿児島県,0,,-
 PENDUAL,Symmetry,0,,-,1085,BARUCO,鹿児島県,1998,TRANCE,鹿児島県,3198,HIRO99,鹿児島県,0,,-
-PENDUAL,Sweet Radar,0,,-,651,HAKU*,鹿児島県,941,R,鹿児島県,2030,HIRO99,鹿児島県,0,,-
-PENDUAL,SpaceLand☆TOYBOX,0,,-,627,SHOKI,鹿児島県,1008,JUNIN,鹿児島県,2877,HIRO99,鹿児島県,0,,-
+PENDUAL,Sweet Radar,0,,-,651,HAKU*,鹿児島県,1336,NEKO*3,鹿児島県,2030,HIRO99,鹿児島県,0,,-
+PENDUAL,SpaceLand☆TOYBOX,0,,-,709,SHOKI,鹿児島県,1008,JUNIN,鹿児島県,2877,HIRO99,鹿児島県,0,,-
 PENDUAL,Sounds Of Summer,0,,-,1179,MASA,鹿児島県,1995,TRANCE,鹿児島県,2945,HIRO99,鹿児島県,0,,-
 PENDUAL,Shooting Fireball,0,,-,636,SHOKI,鹿児島県,2320,HIRO99,鹿児島県,3794,SUMIRE,鹿児島県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,649,BASVAL,鹿児島県,1656,NEKO*3,鹿児島県,2842,HIRO99,鹿児島県,0,,-
 PENDUAL,Scarlet Moon,0,,-,823,KYOKO,鹿児島県,1710,RUNA96,鹿児島県,2724,HIRO99,鹿児島県,0,,-
-PENDUAL,Say YEEEAHH,0,,-,818,YOU,鹿児島県,1682,BAD429,鹿児島県,3192,HIRO99,鹿児島県,0,,-
+PENDUAL,Say YEEEAHH,0,,-,818,YOU,鹿児島県,1682,RELIX,鹿児島県,3192,HIRO99,鹿児島県,0,,-
 PENDUAL,SAMSARA,0,,-,706,BASVAL,鹿児島県,936,MIO35P,鹿児島県,2042,HIRO99,鹿児島県,0,,-
 PENDUAL,Sakura Mirage,0,,-,649,SUPIKA,鹿児島県,928,JUNIN,鹿児島県,2286,SUMIRE,鹿児島県,0,,-
 PENDUAL,Reflux,0,,-,618,0,鹿児島県,1464,HAKU*,鹿児島県,2899,HIRO99,鹿児島県,0,,-
@@ -827,7 +827,7 @@ PENDUAL,No Tears,0,,-,908,0,鹿児島県,1658,BARUCO,鹿児島県,2480,AITHON,�
 PENDUAL,Night sky,0,,-,727,SUPIKA,鹿児島県,1649,0000,鹿児島県,2864,SUMIRE,鹿児島県,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,0,,-,1662,831,鹿児島県,3213,HIRO99,鹿児島県,0,,-
 PENDUAL,Monopole.,0,,-,553,IIDX29,鹿児島県,1346,WENLI,鹿児島県,3263,SUMIRE,鹿児島県,0,,-
-PENDUAL,Line 4 Ruin,0,,-,384,IIIIII,鹿児島県,1737,ALICE,鹿児島県,2737,CHP*1E,鹿児島県,0,,-
+PENDUAL,Line 4 Ruin,0,,-,384,IIIIII,鹿児島県,1737,ALICE,鹿児島県,2756,SUMIRE,鹿児島県,0,,-
 PENDUAL,IXION,0,,-,997,BARUCO,鹿児島県,1404,STYCK,鹿児島県,2162,HIRO99,鹿児島県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,701,SUPIKA,鹿児島県,1569,CHP*1E,鹿児島県,2681,HIRO99,鹿児島県,0,,-
 PENDUAL,In The Breeze,0,,-,589,BARUCO,鹿児島県,1065,SEKKEN,鹿児島県,1723,HIRO99,鹿児島県,0,,-
@@ -859,7 +859,96 @@ PENDUAL,Beyond The Earth,0,,-,1060,SEINA.,鹿児島県,2020,EEE.,鹿児島県,31
 PENDUAL,Beat Radiance,0,,-,980,HAKU*,鹿児島県,1577,HAKU*,鹿児島県,2629,HIRO99,鹿児島県,3533,SUMIRE,鹿児島県
 PENDUAL,AFRO KNUCKLE,0,,-,875,BARUCO,鹿児島県,1233,JUNIN,鹿児島県,2396,SUMIRE,鹿児島県,0,,-
 PENDUAL,#The_Relentless,0,,-,0,,-,1637,SEINA.,鹿児島県,2916,HIRO99,鹿児島県,0,,-
-copula,麗 ～うらら～,246,NEKO*3,鹿児島県,913,MERO*,鹿児島県,1742,NEKO*3,鹿児島県,2554,YAMITA,鹿児島県,0,,-
+SINOBUZ,鴉,0,,-,1021,FFF,鹿児島県,2200,SUQNE*,鹿児島県,2665,SUMIRE,鹿児島県,0,,-
+SINOBUZ,童話回廊,0,,-,873,BARUCO,鹿児島県,1713,EEE.,鹿児島県,3021,SUMIRE,鹿児島県,0,,-
+SINOBUZ,禍根,0,,-,482,SHOKI,鹿児島県,1101,ZONE,鹿児島県,2511,SUMIRE,鹿児島県,0,,-
+SINOBUZ,獅子霞麗ノ舞,0,,-,393,IIDX29,鹿児島県,0,,-,1722,SUMIRE,鹿児島県,0,,-
+SINOBUZ,焔極OVERKILL,0,,-,959,0,鹿児島県,2019,MANZEN,鹿児島県,3498,HIRO99,鹿児島県,0,,-
+SINOBUZ,火影,0,,-,583,A-KAZ,鹿児島県,1307,D.ARK!,鹿児島県,2699,HIRO99,鹿児島県,0,,-
+SINOBUZ,津軽雪,0,,-,919,TYU.,鹿児島県,2143,TRANCE,鹿児島県,3748,HIRO99,鹿児島県,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,616,KYOKO,鹿児島県,1305,BARUCO,鹿児島県,1987,HIRO99,鹿児島県,0,,-
+SINOBUZ,月雪に舞う華のように,0,,-,777,BARUCO,鹿児島県,771,SEIIII,鹿児島県,2090,AITHON,鹿児島県,0,,-
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,985,HAKU*,鹿児島県,1548,SUQNE*,鹿児島県,2465,HIRO99,鹿児島県,0,,-
+SINOBUZ,忍恋花,0,,-,678,KYOKO,鹿児島県,1445,CLEF,鹿児島県,2219,INOKI!,鹿児島県,0,,-
+SINOBUZ,刃図羅,0,,-,1180,RYUSAN,鹿児島県,2008,TRANCE,鹿児島県,3337,HIRO99,鹿児島県,0,,-
+SINOBUZ,冬椿 ft. Kanae Asaba,254,NEKO*3,鹿児島県,903,BARUCO,鹿児島県,1206,HAKU*,鹿児島県,2241,SACHI,鹿児島県,2968,FUSI,鹿児島県
+SINOBUZ,九尾狐夜行,0,,-,752,BARUCO,鹿児島県,1680,FC2DX,鹿児島県,2906,HIRO99,鹿児島県,0,,-
+SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,636,BARUCO,鹿児島県,1389,OMNMIX,鹿児島県,2474,SUMIRE,鹿児島県,0,,-
+SINOBUZ,イザナミノナゲキ,0,,-,850,KYOKO,鹿児島県,1932,EEE.,鹿児島県,3169,SUMIRE,鹿児島県,0,,-
+SINOBUZ,ちらちら・はらはら,0,,-,405,HAKU*,鹿児島県,941,POIFUL,鹿児島県,1425,CHP*1E,鹿児島県,0,,-
+SINOBUZ,〆,0,,-,1093,SLIME,鹿児島県,2158,HAKU*,鹿児島県,3617,HIRO99,鹿児島県,0,,-
+SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,670,BARUCO,鹿児島県,1519,SEKKEN,鹿児島県,2839,SACHI,鹿児島県,0,,-
+SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,679,MUSIC,鹿児島県,1602,EEE.,鹿児島県,2599,SUMIRE,鹿児島県,0,,-
+SINOBUZ,XINOBIKILL,0,,-,745,SPROUT,鹿児島県,1270,SRH,鹿児島県,2830,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Warrior,0,,-,591,BKAWBT,鹿児島県,1611,0000,鹿児島県,2431,FUSI,鹿児島県,0,,-
+SINOBUZ,Vermilion,0,,-,327,RUTO,鹿児島県,1329,URADLE,鹿児島県,1993,SACHI,鹿児島県,0,,-
+SINOBUZ,Venom,0,,-,247,DISIDE,鹿児島県,1845,IIDX29,鹿児島県,3142,HIRO99,鹿児島県,0,,-
+SINOBUZ,Umbral,0,,-,381,MASABO,鹿児島県,1369,NEKO*3,鹿児島県,1908,INOKI!,鹿児島県,0,,-
+SINOBUZ,TOGAKUSHI,0,,-,0,,-,1810,TRANCE,鹿児島県,2548,INOKI!,鹿児島県,0,,-
+SINOBUZ,The Commanders,0,,-,681,A-KAZ,鹿児島県,1288,STYCK,鹿児島県,2423,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,553,HAKU*,鹿児島県,1202,HAKU*,鹿児島県,1912,HIRO99,鹿児島県,0,,-
+SINOBUZ,Surf on the Light,0,,-,757,HAKU*,鹿児島県,1386,HAKU*,鹿児島県,2224,POIFUL,鹿児島県,0,,-
+SINOBUZ,Super Rush,0,,-,790,*NICO*,鹿児島県,1893,CHP*1E,鹿児島県,3507,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Summerlights(IIDX Edition),0,,-,851,Y0RA,鹿児島県,1653,831,鹿児島県,3053,HIRO99,鹿児島県,0,,-
+SINOBUZ,Steel Edge,0,,-,566,SHOKI,鹿児島県,1368,BARUCO,鹿児島県,3126,INOKI!,鹿児島県,0,,-
+SINOBUZ,Snakey Kung-fu,0,,-,1068,KAI046,鹿児島県,2016,SUQNE*,鹿児島県,3336,HIRO99,鹿児島県,0,,-
+SINOBUZ,Sky High,329,MASABO,鹿児島県,1087,BARUCO,鹿児島県,2300,EEE.,鹿児島県,3664,AMURO,鹿児島県,0,,-
+SINOBUZ,SINOBUZ Fantasy,0,,-,697,POKA,鹿児島県,1577,HAKU*,鹿児島県,2429,HIRO99,鹿児島県,0,,-
+SINOBUZ,shuriken,0,,-,722,BARUCO,鹿児島県,1074,SEKKEN,鹿児島県,2523,HIRO99,鹿児島県,0,,-
+SINOBUZ,SEQUENCE CAT,0,,-,1015,BARUCO,鹿児島県,2062,ASIC,鹿児島県,2794,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Selfish Sweet,0,,-,506,AAAAAA,鹿児島県,851,BARUCO,鹿児島県,1701,SACHI,鹿児島県,0,,-
+SINOBUZ,Seaside Labyrinth,0,,-,517,NEKYOS,鹿児島県,1165,SEKKEN,鹿児島県,1868,HIRO99,鹿児島県,0,,-
+SINOBUZ,SAY BAY,0,,-,788,BARUCO,鹿児島県,1412,HAKU*,鹿児島県,2806,HIRO99,鹿児島県,0,,-
+SINOBUZ,Sarutobi Champion is 拙者,0,,-,0,,-,1399,SEKKEN,鹿児島県,2157,SUMIRE,鹿児島県,0,,-
+SINOBUZ,SAMURAI-Scramble,0,,-,908,RYUSAN,鹿児島県,1628,TRANCE,鹿児島県,2395,HIRO99,鹿児島県,2653,HIRO99,鹿児島県
+SINOBUZ,ROTTERDAM SHOGUN,305,MASABO,鹿児島県,952,0,鹿児島県,1714,SEKKEN,鹿児島県,2554,HIRO99,鹿児島県,0,,-
+SINOBUZ,RISING FIRE HAWK,0,,-,560,SHOKI,鹿児島県,1126,SLIME,鹿児島県,2642,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Remedy feat. Kanae Asaba,0,,-,0,,-,1273,STYCK,鹿児島県,2171,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Rave Cannon,0,,-,801,SLIME,鹿児島県,1766,NMKR,鹿児島県,3299,HIRO99,鹿児島県,0,,-
+SINOBUZ,RAIN,0,,-,1082,BARUCO,鹿児島県,1530,SEKKEN,鹿児島県,3213,HIRO99,鹿児島県,0,,-
+SINOBUZ,Quakes,0,,-,642,SHOKI,鹿児島県,1959,TRANCE,鹿児島県,3088,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Piano Samurai,0,,-,974,BARUCO,鹿児島県,1625,HAKU*,鹿児島県,2453,FUSI,鹿児島県,0,,-
+SINOBUZ,PAPAYAPA BASS,0,,-,538,SHOKI,鹿児島県,1390,831,鹿児島県,2780,HIRO99,鹿児島県,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,0,,-,2113,EEE.,鹿児島県,3062,SUMIRE,鹿児島県,0,,-
+SINOBUZ,OOO,0,,-,502,MASABO,鹿児島県,1422,SUQNE*,鹿児島県,2059,HIRO99,鹿児島県,0,,-
+SINOBUZ,nostos,0,,-,448,SOL,鹿児島県,1227,SEKKEN,鹿児島県,2552,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Music is The Answer,0,,-,342,SHOKI,鹿児島県,1217,BARUCO,鹿児島県,1919,HIRO99,鹿児島県,0,,-
+SINOBUZ,Modular Technology,0,,-,728,SHOKI,鹿児島県,1923,EEE.,鹿児島県,2593,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Mare Nectaris,0,,-,1255,BARUCO,鹿児島県,2070,CHP*1E,鹿児島県,3668,AAAAAA,鹿児島県,0,,-
+SINOBUZ,Magical,0,,-,567,RUTO,鹿児島県,1160,SEKKEN,鹿児島県,2010,HIRO99,鹿児島県,0,,-
+SINOBUZ,Macuilxochitl,357,#FAMS.,鹿児島県,1236,TEKUNI,鹿児島県,2112,TRANCE,鹿児島県,3263,HIRO99,鹿児島県,0,,-
+SINOBUZ,Lost wing at.0,0,,-,599,RUTO,鹿児島県,1005,SLIME,鹿児島県,2420,SUMIRE,鹿児島県,0,,-
+SINOBUZ,INVISIBLE STRIX,0,,-,683,BESVAL,鹿児島県,2024,EEE.,鹿児島県,2574,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Honey Trap,0,,-,794,BARUCO,鹿児島県,1582,SUQNE*,鹿児島県,2510,HIRO99,鹿児島県,0,,-
+SINOBUZ,HAPPY★RUSH,0,,-,754,BARUCO,鹿児島県,1594,SEKKEN,鹿児島県,2801,SUMIRE,鹿児島県,0,,-
+SINOBUZ,HADES,377,KAI046,鹿児島県,953,KAI046,鹿児島県,1755,NMKR,鹿児島県,3013,HIRO99,鹿児島県,0,,-
+SINOBUZ,GuNGNiR,0,,-,1277,HAKU*,鹿児島県,2599,SUMIRE,鹿児島県,3760,HIRO99,鹿児島県,4125,AAAAAA,鹿児島県
+SINOBUZ,Go Ahead!!,0,,-,736,0,鹿児島県,1479,EEE.,鹿児島県,2592,AMURO,鹿児島県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,651,RUTO,鹿児島県,1938,TRANCE,鹿児島県,3727,HIRO99,鹿児島県,0,,-
+SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,394,BBB,鹿児島県,523,SHOKI,鹿児島県,1629,INOKI!,鹿児島県,0,,-
+SINOBUZ,Egret and Willow,0,,-,954,BARUCO,鹿児島県,1532,831,鹿児島県,2680,AITHON,鹿児島県,0,,-
+SINOBUZ,ECHIDNA,0,,-,1046,SEINA.,鹿児島県,2141,HIRO99,鹿児島県,3200,SACHI,鹿児島県,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1217,HAKU*,鹿児島県,2162,TRANCE,鹿児島県,3494,HIRO99,鹿児島県,0,,-
+SINOBUZ,Cyber True Color,0,,-,0,,-,1630,EEE.,鹿児島県,2317,CHP*1E,鹿児島県,0,,-
+SINOBUZ,crew,0,,-,625,HAKU*,鹿児島県,1578,SEKKEN,鹿児島県,2877,CHP*1E,鹿児島県,0,,-
+SINOBUZ,Caterpillar,0,,-,795,A-KAZ,鹿児島県,2097,TRANCE,鹿児島県,2959,HIRO99,鹿児島県,0,,-
+SINOBUZ,BroGamer,0,,-,1134,SPROUT,鹿児島県,2003,IIDX29,鹿児島県,3038,SUMIRE,鹿児島県,4488,AITHON,鹿児島県
+SINOBUZ,Breakin' Chain,0,,-,516,IIDX29,鹿児島県,1275,HAKU*,鹿児島県,2310,HIRO99,鹿児島県,0,,-
+SINOBUZ,BREAK OVER,0,,-,843,BARUCO,鹿児島県,1388,RAM.,鹿児島県,2355,HIRO99,鹿児島県,0,,-
+SINOBUZ,Beyond The Seven,0,,-,513,MASABO,鹿児島県,1221,HAKU*,鹿児島県,2662,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Believe in you,0,,-,832,A-KAZ,鹿児島県,1700,BARUCO,鹿児島県,2361,EEE.,鹿児島県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,826,0000,鹿児島県,1545,ASIC,鹿児島県,2175,HIRO99,鹿児島県,0,,-
+SINOBUZ,Be A Star,0,,-,719,FUKU#,鹿児島県,1745,HAKU*,鹿児島県,2790,HIRO99,鹿児島県,0,,-
+SINOBUZ,BabeL ～Grand Story～,0,,-,1095,MASA,鹿児島県,2099,POIFUL,鹿児島県,2788,HIRO99,鹿児島県,0,,-
+SINOBUZ,AsiaN distractive,0,,-,0,,-,1631,831,鹿児島県,2580,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Around The Galaxy,0,,-,0,,-,1875,LEVEL1,鹿児島県,3357,SUMIRE,鹿児島県,0,,-
+SINOBUZ,Apocalypse,0,,-,953,SLIME,鹿児島県,2099,UNAGI*,鹿児島県,3521,INOKI!,鹿児島県,0,,-
+SINOBUZ,AO-∞,0,,-,1047,BARUCO,鹿児島県,1637,ALICE,鹿児島県,2529,EEE.,鹿児島県,0,,-
+SINOBUZ,Amazing Mirage,287,MOS,鹿児島県,709,A-KAZ,鹿児島県,1660,TRANCE,鹿児島県,2605,HIRO99,鹿児島県,3216,HIRO99,鹿児島県
+SINOBUZ,(This Is Not) The Angels,0,,-,540,SEINA.,鹿児島県,1345,SEKKEN,鹿児島県,2691,SUMIRE,鹿児島県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,847,A-KAZ,鹿児島県,1895,RUNA96,鹿児島県,3329,SUMIRE,鹿児島県,0,,-
+SINOBUZ,!Viva!,0,,-,692,SPROUT,鹿児島県,993,K0*,鹿児島県,1990,INOKI!,鹿児島県,0,,-
+copula,麗 ～うらら～,246,NEKO*3,鹿児島県,913,MERO*,鹿児島県,1742,NEKO*3,鹿児島県,2586,SUMIRE,鹿児島県,0,,-
 copula,駅猫のワルツ,0,,-,714,SPROUT,鹿児島県,1972,CHP*1E,鹿児島県,2642,SUMIRE,鹿児島県,0,,-
 copula,量子の海のリントヴルム,0,,-,607,KYOKO,鹿児島県,1609,WASECH,鹿児島県,2927,HIRO99,鹿児島県,0,,-
 copula,追想快晴テーマパーク,0,,-,791,KYOKO,鹿児島県,1896,DARU08,鹿児島県,3066,HIRO99,鹿児島県,0,,-
@@ -877,7 +966,7 @@ copula,オルタネイトβ,0,,-,835,HAKU*,鹿児島県,1354,HAKU*,鹿児島県,
 copula,めいさいアイドル☆あいむちゃん♪,0,,-,1286,TEKUNI,鹿児島県,2226,MANZEN,鹿児島県,3310,HIRO99,鹿児島県,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,736,KYOKO,鹿児島県,1431,SEINA.,鹿児島県,2813,HIRO99,鹿児島県,0,,-
 copula,ZEPHYRANTHES,0,,-,710,AAAAAA,鹿児島県,1687,ORTHO-,鹿児島県,2902,HIRO99,鹿児島県,3733,SUMIRE,鹿児島県
-copula,X,0,,-,1509,RPG,鹿児島県,2478,CHP*1E,鹿児島県,3701,SUMIRE,鹿児島県,0,,-
+copula,X,0,,-,1509,RPG,鹿児島県,2500,HIRO99,鹿児島県,3701,SUMIRE,鹿児島県,0,,-
 copula,Welcome,0,,-,834,HAKU*,鹿児島県,1610,DARU08,鹿児島県,2589,CHP*1E,鹿児島県,3267,SUMIRE,鹿児島県
 copula,Violet Rose,0,,-,1037,SLIME,鹿児島県,1589,SEKKEN,鹿児島県,2557,HIRO99,鹿児島県,0,,-
 copula,Violet Pulse,0,,-,408,BARUCO,鹿児島県,1416,CHI9B,鹿児島県,2402,SACHI,鹿児島県,0,,-
@@ -885,7 +974,7 @@ copula,Uh-Oh,0,,-,1061,BARUCO,鹿児島県,1378,Y-XEPH,鹿児島県,2383,HIRO99,
 copula,Triple Counter,0,,-,1021,CC141,鹿児島県,2168,EEE.,鹿児島県,3843,SUMIRE,鹿児島県,0,,-
 copula,Tori-no-kimochi,0,,-,250,BARUCO,鹿児島県,0,,-,1988,SUMIRE,鹿児島県,0,,-
 copula,SURVIVOR,0,,-,439,IIDX29,鹿児島県,1165,CHI9B,鹿児島県,1990,FUSI,鹿児島県,0,,-
-copula,Super Duper Racers,0,,-,0,,-,0,,-,2294,MANZEN,鹿児島県,0,,-
+copula,Super Duper Racers,0,,-,724,SPROUT,鹿児島県,0,,-,2294,MANZEN,鹿児島県,0,,-
 copula,StrayedCatz,0,,-,859,JUNIN,鹿児島県,1869,TRANCE,鹿児島県,2727,SUMIRE,鹿児島県,0,,-
 copula,STARLIGHT DANCEHALL,0,,-,1182,BARUCO,鹿児島県,1657,HAKU*,鹿児島県,2632,HIRO99,鹿児島県,3250,HIRO99,鹿児島県
 copula,STARLiGHT,0,,-,874,BARUCO,鹿児島県,1509,NAH,鹿児島県,2727,SUMIRE,鹿児島県,0,,-
@@ -894,12 +983,12 @@ copula,Set U Free feat. Kanae Asaba,0,,-,500,IIIIII,鹿児島県,0,,-,2488,SACHI
 copula,Sephirot,0,,-,886,BARUCO,鹿児島県,1452,SEKKEN,鹿児島県,2322,HIRO99,鹿児島県,0,,-
 copula,SEITEN NO TERIYAKI,0,,-,400,IIDX29,鹿児島県,909,CC141,鹿児島県,2238,SUMIRE,鹿児島県,0,,-
 copula,Routing,0,,-,756,SLIME,鹿児島県,1291,SMORE,鹿児島県,2476,HIRO99,鹿児島県,0,,-
-copula,Rock It,0,,-,546,SHOKI,鹿児島県,1580,SUQNE*,鹿児島県,2907,INOKI!,鹿児島県,0,,-
+copula,Rock It,0,,-,581,SUPIKA,鹿児島県,1580,SUQNE*,鹿児島県,2907,INOKI!,鹿児島県,0,,-
 copula,refrain,0,,-,813,BESVAL,鹿児島県,2371,HIRO99,鹿児島県,3506,SUMIRE,鹿児島県,0,,-
 copula,quick master (reform version),0,,-,149,NEKO*3,鹿児島県,346,NEKO*3,鹿児島県,523,FUSI,鹿児島県,0,,-
 copula,POSSESSION,444,#FAMS.,鹿児島県,1303,KAI046,鹿児島県,2073,MANZEN,鹿児島県,2922,HIRO99,鹿児島県,0,,-
-copula,Outbreak,0,,-,865,SPROUT,鹿児島県,1773,BAD429,鹿児島県,2969,SUMIRE,鹿児島県,0,,-
-copula,On the FM,0,,-,110,KEN,鹿児島県,1466,0000,鹿児島県,2724,SUMIRE,鹿児島県,0,,-
+copula,Outbreak,0,,-,865,SPROUT,鹿児島県,1773,RELIX,鹿児島県,2969,SUMIRE,鹿児島県,0,,-
+copula,On the FM,0,,-,553,SHOKI,鹿児島県,1466,0000,鹿児島県,2724,SUMIRE,鹿児島県,0,,-
 copula,NZM,0,,-,691,MUSIC,鹿児島県,1465,HAKU*,鹿児島県,3293,SUMIRE,鹿児島県,0,,-
 copula,Nowhere,0,,-,0,,-,1200,WENLI,鹿児島県,2124,FUSI,鹿児島県,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,764,BARUCO,鹿児島県,1066,SRH,鹿児島県,2249,HIRO99,鹿児島県,0,,-
@@ -907,7 +996,7 @@ copula,NINJA IS DEAD IIDX ver.,0,,-,1001,SPROUT,鹿児島県,1662,0000,鹿児島
 copula,Nightmare before oversleep,0,,-,1175,HAKU*,鹿児島県,1898,MANZEN,鹿児島県,2916,HIRO99,鹿児島県,0,,-
 copula,NANAIRO,0,,-,0,,-,1598,SHIKI,鹿児島県,2562,HIRO99,鹿児島県,0,,-
 copula,Musik LoverZ,0,,-,577,SHOKI,鹿児島県,1202,STYCK,鹿児島県,2451,HIRO99,鹿児島県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1159,TEKUNI,鹿児島県,2034,EEE.,鹿児島県,2953,SUMIRE,鹿児島県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1159,TEKUNI,鹿児島県,2034,EEE.,鹿児島県,2979,HIRO99,鹿児島県,0,,-
 copula,La dolce primavera,0,,-,354,IIIIII,鹿児島県,1334,HAKU*,鹿児島県,2165,HIRO99,鹿児島県,0,,-
 copula,Konzert V,0,,-,844,KYOKO,鹿児島県,2180,TRANCE,鹿児島県,3258,SUMIRE,鹿児島県,0,,-
 copula,Journey,0,,-,492,MASABO,鹿児島県,1192,SEKKEN,鹿児島県,1831,AMURO,鹿児島県,3095,SUMIRE,鹿児島県
@@ -940,95 +1029,6 @@ copula,AO-1,0,,-,1117,BARUCO,鹿児島県,1950,HIRO99,鹿児島県,2715,HIRO99,�
 copula,Angelic Jelly,0,,-,899,ZECTOO,鹿児島県,1893,CLEF,鹿児島県,2740,SUMIRE,鹿児島県,0,,-
 copula,Acid Pumper,0,,-,532,OMN,鹿児島県,1515,SUQNE*,鹿児島県,2435,SUMIRE,鹿児島県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,624,KAI046,鹿児島県,1686,CHP*1E,鹿児島県,2342,HIRO99,鹿児島県,0,,-
-SINOBUZ,鴉,0,,-,1021,FFF,鹿児島県,2200,SUQNE*,鹿児島県,2665,SUMIRE,鹿児島県,0,,-
-SINOBUZ,童話回廊,0,,-,873,BARUCO,鹿児島県,1713,EEE.,鹿児島県,3021,SUMIRE,鹿児島県,0,,-
-SINOBUZ,禍根,0,,-,482,SHOKI,鹿児島県,1101,ZONE,鹿児島県,2511,SUMIRE,鹿児島県,0,,-
-SINOBUZ,獅子霞麗ノ舞,0,,-,393,IIDX29,鹿児島県,0,,-,1722,SUMIRE,鹿児島県,0,,-
-SINOBUZ,焔極OVERKILL,0,,-,959,0,鹿児島県,2019,MANZEN,鹿児島県,3498,HIRO99,鹿児島県,0,,-
-SINOBUZ,火影,0,,-,583,A-KAZ,鹿児島県,1307,D.ARK!,鹿児島県,2699,HIRO99,鹿児島県,0,,-
-SINOBUZ,津軽雪,0,,-,919,TYU.,鹿児島県,2143,TRANCE,鹿児島県,3748,HIRO99,鹿児島県,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,616,KYOKO,鹿児島県,1305,BARUCO,鹿児島県,1987,HIRO99,鹿児島県,0,,-
-SINOBUZ,月雪に舞う華のように,0,,-,777,BARUCO,鹿児島県,771,SEIIII,鹿児島県,2090,AITHON,鹿児島県,0,,-
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,985,HAKU*,鹿児島県,1548,SUQNE*,鹿児島県,2465,HIRO99,鹿児島県,0,,-
-SINOBUZ,忍恋花,0,,-,678,KYOKO,鹿児島県,1445,CLEF,鹿児島県,2219,INOKI!,鹿児島県,0,,-
-SINOBUZ,刃図羅,0,,-,1180,RYUSAN,鹿児島県,2008,TRANCE,鹿児島県,3337,HIRO99,鹿児島県,0,,-
-SINOBUZ,冬椿 ft. Kanae Asaba,254,NEKO*3,鹿児島県,903,BARUCO,鹿児島県,1206,HAKU*,鹿児島県,2241,SACHI,鹿児島県,2968,FUSI,鹿児島県
-SINOBUZ,九尾狐夜行,0,,-,752,BARUCO,鹿児島県,1680,FC2DX,鹿児島県,2906,HIRO99,鹿児島県,0,,-
-SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,636,BARUCO,鹿児島県,1389,OMNMIX,鹿児島県,2474,SUMIRE,鹿児島県,0,,-
-SINOBUZ,イザナミノナゲキ,0,,-,850,KYOKO,鹿児島県,1932,EEE.,鹿児島県,3169,SUMIRE,鹿児島県,0,,-
-SINOBUZ,ちらちら・はらはら,0,,-,405,HAKU*,鹿児島県,941,POIFUL,鹿児島県,1425,CHP*1E,鹿児島県,0,,-
-SINOBUZ,〆,0,,-,1093,SLIME,鹿児島県,2158,HAKU*,鹿児島県,3617,HIRO99,鹿児島県,0,,-
-SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,0,,-,1262,IRON,鹿児島県,2839,SACHI,鹿児島県,0,,-
-SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,679,MUSIC,鹿児島県,1602,EEE.,鹿児島県,2599,SUMIRE,鹿児島県,0,,-
-SINOBUZ,XINOBIKILL,0,,-,745,SPROUT,鹿児島県,1270,SRH,鹿児島県,2830,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Warrior,0,,-,591,BKAWBT,鹿児島県,1611,0000,鹿児島県,2431,FUSI,鹿児島県,0,,-
-SINOBUZ,Vermilion,0,,-,327,RUTO,鹿児島県,1329,URADLE,鹿児島県,1993,SACHI,鹿児島県,0,,-
-SINOBUZ,Venom,0,,-,247,DISIDE,鹿児島県,1836,NARU,鹿児島県,3142,HIRO99,鹿児島県,0,,-
-SINOBUZ,Umbral,0,,-,381,MASABO,鹿児島県,1369,NEKO*3,鹿児島県,1908,INOKI!,鹿児島県,0,,-
-SINOBUZ,TOGAKUSHI,0,,-,0,,-,1810,TRANCE,鹿児島県,2548,INOKI!,鹿児島県,0,,-
-SINOBUZ,The Commanders,0,,-,681,A-KAZ,鹿児島県,1288,STYCK,鹿児島県,2423,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,553,HAKU*,鹿児島県,1202,HAKU*,鹿児島県,1912,HIRO99,鹿児島県,0,,-
-SINOBUZ,Surf on the Light,0,,-,757,HAKU*,鹿児島県,1386,HAKU*,鹿児島県,2224,POIFUL,鹿児島県,0,,-
-SINOBUZ,Super Rush,0,,-,790,*NICO*,鹿児島県,1893,CHP*1E,鹿児島県,3507,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Summerlights(IIDX Edition),0,,-,851,Y0RA,鹿児島県,1653,831,鹿児島県,3053,HIRO99,鹿児島県,0,,-
-SINOBUZ,Steel Edge,0,,-,566,SHOKI,鹿児島県,1368,BARUCO,鹿児島県,3126,INOKI!,鹿児島県,0,,-
-SINOBUZ,Snakey Kung-fu,0,,-,1068,KAI046,鹿児島県,2016,SUQNE*,鹿児島県,3336,HIRO99,鹿児島県,0,,-
-SINOBUZ,Sky High,329,MASABO,鹿児島県,1087,BARUCO,鹿児島県,2300,EEE.,鹿児島県,3664,AMURO,鹿児島県,0,,-
-SINOBUZ,SINOBUZ Fantasy,0,,-,697,POKA,鹿児島県,1577,HAKU*,鹿児島県,2429,HIRO99,鹿児島県,0,,-
-SINOBUZ,shuriken,0,,-,722,BARUCO,鹿児島県,1074,SEKKEN,鹿児島県,2523,HIRO99,鹿児島県,0,,-
-SINOBUZ,SEQUENCE CAT,0,,-,1015,BARUCO,鹿児島県,2062,ASIC,鹿児島県,2794,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Selfish Sweet,0,,-,506,AAAAAA,鹿児島県,851,BARUCO,鹿児島県,1701,SACHI,鹿児島県,0,,-
-SINOBUZ,Seaside Labyrinth,0,,-,517,NEKYOS,鹿児島県,1165,SEKKEN,鹿児島県,1868,HIRO99,鹿児島県,0,,-
-SINOBUZ,SAY BAY,0,,-,745,0,鹿児島県,1412,HAKU*,鹿児島県,2806,HIRO99,鹿児島県,0,,-
-SINOBUZ,Sarutobi Champion is 拙者,0,,-,0,,-,1399,SEKKEN,鹿児島県,2157,SUMIRE,鹿児島県,0,,-
-SINOBUZ,SAMURAI-Scramble,0,,-,908,RYUSAN,鹿児島県,1590,TRANCE,鹿児島県,2395,HIRO99,鹿児島県,2653,HIRO99,鹿児島県
-SINOBUZ,ROTTERDAM SHOGUN,305,MASABO,鹿児島県,952,0,鹿児島県,1714,SEKKEN,鹿児島県,2554,HIRO99,鹿児島県,0,,-
-SINOBUZ,RISING FIRE HAWK,0,,-,560,SHOKI,鹿児島県,1126,SLIME,鹿児島県,2642,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Remedy feat. Kanae Asaba,0,,-,0,,-,1273,STYCK,鹿児島県,2171,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Rave Cannon,0,,-,801,SLIME,鹿児島県,1766,NMKR,鹿児島県,3299,HIRO99,鹿児島県,0,,-
-SINOBUZ,RAIN,0,,-,1082,BARUCO,鹿児島県,1530,SEKKEN,鹿児島県,3213,HIRO99,鹿児島県,0,,-
-SINOBUZ,Quakes,0,,-,642,SHOKI,鹿児島県,1959,TRANCE,鹿児島県,3088,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Piano Samurai,0,,-,974,BARUCO,鹿児島県,1625,HAKU*,鹿児島県,2453,FUSI,鹿児島県,0,,-
-SINOBUZ,PAPAYAPA BASS,0,,-,538,SHOKI,鹿児島県,1390,831,鹿児島県,2780,HIRO99,鹿児島県,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,0,,-,2013,TRANCE,鹿児島県,3062,SUMIRE,鹿児島県,0,,-
-SINOBUZ,OOO,0,,-,502,MASABO,鹿児島県,1422,SUQNE*,鹿児島県,2059,HIRO99,鹿児島県,0,,-
-SINOBUZ,nostos,0,,-,448,SOL,鹿児島県,1227,SEKKEN,鹿児島県,2552,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Music is The Answer,0,,-,342,SHOKI,鹿児島県,1217,BARUCO,鹿児島県,1919,HIRO99,鹿児島県,0,,-
-SINOBUZ,Modular Technology,0,,-,630,SHOKI,鹿児島県,1581,SRH,鹿児島県,2593,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Mare Nectaris,0,,-,1255,BARUCO,鹿児島県,2070,CHP*1E,鹿児島県,3668,AAAAAA,鹿児島県,0,,-
-SINOBUZ,Magical,0,,-,567,RUTO,鹿児島県,1160,SEKKEN,鹿児島県,2010,HIRO99,鹿児島県,0,,-
-SINOBUZ,Macuilxochitl,357,#FAMS.,鹿児島県,1192,SEINA.,鹿児島県,2112,TRANCE,鹿児島県,3263,HIRO99,鹿児島県,0,,-
-SINOBUZ,Lost wing at.0,0,,-,599,RUTO,鹿児島県,1005,SLIME,鹿児島県,2420,SUMIRE,鹿児島県,0,,-
-SINOBUZ,INVISIBLE STRIX,0,,-,683,BESVAL,鹿児島県,2024,EEE.,鹿児島県,2542,FUSI,鹿児島県,0,,-
-SINOBUZ,Honey Trap,0,,-,794,BARUCO,鹿児島県,1582,SUQNE*,鹿児島県,2510,HIRO99,鹿児島県,0,,-
-SINOBUZ,HAPPY★RUSH,0,,-,754,BARUCO,鹿児島県,1594,SEKKEN,鹿児島県,2801,SUMIRE,鹿児島県,0,,-
-SINOBUZ,HADES,377,KAI046,鹿児島県,953,KAI046,鹿児島県,1755,NMKR,鹿児島県,3013,HIRO99,鹿児島県,0,,-
-SINOBUZ,GuNGNiR,0,,-,1277,HAKU*,鹿児島県,2599,SUMIRE,鹿児島県,3760,HIRO99,鹿児島県,4125,AAAAAA,鹿児島県
-SINOBUZ,Go Ahead!!,0,,-,736,0,鹿児島県,1479,EEE.,鹿児島県,2592,AMURO,鹿児島県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,651,RUTO,鹿児島県,1938,TRANCE,鹿児島県,3727,HIRO99,鹿児島県,0,,-
-SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,394,BBB,鹿児島県,523,SHOKI,鹿児島県,1629,INOKI!,鹿児島県,0,,-
-SINOBUZ,Egret and Willow,0,,-,954,BARUCO,鹿児島県,1532,831,鹿児島県,2680,AITHON,鹿児島県,0,,-
-SINOBUZ,ECHIDNA,0,,-,1046,SEINA.,鹿児島県,2141,HIRO99,鹿児島県,3200,SACHI,鹿児島県,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1217,HAKU*,鹿児島県,2162,TRANCE,鹿児島県,3494,HIRO99,鹿児島県,0,,-
-SINOBUZ,Cyber True Color,0,,-,0,,-,1630,EEE.,鹿児島県,2317,CHP*1E,鹿児島県,0,,-
-SINOBUZ,crew,0,,-,625,HAKU*,鹿児島県,1578,SEKKEN,鹿児島県,2877,CHP*1E,鹿児島県,0,,-
-SINOBUZ,Caterpillar,0,,-,795,A-KAZ,鹿児島県,2097,TRANCE,鹿児島県,2959,HIRO99,鹿児島県,0,,-
-SINOBUZ,BroGamer,0,,-,1134,SPROUT,鹿児島県,2003,IIDX29,鹿児島県,3038,SUMIRE,鹿児島県,4488,AITHON,鹿児島県
-SINOBUZ,Breakin' Chain,0,,-,516,IIDX29,鹿児島県,1275,HAKU*,鹿児島県,2310,HIRO99,鹿児島県,0,,-
-SINOBUZ,BREAK OVER,0,,-,843,BARUCO,鹿児島県,1388,RAM.,鹿児島県,2355,HIRO99,鹿児島県,0,,-
-SINOBUZ,Beyond The Seven,0,,-,513,MASABO,鹿児島県,1221,HAKU*,鹿児島県,2662,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Believe in you,0,,-,832,A-KAZ,鹿児島県,1700,BARUCO,鹿児島県,2361,EEE.,鹿児島県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,826,0000,鹿児島県,1545,ASIC,鹿児島県,2175,HIRO99,鹿児島県,0,,-
-SINOBUZ,Be A Star,0,,-,719,FUKU#,鹿児島県,1745,HAKU*,鹿児島県,2790,HIRO99,鹿児島県,0,,-
-SINOBUZ,BabeL ～Grand Story～,0,,-,1095,MASA,鹿児島県,2099,POIFUL,鹿児島県,2788,HIRO99,鹿児島県,0,,-
-SINOBUZ,AsiaN distractive,0,,-,0,,-,1631,831,鹿児島県,2580,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Around The Galaxy,0,,-,0,,-,1875,LEVEL1,鹿児島県,3357,SUMIRE,鹿児島県,0,,-
-SINOBUZ,Apocalypse,0,,-,953,SLIME,鹿児島県,2099,UNAGI*,鹿児島県,3521,INOKI!,鹿児島県,0,,-
-SINOBUZ,AO-∞,0,,-,1047,BARUCO,鹿児島県,1637,ALICE,鹿児島県,2529,EEE.,鹿児島県,0,,-
-SINOBUZ,Amazing Mirage,287,MOS,鹿児島県,709,A-KAZ,鹿児島県,1660,TRANCE,鹿児島県,2605,HIRO99,鹿児島県,3216,HIRO99,鹿児島県
-SINOBUZ,(This Is Not) The Angels,0,,-,540,SEINA.,鹿児島県,1345,SEKKEN,鹿児島県,2691,SUMIRE,鹿児島県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,847,A-KAZ,鹿児島県,1895,RUNA96,鹿児島県,3329,SUMIRE,鹿児島県,0,,-
-SINOBUZ,!Viva!,0,,-,692,SPROUT,鹿児島県,993,K0*,鹿児島県,1990,INOKI!,鹿児島県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,557,MASABO,鹿児島県,1166,SEKKEN,鹿児島県,2280,AITHON,鹿児島県,0,,-
 CANNON BALLERS,純真可憐デザイア,155,USAPYN,鹿児島県,533,SHOKI,鹿児島県,1543,HAKU*,鹿児島県,2321,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1358,SUQNE*,鹿児島県,2446,TRANCE,鹿児島県,3884,HIRO99,鹿児島県,0,,-
@@ -1048,12 +1048,12 @@ CANNON BALLERS,Xperanza,524,KAI046,鹿児島県,837,SUNA.A,鹿児島県,2262,INK
 CANNON BALLERS,Usual Days-remix,0,,-,606,RUTO,鹿児島県,1353,0000,鹿児島県,2602,AITHON,鹿児島県,0,,-
 CANNON BALLERS,UMMU,343,A-KAZ,鹿児島県,840,KYOKO,鹿児島県,2065,ASIC,鹿児島県,3060,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,448,FUKU#,鹿児島県,799,CC141,鹿児島県,1799,AMURO,鹿児島県,0,,-
-CANNON BALLERS,The Chase,0,,-,557,0,鹿児島県,1331,CHP*1E,鹿児島県,2094,HIRO99,鹿児島県,0,,-
-CANNON BALLERS,THE CANNONBALLER,386,NW360,鹿児島県,927,KYOKO,鹿児島県,2352,EEE.,鹿児島県,3383,SUMIRE,鹿児島県,0,,-
+CANNON BALLERS,The Chase,0,,-,630,BARUCO,鹿児島県,1376,HIRO99,鹿児島県,2094,HIRO99,鹿児島県,0,,-
+CANNON BALLERS,THE CANNONBALLER,386,NW360,鹿児島県,931,SHOKI,鹿児島県,2352,EEE.,鹿児島県,3383,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,574,SHOKI,鹿児島県,1407,SEKKEN,鹿児島県,2637,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,0,,-,1366,SEINA.,鹿児島県,2632,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,Static State,0,,-,875,SEINA.,鹿児島県,1547,SEKKEN,鹿児島県,2330,AITHON,鹿児島県,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,871,HAKU*,鹿児島県,1513,HAKU*,鹿児島県,2268,INOKI!,鹿児島県,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,871,HAKU*,鹿児島県,1513,HAKU*,鹿児島県,2269,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,SPEED DEMON,0,,-,685,BARUCO,鹿児島県,1331,BARUCO,鹿児島県,2271,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,Slipstream,0,,-,736,A-KAZ,鹿児島県,1875,HAKU*,鹿児島県,3445,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,Sleepless days,0,,-,506,HAKU*,鹿児島県,903,HAKU*,鹿児島県,1576,CHP*1E,鹿児島県,0,,-
@@ -1066,14 +1066,14 @@ CANNON BALLERS,Only for now,0,,-,567,SHOKI,鹿児島県,1493,HAKU*,鹿児島県,
 CANNON BALLERS,O/D*20,0,,-,1089,BARUCO,鹿児島県,1627,SUQNE*,鹿児島県,2093,SACHI,鹿児島県,0,,-
 CANNON BALLERS,Nothing but Theory,0,,-,1061,HAKU*,鹿児島県,1502,HAKU*,鹿児島県,2810,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,918,BARUCO,鹿児島県,1443,SEKKEN,鹿児島県,2331,HIRO99,鹿児島県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1168,SEINA.,鹿児島県,1806,BAD429,鹿児島県,3486,SUMIRE,鹿児島県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1168,SEINA.,鹿児島県,1806,RELIX,鹿児島県,3486,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,n'pa pa BBQ,0,,-,669,IIDX29,鹿児島県,1633,SEKKEN,鹿児島県,2747,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,399,MASABO,鹿児島県,1107,SEKKEN,鹿児島県,1918,SACHI,鹿児島県,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,516,NEEEEE,鹿児島県,1283,ARI9,鹿児島県,2430,SUMIRE,鹿児島県,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,572,SUPIKA,鹿児島県,1283,ARI9,鹿児島県,2430,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,LUV DRIVE,0,,-,673,MUSIC,鹿児島県,1242,SEKKEN,鹿児島県,2051,MANZEN,鹿児島県,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,959,BICH,鹿児島県,1871,EEE.,鹿児島県,3339,SUMIRE,鹿児島県,0,,-
-CANNON BALLERS,Initiation,418,BBB,鹿児島県,1416,KAI046,鹿児島県,2365,TRANCE,鹿児島県,3784,AMURO,鹿児島県,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,0,,-,1883,HAKU*,鹿児島県,3415,SUMIRE,鹿児島県,0,,-
+CANNON BALLERS,Initiation,418,BBB,鹿児島県,1416,KAI046,鹿児島県,2409,TRANCE,鹿児島県,3784,AMURO,鹿児島県,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,579,RUTO,鹿児島県,1883,HAKU*,鹿児島県,3415,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,I Love You,0,,-,452,A-KAZ,鹿児島県,1671,HAKU*,鹿児島県,2715,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,0,,-,1919,EEE.,鹿児島県,2929,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,456,MASABO,鹿児島県,977,0000,鹿児島県,1820,HIRO99,鹿児島県,0,,-
@@ -1090,7 +1090,7 @@ CANNON BALLERS,EMERALDAS,412,#FAMS.,鹿児島県,1261,KAI046,鹿児島県,2341,S
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,935,0000,鹿児島県,1389,SUQNE*,鹿児島県,2525,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,DropZ-Line-,0,,-,1223,UNAGI*,鹿児島県,2105,HIRO99,鹿児島県,3069,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1296,RPG,鹿児島県,2346,EEE.,鹿児島県,3865,SUMIRE,鹿児島県,0,,-
-CANNON BALLERS,DEADHEAT,0,,-,0,,-,1995,EEE.,鹿児島県,3222,SUMIRE,鹿児島県,0,,-
+CANNON BALLERS,DEADHEAT,0,,-,0,,-,1995,EEE.,鹿児島県,3240,HIRO99,鹿児島県,0,,-
 CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,753,HAKU*,鹿児島県,1398,HAKU*,鹿児島県,2076,FUSI,鹿児島県,0,,-
 CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,871,0,鹿児島県,1542,CHI9B,鹿児島県,2615,SUMIRE,鹿児島県,0,,-
 CANNON BALLERS,Chemical Cookie,0,,-,506,TABC,鹿児島県,1363,HAKU*,鹿児島県,2130,HIRO99,鹿児島県,0,,-
@@ -1118,7 +1118,7 @@ CANNON BALLERS,1001 -ESCAPE-,0,,-,845,BESVAL,鹿児島県,1504,MINT,鹿児島県
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,952,0,鹿児島県,2257,OUTTTT,鹿児島県,3153,CHP*1E,鹿児島県,0,,-
 Rootage,金野火織の金色提言,0,,-,1195,HAKU*,鹿児島県,2079,TRANCE,鹿児島県,2999,INOKI!,鹿児島県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,909,0000,鹿児島県,1504,SEKKEN,鹿児島県,2586,HIRO99,鹿児島県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,864,CHAOS!,鹿児島県,1524,SEINA.,鹿児島県,2689,SUMIRE,鹿児島県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1170,BARUCO,鹿児島県,1524,SEINA.,鹿児島県,2689,SUMIRE,鹿児島県,0,,-
 Rootage,深愛のリグレット,0,,-,683,BESVAL,鹿児島県,1151,HAKU*,鹿児島県,2379,HIRO99,鹿児島県,0,,-
 Rootage,泰東ノ翠霞,0,,-,439,BARUCO,鹿児島県,496,SHOKI,鹿児島県,1713,FUSI,鹿児島県,0,,-
 Rootage,最小三倍完全数,0,,-,463,SHOKI,鹿児島県,1027,JIG022,鹿児島県,2486,SUMIRE,鹿児島県,0,,-
@@ -1126,7 +1126,7 @@ Rootage,抱きしめてモナムール,0,,-,1228,0000,鹿児島県,2255,TRANCE,�
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,626,SIGURE,鹿児島県,1486,HAKU*,鹿児島県,2541,AAABBB,鹿児島県,0,,-
 Rootage,ミッドナイト☆WAR,0,,-,798,0000,鹿児島県,1502,HAKU*,鹿児島県,2474,HIRO99,鹿児島県,0,,-
 Rootage,ミストレス・アンに花束を,0,,-,362,IIDX29,鹿児島県,604,SPROUT,鹿児島県,1426,HIRO99,鹿児島県,0,,-
-Rootage,ハードベース・フェスタ,0,,-,872,24KI,鹿児島県,1677,HAKU*,鹿児島県,2850,HIRO99,鹿児島県,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1075,BARUCO,鹿児島県,1677,HAKU*,鹿児島県,2850,HIRO99,鹿児島県,0,,-
 Rootage,セカンドピアス,0,,-,565,BARUCO,鹿児島県,1045,SEKKEN,鹿児島県,2011,INOKI!,鹿児島県,0,,-
 Rootage,サクラあっぱれーしょん,162,A,鹿児島県,587,BARUCO,鹿児島県,1505,NEKO*3,鹿児島県,2308,HIRO99,鹿児島県,0,,-
 Rootage,グラナダの風,0,,-,441,SHOKI,鹿児島県,1157,NEKO*3,鹿児島県,1823,AITHON,鹿児島県,0,,-
@@ -1137,12 +1137,12 @@ Rootage,Yum Yum Jelly,0,,-,620,A-KAZ,鹿児島県,1382,BARUCO,鹿児島県,2322,
 Rootage,Xlo,0,,-,1344,BARUCO,鹿児島県,2344,TRANCE,鹿児島県,3643,HIRO99,鹿児島県,0,,-
 Rootage,XENON II ～TOMOYUKIの野望～,0,,-,610,SHOKI,鹿児島県,1504,SEKKEN,鹿児島県,2959,HIRO99,鹿児島県,0,,-
 Rootage,X-DEN,0,,-,1432,RPG,鹿児島県,2665,CHP*1E,鹿児島県,3720,SUMIRE,鹿児島県,0,,-
-Rootage,Wonderland,0,,-,764,ZECTOO,鹿児島県,1677,BAD429,鹿児島県,2722,SUMIRE,鹿児島県,0,,-
+Rootage,Wonderland,0,,-,764,ZECTOO,鹿児島県,1677,RELIX,鹿児島県,2722,SUMIRE,鹿児島県,0,,-
 Rootage,Won(*3*)Chu KissMe!,254,NEKO*3,鹿児島県,901,0000,鹿児島県,1360,SUQNE*,鹿児島県,2479,SACHI,鹿児島県,0,,-
 Rootage,Wolf 1061,0,,-,694,BESVAL,鹿児島県,1494,MASA,鹿児島県,3052,SUMIRE,鹿児島県,0,,-
 Rootage,Wing of Hearts,0,,-,1000,VOID,鹿児島県,1740,HAKU*,鹿児島県,2923,HIRO99,鹿児島県,0,,-
 Rootage,voltississimo,0,,-,1101,0000,鹿児島県,1939,TRANCE,鹿児島県,3496,SUMIRE,鹿児島県,0,,-
-Rootage,Visterhv,0,,-,875,CIEN,鹿児島県,2258,CHP*1E,鹿児島県,3608,HIRO99,鹿児島県,0,,-
+Rootage,Visterhv,0,,-,875,CIEN,鹿児島県,2269,HIRO99,鹿児島県,3608,HIRO99,鹿児島県,0,,-
 Rootage,Urban Constellations,0,,-,686,0000,鹿児島県,1418,HAKU*,鹿児島県,2261,SUMIRE,鹿児島県,0,,-
 Rootage,UNDERWORLD HOLOGRAPHY,0,,-,0,,-,1698,CAOS.,鹿児島県,3203,SUMIRE,鹿児島県,0,,-
 Rootage,Unbelief,0,,-,1026,KAI046,鹿児島県,1884,TRANCE,鹿児島県,3015,SUMIRE,鹿児島県,0,,-
@@ -1150,7 +1150,7 @@ Rootage,U.S.A.,387,SHINHH,鹿児島県,1062,BARUCO,鹿児島県,1603,EVO,鹿児�
 Rootage,Twilight Warp,0,,-,549,SHOKI,鹿児島県,781,SUNA.A,鹿児島県,2129,SACHI,鹿児島県,0,,-
 Rootage,Trill auf G,0,,-,1036,BARUCO,鹿児島県,2051,SUQNE*,鹿児島県,3113,SUMIRE,鹿児島県,0,,-
 Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,0,,-,1120,AAAAAA,鹿児島県,2219,SUQNE*,鹿児島県,0,,-
-Rootage,toy boxer,0,,-,641,OMN,鹿児島県,1409,SUQNE*,鹿児島県,2204,CHP*1E,鹿児島県,0,,-
+Rootage,toy boxer,0,,-,641,OMN,鹿児島県,1409,SUQNE*,鹿児島県,2217,HIRO99,鹿児島県,0,,-
 Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,467,FUKU#,鹿児島県,1357,HAKU*,鹿児島県,2218,CHP*1E,鹿児島県,0,,-
 Rootage,The Rebellion of Sequencer,0,,-,804,SPROUT,鹿児島県,1855,TRANCE,鹿児島県,2967,SUMIRE,鹿児島県,0,,-
 Rootage,THE DAY OF JUBILATIONS,0,,-,1436,HAKU*,鹿児島県,2240,GOLD.S,鹿児島県,3353,HIRO99,鹿児島県,0,,-
@@ -1160,9 +1160,9 @@ Rootage,SPEED ROCKER,0,,-,567,SHIRO,鹿児島県,1501,SEKKEN,鹿児島県,2262,S
 Rootage,Six String Proof,0,,-,583,SETUKO,鹿児島県,1291,SEKKEN,鹿児島県,2531,HIRO99,鹿児島県,0,,-
 Rootage,Serious?,0,,-,383,SHOKI,鹿児島県,914,CC141,鹿児島県,2195,SACHI,鹿児島県,0,,-
 Rootage,R∞tAge,327,IIIIII,鹿児島県,741,BESVAL,鹿児島県,1571,SUQNE*,鹿児島県,2930,HIRO99,鹿児島県,0,,-
-Rootage,ruin of opals,0,,-,561,POKA,鹿児島県,1934,HIRO99,鹿児島県,3012,HIRO99,鹿児島県,0,,-
+Rootage,ruin of opals,0,,-,567,SHOKI,鹿児島県,1934,HIRO99,鹿児島県,3012,HIRO99,鹿児島県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,815,CHAOS!,鹿児島県,1589,GOLD.S,鹿児島県,2652,SUMIRE,鹿児島県,0,,-
-Rootage,REPLAY,0,,-,471,CHIKWA,鹿児島県,1594,SUQNE*,鹿児島県,2231,SACHI,鹿児島県,0,,-
+Rootage,REPLAY,0,,-,504,IIIIII,鹿児島県,1594,SUQNE*,鹿児島県,2231,SACHI,鹿児島県,0,,-
 Rootage,Red. by Jack Trance,0,,-,1332,TEL,鹿児島県,2158,SACHI,鹿児島県,3365,AITHON,鹿児島県,0,,-
 Rootage,Psycho Sheep Riddim,0,,-,445,A-KAZ,鹿児島県,962,HAKU*,鹿児島県,1618,SACHI,鹿児島県,2176,FUSI,鹿児島県
 Rootage,Please Welcome Mr.C,0,,-,923,BARUCO,鹿児島県,1424,NAH,鹿児島県,2860,HIRO99,鹿児島県,0,,-
@@ -1170,7 +1170,7 @@ Rootage,Playing With Fire,0,,-,752,SLIME,鹿児島県,1360,RIMI,鹿児島県,229
 Rootage,Painful Fate,0,,-,739,DPST,鹿児島県,2041,TRANCE,鹿児島県,3210,HIRO99,鹿児島県,0,,-
 Rootage,OVER TIME,0,,-,570,HAKU*,鹿児島県,953,HAKU*,鹿児島県,1548,INOKI!,鹿児島県,0,,-
 Rootage,ONIGOROSHI,0,,-,1055,FO-SU,鹿児島県,1985,TRANCE,鹿児島県,2913,HIRO99,鹿児島県,0,,-
-Rootage,Night! Night! Night!,0,,-,973,SLIME,鹿児島県,1526,SEKKEN,鹿児島県,2979,HIRO99,鹿児島県,0,,-
+Rootage,Night! Night! Night!,0,,-,1128,BARUCO,鹿児島県,1526,SEKKEN,鹿児島県,2979,HIRO99,鹿児島県,0,,-
 Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,816,BARUCO,鹿児島県,1517,0000,鹿児島県,2682,SUMIRE,鹿児島県,0,,-
 Rootage,Necroxis Girl,0,,-,849,U.RYU,鹿児島県,1716,0000,鹿児島県,2699,SUMIRE,鹿児島県,0,,-
 Rootage,Macho Monky,0,,-,1287,KAI046,鹿児島県,1989,EEE.,鹿児島県,2947,INOKI!,鹿児島県,0,,-
@@ -1184,7 +1184,7 @@ Rootage,L.F.O,0,,-,658,*NICO*,鹿児島県,1524,KAI046,鹿児島県,3198,AMURO,�
 Rootage,KILL EACH OTHER,0,,-,1246,BARUCO,鹿児島県,2282,EEE.,鹿児島県,3686,SUMIRE,鹿児島県,0,,-
 Rootage,IDOL syndrome.,0,,-,740,HAKU*,鹿児島県,1382,SEKKEN,鹿児島県,2171,HIRO99,鹿児島県,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1026,NEKO*3,鹿児島県,1322,ORTHO-,鹿児島県,2130,HIRO99,鹿児島県,0,,-
-Rootage,Hurry Hurry,0,,-,581,SHOKI,鹿児島県,965,KAI046,鹿児島県,2077,HIRO99,鹿児島県,0,,-
+Rootage,Hurry Hurry,0,,-,581,SHOKI,鹿児島県,1007,SEKKEN,鹿児島県,2077,HIRO99,鹿児島県,0,,-
 Rootage,HOT LIMIT,389,NEKO*3,鹿児島県,849,YOU,鹿児島県,1708,CHP*1E,鹿児島県,2526,HIRO99,鹿児島県,0,,-
 Rootage,HEISEI,362,NEKO*3,鹿児島県,0,,-,1880,EEE.,鹿児島県,2539,HIRO99,鹿児島県,0,,-
 Rootage,HARD BRAIN,0,,-,1267,KAI046,鹿児島県,2037,SACHI,鹿児島県,3683,HIRO99,鹿児島県,0,,-
@@ -1208,7 +1208,7 @@ Rootage,CODE:0,0,,-,567,X-W?,鹿児島県,1835,RPG,鹿児島県,2750,FUSI,鹿児
 Rootage,Catch Our Fire!,0,,-,756,KYOKO,鹿児島県,2110,EEE.,鹿児島県,3567,SUMIRE,鹿児島県,0,,-
 Rootage,Carry Me Away,517,SEINA.,鹿児島県,1130,GULI,鹿児島県,1810,CHP*1E,鹿児島県,3128,HIRO99,鹿児島県,0,,-
 Rootage,Carmina,497,SEINA.,鹿児島県,1194,HAKU*,鹿児島県,2495,HIRO99,鹿児島県,3565,SUMIRE,鹿児島県,0,,-
-Rootage,BLOSSOM,0,,-,672,SUPIKA,鹿児島県,1331,MAKI*2,鹿児島県,2492,FUSI,鹿児島県,0,,-
+Rootage,BLOSSOM,0,,-,672,SUPIKA,鹿児島県,1455,WENLI,鹿児島県,2492,FUSI,鹿児島県,0,,-
 Rootage,BLACK JACKAL,0,,-,635,SETUKO,鹿児島県,1422,BARUCO,鹿児島県,2318,HIRO99,鹿児島県,0,,-
 Rootage,Afterimage d'automne,0,,-,710,SETUKO,鹿児島県,1536,EVO,鹿児島県,2778,HIRO99,鹿児島県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1208,HAKU*,鹿児島県,1556,HAKU*,鹿児島県,2591,HIRO99,鹿児島県,0,,-
@@ -1224,7 +1224,7 @@ HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,500,IIDX29,鹿
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,679,SEINA.,鹿児島県,1451,BARUCO,鹿児島県,2915,AITHON,鹿児島県,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,856,KYOKO,鹿児島県,1567,RAM.,鹿児島県,2710,SUMIRE,鹿児島県,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,132,CHIKWA,鹿児島県,589,BARUCO,鹿児島県,1172,0000,鹿児島県,1992,HIRO99,鹿児島県,0,,-
-HEROIC VERSE,令和(1991RAVE REMIX),284,KYOKO,鹿児島県,485,BESVAL,鹿児島県,1283,BAD429,鹿児島県,2179,HIRO99,鹿児島県,0,,-
+HEROIC VERSE,令和(1991RAVE REMIX),284,KYOKO,鹿児島県,485,BESVAL,鹿児島県,1283,RELIX,鹿児島県,2179,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,992,TALA,鹿児島県,1671,UMEO,鹿児島県,2900,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1000,HAKU*,鹿児島県,2078,EEE.,鹿児島県,3659,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),380,NEKO*3,鹿児島県,790,TAK!?,鹿児島県,1404,HAKU*,鹿児島県,2367,FUSI,鹿児島県,0,,-
@@ -1232,7 +1232,7 @@ HEROIC VERSE,ガヴリールドロップキック,316,FUKU#,鹿児島県,649,RAM
 HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1471,KAI046,鹿児島県,2549,INK,鹿児島県,4015,SUMIRE,鹿児島県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1080,HAKU*,鹿児島県,1685,D.ARK!,鹿児島県,2846,HIRO99,鹿児島県,3451,SUMIRE,鹿児島県
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,610,SHOKI,鹿児島県,1433,HAKU*,鹿児島県,2477,INOKI!,鹿児島県,0,,-
-HEROIC VERSE,Volcanic Dragon,0,,-,1034,HAKU*,鹿児島県,1695,HAKU*,鹿児島県,2943,SUMIRE,鹿児島県,0,,-
+HEROIC VERSE,Volcanic Dragon,0,,-,1034,HAKU*,鹿児島県,1695,HAKU*,鹿児島県,2947,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,505,ASTRA!,鹿児島県,1393,HAKU*,鹿児島県,2201,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,585,ASTRA!,鹿児島県,1160,TEKUNI,鹿児島県,1815,SACHI,鹿児島県,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,276,IIIIII,鹿児島県,973,BARUCO,鹿児島県,1669,KAI046,鹿児島県,2734,SUMIRE,鹿児島県,0,,-
@@ -1261,7 +1261,7 @@ HEROIC VERSE,Rainstorm,0,,-,713,BESVAL,鹿児島県,1353,0000,鹿児島県,2276,
 HEROIC VERSE,Queen Kaguya,0,,-,0,,-,1733,RAM.,鹿児島県,2539,CHP*1E,鹿児島県,0,,-
 HEROIC VERSE,Punching Down (IIDX Mix),0,,-,539,TALA,鹿児島県,742,CHAOS!,鹿児島県,1838,FUSI,鹿児島県,0,,-
 HEROIC VERSE,Primitive Vibes,457,AKABA,鹿児島県,0,,-,1936,TRANCE,鹿児島県,3054,HIRO99,鹿児島県,0,,-
-HEROIC VERSE,POP TEAM EPIC(kors k Remix),200,NOVORI,鹿児島県,426,NW360,鹿児島県,1255,SUQNE*,鹿児島県,2109,FUSI,鹿児島県,0,,-
+HEROIC VERSE,POP TEAM EPIC(kors k Remix),200,NOVORI,鹿児島県,507,BARUCO,鹿児島県,1255,SUQNE*,鹿児島県,2109,FUSI,鹿児島県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1106,BARUCO,鹿児島県,1613,SUQNE*,鹿児島県,2772,FUSI,鹿児島県,0,,-
 HEROIC VERSE,Override,0,,-,888,BARUCO,鹿児島県,1509,SEKKEN,鹿児島県,2879,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,618,BARUCO,鹿児島県,1336,HAKU*,鹿児島県,2133,HIRO99,鹿児島県,0,,-
@@ -1269,7 +1269,7 @@ HEROIC VERSE,Ohayo!,0,,-,440,KOU,鹿児島県,1008,NIBE,鹿児島県,2353,SUMIRE
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,0,,-,1439,HAKU*,鹿児島県,2623,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,0,,-,1091,VOID,鹿児島県,2002,AITHON,鹿児島県,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,707,SHOKI,鹿児島県,1510,HSANRB,鹿児島県,2612,HIRO99,鹿児島県,0,,-
-HEROIC VERSE,Moving on,0,,-,954,BARUCO,鹿児島県,1689,BAD429,鹿児島県,2936,SUMIRE,鹿児島県,0,,-
+HEROIC VERSE,Moving on,0,,-,954,BARUCO,鹿児島県,1689,RELIX,鹿児島県,2936,SUMIRE,鹿児島県,0,,-
 HEROIC VERSE,Mel,0,,-,494,RUTO,鹿児島県,1467,SEKKEN,鹿児島県,2156,POIFUL,鹿児島県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,691,BASVAL,鹿児島県,2080,SUQNE*,鹿児島県,3264,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Lost Souls,0,,-,448,SHOKI,鹿児島県,1469,DARU08,鹿児島県,2412,HIRO99,鹿児島県,0,,-
@@ -1280,7 +1280,7 @@ HEROIC VERSE,Level 2,0,,-,855,KAI046,鹿児島県,1614,URADLE,鹿児島県,2734,
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,411,TORORO,鹿児島県,1587,HAKU*,鹿児島県,3433,SUMIRE,鹿児島県,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,806,0000,鹿児島県,1378,SUQNE*,鹿児島県,2283,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,0,,-,1743,SUQNE*,鹿児島県,3002,SUMIRE,鹿児島県,0,,-
-HEROIC VERSE,If,0,,-,592,A-KAZ,鹿児島県,1115,SMORE,鹿児島県,1872,HIRO99,鹿児島県,0,,-
+HEROIC VERSE,If,0,,-,592,A-KAZ,鹿児島県,1208,SEKKEN,鹿児島県,1872,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,618,BARUCO,鹿児島県,1449,SEKKEN,鹿児島県,1969,INOKI!,鹿児島県,0,,-
 HEROIC VERSE,Horizons of Promise,0,,-,0,,-,1459,GOLD.S,鹿児島県,2564,AMURO,鹿児島県,0,,-
 HEROIC VERSE,Hold My Hand,0,,-,701,CHAOS!,鹿児島県,1665,SUQNE*,鹿児島県,2356,TRANCE,鹿児島県,0,,-
@@ -1289,7 +1289,7 @@ HEROIC VERSE,GHOST,0,,-,425,SHOKI,鹿児島県,1345,0000,鹿児島県,2741,HIRO9
 HEROIC VERSE,Friction[!]Function,0,,-,0,,-,1753,SUQNE*,鹿児島県,3117,SUMIRE,鹿児島県,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,631,A-KAZ,鹿児島県,1451,HAKU*,鹿児島県,2328,URADLE,鹿児島県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,303,VEN,鹿児島県,611,JUNIN,鹿児島県,1627,HIRO99,鹿児島県,0,,-
-HEROIC VERSE,EXCITE,260,RING0,鹿児島県,778,BARUCO,鹿児島県,1220,TEKUNI,鹿児島県,2148,POIFUL,鹿児島県,0,,-
+HEROIC VERSE,EXCITE,260,RING0,鹿児島県,778,BARUCO,鹿児島県,1283,SEKKEN,鹿児島県,2173,FUSI,鹿児島県,0,,-
 HEROIC VERSE,EROICA,0,,-,1360,HAKU*,鹿児島県,2348,HIRO99,鹿児島県,3780,AAAAAA,鹿児島県,0,,-
 HEROIC VERSE,Duration,0,,-,381,IIDX29,鹿児島県,778,CHAOS!,鹿児島県,1937,CHP*1E,鹿児島県,0,,-
 HEROIC VERSE,Drop It,0,,-,710,BICH,鹿児島県,1629,3X3X3,鹿児島県,2722,HIRO99,鹿児島県,0,,-
@@ -1302,7 +1302,7 @@ HEROIC VERSE,Calvados Queen,0,,-,732,BASVAL,鹿児島県,1306,SEINA.,鹿児島�
 HEROIC VERSE,Bow shock!!,0,,-,790,MASA,鹿児島県,1918,SUQNE*,鹿児島県,3052,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,623,--HY--,鹿児島県,1609,SUQNE*,鹿児島県,2356,MANZEN,鹿児島県,0,,-
 HEROIC VERSE,beatAffection,0,,-,872,MERO*,鹿児島県,1498,SUQNE*,鹿児島県,2436,TRANCE,鹿児島県,0,,-
-HEROIC VERSE,BEAT PRISONER,0,,-,1134,KAI046,鹿児島県,2085,CHP*1E,鹿児島県,3473,HIRO99,鹿児島県,0,,-
+HEROIC VERSE,BEAT PRISONER,0,,-,1134,KAI046,鹿児島県,2105,CHP*1E,鹿児島県,3473,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,Backyard Stars,0,,-,521,SHOKI,鹿児島県,1152,SEKKEN,鹿児島県,2226,AITHON,鹿児島県,0,,-
 HEROIC VERSE,Artist,0,,-,1260,HAKU*,鹿児島県,2223,TRANCE,鹿児島県,3457,HIRO99,鹿児島県,0,,-
 HEROIC VERSE,And-RoiD,0,,-,675,BARUCO,鹿児島県,1287,HAKU*,鹿児島県,2002,HIRO99,鹿児島県,0,,-
@@ -1313,7 +1313,7 @@ BISTROVER,魔法のかくれんぼ,0,,-,588,RUTO,鹿児島県,1550,GOLD.S,鹿児
 BISTROVER,霧幻メモリア,0,,-,839,SEINA.,鹿児島県,1330,HAKU*,鹿児島県,1902,EEE.,鹿児島県,0,,-
 BISTROVER,紅蓮華,152,NEKO*3,鹿児島県,417,AAAAAA,鹿児島県,947,HAKU*,鹿児島県,1474,FUSI,鹿児島県,0,,-
 BISTROVER,犬に雨傘,0,,-,418,SHOKI,鹿児島県,1133,JUNIN,鹿児島県,2090,HIRO99,鹿児島県,0,,-
-BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,920,JUNIN,鹿児島県,1802,BAD429,鹿児島県,2757,SUMIRE,鹿児島県,0,,-
+BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,920,JUNIN,鹿児島県,1802,RELIX,鹿児島県,2757,SUMIRE,鹿児島県,0,,-
 BISTROVER,水鏡の異界,0,,-,804,SEINA.,鹿児島県,1698,TRANCE,鹿児島県,3057,HIRO99,鹿児島県,0,,-
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1046,SPROUT,鹿児島県,1685,HAKU*,鹿児島県,2564,CHP*1E,鹿児島県,0,,-
 BISTROVER,新宝島,477,TAI.,鹿児島県,602,MERO*,鹿児島県,1357,NEKO*3,鹿児島県,2340,FUSI,鹿児島県,0,,-
@@ -1322,9 +1322,9 @@ BISTROVER,ここからよろしく大作戦143,259,NEKO*3,鹿児島県,836,BESVA
 BISTROVER,∀,394,DAVEE,鹿児島県,1266,MASA,鹿児島県,2249,CHP*1E,鹿児島県,3396,SUMIRE,鹿児島県,0,,-
 BISTROVER,X-ray binary,0,,-,942,0000,鹿児島県,1934,HIRO99,鹿児島県,2772,CHP*1E,鹿児島県,0,,-
 BISTROVER,When I Met U,0,,-,852,0000,鹿児島県,1149,SEINA.,鹿児島県,2045,INOKI!,鹿児島県,0,,-
-BISTROVER,WAKE UP NOW,0,,-,565,RUTO,鹿児島県,855,KYOKO,鹿児島県,1990,FUSI,鹿児島県,0,,-
+BISTROVER,WAKE UP NOW,0,,-,565,RUTO,鹿児島県,1081,SPROUT,鹿児島県,1990,FUSI,鹿児島県,0,,-
 BISTROVER,Vitrum,0,,-,1067,HAKU*,鹿児島県,1793,CHP*1E,鹿児島県,3429,HIRO99,鹿児島県,0,,-
-BISTROVER,TOMORROW,339,RING0,鹿児島県,636,Y0RA,鹿児島県,1443,HAKU*,鹿児島県,2203,URADLE,鹿児島県,0,,-
+BISTROVER,TOMORROW,339,RING0,鹿児島県,636,Y0RA,鹿児島県,1443,HAKU*,鹿児島県,2221,FUSI,鹿児島県,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,0,,-,1641,HAKU*,鹿児島県,2552,HIRO99,鹿児島県,0,,-
 BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1118,HAKU*,鹿児島県,1608,HIRO99,鹿児島県,2836,HIRO99,鹿児島県,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,746,SLORIA,鹿児島県,1397,0000,鹿児島県,2375,HIRO99,鹿児島県,0,,-
@@ -1334,7 +1334,7 @@ BISTROVER,S-Bahn,0,,-,916,KAI046,鹿児島県,1409,SEKKEN,鹿児島県,2161,SACH
 BISTROVER,Rubrum Piano,0,,-,845,MASA,鹿児島県,1414,SEKKEN,鹿児島県,2436,HIRO99,鹿児島県,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,696,BAA,鹿児島県,1196,JUNIN,鹿児島県,2155,FUSI,鹿児島県,0,,-
 BISTROVER,Rowdy,0,,-,635,TABC,鹿児島県,1519,SEKKEN,鹿児島県,2492,CHP*1E,鹿児島県,0,,-
-BISTROVER,rommmo,0,,-,1017,SEINA.,鹿児島県,1575,SEKKEN,鹿児島県,3355,SUMIRE,鹿児島県,0,,-
+BISTROVER,rommmo,0,,-,1017,SEINA.,鹿児島県,1605,SEKKEN,鹿児島県,3355,SUMIRE,鹿児島県,0,,-
 BISTROVER,Romanticが止まらない,244,SARIEL,鹿児島県,921,HAKU*,鹿児島県,1655,EEE.,鹿児島県,2718,SUMIRE,鹿児島県,0,,-
 BISTROVER,POLKAMANIA,403,SEINA.,鹿児島県,912,MASA,鹿児島県,1717,TOM,鹿児島県,2872,SUMIRE,鹿児島県,0,,-
 BISTROVER,Party Starter,0,,-,543,SHOKI,鹿児島県,1310,IIDX28,鹿児島県,2294,HIRO99,鹿児島県,0,,-
@@ -1353,7 +1353,7 @@ BISTROVER,Here We Are,277,MASABO,鹿児島県,752,TABC,鹿児島県,1593,FC2DX,�
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,1045,BARUCO,鹿児島県,1286,SIGURE,鹿児島県,2321,FUSI,鹿児島県,0,,-
 BISTROVER,GIGA RAID,0,,-,949,HAKU*,鹿児島県,1751,HAKU*,鹿児島県,2394,HIRO99,鹿児島県,0,,-
 BISTROVER,Farewell to Marrakech,0,,-,871,MASA,鹿児島県,1528,SUMIRE,鹿児島県,2208,SUMIRE,鹿児島県,0,,-
-BISTROVER,Euphoric Lagoon,0,,-,521,RUTO,鹿児島県,1571,SUQNE*,鹿児島県,2497,MANZEN,鹿児島県,0,,-
+BISTROVER,Euphoric Lagoon,0,,-,521,RUTO,鹿児島県,1571,SUQNE*,鹿児島県,2556,FUSI,鹿児島県,0,,-
 BISTROVER,Empire of Fury,0,,-,1240,RPG,鹿児島県,1983,UNAGI*,鹿児島県,3144,SUMIRE,鹿児島県,0,,-
 BISTROVER,DUAL STRIKER,0,,-,945,JUNIN,鹿児島県,2508,HIRO99,鹿児島県,3726,SUMIRE,鹿児島県,0,,-
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,409,NW360,鹿児島県,754,SHOKI,鹿児島県,1863,HIRO99,鹿児島県,0,,-
@@ -1366,7 +1366,7 @@ BISTROVER,apo:llioth,0,,-,1024,RAMUN3,鹿児島県,1876,CAOS.,鹿児島県,2924,
 BISTROVER,AMRITA -不滅ノ花-,0,,-,850,VOID,鹿児島県,1511,HAKU*,鹿児島県,2746,SUMIRE,鹿児島県,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,654,0000,鹿児島県,1230,0000,鹿児島県,2117,HIRO99,鹿児島県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,740,A-KAZ,鹿児島県,1471,NEKO*3,鹿児島県,2579,HIRO99,鹿児島県,0,,-
-BISTROVER,3!dolon Forc3,0,,-,678,CHAOS!,鹿児島県,1549,UNAGI*,鹿児島県,2853,SUMIRE,鹿児島県,0,,-
+BISTROVER,3!dolon Forc3,0,,-,723,JACK,鹿児島県,1549,UNAGI*,鹿児島県,2853,SUMIRE,鹿児島県,0,,-
 CastHour,踊,180,NEKO*3,鹿児島県,364,HAKU*,鹿児島県,806,HAKU*,鹿児島県,1630,CHP*1E,鹿児島県,0,,-
 CastHour,月とミルク,0,,-,981,HAKU*,鹿児島県,1571,SUQNE*,鹿児島県,2764,SUMIRE,鹿児島県,0,,-
 CastHour,愛しくてラヴィンユー ft. マナ,0,,-,787,HAKU*,鹿児島県,1428,NEKO*3,鹿児島県,2394,INOKI!,鹿児島県,0,,-
@@ -1376,7 +1376,7 @@ CastHour,ミュージック・アワー,520,SEINA.,鹿児島県,1176,HAKU*,鹿�
 CastHour,ハイテックトキオ,0,,-,1045,HAKU*,鹿児島県,1898,HIRO99,鹿児島県,2671,HIRO99,鹿児島県,0,,-
 CastHour,デモーニッシュ,250,HAKU*,鹿児島県,908,HAKU*,鹿児島県,1453,EEE.,鹿児島県,2372,SUMIRE,鹿児島県,0,,-
 CastHour,シル・ヴ・プレジデント,296,KAI046,鹿児島県,655,UNAGI*,鹿児島県,1207,UNAGI*,鹿児島県,1794,SUMIRE,鹿児島県,0,,-
-CastHour,オールトの雲,0,,-,1204,HAKU*,鹿児島県,2001,HIRO99,鹿児島県,2622,SUMIRE,鹿児島県,0,,-
+CastHour,オールトの雲,0,,-,1204,HAKU*,鹿児島県,2001,HIRO99,鹿児島県,2627,SUMIRE,鹿児島県,0,,-
 CastHour,オドループ,492,SEINA.,鹿児島県,1097,HAKU*,鹿児島県,1539,KAI046,鹿児島県,2343,SUMIRE,鹿児島県,0,,-
 CastHour,ウツシミウツシ,0,,-,1235,HAKU*,鹿児島県,2058,HIRO99,鹿児島県,3122,SUMIRE,鹿児島県,0,,-
 CastHour,ぐだふわエブリデー,266,POIFUL,鹿児島県,671,HAKU*,鹿児島県,1301,HIRO99,鹿児島県,2291,INOKI!,鹿児島県,0,,-
@@ -1398,13 +1398,13 @@ CastHour,Onyx,0,,-,874,HAKU*,鹿児島県,1518,HIRO99,鹿児島県,2389,SUMIRE,�
 CastHour,Non Stop Rock,0,,-,770,HAKU*,鹿児島県,1293,HIRO99,鹿児島県,1858,HIRO99,鹿児島県,0,,-
 CastHour,No Day But Today!,421,KAI046,鹿児島県,716,HAKU*,鹿児島県,1258,HAKU*,鹿児島県,1976,SUMIRE,鹿児島県,0,,-
 CastHour,N.O.,0,,-,803,HAKU*,鹿児島県,1502,HIRO99,鹿児島県,2513,SUMIRE,鹿児島県,0,,-
-CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1590,HAKU*,鹿児島県,2528,SUMIRE,鹿児島県,3766,HIRO99,鹿児島県,0,,-
+CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1590,HAKU*,鹿児島県,2528,SUMIRE,鹿児島県,3771,SUMIRE,鹿児島県,0,,-
 CastHour,Lawes's Parotia,0,,-,885,HAKU*,鹿児島県,1724,HIRO99,鹿児島県,2554,HIRO99,鹿児島県,0,,-
 CastHour,ILAYZA,0,,-,1157,HAKU*,鹿児島県,2077,HIRO99,鹿児島県,2780,SUMIRE,鹿児島県,0,,-
 CastHour,HEARTACHE,0,,-,476,ASIC,鹿児島県,1132,NEKO*3,鹿児島県,1829,HIRO99,鹿児島県,0,,-
 CastHour,GiGaGaHell,0,,-,1270,HAKU*,鹿児島県,2086,HIRO99,鹿児島県,3005,INOKI!,鹿児島県,0,,-
 CastHour,FINALLY BLAZE,0,,-,914,HAKU*,鹿児島県,1765,HIRO99,鹿児島県,2777,SUMIRE,鹿児島県,0,,-
-CastHour,Fegrix,0,,-,1210,HAKU*,鹿児島県,2289,HIRO99,鹿児島県,3178,AMURO,鹿児島県,0,,-
+CastHour,Fegrix,0,,-,1210,HAKU*,鹿児島県,2289,HIRO99,鹿児島県,3198,SUMIRE,鹿児島県,0,,-
 CastHour,Fantastic Merry-Go-Round,0,,-,1062,MASA,鹿児島県,1454,HAKU*,鹿児島県,2108,HIRO99,鹿児島県,0,,-
 CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1053,HAKU*,鹿児島県,1799,HIRO99,鹿児島県,2677,INOKI!,鹿児島県,0,,-
 CastHour,Don't believe the hype,0,,-,1125,HAKU*,鹿児島県,2227,AITHON,鹿児島県,3091,INOKI!,鹿児島県,0,,-
@@ -1412,5 +1412,5 @@ CastHour,DISPARATE,0,,-,976,HAKU*,鹿児島県,1831,HIRO99,鹿児島県,2415,SUM
 CastHour,Blue Bird feat. Kanae Asaba,0,,-,643,0000,鹿児島県,1074,NEKO*3,鹿児島県,1791,SUMIRE,鹿児島県,0,,-
 CastHour,Ariah,0,,-,705,HAKU*,鹿児島県,1483,HAKU*,鹿児島県,2167,SUMIRE,鹿児島県,0,,-
 CastHour,Angel's Ladder,0,,-,1028,HAKU*,鹿児島県,2261,HIRO99,鹿児島県,3307,SUMIRE,鹿児島県,0,,-
-CastHour,Aftermath,0,,-,1192,HAKU*,鹿児島県,2412,HIRO99,鹿児島県,3470,HIRO99,鹿児島県,0,,-
+CastHour,Aftermath,0,,-,1192,HAKU*,鹿児島県,2412,HIRO99,鹿児島県,3495,SUMIRE,鹿児島県,0,,-
 CastHour,808monkey,0,,-,743,HAKU*,鹿児島県,1155,HAKU*,鹿児島県,1804,HIRO99,鹿児島県,0,,-
