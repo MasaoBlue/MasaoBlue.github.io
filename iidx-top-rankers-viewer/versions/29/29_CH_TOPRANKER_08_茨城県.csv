@@ -13,13 +13,6 @@
 1st&substream,deep in you,0,,-,479,AKML,茨城県,456,DDRMIX,茨城県,656,-13KG,茨城県,0,,-
 1st&substream,5.1.1.,0,,-,197,HENSEL,茨城県,1002,Y2J,茨城県,1572,NCHO72,茨城県,0,,-
 1st&substream,22DUNK,0,,-,409,NKM,茨城県,585,TWELVE,茨城県,654,-13KG,茨城県,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,499,AKML,茨城県,584,IPSAMA,茨城県,645,REMAKO,茨城県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,543,AIKA,茨城県,841,RIKO.S,茨城県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,813,MUMEI,茨城県,1059,IPSAMA,茨城県,1218,K6PP1.,茨城県,0,,-
-2nd style,I Was The One,0,,-,488,MR,茨城県,618,IPSAMA,茨城県,687,XIAO,茨城県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,572,SPE,茨城県,866,IPSAMA,茨城県,1066,REMAKO,茨城県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,384,MARU!,茨城県,901,MAGIMO,茨城県,1075,REV-K,茨城県,0,,-
-2nd style,.59,0,,-,676,AXEL3,茨城県,875,IPSAMA,茨城県,1141,KIDO.,茨城県,0,,-
 3rd style,THE SAFARI,349,ACID19,茨城県,1096,ITARIN,茨城県,1772,NCHO72,茨城県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,276,GOD-P,茨城県,393,XIAO,茨城県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,650,GU!3,茨城県,1162,KARUMA,茨城県,1254,MOKA.A,茨城県,0,,-
@@ -32,6 +25,13 @@
 3rd style,era (nostalmix),0,,-,821,AKML,茨城県,1102,TAKWAN,茨城県,1537,KIDO.,茨城県,0,,-
 3rd style,Don't Stop!,0,,-,684,ISMARL,茨城県,803,IPSAMA,茨城県,888,8MAN,茨城県,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,566,DARWIN,茨城県,1230,REV-K,茨城県,0,,-,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,499,AKML,茨城県,584,IPSAMA,茨城県,645,REMAKO,茨城県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,543,AIKA,茨城県,841,RIKO.S,茨城県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,813,MUMEI,茨城県,1059,IPSAMA,茨城県,1218,K6PP1.,茨城県,0,,-
+2nd style,I Was The One,0,,-,488,MR,茨城県,618,IPSAMA,茨城県,687,XIAO,茨城県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,572,SPE,茨城県,866,IPSAMA,茨城県,1066,REMAKO,茨城県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,384,MARU!,茨城県,901,MAGIMO,茨城県,1075,REV-K,茨城県,0,,-
+2nd style,.59,0,,-,676,AXEL3,茨城県,875,IPSAMA,茨城県,1141,KIDO.,茨城県,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,876,AKML,茨城県,1223,NCHO72,茨城県,1321,MAGI9,茨城県,0,,-
 4th style,SWEET LAB,0,,-,512,ITARIN,茨城県,880,FATE,茨城県,1373,KIDO.,茨城県,0,,-
 4th style,starmine,377,A,茨城県,782,YAS,茨城県,1339,K-DASH,茨城県,1595,MOKA.A,茨城県,0,,-
@@ -208,7 +208,7 @@ IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,785,AKML,茨城県,2076,5U
 IIDX RED,Wonder Bullfighter,0,,-,882,ITARIN,茨城県,1317,AKML,茨城県,2035,KIDO.,茨城県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,939,KTKK,茨城県,1478,NEKO,茨城県,1948,KIDO.,茨城県,0,,-
 IIDX RED,spiral galaxy,0,,-,1039,AKML,茨城県,1950,NURJES,茨城県,2576,TAKWAN,茨城県,3794,NCHO72,茨城県
-IIDX RED,Sphere,0,,-,969,KTKK,茨城県,1877,62TAKE,茨城県,2210,NCHO72,茨城県,0,,-
+IIDX RED,Sphere,0,,-,973,DARWIN,茨城県,1877,62TAKE,茨城県,2210,NCHO72,茨城県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,1057,KTKK,茨城県,1546,19ZIN,茨城県,2046,NCHO72,茨城県,0,,-
 IIDX RED,Secret of Love,0,,-,1007,KTKK,茨城県,1291,PANDA,茨城県,2010,K6PP1.,茨城県,0,,-
 IIDX RED,RESONATE 1794,0,,-,889,AKML,茨城県,1379,NURJES,茨城県,1878,TAKWAN,茨城県,0,,-
@@ -242,7 +242,7 @@ HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,732,AIKA,�
 HAPPY SKY,Xepher,305,NOK.,茨城県,1102,AXEL3,茨城県,2056,PICCA,茨城県,3014,NCHO72,茨城県,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,401,MORISI,茨城県,887,KTKK,茨城県,1663,NCHO72,茨城県,0,,-
 HAPPY SKY,Votum stellarum,0,,-,695,GEN-H,茨城県,1547,NECO*2,茨城県,1985,K6PP1.,茨城県,0,,-
-HAPPY SKY,vault of heaven,0,,-,773,KAZU.T,茨城県,1315,RUKI*,茨城県,2013,NCHO72,茨城県,0,,-
+HAPPY SKY,vault of heaven,0,,-,773,KAZU.T,茨城県,1316,AKML,茨城県,2013,NCHO72,茨城県,0,,-
 HAPPY SKY,Under the Sky,0,,-,854,SELENE,茨城県,1290,C*11-F,茨城県,1745,NCHO72,茨城県,0,,-
 HAPPY SKY,Twelfth Style,0,,-,1222,REAPER,茨城県,1433,HENSEL,茨城県,2048,MOKA.A,茨城県,3206,86*,茨城県
 HAPPY SKY,Tizona d'El Cid,0,,-,903,YOSHI,茨城県,1804,SGY,茨城県,2327,NCHO72,茨城県,0,,-
@@ -330,7 +330,7 @@ GOLD,the shadow,0,,-,1105,ITARIN,茨城県,1892,OGST,茨城県,2919,NCHO72,茨�
 GOLD,snow storm,224,ACID19,茨城県,782,AKML,茨城県,2221,BULAN,茨城県,2794,NCHO72,茨城県,3383,NCHO72,茨城県
 GOLD,smile,0,,-,1419,GOD-P,茨城県,2052,NURJES,茨城県,2912,NCHO72,茨城県,0,,-
 GOLD,Sense 2007,0,,-,1440,ZIVA,茨城県,2210,RIKO.S,茨城県,2958,NCHO72,茨城県,0,,-
-GOLD,Second Heaven,212,ITADES,茨城県,942,AKML,茨城県,1460,RUKI*,茨城県,2120,TAKWAN,茨城県,0,,-
+GOLD,Second Heaven,218,ITADES,茨城県,942,AKML,茨城県,1460,RUKI*,茨城県,2120,TAKWAN,茨城県,0,,-
 GOLD,Roulette,0,,-,829,KTKK,茨城県,1306,DMY,茨城県,2131,NCHO72,茨城県,0,,-
 GOLD,PHOTONGENIC,0,,-,1132,DARWIN,茨城県,1878,24KINO,茨城県,2319,NCHO72,茨城県,0,,-
 GOLD,op.31 叙情,0,,-,555,HENSEL,茨城県,1314,TAKWAN,茨城県,1536,MAGI9,茨城県,0,,-
@@ -370,7 +370,7 @@ DJ TROOPERS,Time to Air,0,,-,1155,HIJIRI,茨城県,2040,YU-TA.,茨城県,2901,MO
 DJ TROOPERS,the trigger of innocence,0,,-,800,KTKK,茨城県,1157,KAZU.T,茨城県,1841,A1NYAN,茨城県,3113,MOKA.A,茨城県
 DJ TROOPERS,THE DEEP STRIKER,390,IIDX29,茨城県,1036,AKML,茨城県,2137,BOKKI.,茨城県,3037,NCHO72,茨城県,3468,TAKWAN,茨城県
 DJ TROOPERS,switch,0,,-,738,VORUKU,茨城県,1370,WATAME,茨城県,2117,NCHO72,茨城県,0,,-
-DJ TROOPERS,STEEL NEEDLE,0,,-,1043,AKML,茨城県,1956,TKMK,茨城県,2459,ALKALI,茨城県,3319,NCHO72,茨城県
+DJ TROOPERS,STEEL NEEDLE,0,,-,1049,AKML,茨城県,1956,TKMK,茨城県,2459,ALKALI,茨城県,3319,NCHO72,茨城県
 DJ TROOPERS,State Of The Art,0,,-,1085,AXEL3,茨城県,1480,NURJES,茨城県,3124,NCHO72,茨城県,0,,-
 DJ TROOPERS,SOUND OF GIALLARHORN,437,NYO,茨城県,1174,ITARIN,茨城県,2583,2DK1NG,茨城県,3317,NCHO72,茨城県,0,,-
 DJ TROOPERS,soldier's waltz,0,,-,780,AKML,茨城県,1455,NURJES,茨城県,2503,NCHO72,茨城県,0,,-
@@ -425,7 +425,7 @@ EMPRESS,smooooch・∀・,364,CHESYA,茨城県,813,AKML,茨城県,1585,G*TAKA,�
 EMPRESS,Secrets,0,,-,974,ISMARL,茨城県,2310,YU-TA.,茨城県,3168,NCHO72,茨城県,4136,NCHO72,茨城県
 EMPRESS,Queen's Tragedy,0,,-,821,AKML,茨城県,1659,YU-TA.,茨城県,2246,KIDO.,茨城県,0,,-
 EMPRESS,Punch Love 仮面,0,,-,1022,KTKK,茨城県,1644,111111,茨城県,2530,NCHO72,茨城県,0,,-
-EMPRESS,Programmed World,0,,-,845,KTKK,茨城県,1554,RYU,茨城県,2312,NCHO72,茨城県,0,,-
+EMPRESS,Programmed World,0,,-,871,DARWIN,茨城県,1554,RYU,茨城県,2312,NCHO72,茨城県,0,,-
 EMPRESS,NΦ CRIME,294,HENSEL,茨城県,685,YAS,茨城県,1174,REBEL,茨城県,1902,NCHO72,茨城県,0,,-
 EMPRESS,neogenesis,0,,-,971,AKML,茨城県,1250,IPSAMA,茨城県,1713,KIDO.,茨城県,0,,-
 EMPRESS,naughty girl@Queen's Palace,0,,-,835,AKML,茨城県,1667,AXEL3,茨城県,2121,MOKA.A,茨城県,2607,RIKO.S,茨城県
@@ -477,7 +477,7 @@ SIRIUS,MIRACLE MEETS,0,,-,909,AXEL3,茨城県,1509,G*TAKA,茨城県,2229,KIDO.,�
 SIRIUS,Light Shine,0,,-,811,AKML,茨城県,1100,AKML,茨城県,1967,KIDO.,茨城県,0,,-
 SIRIUS,Last Burning,0,,-,851,AKML,茨城県,1510,OGST,茨城県,2352,TAKWAN,茨城県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,964,MR.WLF,茨城県,1611,ZIVA,茨城県,1878,MOKA.A,茨城県,0,,-
-SIRIUS,IN THE NAME OF LOVE,531,AXEL3,茨城県,742,AKML,茨城県,1196,IPSAMA,茨城県,1939,NCHO72,茨城県,0,,-
+SIRIUS,IN THE NAME OF LOVE,531,AXEL3,茨城県,742,AKML,茨城県,1224,AKML,茨城県,1939,NCHO72,茨城県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,986,DWN-SG,茨城県,1578,OGST,茨城県,2325,NCHO72,茨城県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,1084,AKML,茨城県,1977,BULAN,茨城県,3504,NCHO72,茨城県,0,,-
 SIRIUS,GALGALIM,0,,-,1131,GAFFA,茨城県,1898,YU-TA.,茨城県,2394,NCHO72,茨城県,0,,-
@@ -495,7 +495,7 @@ SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1573,AKML,茨城県,2678,AXEL3,茨城県,3
 SIRIUS,D,0,,-,1339,AKML,茨城県,1795,REAPER,茨城県,2566,KIDO.,茨城県,0,,-
 SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,1001,AKML,茨城県,1448,IPSAMA,茨城県,2391,7G569D,茨城県,0,,-
 SIRIUS,bloomin' feeling,327,4RTDS,茨城県,1244,AKML,茨城県,1931,BULAN,茨城県,2615,NCHO72,茨城県,0,,-
-SIRIUS,being torn the sky,0,,-,610,CHESYA,茨城県,1141,AKML,茨城県,1986,KIDO.,茨城県,0,,-
+SIRIUS,being torn the sky,0,,-,610,CHESYA,茨城県,1141,AKML,茨城県,1990,KIDO.,茨城県,0,,-
 SIRIUS,BEAUTIFUL ANGEL,0,,-,580,GU!3,茨城県,1808,AXEL3,茨城県,2497,NCHO72,茨城県,0,,-
 SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,940,KTKK,茨城県,1577,TKMK,茨城県,2026,NCHO72,茨城県,0,,-
 SIRIUS,bass 2 bass,279,Y,茨城県,717,AKML,茨城県,1258,BULAN,茨城県,1904,KIDO.,茨城県,0,,-
@@ -510,7 +510,7 @@ Resort Anthem,中華急行,0,,-,326,SELENE,茨城県,1508,G*TAKA,茨城県,2333,
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,353,KUMAZW,茨城県,873,HENSEL,茨城県,1300,DMY,茨城県,1901,K6PP1.,茨城県,0,,-
 Resort Anthem,おおきなこえで,0,,-,402,CHESYA,茨城県,929,OGST,茨城県,1475,RAVE,茨城県,2144,MAGI9,茨城県
 Resort Anthem,ZETA～素数の世界と超越者～,215,UNILD,茨城県,415,MASAO,茨城県,1967,Y2J,茨城県,3117,KIDO.,茨城県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,902,KTKK,茨城県,1741,BULAN,茨城県,2754,NCHO72,茨城県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,912,CHESYA,茨城県,1741,BULAN,茨城県,2754,NCHO72,茨城県,0,,-
 Resort Anthem,Wuv U,0,,-,411,SELENE,茨城県,1197,K-DASH,茨城県,1712,K6PP1.,茨城県,0,,-
 Resort Anthem,WISE UP!,215,HEAVEN,茨城県,285,KANATA,茨城県,1163,AXEL3,茨城県,1583,M.FUYU,茨城県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1100,GOD-P,茨城県,1853,REVO.,茨城県,2871,MOKA.A,茨城県,0,,-
@@ -560,7 +560,7 @@ Resort Anthem,Answer,0,,-,743,SELENE,茨城県,1479,BULAN,茨城県,2423,MOKA.A,
 Resort Anthem,ALBIDA,382,X,茨城県,1098,GOD-P,茨城県,1842,YU-TA.,茨城県,3017,NCHO72,茨城県,0,,-
 Resort Anthem,Aegis,0,,-,815,54157N,茨城県,1189,ROMERO,茨城県,2317,KIDO.,茨城県,0,,-
 Lincle,陽炎,0,,-,619,AKML,茨城県,1132,OGST,茨城県,1999,MAGI9,茨城県,0,,-
-Lincle,衰色小町メランコリア,0,,-,751,AIKA,茨城県,1373,NECO*2,茨城県,2372,NCHO72,茨城県,0,,-
+Lincle,衰色小町メランコリア,0,,-,764,SELENE,茨城県,1373,NECO*2,茨城県,2372,NCHO72,茨城県,0,,-
 Lincle,蛇神,411,AXEL3,茨城県,716,AKML,茨城県,1458,SGY,茨城県,2833,KIDO.,茨城県,0,,-
 Lincle,聖人の塔,0,,-,919,AKML,茨城県,1939,BAIDOQ,茨城県,3029,KIDO.,茨城県,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,617,WATERI,茨城県,1117,IPSAMA,茨城県,2099,HZK*,茨城県,0,,-
@@ -578,15 +578,15 @@ Lincle,Voxane,0,,-,583,SELENE,茨城県,1183,DMY,茨城県,1739,RIKO.S,茨城県
 Lincle,Todestrieb,0,,-,1089,AKML,茨城県,1893,ZIVA,茨城県,3453,NCHO72,茨城県,0,,-
 Lincle,TITANS RETURN,309,AJI*,茨城県,621,HENSEL,茨城県,1485,Y2J,茨城県,2513,NCHO72,茨城県,2620,NCHO72,茨城県
 Lincle,Thunderbolt,0,,-,1015,AXEL3,茨城県,1804,A,茨城県,3792,NCHO72,茨城県,0,,-
-Lincle,The Sampling Paradise,0,,-,829,AKML,茨城県,1785,YU-TA.,茨城県,3035,NCHO72,茨城県,0,,-
+Lincle,The Sampling Paradise,0,,-,850,HENSEL,茨城県,1785,YU-TA.,茨城県,3035,NCHO72,茨城県,0,,-
 Lincle,The Limbo,0,,-,1169,AKML,茨城県,1935,REBEL,茨城県,3341,NCHO72,茨城県,0,,-
 Lincle,Star Trail,0,,-,636,AKML,茨城県,1128,AKML,茨城県,1867,NCHO72,茨城県,0,,-
 Lincle,Snow Goose,282,9RAQUE,茨城県,374,SELENE,茨城県,1238,K-DASH,茨城県,2435,TAKWAN,茨城県,0,,-
 Lincle,Snake Stick,0,,-,978,AKML,茨城県,1990,RIKO.S,茨城県,2727,MOKA.A,茨城県,0,,-
 Lincle,SHADE,0,,-,1086,AXEL3,茨城県,1957,MNG.SP,茨城県,2917,NCHO72,茨城県,0,,-
-Lincle,Several Words,0,,-,636,AKML,茨城県,1365,Y2J,茨城県,2187,KIDO.,茨城県,0,,-
+Lincle,Several Words,0,,-,636,AKML,茨城県,1372,AKML,茨城県,2187,KIDO.,茨城県,0,,-
 Lincle,Scharfrichter,0,,-,879,HENSEL,茨城県,1586,Y2J,茨城県,2916,KIDO.,茨城県,0,,-
-Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,373,WHAT,茨城県,1101,SH0,茨城県,1597,850,茨城県,0,,-
+Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,373,WHAT,茨城県,1103,DARWIN,茨城県,1597,850,茨城県,0,,-
 Lincle,Round and Round,0,,-,781,NURJES,茨城県,1197,YU-TA.,茨城県,2153,KIDO.,茨城県,0,,-
 Lincle,RESISTANCE,0,,-,448,OMRETU,茨城県,1298,VAR,茨城県,2373,K6PP1.,茨城県,0,,-
 Lincle,Release The Music,0,,-,820,AKML,茨城県,1373,AKML,茨城県,2097,RIKO.S,茨城県,0,,-
@@ -673,7 +673,7 @@ tricoro,Plan 8,0,,-,1134,AKML,茨城県,2141,KARUMA,茨城県,3168,ALKALI,茨城
 tricoro,New Lights,0,,-,1036,AKML,茨城県,1754,NURJES,茨城県,2485,NCHO72,茨城県,0,,-
 tricoro,New Decade IIDX Edition,207,2KB,茨城県,977,HENSEL,茨城県,1875,YU-TA.,茨城県,3029,NCHO72,茨城県,0,,-
 tricoro,neu,192,ITADES,茨城県,970,AKML,茨城県,2168,AXEL3,茨城県,3927,NCHO72,茨城県,0,,-
-tricoro,Neonlights,0,,-,536,NKM,茨城県,1402,IPSAMA,茨城県,2239,NCHO72,茨城県,0,,-
+tricoro,Neonlights,0,,-,636,SELENE,茨城県,1402,IPSAMA,茨城県,2239,NCHO72,茨城県,0,,-
 tricoro,mnemoniq,0,,-,391,IIDX28,茨城県,902,PANDA,茨城県,1303,MAGI9,茨城県,0,,-
 tricoro,LUV CAN SAVE U,0,,-,584,AKML,茨城県,1403,OGST,茨城県,2122,K6PP1.,茨城県,2809,NCHO72,茨城県
 tricoro,Little Star,0,,-,901,GOD-P,茨城県,1674,C*11-F,茨城県,3135,TAKWAN,茨城県,0,,-
@@ -681,7 +681,7 @@ tricoro,Light and Cyber…,0,,-,959,KTKK,茨城県,1951,111111,茨城県,3140,NC
 tricoro,Liberation,0,,-,1503,BULAN,茨城県,2323,-ISSA-,茨城県,3705,TAKWAN,茨城県,0,,-
 tricoro,JOMANDA,253,Y2J,茨城県,1093,GOD-P,茨城県,2158,Y2J,茨城県,3718,KIDO.,茨城県,0,,-
 tricoro,In Heaven,0,,-,758,AKML,茨城県,1423,AKML,茨城県,2125,KIDO.,茨城県,0,,-
-tricoro,Illegal Function Call,0,,-,945,ITARIN,茨城県,1813,A1NYAN,茨城県,2626,KIDO.,茨城県,0,,-
+tricoro,Illegal Function Call,0,,-,974,AKML,茨城県,1813,A1NYAN,茨城県,2626,KIDO.,茨城県,0,,-
 tricoro,ILIAS,0,,-,614,OMRETU,茨城県,1269,DWN-SG,茨城県,2193,KIDO.,茨城県,0,,-
 tricoro,I know You know,0,,-,603,AKML,茨城県,1107,KOW,茨城県,1882,NCHO72,茨城県,0,,-
 tricoro,Howling,0,,-,550,AKML,茨城県,1284,RYU,茨城県,2107,K6PP1.,茨城県,2675,NCHO72,茨城県
@@ -798,7 +798,7 @@ PENDUAL,ベィスドロップ・フリークス,0,,-,625,AKML,茨城県,1270,AXE
 PENDUAL,パ→ピ→プ→Yeah!,357,KANATA,茨城県,961,ITARIN,茨城県,1583,YU-TA.,茨城県,2553,NCHO72,茨城県,0,,-
 PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,1014,HENSEL,茨城県,1776,AXEL3,茨城県,2801,HEROPN,茨城県,0,,-
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1324,RYU,茨城県,2011,YU-TA.,茨城県,2734,KIDO.,茨城県,0,,-
-PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,819,KTKK,茨城県,1434,SGY,茨城県,2552,NCHO72,茨城県,0,,-
+PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,829,SELENE,茨城県,1434,SGY,茨城県,2552,NCHO72,茨城県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,817,KAZU.T,茨城県,1404,YU-TA.,茨城県,2290,KIDO.,茨城県,0,,-
 PENDUAL,それは花火のような恋,701,OKITA3,茨城県,1257,HENSEL,茨城県,2413,SGY,茨城県,3904,NCHO72,茨城県,0,,-
 PENDUAL,ZZ,200,ACID19,茨城県,1289,ZIVA,茨城県,2004,-ISSA-,茨城県,3064,NCHO72,茨城県,0,,-
@@ -811,7 +811,7 @@ PENDUAL,TA・DA ☆ YO・SHI,0,,-,984,KTKK,茨城県,1559,NURJES,茨城県,2330,
 PENDUAL,Symmetry,0,,-,1145,AXEL3,茨城県,2048,A,茨城県,3290,NCHO72,茨城県,0,,-
 PENDUAL,Sweet Radar,0,,-,674,BULAN,茨城県,1373,BULAN,茨城県,2034,NCHO72,茨城県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,1038,GOD-P,茨城県,1679,YU-TA.,茨城県,2964,NCHO72,茨城県,0,,-
-PENDUAL,Sounds Of Summer,0,,-,1179,AIKA,茨城県,2056,111111,茨城県,3005,NCHO72,茨城県,0,,-
+PENDUAL,Sounds Of Summer,0,,-,1216,AKML,茨城県,2056,111111,茨城県,3005,NCHO72,茨城県,0,,-
 PENDUAL,Shooting Fireball,0,,-,944,AKML,茨城県,2214,ZIVA,茨城県,3935,NCHO72,茨城県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,777,KTKK,茨城県,1640,G*TAKA,茨城県,2922,KIDO.,茨城県,0,,-
 PENDUAL,Scarlet Moon,0,,-,1030,AKML,茨城県,1785,MAPLE,茨城県,2765,MOKA.A,茨城県,0,,-
@@ -830,7 +830,7 @@ PENDUAL,Monopole.,0,,-,787,AXEL3,茨城県,1595,1RIKE,茨城県,3285,86*,茨城�
 PENDUAL,Line 4 Ruin,0,,-,719,AKML,茨城県,1781,-ISSA-,茨城県,2797,NCHO72,茨城県,0,,-
 PENDUAL,IXION,0,,-,1065,AKML,茨城県,1670,NURJES,茨城県,2168,NCHO72,茨城県,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,1115,AKML,茨城県,1551,Y2J,茨城県,2721,86*,茨城県,0,,-
-PENDUAL,In The Breeze,0,,-,641,AKML,茨城県,1011,KOW,茨城県,1769,NCHO72,茨城県,0,,-
+PENDUAL,In The Breeze,0,,-,641,AKML,茨城県,1104,AKML,茨城県,1769,NCHO72,茨城県,0,,-
 PENDUAL,IMPLANTATION,0,,-,650,AXEL3,茨城県,1607,YU-TA.,茨城県,2309,NCHO72,茨城県,0,,-
 PENDUAL,illuminate,0,,-,626,AKML,茨城県,1440,NECO*2,茨城県,2322,KIDO.,茨城県,0,,-
 PENDUAL,Hello Happiness,0,,-,803,DARWIN,茨城県,1626,YU-TA.,茨城県,2302,KIDO.,茨城県,0,,-
@@ -844,7 +844,7 @@ PENDUAL,entelecheia,0,,-,1006,AKML,茨城県,2058,A,茨城県,3290,NCHO72,茨城
 PENDUAL,EBONY & IVORY,0,,-,1020,ITARIN,茨城県,1701,SGY,茨城県,3018,NCHO72,茨城県,3603,NCHO72,茨城県
 PENDUAL,Discloze,0,,-,777,.CONF,茨城県,1547,K-DASH,茨城県,2652,KIDO.,茨城県,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,1236,AKML,茨城県,2306,KO9TA9,茨城県,4097,KIDO.,茨城県,0,,-
-PENDUAL,Cosmic Cat,0,,-,809,AAAAAA,茨城県,1559,K-DASH,茨城県,2283,RIKO.S,茨城県,3268,NCHO72,茨城県
+PENDUAL,Cosmic Cat,0,,-,919,AKML,茨城県,1559,K-DASH,茨城県,2283,RIKO.S,茨城県,3268,NCHO72,茨城県
 PENDUAL,"COLOSSEUM ",0,,-,502,SPE,茨城県,1180,AIKA,茨城県,2304,NCHO72,茨城県,0,,-
 PENDUAL,cinder,0,,-,838,AKML,茨城県,1758,N41FSE,茨城県,3096,TAKWAN,茨城県,0,,-
 PENDUAL,Chronos,0,,-,861,AKML,茨城県,1427,NCHO72,茨城県,2316,5UBA4U,茨城県,2976,5UBA4U,茨城県
@@ -859,95 +859,6 @@ PENDUAL,Beyond The Earth,0,,-,1226,HENSEL,茨城県,1992,YU-TA.,茨城県,3174,T
 PENDUAL,Beat Radiance,0,,-,986,AKML,茨城県,1571,NECO*2,茨城県,2639,RIKO.S,茨城県,3546,NENE2,茨城県
 PENDUAL,AFRO KNUCKLE,0,,-,944,NURJES,茨城県,1655,SGY,茨城県,2425,NCHO72,茨城県,0,,-
 PENDUAL,#The_Relentless,0,,-,1123,1RIKE,茨城県,1838,FATE,茨城県,2915,TAKWAN,茨城県,0,,-
-SINOBUZ,鴉,0,,-,1461,GOD-P,茨城県,2094,ZII3,茨城県,2704,NCHO72,茨城県,0,,-
-SINOBUZ,童話回廊,0,,-,937,NURJES,茨城県,1686,YU-TA.,茨城県,3071,TAKWAN,茨城県,0,,-
-SINOBUZ,禍根,0,,-,803,AKML,茨城県,1300,IZM*,茨城県,2601,KIDO.,茨城県,0,,-
-SINOBUZ,獅子霞麗ノ舞,0,,-,490,90-182,茨城県,1009,AKML,茨城県,1741,KIDO.,茨城県,0,,-
-SINOBUZ,焔極OVERKILL,0,,-,1153,AKML,茨城県,2108,AJI*,茨城県,3591,KIDO.,茨城県,0,,-
-SINOBUZ,火影,0,,-,700,AKML,茨城県,1352,YU-TA.,茨城県,2670,TAKWAN,茨城県,0,,-
-SINOBUZ,津軽雪,0,,-,1433,AKML,茨城県,2192,RE4RAM,茨城県,3866,NCHO72,茨城県,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,836,AKML,茨城県,1364,24KINO,茨城県,1997,KIDO.,茨城県,0,,-
-SINOBUZ,月雪に舞う華のように,0,,-,789,AIKA,茨城県,1271,NURJES,茨城県,2114,NCHO72,茨城県,0,,-
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,989,RYU,茨城県,1507,FUTCH,茨城県,2482,NCHO72,茨城県,0,,-
-SINOBUZ,忍恋花,0,,-,1009,AXEL3,茨城県,1517,K-DASH,茨城県,2266,MOKA.A,茨城県,0,,-
-SINOBUZ,刃図羅,0,,-,1211,NURJES,茨城県,2039,YU-TA.,茨城県,3410,NCHO72,茨城県,0,,-
-SINOBUZ,冬椿 ft. Kanae Asaba,255,CHESYA,茨城県,947,KAZU.T,茨城県,1222,HENSEL,茨城県,2281,NCHO72,茨城県,3015,MAGI9,茨城県
-SINOBUZ,九尾狐夜行,0,,-,852,AKML,茨城県,1733,ZIVA,茨城県,2945,KIDO.,茨城県,0,,-
-SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,696,AKML,茨城県,1367,NECO*2,茨城県,2509,-13KG,茨城県,0,,-
-SINOBUZ,イザナミノナゲキ,0,,-,1165,AKML,茨城県,1904,KAZU.T,茨城県,3269,KIDO.,茨城県,0,,-
-SINOBUZ,ちらちら・はらはら,0,,-,405,47MO6L,茨城県,929,YU-TA.,茨城県,1420,SAKYO,茨城県,0,,-
-SINOBUZ,〆,0,,-,1208,AKML,茨城県,2261,ZIVA,茨城県,3707,NCHO72,茨城県,0,,-
-SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,598,CHESYA,茨城県,1741,YU-TA.,茨城県,2893,NCHO72,茨城県,0,,-
-SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,964,AKML,茨城県,1582,AXEL3,茨城県,2653,KIDO.,茨城県,0,,-
-SINOBUZ,XINOBIKILL,0,,-,801,NOK.,茨城県,1705,YU-TA.,茨城県,2897,KIDO.,茨城県,0,,-
-SINOBUZ,Warrior,0,,-,1027,AXEL3,茨城県,1648,NEKOPN,茨城県,2504,NCHO72,茨城県,0,,-
-SINOBUZ,Vermilion,0,,-,857,AKML,茨城県,1337,AXEL3,茨城県,2040,NCHO72,茨城県,0,,-
-SINOBUZ,Venom,0,,-,1275,NURJES,茨城県,2102,OPP***,茨城県,3209,NCHO72,茨城県,0,,-
-SINOBUZ,Umbral,0,,-,589,AJI*,茨城県,1383,ZIVA,茨城県,1895,RIKO.S,茨城県,0,,-
-SINOBUZ,TOGAKUSHI,0,,-,947,KOW,茨城県,1813,AOI,茨城県,2636,NCHO72,茨城県,0,,-
-SINOBUZ,The Commanders,0,,-,951,AKML,茨城県,1439,AKML,茨城県,2448,NCHO72,茨城県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,566,AKML,茨城県,1207,ZIVA,茨城県,1908,YO4SIN,茨城県,0,,-
-SINOBUZ,Surf on the Light,0,,-,763,AXEL3,茨城県,1464,BULAN,茨城県,2275,KIDO.,茨城県,0,,-
-SINOBUZ,Super Rush,0,,-,1012,AKML,茨城県,1836,KAZU.T,茨城県,3547,NCHO72,茨城県,0,,-
-SINOBUZ,Summerlights(IIDX Edition),0,,-,1089,AIKA,茨城県,1770,SGY,茨城県,3137,NCHO72,茨城県,0,,-
-SINOBUZ,Steel Edge,0,,-,913,AKML,茨城県,1474,KARUMA,茨城県,3190,NCHO72,茨城県,0,,-
-SINOBUZ,Snakey Kung-fu,0,,-,1098,AKML,茨城県,2147,REMAKO,茨城県,3448,NCHO72,茨城県,0,,-
-SINOBUZ,Sky High,312,NONO.M,茨城県,969,CHESYA,茨城県,2248,YU-TA.,茨城県,3835,NCHO72,茨城県,0,,-
-SINOBUZ,SINOBUZ Fantasy,0,,-,837,PAPO,茨城県,1578,RYU,茨城県,2385,SAKYO,茨城県,0,,-
-SINOBUZ,shuriken,0,,-,773,AKML,茨城県,1100,AIKA,茨城県,2560,KIDO.,茨城県,0,,-
-SINOBUZ,SEQUENCE CAT,0,,-,1000,KTKK,茨城県,2167,PILLOW,茨城県,2862,NCHO72,茨城県,0,,-
-SINOBUZ,Selfish Sweet,0,,-,603,YOSHI,茨城県,901,IPSAMA,茨城県,1722,NCHO72,茨城県,0,,-
-SINOBUZ,Seaside Labyrinth,0,,-,643,AKML,茨城県,1226,AKML,茨城県,1874,NCHO72,茨城県,0,,-
-SINOBUZ,SAY BAY,0,,-,788,GOD-P,茨城県,1497,A1NYAN,茨城県,2859,NCHO72,茨城県,0,,-
-SINOBUZ,Sarutobi Champion is 拙者,0,,-,832,DARWIN,茨城県,1497,YU-TA.,茨城県,2177,TAKWAN,茨城県,0,,-
-SINOBUZ,SAMURAI-Scramble,0,,-,989,HENSEL,茨城県,1634,YU-TA.,茨城県,2401,NCHO72,茨城県,2728,TAKWAN,茨城県
-SINOBUZ,ROTTERDAM SHOGUN,501,YOSHI,茨城県,1103,AKML,茨城県,1801,REMAKO,茨城県,2579,NCHO72,茨城県,0,,-
-SINOBUZ,RISING FIRE HAWK,0,,-,864,AKML,茨城県,1362,TA.CLD,茨城県,2631,RIKO.S,茨城県,0,,-
-SINOBUZ,Remedy feat. Kanae Asaba,0,,-,918,AXEL3,茨城県,1575,SGY,茨城県,2207,RIKO.S,茨城県,0,,-
-SINOBUZ,Rave Cannon,0,,-,1031,AKML,茨城県,1786,YU-TA.,茨城県,3359,NCHO72,茨城県,0,,-
-SINOBUZ,RAIN,0,,-,1120,AKML,茨城県,1841,HZK*,茨城県,3296,NCHO72,茨城県,0,,-
-SINOBUZ,Quakes,0,,-,1071,AKML,茨城県,1959,SGY,茨城県,3213,NCHO72,茨城県,0,,-
-SINOBUZ,Piano Samurai,0,,-,1055,AKML,茨城県,1650,Y2J,茨城県,2518,MOKA.A,茨城県,0,,-
-SINOBUZ,PAPAYAPA BASS,0,,-,745,SELENE,茨城県,1515,TKMK,茨城県,2770,RIKO.S,茨城県,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,1228,AKML,茨城県,2094,YU-TA.,茨城県,3143,KIDO.,茨城県,0,,-
-SINOBUZ,OOO,0,,-,687,AKML,茨城県,1430,G*TAKA,茨城県,2065,TAKWAN,茨城県,0,,-
-SINOBUZ,nostos,0,,-,863,AKML,茨城県,1319,REVO.,茨城県,2615,KIDO.,茨城県,0,,-
-SINOBUZ,Music is The Answer,0,,-,775,AKML,茨城県,1383,YU-TA.,茨城県,1922,NCHO72,茨城県,0,,-
-SINOBUZ,Modular Technology,0,,-,987,GYRO,茨城県,1853,YU-TA.,茨城県,2533,MOL,茨城県,0,,-
-SINOBUZ,Mare Nectaris,0,,-,1392,NURJES,茨城県,2074,RIKO.S,茨城県,3603,RAVE,茨城県,0,,-
-SINOBUZ,Magical,0,,-,810,AKML,茨城県,1138,KOW,茨城県,2007,NCHO72,茨城県,0,,-
-SINOBUZ,Macuilxochitl,490,AJI*,茨城県,1313,AKML,茨城県,2176,ZIVA,茨城県,3341,NCHO72,茨城県,0,,-
-SINOBUZ,Lost wing at.0,0,,-,902,AKML,茨城県,1316,K-DASH,茨城県,2471,KIDO.,茨城県,0,,-
-SINOBUZ,INVISIBLE STRIX,0,,-,1140,AKML,茨城県,1916,3MYAKU,茨城県,2641,NCHO72,茨城県,0,,-
-SINOBUZ,Honey Trap,0,,-,826,AKML,茨城県,1575,YU-TA.,茨城県,2539,NCHO72,茨城県,0,,-
-SINOBUZ,HAPPY★RUSH,0,,-,770,1RIKE,茨城県,1757,NURJES,茨城県,2886,KIDO.,茨城県,0,,-
-SINOBUZ,HADES,351,CHESYA,茨城県,961,AKML,茨城県,1845,RE4RAM,茨城県,3090,KIDO.,茨城県,0,,-
-SINOBUZ,GuNGNiR,0,,-,1328,AXEL3,茨城県,2671,HEROPN,茨城県,3932,NCHO72,茨城県,4461,86*,茨城県
-SINOBUZ,Go Ahead!!,0,,-,963,AKML,茨城県,1533,SUU...,茨城県,2711,86*,茨城県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,1100,KTKK,茨城県,1965,KARUMA,茨城県,3809,NCHO72,茨城県,0,,-
-SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,613,ITARIN,茨城県,1114,IPSAMA,茨城県,1630,RIKO.S,茨城県,0,,-
-SINOBUZ,Egret and Willow,0,,-,1011,HENSEL,茨城県,1640,YU-TA.,茨城県,2738,NCHO72,茨城県,0,,-
-SINOBUZ,ECHIDNA,0,,-,1249,NURJES,茨城県,1999,SGY,茨城県,3404,NCHO72,茨城県,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1258,AKML,茨城県,2126,A,茨城県,3660,KIDO.,茨城県,0,,-
-SINOBUZ,Cyber True Color,0,,-,975,AKML,茨城県,1584,BULAN,茨城県,2367,KIDO.,茨城県,0,,-
-SINOBUZ,crew,0,,-,630,BULAN,茨城県,1738,BULAN,茨城県,2940,NCHO72,茨城県,0,,-
-SINOBUZ,Caterpillar,0,,-,1153,GOD-P,茨城県,2150,AL,茨城県,3026,NCHO72,茨城県,0,,-
-SINOBUZ,BroGamer,0,,-,1358,NURJES,茨城県,2028,10FEET,茨城県,3101,NCHO72,茨城県,4618,NCHO72,茨城県
-SINOBUZ,Breakin' Chain,0,,-,478,ARUKA,茨城県,1230,DORARA,茨城県,2324,NCHO72,茨城県,0,,-
-SINOBUZ,BREAK OVER,0,,-,901,AKML,茨城県,1470,NURJES,茨城県,2312,REAPER,茨城県,0,,-
-SINOBUZ,Beyond The Seven,0,,-,729,AKML,茨城県,1304,BULAN,茨城県,2729,NCHO72,茨城県,0,,-
-SINOBUZ,Believe in you,0,,-,1139,AKML,茨城県,1850,DWN-SG,茨城県,2434,KIDO.,茨城県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,995,AXEL3,茨城県,1465,Y2J,茨城県,2196,KIDO.,茨城県,0,,-
-SINOBUZ,Be A Star,0,,-,946,IPSAMA,茨城県,1769,YU-TA.,茨城県,2810,MOKA.A,茨城県,0,,-
-SINOBUZ,BabeL ～Grand Story～,0,,-,1231,FUTCH,茨城県,2005,YU-TA.,茨城県,2811,NCHO72,茨城県,0,,-
-SINOBUZ,AsiaN distractive,0,,-,1096,KTKK,茨城県,1688,NEKOPN,茨城県,2640,KIDO.,茨城県,0,,-
-SINOBUZ,Around The Galaxy,0,,-,1115,AXEL3,茨城県,1913,K-DASH,茨城県,3409,NCHO72,茨城県,0,,-
-SINOBUZ,Apocalypse,0,,-,1002,KTKK,茨城県,2106,A,茨城県,3584,NCHO72,茨城県,0,,-
-SINOBUZ,AO-∞,0,,-,1109,AKML,茨城県,1670,NURJES,茨城県,2675,TAKWAN,茨城県,0,,-
-SINOBUZ,Amazing Mirage,298,4RTDS,茨城県,902,AKML,茨城県,1724,KRS#44,茨城県,2650,NCHO72,茨城県,3226,KIDO.,茨城県
-SINOBUZ,(This Is Not) The Angels,0,,-,605,OKITA3,茨城県,1435,REMAKO,茨城県,2701,NCHO72,茨城県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1132,AKML,茨城県,1962,SUU...,茨城県,3408,NCHO72,茨城県,0,,-
-SINOBUZ,!Viva!,0,,-,951,AKML,茨城県,1466,OGST,茨城県,2013,KIDO.,茨城県,0,,-
 copula,麗 ～うらら～,244,CHESYA,茨城県,1145,BULAN,茨城県,1754,BULAN,茨城県,2647,NCHO72,茨城県,0,,-
 copula,駅猫のワルツ,0,,-,964,CROSS,茨城県,1932,FUYUKO,茨城県,2762,NCHO72,茨城県,0,,-
 copula,量子の海のリントヴルム,0,,-,893,AKML,茨城県,1696,DEOCO,茨城県,2991,NCHO72,茨城県,0,,-
@@ -992,7 +903,7 @@ copula,On the FM,0,,-,1129,NURJES,茨城県,1519,OGST,茨城県,2818,NCHO72,茨�
 copula,NZM,0,,-,1064,NURJES,茨城県,1514,OCEGCH,茨城県,3494,NCHO72,茨城県,0,,-
 copula,Nowhere,0,,-,840,AKML,茨城県,1361,DWN-SG,茨城県,2176,NCHO72,茨城県,0,,-
 copula,NO LIMIT -オレ達に限界は無い-,0,,-,804,AKML,茨城県,1195,AKML,茨城県,2278,KIDO.,茨城県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,985,YORICK,茨城県,1901,AXEL3,茨城県,3002,KIDO.,茨城県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,985,REJECT,茨城県,1901,AXEL3,茨城県,3002,KIDO.,茨城県,0,,-
 copula,Nightmare before oversleep,0,,-,1167,AKML,茨城県,1816,46HA7.,茨城県,2975,NCHO72,茨城県,0,,-
 copula,NANAIRO,0,,-,909,CHESYA,茨城県,1648,8492,茨城県,2553,K6PP1.,茨城県,0,,-
 copula,Musik LoverZ,0,,-,1050,AKML,茨城県,1407,BULAN,茨城県,2485,KIDO.,茨城県,0,,-
@@ -1029,6 +940,95 @@ copula,AO-1,0,,-,1252,AXEL3,茨城県,1850,RE4RAM,茨城県,2739,TAKWAN,茨城�
 copula,Angelic Jelly,0,,-,1114,AKML,茨城県,2026,YU-TA.,茨城県,2782,NCHO72,茨城県,0,,-
 copula,Acid Pumper,0,,-,684,HENSEL,茨城県,1486,MICACA,茨城県,2483,NCHO72,茨城県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,680,AKML,茨城県,1654,REMAKO,茨城県,2356,KIDO.,茨城県,0,,-
+SINOBUZ,鴉,0,,-,1461,GOD-P,茨城県,2094,ZII3,茨城県,2704,NCHO72,茨城県,0,,-
+SINOBUZ,童話回廊,0,,-,937,NURJES,茨城県,1686,YU-TA.,茨城県,3071,TAKWAN,茨城県,0,,-
+SINOBUZ,禍根,0,,-,803,AKML,茨城県,1300,IZM*,茨城県,2601,KIDO.,茨城県,0,,-
+SINOBUZ,獅子霞麗ノ舞,0,,-,490,90-182,茨城県,1009,AKML,茨城県,1741,KIDO.,茨城県,0,,-
+SINOBUZ,焔極OVERKILL,0,,-,1153,AKML,茨城県,2108,AJI*,茨城県,3591,KIDO.,茨城県,0,,-
+SINOBUZ,火影,0,,-,700,AKML,茨城県,1352,YU-TA.,茨城県,2670,TAKWAN,茨城県,0,,-
+SINOBUZ,津軽雪,0,,-,1433,AKML,茨城県,2192,RE4RAM,茨城県,3866,NCHO72,茨城県,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,836,AKML,茨城県,1364,24KINO,茨城県,1997,KIDO.,茨城県,0,,-
+SINOBUZ,月雪に舞う華のように,0,,-,789,AIKA,茨城県,1271,NURJES,茨城県,2114,NCHO72,茨城県,0,,-
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,989,RYU,茨城県,1507,FUTCH,茨城県,2482,NCHO72,茨城県,0,,-
+SINOBUZ,忍恋花,0,,-,1009,AXEL3,茨城県,1517,K-DASH,茨城県,2266,MOKA.A,茨城県,0,,-
+SINOBUZ,刃図羅,0,,-,1211,NURJES,茨城県,2039,YU-TA.,茨城県,3410,NCHO72,茨城県,0,,-
+SINOBUZ,冬椿 ft. Kanae Asaba,255,CHESYA,茨城県,947,KAZU.T,茨城県,1222,HENSEL,茨城県,2281,NCHO72,茨城県,3015,MAGI9,茨城県
+SINOBUZ,九尾狐夜行,0,,-,852,AKML,茨城県,1733,ZIVA,茨城県,2945,KIDO.,茨城県,0,,-
+SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,696,AKML,茨城県,1367,NECO*2,茨城県,2509,-13KG,茨城県,0,,-
+SINOBUZ,イザナミノナゲキ,0,,-,1165,AKML,茨城県,1904,KAZU.T,茨城県,3269,KIDO.,茨城県,0,,-
+SINOBUZ,ちらちら・はらはら,0,,-,405,47MO6L,茨城県,929,YU-TA.,茨城県,1420,SAKYO,茨城県,0,,-
+SINOBUZ,〆,0,,-,1208,AKML,茨城県,2261,ZIVA,茨城県,3707,NCHO72,茨城県,0,,-
+SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,598,CHESYA,茨城県,1741,YU-TA.,茨城県,2893,NCHO72,茨城県,0,,-
+SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,964,AKML,茨城県,1582,AXEL3,茨城県,2653,KIDO.,茨城県,0,,-
+SINOBUZ,XINOBIKILL,0,,-,801,NOK.,茨城県,1705,YU-TA.,茨城県,2897,KIDO.,茨城県,0,,-
+SINOBUZ,Warrior,0,,-,1027,AXEL3,茨城県,1648,NEKOPN,茨城県,2504,NCHO72,茨城県,0,,-
+SINOBUZ,Vermilion,0,,-,857,AKML,茨城県,1337,AXEL3,茨城県,2040,NCHO72,茨城県,0,,-
+SINOBUZ,Venom,0,,-,1275,NURJES,茨城県,2102,OPP***,茨城県,3209,NCHO72,茨城県,0,,-
+SINOBUZ,Umbral,0,,-,589,AJI*,茨城県,1383,ZIVA,茨城県,1895,RIKO.S,茨城県,0,,-
+SINOBUZ,TOGAKUSHI,0,,-,947,KOW,茨城県,1813,AOI,茨城県,2636,NCHO72,茨城県,0,,-
+SINOBUZ,The Commanders,0,,-,951,AKML,茨城県,1450,AKML,茨城県,2448,NCHO72,茨城県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,566,AKML,茨城県,1207,ZIVA,茨城県,1908,YO4SIN,茨城県,0,,-
+SINOBUZ,Surf on the Light,0,,-,763,AXEL3,茨城県,1464,BULAN,茨城県,2275,KIDO.,茨城県,0,,-
+SINOBUZ,Super Rush,0,,-,1012,AKML,茨城県,1836,KAZU.T,茨城県,3547,NCHO72,茨城県,0,,-
+SINOBUZ,Summerlights(IIDX Edition),0,,-,1089,AIKA,茨城県,1770,SGY,茨城県,3137,NCHO72,茨城県,0,,-
+SINOBUZ,Steel Edge,0,,-,913,AKML,茨城県,1474,KARUMA,茨城県,3190,NCHO72,茨城県,0,,-
+SINOBUZ,Snakey Kung-fu,0,,-,1098,AKML,茨城県,2147,REMAKO,茨城県,3448,NCHO72,茨城県,0,,-
+SINOBUZ,Sky High,312,NONO.M,茨城県,1118,HENSEL,茨城県,2248,YU-TA.,茨城県,3835,NCHO72,茨城県,0,,-
+SINOBUZ,SINOBUZ Fantasy,0,,-,837,PAPO,茨城県,1578,RYU,茨城県,2385,SAKYO,茨城県,0,,-
+SINOBUZ,shuriken,0,,-,773,AKML,茨城県,1100,AIKA,茨城県,2560,KIDO.,茨城県,0,,-
+SINOBUZ,SEQUENCE CAT,0,,-,1000,KTKK,茨城県,2167,PILLOW,茨城県,2862,NCHO72,茨城県,0,,-
+SINOBUZ,Selfish Sweet,0,,-,603,YOSHI,茨城県,901,IPSAMA,茨城県,1722,NCHO72,茨城県,0,,-
+SINOBUZ,Seaside Labyrinth,0,,-,643,AKML,茨城県,1226,AKML,茨城県,1874,NCHO72,茨城県,0,,-
+SINOBUZ,SAY BAY,0,,-,788,GOD-P,茨城県,1497,A1NYAN,茨城県,2859,NCHO72,茨城県,0,,-
+SINOBUZ,Sarutobi Champion is 拙者,0,,-,832,DARWIN,茨城県,1497,YU-TA.,茨城県,2177,TAKWAN,茨城県,0,,-
+SINOBUZ,SAMURAI-Scramble,0,,-,989,HENSEL,茨城県,1634,YU-TA.,茨城県,2401,NCHO72,茨城県,2728,TAKWAN,茨城県
+SINOBUZ,ROTTERDAM SHOGUN,501,YOSHI,茨城県,1103,AKML,茨城県,1801,REMAKO,茨城県,2579,NCHO72,茨城県,0,,-
+SINOBUZ,RISING FIRE HAWK,0,,-,864,AKML,茨城県,1362,TA.CLD,茨城県,2631,RIKO.S,茨城県,0,,-
+SINOBUZ,Remedy feat. Kanae Asaba,0,,-,918,AXEL3,茨城県,1575,SGY,茨城県,2207,RIKO.S,茨城県,0,,-
+SINOBUZ,Rave Cannon,0,,-,1031,AKML,茨城県,1786,YU-TA.,茨城県,3359,NCHO72,茨城県,0,,-
+SINOBUZ,RAIN,0,,-,1120,AKML,茨城県,1841,HZK*,茨城県,3296,NCHO72,茨城県,0,,-
+SINOBUZ,Quakes,0,,-,1071,AKML,茨城県,1959,SGY,茨城県,3213,NCHO72,茨城県,0,,-
+SINOBUZ,Piano Samurai,0,,-,1055,AKML,茨城県,1650,Y2J,茨城県,2518,MOKA.A,茨城県,0,,-
+SINOBUZ,PAPAYAPA BASS,0,,-,745,SELENE,茨城県,1515,TKMK,茨城県,2770,RIKO.S,茨城県,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,1228,AKML,茨城県,2094,YU-TA.,茨城県,3143,KIDO.,茨城県,0,,-
+SINOBUZ,OOO,0,,-,687,AKML,茨城県,1430,G*TAKA,茨城県,2065,TAKWAN,茨城県,0,,-
+SINOBUZ,nostos,0,,-,863,AKML,茨城県,1319,REVO.,茨城県,2615,KIDO.,茨城県,0,,-
+SINOBUZ,Music is The Answer,0,,-,775,AKML,茨城県,1383,YU-TA.,茨城県,1922,NCHO72,茨城県,0,,-
+SINOBUZ,Modular Technology,0,,-,987,GYRO,茨城県,1853,YU-TA.,茨城県,2533,MOL,茨城県,0,,-
+SINOBUZ,Mare Nectaris,0,,-,1392,NURJES,茨城県,2074,RIKO.S,茨城県,3603,RAVE,茨城県,0,,-
+SINOBUZ,Magical,0,,-,810,AKML,茨城県,1138,KOW,茨城県,2007,NCHO72,茨城県,0,,-
+SINOBUZ,Macuilxochitl,490,AJI*,茨城県,1313,AKML,茨城県,2176,ZIVA,茨城県,3341,NCHO72,茨城県,0,,-
+SINOBUZ,Lost wing at.0,0,,-,902,AKML,茨城県,1316,K-DASH,茨城県,2471,KIDO.,茨城県,0,,-
+SINOBUZ,INVISIBLE STRIX,0,,-,1140,AKML,茨城県,1916,3MYAKU,茨城県,2641,NCHO72,茨城県,0,,-
+SINOBUZ,Honey Trap,0,,-,826,AKML,茨城県,1575,YU-TA.,茨城県,2539,NCHO72,茨城県,0,,-
+SINOBUZ,HAPPY★RUSH,0,,-,770,1RIKE,茨城県,1757,NURJES,茨城県,2886,KIDO.,茨城県,0,,-
+SINOBUZ,HADES,351,CHESYA,茨城県,961,AKML,茨城県,1845,RE4RAM,茨城県,3090,KIDO.,茨城県,0,,-
+SINOBUZ,GuNGNiR,0,,-,1328,AXEL3,茨城県,2671,HEROPN,茨城県,3932,NCHO72,茨城県,4461,86*,茨城県
+SINOBUZ,Go Ahead!!,0,,-,963,AKML,茨城県,1533,SUU...,茨城県,2711,86*,茨城県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,1100,KTKK,茨城県,1965,KARUMA,茨城県,3809,NCHO72,茨城県,0,,-
+SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,613,ITARIN,茨城県,1114,IPSAMA,茨城県,1630,RIKO.S,茨城県,0,,-
+SINOBUZ,Egret and Willow,0,,-,1011,HENSEL,茨城県,1640,YU-TA.,茨城県,2738,NCHO72,茨城県,0,,-
+SINOBUZ,ECHIDNA,0,,-,1249,NURJES,茨城県,1999,SGY,茨城県,3404,NCHO72,茨城県,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1258,AKML,茨城県,2126,A,茨城県,3660,KIDO.,茨城県,0,,-
+SINOBUZ,Cyber True Color,0,,-,975,AKML,茨城県,1584,BULAN,茨城県,2367,KIDO.,茨城県,0,,-
+SINOBUZ,crew,0,,-,630,BULAN,茨城県,1738,BULAN,茨城県,2940,NCHO72,茨城県,0,,-
+SINOBUZ,Caterpillar,0,,-,1153,GOD-P,茨城県,2150,AL,茨城県,3026,NCHO72,茨城県,0,,-
+SINOBUZ,BroGamer,0,,-,1358,NURJES,茨城県,2028,10FEET,茨城県,3101,NCHO72,茨城県,4618,NCHO72,茨城県
+SINOBUZ,Breakin' Chain,0,,-,704,AKML,茨城県,1230,DORARA,茨城県,2324,NCHO72,茨城県,0,,-
+SINOBUZ,BREAK OVER,0,,-,901,AKML,茨城県,1470,NURJES,茨城県,2312,REAPER,茨城県,0,,-
+SINOBUZ,Beyond The Seven,0,,-,729,AKML,茨城県,1304,BULAN,茨城県,2729,NCHO72,茨城県,0,,-
+SINOBUZ,Believe in you,0,,-,1139,AKML,茨城県,1850,DWN-SG,茨城県,2434,KIDO.,茨城県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,995,AXEL3,茨城県,1465,Y2J,茨城県,2196,KIDO.,茨城県,0,,-
+SINOBUZ,Be A Star,0,,-,946,IPSAMA,茨城県,1769,YU-TA.,茨城県,2810,MOKA.A,茨城県,0,,-
+SINOBUZ,BabeL ～Grand Story～,0,,-,1231,FUTCH,茨城県,2005,YU-TA.,茨城県,2811,NCHO72,茨城県,0,,-
+SINOBUZ,AsiaN distractive,0,,-,1096,KTKK,茨城県,1688,NEKOPN,茨城県,2640,KIDO.,茨城県,0,,-
+SINOBUZ,Around The Galaxy,0,,-,1115,AXEL3,茨城県,1913,K-DASH,茨城県,3409,NCHO72,茨城県,0,,-
+SINOBUZ,Apocalypse,0,,-,1002,KTKK,茨城県,2106,A,茨城県,3584,NCHO72,茨城県,0,,-
+SINOBUZ,AO-∞,0,,-,1109,AKML,茨城県,1670,NURJES,茨城県,2675,TAKWAN,茨城県,0,,-
+SINOBUZ,Amazing Mirage,298,4RTDS,茨城県,902,AKML,茨城県,1724,KRS#44,茨城県,2650,NCHO72,茨城県,3226,KIDO.,茨城県
+SINOBUZ,(This Is Not) The Angels,0,,-,605,OKITA3,茨城県,1435,REMAKO,茨城県,2701,NCHO72,茨城県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1132,AKML,茨城県,1962,SUU...,茨城県,3408,NCHO72,茨城県,0,,-
+SINOBUZ,!Viva!,0,,-,951,AKML,茨城県,1466,OGST,茨城県,2013,KIDO.,茨城県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,688,RYU,茨城県,1183,OGST,茨城県,2312,HZK*,茨城県,0,,-
 CANNON BALLERS,純真可憐デザイア,243,TOTTIE,茨城県,814,GOD-P,茨城県,1585,NURJES,茨城県,2340,NCHO72,茨城県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1327,LARK,茨城県,2534,MOL,茨城県,4042,NCHO72,茨城県,0,,-
@@ -1144,7 +1144,7 @@ Rootage,Wing of Hearts,0,,-,1060,KTKK,茨城県,1730,NEKO.H,茨城県,2929,RIKO.
 Rootage,voltississimo,0,,-,1028,SHA9,茨城県,2038,62TAKE,茨城県,3540,86*,茨城県,0,,-
 Rootage,Visterhv,0,,-,1235,NURJES,茨城県,2218,REAPER,茨城県,3711,NCHO72,茨城県,0,,-
 Rootage,Urban Constellations,0,,-,709,AKML,茨城県,1408,NURJES,茨城県,2296,NCHO72,茨城県,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1060,KTKK,茨城県,1928,YU-TA.,茨城県,3277,NCHO72,茨城県,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1117,AKML,茨城県,1928,YU-TA.,茨城県,3277,NCHO72,茨城県,0,,-
 Rootage,Unbelief,0,,-,942,KTKK,茨城県,1961,ARIES,茨城県,3195,NCHO72,茨城県,0,,-
 Rootage,U.S.A.,417,NADU,茨城県,1108,NURJES,茨城県,1862,ZIVA,茨城県,2910,NCHO72,茨城県,0,,-
 Rootage,Twilight Warp,0,,-,715,SAI,茨城県,1284,IPSAMA,茨城県,2163,NCHO72,茨城県,0,,-
@@ -1184,7 +1184,7 @@ Rootage,L.F.O,0,,-,803,KTKK,茨城県,1648,SU4TA6,茨城県,3331,NCHO72,茨城�
 Rootage,KILL EACH OTHER,0,,-,1358,NURJES,茨城県,2330,850,茨城県,3848,NCHO72,茨城県,0,,-
 Rootage,IDOL syndrome.,0,,-,551,171.,茨城県,1450,AXEL3,茨城県,2201,NCHO72,茨城県,0,,-
 Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1030,KAZU.T,茨城県,1488,YU-TA.,茨城県,2179,KIDO.,茨城県,0,,-
-Rootage,Hurry Hurry,0,,-,748,AKML,茨城県,1014,AKML,茨城県,2088,NCHO72,茨城県,0,,-
+Rootage,Hurry Hurry,0,,-,748,AKML,茨城県,1031,AKML,茨城県,2088,NCHO72,茨城県,0,,-
 Rootage,HOT LIMIT,376,9RAQUE,茨城県,1050,NURJES,茨城県,1685,NURJES,茨城県,2546,NCHO72,茨城県,0,,-
 Rootage,HEISEI,352,9RAQUE,茨城県,1061,GOD-P,茨城県,1830,-ISSA-,茨城県,2562,MOKA.A,茨城県,0,,-
 Rootage,HARD BRAIN,0,,-,1123,JPEG,茨城県,2059,HZK*,茨城県,3780,NCHO72,茨城県,0,,-
@@ -1342,7 +1342,7 @@ BISTROVER,Para siempre,0,,-,949,AKML,茨城県,1494,SGY,茨城県,2894,NCHO72,�
 BISTROVER,Overslept,0,,-,1138,NURJES,茨城県,1720,ZIVA,茨城県,2582,NCHO72,茨城県,0,,-
 BISTROVER,of the first magnitude,0,,-,1025,AKML,茨城県,1791,VAR,茨城県,2982,NCHO72,茨城県,0,,-
 BISTROVER,Ocean Blue feat. Luschel,0,,-,842,AKML,茨城県,1407,IIDX22,茨城県,2451,RIKO.S,茨城県,0,,-
-BISTROVER,Neo Heritage,0,,-,861,KTKK,茨城県,1623,YU-TA.,茨城県,2843,RIKO.S,茨城県,0,,-
+BISTROVER,Neo Heritage,0,,-,906,AKML,茨城県,1623,YU-TA.,茨城県,2843,RIKO.S,茨城県,0,,-
 BISTROVER,Midnight Drive,0,,-,422,AUS!!,茨城県,1209,NURJES,茨城県,1997,KIDO.,茨城県,0,,-
 BISTROVER,Mars beach,0,,-,590,1RIKE,茨城県,1305,NURJES,茨城県,2245,NCHO72,茨城県,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,1089,HENSEL,茨城県,1764,HENSEL,茨城県,2787,NCHO72,茨城県,0,,-

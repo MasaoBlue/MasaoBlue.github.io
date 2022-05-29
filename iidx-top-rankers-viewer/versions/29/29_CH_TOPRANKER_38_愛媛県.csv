@@ -1,6 +1,6 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,560,KAKIRA,愛媛県,996,TAKOSS,愛媛県,1121,TORI10,愛媛県,0,,-
-1st&substream,RUGGED ASH,0,,-,325,KAKIRA,愛媛県,315,COMIC,愛媛県,954,NYAN*C,愛媛県,1970,P*4JUN,愛媛県
+1st&substream,RUGGED ASH,0,,-,325,KAKIRA,愛媛県,315,COMIC,愛媛県,1047,DJKISO,愛媛県,1970,P*4JUN,愛媛県
 1st&substream,R3,0,,-,622,TORI,愛媛県,542,KAKIRA,愛媛県,889,NGG,愛媛県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,502,REAL#G,愛媛県,654,PANNYA,愛媛県,1094,NGG,愛媛県,0,,-
 1st&substream,Macho Gang,0,,-,369,TONKO2,愛媛県,813,RSN!!!,愛媛県,1534,NGG,愛媛県,0,,-
@@ -217,7 +217,7 @@ IIDX RED,Raspberry Heart(English version),0,,-,664,COMIC,愛媛県,1255,SIRUCO,�
 IIDX RED,NEBULA GRASPER,0,,-,0,,-,1715,BB-SVN,愛媛県,2409,PNSP!!,愛媛県,0,,-
 IIDX RED,KEY,0,,-,860,BTBOCO,愛媛県,1528,NAITO,愛媛県,2843,OMOTO,愛媛県,0,,-
 IIDX RED,HORIZON,0,,-,979,NYAN,愛媛県,1061,P1AN0.,愛媛県,1936,GIORNO,愛媛県,0,,-
-IIDX RED,gigadelic,443,-M-,愛媛県,1295,VOLT,愛媛県,2125,P*4JUN,愛媛県,2476,*COME*,愛媛県,0,,-
+IIDX RED,gigadelic,618,KAKIRA,愛媛県,1322,GGDL9,愛媛県,2125,P*4JUN,愛媛県,2476,*COME*,愛媛県,0,,-
 IIDX RED,GENOCIDE,0,,-,964,1338KH,愛媛県,1943,Z0RA,愛媛県,2312,P*4JUN,愛媛県,0,,-
 IIDX RED,Fly Away To India,0,,-,642,TAPI,愛媛県,827,REAL#G,愛媛県,1364,TORI10,愛媛県,0,,-
 IIDX RED,FAKE TIME,0,,-,694,SECT.9,愛媛県,1666,UME.,愛媛県,2290,P*4JUN,愛媛県,0,,-
@@ -233,6 +233,43 @@ IIDX RED,awakening,0,,-,628,9NOE,愛媛県,1172,HANDA,愛媛県,1618,NGG,愛媛�
 IIDX RED,ANDROMEDA,0,,-,834,U160,愛媛県,1705,*POI*,愛媛県,2869,4NYA5N,愛媛県,0,,-
 IIDX RED,AGEHA,424,OYABY,愛媛県,820,RICHUK,愛媛県,1355,DAIAYA,愛媛県,1819,PNSP!!,愛媛県,2392,P*4JUN,愛媛県
 IIDX RED,AA,0,,-,1207,VOLT,愛媛県,2702,OMOTO,愛媛県,3615,4NYA5N,愛媛県,0,,-
+DistorteD,虹色,0,,-,866,NYAN,愛媛県,1500,KA5ME,愛媛県,1849,OMOTO,愛媛県,0,,-
+DistorteD,華蝶風雪,0,,-,937,KAKIRA,愛媛県,2101,OMOTO,愛媛県,2957,P*4JUN,愛媛県,0,,-
+DistorteD,罠,0,,-,0,,-,1257,YOU,愛媛県,2443,OMOTO,愛媛県,0,,-
+DistorteD,嘆きの樹,0,,-,1640,UNO.S,愛媛県,2465,OMOTO,愛媛県,3710,P*4JUN,愛媛県,0,,-
+DistorteD,タシカナモノ,0,,-,734,COMIC,愛媛県,1327,1338KH,愛媛県,2007,PNSP!!,愛媛県,0,,-
+DistorteD,カゴノトリ～弐式～,0,,-,961,OJIN,愛媛県,1705,*POI*,愛媛県,2607,*COME*,愛媛県,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,0,,-,1413,1338KH,愛媛県,2370,OMOTO,愛媛県,0,,-
+DistorteD,with you…,0,,-,0,,-,717,UNIDON,愛媛県,1766,P*4JUN,愛媛県,0,,-
+DistorteD,WISH(EUROBEAT MIX),0,,-,769,U160R,愛媛県,1246,YOU,愛媛県,1956,P*4JUN,愛媛県,0,,-
+DistorteD,Why did you go away,387,SUZ,愛媛県,925,ERIWO,愛媛県,1624,SWITCH,愛媛県,2286,OMOTO,愛媛県,0,,-
+DistorteD,waxing and wanding,0,,-,1221,POOH$,愛媛県,1975,OMOTO,愛媛県,2844,OMOTO,愛媛県,3893,NGG,愛媛県
+DistorteD,TYPE MARS(G-Style Mix),0,,-,0,,-,1785,UME.,愛媛県,2367,TORI10,愛媛県,0,,-
+DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1057,NYAN,愛媛県,1726,*POI*,愛媛県,2417,P*4JUN,愛媛県,0,,-
+DistorteD,This is Love,0,,-,0,,-,1160,KAKIRA,愛媛県,2449,NGG,愛媛県,0,,-
+DistorteD,The Dirty of Loudness,0,,-,457,O2BU.,愛媛県,1811,NYAN*C,愛媛県,2530,P*4JUN,愛媛県,0,,-
+DistorteD,Sun Field,0,,-,378,NORA,愛媛県,1340,AIR,愛媛県,2372,OMOTO,愛媛県,0,,-
+DistorteD,So Fabulous !!,0,,-,0,,-,1346,0024,愛媛県,2325,OMOTO,愛媛県,0,,-
+DistorteD,Power of Love,0,,-,521,IIDX27,愛媛県,0,,-,2048,ALBERT,愛媛県,0,,-
+DistorteD,MOON,0,,-,627,IIDX27,愛媛県,2033,L#WIND,愛媛県,2173,PNSP!!,愛媛県,0,,-
+DistorteD,MINT,0,,-,0,,-,1449,BB-SVN,愛媛県,2265,4NYA5N,愛媛県,0,,-
+DistorteD,Leaving...,0,,-,528,ERIWO,愛媛県,0,,-,2155,OMOTO,愛媛県,0,,-
+DistorteD,INFERNO,0,,-,0,,-,1003,UNIDON,愛媛県,1925,TORI10,愛媛県,0,,-
+DistorteD,Heavenly Sun (IIDX VERSION),0,,-,351,TEYORI,愛媛県,1413,UNO.S,愛媛県,2101,*COME*,愛媛県,0,,-
+DistorteD,Harmony and Lovely,0,,-,466,MARI2,愛媛県,1423,YOU,愛媛県,2188,TORI10,愛媛県,0,,-
+DistorteD,Ganymede,0,,-,283,COMIC,愛媛県,1568,GIORNO,愛媛県,2198,P*4JUN,愛媛県,2448,FU,愛媛県
+DistorteD,EURO-ROMANCE,0,,-,517,COMIC,愛媛県,1285,IIDX29,愛媛県,2058,PNSP!!,愛媛県,0,,-
+DistorteD,DUE TOMORROW,0,,-,619,8347,愛媛県,1202,*POI*,愛媛県,1950,*COME*,愛媛県,0,,-
+DistorteD,Double Loving Heart,0,,-,492,KAKIRA,愛媛県,1136,DEER,愛媛県,1804,P*4JUN,愛媛県,0,,-
+DistorteD,D.C.fish,0,,-,246,HANA,愛媛県,1777,PG,愛媛県,2313,OMOTO,愛媛県,0,,-
+DistorteD,CONTRACT,0,,-,1149,R.DEER,愛媛県,1536,GIORNO,愛媛県,1941,KWM-CH,愛媛県,2616,NGG,愛媛県
+DistorteD,Concertino in Blue,342,OJIN,愛媛県,592,SUZ,愛媛県,1402,SWITCH,愛媛県,2414,*COME*,愛媛県,0,,-
+DistorteD,Broadbanded,0,,-,0,,-,1136,R.DEER,愛媛県,1960,-KEN5-,愛媛県,0,,-
+DistorteD,BOOM BOOM DISCO NIGHT,0,,-,686,COMIC,愛媛県,1317,IIDX29,愛媛県,2215,TORI10,愛媛県,0,,-
+DistorteD,Bloody Tears(IIDX EDITION),0,,-,923,U160,愛媛県,1798,TAPI,愛媛県,2163,P*4JUN,愛媛県,0,,-
+DistorteD,BALLAD THE FEATHERS,0,,-,425,COMIC,愛媛県,628,PQQKLS,愛媛県,1495,P*4JUN,愛媛県,0,,-
+DistorteD,Apocalypse ～dirge of swans～,219,KAKIRA,愛媛県,678,U160R,愛媛県,1639,IIDX26,愛媛県,2385,P*4JUN,愛媛県,0,,-
+DistorteD,ALFARSHEAR 双神威に廻る夢,396,OJIN,愛媛県,968,NYAN,愛媛県,1565,AIR,愛媛県,2079,P*4JUN,愛媛県,0,,-
 HAPPY SKY,月光,0,,-,735,BTBOCO,愛媛県,1540,FLAT,愛媛県,2421,*COME*,愛媛県,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,967,HANDA,愛媛県,1427,VOLT,愛媛県,1921,4NYA5N,愛媛県,0,,-
 HAPPY SKY,冥,553,NERO3,愛媛県,925,NYAN,愛媛県,2007,PNSP!!,愛媛県,3691,4NYA5N,愛媛県,0,,-
@@ -277,47 +314,10 @@ HAPPY SKY,Aurora,0,,-,1009,OJIN,愛媛県,2035,GIORNO,愛媛県,2491,NGG,愛媛�
 HAPPY SKY,alla turca con passione,0,,-,456,A,愛媛県,1192,YOU,愛媛県,2146,P*4JUN,愛媛県,0,,-
 HAPPY SKY,Agnus Dei,0,,-,584,COMIC,愛媛県,1494,NET,愛媛県,2059,NGG,愛媛県,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,820,NYAN,愛媛県,1536,SWORD,愛媛県,1674,P*4JUN,愛媛県,0,,-
-DistorteD,虹色,0,,-,866,NYAN,愛媛県,1500,KA5ME,愛媛県,1849,OMOTO,愛媛県,0,,-
-DistorteD,華蝶風雪,0,,-,937,KAKIRA,愛媛県,2101,OMOTO,愛媛県,2957,P*4JUN,愛媛県,0,,-
-DistorteD,罠,0,,-,0,,-,1257,YOU,愛媛県,2443,OMOTO,愛媛県,0,,-
-DistorteD,嘆きの樹,0,,-,1640,UNO.S,愛媛県,2465,OMOTO,愛媛県,3710,P*4JUN,愛媛県,0,,-
-DistorteD,タシカナモノ,0,,-,734,COMIC,愛媛県,1327,1338KH,愛媛県,2007,PNSP!!,愛媛県,0,,-
-DistorteD,カゴノトリ～弐式～,0,,-,961,OJIN,愛媛県,1705,*POI*,愛媛県,2607,*COME*,愛媛県,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,0,,-,1413,1338KH,愛媛県,2370,OMOTO,愛媛県,0,,-
-DistorteD,with you…,0,,-,0,,-,717,UNIDON,愛媛県,1766,P*4JUN,愛媛県,0,,-
-DistorteD,WISH(EUROBEAT MIX),0,,-,769,U160R,愛媛県,1246,YOU,愛媛県,1956,P*4JUN,愛媛県,0,,-
-DistorteD,Why did you go away,387,SUZ,愛媛県,925,ERIWO,愛媛県,1624,SWITCH,愛媛県,2286,OMOTO,愛媛県,0,,-
-DistorteD,waxing and wanding,0,,-,1221,POOH$,愛媛県,1975,OMOTO,愛媛県,2844,OMOTO,愛媛県,3893,NGG,愛媛県
-DistorteD,TYPE MARS(G-Style Mix),0,,-,0,,-,1785,UME.,愛媛県,2367,TORI10,愛媛県,0,,-
-DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1057,NYAN,愛媛県,1726,*POI*,愛媛県,2417,P*4JUN,愛媛県,0,,-
-DistorteD,This is Love,0,,-,0,,-,1160,KAKIRA,愛媛県,2449,NGG,愛媛県,0,,-
-DistorteD,The Dirty of Loudness,0,,-,457,O2BU.,愛媛県,1811,NYAN*C,愛媛県,2530,P*4JUN,愛媛県,0,,-
-DistorteD,Sun Field,0,,-,378,NORA,愛媛県,1340,AIR,愛媛県,2372,OMOTO,愛媛県,0,,-
-DistorteD,So Fabulous !!,0,,-,0,,-,1346,0024,愛媛県,2325,OMOTO,愛媛県,0,,-
-DistorteD,Power of Love,0,,-,521,IIDX27,愛媛県,0,,-,2048,ALBERT,愛媛県,0,,-
-DistorteD,MOON,0,,-,627,IIDX27,愛媛県,2033,L#WIND,愛媛県,2173,PNSP!!,愛媛県,0,,-
-DistorteD,MINT,0,,-,0,,-,1449,BB-SVN,愛媛県,2265,4NYA5N,愛媛県,0,,-
-DistorteD,Leaving...,0,,-,528,ERIWO,愛媛県,0,,-,2155,OMOTO,愛媛県,0,,-
-DistorteD,INFERNO,0,,-,0,,-,1003,UNIDON,愛媛県,1925,TORI10,愛媛県,0,,-
-DistorteD,Heavenly Sun (IIDX VERSION),0,,-,351,TEYORI,愛媛県,1413,UNO.S,愛媛県,2101,*COME*,愛媛県,0,,-
-DistorteD,Harmony and Lovely,0,,-,466,MARI2,愛媛県,1423,YOU,愛媛県,2188,TORI10,愛媛県,0,,-
-DistorteD,Ganymede,0,,-,283,COMIC,愛媛県,1568,GIORNO,愛媛県,2198,P*4JUN,愛媛県,2448,FU,愛媛県
-DistorteD,EURO-ROMANCE,0,,-,517,COMIC,愛媛県,1285,IIDX29,愛媛県,2058,PNSP!!,愛媛県,0,,-
-DistorteD,DUE TOMORROW,0,,-,619,8347,愛媛県,1202,*POI*,愛媛県,1950,*COME*,愛媛県,0,,-
-DistorteD,Double Loving Heart,0,,-,492,KAKIRA,愛媛県,1136,DEER,愛媛県,1804,P*4JUN,愛媛県,0,,-
-DistorteD,D.C.fish,0,,-,246,HANA,愛媛県,1777,PG,愛媛県,2313,OMOTO,愛媛県,0,,-
-DistorteD,CONTRACT,0,,-,1149,R.DEER,愛媛県,1536,GIORNO,愛媛県,1941,KWM-CH,愛媛県,2616,NGG,愛媛県
-DistorteD,Concertino in Blue,342,OJIN,愛媛県,592,SUZ,愛媛県,1402,SWITCH,愛媛県,2414,*COME*,愛媛県,0,,-
-DistorteD,Broadbanded,0,,-,0,,-,1136,R.DEER,愛媛県,1960,-KEN5-,愛媛県,0,,-
-DistorteD,BOOM BOOM DISCO NIGHT,0,,-,686,COMIC,愛媛県,1317,IIDX29,愛媛県,2215,TORI10,愛媛県,0,,-
-DistorteD,Bloody Tears(IIDX EDITION),0,,-,923,U160,愛媛県,1798,TAPI,愛媛県,2163,P*4JUN,愛媛県,0,,-
-DistorteD,BALLAD THE FEATHERS,0,,-,425,COMIC,愛媛県,628,PQQKLS,愛媛県,1495,P*4JUN,愛媛県,0,,-
-DistorteD,Apocalypse ～dirge of swans～,219,KAKIRA,愛媛県,678,U160R,愛媛県,1639,IIDX26,愛媛県,2385,P*4JUN,愛媛県,0,,-
-DistorteD,ALFARSHEAR 双神威に廻る夢,396,OJIN,愛媛県,968,NYAN,愛媛県,1565,AIR,愛媛県,2079,P*4JUN,愛媛県,0,,-
 GOLD,電人、暁に斃れる。,576,KAKIRA,愛媛県,1298,1338KH,愛媛県,2236,ALBERT,愛媛県,3385,4NYA5N,愛媛県,0,,-
 GOLD,零 - ZERO -,203,KAKIRA,愛媛県,1058,NYAN,愛媛県,1569,UNO.S,愛媛県,2276,OMOTO,愛媛県,0,,-
 GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,520,COMIC,愛媛県,1029,VOLT,愛媛県,1419,P*4JUN,愛媛県,0,,-
-GOLD,星をこの手に,0,,-,1030,NYAN,愛媛県,1629,KYOBIQ,愛媛県,2076,UN&CO.,愛媛県,0,,-
+GOLD,星をこの手に,0,,-,1030,NYAN,愛媛県,1629,KYOBIQ,愛媛県,2124,UME.,愛媛県,0,,-
 GOLD,リグレット,0,,-,1196,NYAN,愛媛県,1740,TORI10,愛媛県,2375,PNSP!!,愛媛県,0,,-
 GOLD,ヨシダさん,0,,-,837,MIZUKI,愛媛県,1389,TAPI,愛媛県,1952,OMOTO,愛媛県,0,,-
 GOLD,クルクル☆ラブ～Opioid Peptide MIX～,398,KAKIRA,愛媛県,584,COMIC,愛媛県,1249,YOU,愛媛県,2229,OMOTO,愛媛県,0,,-
@@ -378,7 +378,7 @@ DJ TROOPERS,scar in the earth,0,,-,400,A,愛媛県,0,,-,1509,P*4JUN,愛媛県,0,
 DJ TROOPERS,satfinal,0,,-,890,ERIWO,愛媛県,789,COMIC,愛媛県,1901,TORI10,愛媛県,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,0,,-,1707,K1YU,愛媛県,2437,PNSP!!,愛媛県,0,,-
 DJ TROOPERS,Ristaccia,0,,-,1014,8347,愛媛県,1860,NOCHIN,愛媛県,2682,P*4JUN,愛媛県,0,,-
-DJ TROOPERS,Rising in the Sun(original mix),0,,-,887,1338KH,愛媛県,1446,PEG11O,愛媛県,2318,P*4JUN,愛媛県,0,,-
+DJ TROOPERS,Rising in the Sun(original mix),0,,-,887,1338KH,愛媛県,1603,UME.,愛媛県,2318,P*4JUN,愛媛県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,890,UNIDON,愛媛県,1446,OJIN,愛媛県,2306,NGG,愛媛県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,419,NORA,愛媛県,0,,-,1744,OMOTO,愛媛県,0,,-
 DJ TROOPERS,PARANOiA ～HADES～,0,,-,670,SQCWI,愛媛県,1746,O*O**,愛媛県,2613,P*4JUN,愛媛県,0,,-
@@ -391,7 +391,7 @@ DJ TROOPERS,madrugada,0,,-,407,IIDX29,愛媛県,1171,JSB-Y,愛媛県,1819,P*4JUN
 DJ TROOPERS,LOVELY STORM,0,,-,0,,-,1742,NAITO,愛媛県,2763,TORI10,愛媛県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,0,,-,1165,P1AN0.,愛媛県,2018,P*4JUN,愛媛県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1044,KAKIRA,愛媛県,1897,HANECO,愛媛県,2515,OMOTO,愛媛県,0,,-
-DJ TROOPERS,ICARUS,0,,-,937,Z.0.E.,愛媛県,2060,P*4JUN,愛媛県,2340,P*4JUN,愛媛県,3458,P*4JUN,愛媛県
+DJ TROOPERS,ICARUS,0,,-,937,Z.0.E.,愛媛県,2060,P*4JUN,愛媛県,2342,O*O**,愛媛県,3458,P*4JUN,愛媛県
 DJ TROOPERS,Freeway Shuffle,229,ONI,愛媛県,724,NYAN,愛媛県,909,UNIDON,愛媛県,1848,-KEN5-,愛媛県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,773,MIZUKI,愛媛県,1698,ALBERT,愛媛県,2321,4NYA5N,愛媛県,0,,-
 DJ TROOPERS,end of world,0,,-,0,,-,1148,SIRUCO,愛媛県,2427,NGG,愛媛県,0,,-
@@ -404,7 +404,7 @@ DJ TROOPERS,beatonic nation,0,,-,0,,-,1190,KAKIRA,愛媛県,2163,4NYA5N,愛媛�
 DJ TROOPERS,Be OK,0,,-,591,A,愛媛県,1241,IIDX29,愛媛県,2344,UME.,愛媛県,3270,P*4JUN,愛媛県
 DJ TROOPERS,avant-guerre,0,,-,477,COMIC,愛媛県,897,P1AN0.,愛媛県,1861,P*4JUN,愛媛県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,970,P1AN0.,愛媛県,1939,CIEL.,愛媛県,2772,PNSP!!,愛媛県,3673,O*O**,愛媛県
-DJ TROOPERS,2 tribe 4 K,0,,-,0,,-,1087,AZ,愛媛県,2675,TORI10,愛媛県,0,,-
+DJ TROOPERS,2 tribe 4 K,0,,-,0,,-,1087,AZ,愛媛県,2705,P*4JUN,愛媛県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,649,COMIC,愛媛県,1117,ERIWO,愛媛県,2158,P*4JUN,愛媛県,0,,-
 EMPRESS,翼,0,,-,765,KAKIRA,愛媛県,1185,U160,愛媛県,1964,OMOTO,愛媛県,2500,*COME*,愛媛県
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,493,COMIC,愛媛県,1151,1338KH,愛媛県,1979,TORI10,愛媛県,0,,-
@@ -417,7 +417,7 @@ EMPRESS,ハリツヤランデヴー,0,,-,908,AKIYA,愛媛県,1485,ERIWO,愛媛�
 EMPRESS,まほろば,0,,-,720,NYAN,愛媛県,1313,AMBASA,愛媛県,2047,4NYA5N,愛媛県,0,,-
 EMPRESS,"You'll say ""Now!""",0,,-,758,UNIDON,愛媛県,1646,AKIYA,愛媛県,2487,4NYA5N,愛媛県,0,,-
 EMPRESS,Y&Co. is dead or alive,0,,-,1007,1338KH,愛媛県,1596,MOTZ,愛媛県,2735,P*4JUN,愛媛県,0,,-
-EMPRESS,V2,687,OJIN,愛媛県,1071,IIDX28,愛媛県,2918,LEMON*,愛媛県,3460,P*4JUN,愛媛県,0,,-
+EMPRESS,V2,687,OJIN,愛媛県,1071,IIDX28,愛媛県,2957,UME.,愛媛県,3460,P*4JUN,愛媛県,0,,-
 EMPRESS,Turii ～Panta rhei～,335,OJIN,愛媛県,0,,-,1861,AMBASA,愛媛県,2658,*COME*,愛媛県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,708,8347,愛媛県,1548,KYOBIQ,愛媛県,2095,NGG,愛媛県,2876,P*4JUN,愛媛県
 EMPRESS,SOLITON BEAM,0,,-,947,ERIWO,愛媛県,1892,KYOBIQ,愛媛県,2309,PNSP!!,愛媛県,0,,-
@@ -446,7 +446,7 @@ EMPRESS,BRIDAL FESTIVAL !!!,0,,-,684,MIKI-2,愛媛県,1373,AIR,愛媛県,2092,AR
 EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,894,U160,愛媛県,2157,ARU,愛媛県,3785,OMOTO,愛媛県,0,,-
 EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,624,AOHYS,愛媛県,1739,109074,愛媛県,2619,4NYA5N,愛媛県,3200,P*4JUN,愛媛県
 EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,898,ERIWO,愛媛県,1912,MICO#,愛媛県,3540,4NYA5N,愛媛県,4359,NGG,愛媛県
-EMPRESS,Arabian Rave Night,0,,-,1242,UNO.S,愛媛県,1934,ROD-DS,愛媛県,2839,PNSP!!,愛媛県,3496,P*4JUN,愛媛県
+EMPRESS,Arabian Rave Night,0,,-,1242,UNO.S,愛媛県,1934,ROD-DS,愛媛県,2839,PNSP!!,愛媛県,3534,TEO,愛媛県
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,834,8347,愛媛県,1696,KYOBIQ,愛媛県,2539,P*4JUN,愛媛県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,0,,-,1497,PECOLA,愛媛県,2082,-KEN5-,愛媛県,0,,-
 EMPRESS,3y3s,452,O4MAI.,愛媛県,1309,1338KH,愛媛県,2433,OMOTO,愛媛県,3302,O*O**,愛媛県,0,,-
@@ -477,13 +477,13 @@ SIRIUS,MIRACLE MEETS,0,,-,861,1338KH,愛媛県,1511,*POI*,愛媛県,2207,4NYA5N,
 SIRIUS,Light Shine,0,,-,375,314,愛媛県,1035,0024,愛媛県,1932,TORI10,愛媛県,0,,-
 SIRIUS,Last Burning,0,,-,0,,-,1465,UNO.S,愛媛県,2299,PNSP!!,愛媛県,0,,-
 SIRIUS,Keep it-秋葉工房mix-,0,,-,691,ERIWO,愛媛県,1555,KYOBIQ,愛媛県,1856,OMOTO,愛媛県,0,,-
-SIRIUS,IN THE NAME OF LOVE,352,9NOE,愛媛県,359,HAZUKI,愛媛県,1240,AIR,愛媛県,1917,NGG,愛媛県,0,,-
+SIRIUS,IN THE NAME OF LOVE,352,9NOE,愛媛県,359,HAZUKI,愛媛県,1257,AIR,愛媛県,1917,NGG,愛媛県,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,0,,-,1477,BB-SVN,愛媛県,2286,P*4JUN,愛媛県,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,869,ERIWO,愛媛県,1820,SARAMI,愛媛県,3441,4NYA5N,愛媛県,0,,-
 SIRIUS,GALGALIM,0,,-,1132,U160,愛媛県,1738,KYOBIQ,愛媛県,2314,P*4JUN,愛媛県,0,,-
 SIRIUS,G59,0,,-,1339,SWITCH,愛媛県,2134,AMBASA,愛媛県,3882,4NYA5N,愛媛県,0,,-
 SIRIUS,EXUSIA,0,,-,1091,P1AN0.,愛媛県,2388,AKIYA,愛媛県,3858,4NYA5N,愛媛県,0,,-
-SIRIUS,Evans,580,MF#ARR,愛媛県,1173,AIR,愛媛県,2045,LUSTAR,愛媛県,2739,4NYA5N,愛媛県,0,,-
+SIRIUS,Evans,580,MF#ARR,愛媛県,1173,AIR,愛媛県,2134,UME.,愛媛県,2739,4NYA5N,愛媛県,0,,-
 SIRIUS,eRAseRmOToRpHAntOM,0,,-,1228,SIRUCO,愛媛県,2050,NYAN*C,愛媛県,3169,OMOTO,愛媛県,0,,-
 SIRIUS,Empire State Glory,0,,-,901,ERIWO,愛媛県,1725,*POI*,愛媛県,2603,OMOTO,愛媛県,0,,-
 SIRIUS,Elisha,414,TAKOSS,愛媛県,853,NYAN,愛媛県,1436,OMOTO,愛媛県,2224,OMOTO,愛媛県,0,,-
@@ -502,7 +502,7 @@ SIRIUS,bass 2 bass,256,KAKIRA,愛媛県,701,UNO.S,愛媛県,1228,MF#ARR,愛媛�
 SIRIUS,Bad Maniacs,0,,-,937,P1AN0.,愛媛県,1772,ALBERT,愛媛県,3180,4NYA5N,愛媛県,0,,-
 SIRIUS,Almagest,0,,-,980,VOLT,愛媛県,2089,TORI10,愛媛県,2951,OMOTO,愛媛県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,493,14KAN*,愛媛県,1099,AIR,愛媛県,1688,KYOBIQ,愛媛県,2178,UME.,愛媛県,2865,P*4JUN,愛媛県
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,675,8347,愛媛県,1865,KYOBIQ,愛媛県,3353,P*4JUN,愛媛県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,675,8347,愛媛県,1865,KYOBIQ,愛媛県,3376,P*4JUN,愛媛県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,550,OJIN,愛媛県,1077,VOLT,愛媛県,1856,L#WIND,愛媛県,3065,P*4JUN,愛媛県,0,,-
 Resort Anthem,旅人リラン,0,,-,995,KAKIRA,愛媛県,1611,UNO.S,愛媛県,2580,P*4JUN,愛媛県,0,,-
 Resort Anthem,夕焼け ～Fading Day～,0,,-,878,NYAN,愛媛県,1865,YO4NO,愛媛県,2736,NGG,愛媛県,0,,-
@@ -512,7 +512,7 @@ Resort Anthem,おおきなこえで,0,,-,445,TAPI,愛媛県,990,SAKAKI,愛媛県
 Resort Anthem,ZETA～素数の世界と超越者～,219,2KYI,愛媛県,532,MIRIA,愛媛県,1853,NYAN*C,愛媛県,3108,4NYA5N,愛媛県,0,,-
 Resort Anthem,XANADU OF TWO,0,,-,892,NYAN,愛媛県,1581,A,愛媛県,2707,OMOTO,愛媛県,0,,-
 Resort Anthem,Wuv U,0,,-,321,COMIC,愛媛県,1074,ALPHAZ,愛媛県,1708,OMOTO,愛媛県,0,,-
-Resort Anthem,WISE UP!,153,ROE,愛媛県,261,AWA,愛媛県,609,PQQKLS,愛媛県,1568,PNSP!!,愛媛県,0,,-
+Resort Anthem,WISE UP!,153,ROE,愛媛県,261,AWA,愛媛県,965,Z.0.E.,愛媛県,1568,PNSP!!,愛媛県,0,,-
 Resort Anthem,Watch Out Pt.2,0,,-,1012,NYAN,愛媛県,1861,UME.,愛媛県,2785,P*4JUN,愛媛県,0,,-
 Resort Anthem,Vermillion,0,,-,0,,-,1041,1338KH,愛媛県,2006,PNSP!!,愛媛県,0,,-
 Resort Anthem,Tropical April,0,,-,1240,IIDX29,愛媛県,2021,M.773,愛媛県,2629,TORI10,愛媛県,0,,-
@@ -559,87 +559,6 @@ Resort Anthem,ANTHEM LANDING,0,,-,826,4NE,愛媛県,1800,YO4NO,愛媛県,2950,4N
 Resort Anthem,Answer,0,,-,522,COMIC,愛媛県,1459,O*O**,愛媛県,2402,P*4JUN,愛媛県,0,,-
 Resort Anthem,ALBIDA,469,OJIN,愛媛県,1076,UNO.S,愛媛県,1864,ALBERT,愛媛県,2926,P*4JUN,愛媛県,0,,-
 Resort Anthem,Aegis,0,,-,599,ERIWO,愛媛県,1135,14KAN*,愛媛県,2274,NGG,愛媛県,0,,-
-tricoro,龍と少女とデコヒーレンス,0,,-,446,NORA,愛媛県,1583,KWM-CH,愛媛県,2944,OMOTO,愛媛県,3316,P*4JUN,愛媛県
-tricoro,音楽,0,,-,739,REAL#G,愛媛県,1910,TAKOSS,愛媛県,2645,PNSP!!,愛媛県,0,,-
-tricoro,狂イ咲ケ焔ノ華,0,,-,905,HARU*,愛媛県,2263,MI,愛媛県,3513,NGG,愛媛県,0,,-
-tricoro,梅雪夜,0,,-,710,U160R,愛媛県,1288,OJIN,愛媛県,2134,4NYA5N,愛媛県,0,,-
-tricoro,朧,195,KAKIRA,愛媛県,742,NYAN,愛媛県,1421,VOLT,愛媛県,2095,PNSP!!,愛媛県,2521,P*4JUN,愛媛県
-tricoro,即席！脳直★ミュージックシステム,0,,-,950,YOU,愛媛県,1923,MOTZ,愛媛県,3444,NGG,愛媛県,0,,-
-tricoro,創世ノート,0,,-,768,NYAN,愛媛県,1531,YOU,愛媛県,2901,P*4JUN,愛媛県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,776,COMIC,愛媛県,2185,OMOTO,愛媛県,2833,OMOTO,愛媛県,3778,P*4JUN,愛媛県
-tricoro,下弦の月,0,,-,0,,-,1299,1338KH,愛媛県,1972,P*4JUN,愛媛県,0,,-
-tricoro,ラキラキ,0,,-,546,ERIWO,愛媛県,1053,K,愛媛県,1939,PNSP!!,愛媛県,0,,-
-tricoro,メイメツ、フラグメンツ,0,,-,559,ERIWO,愛媛県,1255,UNO.S,愛媛県,1920,O*O**,愛媛県,0,,-
-tricoro,トリカゴノ鳳凰,0,,-,1033,MIZUKI,愛媛県,1875,TAPI,愛媛県,3679,P*4JUN,愛媛県,0,,-
-tricoro,シュレーディンガーの猫,0,,-,932,KAKIRA,愛媛県,2026,RSN!!!,愛媛県,3310,P*4JUN,愛媛県,0,,-
-tricoro,キャトられ恋はモ～モク,0,,-,1147,COMIC,愛媛県,2300,AMBASA,愛媛県,3625,NGG,愛媛県,0,,-
-tricoro,カジノファイヤーことみちゃん,0,,-,433,MORI8,愛媛県,1316,UNO.S,愛媛県,2366,P*4JUN,愛媛県,0,,-
-tricoro,アストライアの双皿,0,,-,557,NORA,愛媛県,1573,MI,愛媛県,3028,P*4JUN,愛媛県,0,,-
-tricoro,たまゆら,0,,-,1101,1338KH,愛媛県,1736,KA5ME,愛媛県,2710,NGG,愛媛県,0,,-
-tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,539,O2BU.,愛媛県,1237,SIRUCO,愛媛県,2053,UME.,愛媛県,3468,NGG,愛媛県
-tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),219,KAKIRA,愛媛県,503,KAKIRA,愛媛県,1581,TAPI,愛媛県,3463,NGG,愛媛県,0,,-
-tricoro,ΕΛΠΙΣ,0,,-,986,Z.0.E.,愛媛県,2050,OMOTO,愛媛県,3060,P*4JUN,愛媛県,3426,P*4JUN,愛媛県
-tricoro,Zirkfied,0,,-,832,8347,愛媛県,1742,KUKURI,愛媛県,3589,NGG,愛媛県,0,,-
-tricoro,ZED,0,,-,744,MIKI-2,愛媛県,1488,HRIKUR,愛媛県,2721,OMOTO,愛媛県,0,,-
-tricoro,VEGA,0,,-,906,BCCH,愛媛県,1986,*POI*,愛媛県,3090,NGG,愛媛県,0,,-
-tricoro,VALLIS-NERIA,247,FWLDA7,愛媛県,1076,LPALZM,愛媛県,1901,AKIYA,愛媛県,2880,P*4JUN,愛媛県,0,,-
-tricoro,Valanga,0,,-,1141,DEE,愛媛県,2023,IIDX26,愛媛県,3175,P*4JUN,愛媛県,0,,-
-tricoro,True Blue,0,,-,897,ERIWO,愛媛県,2346,AKIYA,愛媛県,3691,P*4JUN,愛媛県,0,,-
-tricoro,Timepiece phase II (CN Ver.),0,,-,632,UNIDON,愛媛県,1729,Z0RA,愛媛県,2776,TEO,愛媛県,0,,-
-tricoro,Timepiece phase II,0,,-,749,MAKOTO,愛媛県,2034,TEO,愛媛県,3099,NGG,愛媛県,0,,-
-tricoro,Time To Empress,0,,-,575,A,愛媛県,1718,UNO.S,愛媛県,2594,P*4JUN,愛媛県,0,,-
-tricoro,Thor's Hammer,0,,-,913,UNO.S,愛媛県,1725,GIORNO,愛媛県,2802,4NYA5N,愛媛県,0,,-
-tricoro,Take My Life,0,,-,521,O2BU.,愛媛県,1408,WORST,愛媛県,2921,4NYA5N,愛媛県,0,,-
-tricoro,Synergy For Angels,0,,-,884,1338KH,愛媛県,1317,P1AN0.,愛媛県,2721,OMOTO,愛媛県,0,,-
-tricoro,SYNC-ANTHEM,0,,-,0,,-,2352,ALBERT,愛媛県,3587,P*4JUN,愛媛県,0,,-
-tricoro,STULTI,0,,-,481,O2BU.,愛媛県,1544,GIORNO,愛媛県,2569,P*4JUN,愛媛県,0,,-
-tricoro,Sol Cosine Job 2,0,,-,883,P1AN0.,愛媛県,1630,VOLT,愛媛県,3060,NGG,愛媛県,0,,-
-tricoro,SHION,0,,-,356,PIYOOO,愛媛県,1235,DAIAYA,愛媛県,2668,OMOTO,愛媛県,0,,-
-tricoro,Shining World,0,,-,0,,-,1499,NET,愛媛県,1948,4NYA5N,愛媛県,0,,-
-tricoro,Saturn,0,,-,923,MTD981,愛媛県,1757,TETSU,愛媛県,2452,TORI10,愛媛県,0,,-
-tricoro,S!ck,0,,-,814,NYAN,愛媛県,1162,IIDX29,愛媛県,2644,NGG,愛媛県,0,,-
-tricoro,rumrum triplets,0,,-,748,ERIWO,愛媛県,1939,GIORNO,愛媛県,2972,NGG,愛媛県,0,,-
-tricoro,Re:GENERATION,228,KAKIRA,愛媛県,892,TORI,愛媛県,1545,PNSP!!,愛媛県,2212,OMOTO,愛媛県,0,,-
-tricoro,Rainbow after snow,0,,-,464,AOHYS,愛媛県,1331,Z.0.E.,愛媛県,2171,4NYA5N,愛媛県,0,,-
-tricoro,Proof of the existence,0,,-,0,,-,1754,RIN-K,愛媛県,3108,P*4JUN,愛媛県,0,,-
-tricoro,Praludium,0,,-,0,,-,1330,UNO.S,愛媛県,2230,O*O**,愛媛県,0,,-
-tricoro,POINT ZERO,0,,-,526,RIV,愛媛県,1106,TANTAR,愛媛県,2005,-KEN5-,愛媛県,0,,-
-tricoro,planarian,0,,-,0,,-,1495,MF#ARR,愛媛県,2510,NGG,愛媛県,0,,-
-tricoro,Plan 8,0,,-,976,REAL#G,愛媛県,2115,PNSP!!,愛媛県,3069,4NYA5N,愛媛県,0,,-
-tricoro,New Lights,0,,-,834,MI,愛媛県,1462,OJIN,愛媛県,2420,TEO,愛媛県,0,,-
-tricoro,New Decade IIDX Edition,250,KAKIRA,愛媛県,803,MAKOTO,愛媛県,1766,SWITCH,愛媛県,2902,P*4JUN,愛媛県,0,,-
-tricoro,neu,180,KAKIRA,愛媛県,851,MIZUKI,愛媛県,2115,MOTZ,愛媛県,3814,NGG,愛媛県,0,,-
-tricoro,Neonlights,0,,-,0,,-,1270,FITZ?,愛媛県,2146,SAKAKI,愛媛県,0,,-
-tricoro,mnemoniq,0,,-,192,314,愛媛県,0,,-,1295,P*4JUN,愛媛県,0,,-
-tricoro,LUV CAN SAVE U,0,,-,577,TAKOSS,愛媛県,1354,UNO.S,愛媛県,2071,NOCHIN,愛媛県,2753,*COME*,愛媛県
-tricoro,Little Star,0,,-,406,BLOOD,愛媛県,1614,POOH$,愛媛県,3106,NGG,愛媛県,0,,-
-tricoro,Light and Cyber…,0,,-,0,,-,1710,RSN!!!,愛媛県,3060,NGG,愛媛県,0,,-
-tricoro,Liberation,0,,-,1326,NYAN,愛媛県,1960,VOLT,愛媛県,3649,P*4JUN,愛媛県,0,,-
-tricoro,JOMANDA,203,KAKIRA,愛媛県,967,NYAN,愛媛県,2178,ALBERT,愛媛県,3593,4NYA5N,愛媛県,0,,-
-tricoro,In Heaven,0,,-,651,MIZUKI,愛媛県,1298,REAL#G,愛媛県,2098,NGG,愛媛県,0,,-
-tricoro,Illegal Function Call,0,,-,631,BRIANP,愛媛県,1660,*78-R*,愛媛県,2552,TEO,愛媛県,0,,-
-tricoro,ILIAS,0,,-,572,9NOE,愛媛県,1140,Z.0.E.,愛媛県,2113,ARU,愛媛県,0,,-
-tricoro,I know You know,0,,-,552,ERIWO,愛媛県,850,PQQKLS,愛媛県,1826,TORI10,愛媛県,0,,-
-tricoro,Howling,0,,-,518,NYAN,愛媛県,1135,YOU,愛媛県,2097,4NYA5N,愛媛県,2598,OMOTO,愛媛県
-tricoro,Hollywood Galaxy,0,,-,536,RYO.E,愛媛県,1752,RSN!!!,愛媛県,2598,O*O**,愛媛県,0,,-
-tricoro,GRADIUS 2012,0,,-,844,MIZUKI,愛媛県,1497,BB-SVN,愛媛県,2688,P*4JUN,愛媛県,0,,-
-tricoro,GAIA,0,,-,976,VOLT,愛媛県,2099,GYAREN,愛媛県,3218,P*4JUN,愛媛県,0,,-
-tricoro,Fly you to the star,0,,-,244,314,愛媛県,1575,NEKI,愛媛県,2266,P*4JUN,愛媛県,0,,-
-tricoro,FLOWER,272,CHOCO*,愛媛県,937,NYAN,愛媛県,1593,POOH$,愛媛県,2793,OMOTO,愛媛県,0,,-
-tricoro,examination leave,0,,-,1025,P1AN0.,愛媛県,1432,D,愛媛県,3331,NGG,愛媛県,0,,-
-tricoro,Elemental Creation,244,KAKIRA,愛媛県,1310,P1AN0.,愛媛県,2289,*POI*,愛媛県,3977,4NYA5N,愛媛県,0,,-
-tricoro,Devilz Staircase,0,,-,624,MIRIA,愛媛県,2080,Z0RA,愛媛県,3078,TORI10,愛媛県,0,,-
-tricoro,DAY DREAM,0,,-,308,TEYORI,愛媛県,1213,Z0RA,愛媛県,1901,TORI10,愛媛県,0,,-
-tricoro,Cookie Bouquets,0,,-,751,ERIWO,愛媛県,1990,RIN-K,愛媛県,3400,OMOTO,愛媛県,0,,-
-tricoro,connective,0,,-,350,ERIWO,愛媛県,910,8347,愛媛県,1595,P*4JUN,愛媛県,0,,-
-tricoro,Confiserie,0,,-,688,NORA,愛媛県,1988,ALBERT,愛媛県,3313,NGG,愛媛県,0,,-
-tricoro,CONCEPTUAL,0,,-,745,NYAN,愛媛県,1010,U160,愛媛県,2650,P*4JUN,愛媛県,0,,-
-tricoro,BRAVE GLOW,0,,-,701,NYAN,愛媛県,1439,ZWEI,愛媛県,2458,P*4JUN,愛媛県,0,,-
-tricoro,BLUE STRAGGLER,0,,-,644,ERIWO,愛媛県,1286,HANDA,愛媛県,2511,TORI10,愛媛県,0,,-
-tricoro,Beastie Starter,0,,-,459,P1AN0.,愛媛県,1065,HULCY.,愛媛県,2058,OMOTO,愛媛県,0,,-
-tricoro,Ascalon,0,,-,0,,-,1529,TMTM,愛媛県,2271,NGG,愛媛県,0,,-
-tricoro,8bit Princess,0,,-,568,HAZUKI,愛媛県,1307,14KAN*,愛媛県,2630,4NYA5N,愛媛県,0,,-
-tricoro,405nm (Ryu☆mix),0,,-,834,NYAN,愛媛県,1733,OMOTO,愛媛県,2536,OMOTO,愛媛県,0,,-
 Lincle,陽炎,0,,-,610,TAPI,愛媛県,1116,AIR,愛媛県,1979,SAKAKI,愛媛県,0,,-
 Lincle,衰色小町メランコリア,0,,-,762,MIRIA,愛媛県,1318,DAIAYA,愛媛県,2348,SAKAKI,愛媛県,0,,-
 Lincle,蛇神,344,MIZUKI,愛媛県,627,ERIWO,愛媛県,1383,VOLT,愛媛県,2782,P*4JUN,愛媛県,0,,-
@@ -704,6 +623,87 @@ Lincle,ANAGRAMS I to Y,0,,-,855,NYAN,愛媛県,1380,NYAN,愛媛県,2445,TORI10,�
 Lincle,Almace,0,,-,470,COMIC,愛媛県,1152,DEE,愛媛県,1955,PNSP!!,愛媛県,0,,-
 Lincle,532nm,0,,-,529,KUKURI,愛媛県,1022,H87B,愛媛県,2587,NGG,愛媛県,0,,-
 Lincle,24th Century BOY,0,,-,574,BRIANP,愛媛県,1837,AAAA$$,愛媛県,2817,P*4JUN,愛媛県,0,,-
+tricoro,龍と少女とデコヒーレンス,0,,-,446,NORA,愛媛県,1583,KWM-CH,愛媛県,2944,OMOTO,愛媛県,3316,P*4JUN,愛媛県
+tricoro,音楽,0,,-,739,REAL#G,愛媛県,1910,TAKOSS,愛媛県,2645,PNSP!!,愛媛県,0,,-
+tricoro,狂イ咲ケ焔ノ華,0,,-,905,HARU*,愛媛県,2263,MI,愛媛県,3513,NGG,愛媛県,0,,-
+tricoro,梅雪夜,0,,-,710,U160R,愛媛県,1288,OJIN,愛媛県,2134,4NYA5N,愛媛県,0,,-
+tricoro,朧,195,KAKIRA,愛媛県,742,NYAN,愛媛県,1421,VOLT,愛媛県,2095,PNSP!!,愛媛県,2521,P*4JUN,愛媛県
+tricoro,即席！脳直★ミュージックシステム,0,,-,950,YOU,愛媛県,1923,MOTZ,愛媛県,3444,NGG,愛媛県,0,,-
+tricoro,創世ノート,0,,-,768,NYAN,愛媛県,1531,YOU,愛媛県,2901,P*4JUN,愛媛県,0,,-
+tricoro,仮想空間の旅人たち,0,,-,776,COMIC,愛媛県,2185,OMOTO,愛媛県,2833,OMOTO,愛媛県,3778,P*4JUN,愛媛県
+tricoro,下弦の月,0,,-,0,,-,1299,1338KH,愛媛県,1972,P*4JUN,愛媛県,0,,-
+tricoro,ラキラキ,0,,-,546,ERIWO,愛媛県,1053,K,愛媛県,1939,PNSP!!,愛媛県,0,,-
+tricoro,メイメツ、フラグメンツ,0,,-,559,ERIWO,愛媛県,1255,UNO.S,愛媛県,1920,O*O**,愛媛県,0,,-
+tricoro,トリカゴノ鳳凰,0,,-,1033,MIZUKI,愛媛県,1875,TAPI,愛媛県,3679,P*4JUN,愛媛県,0,,-
+tricoro,シュレーディンガーの猫,0,,-,932,KAKIRA,愛媛県,2026,RSN!!!,愛媛県,3310,P*4JUN,愛媛県,0,,-
+tricoro,キャトられ恋はモ～モク,0,,-,1147,COMIC,愛媛県,2300,AMBASA,愛媛県,3625,NGG,愛媛県,0,,-
+tricoro,カジノファイヤーことみちゃん,0,,-,433,MORI8,愛媛県,1316,UNO.S,愛媛県,2366,P*4JUN,愛媛県,0,,-
+tricoro,アストライアの双皿,0,,-,557,NORA,愛媛県,1573,MI,愛媛県,3028,P*4JUN,愛媛県,0,,-
+tricoro,たまゆら,0,,-,1101,1338KH,愛媛県,1736,KA5ME,愛媛県,2710,NGG,愛媛県,0,,-
+tricoro,お米の美味しい炊き方、そしてお米を食べることによるその効果。,0,,-,539,O2BU.,愛媛県,1237,SIRUCO,愛媛県,2053,UME.,愛媛県,3468,NGG,愛媛県
+tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),219,KAKIRA,愛媛県,503,KAKIRA,愛媛県,1581,TAPI,愛媛県,3463,NGG,愛媛県,0,,-
+tricoro,ΕΛΠΙΣ,0,,-,986,Z.0.E.,愛媛県,2050,OMOTO,愛媛県,3060,P*4JUN,愛媛県,3426,P*4JUN,愛媛県
+tricoro,Zirkfied,0,,-,832,8347,愛媛県,1742,KUKURI,愛媛県,3589,NGG,愛媛県,0,,-
+tricoro,ZED,0,,-,744,MIKI-2,愛媛県,1488,HRIKUR,愛媛県,2721,OMOTO,愛媛県,0,,-
+tricoro,VEGA,0,,-,906,BCCH,愛媛県,1986,*POI*,愛媛県,3090,NGG,愛媛県,0,,-
+tricoro,VALLIS-NERIA,247,FWLDA7,愛媛県,1076,LPALZM,愛媛県,1901,AKIYA,愛媛県,2884,P*4JUN,愛媛県,0,,-
+tricoro,Valanga,0,,-,1141,DEE,愛媛県,2023,IIDX26,愛媛県,3175,P*4JUN,愛媛県,0,,-
+tricoro,True Blue,0,,-,897,ERIWO,愛媛県,2346,AKIYA,愛媛県,3691,P*4JUN,愛媛県,0,,-
+tricoro,Timepiece phase II (CN Ver.),0,,-,632,UNIDON,愛媛県,1729,Z0RA,愛媛県,2776,TEO,愛媛県,0,,-
+tricoro,Timepiece phase II,0,,-,749,MAKOTO,愛媛県,2034,TEO,愛媛県,3099,NGG,愛媛県,0,,-
+tricoro,Time To Empress,0,,-,575,A,愛媛県,1718,UNO.S,愛媛県,2594,P*4JUN,愛媛県,0,,-
+tricoro,Thor's Hammer,0,,-,913,UNO.S,愛媛県,1725,GIORNO,愛媛県,2802,4NYA5N,愛媛県,0,,-
+tricoro,Take My Life,0,,-,521,O2BU.,愛媛県,1408,WORST,愛媛県,2921,4NYA5N,愛媛県,0,,-
+tricoro,Synergy For Angels,0,,-,884,1338KH,愛媛県,1317,P1AN0.,愛媛県,2721,OMOTO,愛媛県,0,,-
+tricoro,SYNC-ANTHEM,0,,-,0,,-,2352,ALBERT,愛媛県,3587,P*4JUN,愛媛県,0,,-
+tricoro,STULTI,0,,-,481,O2BU.,愛媛県,1544,GIORNO,愛媛県,2569,P*4JUN,愛媛県,0,,-
+tricoro,Sol Cosine Job 2,0,,-,883,P1AN0.,愛媛県,1630,VOLT,愛媛県,3060,NGG,愛媛県,0,,-
+tricoro,SHION,0,,-,356,PIYOOO,愛媛県,1235,DAIAYA,愛媛県,2668,OMOTO,愛媛県,0,,-
+tricoro,Shining World,0,,-,0,,-,1499,NET,愛媛県,1948,4NYA5N,愛媛県,0,,-
+tricoro,Saturn,0,,-,923,MTD981,愛媛県,1757,TETSU,愛媛県,2452,TORI10,愛媛県,0,,-
+tricoro,S!ck,0,,-,814,NYAN,愛媛県,1162,IIDX29,愛媛県,2644,NGG,愛媛県,0,,-
+tricoro,rumrum triplets,0,,-,748,ERIWO,愛媛県,1939,GIORNO,愛媛県,2972,NGG,愛媛県,0,,-
+tricoro,Re:GENERATION,228,KAKIRA,愛媛県,892,TORI,愛媛県,1545,PNSP!!,愛媛県,2212,OMOTO,愛媛県,0,,-
+tricoro,Rainbow after snow,0,,-,464,AOHYS,愛媛県,1331,Z.0.E.,愛媛県,2171,4NYA5N,愛媛県,0,,-
+tricoro,Proof of the existence,0,,-,0,,-,1754,RIN-K,愛媛県,3108,P*4JUN,愛媛県,0,,-
+tricoro,Praludium,0,,-,0,,-,1330,UNO.S,愛媛県,2230,O*O**,愛媛県,0,,-
+tricoro,POINT ZERO,0,,-,526,RIV,愛媛県,1106,TANTAR,愛媛県,2005,-KEN5-,愛媛県,0,,-
+tricoro,planarian,0,,-,0,,-,1495,MF#ARR,愛媛県,2510,NGG,愛媛県,0,,-
+tricoro,Plan 8,0,,-,976,REAL#G,愛媛県,2115,PNSP!!,愛媛県,3069,4NYA5N,愛媛県,0,,-
+tricoro,New Lights,0,,-,834,MI,愛媛県,1462,OJIN,愛媛県,2420,TEO,愛媛県,0,,-
+tricoro,New Decade IIDX Edition,250,KAKIRA,愛媛県,803,MAKOTO,愛媛県,1766,SWITCH,愛媛県,2902,P*4JUN,愛媛県,0,,-
+tricoro,neu,180,KAKIRA,愛媛県,851,MIZUKI,愛媛県,2115,MOTZ,愛媛県,3814,NGG,愛媛県,0,,-
+tricoro,Neonlights,0,,-,0,,-,1270,FITZ?,愛媛県,2146,SAKAKI,愛媛県,0,,-
+tricoro,mnemoniq,0,,-,192,314,愛媛県,0,,-,1295,P*4JUN,愛媛県,0,,-
+tricoro,LUV CAN SAVE U,0,,-,577,TAKOSS,愛媛県,1354,UNO.S,愛媛県,2071,NOCHIN,愛媛県,2753,*COME*,愛媛県
+tricoro,Little Star,0,,-,522,C-STM,愛媛県,1614,POOH$,愛媛県,3106,NGG,愛媛県,0,,-
+tricoro,Light and Cyber…,0,,-,0,,-,1710,RSN!!!,愛媛県,3060,NGG,愛媛県,0,,-
+tricoro,Liberation,0,,-,1326,NYAN,愛媛県,1960,VOLT,愛媛県,3649,P*4JUN,愛媛県,0,,-
+tricoro,JOMANDA,203,KAKIRA,愛媛県,967,NYAN,愛媛県,2178,ALBERT,愛媛県,3593,4NYA5N,愛媛県,0,,-
+tricoro,In Heaven,0,,-,651,MIZUKI,愛媛県,1298,REAL#G,愛媛県,2098,NGG,愛媛県,0,,-
+tricoro,Illegal Function Call,0,,-,631,BRIANP,愛媛県,1660,*78-R*,愛媛県,2552,TEO,愛媛県,0,,-
+tricoro,ILIAS,0,,-,572,9NOE,愛媛県,1140,Z.0.E.,愛媛県,2113,ARU,愛媛県,0,,-
+tricoro,I know You know,0,,-,552,ERIWO,愛媛県,850,PQQKLS,愛媛県,1826,TORI10,愛媛県,0,,-
+tricoro,Howling,0,,-,518,NYAN,愛媛県,1135,YOU,愛媛県,2097,4NYA5N,愛媛県,2598,OMOTO,愛媛県
+tricoro,Hollywood Galaxy,0,,-,536,RYO.E,愛媛県,1752,RSN!!!,愛媛県,2598,O*O**,愛媛県,0,,-
+tricoro,GRADIUS 2012,0,,-,844,MIZUKI,愛媛県,1497,BB-SVN,愛媛県,2688,P*4JUN,愛媛県,0,,-
+tricoro,GAIA,0,,-,976,VOLT,愛媛県,2099,GYAREN,愛媛県,3218,P*4JUN,愛媛県,0,,-
+tricoro,Fly you to the star,0,,-,244,314,愛媛県,1575,NEKI,愛媛県,2266,P*4JUN,愛媛県,0,,-
+tricoro,FLOWER,272,CHOCO*,愛媛県,937,NYAN,愛媛県,1593,POOH$,愛媛県,2793,OMOTO,愛媛県,0,,-
+tricoro,examination leave,0,,-,1025,P1AN0.,愛媛県,1432,D,愛媛県,3331,NGG,愛媛県,0,,-
+tricoro,Elemental Creation,244,KAKIRA,愛媛県,1310,P1AN0.,愛媛県,2289,*POI*,愛媛県,3977,4NYA5N,愛媛県,0,,-
+tricoro,Devilz Staircase,0,,-,624,MIRIA,愛媛県,2080,Z0RA,愛媛県,3078,TORI10,愛媛県,0,,-
+tricoro,DAY DREAM,0,,-,308,TEYORI,愛媛県,1213,Z0RA,愛媛県,1901,TORI10,愛媛県,0,,-
+tricoro,Cookie Bouquets,0,,-,751,ERIWO,愛媛県,1990,RIN-K,愛媛県,3400,OMOTO,愛媛県,0,,-
+tricoro,connective,0,,-,350,ERIWO,愛媛県,910,8347,愛媛県,1595,P*4JUN,愛媛県,0,,-
+tricoro,Confiserie,0,,-,688,NORA,愛媛県,1988,ALBERT,愛媛県,3313,NGG,愛媛県,0,,-
+tricoro,CONCEPTUAL,0,,-,745,NYAN,愛媛県,1010,U160,愛媛県,2650,P*4JUN,愛媛県,0,,-
+tricoro,BRAVE GLOW,0,,-,701,NYAN,愛媛県,1439,ZWEI,愛媛県,2458,P*4JUN,愛媛県,0,,-
+tricoro,BLUE STRAGGLER,0,,-,644,ERIWO,愛媛県,1286,HANDA,愛媛県,2511,TORI10,愛媛県,0,,-
+tricoro,Beastie Starter,0,,-,459,P1AN0.,愛媛県,1065,HULCY.,愛媛県,2058,OMOTO,愛媛県,0,,-
+tricoro,Ascalon,0,,-,0,,-,1529,TMTM,愛媛県,2271,NGG,愛媛県,0,,-
+tricoro,8bit Princess,0,,-,568,HAZUKI,愛媛県,1318,14KAN*,愛媛県,2630,4NYA5N,愛媛県,0,,-
+tricoro,405nm (Ryu☆mix),0,,-,834,NYAN,愛媛県,1733,OMOTO,愛媛県,2536,OMOTO,愛媛県,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,808,KAKIRA,愛媛県,1475,SIRUCO,愛媛県,2846,NGG,愛媛県,0,,-
 PENDUAL,鬼天,0,,-,857,P1AN0.,愛媛県,1479,KYOBIQ,愛媛県,2439,P*4JUN,愛媛県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,998,UNO.S,愛媛県,1926,TAPI,愛媛県,2665,P*4JUN,愛媛県,3894,NGG,愛媛県
@@ -728,7 +728,7 @@ PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1219,NYAN,愛媛�
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,653,ERIWO,愛媛県,1251,YOU,愛媛県,2501,NGG,愛媛県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,750,1338KH,愛媛県,1177,IIDX29,愛媛県,2218,SAKAKI,愛媛県,0,,-
 PENDUAL,それは花火のような恋,632,KAKIRA,愛媛県,1172,YOU,愛媛県,2496,GIORNO,愛媛県,3759,NGG,愛媛県,0,,-
-PENDUAL,ZZ,181,KAKIRA,愛媛県,1195,UNO.S,愛媛県,2003,OMOTO,愛媛県,2989,P*4JUN,愛媛県,0,,-
+PENDUAL,ZZ,181,KAKIRA,愛媛県,1195,UNO.S,愛媛県,2003,OMOTO,愛媛県,2996,P*4JUN,愛媛県,0,,-
 PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,820,UNIDON,愛媛県,2119,*POI*,愛媛県,3594,NGG,愛媛県,0,,-
 PENDUAL,Vulkan,0,,-,1006,MF#ARR,愛媛県,1930,TAPI,愛媛県,2945,P*4JUN,愛媛県,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1291,BMI0.1,愛媛県,2335,UME.,愛媛県,3719,4NYA5N,愛媛県,0,,-
@@ -741,7 +741,7 @@ PENDUAL,SpaceLand☆TOYBOX,0,,-,972,PLKL,愛媛県,1443,GONTA#,愛媛県,2857,NG
 PENDUAL,Sounds Of Summer,0,,-,1117,NYAN,愛媛県,2091,PNSP!!,愛媛県,2925,P*4JUN,愛媛県,0,,-
 PENDUAL,Shooting Fireball,0,,-,793,ERIWO,愛媛県,2174,TOMABO,愛媛県,3756,P*4JUN,愛媛県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,789,NYAN,愛媛県,1580,NYAN*C,愛媛県,2851,P*4JUN,愛媛県,0,,-
-PENDUAL,Scarlet Moon,0,,-,970,U160,愛媛県,1736,TA1ME4,愛媛県,2691,NGG,愛媛県,0,,-
+PENDUAL,Scarlet Moon,0,,-,970,U160,愛媛県,1736,TA1ME4,愛媛県,2720,P*4JUN,愛媛県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1072,MIRIA,愛媛県,1734,KANTOQ,愛媛県,3210,4NYA5N,愛媛県,0,,-
 PENDUAL,SAMSARA,0,,-,792,NYAN,愛媛県,1094,WORST,愛媛県,2017,NGG,愛媛県,0,,-
 PENDUAL,Sakura Mirage,0,,-,785,P1AN0.,愛媛県,1081,WORST,愛媛県,2295,P*4JUN,愛媛県,0,,-
@@ -756,7 +756,7 @@ PENDUAL,NEO GENERATOR SEVEN,0,,-,830,NYAN,愛媛県,1696,*POI*,愛媛県,3157,P*
 PENDUAL,Monopole.,0,,-,653,NORA,愛媛県,1569,*POI*,愛媛県,3194,P*4JUN,愛媛県,0,,-
 PENDUAL,Line 4 Ruin,0,,-,664,NYAN,愛媛県,1741,*POI*,愛媛県,2778,P*4JUN,愛媛県,0,,-
 PENDUAL,IXION,0,,-,1069,MF#ARR,愛媛県,1562,RSN!!!,愛媛県,2151,P*4JUN,愛媛県,0,,-
-PENDUAL,Invitation from Mr.C,0,,-,693,MAKOTO,愛媛県,1387,MI,愛媛県,2643,O*O**,愛媛県,0,,-
+PENDUAL,Invitation from Mr.C,0,,-,693,MAKOTO,愛媛県,1387,MI,愛媛県,2684,O*O**,愛媛県,0,,-
 PENDUAL,In The Breeze,0,,-,613,NYAN,愛媛県,942,YOU,愛媛県,1729,P*4JUN,愛媛県,0,,-
 PENDUAL,IMPLANTATION,0,,-,596,MIZUKI,愛媛県,1582,ALBERT,愛媛県,2220,*COME*,愛媛県,0,,-
 PENDUAL,illuminate,0,,-,602,TAPI,愛媛県,1207,Z.0.E.,愛媛県,1970,SWITCH,愛媛県,0,,-
@@ -849,7 +849,7 @@ SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,605,HARU*,愛媛県,1603,KYOBIQ,愛�
 SPADA,DARK LEGACY,0,,-,1130,U160,愛媛県,2052,PNSP!!,愛媛県,3457,NGG,愛媛県,0,,-
 SPADA,Dark Fall,0,,-,680,MAKOTO,愛媛県,1207,MINATO,愛媛県,2718,P*4JUN,愛媛県,0,,-
 SPADA,Critical Crystal,208,KAKIRA,愛媛県,988,NYAN,愛媛県,1566,OJIN,愛媛県,2824,OMOTO,愛媛県,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,484,A,愛媛県,2011,ALBERT,愛媛県,3323,P*4JUN,愛媛県,3671,P*4JUN,愛媛県
+SPADA,Close the World feat.a☆ru,0,,-,685,COMIC,愛媛県,2011,ALBERT,愛媛県,3323,P*4JUN,愛媛県,3671,P*4JUN,愛媛県
 SPADA,Cleopatrysm,0,,-,675,ERIWO,愛媛県,1339,VOLT,愛媛県,2515,P*4JUN,愛媛県,0,,-
 SPADA,Claiomh Solais,0,,-,308,ERIWO,愛媛県,1342,1338KH,愛媛県,2071,P*4JUN,愛媛県,0,,-
 SPADA,BRAVE OUT,0,,-,0,,-,1347,RSN!!!,愛媛県,2096,NGG,愛媛県,0,,-
@@ -859,9 +859,90 @@ SPADA,ATHER,0,,-,775,MAKOTO,愛媛県,1524,KA5ME,愛媛県,2700,GIORNO,愛媛県
 SPADA,Ancient Scapes,0,,-,962,U160,愛媛県,1848,FU,愛媛県,3409,P*4JUN,愛媛県,4004,O*O**,愛媛県
 SPADA,ALBA -黎明-,0,,-,644,VOLT,愛媛県,1446,VOLT,愛媛県,3213,4NYA5N,愛媛県,0,,-
 SPADA,Adularia,186,KAKIRA,愛媛県,838,P1AN0.,愛媛県,1627,GIORNO,愛媛県,2812,4NYA5N,愛媛県,0,,-
+copula,麗 ～うらら～,239,KAKIRA,愛媛県,816,KAKIRA,愛媛県,1637,MI,愛媛県,2595,P*4JUN,愛媛県,0,,-
+copula,駅猫のワルツ,0,,-,941,REAL#G,愛媛県,2165,P*4JUN,愛媛県,2647,P*4JUN,愛媛県,0,,-
+copula,量子の海のリントヴルム,0,,-,705,P1AN0.,愛媛県,1654,KA5ME,愛媛県,2918,OMOTO,愛媛県,0,,-
+copula,追想快晴テーマパーク,0,,-,935,SQCWI,愛媛県,1905,VOLT,愛媛県,2922,KWM-CH,愛媛県,0,,-
+copula,紫陽花 -AZISAI-,0,,-,1127,SHALL,愛媛県,1921,YO4NO,愛媛県,2808,P*4JUN,愛媛県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1344,1338KH,愛媛県,2169,OMOTO,愛媛県,3246,P*4JUN,愛媛県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1246,MF#ARR,愛媛県,2055,*COME*,愛媛県,3289,P*4JUN,愛媛県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,719,ERIWO,愛媛県,1564,VOLT,愛媛県,2445,P*4JUN,愛媛県,0,,-
+copula,星屑ディスタンシア,0,,-,597,ERIWO,愛媛県,943,FENEL,愛媛県,2096,*COME*,愛媛県,0,,-
+copula,明鏡止水,0,,-,671,ERIWO,愛媛県,1683,RIN-K,愛媛県,2673,OMOTO,愛媛県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,725,1338KH,愛媛県,1272,YOU,愛媛県,2121,SAKAKI,愛媛県,0,,-
+copula,セロトニン,0,,-,882,UNIDON,愛媛県,1699,KYOBIQ,愛媛県,2248,PNSP!!,愛媛県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,1083,8347,愛媛県,1647,RSN!!!,愛媛県,2404,TEO,愛媛県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,641,HAZUKI,愛媛県,1349,TORI,愛媛県,2360,P*4JUN,愛媛県,0,,-
+copula,オルタネイトβ,0,,-,686,ERIWO,愛媛県,1349,UNO.S,愛媛県,2246,OMOTO,愛媛県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1374,1338KH,愛媛県,2242,GIORNO,愛媛県,3247,P*4JUN,愛媛県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,949,KAKIRA,愛媛県,1622,KYOBIQ,愛媛県,2794,P*4JUN,愛媛県,0,,-
+copula,ZEPHYRANTHES,0,,-,1016,PNSP!!,愛媛県,1834,PNSP!!,愛媛県,2892,OMOTO,愛媛県,3685,NGG,愛媛県
+copula,X,0,,-,1520,R.DEER,愛媛県,2338,ALBERT,愛媛県,3743,NGG,愛媛県,0,,-
+copula,Welcome,0,,-,535,A,愛媛県,1602,MF#ARR,愛媛県,2571,OMOTO,愛媛県,3147,P*4JUN,愛媛県
+copula,Violet Rose,0,,-,852,ERIWO,愛媛県,1751,KYOBIQ,愛媛県,2569,*COME*,愛媛県,0,,-
+copula,Violet Pulse,0,,-,341,ERIWO,愛媛県,1361,UNO.S,愛媛県,2363,SAKAKI,愛媛県,0,,-
+copula,Uh-Oh,0,,-,828,MIKI-2,愛媛県,1583,A,愛媛県,2390,P*4JUN,愛媛県,0,,-
+copula,Triple Counter,0,,-,1242,NYAN,愛媛県,2141,*POI*,愛媛県,3812,NGG,愛媛県,0,,-
+copula,Tori-no-kimochi,0,,-,242,GIORNO,愛媛県,906,ERIWO,愛媛県,1971,TORI10,愛媛県,0,,-
+copula,SURVIVOR,0,,-,615,NYAN,愛媛県,1085,NYAN,愛媛県,1991,PNSP!!,愛媛県,0,,-
+copula,Super Duper Racers,0,,-,832,NYAN,愛媛県,1552,PNSP!!,愛媛県,2332,SAKAKI,愛媛県,0,,-
+copula,StrayedCatz,0,,-,762,COMIC,愛媛県,1821,GIORNO,愛媛県,2696,P*4JUN,愛媛県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1169,1338KH,愛媛県,1759,PNSP!!,愛媛県,2643,4NYA5N,愛媛県,3234,P*4JUN,愛媛県
+copula,STARLiGHT,0,,-,889,NYAN,愛媛県,1696,KYOBIQ,愛媛県,2710,P*4JUN,愛媛県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1308,REAL#G,愛媛県,1765,ALPHAZ,愛媛県,3004,P*4JUN,愛媛県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,0,,-,1073,IIDX29,愛媛県,2504,PNSP!!,愛媛県,0,,-
+copula,Sephirot,0,,-,885,MIZUKI,愛媛県,1416,UNO.S,愛媛県,2319,PNSP!!,愛媛県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,576,*SH1V9,愛媛県,959,P1AN0.,愛媛県,2238,4NYA5N,愛媛県,0,,-
+copula,Routing,0,,-,899,UNO.S,愛媛県,1463,UNO.S,愛媛県,2433,P*4JUN,愛媛県,0,,-
+copula,Rock It,0,,-,1042,NYAN,愛媛県,1597,R.DEER,愛媛県,2857,OMOTO,愛媛県,0,,-
+copula,refrain,0,,-,981,ERIWO,愛媛県,2058,SWITCH,愛媛県,3546,P*4JUN,愛媛県,0,,-
+copula,quick master (reform version),0,,-,145,NYAN,愛媛県,300,U160,愛媛県,522,PNSP!!,愛媛県,0,,-
+copula,POSSESSION,474,UNIDON,愛媛県,1282,SWITCH,愛媛県,2019,*POI*,愛媛県,2946,4NYA5N,愛媛県,0,,-
+copula,Outbreak,0,,-,951,UNIDON,愛媛県,1748,VOLT,愛媛県,2906,KOUZI,愛媛県,0,,-
+copula,On the FM,0,,-,739,HARU*,愛媛県,1412,TA1ME4,愛媛県,2756,4NYA5N,愛媛県,0,,-
+copula,NZM,0,,-,968,1338KH,愛媛県,1513,*POI*,愛媛県,3274,NGG,愛媛県,0,,-
+copula,Nowhere,0,,-,0,,-,1307,UNO.S,愛媛県,2146,P*4JUN,愛媛県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,735,8347,愛媛県,1165,PLKL,愛媛県,2212,PNSP!!,愛媛県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,1192,RSN!!!,愛媛県,1661,NYAN*C,愛媛県,2921,P*4JUN,愛媛県,0,,-
+copula,Nightmare before oversleep,0,,-,1073,DAIAYA,愛媛県,1706,*POI*,愛媛県,2861,P*4JUN,愛媛県,0,,-
+copula,NANAIRO,0,,-,711,GUK,愛媛県,1513,PLKL,愛媛県,2535,P*4JUN,愛媛県,0,,-
+copula,Musik LoverZ,0,,-,976,NYAN,愛媛県,1275,TA1ME4,愛媛県,2468,4NYA5N,愛媛県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1046,MI,愛媛県,2031,GYAREN,愛媛県,2954,P*4JUN,愛媛県,0,,-
+copula,La dolce primavera,0,,-,649,ERIWO,愛媛県,1118,YOU,愛媛県,2145,4NYA5N,愛媛県,0,,-
+copula,Konzert V,0,,-,0,,-,2244,P*4JUN,愛媛県,3222,P*4JUN,愛媛県,0,,-
+copula,Journey,0,,-,622,ERIWO,愛媛県,1071,PPPPPP,愛媛県,1858,PNSP!!,愛媛県,3078,OMOTO,愛媛県
+copula,Inner Spirit,0,,-,842,UNO.S,愛媛県,1489,PLKL,愛媛県,2768,P*4JUN,愛媛県,0,,-
+copula,Highcharge Divolt,0,,-,746,Z.0.E.,愛媛県,1616,ALBERT,愛媛県,2718,P*4JUN,愛媛県,0,,-
+copula,Grand Chariot,0,,-,1049,REAL#G,愛媛県,1740,M.773,愛媛県,3329,NGG,愛媛県,0,,-
+copula,Godspeed,0,,-,954,NYAN,愛媛県,1795,*POI*,愛媛県,3123,4NYA5N,愛媛県,0,,-
+copula,GOBBLE,0,,-,300,COMIC,愛媛県,457,P1AN0.,愛媛県,1639,P*4JUN,愛媛県,0,,-
+copula,Go Faraway,0,,-,638,9NOE,愛媛県,1215,NYAN,愛媛県,2452,NGG,愛媛県,0,,-
+copula,Glitch Nerds,0,,-,882,NYAN,愛媛県,1291,UNO.S,愛媛県,2102,DJKISO,愛媛県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,973,U160,愛媛県,1546,AQUA.,愛媛県,2321,LEMON*,愛媛県,0,,-
+copula,Exchange Place,0,,-,0,,-,1058,PLKL,愛媛県,1761,-KEN5-,愛媛県,0,,-
+copula,Everlasting Last,0,,-,794,NYAN,愛媛県,1253,WORST,愛媛県,2195,OMOTO,愛媛県,0,,-
+copula,Dynamite,497,BYTE,愛媛県,1142,VOLT,愛媛県,2452,*COME*,愛媛県,3752,O*O**,愛媛県,0,,-
+copula,Donkey Donk,0,,-,1022,1338KH,愛媛県,1540,KYOBIQ,愛媛県,2258,P*4JUN,愛媛県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,565,NYAN,愛媛県,1345,ROD-DS,愛媛県,2256,NGG,愛媛県,0,,-
+copula,DIAMOND CROSSING,0,,-,869,P1AN0.,愛媛県,1733,GIORNO,愛媛県,2904,NGG,愛媛県,0,,-
+copula,Devil's Gear,0,,-,881,YOU,愛媛県,2116,MOTZ,愛媛県,3279,P*4JUN,愛媛県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1253,U160,愛媛県,1580,PLKL,愛媛県,2564,P*4JUN,愛媛県,0,,-
+copula,Damage Per Second,0,,-,642,IIDX29,愛媛県,1180,Z.0.E.,愛媛県,2011,PNSP!!,愛媛県,2280,NGG,愛媛県
+copula,Daily Lunch Special,0,,-,787,IIDX28,愛媛県,2006,AMBASA,愛媛県,2910,OMOTO,愛媛県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,0,,-,1562,SWITCH,愛媛県,2995,P*4JUN,愛媛県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,883,ERIWO,愛媛県,1506,BARY3,愛媛県,2519,P*4JUN,愛媛県,0,,-
+copula,Central Station,0,,-,862,ERIWO,愛媛県,1328,DEE,愛媛県,2380,P*4JUN,愛媛県,0,,-
+copula,Blue Spring Express,0,,-,1090,YOU,愛媛県,1868,SURUME,愛媛県,3246,4NYA5N,愛媛県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,818,NYAN,愛媛県,2091,A.K,愛媛県,3190,P*4JUN,愛媛県,0,,-
+copula,Aublia,0,,-,460,A,愛媛県,1511,PNSP!!,愛媛県,2501,P*4JUN,愛媛県,0,,-
+copula,Arcana,0,,-,953,BYTE,愛媛県,1393,TOSHI.,愛媛県,2229,-KEN5-,愛媛県,0,,-
+copula,AO-1,0,,-,986,SHALL,愛媛県,1833,MOTZ,愛媛県,2756,P*4JUN,愛媛県,0,,-
+copula,Angelic Jelly,0,,-,922,P1AN0.,愛媛県,1959,FU,愛媛県,2668,P*4JUN,愛媛県,0,,-
+copula,Acid Pumper,0,,-,604,KAKIRA,愛媛県,1446,MF#ARR,愛媛県,2419,P*4JUN,愛媛県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,629,NYAN,愛媛県,1656,P*4JUN,愛媛県,2312,4NYA5N,愛媛県,0,,-
 SINOBUZ,鴉,0,,-,1288,MIZUKI,愛媛県,2253,P*4JUN,愛媛県,2666,OMOTO,愛媛県,0,,-
 SINOBUZ,童話回廊,0,,-,766,ERIWO,愛媛県,1559,U-C,愛媛県,2977,NGG,愛媛県,0,,-
-SINOBUZ,禍根,0,,-,0,,-,1174,RSN!!!,愛媛県,2526,NGG,愛媛県,0,,-
+SINOBUZ,禍根,0,,-,0,,-,1233,SHALL,愛媛県,2526,NGG,愛媛県,0,,-
 SINOBUZ,獅子霞麗ノ舞,0,,-,430,ERIWO,愛媛県,918,YOU,愛媛県,1709,TORI10,愛媛県,0,,-
 SINOBUZ,焔極OVERKILL,0,,-,1119,VOLT,愛媛県,2005,*POI*,愛媛県,3428,P*4JUN,愛媛県,0,,-
 SINOBUZ,火影,0,,-,652,MIZUKI,愛媛県,1319,UNO.S,愛媛県,2661,P*4JUN,愛媛県,0,,-
@@ -924,7 +1005,7 @@ SINOBUZ,HAPPY★RUSH,0,,-,636,IIDX29,愛媛県,1710,MI,愛媛県,2820,P*4JUN,愛
 SINOBUZ,HADES,362,PG,愛媛県,910,PG,愛媛県,1832,OMOTO,愛媛県,2972,P*4JUN,愛媛県,0,,-
 SINOBUZ,GuNGNiR,0,,-,1275,VOLT,愛媛県,2544,OMOTO,愛媛県,3768,4NYA5N,愛媛県,4169,TEO,愛媛県
 SINOBUZ,Go Ahead!!,0,,-,814,NYAN,愛媛県,1428,*POI*,愛媛県,2524,O*O**,愛媛県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,0,,-,1758,SIRUCO,愛媛県,3696,P*4JUN,愛媛県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,794,GUK,愛媛県,1758,SIRUCO,愛媛県,3696,P*4JUN,愛媛県,0,,-
 SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,580,NYAN,愛媛県,1091,UNO.S,愛媛県,1601,TORI10,愛媛県,0,,-
 SINOBUZ,Egret and Willow,0,,-,767,ERIWO,愛媛県,1362,DEE,愛媛県,2646,NGG,愛媛県,0,,-
 SINOBUZ,ECHIDNA,0,,-,1161,1338KH,愛媛県,1913,AKIYA,愛媛県,3171,OMOTO,愛媛県,0,,-
@@ -942,93 +1023,12 @@ SINOBUZ,Be A Star,0,,-,797,NORA,愛媛県,1679,ALPHAZ,愛媛県,2736,ARU,愛媛�
 SINOBUZ,BabeL ～Grand Story～,0,,-,939,P1AN0.,愛媛県,2051,L#WIND,愛媛県,2764,*COME*,愛媛県,0,,-
 SINOBUZ,AsiaN distractive,0,,-,744,IIDX27,愛媛県,1335,SHALL,愛媛県,2583,P*4JUN,愛媛県,0,,-
 SINOBUZ,Around The Galaxy,0,,-,818,UNIDON,愛媛県,1717,1338KH,愛媛県,3337,SAKAKI,愛媛県,0,,-
-SINOBUZ,Apocalypse,0,,-,907,ERIWO,愛媛県,1834,RIKI,愛媛県,3511,P*4JUN,愛媛県,0,,-
+SINOBUZ,Apocalypse,0,,-,907,ERIWO,愛媛県,1834,RIKI,愛媛県,3519,P*4JUN,愛媛県,0,,-
 SINOBUZ,AO-∞,0,,-,885,KAKIRA,愛媛県,1505,NYAN*C,愛媛県,2610,PNSP!!,愛媛県,0,,-
 SINOBUZ,Amazing Mirage,348,MIRIA,愛媛県,823,NYAN,愛媛県,1620,*POI*,愛媛県,2561,NGG,愛媛県,3193,P*4JUN,愛媛県
 SINOBUZ,(This Is Not) The Angels,0,,-,539,1338KH,愛媛県,1300,AMBASA,愛媛県,2647,SAKAKI,愛媛県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1062,NYAN,愛媛県,1948,*POI*,愛媛県,3319,P*4JUN,愛媛県,0,,-
 SINOBUZ,!Viva!,0,,-,902,NYAN,愛媛県,1426,UNO.S,愛媛県,1990,OMOTO,愛媛県,0,,-
-copula,麗 ～うらら～,239,KAKIRA,愛媛県,816,KAKIRA,愛媛県,1637,MI,愛媛県,2595,P*4JUN,愛媛県,0,,-
-copula,駅猫のワルツ,0,,-,941,REAL#G,愛媛県,2165,P*4JUN,愛媛県,2647,P*4JUN,愛媛県,0,,-
-copula,量子の海のリントヴルム,0,,-,705,P1AN0.,愛媛県,1654,KA5ME,愛媛県,2918,OMOTO,愛媛県,0,,-
-copula,追想快晴テーマパーク,0,,-,935,SQCWI,愛媛県,1905,VOLT,愛媛県,2922,KWM-CH,愛媛県,0,,-
-copula,紫陽花 -AZISAI-,0,,-,1127,SHALL,愛媛県,1921,YO4NO,愛媛県,2808,P*4JUN,愛媛県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1344,1338KH,愛媛県,2169,OMOTO,愛媛県,3246,P*4JUN,愛媛県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1246,MF#ARR,愛媛県,2055,*COME*,愛媛県,3289,P*4JUN,愛媛県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,719,ERIWO,愛媛県,1564,VOLT,愛媛県,2445,P*4JUN,愛媛県,0,,-
-copula,星屑ディスタンシア,0,,-,597,ERIWO,愛媛県,943,FENEL,愛媛県,2096,*COME*,愛媛県,0,,-
-copula,明鏡止水,0,,-,671,ERIWO,愛媛県,1683,RIN-K,愛媛県,2673,OMOTO,愛媛県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,725,1338KH,愛媛県,1272,YOU,愛媛県,2121,SAKAKI,愛媛県,0,,-
-copula,セロトニン,0,,-,882,UNIDON,愛媛県,1699,KYOBIQ,愛媛県,2248,PNSP!!,愛媛県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,1083,8347,愛媛県,1647,RSN!!!,愛媛県,2404,TEO,愛媛県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,641,HAZUKI,愛媛県,1349,TORI,愛媛県,2360,P*4JUN,愛媛県,0,,-
-copula,オルタネイトβ,0,,-,686,ERIWO,愛媛県,1349,UNO.S,愛媛県,2246,OMOTO,愛媛県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1374,1338KH,愛媛県,2242,GIORNO,愛媛県,3247,P*4JUN,愛媛県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,949,KAKIRA,愛媛県,1622,KYOBIQ,愛媛県,2794,P*4JUN,愛媛県,0,,-
-copula,ZEPHYRANTHES,0,,-,1016,PNSP!!,愛媛県,1834,PNSP!!,愛媛県,2892,OMOTO,愛媛県,3685,NGG,愛媛県
-copula,X,0,,-,1520,R.DEER,愛媛県,2338,ALBERT,愛媛県,3743,NGG,愛媛県,0,,-
-copula,Welcome,0,,-,535,A,愛媛県,1602,MF#ARR,愛媛県,2571,OMOTO,愛媛県,3147,P*4JUN,愛媛県
-copula,Violet Rose,0,,-,852,ERIWO,愛媛県,1751,KYOBIQ,愛媛県,2569,*COME*,愛媛県,0,,-
-copula,Violet Pulse,0,,-,341,ERIWO,愛媛県,1361,UNO.S,愛媛県,2363,SAKAKI,愛媛県,0,,-
-copula,Uh-Oh,0,,-,828,MIKI-2,愛媛県,1583,A,愛媛県,2390,P*4JUN,愛媛県,0,,-
-copula,Triple Counter,0,,-,1242,NYAN,愛媛県,2141,*POI*,愛媛県,3812,NGG,愛媛県,0,,-
-copula,Tori-no-kimochi,0,,-,242,GIORNO,愛媛県,906,ERIWO,愛媛県,1971,TORI10,愛媛県,0,,-
-copula,SURVIVOR,0,,-,615,NYAN,愛媛県,1085,NYAN,愛媛県,1991,PNSP!!,愛媛県,0,,-
-copula,Super Duper Racers,0,,-,832,NYAN,愛媛県,1552,PNSP!!,愛媛県,2332,SAKAKI,愛媛県,0,,-
-copula,StrayedCatz,0,,-,762,COMIC,愛媛県,1821,GIORNO,愛媛県,2696,P*4JUN,愛媛県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1169,1338KH,愛媛県,1759,PNSP!!,愛媛県,2643,4NYA5N,愛媛県,3234,P*4JUN,愛媛県
-copula,STARLiGHT,0,,-,889,NYAN,愛媛県,1696,KYOBIQ,愛媛県,2710,P*4JUN,愛媛県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1308,REAL#G,愛媛県,1765,ALPHAZ,愛媛県,3004,P*4JUN,愛媛県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,0,,-,1073,IIDX29,愛媛県,2504,PNSP!!,愛媛県,0,,-
-copula,Sephirot,0,,-,885,MIZUKI,愛媛県,1416,UNO.S,愛媛県,2319,PNSP!!,愛媛県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,576,*SH1V9,愛媛県,959,P1AN0.,愛媛県,2238,4NYA5N,愛媛県,0,,-
-copula,Routing,0,,-,899,UNO.S,愛媛県,1463,UNO.S,愛媛県,2433,P*4JUN,愛媛県,0,,-
-copula,Rock It,0,,-,1042,NYAN,愛媛県,1597,R.DEER,愛媛県,2857,OMOTO,愛媛県,0,,-
-copula,refrain,0,,-,981,ERIWO,愛媛県,2058,SWITCH,愛媛県,3546,P*4JUN,愛媛県,0,,-
-copula,quick master (reform version),0,,-,145,NYAN,愛媛県,300,U160,愛媛県,522,PNSP!!,愛媛県,0,,-
-copula,POSSESSION,474,UNIDON,愛媛県,1282,SWITCH,愛媛県,2019,*POI*,愛媛県,2946,4NYA5N,愛媛県,0,,-
-copula,Outbreak,0,,-,951,UNIDON,愛媛県,1748,VOLT,愛媛県,2906,KOUZI,愛媛県,0,,-
-copula,On the FM,0,,-,739,HARU*,愛媛県,1412,TA1ME4,愛媛県,2756,4NYA5N,愛媛県,0,,-
-copula,NZM,0,,-,968,1338KH,愛媛県,1513,*POI*,愛媛県,3274,NGG,愛媛県,0,,-
-copula,Nowhere,0,,-,0,,-,1307,UNO.S,愛媛県,2146,P*4JUN,愛媛県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,735,8347,愛媛県,1165,PLKL,愛媛県,2212,PNSP!!,愛媛県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,1192,RSN!!!,愛媛県,1661,NYAN*C,愛媛県,2921,P*4JUN,愛媛県,0,,-
-copula,Nightmare before oversleep,0,,-,1073,DAIAYA,愛媛県,1706,*POI*,愛媛県,2861,P*4JUN,愛媛県,0,,-
-copula,NANAIRO,0,,-,0,,-,1513,PLKL,愛媛県,2535,P*4JUN,愛媛県,0,,-
-copula,Musik LoverZ,0,,-,976,NYAN,愛媛県,1275,TA1ME4,愛媛県,2468,4NYA5N,愛媛県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1046,MI,愛媛県,2031,GYAREN,愛媛県,2954,P*4JUN,愛媛県,0,,-
-copula,La dolce primavera,0,,-,649,ERIWO,愛媛県,1118,YOU,愛媛県,2145,4NYA5N,愛媛県,0,,-
-copula,Konzert V,0,,-,0,,-,2244,P*4JUN,愛媛県,3222,P*4JUN,愛媛県,0,,-
-copula,Journey,0,,-,622,ERIWO,愛媛県,1071,PPPPPP,愛媛県,1858,PNSP!!,愛媛県,3078,OMOTO,愛媛県
-copula,Inner Spirit,0,,-,842,UNO.S,愛媛県,1489,PLKL,愛媛県,2768,P*4JUN,愛媛県,0,,-
-copula,Highcharge Divolt,0,,-,746,Z.0.E.,愛媛県,1616,ALBERT,愛媛県,2718,P*4JUN,愛媛県,0,,-
-copula,Grand Chariot,0,,-,1049,REAL#G,愛媛県,1740,M.773,愛媛県,3329,NGG,愛媛県,0,,-
-copula,Godspeed,0,,-,954,NYAN,愛媛県,1795,*POI*,愛媛県,3123,4NYA5N,愛媛県,0,,-
-copula,GOBBLE,0,,-,300,COMIC,愛媛県,457,P1AN0.,愛媛県,1639,P*4JUN,愛媛県,0,,-
-copula,Go Faraway,0,,-,638,9NOE,愛媛県,1215,NYAN,愛媛県,2452,NGG,愛媛県,0,,-
-copula,Glitch Nerds,0,,-,882,NYAN,愛媛県,1291,UNO.S,愛媛県,2102,DJKISO,愛媛県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,973,U160,愛媛県,1546,AQUA.,愛媛県,2321,LEMON*,愛媛県,0,,-
-copula,Exchange Place,0,,-,0,,-,1058,PLKL,愛媛県,1761,-KEN5-,愛媛県,0,,-
-copula,Everlasting Last,0,,-,794,NYAN,愛媛県,1253,WORST,愛媛県,2195,OMOTO,愛媛県,0,,-
-copula,Dynamite,497,BYTE,愛媛県,1142,VOLT,愛媛県,2452,*COME*,愛媛県,3752,O*O**,愛媛県,0,,-
-copula,Donkey Donk,0,,-,1022,1338KH,愛媛県,1540,KYOBIQ,愛媛県,2258,P*4JUN,愛媛県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,565,NYAN,愛媛県,1345,ROD-DS,愛媛県,2256,NGG,愛媛県,0,,-
-copula,DIAMOND CROSSING,0,,-,869,P1AN0.,愛媛県,1733,GIORNO,愛媛県,2904,NGG,愛媛県,0,,-
-copula,Devil's Gear,0,,-,881,YOU,愛媛県,2116,MOTZ,愛媛県,3279,P*4JUN,愛媛県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1253,U160,愛媛県,1580,PLKL,愛媛県,2564,P*4JUN,愛媛県,0,,-
-copula,Damage Per Second,0,,-,642,IIDX29,愛媛県,1180,Z.0.E.,愛媛県,2011,PNSP!!,愛媛県,2280,NGG,愛媛県
-copula,Daily Lunch Special,0,,-,787,IIDX28,愛媛県,2006,AMBASA,愛媛県,2910,OMOTO,愛媛県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,0,,-,1562,SWITCH,愛媛県,2995,P*4JUN,愛媛県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,883,ERIWO,愛媛県,1506,BARY3,愛媛県,2519,P*4JUN,愛媛県,0,,-
-copula,Central Station,0,,-,862,ERIWO,愛媛県,1328,DEE,愛媛県,2380,P*4JUN,愛媛県,0,,-
-copula,Blue Spring Express,0,,-,1090,YOU,愛媛県,1846,AKIYA,愛媛県,3246,4NYA5N,愛媛県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,818,NYAN,愛媛県,2091,A.K,愛媛県,3190,P*4JUN,愛媛県,0,,-
-copula,Aublia,0,,-,460,A,愛媛県,1511,PNSP!!,愛媛県,2501,P*4JUN,愛媛県,0,,-
-copula,Arcana,0,,-,953,BYTE,愛媛県,1393,TOSHI.,愛媛県,2229,-KEN5-,愛媛県,0,,-
-copula,AO-1,0,,-,986,SHALL,愛媛県,1833,MOTZ,愛媛県,2756,P*4JUN,愛媛県,0,,-
-copula,Angelic Jelly,0,,-,922,P1AN0.,愛媛県,1959,FU,愛媛県,2668,P*4JUN,愛媛県,0,,-
-copula,Acid Pumper,0,,-,604,KAKIRA,愛媛県,1446,MF#ARR,愛媛県,2419,P*4JUN,愛媛県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,629,NYAN,愛媛県,1656,P*4JUN,愛媛県,2312,4NYA5N,愛媛県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,432,AWA,愛媛県,1132,ROD-DS,愛媛県,2258,PNSP!!,愛媛県,0,,-
 CANNON BALLERS,純真可憐デザイア,217,FWLDA7,愛媛県,643,COMIC,愛媛県,1423,MARON,愛媛県,2322,OMOTO,愛媛県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1236,REAL#G,愛媛県,2335,NET,愛媛県,3979,4NYA5N,愛媛県,0,,-
@@ -1079,9 +1079,9 @@ CANNON BALLERS,HYPE THE CORE,0,,-,0,,-,1790,RSN!!!,愛媛県,2947,P*4JUN,愛媛�
 CANNON BALLERS,Hella Deep,0,,-,567,MIZUKI,愛媛県,898,SIRUCO,愛媛県,1809,NGG,愛媛県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,622,COMIC,愛媛県,1360,MF#ARR,愛媛県,2199,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,571,TAPI,愛媛県,1011,YOU,愛媛県,1895,SAKAKI,愛媛県,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,693,MAKOTO,愛媛県,1335,FLAT,愛媛県,2116,O*O**,愛媛県,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,700,MAKOTO,愛媛県,1335,FLAT,愛媛県,2116,O*O**,愛媛県,0,,-
 CANNON BALLERS,From Time To Time,0,,-,0,,-,1800,KANTOQ,愛媛県,2524,SAKAKI,愛媛県,0,,-
-CANNON BALLERS,FREEDOM,0,,-,0,,-,1289,SIRUCO,愛媛県,2894,P*4JUN,愛媛県,0,,-
+CANNON BALLERS,FREEDOM,0,,-,0,,-,1345,PU99Y,愛媛県,2894,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Fervidex,0,,-,767,KENKEN,愛媛県,1761,*POI*,愛媛県,2668,NGG,愛媛県,0,,-
 CANNON BALLERS,Expanded !!,0,,-,623,P1AN0.,愛媛県,1339,P1AN0.,愛媛県,2607,NGG,愛媛県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,0,,-,1715,GLITCH,愛媛県,2733,NGG,愛媛県,0,,-
@@ -1097,7 +1097,7 @@ CANNON BALLERS,Chemical Cookie,0,,-,676,ERIWO,愛媛県,1196,SIRUCO,愛媛県,21
 CANNON BALLERS,ChaserXX,0,,-,911,NYAN,愛媛県,1395,YOU,愛媛県,2752,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Break Stasis,0,,-,1104,U160,愛媛県,1615,SHALL,愛媛県,2498,NGG,愛媛県,0,,-
 CANNON BALLERS,Boomy and The Boost,410,Z0RA,愛媛県,902,8347,愛媛県,1859,ATO,愛媛県,3469,4NYA5N,愛媛県,0,,-
-CANNON BALLERS,Best of Me,0,,-,713,P1AN0.,愛媛県,1326,SHALL,愛媛県,2199,P*4JUN,愛媛県,0,,-
+CANNON BALLERS,Best of Me,0,,-,713,P1AN0.,愛媛県,1357,SHALL,愛媛県,2199,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Beast mode,0,,-,822,ERIWO,愛媛県,1306,SWEEPT,愛媛県,2680,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,624,*SH1V9,愛媛県,1650,PG,愛媛県,3074,P*4JUN,愛媛県,0,,-
 CANNON BALLERS,Battleground,0,,-,1032,NYAN,愛媛県,1693,VOLT,愛媛県,2592,P*4JUN,愛媛県,0,,-
@@ -1261,7 +1261,7 @@ HEROIC VERSE,Rainstorm,0,,-,878,NYAN,愛媛県,1341,UNO.S,愛媛県,2221,PNSP!!,
 HEROIC VERSE,Queen Kaguya,0,,-,671,RIV,愛媛県,1458,MINATO,愛媛県,2606,4NYA5N,愛媛県,0,,-
 HEROIC VERSE,Punching Down (IIDX Mix),0,,-,399,MARI2,愛媛県,0,,-,1687,*78-R*,愛媛県,0,,-
 HEROIC VERSE,Primitive Vibes,411,IIDX29,愛媛県,1060,LPALZM,愛媛県,1903,*POI*,愛媛県,3063,4NYA5N,愛媛県,0,,-
-HEROIC VERSE,POP TEAM EPIC(kors k Remix),231,OYABY,愛媛県,521,TAPI,愛媛県,1202,AIR,愛媛県,2139,4NYA5N,愛媛県,0,,-
+HEROIC VERSE,POP TEAM EPIC(kors k Remix),298,KAKIRA,愛媛県,521,TAPI,愛媛県,1202,AIR,愛媛県,2139,4NYA5N,愛媛県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1135,NYAN,愛媛県,1501,VOLT,愛媛県,2781,NGG,愛媛県,0,,-
 HEROIC VERSE,Override,0,,-,760,ERIWO,愛媛県,1413,BARY3,愛媛県,2838,OMOTO,愛媛県,0,,-
 HEROIC VERSE,OUTER PLANETS,0,,-,571,ERIWO,愛媛県,1083,MIZUKI,愛媛県,2152,P*4JUN,愛媛県,0,,-
