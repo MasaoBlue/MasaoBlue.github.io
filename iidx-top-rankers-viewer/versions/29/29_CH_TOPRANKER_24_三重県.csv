@@ -1,7 +1,7 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,596,ISENO,三重県,1007,TURQUO,三重県,1149,YUKITO,三重県,0,,-
 1st&substream,RUGGED ASH,0,,-,0,,-,357,MOKO,三重県,1090,FRIP,三重県,2006,HAKU0,三重県
-1st&substream,R3,0,,-,643,QUERY,三重県,722,TURQUO,三重県,899,T*CHA,三重県,0,,-
+1st&substream,R3,0,,-,643,QUERY,三重県,722,TURQUO,三重県,901,YUKITO,三重県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,503,SYARO.,三重県,734,TURQUO,三重県,1113,FRIP,三重県,0,,-
 1st&substream,Macho Gang,0,,-,356,KYURA,三重県,860,KRC,三重県,1634,FRIP,三重県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,186,MASSH.,三重県,244,IIDX35,三重県,0,,-,0,,-
@@ -25,7 +25,7 @@
 3rd style,Skyscraper,0,,-,352,MORY,三重県,618,SIOSAI,三重県,1245,.32,三重県,0,,-
 3rd style,Schlagwerk,0,,-,410,HARU,三重県,1262,TURQUO,三重県,1561,459MTN,三重県,0,,-
 3rd style,REINCARNATION,0,,-,650,ISENO,三重県,732,ISENO,三重県,1264,.32,三重県,0,,-
-3rd style,R5,0,,-,396,REI,三重県,1109,SHANA,三重県,1770,FRIP,三重県,0,,-
+3rd style,R5,0,,-,555,MOKO,三重県,1109,SHANA,三重県,1770,FRIP,三重県,0,,-
 3rd style,Presto,0,,-,502,T-TMY,三重県,934,JUICY!,三重県,1001,FRIP,三重県,0,,-
 3rd style,LEADING CYBER,0,,-,776,MR.Q,三重県,1152,TURQUO,三重県,1244,.32,三重県,0,,-
 3rd style,Holic,0,,-,660,ISENO,三重県,1173,.OGINE,三重県,1722,FRIP,三重県,0,,-
@@ -38,24 +38,42 @@
 4th style,Mr.T.(take me higher),0,,-,621,CLAY0K,三重県,906,T-TMY,三重県,1766,FRIP,三重県,0,,-
 4th style,minimalian,0,,-,55,SEGGO,三重県,979,SHANA,三重県,1404,FRIP,三重県,0,,-
 4th style,LOVE WILL・・・,0,,-,496,ISENO,三重県,716,T-TMY,三重県,1455,HAGGER,三重県,0,,-
-4th style,KAMIKAZE,0,,-,932,MUGI,三重県,1194,BLESS,三重県,2278,FRIP,三重県,0,,-
+4th style,KAMIKAZE,0,,-,932,MUGI,三重県,1194,BLESS,三重県,2300,FRIP,三重県,0,,-
 4th style,Jam&Marmalade,0,,-,598,P.,三重県,731,RODOFO,三重県,1017,FRIP,三重県,0,,-
 4th style,Hitch Hiker2,0,,-,680,KRC,三重県,940,RODOFO,三重県,1313,IIDX35,三重県,1934,HAKU0,三重県
 4th style,HIGHER,0,,-,470,SIN-Q,三重県,697,MOKO,三重県,1270,HAGGER,三重県,0,,-
 4th style,FLOWERS for ALBION,0,,-,225,MKRN.,三重県,433,HAKU0,三重県,0,,-,0,,-
 4th style,era (step mix),0,,-,524,AAAAAA,三重県,1272,SHANA,三重県,1710,FRIP,三重県,0,,-
 4th style,empathy,0,,-,736,SIN-Q,三重県,1056,METAL,三重県,1460,FRIP,三重県,0,,-
-4th style,DXY!,0,,-,1072,YU-KI,三重県,1670,FIA,三重県,2253,FRIP,三重県,0,,-
+4th style,DXY!,0,,-,1072,YU-KI,三重県,1698,FIA,三重県,2253,FRIP,三重県,0,,-
 4th style,Clione,0,,-,462,DESP,三重県,874,T-TMY,三重県,1614,FRIP,三重県,2174,FRIP,三重県
 4th style,CHECKING YOU OUT,0,,-,547,CHIMA!,三重県,883,NONNKE,三重県,1337,FRIP,三重県,0,,-
-4th style,Burnin' The Floor,0,,-,522,KRC,三重県,654,MOKO,三重県,1439,FRIP,三重県,0,,-
+4th style,Burnin' The Floor,0,,-,522,KRC,三重県,701,MOKO,三重県,1439,FRIP,三重県,0,,-
 4th style,Broken My Heart,0,,-,823,KRC,三重県,1408,FIA,三重県,1811,YUKITO,三重県,0,,-
 4th style,B4U,0,,-,896,KRC,三重県,1450,FIA,三重県,2007,FRIP,三重県,0,,-
 4th style,ABSOLUTE,0,,-,1077,DESP,三重県,1781,HAGGER,三重県,2394,FRIP,三重県,2683,HAKU0,三重県
 4th style,250bpm,0,,-,496,ISENO,三重県,932,SHANA,三重県,1422,FRIP,三重県,0,,-
+5th style,V,329,SHANA,三重県,1083,2SALTY,三重県,2515,MAJIN!,三重県,2995,FRIP,三重県,0,,-
+5th style,THE SHINING POLARIS,0,,-,613,MOKO,三重県,932,DEKKAP,三重県,1586,FRIP,三重県,0,,-
+5th style,THE CUBE,0,,-,340,BHO,三重県,1103,SUGOC,三重県,1322,HAGGER,三重県,0,,-
+5th style,sync,0,,-,935,KERY,三重県,1826,FIA,三重県,2392,FRIP,三重県,0,,-
+5th style,still my words,0,,-,756,ISENO,三重県,1231,FRIP,三重県,0,,-,0,,-
+5th style,STILL IN MY HEART,0,,-,913,MUGI,三重県,1293,RUDE,三重県,1918,FRIP,三重県,0,,-
+5th style,Spin the disc,0,,-,602,MOKO,三重県,997,2SALTY,三重県,1334,FRIP,三重県,0,,-
+5th style,sometime,0,,-,725,SHANA,三重県,1016,KOO.L,三重県,1327,FRIP,三重県,0,,-
+5th style,RISLIM,0,,-,0,,-,1216,T*CHA,三重県,0,,-,0,,-
+5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,841,YU-KI,三重県,998,10-4-!,三重県,1717,FRIP,三重県,1833,FRIP,三重県
+5th style,Regulus,0,,-,621,HARA,三重県,1390,KOO.L,三重県,1719,FRIP,三重県,0,,-
+5th style,Real,0,,-,710,MOKO,三重県,1466,BOSS!!,三重県,1826,FRIP,三重県,0,,-
+5th style,Radical Faith,0,,-,815,TUVO,三重県,1513,HAKU0,三重県,1302,HAKU0,三重県,0,,-
+5th style,QQQ,0,,-,1073,MUGI,三重県,1707,SHANA,三重県,2161,FRIP,三重県,0,,-
+5th style,outer wall,0,,-,638,MOKO,三重県,1136,BOSS!!,三重県,1766,FRIP,三重県,0,,-
+5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,648,796,三重県,614,MOKO,三重県,1108,HAGGER,三重県,0,,-
+5th style,in my eyes,0,,-,715,MLESKE,三重県,864,YOGA4,三重県,1558,HAGGER,三重県,0,,-
+5th style,Abyss,0,,-,936,796,三重県,1587,RUDE,三重県,1870,HAKU0,三重県,0,,-
 6th style,電人イェーガーのテーマ(Theme of DENJIN J),0,,-,1083,K.E.N!,三重県,1448,459MTN,三重県,0,,-,0,,-
 6th style,こっちを向いてよ,0,,-,687,KRC,三重県,1085,MUGI,三重県,1351,RMASHI,三重県,0,,-
-6th style,VJ ARMY,0,,-,1166,SHANA,三重県,1508,SHANA,三重県,2256,FRIP,三重県,0,,-
+6th style,VJ ARMY,0,,-,1166,SHANA,三重県,1573,KOO.L,三重県,2256,FRIP,三重県,0,,-
 6th style,Take It Easy,0,,-,1096,CEDAR,三重県,2326,KOO.L,三重県,2509,FRIP,三重県,0,,-
 6th style,Summer Vacation(CU mix),0,,-,1105,YU-KI,三重県,1822,FRIP,三重県,0,,-,0,,-
 6th style,SOMETHING WONDERFUL,0,,-,850,YU-KI,三重県,1154,BOSS!!,三重県,1991,FRIP,三重県,0,,-
@@ -73,31 +91,13 @@
 6th style,Blueberry Stream,0,,-,669,MR.Q,三重県,1378,KOO.L,三重県,1660,FRIP,三重県,0,,-
 6th style,BALLAD FOR YOU～想いの雨～,0,,-,586,MARISA,三重県,767,MARISA,三重県,1067,4FOOD,三重県,0,,-
 6th style,"19,November",0,,-,935,MOKO,三重県,1368,FIA,三重県,1795,FRIP,三重県,0,,-
-5th style,V,329,SHANA,三重県,1083,2SALTY,三重県,2515,MAJIN!,三重県,2995,FRIP,三重県,0,,-
-5th style,THE SHINING POLARIS,0,,-,613,MOKO,三重県,932,DEKKAP,三重県,1586,FRIP,三重県,0,,-
-5th style,THE CUBE,0,,-,340,BHO,三重県,1103,SUGOC,三重県,1322,HAGGER,三重県,0,,-
-5th style,sync,0,,-,935,KERY,三重県,1826,FIA,三重県,2392,FRIP,三重県,0,,-
-5th style,still my words,0,,-,756,ISENO,三重県,1231,FRIP,三重県,0,,-,0,,-
-5th style,STILL IN MY HEART,0,,-,913,MUGI,三重県,1293,RUDE,三重県,1918,FRIP,三重県,0,,-
-5th style,Spin the disc,0,,-,602,MOKO,三重県,997,2SALTY,三重県,1334,FRIP,三重県,0,,-
-5th style,sometime,0,,-,725,SHANA,三重県,1016,KOO.L,三重県,1327,FRIP,三重県,0,,-
-5th style,RISLIM,0,,-,0,,-,1216,T*CHA,三重県,0,,-,0,,-
-5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,841,YU-KI,三重県,998,10-4-!,三重県,1717,FRIP,三重県,1833,FRIP,三重県
-5th style,Regulus,0,,-,621,HARA,三重県,1390,KOO.L,三重県,1719,FRIP,三重県,0,,-
-5th style,Real,0,,-,0,,-,1466,BOSS!!,三重県,1826,FRIP,三重県,0,,-
-5th style,Radical Faith,0,,-,815,TUVO,三重県,1513,HAKU0,三重県,1302,HAKU0,三重県,0,,-
-5th style,QQQ,0,,-,1073,MUGI,三重県,1707,SHANA,三重県,2161,FRIP,三重県,0,,-
-5th style,outer wall,0,,-,638,MOKO,三重県,1136,BOSS!!,三重県,1766,FRIP,三重県,0,,-
-5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,648,796,三重県,614,MOKO,三重県,1108,HAGGER,三重県,0,,-
-5th style,in my eyes,0,,-,715,MLESKE,三重県,864,YOGA4,三重県,1558,HAGGER,三重県,0,,-
-5th style,Abyss,0,,-,936,796,三重県,1587,RUDE,三重県,1870,HAKU0,三重県,0,,-
 7th style,革命,0,,-,573,CHIMA!,三重県,1881,NONNKE,三重県,2325,FRIP,三重県,0,,-
 7th style,ZERO-ONE,0,,-,960,YU-KI,三重県,1571,FIA,三重県,2244,FRIP,三重県,0,,-
 7th style,traces,0,,-,1059,796,三重県,1786,FIA,三重県,2143,FRIP,三重県,0,,-
 7th style,Tomorrow Perfume,0,,-,1074,MR.Q,三重県,1741,CALM,三重県,2133,FRIP,三重県,0,,-
 7th style,stoic,0,,-,1389,6262-R,三重県,2113,R2,三重県,2550,FRIP,三重県,0,,-
 7th style,Spica,0,,-,603,EA-18G,三重県,1426,DANPA,三重県,2245,FRIP,三重県,0,,-
-7th style,Love Me Do,0,,-,0,,-,1679,RUDE,三重県,2109,YUKITO,三重県,0,,-
+7th style,Love Me Do,0,,-,0,,-,1679,RUDE,三重県,2113,FRIP,三重県,0,,-
 7th style,Let the Snow Paint Me,0,,-,404,BHO,三重県,841,SIN-Q,三重県,1228,HAGGER,三重県,0,,-
 7th style,Last Message,0,,-,830,ISENO,三重県,1207,SHANA,三重県,1615,FRIP,三重県,0,,-
 7th style,Happy Wedding,0,,-,1010,ISENO,三重県,1581,UIUI,三重県,1845,FRIP,三重県,0,,-
@@ -107,14 +107,14 @@
 7th style,D2R,0,,-,668,ISENO,三重県,1193,CIRNO9,三重県,1634,FRIP,三重県,0,,-
 7th style,Cheer Train,0,,-,662,CLAY0K,三重県,1019,MUGI,三重県,1737,FRIP,三重県,0,,-
 7th style,Burning Heat! (Full Option Mix),0,,-,417,BHO,三重県,875,MISA,三重県,1479,FRIP,三重県,0,,-
-7th style,Bad Routine,0,,-,982,T-TMY,三重県,1274,T-TMY,三重県,1892,T*CHA,三重県,0,,-
+7th style,Bad Routine,0,,-,982,T-TMY,三重県,1274,T-TMY,三重県,1914,FRIP,三重県,0,,-
 7th style,AVE DE RAPINA,0,,-,939,MOKO,三重県,1402,NYAN,三重県,1833,FRIP,三重県,0,,-
 7th style,A,0,,-,1112,2SALTY,三重県,1885,TR,三重県,2482,FRIP,三重県,0,,-
 8th style,蒼い衝動,0,,-,813,KRC,三重県,1296,FIA,三重県,1589,T*CHA,三重県,0,,-
 8th style,桜,0,,-,877,T-TMY,三重県,1496,RMASHI,三重県,2140,FRIP,三重県,0,,-
 8th style,xenon,0,,-,585,ENJU,三重県,1571,HERU2A,三重県,2731,FRIP,三重県,0,,-
 8th style,World Wide Love,0,,-,592,ISENO,三重県,810,MOKO,三重県,1114,.32,三重県,0,,-
-8th style,WAR GAME,0,,-,730,SYUN,三重県,1485,TAKUTO,三重県,2146,T*CHA,三重県,0,,-
+8th style,WAR GAME,0,,-,835,MOKO,三重県,1485,TAKUTO,三重県,2146,T*CHA,三重県,0,,-
 8th style,thunder,0,,-,865,RODOFO,三重県,1494,SHANA,三重県,1891,FRIP,三重県,0,,-
 8th style,symbolic,0,,-,1153,KRC,三重県,1662,NOHNA,三重県,2245,FRIP,三重県,0,,-
 8th style,rainbow flyer,0,,-,710,ZOMBIE,三重県,1646,HAGGER,三重県,2138,FRIP,三重県,0,,-
@@ -128,12 +128,12 @@
 8th style,LAB,0,,-,667,SYUN,三重県,1878,KOO.L,三重県,2125,FRIP,三重県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1196,SHANA,三重県,1800,KOO.L,三重県,2204,T*CHA,三重県,0,,-
 8th style,Halfway of promise,0,,-,872,YU-KI,三重県,1425,6262-R,三重県,1799,HAKU0,三重県,0,,-
-8th style,Giudecca,0,,-,433,BHO,三重県,1730,KOO.L,三重県,2677,FRIP,三重県,0,,-
+8th style,Giudecca,0,,-,433,BHO,三重県,1931,HAGGER,三重県,2677,FRIP,三重県,0,,-
 8th style,dual control,0,,-,556,MOKO,三重県,1342,KOO.L,三重県,1881,FRIP,三重県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,955,796,三重県,1731,MANY-F,三重県,2181,MAJIN!,三重県,0,,-
-8th style,CELEBRATE NITE,0,,-,829,YU-KI,三重県,1086,KOO.L,三重県,1413,FRIP,三重県,0,,-
+8th style,CELEBRATE NITE,0,,-,829,YU-KI,三重県,1124,RUDE,三重県,1413,FRIP,三重県,0,,-
 8th style,Blame,0,,-,943,ISENO,三重県,1435,KOO.L,三重県,1924,FRIP,三重県,0,,-
-8th style,bit mania,0,,-,897,KYURA,三重県,1091,6262-R,三重県,1855,T*CHA,三重県,0,,-
+8th style,bit mania,0,,-,897,KYURA,三重県,1091,6262-R,三重県,1861,FRIP,三重県,0,,-
 8th style,Attitude,0,,-,788,ISENO,三重県,1363,FIA,三重県,1746,FRIP,三重県,0,,-
 8th style,ALL RIGHT,0,,-,693,796,三重県,1270,MASSH.,三重県,1623,FRIP,三重県,0,,-
 8th style,airflow,0,,-,477,SIONPP,三重県,667,MUGI,三重県,1420,T*CHA,三重県,0,,-
@@ -141,15 +141,15 @@
 9th style,真夏の花・真夏の夢,0,,-,734,YU-KI,三重県,1065,MISA,三重県,1471,FRIP,三重県,0,,-
 9th style,ライオン好き,0,,-,595,MUGI,三重県,1015,SILVER,三重県,1497,T*CHA,三重県,0,,-
 9th style,SWEETEST SAVAGE,0,,-,0,,-,1087,METAL,三重県,1805,HAKU0,三重県,0,,-
-9th style,Sweet Sweet Magic,0,,-,795,SHNPCH,三重県,1243,HAM-1,三重県,2059,FRIP,三重県,0,,-
+9th style,Sweet Sweet Magic,0,,-,795,SHNPCH,三重県,1412,MASSH.,三重県,2059,FRIP,三重県,0,,-
 9th style,STAR FIELD,0,,-,635,MR.Q,三重県,1516,FIA,三重県,1888,FRIP,三重県,0,,-
 9th style,SNOW,0,,-,877,KRC,三重県,932,TYPN.,三重県,2054,FRIP,三重県,0,,-
 9th style,Silvia Drive,0,,-,757,T-TMY,三重県,1306,RE310,三重県,2064,FRIP,三重県,0,,-
 9th style,rottel-the-Mercury,0,,-,950,YU-KI,三重県,1870,KOO.L,三重県,2270,T*CHA,三重県,0,,-
 9th style,RISLIM -Remix-,0,,-,0,,-,702,SIN-Q,三重県,1891,FRIP,三重県,0,,-
 9th style,Really Love,0,,-,402,SONIC,三重県,795,2SALTY,三重県,1735,T*CHA,三重県,0,,-
-9th style,Quickening,0,,-,834,KRC,三重県,1684,RUDE,三重県,2089,FRIP,三重県,0,,-
-9th style,quasar,0,,-,1078,T-TMY,三重県,1731,FIA,三重県,2310,FRIP,三重県,0,,-
+9th style,Quickening,0,,-,834,KRC,三重県,1684,RUDE,三重県,2092,FRIP,三重県,0,,-
+9th style,quasar,0,,-,1078,T-TMY,三重県,1731,FIA,三重県,2315,FRIP,三重県,0,,-
 9th style,one or eight,0,,-,931,MAHOOO,三重県,1743,TAKUTO,三重県,2256,FRIP,三重県,0,,-
 9th style,moon_child,0,,-,916,796,三重県,1720,KOO.L,三重県,2514,HAKU0,三重県,0,,-
 9th style,MARIA (I believe... ),0,,-,512,MOKO,三重県,1402,SUSIE9,三重県,1952,FRIP,三重県,0,,-
@@ -159,7 +159,7 @@
 9th style,lights,0,,-,0,,-,714,MOKO,三重県,1792,FRIP,三重県,0,,-
 9th style,Karma,0,,-,1196,SYARO.,三重県,1599,KOO.L,三重県,1835,FRIP,三重県,0,,-
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,482,BHO,三重県,1331,RMASHI,三重県,1445,T*CHA,三重県,0,,-
-9th style,HYPER EUROBEAT (2DX style),0,,-,907,ISENO,三重県,1556,KOO.L,三重県,1958,FRIP,三重県,0,,-
+9th style,HYPER EUROBEAT (2DX style),0,,-,907,ISENO,三重県,1556,KOO.L,三重県,1965,FRIP,三重県,0,,-
 9th style,Golden Horn,0,,-,572,ISENO,三重県,1073,KOO.L,三重県,1512,FRIP,三重県,0,,-
 9th style,e-motion 2003  -romantic extra-,0,,-,758,HKTM--,三重県,1493,FIA,三重県,1995,FRIP,三重県,0,,-
 9th style,Distress,0,,-,1060,KRC,三重県,1784,T*CHA,三重県,0,,-,0,,-
@@ -170,54 +170,10 @@
 9th style,ATOMIC AGE,0,,-,355,YU-KI,三重県,627,SHANA,三重県,1313,FRIP,三重県,0,,-
 9th style,ACT,0,,-,885,796,三重県,1536,KOO.L,三重県,1856,FRIP,三重県,0,,-
 9th style,Abyss -The Heavens Remix-,553,SHANA,三重県,1295,6262-R,三重県,1702,459MTN,三重県,2361,FRIP,三重県,0,,-
-HAPPY SKY,月光,0,,-,794,MUGI,三重県,1715,FIA,三重県,2468,FRIP,三重県,0,,-
-HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1009,T-TMY,三重県,1452,HERU2A,三重県,1925,FRIP,三重県,0,,-
-HAPPY SKY,冥,558,SHANA,三重県,1021,CIRNO9,三重県,1994,ATOZ,三重県,3699,IIDX35,三重県,0,,-
-HAPPY SKY,ラクエン,0,,-,0,,-,789,2SALTY,三重県,1975,A4NAGA,三重県,0,,-
-HAPPY SKY,ヒマワリ,0,,-,359,GACKT,三重県,1824,CIRNO9,三重県,2076,FRIP,三重県,0,,-
-HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,655,SIN-Q,三重県,1347,HERU2A,三重県,1706,HAKU0,三重県,0,,-
-HAPPY SKY,Xepher,390,SHANA,三重県,1046,YU-KI,三重県,2050,TAKUTO,三重県,3013,FRIP,三重県,0,,-
-HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,482,GACKT,三重県,829,DESP,三重県,1669,FRIP,三重県,0,,-
-HAPPY SKY,Votum stellarum,0,,-,677,MLESKE,三重県,1545,FIA,三重県,2003,FRIP,三重県,0,,-
-HAPPY SKY,vault of heaven,0,,-,754,T-TMY,三重県,1318,SHANA,三重県,2000,FRIP,三重県,0,,-
-HAPPY SKY,Under the Sky,0,,-,816,SHION,三重県,1348,T-TMY,三重県,1737,FRIP,三重県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,1101,YU-KI,三重県,1416,HERU2A,三重県,2043,FRIP,三重県,3254,FRIP,三重県
-HAPPY SKY,Tizona d'El Cid,0,,-,834,YU-KI,三重県,1771,KOO.L,三重県,2328,FRIP,三重県,0,,-
-HAPPY SKY,SigSig,650,SHANA,三重県,1010,YU-KI,三重県,1638,HERU2A,三重県,2602,FRIP,三重県,0,,-
-HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1008,SIN-Q,三重県,1423,T-TMY,三重県,2133,FRIP,三重県,0,,-
-HAPPY SKY,Scripted Connection⇒ H mix,0,,-,998,RURI*,三重県,1896,TAKUTO,三重県,2510,FRIP,三重県,0,,-
-HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1076,RURI*,三重県,2101,CALM,三重県,3080,FRIP,三重県,3415,FRIP,三重県
-HAPPY SKY,SCREAM SQUAD,0,,-,837,YTJ,三重県,1509,459MTN,三重県,2062,FRIP,三重県,0,,-
-HAPPY SKY,rage against usual,0,,-,1087,YU-KI,三重県,1958,SYOTA,三重県,2953,FRIP,三重県,0,,-
-HAPPY SKY,POODLE,0,,-,841,KRC,三重県,1862,RUDE,三重県,2300,47MO.R,三重県,3366,FRIP,三重県
-HAPPY SKY,Pollinosis,0,,-,713,METAL,三重県,1136,FIA,三重県,2510,FRIP,三重県,0,,-
-HAPPY SKY,PLASMA,0,,-,618,GACKT,三重県,1540,HERU2A,三重県,2277,47MO.R,三重県,0,,-
-HAPPY SKY,Pink Rose,0,,-,539,SHION,三重県,877,METAL,三重県,1411,YUKITO,三重県,0,,-
-HAPPY SKY,MOON RACE,0,,-,793,T-TMY,三重県,1131,RUDE,三重県,1890,FRIP,三重県,0,,-
-HAPPY SKY,Love Magic,0,,-,715,P.,三重県,1612,KOO.L,三重県,1962,FRIP,三重県,0,,-
-HAPPY SKY,Little Little Princess,0,,-,1003,YU-KI,三重県,2091,KOO.L,三重県,2765,.32,三重県,3775,FRIP,三重県
-HAPPY SKY,LESSON 5,0,,-,895,K4GUR4,三重県,1618,T-TMY,三重県,2496,FRIP,三重県,0,,-
-HAPPY SKY,INAZUMA,0,,-,997,KOROLA,三重県,1690,NOHNA,三重県,2706,FRIP,三重県,0,,-
-HAPPY SKY,in motion,0,,-,735,ISENO,三重県,885,46,三重県,1306,.32,三重県,0,,-
-HAPPY SKY,I am,0,,-,959,ISENO,三重県,1649,SHANA,三重県,2162,FRIP,三重県,0,,-
-HAPPY SKY,HAPPY☆ANGEL,642,SHANA,三重県,922,ISENO,三重県,1504,HERU2A,三重県,2092,FRIP,三重県,0,,-
-HAPPY SKY,GREEN EYES,0,,-,929,SHANA,三重県,1485,SHANA,三重県,2227,FRIP,三重県,0,,-
-HAPPY SKY,Get'em up to R.A.V.E,0,,-,927,SIN-Q,三重県,1631,FIA,三重県,2290,FRIP,三重県,0,,-
-HAPPY SKY,garden,0,,-,819,YU-KI,三重県,1375,6262-R,三重県,2170,FRIP,三重県,0,,-
-HAPPY SKY,First Resolution,0,,-,665,796,三重県,1580,RUDE,三重県,2145,FRIP,三重県,0,,-
-HAPPY SKY,EMPTY OF THE SKY,0,,-,413,GACKT,三重県,699,SEERE,三重県,1685,T*CHA,三重県,0,,-
-HAPPY SKY,EDEN,0,,-,1134,YU-KI,三重県,1888,ZUN,三重県,2721,FRIP,三重県,0,,-
-HAPPY SKY,double thrash,0,,-,887,ISENO,三重県,1882,AGEPAS,三重県,2377,FRIP,三重県,0,,-
-HAPPY SKY,Catch Me,0,,-,655,MR.Q,三重県,1274,MIEKEN,三重県,1816,FRIP,三重県,0,,-
-HAPPY SKY,CaptivAte～浄化～,0,,-,641,MOKO,三重県,1674,KOO.L,三重県,2469,FRIP,三重県,0,,-
-HAPPY SKY,Aurora,0,,-,1160,6262-R,三重県,1956,KOO.L,三重県,2538,FRIP,三重県,0,,-
-HAPPY SKY,alla turca con passione,0,,-,740,YU-KI,三重県,1552,TAKUTO,三重県,2190,YUKITO,三重県,0,,-
-HAPPY SKY,Agnus Dei,0,,-,704,796,三重県,1657,YUKITO,三重県,2086,FRIP,三重県,0,,-
-HAPPY SKY,100％ minimoo-G,0,,-,607,MOKO,三重県,1609,KOO.L,三重県,1664,RMASHI,三重県,0,,-
 10th style,雪月花,0,,-,1100,T-TMY,三重県,1849,HAGGER,三重県,2506,FRIP,三重県,0,,-
 10th style,システムロマンス,0,,-,259,HI-,三重県,1341,46,三重県,2029,FRIP,三重県,0,,-
 10th style,SPACE FIGHT,0,,-,609,T-TMY,三重県,1353,SUSIE9,三重県,2239,FRIP,三重県,0,,-
-10th style,SHOOTING STAR,0,,-,1007,2SALTY,三重県,1585,KOO.L,三重県,2276,FRIP,三重県,0,,-
+10th style,SHOOTING STAR,0,,-,1128,T-TMY,三重県,1585,KOO.L,三重県,2276,FRIP,三重県,0,,-
 10th style,Rise'n Beauty,0,,-,1059,KRC,三重県,1489,KOO.L,三重県,2164,FRIP,三重県,0,,-
 10th style,rainbow rainbow,0,,-,1321,KRC,三重県,2146,K.E.N!,三重県,2711,FRIP,三重県,0,,-
 10th style,pandora,0,,-,518,RURI*,三重県,1536,SHANA,三重県,1845,FRIP,三重県,0,,-
@@ -225,9 +181,9 @@ HAPPY SKY,100％ minimoo-G,0,,-,607,MOKO,三重県,1609,KOO.L,三重県,1664,RMA
 10th style,No.13,0,,-,1589,K.E.N!,三重県,2433,TAKUTO,三重県,3165,FRIP,三重県,0,,-
 10th style,Narcissus At Oasis,0,,-,378,TORI13,三重県,1596,FRIP,三重県,1671,FRIP,三重県,0,,-
 10th style,Lucy,0,,-,937,MUSASI,三重県,1621,KOO.L,三重県,2319,FRIP,三重県,0,,-
-10th style,Love Is Eternity,0,,-,1045,YU-KI,三重県,1687,A2Z,三重県,2395,FRIP,三重県,0,,-
+10th style,Love Is Eternity,0,,-,1045,YU-KI,三重県,1749,TONE,三重県,2395,FRIP,三重県,0,,-
 10th style,Innocent Walls,0,,-,1464,NOHNA,三重県,2458,FRIP,三重県,2816,FRIP,三重県,0,,-
-10th style,HIGH,0,,-,881,MR.Q,三重県,1901,A4NAGA,三重県,2164,T*CHA,三重県,0,,-
+10th style,HIGH,0,,-,881,MR.Q,三重県,1904,FRIP,三重県,2164,T*CHA,三重県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,690,SYOTA,三重県,946,KOO.L,三重県,2114,FRIP,三重県,0,,-
 10th style,GHOST REVIVAL,0,,-,524,ENJU,三重県,1636,T*Z,三重県,2578,FRIP,三重県,0,,-
 10th style,Freezing atmosphere,0,,-,395,BHO,三重県,602,MOKO,三重県,1514,FRIP,三重県,0,,-
@@ -237,14 +193,14 @@ HAPPY SKY,100％ minimoo-G,0,,-,607,MOKO,三重県,1609,KOO.L,三重県,1664,RMA
 10th style,DoLL,341,SHANA,三重県,901,METAL,三重県,1189,JUICY!,三重県,1615,T*CHA,三重県,0,,-
 10th style,desolation,0,,-,417,SEERE,三重県,465,BHO,三重県,757,HAGGER,三重県,0,,-
 10th style,Debtty Daddy,0,,-,929,MUGI,三重県,1859,KOO.L,三重県,2704,FRIP,三重県,0,,-
-10th style,Daisuke,463,SHANA,三重県,1147,T-TMY,三重県,1641,RUDE,三重県,2396,FRIP,三重県,0,,-
+10th style,Daisuke,463,SHANA,三重県,1147,T-TMY,三重県,1659,RUDE,三重県,2396,FRIP,三重県,0,,-
 10th style,CARRY ON NIGHT (English version),0,,-,867,SIN-Q,三重県,1136,KAORIN,三重県,2050,FRIP,三重県,0,,-
 10th style,Boundary,0,,-,428,BHO,三重県,1564,10-4-!,三重県,2053,FRIP,三重県,0,,-
 10th style,Back Into The Light,0,,-,881,TAKATQ,三重県,1587,FIA,三重県,2163,47MO.R,三重県,0,,-
 10th style,BABY LOVE,0,,-,970,MOKO,三重県,1618,FIA,三重県,2159,FRIP,三重県,0,,-
 10th style,ASTRAL VOYAGE,0,,-,665,MOKO,三重県,1225,T-TMY,三重県,1924,FRIP,三重県,0,,-
 10th style,ALIEN TEMPLE,0,,-,901,YU-KI,三重県,1444,T-TMY,三重県,2024,FRIP,三重県,0,,-
-10th style,1st Samurai,0,,-,964,T-TMY,三重県,1983,MAJIN!,三重県,2662,FRIP,三重県,0,,-
+10th style,1st Samurai,0,,-,964,T-TMY,三重県,1986,FRIP,三重県,2662,FRIP,三重県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,854,YU-KI,三重県,1437,*LOVE*,三重県,1986,FRIP,三重県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,730,KRC,三重県,1257,213,三重県,1746,FRIP,三重県,0,,-
 IIDX RED,大桟橋,0,,-,248,ABC,三重県,0,,-,1861,FRIP,三重県,0,,-
@@ -264,7 +220,7 @@ IIDX RED,HORIZON,0,,-,0,,-,1526,RUDE,三重県,1968,T*CHA,三重県,0,,-
 IIDX RED,gigadelic,672,SHANA,三重県,1399,KOO.L,三重県,2164,FRIP,三重県,2511,.32,三重県,0,,-
 IIDX RED,GENOCIDE,0,,-,1022,T-TMY,三重県,1796,NOA.,三重県,2402,FRIP,三重県,0,,-
 IIDX RED,Fly Away To India,0,,-,0,,-,773,MOKO,三重県,1397,.32,三重県,0,,-
-IIDX RED,FAKE TIME,0,,-,931,METAL,三重県,1753,HAKU0,三重県,2332,YUKITO,三重県,0,,-
+IIDX RED,FAKE TIME,0,,-,934,T-TMY,三重県,1753,HAKU0,三重県,2332,YUKITO,三重県,0,,-
 IIDX RED,earth scape,0,,-,419,PA!,三重県,973,T-TMY,三重県,1271,FRIP,三重県,0,,-
 IIDX RED,Don't be afraid myself,0,,-,1014,YU-KI,三重県,1758,KOO.L,三重県,2277,FRIP,三重県,0,,-
 IIDX RED,D.A.N.C.E.!,0,,-,514,SIN-Q,三重県,756,T-TMY,三重県,1626,FRIP,三重県,0,,-
@@ -277,8 +233,52 @@ IIDX RED,awakening,0,,-,759,SEERE,三重県,1222,T-TMY,三重県,1712,T*CHA,三�
 IIDX RED,ANDROMEDA,0,,-,909,MR.Q,三重県,1886,RUDE,三重県,2872,FRIP,三重県,0,,-
 IIDX RED,AGEHA,581,SHANA,三重県,913,SIN-Q,三重県,1637,BONA,三重県,1884,FRIP,三重県,2425,FRIP,三重県
 IIDX RED,AA,0,,-,1124,YU-KI,三重県,2692,MAJIN!,三重県,3623,FRIP,三重県,0,,-
+HAPPY SKY,月光,0,,-,794,MUGI,三重県,1715,FIA,三重県,2468,FRIP,三重県,0,,-
+HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1009,T-TMY,三重県,1452,HERU2A,三重県,1925,FRIP,三重県,0,,-
+HAPPY SKY,冥,558,SHANA,三重県,1021,CIRNO9,三重県,1994,ATOZ,三重県,3699,IIDX35,三重県,0,,-
+HAPPY SKY,ラクエン,0,,-,0,,-,789,2SALTY,三重県,1975,A4NAGA,三重県,0,,-
+HAPPY SKY,ヒマワリ,0,,-,359,GACKT,三重県,1824,CIRNO9,三重県,2076,FRIP,三重県,0,,-
+HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,655,SIN-Q,三重県,1347,HERU2A,三重県,1706,HAKU0,三重県,0,,-
+HAPPY SKY,Xepher,390,SHANA,三重県,1046,YU-KI,三重県,2050,TAKUTO,三重県,3013,FRIP,三重県,0,,-
+HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,482,GACKT,三重県,829,DESP,三重県,1669,FRIP,三重県,0,,-
+HAPPY SKY,Votum stellarum,0,,-,677,MLESKE,三重県,1545,FIA,三重県,2003,FRIP,三重県,0,,-
+HAPPY SKY,vault of heaven,0,,-,754,T-TMY,三重県,1318,SHANA,三重県,2000,FRIP,三重県,0,,-
+HAPPY SKY,Under the Sky,0,,-,816,SHION,三重県,1348,T-TMY,三重県,1737,FRIP,三重県,0,,-
+HAPPY SKY,Twelfth Style,0,,-,1101,YU-KI,三重県,1416,HERU2A,三重県,2043,FRIP,三重県,3254,FRIP,三重県
+HAPPY SKY,Tizona d'El Cid,0,,-,834,YU-KI,三重県,1771,KOO.L,三重県,2328,FRIP,三重県,0,,-
+HAPPY SKY,SigSig,650,SHANA,三重県,1010,YU-KI,三重県,1638,HERU2A,三重県,2602,FRIP,三重県,0,,-
+HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1008,SIN-Q,三重県,1423,T-TMY,三重県,2133,FRIP,三重県,0,,-
+HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1106,K4GUR4,三重県,1896,TAKUTO,三重県,2510,FRIP,三重県,0,,-
+HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1076,RURI*,三重県,2101,CALM,三重県,3080,FRIP,三重県,3415,FRIP,三重県
+HAPPY SKY,SCREAM SQUAD,0,,-,886,K4GUR4,三重県,1509,459MTN,三重県,2062,FRIP,三重県,0,,-
+HAPPY SKY,rage against usual,0,,-,1087,YU-KI,三重県,1958,SYOTA,三重県,2953,FRIP,三重県,0,,-
+HAPPY SKY,POODLE,0,,-,841,KRC,三重県,1862,RUDE,三重県,2300,47MO.R,三重県,3378,FRIP,三重県
+HAPPY SKY,Pollinosis,0,,-,713,METAL,三重県,1136,FIA,三重県,2510,FRIP,三重県,0,,-
+HAPPY SKY,PLASMA,0,,-,618,GACKT,三重県,1540,HERU2A,三重県,2277,47MO.R,三重県,0,,-
+HAPPY SKY,Pink Rose,0,,-,539,SHION,三重県,877,METAL,三重県,1411,YUKITO,三重県,0,,-
+HAPPY SKY,MOON RACE,0,,-,793,T-TMY,三重県,1131,RUDE,三重県,1890,FRIP,三重県,0,,-
+HAPPY SKY,Love Magic,0,,-,715,P.,三重県,1612,KOO.L,三重県,1962,FRIP,三重県,0,,-
+HAPPY SKY,Little Little Princess,0,,-,1003,YU-KI,三重県,2091,KOO.L,三重県,2765,.32,三重県,3775,FRIP,三重県
+HAPPY SKY,LESSON 5,0,,-,895,K4GUR4,三重県,1618,T-TMY,三重県,2496,FRIP,三重県,0,,-
+HAPPY SKY,INAZUMA,0,,-,997,KOROLA,三重県,1690,NOHNA,三重県,2706,FRIP,三重県,0,,-
+HAPPY SKY,in motion,0,,-,735,ISENO,三重県,885,46,三重県,1306,.32,三重県,0,,-
+HAPPY SKY,I am,0,,-,959,ISENO,三重県,1649,SHANA,三重県,2162,FRIP,三重県,0,,-
+HAPPY SKY,HAPPY☆ANGEL,642,SHANA,三重県,922,ISENO,三重県,1504,HERU2A,三重県,2092,FRIP,三重県,0,,-
+HAPPY SKY,GREEN EYES,0,,-,929,SHANA,三重県,1485,SHANA,三重県,2227,FRIP,三重県,0,,-
+HAPPY SKY,Get'em up to R.A.V.E,0,,-,927,SIN-Q,三重県,1631,FIA,三重県,2290,FRIP,三重県,0,,-
+HAPPY SKY,garden,0,,-,819,YU-KI,三重県,1375,6262-R,三重県,2170,FRIP,三重県,0,,-
+HAPPY SKY,First Resolution,0,,-,665,796,三重県,1580,RUDE,三重県,2145,FRIP,三重県,0,,-
+HAPPY SKY,EMPTY OF THE SKY,0,,-,413,GACKT,三重県,892,ISENO,三重県,1685,T*CHA,三重県,0,,-
+HAPPY SKY,EDEN,0,,-,1134,YU-KI,三重県,1888,ZUN,三重県,2721,FRIP,三重県,0,,-
+HAPPY SKY,double thrash,0,,-,887,ISENO,三重県,1882,AGEPAS,三重県,2377,FRIP,三重県,0,,-
+HAPPY SKY,Catch Me,0,,-,655,MR.Q,三重県,1274,MIEKEN,三重県,1816,FRIP,三重県,0,,-
+HAPPY SKY,CaptivAte～浄化～,0,,-,742,SYUN,三重県,1686,RIVER*,三重県,2469,FRIP,三重県,0,,-
+HAPPY SKY,Aurora,0,,-,1160,6262-R,三重県,1956,KOO.L,三重県,2538,FRIP,三重県,0,,-
+HAPPY SKY,alla turca con passione,0,,-,740,YU-KI,三重県,1552,TAKUTO,三重県,2190,YUKITO,三重県,0,,-
+HAPPY SKY,Agnus Dei,0,,-,704,796,三重県,1657,YUKITO,三重県,2086,FRIP,三重県,0,,-
+HAPPY SKY,100％ minimoo-G,0,,-,607,MOKO,三重県,1609,KOO.L,三重県,1664,RMASHI,三重県,0,,-
 DistorteD,虹色,0,,-,640,MOKO,三重県,1469,HERU2A,三重県,1847,FRIP,三重県,0,,-
-DistorteD,華蝶風雪,0,,-,1156,N8N,三重県,2009,KOO.L,三重県,2958,FRIP,三重県,0,,-
+DistorteD,華蝶風雪,0,,-,1156,N8N,三重県,2009,KOO.L,三重県,2966,YUKITO,三重県,0,,-
 DistorteD,罠,0,,-,393,TUVO,三重県,1478,10-4-!,三重県,2459,T*CHA,三重県,0,,-
 DistorteD,嘆きの樹,0,,-,1644,6262-R,三重県,2499,MAJIN!,三重県,3886,FRIP,三重県,0,,-
 DistorteD,タシカナモノ,0,,-,844,796,三重県,1235,46,三重県,2033,FRIP,三重県,0,,-
@@ -289,34 +289,34 @@ DistorteD,WISH(EUROBEAT MIX),0,,-,859,ISENO,三重県,1370,10-4-!,三重県,1973
 DistorteD,Why did you go away,617,SHANA,三重県,985,SHION,三重県,1695,HERU2A,三重県,2316,FRIP,三重県,0,,-
 DistorteD,waxing and wanding,0,,-,1182,T-TMY,三重県,1947,KYURA,三重県,2889,FRIP,三重県,3954,FRIP,三重県
 DistorteD,TYPE MARS(G-Style Mix),0,,-,119,2022Q,三重県,1678,KOO.L,三重県,2414,FRIP,三重県,0,,-
-DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,873,M-HK.S,三重県,1893,K.E.N!,三重県,2454,FRIP,三重県,0,,-
+DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,873,M-HK.S,三重県,1893,K.E.N!,三重県,2466,FRIP,三重県,0,,-
 DistorteD,This is Love,0,,-,845,KRC,三重県,1611,6262-R,三重県,2482,FRIP,三重県,0,,-
 DistorteD,The Dirty of Loudness,0,,-,1239,KRC,三重県,2019,QUERY,三重県,2630,FRIP,三重県,0,,-
 DistorteD,Sun Field,0,,-,0,,-,1474,FIA,三重県,2429,FRIP,三重県,0,,-
 DistorteD,So Fabulous !!,0,,-,612,HIMAYA,三重県,1534,RUDE,三重県,2357,FRIP,三重県,0,,-
 DistorteD,Power of Love,0,,-,0,,-,1436,MUGI,三重県,2135,FRIP,三重県,0,,-
-DistorteD,MOON,0,,-,628,MOKO,三重県,1859,SUISEI,三重県,2210,FRIP,三重県,0,,-
+DistorteD,MOON,0,,-,726,SHION,三重県,1859,SUISEI,三重県,2210,FRIP,三重県,0,,-
 DistorteD,MINT,0,,-,539,MOKO,三重県,1657,ARARA,三重県,2300,FRIP,三重県,0,,-
 DistorteD,Leaving...,0,,-,677,ISENO,三重県,1389,K.E.N!,三重県,2216,FRIP,三重県,0,,-
 DistorteD,INFERNO,0,,-,1145,K.E.N!,三重県,1160,FINE*,三重県,1991,FRIP,三重県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,639,SIN-Q,三重県,1549,RUDE,三重県,2108,FRIP,三重県,0,,-
 DistorteD,Harmony and Lovely,0,,-,808,YUKI,三重県,1765,HAGGER,三重県,2230,FRIP,三重県,0,,-
 DistorteD,Ganymede,0,,-,911,MAHOOO,三重県,1575,ATOZ,三重県,2319,FRIP,三重県,2552,FRIP,三重県
-DistorteD,EURO-ROMANCE,0,,-,926,T-TMY,三重県,1680,SHANA,三重県,2096,FRIP,三重県,0,,-
+DistorteD,EURO-ROMANCE,0,,-,926,T-TMY,三重県,1689,MASSH.,三重県,2096,FRIP,三重県,0,,-
 DistorteD,DUE TOMORROW,0,,-,788,SHANA,三重県,1156,SHANA,三重県,2007,FRIP,三重県,0,,-
 DistorteD,Double Loving Heart,0,,-,533,KRC,三重県,1253,WISTIA,三重県,1808,YUKITO,三重県,0,,-
 DistorteD,D.C.fish,0,,-,854,796,三重県,1776,MUSASI,三重県,2340,FRIP,三重県,0,,-
-DistorteD,CONTRACT,0,,-,1155,6262-R,三重県,1471,CIRNO9,三重県,2043,HAKU0,三重県,2751,FRIP,三重県
+DistorteD,CONTRACT,0,,-,1155,6262-R,三重県,1471,CIRNO9,三重県,2068,FRIP,三重県,2751,FRIP,三重県
 DistorteD,Concertino in Blue,362,SHANA,三重県,626,NANIKA,三重県,1619,MKRN.,三重県,2471,FRIP,三重県,0,,-
 DistorteD,Broadbanded,0,,-,862,METAL,三重県,1331,FIA,三重県,1990,.32,三重県,0,,-
 DistorteD,BOOM BOOM DISCO NIGHT,0,,-,864,ISENO,三重県,1658,SHANA,三重県,2284,FRIP,三重県,0,,-
 DistorteD,Bloody Tears(IIDX EDITION),0,,-,1060,YU-KI,三重県,1876,KOO.L,三重県,2175,FRIP,三重県,0,,-
 DistorteD,BALLAD THE FEATHERS,0,,-,506,MOKO,三重県,1058,JUICY!,三重県,1511,FRIP,三重県,0,,-
-DistorteD,Apocalypse ～dirge of swans～,234,SHANA,三重県,970,MOR1TA,三重県,1479,JUICY!,三重県,2411,FRIP,三重県,0,,-
+DistorteD,Apocalypse ～dirge of swans～,234,SHANA,三重県,970,MOR1TA,三重県,1581,MASSH.,三重県,2411,FRIP,三重県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,427,6262-R,三重県,1021,YU-KI,三重県,1621,FIA,三重県,2090,FRIP,三重県,0,,-
 GOLD,電人、暁に斃れる。,649,SHANA,三重県,1232,METAL,三重県,2153,KOO.L,三重県,3383,FRIP,三重県,0,,-
 GOLD,零 - ZERO -,214,SHANA,三重県,1156,MOR1TA,三重県,1693,HERU2A,三重県,2310,FRIP,三重県,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,681,YU-KI,三重県,1056,HERU2A,三重県,1429,FRIP,三重県,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,681,YU-KI,三重県,1107,RUDE,三重県,1429,FRIP,三重県,0,,-
 GOLD,星をこの手に,0,,-,1104,METAL,三重県,1632,HERU2A,三重県,2182,FRIP,三重県,0,,-
 GOLD,リグレット,0,,-,1213,YU-KI,三重県,1766,FRIP,三重県,2429,FRIP,三重県,0,,-
 GOLD,ヨシダさん,0,,-,852,DESP,三重県,1411,UIUI,三重県,1966,.32,三重県,0,,-
@@ -325,11 +325,11 @@ GOLD,With your Smile,0,,-,549,ENJU,三重県,1137,T-TMY,三重県,1571,FRIP,三�
 GOLD,Watch out!!,0,,-,616,SIN-Q,三重県,983,FIA,三重県,1596,NONNKE,三重県,0,,-
 GOLD,VANESSA,0,,-,914,KAORIN,三重県,1821,FRIP,三重県,2400,FRIP,三重県,3344,FRIP,三重県
 GOLD,TRANOID,0,,-,718,SYARO.,三重県,1543,KOKKUN,三重県,2261,FRIP,三重県,2921,IIDX35,三重県
-GOLD,The Smile of You,0,,-,819,SIONPP,三重県,1278,HERU2A,三重県,1624,FLRD.,三重県,0,,-
+GOLD,The Smile of You,0,,-,849,SHION,三重県,1278,HERU2A,三重県,1624,FLRD.,三重県,0,,-
 GOLD,the shadow,0,,-,1109,MR.Q,三重県,1865,HAM,三重県,2915,FRIP,三重県,0,,-
-GOLD,snow storm,234,SHANA,三重県,713,SYARO.,三重県,2014,HERU2A,三重県,2769,FRIP,三重県,3384,FRIP,三重県
+GOLD,snow storm,234,SHANA,三重県,713,SYARO.,三重県,2014,HERU2A,三重県,2776,FRIP,三重県,3384,FRIP,三重県
 GOLD,smile,0,,-,1402,NOHNA,三重県,2071,KOO.L,三重県,2891,FRIP,三重県,0,,-
-GOLD,Sense 2007,0,,-,1393,WHITE.,三重県,2090,DANPA,三重県,2918,FRIP,三重県,0,,-
+GOLD,Sense 2007,0,,-,1393,WHITE.,三重県,2110,RMASHI,三重県,2918,FRIP,三重県,0,,-
 GOLD,Second Heaven,220,SHANA,三重県,809,ISENO,三重県,1505,FIA,三重県,2116,FRIP,三重県,0,,-
 GOLD,Roulette,0,,-,848,YU-KI,三重県,1360,SHANA,三重県,2110,FRIP,三重県,0,,-
 GOLD,PHOTONGENIC,0,,-,592,GLAK,三重県,1828,KOO.L,三重県,2314,YUKITO,三重県,0,,-
@@ -340,7 +340,7 @@ GOLD,Make Me Your Own,0,,-,0,,-,1517,KOO.L,三重県,2151,FRIP,三重県,0,,-
 GOLD,Love Again...,0,,-,354,RURI*,三重県,701,ISENO,三重県,1069,.32,三重県,0,,-
 GOLD,LASER CRUSTER,0,,-,1267,2SALTY,三重県,2445,FRIP,三重県,3210,FRIP,三重県,0,,-
 GOLD,KAMAITACHI,0,,-,1107,DESP,三重県,1940,KOO.L,三重県,2712,FRIP,三重県,3771,FRIP,三重県
-GOLD,INORI,0,,-,1058,SEERE,三重県,2476,FIA,三重県,3141,FRIP,三重県,0,,-
+GOLD,INORI,0,,-,1058,SEERE,三重県,2476,FIA,三重県,3147,FRIP,三重県,0,,-
 GOLD,High School Love,388,SHANA,三重県,830,YU-KI,三重県,1434,T-TMY,三重県,2204,T*CHA,三重県,0,,-
 GOLD,heaven above,0,,-,0,,-,1318,WISTIA,三重県,1850,FRIP,三重県,0,,-
 GOLD,GRID KNIGHT,0,,-,478,RURI*,三重県,1846,TAKUTO,三重県,2612,T*CHA,三重県,3467,FRIP,三重県
@@ -357,16 +357,16 @@ GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1209,METAL,三重県,18
 GOLD,ANDROMEDA II,0,,-,835,SIN-Q,三重県,1769,FIA,三重県,2482,FRIP,三重県,0,,-
 GOLD,Air Bell,0,,-,762,796,三重県,1182,T-TMY,三重県,1727,FRIP,三重県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,410,SEERE,三重県,902,UIUI,三重県,1338,TAKUTO,三重県,0,,-
-DJ TROOPERS,華爛漫 -Flowers-,321,SHANA,三重県,982,FIA,三重県,1531,HERU2A,三重県,2051,FRIP,三重県,0,,-
+DJ TROOPERS,華爛漫 -Flowers-,321,SHANA,三重県,982,FIA,三重県,1531,HERU2A,三重県,2054,FRIP,三重県,0,,-
 DJ TROOPERS,少年A,0,,-,1086,KRC,三重県,1859,R2,三重県,2793,FRIP,三重県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,792,MOKO,三重県,1991,KOO.L,三重県,2665,FRIP,三重県,0,,-
 DJ TROOPERS,マチ子の唄,0,,-,702,MOKO,三重県,1240,T-TMY,三重県,1792,HAGGER,三重県,0,,-
-DJ TROOPERS,エコ爺,337,SHANA,三重県,702,ISENO,三重県,1099,ISENO,三重県,1830,FRIP,三重県,0,,-
+DJ TROOPERS,エコ爺,337,SHANA,三重県,702,ISENO,三重県,1099,ISENO,三重県,1831,HAKU0,三重県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,592,MOKO,三重県,1146,FIA,三重県,1519,FRIP,三重県,2582,HAKU0,三重県
 DJ TROOPERS,Ubertreffen,0,,-,1008,TODE,三重県,1968,MAJIN!,三重県,2514,FRIP,三重県,3261,FRIP,三重県
 DJ TROOPERS,TROOPERS,0,,-,1164,METAL,三重県,2273,KOO.L,三重県,2946,FRIP,三重県,0,,-
 DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,643,YU-KI,三重県,1515,KOO.L,三重県,1846,FRIP,三重県,0,,-
-DJ TROOPERS,Time to Air,0,,-,1099,4DUK1H,三重県,2030,KOO.L,三重県,2872,FRIP,三重県,3571,FRIP,三重県
+DJ TROOPERS,Time to Air,0,,-,1099,4DUK1H,三重県,2030,KOO.L,三重県,2884,FRIP,三重県,3571,FRIP,三重県
 DJ TROOPERS,the trigger of innocence,0,,-,723,SIONPP,三重県,1173,10-4-!,三重県,1844,FRIP,三重県,3109,FRIP,三重県
 DJ TROOPERS,THE DEEP STRIKER,519,SHANA,三重県,907,GIL,三重県,2118,KOO.L,三重県,3008,FRIP,三重県,3493,FRIP,三重県
 DJ TROOPERS,switch,0,,-,651,P.,三重県,1398,KOO.L,三重県,2092,FRIP,三重県,0,,-
@@ -389,10 +389,10 @@ DJ TROOPERS,MENDES,0,,-,1061,T-TMY,三重県,2553,A4NAGA,三重県,3558,FRIP,三
 DJ TROOPERS,MAX LOVE,0,,-,1290,KRC,三重県,2107,KOO.L,三重県,2681,FRIP,三重県,0,,-
 DJ TROOPERS,madrugada,0,,-,672,SHANA,三重県,1164,FIA,三重県,1860,FRIP,三重県,0,,-
 DJ TROOPERS,LOVELY STORM,0,,-,1135,MUGI,三重県,1977,CIRNO9,三重県,2847,FRIP,三重県,0,,-
-DJ TROOPERS,Kick Out 仮面,0,,-,0,,-,1512,FIA,三重県,2032,FRIP,三重県,0,,-
-DJ TROOPERS,in the Sky,0,,-,1321,NOHNA,三重県,2024,KOO.L,三重県,2541,FRIP,三重県,0,,-
+DJ TROOPERS,Kick Out 仮面,0,,-,1102,SHION,三重県,1512,FIA,三重県,2032,FRIP,三重県,0,,-
+DJ TROOPERS,in the Sky,0,,-,1321,NOHNA,三重県,2024,KOO.L,三重県,2547,FRIP,三重県,0,,-
 DJ TROOPERS,ICARUS,0,,-,1066,YTJ,三重県,1660,4RM0R7,三重県,2417,FRIP,三重県,3623,FRIP,三重県
-DJ TROOPERS,Freeway Shuffle,336,SHANA,三重県,704,MOKO,三重県,1273,HAGGER,三重県,1871,FRIP,三重県,0,,-
+DJ TROOPERS,Freeway Shuffle,336,SHANA,三重県,704,MOKO,三重県,1273,HAGGER,三重県,1876,FRIP,三重県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,533,SEPT,三重県,1570,KOO.L,三重県,2325,FRIP,三重県,0,,-
 DJ TROOPERS,end of world,0,,-,669,KRO,三重県,1669,HERU2A,三重県,2502,FRIP,三重県,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,885,6262-R,三重県,1244,WISTIA,三重県,1915,FRIP,三重県,0,,-
@@ -401,64 +401,12 @@ DJ TROOPERS,Dazzlin' Darlin,339,SHANA,三重県,828,DESP,三重県,1396,MA,三�
 DJ TROOPERS,Darling my LUV,0,,-,616,YU-KI,三重県,805,MOKO,三重県,1387,T*CHA,三重県,0,,-
 DJ TROOPERS,Blue Rain,331,6262-R,三重県,736,SEERE,三重県,1543,FIA,三重県,2267,HAKU0,三重県,3311,HAKU0,三重県
 DJ TROOPERS,beatonic nation,0,,-,1066,PYU,三重県,1787,FIA,三重県,2165,FRIP,三重県,0,,-
-DJ TROOPERS,Be OK,0,,-,859,MUGI,三重県,1659,FIA,三重県,2409,FRIP,三重県,3307,FRIP,三重県
+DJ TROOPERS,Be OK,0,,-,859,MUGI,三重県,1663,MASSH.,三重県,2409,FRIP,三重県,3307,FRIP,三重県
 DJ TROOPERS,avant-guerre,0,,-,608,ISENO,三重県,1189,T-TMY,三重県,1945,FRIP,三重県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1086,TAKATQ,三重県,1989,CALM,三重県,2866,FRIP,三重県,3812,FRIP,三重県
-DJ TROOPERS,2 tribe 4 K,0,,-,846,YU-KI,三重県,1198,METAL,三重県,2770,FRIP,三重県,0,,-
-SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,580,MLESKE,三重県,1528,SHANA,三重県,2094,FRIP,三重県,0,,-
-SIRIUS,未来のプリズム,0,,-,343,SHELFA,三重県,1282,JUICY!,三重県,1778,FRIP,三重県,0,,-
-SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1263,A4NAGA,三重県,2166,T*CHA,三重県,3194,NONNKE,三重県,0,,-
-SIRIUS,バビロニア,0,,-,707,ENJU,三重県,1142,ISENO,三重県,1860,FRIP,三重県,0,,-
-SIRIUS,サヨナラ・ヘヴン,358,SHANA,三重県,711,ENJU,三重県,1304,FIA,三重県,1683,FRIP,三重県,0,,-
-SIRIUS,コスモス,0,,-,866,YU-KI,三重県,1512,MA,三重県,2094,47MO.R,三重県,0,,-
-SIRIUS,たからもの,0,,-,1093,796,三重県,1824,HERU2A,三重県,2237,T*CHA,三重県,0,,-
-SIRIUS,かずあそび,0,,-,490,ISENO,三重県,1146,HERU2A,三重県,1680,MA,三重県,0,,-
-SIRIUS,The Story Begins,0,,-,436,TORI13,三重県,1705,HERU2A,三重県,2423,FRIP,三重県,0,,-
-SIRIUS,THE LAST STRIKER,0,,-,814,ENJU,三重県,1830,HERU2A,三重県,2632,FRIP,三重県,0,,-
-SIRIUS,Special One,0,,-,710,ISENO,三重県,904,RODOFO,三重県,1779,FRIP,三重県,0,,-
-SIRIUS,Sorrows,0,,-,776,YU-KI,三重県,1595,10-4-!,三重県,2476,T*CHA,三重県,0,,-
-SIRIUS,SOLID STATE SQUAD,0,,-,926,KRC,三重県,2111,KOO.L,三重県,3571,FRIP,三重県,3623,FRIP,三重県
-SIRIUS,She is my wife,394,SHANA,三重県,554,SHION,三重県,1455,KOO.L,三重県,1982,FRIP,三重県,0,,-
-SIRIUS,Session 1 -Genesis-,0,,-,569,ENJU,三重県,1512,KOO.L,三重県,2457,FRIP,三重県,0,,-
-SIRIUS,Roots of my way!,0,,-,404,HARU,三重県,1289,JUICY!,三重県,2045,FRIP,三重県,0,,-
-SIRIUS,Red. by Full Metal Jacket,0,,-,967,CIRNO9,三重県,2032,KOO.L,三重県,3137,FRIP,三重県,0,,-
-SIRIUS,Raison d'etre～交差する宿命～,0,,-,1176,FELT,三重県,2284,MAJIN!,三重県,2744,FRIP,三重県,0,,-
-SIRIUS,quell～the seventh slave～,0,,-,426,AMINO?,三重県,1734,DEV,三重県,3161,FRIP,三重県,0,,-
-SIRIUS,Programmed Sun,0,,-,0,,-,1760,FIA,三重県,2567,HAKU0,三重県,0,,-
-SIRIUS,NoN-Fiction Story!,0,,-,690,YU-KI,三重県,1372,HAGGER,三重県,2207,FRIP,三重県,0,,-
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1080,DESP,三重県,1945,KOO.L,三重県,2650,FRIP,三重県,0,,-
-SIRIUS,mosaic,0,,-,1234,2SALTY,三重県,2036,HAKU0,三重県,3017,T*CHA,三重県,0,,-
-SIRIUS,MIRACLE MEETS,0,,-,871,YU-KI,三重県,1552,HAGGER,三重県,2224,FRIP,三重県,0,,-
-SIRIUS,Light Shine,0,,-,641,SEERE,三重県,1143,HAGGER,三重県,1962,FRIP,三重県,0,,-
-SIRIUS,Last Burning,0,,-,0,,-,1495,10-4-!,三重県,2368,FRIP,三重県,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,873,ISENO,三重県,1612,TAKUTO,三重県,1870,47MO.R,三重県,0,,-
-SIRIUS,IN THE NAME OF LOVE,526,SHANA,三重県,636,YUHA,三重県,1311,R10000,三重県,1920,HAKU0,三重県,0,,-
-SIRIUS,Hydrogen Blueback,0,,-,801,KUNUGI,三重県,1590,SHANA,三重県,2319,FRIP,三重県,0,,-
-SIRIUS,GOLDEN CROSS,0,,-,1057,METAL,三重県,2096,HAGGER,三重県,3484,FRIP,三重県,0,,-
-SIRIUS,GALGALIM,0,,-,967,MOKO,三重県,1606,IIDX30,三重県,2373,FRIP,三重県,0,,-
-SIRIUS,G59,0,,-,1372,SIN-Q,三重県,2224,CALM,三重県,3937,FRIP,三重県,0,,-
-SIRIUS,EXUSIA,0,,-,1156,T-TMY,三重県,2737,HAKU0,三重県,3863,FRIP,三重県,0,,-
-SIRIUS,Evans,589,SHANA,三重県,1164,FEDKIA,三重県,2182,FU-,三重県,2825,FRIP,三重県,0,,-
-SIRIUS,eRAseRmOToRpHAntOM,0,,-,365,SAKA,三重県,2202,KEN,三重県,3278,FRIP,三重県,0,,-
-SIRIUS,Empire State Glory,0,,-,500,KITT,三重県,1734,FIA,三重県,2636,FRIP,三重県,0,,-
-SIRIUS,Elisha,398,46,三重県,670,M-HK.S,三重県,1416,KOO.L,三重県,2282,FRIP,三重県,0,,-
-SIRIUS,DROP,0,,-,727,SIN-Q,三重県,2043,TAKUTO,三重県,2626,FRIP,三重県,0,,-
-SIRIUS,DOMINION,0,,-,913,GIL,三重県,2280,KOO.L,三重県,3199,FRIP,三重県,0,,-
-SIRIUS,DESIRE,0,,-,665,MOKO,三重県,1766,HERU2A,三重県,2861,FRIP,三重県,0,,-
-SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,629,33*AS,三重県,1446,K.E.N!,三重県,2088,47MO.R,三重県,0,,-
-SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1462,RE310,三重県,2545,KOO.L,三重県,3130,FRIP,三重県,0,,-
-SIRIUS,D,0,,-,1174,2SALTY,三重県,1718,KYURA,三重県,2559,FRIP,三重県,0,,-
-SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,907,4DUK1H,三重県,1503,SHANA,三重県,2444,FRIP,三重県,0,,-
-SIRIUS,bloomin' feeling,384,SHANA,三重県,1254,MOR1TA,三重県,1923,KYURA,三重県,2599,FRIP,三重県,0,,-
-SIRIUS,being torn the sky,0,,-,498,BHO,三重県,1098,MAHOOO,三重県,1982,YUKITO,三重県,0,,-
-SIRIUS,BEAUTIFUL ANGEL,0,,-,507,B,三重県,1668,SHANA,三重県,2482,FRIP,三重県,0,,-
-SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,933,SHION,三重県,1553,HERU2A,三重県,2013,T*CHA,三重県,0,,-
-SIRIUS,bass 2 bass,271,SHANA,三重県,682,YU-KI,三重県,1262,MA,三重県,1896,YUKITO,三重県,0,,-
-SIRIUS,Bad Maniacs,0,,-,1187,ALPHA,三重県,1699,KOO.L,三重県,3225,FRIP,三重県,0,,-
-SIRIUS,Almagest,0,,-,925,T-TMY,三重県,2181,YUKITO,三重県,3106,FRIP,三重県,0,,-
-SIRIUS,AIR RAID FROM THA UNDAGROUND,527,SHANA,三重県,1075,YU-KI,三重県,1653,KOO.L,三重県,2303,HAKU0,三重県,2972,FRIP,三重県
+DJ TROOPERS,2 tribe 4 K,0,,-,846,YU-KI,三重県,1225,T-TMY,三重県,2770,FRIP,三重県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,876,SHION,三重県,1605,FIA,三重県,2181,FRIP,三重県,0,,-
-EMPRESS,翼,0,,-,775,SHION,三重県,1513,MA,三重県,1969,47MO.R,三重県,2505,FRIP,三重県
+EMPRESS,翼,0,,-,817,SIONPP,三重県,1513,MA,三重県,1969,47MO.R,三重県,2505,FRIP,三重県
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,608,ISENO,三重県,1312,MOCHI*,三重県,2054,FRIP,三重県,0,,-
 EMPRESS,天空脳番長危機十六連打,0,,-,763,RODOFO,三重県,1974,FIA,三重県,2611,FRIP,三重県,0,,-
 EMPRESS,卑弥呼,0,,-,1114,HAM,三重県,2705,47MO.R,三重県,3988,FRIP,三重県,0,,-
@@ -480,14 +428,14 @@ EMPRESS,Punch Love 仮面,0,,-,1065,YU-KI,三重県,1636,HERU2A,三重県,2520,F
 EMPRESS,Programmed World,0,,-,751,ISENO,三重県,1570,NEARCO,三重県,2301,FRIP,三重県,0,,-
 EMPRESS,NΦ CRIME,282,SHANA,三重県,764,YU-KI,三重県,1410,FIA,三重県,1896,FRIP,三重県,0,,-
 EMPRESS,neogenesis,0,,-,632,ENJU,三重県,1252,10-4-!,三重県,1715,FRIP,三重県,0,,-
-EMPRESS,naughty girl@Queen's Palace,0,,-,826,T-TMY,三重県,1588,FIA,三重県,2111,FRIP,三重県,2649,HAKU0,三重県
+EMPRESS,naughty girl@Queen's Palace,0,,-,826,T-TMY,三重県,1588,FIA,三重県,2111,FRIP,三重県,2657,HAKU0,三重県
 EMPRESS,Monkey Dance '09,0,,-,754,796,三重県,1632,SHANA,三重県,2266,FRIP,三重県,0,,-
-EMPRESS,Mind Mapping,494,SHANA,三重県,777,MR.Q,三重県,1138,MISA,三重県,1824,FRIP,三重県,2243,FRIP,三重県
+EMPRESS,Mind Mapping,494,SHANA,三重県,777,MR.Q,三重県,1138,MISA,三重県,1831,FRIP,三重県,2243,FRIP,三重県
 EMPRESS,Kung-fu Empire,0,,-,1128,MIKE,三重県,2516,KOO.L,三重県,3262,FRIP,三重県,3906,FRIP,三重県
 EMPRESS,Just a Little Smile,0,,-,545,BHO,三重県,1357,YUKITO,三重県,2440,HAKU0,三重県,0,,-
 EMPRESS,Jack,0,,-,660,ENJU,三重県,1317,KOO.L,三重県,2162,T*CHA,三重県,0,,-
-EMPRESS,I'm Screaming LOVE,0,,-,520,P.,三重県,1236,METAL,三重県,1689,HAKU0,三重県,0,,-
-EMPRESS,HYPERION,0,,-,991,DESP,三重県,1745,HIRA,三重県,2730,FRIP,三重県,0,,-
+EMPRESS,I'm Screaming LOVE,0,,-,565,SHION,三重県,1236,METAL,三重県,1689,HAKU0,三重県,0,,-
+EMPRESS,HYPERION,0,,-,991,DESP,三重県,1745,HIRA,三重県,2745,FRIP,三重県,0,,-
 EMPRESS,Go Beyond!!,512,SHANA,三重県,928,YU-KI,三重県,1687,KYURA,三重県,2166,HAKU0,三重県,0,,-
 EMPRESS,Fly Above,0,,-,904,METAL,三重県,1526,SUISEI,三重県,2028,T*CHA,三重県,0,,-
 EMPRESS,Flash Back 90's,0,,-,820,SHION,三重県,1730,SHANA,三重県,2342,FRIP,三重県,0,,-
@@ -502,6 +450,58 @@ EMPRESS,Arabian Rave Night,0,,-,1214,T-TMY,三重県,2143,KOO.L,三重県,2941,F
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,926,796,三重県,1726,FIA,三重県,2591,FRIP,三重県,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,777,MOKO,三重県,1256,46,三重県,2137,FRIP,三重県,0,,-
 EMPRESS,3y3s,535,SHANA,三重県,1483,K.E.N!,三重県,2333,CALM,三重県,3572,FRIP,三重県,0,,-
+SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,580,MLESKE,三重県,1528,SHANA,三重県,2094,FRIP,三重県,0,,-
+SIRIUS,未来のプリズム,0,,-,343,SHELFA,三重県,1282,JUICY!,三重県,1778,FRIP,三重県,0,,-
+SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1263,A4NAGA,三重県,2166,T*CHA,三重県,3194,NONNKE,三重県,0,,-
+SIRIUS,バビロニア,0,,-,707,ENJU,三重県,1142,ISENO,三重県,1860,FRIP,三重県,0,,-
+SIRIUS,サヨナラ・ヘヴン,358,SHANA,三重県,711,ENJU,三重県,1304,FIA,三重県,1683,FRIP,三重県,0,,-
+SIRIUS,コスモス,0,,-,866,YU-KI,三重県,1512,MA,三重県,2094,47MO.R,三重県,0,,-
+SIRIUS,たからもの,0,,-,1093,796,三重県,1824,HERU2A,三重県,2237,T*CHA,三重県,0,,-
+SIRIUS,かずあそび,0,,-,490,ISENO,三重県,1146,HERU2A,三重県,1680,MA,三重県,0,,-
+SIRIUS,The Story Begins,0,,-,436,TORI13,三重県,1705,HERU2A,三重県,2423,FRIP,三重県,0,,-
+SIRIUS,THE LAST STRIKER,0,,-,814,ENJU,三重県,1830,HERU2A,三重県,2632,FRIP,三重県,0,,-
+SIRIUS,Special One,0,,-,710,ISENO,三重県,960,2SALTY,三重県,1779,FRIP,三重県,0,,-
+SIRIUS,Sorrows,0,,-,776,YU-KI,三重県,1595,10-4-!,三重県,2476,T*CHA,三重県,0,,-
+SIRIUS,SOLID STATE SQUAD,0,,-,926,KRC,三重県,2111,KOO.L,三重県,3571,FRIP,三重県,3623,FRIP,三重県
+SIRIUS,She is my wife,394,SHANA,三重県,554,SHION,三重県,1455,KOO.L,三重県,1982,FRIP,三重県,0,,-
+SIRIUS,Session 1 -Genesis-,0,,-,569,ENJU,三重県,1512,KOO.L,三重県,2457,FRIP,三重県,0,,-
+SIRIUS,Roots of my way!,0,,-,404,HARU,三重県,1289,JUICY!,三重県,2045,FRIP,三重県,0,,-
+SIRIUS,Red. by Full Metal Jacket,0,,-,967,CIRNO9,三重県,2032,KOO.L,三重県,3137,FRIP,三重県,0,,-
+SIRIUS,Raison d'etre～交差する宿命～,0,,-,1176,FELT,三重県,2284,MAJIN!,三重県,2744,FRIP,三重県,0,,-
+SIRIUS,quell～the seventh slave～,0,,-,426,AMINO?,三重県,1734,DEV,三重県,3161,FRIP,三重県,0,,-
+SIRIUS,Programmed Sun,0,,-,694,ENJU,三重県,1760,FIA,三重県,2592,FRIP,三重県,0,,-
+SIRIUS,NoN-Fiction Story!,0,,-,690,YU-KI,三重県,1372,HAGGER,三重県,2207,FRIP,三重県,0,,-
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1080,DESP,三重県,1945,KOO.L,三重県,2650,FRIP,三重県,0,,-
+SIRIUS,mosaic,0,,-,1234,2SALTY,三重県,2036,HAKU0,三重県,3017,T*CHA,三重県,0,,-
+SIRIUS,MIRACLE MEETS,0,,-,871,YU-KI,三重県,1552,HAGGER,三重県,2224,FRIP,三重県,0,,-
+SIRIUS,Light Shine,0,,-,641,SEERE,三重県,1143,HAGGER,三重県,1962,FRIP,三重県,0,,-
+SIRIUS,Last Burning,0,,-,0,,-,1495,10-4-!,三重県,2368,FRIP,三重県,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,873,ISENO,三重県,1612,TAKUTO,三重県,1870,47MO.R,三重県,0,,-
+SIRIUS,IN THE NAME OF LOVE,526,SHANA,三重県,636,YUHA,三重県,1311,R10000,三重県,1933,FRIP,三重県,0,,-
+SIRIUS,Hydrogen Blueback,0,,-,801,KUNUGI,三重県,1590,SHANA,三重県,2319,FRIP,三重県,0,,-
+SIRIUS,GOLDEN CROSS,0,,-,1057,METAL,三重県,2096,HAGGER,三重県,3484,FRIP,三重県,0,,-
+SIRIUS,GALGALIM,0,,-,967,MOKO,三重県,1844,FIA,三重県,2373,FRIP,三重県,0,,-
+SIRIUS,G59,0,,-,1372,SIN-Q,三重県,2224,CALM,三重県,3937,FRIP,三重県,0,,-
+SIRIUS,EXUSIA,0,,-,1156,T-TMY,三重県,2737,HAKU0,三重県,3863,FRIP,三重県,0,,-
+SIRIUS,Evans,589,SHANA,三重県,1164,FEDKIA,三重県,2182,FU-,三重県,2825,FRIP,三重県,0,,-
+SIRIUS,eRAseRmOToRpHAntOM,0,,-,365,SAKA,三重県,2202,KEN,三重県,3278,FRIP,三重県,0,,-
+SIRIUS,Empire State Glory,0,,-,500,KITT,三重県,1734,FIA,三重県,2636,FRIP,三重県,0,,-
+SIRIUS,Elisha,398,46,三重県,670,M-HK.S,三重県,1416,KOO.L,三重県,2282,FRIP,三重県,0,,-
+SIRIUS,DROP,0,,-,727,SIN-Q,三重県,2043,TAKUTO,三重県,2626,FRIP,三重県,0,,-
+SIRIUS,DOMINION,0,,-,913,GIL,三重県,2280,KOO.L,三重県,3199,FRIP,三重県,0,,-
+SIRIUS,DESIRE,0,,-,665,MOKO,三重県,1766,HERU2A,三重県,2861,FRIP,三重県,0,,-
+SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,629,33*AS,三重県,1446,K.E.N!,三重県,2101,FRIP,三重県,0,,-
+SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1462,RE310,三重県,2545,KOO.L,三重県,3130,FRIP,三重県,0,,-
+SIRIUS,D,0,,-,1174,2SALTY,三重県,1718,KYURA,三重県,2559,FRIP,三重県,0,,-
+SIRIUS,CaptivAte～裁き～(SUBLIME TECHNO MIX),0,,-,907,4DUK1H,三重県,1503,SHANA,三重県,2444,FRIP,三重県,0,,-
+SIRIUS,bloomin' feeling,384,SHANA,三重県,1254,MOR1TA,三重県,1923,KYURA,三重県,2599,FRIP,三重県,0,,-
+SIRIUS,being torn the sky,0,,-,498,BHO,三重県,1098,MAHOOO,三重県,1982,YUKITO,三重県,0,,-
+SIRIUS,BEAUTIFUL ANGEL,0,,-,507,B,三重県,1668,SHANA,三重県,2482,FRIP,三重県,0,,-
+SIRIUS,beatchic☆仮面～好き、でいさせて～,0,,-,933,SHION,三重県,1553,HERU2A,三重県,2013,T*CHA,三重県,0,,-
+SIRIUS,bass 2 bass,271,SHANA,三重県,682,YU-KI,三重県,1262,MA,三重県,1896,YUKITO,三重県,0,,-
+SIRIUS,Bad Maniacs,0,,-,1187,ALPHA,三重県,1699,KOO.L,三重県,3225,FRIP,三重県,0,,-
+SIRIUS,Almagest,0,,-,925,T-TMY,三重県,2181,YUKITO,三重県,3106,FRIP,三重県,0,,-
+SIRIUS,AIR RAID FROM THA UNDAGROUND,527,SHANA,三重県,1075,YU-KI,三重県,1653,KOO.L,三重県,2303,HAKU0,三重県,2972,FRIP,三重県
 Resort Anthem,黒髪乱れし修羅となりて,0,,-,763,YU-KI,三重県,2058,.3K,三重県,3441,FRIP,三重県,0,,-
 Resort Anthem,灼熱Beach Side Bunny,548,SHANA,三重県,1068,MOR1TA,三重県,1911,HAKU0,三重県,3069,YUKITO,三重県,0,,-
 Resort Anthem,旅人リラン,0,,-,1127,MOR1TA,三重県,1733,KOO.L,三重県,2632,FRIP,三重県,0,,-
@@ -510,7 +510,7 @@ Resort Anthem,中華急行,0,,-,312,SHION,三重県,1493,HERU2A,三重県,2325,F
 Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,504,SHANA,三重県,810,YU-KI,三重県,1258,DESP,三重県,1922,FRIP,三重県,0,,-
 Resort Anthem,おおきなこえで,0,,-,400,ISENO,三重県,969,WISTIA,三重県,1461,KOO.L,三重県,2160,FRIP,三重県
 Resort Anthem,ZETA～素数の世界と超越者～,312,SHANA,三重県,326,RURI*,三重県,1958,IIDX30,三重県,3122,FRIP,三重県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,887,SHION,三重県,1738,MA,三重県,2753,FRIP,三重県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,923,SIONPP,三重県,1738,MA,三重県,2753,FRIP,三重県,0,,-
 Resort Anthem,Wuv U,0,,-,397,46,三重県,1239,HERU2A,三重県,1707,FRIP,三重県,0,,-
 Resort Anthem,WISE UP!,324,SHANA,三重県,235,AYA,三重県,1083,10-4-!,三重県,1591,FRIP,三重県,2595,FRIP,三重県
 Resort Anthem,Watch Out Pt.2,0,,-,1115,K.E.N!,三重県,1937,KOO.L,三重県,2815,FRIP,三重県,0,,-
@@ -518,7 +518,7 @@ Resort Anthem,Vermillion,0,,-,514,YU-KI,三重県,1124,FIA,三重県,2065,FRIP,�
 Resort Anthem,Tropical April,0,,-,1511,6262-R,三重県,2221,KOO.L,三重県,2750,FRIP,三重県,0,,-
 Resort Anthem,THE FALLEN,0,,-,0,,-,1403,SHANA,三重県,2683,HAKU0,三重県,0,,-
 Resort Anthem,THE DOOR INTO RAINBOW,0,,-,490,SEERE,三重県,1630,HERU2A,三重県,2183,FRIP,三重県,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,710,MOKO,三重県,2095,MAJIN!,三重県,2917,FRIP,三重県,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,782,SEERE,三重県,2095,MAJIN!,三重県,2917,FRIP,三重県,0,,-
 Resort Anthem,STELLAR WIND,371,SHANA,三重県,414,SEPT,三重県,1748,KOO.L,三重県,2659,47MO.R,三重県,0,,-
 Resort Anthem,Stay my side,0,,-,534,MOKO,三重県,1015,HERU2A,三重県,1353,FRIP,三重県,0,,-
 Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,652,ISENO,三重県,1530,SHANA,三重県,2991,FRIP,三重県,0,,-
@@ -526,11 +526,11 @@ Resort Anthem,Space Time,0,,-,373,BHO,三重県,1592,FIA,三重県,2206,FRIP,三
 Resort Anthem,Session 9 -Chronicles-,0,,-,591,SEERE,三重県,2224,KOO.L,三重県,3624,FRIP,三重県,0,,-
 Resort Anthem,sakura storm,0,,-,989,T-TMY,三重県,1331,MKRN.,三重県,2427,FRIP,三重県,0,,-
 Resort Anthem,Sakura Reflection,0,,-,456,ISENO,三重県,1611,KYURA,三重県,2373,FRIP,三重県,0,,-
-Resort Anthem,SABER WING,0,,-,556,T*CHA,三重県,1775,YUKITO,三重県,2812,FRIP,三重県,0,,-
+Resort Anthem,SABER WING,0,,-,556,T*CHA,三重県,1775,YUKITO,三重県,2816,FRIP,三重県,0,,-
 Resort Anthem,Rock Da House,0,,-,522,UHO,三重県,1544,NEARCO,三重県,2235,FRIP,三重県,0,,-
 Resort Anthem,reunion,544,SHANA,三重県,1300,T-TMY,三重県,2434,MAJIN!,三重県,3221,FRIP,三重県,0,,-
 Resort Anthem,Programmed Life,0,,-,994,KRC,三重県,1702,FIA,三重県,2370,FRIP,三重県,0,,-
-Resort Anthem,perditus†paradisus,0,,-,972,CHIMA!,三重県,2486,HAKU0,三重県,3815,FRIP,三重県,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1080,NAL,三重県,2486,HAKU0,三重県,3815,FRIP,三重県,0,,-
 Resort Anthem,passionate fate,0,,-,951,KRDSMN,三重県,1534,TAKUTO,三重県,2120,FRIP,三重県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,1325,6262-R,三重県,2252,FU-,三重県,3295,FRIP,三重県,0,,-
 Resort Anthem,New Castle Legions,0,,-,926,SHANA,三重県,1699,AZW,三重県,2735,FRIP,三重県,0,,-
@@ -544,24 +544,24 @@ Resort Anthem,Golden Palms,0,,-,680,YU-KI,三重県,1422,SHANA,三重県,2043,FR
 Resort Anthem,Fantasia,232,SHANA,三重県,382,YU-KI,三重県,1560,MA,三重県,2238,FRIP,三重県,0,,-
 Resort Anthem,Everlasting Resort,0,,-,764,ISENO,三重県,1271,FIA,三重県,1903,FRIP,三重県,0,,-
 Resort Anthem,Eternal Tears,0,,-,354,6262-R,三重県,1007,MUGI,三重県,1371,T*CHA,三重県,0,,-
-Resort Anthem,Energy Drive,0,,-,0,,-,1426,KOO.L,三重県,2220,FRIP,三重県,0,,-
+Resort Anthem,Energy Drive,0,,-,0,,-,1426,KOO.L,三重県,2239,FRIP,三重県,0,,-
 Resort Anthem,DM STAR～関西 energy style～,0,,-,968,TAKATQ,三重県,1808,KOO.L,三重県,2395,FRIP,三重県,0,,-
 Resort Anthem,Destiny Sword,0,,-,644,MOKO,三重県,1797,HAGGER,三重県,2402,FRIP,三重県,0,,-
-Resort Anthem,DAYDREAMER,0,,-,1114,YU-KI,三重県,1747,MA,三重県,2526,T*CHA,三重県,0,,-
+Resort Anthem,DAYDREAMER,0,,-,1114,YU-KI,三重県,1747,MA,三重県,2527,FRIP,三重県,0,,-
 Resort Anthem,Dances with Snow Fairies,0,,-,0,,-,2014,HAM,三重県,3115,FRIP,三重県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,737,ISENO,三重県,1574,JUICY!,三重県,2338,FRIP,三重県,0,,-
 Resort Anthem,Broken,0,,-,1056,T-TMY,三重県,2037,MAJIN!,三重県,3159,FRIP,三重県,0,,-
-Resort Anthem,Breaking the ground,0,,-,1100,SYARO.,三重県,1765,KYURA,三重県,2515,FRIP,三重県,0,,-
+Resort Anthem,Breaking the ground,0,,-,1100,SYARO.,三重県,1765,KYURA,三重県,2521,FRIP,三重県,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,1005,YU-KI,三重県,1637,MA,三重県,2459,FRIP,三重県,0,,-
 Resort Anthem,BLUST OF WIND,0,,-,597,MOKO,三重県,1352,6262-R,三重県,2125,FRIP,三重県,0,,-
 Resort Anthem,Believe In Me,0,,-,895,KRC,三重県,1638,HERU2A,三重県,2387,FRIP,三重県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,676,MOKO,三重県,1947,MAJIN!,三重県,2950,FRIP,三重県,0,,-
-Resort Anthem,Answer,0,,-,697,796,三重県,1464,FIA,三重県,2433,FRIP,三重県,0,,-
+Resort Anthem,Answer,0,,-,718,SHION,三重県,1464,FIA,三重県,2433,FRIP,三重県,0,,-
 Resort Anthem,ALBIDA,519,SHANA,三重県,1001,METAL,三重県,1804,KOO.L,三重県,3001,FRIP,三重県,0,,-
 Resort Anthem,Aegis,0,,-,843,YU-KI,三重県,1345,MASSH.,三重県,2340,FRIP,三重県,0,,-
 Lincle,陽炎,0,,-,632,HAKU0,三重県,976,ISENO,三重県,2006,FRIP,三重県,0,,-
 Lincle,衰色小町メランコリア,0,,-,743,ISENO,三重県,1399,FIA,三重県,2367,FRIP,三重県,0,,-
-Lincle,蛇神,405,MOCHI*,三重県,680,YU-KI,三重県,1425,HERU2A,三重県,2824,FRIP,三重県,0,,-
+Lincle,蛇神,405,MOCHI*,三重県,680,YU-KI,三重県,1425,HERU2A,三重県,2842,FRIP,三重県,0,,-
 Lincle,聖人の塔,0,,-,913,METAL,三重県,1840,FIA,三重県,3003,FRIP,三重県,0,,-
 Lincle,突撃!ガラスのニーソ姫!,0,,-,532,ISENO,三重県,1109,BIRMAN,三重県,2109,FRIP,三重県,0,,-
 Lincle,恋する☆宇宙戦争っ！！,492,SHANA,三重県,885,BIRMAN,三重県,1730,RUDE,三重県,3607,FRIP,三重県,0,,-
@@ -574,32 +574,32 @@ Lincle,Yellow Sunrise,0,,-,430,SHELFA,三重県,1411,FIA,三重県,2286,FRIP,三
 Lincle,yellow head joe,0,,-,724,DESP,三重県,1442,SHANA,三重県,2289,FRIP,三重県,0,,-
 Lincle,YAKSHA,0,,-,1195,METAL,三重県,2179,459MTN,三重県,3894,FRIP,三重県,0,,-
 Lincle,WONDER WALKER,0,,-,949,YU-KI,三重県,1930,HAGGER,三重県,3791,FRIP,三重県,0,,-
-Lincle,Voxane,0,,-,582,T-TMY,三重県,1234,MKRN.,三重県,1752,FRIP,三重県,0,,-
+Lincle,Voxane,0,,-,582,T-TMY,三重県,1238,HAGGER,三重県,1752,FRIP,三重県,0,,-
 Lincle,Todestrieb,0,,-,1049,YU-KI,三重県,1871,TAKUTO,三重県,3444,FRIP,三重県,0,,-
 Lincle,TITANS RETURN,312,SHANA,三重県,596,DESP,三重県,1449,TAKUTO,三重県,2482,FRIP,三重県,2568,FRIP,三重県
 Lincle,Thunderbolt,0,,-,896,ISENO,三重県,1804,HERU2A,三重県,3780,FRIP,三重県,0,,-
 Lincle,The Sampling Paradise,0,,-,820,T-TMY,三重県,1832,MAJIN!,三重県,3000,FRIP,三重県,0,,-
 Lincle,The Limbo,0,,-,1089,METAL,三重県,1876,WISTIA,三重県,3333,FRIP,三重県,0,,-
-Lincle,Star Trail,0,,-,445,-ME-,三重県,1123,HERU2A,三重県,1862,FRIP,三重県,0,,-
+Lincle,Star Trail,0,,-,606,T-TMY,三重県,1123,HERU2A,三重県,1862,FRIP,三重県,0,,-
 Lincle,Snow Goose,291,SHANA,三重県,265,GACKT,三重県,1258,SHANA,三重県,2450,FRIP,三重県,0,,-
 Lincle,Snake Stick,0,,-,1011,MOR1TA,三重県,1985,DANPA,三重県,2692,NONNKE,三重県,0,,-
-Lincle,SHADE,0,,-,965,SIN-Q,三重県,1920,SUGOC,三重県,2898,FRIP,三重県,0,,-
+Lincle,SHADE,0,,-,965,SIN-Q,三重県,1920,SUGOC,三重県,2909,FRIP,三重県,0,,-
 Lincle,Several Words,0,,-,596,ISENO,三重県,1348,MISA,三重県,2188,FRIP,三重県,0,,-
 Lincle,Scharfrichter,0,,-,855,YU-KI,三重県,1536,WISTIA,三重県,2905,FRIP,三重県,0,,-
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,441,MOCHI*,三重県,1202,SHANA,三重県,1719,FRIP,三重県,0,,-
 Lincle,Round and Round,0,,-,739,46,三重県,1219,TURQUO,三重県,2150,FRIP,三重県,0,,-
-Lincle,RESISTANCE,0,,-,505,ISENO,三重県,1175,2SALTY,三重県,2332,DANPA,三重県,0,,-
+Lincle,RESISTANCE,0,,-,505,ISENO,三重県,1175,2SALTY,三重県,2370,FRIP,三重県,0,,-
 Lincle,Release The Music,0,,-,629,ENJU,三重県,1408,FIA,三重県,2148,FRIP,三重県,0,,-
-Lincle,Quick Silver,0,,-,759,METAL,三重県,1541,T-TMY,三重県,2667,FRIP,三重県,0,,-
+Lincle,Quick Silver,0,,-,759,METAL,三重県,1541,T-TMY,三重県,2679,FRIP,三重県,0,,-
 Lincle,quaver♪,278,SHANA,三重県,671,ISENO,三重県,2118,K.E.N!,三重県,3437,FRIP,三重県,0,,-
-Lincle,QUANTUM TELEPORTATION,0,,-,739,ISENO,三重県,2125,R2,三重県,2930,FRIP,三重県,3598,FRIP,三重県
+Lincle,QUANTUM TELEPORTATION,0,,-,739,ISENO,三重県,2125,R2,三重県,2944,FRIP,三重県,3598,FRIP,三重県
 Lincle,prompt,0,,-,828,ISENO,三重県,1538,SHANA,三重県,2803,FRIP,三重県,0,,-
 Lincle,Phoenix,0,,-,824,YU-KI,三重県,1138,10-4-!,三重県,2492,FRIP,三重県,3922,FRIP,三重県
 Lincle,NNRT,0,,-,1191,T-TMY,三重県,2390,KOO.L,三重県,3504,FRIP,三重県,0,,-
 Lincle,Miami Sunset Drive,0,,-,612,YU-KI,三重県,1066,MA,三重県,1679,FRIP,三重県,0,,-
 Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,798,YU-KI,三重県,1325,RUDE,三重県,2055,47MO.R,三重県,0,,-
 Lincle,Lucky Days,0,,-,453,MEW,三重県,1463,SHANA,三重県,2204,FRIP,三重県,0,,-
-Lincle,LOVE B.B.B,0,,-,727,YU-KI,三重県,1424,SHANA,三重県,2017,YUKITO,三重県,0,,-
+Lincle,LOVE B.B.B,0,,-,727,YU-KI,三重県,1424,SHANA,三重県,2019,FRIP,三重県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,349,6262-R,三重県,1087,FIA,三重県,2009,FRIP,三重県,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,322,SEEE,三重県,1632,MA,三重県,2216,FRIP,三重県,0,,-
 Lincle,LAX5 feat.Ryota Yoshinari,0,,-,911,SEERE,三重県,1932,6262-R,三重県,2846,FRIP,三重県,0,,-
@@ -612,7 +612,7 @@ Lincle,Flip Flap,267,6262-R,三重県,485,SEERE,三重県,1301,TAKUTO,三重県,
 Lincle,fffff,0,,-,781,T-TMY,三重県,1880,KOO.L,三重県,3111,FRIP,三重県,0,,-
 Lincle,Far east nightbird,347,SHANA,三重県,426,GACKT,三重県,1288,HERU2A,三重県,2029,FRIP,三重県,0,,-
 Lincle,F,0,,-,926,796,三重県,2095,RUDE,三重県,3570,FRIP,三重県,0,,-
-Lincle,Express Emotion,0,,-,720,DESP,三重県,1026,RUDE,三重県,2510,FRIP,三重県,0,,-
+Lincle,Express Emotion,0,,-,720,DESP,三重県,1026,RUDE,三重県,2517,FRIP,三重県,0,,-
 Lincle,Drive Me Crazy,0,,-,715,K.E.N!,三重県,1307,METAL,三重県,2304,T*CHA,三重県,0,,-
 Lincle,DIAVOLO,0,,-,1241,T-TMY,三重県,1883,HAGGER,三重県,3143,IIDX35,三重県,0,,-
 Lincle,Change the World,0,,-,719,MOKO,三重県,1382,FIA,三重県,1836,FRIP,三重県,0,,-
@@ -623,18 +623,18 @@ Lincle,ANAGRAMS I to Y,0,,-,849,SHION,三重県,1594,WISTIA,三重県,2483,FRIP,
 Lincle,Almace,0,,-,691,796,三重県,1278,MASSH.,三重県,2012,FRIP,三重県,0,,-
 Lincle,532nm,0,,-,308,S-RX*A,三重県,1077,2SALTY,三重県,2675,FRIP,三重県,0,,-
 Lincle,24th Century BOY,0,,-,823,YU-KI,三重県,1812,HERU2A,三重県,2861,FRIP,三重県,0,,-
-tricoro,龍と少女とデコヒーレンス,0,,-,767,ISENO,三重県,1625,FIA,三重県,3000,FRIP,三重県,3366,FRIP,三重県
+tricoro,龍と少女とデコヒーレンス,0,,-,767,ISENO,三重県,1625,FIA,三重県,3009,FRIP,三重県,3366,FRIP,三重県
 tricoro,音楽,0,,-,806,QUERY,三重県,1952,K.E.N!,三重県,2777,NONNKE,三重県,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,1108,2SALTY,三重県,2202,NOA.,三重県,3640,FRIP,三重県,0,,-
 tricoro,梅雪夜,0,,-,853,46,三重県,1409,HERU2A,三重県,2153,FRIP,三重県,0,,-
 tricoro,朧,204,6262-R,三重県,769,YU-KI,三重県,1462,TAKUTO,三重県,2107,FRIP,三重県,2535,FRIP,三重県
 tricoro,即席！脳直★ミュージックシステム,0,,-,983,T-TMY,三重県,1797,FIA,三重県,3588,FRIP,三重県,0,,-
 tricoro,創世ノート,0,,-,756,SALOVE,三重県,1856,KOO.L,三重県,2944,FRIP,三重県,0,,-
-tricoro,仮想空間の旅人たち,0,,-,870,ENJU,三重県,2189,HAGGER,三重県,2882,FRIP,三重県,3849,FRIP,三重県
+tricoro,仮想空間の旅人たち,0,,-,870,ENJU,三重県,2214,FRIP,三重県,2882,FRIP,三重県,3849,FRIP,三重県
 tricoro,下弦の月,0,,-,737,MOKO,三重県,1377,FIA,三重県,1984,T*CHA,三重県,0,,-
 tricoro,ラキラキ,0,,-,612,ISENO,三重県,1402,R10000,三重県,1991,FRIP,三重県,0,,-
 tricoro,メイメツ、フラグメンツ,0,,-,637,YU-KI,三重県,1216,10-4-!,三重県,1955,FRIP,三重県,0,,-
-tricoro,トリカゴノ鳳凰,0,,-,994,TAKATQ,三重県,1970,FIA,三重県,3799,FRIP,三重県,0,,-
+tricoro,トリカゴノ鳳凰,0,,-,994,TAKATQ,三重県,1970,FIA,三重県,3802,FRIP,三重県,0,,-
 tricoro,シュレーディンガーの猫,0,,-,953,TAKATQ,三重県,2244,WISTIA,三重県,3393,FRIP,三重県,0,,-
 tricoro,キャトられ恋はモ～モク,0,,-,1370,YU-KI,三重県,2458,NOA.,三重県,3784,FRIP,三重県,0,,-
 tricoro,カジノファイヤーことみちゃん,0,,-,459,MOKO,三重県,1367,K.E.N!,三重県,2419,HAKU0,三重県,0,,-
@@ -645,13 +645,13 @@ tricoro,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),234,6262-
 tricoro,ΕΛΠΙΣ,0,,-,1097,6262-R,三重県,2083,MAJIN!,三重県,3132,FRIP,三重県,3545,FRIP,三重県
 tricoro,Zirkfied,0,,-,715,MOKO,三重県,1899,KOO.L,三重県,3786,FRIP,三重県,0,,-
 tricoro,ZED,0,,-,797,YUHA,三重県,1659,SHANA,三重県,2764,FRIP,三重県,0,,-
-tricoro,VEGA,0,,-,1096,T-TMY,三重県,1939,HERU2A,三重県,3114,FRIP,三重県,0,,-
+tricoro,VEGA,0,,-,1096,T-TMY,三重県,1945,HERU2A,三重県,3114,FRIP,三重県,0,,-
 tricoro,VALLIS-NERIA,260,SHANA,三重県,978,SIN-Q,三重県,1989,QUERY,三重県,2951,FRIP,三重県,0,,-
 tricoro,Valanga,0,,-,1215,MR.Q,三重県,2056,.OGINE,三重県,3248,FRIP,三重県,0,,-
 tricoro,True Blue,0,,-,951,ISENO,三重県,2545,MAJIN!,三重県,3768,FRIP,三重県,0,,-
 tricoro,Timepiece phase II (CN Ver.),0,,-,851,DESP,三重県,1717,KAIN#,三重県,2903,FRIP,三重県,0,,-
 tricoro,Timepiece phase II,0,,-,936,KRC,三重県,2142,HAGGER,三重県,3218,FRIP,三重県,0,,-
-tricoro,Time To Empress,0,,-,887,YU-KI,三重県,1923,RUDE,三重県,2628,FRIP,三重県,0,,-
+tricoro,Time To Empress,0,,-,887,YU-KI,三重県,1924,HAGGER,三重県,2628,FRIP,三重県,0,,-
 tricoro,Thor's Hammer,0,,-,852,TAKATQ,三重県,1722,CALM,三重県,2939,FRIP,三重県,0,,-
 tricoro,Take My Life,0,,-,874,DESP,三重県,1386,HAM-1,三重県,2935,FRIP,三重県,0,,-
 tricoro,Synergy For Angels,0,,-,516,SION,三重県,1687,HAGGER,三重県,2773,FRIP,三重県,0,,-
@@ -670,7 +670,7 @@ tricoro,Praludium,0,,-,681,T-TMY,三重県,1388,HERU2A,三重県,2289,FRIP,三�
 tricoro,POINT ZERO,0,,-,625,796,三重県,1214,HERU2A,三重県,2092,FRIP,三重県,0,,-
 tricoro,planarian,0,,-,685,T-TMY,三重県,1510,T-TMY,三重県,2553,FRIP,三重県,0,,-
 tricoro,Plan 8,0,,-,1096,METAL,三重県,2130,KOO.L,三重県,3146,NONNKE,三重県,0,,-
-tricoro,New Lights,0,,-,751,ENJU,三重県,1573,6262-R,三重県,2441,A4NAGA,三重県,0,,-
+tricoro,New Lights,0,,-,751,ENJU,三重県,1590,T-TMY,三重県,2479,FRIP,三重県,0,,-
 tricoro,New Decade IIDX Edition,261,SHANA,三重県,960,T-TMY,三重県,1731,T-TMY,三重県,3005,FRIP,三重県,0,,-
 tricoro,neu,194,6262-R,三重県,971,TURQUO,三重県,2141,HAGGER,三重県,3914,FRIP,三重県,0,,-
 tricoro,Neonlights,0,,-,547,SEERE,三重県,1194,6262-R,三重県,2232,FRIP,三重県,0,,-
@@ -683,7 +683,7 @@ tricoro,JOMANDA,256,YUKITO,三重県,941,SIN-Q,三重県,2192,N8N,三重県,3648
 tricoro,In Heaven,0,,-,682,ISENO,三重県,1464,RUDE,三重県,2129,FRIP,三重県,0,,-
 tricoro,Illegal Function Call,0,,-,931,ZOMBIE,三重県,1793,DANPA,三重県,2637,FRIP,三重県,0,,-
 tricoro,ILIAS,0,,-,557,BHO,三重県,1261,JUICY!,三重県,2194,FRIP,三重県,0,,-
-tricoro,I know You know,0,,-,506,ISENO,三重県,973,ISENO,三重県,1871,FRIP,三重県,0,,-
+tricoro,I know You know,0,,-,506,ISENO,三重県,1052,KONEKO,三重県,1871,FRIP,三重県,0,,-
 tricoro,Howling,0,,-,535,METAL,三重県,1234,METAL,三重県,2099,T*CHA,三重県,2671,FRIP,三重県
 tricoro,Hollywood Galaxy,0,,-,497,HKTM--,三重県,1813,KOO.L,三重県,2720,FRIP,三重県,0,,-
 tricoro,GRADIUS 2012,0,,-,739,MOKO,三重県,1580,SHANA,三重県,2725,FRIP,三重県,0,,-
@@ -694,7 +694,7 @@ tricoro,examination leave,0,,-,986,SHNPCH,三重県,1846,KOO.L,三重県,3408,FR
 tricoro,Elemental Creation,255,SHANA,三重県,1390,FEDKIA,三重県,2352,MOR1TA,三重県,4111,FRIP,三重県,0,,-
 tricoro,Devilz Staircase,0,,-,651,METAL,三重県,1995,QUERY,三重県,3299,FRIP,三重県,0,,-
 tricoro,DAY DREAM,0,,-,436,MKRN.,三重県,1324,YUKITO,三重県,2002,FRIP,三重県,0,,-
-tricoro,Cookie Bouquets,0,,-,621,MOKO,三重県,1999,YUKI,三重県,3414,FRIP,三重県,0,,-
+tricoro,Cookie Bouquets,0,,-,621,MOKO,三重県,2024,HERU2A,三重県,3414,FRIP,三重県,0,,-
 tricoro,connective,0,,-,347,SEERE,三重県,978,2SALTY,三重県,1592,T*CHA,三重県,0,,-
 tricoro,Confiserie,0,,-,867,ISENO,三重県,1991,MKRN.,三重県,3501,FRIP,三重県,0,,-
 tricoro,CONCEPTUAL,0,,-,642,MOKO,三重県,1142,2SALTY,三重県,2722,FRIP,三重県,0,,-
@@ -722,9 +722,9 @@ SPADA,Wonder Girl feat. Kanae Asaba,0,,-,623,SEERE,三重県,1175,T-TMY,三重�
 SPADA,VOX UP,0,,-,1392,SUISEI,三重県,2735,MIEKEN,三重県,3573,FRIP,三重県,0,,-
 SPADA,Verflucht,0,,-,1185,T-TMY,三重県,2116,HAGGER,三重県,3549,FRIP,三重県,4607,FRIP,三重県
 SPADA,Valgus,0,,-,485,KUNUGI,三重県,1275,RUDE,三重県,2369,FRIP,三重県,0,,-
-SPADA,Unicorn tail,0,,-,670,YUHA,三重県,1882,DESP,三重県,3130,FRIP,三重県,0,,-
+SPADA,Unicorn tail,0,,-,697,KURO96,三重県,1882,DESP,三重県,3130,FRIP,三重県,0,,-
 SPADA,THE DETONATOR,0,,-,1261,ISENO,三重県,2345,KOO.L,三重県,3188,FRIP,三重県,0,,-
-SPADA,Squeeze,0,,-,566,KUNUGI,三重県,1189,METAL,三重県,2433,T*CHA,三重県,0,,-
+SPADA,Squeeze,0,,-,566,KUNUGI,三重県,1189,METAL,三重県,2457,FRIP,三重県,0,,-
 SPADA,Sigmund,0,,-,1369,T-TMY,三重県,2265,TAKUTO,三重県,3834,FRIP,三重県,4175,FRIP,三重県
 SPADA,SCHWARZSCHILD FIELD,0,,-,725,YUHA,三重県,1448,FIA,三重県,2322,FRIP,三重県,0,,-
 SPADA,RIZING YOU UP,0,,-,1010,METAL,三重県,1992,HERU2A,三重県,2571,FRIP,三重県,0,,-
@@ -737,7 +737,7 @@ SPADA,PUNISHER,0,,-,1081,METAL,三重県,2049,KOO.L,三重県,3569,FRIP,三重�
 SPADA,Pharaoh,0,,-,624,T-TMY,三重県,1347,SHANA,三重県,2452,FRIP,三重県,0,,-
 SPADA,Overload Frontier,0,,-,0,,-,1695,SHANA,三重県,2584,FRIP,三重県,0,,-
 SPADA,Odin,0,,-,598,B,三重県,1345,T-TMY,三重県,2064,FRIP,三重県,0,,-
-SPADA,NPC World,0,,-,953,METAL,三重県,1479,HERU2A,三重県,2223,T*CHA,三重県,0,,-
+SPADA,NPC World,0,,-,953,METAL,三重県,1510,HERU2A,三重県,2244,DANPA,三重県,0,,-
 SPADA,Miracle 5ympho X,0,,-,657,ISENO,三重県,1267,SHANA,三重県,2618,FRIP,三重県,0,,-
 SPADA,MAGIC & LOVE,0,,-,990,VLOG,三重県,1771,FIA,三重県,2926,FRIP,三重県,0,,-
 SPADA,MAD ATTACK,0,,-,420,GACKT,三重県,892,KRO,三重県,1963,FRIP,三重県,0,,-
@@ -746,22 +746,22 @@ SPADA,M.D.Injection,0,,-,467,HARU,三重県,1175,T-TMY,三重県,2437,FRIP,三�
 SPADA,Lighting Shower,0,,-,746,DESP,三重県,1116,MUGI,三重県,2406,FRIP,三重県,0,,-
 SPADA,Last Dance,0,,-,1082,SNOWFL,三重県,1860,FIA,三重県,3203,FRIP,三重県,0,,-
 SPADA,KHAMEN BREAK,0,,-,576,T-TMY,三重県,1320,.JAM3.,三重県,2524,FRIP,三重県,0,,-
-SPADA,KAISER PHOENIX,0,,-,1347,A4NAGA,三重県,2296,YUKITO,三重県,3286,FRIP,三重県,3812,HAKU0,三重県
+SPADA,KAISER PHOENIX,0,,-,1347,A4NAGA,三重県,2296,YUKITO,三重県,3286,FRIP,三重県,3833,HAKU0,三重県
 SPADA,IX,0,,-,1226,METAL,三重県,2456,FRIP,三重県,3815,FRIP,三重県,0,,-
 SPADA,invoker,0,,-,937,YUHA,三重県,1836,FIA,三重県,3208,FRIP,三重県,3512,IIDX35,三重県
 SPADA,into the battlefield,0,,-,709,YU-KI,三重県,1410,MASSH.,三重県,2374,FRIP,三重県,0,,-
 SPADA,INSOMNIA,0,,-,788,T-TMY,三重県,1707,HAM,三重県,3247,FRIP,三重県,0,,-
 SPADA,Insane Techniques,0,,-,686,YU-KI,三重県,1236,WISTIA,三重県,2461,T*CHA,三重県,0,,-
-SPADA,"Idola ",0,,-,1052,KRC,三重県,2192,FIA,三重県,3577,FRIP,三重県,0,,-
+SPADA,"Idola ",0,,-,1111,YU-KI,三重県,2192,FIA,三重県,3577,FRIP,三重県,0,,-
 SPADA,I will be back -オレは帰ってきた-,0,,-,918,ISENO,三重県,1966,MAJIN!,三重県,2941,FRIP,三重県,0,,-
-SPADA,Hypersonik,0,,-,945,T-TMY,三重県,1513,T-TMY,三重県,2514,FRIP,三重県,0,,-
+SPADA,Hypersonik,0,,-,945,T-TMY,三重県,1623,MASSH.,三重県,2514,FRIP,三重県,0,,-
 SPADA,HYENA,0,,-,1116,YU-KI,三重県,1775,MO,三重県,2812,FRIP,三重県,0,,-
 SPADA,Funny shuffle,0,,-,495,SEERE,三重県,991,METAL,三重県,2310,FRIP,三重県,0,,-
 SPADA,Feel The Beat,0,,-,1128,ZOMBIE,三重県,2099,KYURA,三重県,3564,FRIP,三重県,4291,FRIP,三重県
-SPADA,EXTREME MACH COLLIDER,0,,-,623,MOKO,三重県,1398,HERU2A,三重県,2551,FRIP,三重県,0,,-
+SPADA,EXTREME MACH COLLIDER,0,,-,623,MOKO,三重県,1398,HERU2A,三重県,2567,FRIP,三重県,0,,-
 SPADA,Engraved Mark,0,,-,460,BHO,三重県,1251,HERU2A,三重県,2394,FRIP,三重県,0,,-
-SPADA,Element of SPADA,0,,-,694,METAL,三重県,1347,FIA,三重県,2084,FRIP,三重県,0,,-
-SPADA,Elektrick U-Phoria,0,,-,0,,-,1810,213,三重県,3106,FRIP,三重県,0,,-
+SPADA,Element of SPADA,0,,-,694,METAL,三重県,1356,HAGGER,三重県,2084,FRIP,三重県,0,,-
+SPADA,Elektrick U-Phoria,0,,-,565,MELAN,三重県,1810,213,三重県,3106,FRIP,三重県,0,,-
 SPADA,diagram,0,,-,558,P.,三重県,1273,HAGGER,三重県,2833,FRIP,三重県,0,,-
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,728,SIN-Q,三重県,1671,KOO.L,三重県,2474,FRIP,三重県,0,,-
 SPADA,DARK LEGACY,0,,-,1208,2SALTY,三重県,2019,UIUI,三重県,3564,FRIP,三重県,0,,-
@@ -788,8 +788,8 @@ PENDUAL,打打打打打打打打打打,193,ISENO,三重県,682,NE6RI,三重県,1
 PENDUAL,恋は白帯、サンシロー,0,,-,682,SHION,三重県,1224,T-TMY,三重県,2032,T*CHA,三重県,2757,A4NAGA,三重県
 PENDUAL,少年は空を辿る,0,,-,996,ISENO,三重県,1929,FIA,三重県,3312,FRIP,三重県,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,900,SALOVE,三重県,1567,FIA,三重県,2187,T*CHA,三重県,0,,-
-PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,660,NANIKA,三重県,1774,FIA,三重県,3105,FRIP,三重県,0,,-
-PENDUAL,取り残された美術(Arranged:HiZuMi),243,SHANA,三重県,754,MOKO,三重県,1560,DESP,三重県,2205,FRIP,三重県,0,,-
+PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,722,MOKO,三重県,1774,FIA,三重県,3105,FRIP,三重県,0,,-
+PENDUAL,取り残された美術(Arranged:HiZuMi),243,SHANA,三重県,754,MOKO,三重県,1560,DESP,三重県,2210,FRIP,三重県,0,,-
 PENDUAL,千年ノ理,0,,-,1132,YU-KI,三重県,1954,MAJIN!,三重県,3198,FRIP,三重県,4272,FRIP,三重県
 PENDUAL,十六夜セツナ,0,,-,938,SIN-Q,三重県,1553,FIA,三重県,2248,FRIP,三重県,0,,-
 PENDUAL,共鳴遊戯の華,0,,-,1137,MORISI,三重県,2226,QUERY,三重県,3877,FRIP,三重県,0,,-
@@ -817,8 +817,8 @@ PENDUAL,Scars of FAUNA,0,,-,803,T-TMY,三重県,1616,FIA,三重県,2904,FRIP,三
 PENDUAL,Scarlet Moon,0,,-,1042,YU-KI,三重県,1790,FIA,三重県,2748,FRIP,三重県,0,,-
 PENDUAL,Say YEEEAHH,0,,-,1046,YU-KI,三重県,1793,FIA,三重県,3270,FRIP,三重県,0,,-
 PENDUAL,SAMSARA,0,,-,801,YU-KI,三重県,1378,HERU2A,三重県,2052,FRIP,三重県,0,,-
-PENDUAL,Sakura Mirage,0,,-,803,SHNPCH,三重県,1252,SHANA,三重県,2324,IIDX35,三重県,0,,-
-PENDUAL,Reflux,0,,-,647,DEKKAP,三重県,1594,MAJIN!,三重県,2987,FRIP,三重県,0,,-
+PENDUAL,Sakura Mirage,0,,-,803,SHNPCH,三重県,1278,HERU2A,三重県,2324,IIDX35,三重県,0,,-
+PENDUAL,Reflux,0,,-,737,T-TMY,三重県,1594,MAJIN!,三重県,2987,FRIP,三重県,0,,-
 PENDUAL,Realize Maze,0,,-,1060,KRC,三重県,2056,MAJIN!,三重県,2988,FRIP,三重県,0,,-
 PENDUAL,"Rave*it!! Rave*it!! ",0,,-,809,KUNUGI,三重県,1685,HAGGER,三重県,3255,FRIP,三重県,0,,-
 PENDUAL,PENDUAL TALISMAN,0,,-,0,,-,1540,HERU2A,三重県,2618,FRIP,三重県,0,,-
@@ -859,6 +859,87 @@ PENDUAL,Beyond The Earth,0,,-,1163,T-TMY,三重県,2109,HAGGER,三重県,3206,FR
 PENDUAL,Beat Radiance,0,,-,918,T-TMY,三重県,1597,HERU2A,三重県,2648,FRIP,三重県,3581,T*CHA,三重県
 PENDUAL,AFRO KNUCKLE,0,,-,933,FIA,三重県,1690,TAKUTO,三重県,2412,FRIP,三重県,0,,-
 PENDUAL,#The_Relentless,0,,-,766,ENJU,三重県,1829,32KAN,三重県,2931,FRIP,三重県,0,,-
+copula,麗 ～うらら～,257,SHANA,三重県,967,MUGI,三重県,1762,MAJIN!,三重県,2631,FRIP,三重県,0,,-
+copula,駅猫のワルツ,0,,-,1154,K.E.N!,三重県,1772,KOO.L,三重県,2787,FRIP,三重県,0,,-
+copula,量子の海のリントヴルム,0,,-,846,T-TMY,三重県,1737,FIA,三重県,2966,FRIP,三重県,0,,-
+copula,追想快晴テーマパーク,0,,-,1040,ISENO,三重県,1986,FIA,三重県,3067,IIDX35,三重県,0,,-
+copula,紫陽花 -AZISAI-,419,SHANA,三重県,1121,YU-KI,三重県,1979,KOO.L,三重県,2885,FRIP,三重県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1208,GUEST,三重県,2128,KYURA,三重県,3298,HAKU0,三重県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1194,QUON,三重県,2077,HAKU0,三重県,3322,FRIP,三重県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,835,ISENO,三重県,1473,WIL.,三重県,2515,YUKITO,三重県,0,,-
+copula,星屑ディスタンシア,0,,-,614,ISENO,三重県,1180,MARISA,三重県,2123,FRIP,三重県,0,,-
+copula,明鏡止水,0,,-,821,T-TMY,三重県,1759,TAKUTO,三重県,2817,FRIP,三重県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,712,YU-KI,三重県,1446,FIA,三重県,2170,FRIP,三重県,0,,-
+copula,セロトニン,0,,-,1126,TAKATQ,三重県,1641,SUGOC,三重県,2321,HAKU0,三重県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,1069,ISENO,三重県,1686,T-TMY,三重県,2449,FRIP,三重県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,727,ISENO,三重県,1378,TAKUTO,三重県,2383,FRIP,三重県,0,,-
+copula,オルタネイトβ,0,,-,785,YU-KI,三重県,1430,MA,三重県,2255,FRIP,三重県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1393,T-TMY,三重県,2288,MKRN.,三重県,3357,FRIP,三重県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,891,MOKO,三重県,1627,SOJI-#,三重県,2766,T*CHA,三重県,0,,-
+copula,ZEPHYRANTHES,0,,-,952,YU-KI,三重県,1646,NOA.,三重県,2955,FRIP,三重県,3843,FRIP,三重県
+copula,X,0,,-,1438,METAL,三重県,2497,MAJIN!,三重県,3852,FRIP,三重県,0,,-
+copula,Welcome,0,,-,810,ISENO,三重県,1759,SYOTA,三重県,2653,FRIP,三重県,3315,FRIP,三重県
+copula,Violet Rose,0,,-,910,SIN-Q,三重県,1824,KOO.L,三重県,2607,FRIP,三重県,0,,-
+copula,Violet Pulse,0,,-,420,CA3LIA,三重県,1584,HERU2A,三重県,2410,HAKU0,三重県,0,,-
+copula,Uh-Oh,0,,-,941,SEERE,三重県,1657,FIA,三重県,2400,FRIP,三重県,0,,-
+copula,Triple Counter,0,,-,1200,YTJ,三重県,2132,CALM,三重県,3961,FRIP,三重県,0,,-
+copula,Tori-no-kimochi,0,,-,243,YU-KI,三重県,984,ISENO,三重県,2023,FRIP,三重県,0,,-
+copula,SURVIVOR,0,,-,650,ISENO,三重県,1149,FANZU,三重県,2021,FRIP,三重県,0,,-
+copula,Super Duper Racers,0,,-,707,SEERE,三重県,1468,SHANA,三重県,2381,FRIP,三重県,0,,-
+copula,StrayedCatz,0,,-,965,DESP,三重県,1990,FRIP,三重県,2848,FRIP,三重県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,1185,T-TMY,三重県,1743,YUKITO,三重県,2665,FRIP,三重県,3327,FRIP,三重県
+copula,STARLiGHT,0,,-,770,BHO,三重県,1709,HERU2A,三重県,2716,HAKU0,三重県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1360,DESP,三重県,1879,HERU2A,三重県,3051,FRIP,三重県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,847,SIN-Q,三重県,1395,HERU2A,三重県,2553,FRIP,三重県,0,,-
+copula,Sephirot,0,,-,911,YU-KI,三重県,1602,FIA,三重県,2350,FRIP,三重県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,581,YUHA,三重県,1146,ZOMBIE,三重県,2260,FRIP,三重県,0,,-
+copula,Routing,0,,-,825,YU-KI,三重県,1579,WISTIA,三重県,2518,HAKU0,三重県,0,,-
+copula,Rock It,0,,-,1105,YU-KI,三重県,1647,MAJIN!,三重県,2949,FRIP,三重県,0,,-
+copula,refrain,0,,-,1201,T-TMY,三重県,2319,MAJIN!,三重県,3617,FRIP,三重県,0,,-
+copula,quick master (reform version),0,,-,159,A4NAGA,三重県,336,MASSH.,三重県,527,YUKITO,三重県,0,,-
+copula,POSSESSION,512,SHANA,三重県,1350,TURQUO,三重県,2061,T*CHA,三重県,2952,FRIP,三重県,0,,-
+copula,Outbreak,0,,-,1324,MOR1TA,三重県,1816,HERU2A,三重県,3021,FRIP,三重県,0,,-
+copula,On the FM,0,,-,1008,SUISEI,三重県,1511,SHANA,三重県,2811,FRIP,三重県,0,,-
+copula,NZM,0,,-,876,ISENO,三重県,1538,FIA,三重県,3438,FRIP,三重県,0,,-
+copula,Nowhere,0,,-,412,GACKT,三重県,1488,HAGGER,三重県,2172,FRIP,三重県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,766,YU-KI,三重県,1229,FIA,三重県,2276,FRIP,三重県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,845,P.,三重県,1785,FIA,三重県,3005,FRIP,三重県,0,,-
+copula,Nightmare before oversleep,0,,-,1087,2SALTY,三重県,1779,FIA,三重県,2949,FRIP,三重県,0,,-
+copula,NANAIRO,0,,-,817,MOKO,三重県,1829,MAJIN!,三重県,2593,FRIP,三重県,0,,-
+copula,Musik LoverZ,0,,-,1016,YU-KI,三重県,1360,FIA,三重県,2512,FRIP,三重県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1179,6262-R,三重県,2078,MAJIN!,三重県,3027,FRIP,三重県,0,,-
+copula,La dolce primavera,0,,-,671,SYARO.,三重県,1276,HERU2A,三重県,2174,FRIP,三重県,0,,-
+copula,Konzert V,0,,-,1234,T-TMY,三重県,2184,SYOTA,三重県,3337,HAKU0,三重県,0,,-
+copula,Journey,0,,-,477,SEERE,三重県,1191,HERU2A,三重県,1889,FRIP,三重県,3131,FRIP,三重県
+copula,Inner Spirit,0,,-,508,KUNUGI,三重県,1617,DEN*,三重県,2837,FRIP,三重県,0,,-
+copula,Highcharge Divolt,0,,-,759,796,三重県,1717,YUKITO,三重県,2800,FRIP,三重県,0,,-
+copula,Grand Chariot,0,,-,999,RODOFO,三重県,1778,KOO.L,三重県,3430,FRIP,三重県,0,,-
+copula,Godspeed,0,,-,935,RODOFO,三重県,1939,HAGGER,三重県,3137,FRIP,三重県,0,,-
+copula,GOBBLE,0,,-,363,ENJU,三重県,648,R10000,三重県,1704,FRIP,三重県,0,,-
+copula,Go Faraway,0,,-,765,MOKO,三重県,1456,FIA,三重県,2497,FRIP,三重県,0,,-
+copula,Glitch Nerds,0,,-,715,KUNUGI,三重県,1350,YUKITO,三重県,2247,FRIP,三重県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1016,DESP,三重県,1693,FIA,三重県,2355,FRIP,三重県,0,,-
+copula,Exchange Place,0,,-,616,MOKO,三重県,1146,T-TMY,三重県,1788,.32,三重県,0,,-
+copula,Everlasting Last,0,,-,794,YU-KI,三重県,1578,TAKUTO,三重県,2229,FRIP,三重県,0,,-
+copula,Dynamite,529,SHANA,三重県,1074,6262-R,三重県,2420,HAKU0,三重県,3826,FRIP,三重県,0,,-
+copula,Donkey Donk,0,,-,877,SEERE,三重県,1740,MAJIN!,三重県,2278,FRIP,三重県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,465,MOKO,三重県,1444,CIRNO9,三重県,2321,FRIP,三重県,0,,-
+copula,DIAMOND CROSSING,0,,-,837,SIN-Q,三重県,1766,HAGGER,三重県,3082,FRIP,三重県,0,,-
+copula,Devil's Gear,0,,-,994,T-TMY,三重県,2044,KOO.L,三重県,3421,FRIP,三重県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1344,T-TMY,三重県,1780,HERU2A,三重県,2622,FRIP,三重県,0,,-
+copula,Damage Per Second,0,,-,704,CLAY0K,三重県,1381,FIA,三重県,2029,FRIP,三重県,2298,FRIP,三重県
+copula,Daily Lunch Special,0,,-,1022,YU-KI,三重県,2073,MASSH.,三重県,2952,FRIP,三重県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,815,P.,三重県,1725,MA,三重県,3100,HAKU0,三重県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,797,MOKO,三重県,1608,HERU2A,三重県,2618,T*CHA,三重県,0,,-
+copula,Central Station,0,,-,950,METAL,三重県,1570,HAGGER,三重県,2415,FRIP,三重県,0,,-
+copula,Blue Spring Express,0,,-,1180,T-TMY,三重県,2129,FRIP,三重県,3293,FRIP,三重県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,838,METAL,三重県,2348,FIA,三重県,3256,FRIP,三重県,0,,-
+copula,Aublia,0,,-,661,MOKO,三重県,1498,FIA,三重県,2552,FRIP,三重県,0,,-
+copula,Arcana,0,,-,1030,RODOFO,三重県,1711,FIA,三重県,2283,FRIP,三重県,0,,-
+copula,AO-1,0,,-,1224,K.E.N!,三重県,1831,KOO.L,三重県,2804,FRIP,三重県,0,,-
+copula,Angelic Jelly,0,,-,1005,DEKKAP,三重県,1857,T-TMY,三重県,2779,FRIP,三重県,0,,-
+copula,Acid Pumper,0,,-,604,796,三重県,1533,TAKUTO,三重県,2477,FRIP,三重県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,617,YU-KI,三重県,1602,SELENE,三重県,2348,FRIP,三重県,0,,-
 SINOBUZ,鴉,0,,-,1428,6262-R,三重県,2182,KOO.L,三重県,2690,FRIP,三重県,0,,-
 SINOBUZ,童話回廊,0,,-,923,RIVER*,三重県,1668,FIA,三重県,3096,FRIP,三重県,0,,-
 SINOBUZ,禍根,0,,-,608,MOKO,三重県,1263,SHANA,三重県,2609,FRIP,三重県,0,,-
@@ -866,7 +947,7 @@ SINOBUZ,獅子霞麗ノ舞,0,,-,326,AMINO?,三重県,783,GUEST,三重県,1733,T*
 SINOBUZ,焔極OVERKILL,0,,-,1091,T-TMY,三重県,2014,CALM,三重県,3581,FRIP,三重県,0,,-
 SINOBUZ,火影,0,,-,636,MLESKE,三重県,1376,HAGGER,三重県,2712,FRIP,三重県,0,,-
 SINOBUZ,津軽雪,0,,-,1428,T-TMY,三重県,2231,MAJIN!,三重県,3839,FRIP,三重県,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,816,T-TMY,三重県,1397,FIA,三重県,1993,FRIP,三重県,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,816,T-TMY,三重県,1397,FIA,三重県,2002,FRIP,三重県,0,,-
 SINOBUZ,月雪に舞う華のように,0,,-,591,MOKO,三重県,1143,HERU2A,三重県,2136,FRIP,三重県,0,,-
 SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,976,SHANA,三重県,1506,SHANA,三重県,2482,FRIP,三重県,0,,-
 SINOBUZ,忍恋花,0,,-,824,MOKO,三重県,1586,32KAN,三重県,2254,FRIP,三重県,0,,-
@@ -877,15 +958,15 @@ SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,680,YU-KI
 SINOBUZ,イザナミノナゲキ,0,,-,1114,YU-KI,三重県,1831,FIA,三重県,3245,T*CHA,三重県,0,,-
 SINOBUZ,ちらちら・はらはら,0,,-,405,METAL,三重県,943,MARISA,三重県,1425,T*CHA,三重県,0,,-
 SINOBUZ,〆,0,,-,1099,RODOFO,三重県,2262,TAKUTO,三重県,3667,FRIP,三重県,0,,-
-SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,0,,-,1724,KOO.L,三重県,2835,IIDX35,三重県,0,,-
+SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,0,,-,1724,KOO.L,三重県,2844,FRIP,三重県,0,,-
 SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,944,YU-KI,三重県,1538,FIA,三重県,2633,FRIP,三重県,0,,-
 SINOBUZ,XINOBIKILL,0,,-,815,ISENO,三重県,1654,QUERY,三重県,2896,FRIP,三重県,0,,-
 SINOBUZ,Warrior,0,,-,967,SHANA,三重県,1663,T-TMY,三重県,2494,FRIP,三重県,0,,-
 SINOBUZ,Vermilion,0,,-,844,METAL,三重県,1320,JUICY!,三重県,2036,FRIP,三重県,0,,-
 SINOBUZ,Venom,0,,-,1183,SHANA,三重県,1998,QUERY,三重県,3171,FRIP,三重県,0,,-
-SINOBUZ,Umbral,0,,-,536,P.,三重県,1354,FIA,三重県,1915,FRIP,三重県,0,,-
+SINOBUZ,Umbral,0,,-,536,P.,三重県,1354,FIA,三重県,1918,FRIP,三重県,0,,-
 SINOBUZ,TOGAKUSHI,0,,-,751,P.,三重県,1770,TAKUTO,三重県,2619,FRIP,三重県,0,,-
-SINOBUZ,The Commanders,0,,-,807,CLAY0K,三重県,1419,10-4-!,三重県,2439,FRIP,三重県,0,,-
+SINOBUZ,The Commanders,0,,-,807,CLAY0K,三重県,1419,10-4-!,三重県,2442,FRIP,三重県,0,,-
 SINOBUZ,Sweet Clapper,0,,-,554,T-TMY,三重県,1207,10-4-!,三重県,1908,FU-,三重県,0,,-
 SINOBUZ,Surf on the Light,0,,-,715,SHANA,三重県,1431,FIA,三重県,2269,FRIP,三重県,0,,-
 SINOBUZ,Super Rush,0,,-,999,.OGINE,三重県,1799,FIA,三重県,3537,FRIP,三重県,0,,-
@@ -893,7 +974,7 @@ SINOBUZ,Summerlights(IIDX Edition),0,,-,1091,YU-KI,三重県,1701,SHANA,三重�
 SINOBUZ,Steel Edge,0,,-,658,SEERE,三重県,1423,SHANA,三重県,3166,FRIP,三重県,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1075,YU-KI,三重県,2181,HAGGER,三重県,3434,FRIP,三重県,0,,-
 SINOBUZ,Sky High,425,SHANA,三重県,1084,T-TMY,三重県,2268,TAKUTO,三重県,3804,FRIP,三重県,0,,-
-SINOBUZ,SINOBUZ Fantasy,0,,-,767,HARA,三重県,1510,SKM.,三重県,2431,FRIP,三重県,0,,-
+SINOBUZ,SINOBUZ Fantasy,0,,-,767,HARA,三重県,1510,SKM.,三重県,2440,FRIP,三重県,0,,-
 SINOBUZ,shuriken,0,,-,737,YU-KI,三重県,1092,T-TMY,三重県,2565,FRIP,三重県,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,1032,SHANA,三重県,2026,R10000,三重県,2854,FRIP,三重県,0,,-
 SINOBUZ,Selfish Sweet,0,,-,583,SIN-Q,三重県,859,SUISEI,三重県,1725,FRIP,三重県,0,,-
@@ -905,21 +986,21 @@ SINOBUZ,ROTTERDAM SHOGUN,521,SHANA,三重県,1050,T-TMY,三重県,1793,KOO.L,三
 SINOBUZ,RISING FIRE HAWK,0,,-,839,SHANA,三重県,1421,SHANA,三重県,2708,FRIP,三重県,0,,-
 SINOBUZ,Remedy feat. Kanae Asaba,0,,-,836,ISENO,三重県,1516,SHANA,三重県,2210,FRIP,三重県,0,,-
 SINOBUZ,Rave Cannon,0,,-,1003,YU-KI,三重県,1781,HERU2A,三重県,3358,FRIP,三重県,0,,-
-SINOBUZ,RAIN,0,,-,1091,YU-KI,三重県,1840,MAJIN!,三重県,3261,FRIP,三重県,0,,-
+SINOBUZ,RAIN,0,,-,1091,YU-KI,三重県,1840,MAJIN!,三重県,3264,FRIP,三重県,0,,-
 SINOBUZ,Quakes,0,,-,1048,SHANA,三重県,1893,FIA,三重県,3192,FRIP,三重県,0,,-
 SINOBUZ,Piano Samurai,0,,-,1009,T-TMY,三重県,1652,HERU2A,三重県,2472,HAKU0,三重県,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,761,T-TMY,三重県,1504,CIRNO9,三重県,2811,FRIP,三重県,0,,-
 SINOBUZ,OTENAMI Hurricane,0,,-,1109,YU-KI,三重県,2015,KOO.L,三重県,3126,FRIP,三重県,0,,-
 SINOBUZ,OOO,0,,-,611,TOWA,三重県,1450,HAGGER,三重県,2059,YUKITO,三重県,0,,-
 SINOBUZ,nostos,0,,-,813,T-TMY,三重県,1363,RMASHI,三重県,2598,FRIP,三重県,0,,-
-SINOBUZ,Music is The Answer,0,,-,411,TORI13,三重県,1268,10-4-!,三重県,1909,FRIP,三重県,0,,-
+SINOBUZ,Music is The Answer,0,,-,411,TORI13,三重県,1268,10-4-!,三重県,1911,FRIP,三重県,0,,-
 SINOBUZ,Modular Technology,0,,-,864,PYU,三重県,1822,QUERY,三重県,2630,HAKU0,三重県,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1363,R10000,三重県,2022,RMASHI,三重県,3607,FRIP,三重県,0,,-
-SINOBUZ,Magical,0,,-,690,P.,三重県,1144,T-TMY,三重県,2001,FRIP,三重県,0,,-
+SINOBUZ,Magical,0,,-,690,P.,三重県,1144,T-TMY,三重県,2006,FRIP,三重県,0,,-
 SINOBUZ,Macuilxochitl,517,SHANA,三重県,1395,SHANA,三重県,2175,TAKUTO,三重県,3325,FRIP,三重県,0,,-
 SINOBUZ,Lost wing at.0,0,,-,905,SHANA,三重県,1361,SHANA,三重県,2430,FRIP,三重県,0,,-
 SINOBUZ,INVISIBLE STRIX,0,,-,907,TAKATQ,三重県,2009,KOO.L,三重県,2610,FRIP,三重県,0,,-
-SINOBUZ,Honey Trap,0,,-,810,YU-KI,三重県,1593,HAGGER,三重県,2528,FRIP,三重県,0,,-
+SINOBUZ,Honey Trap,0,,-,810,YU-KI,三重県,1600,HAGGER,三重県,2528,FRIP,三重県,0,,-
 SINOBUZ,HAPPY★RUSH,0,,-,735,ISENO,三重県,1701,HERU2A,三重県,2853,IIDX35,三重県,0,,-
 SINOBUZ,HADES,383,SHANA,三重県,931,T-TMY,三重県,1761,TAKUTO,三重県,3077,FRIP,三重県,0,,-
 SINOBUZ,GuNGNiR,0,,-,1275,SHANA,三重県,2619,IIDX35,三重県,3921,FRIP,三重県,4489,IIDX35,三重県
@@ -948,101 +1029,20 @@ SINOBUZ,Amazing Mirage,367,SHANA,三重県,902,WISTIA,三重県,1676,FIA,三重�
 SINOBUZ,(This Is Not) The Angels,0,,-,508,MLESKE,三重県,1337,SHANA,三重県,2707,FRIP,三重県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1064,KERY,三重県,1962,IIDX35,三重県,3425,FRIP,三重県,0,,-
 SINOBUZ,!Viva!,0,,-,742,SYUN,三重県,1511,JUICY!,三重県,2014,FRIP,三重県,0,,-
-copula,麗 ～うらら～,257,SHANA,三重県,967,MUGI,三重県,1762,MAJIN!,三重県,2631,FRIP,三重県,0,,-
-copula,駅猫のワルツ,0,,-,1154,K.E.N!,三重県,1772,KOO.L,三重県,2787,FRIP,三重県,0,,-
-copula,量子の海のリントヴルム,0,,-,846,T-TMY,三重県,1737,FIA,三重県,2965,FRIP,三重県,0,,-
-copula,追想快晴テーマパーク,0,,-,1040,ISENO,三重県,1986,FIA,三重県,3067,IIDX35,三重県,0,,-
-copula,紫陽花 -AZISAI-,419,SHANA,三重県,1121,YU-KI,三重県,1979,KOO.L,三重県,2885,FRIP,三重県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1208,GUEST,三重県,2128,KYURA,三重県,3298,HAKU0,三重県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1194,QUON,三重県,2077,HAKU0,三重県,3322,FRIP,三重県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,835,ISENO,三重県,1473,WIL.,三重県,2515,YUKITO,三重県,0,,-
-copula,星屑ディスタンシア,0,,-,614,ISENO,三重県,1180,MARISA,三重県,2123,FRIP,三重県,0,,-
-copula,明鏡止水,0,,-,821,T-TMY,三重県,1759,TAKUTO,三重県,2817,FRIP,三重県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,712,YU-KI,三重県,1446,FIA,三重県,2170,FRIP,三重県,0,,-
-copula,セロトニン,0,,-,1126,TAKATQ,三重県,1641,SUGOC,三重県,2321,HAKU0,三重県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,1069,ISENO,三重県,1674,IIDX30,三重県,2449,FRIP,三重県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,727,ISENO,三重県,1378,TAKUTO,三重県,2380,FRIP,三重県,0,,-
-copula,オルタネイトβ,0,,-,785,YU-KI,三重県,1430,MA,三重県,2255,FRIP,三重県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1393,T-TMY,三重県,2288,MKRN.,三重県,3357,FRIP,三重県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,891,MOKO,三重県,1627,SOJI-#,三重県,2766,T*CHA,三重県,0,,-
-copula,ZEPHYRANTHES,0,,-,952,YU-KI,三重県,1646,NOA.,三重県,2955,FRIP,三重県,3843,FRIP,三重県
-copula,X,0,,-,1438,METAL,三重県,2497,MAJIN!,三重県,3852,FRIP,三重県,0,,-
-copula,Welcome,0,,-,810,ISENO,三重県,1759,SYOTA,三重県,2653,FRIP,三重県,3315,FRIP,三重県
-copula,Violet Rose,0,,-,910,SIN-Q,三重県,1824,KOO.L,三重県,2607,FRIP,三重県,0,,-
-copula,Violet Pulse,0,,-,420,CA3LIA,三重県,1584,HERU2A,三重県,2410,HAKU0,三重県,0,,-
-copula,Uh-Oh,0,,-,884,CLAY0K,三重県,1657,FIA,三重県,2400,FRIP,三重県,0,,-
-copula,Triple Counter,0,,-,1200,YTJ,三重県,2132,CALM,三重県,3961,FRIP,三重県,0,,-
-copula,Tori-no-kimochi,0,,-,243,YU-KI,三重県,984,ISENO,三重県,2023,FRIP,三重県,0,,-
-copula,SURVIVOR,0,,-,650,ISENO,三重県,1149,FANZU,三重県,2021,FRIP,三重県,0,,-
-copula,Super Duper Racers,0,,-,707,SEERE,三重県,1468,SHANA,三重県,2381,FRIP,三重県,0,,-
-copula,StrayedCatz,0,,-,965,DESP,三重県,1990,FRIP,三重県,2848,FRIP,三重県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,1185,T-TMY,三重県,1743,YUKITO,三重県,2665,FRIP,三重県,3327,FRIP,三重県
-copula,STARLiGHT,0,,-,770,BHO,三重県,1709,HERU2A,三重県,2716,HAKU0,三重県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1360,DESP,三重県,1879,HERU2A,三重県,3051,FRIP,三重県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,735,SEERE,三重県,1395,HERU2A,三重県,2553,FRIP,三重県,0,,-
-copula,Sephirot,0,,-,911,YU-KI,三重県,1602,FIA,三重県,2350,FRIP,三重県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,581,YUHA,三重県,1146,ZOMBIE,三重県,2260,FRIP,三重県,0,,-
-copula,Routing,0,,-,825,YU-KI,三重県,1579,WISTIA,三重県,2518,HAKU0,三重県,0,,-
-copula,Rock It,0,,-,1105,YU-KI,三重県,1647,MAJIN!,三重県,2949,FRIP,三重県,0,,-
-copula,refrain,0,,-,1201,T-TMY,三重県,2319,MAJIN!,三重県,3617,FRIP,三重県,0,,-
-copula,quick master (reform version),0,,-,159,A4NAGA,三重県,336,MASSH.,三重県,527,YUKITO,三重県,0,,-
-copula,POSSESSION,512,SHANA,三重県,1350,TURQUO,三重県,2061,T*CHA,三重県,2952,FRIP,三重県,0,,-
-copula,Outbreak,0,,-,1324,MOR1TA,三重県,1816,HERU2A,三重県,3021,FRIP,三重県,0,,-
-copula,On the FM,0,,-,1008,SUISEI,三重県,1511,SHANA,三重県,2811,FRIP,三重県,0,,-
-copula,NZM,0,,-,876,ISENO,三重県,1538,FIA,三重県,3438,FRIP,三重県,0,,-
-copula,Nowhere,0,,-,412,GACKT,三重県,1483,HAGGER,三重県,2172,FRIP,三重県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,766,YU-KI,三重県,1229,FIA,三重県,2276,FRIP,三重県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,845,P.,三重県,1785,FIA,三重県,3005,FRIP,三重県,0,,-
-copula,Nightmare before oversleep,0,,-,1087,2SALTY,三重県,1779,FIA,三重県,2949,FRIP,三重県,0,,-
-copula,NANAIRO,0,,-,817,MOKO,三重県,1829,MAJIN!,三重県,2593,FRIP,三重県,0,,-
-copula,Musik LoverZ,0,,-,1016,YU-KI,三重県,1360,FIA,三重県,2512,FRIP,三重県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1179,6262-R,三重県,2078,MAJIN!,三重県,3027,FRIP,三重県,0,,-
-copula,La dolce primavera,0,,-,671,SYARO.,三重県,1276,HERU2A,三重県,2174,FRIP,三重県,0,,-
-copula,Konzert V,0,,-,1234,T-TMY,三重県,2184,SYOTA,三重県,3337,HAKU0,三重県,0,,-
-copula,Journey,0,,-,477,SEERE,三重県,1191,HERU2A,三重県,1889,FRIP,三重県,3131,FRIP,三重県
-copula,Inner Spirit,0,,-,508,KUNUGI,三重県,1617,DEN*,三重県,2837,FRIP,三重県,0,,-
-copula,Highcharge Divolt,0,,-,759,796,三重県,1717,YUKITO,三重県,2800,FRIP,三重県,0,,-
-copula,Grand Chariot,0,,-,999,RODOFO,三重県,1778,KOO.L,三重県,3430,FRIP,三重県,0,,-
-copula,Godspeed,0,,-,935,RODOFO,三重県,1849,FIA,三重県,3137,FRIP,三重県,0,,-
-copula,GOBBLE,0,,-,363,ENJU,三重県,648,R10000,三重県,1704,FRIP,三重県,0,,-
-copula,Go Faraway,0,,-,765,MOKO,三重県,1456,FIA,三重県,2497,FRIP,三重県,0,,-
-copula,Glitch Nerds,0,,-,715,KUNUGI,三重県,1350,YUKITO,三重県,2247,FRIP,三重県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1016,DESP,三重県,1693,FIA,三重県,2348,47MO.R,三重県,0,,-
-copula,Exchange Place,0,,-,616,MOKO,三重県,1146,T-TMY,三重県,1788,.32,三重県,0,,-
-copula,Everlasting Last,0,,-,794,YU-KI,三重県,1578,TAKUTO,三重県,2229,FRIP,三重県,0,,-
-copula,Dynamite,529,SHANA,三重県,1074,6262-R,三重県,2420,HAKU0,三重県,3826,FRIP,三重県,0,,-
-copula,Donkey Donk,0,,-,877,SEERE,三重県,1740,MAJIN!,三重県,2278,FRIP,三重県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,465,MOKO,三重県,1444,CIRNO9,三重県,2321,FRIP,三重県,0,,-
-copula,DIAMOND CROSSING,0,,-,837,SIN-Q,三重県,1766,HAGGER,三重県,3082,FRIP,三重県,0,,-
-copula,Devil's Gear,0,,-,994,T-TMY,三重県,2044,KOO.L,三重県,3421,FRIP,三重県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1265,METAL,三重県,1780,HERU2A,三重県,2622,FRIP,三重県,0,,-
-copula,Damage Per Second,0,,-,704,CLAY0K,三重県,1381,FIA,三重県,2029,FRIP,三重県,2298,FRIP,三重県
-copula,Daily Lunch Special,0,,-,1022,YU-KI,三重県,2073,MASSH.,三重県,2952,FRIP,三重県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,815,P.,三重県,1725,MA,三重県,3100,HAKU0,三重県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,797,MOKO,三重県,1528,6262-R,三重県,2618,T*CHA,三重県,0,,-
-copula,Central Station,0,,-,950,METAL,三重県,1570,HAGGER,三重県,2415,FRIP,三重県,0,,-
-copula,Blue Spring Express,0,,-,1180,T-TMY,三重県,2129,FRIP,三重県,3293,FRIP,三重県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,838,METAL,三重県,2348,FIA,三重県,3256,FRIP,三重県,0,,-
-copula,Aublia,0,,-,661,MOKO,三重県,1498,FIA,三重県,2552,FRIP,三重県,0,,-
-copula,Arcana,0,,-,1030,RODOFO,三重県,1711,FIA,三重県,2283,FRIP,三重県,0,,-
-copula,AO-1,0,,-,1224,K.E.N!,三重県,1831,KOO.L,三重県,2804,FRIP,三重県,0,,-
-copula,Angelic Jelly,0,,-,1005,DEKKAP,三重県,1857,T-TMY,三重県,2779,FRIP,三重県,0,,-
-copula,Acid Pumper,0,,-,604,796,三重県,1533,TAKUTO,三重県,2477,FRIP,三重県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,617,YU-KI,三重県,1602,SELENE,三重県,2348,FRIP,三重県,0,,-
-CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,678,YU-KI,三重県,1194,KOO.L,三重県,2321,FRIP,三重県,0,,-
+CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,678,YU-KI,三重県,1194,KOO.L,三重県,2324,FRIP,三重県,0,,-
 CANNON BALLERS,純真可憐デザイア,252,SHANA,三重県,798,YU-KI,三重県,1556,JUICY!,三重県,2329,FRIP,三重県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1325,KOROLA,三重県,2549,MAJIN!,三重県,4020,FRIP,三重県,0,,-
 CANNON BALLERS,東京神話,460,SHANA,三重県,998,METAL,三重県,1762,HAGGER,三重県,2822,FRIP,三重県,0,,-
 CANNON BALLERS,命の標本,0,,-,639,ISENO,三重県,1602,FIA,三重県,2648,IIDX35,三重県,0,,-
 CANNON BALLERS,共犯へヴンズコード,0,,-,472,MUGI,三重県,1217,BEE!,三重県,2283,FRIP,三重県,0,,-
-CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,724,SHNPCH,三重県,1513,HERU2A,三重県,2188,FRIP,三重県,0,,-
+CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,724,SHNPCH,三重県,1513,HERU2A,三重県,2192,FRIP,三重県,0,,-
 CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,904,MUGI,三重県,1694,QUERY,三重県,2759,IIDX35,三重県,0,,-
 CANNON BALLERS,バスルーム ロマンス,0,,-,896,MUGI,三重県,1411,FIA,三重県,2441,FRIP,三重県,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,797,SHANA,三重県,1663,SHANA,三重県,2555,FRIP,三重県,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,797,SHANA,三重県,1714,HERU2A,三重県,2555,FRIP,三重県,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,837,DESP,三重県,1551,MA,三重県,2449,FRIP,三重県,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,803,MOKO,三重県,1508,HERU2A,三重県,2091,FRIP,三重県,0,,-
 CANNON BALLERS,シムルグの目醒め,0,,-,1351,T-TMY,三重県,2270,.3K,三重県,3463,FRIP,三重県,0,,-
-CANNON BALLERS,エディブルフラワーの独白,0,,-,716,ENJU,三重県,1472,HERU2A,三重県,2199,FRIP,三重県,0,,-
+CANNON BALLERS,エディブルフラワーの独白,0,,-,716,ENJU,三重県,1472,HERU2A,三重県,2206,FRIP,三重県,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,793,SIN-Q,三重県,1513,FIA,三重県,2520,FRIP,三重県,0,,-
 CANNON BALLERS,Xperanza,536,SHANA,三重県,1301,6262-R,三重県,2372,KOO.L,三重県,3201,FRIP,三重県,0,,-
 CANNON BALLERS,Usual Days-remix,0,,-,1101,A4NAGA,三重県,1433,N8N,三重県,2653,FRIP,三重県,0,,-
@@ -1050,7 +1050,7 @@ CANNON BALLERS,UMMU,432,SHANA,三重県,1072,DESP,三重県,2038,KOO.L,三重県
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,312,BHO,三重県,1484,KOO.L,三重県,1845,YUKITO,三重県,0,,-
 CANNON BALLERS,The Chase,0,,-,661,YU-KI,三重県,1386,NONNKE,三重県,2113,FRIP,三重県,0,,-
 CANNON BALLERS,THE CANNONBALLER,478,SHANA,三重県,1380,T-TMY,三重県,2411,MAJIN!,三重県,3453,FRIP,三重県,0,,-
-CANNON BALLERS,Temple of Anubis,0,,-,953,YU-KI,三重県,1517,HAGGER,三重県,2660,FRIP,三重県,0,,-
+CANNON BALLERS,Temple of Anubis,0,,-,953,YU-KI,三重県,1528,HAGGER,三重県,2660,FRIP,三重県,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1111,SHANA,三重県,1707,TAKUTO,三重県,2637,IIDX35,三重県,0,,-
 CANNON BALLERS,Static State,0,,-,636,ENJU,三重県,1630,HERU2A,三重県,2404,FRIP,三重県,0,,-
 CANNON BALLERS,STARLIGHT JUNCTION,0,,-,877,YU-KI,三重県,1529,FIA,三重県,2287,FRIP,三重県,0,,-
@@ -1074,7 +1074,7 @@ CANNON BALLERS,LUV DRIVE,0,,-,626,SEERE,三重県,1244,T-TMY,三重県,2129,FRIP
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1223,SHANA,三重県,1834,FIA,三重県,3458,FRIP,三重県,0,,-
 CANNON BALLERS,Initiation,627,SHANA,三重県,1472,K.E.N!,三重県,2461,MAJIN!,三重県,3943,FRIP,三重県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1256,SHANA,三重県,2127,KOO.L,三重県,3536,FRIP,三重県,0,,-
-CANNON BALLERS,I Love You,0,,-,929,MOKO,三重県,1623,JUICY!,三重県,2730,FRIP,三重県,0,,-
+CANNON BALLERS,I Love You,0,,-,950,ISENO,三重県,1623,JUICY!,三重県,2730,FRIP,三重県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,1038,YU-KI,三重県,1844,QUERY,三重県,3002,FRIP,三重県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,535,MOKO,三重県,1027,FIA,三重県,1869,FRIP,三重県,0,,-
 CANNON BALLERS,HAT TRICK,0,,-,661,SEERE,三重県,1407,SHANA,三重県,2228,FRIP,三重県,0,,-
@@ -1098,7 +1098,7 @@ CANNON BALLERS,ChaserXX,0,,-,804,KRDSMN,三重県,1722,R2,三重県,2827,FRIP,�
 CANNON BALLERS,Break Stasis,0,,-,995,37!W5,三重県,1845,NOA.,三重県,2520,FRIP,三重県,0,,-
 CANNON BALLERS,Boomy and The Boost,409,SHANA,三重県,943,DESP,三重県,1932,FIA,三重県,3563,FRIP,三重県,0,,-
 CANNON BALLERS,Best of Me,0,,-,662,ENJU,三重県,1435,HAM-1,三重県,2231,FRIP,三重県,0,,-
-CANNON BALLERS,Beast mode,0,,-,0,,-,1445,HERU2A,三重県,2688,MIEKEN,三重県,0,,-
+CANNON BALLERS,Beast mode,0,,-,0,,-,1445,HERU2A,三重県,2739,FRIP,三重県,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,709,YU-KI,三重県,1718,TONE,三重県,3071,HAKU0,三重県,0,,-
 CANNON BALLERS,Battleground,0,,-,1119,YU-KI,三重県,1805,FIA,三重県,2700,FRIP,三重県,0,,-
 CANNON BALLERS,Back Spin Sweeper,0,,-,830,SYOTA,三重県,1320,FIA,三重県,2281,FRIP,三重県,0,,-
@@ -1111,24 +1111,24 @@ CANNON BALLERS,Amor De Verao,0,,-,725,T-TMY,三重県,1355,MASSH.,三重県,2349
 CANNON BALLERS,Alpheratz,0,,-,381,6262-R,三重県,852,P.,三重県,2087,YUKITO,三重県,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,1097,METAL,三重県,1679,FIA,三重県,2504,FRIP,三重県,0,,-
 CANNON BALLERS,Abraxas,0,,-,694,796,三重県,1539,MASSH.,三重県,2437,FRIP,三重県,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1038,YU-KI,三重県,2436,MAJIN!,三重県,3598,FRIP,三重県,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1038,YU-KI,三重県,2436,MAJIN!,三重県,3602,FRIP,三重県,0,,-
 CANNON BALLERS,255,0,,-,860,SHANA,三重県,1551,DEV,三重県,3243,FRIP,三重県,0,,-
 CANNON BALLERS,2 Player,0,,-,940,SHANA,三重県,1486,SHANA,三重県,2587,FRIP,三重県,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,979,YU-KI,三重県,1632,HERU2A,三重県,2634,FRIP,三重県,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1121,SHANA,三重県,2248,TAKUTO,三重県,3209,FRIP,三重県,0,,-
 Rootage,金野火織の金色提言,0,,-,1208,SHANA,三重県,2210,.3K,三重県,3096,FRIP,三重県,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,908,SHANA,三重県,1534,NEARCO,三重県,2609,FRIP,三重県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,1166,SHANA,三重県,1774,QUERY,三重県,2722,FRIP,三重県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1166,SHANA,三重県,1774,QUERY,三重県,2740,FRIP,三重県,0,,-
 Rootage,深愛のリグレット,0,,-,774,SHANA,三重県,1197,MA,三重県,2394,FRIP,三重県,0,,-
 Rootage,泰東ノ翠霞,0,,-,462,SHANA,三重県,729,SHANA,三重県,1767,FRIP,三重県,0,,-
 Rootage,最小三倍完全数,0,,-,897,SHANA,三重県,1647,HERU2A,三重県,2522,FRIP,三重県,0,,-
-Rootage,抱きしめてモナムール,0,,-,1313,DANPA,三重県,2125,FIA,三重県,4131,FRIP,三重県,0,,-
+Rootage,抱きしめてモナムール,0,,-,1313,DANPA,三重県,2287,RMASHI,三重県,4131,FRIP,三重県,0,,-
 Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,675,SHANA,三重県,1536,KYURA,三重県,2560,FRIP,三重県,0,,-
 Rootage,ミッドナイト☆WAR,0,,-,803,SHANA,三重県,1571,HAGGER,三重県,2503,FRIP,三重県,0,,-
 Rootage,ミストレス・アンに花束を,0,,-,553,SHANA,三重県,981,SHANA,三重県,1421,YUKITO,三重県,0,,-
 Rootage,ハードベース・フェスタ,0,,-,1090,SHANA,三重県,1726,JUICY!,三重県,2847,FRIP,三重県,0,,-
 Rootage,セカンドピアス,0,,-,574,SHANA,三重県,1078,UIUI,三重県,2022,FRIP,三重県,0,,-
-Rootage,サクラあっぱれーしょん,265,SHANA,三重県,604,SHANA,三重県,1464,MOR1TA,三重県,2314,HAKU0,三重県,0,,-
+Rootage,サクラあっぱれーしょん,265,SHANA,三重県,604,SHANA,三重県,1547,HAGGER,三重県,2314,HAKU0,三重県,0,,-
 Rootage,グラナダの風,0,,-,787,SHANA,三重県,1212,DANPA,三重県,1873,FRIP,三重県,0,,-
 Rootage,お菓子の王国,0,,-,1344,SHANA,三重県,2119,ATOZ,三重県,4041,IIDX35,三重県,0,,-
 Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1041,SHANA,三重県,1839,*BC*,三重県,2927,FRIP,三重県,0,,-
@@ -1137,14 +1137,14 @@ Rootage,Yum Yum Jelly,0,,-,766,SHANA,三重県,1429,SHANA,三重県,2360,FRIP,�
 Rootage,Xlo,0,,-,1429,SHANA,三重県,2302,BONA,三重県,3757,FRIP,三重県,0,,-
 Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1115,SHANA,三重県,1628,FIA,三重県,3001,FRIP,三重県,0,,-
 Rootage,X-DEN,0,,-,1530,SHANA,三重県,2767,FRIP,三重県,3992,IIDX35,三重県,0,,-
-Rootage,Wonderland,0,,-,1013,SHANA,三重県,1790,HERU2A,三重県,2742,FRIP,三重県,0,,-
+Rootage,Wonderland,0,,-,1013,SHANA,三重県,1790,HERU2A,三重県,2759,FRIP,三重県,0,,-
 Rootage,Won(*3*)Chu KissMe!,269,SHANA,三重県,901,SHANA,三重県,1386,HAGGER,三重県,2514,FRIP,三重県,0,,-
 Rootage,Wolf 1061,0,,-,992,SHANA,三重県,1661,FIA,三重県,3124,FRIP,三重県,0,,-
 Rootage,Wing of Hearts,0,,-,1082,SHANA,三重県,1762,KYURA,三重県,2929,FRIP,三重県,0,,-
 Rootage,voltississimo,0,,-,1161,SHANA,三重県,1999,NOA.,三重県,3620,FRIP,三重県,0,,-
 Rootage,Visterhv,0,,-,1241,SHANA,三重県,2203,.3K,三重県,3698,FRIP,三重県,0,,-
 Rootage,Urban Constellations,0,,-,689,YU-KI,三重県,1392,SHANA,三重県,2279,FRIP,三重県,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1081,SHANA,三重県,1926,HERU2A,三重県,3217,FRIP,三重県,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1081,SHANA,三重県,1926,HERU2A,三重県,3259,FRIP,三重県,0,,-
 Rootage,Unbelief,0,,-,1053,SHANA,三重県,1980,QUERY,三重県,3182,FRIP,三重県,0,,-
 Rootage,U.S.A.,547,SHANA,三重県,1087,SHANA,三重県,1737,SHANA,三重県,2867,YUKITO,三重県,0,,-
 Rootage,Twilight Warp,0,,-,911,SHANA,三重県,1307,SHANA,三重県,2159,FRIP,三重県,0,,-
@@ -1158,7 +1158,7 @@ Rootage,The Best of Both Worlds,0,,-,573,SHANA,三重県,1434,FRIP,三重県,223
 Rootage,Technicolour Dreams,0,,-,890,SHANA,三重県,1390,KOO.L,三重県,2394,FRIP,三重県,0,,-
 Rootage,SPEED ROCKER,0,,-,857,SHANA,三重県,1663,CALM,三重県,2318,FRIP,三重県,0,,-
 Rootage,Six String Proof,0,,-,859,SHANA,三重県,1453,SHANA,三重県,2542,FRIP,三重県,0,,-
-Rootage,Serious?,0,,-,574,SHANA,三重県,1173,FIA,三重県,2229,FRIP,三重県,0,,-
+Rootage,Serious?,0,,-,574,SHANA,三重県,1181,FIA,三重県,2229,FRIP,三重県,0,,-
 Rootage,R∞tAge,539,SHANA,三重県,1047,SHANA,三重県,1616,FIA,三重県,2969,FRIP,三重県,0,,-
 Rootage,ruin of opals,0,,-,943,SHANA,三重県,1864,MKRN.,三重県,3114,FRIP,三重県,0,,-
 Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,999,SHANA,三重県,1751,K.E.N!,三重県,2734,FRIP,三重県,0,,-
@@ -1175,7 +1175,7 @@ Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,855,SHANA,三�
 Rootage,Necroxis Girl,0,,-,1118,SHANA,三重県,1845,*BC*,三重県,2796,FRIP,三重県,0,,-
 Rootage,Macho Monky,0,,-,1381,SHANA,三重県,1911,.OGINE,三重県,3004,FRIP,三重県,0,,-
 Rootage,LOST TECHNOLOGIE,0,,-,1105,SHANA,三重県,1803,*BC*,三重県,3493,FRIP,三重県,0,,-
-Rootage,Lift Us High,0,,-,931,SHANA,三重県,1524,SHANA,三重県,2456,FRIP,三重県,0,,-
+Rootage,Lift Us High,0,,-,931,SHANA,三重県,1565,FIA,三重県,2456,FRIP,三重県,0,,-
 Rootage,Level One,0,,-,1198,SHANA,三重県,2233,*LOVE*,三重県,3492,FRIP,三重県,0,,-
 Rootage,Lethal Weapon,0,,-,1145,SHANA,三重県,1806,FIA,三重県,3187,FRIP,三重県,0,,-
 Rootage,Let me be your cure,0,,-,1097,METAL,三重県,1425,MA,三重県,2683,FRIP,三重県,0,,-
@@ -1203,7 +1203,7 @@ Rootage,Digital Skipper,0,,-,954,SHANA,三重県,1471,SHANA,三重県,2251,FRIP,
 Rootage,dAuntl3ss,0,,-,1048,SHANA,三重県,1989,MAJIN!,三重県,3492,FRIP,三重県,0,,-
 Rootage,Cranberry City ft. Luschel,0,,-,822,SHANA,三重県,1510,SHANA,三重県,2433,FRIP,三重県,0,,-
 Rootage,COSMIC CYBER,0,,-,1019,SHANA,三重県,1586,SHANA,三重県,2911,FRIP,三重県,0,,-
-Rootage,CoMAAAAAAA,0,,-,1178,SHANA,三重県,2018,K.E.N!,三重県,2403,FRIP,三重県,0,,-
+Rootage,CoMAAAAAAA,0,,-,1178,SHANA,三重県,2018,K.E.N!,三重県,2406,FRIP,三重県,0,,-
 Rootage,CODE:0,0,,-,1379,SHANA,三重県,1964,-.-A,三重県,2835,YUKITO,三重県,0,,-
 Rootage,Catch Our Fire!,0,,-,1302,SHANA,三重県,2028,BOSS!!,三重県,3700,FRIP,三重県,0,,-
 Rootage,Carry Me Away,514,SHANA,三重県,1082,SHANA,三重県,1762,C.K,三重県,3174,FRIP,三重県,0,,-
@@ -1212,13 +1212,13 @@ Rootage,BLOSSOM,0,,-,1044,SHANA,三重県,1571,BONA,三重県,2560,FRIP,三重�
 Rootage,BLACK JACKAL,0,,-,820,SHANA,三重県,1530,BONA,三重県,2345,FRIP,三重県,0,,-
 Rootage,Afterimage d'automne,0,,-,992,SHANA,三重県,1690,RMASHI,三重県,2822,FRIP,三重県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1180,SHANA,三重県,1628,MA,三重県,2616,FRIP,三重県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1040,SHANA,三重県,1479,HERU2A,三重県,2607,FRIP,三重県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1040,SHANA,三重県,1562,FIA,三重県,2607,FRIP,三重県,0,,-
 Rootage,50th Memorial Songs -Flagship medley-,0,,-,907,SHANA,三重県,1378,SHANA,三重県,2299,FRIP,三重県,0,,-
-Rootage,50th Memorial Songs -Beginning Story-,0,,-,799,SHANA,三重県,1587,FIA,三重県,2726,FRIP,三重県,0,,-
-Rootage,& Intelligence,0,,-,1136,SHANA,三重県,2116,HAGGER,三重県,3176,FRIP,三重県,0,,-
+Rootage,50th Memorial Songs -Beginning Story-,0,,-,799,SHANA,三重県,1592,FIA,三重県,2726,FRIP,三重県,0,,-
+Rootage,& Intelligence,0,,-,1136,SHANA,三重県,2148,HAGGER,三重県,3179,FRIP,三重県,0,,-
 HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,888,YU-KI,三重県,1730,KOO.L,三重県,3048,FRIP,三重県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1081,SHANA,三重県,1615,HERU2A,三重県,2882,HAKU0,三重県,0,,-
-HEROIC VERSE,錬成人間トリコロイダー,0,,-,1029,MOR1TA,三重県,1789,YOU!!,三重県,3190,FRIP,三重県,0,,-
+HEROIC VERSE,錬成人間トリコロイダー,0,,-,1029,MOR1TA,三重県,1789,YOU!!,三重県,3196,FRIP,三重県,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1225,SHANA,三重県,2051,.3K,三重県,3485,FRIP,三重県,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,641,SHANA,三重県,1111,FIA,三重県,1822,FRIP,三重県,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,828,SHANA,三重県,1606,KYURA,三重県,3002,FRIP,三重県,0,,-
@@ -1231,7 +1231,7 @@ HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),373,SHAN
 HEROIC VERSE,ガヴリールドロップキック,401,T-TMY,三重県,762,SHANA,三重県,1553,.JAM3.,三重県,2670,FRIP,三重県,0,,-
 HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1487,SHANA,三重県,2672,.3K,三重県,4239,FRIP,三重県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1066,SHANA,三重県,1802,MAJIN!,三重県,2897,FRIP,三重県,3536,FRIP,三重県
-HEROIC VERSE,Voo Doo Bamboleo,0,,-,878,SHANA,三重県,1438,SHANA,三重県,2496,FRIP,三重県,0,,-
+HEROIC VERSE,Voo Doo Bamboleo,0,,-,878,SHANA,三重県,1438,SHANA,三重県,2500,FRIP,三重県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1061,SHANA,三重県,1711,SHANA,三重県,2968,FRIP,三重県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,751,SHANA,三重県,1467,FIA,三重県,2212,FRIP,三重県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,886,SHANA,三重県,1230,MISA,三重県,1869,FRIP,三重県,0,,-
@@ -1245,9 +1245,9 @@ HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1381,SHANA,三重県,2414,MAJIN!,三重県,
 HEROIC VERSE,TECHNO Style Essentials,0,,-,991,ARARA,三重県,1522,TAKUTO,三重県,2856,FRIP,三重県,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1323,SHANA,三重県,1699,FIA,三重県,3217,FRIP,三重県,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,753,SHANA,三重県,1352,DANPA,三重県,2105,FRIP,三重県,0,,-
-HEROIC VERSE,STOIC HYPOTHESIS,0,,-,1086,SHANA,三重県,1677,YOU!!,三重県,2773,IIDX35,三重県,0,,-
+HEROIC VERSE,STOIC HYPOTHESIS,0,,-,1086,SHANA,三重県,1677,YOU!!,三重県,2825,FRIP,三重県,0,,-
 HEROIC VERSE,Sparkle Smilin',0,,-,902,SHANA,三重県,1441,10-4-!,三重県,2437,FU-,三重県,0,,-
-HEROIC VERSE,Smashing Wedge,0,,-,916,SHANA,三重県,2104,A4NAGA,三重県,3703,IIDX35,三重県,0,,-
+HEROIC VERSE,Smashing Wedge,0,,-,916,SHANA,三重県,2202,FRIP,三重県,3703,IIDX35,三重県,0,,-
 HEROIC VERSE,Ska-sh All Neurons!!,0,,-,966,YU-KI,三重県,1363,METAL,三重県,2334,FRIP,三重県,0,,-
 HEROIC VERSE,Silly Love,252,SHANA,三重県,767,T-TMY,三重県,1367,HAGGER,三重県,2100,FRIP,三重県,0,,-
 HEROIC VERSE,Shiva,0,,-,713,SHANA,三重県,1402,SHANA,三重県,2121,FRIP,三重県,0,,-
@@ -1264,21 +1264,21 @@ HEROIC VERSE,Primitive Vibes,583,SHANA,三重県,1128,SHANA,三重県,1972,MAJIN
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),327,SHANA,三重県,521,T-TMY,三重県,1226,T-TMY,三重県,2138,FRIP,三重県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1218,SHANA,三重県,1661,TAKUTO,三重県,2858,FRIP,三重県,0,,-
 HEROIC VERSE,Override,0,,-,914,SHANA,三重県,1558,FIA,三重県,2906,FRIP,三重県,0,,-
-HEROIC VERSE,OUTER PLANETS,0,,-,648,SHANA,三重県,1359,FIA,三重県,2182,FRIP,三重県,0,,-
+HEROIC VERSE,OUTER PLANETS,0,,-,648,SHANA,三重県,1359,FIA,三重県,2188,FRIP,三重県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,917,SHANA,三重県,1498,FIA,三重県,2376,HAKU0,三重県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,994,SHANA,三重県,1455,10-4-!,三重県,2649,FRIP,三重県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,574,SHANA,三重県,1217,SHANA,三重県,2008,FRIP,三重県,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,943,SHANA,三重県,1644,RUDE,三重県,2646,FRIP,三重県,0,,-
 HEROIC VERSE,Moving on,0,,-,1016,SHANA,三重県,1932,MAJIN!,三重県,2978,FRIP,三重県,0,,-
-HEROIC VERSE,Mel,0,,-,754,SHANA,三重県,1505,WISTIA,三重県,2167,FRIP,三重県,0,,-
+HEROIC VERSE,Mel,0,,-,754,SHANA,三重県,1505,WISTIA,三重県,2171,YUKITO,三重県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1130,SHANA,三重県,2016,FIA,三重県,3336,FRIP,三重県,0,,-
 HEROIC VERSE,Lost Souls,0,,-,668,SHANA,三重県,1573,SHANA,三重県,2437,FRIP,三重県,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1018,SHANA,三重県,1838,KOO.L,三重県,3026,HAKU0,三重県,0,,-
 HEROIC VERSE,Like+it!,0,,-,1029,SHANA,三重県,1751,MAJIN!,三重県,2363,FRIP,三重県,0,,-
-HEROIC VERSE,LIGHTNING STRIKES,466,SHANA,三重県,910,SHANA,三重県,1706,FRIP,三重県,3243,FRIP,三重県,0,,-
+HEROIC VERSE,LIGHTNING STRIKES,466,SHANA,三重県,910,SHANA,三重県,1706,FRIP,三重県,3252,FRIP,三重県,0,,-
 HEROIC VERSE,Level 2,0,,-,898,SHANA,三重県,1591,-.-A,三重県,2819,HAKU0,三重県,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,753,SHANA,三重県,1634,SHANA,三重県,3540,FRIP,三重県,0,,-
-HEROIC VERSE,Infinity Mirror,0,,-,827,SHANA,三重県,1332,HERU2A,三重県,2312,FRIP,三重県,0,,-
+HEROIC VERSE,Infinity Mirror,0,,-,827,SHANA,三重県,1352,FIA,三重県,2312,FRIP,三重県,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,997,SHANA,三重県,1765,KAIN#,三重県,3130,FRIP,三重県,0,,-
 HEROIC VERSE,If,0,,-,760,SHANA,三重県,1277,MASSH.,三重県,1900,FRIP,三重県,0,,-
 HEROIC VERSE,Hyper Drive feat. ぷにぷに電機,0,,-,647,SHANA,三重県,1421,SHANA,三重県,1990,FRIP,三重県,0,,-
@@ -1296,7 +1296,7 @@ HEROIC VERSE,Drop It,0,,-,1273,SHANA,三重県,1719,SHANA,三重県,2759,HAKU0,�
 HEROIC VERSE,Double Dribble,0,,-,1205,SHANA,三重県,1807,WISTIA,三重県,3312,FRIP,三重県,0,,-
 HEROIC VERSE,Do What You Want,0,,-,685,SHANA,三重県,1210,SHANA,三重県,2029,FRIP,三重県,0,,-
 HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1325,SHANA,三重県,2194,MAJIN!,三重県,3372,FRIP,三重県,0,,-
-HEROIC VERSE,Crank It,0,,-,766,SHANA,三重県,1439,FIA,三重県,2442,FRIP,三重県,0,,-
+HEROIC VERSE,Crank It,0,,-,766,SHANA,三重県,1439,FIA,三重県,2443,FRIP,三重県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,896,SHANA,三重県,1581,SUGOC,三重県,2537,FRIP,三重県,0,,-
 HEROIC VERSE,Calvados Queen,0,,-,948,SHANA,三重県,1439,SHANA,三重県,2469,FRIP,三重県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,794,SHANA,三重県,1956,MAJIN!,三重県,3098,FRIP,三重県,0,,-
@@ -1316,7 +1316,7 @@ BISTROVER,犬に雨傘,0,,-,877,SHANA,三重県,1373,SHANA,三重県,2125,FRIP,�
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1343,K.E.N!,三重県,1840,SHANA,三重県,2824,FRIP,三重県,0,,-
 BISTROVER,水鏡の異界,0,,-,862,T-TMY,三重県,1722,HAGGER,三重県,3174,FRIP,三重県,0,,-
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1217,SHANA,三重県,1789,MAJIN!,三重県,2601,FRIP,三重県,0,,-
-BISTROVER,新宝島,504,SHANA,三重県,762,METAL,三重県,1313,METAL,三重県,2349,YUKITO,三重県,0,,-
+BISTROVER,新宝島,504,SHANA,三重県,762,METAL,三重県,1313,METAL,三重県,2368,FRIP,三重県,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1150,SHANA,三重県,1887,MAJIN!,三重県,3872,FRIP,三重県,0,,-
 BISTROVER,ここからよろしく大作戦143,265,QUERY,三重県,929,YU-KI,三重県,1759,MAJIN!,三重県,2520,FRIP,三重県,0,,-
 BISTROVER,∀,576,SHANA,三重県,1260,SHANA,三重県,2226,MAJIN!,三重県,3499,FRIP,三重県,0,,-
@@ -1325,12 +1325,12 @@ BISTROVER,When I Met U,0,,-,852,SHANA,三重県,1293,FIA,三重県,2053,FRIP,三
 BISTROVER,WAKE UP NOW,0,,-,723,MOKO,三重県,1389,HERU2A,三重県,2007,FRIP,三重県,0,,-
 BISTROVER,Vitrum,0,,-,1057,SHANA,三重県,1720,FIA,三重県,3563,FRIP,三重県,0,,-
 BISTROVER,TOMORROW,430,SHANA,三重県,757,SHANA,三重県,1531,HAGGER,三重県,2244,.32,三重県,0,,-
-BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,947,YU-KI,三重県,1669,FIA,三重県,2554,FRIP,三重県,0,,-
+BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,947,YU-KI,三重県,1696,HAGGER,三重県,2554,FRIP,三重県,0,,-
 BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1116,MARISA,三重県,1605,MARISA,三重県,2847,FRIP,三重県,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,1029,SHANA,三重県,1479,SHANA,三重県,2398,FRIP,三重県,0,,-
 BISTROVER,So Punky,0,,-,731,MOKO,三重県,1623,JUICY!,三重県,2578,FRIP,三重県,0,,-
 BISTROVER,"smooooch・∀・ (Snail's House Remix) ",0,,-,851,SHANA,三重県,1499,HAM-1,三重県,2371,FRIP,三重県,0,,-
-BISTROVER,S-Bahn,0,,-,925,SHANA,三重県,1472,FIA,三重県,2172,FRIP,三重県,0,,-
+BISTROVER,S-Bahn,0,,-,925,SHANA,三重県,1472,FIA,三重県,2177,FRIP,三重県,0,,-
 BISTROVER,Rubrum Piano,0,,-,778,YU-KI,三重県,1539,NKMR-R,三重県,2469,FRIP,三重県,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,0,,-,1439,SHANA,三重県,2180,FRIP,三重県,0,,-
 BISTROVER,Rowdy,0,,-,550,KITT,三重県,1515,FIA,三重県,2503,T*CHA,三重県,0,,-
@@ -1338,10 +1338,10 @@ BISTROVER,rommmo,0,,-,1168,SHANA,三重県,1705,SHANA,三重県,3438,FRIP,三重
 BISTROVER,Romanticが止まらない,375,SHANA,三重県,910,T-TMY,三重県,1683,MAJIN!,三重県,2723,FRIP,三重県,0,,-
 BISTROVER,POLKAMANIA,417,NOHNA,三重県,961,T-TMY,三重県,1777,N8N,三重県,2938,FRIP,三重県,0,,-
 BISTROVER,Party Starter,0,,-,935,SHANA,三重県,1489,FIA,三重県,2312,FRIP,三重県,0,,-
-BISTROVER,Para siempre,0,,-,868,YU-KI,三重県,1500,MASSH.,三重県,2875,FRIP,三重県,0,,-
+BISTROVER,Para siempre,0,,-,868,YU-KI,三重県,1500,MASSH.,三重県,2878,FRIP,三重県,0,,-
 BISTROVER,Overslept,0,,-,1092,SHANA,三重県,1595,U.T.,三重県,2549,HAKU0,三重県,0,,-
-BISTROVER,of the first magnitude,0,,-,997,YU-KI,三重県,1849,TAKUTO,三重県,2933,FRIP,三重県,0,,-
-BISTROVER,Ocean Blue feat. Luschel,0,,-,812,SHANA,三重県,1423,FIA,三重県,2464,FRIP,三重県,0,,-
+BISTROVER,of the first magnitude,0,,-,997,YU-KI,三重県,1894,HAGGER,三重県,2947,HAKU0,三重県,0,,-
+BISTROVER,Ocean Blue feat. Luschel,0,,-,812,SHANA,三重県,1423,FIA,三重県,2468,FRIP,三重県,0,,-
 BISTROVER,Neo Heritage,0,,-,0,,-,1646,FIA,三重県,2861,FRIP,三重県,0,,-
 BISTROVER,Midnight Drive,0,,-,575,SHANA,三重県,1195,MASSH.,三重県,1992,FRIP,三重県,0,,-
 BISTROVER,Mars beach,0,,-,589,SHANA,三重県,1351,JUICY!,三重県,2237,HAKU0,三重県,0,,-
@@ -1372,7 +1372,7 @@ CastHour,月とミルク,0,,-,996,HAGGER,三重県,1593,HAGGER,三重県,2786,FR
 CastHour,愛しくてラヴィンユー ft. マナ,0,,-,790,SHANA,三重県,1495,MAJIN!,三重県,2407,FRIP,三重県,0,,-
 CastHour,怪物,346,RIVER*,三重県,738,QUERY,三重県,1196,HAGGER,三重県,2409,FRIP,三重県,0,,-
 CastHour,口カラ凸ゲキ,0,,-,935,HAGGER,三重県,1542,HAGGER,三重県,2394,FRIP,三重県,0,,-
-CastHour,ミュージック・アワー,538,RUDE,三重県,1175,METAL,三重県,2128,HAGGER,三重県,3004,FRIP,三重県,0,,-
+CastHour,ミュージック・アワー,538,RUDE,三重県,1175,METAL,三重県,2152,HAGGER,三重県,3004,FRIP,三重県,0,,-
 CastHour,ハイテックトキオ,0,,-,1065,SHANA,三重県,1936,MAJIN!,三重県,2706,FRIP,三重県,0,,-
 CastHour,デモーニッシュ,256,SHANA,三重県,935,CIRNO9,三重県,1472,K.E.N!,三重県,2393,FRIP,三重県,0,,-
 CastHour,シル・ヴ・プレジデント,303,RIVER*,三重県,655,CIRNO9,三重県,1220,MAJIN!,三重県,1799,T*CHA,三重県,0,,-
@@ -1386,13 +1386,13 @@ CastHour,Votania Beat,0,,-,1073,HAGGER,三重県,1634,MA,三重県,2538,.32,三�
 CastHour,Victory Of Ravers,0,,-,1030,HAGGER,三重県,1763,MAJIN!,三重県,2564,FRIP,三重県,0,,-
 CastHour,Ventriloquist,0,,-,789,CIRNO9,三重県,1532,HAGGER,三重県,2439,FRIP,三重県,0,,-
 CastHour,Triple Cross,572,SHANA,三重県,1106,SHANA,三重県,2306,MAJIN!,三重県,3299,FRIP,三重県,0,,-
-CastHour,Tail Lights,0,,-,1049,QUERY,三重県,1964,MAJIN!,三重県,3123,FRIP,三重県,0,,-
+CastHour,Tail Lights,0,,-,1074,RIVER*,三重県,1964,MAJIN!,三重県,3123,FRIP,三重県,0,,-
 CastHour,Souhait bleu,0,,-,848,YU-KI,三重県,1796,FIA,三重県,2732,FRIP,三重県,0,,-
 CastHour,SOLID WYVERN,0,,-,1216,HAGGER,三重県,1980,HAGGER,三重県,2641,FRIP,三重県,0,,-
 CastHour,Skreaming for Salvation,0,,-,834,CIRNO9,三重県,2048,YUKITO,三重県,3139,FRIP,三重県,0,,-
 CastHour,Purple Perplex,0,,-,1152,HAGGER,三重県,1877,DANPA,三重県,3012,FRIP,三重県,0,,-
 CastHour,Prohibited Props,0,,-,1046,HAGGER,三重県,1592,MAJIN!,三重県,2269,YUKITO,三重県,0,,-
-CastHour,PIRATES BLADE,0,,-,916,RUDE,三重県,1516,HAGGER,三重県,2166,FRIP,三重県,0,,-
+CastHour,PIRATES BLADE,0,,-,926,HAGGER,三重県,1521,HAGGER,三重県,2166,FRIP,三重県,0,,-
 CastHour,P.O.W.E.R.,0,,-,1062,HAGGER,三重県,1754,HAGGER,三重県,2350,FRIP,三重県,0,,-
 CastHour,Onyx,0,,-,900,HAGGER,三重県,1520,IIDX35,三重県,2399,T*CHA,三重県,0,,-
 CastHour,Non Stop Rock,0,,-,799,CIRNO9,三重県,1310,HAGGER,三重県,1864,FRIP,三重県,0,,-
