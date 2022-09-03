@@ -1,7 +1,7 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
 1st&substream,THE EARTH LIGHT,0,,-,777,NO4CUP,山梨県,1025,NO4CUP,山梨県,1101,EN-ZAN,山梨県,0,,-
 1st&substream,RUGGED ASH,0,,-,321,SERRA,山梨県,400,NO4CUP,山梨県,1008,TFN,山梨県,1979,M-B,山梨県
-1st&substream,R3,0,,-,618,NO4CUP,山梨県,727,NO4CUP,山梨県,875,EN-ZAN,山梨県,0,,-
+1st&substream,R3,0,,-,644,NO4CUP,山梨県,727,NO4CUP,山梨県,875,EN-ZAN,山梨県,0,,-
 1st&substream,PARANOIA MAX～DIRTY MIX～,0,,-,546,NO4CUP,山梨県,666,RYO,山梨県,1093,T3N.*,山梨県,0,,-
 1st&substream,Macho Gang,0,,-,355,AAAAAA,山梨県,933,U.Y.,山梨県,1577,NO4CUP,山梨県,0,,-
 1st&substream,KEEP ON MOVIN',0,,-,194,NO4CUP,山梨県,244,NO4CUP,山梨県,0,,-,0,,-
@@ -40,7 +40,7 @@
 4th style,LOVE WILL・・・,0,,-,541,NO4CUP,山梨県,746,NO4CUP,山梨県,1432,YAISE,山梨県,0,,-
 4th style,KAMIKAZE,0,,-,2,NO4CUP,山梨県,0,,-,2229,KA3SU7,山梨県,0,,-
 4th style,Jam&Marmalade,0,,-,2,NO4CUP,山梨県,0,,-,999,KA3SU7,山梨県,0,,-
-4th style,Hitch Hiker2,0,,-,821,NO4CUP,山梨県,0,,-,1250,EN-ZAN,山梨県,1878,NO4CUP,山梨県
+4th style,Hitch Hiker2,0,,-,821,NO4CUP,山梨県,1144,TFN,山梨県,1250,EN-ZAN,山梨県,1878,NO4CUP,山梨県
 4th style,HIGHER,0,,-,2,NO4CUP,山梨県,923,NO4CUP,山梨県,1256,IIDX29,山梨県,0,,-
 4th style,FLOWERS for ALBION,0,,-,232,NO4CUP,山梨県,438,EN-ZAN,山梨県,0,,-,0,,-
 4th style,era (step mix),0,,-,1,NO4CUP,山梨県,1370,TFN,山梨県,1651,NO4CUP,山梨県,0,,-
@@ -49,7 +49,7 @@
 4th style,Clione,0,,-,488,RYO,山梨県,933,NO4CUP,山梨県,1591,IIDX29,山梨県,2104,IIDX29,山梨県
 4th style,CHECKING YOU OUT,0,,-,1,NO4CUP,山梨県,918,NO4CUP,山梨県,1317,NO4CUP,山梨県,0,,-
 4th style,Burnin' The Floor,0,,-,573,NO4CUP,山梨県,951,NO4CUP,山梨県,1422,T3N.*,山梨県,0,,-
-4th style,Broken My Heart,0,,-,869,KMA,山梨県,1466,NO4CUP,山梨県,1753,NO4CUP,山梨県,0,,-
+4th style,Broken My Heart,0,,-,869,KMA,山梨県,1466,NO4CUP,山梨県,1759,IIDX29,山梨県,0,,-
 4th style,B4U,0,,-,938,KMA,山梨県,1464,TFN,山梨県,1953,KA3SU7,山梨県,0,,-
 4th style,ABSOLUTE,0,,-,1264,NO4CUP,山梨県,1805,NO4CUP,山梨県,2275,KA3SU7,山梨県,2597,YAISE,山梨県
 4th style,250bpm,0,,-,672,NO4CUP,山梨県,1004,NO4CUP,山梨県,1370,SCP096,山梨県,0,,-
@@ -59,7 +59,7 @@
 5th style,sync,0,,-,871,METEOR,山梨県,1795,KRTK,山梨県,2340,M-B,山梨県,0,,-
 5th style,still my words,0,,-,914,NO4CUP,山梨県,1224,NO4CUP,山梨県,0,,-,0,,-
 5th style,STILL IN MY HEART,0,,-,329,P6Q1,山梨県,1323,NO4CUP,山梨県,1822,KA3SU7,山梨県,0,,-
-5th style,Spin the disc,0,,-,1,NO4CUP,山梨県,1281,NO4CUP,山梨県,1298,IIDX29,山梨県,0,,-
+5th style,Spin the disc,0,,-,789,NO4CUP,山梨県,1281,NO4CUP,山梨県,1306,SCP096,山梨県,0,,-
 5th style,sometime,0,,-,760,NO4CUP,山梨県,0,,-,1252,MG-REX,山梨県,0,,-
 5th style,RISLIM,0,,-,911,NO4CUP,山梨県,1197,T3N.*,山梨県,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,888,NO4CUP,山梨県,1052,NO4CUP,山梨県,1708,YAISE,山梨県,1765,NO4CUP,山梨県
@@ -110,7 +110,7 @@
 7th style,Bad Routine,0,,-,1016,NO4CUP,山梨県,1344,KMA,山梨県,1869,IIDX29,山梨県,0,,-
 7th style,AVE DE RAPINA,0,,-,1349,NO4CUP,山梨県,1707,NO4CUP,山梨県,1706,KMA,山梨県,0,,-
 7th style,A,0,,-,1288,NO4CUP,山梨県,2075,NO4CUP,山梨県,2397,IIDX29,山梨県,0,,-
-8th style,蒼い衝動,0,,-,494,P6Q1,山梨県,1361,NO4CUP,山梨県,1563,IIDX29,山梨県,0,,-
+8th style,蒼い衝動,0,,-,494,P6Q1,山梨県,1361,NO4CUP,山梨県,1570,SCP096,山梨県,0,,-
 8th style,桜,0,,-,537,NANA.,山梨県,1379,KMA,山梨県,2084,M-B,山梨県,0,,-
 8th style,xenon,0,,-,779,YUI*,山梨県,1688,NO4CUP,山梨県,2676,IIDX29,山梨県,0,,-
 8th style,World Wide Love,0,,-,689,NO4CUP,山梨県,1047,NO4CUP,山梨県,1105,IIDX29,山梨県,0,,-
@@ -118,9 +118,9 @@
 8th style,thunder,0,,-,733,GERMAN,山梨県,1472,TFN,山梨県,1844,K-,山梨県,0,,-
 8th style,symbolic,0,,-,1055,ZRUSH,山梨県,1810,NO4CUP,山梨県,2159,NO4CUP,山梨県,0,,-
 8th style,rainbow flyer,0,,-,1,NO4CUP,山梨県,1626,NO4CUP,山梨県,2090,IIDX29,山梨県,0,,-
-8th style,PLEASE DON'T GO,0,,-,974,NO4CUP,山梨県,1246,KMA,山梨県,2366,IIDX29,山梨県,0,,-
+8th style,PLEASE DON'T GO,0,,-,974,NO4CUP,山梨県,1305,KMA,山梨県,2366,IIDX29,山梨県,0,,-
 8th style,MUSIC TO YOUR HEAD,0,,-,816,NO4CUP,山梨県,1367,TFN,山梨県,1621,KA3SU7,山梨県,0,,-
-8th style,murmur twins,0,,-,959,MASA,山梨県,1646,T3N.*,山梨県,2364,M-A,山梨県,0,,-
+8th style,murmur twins,0,,-,1090,XOF,山梨県,1646,T3N.*,山梨県,2364,M-A,山梨県,0,,-
 8th style,Monkey Dance,0,,-,814,NO4CUP,山梨県,1350,NO4CUP,山梨県,1923,NO4CUP,山梨県,0,,-
 8th style,memories,0,,-,2,NO4CUP,山梨県,2026,NO4CUP,山梨県,2148,T3N.*,山梨県,0,,-
 8th style,Luv 2 Feel Your Body,0,,-,849,NO4CUP,山梨県,0,,-,1593,NO4CUP,山梨県,0,,-
@@ -128,25 +128,25 @@
 8th style,LAB,0,,-,2,NO4CUP,山梨県,2003,NO4CUP,山梨県,2060,NO4CUP,山梨県,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,1249,NO4CUP,山梨県,1769,KMA,山梨県,2085,DOLLY,山梨県,0,,-
 8th style,Halfway of promise,0,,-,951,NO4CUP,山梨県,1511,NO4CUP,山梨県,1799,SCP096,山梨県,0,,-
-8th style,Giudecca,0,,-,917,NO4CUP,山梨県,1919,NO4CUP,山梨県,2557,KA3SU7,山梨県,0,,-
+8th style,Giudecca,0,,-,917,NO4CUP,山梨県,1919,NO4CUP,山梨県,2630,IIDX29,山梨県,0,,-
 8th style,dual control,0,,-,697,KMA,山梨県,1292,KMA,山梨県,1675,46KABE,山梨県,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,1151,NO4CUP,山梨県,1990,T3N.*,山梨県,2153,IIDX29,山梨県,0,,-
 8th style,CELEBRATE NITE,0,,-,2,NO4CUP,山梨県,1168,T3N.*,山梨県,1359,KA3SU7,山梨県,0,,-
 8th style,Blame,0,,-,1192,NO4CUP,山梨県,1525,NO4CUP,山梨県,1887,KA3SU7,山梨県,0,,-
-8th style,bit mania,0,,-,2,NO4CUP,山梨県,1100,NAKAJI,山梨県,1855,NO4CUP,山梨県,0,,-
+8th style,bit mania,0,,-,2,NO4CUP,山梨県,1227,TFN,山梨県,1855,NO4CUP,山梨県,0,,-
 8th style,Attitude,0,,-,1037,NO4CUP,山梨県,1314,KMA,山梨県,1734,NO4CUP,山梨県,0,,-
 8th style,ALL RIGHT,0,,-,830,COX,山梨県,1292,NO4CUP,山梨県,1605,IIDX29,山梨県,0,,-
 8th style,airflow,0,,-,469,TOUFU,山梨県,524,T1G3R.,山梨県,1408,NO4CUP,山梨県,0,,-
 8th style,abstract,0,,-,1262,NO4CUP,山梨県,1472,KMA,山梨県,1761,ZEAL,山梨県,0,,-
-9th style,真夏の花・真夏の夢,0,,-,822,NO4CUP,山梨県,1002,WMARIO,山梨県,1439,NO4CUP,山梨県,0,,-
+9th style,真夏の花・真夏の夢,0,,-,822,NO4CUP,山梨県,1095,HORATI,山梨県,1439,NO4CUP,山梨県,0,,-
 9th style,ライオン好き,0,,-,635,NO4CUP,山梨県,888,LION-B,山梨県,1476,KA3SU7,山梨県,0,,-
 9th style,SWEETEST SAVAGE,0,,-,657,NO4CUP,山梨県,1339,NO4CUP,山梨県,1740,SCP096,山梨県,0,,-
 9th style,Sweet Sweet Magic,0,,-,997,NO4CUP,山梨県,1517,NO4CUP,山梨県,1956,SCP096,山梨県,0,,-
 9th style,STAR FIELD,0,,-,656,HORATI,山梨県,1567,NO4CUP,山梨県,1826,NO4CUP,山梨県,0,,-
-9th style,SNOW,0,,-,519,AAAAAA,山梨県,435,UNI04$,山梨県,1874,KA3SU7,山梨県,0,,-
+9th style,SNOW,0,,-,1030,NO4CUP,山梨県,1375,NO4CUP,山梨県,1874,KA3SU7,山梨県,0,,-
 9th style,Silvia Drive,0,,-,797,KRTK,山梨県,1384,NEDGY,山梨県,1979,NO4CUP,山梨県,0,,-
 9th style,rottel-the-Mercury,0,,-,935,RYO,山梨県,1864,T3N.*,山梨県,2248,NO4CUP,山梨県,0,,-
-9th style,RISLIM -Remix-,0,,-,791,NO4CUP,山梨県,0,,-,1850,SCP096,山梨県,0,,-
+9th style,RISLIM -Remix-,0,,-,791,NO4CUP,山梨県,934,NO4CUP,山梨県,1850,SCP096,山梨県,0,,-
 9th style,Really Love,0,,-,2,NO4CUP,山梨県,939,NO4CUP,山梨県,1696,NO4CUP,山梨県,0,,-
 9th style,Quickening,0,,-,939,NO4CUP,山梨県,1597,KMA,山梨県,1996,KA3SU7,山梨県,0,,-
 9th style,quasar,0,,-,1168,T3N.*,山梨県,1763,T3N.*,山梨県,2261,KA3SU7,山梨県,0,,-
@@ -182,7 +182,7 @@
 10th style,Narcissus At Oasis,0,,-,772,NO4CUP,山梨県,1504,T3N.*,山梨県,1647,IIDX29,山梨県,0,,-
 10th style,Lucy,0,,-,957,NO4CUP,山梨県,1683,TFN,山梨県,2275,IIDX29,山梨県,0,,-
 10th style,Love Is Eternity,0,,-,1193,NO4CUP,山梨県,1816,TFN,山梨県,2341,NO4CUP,山梨県,0,,-
-10th style,Innocent Walls,0,,-,1602,NO4CUP,山梨県,2371,KA3SU7,山梨県,2696,KA3SU7,山梨県,0,,-
+10th style,Innocent Walls,0,,-,1602,NO4CUP,山梨県,2371,KA3SU7,山梨県,2717,IIDX29,山梨県,0,,-
 10th style,HIGH,0,,-,905,NO4CUP,山梨県,1900,NO4CUP,山梨県,2103,M2,山梨県,0,,-
 10th style,GRADIUS -FULL SPEED-,0,,-,694,NO4CUP,山梨県,1050,KRTK,山梨県,2027,NO4CUP,山梨県,0,,-
 10th style,GHOST REVIVAL,0,,-,898,NO4CUP,山梨県,1890,KMA,山梨県,2346,SUGAMO,山梨県,0,,-
@@ -203,14 +203,14 @@
 10th style,1st Samurai,0,,-,1074,NO4CUP,山梨県,1934,NO4CUP,山梨県,2612,IIDX29,山梨県,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,923,NO4CUP,山梨県,1469,NO4CUP,山梨県,1954,YUIEL,山梨県,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,831,NO4CUP,山梨県,1302,NEDGY,山梨県,1696,K-,山梨県,0,,-
-IIDX RED,大桟橋,0,,-,2,NO4CUP,山梨県,1131,NO4CUP,山梨県,1809,KA3SU7,山梨県,0,,-
+IIDX RED,大桟橋,0,,-,479,NO4CUP,山梨県,1131,NO4CUP,山梨県,1809,KA3SU7,山梨県,0,,-
 IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,809,NO4CUP,山梨県,2075,IIDX29,山梨県,2685,M-A,山梨県,0,,-
 IIDX RED,Wonder Bullfighter,0,,-,376,AAAAAA,山梨県,682,IIDX29,山梨県,1957,NO4CUP,山梨県,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,1054,NO4CUP,山梨県,1688,NO4CUP,山梨県,1918,K-,山梨県,0,,-
 IIDX RED,spiral galaxy,0,,-,1073,NO4CUP,山梨県,2042,NO4CUP,山梨県,2542,IIDX29,山梨県,3673,M-B,山梨県
 IIDX RED,Sphere,0,,-,1063,NO4CUP,山梨県,1939,NO4CUP,山梨県,1998,LUNA**,山梨県,0,,-
 IIDX RED,SPEEDY CAT,0,,-,712,HENAR,山梨県,1513,KMA,山梨県,2009,IIDX29,山梨県,0,,-
-IIDX RED,Secret of Love,0,,-,2,NO4CUP,山梨県,1364,KMA,山梨県,1978,IIDX29,山梨県,0,,-
+IIDX RED,Secret of Love,0,,-,2,NO4CUP,山梨県,1364,KMA,山梨県,2009,IIDX29,山梨県,0,,-
 IIDX RED,RESONATE 1794,0,,-,777,MASA,山梨県,1365,TFN,山梨県,1829,M-B,山梨県,0,,-
 IIDX RED,RED ZONE,168,COX,山梨県,1102,NO4CUP,山梨県,1877,T3N.*,山梨県,2309,IIDX29,山梨県,2988,IIDX29,山梨県
 IIDX RED,Raspberry Heart(English version),0,,-,1036,NO4CUP,山梨県,1563,NO4CUP,山梨県,1820,IIDX29,山梨県,0,,-
@@ -219,7 +219,7 @@ IIDX RED,KEY,0,,-,884,METEOR,山梨県,1875,T3N.*,山梨県,2813,SCP096,山梨�
 IIDX RED,HORIZON,0,,-,1015,KMA,山梨県,1526,NO4CUP,山梨県,1948,IIDX29,山梨県,0,,-
 IIDX RED,gigadelic,698,NO4CUP,山梨県,1492,NO4CUP,山梨県,2143,M-B,山梨県,2409,NO4CUP,山梨県,0,,-
 IIDX RED,GENOCIDE,0,,-,949,COX,山梨県,2058,NO4CUP,山梨県,2335,IIDX29,山梨県,0,,-
-IIDX RED,Fly Away To India,0,,-,169,ZETSU,山梨県,807,MASA,山梨県,1382,SCP096,山梨県,0,,-
+IIDX RED,Fly Away To India,0,,-,169,ZETSU,山梨県,807,MASA,山梨県,1394,SCP096,山梨県,0,,-
 IIDX RED,FAKE TIME,0,,-,1030,NO4CUP,山梨県,1688,NO4CUP,山梨県,2350,M-B,山梨県,0,,-
 IIDX RED,earth scape,0,,-,366,TOUFU,山梨県,1013,NO4CUP,山梨県,1247,EN-ZAN,山梨県,0,,-
 IIDX RED,Don't be afraid myself,0,,-,678,KIBA84,山梨県,1858,T3N.*,山梨県,2234,IIDX29,山梨県,0,,-
@@ -244,7 +244,7 @@ HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,667,NO4CUP,山梨県,971,NO4CU
 HAPPY SKY,Votum stellarum,0,,-,800,NO4CUP,山梨県,1665,NO4CUP,山梨県,1962,NO4CUP,山梨県,0,,-
 HAPPY SKY,vault of heaven,0,,-,785,NO4CUP,山梨県,1424,NO4CUP,山梨県,1939,KA3SU7,山梨県,0,,-
 HAPPY SKY,Under the Sky,0,,-,906,T3N.*,山梨県,1390,T3N.*,山梨県,1702,IIDX29,山梨県,0,,-
-HAPPY SKY,Twelfth Style,0,,-,957,METEOR,山梨県,1509,NO4CUP,山梨県,1916,SCP096,山梨県,3118,IIDX29,山梨県
+HAPPY SKY,Twelfth Style,0,,-,1237,NO4CUP,山梨県,1509,NO4CUP,山梨県,1916,SCP096,山梨県,3118,IIDX29,山梨県
 HAPPY SKY,Tizona d'El Cid,0,,-,964,NO4CUP,山梨県,1907,NO4CUP,山梨県,2270,KA3SU7,山梨県,0,,-
 HAPPY SKY,SigSig,660,ALISIA,山梨県,857,MASA,山梨県,1689,NO4CUP,山梨県,2560,NO4CUP,山梨県,0,,-
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,1326,NO4CUP,山梨県,1648,NO4CUP,山梨県,1878,BOLT,山梨県,0,,-
@@ -266,7 +266,7 @@ HAPPY SKY,I am,0,,-,1091,NO4CUP,山梨県,1735,T3N.*,山梨県,2116,ROBIN,山梨
 HAPPY SKY,HAPPY☆ANGEL,641,COX,山梨県,767,HENAR,山梨県,1543,NO4CUP,山梨県,2078,M-A,山梨県,0,,-
 HAPPY SKY,GREEN EYES,0,,-,727,SETSU,山梨県,1515,KMA,山梨県,2069,SCP096,山梨県,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,1192,NO4CUP,山梨県,1733,NO4CUP,山梨県,2236,KA3SU7,山梨県,0,,-
-HAPPY SKY,garden,0,,-,859,NO4CUP,山梨県,1334,RYO,山梨県,2099,SCP096,山梨県,0,,-
+HAPPY SKY,garden,0,,-,859,NO4CUP,山梨県,1334,RYO,山梨県,2110,IIDX29,山梨県,0,,-
 HAPPY SKY,First Resolution,0,,-,834,NO4CUP,山梨県,1592,NO4CUP,山梨県,2102,IIDX29,山梨県,0,,-
 HAPPY SKY,EMPTY OF THE SKY,0,,-,661,NO4CUP,山梨県,884,IIDX29,山梨県,1670,NO4CUP,山梨県,0,,-
 HAPPY SKY,EDEN,0,,-,1289,NO4CUP,山梨県,1888,NO4CUP,山梨県,2685,K-,山梨県,0,,-
@@ -283,15 +283,15 @@ DistorteD,罠,0,,-,565,NO4CUP,山梨県,1520,NO4CUP,山梨県,2431,SCP096,山梨
 DistorteD,嘆きの樹,0,,-,1780,NO4CUP,山梨県,2414,NO4CUP,山梨県,3846,M-A,山梨県,0,,-
 DistorteD,タシカナモノ,0,,-,922,NO4CUP,山梨県,1427,NO4CUP,山梨県,2010,IIDX29,山梨県,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,1145,NO4CUP,山梨県,1811,NO4CUP,山梨県,2623,M-A,山梨県,0,,-
-DistorteD,Zenius -I- vanisher,0,,-,977,NO4CUP,山梨県,1557,NO4CUP,山梨県,2351,IIDX29,山梨県,0,,-
+DistorteD,Zenius -I- vanisher,0,,-,977,NO4CUP,山梨県,1557,NO4CUP,山梨県,2359,IIDX29,山梨県,0,,-
 DistorteD,with you…,0,,-,2,NO4CUP,山梨県,1018,THORMA,山梨県,1748,IIDX29,山梨県,0,,-
 DistorteD,WISH(EUROBEAT MIX),0,,-,1039,NO4CUP,山梨県,1242,REACH,山梨県,1940,NO4CUP,山梨県,0,,-
 DistorteD,Why did you go away,616,ALISIA,山梨県,1017,NANAMI,山梨県,1781,T3N.*,山梨県,2273,IIDX29,山梨県,0,,-
-DistorteD,waxing and wanding,0,,-,1284,CRIMM,山梨県,1932,T3N.*,山梨県,2857,IIDX29,山梨県,3917,M-B,山梨県
+DistorteD,waxing and wanding,0,,-,1284,CRIMM,山梨県,1973,NO4CUP,山梨県,2857,IIDX29,山梨県,3917,M-B,山梨県
 DistorteD,TYPE MARS(G-Style Mix),0,,-,1108,CUBE,山梨県,1771,NO4CUP,山梨県,2341,IIDX29,山梨県,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1251,NO4CUP,山梨県,1826,KMA,山梨県,2415,IIDX29,山梨県,0,,-
 DistorteD,This is Love,0,,-,930,NO4CUP,山梨県,1791,T3N.*,山梨県,2447,M-B,山梨県,0,,-
-DistorteD,The Dirty of Loudness,0,,-,1303,REACH,山梨県,1977,KMA,山梨県,2528,IIDX29,山梨県,0,,-
+DistorteD,The Dirty of Loudness,0,,-,1319,REACH,山梨県,1977,KMA,山梨県,2528,IIDX29,山梨県,0,,-
 DistorteD,Sun Field,0,,-,384,MOLS,山梨県,1503,T3N.*,山梨県,2365,IIDX29,山梨県,0,,-
 DistorteD,So Fabulous !!,0,,-,749,GERMAN,山梨県,1547,NO4CUP,山梨県,2288,IIDX29,山梨県,0,,-
 DistorteD,Power of Love,0,,-,2,NO4CUP,山梨県,1631,NO4CUP,山梨県,1956,M2,山梨県,0,,-
@@ -325,7 +325,7 @@ GOLD,With your Smile,0,,-,722,NO4CUP,山梨県,1116,KRTK,山梨県,1548,SCP096,�
 GOLD,Watch out!!,0,,-,648,P*A*N,山梨県,1038,NO4CUP,山梨県,1558,NO4CUP,山梨県,0,,-
 GOLD,VANESSA,0,,-,1124,NO4CUP,山梨県,1731,SCP096,山梨県,2354,M-B,山梨県,3391,M-A,山梨県
 GOLD,TRANOID,0,,-,795,NO4CUP,山梨県,1766,NO4CUP,山梨県,2088,7KAMAI,山梨県,2976,M-A,山梨県
-GOLD,The Smile of You,0,,-,578,PIKA,山梨県,1050,UDON,山梨県,1611,NO4CUP,山梨県,0,,-
+GOLD,The Smile of You,0,,-,938,NO4CUP,山梨県,1304,NO4CUP,山梨県,1611,NO4CUP,山梨県,0,,-
 GOLD,the shadow,0,,-,1203,NO4CUP,山梨県,1896,SHENHE,山梨県,2867,IIDX29,山梨県,0,,-
 GOLD,snow storm,228,COX,山梨県,652,NAKAJI,山梨県,2243,NO4CUP,山梨県,2733,IIDX29,山梨県,3375,M-A,山梨県
 GOLD,smile,0,,-,1473,NO4CUP,山梨県,1998,KMA,山梨県,2805,KA3SU7,山梨県,0,,-
@@ -340,7 +340,7 @@ GOLD,Make Me Your Own,0,,-,622,EINCLE,山梨県,1406,TFN,山梨県,2093,SCP096,�
 GOLD,Love Again...,0,,-,159,ZETSU,山梨県,0,,-,1070,SCP096,山梨県,0,,-
 GOLD,LASER CRUSTER,0,,-,1441,NO4CUP,山梨県,2294,SHENHE,山梨県,3167,M-B,山梨県,0,,-
 GOLD,KAMAITACHI,0,,-,1262,NO4CUP,山梨県,1991,NO4CUP,山梨県,2589,K-,山梨県,3720,M-B,山梨県
-GOLD,INORI,0,,-,704,AAAAAA,山梨県,2409,EN-ZAN,山梨県,2998,SHENHE,山梨県,0,,-
+GOLD,INORI,0,,-,704,AAAAAA,山梨県,2409,EN-ZAN,山梨県,3044,IIDX29,山梨県,0,,-
 GOLD,High School Love,402,NO4CUP,山梨県,867,NO4CUP,山梨県,1559,NO4CUP,山梨県,2187,SCP096,山梨県,0,,-
 GOLD,heaven above,0,,-,506,!!!!!,山梨県,1383,NO4CUP,山梨県,1827,SCP096,山梨県,0,,-
 GOLD,GRID KNIGHT,0,,-,353,AAAAAA,山梨県,1944,NO4CUP,山梨県,2583,IIDX29,山梨県,3462,M-A,山梨県
@@ -357,10 +357,10 @@ GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1313,NO4CUP,山梨県,1
 GOLD,ANDROMEDA II,0,,-,947,NO4CUP,山梨県,1878,NO4CUP,山梨県,2410,K-,山梨県,0,,-
 GOLD,Air Bell,0,,-,990,NO4CUP,山梨県,1340,NO4CUP,山梨県,1707,IIDX29,山梨県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,499,NO4CUP,山梨県,0,,-,1338,M-A,山梨県,0,,-
-DJ TROOPERS,華爛漫 -Flowers-,324,COX,山梨県,915,NANAMI,山梨県,1571,NO4CUP,山梨県,2026,M-B,山梨県,3037,IIDX29,山梨県
+DJ TROOPERS,華爛漫 -Flowers-,324,COX,山梨県,915,NANAMI,山梨県,1571,NO4CUP,山梨県,2026,M-B,山梨県,3043,IIDX29,山梨県
 DJ TROOPERS,少年A,0,,-,715,7NO,山梨県,1954,KMA,山梨県,2823,M-A,山梨県,0,,-
 DJ TROOPERS,ミラージュ・レジデンス,0,,-,1123,NO4CUP,山梨県,2100,NO4CUP,山梨県,2573,SCP096,山梨県,0,,-
-DJ TROOPERS,マチ子の唄,0,,-,563,!!!!!,山梨県,1306,NO4CUP,山梨県,1768,SCP096,山梨県,0,,-
+DJ TROOPERS,マチ子の唄,0,,-,563,!!!!!,山梨県,1306,NO4CUP,山梨県,1769,IIDX29,山梨県,0,,-
 DJ TROOPERS,エコ爺,334,COX,山梨県,835,NO4CUP,山梨県,1073,NO4CUP,山梨県,1834,NO4CUP,山梨県,0,,-
 DJ TROOPERS,Wanna Party?,0,,-,764,NO4CUP,山梨県,1185,NO4CUP,山梨県,1503,SCP096,山梨県,2555,SCP096,山梨県
 DJ TROOPERS,Ubertreffen,0,,-,1093,NO4CUP,山梨県,1934,NO4CUP,山梨県,2497,M-A,山梨県,3200,M-B,山梨県
@@ -381,7 +381,7 @@ DJ TROOPERS,Ristaccia,0,,-,1127,HAL*GT,山梨県,1889,NO4CUP,山梨県,2705,M-B,
 DJ TROOPERS,Rising in the Sun(original mix),0,,-,821,P*A*N,山梨県,1663,NO4CUP,山梨県,2325,IIDX29,山梨県,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1211,NO4CUP,山梨県,1814,NO4CUP,山梨県,2313,IIDX29,山梨県,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,591,NO4CUP,山梨県,1483,NO4CUP,山梨県,1731,SCP096,山梨県,0,,-
-DJ TROOPERS,PARANOiA ～HADES～,0,,-,1024,PAIMON,山梨県,1798,NO4CUP,山梨県,2622,M-B,山梨県,0,,-
+DJ TROOPERS,PARANOiA ～HADES～,0,,-,1082,NO4CUP,山梨県,1798,NO4CUP,山梨県,2622,M-B,山梨県,0,,-
 DJ TROOPERS,oratio,0,,-,963,YM-34,山梨県,1980,NO4CUP,山梨県,2889,M-B,山梨県,0,,-
 DJ TROOPERS,NEW GENERATION -もう、お前しか見えない-,0,,-,582,!!!!!,山梨県,1898,T3N.*,山梨県,2515,NO4CUP,山梨県,3596,M-B,山梨県
 DJ TROOPERS,MENTAL MELTDOWN,0,,-,1179,NO4CUP,山梨県,2182,NO4CUP,山梨県,2580,K-,山梨県,0,,-
@@ -391,7 +391,7 @@ DJ TROOPERS,madrugada,0,,-,2,NO4CUP,山梨県,1197,T3N.*,山梨県,1775,NO4CUP,�
 DJ TROOPERS,LOVELY STORM,0,,-,886,IIDX29,山梨県,2153,T3N.*,山梨県,2769,IIDX29,山梨県,0,,-
 DJ TROOPERS,Kick Out 仮面,0,,-,1165,NO4CUP,山梨県,1557,NO4CUP,山梨県,1991,SCP096,山梨県,0,,-
 DJ TROOPERS,in the Sky,0,,-,1368,NO4CUP,山梨県,2123,NO4CUP,山梨県,2500,IIDX29,山梨県,0,,-
-DJ TROOPERS,ICARUS,0,,-,1293,NO4CUP,山梨県,1823,KMA,山梨県,2432,M-B,山梨県,3568,M-B,山梨県
+DJ TROOPERS,ICARUS,0,,-,1293,NO4CUP,山梨県,1882,ALISIA,山梨県,2432,M-B,山梨県,3568,M-B,山梨県
 DJ TROOPERS,Freeway Shuffle,320,COX,山梨県,790,NO4CUP,山梨県,1249,T3N.*,山梨県,1847,IIDX29,山梨県,0,,-
 DJ TROOPERS,four pieces of heaven,0,,-,923,NO4CUP,山梨県,1686,NO4CUP,山梨県,2192,IIDX29,山梨県,0,,-
 DJ TROOPERS,end of world,0,,-,1007,NO4CUP,山梨県,1684,TFN,山梨県,2410,KUSA,山梨県,0,,-
@@ -401,7 +401,7 @@ DJ TROOPERS,Dazzlin' Darlin,319,COX,山梨県,714,GERMAN,山梨県,1297,FLARE,�
 DJ TROOPERS,Darling my LUV,0,,-,696,NO4CUP,山梨県,747,MASA,山梨県,1341,IIDX29,山梨県,0,,-
 DJ TROOPERS,Blue Rain,320,COX,山梨県,876,NO4CUP,山梨県,1512,KMA,山梨県,2179,SCP096,山梨県,3209,M-B,山梨県
 DJ TROOPERS,beatonic nation,0,,-,1172,KMA,山梨県,1857,NO4CUP,山梨県,2103,YUIEL,山梨県,0,,-
-DJ TROOPERS,Be OK,0,,-,885,KMA,山梨県,1773,NO4CUP,山梨県,2303,SHENHE,山梨県,3238,IIDX29,山梨県
+DJ TROOPERS,Be OK,0,,-,944,NO4CUP,山梨県,1773,NO4CUP,山梨県,2303,SHENHE,山梨県,3238,IIDX29,山梨県
 DJ TROOPERS,avant-guerre,0,,-,749,NO4CUP,山梨県,948,KURKOR,山梨県,1857,NO4CUP,山梨県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,970,IIDX29,山梨県,2068,YAISE,山梨県,2807,IIDX29,山梨県,3833,M-A,山梨県
 DJ TROOPERS,2 tribe 4 K,0,,-,886,NO4CUP,山梨県,1333,NO4CUP,山梨県,2684,IIDX29,山梨県,0,,-
@@ -420,7 +420,7 @@ EMPRESS,Y&Co. is dead or alive,0,,-,1023,KMA,山梨県,1703,NO4CUP,山梨県,265
 EMPRESS,V2,750,ALISIA,山梨県,1466,NO4CUP,山梨県,2926,NO4CUP,山梨県,3415,IIDX29,山梨県,0,,-
 EMPRESS,Turii ～Panta rhei～,356,COX,山梨県,888,NO4CUP,山梨県,1522,METEOR,山梨県,2660,M-A,山梨県,0,,-
 EMPRESS,THANK YOU FOR PLAYING,0,,-,806,NO4CUP,山梨県,1613,NO4CUP,山梨県,2039,YAISE,山梨県,2875,IIDX29,山梨県
-EMPRESS,SOLITON BEAM,0,,-,1047,YM-34,山梨県,1977,KMA,山梨県,2308,IIDX29,山梨県,0,,-
+EMPRESS,SOLITON BEAM,0,,-,1432,NO4CUP,山梨県,1977,KMA,山梨県,2308,IIDX29,山梨県,0,,-
 EMPRESS,smooooch・∀・,384,COX,山梨県,736,NANAMI,山梨県,1646,NO4CUP,山梨県,2126,M-A,山梨県,0,,-
 EMPRESS,Secrets,0,,-,1251,NO4CUP,山梨県,2247,TFN,山梨県,3064,KA3SU7,山梨県,3960,IIDX29,山梨県
 EMPRESS,Queen's Tragedy,0,,-,835,NO4CUP,山梨県,1680,NO4CUP,山梨県,2048,BOLT,山梨県,0,,-
@@ -514,7 +514,7 @@ Resort Anthem,XANADU OF TWO,0,,-,660,CHO,山梨県,1752,T3N.*,山梨県,2707,M-B
 Resort Anthem,Wuv U,0,,-,414,NO4CUP,山梨県,1312,T3N.*,山梨県,1621,T3N.*,山梨県,0,,-
 Resort Anthem,WISE UP!,328,COX,山梨県,492,NO4CUP,山梨県,1171,NO4CUP,山梨県,1562,SCP096,山梨県,2593,SCP096,山梨県
 Resort Anthem,Watch Out Pt.2,0,,-,990,IMF.,山梨県,1927,NO4CUP,山梨県,2704,M-B,山梨県,0,,-
-Resort Anthem,Vermillion,0,,-,0,,-,1158,NO4CUP,山梨県,1905,BOLT,山梨県,0,,-
+Resort Anthem,Vermillion,0,,-,525,KMA,山梨県,1158,NO4CUP,山梨県,1905,BOLT,山梨県,0,,-
 Resort Anthem,Tropical April,0,,-,1587,NO4CUP,山梨県,2281,NO4CUP,山梨県,2693,IIDX29,山梨県,0,,-
 Resort Anthem,THE FALLEN,0,,-,860,DOVE,山梨県,1464,KMA,山梨県,2592,SCP096,山梨県,0,,-
 Resort Anthem,THE DOOR INTO RAINBOW,0,,-,720,NANAMI,山梨県,1636,CARINA,山梨県,2102,KA3SU7,山梨県,0,,-
@@ -531,7 +531,7 @@ Resort Anthem,Rock Da House,0,,-,847,KMA,山梨県,1637,NO4CUP,山梨県,2190,II
 Resort Anthem,reunion,556,NO4CUP,山梨県,1400,NO4CUP,山梨県,2365,NO4CUP,山梨県,3157,M-B,山梨県,0,,-
 Resort Anthem,Programmed Life,0,,-,778,SERRA,山梨県,1719,DOLLY,山梨県,2252,NO4CUP,山梨県,0,,-
 Resort Anthem,perditus†paradisus,0,,-,1285,NO4CUP,山梨県,2332,NO4CUP,山梨県,3911,M-A,山梨県,0,,-
-Resort Anthem,passionate fate,0,,-,863,HENAR,山梨県,1646,NO4CUP,山梨県,2090,SCP096,山梨県,0,,-
+Resort Anthem,passionate fate,0,,-,888,HENAR,山梨県,1646,NO4CUP,山梨県,2090,SCP096,山梨県,0,,-
 Resort Anthem,PARADISE LOST,0,,-,1432,NO4CUP,山梨県,2230,NO4CUP,山梨県,3298,M-A,山梨県,0,,-
 Resort Anthem,New Castle Legions,0,,-,915,NO4CUP,山梨県,1905,NO4CUP,山梨県,2638,M-B,山梨県,0,,-
 Resort Anthem,Never Fade Away,0,,-,780,NO4CUP,山梨県,1351,METEOR,山梨県,2960,IIDX29,山梨県,0,,-
@@ -548,12 +548,12 @@ Resort Anthem,Energy Drive,0,,-,655,IIDX29,山梨県,1478,NO4CUP,山梨県,2157,
 Resort Anthem,DM STAR～関西 energy style～,0,,-,887,KIBA84,山梨県,1923,NO4CUP,山梨県,2367,SCP096,山梨県,0,,-
 Resort Anthem,Destiny Sword,0,,-,408,SOTHIE,山梨県,1790,T3N.*,山梨県,2262,SCP096,山梨県,0,,-
 Resort Anthem,DAYDREAMER,0,,-,1094,RYO,山梨県,1755,T3N.*,山梨県,2503,NO4CUP,山梨県,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1365,KMA,山梨県,2072,KMA,山梨県,2965,KA3SU7,山梨県,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1365,KMA,山梨県,2095,KMA,山梨県,2965,KA3SU7,山梨県,0,,-
 Resort Anthem,BROKEN EDEN,0,,-,1051,NO4CUP,山梨県,1650,TFN,山梨県,2333,M-A,山梨県,0,,-
 Resort Anthem,Broken,0,,-,1055,NO4CUP,山梨県,2021,T3N.*,山梨県,3150,M-A,山梨県,0,,-
 Resort Anthem,Breaking the ground,0,,-,1177,NO4CUP,山梨県,1780,NO4CUP,山梨県,2448,M-B,山梨県,0,,-
 Resort Anthem,Bounce Bounce Bounce,0,,-,1035,KMA,山梨県,1716,NO4CUP,山梨県,2307,KA3SU7,山梨県,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,811,NO4CUP,山梨県,1562,NO4CUP,山梨県,2038,KA3SU7,山梨県,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,811,NO4CUP,山梨県,1589,NO4CUP,山梨県,2038,KA3SU7,山梨県,0,,-
 Resort Anthem,Believe In Me,0,,-,1042,NO4CUP,山梨県,1842,NO4CUP,山梨県,2337,IIDX29,山梨県,0,,-
 Resort Anthem,ANTHEM LANDING,0,,-,793,NO4CUP,山梨県,1787,KMA,山梨県,2887,IIDX29,山梨県,0,,-
 Resort Anthem,Answer,0,,-,775,NO4CUP,山梨県,1482,NO4CUP,山梨県,2341,YAISE,山梨県,0,,-
@@ -589,7 +589,7 @@ Lincle,Scharfrichter,0,,-,722,MASA,山梨県,1627,T3N.*,山梨県,2812,KA3SU7,�
 Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,480,NO4CUP,山梨県,1175,KMA,山梨県,1566,KIT.*,山梨県,0,,-
 Lincle,Round and Round,0,,-,799,NO4CUP,山梨県,999,NANAMI,山梨県,2120,NO4CUP,山梨県,0,,-
 Lincle,RESISTANCE,0,,-,638,NO4CUP,山梨県,1188,NANAMI,山梨県,2340,IIDX29,山梨県,0,,-
-Lincle,Release The Music,0,,-,0,,-,1311,COX,山梨県,2024,SCP096,山梨県,0,,-
+Lincle,Release The Music,0,,-,0,,-,1311,COX,山梨県,2057,SCP096,山梨県,0,,-
 Lincle,Quick Silver,0,,-,791,NO4CUP,山梨県,1796,NO4CUP,山梨県,2665,M-A,山梨県,0,,-
 Lincle,quaver♪,283,COX,山梨県,700,NO4CUP,山梨県,2123,NO4CUP,山梨県,3434,M-A,山梨県,0,,-
 Lincle,QUANTUM TELEPORTATION,0,,-,1306,KRTK,山梨県,2094,7KAMAI,山梨県,2811,SCP096,山梨県,3492,IIDX29,山梨県
@@ -602,7 +602,7 @@ Lincle,Lucky Days,0,,-,453,NB2211,山梨県,1454,KMA,山梨県,2164,M-B,山梨�
 Lincle,LOVE B.B.B,0,,-,773,NO4CUP,山梨県,1512,T3N.*,山梨県,1993,T3N.*,山梨県,0,,-
 Lincle,Liquid Crystal Girl feat. echo,0,,-,413,NO4CUP,山梨県,1018,NANAMI,山梨県,1973,NO4CUP,山梨県,0,,-
 Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,0,,-,1624,M-B,山梨県,2198,IIDX29,山梨県,0,,-
-Lincle,LAX5 feat.Ryota Yoshinari,0,,-,461,211X-X,山梨県,2148,NO4CUP,山梨県,2719,BOLT,山梨県,0,,-
+Lincle,LAX5 feat.Ryota Yoshinari,0,,-,827,NOSUKE,山梨県,2148,NO4CUP,山梨県,2719,BOLT,山梨県,0,,-
 Lincle,Infinite cave,0,,-,706,KIBA84,山梨県,1509,T3N.*,山梨県,1899,BOLT,山梨県,0,,-
 Lincle,In the Blackest Den,0,,-,805,RYO,山梨県,1587,M-A,山梨県,2429,K-,山梨県,0,,-
 Lincle,I'm so Happy,309,COX,山梨県,414,NO4CUP,山梨県,1387,NO4CUP,山梨県,2308,IIDX29,山梨県,0,,-
@@ -649,8 +649,8 @@ tricoro,VEGA,0,,-,1143,NO4CUP,山梨県,2085,T3N.*,山梨県,3087,M-B,山梨県,
 tricoro,VALLIS-NERIA,260,COX,山梨県,1200,NO4CUP,山梨県,2066,T3N.*,山梨県,2847,KA3SU7,山梨県,0,,-
 tricoro,Valanga,0,,-,1342,T3N.*,山梨県,2178,NO4CUP,山梨県,3210,M-B,山梨県,0,,-
 tricoro,True Blue,0,,-,1088,NO4CUP,山梨県,2492,NO4CUP,山梨県,3712,M-B,山梨県,0,,-
-tricoro,Timepiece phase II (CN Ver.),0,,-,2,NO4CUP,山梨県,1755,BOLT,山梨県,2943,M-A,山梨県,0,,-
-tricoro,Timepiece phase II,0,,-,1066,NO4CUP,山梨県,2167,NO4CUP,山梨県,3097,KA3SU7,山梨県,0,,-
+tricoro,Timepiece phase II (CN Ver.),0,,-,2,NO4CUP,山梨県,1797,NO4CUP,山梨県,2943,M-A,山梨県,0,,-
+tricoro,Timepiece phase II,0,,-,1070,NO4CUP,山梨県,2167,NO4CUP,山梨県,3097,KA3SU7,山梨県,0,,-
 tricoro,Time To Empress,0,,-,913,NO4CUP,山梨県,1851,TFN,山梨県,2541,KA3SU7,山梨県,0,,-
 tricoro,Thor's Hammer,0,,-,950,NO4CUP,山梨県,1807,NO4CUP,山梨県,2971,M-A,山梨県,0,,-
 tricoro,Take My Life,0,,-,968,NO4CUP,山梨県,1411,REACH,山梨県,2868,IIDX29,山梨県,0,,-
@@ -667,10 +667,10 @@ tricoro,Re:GENERATION,231,COX,山梨県,2,NO4CUP,山梨県,1592,T3N.*,山梨県,
 tricoro,Rainbow after snow,0,,-,736,NO4CUP,山梨県,1350,AGMA,山梨県,2146,IIDX29,山梨県,0,,-
 tricoro,Proof of the existence,0,,-,1188,NO4CUP,山梨県,2012,NO4CUP,山梨県,3153,M-B,山梨県,0,,-
 tricoro,Praludium,0,,-,396,KAZLIN,山梨県,1381,TFN,山梨県,2211,KA3SU7,山梨県,0,,-
-tricoro,POINT ZERO,0,,-,711,NO4CUP,山梨県,1277,NO4CUP,山梨県,2023,YUIEL,山梨県,0,,-
+tricoro,POINT ZERO,0,,-,711,NO4CUP,山梨県,1277,NO4CUP,山梨県,2040,IIDX29,山梨県,0,,-
 tricoro,planarian,0,,-,487,SOTHIE,山梨県,1598,KMA,山梨県,2499,IIDX29,山梨県,0,,-
 tricoro,Plan 8,0,,-,1073,POTATO,山梨県,2215,NO4CUP,山梨県,3144,M-A,山梨県,0,,-
-tricoro,New Lights,0,,-,1014,NO4CUP,山梨県,1770,TFN,山梨県,2390,YUIEL,山梨県,0,,-
+tricoro,New Lights,0,,-,1014,NO4CUP,山梨県,1770,TFN,山梨県,2393,YUIEL,山梨県,0,,-
 tricoro,New Decade IIDX Edition,255,COX,山梨県,990,NO4CUP,山梨県,1860,TFN,山梨県,2909,M-B,山梨県,0,,-
 tricoro,neu,190,COX,山梨県,926,WMARIO,山梨県,2113,SHENHE,山梨県,3925,M-A,山梨県,0,,-
 tricoro,Neonlights,0,,-,545,EICA,山梨県,1589,NO4CUP,山梨県,2169,IIDX29,山梨県,0,,-
@@ -683,7 +683,7 @@ tricoro,JOMANDA,260,NO4CUP,山梨県,830,EBI,山梨県,2138,KRTK,山梨県,3422,
 tricoro,In Heaven,0,,-,768,NO4CUP,山梨県,1471,NO4CUP,山梨県,2093,SCP096,山梨県,0,,-
 tricoro,Illegal Function Call,0,,-,999,NO4CUP,山梨県,1729,NO4CUP,山梨県,2523,IIDX29,山梨県,0,,-
 tricoro,ILIAS,0,,-,512,NB2211,山梨県,1317,NO4CUP,山梨県,2161,M-B,山梨県,0,,-
-tricoro,I know You know,0,,-,320,KAZU,山梨県,982,NANAMI,山梨県,1833,SCP096,山梨県,0,,-
+tricoro,I know You know,0,,-,320,KAZU,山梨県,982,NANAMI,山梨県,1848,SCP096,山梨県,0,,-
 tricoro,Howling,0,,-,424,!!!!!,山梨県,1138,COX,山梨県,2077,SCP096,山梨県,2540,YAISE,山梨県
 tricoro,Hollywood Galaxy,0,,-,1113,NO4CUP,山梨県,1989,NO4CUP,山梨県,2567,KA3SU7,山梨県,0,,-
 tricoro,GRADIUS 2012,0,,-,916,NO4CUP,山梨県,1709,NO4CUP,山梨県,2622,KA3SU7,山梨県,0,,-
@@ -699,84 +699,11 @@ tricoro,connective,0,,-,403,NO4CUP,山梨県,810,NAKAJI,山梨県,1564,IIDX29,�
 tricoro,Confiserie,0,,-,866,NANAMI,山梨県,2055,T3N.*,山梨県,3559,M-A,山梨県,0,,-
 tricoro,CONCEPTUAL,0,,-,818,NO4CUP,山梨県,1327,NO4CUP,山梨県,2597,YAISE,山梨県,0,,-
 tricoro,BRAVE GLOW,0,,-,823,NO4CUP,山梨県,1557,KMA,山梨県,2409,SCP096,山梨県,0,,-
-tricoro,BLUE STRAGGLER,0,,-,852,NO4CUP,山梨県,1315,WMARIO,山梨県,2474,YAISE,山梨県,0,,-
+tricoro,BLUE STRAGGLER,0,,-,852,NO4CUP,山梨県,1346,IMF.,山梨県,2474,YAISE,山梨県,0,,-
 tricoro,Beastie Starter,0,,-,531,NO4CUP,山梨県,1147,U.Y.,山梨県,2046,SUGAMO,山梨県,0,,-
 tricoro,Ascalon,0,,-,1119,NO4CUP,山梨県,1781,NO4CUP,山梨県,2232,YUIEL,山梨県,0,,-
 tricoro,8bit Princess,0,,-,646,NO4CUP,山梨県,1360,NO4CUP,山梨県,2585,SCP096,山梨県,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,812,NANAMI,山梨県,1587,POTATO,山梨県,2538,M-B,山梨県,0,,-
-SPADA,轟け！恋のビーンボール！！,0,,-,1049,NO4CUP,山梨県,1919,NO4CUP,山梨県,3549,M-A,山梨県,0,,-
-SPADA,超!!遠距離らぶメ～ル,0,,-,572,NO4CUP,山梨県,1381,RYO,山梨県,2587,NO4CUP,山梨県,0,,-
-SPADA,罪と罰,0,,-,1087,NO4CUP,山梨県,1176,VEIN,山梨県,2083,SCP096,山梨県,0,,-
-SPADA,疾風迅雷,0,,-,1122,POTATO,山梨県,2003,NO4CUP,山梨県,2852,M-B,山梨県,3396,M-A,山梨県
-SPADA,牧神笛吹きて,0,,-,741,NO4CUP,山梨県,1240,U.Y.,山梨県,2013,IIDX29,山梨県,0,,-
-SPADA,煉獄のエルフェリア,0,,-,1338,YAISE,山梨県,2243,NO4CUP,山梨県,3810,M-B,山梨県,0,,-
-SPADA,海神,0,,-,1145,NO4CUP,山梨県,1956,CARINA,山梨県,3113,M-B,山梨県,0,,-
-SPADA,旋律のドグマ～Miserables～,0,,-,1041,MASA,山梨県,2386,NO4CUP,山梨県,3944,M-A,山梨県,0,,-
-SPADA,廿,0,,-,430,DAO,山梨県,1727,NO4CUP,山梨県,2320,NO4CUP,山梨県,3138,KA3SU7,山梨県
-SPADA,幻想系世界修復少女,208,COX,山梨県,495,KOYOMI,山梨県,1128,U.Y.,山梨県,1995,M-A,山梨県,0,,-
-SPADA,バンブーソード・ガール,262,COX,山梨県,920,NANAMI,山梨県,1846,T3N.*,山梨県,2158,WRAITH,山梨県,0,,-
-SPADA,デッドボヲルdeホームラン,0,,-,426,DJ*P,山梨県,1633,T3N.*,山梨県,2596,KA3SU7,山梨県,0,,-
-SPADA,アルストロメリア,209,COX,山梨県,923,NO4CUP,山梨県,1552,NO4CUP,山梨県,2387,KA3SU7,山梨県,0,,-
-SPADA,お願いアインシュタイン,0,,-,692,KIBA84,山梨県,1409,KRTK,山梨県,2085,SCP096,山梨県,0,,-
-SPADA,Wonder Girl feat. Kanae Asaba,0,,-,717,NO4CUP,山梨県,1243,NO4CUP,山梨県,2742,IIDX29,山梨県,0,,-
-SPADA,VOX UP,0,,-,1475,NO4CUP,山梨県,2739,NO4CUP,山梨県,3562,M-B,山梨県,0,,-
-SPADA,Verflucht,0,,-,1277,T3N.*,山梨県,2077,DOLLY,山梨県,3571,M-A,山梨県,4669,M-A,山梨県
-SPADA,Valgus,0,,-,649,NO4CUP,山梨県,1193,IKAROS,山梨県,2221,YAISE,山梨県,0,,-
-SPADA,Unicorn tail,0,,-,617,MOLS,山梨県,2049,T3N.*,山梨県,3082,IIDX29,山梨県,0,,-
-SPADA,THE DETONATOR,0,,-,1533,NO4CUP,山梨県,2353,NO4CUP,山梨県,3040,K-,山梨県,0,,-
-SPADA,Squeeze,0,,-,623,SOTHIE,山梨県,1457,T3N.*,山梨県,2415,IIDX29,山梨県,0,,-
-SPADA,Sigmund,0,,-,1290,METEOR,山梨県,2327,NO4CUP,山梨県,3753,M-B,山梨県,4224,M-A,山梨県
-SPADA,SCHWARZSCHILD FIELD,0,,-,829,NANAMI,山梨県,1519,TFN,山梨県,2192,NO4CUP,山梨県,0,,-
-SPADA,RIZING YOU UP,0,,-,955,REACH,山梨県,2057,TFN,山梨県,2517,IIDX29,山梨県,0,,-
-SPADA,RISE,0,,-,903,NO4CUP,山梨県,1257,HORATI,山梨県,1798,YAISE,山梨県,0,,-
-SPADA,refractive index,0,,-,736,NO4CUP,山梨県,1441,T3N.*,山梨県,2618,IIDX29,山梨県,0,,-
-SPADA,Recollection,0,,-,0,,-,1757,T3N.*,山梨県,2186,SCP096,山梨県,0,,-
-SPADA,rainbow guitar weeps,0,,-,965,NO4CUP,山梨県,1821,NO4CUP,山梨県,2690,KA3SU7,山梨県,0,,-
-SPADA,ra'am,0,,-,1131,KMA,山梨県,1732,KMA,山梨県,2827,M-A,山梨県,0,,-
-SPADA,PUNISHER,0,,-,1133,NO4CUP,山梨県,2112,NO4CUP,山梨県,3499,M-B,山梨県,0,,-
-SPADA,Pharaoh,0,,-,655,NO4CUP,山梨県,1417,NO4CUP,山梨県,2452,M-A,山梨県,0,,-
-SPADA,Overload Frontier,0,,-,526,HENAR,山梨県,1861,NO4CUP,山梨県,2426,YAISE,山梨県,0,,-
-SPADA,Odin,0,,-,794,NO4CUP,山梨県,1346,KMA,山梨県,1969,46KABE,山梨県,0,,-
-SPADA,NPC World,0,,-,1018,NO4CUP,山梨県,1517,KMA,山梨県,2202,NO4CUP,山梨県,0,,-
-SPADA,Miracle 5ympho X,0,,-,766,NO4CUP,山梨県,1326,NO4CUP,山梨県,2586,IIDX29,山梨県,0,,-
-SPADA,MAGIC & LOVE,0,,-,643,PIKA,山梨県,1747,KMA,山梨県,2825,NO4CUP,山梨県,0,,-
-SPADA,MAD ATTACK,0,,-,685,NO4CUP,山梨県,1344,NO4CUP,山梨県,1886,NO4CUP,山梨県,0,,-
-SPADA,m1dy Deluxe,0,,-,1139,NO4CUP,山梨県,1620,KINO-4,山梨県,2434,K-,山梨県,0,,-
-SPADA,M.D.Injection,0,,-,593,NO4CUP,山梨県,1233,NO4CUP,山梨県,2291,YAISE,山梨県,0,,-
-SPADA,Lighting Shower,0,,-,823,NO4CUP,山梨県,1244,U.Y.,山梨県,2362,IIDX29,山梨県,0,,-
-SPADA,Last Dance,0,,-,1215,NO4CUP,山梨県,1977,NO4CUP,山梨県,3133,IIDX29,山梨県,0,,-
-SPADA,KHAMEN BREAK,0,,-,592,NO4CUP,山梨県,1425,T3N.*,山梨県,2355,YAISE,山梨県,0,,-
-SPADA,KAISER PHOENIX,0,,-,1077,KIBA84,山梨県,2231,NO4CUP,山梨県,3298,M-A,山梨県,3908,M-A,山梨県
-SPADA,IX,0,,-,1002,MOLS,山梨県,2320,NO4CUP,山梨県,3862,M-A,山梨県,0,,-
-SPADA,invoker,0,,-,807,KAZU,山梨県,1961,NO4CUP,山梨県,3125,M-B,山梨県,3315,KA3SU7,山梨県
-SPADA,into the battlefield,0,,-,732,NO4CUP,山梨県,1444,T3N.*,山梨県,2331,SCP096,山梨県,0,,-
-SPADA,INSOMNIA,0,,-,794,NO4CUP,山梨県,1777,NO4CUP,山梨県,2991,KA3SU7,山梨県,0,,-
-SPADA,Insane Techniques,0,,-,742,NO4CUP,山梨県,1239,KATATO,山梨県,2392,SCP096,山梨県,0,,-
-SPADA,"Idola ",0,,-,1194,NO4CUP,山梨県,2251,SHENHE,山梨県,3584,M-A,山梨県,0,,-
-SPADA,I will be back -オレは帰ってきた-,0,,-,1017,NO4CUP,山梨県,1939,NO4CUP,山梨県,2885,IIDX29,山梨県,0,,-
-SPADA,Hypersonik,0,,-,1023,NO4CUP,山梨県,1701,NO4CUP,山梨県,2411,KATATO,山梨県,0,,-
-SPADA,HYENA,0,,-,867,YM-34,山梨県,1991,T3N.*,山梨県,2754,IIDX29,山梨県,0,,-
-SPADA,Funny shuffle,0,,-,613,NO4CUP,山梨県,1143,NO4CUP,山梨県,2244,KA3SU7,山梨県,0,,-
-SPADA,Feel The Beat,0,,-,1287,P*A*N,山梨県,2185,NO4CUP,山梨県,3466,IIDX29,山梨県,4316,M-A,山梨県
-SPADA,EXTREME MACH COLLIDER,0,,-,1013,NO4CUP,山梨県,1430,KMA,山梨県,2517,IIDX29,山梨県,0,,-
-SPADA,Engraved Mark,0,,-,625,V-U.S,山梨県,1356,NO4CUP,山梨県,2188,SUGAMO,山梨県,0,,-
-SPADA,Element of SPADA,0,,-,700,NO4CUP,山梨県,1353,NO4CUP,山梨県,2064,NO4CUP,山梨県,0,,-
-SPADA,Elektrick U-Phoria,0,,-,818,NO4CUP,山梨県,1945,T3N.*,山梨県,3029,IIDX29,山梨県,0,,-
-SPADA,diagram,0,,-,628,NO4CUP,山梨県,1279,NO4CUP,山梨県,2702,KA3SU7,山梨県,0,,-
-SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,722,GERMAN,山梨県,1741,NO4CUP,山梨県,2478,M-A,山梨県,0,,-
-SPADA,DARK LEGACY,0,,-,1310,NO4CUP,山梨県,1933,TFN,山梨県,3480,IIDX29,山梨県,0,,-
-SPADA,Dark Fall,0,,-,534,AJI,山梨県,1558,NO4CUP,山梨県,2602,YAISE,山梨県,0,,-
-SPADA,Critical Crystal,220,BOLT,山梨県,995,REACH,山梨県,1832,T3N.*,山梨県,2764,NO4CUP,山梨県,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,1104,KMA,山梨県,1960,KMA,山梨県,3353,M-B,山梨県,3794,M-B,山梨県
-SPADA,Cleopatrysm,0,,-,489,SOTHIE,山梨県,1451,T3N.*,山梨県,2442,NO4CUP,山梨県,0,,-
-SPADA,Claiomh Solais,0,,-,342,NO4CUP,山梨県,1423,NO4CUP,山梨県,2048,NO4CUP,山梨県,0,,-
-SPADA,BRAVE OUT,0,,-,1000,KMA,山梨県,1294,RORS,山梨県,2127,IIDX29,山梨県,0,,-
-SPADA,BRAINSTORM,0,,-,675,RORS,山梨県,1907,NO4CUP,山梨県,2677,K-,山梨県,0,,-
-SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1330,HORATI,山梨県,2117,T3N.*,山梨県,3387,M-A,山梨県,0,,-
-SPADA,ATHER,0,,-,1018,NO4CUP,山梨県,1625,T3N.*,山梨県,2678,SCP096,山梨県,0,,-
-SPADA,Ancient Scapes,0,,-,1160,NO4CUP,山梨県,1988,NO4CUP,山梨県,3481,M-A,山梨県,4112,M-B,山梨県
-SPADA,ALBA -黎明-,0,,-,652,NO4CUP,山梨県,1553,NO4CUP,山梨県,3162,KA3SU7,山梨県,0,,-
-SPADA,Adularia,137,HAL,山梨県,0,,-,1734,KMA,山梨県,2856,M-A,山梨県,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,864,KMA,山梨県,1743,NO4CUP,山梨県,2784,KA3SU7,山梨県,0,,-
 PENDUAL,鬼天,0,,-,999,NO4CUP,山梨県,1643,NO4CUP,山梨県,2362,NO4CUP,山梨県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,1019,NO4CUP,山梨県,1937,NO4CUP,山梨県,2645,IIDX29,山梨県,4058,M-A,山梨県
@@ -796,7 +723,7 @@ PENDUAL,共鳴遊戯の華,0,,-,1305,NO4CUP,山梨県,2229,KMA,山梨県,3891,M-
 PENDUAL,リリーゼと炎龍レーヴァテイン,0,,-,987,NO4CUP,山梨県,2157,TFN,山梨県,3466,M-A,山梨県,0,,-
 PENDUAL,ベィスドロップ・フリークス,0,,-,639,NO4CUP,山梨県,1271,NO4CUP,山梨県,2166,YAISE,山梨県,2326,NO4CUP,山梨県
 PENDUAL,パ→ピ→プ→Yeah!,362,COX,山梨県,973,REACH,山梨県,1523,KRTK,山梨県,2497,IIDX29,山梨県,0,,-
-PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,1044,NO4CUP,山梨県,1762,NO4CUP,山梨県,2705,NO4CUP,山梨県,0,,-
+PENDUAL,ドッキン☆サマーあばんちゅーる,0,,-,1044,NO4CUP,山梨県,1762,NO4CUP,山梨県,2739,IIDX29,山梨県,0,,-
 PENDUAL,もっと！モット！ときめき feat. 松下,0,,-,1111,NANAMI,山梨県,2016,NO4CUP,山梨県,2557,NO4CUP,山梨県,0,,-
 PENDUAL,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,0,,-,887,NO4CUP,山梨県,1360,RYO,山梨県,2501,IIDX29,山梨県,0,,-
 PENDUAL,とろぴかる倶楽部,0,,-,783,NO4CUP,山梨県,1385,TFN,山梨県,2243,SCP096,山梨県,0,,-
@@ -807,7 +734,7 @@ PENDUAL,Vulkan,0,,-,1047,NO4CUP,山梨県,1982,NO4CUP,山梨県,3003,M-A,山梨�
 PENDUAL,TOXIC VIBRATION,0,,-,1316,PIKA,山梨県,2398,T3N.*,山梨県,3763,M-A,山梨県,0,,-
 PENDUAL,TIEFSEE,0,,-,1281,NO4CUP,山梨県,2112,NO4CUP,山梨県,3462,M-A,山梨県,0,,-
 PENDUAL,The Least 100sec,0,,-,810,NO4CUP,山梨県,1460,T3N.*,山梨県,2896,M-A,山梨県,0,,-
-PENDUAL,TA・DA ☆ YO・SHI,0,,-,901,GERMAN,山梨県,1439,P*A*N,山梨県,2226,SCP096,山梨県,0,,-
+PENDUAL,TA・DA ☆ YO・SHI,0,,-,1144,NO4CUP,山梨県,1647,NO4CUP,山梨県,2226,SCP096,山梨県,0,,-
 PENDUAL,Symmetry,0,,-,1135,NO4CUP,山梨県,2070,NO4CUP,山梨県,3196,IIDX29,山梨県,0,,-
 PENDUAL,Sweet Radar,0,,-,664,NO4CUP,山梨県,1364,DOLLY,山梨県,2009,SCP096,山梨県,0,,-
 PENDUAL,SpaceLand☆TOYBOX,0,,-,1081,NO4CUP,山梨県,1680,TFN,山梨県,2901,M-B,山梨県,0,,-
@@ -815,8 +742,8 @@ PENDUAL,Sounds Of Summer,0,,-,1256,NO4CUP,山梨県,2060,NO4CUP,山梨県,2950,M
 PENDUAL,Shooting Fireball,0,,-,951,NO4CUP,山梨県,2253,NO4CUP,山梨県,3897,M-A,山梨県,0,,-
 PENDUAL,Scars of FAUNA,0,,-,812,KMA,山梨県,1671,NO4CUP,山梨県,2881,M-B,山梨県,0,,-
 PENDUAL,Scarlet Moon,0,,-,1075,NO4CUP,山梨県,1885,T3N.*,山梨県,2640,NO4CUP,山梨県,0,,-
-PENDUAL,Say YEEEAHH,0,,-,1033,RYO,山梨県,1838,NO4CUP,山梨県,3259,M-A,山梨県,0,,-
-PENDUAL,SAMSARA,0,,-,825,NO4CUP,山梨県,1126,KIBA84,山梨県,2028,IIDX29,山梨県,0,,-
+PENDUAL,Say YEEEAHH,0,,-,1157,NO4CUP,山梨県,1838,NO4CUP,山梨県,3259,M-A,山梨県,0,,-
+PENDUAL,SAMSARA,0,,-,825,NO4CUP,山梨県,1126,KIBA84,山梨県,2038,SCP096,山梨県,0,,-
 PENDUAL,Sakura Mirage,0,,-,1006,NO4CUP,山梨県,1361,NO4CUP,山梨県,2223,YAISE,山梨県,0,,-
 PENDUAL,Reflux,0,,-,294,KAZLIN,山梨県,1557,TFN,山梨県,2886,M-B,山梨県,0,,-
 PENDUAL,Realize Maze,0,,-,849,NO4CUP,山梨県,2050,NO4CUP,山梨県,2932,KA3SU7,山梨県,0,,-
@@ -829,15 +756,15 @@ PENDUAL,NEO GENERATOR SEVEN,0,,-,641,NO4CUP,山梨県,1809,TFN,山梨県,3253,M-
 PENDUAL,Monopole.,0,,-,796,NO4CUP,山梨県,1665,T3N.*,山梨県,3113,KA3SU7,山梨県,0,,-
 PENDUAL,Line 4 Ruin,0,,-,708,NO4CUP,山梨県,1729,KMA,山梨県,2742,IIDX29,山梨県,0,,-
 PENDUAL,IXION,0,,-,1099,NO4CUP,山梨県,1784,NO4CUP,山梨県,2118,IIDX29,山梨県,0,,-
-PENDUAL,Invitation from Mr.C,0,,-,1158,NO4CUP,山梨県,1567,NO4CUP,山梨県,2579,KA3SU7,山梨県,0,,-
+PENDUAL,Invitation from Mr.C,0,,-,1158,NO4CUP,山梨県,1574,NO4CUP,山梨県,2579,KA3SU7,山梨県,0,,-
 PENDUAL,In The Breeze,0,,-,375,DEDEKS,山梨県,1182,NO4CUP,山梨県,1711,NO4CUP,山梨県,0,,-
-PENDUAL,IMPLANTATION,0,,-,652,NO4CUP,山梨県,1676,NO4CUP,山梨県,2207,KA3SU7,山梨県,0,,-
+PENDUAL,IMPLANTATION,0,,-,652,NO4CUP,山梨県,1676,NO4CUP,山梨県,2224,S.SZK,山梨県,0,,-
 PENDUAL,illuminate,0,,-,621,NO4CUP,山梨県,1496,KMA,山梨県,2223,SCP096,山梨県,0,,-
 PENDUAL,Hello Happiness,0,,-,764,NANAMI,山梨県,1671,NO4CUP,山梨県,2233,KA3SU7,山梨県,0,,-
 PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,968,NO4CUP,山梨県,1783,NO4CUP,山梨県,2730,YAISE,山梨県,0,,-
 PENDUAL,Gravigazer,0,,-,955,NO4CUP,山梨県,1766,KMA,山梨県,2943,IIDX29,山梨県,0,,-
 PENDUAL,Flashes,0,,-,867,FLARE,山梨県,1758,NO4CUP,山梨県,3206,M-B,山梨県,0,,-
-PENDUAL,FANTASTIC THREE,0,,-,1210,RYO,山梨県,2098,46KABE,山梨県,3121,M-B,山梨県,0,,-
+PENDUAL,FANTASTIC THREE,0,,-,1354,NO4CUP,山梨県,2098,46KABE,山梨県,3121,M-B,山梨県,0,,-
 PENDUAL,fallen leaves -IIDX edition-,0,,-,1178,NO4CUP,山梨県,1925,KMA,山梨県,3336,M-B,山梨県,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,797,NO4CUP,山梨県,1542,T3N.*,山梨県,2158,M-B,山梨県,0,,-
 PENDUAL,entelecheia,0,,-,1035,NO4CUP,山梨県,2101,YAISE,山梨県,3291,M-A,山梨県,0,,-
@@ -858,10 +785,172 @@ PENDUAL,Blaze it UP!,0,,-,960,NO4CUP,山梨県,1818,KMA,山梨県,2929,M-B,山�
 PENDUAL,Beyond The Earth,0,,-,1300,NO4CUP,山梨県,2038,NO4CUP,山梨県,3072,KA3SU7,山梨県,0,,-
 PENDUAL,Beat Radiance,0,,-,945,KMA,山梨県,1637,T3N.*,山梨県,2568,NO4CUP,山梨県,3556,M-B,山梨県
 PENDUAL,AFRO KNUCKLE,0,,-,979,NO4CUP,山梨県,1796,NO4CUP,山梨県,2379,NO4CUP,山梨県,0,,-
-PENDUAL,#The_Relentless,0,,-,668,KT,山梨県,1811,REACH,山梨県,2846,IIDX29,山梨県,0,,-
+PENDUAL,#The_Relentless,0,,-,668,KT,山梨県,1830,REACH,山梨県,2846,IIDX29,山梨県,0,,-
+SPADA,轟け！恋のビーンボール！！,0,,-,1049,NO4CUP,山梨県,1919,NO4CUP,山梨県,3549,M-A,山梨県,0,,-
+SPADA,超!!遠距離らぶメ～ル,0,,-,572,NO4CUP,山梨県,1381,RYO,山梨県,2587,NO4CUP,山梨県,0,,-
+SPADA,罪と罰,0,,-,1087,NO4CUP,山梨県,1176,VEIN,山梨県,2083,SCP096,山梨県,0,,-
+SPADA,疾風迅雷,0,,-,1122,POTATO,山梨県,2003,NO4CUP,山梨県,2852,M-B,山梨県,3396,M-A,山梨県
+SPADA,牧神笛吹きて,0,,-,741,NO4CUP,山梨県,1240,U.Y.,山梨県,2013,IIDX29,山梨県,0,,-
+SPADA,煉獄のエルフェリア,0,,-,1338,YAISE,山梨県,2243,NO4CUP,山梨県,3810,M-B,山梨県,0,,-
+SPADA,海神,0,,-,1145,NO4CUP,山梨県,1963,NO4CUP,山梨県,3113,M-B,山梨県,0,,-
+SPADA,旋律のドグマ～Miserables～,0,,-,1041,MASA,山梨県,2386,NO4CUP,山梨県,3944,M-A,山梨県,0,,-
+SPADA,廿,0,,-,947,NO4CUP,山梨県,1727,NO4CUP,山梨県,2320,NO4CUP,山梨県,3138,KA3SU7,山梨県
+SPADA,幻想系世界修復少女,208,COX,山梨県,495,KOYOMI,山梨県,1128,U.Y.,山梨県,1995,M-A,山梨県,0,,-
+SPADA,バンブーソード・ガール,262,COX,山梨県,920,NANAMI,山梨県,1846,T3N.*,山梨県,2158,WRAITH,山梨県,0,,-
+SPADA,デッドボヲルdeホームラン,0,,-,426,DJ*P,山梨県,1633,T3N.*,山梨県,2596,KA3SU7,山梨県,0,,-
+SPADA,アルストロメリア,209,COX,山梨県,923,NO4CUP,山梨県,1552,NO4CUP,山梨県,2387,KA3SU7,山梨県,0,,-
+SPADA,お願いアインシュタイン,0,,-,715,XOF,山梨県,1409,KRTK,山梨県,2085,SCP096,山梨県,0,,-
+SPADA,Wonder Girl feat. Kanae Asaba,0,,-,717,NO4CUP,山梨県,1264,NO4CUP,山梨県,2742,IIDX29,山梨県,0,,-
+SPADA,VOX UP,0,,-,1475,NO4CUP,山梨県,2739,NO4CUP,山梨県,3562,M-B,山梨県,0,,-
+SPADA,Verflucht,0,,-,1277,T3N.*,山梨県,2077,DOLLY,山梨県,3571,M-A,山梨県,4669,M-A,山梨県
+SPADA,Valgus,0,,-,649,NO4CUP,山梨県,1193,IKAROS,山梨県,2221,YAISE,山梨県,0,,-
+SPADA,Unicorn tail,0,,-,617,MOLS,山梨県,2049,T3N.*,山梨県,3082,IIDX29,山梨県,0,,-
+SPADA,THE DETONATOR,0,,-,1533,NO4CUP,山梨県,2353,NO4CUP,山梨県,3130,IIDX29,山梨県,0,,-
+SPADA,Squeeze,0,,-,623,SOTHIE,山梨県,1457,T3N.*,山梨県,2415,IIDX29,山梨県,0,,-
+SPADA,Sigmund,0,,-,1290,METEOR,山梨県,2327,NO4CUP,山梨県,3753,M-B,山梨県,4224,M-A,山梨県
+SPADA,SCHWARZSCHILD FIELD,0,,-,829,NANAMI,山梨県,1519,TFN,山梨県,2192,NO4CUP,山梨県,0,,-
+SPADA,RIZING YOU UP,0,,-,955,REACH,山梨県,2057,TFN,山梨県,2517,IIDX29,山梨県,0,,-
+SPADA,RISE,0,,-,903,NO4CUP,山梨県,1257,HORATI,山梨県,1798,YAISE,山梨県,0,,-
+SPADA,refractive index,0,,-,736,NO4CUP,山梨県,1441,T3N.*,山梨県,2621,IIDX29,山梨県,0,,-
+SPADA,Recollection,0,,-,0,,-,1757,T3N.*,山梨県,2186,SCP096,山梨県,0,,-
+SPADA,rainbow guitar weeps,0,,-,965,NO4CUP,山梨県,1821,NO4CUP,山梨県,2690,KA3SU7,山梨県,0,,-
+SPADA,ra'am,0,,-,1131,KMA,山梨県,1732,KMA,山梨県,2827,M-A,山梨県,0,,-
+SPADA,PUNISHER,0,,-,1133,NO4CUP,山梨県,2112,NO4CUP,山梨県,3499,M-B,山梨県,0,,-
+SPADA,Pharaoh,0,,-,655,NO4CUP,山梨県,1417,NO4CUP,山梨県,2452,M-A,山梨県,0,,-
+SPADA,Overload Frontier,0,,-,526,HENAR,山梨県,1861,NO4CUP,山梨県,2426,YAISE,山梨県,0,,-
+SPADA,Odin,0,,-,794,NO4CUP,山梨県,1346,KMA,山梨県,1969,46KABE,山梨県,0,,-
+SPADA,NPC World,0,,-,1018,NO4CUP,山梨県,1517,KMA,山梨県,2202,NO4CUP,山梨県,0,,-
+SPADA,Miracle 5ympho X,0,,-,766,NO4CUP,山梨県,1326,NO4CUP,山梨県,2586,IIDX29,山梨県,0,,-
+SPADA,MAGIC & LOVE,0,,-,643,PIKA,山梨県,1747,KMA,山梨県,2825,NO4CUP,山梨県,0,,-
+SPADA,MAD ATTACK,0,,-,685,NO4CUP,山梨県,1344,NO4CUP,山梨県,1886,NO4CUP,山梨県,0,,-
+SPADA,m1dy Deluxe,0,,-,1139,NO4CUP,山梨県,1620,KINO-4,山梨県,2434,K-,山梨県,0,,-
+SPADA,M.D.Injection,0,,-,593,NO4CUP,山梨県,1233,NO4CUP,山梨県,2291,YAISE,山梨県,0,,-
+SPADA,Lighting Shower,0,,-,823,NO4CUP,山梨県,1244,U.Y.,山梨県,2362,IIDX29,山梨県,0,,-
+SPADA,Last Dance,0,,-,1215,NO4CUP,山梨県,1977,NO4CUP,山梨県,3133,IIDX29,山梨県,0,,-
+SPADA,KHAMEN BREAK,0,,-,592,NO4CUP,山梨県,1425,T3N.*,山梨県,2355,YAISE,山梨県,0,,-
+SPADA,KAISER PHOENIX,0,,-,1077,KIBA84,山梨県,2231,NO4CUP,山梨県,3298,M-A,山梨県,3908,M-A,山梨県
+SPADA,IX,0,,-,1305,NO4CUP,山梨県,2320,NO4CUP,山梨県,3862,M-A,山梨県,0,,-
+SPADA,invoker,0,,-,807,KAZU,山梨県,1961,NO4CUP,山梨県,3125,M-B,山梨県,3315,KA3SU7,山梨県
+SPADA,into the battlefield,0,,-,732,NO4CUP,山梨県,1444,T3N.*,山梨県,2331,SCP096,山梨県,0,,-
+SPADA,INSOMNIA,0,,-,794,NO4CUP,山梨県,1777,NO4CUP,山梨県,2991,KA3SU7,山梨県,0,,-
+SPADA,Insane Techniques,0,,-,742,NO4CUP,山梨県,1239,KATATO,山梨県,2392,SCP096,山梨県,0,,-
+SPADA,"Idola ",0,,-,1194,NO4CUP,山梨県,2251,SHENHE,山梨県,3584,M-A,山梨県,0,,-
+SPADA,I will be back -オレは帰ってきた-,0,,-,1017,NO4CUP,山梨県,1939,NO4CUP,山梨県,2885,IIDX29,山梨県,0,,-
+SPADA,Hypersonik,0,,-,1023,NO4CUP,山梨県,1701,NO4CUP,山梨県,2411,KATATO,山梨県,0,,-
+SPADA,HYENA,0,,-,867,YM-34,山梨県,1991,T3N.*,山梨県,2755,IIDX29,山梨県,0,,-
+SPADA,Funny shuffle,0,,-,613,NO4CUP,山梨県,1143,NO4CUP,山梨県,2244,KA3SU7,山梨県,0,,-
+SPADA,Feel The Beat,0,,-,1287,P*A*N,山梨県,2185,NO4CUP,山梨県,3466,IIDX29,山梨県,4316,M-A,山梨県
+SPADA,EXTREME MACH COLLIDER,0,,-,1013,NO4CUP,山梨県,1430,KMA,山梨県,2517,IIDX29,山梨県,0,,-
+SPADA,Engraved Mark,0,,-,625,V-U.S,山梨県,1356,NO4CUP,山梨県,2205,CUBE,山梨県,0,,-
+SPADA,Element of SPADA,0,,-,700,NO4CUP,山梨県,1353,NO4CUP,山梨県,2064,NO4CUP,山梨県,0,,-
+SPADA,Elektrick U-Phoria,0,,-,818,NO4CUP,山梨県,1945,T3N.*,山梨県,3029,IIDX29,山梨県,0,,-
+SPADA,diagram,0,,-,628,NO4CUP,山梨県,1279,NO4CUP,山梨県,2702,KA3SU7,山梨県,0,,-
+SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,722,GERMAN,山梨県,1741,NO4CUP,山梨県,2478,M-A,山梨県,0,,-
+SPADA,DARK LEGACY,0,,-,1310,NO4CUP,山梨県,1933,TFN,山梨県,3480,IIDX29,山梨県,0,,-
+SPADA,Dark Fall,0,,-,534,AJI,山梨県,1558,NO4CUP,山梨県,2602,YAISE,山梨県,0,,-
+SPADA,Critical Crystal,220,BOLT,山梨県,995,REACH,山梨県,1832,T3N.*,山梨県,2840,IIDX29,山梨県,0,,-
+SPADA,Close the World feat.a☆ru,0,,-,1104,KMA,山梨県,1960,KMA,山梨県,3353,M-B,山梨県,3794,M-B,山梨県
+SPADA,Cleopatrysm,0,,-,489,SOTHIE,山梨県,1451,T3N.*,山梨県,2442,NO4CUP,山梨県,0,,-
+SPADA,Claiomh Solais,0,,-,342,NO4CUP,山梨県,1423,NO4CUP,山梨県,2048,NO4CUP,山梨県,0,,-
+SPADA,BRAVE OUT,0,,-,1000,KMA,山梨県,1294,RORS,山梨県,2127,IIDX29,山梨県,0,,-
+SPADA,BRAINSTORM,0,,-,675,RORS,山梨県,1907,NO4CUP,山梨県,2677,K-,山梨県,0,,-
+SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1330,HORATI,山梨県,2117,T3N.*,山梨県,3387,M-A,山梨県,0,,-
+SPADA,ATHER,0,,-,1018,NO4CUP,山梨県,1625,T3N.*,山梨県,2678,SCP096,山梨県,0,,-
+SPADA,Ancient Scapes,0,,-,1160,NO4CUP,山梨県,1988,NO4CUP,山梨県,3481,M-A,山梨県,4112,M-B,山梨県
+SPADA,ALBA -黎明-,0,,-,652,NO4CUP,山梨県,1553,NO4CUP,山梨県,3162,KA3SU7,山梨県,0,,-
+SPADA,Adularia,137,HAL,山梨県,0,,-,1734,KMA,山梨県,2856,M-A,山梨県,0,,-
+SINOBUZ,鴉,0,,-,1170,YM-34,山梨県,2231,NO4CUP,山梨県,2642,IIDX29,山梨県,0,,-
+SINOBUZ,童話回廊,0,,-,791,YM-34,山梨県,1672,NO4CUP,山梨県,3093,M-A,山梨県,0,,-
+SINOBUZ,禍根,0,,-,0,,-,1293,TFN,山梨県,2495,KA3SU7,山梨県,0,,-
+SINOBUZ,獅子霞麗ノ舞,0,,-,364,CELERY,山梨県,1058,NO4CUP,山梨県,1689,NO4CUP,山梨県,0,,-
+SINOBUZ,焔極OVERKILL,0,,-,1048,NANAMI,山梨県,2050,NO4CUP,山梨県,3666,M-A,山梨県,0,,-
+SINOBUZ,火影,0,,-,529,EINCLE,山梨県,1381,NO4CUP,山梨県,2655,M-A,山梨県,0,,-
+SINOBUZ,津軽雪,0,,-,1542,T3N.*,山梨県,2217,NO4CUP,山梨県,3823,M-A,山梨県,0,,-
+SINOBUZ,次葉 -turn the page-,0,,-,0,,-,1423,NO4CUP,山梨県,1960,IIDX29,山梨県,0,,-
+SINOBUZ,月雪に舞う華のように,0,,-,791,KMA,山梨県,1314,NO4CUP,山梨県,1967,EN-ZAN,山梨県,0,,-
+SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,1012,NO4CUP,山梨県,1514,7KAMAI,山梨県,2472,M-A,山梨県,0,,-
+SINOBUZ,忍恋花,0,,-,191,SSSSSS,山梨県,1669,NO4CUP,山梨県,2233,M-A,山梨県,0,,-
+SINOBUZ,刃図羅,0,,-,1234,NO4CUP,山梨県,2079,NO4CUP,山梨県,3345,M-B,山梨県,0,,-
+SINOBUZ,冬椿 ft. Kanae Asaba,260,COX,山梨県,938,NO4CUP,山梨県,1261,T3N.*,山梨県,2242,IIDX29,山梨県,2963,IIDX29,山梨県
+SINOBUZ,九尾狐夜行,0,,-,0,,-,1790,T3N.*,山梨県,2968,M-A,山梨県,0,,-
+SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,723,NO4CUP,山梨県,1401,NO4CUP,山梨県,2490,M-B,山梨県,0,,-
+SINOBUZ,イザナミノナゲキ,0,,-,1026,V-U.S,山梨県,1963,NO4CUP,山梨県,3255,M-A,山梨県,0,,-
+SINOBUZ,ちらちら・はらはら,0,,-,230,AKYM,山梨県,920,KMA,山梨県,1415,NO4CUP,山梨県,0,,-
+SINOBUZ,〆,0,,-,1250,NO4CUP,山梨県,2227,7KAMAI,山梨県,3628,M-A,山梨県,0,,-
+SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,0,,-,1819,NO4CUP,山梨県,2827,M-B,山梨県,0,,-
+SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,923,KMA,山梨県,1488,KMA,山梨県,2591,M-B,山梨県,0,,-
+SINOBUZ,XINOBIKILL,0,,-,812,KIBA84,山梨県,1744,NO4CUP,山梨県,2828,M-B,山梨県,0,,-
+SINOBUZ,Warrior,0,,-,1020,NO4CUP,山梨県,1716,KMA,山梨県,2441,IIDX29,山梨県,0,,-
+SINOBUZ,Vermilion,0,,-,493,SOTHIE,山梨県,1350,T3N.*,山梨県,1932,NO4CUP,山梨県,0,,-
+SINOBUZ,Venom,0,,-,1277,NO4CUP,山梨県,1990,KMA,山梨県,3141,M-B,山梨県,0,,-
+SINOBUZ,Umbral,0,,-,591,NO4CUP,山梨県,1342,KMA,山梨県,1887,IIDX29,山梨県,2923,NO4CUP,山梨県
+SINOBUZ,TOGAKUSHI,0,,-,1022,NO4CUP,山梨県,1889,NO4CUP,山梨県,2605,M-A,山梨県,0,,-
+SINOBUZ,The Commanders,0,,-,646,DAO,山梨県,1417,CARINA,山梨県,2417,NO4CUP,山梨県,0,,-
+SINOBUZ,Sweet Clapper,0,,-,486,MASA,山梨県,1150,REACH,山梨県,1905,M-A,山梨県,0,,-
+SINOBUZ,Surf on the Light,0,,-,774,NO4CUP,山梨県,1497,T3N.*,山梨県,2181,T3N.*,山梨県,0,,-
+SINOBUZ,Super Rush,0,,-,1028,NO4CUP,山梨県,1879,NO4CUP,山梨県,3539,M-A,山梨県,0,,-
+SINOBUZ,Summerlights(IIDX Edition),0,,-,1129,NO4CUP,山梨県,1821,NO4CUP,山梨県,3107,M-A,山梨県,0,,-
+SINOBUZ,Steel Edge,0,,-,790,DJ*P,山梨県,1496,T3N.*,山梨県,3144,M-B,山梨県,0,,-
+SINOBUZ,Snakey Kung-fu,0,,-,1071,RYO,山梨県,2158,T3N.*,山梨県,3371,M-B,山梨県,0,,-
+SINOBUZ,Sky High,434,NO4CUP,山梨県,1108,POTATO,山梨県,2246,T3N.*,山梨県,3719,M-B,山梨県,0,,-
+SINOBUZ,SINOBUZ Fantasy,0,,-,906,KIBA84,山梨県,1699,T3N.*,山梨県,2359,T3N.*,山梨県,0,,-
+SINOBUZ,shuriken,0,,-,785,NO4CUP,山梨県,1128,T3N.*,山梨県,2494,M-B,山梨県,0,,-
+SINOBUZ,SEQUENCE CAT,0,,-,849,SERRA,山梨県,2104,NO4CUP,山梨県,2776,IIDX29,山梨県,0,,-
+SINOBUZ,Selfish Sweet,0,,-,639,NO4CUP,山梨県,952,NO4CUP,山梨県,1649,YAISE,山梨県,0,,-
+SINOBUZ,Seaside Labyrinth,0,,-,459,HENAR,山梨県,1218,HORATI,山梨県,1789,NO4CUP,山梨県,0,,-
+SINOBUZ,SAY BAY,0,,-,846,NO4CUP,山梨県,1506,T3N.*,山梨県,2779,M-B,山梨県,0,,-
+SINOBUZ,Sarutobi Champion is 拙者,0,,-,943,NO4CUP,山梨県,1365,ALISIA,山梨県,2101,NO4CUP,山梨県,0,,-
+SINOBUZ,SAMURAI-Scramble,0,,-,881,NANAMI,山梨県,1654,NO4CUP,山梨県,2322,NO4CUP,山梨県,2667,NO4CUP,山梨県
+SINOBUZ,ROTTERDAM SHOGUN,527,ALISIA,山梨県,1040,NANAMI,山梨県,1824,T3N.*,山梨県,2575,M-A,山梨県,0,,-
+SINOBUZ,RISING FIRE HAWK,0,,-,863,NO4CUP,山梨県,1404,KMA,山梨県,2634,IIDX29,山梨県,0,,-
+SINOBUZ,Remedy feat. Kanae Asaba,0,,-,915,NO4CUP,山梨県,1646,T3N.*,山梨県,2164,NO4CUP,山梨県,0,,-
+SINOBUZ,Rave Cannon,0,,-,1003,KMA,山梨県,1808,TFN,山梨県,3276,M-B,山梨県,0,,-
+SINOBUZ,RAIN,0,,-,1145,NO4CUP,山梨県,1797,T3N.*,山梨県,3267,M-A,山梨県,0,,-
+SINOBUZ,Quakes,0,,-,0,,-,1958,T3N.*,山梨県,3199,M-A,山梨県,0,,-
+SINOBUZ,Piano Samurai,0,,-,1077,NO4CUP,山梨県,1781,T3N.*,山梨県,2393,NO4CUP,山梨県,0,,-
+SINOBUZ,PAPAYAPA BASS,0,,-,621,MUSASI,山梨県,1538,T3N.*,山梨県,2729,IIDX29,山梨県,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,1294,NO4CUP,山梨県,2020,TFN,山梨県,2940,K-,山梨県,0,,-
+SINOBUZ,OOO,0,,-,694,NO4CUP,山梨県,1459,NO4CUP,山梨県,2041,SCP096,山梨県,0,,-
+SINOBUZ,nostos,0,,-,530,REKKA,山梨県,1314,NO4CUP,山梨県,2479,NO4CUP,山梨県,0,,-
+SINOBUZ,Music is The Answer,0,,-,563,HENAR,山梨県,1432,NO4CUP,山梨県,1769,BOLT,山梨県,0,,-
+SINOBUZ,Modular Technology,0,,-,1251,NO4CUP,山梨県,1917,NO4CUP,山梨県,2628,M-B,山梨県,0,,-
+SINOBUZ,Mare Nectaris,0,,-,1377,KMA,山梨県,2005,NO4CUP,山梨県,3800,M-A,山梨県,0,,-
+SINOBUZ,Magical,0,,-,783,NO4CUP,山梨県,1108,NANAMI,山梨県,1980,IIDX29,山梨県,0,,-
+SINOBUZ,Macuilxochitl,506,COX,山梨県,1462,NO4CUP,山梨県,2154,DOLLY,山梨県,3240,KA3SU7,山梨県,0,,-
+SINOBUZ,Lost wing at.0,0,,-,929,NO4CUP,山梨県,1464,T3N.*,山梨県,2348,YAISE,山梨県,0,,-
+SINOBUZ,INVISIBLE STRIX,0,,-,952,NANAMI,山梨県,1921,GING**,山梨県,2510,NO4CUP,山梨県,0,,-
+SINOBUZ,Honey Trap,0,,-,832,NO4CUP,山梨県,1591,NO4CUP,山梨県,2426,NO4CUP,山梨県,0,,-
+SINOBUZ,HAPPY★RUSH,0,,-,791,NO4CUP,山梨県,1889,NO4CUP,山梨県,2717,NO4CUP,山梨県,0,,-
+SINOBUZ,HADES,372,COX,山梨県,900,NANAMI,山梨県,1846,T3N.*,山梨県,2966,M-B,山梨県,0,,-
+SINOBUZ,GuNGNiR,0,,-,1321,NO4CUP,山梨県,2539,YAISE,山梨県,3993,M-A,山梨県,4613,M-A,山梨県
+SINOBUZ,Go Ahead!!,0,,-,1021,NO4CUP,山梨県,1431,LUNA**,山梨県,2689,M-B,山梨県,0,,-
+SINOBUZ,FUZIN RIZIN,0,,-,1196,NO4CUP,山梨県,1902,TFN,山梨県,3809,M-A,山梨県,0,,-
+SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,629,NO4CUP,山梨県,0,,-,1597,IIDX29,山梨県,0,,-
+SINOBUZ,Egret and Willow,0,,-,913,NANAMI,山梨県,1609,TFN,山梨県,2639,NO4CUP,山梨県,0,,-
+SINOBUZ,ECHIDNA,0,,-,1301,NO4CUP,山梨県,2084,KA3SU7,山梨県,3289,M-B,山梨県,0,,-
+SINOBUZ,DORNWALD ～Junge～,0,,-,1256,P*A*N,山梨県,2196,NO4CUP,山梨県,3646,M-A,山梨県,0,,-
+SINOBUZ,Cyber True Color,0,,-,994,NO4CUP,山梨県,1657,NO4CUP,山梨県,2258,KA3SU7,山梨県,0,,-
+SINOBUZ,crew,0,,-,621,NO4CUP,山梨県,1736,NO4CUP,山梨県,2888,IIDX29,山梨県,0,,-
+SINOBUZ,Caterpillar,0,,-,1104,COX,山梨県,2194,T3N.*,山梨県,3012,M-A,山梨県,0,,-
+SINOBUZ,BroGamer,0,,-,1348,NO4CUP,山梨県,2129,T3N.*,山梨県,3001,IIDX29,山梨県,4561,M-A,山梨県
+SINOBUZ,Breakin' Chain,0,,-,552,WTR.,山梨県,1246,KMA,山梨県,2259,IIDX29,山梨県,0,,-
+SINOBUZ,BREAK OVER,0,,-,871,KMA,山梨県,1451,TFN,山梨県,2205,BOLT,山梨県,0,,-
+SINOBUZ,Beyond The Seven,0,,-,731,NO4CUP,山梨県,1315,NO4CUP,山梨県,2639,IIDX29,山梨県,0,,-
+SINOBUZ,Believe in you,0,,-,1176,NO4CUP,山梨県,1867,TFN,山梨県,2405,IIDX29,山梨県,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,1016,NO4CUP,山梨県,1550,NO4CUP,山梨県,2092,NO4CUP,山梨県,0,,-
+SINOBUZ,Be A Star,0,,-,968,NO4CUP,山梨県,1719,KMA,山梨県,2792,M-B,山梨県,0,,-
+SINOBUZ,BabeL ～Grand Story～,0,,-,1303,NO4CUP,山梨県,1986,SCHERZ,山梨県,2768,SCP096,山梨県,0,,-
+SINOBUZ,AsiaN distractive,0,,-,1181,NO4CUP,山梨県,1745,NO4CUP,山梨県,2557,IIDX29,山梨県,0,,-
+SINOBUZ,Around The Galaxy,0,,-,1120,NO4CUP,山梨県,2095,NO4CUP,山梨県,3330,M-B,山梨県,0,,-
+SINOBUZ,Apocalypse,0,,-,1061,KMA,山梨県,2024,TFN,山梨県,3571,M-A,山梨県,0,,-
+SINOBUZ,AO-∞,0,,-,1125,NO4CUP,山梨県,1819,NO4CUP,山梨県,2592,YAISE,山梨県,0,,-
+SINOBUZ,Amazing Mirage,292,DJ*P,山梨県,663,REIN,山梨県,1738,NO4CUP,山梨県,2457,SCP096,山梨県,3190,M-B,山梨県
+SINOBUZ,(This Is Not) The Angels,0,,-,557,HORATI,山梨県,1426,NO4CUP,山梨県,2664,SCP096,山梨県,0,,-
+SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1161,NO4CUP,山梨県,1959,NO4CUP,山梨県,3423,M-A,山梨県,0,,-
+SINOBUZ,!Viva!,0,,-,978,NO4CUP,山梨県,1565,KMA,山梨県,1962,IIDX29,山梨県,0,,-
 copula,麗 ～うらら～,257,COX,山梨県,1110,NO4CUP,山梨県,1674,LUNA**,山梨県,2572,IIDX29,山梨県,0,,-
 copula,駅猫のワルツ,0,,-,927,KURKOR,山梨県,2093,NO4CUP,山梨県,2683,M-B,山梨県,0,,-
-copula,量子の海のリントヴルム,0,,-,909,NO4CUP,山梨県,1773,NO4CUP,山梨県,2780,SHENHE,山梨県,0,,-
+copula,量子の海のリントヴルム,0,,-,909,NO4CUP,山梨県,1773,NO4CUP,山梨県,2807,CUBE,山梨県,0,,-
 copula,追想快晴テーマパーク,0,,-,1191,NO4CUP,山梨県,1962,KMA,山梨県,2865,YAISE,山梨県,0,,-
 copula,紫陽花 -AZISAI-,395,COX,山梨県,1280,NO4CUP,山梨県,2077,NO4CUP,山梨県,2808,M-B,山梨県,0,,-
 copula,真 地獄超特急 -HELL or HELL-,0,,-,1444,NO4CUP,山梨県,2154,NO4CUP,山梨県,3247,M-A,山梨県,0,,-
@@ -923,7 +1012,7 @@ copula,Exchange Place,0,,-,529,HENAR,山梨県,1259,NO4CUP,山梨県,1754,SCP096
 copula,Everlasting Last,0,,-,573,IIDX29,山梨県,1556,TFN,山梨県,2184,IIDX29,山梨県,0,,-
 copula,Dynamite,430,DEDEKS,山梨県,1126,METEOR,山梨県,2451,NO4CUP,山梨県,3824,M-A,山梨県,0,,-
 copula,Donkey Donk,0,,-,1049,HORATI,山梨県,1672,T3N.*,山梨県,2230,IIDX29,山梨県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,633,NO4CUP,山梨県,1450,TFN,山梨県,2253,SCP096,山梨県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,633,NO4CUP,山梨県,1500,NO4CUP,山梨県,2253,SCP096,山梨県,0,,-
 copula,DIAMOND CROSSING,0,,-,987,NO4CUP,山梨県,1661,TFN,山梨県,3097,M-A,山梨県,0,,-
 copula,Devil's Gear,0,,-,1008,REACH,山梨県,2155,NO4CUP,山梨県,3402,M-B,山梨県,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,1402,NO4CUP,山梨県,1877,NO4CUP,山梨県,2584,IIDX29,山梨県,0,,-
@@ -940,95 +1029,6 @@ copula,AO-1,0,,-,1238,NO4CUP,山梨県,1861,NO4CUP,山梨県,2844,M-A,山梨県,
 copula,Angelic Jelly,0,,-,1138,NO4CUP,山梨県,2006,TFN,山梨県,2616,K-,山梨県,0,,-
 copula,Acid Pumper,0,,-,689,NO4CUP,山梨県,1563,NO4CUP,山梨県,2468,M-A,山梨県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,700,NO4CUP,山梨県,1640,NO4CUP,山梨県,2308,NO4CUP,山梨県,0,,-
-SINOBUZ,鴉,0,,-,1170,YM-34,山梨県,2231,NO4CUP,山梨県,2642,IIDX29,山梨県,0,,-
-SINOBUZ,童話回廊,0,,-,791,YM-34,山梨県,1672,NO4CUP,山梨県,3093,M-A,山梨県,0,,-
-SINOBUZ,禍根,0,,-,0,,-,1293,TFN,山梨県,2495,KA3SU7,山梨県,0,,-
-SINOBUZ,獅子霞麗ノ舞,0,,-,364,CELERY,山梨県,923,NANAMI,山梨県,1689,NO4CUP,山梨県,0,,-
-SINOBUZ,焔極OVERKILL,0,,-,1048,NANAMI,山梨県,2050,NO4CUP,山梨県,3666,M-A,山梨県,0,,-
-SINOBUZ,火影,0,,-,529,EINCLE,山梨県,1381,NO4CUP,山梨県,2655,M-A,山梨県,0,,-
-SINOBUZ,津軽雪,0,,-,1542,T3N.*,山梨県,2217,NO4CUP,山梨県,3823,M-A,山梨県,0,,-
-SINOBUZ,次葉 -turn the page-,0,,-,0,,-,1423,NO4CUP,山梨県,1960,IIDX29,山梨県,0,,-
-SINOBUZ,月雪に舞う華のように,0,,-,791,KMA,山梨県,1314,NO4CUP,山梨県,1967,EN-ZAN,山梨県,0,,-
-SINOBUZ,恋はどう？モロ◎波動OK☆方程式!!,0,,-,1012,NO4CUP,山梨県,1514,7KAMAI,山梨県,2472,M-A,山梨県,0,,-
-SINOBUZ,忍恋花,0,,-,191,SSSSSS,山梨県,1669,NO4CUP,山梨県,2233,M-A,山梨県,0,,-
-SINOBUZ,刃図羅,0,,-,1234,NO4CUP,山梨県,2079,NO4CUP,山梨県,3345,M-B,山梨県,0,,-
-SINOBUZ,冬椿 ft. Kanae Asaba,260,COX,山梨県,938,NO4CUP,山梨県,1261,T3N.*,山梨県,2242,IIDX29,山梨県,2963,IIDX29,山梨県
-SINOBUZ,九尾狐夜行,0,,-,0,,-,1790,T3N.*,山梨県,2968,M-A,山梨県,0,,-
-SINOBUZ,ディッシュウォッシャー◎彡おいわちゃん,0,,-,723,NO4CUP,山梨県,1401,NO4CUP,山梨県,2490,M-B,山梨県,0,,-
-SINOBUZ,イザナミノナゲキ,0,,-,1026,V-U.S,山梨県,1963,NO4CUP,山梨県,3255,M-A,山梨県,0,,-
-SINOBUZ,ちらちら・はらはら,0,,-,230,AKYM,山梨県,920,KMA,山梨県,1415,NO4CUP,山梨県,0,,-
-SINOBUZ,〆,0,,-,1250,NO4CUP,山梨県,2227,7KAMAI,山梨県,3628,M-A,山梨県,0,,-
-SINOBUZ,Yellow Sketch(RX-Ver.S.P.L.),0,,-,0,,-,1819,NO4CUP,山梨県,2827,M-B,山梨県,0,,-
-SINOBUZ,yamabiko (SINOBUZ Edition),0,,-,923,KMA,山梨県,1488,KMA,山梨県,2591,M-B,山梨県,0,,-
-SINOBUZ,XINOBIKILL,0,,-,812,KIBA84,山梨県,1744,NO4CUP,山梨県,2828,M-B,山梨県,0,,-
-SINOBUZ,Warrior,0,,-,1020,NO4CUP,山梨県,1716,KMA,山梨県,2441,IIDX29,山梨県,0,,-
-SINOBUZ,Vermilion,0,,-,493,SOTHIE,山梨県,1350,T3N.*,山梨県,1932,NO4CUP,山梨県,0,,-
-SINOBUZ,Venom,0,,-,1277,NO4CUP,山梨県,1990,KMA,山梨県,3141,M-B,山梨県,0,,-
-SINOBUZ,Umbral,0,,-,591,NO4CUP,山梨県,1342,KMA,山梨県,1887,IIDX29,山梨県,2923,NO4CUP,山梨県
-SINOBUZ,TOGAKUSHI,0,,-,1022,NO4CUP,山梨県,1889,NO4CUP,山梨県,2605,M-A,山梨県,0,,-
-SINOBUZ,The Commanders,0,,-,646,DAO,山梨県,1417,CARINA,山梨県,2417,NO4CUP,山梨県,0,,-
-SINOBUZ,Sweet Clapper,0,,-,486,MASA,山梨県,1150,REACH,山梨県,1905,M-A,山梨県,0,,-
-SINOBUZ,Surf on the Light,0,,-,774,NO4CUP,山梨県,1497,T3N.*,山梨県,2181,T3N.*,山梨県,0,,-
-SINOBUZ,Super Rush,0,,-,1028,NO4CUP,山梨県,1879,NO4CUP,山梨県,3539,M-A,山梨県,0,,-
-SINOBUZ,Summerlights(IIDX Edition),0,,-,1129,NO4CUP,山梨県,1821,NO4CUP,山梨県,3107,M-A,山梨県,0,,-
-SINOBUZ,Steel Edge,0,,-,790,DJ*P,山梨県,1496,T3N.*,山梨県,3144,M-B,山梨県,0,,-
-SINOBUZ,Snakey Kung-fu,0,,-,1071,RYO,山梨県,2158,T3N.*,山梨県,3371,M-B,山梨県,0,,-
-SINOBUZ,Sky High,434,NO4CUP,山梨県,1108,POTATO,山梨県,2246,T3N.*,山梨県,3719,M-B,山梨県,0,,-
-SINOBUZ,SINOBUZ Fantasy,0,,-,906,KIBA84,山梨県,1699,T3N.*,山梨県,2359,T3N.*,山梨県,0,,-
-SINOBUZ,shuriken,0,,-,785,NO4CUP,山梨県,1128,T3N.*,山梨県,2494,M-B,山梨県,0,,-
-SINOBUZ,SEQUENCE CAT,0,,-,849,SERRA,山梨県,2104,NO4CUP,山梨県,2776,IIDX29,山梨県,0,,-
-SINOBUZ,Selfish Sweet,0,,-,639,NO4CUP,山梨県,952,NO4CUP,山梨県,1649,YAISE,山梨県,0,,-
-SINOBUZ,Seaside Labyrinth,0,,-,459,HENAR,山梨県,1218,HORATI,山梨県,1789,NO4CUP,山梨県,0,,-
-SINOBUZ,SAY BAY,0,,-,846,NO4CUP,山梨県,1506,T3N.*,山梨県,2779,M-B,山梨県,0,,-
-SINOBUZ,Sarutobi Champion is 拙者,0,,-,943,NO4CUP,山梨県,1365,ALISIA,山梨県,2101,NO4CUP,山梨県,0,,-
-SINOBUZ,SAMURAI-Scramble,0,,-,881,NANAMI,山梨県,1654,NO4CUP,山梨県,2322,NO4CUP,山梨県,2667,NO4CUP,山梨県
-SINOBUZ,ROTTERDAM SHOGUN,527,ALISIA,山梨県,1040,NANAMI,山梨県,1824,T3N.*,山梨県,2575,M-A,山梨県,0,,-
-SINOBUZ,RISING FIRE HAWK,0,,-,863,NO4CUP,山梨県,1404,KMA,山梨県,2634,IIDX29,山梨県,0,,-
-SINOBUZ,Remedy feat. Kanae Asaba,0,,-,915,NO4CUP,山梨県,1646,T3N.*,山梨県,2164,NO4CUP,山梨県,0,,-
-SINOBUZ,Rave Cannon,0,,-,1003,KMA,山梨県,1808,TFN,山梨県,3276,M-B,山梨県,0,,-
-SINOBUZ,RAIN,0,,-,1145,NO4CUP,山梨県,1797,T3N.*,山梨県,3267,M-A,山梨県,0,,-
-SINOBUZ,Quakes,0,,-,0,,-,1958,T3N.*,山梨県,3199,M-A,山梨県,0,,-
-SINOBUZ,Piano Samurai,0,,-,1077,NO4CUP,山梨県,1781,T3N.*,山梨県,2393,NO4CUP,山梨県,0,,-
-SINOBUZ,PAPAYAPA BASS,0,,-,621,MUSASI,山梨県,1538,T3N.*,山梨県,2725,KA3SU7,山梨県,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,1294,NO4CUP,山梨県,2020,TFN,山梨県,2940,K-,山梨県,0,,-
-SINOBUZ,OOO,0,,-,694,NO4CUP,山梨県,1459,NO4CUP,山梨県,2041,SCP096,山梨県,0,,-
-SINOBUZ,nostos,0,,-,530,REKKA,山梨県,1314,NO4CUP,山梨県,2479,NO4CUP,山梨県,0,,-
-SINOBUZ,Music is The Answer,0,,-,563,HENAR,山梨県,1432,NO4CUP,山梨県,1769,BOLT,山梨県,0,,-
-SINOBUZ,Modular Technology,0,,-,1251,NO4CUP,山梨県,1917,NO4CUP,山梨県,2628,M-B,山梨県,0,,-
-SINOBUZ,Mare Nectaris,0,,-,1377,KMA,山梨県,2005,NO4CUP,山梨県,3800,M-A,山梨県,0,,-
-SINOBUZ,Magical,0,,-,783,NO4CUP,山梨県,1108,NANAMI,山梨県,1980,IIDX29,山梨県,0,,-
-SINOBUZ,Macuilxochitl,506,COX,山梨県,1462,NO4CUP,山梨県,2154,DOLLY,山梨県,3240,KA3SU7,山梨県,0,,-
-SINOBUZ,Lost wing at.0,0,,-,929,NO4CUP,山梨県,1464,T3N.*,山梨県,2348,YAISE,山梨県,0,,-
-SINOBUZ,INVISIBLE STRIX,0,,-,952,NANAMI,山梨県,1921,GING**,山梨県,2510,NO4CUP,山梨県,0,,-
-SINOBUZ,Honey Trap,0,,-,832,NO4CUP,山梨県,1591,NO4CUP,山梨県,2426,NO4CUP,山梨県,0,,-
-SINOBUZ,HAPPY★RUSH,0,,-,791,NO4CUP,山梨県,1889,NO4CUP,山梨県,2717,NO4CUP,山梨県,0,,-
-SINOBUZ,HADES,372,COX,山梨県,900,NANAMI,山梨県,1846,T3N.*,山梨県,2966,M-B,山梨県,0,,-
-SINOBUZ,GuNGNiR,0,,-,1321,NO4CUP,山梨県,2539,YAISE,山梨県,3993,M-A,山梨県,4613,M-A,山梨県
-SINOBUZ,Go Ahead!!,0,,-,1021,NO4CUP,山梨県,1431,LUNA**,山梨県,2689,M-B,山梨県,0,,-
-SINOBUZ,FUZIN RIZIN,0,,-,1196,NO4CUP,山梨県,1902,TFN,山梨県,3809,M-A,山梨県,0,,-
-SINOBUZ,elemental bender feat. Kanae Asaba,0,,-,629,NO4CUP,山梨県,0,,-,1597,IIDX29,山梨県,0,,-
-SINOBUZ,Egret and Willow,0,,-,0,,-,1609,TFN,山梨県,2639,NO4CUP,山梨県,0,,-
-SINOBUZ,ECHIDNA,0,,-,1301,NO4CUP,山梨県,2084,KA3SU7,山梨県,3289,M-B,山梨県,0,,-
-SINOBUZ,DORNWALD ～Junge～,0,,-,1256,P*A*N,山梨県,2196,NO4CUP,山梨県,3646,M-A,山梨県,0,,-
-SINOBUZ,Cyber True Color,0,,-,994,NO4CUP,山梨県,1657,NO4CUP,山梨県,2258,KA3SU7,山梨県,0,,-
-SINOBUZ,crew,0,,-,621,NO4CUP,山梨県,1736,NO4CUP,山梨県,2888,IIDX29,山梨県,0,,-
-SINOBUZ,Caterpillar,0,,-,1104,COX,山梨県,2194,T3N.*,山梨県,3012,M-A,山梨県,0,,-
-SINOBUZ,BroGamer,0,,-,1348,NO4CUP,山梨県,2129,T3N.*,山梨県,3001,IIDX29,山梨県,4561,M-A,山梨県
-SINOBUZ,Breakin' Chain,0,,-,552,WTR.,山梨県,1246,KMA,山梨県,2259,IIDX29,山梨県,0,,-
-SINOBUZ,BREAK OVER,0,,-,871,KMA,山梨県,1451,TFN,山梨県,2205,BOLT,山梨県,0,,-
-SINOBUZ,Beyond The Seven,0,,-,731,NO4CUP,山梨県,1315,NO4CUP,山梨県,2639,IIDX29,山梨県,0,,-
-SINOBUZ,Believe in you,0,,-,1176,NO4CUP,山梨県,1867,TFN,山梨県,2405,IIDX29,山梨県,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,1016,NO4CUP,山梨県,1550,NO4CUP,山梨県,2092,NO4CUP,山梨県,0,,-
-SINOBUZ,Be A Star,0,,-,968,NO4CUP,山梨県,1719,KMA,山梨県,2792,M-B,山梨県,0,,-
-SINOBUZ,BabeL ～Grand Story～,0,,-,1303,NO4CUP,山梨県,1986,SCHERZ,山梨県,2768,SCP096,山梨県,0,,-
-SINOBUZ,AsiaN distractive,0,,-,1181,NO4CUP,山梨県,1745,NO4CUP,山梨県,2557,IIDX29,山梨県,0,,-
-SINOBUZ,Around The Galaxy,0,,-,1120,NO4CUP,山梨県,2095,NO4CUP,山梨県,3330,M-B,山梨県,0,,-
-SINOBUZ,Apocalypse,0,,-,1061,KMA,山梨県,2024,TFN,山梨県,3571,M-A,山梨県,0,,-
-SINOBUZ,AO-∞,0,,-,1125,NO4CUP,山梨県,1819,NO4CUP,山梨県,2592,YAISE,山梨県,0,,-
-SINOBUZ,Amazing Mirage,292,DJ*P,山梨県,663,REIN,山梨県,1738,NO4CUP,山梨県,2457,SCP096,山梨県,3190,M-B,山梨県
-SINOBUZ,(This Is Not) The Angels,0,,-,557,HORATI,山梨県,1426,NO4CUP,山梨県,2664,SCP096,山梨県,0,,-
-SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1161,NO4CUP,山梨県,1959,NO4CUP,山梨県,3423,M-A,山梨県,0,,-
-SINOBUZ,!Viva!,0,,-,978,NO4CUP,山梨県,1565,KMA,山梨県,1962,IIDX29,山梨県,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,697,NO4CUP,山梨県,1124,FLARE,山梨県,2259,K-,山梨県,0,,-
 CANNON BALLERS,純真可憐デザイア,245,COX,山梨県,752,V-U.S,山梨県,1632,T3N.*,山梨県,2314,M-B,山梨県,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1371,NO4CUP,山梨県,2466,NO4CUP,山梨県,4021,M-A,山梨県,0,,-
@@ -1052,9 +1052,9 @@ CANNON BALLERS,The Chase,0,,-,701,NO4CUP,山梨県,1291,YAISE,山梨県,2159,M-A
 CANNON BALLERS,THE CANNONBALLER,459,COX,山梨県,1508,NO4CUP,山梨県,2392,NO4CUP,山梨県,3345,IIDX29,山梨県,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,849,METEOR,山梨県,1524,NO4CUP,山梨県,2573,M-B,山梨県,0,,-
 CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1174,NO4CUP,山梨県,1562,IMF.,山梨県,2555,SCP096,山梨県,0,,-
-CANNON BALLERS,Static State,0,,-,892,FLARE,山梨県,1696,TFN,山梨県,2095,BOLT,山梨県,0,,-
+CANNON BALLERS,Static State,0,,-,892,FLARE,山梨県,1696,TFN,山梨県,2233,IIDX29,山梨県,0,,-
 CANNON BALLERS,STARLIGHT JUNCTION,0,,-,678,469MA,山梨県,1422,NEDGY,山梨県,2267,M-A,山梨県,0,,-
-CANNON BALLERS,SPEED DEMON,0,,-,2,NO4CUP,山梨県,1434,NO4CUP,山梨県,2352,M-A,山梨県,0,,-
+CANNON BALLERS,SPEED DEMON,0,,-,753,NO4CUP,山梨県,1434,NO4CUP,山梨県,2352,M-A,山梨県,0,,-
 CANNON BALLERS,Slipstream,0,,-,1034,NO4CUP,山梨県,1972,T3N.*,山梨県,3472,M-B,山梨県,0,,-
 CANNON BALLERS,Sleepless days,0,,-,510,NO4CUP,山梨県,908,M-B,山梨県,1576,M-A,山梨県,0,,-
 CANNON BALLERS,REVOLVER,0,,-,806,NANAMI,山梨県,1644,T3N.*,山梨県,2533,SCP096,山梨県,3092,M-B,山梨県
@@ -1070,14 +1070,14 @@ CANNON BALLERS,NITROUS CANNON,0,,-,1383,NO4CUP,山梨県,1981,NO4CUP,山梨県,3
 CANNON BALLERS,n'pa pa BBQ,0,,-,529,KAZLIN,山梨県,1745,T3N.*,山梨県,2711,IIDX29,山梨県,0,,-
 CANNON BALLERS,Midnight Lady,0,,-,560,MASA,山梨県,1156,KMA,山梨県,1924,SCP096,山梨県,0,,-
 CANNON BALLERS,MAXIVCORD,0,,-,2,NO4CUP,山梨県,1446,NO4CUP,山梨県,2291,YAISE,山梨県,0,,-
-CANNON BALLERS,LUV DRIVE,0,,-,773,KMA,山梨県,1115,MIZUKI,山梨県,2111,M-B,山梨県,0,,-
+CANNON BALLERS,LUV DRIVE,0,,-,829,NO4CUP,山梨県,1115,MIZUKI,山梨県,2111,M-B,山梨県,0,,-
 CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,763,R,山梨県,1822,KMA,山梨県,3451,M-A,山梨県,0,,-
 CANNON BALLERS,Initiation,659,NO4CUP,山梨県,1499,T3N.*,山梨県,2459,NO4CUP,山梨県,3819,M-B,山梨県,0,,-
 CANNON BALLERS,Illusionary Waterlily,0,,-,1295,NO4CUP,山梨県,2150,YUIEL,山梨県,3502,M-A,山梨県,0,,-
 CANNON BALLERS,I Love You,0,,-,1047,NO4CUP,山梨県,1880,T3N.*,山梨県,2735,M-A,山梨県,0,,-
 CANNON BALLERS,HYPE THE CORE,0,,-,915,EICA,山梨県,1941,T3N.*,山梨県,3008,M-A,山梨県,0,,-
 CANNON BALLERS,Hella Deep,0,,-,452,JAZZY,山梨県,1070,NO4CUP,山梨県,1757,NO4CUP,山梨県,0,,-
-CANNON BALLERS,HAT TRICK,0,,-,867,NO4CUP,山梨県,1428,NO4CUP,山梨県,2166,IIDX29,山梨県,0,,-
+CANNON BALLERS,HAT TRICK,0,,-,867,NO4CUP,山梨県,1428,NO4CUP,山梨県,2167,NO4CUP,山梨県,0,,-
 CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,581,NO4CUP,山梨県,1103,FNR***,山梨県,1824,IIDX29,山梨県,0,,-
 CANNON BALLERS,FUTURE is Dead,0,,-,916,NO4CUP,山梨県,1460,NO4CUP,山梨県,2170,NO4CUP,山梨県,0,,-
 CANNON BALLERS,From Time To Time,0,,-,799,NO4CUP,山梨県,1861,NO4CUP,山梨県,2408,NO4CUP,山梨県,0,,-
@@ -1086,7 +1086,7 @@ CANNON BALLERS,Fervidex,0,,-,790,NANAMI,山梨県,1820,T3N.*,山梨県,2699,M-B,
 CANNON BALLERS,Expanded !!,0,,-,661,NO4CUP,山梨県,1474,TFN,山梨県,2493,KATATO,山梨県,0,,-
 CANNON BALLERS,Exhaust Hype,0,,-,528,AKIIII,山梨県,1895,NO4CUP,山梨県,2738,IIDX29,山梨県,0,,-
 CANNON BALLERS,encounter,0,,-,971,NO4CUP,山梨県,1780,NO4CUP,山梨県,3213,M-B,山梨県,0,,-
-CANNON BALLERS,EMERALDAS,416,COX,山梨県,1378,T3N.*,山梨県,2335,NO4CUP,山梨県,3507,M-A,山梨県,0,,-
+CANNON BALLERS,EMERALDAS,416,COX,山梨県,1379,NO4CUP,山梨県,2335,NO4CUP,山梨県,3507,M-A,山梨県,0,,-
 CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,968,NO4CUP,山梨県,1396,TFN,山梨県,2477,KA3SU7,山梨県,0,,-
 CANNON BALLERS,DropZ-Line-,0,,-,1264,KIT.*,山梨県,1968,NO4CUP,山梨県,3230,M-A,山梨県,0,,-
 CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1315,POTATO,山梨県,2417,NO4CUP,山梨県,4071,M-A,山梨県,0,,-
@@ -1101,7 +1101,7 @@ CANNON BALLERS,Best of Me,0,,-,495,ABXY,山梨県,1239,METEOR,山梨県,2176,IID
 CANNON BALLERS,Beast mode,0,,-,802,MOLS,山梨県,1565,T3N.*,山梨県,2566,K-,山梨県,0,,-
 CANNON BALLERS,Be a Hero!,0,,-,580,MKRN,山梨県,1957,NO4CUP,山梨県,2976,IIDX29,山梨県,0,,-
 CANNON BALLERS,Battleground,0,,-,1174,NO4CUP,山梨県,1855,T3N.*,山梨県,2632,IIDX29,山梨県,0,,-
-CANNON BALLERS,Back Spin Sweeper,0,,-,654,EBI,山梨県,1357,NO4CUP,山梨県,2233,IIDX29,山梨県,0,,-
+CANNON BALLERS,Back Spin Sweeper,0,,-,812,KMA,山梨県,1357,NO4CUP,山梨県,2233,IIDX29,山梨県,0,,-
 CANNON BALLERS,Around the Future,0,,-,568,IIDX29,山梨県,1726,NO4CUP,山梨県,2459,NO4CUP,山梨県,0,,-
 CANNON BALLERS,Arca,0,,-,910,NO4CUP,山梨県,1845,NO4CUP,山梨県,3147,M-A,山梨県,0,,-
 CANNON BALLERS,Antigravity,0,,-,1060,NO4CUP,山梨県,1942,NO4CUP,山梨県,3114,M-A,山梨県,0,,-
@@ -1189,7 +1189,7 @@ Rootage,HOT LIMIT,403,COX,山梨県,847,METEOR,山梨県,1712,T3N.*,山梨県,24
 Rootage,HEISEI,349,COX,山梨県,919,REACH,山梨県,1870,T3N.*,山梨県,2487,IIDX29,山梨県,0,,-
 Rootage,HARD BRAIN,0,,-,1371,NO4CUP,山梨県,2019,NO4CUP,山梨県,3750,M-A,山梨県,0,,-
 Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,887,POTATO,山梨県,2189,NO4CUP,山梨県,3893,M-B,山梨県,0,,-
-Rootage,Glory,0,,-,2,NO4CUP,山梨県,1020,JONAKO,山梨県,2208,SCP096,山梨県,0,,-
+Rootage,Glory,0,,-,2,NO4CUP,山梨県,1020,JONAKO,山梨県,2253,SCP096,山梨県,0,,-
 Rootage,GIGA THRASH,0,,-,968,FLARE,山梨県,1835,T3N.*,山梨県,2577,YAISE,山梨県,0,,-
 Rootage,GENE,0,,-,1189,SOKU4,山梨県,1940,NO4CUP,山梨県,4325,M-A,山梨県,0,,-
 Rootage,Geirskogul,0,,-,2,NO4CUP,山梨県,1577,NO4CUP,山梨県,2207,IIDX29,山梨県,0,,-
@@ -1208,7 +1208,7 @@ Rootage,CODE:0,0,,-,1422,NO4CUP,山梨県,1886,ALISIA,山梨県,2692,SCP096,山�
 Rootage,Catch Our Fire!,0,,-,1019,7NO,山梨県,2285,T3N.*,山梨県,3641,M-B,山梨県,0,,-
 Rootage,Carry Me Away,526,NO4CUP,山梨県,1030,REACH,山梨県,1761,T3N.*,山梨県,3149,M-A,山梨県,0,,-
 Rootage,Carmina,516,NO4CUP,山梨県,1132,REACH,山梨県,2389,NO4CUP,山梨県,3798,M-A,山梨県,0,,-
-Rootage,BLOSSOM,0,,-,1005,KMA,山梨県,1637,T3N.*,山梨県,2445,NO4CUP,山梨県,0,,-
+Rootage,BLOSSOM,0,,-,1005,KMA,山梨県,1637,T3N.*,山梨県,2446,IIDX29,山梨県,0,,-
 Rootage,BLACK JACKAL,0,,-,846,NO4CUP,山梨県,1574,T3N.*,山梨県,2253,KA3SU7,山梨県,0,,-
 Rootage,Afterimage d'automne,0,,-,1018,NO4CUP,山梨県,1620,KMA,山梨県,2683,SCP096,山梨県,0,,-
 Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,821,LAMBO,山梨県,1434,NEDGY,山梨県,2577,IIDX29,山梨県,0,,-
@@ -1231,7 +1231,7 @@ HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),365,COX,
 HEROIC VERSE,ガヴリールドロップキック,393,COX,山梨県,773,NO4CUP,山梨県,1638,NO4CUP,山梨県,2588,IIDX29,山梨県,0,,-
 HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1547,NO4CUP,山梨県,2671,NO4CUP,山梨県,4167,M-B,山梨県,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1030,COX,山梨県,1762,T3N.*,山梨県,2874,M-A,山梨県,3478,M-B,山梨県
-HEROIC VERSE,Voo Doo Bamboleo,0,,-,780,NANAMI,山梨県,1537,NO4CUP,山梨県,2418,NO4CUP,山梨県,0,,-
+HEROIC VERSE,Voo Doo Bamboleo,0,,-,780,NANAMI,山梨県,1537,NO4CUP,山梨県,2423,IIDX29,山梨県,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,819,MOLS,山梨県,1785,T3N.*,山梨県,2902,IIDX29,山梨県,0,,-
 HEROIC VERSE,Virus Funk,0,,-,724,HORATI,山梨県,1525,NO4CUP,山梨県,2190,M-A,山梨県,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,511,KAZLIN,山梨県,1286,KATATO,山梨県,1824,IIDX29,山梨県,0,,-
@@ -1255,7 +1255,7 @@ HEROIC VERSE,Sellout,0,,-,0,,-,869,JONAKO,山梨県,2099,IIDX29,山梨県,0,,-
 HEROIC VERSE,SCREW // owo // SCREW,0,,-,1043,RYO,山梨県,2103,NO4CUP,山梨県,2999,M-A,山梨県,0,,-
 HEROIC VERSE,S!ck (Nhato Remix),0,,-,942,KMA,山梨県,1546,TFN,山梨県,2454,IIDX29,山梨県,0,,-
 HEROIC VERSE,rough percussionythm,0,,-,838,SETSU,山梨県,1657,NO4CUP,山梨県,2461,NO4CUP,山梨県,0,,-
-HEROIC VERSE,Rave Patroller,0,,-,1197,IMF.,山梨県,2315,T3N.*,山梨県,3378,M-A,山梨県,0,,-
+HEROIC VERSE,Rave Patroller,0,,-,1296,REACH,山梨県,2315,T3N.*,山梨県,3378,M-A,山梨県,0,,-
 HEROIC VERSE,Rave lithosphere,0,,-,1087,NO4CUP,山梨県,1722,NO4CUP,山梨県,2639,M-A,山梨県,0,,-
 HEROIC VERSE,Rainstorm,0,,-,704,SERRA,山梨県,1528,NO4CUP,山梨県,2230,IIDX29,山梨県,0,,-
 HEROIC VERSE,Queen Kaguya,0,,-,671,MOLS,山梨県,1831,NO4CUP,山梨県,2524,NO4CUP,山梨県,0,,-
@@ -1263,12 +1263,12 @@ HEROIC VERSE,Punching Down (IIDX Mix),0,,-,446,NB2211,山梨県,439,KELL0W,山�
 HEROIC VERSE,Primitive Vibes,567,COX,山梨県,0,,-,1955,NO4CUP,山梨県,2991,KA3SU7,山梨県,0,,-
 HEROIC VERSE,POP TEAM EPIC(kors k Remix),234,IIDX27,山梨県,528,NO4CUP,山梨県,1285,T3N.*,山梨県,2106,IIDX29,山梨県,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1229,NO4CUP,山梨県,1617,TFN,山梨県,2808,IIDX29,山梨県,0,,-
-HEROIC VERSE,Override,0,,-,946,NO4CUP,山梨県,1610,T3N.*,山梨県,2773,NO4CUP,山梨県,3562,NO4CUP,山梨県
+HEROIC VERSE,Override,0,,-,946,NO4CUP,山梨県,1610,T3N.*,山梨県,2773,NO4CUP,山梨県,3776,SCP096,山梨県
 HEROIC VERSE,OUTER PLANETS,0,,-,449,NB2211,山梨県,1379,NO4CUP,山梨県,2103,NO4CUP,山梨県,0,,-
 HEROIC VERSE,Ohayo!,0,,-,802,METEOR,山梨県,1559,T3N.*,山梨県,2356,KA3SU7,山梨県,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,778,GERMAN,山梨県,1485,NO4CUP,山梨県,2585,IIDX29,山梨県,0,,-
 HEROIC VERSE,NEWALONE,0,,-,401,NB2211,山梨県,1293,NO4CUP,山梨県,1885,KMA,山梨県,0,,-
-HEROIC VERSE,Nasty Techniques,0,,-,953,NO4CUP,山梨県,1650,NO4CUP,山梨県,2564,IIDX29,山梨県,0,,-
+HEROIC VERSE,Nasty Techniques,0,,-,953,NO4CUP,山梨県,1650,NO4CUP,山梨県,2571,IIDX29,山梨県,0,,-
 HEROIC VERSE,Moving on,0,,-,1037,NO4CUP,山梨県,1914,NO4CUP,山梨県,2929,M-B,山梨県,0,,-
 HEROIC VERSE,Mel,0,,-,782,NO4CUP,山梨県,1511,NO4CUP,山梨県,2145,SCP096,山梨県,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1171,NO4CUP,山梨県,2101,NO4CUP,山梨県,3336,M-A,山梨県,0,,-
@@ -1289,7 +1289,7 @@ HEROIC VERSE,GHOST,0,,-,687,DJ*P,山梨県,1420,KMA,山梨県,2694,IIDX29,山梨
 HEROIC VERSE,Friction[!]Function,0,,-,894,SETSU,山梨県,1715,TFN,山梨県,3103,M-B,山梨県,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,828,P*A*N,山梨県,1449,IMF.,山梨県,2260,NO4CUP,山梨県,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,273,7NO,山梨県,1062,KATATO,山梨県,1585,YAISE,山梨県,0,,-
-HEROIC VERSE,EXCITE,325,NO4CUP,山梨県,574,SOTHIE,山梨県,1363,NO4CUP,山梨県,2182,M-B,山梨県,0,,-
+HEROIC VERSE,EXCITE,325,NO4CUP,山梨県,795,THORMA,山梨県,1363,NO4CUP,山梨県,2182,M-B,山梨県,0,,-
 HEROIC VERSE,EROICA,0,,-,1397,NO4CUP,山梨県,2286,NO4CUP,山梨県,3916,M-A,山梨県,0,,-
 HEROIC VERSE,Duration,0,,-,246,AKYM,山梨県,1026,NO4CUP,山梨県,1921,IIDX29,山梨県,0,,-
 HEROIC VERSE,Drop It,0,,-,1342,NO4CUP,山梨県,1738,ALISIA,山梨県,2674,IIDX29,山梨県,0,,-
@@ -1298,7 +1298,7 @@ HEROIC VERSE,Do What You Want,0,,-,406,SETTON,山梨県,1273,NO4CUP,山梨県,19
 HEROIC VERSE,Dans la nuit de l'eternite,0,,-,1391,NO4CUP,山梨県,2130,NO4CUP,山梨県,3437,M-A,山梨県,0,,-
 HEROIC VERSE,Crank It,0,,-,782,NO4CUP,山梨県,1444,NO4CUP,山梨県,2417,NO4CUP,山梨県,0,,-
 HEROIC VERSE,Change Yourself,0,,-,610,EICA,山梨県,1707,T3N.*,山梨県,2482,IIDX29,山梨県,0,,-
-HEROIC VERSE,Calvados Queen,0,,-,0,,-,1525,T3N.*,山梨県,2407,NO4CUP,山梨県,0,,-
+HEROIC VERSE,Calvados Queen,0,,-,926,CRIMM,山梨県,1525,T3N.*,山梨県,2407,NO4CUP,山梨県,0,,-
 HEROIC VERSE,Bow shock!!,0,,-,800,NO4CUP,山梨県,1955,T3N.*,山梨県,3056,M-B,山梨県,0,,-
 HEROIC VERSE,Beautiful Harmony (IIDX Mix),0,,-,838,NANAMI,山梨県,1345,COX,山梨県,2390,IIDX29,山梨県,0,,-
 HEROIC VERSE,beatAffection,0,,-,1031,NO4CUP,山梨県,1577,NO4CUP,山梨県,2581,NO4CUP,山梨県,0,,-
@@ -1319,14 +1319,14 @@ BISTROVER,水無月の雫 ft. 小林まな,0,,-,1080,NANAMI,山梨県,1792,T3N.*
 BISTROVER,新宝島,506,ALISIA,山梨県,661,PIKA,山梨県,1389,NO4CUP,山梨県,2322,IIDX29,山梨県,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1142,KMA,山梨県,1817,TFN,山梨県,3881,M-A,山梨県,0,,-
 BISTROVER,ここからよろしく大作戦143,263,COX,山梨県,915,KINO-4,山梨県,1770,T3N.*,山梨県,2500,M-B,山梨県,0,,-
-BISTROVER,∀,574,ALISIA,山梨県,1314,NO4CUP,山梨県,2196,T3N.*,山梨県,3524,M-A,山梨県,0,,-
+BISTROVER,∀,574,ALISIA,山梨県,1314,NO4CUP,山梨県,2216,NO4CUP,山梨県,3524,M-A,山梨県,0,,-
 BISTROVER,X-ray binary,0,,-,939,P*A*N,山梨県,1933,T3N.*,山梨県,2760,IIDX29,山梨県,0,,-
 BISTROVER,When I Met U,0,,-,897,NO4CUP,山梨県,1260,BOLT,山梨県,2009,SCP096,山梨県,0,,-
 BISTROVER,WAKE UP NOW,0,,-,707,METEOR,山梨県,1455,T3N.*,山梨県,1974,IIDX29,山梨県,0,,-
 BISTROVER,Vitrum,0,,-,1050,KRTK,山梨県,1739,NO4CUP,山梨県,3392,KA3SU7,山梨県,0,,-
 BISTROVER,TOMORROW,316,BBBBBB,山梨県,584,SOTHIE,山梨県,1539,ROBIN,山梨県,2233,M-B,山梨県,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,945,REACH,山梨県,1696,T3N.*,山梨県,2530,M-B,山梨県,0,,-
-BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1096,KMA,山梨県,1627,T3N.*,山梨県,2805,IIDX29,山梨県,0,,-
+BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1096,KMA,山梨県,1631,NO4CUP,山梨県,2805,IIDX29,山梨県,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,901,SETSU,山梨県,1439,TFN,山梨県,2254,CUBE,山梨県,0,,-
 BISTROVER,So Punky,0,,-,888,NO4CUP,山梨県,1661,T3N.*,山梨県,2525,IIDX29,山梨県,0,,-
 BISTROVER,"smooooch・∀・ (Snail's House Remix) ",0,,-,824,FNR***,山梨県,1574,T3N.*,山梨県,2302,SHENHE,山梨県,0,,-
@@ -1362,7 +1362,7 @@ BISTROVER,Chewingood!!!,301,NO4CUP,山梨県,822,KRTK,山梨県,1512,T3N.*,山�
 BISTROVER,Breakin' Rules,0,,-,927,MOLS,山梨県,1658,ALISIA,山梨県,2618,DOLLY,山梨県,0,,-
 BISTROVER,BIGソムタム,561,NO4CUP,山梨県,1208,POTATO,山梨県,1855,T3N.*,山梨県,3303,M-B,山梨県,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,626,MASA,山梨県,1295,POTATO,山梨県,1952,M-B,山梨県,0,,-
-BISTROVER,apo:llioth,0,,-,1193,KRTK,山梨県,2025,TFN,山梨県,2786,SCP096,山梨県,0,,-
+BISTROVER,apo:llioth,0,,-,1193,KRTK,山梨県,2025,TFN,山梨県,2793,ALT-12,山梨県,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,678,!!!!!,山梨県,1574,T3N.*,山梨県,2718,IIDX29,山梨県,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,714,NO4CUP,山梨県,1409,NO4CUP,山梨県,2086,M-A,山梨県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,919,P*A*N,山梨県,1545,NO4CUP,山梨県,2489,NO4CUP,山梨県,0,,-
@@ -1381,7 +1381,7 @@ CastHour,オールトの雲,0,,-,1226,NO4CUP,山梨県,2002,NO4CUP,山梨県,262
 CastHour,オドループ,507,NO4CUP,山梨県,1109,NO4CUP,山梨県,1573,T3N.*,山梨県,2344,M-A,山梨県,0,,-
 CastHour,ウツシミウツシ,0,,-,1266,NO4CUP,山梨県,2042,NO4CUP,山梨県,3158,M-A,山梨県,0,,-
 CastHour,ぐだふわエブリデー,257,ALISIA,山梨県,687,NO4CUP,山梨県,1306,NO4CUP,山梨県,2256,M-B,山梨県,0,,-
-CastHour,あいつら全員同窓会,347,COX,山梨県,646,NO4CUP,山梨県,1231,NO4CUP,山梨県,2004,IIDX29,山梨県,0,,-
+CastHour,あいつら全員同窓会,347,COX,山梨県,646,NO4CUP,山梨県,1231,NO4CUP,山梨県,2016,SCP096,山梨県,0,,-
 CastHour,Xyndrome,0,,-,969,NO4CUP,山梨県,1657,NO4CUP,山梨県,2941,M-A,山梨県,0,,-
 CastHour,Wonderful Escape,0,,-,967,NO4CUP,山梨県,1465,NO4CUP,山梨県,2063,NO4CUP,山梨県,0,,-
 CastHour,VR - Virtual Reality (prod.by Snail's House),314,NO4CUP,山梨県,621,NO4CUP,山梨県,1169,NO4CUP,山梨県,1798,NO4CUP,山梨県,0,,-
@@ -1390,7 +1390,7 @@ CastHour,Victory Of Ravers,0,,-,1028,NO4CUP,山梨県,1757,NO4CUP,山梨県,2579
 CastHour,Ventriloquist,0,,-,789,NO4CUP,山梨県,1521,NO4CUP,山梨県,2417,M-A,山梨県,0,,-
 CastHour,Triple Cross,590,NO4CUP,山梨県,1091,ALISIA,山梨県,2272,T3N.*,山梨県,3290,M-A,山梨県,0,,-
 CastHour,Tail Lights,0,,-,1102,NO4CUP,山梨県,1943,NO4CUP,山梨県,3119,M-A,山梨県,0,,-
-CastHour,Souhait bleu,0,,-,877,ALISIA,山梨県,1914,T3N.*,山梨県,2584,SHENHE,山梨県,0,,-
+CastHour,Souhait bleu,0,,-,897,NO4CUP,山梨県,1914,T3N.*,山梨県,2584,SHENHE,山梨県,0,,-
 CastHour,SOLID WYVERN,0,,-,1218,NO4CUP,山梨県,1937,NO4CUP,山梨県,2635,M-A,山梨県,0,,-
 CastHour,Skreaming for Salvation,0,,-,829,NO4CUP,山梨県,2040,NO4CUP,山梨県,3171,M-A,山梨県,0,,-
 CastHour,Purple Perplex,0,,-,1157,NO4CUP,山梨県,1891,NO4CUP,山梨県,3020,M-A,山梨県,0,,-
@@ -1402,12 +1402,12 @@ CastHour,Non Stop Rock,0,,-,802,NO4CUP,山梨県,1317,NO4CUP,山梨県,1832,NO4C
 CastHour,No Day But Today!,441,NO4CUP,山梨県,748,NO4CUP,山梨県,1348,NO4CUP,山梨県,1976,M-A,山梨県,0,,-
 CastHour,N.O.,0,,-,831,NO4CUP,山梨県,1504,NO4CUP,山梨県,2482,KA3SU7,山梨県,0,,-
 CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1614,NO4CUP,山梨県,2505,ROBIN,山梨県,3824,M-A,山梨県,0,,-
-CastHour,Lawes's Parotia,0,,-,858,ALISIA,山梨県,1729,T3N.*,山梨県,2558,M-A,山梨県,0,,-
+CastHour,Lawes's Parotia,0,,-,904,NO4CUP,山梨県,1749,NO4CUP,山梨県,2558,M-A,山梨県,0,,-
 CastHour,ILAYZA,0,,-,1176,NO4CUP,山梨県,2028,NO4CUP,山梨県,2825,M-A,山梨県,0,,-
 CastHour,HEARTACHE,0,,-,500,NO4CUP,山梨県,1185,NO4CUP,山梨県,1821,M-A,山梨県,0,,-
 CastHour,GiGaGaHell,0,,-,1378,NO4CUP,山梨県,2009,NO4CUP,山梨県,3204,M-A,山梨県,0,,-
 CastHour,FINALLY BLAZE,0,,-,929,NO4CUP,山梨県,1776,T3N.*,山梨県,2794,M-A,山梨県,0,,-
-CastHour,Fegrix,0,,-,1261,T3N.*,山梨県,2256,NO4CUP,山梨県,3289,M-A,山梨県,0,,-
+CastHour,Fegrix,0,,-,1266,NO4CUP,山梨県,2256,NO4CUP,山梨県,3289,M-A,山梨県,0,,-
 CastHour,Fantastic Merry-Go-Round,0,,-,1078,NO4CUP,山梨県,1505,T3N.*,山梨県,2095,M-B,山梨県,0,,-
 CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1085,NO4CUP,山梨県,1807,NO4CUP,山梨県,2695,M-A,山梨県,0,,-
 CastHour,Don't believe the hype,0,,-,1168,NO4CUP,山梨県,2218,NO4CUP,山梨県,3199,M-A,山梨県,0,,-
