@@ -1,11 +1,4 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,450,TOKYU,台湾,473,MINYIN,台湾,629,R*RPNT,台湾,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,389,IIDX29,台湾,839,TAMAGO,台湾,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,520,IIDX29,台湾,1048,255EMO,台湾,1189,DEJAVU,台湾,0,,-
-2nd style,I Was The One,0,,-,435,IIDX29,台湾,564,A?,台湾,674,TOKO?,台湾,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,492,IIDX29,台湾,902,R*RPNT,台湾,989,R*RPNT,台湾,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,360,NEMU,台湾,994,R*RPNT,台湾,1043,ZUNDA?,台湾,0,,-
-2nd style,.59,0,,-,521,MINYIN,台湾,968,R*RPNT,台湾,1109,MKT,台湾,0,,-
 1st&substream,THE EARTH LIGHT,0,,-,482,IIDX29,台湾,898,OTLOTL,台湾,1133,LIAOZ.,台湾,0,,-
 1st&substream,RUGGED ASH,0,,-,200,JJ....,台湾,400,TOKO?,台湾,1032,7NSUKI,台湾,1943,A-SAM-,台湾
 1st&substream,R3,0,,-,484,TOKYU,台湾,712,R*RPNT,台湾,875,R-ZAO,台湾,0,,-
@@ -20,6 +13,13 @@
 1st&substream,deep in you,0,,-,352,IIDX29,台湾,472,INA.,台湾,655,A-SAM-,台湾,0,,-
 1st&substream,5.1.1.,0,,-,197,TOKO?,台湾,969,691020,台湾,1546,CORGIB,台湾,0,,-
 1st&substream,22DUNK,0,,-,334,AKI,台湾,614,POM?!*,台湾,642,TOKO?,台湾,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,450,TOKYU,台湾,473,MINYIN,台湾,629,R*RPNT,台湾,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,389,IIDX29,台湾,839,TAMAGO,台湾,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,520,IIDX29,台湾,1048,255EMO,台湾,1189,DEJAVU,台湾,0,,-
+2nd style,I Was The One,0,,-,435,IIDX29,台湾,564,A?,台湾,674,TOKO?,台湾,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,492,IIDX29,台湾,902,R*RPNT,台湾,1027,BLANK,台湾,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,360,NEMU,台湾,994,R*RPNT,台湾,1083,TOKO?,台湾,0,,-
+2nd style,.59,0,,-,521,MINYIN,台湾,968,R*RPNT,台湾,1109,MKT,台湾,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,859,WING67,台湾,1018,1PRPNT,台湾,1310,DEJAVU,台湾,0,,-
 4th style,SWEET LAB,0,,-,519,R*RPNT,台湾,594,7SE773,台湾,1328,DEJAVU,台湾,0,,-
 4th style,starmine,371,AK,台湾,723,ATK-CH,台湾,1344,POM?!*,台湾,1542,CORGIB,台湾,0,,-
@@ -33,9 +33,9 @@
 4th style,FLOWERS for ALBION,0,,-,232,CORGIB,台湾,423,R*RPNT,台湾,0,,-,0,,-
 4th style,era (step mix),0,,-,721,SUNNY,台湾,1321,POM?!*,台湾,1633,64-OIN,台湾,0,,-
 4th style,empathy,0,,-,450,NEMU,台湾,1173,#,台湾,1430,DEJAVU,台湾,0,,-
-4th style,DXY!,0,,-,1193,GENYA*,台湾,1850,TAMAGO,台湾,2162,DEJAVU,台湾,0,,-
+4th style,DXY!,0,,-,1193,GENYA*,台湾,1850,TAMAGO,台湾,2172,TAMAGO,台湾,0,,-
 4th style,Clione,0,,-,501,NOV.,台湾,792,ESV,台湾,1582,A-SAM-,台湾,2117,LIAOZ.,台湾
-4th style,CHECKING YOU OUT,0,,-,428,KULA,台湾,862,LIN-HU,台湾,1263,LIAOZ.,台湾,0,,-
+4th style,CHECKING YOU OUT,0,,-,428,KULA,台湾,862,LIN-HU,台湾,1291,TAMAGO,台湾,0,,-
 4th style,Burnin' The Floor,0,,-,427,BALLY,台湾,409,BALLY,台湾,1425,CORGIB,台湾,0,,-
 4th style,Broken My Heart,0,,-,656,IIDX29,台湾,1233,XEO,台湾,1807,CORGIB,台湾,0,,-
 4th style,B4U,0,,-,854,OTLOTL,台湾,1462,TAMAGO,台湾,1953,CORGIB,台湾,0,,-
@@ -45,7 +45,7 @@
 3rd style,Tangerine Stream,0,,-,176,NEMU,台湾,392,R*RPNT,台湾,0,,-,0,,-
 3rd style,Skyscraper,0,,-,460,TONY!!,台湾,1170,R*RPNT,台湾,1177,691020,台湾,0,,-
 3rd style,Schlagwerk,0,,-,467,RJ,台湾,407,AK,台湾,1670,DEJAVU,台湾,0,,-
-3rd style,REINCARNATION,0,,-,585,IIDX29,台湾,980,NOV.,台湾,1180,R*RPNT,台湾,0,,-
+3rd style,REINCARNATION,0,,-,585,IIDX29,台湾,980,NOV.,台湾,1206,R-ZAO,台湾,0,,-
 3rd style,R5,0,,-,449,MILKEX,台湾,1149,691020,台湾,1741,TOKO?,台湾,0,,-
 3rd style,Presto,0,,-,347,K-I-U,台湾,938,691020,台湾,987,TAMAGO,台湾,0,,-
 3rd style,LEADING CYBER,0,,-,738,YASHO,台湾,1132,R*RPNT,台湾,1166,B,台湾,0,,-
@@ -53,19 +53,19 @@
 3rd style,era (nostalmix),0,,-,714,CUBLEX,台湾,1077,A-SAM-,台湾,1485,DEJAVU,台湾,0,,-
 3rd style,Don't Stop!,0,,-,534,WEI72,台湾,577,BRI,台湾,896,TOKO?,台湾,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,448,IIDX29,台湾,1177,R*RPNT,台湾,0,,-,0,,-
-5th style,V,269,G11K,台湾,990,JYUNGE,台湾,2387,SHINGO,台湾,2862,100000,台湾,0,,-
+5th style,V,279,GRAY,台湾,990,JYUNGE,台湾,2387,SHINGO,台湾,2862,100000,台湾,0,,-
 5th style,THE SHINING POLARIS,0,,-,448,TAO,台湾,1263,GENYA*,台湾,1535,TAMAGO,台湾,0,,-
 5th style,THE CUBE,0,,-,637,SO-NYA,台湾,1200,R*RPNT,台湾,1340,7NSUKI,台湾,0,,-
 5th style,sync,0,,-,978,#,台湾,1904,L1X#ND,台湾,2334,LEG,台湾,0,,-
-5th style,still my words,0,,-,622,HIKARU,台湾,1213,TOKO?,台湾,0,,-,0,,-
+5th style,still my words,0,,-,622,HIKARU,台湾,1216,TOKO?,台湾,0,,-,0,,-
 5th style,STILL IN MY HEART,0,,-,660,IIDX29,台湾,1134,PALPI,台湾,1883,A-SAM-,台湾,0,,-
 5th style,Spin the disc,0,,-,431,BOOKEN,台湾,1225,POM?!*,台湾,1294,TAMAGO,台湾,0,,-
 5th style,sometime,0,,-,654,XEO,台湾,924,500ACB,台湾,1296,TAMAGO,台湾,0,,-
 5th style,RISLIM,0,,-,674,A123,台湾,1198,TOKO?,台湾,0,,-,0,,-
 5th style,RIDE ON THE LIGHT (HI GREAT MIX),0,,-,675,TOKYU,台湾,955,ARTIOS,台湾,1695,64-OIN,台湾,1745,TAMAGO,台湾
-5th style,Regulus,0,,-,0,,-,1396,YORHA!,台湾,1620,TOKO?,台湾,0,,-
+5th style,Regulus,0,,-,0,,-,1473,TAMAGO,台湾,1620,TOKO?,台湾,0,,-
 5th style,Real,0,,-,566,MILKEX,台湾,1514,POM?!*,台湾,1780,LIAOZ.,台湾,0,,-
-5th style,Radical Faith,0,,-,473,NEMU,台湾,1411,R*RPNT,台湾,1262,TOKO?,台湾,0,,-
+5th style,Radical Faith,0,,-,698,JINOOK,台湾,1488,TOKO?,台湾,1262,TOKO?,台湾,0,,-
 5th style,QQQ,0,,-,891,AAAAAA,台湾,1779,POM?!*,台湾,2118,DEJAVU,台湾,0,,-
 5th style,outer wall,0,,-,670,MENDOR,台湾,1104,KULA,台湾,1701,TOKO?,台湾,0,,-
 5th style,LOVE AGAIN TONIGHT～for Mellisa mix～,0,,-,557,IIDX29,台湾,910,KULA,台湾,1117,CORGIB,台湾,0,,-
@@ -79,11 +79,11 @@
 6th style,SOMETHING WONDERFUL,0,,-,835,YOKO.H,台湾,1280,POM?!*,台湾,1972,A-SAM-,台湾,0,,-
 6th style,route 80s,0,,-,826,YOKO.H,台湾,1137,POM?!*,台湾,1478,TOKO?,台湾,0,,-
 6th style,rottel-da-sun,0,,-,0,,-,1279,#,台湾,1754,TOKO?,台湾,0,,-
-6th style,NEMESIS,0,,-,663,SUNNY,台湾,1545,TAMAGO,台湾,1800,CORGIB,台湾,0,,-
+6th style,NEMESIS,0,,-,885,WING67,台湾,1545,TAMAGO,台湾,1800,CORGIB,台湾,0,,-
 6th style,Linus,0,,-,794,APB,台湾,1473,R*RPNT,台湾,2125,EVO66,台湾,0,,-
 6th style,G2,0,,-,1200,WING67,台湾,1778,CORGIB,台湾,2264,DEJAVU,台湾,0,,-
 6th style,Frozen Ray (original mix),0,,-,1031,URAN,台湾,1674,7NSUKI,台湾,1771,CORGIB,台湾,0,,-
-6th style,Free Style,0,,-,586,HIGA4.,台湾,664,MEGA,台湾,1250,7NSUKI,台湾,0,,-
+6th style,Free Style,0,,-,586,HIGA4.,台湾,777,BALLY,台湾,1250,7NSUKI,台湾,0,,-
 6th style,fly through the night,0,,-,570,IIDX29,台湾,1167,VYTSUS,台湾,1677,TAMAGO,台湾,0,,-
 6th style,DIVE ～INTO YOUR HEART～,0,,-,563,NEKO-A,台湾,1807,POM?!*,台湾,2053,CORGIB,台湾,0,,-
 6th style,Colors (radio edit),0,,-,1086,MENDOR,台湾,1800,R*RPNT,台湾,2388,OTTER,台湾,0,,-
@@ -94,24 +94,24 @@
 7th style,革命,0,,-,589,ATK-CH,台湾,1847,TOKO?,台湾,2277,DEJAVU,台湾,0,,-
 7th style,ZERO-ONE,0,,-,67,SYLVIA,台湾,1627,REKII,台湾,2204,A-SAM-,台湾,0,,-
 7th style,traces,0,,-,1332,#,台湾,1761,R*RPNT,台湾,2078,DEJAVU,台湾,0,,-
-7th style,Tomorrow Perfume,0,,-,1096,WING67,台湾,1867,REKII,台湾,2016,LASK,台湾,0,,-
+7th style,Tomorrow Perfume,0,,-,1157,WING67,台湾,1867,REKII,台湾,2016,LASK,台湾,0,,-
 7th style,stoic,0,,-,1593,POM?!*,台湾,2301,RYU.,台湾,2488,CORGIB,台湾,0,,-
 7th style,Spica,0,,-,634,R-ZAO,台湾,1452,MUJAJA,台湾,2133,A-SAM-,台湾,0,,-
 7th style,Love Me Do,0,,-,648,ALEX,台湾,1533,OTLOTL,台湾,2108,A-SAM-,台湾,0,,-
-7th style,Let the Snow Paint Me,0,,-,448,WEI72,台湾,752,MENDOR,台湾,1208,R*RPNT,台湾,0,,-
-7th style,Last Message,0,,-,590,ACHENG,台湾,1245,POM?!*,台湾,1575,TAMAGO,台湾,0,,-
+7th style,Let the Snow Paint Me,0,,-,448,WEI72,台湾,752,MENDOR,台湾,1211,FUMIKO,台湾,0,,-
+7th style,Last Message,0,,-,613,ZZZ777,台湾,1245,POM?!*,台湾,1575,TAMAGO,台湾,0,,-
 7th style,Happy Wedding,0,,-,1129,SB*OUO,台湾,1648,TOKO?,台湾,1787,A-SAM-,台湾,0,,-
 7th style,Glorious Days,0,,-,316,NEMU,台湾,693,SRNEKO,台湾,887,TAMAGO,台湾,0,,-
 7th style,foreplay,0,,-,475,KUREHA,台湾,1169,POM?!*,台湾,1182,POM?!*,台湾,0,,-
 7th style,DESTINY,0,,-,818,MENDOR,台湾,820,MINYIN,台湾,1836,CORGIB,台湾,0,,-
 7th style,D2R,0,,-,648,HIGA4.,台湾,999,ATK-CH,台湾,1614,A-SAM-,台湾,0,,-
 7th style,Cheer Train,0,,-,486,NEMU,台湾,803,7SE773,台湾,1705,DEJAVU,台湾,0,,-
-7th style,Burning Heat! (Full Option Mix),0,,-,402,FUWA,台湾,769,OTLOTL,台湾,1305,R*RPNT,台湾,0,,-
+7th style,Burning Heat! (Full Option Mix),0,,-,402,FUWA,台湾,769,OTLOTL,台湾,1342,R*RPNT,台湾,0,,-
 7th style,Bad Routine,0,,-,747,KOT,台湾,1192,KULA,台湾,1869,EVO66,台湾,0,,-
 7th style,AVE DE RAPINA,0,,-,1073,TENS,台湾,1573,POM?!*,台湾,1691,SUSURO,台湾,0,,-
 7th style,A,0,,-,1182,WING67,台湾,2011,255EMO,台湾,2395,LIAOZ.,台湾,0,,-
 8th style,蒼い衝動,0,,-,655,M0M0,台湾,1316,R*RPNT,台湾,1577,CORGIB,台湾,0,,-
-8th style,桜,0,,-,859,OTLOTL,台湾,1392,YUI-0N,台湾,2077,LIAOZ.,台湾,0,,-
+8th style,桜,0,,-,859,OTLOTL,台湾,1401,YUI-0N,台湾,2077,LIAOZ.,台湾,0,,-
 8th style,xenon,0,,-,835,BALLY,台湾,1642,7NSUKI,台湾,2676,A-SAM-,台湾,0,,-
 8th style,World Wide Love,0,,-,425,NEMU,台湾,961,KAZARI,台湾,1114,TOKO?,台湾,0,,-
 8th style,WAR GAME,0,,-,663,MCH.,台湾,1486,POM?!*,台湾,2121,CORGIB,台湾,0,,-
@@ -122,14 +122,14 @@
 8th style,MUSIC TO YOUR HEAD,0,,-,575,FUWA,台湾,1051,KULA,台湾,1635,CORGIB,台湾,0,,-
 8th style,murmur twins,0,,-,1081,YOKO.H,台湾,1602,ARASHI,台湾,2336,OTTER,台湾,0,,-
 8th style,Monkey Dance,0,,-,578,FISH,台湾,1207,500ACB,台湾,1951,A-SAM-,台湾,0,,-
-8th style,memories,0,,-,626,KASU,台湾,1923,R*RPNT,台湾,2167,DEJAVU,台湾,0,,-
-8th style,Luv 2 Feel Your Body,0,,-,755,SLW,台湾,860,AMEXPT,台湾,1577,TOKO?,台湾,0,,-
+8th style,memories,0,,-,626,KASU,台湾,1923,R*RPNT,台湾,2221,A-SAM-,台湾,0,,-
+8th style,Luv 2 Feel Your Body,0,,-,755,SLW,台湾,860,AMEXPT,台湾,1585,LIAOZ.,台湾,0,,-
 8th style,LOVE IS ORANGE,0,,-,441,NEMU,台湾,821,APB,台湾,1773,7NSUKI,台湾,2070,TAMAGO,台湾
 8th style,LAB,0,,-,931,SLW,台湾,1917,S,台湾,2015,MIGU,台湾,0,,-
 8th style,HYPER BOUNDARY GATE,0,,-,836,JSNBBY,台湾,1868,POM?!*,台湾,2127,SUSURO,台湾,0,,-
 8th style,Halfway of promise,0,,-,723,SO-NYA,台湾,1439,REXKNG,台湾,1765,A-SAM-,台湾,0,,-
 8th style,Giudecca,0,,-,697,BLO,台湾,1810,255EMO,台湾,2580,LIAOZ.,台湾,0,,-
-8th style,dual control,0,,-,402,BPD,台湾,1342,SUSURO,台湾,1703,SUSURO,台湾,0,,-
+8th style,dual control,0,,-,532,PIYAN,台湾,1342,SUSURO,台湾,1703,SUSURO,台湾,0,,-
 8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,1042,YUENTE,台湾,1945,POM?!*,台湾,2156,CORGIB,台湾,0,,-
 8th style,CELEBRATE NITE,0,,-,601,IIDX29,台湾,899,HOPE.F,台湾,1398,TAMAGO,台湾,0,,-
 8th style,Blame,0,,-,1035,WING67,台湾,1453,A-HAO*,台湾,1899,CORGIB,台湾,0,,-
@@ -142,10 +142,10 @@
 9th style,ライオン好き,0,,-,364,NEMU,台湾,1152,LIN-HU,台湾,1495,A-SAM-,台湾,0,,-
 9th style,SWEETEST SAVAGE,0,,-,435,MCH.,台湾,1228,WING67,台湾,1783,DEJAVU,台湾,0,,-
 9th style,Sweet Sweet Magic,0,,-,296,$$$$99,台湾,1436,R*RPNT,台湾,2007,CORGIB,台湾,0,,-
-9th style,STAR FIELD,0,,-,649,WING67,台湾,1513,POM?!*,台湾,1842,CORGIB,台湾,0,,-
+9th style,STAR FIELD,0,,-,649,WING67,台湾,1513,POM?!*,台湾,1859,CORGIB,台湾,0,,-
 9th style,SNOW,0,,-,0,,-,1219,POM?!*,台湾,1938,LIAOZ.,台湾,0,,-
-9th style,Silvia Drive,0,,-,709,911GT1,台湾,1426,POM?!*,台湾,1988,CORGIB,台湾,0,,-
-9th style,rottel-the-Mercury,0,,-,956,POM?!*,台湾,1859,TAMAGO,台湾,2229,FUMIKO,台湾,0,,-
+9th style,Silvia Drive,0,,-,737,FOG,台湾,1426,POM?!*,台湾,1988,CORGIB,台湾,0,,-
+9th style,rottel-the-Mercury,0,,-,956,POM?!*,台湾,1859,TAMAGO,台湾,2244,TAMAGO,台湾,0,,-
 9th style,RISLIM -Remix-,0,,-,572,MCH.,台湾,957,691020,台湾,1832,TAMAGO,台湾,0,,-
 9th style,Really Love,0,,-,586,WING67,台湾,923,CORGIB,台湾,1724,A-SAM-,台湾,0,,-
 9th style,Quickening,0,,-,0,,-,1631,R*RPNT,台湾,2022,CORGIB,台湾,0,,-
@@ -157,7 +157,7 @@
 9th style,lower world,0,,-,906,MENDOR,台湾,1693,R*RPNT,台湾,2192,CORGIB,台湾,0,,-
 9th style,LOVE SHINE,406,AK,台湾,757,SO-NYA,台湾,1833,CORGIB,台湾,2075,CORGIB,台湾,0,,-
 9th style,lights,0,,-,348,NEMU,台湾,710,FLOWMA,台湾,1715,7NSUKI,台湾,0,,-
-9th style,Karma,0,,-,1227,WING67,台湾,1578,255EMO,台湾,1747,NA70-S,台湾,0,,-
+9th style,Karma,0,,-,1227,WING67,台湾,1613,7NSUKI,台湾,1747,NA70-S,台湾,0,,-
 9th style,I Was The One (80's EUROBEAT STYLE),0,,-,524,WEI72,台湾,1109,ZRS,台湾,1424,CORGIB,台湾,0,,-
 9th style,HYPER EUROBEAT (2DX style),0,,-,765,AK,台湾,1533,POM?!*,台湾,1933,CORGIB,台湾,0,,-
 9th style,Golden Horn,0,,-,301,CURO,台湾,1188,R*RPNT,台湾,1375,S,台湾,0,,-
@@ -189,7 +189,7 @@
 10th style,Freezing atmosphere,0,,-,536,ARIA,台湾,803,APB,台湾,1460,TOKO?,台湾,0,,-
 10th style,FEEL IT,0,,-,847,WING67,台湾,1608,MKT,台湾,1908,AQUARS,台湾,0,,-
 10th style,Feedback,0,,-,782,AMATSU,台湾,1508,POM?!*,台湾,1879,LIAOZ.,台湾,0,,-
-10th style,EXE,0,,-,548,ZHONG,台湾,1557,7NSUKI,台湾,2207,EVO66,台湾,0,,-
+10th style,EXE,0,,-,548,ZHONG,台湾,1557,7NSUKI,台湾,2231,CORGIB,台湾,0,,-
 10th style,DoLL,236,POZZE,台湾,902,VIOLET,台湾,1180,691020,台湾,1605,TAMAGO,台湾,0,,-
 10th style,desolation,0,,-,281,NEMU,台湾,452,XYZ96,台湾,746,TAMAGO,台湾,0,,-
 10th style,Debtty Daddy,0,,-,791,APB,台湾,1821,255EMO,台湾,2624,CORGIB,台湾,0,,-
@@ -208,11 +208,11 @@ IIDX RED,ピアノ協奏曲第１番”蠍火”,0,,-,818,691020,台湾,2066,DEJ
 IIDX RED,Wonder Bullfighter,0,,-,911,WING67,台湾,1168,SRNEKO,台湾,1921,LIAOZ.,台湾,0,,-
 IIDX RED,The Hope of Tomorrow,0,,-,0,,-,1498,POM?!*,台湾,1901,LIAOZ.,台湾,0,,-
 IIDX RED,spiral galaxy,0,,-,1036,691020,台湾,1993,7NSUKI,台湾,2515,TAMAGO,台湾,3640,LIAOZ.,台湾
-IIDX RED,Sphere,0,,-,911,MENDOR,台湾,1825,WOOOOF,台湾,2135,CORGIB,台湾,0,,-
-IIDX RED,SPEEDY CAT,0,,-,1071,L.ARC,台湾,1587,R*RPNT,台湾,2016,EVO66,台湾,0,,-
-IIDX RED,Secret of Love,0,,-,213,JS,台湾,1210,KULA,台湾,1997,CORGIB,台湾,0,,-
+IIDX RED,Sphere,0,,-,911,MENDOR,台湾,1918,TAMAGO,台湾,2135,CORGIB,台湾,0,,-
+IIDX RED,SPEEDY CAT,0,,-,1071,L.ARC,台湾,1587,R*RPNT,台湾,2021,CORGIB,台湾,0,,-
+IIDX RED,Secret of Love,0,,-,292,NODAVE,台湾,1279,WING67,台湾,1997,CORGIB,台湾,0,,-
 IIDX RED,RESONATE 1794,0,,-,0,,-,1346,INA.,台湾,1840,CORGIB,台湾,0,,-
-IIDX RED,RED ZONE,143,ANAN,台湾,992,ZRS,台湾,1756,R*RPNT,台湾,2273,100000,台湾,2980,A-SAM-,台湾
+IIDX RED,RED ZONE,143,ANAN,台湾,992,ZRS,台湾,1898,TAMAGO,台湾,2273,100000,台湾,2980,A-SAM-,台湾
 IIDX RED,Raspberry Heart(English version),0,,-,605,TAO,台湾,1544,POM?!*,台湾,1846,CORGIB,台湾,0,,-
 IIDX RED,NEBULA GRASPER,0,,-,1262,YOKO.H,台湾,1764,R*RPNT,台湾,2289,YORHA!,台湾,0,,-
 IIDX RED,KEY,0,,-,869,HIGA4.,台湾,1820,POM?!*,台湾,2803,NA70-S,台湾,0,,-
@@ -242,7 +242,7 @@ HAPPY SKY,オレはビートマニア！お前は何マニア？,0,,-,691,NEKO.H
 HAPPY SKY,Xepher,311,QUAID!,台湾,894,SB.KEN,台湾,2108,RYU.,台湾,2941,A-SAM-,台湾,0,,-
 HAPPY SKY,We are Disっ娘よっつ打ち命,0,,-,440,JOE,台湾,884,H2K,台湾,1643,CORGIB,台湾,0,,-
 HAPPY SKY,Votum stellarum,0,,-,716,PON-,台湾,1651,TAMAGO,台湾,1926,TAMAGO,台湾,0,,-
-HAPPY SKY,vault of heaven,0,,-,685,SO-NYA,台湾,1202,#,台湾,1975,CORGIB,台湾,0,,-
+HAPPY SKY,vault of heaven,0,,-,736,FOG,台湾,1202,#,台湾,1975,CORGIB,台湾,0,,-
 HAPPY SKY,Under the Sky,0,,-,830,A,台湾,1223,A,台湾,1709,CORGIB,台湾,0,,-
 HAPPY SKY,Twelfth Style,0,,-,937,MENDOR,台湾,1418,691020,台湾,1989,TAMAGO,台湾,3045,LIAOZ.,台湾
 HAPPY SKY,Tizona d'El Cid,0,,-,882,WING67,台湾,1782,255EMO,台湾,2293,OTTER,台湾,0,,-
@@ -250,21 +250,21 @@ HAPPY SKY,SigSig,539,CHIYA,台湾,793,A123,台湾,1634,691020,台湾,2535,7NSUKI
 HAPPY SKY,Scripted Connection⇒ N mix,0,,-,821,MINYIN,台湾,1581,POM?!*,台湾,2056,EVO66,台湾,0,,-
 HAPPY SKY,Scripted Connection⇒ H mix,0,,-,1306,KULA,台湾,1930,HENR.Y,台湾,2414,TAMAGO,台湾,0,,-
 HAPPY SKY,Scripted Connection⇒ A mix,0,,-,1264,PALPI,台湾,2020,YMKZ,台湾,3032,OTTER,台湾,3280,100000,台湾
-HAPPY SKY,SCREAM SQUAD,0,,-,1086,#,台湾,1485,#,台湾,2002,TAMAGO,台湾,0,,-
+HAPPY SKY,SCREAM SQUAD,0,,-,1090,WING67,台湾,1518,SWEEFO,台湾,2002,TAMAGO,台湾,0,,-
 HAPPY SKY,rage against usual,0,,-,1064,KULA,台湾,1924,POM?!*,台湾,2737,LEG,台湾,0,,-
 HAPPY SKY,POODLE,0,,-,502,JOE,台湾,1862,POM?!*,台湾,2268,CORGIB,台湾,3351,AQUARS,台湾
 HAPPY SKY,Pollinosis,0,,-,762,691020,台湾,1124,691020,台湾,2414,100000,台湾,0,,-
 HAPPY SKY,PLASMA,0,,-,640,TONY!!,台湾,1616,POM?!*,台湾,2215,S1ZUKU,台湾,0,,-
 HAPPY SKY,Pink Rose,0,,-,409,TONY!!,台湾,963,R*RPNT,台湾,1407,TAMAGO,台湾,0,,-
 HAPPY SKY,MOON RACE,0,,-,522,ZISOS,台湾,1026,WING67,台湾,1843,7NSUKI,台湾,0,,-
-HAPPY SKY,Love Magic,0,,-,492,TONY!!,台湾,1706,7NSUKI,台湾,1865,SUSURO,台湾,0,,-
+HAPPY SKY,Love Magic,0,,-,492,TONY!!,台湾,1706,7NSUKI,台湾,1931,A-SAM-,台湾,0,,-
 HAPPY SKY,Little Little Princess,0,,-,917,OSC,台湾,2063,SB*OUO,台湾,2672,TAMAGO,台湾,3647,L1X#ND,台湾
-HAPPY SKY,LESSON 5,0,,-,1159,VIOLET,台湾,1709,POM?!*,台湾,2418,TOKO?,台湾,0,,-
+HAPPY SKY,LESSON 5,0,,-,1159,VIOLET,台湾,1709,POM?!*,台湾,2462,A-SAM-,台湾,0,,-
 HAPPY SKY,INAZUMA,0,,-,980,OTLOTL,台湾,1716,POM?!*,台湾,2662,A-SAM-,台湾,0,,-
 HAPPY SKY,in motion,0,,-,379,WALKER,台湾,827,APB,台湾,1289,7NSUKI,台湾,0,,-
 HAPPY SKY,I am,0,,-,564,ASELIA,台湾,1686,R*RPNT,台湾,2109,NA70-S,台湾,0,,-
 HAPPY SKY,HAPPY☆ANGEL,482,WINDFA,台湾,1029,SAIKA,台湾,1528,R*RPNT,台湾,2064,CORGIB,台湾,0,,-
-HAPPY SKY,GREEN EYES,0,,-,489,KEY-NA,台湾,1517,POM?!*,台湾,2106,DEJAVU,台湾,0,,-
+HAPPY SKY,GREEN EYES,0,,-,551,IIDX29,台湾,1517,POM?!*,台湾,2106,DEJAVU,台湾,0,,-
 HAPPY SKY,Get'em up to R.A.V.E,0,,-,577,BOOKEN,台湾,1677,POM?!*,台湾,2230,CORGIB,台湾,0,,-
 HAPPY SKY,garden,0,,-,846,POM?!*,台湾,1453,POM?!*,台湾,2089,LIAOZ.,台湾,0,,-
 HAPPY SKY,First Resolution,0,,-,0,,-,1382,AMEXPT,台湾,2102,CORGIB,台湾,0,,-
@@ -273,27 +273,27 @@ HAPPY SKY,EDEN,0,,-,1094,A,台湾,1838,NOV.,台湾,2689,RMNBOT,台湾,0,,-
 HAPPY SKY,double thrash,0,,-,691,AK,台湾,1875,JJJJJJ,台湾,2190,NAVO,台湾,0,,-
 HAPPY SKY,Catch Me,0,,-,209,JS,台湾,1177,#,台湾,1771,LIAOZ.,台湾,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,671,YAYOI.,台湾,1746,TAMAGO,台湾,2436,CORGIB,台湾,0,,-
-HAPPY SKY,Aurora,0,,-,1362,POM?!*,台湾,2074,MUJAJA,台湾,2459,YUNAS1,台湾,0,,-
-HAPPY SKY,alla turca con passione,0,,-,521,ALEX,台湾,1562,POM?!*,台湾,2159,CORGIB,台湾,0,,-
+HAPPY SKY,Aurora,0,,-,1362,POM?!*,台湾,2074,MUJAJA,台湾,2509,A-SAM-,台湾,0,,-
+HAPPY SKY,alla turca con passione,0,,-,769,WING67,台湾,1562,POM?!*,台湾,2159,CORGIB,台湾,0,,-
 HAPPY SKY,Agnus Dei,0,,-,753,AMATSU,台湾,1584,TAMAGO,台湾,2044,TAMAGO,台湾,0,,-
 HAPPY SKY,100％ minimoo-G,0,,-,662,AK,台湾,1504,SWEEFO,台湾,1653,SHINGO,台湾,0,,-
 DistorteD,虹色,0,,-,632,M0M0,台湾,1451,MIYAKO,台湾,1833,CORGIB,台湾,0,,-
-DistorteD,華蝶風雪,0,,-,1031,SO-NYA,台湾,1990,255EMO,台湾,2952,A-SAM-,台湾,0,,-
+DistorteD,華蝶風雪,0,,-,1031,SO-NYA,台湾,2000,TX-FAR,台湾,2952,A-SAM-,台湾,0,,-
 DistorteD,罠,0,,-,437,MCH.,台湾,1516,POM?!*,台湾,2437,NA70-S,台湾,0,,-
 DistorteD,嘆きの樹,0,,-,1715,691020,台湾,2491,DEJAVU,台湾,3696,RMNBOT,台湾,0,,-
 DistorteD,タシカナモノ,0,,-,902,WING67,台湾,1293,#,台湾,1996,7NSUKI,台湾,0,,-
 DistorteD,カゴノトリ～弐式～,0,,-,1009,#,台湾,1847,TAMAGO,台湾,2565,TAMAGO,台湾,0,,-
 DistorteD,Zenius -I- vanisher,0,,-,922,CASTER,台湾,1411,YOKO.H,台湾,2366,CORGIB,台湾,0,,-
 DistorteD,with you…,0,,-,518,NOBU15,台湾,1034,#,台湾,1730,7NSUKI,台湾,0,,-
-DistorteD,WISH(EUROBEAT MIX),0,,-,797,MCH.,台湾,1537,R*RPNT,台湾,1962,A-SAM-,台湾,0,,-
+DistorteD,WISH(EUROBEAT MIX),0,,-,797,MCH.,台湾,1578,POM?!*,台湾,1962,A-SAM-,台湾,0,,-
 DistorteD,Why did you go away,472,MAOMAO,台湾,921,A,台湾,1725,R*RPNT,台湾,2288,CORGIB,台湾,0,,-
 DistorteD,waxing and wanding,0,,-,1175,AX,台湾,1947,MIGU,台湾,2859,A-SAM-,台湾,3874,A-SAM-,台湾
 DistorteD,TYPE MARS(G-Style Mix),0,,-,1033,WING67,台湾,1741,NOV.,台湾,2353,TAMAGO,台湾,0,,-
 DistorteD,tripping contact(teranoid&MC Natsack Remix),0,,-,1125,OTLOTL,台湾,1843,RYU.,台湾,2433,LIAOZ.,台湾,0,,-
 DistorteD,This is Love,0,,-,355,NEMU,台湾,1756,POM?!*,台湾,2380,TOKO?,台湾,0,,-
-DistorteD,The Dirty of Loudness,0,,-,1301,OTLOTL,台湾,1877,JJJJJJ,台湾,2557,A-SAM-,台湾,0,,-
+DistorteD,The Dirty of Loudness,0,,-,1301,OTLOTL,台湾,2032,TX-FAR,台湾,2557,A-SAM-,台湾,0,,-
 DistorteD,Sun Field,0,,-,380,AKI,台湾,1371,#,台湾,2398,CORGIB,台湾,0,,-
-DistorteD,So Fabulous !!,0,,-,952,VYTSUS,台湾,1440,691020,台湾,2272,7NSUKI,台湾,0,,-
+DistorteD,So Fabulous !!,0,,-,952,VYTSUS,台湾,1472,POM?!*,台湾,2272,7NSUKI,台湾,0,,-
 DistorteD,Power of Love,0,,-,527,KEY-NA,台湾,1293,PALPI,台湾,2058,7NSUKI,台湾,0,,-
 DistorteD,MOON,0,,-,725,AMATSU,台湾,2037,POM?!*,台湾,2199,CORGIB,台湾,0,,-
 DistorteD,MINT,0,,-,521,JS,台湾,1694,SHINGO,台湾,2269,OTTER,台湾,0,,-
@@ -301,7 +301,7 @@ DistorteD,Leaving...,0,,-,435,NITORI,台湾,1350,POM?!*,台湾,2161,CORGIB,台�
 DistorteD,INFERNO,0,,-,559,TREBLA,台湾,1472,NOV.,台湾,1931,7NSUKI,台湾,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,539,WEI72,台湾,1505,691020,台湾,2079,A-SAM-,台湾,0,,-
 DistorteD,Harmony and Lovely,0,,-,681,CHIYA,台湾,1711,POM?!*,台湾,2200,DEJAVU,台湾,0,,-
-DistorteD,Ganymede,0,,-,921,A123,台湾,1525,XIB-YK,台湾,2200,AQUARS,台湾,2486,CORGIG,台湾
+DistorteD,Ganymede,0,,-,921,A123,台湾,1553,YORHA!,台湾,2200,AQUARS,台湾,2486,CORGIG,台湾
 DistorteD,EURO-ROMANCE,0,,-,555,TONY!!,台湾,1783,POM?!*,台湾,2080,CORGIB,台湾,0,,-
 DistorteD,DUE TOMORROW,0,,-,698,JEFF,台湾,1412,LIAOZ.,台湾,1932,A-SAM-,台湾,0,,-
 DistorteD,Double Loving Heart,0,,-,304,NEMU,台湾,1306,R*RPNT,台湾,1797,CORGIB,台湾,0,,-
@@ -326,17 +326,17 @@ GOLD,Watch out!!,0,,-,433,BBBBBB,台湾,866,YOKO.H,台湾,1518,CORGIB,台湾,0,,
 GOLD,VANESSA,0,,-,1063,POM?!*,台湾,1762,CORGIB,台湾,2347,RMNBOT,台湾,3162,100000,台湾
 GOLD,TRANOID,0,,-,652,SO-NYA,台湾,1549,SHELLY,台湾,2125,A-SAM-,台湾,2771,LIAOZ.,台湾
 GOLD,The Smile of You,0,,-,847,KULA,台湾,1271,POM?!*,台湾,1625,CORGIB,台湾,0,,-
-GOLD,the shadow,0,,-,818,WEIIII,台湾,1954,S,台湾,2855,RMNBOT,台湾,0,,-
-GOLD,snow storm,228,YOKO.H,台湾,594,YOROKO,台湾,2236,TAMAGO,台湾,2754,TAMAGO,台湾,3294,TAMAGO,台湾
+GOLD,the shadow,0,,-,818,WEIIII,台湾,2059,TAMAGO,台湾,2855,RMNBOT,台湾,0,,-
+GOLD,snow storm,228,YOKO.H,台湾,594,YOROKO,台湾,2241,TAMAGO,台湾,2754,TAMAGO,台湾,3294,TAMAGO,台湾
 GOLD,smile,0,,-,1332,KULA,台湾,2062,R*RPNT,台湾,2789,LEG,台湾,0,,-
 GOLD,Sense 2007,0,,-,1443,TAMAGO,台湾,2181,CORGIB,台湾,2861,DEJAVU,台湾,0,,-
 GOLD,Second Heaven,209,YOKO.H,台湾,789,AAAAAA,台湾,1491,R*RPNT,台湾,2095,DEJAVU,台湾,0,,-
-GOLD,Roulette,0,,-,644,AK,台湾,1391,POM?!*,台湾,2089,CORGIB,台湾,0,,-
+GOLD,Roulette,0,,-,644,AK,台湾,1391,POM?!*,台湾,2102,CORGIB,台湾,0,,-
 GOLD,PHOTONGENIC,0,,-,1070,ZRS,台湾,1845,POM?!*,台湾,2264,CORGIB,台湾,0,,-
 GOLD,op.31 叙情,0,,-,422,WING67,台湾,1158,TOKO?,台湾,1552,TAMAGO,台湾,0,,-
 GOLD,never…,0,,-,568,WEI72,台湾,1179,KULA,台湾,1775,CORGIB,台湾,0,,-
 GOLD,METALLIC MIND,0,,-,334,NEMU,台湾,1326,R*RPNT,台湾,1577,TAMAGO,台湾,0,,-
-GOLD,Make Me Your Own,0,,-,753,APB,台湾,1429,BARRY,台湾,2079,A-SAM-,台湾,0,,-
+GOLD,Make Me Your Own,0,,-,753,APB,台湾,1610,TAMAGO,台湾,2079,A-SAM-,台湾,0,,-
 GOLD,Love Again...,0,,-,331,MFRAME,台湾,697,PW.DDR,台湾,1057,NA70-S,台湾,0,,-
 GOLD,LASER CRUSTER,0,,-,1373,691020,台湾,2411,A-SAM-,台湾,3109,DEJAVU,台湾,0,,-
 GOLD,KAMAITACHI,0,,-,994,A123,台湾,1977,TAMAGO,台湾,2679,A-SAM-,台湾,3540,OTTER,台湾
@@ -347,14 +347,14 @@ GOLD,GRID KNIGHT,0,,-,619,YAYOI.,台湾,1869,POM?!*,台湾,2619,NA70-S,台湾,34
 GOLD,GOLD RUSH,522,KAZARI,台湾,1124,POM?!*,台湾,1499,A-SAM-,台湾,2271,CORGIB,台湾,0,,-
 GOLD,four-leaf,0,,-,662,ZRS,台湾,1001,KULA,台湾,1675,EVO66,台湾,0,,-
 GOLD,FIRE FIRE,538,YOKO.H,台湾,1112,WING67,台湾,1685,R*RPNT,台湾,2702,OTTER,台湾,0,,-
-GOLD,Fascination MAXX,0,,-,885,TOKO?,台湾,1648,TAMAGO,台湾,2367,TAMAGO,台湾,0,,-
+GOLD,Fascination MAXX,0,,-,924,A-SAM-,台湾,1648,TAMAGO,台湾,2367,TAMAGO,台湾,0,,-
 GOLD,Cyber Force,0,,-,941,URAN,台湾,1839,691020,台湾,2271,MUJAJA,台湾,0,,-
 GOLD,CROSSROAD ～Left Story～,0,,-,976,A,台湾,1672,691020,台湾,2184,TAMAGO,台湾,0,,-
 GOLD,CaptivAte～誓い～,0,,-,1214,#,台湾,1923,7NSUKI,台湾,2189,LIAOZ.,台湾,0,,-
 GOLD,CaptivAte～裁き～,405,YOKO.H,台湾,787,#,台湾,1249,POM?!*,台湾,1747,CORGIB,台湾,0,,-
 GOLD,Candy Galy,0,,-,1364,OTLOTL,台湾,2472,7NSUKI,台湾,3393,LIAOZ.,台湾,0,,-
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1183,RGG,台湾,1925,TOKO?,台湾,2451,OTTER,台湾,0,,-
-GOLD,ANDROMEDA II,0,,-,332,BOOKEN,台湾,1799,GENYA*,台湾,2387,LEG,台湾,0,,-
+GOLD,ANDROMEDA II,0,,-,666,DJTIM#,台湾,1799,GENYA*,台湾,2387,LEG,台湾,0,,-
 GOLD,Air Bell,0,,-,647,A123,台湾,1206,AMEXPT,台湾,1719,A-SAM-,台湾,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,301,LEOLEE,台湾,749,HIGA4.,台湾,1300,MUJAJA,台湾,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,293,A?,台湾,984,691020,台湾,1569,TAMAGO,台湾,2042,TAMAGO,台湾,3113,A-SAM-,台湾
@@ -366,7 +366,7 @@ DJ TROOPERS,Wanna Party?,0,,-,528,HIGA4.,台湾,1143,YANYUN,台湾,1506,A-SAM-,�
 DJ TROOPERS,Ubertreffen,0,,-,1033,#,台湾,1833,ENZO,台湾,2436,A-SAM-,台湾,3086,LIAOZ.,台湾
 DJ TROOPERS,TROOPERS,0,,-,1184,MAX-,台湾,2319,POM?!*,台湾,2888,A-SAM-,台湾,0,,-
 DJ TROOPERS,TRIP MACHINE PhoeniX,0,,-,616,HOPE.F,台湾,1553,TAMAGO,台湾,1730,TOKO?,台湾,0,,-
-DJ TROOPERS,Time to Air,0,,-,1195,WING67,台湾,2000,POM?!*,台湾,2820,DEJAVU,台湾,3563,A-SAM-,台湾
+DJ TROOPERS,Time to Air,0,,-,1195,WING67,台湾,2007,MARISA,台湾,2820,DEJAVU,台湾,3563,A-SAM-,台湾
 DJ TROOPERS,the trigger of innocence,0,,-,707,SHOU,台湾,1176,A-SAM-,台湾,1842,CORGIB,台湾,3079,A-SAM-,台湾
 DJ TROOPERS,THE DEEP STRIKER,348,MIRUKU,台湾,750,AJ.FLY,台湾,2092,255EMO,台湾,2962,TAMAGO,台湾,3420,100000,台湾
 DJ TROOPERS,switch,0,,-,584,POC,台湾,1433,AKN-!?,台湾,2051,DEJAVU,台湾,0,,-
@@ -377,7 +377,7 @@ DJ TROOPERS,soldier's waltz,0,,-,726,WING67,台湾,1563,TAMAGO,台湾,2372,TAMAG
 DJ TROOPERS,scar in the earth,0,,-,443,IIDX29,台湾,998,$$OMAA,台湾,1502,TAMAGO,台湾,0,,-
 DJ TROOPERS,satfinal,0,,-,912,BLO,台湾,1357,HICAL&,台湾,1881,TAMAGO,台湾,0,,-
 DJ TROOPERS,"satellite020712 from ""CODED ARMS""",0,,-,1081,SO-NYA,台湾,1750,7NSUKI,台湾,2478,OTTER,台湾,0,,-
-DJ TROOPERS,Ristaccia,0,,-,968,APB,台湾,1915,S,台湾,2695,100000,台湾,0,,-
+DJ TROOPERS,Ristaccia,0,,-,1003,FOG,台湾,1915,S,台湾,2695,100000,台湾,0,,-
 DJ TROOPERS,Rising in the Sun(original mix),0,,-,786,XEO,台湾,1661,TAMAGO,台湾,2289,YUNAS1,台湾,0,,-
 DJ TROOPERS,REMINISCENCE,0,,-,1076,A,台湾,1821,TAMAGO,台湾,2312,CORGIB,台湾,0,,-
 DJ TROOPERS,PROMISE FOR LIFE,0,,-,450,BALLY,台湾,1464,RI,台湾,1746,TAMAGO,台湾,0,,-
@@ -396,7 +396,7 @@ DJ TROOPERS,Freeway Shuffle,335,YOKO.H,台湾,552,A123,台湾,1218,R*RPNT,台湾
 DJ TROOPERS,four pieces of heaven,0,,-,835,OTLOTL,台湾,1736,LEG,台湾,2251,A-SAM-,台湾,0,,-
 DJ TROOPERS,end of world,0,,-,572,KAKAJO,台湾,1677,POM?!*,台湾,2422,RMNBOT,台湾,0,,-
 DJ TROOPERS,Do it!! Do it!!,0,,-,975,POM?!*,台湾,1421,TOKO?,台湾,1852,RMNBOT,台湾,0,,-
-DJ TROOPERS,Digitank System,0,,-,866,AWF-00,台湾,1404,691020,台湾,2028,A-SAM-,台湾,0,,-
+DJ TROOPERS,Digitank System,0,,-,866,AWF-00,台湾,1553,TAMAGO,台湾,2028,A-SAM-,台湾,0,,-
 DJ TROOPERS,Dazzlin' Darlin,325,YOKO.H,台湾,817,A,台湾,1369,EB199X,台湾,2224,CORGIB,台湾,0,,-
 DJ TROOPERS,Darling my LUV,0,,-,597,HIGA4.,台湾,855,OTLOTL,台湾,1378,TOKO?,台湾,0,,-
 DJ TROOPERS,Blue Rain,313,YOKO.H,台湾,869,SO-NYA,台湾,1550,POM?!*,台湾,2242,OTTER,台湾,3155,100000,台湾
@@ -411,7 +411,7 @@ EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,360,NEMU,台湾,1148,
 EMPRESS,天空脳番長危機十六連打,0,,-,757,BLO,台湾,2048,RYU.,台湾,2497,LASK,台湾,0,,-
 EMPRESS,卑弥呼,0,,-,1097,OTLOTL,台湾,2678,A-SAM-,台湾,3742,YUNAS1,台湾,0,,-
 EMPRESS,凛として咲く花の如く,381,YOKO.H,台湾,1277,YOKO.H,台湾,2047,LANYEN,台湾,2762,A-SAM-,台湾,3148,A-SAM-,台湾
-EMPRESS,不沈艦CANDY,596,CORGIB,台湾,1044,KORONE,台湾,1890,LEG,台湾,3179,YUNAS1,台湾,0,,-
+EMPRESS,不沈艦CANDY,596,CORGIB,台湾,1044,KORONE,台湾,1958,TAMAGO,台湾,3179,YUNAS1,台湾,0,,-
 EMPRESS,ミッドナイト堕天使,0,,-,624,AK,台湾,1585,7NSUKI,台湾,2751,OTTER,台湾,0,,-
 EMPRESS,ハリツヤランデヴー,0,,-,948,CORGIB,台湾,1961,R*RPNT,台湾,2448,CORGIB,台湾,0,,-
 EMPRESS,まほろば,0,,-,666,MCH.,台湾,1341,GANGA!,台湾,2002,A-SAM-,台湾,0,,-
@@ -436,7 +436,7 @@ EMPRESS,Just a Little Smile,0,,-,446,NEMU,台湾,1304,LIAOZ.,台湾,2388,OTTER,�
 EMPRESS,Jack,0,,-,731,BLO,台湾,1337,691020,台湾,2158,NA70-S,台湾,0,,-
 EMPRESS,I'm Screaming LOVE,0,,-,406,NEC,台湾,1224,KULA,台湾,1686,CORGIB,台湾,0,,-
 EMPRESS,HYPERION,0,,-,1072,YOKO.H,台湾,1986,REKII,台湾,2673,OTTER,台湾,0,,-
-EMPRESS,Go Beyond!!,414,MARTEN,台湾,915,LYN,台湾,1727,DEJAVU,台湾,2053,LASK,台湾,0,,-
+EMPRESS,Go Beyond!!,450,NOBU15,台湾,915,LYN,台湾,1727,DEJAVU,台湾,2053,LASK,台湾,0,,-
 EMPRESS,Fly Above,0,,-,905,SLW,台湾,1567,691020,台湾,2025,CORGIB,台湾,0,,-
 EMPRESS,Flash Back 90's,0,,-,666,SONI,台湾,1695,691020,台湾,2312,OTTER,台湾,0,,-
 EMPRESS,"Cyber Force -DJ Yoshitaka Remix- ",0,,-,619,BOOKEN,台湾,1796,LEG,台湾,2479,CORGIB,台湾,0,,-
@@ -450,6 +450,63 @@ EMPRESS,Arabian Rave Night,0,,-,1255,691020,台湾,2151,255EMO,台湾,2861,RMNBO
 EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,921,RUCKER,台湾,1777,TAMAGO,台湾,2493,CORGIB,台湾,0,,-
 EMPRESS,ALL I NEED YOUR LOVE,0,,-,942,HIGA4.,台湾,1585,GENYA*,台湾,2088,CORGIB,台湾,0,,-
 EMPRESS,3y3s,466,CHIYA,台湾,1426,691020,台湾,2442,CHILI,台湾,3300,OTTER,台湾,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,739,ZRS,台湾,2031,7NSUKI,台湾,3371,DEJAVU,台湾,0,,-
+Resort Anthem,灼熱Beach Side Bunny,461,CHIYA,台湾,1056,691020,台湾,1928,YUNAS1,台湾,3026,RMNBOT,台湾,0,,-
+Resort Anthem,旅人リラン,0,,-,809,DAFU,台湾,1910,TAMAGO,台湾,2569,TAMAGO,台湾,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,779,RA,台湾,2002,TAMAGO,台湾,2780,OTTER,台湾,0,,-
+Resort Anthem,中華急行,0,,-,320,VIOLET,台湾,1467,LANYEN,台湾,2305,CORGIB,台湾,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,443,XEO,台湾,520,TONY!!,台湾,1239,#,台湾,1881,TAMAGO,台湾,0,,-
+Resort Anthem,おおきなこえで,0,,-,396,ATK-CH,台湾,886,XEO,台湾,1468,A-SAM-,台湾,2120,A-SAM-,台湾
+Resort Anthem,ZETA～素数の世界と超越者～,255,*CAT*,台湾,496,NOBU15,台湾,2134,TAMAGO,台湾,3071,DEJAVU,台湾,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,736,AJ.FLY,台湾,1715,POM?!*,台湾,2719,TAMAGO,台湾,0,,-
+Resort Anthem,Wuv U,0,,-,339,WINDFA,台湾,1288,POM?!*,台湾,1686,TAMAGO,台湾,0,,-
+Resort Anthem,WISE UP!,305,XEO,台湾,418,ATK-CH,台湾,1018,KULA,台湾,1577,TAMAGO,台湾,2588,A-SAM-,台湾
+Resort Anthem,Watch Out Pt.2,0,,-,909,MENDOR,台湾,1863,GENYA*,台湾,2689,TAMAGO,台湾,0,,-
+Resort Anthem,Vermillion,0,,-,452,CHT039,台湾,991,KULA,台湾,1973,EVO66,台湾,0,,-
+Resort Anthem,Tropical April,0,,-,1589,POM?!*,台湾,2213,POM?!*,台湾,2710,DEJAVU,台湾,0,,-
+Resort Anthem,THE FALLEN,0,,-,619,AK,台湾,1484,POM?!*,台湾,2642,A-SAM-,台湾,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,781,YOKO.H,台湾,1677,POM?!*,台湾,2130,A-SAM-,台湾,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,860,691020,台湾,2012,H2K,台湾,2835,A-SAM-,台湾,0,,-
+Resort Anthem,STELLAR WIND,283,STORIA,台湾,480,RERUKA,台湾,1706,TX-FAR,台湾,2563,CORGIB,台湾,0,,-
+Resort Anthem,Stay my side,0,,-,596,A,台湾,996,KULA,台湾,1338,TAMAGO,台湾,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,576,FISH,台湾,1596,POM?!*,台湾,2910,A-SAM-,台湾,0,,-
+Resort Anthem,Space Time,0,,-,618,691020,台湾,1604,691020,台湾,2159,A-SAM-,台湾,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,575,7SE773,台湾,2168,41V!N,台湾,3469,LIAOZ.,台湾,0,,-
+Resort Anthem,sakura storm,0,,-,1018,255EMO,台湾,1273,INA.,台湾,2326,DEJAVU,台湾,0,,-
+Resort Anthem,Sakura Reflection,0,,-,481,CORGIB,台湾,1600,7NSUKI,台湾,2354,A-SAM-,台湾,0,,-
+Resort Anthem,SABER WING,0,,-,488,HICAL&,台湾,1724,NOV.,台湾,2759,NA70-S,台湾,0,,-
+Resort Anthem,Rock Da House,0,,-,743,DEDJAV,台湾,1507,BARRY,台湾,2212,A-SAM-,台湾,0,,-
+Resort Anthem,reunion,551,AWF-00,台湾,1372,POM?!*,台湾,2303,HENR.Y,台湾,3124,A-SAM-,台湾,0,,-
+Resort Anthem,Programmed Life,0,,-,813,KAGAMI,台湾,1767,TAMAGO,台湾,2304,DEJAVU,台湾,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1209,255EMO,台湾,2421,A-SAM-,台湾,3597,LIAOZ.,台湾,0,,-
+Resort Anthem,passionate fate,0,,-,947,AAAAAA,台湾,1537,NOV.,台湾,2087,A-SAM-,台湾,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1347,#,台湾,2228,TAMAGO,台湾,3116,A-SAM-,台湾,0,,-
+Resort Anthem,New Castle Legions,0,,-,883,P1K4.,台湾,1723,BARRY,台湾,2683,A-SAM-,台湾,0,,-
+Resort Anthem,Never Fade Away,0,,-,526,WEI72,台湾,1676,POM?!*,台湾,2921,TAMAGO,台湾,0,,-
+Resort Anthem,Mermaid girl,531,XEO,台湾,819,ARTHUR,台湾,1646,691020,台湾,2209,CORGIB,台湾,0,,-
+Resort Anthem,Medicine of love,0,,-,460,HRS,台湾,1057,97EAO*,台湾,1727,CORGIB,台湾,0,,-
+Resort Anthem,Let The Track Flow,0,,-,829,APB,台湾,1620,R*RPNT,台湾,2507,LIAOZ.,台湾,0,,-
+Resort Anthem,Kailua,0,,-,451,CHIYA,台湾,1345,TAMAGO,台湾,2170,TAMAGO,台湾,0,,-
+Resort Anthem,I FIGHT ME,0,,-,360,NEMU,台湾,1356,MAX-,台湾,2106,DEJAVU,台湾,0,,-
+Resort Anthem,Golden Palms,0,,-,677,YOKO.H,台湾,1468,TAMAGO,台湾,1999,TAMAGO,台湾,2357,TAMAGO,台湾
+Resort Anthem,Fantasia,232,ZEROXI,台湾,376,ZUNDA?,台湾,1541,NA70-S,台湾,2234,A-SAM-,台湾,0,,-
+Resort Anthem,Everlasting Resort,0,,-,658,MCH.,台湾,1171,SAIKA,台湾,1861,DEJAVU,台湾,0,,-
+Resort Anthem,Eternal Tears,0,,-,328,73YV,台湾,1034,KULA,台湾,1366,CORGIB,台湾,0,,-
+Resort Anthem,Energy Drive,0,,-,864,YOKO.H,台湾,1489,TAMAGO,台湾,2142,TAMAGO,台湾,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,1046,VIOLET,台湾,1872,TAMAGO,台湾,2384,A-SAM-,台湾,0,,-
+Resort Anthem,Destiny Sword,0,,-,437,RJ,台湾,1734,TAMAGO,台湾,2353,A-SAM-,台湾,0,,-
+Resort Anthem,DAYDREAMER,0,,-,955,AK,台湾,1718,#,台湾,2520,A-SAM-,台湾,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1179,JEFF,台湾,2231,DEJAVU,台湾,2949,L1X#ND,台湾,0,,-
+Resort Anthem,BROKEN EDEN,0,,-,725,SUNNY,台湾,1696,YORHA!,台湾,2301,A-SAM-,台湾,0,,-
+Resort Anthem,Broken,0,,-,912,AJ.FLY,台湾,1993,691020,台湾,3131,OTTER,台湾,0,,-
+Resort Anthem,Breaking the ground,0,,-,791,NNS,台湾,1770,NA70-S,台湾,2462,NA70-S,台湾,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,805,HIGA4.,台湾,1680,TAMAGO,台湾,2355,TAMAGO,台湾,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,817,POM?!*,台湾,1463,#,台湾,2097,TAMAGO,台湾,0,,-
+Resort Anthem,Believe In Me,0,,-,795,RING-*,台湾,1868,TAMAGO,台湾,2344,A-SAM-,台湾,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,926,S.CAT,台湾,1907,7NSUKI,台湾,2912,100000,台湾,0,,-
+Resort Anthem,Answer,0,,-,654,DAFU,台湾,1471,POM?!*,台湾,2403,A-SAM-,台湾,0,,-
+Resort Anthem,ALBIDA,455,XEO,台湾,1033,RYO,台湾,1890,RYU.,台湾,2899,A-SAM-,台湾,0,,-
+Resort Anthem,Aegis,0,,-,639,AK,台湾,1332,7NSUKI,台湾,2301,AQUARS,台湾,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,620,HICAL&,台湾,1583,691020,台湾,2014,TAMAGO,台湾,0,,-
 SIRIUS,未来のプリズム,0,,-,470,UTR,台湾,1339,POM?!*,台湾,1750,CORGIB,台湾,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1057,YOKO.H,台湾,2212,TAMAGO,台湾,3060,TAMAGO,台湾,0,,-
@@ -471,12 +528,12 @@ SIRIUS,Raison d'etre～交差する宿命～,0,,-,1063,A,台湾,2136,POM?!*,台�
 SIRIUS,quell～the seventh slave～,0,,-,613,D.RUBY,台湾,1682,S.CAT,台湾,3032,LASK,台湾,0,,-
 SIRIUS,Programmed Sun,0,,-,1051,#,台湾,1815,POM?!*,台湾,2514,DEJAVU,台湾,0,,-
 SIRIUS,NoN-Fiction Story!,0,,-,615,TOKYU,台湾,1328,R*RPNT,台湾,2173,CORGIB,台湾,0,,-
-SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1094,A,台湾,1964,YMKZ,台湾,2651,DEJAVU,台湾,0,,-
+SIRIUS,NEW SENSATION -もう、あなたしか見えない-,0,,-,1094,A,台湾,1975,RYU.,台湾,2651,DEJAVU,台湾,0,,-
 SIRIUS,mosaic,0,,-,1351,KULA,台湾,2053,A-SAM-,台湾,3000,A-SAM-,台湾,0,,-
 SIRIUS,MIRACLE MEETS,0,,-,897,WING67,台湾,1548,TAMAGO,台湾,2208,TAMAGO,台湾,0,,-
 SIRIUS,Light Shine,0,,-,566,NOBU15,台湾,1100,POM?!*,台湾,1924,TAMAGO,台湾,0,,-
 SIRIUS,Last Burning,0,,-,669,CUBLEX,台湾,1513,YOKO.H,台湾,2339,OTTER,台湾,0,,-
-SIRIUS,Keep it-秋葉工房mix-,0,,-,667,NEKO-A,台湾,1542,TAMAGO,台湾,1839,CORGIB,台湾,0,,-
+SIRIUS,Keep it-秋葉工房mix-,0,,-,712,NEKO-A,台湾,1542,TAMAGO,台湾,1839,CORGIB,台湾,0,,-
 SIRIUS,IN THE NAME OF LOVE,512,YOKO.H,台湾,465,LOV.TR,台湾,1139,A123,台湾,1905,CORGIB,台湾,0,,-
 SIRIUS,Hydrogen Blueback,0,,-,0,,-,1651,7NSUKI,台湾,2283,OTTER,台湾,0,,-
 SIRIUS,GOLDEN CROSS,0,,-,1086,691020,台湾,2057,EVO66,台湾,3432,OTTER,台湾,0,,-
@@ -502,127 +559,6 @@ SIRIUS,bass 2 bass,258,TERRY.,台湾,647,TOKYU,台湾,1255,SHINGO,台湾,1841,RM
 SIRIUS,Bad Maniacs,0,,-,1257,#,台湾,1829,7NSUKI,台湾,3072,A-SAM-,台湾,0,,-
 SIRIUS,Almagest,0,,-,992,691020,台湾,2149,DEJAVU,台湾,3012,OTTER,台湾,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,412,FENDA*,台湾,1084,911GT1,台湾,1827,TAMAGO,台湾,2271,DEJAVU,台湾,2783,LEG,台湾
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,739,ZRS,台湾,2031,7NSUKI,台湾,3371,DEJAVU,台湾,0,,-
-Resort Anthem,灼熱Beach Side Bunny,461,CHIYA,台湾,1056,691020,台湾,1928,YUNAS1,台湾,2986,RMNBOT,台湾,0,,-
-Resort Anthem,旅人リラン,0,,-,809,DAFU,台湾,1910,TAMAGO,台湾,2569,TAMAGO,台湾,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,779,RA,台湾,2002,TAMAGO,台湾,2780,OTTER,台湾,0,,-
-Resort Anthem,中華急行,0,,-,320,VIOLET,台湾,1467,LANYEN,台湾,2305,CORGIB,台湾,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,443,XEO,台湾,520,TONY!!,台湾,1239,#,台湾,1881,TAMAGO,台湾,0,,-
-Resort Anthem,おおきなこえで,0,,-,396,ATK-CH,台湾,886,XEO,台湾,1459,TAMAGO,台湾,2120,A-SAM-,台湾
-Resort Anthem,ZETA～素数の世界と超越者～,255,*CAT*,台湾,496,NOBU15,台湾,2134,TAMAGO,台湾,3071,DEJAVU,台湾,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,736,AJ.FLY,台湾,1715,POM?!*,台湾,2719,TAMAGO,台湾,0,,-
-Resort Anthem,Wuv U,0,,-,339,WINDFA,台湾,1288,POM?!*,台湾,1686,TAMAGO,台湾,0,,-
-Resort Anthem,WISE UP!,305,XEO,台湾,418,ATK-CH,台湾,1018,KULA,台湾,1577,TAMAGO,台湾,2588,A-SAM-,台湾
-Resort Anthem,Watch Out Pt.2,0,,-,909,MENDOR,台湾,1863,GENYA*,台湾,2689,TAMAGO,台湾,0,,-
-Resort Anthem,Vermillion,0,,-,452,CHT039,台湾,991,KULA,台湾,1973,EVO66,台湾,0,,-
-Resort Anthem,Tropical April,0,,-,1589,POM?!*,台湾,2213,POM?!*,台湾,2710,DEJAVU,台湾,0,,-
-Resort Anthem,THE FALLEN,0,,-,619,AK,台湾,1399,POM?!*,台湾,2642,A-SAM-,台湾,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,781,YOKO.H,台湾,1549,YOKO.H,台湾,2130,A-SAM-,台湾,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,860,691020,台湾,2012,H2K,台湾,2835,A-SAM-,台湾,0,,-
-Resort Anthem,STELLAR WIND,283,STORIA,台湾,480,RERUKA,台湾,1706,TX-FAR,台湾,2563,CORGIB,台湾,0,,-
-Resort Anthem,Stay my side,0,,-,596,A,台湾,996,KULA,台湾,1338,TAMAGO,台湾,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,576,FISH,台湾,1596,POM?!*,台湾,2910,A-SAM-,台湾,0,,-
-Resort Anthem,Space Time,0,,-,618,691020,台湾,1604,691020,台湾,2159,A-SAM-,台湾,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,575,7SE773,台湾,2168,41V!N,台湾,3469,LIAOZ.,台湾,0,,-
-Resort Anthem,sakura storm,0,,-,1018,255EMO,台湾,1273,INA.,台湾,2326,DEJAVU,台湾,0,,-
-Resort Anthem,Sakura Reflection,0,,-,481,CORGIB,台湾,1600,7NSUKI,台湾,2354,A-SAM-,台湾,0,,-
-Resort Anthem,SABER WING,0,,-,488,HICAL&,台湾,1724,NOV.,台湾,2759,NA70-S,台湾,0,,-
-Resort Anthem,Rock Da House,0,,-,743,DEDJAV,台湾,1507,BARRY,台湾,2212,A-SAM-,台湾,0,,-
-Resort Anthem,reunion,551,AWF-00,台湾,1372,POM?!*,台湾,2303,HENR.Y,台湾,3045,RMNBOT,台湾,0,,-
-Resort Anthem,Programmed Life,0,,-,813,KAGAMI,台湾,1767,TAMAGO,台湾,2304,DEJAVU,台湾,0,,-
-Resort Anthem,perditus†paradisus,0,,-,1209,255EMO,台湾,2421,A-SAM-,台湾,3597,LIAOZ.,台湾,0,,-
-Resort Anthem,passionate fate,0,,-,947,AAAAAA,台湾,1427,SAIKA,台湾,2087,A-SAM-,台湾,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1347,#,台湾,2228,TAMAGO,台湾,3116,A-SAM-,台湾,0,,-
-Resort Anthem,New Castle Legions,0,,-,883,P1K4.,台湾,1723,BARRY,台湾,2683,A-SAM-,台湾,0,,-
-Resort Anthem,Never Fade Away,0,,-,526,WEI72,台湾,1676,POM?!*,台湾,2921,TAMAGO,台湾,0,,-
-Resort Anthem,Mermaid girl,531,XEO,台湾,819,ARTHUR,台湾,1646,691020,台湾,2209,CORGIB,台湾,0,,-
-Resort Anthem,Medicine of love,0,,-,460,HRS,台湾,1057,97EAO*,台湾,1727,CORGIB,台湾,0,,-
-Resort Anthem,Let The Track Flow,0,,-,829,APB,台湾,1620,R*RPNT,台湾,2507,LIAOZ.,台湾,0,,-
-Resort Anthem,Kailua,0,,-,451,CHIYA,台湾,1345,TAMAGO,台湾,2170,TAMAGO,台湾,0,,-
-Resort Anthem,I FIGHT ME,0,,-,360,NEMU,台湾,1356,MAX-,台湾,2106,DEJAVU,台湾,0,,-
-Resort Anthem,Golden Palms,0,,-,677,YOKO.H,台湾,1468,TAMAGO,台湾,1999,TAMAGO,台湾,2357,TAMAGO,台湾
-Resort Anthem,Fantasia,232,ZEROXI,台湾,376,ZUNDA?,台湾,1541,NA70-S,台湾,2234,A-SAM-,台湾,0,,-
-Resort Anthem,Everlasting Resort,0,,-,658,MCH.,台湾,1171,SAIKA,台湾,1861,DEJAVU,台湾,0,,-
-Resort Anthem,Eternal Tears,0,,-,328,73YV,台湾,1034,KULA,台湾,1366,CORGIB,台湾,0,,-
-Resort Anthem,Energy Drive,0,,-,864,YOKO.H,台湾,1489,TAMAGO,台湾,2142,TAMAGO,台湾,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,1046,VIOLET,台湾,1872,TAMAGO,台湾,2384,A-SAM-,台湾,0,,-
-Resort Anthem,Destiny Sword,0,,-,437,RJ,台湾,1646,JJJJJJ,台湾,2353,A-SAM-,台湾,0,,-
-Resort Anthem,DAYDREAMER,0,,-,955,AK,台湾,1718,#,台湾,2520,A-SAM-,台湾,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1179,JEFF,台湾,2231,DEJAVU,台湾,2949,L1X#ND,台湾,0,,-
-Resort Anthem,BROKEN EDEN,0,,-,725,SUNNY,台湾,1696,YORHA!,台湾,2301,A-SAM-,台湾,0,,-
-Resort Anthem,Broken,0,,-,912,AJ.FLY,台湾,1993,691020,台湾,3131,OTTER,台湾,0,,-
-Resort Anthem,Breaking the ground,0,,-,791,NNS,台湾,1770,NA70-S,台湾,2462,NA70-S,台湾,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,805,HIGA4.,台湾,1667,TOKO?,台湾,2355,TAMAGO,台湾,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,817,POM?!*,台湾,1463,#,台湾,2097,TAMAGO,台湾,0,,-
-Resort Anthem,Believe In Me,0,,-,795,RING-*,台湾,1722,JJJJJJ,台湾,2344,A-SAM-,台湾,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,926,S.CAT,台湾,1907,7NSUKI,台湾,2912,100000,台湾,0,,-
-Resort Anthem,Answer,0,,-,654,DAFU,台湾,1471,POM?!*,台湾,2403,A-SAM-,台湾,0,,-
-Resort Anthem,ALBIDA,455,XEO,台湾,1033,RYO,台湾,1890,RYU.,台湾,2899,A-SAM-,台湾,0,,-
-Resort Anthem,Aegis,0,,-,639,AK,台湾,1332,7NSUKI,台湾,2301,AQUARS,台湾,0,,-
-Lincle,陽炎,0,,-,576,A,台湾,1101,#,台湾,1993,CORGIB,台湾,0,,-
-Lincle,衰色小町メランコリア,0,,-,711,MCH.,台湾,1376,POM?!*,台湾,2315,CORGIB,台湾,0,,-
-Lincle,蛇神,316,$.$?,台湾,698,POM?!*,台湾,1435,YORHA!,台湾,2760,TAMAGO,台湾,0,,-
-Lincle,聖人の塔,0,,-,776,A123,台湾,2005,OTTER,台湾,2860,A-SAM-,台湾,0,,-
-Lincle,突撃!ガラスのニーソ姫!,0,,-,588,OTLOTL,台湾,1071,A123,台湾,2055,DEJAVU,台湾,0,,-
-Lincle,恋する☆宇宙戦争っ！！,401,POC,台湾,899,691020,台湾,1735,7NSUKI,台湾,3355,RMNBOT,台湾,0,,-
-Lincle,子供の落書き帳,0,,-,720,MENDOR,台湾,1836,TAMAGO,台湾,2429,PTREMO,台湾,0,,-
-Lincle,天空の夜明け,0,,-,1301,691020,台湾,2127,DEJAVU,台湾,3795,OTTER,台湾,0,,-
-Lincle,君のハートにロックオン,0,,-,693,691020,台湾,1632,691020,台湾,2582,TAMAGO,台湾,3337,AQUARS,台湾
-Lincle,ユミル,0,,-,563,A,台湾,1322,691020,台湾,2781,OTTER,台湾,0,,-
-Lincle,ビューティフルレシート,264,NEMU,台湾,469,FISH,台湾,1172,POM?!*,台湾,1856,7NSUKI,台湾,0,,-
-Lincle,Yellow Sunrise,0,,-,646,CHIYA,台湾,1349,#,台湾,2203,LIAOZ.,台湾,0,,-
-Lincle,yellow head joe,0,,-,619,BLO,台湾,1480,POM?!*,台湾,2230,A-SAM-,台湾,0,,-
-Lincle,YAKSHA,0,,-,1222,691020,台湾,2203,POM?!*,台湾,3749,A-SAM-,台湾,0,,-
-Lincle,WONDER WALKER,0,,-,906,SLW,台湾,1927,CORGIB,台湾,3688,A-SAM-,台湾,0,,-
-Lincle,Voxane,0,,-,607,691020,台湾,1204,691020,台湾,1723,TAMAGO,台湾,0,,-
-Lincle,Todestrieb,0,,-,1097,691020,台湾,1887,7NSUKI,台湾,3379,A-SAM-,台湾,0,,-
-Lincle,TITANS RETURN,292,XEO,台湾,594,SLW,台湾,1524,POM?!*,台湾,2442,RMNBOT,台湾,2508,LIAOZ.,台湾
-Lincle,Thunderbolt,0,,-,812,AJ.FLY,台湾,1666,??????,台湾,3634,DEJAVU,台湾,0,,-
-Lincle,The Sampling Paradise,0,,-,853,691020,台湾,1768,REXKNG,台湾,2931,DEJAVU,台湾,0,,-
-Lincle,The Limbo,0,,-,1088,SLW,台湾,1862,RYU.,台湾,3209,RMNBOT,台湾,0,,-
-Lincle,Star Trail,0,,-,531,CHIYA,台湾,1176,POM?!*,台湾,1815,EVO66,台湾,0,,-
-Lincle,Snow Goose,237,NEMU,台湾,368,7NSUKI,台湾,1340,POM?!*,台湾,2353,A-SAM-,台湾,0,,-
-Lincle,Snake Stick,0,,-,893,MENDOR,台湾,1946,SHINGO,台湾,2655,RMNBOT,台湾,0,,-
-Lincle,SHADE,0,,-,1038,S.CAT,台湾,2000,TOKO?,台湾,2864,A-SAM-,台湾,0,,-
-Lincle,Several Words,0,,-,398,K.LINK,台湾,1427,POM?!*,台湾,2152,TAMAGO,台湾,0,,-
-Lincle,Scharfrichter,0,,-,818,SLW,台湾,1541,691020,台湾,2854,A-SAM-,台湾,0,,-
-Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,390,HIGA4.,台湾,1109,YOKO.H,台湾,1671,TAMAGO,台湾,0,,-
-Lincle,Round and Round,0,,-,666,ADAM,台湾,1151,SHELLY,台湾,2121,A-SAM-,台湾,0,,-
-Lincle,RESISTANCE,0,,-,357,NEMU,台湾,1217,SHELLY,台湾,2309,LASK,台湾,0,,-
-Lincle,Release The Music,0,,-,430,SHAZU.,台湾,1198,KULA,台湾,2084,OTTER,台湾,0,,-
-Lincle,Quick Silver,0,,-,722,SLW,台湾,1736,TX-FAR,台湾,2556,EVO66,台湾,0,,-
-Lincle,quaver♪,261,97EAO*,台湾,685,RYU.SA,台湾,2116,CORGIB,台湾,3318,LIAOZ.,台湾,0,,-
-Lincle,QUANTUM TELEPORTATION,0,,-,1376,MUJAJA,台湾,2171,YORHA!,台湾,2851,LASK,台湾,3516,OTTER,台湾
-Lincle,prompt,0,,-,762,AAAAAA,台湾,1583,NA70-S,台湾,2740,TAMAGO,台湾,0,,-
-Lincle,Phoenix,0,,-,770,TX-FAR,台湾,1147,691020,台湾,2409,DEJAVU,台湾,3701,OTTER,台湾
-Lincle,NNRT,0,,-,1199,691020,台湾,2414,MUJAJA,台湾,3346,DEJAVU,台湾,0,,-
-Lincle,Miami Sunset Drive,0,,-,514,DARKJ,台湾,1003,YOKO.H,台湾,1646,AQUARS,台湾,0,,-
-Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,720,NOBU15,台湾,1326,691020,台湾,2045,CORGIB,台湾,0,,-
-Lincle,Lucky Days,0,,-,517,ABCDEF,台湾,1484,POM?!*,台湾,2078,FUMIKO,台湾,0,,-
-Lincle,LOVE B.B.B,0,,-,533,NARI*D,台湾,1394,#,台湾,1979,CORGIB,台湾,0,,-
-Lincle,Liquid Crystal Girl feat. echo,0,,-,323,NEMU,台湾,1021,KULA,台湾,1841,YOKO.H,台湾,0,,-
-Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,834,A,台湾,1609,NA70-S,台湾,2202,CORGIB,台湾,0,,-
-Lincle,LAX5 feat.Ryota Yoshinari,0,,-,897,AK,台湾,1824,A123,台湾,2793,7NSUKI,台湾,0,,-
-Lincle,Infinite cave,0,,-,629,AK,台湾,1437,64-OIN,台湾,1997,TAMAGO,台湾,0,,-
-Lincle,In the Blackest Den,0,,-,772,SLW,台湾,1489,POM?!*,台湾,2487,DEJAVU,台湾,0,,-
-Lincle,I'm so Happy,277,XEO,台湾,353,RITSU,台湾,1287,691020,台湾,2274,A-SAM-,台湾,0,,-
-Lincle,HAERETICUS,0,,-,696,ATK-CH,台湾,1782,255EMO,台湾,2953,AQUARS,台湾,0,,-
-Lincle,Follow Tomorrow,0,,-,798,A,台湾,1481,EB199X,台湾,2231,TAMAGO,台湾,0,,-
-Lincle,Flip Flap,227,BPD,台湾,412,NEMU,台湾,1312,691020,台湾,2212,TAMAGO,台湾,0,,-
-Lincle,fffff,0,,-,740,SO-NYA,台湾,2097,DEJAVU,台湾,3045,TAMAGO,台湾,0,,-
-Lincle,Far east nightbird,354,AWF-00,台湾,467,FUWA,台湾,1247,#,台湾,1991,LEG,台湾,0,,-
-Lincle,F,0,,-,956,SO-NYA,台湾,2093,CORGIB,台湾,3501,AQUARS,台湾,0,,-
-Lincle,Express Emotion,0,,-,635,HIGA4.,台湾,1034,691020,台湾,2452,7NSUKI,台湾,0,,-
-Lincle,Drive Me Crazy,0,,-,657,A?,台湾,1373,HICAL&,台湾,2268,CORGIB,台湾,0,,-
-Lincle,DIAVOLO,0,,-,1254,691020,台湾,1869,TAMAGO,台湾,3004,DEJAVU,台湾,0,,-
-Lincle,Change the World,0,,-,607,RITSU,台湾,1375,POM?!*,台湾,1786,HENR.Y,台湾,0,,-
-Lincle,Castle on the Moon,198,97EAO*,台湾,589,YU,台湾,1549,POM?!*,台湾,2338,TAMAGO,台湾,0,,-
-Lincle,CALL,0,,-,326,ARTIOS,台湾,745,KULA,台湾,1448,TAMAGO,台湾,0,,-
-Lincle,BLACK.by X-Cross Fade,0,,-,970,97EAO*,台湾,2144,SHINGO,台湾,3331,RMNBOT,台湾,0,,-
-Lincle,ANAGRAMS I to Y,0,,-,750,MCH.,台湾,1618,691020,台湾,2458,CORGIB,台湾,0,,-
-Lincle,Almace,0,,-,692,KOT,台湾,1291,POM?!*,台湾,1884,SST.,台湾,0,,-
-Lincle,532nm,0,,-,450,GUAVA,台湾,1153,OTLOTL,台湾,2611,A-SAM-,台湾,0,,-
-Lincle,24th Century BOY,0,,-,656,FLOWMA,台湾,1767,S.TUKI,台湾,2770,A-SAM-,台湾,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,646,ABCDEF,台湾,1559,POM?!*,台湾,2958,DEJAVU,台湾,3205,100000,台湾
 tricoro,音楽,0,,-,779,P1K4.,台湾,1943,TOKO?,台湾,2641,LIAOZ.,台湾,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,1163,ZRS,台湾,2332,HM,台湾,3523,A-SAM-,台湾,0,,-
@@ -670,15 +606,15 @@ tricoro,Praludium,0,,-,700,691020,台湾,1385,POM?!*,台湾,2237,TAMAGO,台湾,0
 tricoro,POINT ZERO,0,,-,564,MARTEN,台湾,1217,YORHA!,台湾,2030,7NSUKI,台湾,0,,-
 tricoro,planarian,0,,-,569,7SE773,台湾,1664,POM?!*,台湾,2508,CORGIB,台湾,0,,-
 tricoro,Plan 8,0,,-,1142,691020,台湾,2187,POM?!*,台湾,3056,RMNBOT,台湾,0,,-
-tricoro,New Lights,0,,-,1033,POM?!*,台湾,1781,POM?!*,台湾,2360,RYU.,台湾,0,,-
+tricoro,New Lights,0,,-,1033,POM?!*,台湾,1781,POM?!*,台湾,2362,POM?!*,台湾,0,,-
 tricoro,New Decade IIDX Edition,208,NEMU,台湾,789,ABCDEF,台湾,1871,-BENNY,台湾,2922,A-SAM-,台湾,0,,-
 tricoro,neu,153,NEMU,台湾,953,#,台湾,2127,7NSUKI,台湾,3727,RMNBOT,台湾,0,,-
 tricoro,Neonlights,0,,-,493,TONY!!,台湾,1526,691020,台湾,2198,OTTER,台湾,0,,-
 tricoro,mnemoniq,0,,-,348,NEMU,台湾,777,SO-NYA,台湾,1266,7NSUKI,台湾,0,,-
 tricoro,LUV CAN SAVE U,0,,-,491,CHIYA,台湾,1390,691020,台湾,2066,NA70-S,台湾,2744,OTTER,台湾
 tricoro,Little Star,0,,-,883,A123,台湾,1714,POM?!*,台湾,3046,A-SAM-,台湾,0,,-
-tricoro,Light and Cyber…,0,,-,649,MIRUKU,台湾,1849,P1K4.,台湾,3082,A-SAM-,台湾,0,,-
-tricoro,Liberation,0,,-,1374,#,台湾,2304,7NSUKI,台湾,3607,A-SAM-,台湾,0,,-
+tricoro,Light and Cyber…,0,,-,649,MIRUKU,台湾,1895,NOV.,台湾,3082,A-SAM-,台湾,0,,-
+tricoro,Liberation,0,,-,1374,#,台湾,2304,7NSUKI,台湾,3638,A-SAM-,台湾,0,,-
 tricoro,JOMANDA,243,HUJAJA,台湾,1058,WING67,台湾,2151,RYU.,台湾,3444,A-SAM-,台湾,0,,-
 tricoro,In Heaven,0,,-,714,SLW,台湾,1463,POM?!*,台湾,2107,A-SAM-,台湾,0,,-
 tricoro,Illegal Function Call,0,,-,837,SB.KEN,台湾,1845,AQUARS,台湾,2518,DEJAVU,台湾,3380,LIAOZ.,台湾
@@ -697,13 +633,77 @@ tricoro,DAY DREAM,0,,-,530,INA.,台湾,1197,CORGIB,台湾,1897,LIAOZ.,台湾,0,,
 tricoro,Cookie Bouquets,0,,-,642,AK,台湾,2039,RURUDO,台湾,3340,DEJAVU,台湾,0,,-
 tricoro,connective,0,,-,276,NEMU,台湾,996,MENDOR,台湾,1569,TOKO?,台湾,0,,-
 tricoro,Confiserie,0,,-,828,ABCDEF,台湾,1958,H2K,台湾,3327,OTTER,台湾,0,,-
-tricoro,CONCEPTUAL,0,,-,593,BPD,台湾,1224,OTLOTL,台湾,2630,DEJAVU,台湾,0,,-
+tricoro,CONCEPTUAL,0,,-,593,BPD,台湾,1248,#,台湾,2630,DEJAVU,台湾,0,,-
 tricoro,BRAVE GLOW,0,,-,616,POC,台湾,1574,R*RPNT,台湾,2453,CORGIB,台湾,0,,-
 tricoro,BLUE STRAGGLER,0,,-,724,SLW,台湾,1364,MAX-,台湾,2512,LEG,台湾,0,,-
 tricoro,Beastie Starter,0,,-,360,G11K,台湾,1250,TX?EMO,台湾,2091,A-SAM-,台湾,0,,-
 tricoro,Ascalon,0,,-,1101,AWF-00,台湾,1681,S,台湾,2173,ASUNA,台湾,0,,-
 tricoro,8bit Princess,0,,-,508,FISH,台湾,1332,691020,台湾,2598,100000,台湾,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,830,JEFF,台湾,1645,TAMAGO,台湾,2569,A-SAM-,台湾,0,,-
+Lincle,陽炎,0,,-,576,A,台湾,1101,#,台湾,1993,CORGIB,台湾,0,,-
+Lincle,衰色小町メランコリア,0,,-,711,MCH.,台湾,1376,POM?!*,台湾,2328,CORGIB,台湾,0,,-
+Lincle,蛇神,316,$.$?,台湾,698,POM?!*,台湾,1435,YORHA!,台湾,2760,TAMAGO,台湾,0,,-
+Lincle,聖人の塔,0,,-,776,A123,台湾,2005,OTTER,台湾,2860,A-SAM-,台湾,0,,-
+Lincle,突撃!ガラスのニーソ姫!,0,,-,588,OTLOTL,台湾,1071,A123,台湾,2055,DEJAVU,台湾,0,,-
+Lincle,恋する☆宇宙戦争っ！！,401,POC,台湾,899,691020,台湾,1735,7NSUKI,台湾,3355,RMNBOT,台湾,0,,-
+Lincle,子供の落書き帳,0,,-,720,MENDOR,台湾,1836,TAMAGO,台湾,2429,PTREMO,台湾,0,,-
+Lincle,天空の夜明け,0,,-,1301,691020,台湾,2127,DEJAVU,台湾,3799,A-SAM-,台湾,0,,-
+Lincle,君のハートにロックオン,0,,-,693,691020,台湾,1632,691020,台湾,2582,TAMAGO,台湾,3337,AQUARS,台湾
+Lincle,ユミル,0,,-,563,A,台湾,1322,691020,台湾,2781,OTTER,台湾,0,,-
+Lincle,ビューティフルレシート,264,NEMU,台湾,469,FISH,台湾,1172,POM?!*,台湾,1856,7NSUKI,台湾,0,,-
+Lincle,Yellow Sunrise,0,,-,646,CHIYA,台湾,1349,#,台湾,2203,LIAOZ.,台湾,0,,-
+Lincle,yellow head joe,0,,-,619,BLO,台湾,1480,POM?!*,台湾,2230,A-SAM-,台湾,0,,-
+Lincle,YAKSHA,0,,-,1222,691020,台湾,2203,POM?!*,台湾,3749,A-SAM-,台湾,0,,-
+Lincle,WONDER WALKER,0,,-,906,SLW,台湾,1927,CORGIB,台湾,3689,A-SAM-,台湾,0,,-
+Lincle,Voxane,0,,-,607,691020,台湾,1204,691020,台湾,1723,TAMAGO,台湾,0,,-
+Lincle,Todestrieb,0,,-,1097,691020,台湾,1887,7NSUKI,台湾,3379,A-SAM-,台湾,0,,-
+Lincle,TITANS RETURN,292,XEO,台湾,594,SLW,台湾,1524,POM?!*,台湾,2442,RMNBOT,台湾,2508,LIAOZ.,台湾
+Lincle,Thunderbolt,0,,-,812,AJ.FLY,台湾,1666,??????,台湾,3634,DEJAVU,台湾,0,,-
+Lincle,The Sampling Paradise,0,,-,853,691020,台湾,1768,REXKNG,台湾,2931,DEJAVU,台湾,0,,-
+Lincle,The Limbo,0,,-,1088,SLW,台湾,1897,RYU.,台湾,3209,RMNBOT,台湾,0,,-
+Lincle,Star Trail,0,,-,531,CHIYA,台湾,1176,POM?!*,台湾,1815,EVO66,台湾,0,,-
+Lincle,Snow Goose,237,NEMU,台湾,368,7NSUKI,台湾,1340,POM?!*,台湾,2353,A-SAM-,台湾,0,,-
+Lincle,Snake Stick,0,,-,893,MENDOR,台湾,1946,SHINGO,台湾,2655,RMNBOT,台湾,0,,-
+Lincle,SHADE,0,,-,1038,S.CAT,台湾,2000,TOKO?,台湾,2864,A-SAM-,台湾,0,,-
+Lincle,Several Words,0,,-,398,K.LINK,台湾,1427,POM?!*,台湾,2152,TAMAGO,台湾,0,,-
+Lincle,Scharfrichter,0,,-,818,SLW,台湾,1541,691020,台湾,2871,A-SAM-,台湾,0,,-
+Lincle,SA.YO.NA.RA. SUPER STAR,0,,-,390,HIGA4.,台湾,1109,YOKO.H,台湾,1671,TAMAGO,台湾,0,,-
+Lincle,Round and Round,0,,-,666,ADAM,台湾,1151,SHELLY,台湾,2121,A-SAM-,台湾,0,,-
+Lincle,RESISTANCE,0,,-,357,NEMU,台湾,1217,SHELLY,台湾,2309,LASK,台湾,0,,-
+Lincle,Release The Music,0,,-,430,SHAZU.,台湾,1198,KULA,台湾,2084,OTTER,台湾,0,,-
+Lincle,Quick Silver,0,,-,722,SLW,台湾,1736,TX-FAR,台湾,2556,EVO66,台湾,0,,-
+Lincle,quaver♪,261,97EAO*,台湾,685,RYU.SA,台湾,2116,CORGIB,台湾,3318,LIAOZ.,台湾,0,,-
+Lincle,QUANTUM TELEPORTATION,0,,-,1376,MUJAJA,台湾,2171,YORHA!,台湾,2851,LASK,台湾,3516,OTTER,台湾
+Lincle,prompt,0,,-,762,AAAAAA,台湾,1583,NA70-S,台湾,2740,TAMAGO,台湾,0,,-
+Lincle,Phoenix,0,,-,770,TX-FAR,台湾,1147,691020,台湾,2409,DEJAVU,台湾,3701,OTTER,台湾
+Lincle,NNRT,0,,-,1199,691020,台湾,2414,MUJAJA,台湾,3346,DEJAVU,台湾,0,,-
+Lincle,Miami Sunset Drive,0,,-,514,DARKJ,台湾,1003,YOKO.H,台湾,1646,AQUARS,台湾,0,,-
+Lincle,Mermaid girl-秋葉工房 MIX-,0,,-,720,NOBU15,台湾,1326,691020,台湾,2045,CORGIB,台湾,0,,-
+Lincle,Lucky Days,0,,-,517,ABCDEF,台湾,1484,POM?!*,台湾,2078,FUMIKO,台湾,0,,-
+Lincle,LOVE B.B.B,0,,-,533,NARI*D,台湾,1394,#,台湾,1985,CORGIB,台湾,0,,-
+Lincle,Liquid Crystal Girl feat. echo,0,,-,323,NEMU,台湾,1021,KULA,台湾,1841,YOKO.H,台湾,0,,-
+Lincle,LETHEBOLG ～双神威に斬り咲けり～,0,,-,834,A,台湾,1609,NA70-S,台湾,2202,CORGIB,台湾,0,,-
+Lincle,LAX5 feat.Ryota Yoshinari,0,,-,897,AK,台湾,1824,A123,台湾,2793,7NSUKI,台湾,0,,-
+Lincle,Infinite cave,0,,-,629,AK,台湾,1437,64-OIN,台湾,2020,LIAOZ.,台湾,0,,-
+Lincle,In the Blackest Den,0,,-,772,SLW,台湾,1524,POM?!*,台湾,2487,DEJAVU,台湾,0,,-
+Lincle,I'm so Happy,277,XEO,台湾,353,RITSU,台湾,1287,691020,台湾,2291,A-SAM-,台湾,0,,-
+Lincle,HAERETICUS,0,,-,696,ATK-CH,台湾,1782,255EMO,台湾,2953,AQUARS,台湾,0,,-
+Lincle,Follow Tomorrow,0,,-,798,A,台湾,1481,EB199X,台湾,2231,TAMAGO,台湾,0,,-
+Lincle,Flip Flap,227,BPD,台湾,435,BALLY,台湾,1312,691020,台湾,2212,TAMAGO,台湾,0,,-
+Lincle,fffff,0,,-,740,SO-NYA,台湾,2097,DEJAVU,台湾,3045,TAMAGO,台湾,0,,-
+Lincle,Far east nightbird,354,AWF-00,台湾,467,FUWA,台湾,1247,#,台湾,1991,LEG,台湾,0,,-
+Lincle,F,0,,-,956,SO-NYA,台湾,2093,CORGIB,台湾,3501,AQUARS,台湾,0,,-
+Lincle,Express Emotion,0,,-,635,HIGA4.,台湾,1034,691020,台湾,2452,7NSUKI,台湾,0,,-
+Lincle,Drive Me Crazy,0,,-,657,A?,台湾,1373,HICAL&,台湾,2268,CORGIB,台湾,0,,-
+Lincle,DIAVOLO,0,,-,1254,691020,台湾,1869,TAMAGO,台湾,3004,DEJAVU,台湾,0,,-
+Lincle,Change the World,0,,-,607,RITSU,台湾,1375,POM?!*,台湾,1786,HENR.Y,台湾,0,,-
+Lincle,Castle on the Moon,198,97EAO*,台湾,589,YU,台湾,1549,POM?!*,台湾,2338,TAMAGO,台湾,0,,-
+Lincle,CALL,0,,-,326,ARTIOS,台湾,745,KULA,台湾,1448,TAMAGO,台湾,0,,-
+Lincle,BLACK.by X-Cross Fade,0,,-,970,97EAO*,台湾,2144,SHINGO,台湾,3331,RMNBOT,台湾,0,,-
+Lincle,ANAGRAMS I to Y,0,,-,750,MCH.,台湾,1618,691020,台湾,2458,CORGIB,台湾,0,,-
+Lincle,Almace,0,,-,692,KOT,台湾,1291,POM?!*,台湾,1884,SST.,台湾,0,,-
+Lincle,532nm,0,,-,450,GUAVA,台湾,1153,OTLOTL,台湾,2611,A-SAM-,台湾,0,,-
+Lincle,24th Century BOY,0,,-,656,FLOWMA,台湾,1767,S.TUKI,台湾,2770,A-SAM-,台湾,0,,-
 SPADA,轟け！恋のビーンボール！！,0,,-,910,A123,台湾,1900,MUJAJA,台湾,3386,YUNAS1,台湾,0,,-
 SPADA,超!!遠距離らぶメ～ル,0,,-,565,691020,台湾,1526,691020,台湾,2587,CORGIB,台湾,0,,-
 SPADA,罪と罰,0,,-,848,MOGAMI,台湾,1325,POM?!*,台湾,2141,CORGIB,台湾,0,,-
@@ -714,7 +714,7 @@ SPADA,海神,0,,-,1122,POM?!*,台湾,2092,DEJAVU,台湾,3100,A-SAM-,台湾,0,,-
 SPADA,旋律のドグマ～Miserables～,0,,-,1168,A,台湾,2416,255EMO,台湾,3738,PTREMO,台湾,0,,-
 SPADA,廿,0,,-,726,JJJJJJ,台湾,1466,OTLOTL,台湾,2228,POM?!*,台湾,3135,LIAOZ.,台湾
 SPADA,幻想系世界修復少女,180,NEMU,台湾,546,YAYOI.,台湾,1107,#,台湾,1901,EVO66,台湾,0,,-
-SPADA,バンブーソード・ガール,219,POC,台湾,704,POC,台湾,1685,RURUDO,台湾,2370,A-SAM-,台湾,0,,-
+SPADA,バンブーソード・ガール,219,POC,台湾,704,POC,台湾,1766,TAMAGO,台湾,2370,A-SAM-,台湾,0,,-
 SPADA,デッドボヲルdeホームラン,0,,-,462,K-I-U,台湾,1538,R*RPNT,台湾,2644,A-SAM-,台湾,0,,-
 SPADA,アルストロメリア,178,114514,台湾,723,AJ.FLY,台湾,1542,POM?!*,台湾,2454,A-SAM-,台湾,0,,-
 SPADA,お願いアインシュタイン,0,,-,898,691020,台湾,1382,S,台湾,2084,CORGIB,台湾,0,,-
@@ -722,12 +722,12 @@ SPADA,Wonder Girl feat. Kanae Asaba,0,,-,536,IIDX29,台湾,1202,H.RIO,台湾,276
 SPADA,VOX UP,0,,-,1476,POM?!*,台湾,2726,TOKO?,台湾,3415,A-SAM-,台湾,0,,-
 SPADA,Verflucht,0,,-,1218,691020,台湾,2112,YUNAS1,台湾,3352,OTTER,台湾,4262,YUNAS1,台湾
 SPADA,Valgus,0,,-,491,RING-*,台湾,1251,#,台湾,2329,A-SAM-,台湾,0,,-
-SPADA,Unicorn tail,0,,-,625,MCH.,台湾,1991,7NSUKI,台湾,3058,A-SAM-,台湾,0,,-
+SPADA,Unicorn tail,0,,-,625,MCH.,台湾,1991,7NSUKI,台湾,3086,A-SAM-,台湾,0,,-
 SPADA,THE DETONATOR,0,,-,1347,AX,台湾,2393,RYU.,台湾,3068,RAI,台湾,0,,-
 SPADA,Squeeze,0,,-,692,BLO,台湾,1385,POM?!*,台湾,2434,A-SAM-,台湾,0,,-
 SPADA,Sigmund,0,,-,1461,691020,台湾,2267,REKII,台湾,3617,LIAOZ.,台湾,3916,LIAOZ.,台湾
 SPADA,SCHWARZSCHILD FIELD,0,,-,867,#,台湾,1532,POM?!*,台湾,2266,DEJAVU,台湾,0,,-
-SPADA,RIZING YOU UP,0,,-,844,CHIYA,台湾,2051,S,台湾,2511,NA70-S,台湾,0,,-
+SPADA,RIZING YOU UP,0,,-,844,CHIYA,台湾,2135,TAMAGO,台湾,2511,NA70-S,台湾,0,,-
 SPADA,RISE,0,,-,789,BENID,台湾,1311,7NSUKI,台湾,1837,OTTER,台湾,0,,-
 SPADA,refractive index,0,,-,650,MAKOTO,台湾,1373,691020,台湾,2628,A-SAM-,台湾,0,,-
 SPADA,Recollection,0,,-,1107,WING67,台湾,1599,KULA,台湾,2219,CORGIB,台湾,0,,-
@@ -739,21 +739,21 @@ SPADA,Overload Frontier,0,,-,738,WING67,台湾,1737,R*RPNT,台湾,2501,A-SAM-,�
 SPADA,Odin,0,,-,485,NEMU,台湾,1321,691020,台湾,1982,LIAOZ.,台湾,0,,-
 SPADA,NPC World,0,,-,998,691020,台湾,1559,POM?!*,台湾,2210,CORGIB,台湾,0,,-
 SPADA,Miracle 5ympho X,0,,-,658,AAAAAA,台湾,1290,YANYUN,台湾,2565,NA70-S,台湾,0,,-
-SPADA,MAGIC & LOVE,0,,-,975,GDS.TW,台湾,1786,S,台湾,2869,A-SAM-,台湾,0,,-
+SPADA,MAGIC & LOVE,0,,-,975,GDS.TW,台湾,1826,POM?!*,台湾,2869,A-SAM-,台湾,0,,-
 SPADA,MAD ATTACK,0,,-,615,GANGA!,台湾,1090,APB,台湾,1889,CORGIB,台湾,0,,-
-SPADA,m1dy Deluxe,0,,-,1030,AAAAAA,台湾,1660,YOKO.H,台湾,2356,TOKO?,台湾,0,,-
+SPADA,m1dy Deluxe,0,,-,1030,AAAAAA,台湾,1660,YOKO.H,台湾,2414,TOKO?,台湾,0,,-
 SPADA,M.D.Injection,0,,-,540,A,台湾,1131,MEGA,台湾,2314,RMNBOT,台湾,0,,-
 SPADA,Lighting Shower,0,,-,457,OUTO,台湾,1056,KULA,台湾,2351,TAMAGO,台湾,0,,-
 SPADA,Last Dance,0,,-,1091,500ACB,台湾,1940,7NSUKI,台湾,3107,LIAOZ.,台湾,0,,-
-SPADA,KHAMEN BREAK,0,,-,510,YOROKO,台湾,1395,691020,台湾,2399,TAMAGO,台湾,0,,-
-SPADA,KAISER PHOENIX,0,,-,1154,RYO,台湾,2172,RYU.,台湾,3108,YUNAS1,台湾,3517,100000,台湾
+SPADA,KHAMEN BREAK,0,,-,510,YOROKO,台湾,1395,691020,台湾,2467,A-SAM-,台湾,0,,-
+SPADA,KAISER PHOENIX,0,,-,1231,VIOLET,台湾,2172,RYU.,台湾,3108,YUNAS1,台湾,3517,100000,台湾
 SPADA,IX,0,,-,1130,ZA12XS,台湾,2305,TOKO?,台湾,3597,A-SAM-,台湾,0,,-
 SPADA,invoker,0,,-,884,JIMO87,台湾,1861,7NSUKI,台湾,3049,DEJAVU,台湾,3318,L1X#ND,台湾
 SPADA,into the battlefield,0,,-,606,A&W,台湾,1417,POM?!*,台湾,2350,TAMAGO,台湾,0,,-
 SPADA,INSOMNIA,0,,-,676,DARKJ,台湾,1753,LANYEN,台湾,3094,LIAOZ.,台湾,0,,-
 SPADA,Insane Techniques,0,,-,708,ZRS,台湾,1298,7NSUKI,台湾,2411,OTTER,台湾,0,,-
 SPADA,"Idola ",0,,-,1087,JEFF,台湾,2271,7NSUKI,台湾,3468,A-SAM-,台湾,0,,-
-SPADA,I will be back -オレは帰ってきた-,0,,-,908,YAYOI.,台湾,1965,TAMAGO,台湾,2848,CORGIB,台湾,0,,-
+SPADA,I will be back -オレは帰ってきた-,0,,-,908,YAYOI.,台湾,1965,TAMAGO,台湾,2864,TAMAGO,台湾,0,,-
 SPADA,Hypersonik,0,,-,983,255EMO,台湾,1609,VIOLET,台湾,2441,LIAOZ.,台湾,0,,-
 SPADA,HYENA,0,,-,1094,ZRS,台湾,1870,MIYAKO,台湾,2745,OTTER,台湾,0,,-
 SPADA,Funny shuffle,0,,-,473,WINDFA,台湾,949,APB,台湾,2267,RMNBOT,台湾,0,,-
@@ -765,7 +765,7 @@ SPADA,Elektrick U-Phoria,0,,-,964,BLO,台湾,1845,POM?!*,台湾,2958,7NSUKI,台�
 SPADA,diagram,0,,-,478,CURO,台湾,1252,POM?!*,台湾,2777,OTTER,台湾,0,,-
 SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,634,ZHONG,台湾,1697,S,台湾,2438,DEJAVU,台湾,0,,-
 SPADA,DARK LEGACY,0,,-,1289,POM?!*,台湾,1963,POM?!*,台湾,3460,YUNAS1,台湾,0,,-
-SPADA,Dark Fall,0,,-,691,DYY,台湾,1526,7NSUKI,台湾,2709,DEJAVU,台湾,0,,-
+SPADA,Dark Fall,0,,-,691,DYY,台湾,1526,7NSUKI,台湾,2720,A-SAM-,台湾,0,,-
 SPADA,Critical Crystal,167,NEMU,台湾,1042,POM?!*,台湾,1795,7NSUKI,台湾,2864,TAMAGO,台湾,0,,-
 SPADA,Close the World feat.a☆ru,0,,-,1092,SERA-,台湾,1996,CASTER,台湾,3294,A-SAM-,台湾,3670,A-SAM-,台湾
 SPADA,Cleopatrysm,0,,-,810,AWF-00,台湾,1373,691020,台湾,2487,TAMAGO,台湾,0,,-
@@ -788,7 +788,7 @@ PENDUAL,打打打打打打打打打打,196,YOKO.H,台湾,802,691020,台湾,1276,
 PENDUAL,恋は白帯、サンシロー,0,,-,530,TONY!!,台湾,1255,MAX-,台湾,1999,LIAOZ.,台湾,2753,A-SAM-,台湾
 PENDUAL,少年は空を辿る,0,,-,1059,CHT039,台湾,1969,7NSUKI,台湾,3111,LIAOZ.,台湾,0,,-
 PENDUAL,妖隠し -あやかしかくし-,0,,-,901,IIDX29,台湾,1575,7NSUKI,台湾,2183,A-SAM-,台湾,0,,-
-PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,778,AJ.FLY,台湾,1812,RYU.,台湾,2933,LIAOZ.,台湾,0,,-
+PENDUAL,夏色DIARY - L.E.D.-G STYLE MIX -,0,,-,778,AJ.FLY,台湾,1812,RYU.,台湾,2987,A-SAM-,台湾,0,,-
 PENDUAL,取り残された美術(Arranged:HiZuMi),217,73YV,台湾,950,POM?!*,台湾,1626,199025,台湾,2187,CORGIB,台湾,0,,-
 PENDUAL,千年ノ理,0,,-,1171,691020,台湾,1967,A-SAM-,台湾,3146,OTTER,台湾,4079,A-SAM-,台湾
 PENDUAL,十六夜セツナ,0,,-,921,A,台湾,1577,7NSUKI,台湾,2221,CORGIB,台湾,0,,-
@@ -806,7 +806,7 @@ PENDUAL,We're so Happy (P*Light Remix) IIDX ver.,0,,-,1048,#,台湾,2197,POM?!*,
 PENDUAL,Vulkan,0,,-,947,JEFF,台湾,1994,TAMAGO,台湾,2939,TAMAGO,台湾,0,,-
 PENDUAL,TOXIC VIBRATION,0,,-,1592,691020,台湾,2395,SHINGO,台湾,3538,PTREMO,台湾,0,,-
 PENDUAL,TIEFSEE,0,,-,1226,#,台湾,2097,LEG,台湾,3419,OTTER,台湾,0,,-
-PENDUAL,The Least 100sec,0,,-,611,SHOU,台湾,1287,VOYA64,台湾,2726,TAMAGO,台湾,0,,-
+PENDUAL,The Least 100sec,0,,-,611,SHOU,台湾,1287,VOYA64,台湾,2743,TAMAGO,台湾,0,,-
 PENDUAL,TA・DA ☆ YO・SHI,0,,-,718,ALEX,台湾,1607,7NSUKI,台湾,2240,CORGIB,台湾,0,,-
 PENDUAL,Symmetry,0,,-,1100,#,台湾,2043,7NSUKI,台湾,3168,LEG,台湾,0,,-
 PENDUAL,Sweet Radar,0,,-,643,A,台湾,1240,#,台湾,2023,A-SAM-,台湾,0,,-
@@ -828,19 +828,19 @@ PENDUAL,Night sky,0,,-,1101,ZRS,台湾,1825,TAMAGO,台湾,2871,OTTER,台湾,0,,-
 PENDUAL,NEO GENERATOR SEVEN,0,,-,714,POC,台湾,1865,TAMAGO,台湾,3101,RMNBOT,台湾,0,,-
 PENDUAL,Monopole.,0,,-,650,ZHONG,台湾,1639,POM?!*,台湾,3146,LIAOZ.,台湾,0,,-
 PENDUAL,Line 4 Ruin,0,,-,635,CHIYA,台湾,1794,TAMAGO,台湾,2767,100000,台湾,0,,-
-PENDUAL,IXION,0,,-,1010,SLW,台湾,1663,CORGIL,台湾,2123,A-SAM-,台湾,0,,-
+PENDUAL,IXION,0,,-,1010,SLW,台湾,1679,POM?!*,台湾,2123,A-SAM-,台湾,0,,-
 PENDUAL,Invitation from Mr.C,0,,-,897,AAAAAA,台湾,1465,GDS.TW,台湾,2672,OTTER,台湾,0,,-
 PENDUAL,In The Breeze,0,,-,486,MSDRRR,台湾,1048,WING67,台湾,1691,TAMAGO,台湾,0,,-
 PENDUAL,IMPLANTATION,0,,-,586,SO-NYA,台湾,1614,SHINGO,台湾,2177,DEJAVU,台湾,0,,-
 PENDUAL,illuminate,0,,-,513,WWW,台湾,1386,#,台湾,2252,TAMAGO,台湾,0,,-
 PENDUAL,Hello Happiness,0,,-,701,YOROKO,台湾,1652,TAMAGO,台湾,2271,A-SAM-,台湾,0,,-
-PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,754,MOGAMI,台湾,1717,7NSUKI,台湾,2805,A-SAM-,台湾,0,,-
+PENDUAL,HELL SCAPER -Last Escape Remix-,0,,-,754,MOGAMI,台湾,1728,POM?!*,台湾,2805,A-SAM-,台湾,0,,-
 PENDUAL,Gravigazer,0,,-,953,YOKO.H,台湾,1880,DEJAVU,台湾,2844,DEJAVU,台湾,0,,-
 PENDUAL,Flashes,0,,-,877,A123,台湾,1733,TX-FAR,台湾,3137,OTTER,台湾,0,,-
 PENDUAL,FANTASTIC THREE,0,,-,1241,SH!ZO,台湾,2092,YMKZ,台湾,3057,A-SAM-,台湾,0,,-
-PENDUAL,fallen leaves -IIDX edition-,0,,-,962,DRAGON,台湾,1994,7NSUKI,台湾,3272,A-SAM-,台湾,0,,-
+PENDUAL,fallen leaves -IIDX edition-,0,,-,962,DRAGON,台湾,2013,7NSUKI,台湾,3272,A-SAM-,台湾,0,,-
 PENDUAL,"Erosion Mark  ",0,,-,737,ZRS,台湾,1508,POM?!*,台湾,2118,TAMAGO,台湾,0,,-
-PENDUAL,entelecheia,0,,-,1013,POM?!*,台湾,2092,FUMIKO,台湾,3168,YUNAS1,台湾,0,,-
+PENDUAL,entelecheia,0,,-,1013,POM?!*,台湾,2092,FUMIKO,台湾,3174,A-SAM-,台湾,0,,-
 PENDUAL,EBONY & IVORY,0,,-,856,A123,台湾,1695,7NSUKI,台湾,2856,LIAOZ.,台湾,3384,7NSUKI,台湾
 PENDUAL,Discloze,0,,-,780,RYO,台湾,1666,TAMAGO,台湾,2548,LIAOZ.,台湾,0,,-
 PENDUAL,Despair of ELFERIA,0,,-,1230,POM?!*,台湾,2346,POM?!*,台湾,3978,DEJAVU,台湾,0,,-
@@ -856,7 +856,7 @@ PENDUAL,Broken Sword,0,,-,1135,AJ.FLY,台湾,1973,255EMO,台湾,3632,DEJAVU,台�
 PENDUAL,BLUE MIRAGE,0,,-,746,ABCDEF,台湾,2033,DEJAVU,台湾,2875,RMNBOT,台湾,0,,-
 PENDUAL,Blaze it UP!,0,,-,833,MENDOR,台湾,1890,7NSUKI,台湾,2864,LIAOZ.,台湾,0,,-
 PENDUAL,Beyond The Earth,0,,-,1269,A-SAM-,台湾,2000,100000,台湾,3127,OTTER,台湾,0,,-
-PENDUAL,Beat Radiance,0,,-,903,HICAL&,台湾,1602,POM?!*,台湾,2606,NA70-S,台湾,3545,L1X#ND,台湾
+PENDUAL,Beat Radiance,0,,-,903,HICAL&,台湾,1602,POM?!*,台湾,2609,RMNBOT,台湾,3545,L1X#ND,台湾
 PENDUAL,AFRO KNUCKLE,0,,-,718,DRAGON,台湾,1712,7NSUKI,台湾,2364,A-SAM-,台湾,0,,-
 PENDUAL,#The_Relentless,0,,-,1111,#,台湾,1984,TAMAGO,台湾,2882,A-SAM-,台湾,0,,-
 copula,麗 ～うらら～,208,NEMU,台湾,934,BLO,台湾,1731,POM?!*,台湾,2569,100000,台湾,0,,-
@@ -874,14 +874,14 @@ copula,セロトニン,0,,-,1214,#,台湾,1802,TAMAGO,台湾,2287,A-SAM-,台湾,
 copula,シュッパツシンコウ・シサカンコ,0,,-,992,MCH.,台湾,1692,#,台湾,2405,CORGIB,台湾,0,,-
 copula,ギョギョっと人魚 爆婚ブライダル,0,,-,615,911GT1,台湾,1413,TAMAGO,台湾,2334,A-SAM-,台湾,0,,-
 copula,オルタネイトβ,0,,-,764,A,台湾,1288,RYU.SA,台湾,2240,A-SAM-,台湾,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1357,WING67,台湾,2185,HENBAN,台湾,3219,CORGIB,台湾,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1357,WING67,台湾,2185,HENBAN,台湾,3257,A-SAM-,台湾,0,,-
 copula,か・し・ま・し☆PUMP UP！,0,,-,927,AAAAAA,台湾,1798,TAMAGO,台湾,2736,TAMAGO,台湾,0,,-
 copula,ZEPHYRANTHES,0,,-,880,BLO,台湾,1808,TAMAGO,台湾,2894,A-SAM-,台湾,3704,OTTER,台湾
-copula,X,0,,-,1529,#,台湾,2421,64-OIN,台湾,3644,A-SAM-,台湾,0,,-
+copula,X,0,,-,1529,#,台湾,2421,64-OIN,台湾,3655,A-SAM-,台湾,0,,-
 copula,Welcome,0,,-,675,TREBLA,台湾,1705,H2K,台湾,2607,A-SAM-,台湾,3187,A-SAM-,台湾
-copula,Violet Rose,0,,-,1129,*CHI*,台湾,1655,YUSUKE,台湾,2532,A-SAM-,台湾,0,,-
+copula,Violet Rose,0,,-,1129,*CHI*,台湾,1973,TAMAGO,台湾,2532,A-SAM-,台湾,0,,-
 copula,Violet Pulse,0,,-,265,NEMU,台湾,1525,#,台湾,2412,OTTER,台湾,0,,-
-copula,Uh-Oh,0,,-,905,BLO,台湾,1638,H2K,台湾,2376,RMNBOT,台湾,0,,-
+copula,Uh-Oh,0,,-,908,BLO,台湾,1638,H2K,台湾,2376,RMNBOT,台湾,0,,-
 copula,Triple Counter,0,,-,1241,RYO,台湾,2258,TAMAGO,台湾,3812,A-SAM-,台湾,0,,-
 copula,Tori-no-kimochi,0,,-,248,H.RIO,台湾,1073,OTLOTL,台湾,1959,LIAOZ.,台湾,0,,-
 copula,SURVIVOR,0,,-,527,JIMO87,台湾,1048,APB,台湾,1989,CORGIB,台湾,0,,-
@@ -923,8 +923,8 @@ copula,Exchange Place,0,,-,582,AK,台湾,1047,.,台湾,1729,LIAOZ.,台湾,0,,-
 copula,Everlasting Last,0,,-,610,MEGA,台湾,1583,POM?!*,台湾,2207,CORGIB,台湾,0,,-
 copula,Dynamite,511,GANGA!,台湾,1184,691020,台湾,2400,POM?!*,台湾,3706,A-SAM-,台湾,0,,-
 copula,Donkey Donk,0,,-,863,BLO,台湾,1657,LEG,台湾,2250,OTTER,台湾,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,480,RITSU,台湾,1395,255EMO,台湾,2285,DEJAVU,台湾,0,,-
-copula,DIAMOND CROSSING,0,,-,890,911GT1,台湾,1726,7NSUKI,台湾,2968,A-SAM-,台湾,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,505,DAFU,台湾,1395,255EMO,台湾,2285,DEJAVU,台湾,0,,-
+copula,DIAMOND CROSSING,0,,-,970,MUJAJA,台湾,1726,7NSUKI,台湾,2968,A-SAM-,台湾,0,,-
 copula,Devil's Gear,0,,-,1001,HICAL&,台湾,2116,RYU.,台湾,3232,LIAOZ.,台湾,0,,-
 copula,Derelict Star feat. Ryu*,0,,-,1339,#,台湾,1888,TAMAGO,台湾,2582,DEJAVU,台湾,0,,-
 copula,Damage Per Second,0,,-,748,FUWA,台湾,1283,#,台湾,2007,EVO66,台湾,2249,EVO66,台湾
@@ -967,37 +967,37 @@ SINOBUZ,Venom,0,,-,778,$.$?,台湾,2037,RYU.,台湾,3162,OTTER,台湾,0,,-
 SINOBUZ,Umbral,0,,-,487,CHIYA,台湾,1297,#,台湾,1883,CORGIB,台湾,2994,A-SAM-,台湾
 SINOBUZ,TOGAKUSHI,0,,-,857,A?,台湾,1800,POM?!*,台湾,2549,LIAOZ.,台湾,0,,-
 SINOBUZ,The Commanders,0,,-,804,030,台湾,1470,7NSUKI,台湾,2414,CORGIB,台湾,0,,-
-SINOBUZ,Sweet Clapper,0,,-,500,M0M0,台湾,1219,691020,台湾,1908,CORGIB,台湾,0,,-
+SINOBUZ,Sweet Clapper,0,,-,501,ATK-CH,台湾,1219,691020,台湾,1908,CORGIB,台湾,0,,-
 SINOBUZ,Surf on the Light,0,,-,642,SHOU,台湾,1393,500ACB,台湾,2231,A-SAM-,台湾,0,,-
 SINOBUZ,Super Rush,0,,-,992,#,台湾,1827,GS.COB,台湾,3413,LIAOZ.,台湾,0,,-
 SINOBUZ,Summerlights(IIDX Edition),0,,-,1068,#,台湾,1836,POM?!*,台湾,3029,A-SAM-,台湾,0,,-
 SINOBUZ,Steel Edge,0,,-,697,MCH.,台湾,1458,GENYA*,台湾,3102,A-SAM-,台湾,0,,-
 SINOBUZ,Snakey Kung-fu,0,,-,1054,#,台湾,2104,7NSUKI,台湾,3362,OTTER,台湾,0,,-
-SINOBUZ,Sky High,424,YOKO.H,台湾,1119,691020,台湾,2225,MAC,台湾,3623,A-SAM-,台湾,0,,-
+SINOBUZ,Sky High,424,YOKO.H,台湾,1119,691020,台湾,2225,MAC,台湾,3658,LIAOZ.,台湾,0,,-
 SINOBUZ,SINOBUZ Fantasy,0,,-,808,FENDA*,台湾,1645,TAMAGO,台湾,2279,RURI,台湾,0,,-
 SINOBUZ,shuriken,0,,-,744,ZRS,台湾,1075,ZRS,台湾,2434,EVO66,台湾,0,,-
 SINOBUZ,SEQUENCE CAT,0,,-,966,AXA,台湾,2081,7NSUKI,台湾,2779,OTTER,台湾,0,,-
 SINOBUZ,Selfish Sweet,0,,-,441,HIGA4.,台湾,779,JEFF,台湾,1662,TOKO?,台湾,0,,-
 SINOBUZ,Seaside Labyrinth,0,,-,582,INJAJA,台湾,1250,691020,台湾,1837,A-SAM-,台湾,0,,-
-SINOBUZ,SAY BAY,0,,-,801,WING67,台湾,1438,255EMO,台湾,2705,A-SAM-,台湾,0,,-
+SINOBUZ,SAY BAY,0,,-,801,WING67,台湾,1438,255EMO,台湾,2735,A-SAM-,台湾,0,,-
 SINOBUZ,Sarutobi Champion is 拙者,0,,-,724,OTLOTL,台湾,1381,TAMAGO,台湾,2124,TAMAGO,台湾,0,,-
-SINOBUZ,SAMURAI-Scramble,0,,-,905,ZRS,台湾,1616,TAMAGO,台湾,2347,OTTER,台湾,2522,OTTER,台湾
+SINOBUZ,SAMURAI-Scramble,0,,-,905,ZRS,台湾,1642,TAMAGO,台湾,2347,OTTER,台湾,2530,TOKO?,台湾
 SINOBUZ,ROTTERDAM SHOGUN,516,YOKO.H,台湾,1086,#,台湾,1793,TAMAGO,台湾,2531,A-SAM-,台湾,0,,-
 SINOBUZ,RISING FIRE HAWK,0,,-,686,GFH012,台湾,1381,PEER,台湾,2639,A-SAM-,台湾,0,,-
 SINOBUZ,Remedy feat. Kanae Asaba,0,,-,579,TONY!!,台湾,1586,POM?!*,台湾,2164,EVO66,台湾,0,,-
 SINOBUZ,Rave Cannon,0,,-,934,SO-NYA,台湾,1808,7NSUKI,台湾,3246,A-SAM-,台湾,0,,-
 SINOBUZ,RAIN,0,,-,1054,JEFF,台湾,1763,POM?!*,台湾,3157,A-SAM-,台湾,0,,-
-SINOBUZ,Quakes,0,,-,1014,A,台湾,1927,RYU.,台湾,2985,A-SAM-,台湾,0,,-
+SINOBUZ,Quakes,0,,-,1014,A,台湾,1947,TX-FAR,台湾,2985,A-SAM-,台湾,0,,-
 SINOBUZ,Piano Samurai,0,,-,960,JEFF,台湾,1772,TAMAGO,台湾,2428,EVO66,台湾,0,,-
 SINOBUZ,PAPAYAPA BASS,0,,-,773,691020,台湾,1503,691020,台湾,2743,A-SAM-,台湾,0,,-
-SINOBUZ,OTENAMI Hurricane,0,,-,985,ATK-CH,台湾,2061,RYU.,台湾,3012,AQUARS,台湾,0,,-
+SINOBUZ,OTENAMI Hurricane,0,,-,985,ATK-CH,台湾,2061,RYU.,台湾,3021,A-SAM-,台湾,0,,-
 SINOBUZ,OOO,0,,-,580,FOO-3*,台湾,1410,691020,台湾,2052,CORGIB,台湾,0,,-
 SINOBUZ,nostos,0,,-,816,ZRS,台湾,1221,WING67,台湾,2523,TAMAGO,台湾,0,,-
 SINOBUZ,Music is The Answer,0,,-,607,MENDOR,台湾,1281,500ACB,台湾,1881,LIAOZ.,台湾,0,,-
 SINOBUZ,Modular Technology,0,,-,1050,MENDOR,台湾,1677,JJJJJJ,台湾,2619,A-SAM-,台湾,0,,-
 SINOBUZ,Mare Nectaris,0,,-,1427,691020,台湾,2071,DEJAVU,台湾,3361,AQUARS,台湾,0,,-
 SINOBUZ,Magical,0,,-,634,FUWA,台湾,1173,EB199X,台湾,1950,EVO66,台湾,0,,-
-SINOBUZ,Macuilxochitl,511,YOKO.H,台湾,1283,911GT1,台湾,2108,RYU.,台湾,3236,A-SAM-,台湾,0,,-
+SINOBUZ,Macuilxochitl,511,YOKO.H,台湾,1426,MUJAJA,台湾,2108,RYU.,台湾,3236,A-SAM-,台湾,0,,-
 SINOBUZ,Lost wing at.0,0,,-,591,KAGAMI,台湾,1383,POM?!*,台湾,2348,TAMAGO,台湾,0,,-
 SINOBUZ,INVISIBLE STRIX,0,,-,1120,691020,台湾,2002,7NSUKI,台湾,2570,A-SAM-,台湾,0,,-
 SINOBUZ,Honey Trap,0,,-,560,KFC,台湾,1581,S1ZUKU,台湾,2491,OTTER,台湾,0,,-
@@ -1018,7 +1018,7 @@ SINOBUZ,Breakin' Chain,0,,-,613,CHIYA,台湾,1237,MAYUKI,台湾,2281,TAMAGO,台�
 SINOBUZ,BREAK OVER,0,,-,762,BLO,台湾,1525,TAMAGO,台湾,2291,EVO66,台湾,0,,-
 SINOBUZ,Beyond The Seven,0,,-,620,DEDJAV,台湾,1267,691020,台湾,2669,A-SAM-,台湾,0,,-
 SINOBUZ,Believe in you,0,,-,742,MILKEX,台湾,1753,#,台湾,2393,A-SAM-,台湾,0,,-
-SINOBUZ,Beat Juggling Mix,0,,-,880,ZRS,台湾,1527,TAMAGO,台湾,2123,A-SAM-,台湾,0,,-
+SINOBUZ,Beat Juggling Mix,0,,-,880,ZRS,台湾,1527,TAMAGO,台湾,2135,RMNBOT,台湾,0,,-
 SINOBUZ,Be A Star,0,,-,653,WEI72,台湾,1770,CORGIB,台湾,2762,CORGIB,台湾,0,,-
 SINOBUZ,BabeL ～Grand Story～,0,,-,1053,MENDOR,台湾,2006,RYU.,台湾,2736,TAMAGO,台湾,0,,-
 SINOBUZ,AsiaN distractive,0,,-,891,ZISOS,台湾,1720,POM?!*,台湾,2565,A-SAM-,台湾,0,,-
@@ -1029,107 +1029,6 @@ SINOBUZ,Amazing Mirage,366,YOKO.H,台湾,740,RUCKER,台湾,1719,TAMAGO,台湾,25
 SINOBUZ,(This Is Not) The Angels,0,,-,564,MARISA,台湾,1371,691020,台湾,2626,A-SAM-,台湾,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1133,#,台湾,1941,7NSUKI,台湾,3304,A-SAM-,台湾,0,,-
 SINOBUZ,!Viva!,0,,-,702,DEDJAV,台湾,1565,691020,台湾,1991,TAMAGO,台湾,0,,-
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,888,MCH.,台湾,2223,SHIRAN,台湾,3151,DEJAVU,台湾,0,,-
-Rootage,金野火織の金色提言,0,,-,1210,500ACB,台湾,2150,RYU.,台湾,2994,OTTER,台湾,0,,-
-Rootage,花冠 feat.Aikapin,0,,-,965,POM?!*,台湾,1576,TX-FAR,台湾,2481,A-SAM-,台湾,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,1192,691020,台湾,1911,TAMAGO,台湾,2658,A-SAM-,台湾,0,,-
-Rootage,深愛のリグレット,0,,-,701,MINYIN,台湾,1150,500ACB,台湾,2363,CORGIB,台湾,0,,-
-Rootage,泰東ノ翠霞,0,,-,350,WINDFA,台湾,639,AAA,台湾,1701,A-SAM-,台湾,0,,-
-Rootage,最小三倍完全数,0,,-,635,IIDX29,台湾,1700,7NSUKI,台湾,2421,LIAOZ.,台湾,0,,-
-Rootage,抱きしめてモナムール,0,,-,1278,691020,台湾,2270,DEJAVU,台湾,3893,LIAOZ.,台湾,0,,-
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,676,500ACB,台湾,1461,A123,台湾,2552,A-SAM-,台湾,0,,-
-Rootage,ミッドナイト☆WAR,0,,-,799,POM?!*,台湾,1523,POM?!*,台湾,2455,A-SAM-,台湾,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,430,DARKJ,台湾,935,#,台湾,1421,TAMAGO,台湾,0,,-
-Rootage,ハードベース・フェスタ,0,,-,1135,691020,台湾,1817,TAMAGO,台湾,2805,OTTER,台湾,0,,-
-Rootage,セカンドピアス,0,,-,576,VIOLET,台湾,990,BBC,台湾,1995,CORGIB,台湾,0,,-
-Rootage,サクラあっぱれーしょん,206,NEMU,台湾,538,IIDX28,台湾,1383,MAX-,台湾,2296,TAMAGO,台湾,0,,-
-Rootage,グラナダの風,0,,-,702,HIGA4.,台湾,1120,POM?!*,台湾,1799,DEJAVU,台湾,0,,-
-Rootage,お菓子の王国,0,,-,1350,500ACB,台湾,2245,DEJAVU,台湾,3876,DEJAVU,台湾,0,,-
-Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1053,500ACB,台湾,1974,TAMAGO,台湾,2750,PTREMO,台湾,0,,-
-Rootage,ZENDEGI DANCE,0,,-,1121,#,台湾,1826,TAMAGO,台湾,2715,TAMAGO,台湾,0,,-
-Rootage,Yum Yum Jelly,0,,-,694,NEKO.H,台湾,1558,TAMAGO,台湾,2331,A-SAM-,台湾,0,,-
-Rootage,Xlo,0,,-,1293,KULA,台湾,2344,RYU.,台湾,3553,A-SAM-,台湾,0,,-
-Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1060,#,台湾,1708,TAMAGO,台湾,2931,A-SAM-,台湾,0,,-
-Rootage,X-DEN,0,,-,1617,POM?!*,台湾,2642,TAMAGO,台湾,3571,A-SAM-,台湾,0,,-
-Rootage,Wonderland,0,,-,749,CHIYA,台湾,1845,TAMAGO,台湾,2684,A-SAM-,台湾,0,,-
-Rootage,Won(*3*)Chu KissMe!,264,AWF-00,台湾,912,500ACB,台湾,1385,R*RPNT,台湾,2476,TAMAGO,台湾,0,,-
-Rootage,Wolf 1061,0,,-,964,500ACB,台湾,1666,CORGIL,台湾,3064,A-SAM-,台湾,0,,-
-Rootage,Wing of Hearts,0,,-,1005,GYY,台湾,1808,NA70-S,台湾,2905,LIAOZ.,台湾,0,,-
-Rootage,voltississimo,0,,-,1113,500ACB,台湾,2000,RYU.,台湾,3469,A-SAM-,台湾,0,,-
-Rootage,Visterhv,0,,-,1235,500ACB,台湾,2104,R-ZAO,台湾,3600,YUNAS1,台湾,0,,-
-Rootage,Urban Constellations,0,,-,490,JJSON,台湾,1390,691020,台湾,2238,OTTER,台湾,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1023,A,台湾,2111,TAMAGO,台湾,3167,DEJAVU,台湾,0,,-
-Rootage,Unbelief,0,,-,1020,YOKO.H,台湾,2059,DEJAVU,台湾,3003,RMNBOT,台湾,0,,-
-Rootage,U.S.A.,445,POC,台湾,968,MENDOR,台湾,1899,TAMAGO,台湾,2866,OTTER,台湾,0,,-
-Rootage,Twilight Warp,0,,-,568,MORE!?,台湾,1170,KULA,台湾,2122,CORGIB,台湾,0,,-
-Rootage,Trill auf G,0,,-,1034,TAKA*,台湾,1895,YMKZ,台湾,3109,DEJAVU,台湾,0,,-
-Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,726,500ACB,台湾,1472,500ACB,台湾,2234,TOKO?,台湾,0,,-
-Rootage,toy boxer,0,,-,747,500ACB,台湾,1350,#,台湾,2217,A-SAM-,台湾,0,,-
-Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,529,NEMU,台湾,1333,500ACB,台湾,2180,TOKO?,台湾,0,,-
-Rootage,The Rebellion of Sequencer,0,,-,983,97EAO*,台湾,1863,RYU.,台湾,2890,A-SAM-,台湾,0,,-
-Rootage,THE DAY OF JUBILATIONS,0,,-,1360,KULA,台湾,2253,YMKZ,台湾,3264,LIAOZ.,台湾,0,,-
-Rootage,The Best of Both Worlds,0,,-,571,K-GHI3,台湾,1319,#,台湾,2145,TAMAGO,台湾,0,,-
-Rootage,Technicolour Dreams,0,,-,905,691020,台湾,1393,691020,台湾,2324,GENYA*,台湾,0,,-
-Rootage,SPEED ROCKER,0,,-,881,500ACB,台湾,1708,TAMAGO,台湾,2217,S1ZUKU,台湾,0,,-
-Rootage,Six String Proof,0,,-,810,ZRS,台湾,1646,TAMAGO,台湾,2445,A-SAM-,台湾,0,,-
-Rootage,Serious?,0,,-,457,MCH.,台湾,1110,JKI,台湾,2184,OTTER,台湾,0,,-
-Rootage,R∞tAge,416,SIGMCX,台湾,1068,SCP173,台湾,1649,L1X#ND,台湾,2915,OTTER,台湾,0,,-
-Rootage,ruin of opals,0,,-,956,500ACB,台湾,1729,RI,台湾,3002,LIAOZ.,台湾,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,978,#,台湾,1742,TAMAGO,台湾,2663,AQUARS,台湾,0,,-
-Rootage,REPLAY,0,,-,528,WEI72,台湾,1543,POM?!*,台湾,2221,A-SAM-,台湾,0,,-
-Rootage,Red. by Jack Trance,0,,-,1403,500ACB,台湾,2151,EVO66,台湾,3395,OTTER,台湾,0,,-
-Rootage,Psycho Sheep Riddim,0,,-,518,FUWA,台湾,963,ZRS,台湾,1641,LIAOZ.,台湾,2181,A-SAM-,台湾
-Rootage,Please Welcome Mr.C,0,,-,1051,500ACB,台湾,1540,UNCLE.,台湾,2812,L1X#ND,台湾,0,,-
-Rootage,Playing With Fire,0,,-,967,YOKO.H,台湾,1616,7NSUKI,台湾,2297,A-SAM-,台湾,0,,-
-Rootage,Painful Fate,0,,-,1142,XEO,台湾,2199,MIGU,台湾,3206,A-SAM-,台湾,0,,-
-Rootage,OVER TIME,0,,-,472,M0M0,台湾,893,500ACB,台湾,1525,CORGIB,台湾,0,,-
-Rootage,ONIGOROSHI,0,,-,1027,TOKYU,台湾,2053,TOKO?,台湾,2827,LIAOZ.,台湾,0,,-
-Rootage,Night! Night! Night!,0,,-,1008,CHIYA,台湾,1821,TAMAGO,台湾,2931,A-SAM-,台湾,0,,-
-Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,819,HICAL&,台湾,1629,TAMAGO,台湾,2667,A-SAM-,台湾,0,,-
-Rootage,Necroxis Girl,0,,-,1078,GENYA*,台湾,1956,TAMAGO,台湾,2733,OTTER,台湾,0,,-
-Rootage,Macho Monky,0,,-,1179,SO-NYA,台湾,2048,MIGU,台湾,2940,OTTER,台湾,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,1115,691020,台湾,1835,7NSUKI,台湾,3293,RMNBOT,台湾,0,,-
-Rootage,Lift Us High,0,,-,860,97EAO*,台湾,1529,R*RPNT,台湾,2442,A-SAM-,台湾,0,,-
-Rootage,Level One,0,,-,1147,TSUNA,台湾,2211,SHINGO,台湾,3311,RMNBOT,台湾,0,,-
-Rootage,Lethal Weapon,0,,-,1159,SCP173,台湾,1856,TOKO?,台湾,3129,AQUARS,台湾,0,,-
-Rootage,Let me be your cure,0,,-,901,BLO,台湾,1417,NA70-S,台湾,2625,TAMAGO,台湾,0,,-
-Rootage,LADYBIRD,0,,-,1013,500ACB,台湾,1626,TAMAGO,台湾,2379,A-SAM-,台湾,0,,-
-Rootage,L.F.O,0,,-,653,IIDX29,台湾,1708,NOV.,台湾,3195,A-SAM-,台湾,0,,-
-Rootage,KILL EACH OTHER,0,,-,1333,691020,台湾,2316,RYU.,台湾,3721,OTTER,台湾,0,,-
-Rootage,IDOL syndrome.,0,,-,530,WEI72,台湾,1339,ZRS,台湾,2165,A-SAM-,台湾,0,,-
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1030,100000,台湾,1495,TOKO?,台湾,2128,TAMAGO,台湾,0,,-
-Rootage,Hurry Hurry,0,,-,697,VIOLET,台湾,992,P1K4.,台湾,2063,CORGIB,台湾,0,,-
-Rootage,HOT LIMIT,273,MIRUKU,台湾,975,500ACB,台湾,1722,TAMAGO,台湾,2495,CORGIB,台湾,0,,-
-Rootage,HEISEI,260,NEMU,台湾,1071,500ACB,台湾,1879,RYU.,台湾,2517,DEJAVU,台湾,0,,-
-Rootage,HARD BRAIN,0,,-,1059,SHOU,台湾,2007,POM?!*,台湾,3672,DEJAVU,台湾,0,,-
-Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,728,GFH012,台湾,2078,TOKO?,台湾,3758,A-SAM-,台湾,0,,-
-Rootage,Glory,0,,-,495,WEI72,台湾,1286,KULA,台湾,2264,TAMAGO,台湾,0,,-
-Rootage,GIGA THRASH,0,,-,1188,500ACB,台湾,1868,TAMAGO,台湾,2682,OTTER,台湾,0,,-
-Rootage,GENE,0,,-,1234,S.CAT,台湾,1919,7NSUKI,台湾,4193,OTTER,台湾,0,,-
-Rootage,Geirskogul,0,,-,809,AK,台湾,1542,POM?!*,台湾,2199,OTTER,台湾,0,,-
-Rootage,Garuda,0,,-,556,NEKO-A,台湾,1607,TAMAGO,台湾,2532,OTTER,台湾,0,,-
-Rootage,EVANESCENT,0,,-,1173,500ACB,台湾,2089,POM?!*,台湾,3349,TAMAGO,台湾,0,,-
-Rootage,Ember Lights,0,,-,768,BLO,台湾,1650,TAMAGO,台湾,2672,A-SAM-,台湾,0,,-
-Rootage,DRUNK MONKY,0,,-,909,500ACB,台湾,1543,SHINGO,台湾,2190,A-SAM-,台湾,0,,-
-Rootage,Drastic Dramatic,0,,-,1418,500ACB,台湾,2270,H2K,台湾,3395,A-SAM-,台湾,0,,-
-Rootage,Dr. Chemical & Killing Machine,0,,-,1052,500ACB,台湾,1811,7NSUKI,台湾,3307,OTTER,台湾,0,,-
-Rootage,Digital Skipper,0,,-,645,WALKER,台湾,1509,POM?!*,台湾,2130,RAI,台湾,0,,-
-Rootage,dAuntl3ss,0,,-,969,A123,台湾,1951,TOKO?,台湾,3425,A-SAM-,台湾,0,,-
-Rootage,Cranberry City ft. Luschel,0,,-,726,BLO,台湾,1549,7NSUKI,台湾,2355,TAMAGO,台湾,0,,-
-Rootage,COSMIC CYBER,0,,-,1036,691020,台湾,1664,7NSUKI,台湾,2788,LIAOZ.,台湾,0,,-
-Rootage,CoMAAAAAAA,0,,-,1012,NEKO.H,台湾,2010,POM?!*,台湾,2367,CORGIB,台湾,0,,-
-Rootage,CODE:0,0,,-,795,MCH.,台湾,2046,TAMAGO,台湾,2757,DEJAVU,台湾,0,,-
-Rootage,Catch Our Fire!,0,,-,1272,500ACB,台湾,2040,HICAL&,台湾,3630,OTTER,台湾,0,,-
-Rootage,Carry Me Away,514,YUENTE,台湾,1082,500ACB,台湾,1768,7NSUKI,台湾,3119,AQUARS,台湾,0,,-
-Rootage,Carmina,507,POM?!*,台湾,1153,MAYUKI,台湾,2404,DEJAVU,台湾,3488,A-SAM-,台湾,0,,-
-Rootage,BLOSSOM,0,,-,1032,500ACB,台湾,1500,#,台湾,2473,TAMAGO,台湾,0,,-
-Rootage,BLACK JACKAL,0,,-,697,M0M0,台湾,1424,S.TUKI,台湾,2280,TAMAGO,台湾,0,,-
-Rootage,Afterimage d'automne,0,,-,864,A123,台湾,1663,TAMAGO,台湾,2731,TAMAGO,台湾,0,,-
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,928,TTX,台湾,1610,R*RPNT,台湾,2590,A-SAM-,台湾,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1039,500ACB,台湾,1618,TAMAGO,台湾,2553,TAMAGO,台湾,0,,-
-Rootage,50th Memorial Songs -Flagship medley-,0,,-,0,,-,1436,POM?!*,台湾,2195,A-SAM-,台湾,0,,-
-Rootage,50th Memorial Songs -Beginning Story-,0,,-,664,FUWA,台湾,1542,691020,台湾,2613,CORGIB,台湾,0,,-
-Rootage,& Intelligence,0,,-,697,FISH,台湾,2100,TAMAGO,台湾,3102,A-SAM-,台湾,0,,-
 CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,555,FUWA,台湾,1122,HICAL&,台湾,2272,YUNAS1,台湾,0,,-
 CANNON BALLERS,純真可憐デザイア,201,NEMU,台湾,815,SCP173,台湾,1611,L1X#ND,台湾,2329,A-SAM-,台湾,0,,-
 CANNON BALLERS,神謳 -RESONANCE-,0,,-,1288,KULA,台湾,2374,M$#J,台湾,3912,A-SAM-,台湾,0,,-
@@ -1142,17 +1041,17 @@ CANNON BALLERS,バスルーム ロマンス,0,,-,807,BLO,台湾,1357,7NSUKI,台�
 CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,630,CURO,台湾,1816,A-SAM-,台湾,2488,A-SAM-,台湾,0,,-
 CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,842,AWF-00,台湾,1510,POM?!*,台湾,2414,A-SAM-,台湾,0,,-
 CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,878,A,台湾,1477,#,台湾,2079,A-SAM-,台湾,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1388,691020,台湾,2291,DEJAVU,台湾,3298,A-SAM-,台湾,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1388,691020,台湾,2310,DEJAVU,台湾,3298,A-SAM-,台湾,0,,-
 CANNON BALLERS,エディブルフラワーの独白,0,,-,797,POM?!*,台湾,1444,S.TUKI,台湾,2153,7NSUKI,台湾,0,,-
 CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,669,KAKAJO,台湾,1511,POM?!*,台湾,2449,A-SAM-,台湾,0,,-
 CANNON BALLERS,Xperanza,492,XEO,台湾,1305,691020,台湾,2399,A-SAM-,台湾,3077,A-SAM-,台湾,0,,-
 CANNON BALLERS,Usual Days-remix,0,,-,948,SO-NYA,台湾,1484,TAMAGO,台湾,2621,LIAOZ.,台湾,0,,-
-CANNON BALLERS,UMMU,386,XEO,台湾,1126,AKOH,台湾,2051,REXKNG,台湾,2999,A-SAM-,台湾,0,,-
+CANNON BALLERS,UMMU,386,XEO,台湾,1179,YORHA!,台湾,2051,REXKNG,台湾,2999,A-SAM-,台湾,0,,-
 CANNON BALLERS,The Revolution (VIP Mix),0,,-,629,MCH.,台湾,1403,500ACB,台湾,1825,OTTER,台湾,0,,-
 CANNON BALLERS,The Chase,0,,-,579,VYTSUS,台湾,1320,SHINGO,台湾,2089,RMNBOT,台湾,0,,-
 CANNON BALLERS,THE CANNONBALLER,347,XYZ,台湾,1401,#,台湾,2359,HENR.Y,台湾,3355,A-SAM-,台湾,0,,-
 CANNON BALLERS,Temple of Anubis,0,,-,851,MENDOR,台湾,1391,SLW,台湾,2593,OTTER,台湾,0,,-
-CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1007,MEGA,台湾,1763,TAMAGO,台湾,2602,A-SAM-,台湾,0,,-
+CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1007,MEGA,台湾,1763,TAMAGO,台湾,2630,A-SAM-,台湾,0,,-
 CANNON BALLERS,Static State,0,,-,993,#,台湾,1738,TAMAGO,台湾,2314,A-SAM-,台湾,0,,-
 CANNON BALLERS,STARLIGHT JUNCTION,0,,-,903,CORGIB,台湾,1594,CORGIB,台湾,2264,TAMAGO,台湾,0,,-
 CANNON BALLERS,SPEED DEMON,0,,-,630,JIMO87,台湾,1397,97EAO*,台湾,2262,LIAOZ.,台湾,0,,-
@@ -1207,7 +1106,7 @@ CANNON BALLERS,Around the Future,0,,-,847,911GT1,台湾,1630,POM?!*,台湾,2566,
 CANNON BALLERS,Arca,0,,-,786,AAAAAA,台湾,1778,R*RPNT,台湾,3031,LIAOZ.,台湾,0,,-
 CANNON BALLERS,Antigravity,0,,-,924,VYTSUS,台湾,1831,MUJAJA,台湾,2908,A-SAM-,台湾,0,,-
 CANNON BALLERS,ANCHOR,0,,-,1307,#,台湾,2420,MIGU,台湾,3455,OTTER,台湾,0,,-
-CANNON BALLERS,ANAGMA,0,,-,687,DAFU,台湾,1671,S.CAT,台湾,2523,TAMAGO,台湾,0,,-
+CANNON BALLERS,ANAGMA,0,,-,687,DAFU,台湾,1751,POM?!*,台湾,2523,TAMAGO,台湾,0,,-
 CANNON BALLERS,Amor De Verao,0,,-,766,691020,台湾,1378,691020,台湾,2270,CORGIB,台湾,0,,-
 CANNON BALLERS,Alpheratz,0,,-,340,TONY!!,台湾,898,APB,台湾,2075,CORGIB,台湾,0,,-
 CANNON BALLERS,ACCELERATE,0,,-,934,TREBLA,台湾,1694,64-OIN,台湾,2454,CORGIB,台湾,0,,-
@@ -1216,14 +1115,115 @@ CANNON BALLERS,AA -rebuild-,0,,-,1137,YASHO,台湾,2262,64-OIN,台湾,3435,LASK,
 CANNON BALLERS,255,0,,-,601,ALVIN,台湾,1518,LANYEN,台湾,3179,A-SAM-,台湾,0,,-
 CANNON BALLERS,2 Player,0,,-,718,CT-,台湾,1594,TAMAGO,台湾,2477,DEJAVU,台湾,0,,-
 CANNON BALLERS,1001 -ESCAPE-,0,,-,650,D.RUBY,台湾,1663,POM?!*,台湾,2586,DEJAVU,台湾,0,,-
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,888,MCH.,台湾,2223,SHIRAN,台湾,3151,DEJAVU,台湾,0,,-
+Rootage,金野火織の金色提言,0,,-,1210,500ACB,台湾,2150,RYU.,台湾,2994,OTTER,台湾,0,,-
+Rootage,花冠 feat.Aikapin,0,,-,965,POM?!*,台湾,1576,TX-FAR,台湾,2521,A-SAM-,台湾,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1192,691020,台湾,1911,TAMAGO,台湾,2658,A-SAM-,台湾,0,,-
+Rootage,深愛のリグレット,0,,-,701,MINYIN,台湾,1150,500ACB,台湾,2363,CORGIB,台湾,0,,-
+Rootage,泰東ノ翠霞,0,,-,455,VIOLET,台湾,639,AAA,台湾,1701,A-SAM-,台湾,0,,-
+Rootage,最小三倍完全数,0,,-,635,IIDX29,台湾,1700,7NSUKI,台湾,2421,LIAOZ.,台湾,0,,-
+Rootage,抱きしめてモナムール,0,,-,1278,691020,台湾,2270,DEJAVU,台湾,3893,LIAOZ.,台湾,0,,-
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,676,500ACB,台湾,1461,A123,台湾,2552,A-SAM-,台湾,0,,-
+Rootage,ミッドナイト☆WAR,0,,-,799,POM?!*,台湾,1523,POM?!*,台湾,2455,A-SAM-,台湾,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,430,DARKJ,台湾,935,#,台湾,1421,TAMAGO,台湾,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1135,691020,台湾,1817,TAMAGO,台湾,2805,OTTER,台湾,0,,-
+Rootage,セカンドピアス,0,,-,576,VIOLET,台湾,990,BBC,台湾,1995,CORGIB,台湾,0,,-
+Rootage,サクラあっぱれーしょん,206,NEMU,台湾,538,IIDX28,台湾,1383,MAX-,台湾,2296,TAMAGO,台湾,0,,-
+Rootage,グラナダの風,0,,-,702,HIGA4.,台湾,1120,POM?!*,台湾,1799,DEJAVU,台湾,0,,-
+Rootage,お菓子の王国,0,,-,1350,500ACB,台湾,2245,DEJAVU,台湾,3876,DEJAVU,台湾,0,,-
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1053,500ACB,台湾,1974,TAMAGO,台湾,2750,PTREMO,台湾,0,,-
+Rootage,ZENDEGI DANCE,0,,-,1121,#,台湾,1826,TAMAGO,台湾,2715,TAMAGO,台湾,0,,-
+Rootage,Yum Yum Jelly,0,,-,694,NEKO.H,台湾,1558,TAMAGO,台湾,2331,A-SAM-,台湾,0,,-
+Rootage,Xlo,0,,-,1293,KULA,台湾,2344,RYU.,台湾,3553,A-SAM-,台湾,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1060,#,台湾,1708,TAMAGO,台湾,2931,A-SAM-,台湾,0,,-
+Rootage,X-DEN,0,,-,1617,POM?!*,台湾,2642,TAMAGO,台湾,3571,A-SAM-,台湾,0,,-
+Rootage,Wonderland,0,,-,749,CHIYA,台湾,1845,TAMAGO,台湾,2684,A-SAM-,台湾,0,,-
+Rootage,Won(*3*)Chu KissMe!,264,AWF-00,台湾,912,500ACB,台湾,1385,R*RPNT,台湾,2476,TAMAGO,台湾,0,,-
+Rootage,Wolf 1061,0,,-,964,500ACB,台湾,1666,CORGIL,台湾,3064,A-SAM-,台湾,0,,-
+Rootage,Wing of Hearts,0,,-,1005,GYY,台湾,1808,NA70-S,台湾,2905,LIAOZ.,台湾,0,,-
+Rootage,voltississimo,0,,-,1113,500ACB,台湾,2000,RYU.,台湾,3469,A-SAM-,台湾,0,,-
+Rootage,Visterhv,0,,-,1235,500ACB,台湾,2104,R-ZAO,台湾,3600,YUNAS1,台湾,0,,-
+Rootage,Urban Constellations,0,,-,490,JJSON,台湾,1390,691020,台湾,2238,OTTER,台湾,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1023,A,台湾,2111,TAMAGO,台湾,3167,DEJAVU,台湾,0,,-
+Rootage,Unbelief,0,,-,1020,YOKO.H,台湾,2059,DEJAVU,台湾,3003,RMNBOT,台湾,0,,-
+Rootage,U.S.A.,445,POC,台湾,968,MENDOR,台湾,1899,TAMAGO,台湾,2866,OTTER,台湾,0,,-
+Rootage,Twilight Warp,0,,-,568,MORE!?,台湾,1170,KULA,台湾,2122,CORGIB,台湾,0,,-
+Rootage,Trill auf G,0,,-,1034,TAKA*,台湾,1895,YMKZ,台湾,3109,DEJAVU,台湾,0,,-
+Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,726,500ACB,台湾,1472,500ACB,台湾,2234,TOKO?,台湾,0,,-
+Rootage,toy boxer,0,,-,747,500ACB,台湾,1350,#,台湾,2217,A-SAM-,台湾,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,529,NEMU,台湾,1333,500ACB,台湾,2180,TOKO?,台湾,0,,-
+Rootage,The Rebellion of Sequencer,0,,-,983,97EAO*,台湾,1863,RYU.,台湾,2890,A-SAM-,台湾,0,,-
+Rootage,THE DAY OF JUBILATIONS,0,,-,1360,KULA,台湾,2316,RYU.,台湾,3264,LIAOZ.,台湾,0,,-
+Rootage,The Best of Both Worlds,0,,-,571,K-GHI3,台湾,1379,POM?!*,台湾,2145,TAMAGO,台湾,0,,-
+Rootage,Technicolour Dreams,0,,-,905,691020,台湾,1393,691020,台湾,2324,GENYA*,台湾,0,,-
+Rootage,SPEED ROCKER,0,,-,881,500ACB,台湾,1708,TAMAGO,台湾,2217,S1ZUKU,台湾,0,,-
+Rootage,Six String Proof,0,,-,810,ZRS,台湾,1646,TAMAGO,台湾,2445,A-SAM-,台湾,0,,-
+Rootage,Serious?,0,,-,457,MCH.,台湾,1110,JKI,台湾,2184,OTTER,台湾,0,,-
+Rootage,R∞tAge,416,SIGMCX,台湾,1068,SCP173,台湾,1649,L1X#ND,台湾,2915,OTTER,台湾,0,,-
+Rootage,ruin of opals,0,,-,956,500ACB,台湾,1729,RI,台湾,3002,LIAOZ.,台湾,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,978,#,台湾,1742,TAMAGO,台湾,2663,AQUARS,台湾,0,,-
+Rootage,REPLAY,0,,-,528,WEI72,台湾,1543,POM?!*,台湾,2221,A-SAM-,台湾,0,,-
+Rootage,Red. by Jack Trance,0,,-,1403,500ACB,台湾,2151,EVO66,台湾,3395,OTTER,台湾,0,,-
+Rootage,Psycho Sheep Riddim,0,,-,518,FUWA,台湾,963,ZRS,台湾,1641,LIAOZ.,台湾,2181,A-SAM-,台湾
+Rootage,Please Welcome Mr.C,0,,-,1051,500ACB,台湾,1540,UNCLE.,台湾,2812,L1X#ND,台湾,0,,-
+Rootage,Playing With Fire,0,,-,967,YOKO.H,台湾,1616,7NSUKI,台湾,2298,A-SAM-,台湾,0,,-
+Rootage,Painful Fate,0,,-,1142,XEO,台湾,2199,MIGU,台湾,3206,A-SAM-,台湾,0,,-
+Rootage,OVER TIME,0,,-,472,M0M0,台湾,893,500ACB,台湾,1525,CORGIB,台湾,0,,-
+Rootage,ONIGOROSHI,0,,-,1027,TOKYU,台湾,2053,TOKO?,台湾,2827,LIAOZ.,台湾,0,,-
+Rootage,Night! Night! Night!,0,,-,1008,CHIYA,台湾,1821,TAMAGO,台湾,2931,A-SAM-,台湾,0,,-
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,819,HICAL&,台湾,1629,TAMAGO,台湾,2667,A-SAM-,台湾,0,,-
+Rootage,Necroxis Girl,0,,-,1078,GENYA*,台湾,1956,TAMAGO,台湾,2733,OTTER,台湾,0,,-
+Rootage,Macho Monky,0,,-,1179,SO-NYA,台湾,2048,MIGU,台湾,2940,OTTER,台湾,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,1115,691020,台湾,1835,7NSUKI,台湾,3293,RMNBOT,台湾,0,,-
+Rootage,Lift Us High,0,,-,860,97EAO*,台湾,1529,R*RPNT,台湾,2442,A-SAM-,台湾,0,,-
+Rootage,Level One,0,,-,1147,TSUNA,台湾,2211,SHINGO,台湾,3311,RMNBOT,台湾,0,,-
+Rootage,Lethal Weapon,0,,-,1159,SCP173,台湾,1856,TOKO?,台湾,3129,AQUARS,台湾,0,,-
+Rootage,Let me be your cure,0,,-,901,BLO,台湾,1417,NA70-S,台湾,2625,TAMAGO,台湾,0,,-
+Rootage,LADYBIRD,0,,-,1013,500ACB,台湾,1626,TAMAGO,台湾,2379,A-SAM-,台湾,0,,-
+Rootage,L.F.O,0,,-,653,IIDX29,台湾,1708,NOV.,台湾,3195,A-SAM-,台湾,0,,-
+Rootage,KILL EACH OTHER,0,,-,1333,691020,台湾,2316,RYU.,台湾,3721,OTTER,台湾,0,,-
+Rootage,IDOL syndrome.,0,,-,560,HAHA,台湾,1339,ZRS,台湾,2165,A-SAM-,台湾,0,,-
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1030,100000,台湾,1495,TOKO?,台湾,2128,TAMAGO,台湾,0,,-
+Rootage,Hurry Hurry,0,,-,697,VIOLET,台湾,992,P1K4.,台湾,2069,CORGIB,台湾,0,,-
+Rootage,HOT LIMIT,282,GRAY,台湾,975,500ACB,台湾,1722,TAMAGO,台湾,2495,CORGIB,台湾,0,,-
+Rootage,HEISEI,294,SOUNEM,台湾,1071,500ACB,台湾,1879,RYU.,台湾,2517,DEJAVU,台湾,0,,-
+Rootage,HARD BRAIN,0,,-,1059,SHOU,台湾,2007,POM?!*,台湾,3672,DEJAVU,台湾,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,728,GFH012,台湾,2078,TOKO?,台湾,3758,A-SAM-,台湾,0,,-
+Rootage,Glory,0,,-,495,WEI72,台湾,1286,KULA,台湾,2264,TAMAGO,台湾,0,,-
+Rootage,GIGA THRASH,0,,-,1188,500ACB,台湾,1868,TAMAGO,台湾,2682,OTTER,台湾,0,,-
+Rootage,GENE,0,,-,1234,S.CAT,台湾,1919,7NSUKI,台湾,4220,A-SAM-,台湾,0,,-
+Rootage,Geirskogul,0,,-,809,AK,台湾,1542,POM?!*,台湾,2199,OTTER,台湾,0,,-
+Rootage,Garuda,0,,-,556,NEKO-A,台湾,1607,TAMAGO,台湾,2532,OTTER,台湾,0,,-
+Rootage,EVANESCENT,0,,-,1173,500ACB,台湾,2089,POM?!*,台湾,3349,TAMAGO,台湾,0,,-
+Rootage,Ember Lights,0,,-,768,BLO,台湾,1650,TAMAGO,台湾,2672,A-SAM-,台湾,0,,-
+Rootage,DRUNK MONKY,0,,-,909,500ACB,台湾,1543,SHINGO,台湾,2190,A-SAM-,台湾,0,,-
+Rootage,Drastic Dramatic,0,,-,1418,500ACB,台湾,2270,H2K,台湾,3395,A-SAM-,台湾,0,,-
+Rootage,Dr. Chemical & Killing Machine,0,,-,1052,500ACB,台湾,1811,7NSUKI,台湾,3307,OTTER,台湾,0,,-
+Rootage,Digital Skipper,0,,-,645,WALKER,台湾,1509,POM?!*,台湾,2130,RAI,台湾,0,,-
+Rootage,dAuntl3ss,0,,-,969,A123,台湾,1951,TOKO?,台湾,3425,A-SAM-,台湾,0,,-
+Rootage,Cranberry City ft. Luschel,0,,-,726,BLO,台湾,1549,7NSUKI,台湾,2355,TAMAGO,台湾,0,,-
+Rootage,COSMIC CYBER,0,,-,1036,691020,台湾,1664,7NSUKI,台湾,2788,LIAOZ.,台湾,0,,-
+Rootage,CoMAAAAAAA,0,,-,1012,NEKO.H,台湾,2010,POM?!*,台湾,2367,CORGIB,台湾,0,,-
+Rootage,CODE:0,0,,-,1315,ZRS,台湾,2087,POM?!*,台湾,2757,DEJAVU,台湾,0,,-
+Rootage,Catch Our Fire!,0,,-,1272,500ACB,台湾,2040,HICAL&,台湾,3630,OTTER,台湾,0,,-
+Rootage,Carry Me Away,514,YUENTE,台湾,1082,500ACB,台湾,1768,7NSUKI,台湾,3119,AQUARS,台湾,0,,-
+Rootage,Carmina,507,POM?!*,台湾,1153,MAYUKI,台湾,2404,DEJAVU,台湾,3488,A-SAM-,台湾,0,,-
+Rootage,BLOSSOM,0,,-,1032,500ACB,台湾,1500,#,台湾,2473,TAMAGO,台湾,0,,-
+Rootage,BLACK JACKAL,0,,-,697,M0M0,台湾,1424,S.TUKI,台湾,2280,TAMAGO,台湾,0,,-
+Rootage,Afterimage d'automne,0,,-,864,A123,台湾,1663,TAMAGO,台湾,2731,TAMAGO,台湾,0,,-
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,928,TTX,台湾,1610,R*RPNT,台湾,2590,A-SAM-,台湾,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,1039,500ACB,台湾,1618,TAMAGO,台湾,2553,TAMAGO,台湾,0,,-
+Rootage,50th Memorial Songs -Flagship medley-,0,,-,0,,-,1436,POM?!*,台湾,2195,A-SAM-,台湾,0,,-
+Rootage,50th Memorial Songs -Beginning Story-,0,,-,664,FUWA,台湾,1542,691020,台湾,2613,CORGIB,台湾,0,,-
+Rootage,& Intelligence,0,,-,697,FISH,台湾,2100,TAMAGO,台湾,3102,A-SAM-,台湾,0,,-
 HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,838,XEO,台湾,1736,FUMIKO,台湾,2954,A-SAM-,台湾,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1111,691020,台湾,1676,TAMAGO,台湾,2746,L1X#ND,台湾,0,,-
-HEROIC VERSE,錬成人間トリコロイダー,0,,-,919,TSUNA,台湾,1777,POM?!*,台湾,3160,A-SAM-,台湾,0,,-
+HEROIC VERSE,錬成人間トリコロイダー,0,,-,941,FOG,台湾,1777,POM?!*,台湾,3160,A-SAM-,台湾,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1333,691020,台湾,2000,TOKO?,台湾,3272,AQUARS,台湾,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,649,691020,台湾,1089,691020,台湾,1774,RMNBOT,台湾,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,726,CURO,台湾,1617,TAMAGO,台湾,2904,A-SAM-,台湾,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1090,500ACB,台湾,1752,TAMAGO,台湾,2673,TAMAGO,台湾,0,,-
-HEROIC VERSE,俺ら東京さ行ぐだ,203,NEMU,台湾,506,MCH.,台湾,1150,500ACB,台湾,1927,A-SAM-,台湾,0,,-
+HEROIC VERSE,俺ら東京さ行ぐだ,203,NEMU,台湾,508,DARKJ,台湾,1150,500ACB,台湾,1927,A-SAM-,台湾,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1090,RYO,台湾,1843,TAMAGO,台湾,2904,A-SAM-,台湾,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1005,691020,台湾,2044,FUMIKO,台湾,3554,DEJAVU,台湾,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),309,AK,台湾,726,A,台湾,1434,7NSUKI,台湾,2387,TAMAGO,台湾,0,,-
@@ -1273,7 +1273,7 @@ HEROIC VERSE,Lost Souls,0,,-,628,XEO,台湾,1654,TAMAGO,台湾,2404,OTTER,台湾
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1035,691020,台湾,1832,POM?!*,台湾,2908,A-SAM-,台湾,0,,-
 HEROIC VERSE,Like+it!,0,,-,943,KORONE,台湾,1727,TAMAGO,台湾,2329,DEJAVU,台湾,0,,-
 HEROIC VERSE,LIGHTNING STRIKES,468,POM?!*,台湾,871,A,台湾,1672,REXKNG,台湾,3201,A-SAM-,台湾,0,,-
-HEROIC VERSE,Level 2,0,,-,867,500ACB,台湾,1665,7NSUKI,台湾,2760,OTTER,台湾,0,,-
+HEROIC VERSE,Level 2,0,,-,867,500ACB,台湾,1705,TAMAGO,台湾,2760,OTTER,台湾,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,767,691020,台湾,1700,POM?!*,台湾,3449,OTTER,台湾,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,828,691020,台湾,1328,691020,台湾,2280,OTTER,台湾,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,961,HICAL&,台湾,1851,SHINGO,台湾,2881,A-SAM-,台湾,0,,-
@@ -1331,19 +1331,19 @@ BISTROVER,Rubrum Piano,0,,-,861,WING67,台湾,1679,TAMAGO,台湾,2390,DEJAVU,台
 BISTROVER,Rub-a Dub-a,0,,-,833,XEO,台湾,1359,S.TUKI,台湾,2050,MUJAJA,台湾,0,,-
 BISTROVER,Rowdy,0,,-,965,XEO,台湾,1553,SHINGO,台湾,2475,A-SAM-,台湾,0,,-
 BISTROVER,rommmo,0,,-,1002,XEO,台湾,1779,7NSUKI,台湾,3257,LIAOZ.,台湾,0,,-
-BISTROVER,Romanticが止まらない,298,RAYWAT,台湾,890,WING67,台湾,1672,R*RPNT,台湾,2714,A-SAM-,台湾,0,,-
+BISTROVER,Romanticが止まらない,298,RAYWAT,台湾,890,WING67,台湾,1672,R*RPNT,台湾,2719,A-SAM-,台湾,0,,-
 BISTROVER,POLKAMANIA,420,R-ZAO,台湾,955,691020,台湾,1836,TAMAGO,台湾,2857,A-SAM-,台湾,0,,-
 BISTROVER,Party Starter,0,,-,893,PON-,台湾,1396,GYY,台湾,2206,MAC,台湾,0,,-
 BISTROVER,Para siempre,0,,-,864,A?,台湾,1469,AKN-!?,台湾,2827,A-SAM-,台湾,0,,-
 BISTROVER,Overslept,0,,-,965,XEO,台湾,1726,TAMAGO,台湾,2496,LIAOZ.,台湾,0,,-
 BISTROVER,of the first magnitude,0,,-,1003,NOV.,台湾,1873,TAMAGO,台湾,2915,A-SAM-,台湾,0,,-
-BISTROVER,Ocean Blue feat. Luschel,0,,-,806,PON-,台湾,1283,TERRY.,台湾,2366,L1X#ND,台湾,0,,-
+BISTROVER,Ocean Blue feat. Luschel,0,,-,806,PON-,台湾,1294,ZRS,台湾,2366,L1X#ND,台湾,0,,-
 BISTROVER,Neo Heritage,0,,-,763,XEO,台湾,1676,TAMAGO,台湾,2759,RMNBOT,台湾,0,,-
 BISTROVER,Midnight Drive,0,,-,527,PON-,台湾,1133,S.TUKI,台湾,1936,A-SAM-,台湾,0,,-
-BISTROVER,Mars beach,0,,-,577,PON-,台湾,1149,MENDOR,台湾,2121,S,台湾,0,,-
+BISTROVER,Mars beach,0,,-,577,PON-,台湾,1149,MENDOR,台湾,2188,A-SAM-,台湾,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,974,XEO,台湾,1848,TAMAGO,台湾,2616,EVO66,台湾,0,,-
 BISTROVER,LAST DAY,0,,-,1103,255EMO,台湾,1688,TAMAGO,台湾,2996,A-SAM-,台湾,0,,-
-BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,624,SCP173,台湾,1127,691020,台湾,1807,CORGIB,台湾,0,,-
+BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,624,SCP173,台湾,1127,691020,台湾,1831,LIAOZ.,台湾,0,,-
 BISTROVER,HIGH VOLTAGE,0,,-,720,XEO,台湾,1397,255EMO,台湾,2230,A-SAM-,台湾,0,,-
 BISTROVER,Here We Are,294,ASUNA*,台湾,967,XEO,台湾,1667,POM?!*,台湾,2363,TOKO?,台湾,0,,-
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,868,911GT1,台湾,1753,TAMAGO,台湾,2272,HENR.Y,台湾,0,,-
@@ -1357,7 +1357,7 @@ BISTROVER,CONNECT-,0,,-,985,691020,台湾,1825,TAMAGO,台湾,2882,100000,台湾,
 BISTROVER,Chewingood!!!,293,YOKO.H,台湾,791,PON-,台湾,1473,691020,台湾,2588,YUNAS1,台湾,0,,-
 BISTROVER,Breakin' Rules,0,,-,1212,WING67,台湾,1790,TAMAGO,台湾,2670,RMNBOT,台湾,0,,-
 BISTROVER,BIGソムタム,561,AWF-00,台湾,1224,255EMO,台湾,1842,AKN-!?,台湾,3280,DEJAVU,台湾,0,,-
-BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,610,HIGA4.,台湾,1315,YORHA!,台湾,1938,A-SAM-,台湾,0,,-
+BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,673,FOG,台湾,1315,YORHA!,台湾,1938,A-SAM-,台湾,0,,-
 BISTROVER,apo:llioth,0,,-,1206,691020,台湾,2047,REXKNG,台湾,2913,A-SAM-,台湾,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,893,POM?!*,台湾,1538,691020,台湾,2735,A-SAM-,台湾,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,593,PON-,台湾,1279,L.ARC,台湾,2080,A-SAM-,台湾,0,,-
@@ -1372,12 +1372,12 @@ CastHour,ミュージック・アワー,537,YUENTE,台湾,1168,INJAJA,台湾,212
 CastHour,ハイテックトキオ,0,,-,1071,POM?!*,台湾,1894,TAMAGO,台湾,2646,A-SAM-,台湾,0,,-
 CastHour,デモーニッシュ,256,YOKO.H,台湾,907,691020,台湾,1435,POM?!*,台湾,2316,TAMAGO,台湾,0,,-
 CastHour,シル・ヴ・プレジデント,294,LEG,台湾,648,691020,台湾,1202,LEG,台湾,1784,A-SAM-,台湾,0,,-
-CastHour,グッバイ宣言,570,YUENTE,台湾,1088,A-SAM-,台湾,1788,TAMAGO,台湾,3082,A-SAM-,台湾,0,,-
+CastHour,グッバイ宣言,570,YUENTE,台湾,1088,A-SAM-,台湾,1788,TAMAGO,台湾,3092,A-SAM-,台湾,0,,-
 CastHour,オールトの雲,0,,-,1182,691020,台湾,1974,TOKO?,台湾,2606,AQUARS,台湾,0,,-
 CastHour,オドループ,496,YUENTE,台湾,1080,691020,台湾,1545,REKII,台湾,2342,AQUARS,台湾,0,,-
 CastHour,ウツシミウツシ,0,,-,1232,691020,台湾,2019,TOKO?,台湾,3114,A-SAM-,台湾,0,,-
 CastHour,ぐだふわエブリデー,257,YOKO.H,台湾,681,691020,台湾,1291,TOKO?,台湾,2247,A-SAM-,台湾,0,,-
-CastHour,あいつら全員同窓会,366,YUENTE,台湾,635,691020,台湾,1205,255EMO,台湾,2025,A-SAM-,台湾,0,,-
+CastHour,あいつら全員同窓会,366,YUENTE,台湾,635,691020,台湾,1214,TOKO?,台湾,2025,A-SAM-,台湾,0,,-
 CastHour,Xyndrome,0,,-,939,691020,台湾,1628,TAMAGO,台湾,2879,OTTER,台湾,0,,-
 CastHour,Wonderful Escape,0,,-,951,691020,台湾,1409,691020,台湾,2069,A-SAM-,台湾,0,,-
 CastHour,VR - Virtual Reality (prod.by Snail's House),298,YUENTE,台湾,602,691020,台湾,1143,255EMO,台湾,1807,OTTER,台湾,0,,-
@@ -1404,10 +1404,10 @@ CastHour,HEARTACHE,0,,-,490,LIAOZ.,台湾,1157,TOKO?,台湾,1824,OTTER,台湾,0,
 CastHour,GiGaGaHell,0,,-,1337,TAMAGO,台湾,2072,SHINGO,台湾,2984,A-SAM-,台湾,0,,-
 CastHour,FINALLY BLAZE,0,,-,916,YOKO.H,台湾,1733,TAMAGO,台湾,2743,A-SAM-,台湾,0,,-
 CastHour,Fegrix,0,,-,1259,TAMAGO,台湾,2263,DEJAVU,台湾,3174,DEJAVU,台湾,0,,-
-CastHour,Fantastic Merry-Go-Round,0,,-,1050,500ACB,台湾,1484,TOKO?,台湾,2101,A-SAM-,台湾,0,,-
+CastHour,Fantastic Merry-Go-Round,0,,-,1050,500ACB,台湾,1484,TOKO?,台湾,2102,A-SAM-,台湾,0,,-
 CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1061,691020,台湾,1794,CORGIB,台湾,2676,OTTER,台湾,0,,-
 CastHour,Don't believe the hype,0,,-,1114,YOKO.H,台湾,2187,POM?!*,台湾,3052,LIAOZ.,台湾,0,,-
-CastHour,DISPARATE,0,,-,993,691020,台湾,1748,TOKO?,台湾,2384,LIAOZ.,台湾,0,,-
+CastHour,DISPARATE,0,,-,993,691020,台湾,1762,POM?!*,台湾,2384,LIAOZ.,台湾,0,,-
 CastHour,Blue Bird feat. Kanae Asaba,0,,-,650,691020,台湾,1111,TOKO?,台湾,1770,TAMAGO,台湾,0,,-
 CastHour,Ariah,0,,-,709,691020,台湾,1469,255EMO,台湾,2159,TAMAGO,台湾,0,,-
 CastHour,Angel's Ladder,0,,-,1076,TAMAGO,台湾,2246,TAMAGO,台湾,3287,A-SAM-,台湾,0,,-
