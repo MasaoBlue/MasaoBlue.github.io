@@ -13,6 +13,13 @@
 1st&substream,deep in you,0,,-,470,SHU1,徳島県,470,SOL!D,徳島県,622,DG192,徳島県,0,,-
 1st&substream,5.1.1.,0,,-,151,FIN,徳島県,792,LNK-L,徳島県,1506,3T,徳島県,0,,-
 1st&substream,22DUNK,0,,-,0,,-,381,DGT4U,徳島県,646,ITALY3,徳島県,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,339,POSSEE,徳島県,568,SOL!D,徳島県,626,SHU1,徳島県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,573,CROSS,徳島県,821,BECE,徳島県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,289,POSSEE,徳島県,914,LEUCIS,徳島県,1174,AROMA,徳島県,0,,-
+2nd style,I Was The One,0,,-,317,POSSEE,徳島県,609,MOC...,徳島県,653,SOL!D,徳島県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,516,DGT4U,徳島県,784,LEUCIS,徳島県,1009,ELAZUL,徳島県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,832,LEUCIS,徳島県,1080,SHU1,徳島県,0,,-
+2nd style,.59,0,,-,410,DGT4U,徳島県,761,GLA,徳島県,1128,NIGIRI,徳島県,0,,-
 3rd style,THE SAFARI,219,NAO,徳島県,1179,SHU1,徳島県,1690,ITALY3,徳島県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,0,,-,393,KOUIKA,徳島県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,0,,-,0,,-,1197,SHU1,徳島県,0,,-
@@ -25,13 +32,6 @@
 3rd style,era (nostalmix),0,,-,595,MELT,徳島県,1065,NIGIRI,徳島県,1427,KOUIKA,徳島県,0,,-
 3rd style,Don't Stop!,0,,-,603,AKMIQN,徳島県,686,LEUCIS,徳島県,878,SHU1,徳島県,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,375,AKMIQN,徳島県,1251,L#...Y,徳島県,0,,-,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,339,POSSEE,徳島県,568,SOL!D,徳島県,626,SHU1,徳島県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,573,CROSS,徳島県,821,BECE,徳島県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,289,POSSEE,徳島県,914,LEUCIS,徳島県,1174,AROMA,徳島県,0,,-
-2nd style,I Was The One,0,,-,317,POSSEE,徳島県,609,MOC...,徳島県,653,SOL!D,徳島県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,516,DGT4U,徳島県,784,LEUCIS,徳島県,1009,ELAZUL,徳島県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,0,,-,832,LEUCIS,徳島県,1080,SHU1,徳島県,0,,-
-2nd style,.59,0,,-,410,DGT4U,徳島県,761,GLA,徳島県,1128,NIGIRI,徳島県,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,0,,-,1147,SHU1,徳島県,1282,KOUIKA,徳島県,0,,-
 4th style,SWEET LAB,0,,-,327,POSSEE,徳島県,500,AKMIQN,徳島県,1213,ELAZUL,徳島県,0,,-
 4th style,starmine,388,AA,徳島県,644,SHIMA,徳島県,1284,SOL!D,徳島県,1523,SHO!!!,徳島県,0,,-
@@ -318,49 +318,6 @@ DistorteD,Bloody Tears(IIDX EDITION),0,,-,1015,LEUCIS,徳島県,1895,SHU1,徳島
 DistorteD,BALLAD THE FEATHERS,0,,-,665,LEUCIS,徳島県,711,LKOP,徳島県,1445,SHU1,徳島県,0,,-
 DistorteD,Apocalypse ～dirge of swans～,233,SHU1,徳島県,823,LEUCIS,徳島県,1621,EDF,徳島県,2275,CROSS,徳島県,0,,-
 DistorteD,ALFARSHEAR 双神威に廻る夢,414,SHU1,徳島県,1004,LEUCIS,徳島県,1601,SHU1,徳島県,2063,NIGIRI,徳島県,0,,-
-GOLD,電人、暁に斃れる。,591,LEUCIS,徳島県,1462,SHU1,徳島県,2196,12EX57,徳島県,3323,NIGIRI,徳島県,0,,-
-GOLD,零 - ZERO -,194,MOCHI3,徳島県,1146,SHU1,徳島県,1737,SHU1,徳島県,2265,NIGIRI,徳島県,0,,-
-GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,648,LEUCIS,徳島県,1094,EDF,徳島県,1352,SHU1,徳島県,0,,-
-GOLD,星をこの手に,0,,-,1175,SHU1,徳島県,1746,SHU1,徳島県,2122,NIGIRI,徳島県,0,,-
-GOLD,リグレット,0,,-,1031,LKOP,徳島県,1752,NIGIRI,徳島県,2291,6,徳島県,0,,-
-GOLD,ヨシダさん,0,,-,547,NAGARE,徳島県,1399,SHU1,徳島県,1945,L#...Y,徳島県,0,,-
-GOLD,クルクル☆ラブ～Opioid Peptide MIX～,380,LEUCIS,徳島県,923,LEUCIS,徳島県,1447,SHU1,徳島県,2074,6,徳島県,0,,-
-GOLD,With your Smile,0,,-,618,LEUCIS,徳島県,1117,LKAR,徳島県,1545,NIGIRI,徳島県,0,,-
-GOLD,Watch out!!,0,,-,655,LEUCIS,徳島県,920,CAMI,徳島県,1514,ITALY3,徳島県,0,,-
-GOLD,VANESSA,0,,-,1031,SHU1,徳島県,1647,GOQURI,徳島県,2328,NIGIRI,徳島県,3092,NIGIRI,徳島県
-GOLD,TRANOID,0,,-,646,LEUCIS,徳島県,1625,DG192,徳島県,1961,SHU1,徳島県,2661,TATZTO,徳島県
-GOLD,The Smile of You,0,,-,806,KIRLN,徳島県,1289,SHU1,徳島県,1605,ITALY3,徳島県,0,,-
-GOLD,the shadow,0,,-,961,BLD,徳島県,1682,QUE,徳島県,2832,NIGIRI,徳島県,0,,-
-GOLD,snow storm,217,LEUCIS,徳島県,696,LEUCIS,徳島県,2014,EDF,徳島県,2752,L#...Y,徳島県,3274,NIGIRI,徳島県
-GOLD,smile,0,,-,1427,SHU1,徳島県,1857,SOL!D,徳島県,2815,L#...Y,徳島県,0,,-
-GOLD,Sense 2007,0,,-,1211,F*REAF,徳島県,2032,SHU1,徳島県,2773,NIGIRI,徳島県,0,,-
-GOLD,Second Heaven,197,LEUCIS,徳島県,768,BLD,徳島県,1482,SHU1,徳島県,2075,NIGIRI,徳島県,0,,-
-GOLD,Roulette,0,,-,0,,-,1354,SHU1,徳島県,1981,TATZTO,徳島県,0,,-
-GOLD,PHOTONGENIC,0,,-,1308,SHU1,徳島県,1778,EDF,徳島県,2297,L#...Y,徳島県,0,,-
-GOLD,op.31 叙情,0,,-,440,AKI,徳島県,1263,NIGIRI,徳島県,1474,NIGIRI,徳島県,0,,-
-GOLD,never…,0,,-,754,LEUCIS,徳島県,1303,SHU1,徳島県,1752,HANMA,徳島県,0,,-
-GOLD,METALLIC MIND,0,,-,725,LEUCIS,徳島県,1360,SHU1,徳島県,1611,L#...Y,徳島県,0,,-
-GOLD,Make Me Your Own,0,,-,780,KIRLN,徳島県,1415,AREST,徳島県,1944,6,徳島県,0,,-
-GOLD,Love Again...,0,,-,535,LEUCIS,徳島県,660,LEUCIS,徳島県,1030,SHU1,徳島県,0,,-
-GOLD,LASER CRUSTER,0,,-,1377,SHU1,徳島県,2256,SHU1,徳島県,3123,NIGIRI,徳島県,0,,-
-GOLD,KAMAITACHI,0,,-,1088,LEUCIS,徳島県,1869,EDF,徳島県,2653,NIGIRI,徳島県,3582,NIGIRI,徳島県
-GOLD,INORI,0,,-,945,SHIMA,徳島県,2435,KOHE,徳島県,2875,CAMI,徳島県,0,,-
-GOLD,High School Love,357,LEUCIS,徳島県,798,LEUCIS,徳島県,1501,LKAR,徳島県,2193,L#...Y,徳島県,0,,-
-GOLD,heaven above,0,,-,675,LEUCIS,徳島県,1361,SHU1,徳島県,1812,L#...Y,徳島県,0,,-
-GOLD,GRID KNIGHT,0,,-,554,SIDOU,徳島県,1888,SHU1,徳島県,2538,CROSS,徳島県,3390,ITALY3,徳島県
-GOLD,GOLD RUSH,485,LEUCIS,徳島県,1158,SHU1,徳島県,1432,EDF,徳島県,2297,NIGIRI,徳島県,0,,-
-GOLD,four-leaf,0,,-,656,LEUCIS,徳島県,953,F*REAF,徳島県,1667,TATZTO,徳島県,0,,-
-GOLD,FIRE FIRE,529,LEUCIS,徳島県,1152,SHU1,徳島県,1679,12EX57,徳島県,2647,NIGIRI,徳島県,0,,-
-GOLD,Fascination MAXX,0,,-,868,GOQURI,徳島県,1651,ITALY3,徳島県,2341,ITALY3,徳島県,0,,-
-GOLD,Cyber Force,0,,-,1091,LEUCIS,徳島県,1737,917YCH,徳島県,2188,6,徳島県,0,,-
-GOLD,CROSSROAD ～Left Story～,0,,-,773,AKMIQN,徳島県,1697,SHU1,徳島県,2182,NIGIRI,徳島県,0,,-
-GOLD,CaptivAte～誓い～,0,,-,1299,SHU1,徳島県,1662,QUE,徳島県,2220,L#...Y,徳島県,0,,-
-GOLD,CaptivAte～裁き～,396,SHU1,徳島県,697,TIKUWA,徳島県,1237,SHU1,徳島県,1750,L#...Y,徳島県,0,,-
-GOLD,Candy Galy,0,,-,1530,SHU1,徳島県,2325,LKAR,徳島県,3442,NIGIRI,徳島県,0,,-
-GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1061,CHIYO,徳島県,1893,SHU1,徳島県,2444,NIGIRI,徳島県,0,,-
-GOLD,ANDROMEDA II,0,,-,876,LEUCIS,徳島県,1817,LKAR,徳島県,2229,5039EX,徳島県,0,,-
-GOLD,Air Bell,0,,-,956,LKAR,徳島県,1008,*CONFI,徳島県,1707,NIGIRI,徳島県,0,,-
-GOLD,2hot2eat,0,,-,534,AKI,徳島県,1077,SHU1,徳島県,1384,NE.,徳島県,0,,-
 DJ TROOPERS,高高度降下低高度開傘,0,,-,881,AKI,徳島県,1426,SHU1,徳島県,1834,SHU1,徳島県,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,321,MANA,徳島県,852,LEUCIS,徳島県,1316,KOUIKA,徳島県,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,329,SHU1,徳島県,980,SHU1,徳島県,1469,GRETEL,徳島県,2022,L#...Y,徳島県,3101,NIGIRI,徳島県
@@ -411,6 +368,49 @@ DJ TROOPERS,Be OK,0,,-,806,LEUCIS,徳島県,1711,SHU1,徳島県,2341,L#...Y,徳�
 DJ TROOPERS,avant-guerre,0,,-,521,AKMIQN,徳島県,1289,SHU1,徳島県,1841,KOUIKA,徳島県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,980,BLD,徳島県,1881,HAZUKI,徳島県,2835,NIGIRI,徳島県,3618,NIGIRI,徳島県
 DJ TROOPERS,2 tribe 4 K,0,,-,856,SHU1,徳島県,1285,SHU1,徳島県,2723,L#...Y,徳島県,0,,-
+GOLD,電人、暁に斃れる。,591,LEUCIS,徳島県,1462,SHU1,徳島県,2196,12EX57,徳島県,3323,NIGIRI,徳島県,0,,-
+GOLD,零 - ZERO -,194,MOCHI3,徳島県,1146,SHU1,徳島県,1737,SHU1,徳島県,2265,NIGIRI,徳島県,0,,-
+GOLD,花吹雪 ～ IIDX LIMITED ～,0,,-,648,LEUCIS,徳島県,1094,EDF,徳島県,1352,SHU1,徳島県,0,,-
+GOLD,星をこの手に,0,,-,1175,SHU1,徳島県,1746,SHU1,徳島県,2122,NIGIRI,徳島県,0,,-
+GOLD,リグレット,0,,-,1031,LKOP,徳島県,1752,NIGIRI,徳島県,2291,6,徳島県,0,,-
+GOLD,ヨシダさん,0,,-,547,NAGARE,徳島県,1399,SHU1,徳島県,1945,L#...Y,徳島県,0,,-
+GOLD,クルクル☆ラブ～Opioid Peptide MIX～,380,LEUCIS,徳島県,923,LEUCIS,徳島県,1447,SHU1,徳島県,2074,6,徳島県,0,,-
+GOLD,With your Smile,0,,-,618,LEUCIS,徳島県,1117,LKAR,徳島県,1545,NIGIRI,徳島県,0,,-
+GOLD,Watch out!!,0,,-,655,LEUCIS,徳島県,920,CAMI,徳島県,1514,ITALY3,徳島県,0,,-
+GOLD,VANESSA,0,,-,1031,SHU1,徳島県,1647,GOQURI,徳島県,2328,NIGIRI,徳島県,3092,NIGIRI,徳島県
+GOLD,TRANOID,0,,-,646,LEUCIS,徳島県,1625,DG192,徳島県,1961,SHU1,徳島県,2661,TATZTO,徳島県
+GOLD,The Smile of You,0,,-,806,KIRLN,徳島県,1289,SHU1,徳島県,1605,ITALY3,徳島県,0,,-
+GOLD,the shadow,0,,-,961,BLD,徳島県,1682,QUE,徳島県,2832,NIGIRI,徳島県,0,,-
+GOLD,snow storm,217,LEUCIS,徳島県,696,LEUCIS,徳島県,2014,EDF,徳島県,2752,L#...Y,徳島県,3274,NIGIRI,徳島県
+GOLD,smile,0,,-,1427,SHU1,徳島県,1857,SOL!D,徳島県,2815,L#...Y,徳島県,0,,-
+GOLD,Sense 2007,0,,-,1211,F*REAF,徳島県,2032,SHU1,徳島県,2773,NIGIRI,徳島県,0,,-
+GOLD,Second Heaven,197,LEUCIS,徳島県,768,BLD,徳島県,1482,SHU1,徳島県,2075,NIGIRI,徳島県,0,,-
+GOLD,Roulette,0,,-,0,,-,1354,SHU1,徳島県,1981,TATZTO,徳島県,0,,-
+GOLD,PHOTONGENIC,0,,-,1308,SHU1,徳島県,1778,EDF,徳島県,2297,L#...Y,徳島県,0,,-
+GOLD,op.31 叙情,0,,-,440,AKI,徳島県,1263,NIGIRI,徳島県,1474,NIGIRI,徳島県,0,,-
+GOLD,never…,0,,-,754,LEUCIS,徳島県,1303,SHU1,徳島県,1752,HANMA,徳島県,0,,-
+GOLD,METALLIC MIND,0,,-,725,LEUCIS,徳島県,1360,SHU1,徳島県,1611,L#...Y,徳島県,0,,-
+GOLD,Make Me Your Own,0,,-,780,KIRLN,徳島県,1415,AREST,徳島県,1944,6,徳島県,0,,-
+GOLD,Love Again...,0,,-,535,LEUCIS,徳島県,660,LEUCIS,徳島県,1030,SHU1,徳島県,0,,-
+GOLD,LASER CRUSTER,0,,-,1377,SHU1,徳島県,2256,SHU1,徳島県,3123,NIGIRI,徳島県,0,,-
+GOLD,KAMAITACHI,0,,-,1088,LEUCIS,徳島県,1869,EDF,徳島県,2653,NIGIRI,徳島県,3582,NIGIRI,徳島県
+GOLD,INORI,0,,-,945,SHIMA,徳島県,2435,KOHE,徳島県,2875,CAMI,徳島県,0,,-
+GOLD,High School Love,357,LEUCIS,徳島県,798,LEUCIS,徳島県,1501,LKAR,徳島県,2193,L#...Y,徳島県,0,,-
+GOLD,heaven above,0,,-,675,LEUCIS,徳島県,1361,SHU1,徳島県,1812,L#...Y,徳島県,0,,-
+GOLD,GRID KNIGHT,0,,-,554,SIDOU,徳島県,1888,SHU1,徳島県,2538,CROSS,徳島県,3390,ITALY3,徳島県
+GOLD,GOLD RUSH,485,LEUCIS,徳島県,1158,SHU1,徳島県,1432,EDF,徳島県,2297,NIGIRI,徳島県,0,,-
+GOLD,four-leaf,0,,-,656,LEUCIS,徳島県,953,F*REAF,徳島県,1667,TATZTO,徳島県,0,,-
+GOLD,FIRE FIRE,529,LEUCIS,徳島県,1152,SHU1,徳島県,1679,12EX57,徳島県,2647,NIGIRI,徳島県,0,,-
+GOLD,Fascination MAXX,0,,-,868,GOQURI,徳島県,1651,ITALY3,徳島県,2341,ITALY3,徳島県,0,,-
+GOLD,Cyber Force,0,,-,1091,LEUCIS,徳島県,1737,917YCH,徳島県,2188,6,徳島県,0,,-
+GOLD,CROSSROAD ��Left Story～,0,,-,773,AKMIQN,徳島県,1697,SHU1,徳島県,2182,NIGIRI,徳島県,0,,-
+GOLD,CaptivAte～誓い～,0,,-,1299,SHU1,徳島県,1662,QUE,徳島県,2220,L#...Y,徳島県,0,,-
+GOLD,CaptivAte～裁き～,396,SHU1,徳島県,697,TIKUWA,徳島県,1237,SHU1,徳島県,1750,L#...Y,徳島県,0,,-
+GOLD,Candy Galy,0,,-,1530,SHU1,徳島県,2325,LKAR,徳島県,3442,NIGIRI,徳島県,0,,-
+GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1061,CHIYO,徳島県,1893,SHU1,徳島県,2444,NIGIRI,徳島県,0,,-
+GOLD,ANDROMEDA II,0,,-,876,LEUCIS,徳島県,1817,LKAR,徳島県,2229,5039EX,徳島県,0,,-
+GOLD,Air Bell,0,,-,956,LKAR,徳島県,1008,*CONFI,徳島県,1707,NIGIRI,徳島県,0,,-
+GOLD,2hot2eat,0,,-,534,AKI,徳島県,1077,SHU1,徳島県,1384,NE.,徳島県,0,,-
 EMPRESS,鉄甲乙女-under the steel-,0,,-,913,LKAR,徳島県,1600,SHU1,徳島県,2074,GRETEL,徳島県,0,,-
 EMPRESS,翼,0,,-,828,LEUCIS,徳島県,1484,SHU1,徳島県,1913,AROMA,徳島県,2478,L#...Y,徳島県
 EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,633,LEUCIS,徳島県,1338,SHU1,徳島県,2021,L#...Y,徳島県,0,,-
@@ -787,87 +787,6 @@ SPADA,ATHER,0,,-,731,AKMIQN,徳島県,1552,SHU1,徳島県,2676,TATZTO,徳島県,
 SPADA,Ancient Scapes,0,,-,1059,KIRLN,徳島県,1753,TAKE,徳島県,3388,NIGIRI,徳島県,3754,GOQURI,徳島県
 SPADA,ALBA -黎明-,0,,-,612,LEUCIS,徳島県,1504,SHU1,徳島県,3178,NIGIRI,徳島県,0,,-
 SPADA,Adularia,191,SHU1,徳島県,877,LKOP,徳島県,1601,LEON,徳島県,2769,NIGIRI,徳島県,0,,-
-copula,麗 ～うらら～,226,MOCHI3,徳島県,920,BANCHA,徳島県,1649,SHU1,徳島県,2585,NIGIRI,徳島県,0,,-
-copula,駅猫のワルツ,0,,-,710,ALICE,徳島県,2035,CROSS,徳島県,2638,NIGIRI,徳島県,0,,-
-copula,量子の海のリントヴルム,0,,-,900,SHU1,徳島県,1594,EDF,徳島県,2905,NIGIRI,徳島県,0,,-
-copula,追想快晴テーマパーク,0,,-,0,,-,1951,MOC...,徳島県,2748,SHU1,徳島県,0,,-
-copula,紫陽花 -AZISAI-,362,A.K.K!,徳島県,1260,SHU1,徳島県,1860,COLPS,徳島県,2821,NIGIRI,徳島県,0,,-
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1371,SHU1,徳島県,2048,MOC...,徳島県,3055,NIGIRI,徳島県,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1239,SHU1,徳島県,2038,ITALY3,徳島県,3078,NIGIRI,徳島県,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,747,ALICE,徳島県,1619,DG192,徳島県,2437,NIGIRI,徳島県,0,,-
-copula,星屑ディスタンシア,0,,-,606,LEUCIS,徳島県,1187,SHU1,徳島県,2100,L#...Y,徳島県,0,,-
-copula,明鏡止水,0,,-,743,LEUCIS,徳島県,1772,SHU1,徳島県,2701,NIGIRI,徳島県,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,708,LEUCIS,徳島県,1473,SHU1,徳島県,2131,NIGIRI,徳島県,0,,-
-copula,セロトニン,0,,-,665,FLAG2A,徳島県,1390,917YCH,徳島県,2228,TATZTO,徳島県,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,990,BLD,徳島県,1741,SHU1,徳島県,2347,TATZTO,徳島県,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,757,LEUCIS,徳島県,1449,NIGIRI,徳島県,2300,TATZTO,徳島県,0,,-
-copula,オルタネイトβ,0,,-,789,917YCH,徳島県,1375,SHU1,徳島県,2240,NIGIRI,徳島県,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1454,SHU1,徳島県,2188,LKAR,徳島県,3247,NIGIRI,徳島県,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,808,ALICE,徳島県,1597,ORE,徳島県,2685,TATZTO,徳島県,0,,-
-copula,ZEPHYRANTHES,0,,-,799,TIKUWA,徳島県,1564,F*REAF,徳島県,2841,TATZTO,徳島県,3508,AROMA,徳島県
-copula,X,0,,-,1571,SHU1,徳島県,2340,SHU1,徳島県,3768,NIGIRI,徳島県,0,,-
-copula,Welcome,0,,-,838,SOL!D,徳島県,1691,DG192,徳島県,2474,TATZTO,徳島県,3090,TATZTO,徳島県
-copula,Violet Rose,0,,-,1234,SHU1,徳島県,1564,QUE,徳島県,2535,NIGIRI,徳島県,0,,-
-copula,Violet Pulse,0,,-,395,LEUCIS,徳島県,1634,SHU1,徳島県,2370,NIGIRI,徳島県,0,,-
-copula,Uh-Oh,0,,-,1044,LEUCIS,徳島県,1667,SHU1,徳島県,2375,NIGIRI,徳島県,0,,-
-copula,Triple Counter,0,,-,1362,SHU1,徳島県,2066,NE.,徳島県,3803,NIGIRI,徳島県,0,,-
-copula,Tori-no-kimochi,0,,-,250,SHU1,徳島県,1297,NIGIRI,徳島県,1914,CROSS,徳島県,0,,-
-copula,SURVIVOR,0,,-,635,LEUCIS,徳島県,1259,SHU1,徳島県,1985,NIGIRI,徳島県,0,,-
-copula,Super Duper Racers,0,,-,879,917YCH,徳島県,1540,SHU1,徳島県,2195,6,徳島県,0,,-
-copula,StrayedCatz,0,,-,654,MISTY*,徳島県,1727,RINNEY,徳島県,2656,NIGIRI,徳島県,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,933,AKMIQN,徳島県,1691,SOL!D,徳島県,2604,NIGIRI,徳島県,3213,KOUIKA,徳島県
-copula,STARLiGHT,0,,-,0,,-,1539,OLNON,徳島県,2591,TATZTO,徳島県,0,,-
-copula,SHELTER OF THE MIND,0,,-,1409,SHU1,徳島県,1900,SHU1,徳島県,3028,NIGIRI,徳島県,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,820,LEUCIS,徳島県,1507,SHU1,徳島県,2283,6,徳島県,0,,-
-copula,Sephirot,0,,-,856,LEUCIS,徳島県,1587,SHU1,徳島県,2272,KOUIKA,徳島県,0,,-
-copula,SEITEN NO TERIYAKI,0,,-,624,LEUCIS,徳島県,1239,SHU1,徳島県,2181,KOUIKA,徳島県,0,,-
-copula,Routing,0,,-,804,LEUCIS,徳島県,1539,AREST,徳島県,2452,NIGIRI,徳島県,0,,-
-copula,Rock It,0,,-,854,LEUCIS,徳島県,1646,12EX57,徳島県,2812,KOUIKA,徳島県,0,,-
-copula,refrain,0,,-,1186,SHU1,徳島県,2136,LKAR,徳島県,3535,NIGIRI,徳島県,0,,-
-copula,quick master (reform version),0,,-,137,LEUCIS,徳島県,316,LEUCIS,徳島県,520,ITALY3,徳島県,0,,-
-copula,POSSESSION,381,POSSEE,徳島県,1367,SOL!D,徳島県,2027,LKAR,徳島県,2884,NIGIRI,徳島県,0,,-
-copula,Outbreak,0,,-,1087,BANCHA,徳島県,1668,SOL!D,徳島県,2944,NIGIRI,徳島県,0,,-
-copula,On the FM,0,,-,901,TIKUWA,徳島県,1562,SHU1,徳島県,2722,NIGIRI,徳島県,0,,-
-copula,NZM,0,,-,1050,SHU1,徳島県,1561,12EX57,徳島県,3285,NIGIRI,徳島県,0,,-
-copula,Nowhere,0,,-,760,LEUCIS,徳島県,1437,SHU1,徳島県,2030,6,徳島県,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,766,LEUCIS,徳島県,1170,SOL!D,徳島県,2190,NIGIRI,徳島県,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,0,,-,1789,LKAR,徳島県,2918,NIGIRI,徳島県,0,,-
-copula,Nightmare before oversleep,0,,-,1154,SHU1,徳島県,1736,12EX57,徳島県,2891,NIGIRI,徳島県,0,,-
-copula,NANAIRO,0,,-,919,LEUCIS,徳島県,1547,OLNON,徳島県,2291,RANRAN,徳島県,0,,-
-copula,Musik LoverZ,0,,-,939,LEUCIS,徳島県,1340,SHU1,徳島県,2463,KOUIKA,徳島県,0,,-
-copula,M4K3 1T B0UNC3,0,,-,1334,SHU1,徳島県,2015,12EX57,徳島県,2892,KOUIKA,徳島県,0,,-
-copula,La dolce primavera,0,,-,636,LEUCIS,徳島県,1324,LKAR,徳島県,2139,NIGIRI,徳島県,0,,-
-copula,Konzert V,0,,-,1244,SHU1,徳島県,2185,12EX57,徳島県,3186,NIGIRI,徳島県,0,,-
-copula,Journey,0,,-,606,LEUCIS,徳島県,791,SHIMA,徳島県,1869,NIGIRI,徳島県,2957,AROMA,徳島県
-copula,Inner Spirit,0,,-,773,LEUCIS,徳島県,1564,917YCH,徳島県,2745,AROMA,徳島県,0,,-
-copula,Highcharge Divolt,0,,-,808,LEUCIS,徳島県,1678,CROSS,徳島県,2727,NIGIRI,徳島県,0,,-
-copula,Grand Chariot,0,,-,1101,SHU1,徳島県,1746,RINNEY,徳島県,3321,NIGIRI,徳島県,0,,-
-copula,Godspeed,0,,-,1041,SHU1,徳島県,1842,12EX57,徳島県,3035,NIGIRI,徳島県,0,,-
-copula,GOBBLE,0,,-,445,LEUCIS,徳島県,688,SHU1,徳島県,1505,SHU1,徳島県,0,,-
-copula,Go Faraway,0,,-,990,MOC...,徳島県,1465,SHU1,徳島県,2322,GOQURI,徳島県,0,,-
-copula,Glitch Nerds,0,,-,923,LEUCIS,徳島県,1373,SHU1,徳島県,2073,6,徳島県,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,1010,LEUCIS,徳島県,1691,SHU1,徳島県,2330,NIGIRI,徳島県,0,,-
-copula,Exchange Place,0,,-,702,LEUCIS,徳島県,1243,SHU1,徳島県,1714,SHU1,徳島県,0,,-
-copula,Everlasting Last,0,,-,775,LEUCIS,徳島県,1591,SHU1,徳島県,2204,L#...Y,徳島県,0,,-
-copula,Dynamite,479,AKMIQN,徳島県,1145,SOL!D,徳島県,2287,LKAR,徳島県,3680,NIGIRI,徳島県,0,,-
-copula,Donkey Donk,0,,-,1168,SHU1,徳島県,1565,FIN,徳島県,2253,NIGIRI,徳島県,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,613,SHU1,徳島県,1419,SHU1,徳島県,2294,L#...Y,徳島県,0,,-
-copula,DIAMOND CROSSING,0,,-,977,SHU1,徳島県,1689,12EX57,徳島県,2996,NIGIRI,徳島県,0,,-
-copula,Devil's Gear,0,,-,881,TIKUWA,徳島県,2073,6,徳島県,3344,NIGIRI,徳島県,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,1362,SHU1,徳島県,1698,ORE,徳島県,2471,GOQURI,徳島県,0,,-
-copula,Damage Per Second,0,,-,787,LEUCIS,徳島県,1385,SHU1,徳島県,2021,NIGIRI,徳島県,2231,L#...Y,徳島県
-copula,Daily Lunch Special,0,,-,928,LNK-L,徳島県,1961,LEON,徳島県,2901,NIGIRI,徳島県,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,880,LEUCIS,徳島県,1665,12EX57,徳島県,2870,NIGIRI,徳島県,0,,-
-copula,chaos eater -IIDX edition-,0,,-,1048,LEUCIS,徳島県,1551,917YCH,徳島県,2523,NIGIRI,徳島県,0,,-
-copula,Central Station,0,,-,910,LEUCIS,徳島県,1518,LKAR,徳島県,2376,L#...Y,徳島県,0,,-
-copula,Blue Spring Express,0,,-,1227,SHU1,徳島県,2024,AROMA,徳島県,3077,L#...Y,徳島県,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,652,DGT4U,徳島県,2545,L#...Y,徳島県,3047,TATZTO,徳島県,0,,-
-copula,Aublia,0,,-,668,LEUCIS,徳島県,1457,SHU1,徳島県,2483,L#...Y,徳島県,0,,-
-copula,Arcana,0,,-,502,NAYU,徳島県,1681,SHU1,徳島県,2247,NIGIRI,徳島県,0,,-
-copula,AO-1,0,,-,1222,SHU1,徳島県,1820,EDF,徳島県,2711,NIGIRI,徳島県,0,,-
-copula,Angelic Jelly,0,,-,947,DJDJDJ,徳島県,1938,SHU1,徳島県,2618,TATZTO,徳島県,0,,-
-copula,Acid Pumper,0,,-,608,LEUCIS,徳島県,1566,AROMA,徳島県,2405,L#...Y,徳島県,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,651,SHU1,徳島県,1543,12EX57,徳島県,2231,KOUIKA,徳島県,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,695,NAGARE,徳島県,1719,EDF,徳島県,2666,TATZTO,徳島県,0,,-
 PENDUAL,鬼天,0,,-,645,ALICE,徳島県,1546,6,徳島県,2357,TATZTO,徳島県,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,791,15102,徳島県,1846,GRETEL,徳島県,2668,NIGIRI,徳島県,3761,ITALY3,徳島県
@@ -950,6 +869,173 @@ PENDUAL,Beyond The Earth,0,,-,1132,LEUCIS,徳島県,1946,LKAR,徳島県,3120,NIG
 PENDUAL,Beat Radiance,0,,-,902,LEUCIS,徳島県,1579,SHU1,徳島県,2583,KOUIKA,徳島県,3550,NIGIRI,徳島県
 PENDUAL,AFRO KNUCKLE,0,,-,858,LEUCIS,徳島県,1703,SHU1,徳島県,2385,NIGIRI,徳島県,0,,-
 PENDUAL,#The_Relentless,0,,-,823,KOHE,徳島県,1682,917YCH,徳島県,2838,KOUIKA,徳島県,0,,-
+copula,麗 ～うらら～,226,MOCHI3,徳島県,920,BANCHA,徳島県,1649,SHU1,徳島県,2585,NIGIRI,徳島県,0,,-
+copula,駅猫のワルツ,0,,-,710,ALICE,徳島県,2035,CROSS,徳島県,2638,NIGIRI,徳島県,0,,-
+copula,量子の海のリントヴルム,0,,-,900,SHU1,徳島県,1594,EDF,徳島県,2905,NIGIRI,徳島県,0,,-
+copula,追想快晴テーマパーク,0,,-,0,,-,1951,MOC...,徳島県,2748,SHU1,徳島県,0,,-
+copula,紫陽花 -AZISAI-,362,A.K.K!,徳島県,1260,SHU1,徳島県,1860,COLPS,徳島県,2821,NIGIRI,徳島県,0,,-
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1371,SHU1,徳島県,2048,MOC...,徳島県,3055,NIGIRI,徳島県,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1239,SHU1,徳島県,2038,ITALY3,徳島県,3078,NIGIRI,徳島県,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,747,ALICE,徳島県,1619,DG192,徳島県,2437,NIGIRI,徳島県,0,,-
+copula,星屑ディスタンシア,0,,-,606,LEUCIS,徳島県,1187,SHU1,徳島県,2100,L#...Y,徳島県,0,,-
+copula,明鏡止水,0,,-,743,LEUCIS,徳島県,1772,SHU1,徳島県,2701,NIGIRI,徳島県,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,708,LEUCIS,徳島県,1473,SHU1,徳島県,2131,NIGIRI,徳島県,0,,-
+copula,セロトニン,0,,-,665,FLAG2A,徳島県,1390,917YCH,徳島県,2228,TATZTO,徳島県,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,990,BLD,徳島県,1741,SHU1,徳島県,2347,TATZTO,徳島県,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,757,LEUCIS,徳島県,1449,NIGIRI,徳島県,2300,TATZTO,徳島県,0,,-
+copula,オルタネイトβ,0,,-,789,917YCH,徳島県,1375,SHU1,徳島県,2240,NIGIRI,徳島県,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1454,SHU1,徳島県,2188,LKAR,徳島県,3247,NIGIRI,徳島県,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,808,ALICE,徳島県,1597,ORE,徳島県,2685,TATZTO,徳島県,0,,-
+copula,ZEPHYRANTHES,0,,-,799,TIKUWA,徳島県,1564,F*REAF,徳島県,2841,TATZTO,徳島県,3508,AROMA,徳島県
+copula,X,0,,-,1571,SHU1,徳島県,2340,SHU1,徳島県,3768,NIGIRI,徳島県,0,,-
+copula,Welcome,0,,-,838,SOL!D,徳島県,1691,DG192,徳島県,2474,TATZTO,徳島県,3090,TATZTO,徳島県
+copula,Violet Rose,0,,-,1234,SHU1,徳島県,1564,QUE,徳島県,2535,NIGIRI,徳島県,0,,-
+copula,Violet Pulse,0,,-,395,LEUCIS,徳島県,1634,SHU1,徳島県,2370,NIGIRI,徳島県,0,,-
+copula,Uh-Oh,0,,-,1044,LEUCIS,徳島県,1667,SHU1,徳島県,2375,NIGIRI,徳島県,0,,-
+copula,Triple Counter,0,,-,1362,SHU1,徳島県,2066,NE.,徳島県,3803,NIGIRI,徳島県,0,,-
+copula,Tori-no-kimochi,0,,-,250,SHU1,徳島県,1297,NIGIRI,徳島県,1914,CROSS,徳島県,0,,-
+copula,SURVIVOR,0,,-,635,LEUCIS,徳島県,1259,SHU1,徳島県,1985,NIGIRI,徳島県,0,,-
+copula,Super Duper Racers,0,,-,879,917YCH,徳島県,1540,SHU1,徳島県,2195,6,徳島県,0,,-
+copula,StrayedCatz,0,,-,654,MISTY*,徳島県,1727,RINNEY,徳島県,2656,NIGIRI,徳島県,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,933,AKMIQN,徳島県,1691,SOL!D,徳島県,2604,NIGIRI,徳島県,3213,KOUIKA,徳島県
+copula,STARLiGHT,0,,-,0,,-,1539,OLNON,徳島県,2591,TATZTO,徳島県,0,,-
+copula,SHELTER OF THE MIND,0,,-,1409,SHU1,徳島県,1900,SHU1,徳島県,3028,NIGIRI,徳島県,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,820,LEUCIS,徳島県,1507,SHU1,徳島県,2283,6,徳島県,0,,-
+copula,Sephirot,0,,-,856,LEUCIS,徳島県,1587,SHU1,徳島県,2272,KOUIKA,徳島県,0,,-
+copula,SEITEN NO TERIYAKI,0,,-,624,LEUCIS,徳島県,1239,SHU1,徳島県,2181,KOUIKA,徳島県,0,,-
+copula,Routing,0,,-,804,LEUCIS,徳島県,1539,AREST,徳島県,2452,NIGIRI,徳島県,0,,-
+copula,Rock It,0,,-,854,LEUCIS,徳島県,1646,12EX57,徳島県,2812,KOUIKA,徳島県,0,,-
+copula,refrain,0,,-,1186,SHU1,徳島県,2136,LKAR,徳島県,3535,NIGIRI,徳島県,0,,-
+copula,quick master (reform version),0,,-,137,LEUCIS,徳島県,316,LEUCIS,徳島県,520,ITALY3,徳島県,0,,-
+copula,POSSESSION,381,POSSEE,徳島県,1367,SOL!D,徳島県,2027,LKAR,徳島県,2884,NIGIRI,徳島県,0,,-
+copula,Outbreak,0,,-,1087,BANCHA,徳島県,1668,SOL!D,徳島県,2944,NIGIRI,徳島県,0,,-
+copula,On the FM,0,,-,901,TIKUWA,徳島県,1562,SHU1,徳島県,2722,NIGIRI,徳島県,0,,-
+copula,NZM,0,,-,1050,SHU1,徳島県,1561,12EX57,徳島県,3285,NIGIRI,徳島県,0,,-
+copula,Nowhere,0,,-,760,LEUCIS,徳島県,1437,SHU1,徳島県,2030,6,徳島県,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,766,LEUCIS,徳島県,1170,SOL!D,徳島県,2190,NIGIRI,徳島県,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,0,,-,1789,LKAR,徳島県,2918,NIGIRI,徳島県,0,,-
+copula,Nightmare before oversleep,0,,-,1154,SHU1,徳島県,1736,12EX57,徳島県,2891,NIGIRI,徳島県,0,,-
+copula,NANAIRO,0,,-,919,LEUCIS,徳島県,1547,OLNON,徳島県,2291,RANRAN,徳島県,0,,-
+copula,Musik LoverZ,0,,-,939,LEUCIS,徳島県,1340,SHU1,徳島県,2463,KOUIKA,徳島県,0,,-
+copula,M4K3 1T B0UNC3,0,,-,1334,SHU1,徳島県,2015,12EX57,徳島県,2892,KOUIKA,徳島県,0,,-
+copula,La dolce primavera,0,,-,636,LEUCIS,徳島県,1324,LKAR,徳島県,2139,NIGIRI,徳島県,0,,-
+copula,Konzert V,0,,-,1244,SHU1,徳島県,2185,12EX57,徳島県,3186,NIGIRI,徳島県,0,,-
+copula,Journey,0,,-,606,LEUCIS,徳島県,791,SHIMA,徳島県,1869,NIGIRI,徳島県,2957,AROMA,徳島県
+copula,Inner Spirit,0,,-,773,LEUCIS,徳島県,1564,917YCH,徳島県,2745,AROMA,徳島県,0,,-
+copula,Highcharge Divolt,0,,-,808,LEUCIS,徳島県,1678,CROSS,徳島県,2727,NIGIRI,徳島県,0,,-
+copula,Grand Chariot,0,,-,1101,SHU1,徳島県,1746,RINNEY,徳島県,3321,NIGIRI,徳島県,0,,-
+copula,Godspeed,0,,-,1041,SHU1,徳島県,1842,12EX57,徳島県,3035,NIGIRI,徳島県,0,,-
+copula,GOBBLE,0,,-,445,LEUCIS,徳島県,688,SHU1,徳島県,1505,SHU1,徳島県,0,,-
+copula,Go Faraway,0,,-,990,MOC...,徳島県,1465,SHU1,徳島県,2322,GOQURI,徳島県,0,,-
+copula,Glitch Nerds,0,,-,923,LEUCIS,徳島県,1373,SHU1,徳島県,2073,6,徳島県,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,1010,LEUCIS,徳島県,1691,SHU1,徳島県,2330,NIGIRI,徳島県,0,,-
+copula,Exchange Place,0,,-,702,LEUCIS,徳島県,1243,SHU1,徳島県,1714,SHU1,徳島県,0,,-
+copula,Everlasting Last,0,,-,775,LEUCIS,徳島県,1591,SHU1,徳島県,2204,L#...Y,徳島県,0,,-
+copula,Dynamite,479,AKMIQN,徳島県,1145,SOL!D,徳島県,2287,LKAR,徳島県,3680,NIGIRI,徳島県,0,,-
+copula,Donkey Donk,0,,-,1168,SHU1,徳島県,1565,FIN,徳島県,2253,NIGIRI,徳島県,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,613,SHU1,徳島県,1419,SHU1,徳島県,2294,L#...Y,徳島県,0,,-
+copula,DIAMOND CROSSING,0,,-,977,SHU1,徳島県,1689,12EX57,徳島県,2996,NIGIRI,徳島県,0,,-
+copula,Devil's Gear,0,,-,881,TIKUWA,徳島県,2073,6,徳島県,3344,NIGIRI,徳島県,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,1362,SHU1,徳島県,1698,ORE,徳島県,2471,GOQURI,徳島県,0,,-
+copula,Damage Per Second,0,,-,787,LEUCIS,徳島県,1385,SHU1,徳島県,2021,NIGIRI,徳島県,2231,L#...Y,徳島県
+copula,Daily Lunch Special,0,,-,928,LNK-L,徳島県,1961,LEON,徳島県,2901,NIGIRI,徳島県,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,880,LEUCIS,徳島県,1665,12EX57,徳島県,2870,NIGIRI,徳島県,0,,-
+copula,chaos eater -IIDX edition-,0,,-,1048,LEUCIS,徳島県,1551,917YCH,徳島県,2523,NIGIRI,徳島県,0,,-
+copula,Central Station,0,,-,910,LEUCIS,徳島県,1518,LKAR,徳島県,2376,L#...Y,徳島県,0,,-
+copula,Blue Spring Express,0,,-,1227,SHU1,徳島県,2024,AROMA,徳島県,3077,L#...Y,徳島県,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,652,DGT4U,徳島県,2545,L#...Y,徳島県,3047,TATZTO,徳島県,0,,-
+copula,Aublia,0,,-,668,LEUCIS,徳島県,1457,SHU1,徳島県,2483,L#...Y,徳島県,0,,-
+copula,Arcana,0,,-,502,NAYU,徳島県,1681,SHU1,徳島県,2247,NIGIRI,徳島県,0,,-
+copula,AO-1,0,,-,1222,SHU1,徳島県,1820,EDF,徳島県,2711,NIGIRI,徳島県,0,,-
+copula,Angelic Jelly,0,,-,947,DJDJDJ,徳島県,1938,SHU1,徳島県,2618,TATZTO,徳島県,0,,-
+copula,Acid Pumper,0,,-,608,LEUCIS,徳島県,1566,AROMA,徳島県,2405,L#...Y,徳島県,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,651,SHU1,徳島県,1543,12EX57,徳島県,2231,KOUIKA,徳島県,0,,-
+CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,649,LEUCIS,徳島県,1198,SHU1,徳島県,2218,KOUIKA,徳島県,0,,-
+CANNON BALLERS,純真可憐デザイア,245,SHU1,徳島県,801,SHU1,徳島県,1517,LKAR,徳島県,2319,NIGIRI,徳島県,0,,-
+CANNON BALLERS,神謳 -RESONANCE-,0,,-,1373,SHU1,徳島県,2236,RANRAN,徳島県,3873,NIGIRI,徳島県,0,,-
+CANNON BALLERS,東京神話,426,LEUCIS,徳島県,941,LEUCIS,徳島県,1738,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
+CANNON BALLERS,命の標本,0,,-,662,LEUCIS,徳島県,1622,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
+CANNON BALLERS,共犯へヴンズコード,0,,-,411,LEUCIS,徳島県,1368,CROSS,徳島県,2181,CROSS,徳島県,0,,-
+CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,736,TIKUWA,徳島県,1541,SHU1,徳島県,2135,KOUIKA,徳島県,0,,-
+CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,943,LEUCIS,徳島県,1861,SHU1,徳島県,2598,ITALY3,徳島県,0,,-
+CANNON BALLERS,バスルーム ロマンス,0,,-,552,FLAG2A,徳島県,1414,SHU1,徳島県,2393,L#...Y,徳島県,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,667,AKMIQN,徳島県,1499,T.TOMO,徳島県,2378,TATZTO,徳島県,0,,-
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,845,SHU1,徳島県,1506,SHU1,徳島県,2335,TATZTO,徳島県,0,,-
+CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,817,AKMIQN,徳島県,1480,SHU1,徳島県,2080,NIGIRI,徳島県,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1396,SHU1,徳島県,2171,12EX57,徳島県,3302,NIGIRI,徳島県,0,,-
+CANNON BALLERS,エディブルフラワーの独白,0,,-,807,SHU1,徳島県,1521,SHU1,徳島県,2171,NIGIRI,徳島県,0,,-
+CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,684,KOHE,徳島県,1507,SHU1,徳島県,2503,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Xperanza,506,IIDX29,徳島県,1343,SHU1,徳島県,2301,MOC...,徳島県,3081,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Usual Days-remix,0,,-,1066,SHU1,徳島県,1442,SHU1,徳島県,2486,TATZTO,徳島県,0,,-
+CANNON BALLERS,UMMU,396,LEUCIS,徳島県,952,MYPEN,徳島県,1866,MOC...,徳島県,3003,NIGIRI,徳島県,0,,-
+CANNON BALLERS,The Revolution (VIP Mix),0,,-,722,LEUCIS,徳島県,1492,SHU1,徳島県,1828,NIGIRI,徳島県,0,,-
+CANNON BALLERS,The Chase,0,,-,683,SHU1,徳島県,1268,12EX57,徳島県,2031,AROMA,徳島県,0,,-
+CANNON BALLERS,THE CANNONBALLER,416,LEUCIS,徳島県,1206,*CONFI,徳島県,2199,DG192,徳島県,3352,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Temple of Anubis,0,,-,914,LEUCIS,徳島県,1477,SHU1,徳島県,2559,TATZTO,徳島県,0,,-
+CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1169,EDF,徳島県,1544,EDF,徳島県,2449,6,徳島県,0,,-
+CANNON BALLERS,Static State,0,,-,863,BLD,徳島県,1656,LKAR,徳島県,2145,12EX57,徳島県,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,667,DJDJDJ,徳島県,1515,SHU1,徳島県,2266,NIGIRI,徳島県,0,,-
+CANNON BALLERS,SPEED DEMON,0,,-,668,LEUCIS,徳島県,1416,SHU1,徳島県,2261,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Slipstream,0,,-,840,SUGURI,徳島県,1954,SHU1,徳島県,3282,AROMA,徳島県,0,,-
+CANNON BALLERS,Sleepless days,0,,-,480,SOL!D,徳島県,864,SOL!D,徳島県,1570,NIGIRI,徳島県,0,,-
+CANNON BALLERS,REVOLVER,0,,-,821,LEUCIS,徳島県,1567,SHU1,徳島県,2587,NIGIRI,徳島県,3110,NIGIRI,徳島県
+CANNON BALLERS,Raspberry Railgun,0,,-,1185,F*REAF,徳島県,2176,LKAR,徳島県,3105,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Rampage,0,,-,1215,LEUCIS,徳島県,2345,MOC...,徳島県,3561,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Persephone,0,,-,1178,F*REAF,徳島県,1722,MARU,徳島県,2906,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,1146,SHU1,徳島県,1971,12EX57,徳島県,2780,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Only for now,0,,-,872,917YCH,徳島県,1529,SHU1,徳島県,2236,NIGIRI,徳島県,0,,-
+CANNON BALLERS,O/D*20,0,,-,983,BLD,徳島県,1630,SHU1,徳島県,2068,L#...Y,徳島県,0,,-
+CANNON BALLERS,Nothing but Theory,0,,-,981,LEUCIS,徳島県,1521,SHU1,徳島県,2789,NIGIRI,徳島県,0,,-
+CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,896,LEUCIS,徳島県,1504,SHU1,徳島県,2316,L#...Y,徳島県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1330,SHU1,徳島県,1790,LEON,徳島県,3311,GOQURI,徳島県,0,,-
+CANNON BALLERS,n'pa pa BBQ,0,,-,847,LEUCIS,徳島県,1704,SHU1,徳島県,2727,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Midnight Lady,0,,-,596,LEUCIS,徳島県,1016,LEUCIS,徳島県,1935,NIGIRI,徳島県,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,714,LEUCIS,徳島県,1341,EDF,徳島県,2273,AROMA,徳島県,0,,-
+CANNON BALLERS,LUV DRIVE,0,,-,765,LEUCIS,徳島県,1285,SHU1,徳島県,1979,DG192,徳島県,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1113,F*REAF,徳島県,1832,LKAR,徳島県,3220,L#...Y,徳島県,0,,-
+CANNON BALLERS,Initiation,586,LEUCIS,徳島県,1452,SHU1,徳島県,2318,FELMA,徳島県,3790,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1252,SHU1,徳島県,2069,SHU1,徳島県,3359,NIGIRI,徳島県,0,,-
+CANNON BALLERS,I Love You,0,,-,1041,SHU1,徳島県,1330,LEUCIS,徳島県,2690,L#...Y,徳島県,0,,-
+CANNON BALLERS,HYPE THE CORE,0,,-,953,LEUCIS,徳島県,1747,IIDX29,徳島県,2842,TATZTO,徳島県,0,,-
+CANNON BALLERS,Hella Deep,0,,-,582,LEUCIS,徳島県,1016,SHU1,徳島県,1750,NIGIRI,徳島県,0,,-
+CANNON BALLERS,HAT TRICK,0,,-,824,SHU1,徳島県,1391,SHU1,徳島県,2167,L#...Y,徳島県,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,506,LEUCIS,徳島県,1174,SHU1,徳島県,1868,NIGIRI,徳島県,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,805,LEUCIS,徳島県,1416,SHU1,徳島県,2152,NIGIRI,徳島県,0,,-
+CANNON BALLERS,From Time To Time,0,,-,738,LEUCIS,徳島県,1730,EDF,徳島県,2473,NIGIRI,徳島県,0,,-
+CANNON BALLERS,FREEDOM,0,,-,876,LEUCIS,徳島県,1679,SHU1,徳島県,2858,L#...Y,徳島県,0,,-
+CANNON BALLERS,Fervidex,0,,-,821,LEUCIS,徳島県,1589,AKMIQN,徳島県,2681,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Expanded !!,0,,-,633,LEUCIS,徳島県,1497,SHU1,徳島県,2541,CROSS,徳島県,0,,-
+CANNON BALLERS,Exhaust Hype,0,,-,940,LEUCIS,徳島県,1800,AREST,徳島県,2556,6,徳島県,0,,-
+CANNON BALLERS,encounter,0,,-,763,DJDJDJ,徳島県,1680,EDF,徳島県,3175,NIGIRI,徳島県,0,,-
+CANNON BALLERS,EMERALDAS,345,POSSEE,徳島県,1312,SHU1,徳島県,2187,CAMI,徳島県,3309,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,863,LEUCIS,徳島県,1376,SHU1,徳島県,2480,L#...Y,徳島県,0,,-
+CANNON BALLERS,DropZ-Line-,0,,-,1302,SHU1,徳島県,1900,LKAR,徳島県,2987,NIGIRI,徳島県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1352,SHU1,徳島県,2289,12EX57,徳島県,3865,NIGIRI,徳島県,0,,-
+CANNON BALLERS,DEADHEAT,0,,-,1015,LNK-L,徳島県,1972,TATZTO,徳島県,3051,TATZTO,徳島県,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,614,AKMIQN,徳島県,1385,SHU1,徳島県,2071,NIGIRI,徳島県,0,,-
+CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1292,SHU1,徳島県,1728,LKAR,徳島県,2571,AROMA,徳島県,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,760,LEUCIS,徳島県,1410,SHU1,徳島県,2105,NIGIRI,徳島県,0,,-
+CANNON BALLERS,ChaserXX,0,,-,902,LEUCIS,徳島県,1868,CROSS,徳島県,2726,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,1304,SHU1,徳島県,1781,EDF,徳島県,2372,GOQURI,徳島県,0,,-
+CANNON BALLERS,Boomy and The Boost,398,LKAR,徳島県,884,AKMIQN,徳島県,1972,12EX57,徳島県,3478,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Best of Me,0,,-,745,LEUCIS,徳島県,1533,SHU1,徳島県,2054,6,徳島県,0,,-
+CANNON BALLERS,Beast mode,0,,-,852,15102,徳島県,1350,TAKA*,徳島県,2580,CROSS,徳島県,0,,-
+CANNON BALLERS,Be a Hero!,0,,-,643,ALICE,徳島県,1856,EDF,徳島県,2919,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Battleground,0,,-,945,BLD,徳島県,1729,AREST,徳島県,2551,TATZTO,徳島県,0,,-
+CANNON BALLERS,Back Spin Sweeper,0,,-,777,SOL!D,徳島県,1016,LKOP,徳島県,2183,AROMA,徳島県,0,,-
+CANNON BALLERS,Around the Future,0,,-,680,KOHE,徳島県,1434,F*REAF,徳島県,2520,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Arca,0,,-,875,LEUCIS,徳島県,1584,OLNON,徳島県,3055,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Antigravity,0,,-,574,ALICE,徳島県,1831,12EX57,徳島県,2882,NIGIRI,徳島県,0,,-
+CANNON BALLERS,ANCHOR,0,,-,1316,SHU1,徳島県,2461,AROMA,徳島県,3443,NIGIRI,徳島県,0,,-
+CANNON BALLERS,ANAGMA,0,,-,939,LEUCIS,徳島県,1741,SHU1,徳島県,2386,5039EX,徳島県,0,,-
+CANNON BALLERS,Amor De Verao,0,,-,731,917YCH,徳島県,1342,SHU1,徳島県,2276,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Alpheratz,0,,-,402,LEUCIS,徳島県,915,LEUCIS,徳島県,2064,KOUIKA,徳島県,0,,-
+CANNON BALLERS,ACCELERATE,0,,-,915,TIKUWA,徳島県,1682,SHU1,徳島県,2474,NIGIRI,徳島県,0,,-
+CANNON BALLERS,Abraxas,0,,-,727,LEUCIS,徳島県,1615,SHU1,徳島県,2303,AROMA,徳島県,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1050,F*REAF,徳島県,2265,SHU1,徳島県,3498,NIGIRI,徳島県,0,,-
+CANNON BALLERS,255,0,,-,610,KOHE,徳島県,1469,TAKE,徳島県,3103,NIGIRI,徳島県,0,,-
+CANNON BALLERS,2 Player,0,,-,485,NAGARE,徳島県,1476,LKAR,徳島県,2293,CAMI,徳島県,0,,-
+CANNON BALLERS,1001 -ESCAPE-,0,,-,942,LEUCIS,徳島県,1649,SHU1,徳島県,2594,L#...Y,徳島県,0,,-
 SINOBUZ,鴉,0,,-,1468,SHU1,徳島県,2167,MOC...,徳島県,2675,NIGIRI,徳島県,0,,-
 SINOBUZ,童話回廊,0,,-,798,LEUCIS,徳島県,1637,12EX57,徳島県,2941,ITALY3,徳島県,0,,-
 SINOBUZ,禍根,0,,-,560,MOCHI3,徳島県,1119,LKOP,徳島県,2376,AROMA,徳島県,0,,-
@@ -1039,92 +1125,107 @@ SINOBUZ,Amazing Mirage,361,SHU1,徳島県,812,LEUCIS,徳島県,1630,SHU1,徳島�
 SINOBUZ,(This Is Not) The Angels,0,,-,553,LEUCIS,徳島県,1320,SHU1,徳島県,2628,KOUIKA,徳島県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,671,CHANHA,徳島県,1967,NIGIRI,徳島県,3299,NIGIRI,徳島県,0,,-
 SINOBUZ,!Viva!,0,,-,711,SHIMA,徳島県,1554,SHU1,徳島県,1968,NIGIRI,徳島県,0,,-
-CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,649,LEUCIS,徳島県,1198,SHU1,徳島県,2218,KOUIKA,徳島県,0,,-
-CANNON BALLERS,純真可憐デザイア,245,SHU1,徳島県,801,SHU1,徳島県,1517,LKAR,徳島県,2319,NIGIRI,徳島県,0,,-
-CANNON BALLERS,神謳 -RESONANCE-,0,,-,1373,SHU1,徳島県,2236,RANRAN,徳島県,3873,NIGIRI,徳島県,0,,-
-CANNON BALLERS,東京神話,426,LEUCIS,徳島県,941,LEUCIS,徳島県,1738,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
-CANNON BALLERS,命の標本,0,,-,662,LEUCIS,徳島県,1622,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
-CANNON BALLERS,共犯へヴンズコード,0,,-,411,LEUCIS,徳島県,1368,CROSS,徳島県,2181,CROSS,徳島県,0,,-
-CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,736,TIKUWA,徳島県,1541,SHU1,徳島県,2135,KOUIKA,徳島県,0,,-
-CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,943,LEUCIS,徳島県,1861,SHU1,徳島県,2598,ITALY3,徳島県,0,,-
-CANNON BALLERS,バスルーム ロマンス,0,,-,552,FLAG2A,徳島県,1414,SHU1,徳島県,2393,L#...Y,徳島県,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,667,AKMIQN,徳島県,1499,T.TOMO,徳島県,2378,TATZTO,徳島県,0,,-
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,845,SHU1,徳島県,1506,SHU1,徳島県,2335,TATZTO,徳島県,0,,-
-CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,817,AKMIQN,徳島県,1480,SHU1,徳島県,2080,NIGIRI,徳島県,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1396,SHU1,徳島県,2171,12EX57,徳島県,3302,NIGIRI,徳島県,0,,-
-CANNON BALLERS,エディブルフラワーの独白,0,,-,807,SHU1,徳島県,1521,SHU1,徳島県,2171,NIGIRI,徳島県,0,,-
-CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,684,KOHE,徳島県,1507,SHU1,徳島県,2503,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Xperanza,506,IIDX29,徳島県,1343,SHU1,徳島県,2301,MOC...,徳島県,3081,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Usual Days-remix,0,,-,1066,SHU1,徳島県,1442,SHU1,徳島県,2486,TATZTO,徳島県,0,,-
-CANNON BALLERS,UMMU,396,LEUCIS,徳島県,952,MYPEN,徳島県,1866,MOC...,徳島県,3003,NIGIRI,徳島県,0,,-
-CANNON BALLERS,The Revolution (VIP Mix),0,,-,722,LEUCIS,徳島県,1492,SHU1,徳島県,1828,NIGIRI,徳島県,0,,-
-CANNON BALLERS,The Chase,0,,-,683,SHU1,徳島県,1268,12EX57,徳島県,2031,AROMA,徳島県,0,,-
-CANNON BALLERS,THE CANNONBALLER,416,LEUCIS,徳島県,1206,*CONFI,徳島県,2199,DG192,徳島県,3352,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Temple of Anubis,0,,-,914,LEUCIS,徳島県,1477,SHU1,徳島県,2559,TATZTO,徳島県,0,,-
-CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1169,EDF,徳島県,1544,EDF,徳島県,2449,6,徳島県,0,,-
-CANNON BALLERS,Static State,0,,-,863,BLD,徳島県,1656,LKAR,徳島県,2145,12EX57,徳島県,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,667,DJDJDJ,徳島県,1515,SHU1,徳島県,2266,NIGIRI,徳島県,0,,-
-CANNON BALLERS,SPEED DEMON,0,,-,668,LEUCIS,徳島県,1416,SHU1,徳島県,2261,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Slipstream,0,,-,840,SUGURI,徳島県,1954,SHU1,徳島県,3282,AROMA,徳島県,0,,-
-CANNON BALLERS,Sleepless days,0,,-,480,SOL!D,徳島県,864,SOL!D,徳島県,1570,NIGIRI,徳島県,0,,-
-CANNON BALLERS,REVOLVER,0,,-,821,LEUCIS,徳島県,1567,SHU1,徳島県,2587,NIGIRI,徳島県,3110,NIGIRI,徳島県
-CANNON BALLERS,Raspberry Railgun,0,,-,1185,F*REAF,徳島県,2176,LKAR,徳島県,3105,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Rampage,0,,-,1215,LEUCIS,徳島県,2345,MOC...,徳島県,3561,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Persephone,0,,-,1178,F*REAF,徳島県,1722,MARU,徳島県,2906,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,1146,SHU1,徳島県,1971,12EX57,徳島県,2780,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Only for now,0,,-,872,917YCH,徳島県,1529,SHU1,徳島県,2236,NIGIRI,徳島県,0,,-
-CANNON BALLERS,O/D*20,0,,-,983,BLD,徳島県,1630,SHU1,徳島県,2068,L#...Y,徳島県,0,,-
-CANNON BALLERS,Nothing but Theory,0,,-,981,LEUCIS,徳島県,1521,SHU1,徳島県,2789,NIGIRI,徳島県,0,,-
-CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,896,LEUCIS,徳島県,1504,SHU1,徳島県,2316,L#...Y,徳島県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1330,SHU1,徳島県,1790,LEON,徳島県,3311,GOQURI,徳島県,0,,-
-CANNON BALLERS,n'pa pa BBQ,0,,-,847,LEUCIS,徳島県,1704,SHU1,徳島県,2727,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Midnight Lady,0,,-,596,LEUCIS,徳島県,1016,LEUCIS,徳島県,1935,NIGIRI,徳島県,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,714,LEUCIS,徳島県,1341,EDF,徳島県,2273,AROMA,徳島県,0,,-
-CANNON BALLERS,LUV DRIVE,0,,-,765,LEUCIS,徳島県,1285,SHU1,徳島県,1979,DG192,徳島県,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1113,F*REAF,徳島県,1832,LKAR,徳島県,3220,L#...Y,徳島県,0,,-
-CANNON BALLERS,Initiation,586,LEUCIS,徳島県,1452,SHU1,徳島県,2318,FELMA,徳島県,3790,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1252,SHU1,徳島県,2069,SHU1,徳島県,3359,NIGIRI,徳島県,0,,-
-CANNON BALLERS,I Love You,0,,-,1041,SHU1,徳島県,1330,LEUCIS,徳島県,2690,L#...Y,徳島県,0,,-
-CANNON BALLERS,HYPE THE CORE,0,,-,953,LEUCIS,徳島県,1747,IIDX29,徳島県,2842,TATZTO,徳島県,0,,-
-CANNON BALLERS,Hella Deep,0,,-,582,LEUCIS,徳島県,1016,SHU1,徳島県,1750,NIGIRI,徳島県,0,,-
-CANNON BALLERS,HAT TRICK,0,,-,824,SHU1,徳島県,1391,SHU1,徳島県,2167,L#...Y,徳島県,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,506,LEUCIS,徳島県,1174,SHU1,徳島県,1868,NIGIRI,徳島県,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,805,LEUCIS,徳島県,1416,SHU1,徳島県,2152,NIGIRI,徳島県,0,,-
-CANNON BALLERS,From Time To Time,0,,-,738,LEUCIS,徳島県,1730,EDF,徳島県,2473,NIGIRI,徳島県,0,,-
-CANNON BALLERS,FREEDOM,0,,-,876,LEUCIS,徳島県,1679,SHU1,徳島県,2858,L#...Y,徳島県,0,,-
-CANNON BALLERS,Fervidex,0,,-,821,LEUCIS,徳島県,1589,AKMIQN,徳島県,2681,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Expanded !!,0,,-,633,LEUCIS,徳島県,1497,SHU1,徳島県,2541,CROSS,徳島県,0,,-
-CANNON BALLERS,Exhaust Hype,0,,-,940,LEUCIS,徳島県,1800,AREST,徳島県,2556,6,徳島県,0,,-
-CANNON BALLERS,encounter,0,,-,763,DJDJDJ,徳島県,1680,EDF,徳島県,3175,NIGIRI,徳島県,0,,-
-CANNON BALLERS,EMERALDAS,345,POSSEE,徳島県,1312,SHU1,徳島県,2187,CAMI,徳島県,3309,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,863,LEUCIS,徳島県,1376,SHU1,徳島県,2480,L#...Y,徳島県,0,,-
-CANNON BALLERS,DropZ-Line-,0,,-,1302,SHU1,徳島県,1900,LKAR,徳島県,2987,NIGIRI,徳島県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1352,SHU1,徳島県,2289,12EX57,徳島県,3865,NIGIRI,徳島県,0,,-
-CANNON BALLERS,DEADHEAT,0,,-,1015,LNK-L,徳島県,1972,TATZTO,徳島県,3051,TATZTO,徳島県,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,614,AKMIQN,徳島県,1385,SHU1,徳島県,2071,NIGIRI,徳島県,0,,-
-CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1292,SHU1,徳島県,1728,LKAR,徳島県,2571,AROMA,徳島県,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,760,LEUCIS,徳島県,1410,SHU1,徳島県,2105,NIGIRI,徳島県,0,,-
-CANNON BALLERS,ChaserXX,0,,-,902,LEUCIS,徳島県,1868,CROSS,徳島県,2726,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,1304,SHU1,徳島県,1781,EDF,徳島県,2372,GOQURI,徳島県,0,,-
-CANNON BALLERS,Boomy and The Boost,398,LKAR,徳島県,884,AKMIQN,徳島県,1972,12EX57,徳島県,3478,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Best of Me,0,,-,745,LEUCIS,徳島県,1533,SHU1,徳島県,2054,6,徳島県,0,,-
-CANNON BALLERS,Beast mode,0,,-,852,15102,徳島県,1350,TAKA*,徳島県,2580,CROSS,徳島県,0,,-
-CANNON BALLERS,Be a Hero!,0,,-,643,ALICE,徳島県,1856,EDF,徳島県,2919,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Battleground,0,,-,945,BLD,徳島県,1729,AREST,徳島県,2551,TATZTO,徳島県,0,,-
-CANNON BALLERS,Back Spin Sweeper,0,,-,777,SOL!D,徳島県,1016,LKOP,徳島県,2183,AROMA,徳島県,0,,-
-CANNON BALLERS,Around the Future,0,,-,680,KOHE,徳島県,1434,F*REAF,徳島県,2520,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Arca,0,,-,875,LEUCIS,徳島県,1584,OLNON,徳島県,3055,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Antigravity,0,,-,574,ALICE,徳島県,1831,12EX57,徳島県,2882,NIGIRI,徳島県,0,,-
-CANNON BALLERS,ANCHOR,0,,-,1316,SHU1,徳島県,2461,AROMA,徳島県,3443,NIGIRI,徳島県,0,,-
-CANNON BALLERS,ANAGMA,0,,-,939,LEUCIS,徳島県,1741,SHU1,徳島県,2386,5039EX,徳島県,0,,-
-CANNON BALLERS,Amor De Verao,0,,-,731,917YCH,徳島県,1342,SHU1,徳島県,2276,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Alpheratz,0,,-,402,LEUCIS,徳島県,915,LEUCIS,徳島県,2064,KOUIKA,徳島県,0,,-
-CANNON BALLERS,ACCELERATE,0,,-,915,TIKUWA,徳島県,1682,SHU1,徳島県,2474,NIGIRI,徳島県,0,,-
-CANNON BALLERS,Abraxas,0,,-,727,LEUCIS,徳島県,1615,SHU1,徳島県,2303,AROMA,徳島県,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1050,F*REAF,徳島県,2265,SHU1,徳島県,3498,NIGIRI,徳島県,0,,-
-CANNON BALLERS,255,0,,-,610,KOHE,徳島県,1469,TAKE,徳島県,3103,NIGIRI,徳島県,0,,-
-CANNON BALLERS,2 Player,0,,-,485,NAGARE,徳島県,1476,LKAR,徳島県,2293,CAMI,徳島県,0,,-
-CANNON BALLERS,1001 -ESCAPE-,0,,-,942,LEUCIS,徳島県,1649,SHU1,徳島県,2594,L#...Y,徳島県,0,,-
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1021,LEUCIS,徳島県,2000,R-18,徳島県,3169,NIGIRI,徳島県,0,,-
+Rootage,金野火織の金色提言,0,,-,1079,LEUCIS,徳島県,2128,12EX57,徳島県,2934,NIGIRI,徳島県,0,,-
+Rootage,花冠 feat.Aikapin,0,,-,794,LEUCIS,徳島県,1455,KIRLN,徳島県,2420,ITALY3,徳島県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1032,LEUCIS,徳島県,1577,KIRLN,徳島県,2574,ITALY3,徳島県,0,,-
+Rootage,深愛のリグレット,0,,-,749,LEUCIS,徳島県,1164,SHU1,徳島県,2348,L#...Y,徳島県,0,,-
+Rootage,泰東ノ翠霞,0,,-,313,ALICE,徳島県,666,LEUCIS,徳島県,1677,ITALY3,徳島県,0,,-
+Rootage,最小三倍完全数,0,,-,820,LEUCIS,徳島県,1356,LEUCIS,徳島県,2344,CROSS,徳島県,0,,-
+Rootage,抱きしめてモナムール,0,,-,1153,LEUCIS,徳島県,2163,12EX57,徳島県,4012,NIGIRI,徳島県,0,,-
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,680,SHU1,徳島県,1506,SHU1,徳島県,2429,6,徳島県,0,,-
+Rootage,ミッドナイト☆WAR,0,,-,745,SOL!D,徳島県,1523,SHU1,徳島県,2469,NIGIRI,徳島県,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,366,ALICE,徳島県,933,LKOP,徳島県,1396,NIGIRI,徳島県,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1022,R.AOI,徳島県,1761,LKAR,徳島県,2809,NIGIRI,徳島県,0,,-
+Rootage,セカンドピアス,0,,-,312,SYAKE,徳島県,995,LEUCIS,徳島県,2005,NIGIRI,徳島県,0,,-
+Rootage,サクラあっぱれーしょん,185,KAZUMA,徳島県,603,SHU1,徳島県,1502,SHU1,徳島県,2264,L#...Y,徳島県,0,,-
+Rootage,グラナダの風,0,,-,728,LEUCIS,徳島県,1187,SHU1,徳島県,1680,RANRAN,徳島県,0,,-
+Rootage,お菓子の王国,0,,-,1366,SHU1,徳島県,2104,RINNEY,徳島県,3902,NIGIRI,徳島県,0,,-
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,910,LEUCIS,徳島県,1953,AROMA,徳島県,2866,NIGIRI,徳島県,0,,-
+Rootage,ZENDEGI DANCE,0,,-,1068,LEUCIS,徳島県,1703,EDF,徳島県,2700,NIGIRI,徳島県,0,,-
+Rootage,Yum Yum Jelly,0,,-,734,LEUCIS,徳島県,1475,EDF,徳島県,2312,NIGIRI,徳島県,0,,-
+Rootage,Xlo,0,,-,1494,SHU1,徳島県,2230,AKI,徳島県,3554,NIGIRI,徳島県,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1089,IIDX29,徳島県,1552,TAKA*,徳島県,2940,NIGIRI,徳島県,0,,-
+Rootage,X-DEN,0,,-,1593,SHU1,徳島県,2530,CROSS,徳島県,3736,NIGIRI,徳島県,0,,-
+Rootage,Wonderland,0,,-,948,LEUCIS,徳島県,1592,TAKA*,徳島県,2696,NIGIRI,徳島県,0,,-
+Rootage,Won(*3*)Chu KissMe!,244,MOCHI3,徳島県,822,LEUCIS,徳島県,1339,SHU1,徳島県,2469,L#...Y,徳島県,0,,-
+Rootage,Wolf 1061,0,,-,879,LEUCIS,徳島県,1660,SHU1,徳島県,2991,TATZTO,徳島県,0,,-
+Rootage,Wing of Hearts,0,,-,1005,LEUCIS,徳島県,1767,SHU1,徳島県,2852,TATZTO,徳島県,0,,-
+Rootage,voltississimo,0,,-,1093,T.TOMO,徳島県,1952,CAMI,徳島県,3186,TATZTO,徳島県,0,,-
+Rootage,Visterhv,0,,-,1215,SHU1,徳島県,2082,ELAZUL,徳島県,3632,NIGIRI,徳島県,0,,-
+Rootage,Urban Constellations,0,,-,521,DGT4U,徳島県,1461,SHU1,徳島県,2216,KOUIKA,徳島県,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1066,LEUCIS,徳島県,1835,917YCH,徳島県,3096,AROMA,徳島県,0,,-
+Rootage,Unbelief,0,,-,945,LEUCIS,徳島県,1767,KIRLN,徳島県,3009,L#...Y,徳島県,0,,-
+Rootage,U.S.A.,553,SHU1,徳島県,1011,LEUCIS,徳島県,1818,SHU1,徳島県,2703,CAMI,徳島県,0,,-
+Rootage,Twilight Warp,0,,-,931,LKAR,徳島県,1391,SHU1,徳島県,2075,AROMA,徳島県,0,,-
+Rootage,Trill auf G,0,,-,893,TIKUWA,徳島県,1888,LEON,徳島県,2951,TATZTO,徳島県,0,,-
+Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,404,MELT,徳島県,1515,SHU1,徳島県,2133,12EX57,徳島県,0,,-
+Rootage,toy boxer,0,,-,535,HRDN,徳島県,1381,SHU1,徳島県,2137,AROMA,徳島県,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,0,,-,1380,SHU1,徳島県,2202,NIGIRI,徳島県,0,,-
+Rootage,The Rebellion of Sequencer,0,,-,1218,SHU1,徳島県,1868,12EX57,徳島県,2880,NIGIRI,徳島県,0,,-
+Rootage,THE DAY OF JUBILATIONS,0,,-,1500,SHU1,徳島県,2273,12EX57,徳島県,3364,NIGIRI,徳島県,0,,-
+Rootage,The Best of Both Worlds,0,,-,478,AKMIQN,徳島県,1337,SHU1,徳島県,2154,L#...Y,徳島県,0,,-
+Rootage,Technicolour Dreams,0,,-,850,LEUCIS,徳島県,1384,SHU1,徳島県,2344,AROMA,徳島県,0,,-
+Rootage,SPEED ROCKER,0,,-,900,SHU1,徳島県,1633,SHU1,徳島県,2142,SHU1,徳島県,0,,-
+Rootage,Six String Proof,0,,-,793,LEUCIS,徳島県,1449,EDF,徳島県,2308,TATZTO,徳島県,0,,-
+Rootage,Serious?,0,,-,410,POSSEE,徳島県,1168,SHU1,徳島県,2140,ITALY3,徳島県,0,,-
+Rootage,R∞tAge,432,AKMIQN,徳島県,991,LEUCIS,徳島県,1622,SHU1,徳島県,2917,NIGIRI,徳島県,0,,-
+Rootage,ruin of opals,0,,-,752,TIKUWA,徳島県,1753,12EX57,徳島県,2940,NIGIRI,徳島県,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1037,SHU1,徳島県,1780,CROSS,徳島県,2634,L#...Y,徳島県,0,,-
+Rootage,REPLAY,0,,-,808,LEUCIS,徳島県,1572,SHU1,徳島県,2245,NIGIRI,徳島県,0,,-
+Rootage,Red. by Jack Trance,0,,-,1437,EDF,徳島県,2040,CROSS,徳島県,3301,ITALY3,徳島県,0,,-
+Rootage,Psycho Sheep Riddim,0,,-,439,POSSEE,徳島県,955,SHU1,徳島県,1631,NIGIRI,徳島県,2132,KOUIKA,徳島県
+Rootage,Please Welcome Mr.C,0,,-,889,LEUCIS,徳島県,1580,EDF,徳島県,2683,TATZTO,徳島県,0,,-
+Rootage,Playing With Fire,0,,-,834,LEUCIS,徳島県,1520,EDF,徳島県,2280,NIGIRI,徳島県,0,,-
+Rootage,Painful Fate,0,,-,1216,SHU1,徳島県,2131,12EX57,徳島県,3227,NIGIRI,徳島県,0,,-
+Rootage,OVER TIME,0,,-,444,AKMIQN,徳島県,887,LEUCIS,徳島県,1537,KOUIKA,徳島県,0,,-
+Rootage,ONIGOROSHI,0,,-,1116,LEUCIS,徳島県,2021,12EX57,徳島県,2736,TATZTO,徳島県,0,,-
+Rootage,Night! Night! Night!,0,,-,1051,LEUCIS,徳島県,1647,EDF,徳島県,2992,NIGIRI,徳島県,0,,-
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,780,LEUCIS,徳島県,1591,12EX57,徳島県,2546,GRETEL,徳島県,0,,-
+Rootage,Necroxis Girl,0,,-,935,F*REAF,徳島県,1623,TAKA*,徳島県,2725,NIGIRI,徳島県,0,,-
+Rootage,Macho Monky,0,,-,1375,SHU1,徳島県,1927,12EX57,徳島県,2759,AROMA,徳島県,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,971,LEUCIS,徳島県,1833,AROMA,徳島県,3328,NIGIRI,徳島県,0,,-
+Rootage,Lift Us High,0,,-,856,LEUCIS,徳島県,1567,SHU1,徳島県,2396,ITALY3,徳島県,0,,-
+Rootage,Level One,0,,-,1056,LEUCIS,徳島県,2133,TAKE,徳島県,3214,NIGIRI,徳島県,0,,-
+Rootage,Lethal Weapon,0,,-,1054,LEUCIS,徳島県,1827,GOQURI,徳島県,3108,NIGIRI,徳島県,0,,-
+Rootage,Let me be your cure,0,,-,1004,LEUCIS,徳島県,1407,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
+Rootage,LADYBIRD,0,,-,1087,SHU1,徳島県,1643,CROSS,徳島県,2359,KOUIKA,徳島県,0,,-
+Rootage,L.F.O,0,,-,772,LEUCIS,徳島県,1762,NIGIRI,徳島県,3027,TATZTO,徳島県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1367,SHU1,徳島県,2081,AREST,徳島県,3574,L#...Y,徳島県,0,,-
+Rootage,IDOL syndrome.,0,,-,519,AKMIQN,徳島県,1406,SHU1,徳島県,2065,LKAR,徳島県,0,,-
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1005,EDF,徳島県,1499,EDF,徳島県,2083,KOUIKA,徳島県,0,,-
+Rootage,Hurry Hurry,0,,-,504,DGT4U,徳島県,910,AKMIQN,徳島県,2054,NIGIRI,徳島県,0,,-
+Rootage,HOT LIMIT,388,NIGIRI,徳島県,926,LEUCIS,徳島県,1568,SHEEPG,徳島県,2430,AROMA,徳島県,0,,-
+Rootage,HEISEI,51,WASANS,徳島県,978,LEUCIS,徳島県,1764,NE.,徳島県,2523,NIGIRI,徳島県,0,,-
+Rootage,HARD BRAIN,0,,-,1169,DJDJDJ,徳島県,1953,12EX57,徳島県,3673,NIGIRI,徳島県,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,701,MELT,徳島県,2197,AROMA,徳島県,3719,NIGIRI,徳島県,0,,-
+Rootage,Glory,0,,-,517,AKMIQN,徳島県,1578,SHU1,徳島県,2258,KOUIKA,徳島県,0,,-
+Rootage,GIGA THRASH,0,,-,1110,LEUCIS,徳島県,1767,LKAR,徳島県,2594,L#...Y,徳島県,0,,-
+Rootage,GENE,0,,-,1250,SHU1,徳島県,1862,TAKE,徳島県,4217,NIGIRI,徳島県,0,,-
+Rootage,Geirskogul,0,,-,940,LEUCIS,徳島県,1541,SHU1,徳島県,2138,KOUIKA,徳島県,0,,-
+Rootage,Garuda,0,,-,892,LEUCIS,徳島県,1509,EDF,徳島県,2534,L#...Y,徳島県,0,,-
+Rootage,EVANESCENT,0,,-,1198,SHU1,徳島県,2143,FELMA,徳島県,3423,NIGIRI,徳島県,0,,-
+Rootage,Ember Lights,0,,-,841,LEUCIS,徳島県,1505,EDF,徳島県,2673,NIGIRI,徳島県,0,,-
+Rootage,DRUNK MONKY,0,,-,906,SHU1,徳島県,1425,DG192,徳島県,2101,TATZTO,徳島県,0,,-
+Rootage,Drastic Dramatic,0,,-,1482,SHU1,徳島県,2390,AROMA,徳島県,3420,NIGIRI,徳島県,0,,-
+Rootage,Dr. Chemical & Killing Machine,0,,-,1075,SHU1,徳島県,1776,5039EX,徳島県,3315,NIGIRI,徳島県,0,,-
+Rootage,Digital Skipper,0,,-,702,AKMIQN,徳島県,1522,SHU1,徳島県,2104,AROMA,徳島県,0,,-
+Rootage,dAuntl3ss,0,,-,980,LEUCIS,徳島県,1875,AREST,徳島県,3273,KOUIKA,徳島県,0,,-
+Rootage,Cranberry City ft. Luschel,0,,-,767,LEUCIS,徳島県,1539,SHU1,徳島県,2310,TATZTO,徳島県,0,,-
+Rootage,COSMIC CYBER,0,,-,754,AKMIQN,徳島県,1469,QUE,徳島県,2827,KOUIKA,徳島県,0,,-
+Rootage,CoMAAAAAAA,0,,-,1054,LEUCIS,徳島県,1960,EDF,徳島県,2344,NIGIRI,徳島県,0,,-
+Rootage,CODE:0,0,,-,1287,LEUCIS,徳島県,2010,EDF,徳島県,2629,AROMA,徳島県,0,,-
+Rootage,Catch Our Fire!,0,,-,1184,LEUCIS,徳島県,1930,KOHE,徳島県,3421,TATZTO,徳島県,0,,-
+Rootage,Carry Me Away,520,LKAR,徳島県,1100,SHU1,徳島県,1728,LKAR,徳島県,3097,NIGIRI,徳島県,0,,-
+Rootage,Carmina,510,LKAR,徳島県,1127,F*REAF,徳島県,2311,12EX57,徳島県,3548,NIGIRI,徳島県,0,,-
+Rootage,BLOSSOM,0,,-,927,LEUCIS,徳島県,1545,SHU1,徳島県,2475,KOUIKA,徳島県,0,,-
+Rootage,BLACK JACKAL,0,,-,778,LEUCIS,徳島県,1505,EDF,徳島県,2295,L#...Y,徳島県,0,,-
+Rootage,Afterimage d'automne,0,,-,942,ORE,徳島県,1563,AREST,徳島県,2726,NIGIRI,徳島県,0,,-
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1148,LEUCIS,徳島県,1599,SHU1,徳島県,2522,TATZTO,徳島県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,973,LEUCIS,徳島県,1462,EDF,徳島県,2469,TATZTO,徳島県,0,,-
+Rootage,50th Memorial Songs -Flagship medley-,0,,-,735,LEUCIS,徳島県,1418,SHU1,徳島県,2202,NIGIRI,徳島県,0,,-
+Rootage,50th Memorial Songs -Beginning Story-,0,,-,729,LEUCIS,徳島県,1611,SHU1,徳島県,2481,RINNEY,徳島県,0,,-
+Rootage,& Intelligence,0,,-,990,LEUCIS,徳島県,1757,EDF,徳島県,3114,NIGIRI,徳島県,0,,-
 HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,854,ORE,徳島県,1704,SHU1,徳島県,2999,NIGIRI,徳島県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1060,ORE,徳島県,1654,EDF,徳島県,2766,AROMA,徳島県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,984,917YCH,徳島県,1762,SHU1,徳島県,3118,NIGIRI,徳島県,0,,-
@@ -1231,107 +1332,6 @@ HEROIC VERSE,And-RoiD,0,,-,489,MELT,徳島県,1304,SHU1,徳島県,1991,NIGIRI,�
 HEROIC VERSE,AKASHIC BREAK,0,,-,1132,ORE,徳島県,2298,LKAR,徳島県,3520,NIGIRI,徳島県,0,,-
 HEROIC VERSE,Advent Infamous,0,,-,916,ORE,徳島県,1611,SHU1,徳島県,2741,KOUIKA,徳島県,0,,-
 HEROIC VERSE,27th style,0,,-,1017,LEUCIS,徳島県,1769,NIGIRI,徳島県,2462,L#...Y,徳島県,0,,-
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1021,LEUCIS,徳島県,2000,R-18,徳島県,3169,NIGIRI,徳島県,0,,-
-Rootage,金野火織の金色提言,0,,-,1079,LEUCIS,徳島県,2128,12EX57,徳島県,2934,NIGIRI,徳島県,0,,-
-Rootage,花冠 feat.Aikapin,0,,-,794,LEUCIS,徳島県,1455,KIRLN,徳島県,2420,ITALY3,徳島県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,1032,LEUCIS,徳島県,1577,KIRLN,徳島県,2574,ITALY3,徳島県,0,,-
-Rootage,深愛のリグレット,0,,-,749,LEUCIS,徳島県,1164,SHU1,徳島県,2348,L#...Y,徳島県,0,,-
-Rootage,泰東ノ翠霞,0,,-,313,ALICE,徳島県,666,LEUCIS,徳島県,1677,ITALY3,徳島県,0,,-
-Rootage,最小三倍完全数,0,,-,820,LEUCIS,徳島県,1356,LEUCIS,徳島県,2344,CROSS,徳島県,0,,-
-Rootage,抱きしめてモナムール,0,,-,1153,LEUCIS,徳島県,2163,12EX57,徳島県,4012,NIGIRI,徳島県,0,,-
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,680,SHU1,徳島県,1506,SHU1,徳島県,2429,6,徳島県,0,,-
-Rootage,ミッドナイト☆WAR,0,,-,745,SOL!D,徳島県,1523,SHU1,徳島県,2469,NIGIRI,徳島県,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,366,ALICE,徳島県,933,LKOP,徳島県,1396,NIGIRI,徳島県,0,,-
-Rootage,ハードベース・フェスタ,0,,-,1022,R.AOI,徳島県,1761,LKAR,徳島県,2809,NIGIRI,徳島県,0,,-
-Rootage,セカンドピアス,0,,-,312,SYAKE,徳島県,995,LEUCIS,徳島県,2005,NIGIRI,徳島県,0,,-
-Rootage,サクラあっぱれーしょん,185,KAZUMA,徳島県,603,SHU1,徳島県,1502,SHU1,徳島県,2264,L#...Y,徳島県,0,,-
-Rootage,グラナダの風,0,,-,728,LEUCIS,徳島県,1187,SHU1,徳島県,1680,RANRAN,徳島県,0,,-
-Rootage,お菓子の王国,0,,-,1366,SHU1,徳島県,2104,RINNEY,徳島県,3902,NIGIRI,徳島県,0,,-
-Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,910,LEUCIS,徳島県,1953,AROMA,徳島県,2866,NIGIRI,徳島県,0,,-
-Rootage,ZENDEGI DANCE,0,,-,1068,LEUCIS,徳島県,1703,EDF,徳島県,2700,NIGIRI,徳島県,0,,-
-Rootage,Yum Yum Jelly,0,,-,734,LEUCIS,徳島県,1475,EDF,徳島県,2312,NIGIRI,徳島県,0,,-
-Rootage,Xlo,0,,-,1494,SHU1,徳島県,2230,AKI,徳島県,3554,NIGIRI,徳島県,0,,-
-Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1089,IIDX29,徳島県,1552,TAKA*,徳島県,2940,NIGIRI,徳島県,0,,-
-Rootage,X-DEN,0,,-,1593,SHU1,徳島県,2530,CROSS,徳島県,3736,NIGIRI,徳島県,0,,-
-Rootage,Wonderland,0,,-,948,LEUCIS,徳島県,1592,TAKA*,徳島県,2696,NIGIRI,徳島県,0,,-
-Rootage,Won(*3*)Chu KissMe!,244,MOCHI3,徳島県,822,LEUCIS,徳島県,1339,SHU1,徳島県,2469,L#...Y,徳島県,0,,-
-Rootage,Wolf 1061,0,,-,879,LEUCIS,徳島県,1660,SHU1,徳島県,2991,TATZTO,徳島県,0,,-
-Rootage,Wing of Hearts,0,,-,1005,LEUCIS,徳島県,1767,SHU1,徳島県,2852,TATZTO,徳島県,0,,-
-Rootage,voltississimo,0,,-,1093,T.TOMO,徳島県,1952,CAMI,徳島県,3186,TATZTO,徳島県,0,,-
-Rootage,Visterhv,0,,-,1215,SHU1,徳島県,2082,ELAZUL,徳島県,3632,NIGIRI,徳島県,0,,-
-Rootage,Urban Constellations,0,,-,521,DGT4U,徳島県,1461,SHU1,徳島県,2216,KOUIKA,徳島県,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,1066,LEUCIS,徳島県,1835,917YCH,徳島県,3096,AROMA,徳島県,0,,-
-Rootage,Unbelief,0,,-,945,LEUCIS,徳島県,1767,KIRLN,徳島県,3009,L#...Y,徳島県,0,,-
-Rootage,U.S.A.,553,SHU1,徳島県,1011,LEUCIS,徳島県,1818,SHU1,徳島県,2703,CAMI,徳島県,0,,-
-Rootage,Twilight Warp,0,,-,931,LKAR,徳島県,1391,SHU1,徳島県,2075,AROMA,徳島県,0,,-
-Rootage,Trill auf G,0,,-,893,TIKUWA,徳島県,1888,LEON,徳島県,2951,TATZTO,徳島県,0,,-
-Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,404,MELT,徳島県,1515,SHU1,徳島県,2133,12EX57,徳島県,0,,-
-Rootage,toy boxer,0,,-,535,HRDN,徳島県,1381,SHU1,徳島県,2137,AROMA,徳島県,0,,-
-Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,0,,-,1380,SHU1,徳島県,2202,NIGIRI,徳島県,0,,-
-Rootage,The Rebellion of Sequencer,0,,-,1218,SHU1,徳島県,1868,12EX57,徳島県,2880,NIGIRI,徳島県,0,,-
-Rootage,THE DAY OF JUBILATIONS,0,,-,1500,SHU1,徳島県,2273,12EX57,徳島県,3364,NIGIRI,徳島県,0,,-
-Rootage,The Best of Both Worlds,0,,-,478,AKMIQN,徳島県,1337,SHU1,徳島県,2154,L#...Y,徳島県,0,,-
-Rootage,Technicolour Dreams,0,,-,850,LEUCIS,徳島県,1384,SHU1,徳島県,2344,AROMA,徳島県,0,,-
-Rootage,SPEED ROCKER,0,,-,900,SHU1,徳島県,1633,SHU1,徳島県,2142,SHU1,徳島県,0,,-
-Rootage,Six String Proof,0,,-,793,LEUCIS,徳島県,1449,EDF,徳島県,2308,TATZTO,徳島県,0,,-
-Rootage,Serious?,0,,-,410,POSSEE,徳島県,1168,SHU1,徳島県,2140,ITALY3,徳島県,0,,-
-Rootage,R∞tAge,432,AKMIQN,徳島県,991,LEUCIS,徳島県,1622,SHU1,徳島県,2917,NIGIRI,徳島県,0,,-
-Rootage,ruin of opals,0,,-,752,TIKUWA,徳島県,1753,12EX57,徳島県,2940,NIGIRI,徳島県,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,1037,SHU1,徳島県,1780,CROSS,徳島県,2634,L#...Y,徳島県,0,,-
-Rootage,REPLAY,0,,-,808,LEUCIS,徳島県,1572,SHU1,徳島県,2245,NIGIRI,徳島県,0,,-
-Rootage,Red. by Jack Trance,0,,-,1437,EDF,徳島県,2040,CROSS,徳島県,3301,ITALY3,徳島県,0,,-
-Rootage,Psycho Sheep Riddim,0,,-,439,POSSEE,徳島県,955,SHU1,徳島県,1631,NIGIRI,徳島県,2132,KOUIKA,徳島県
-Rootage,Please Welcome Mr.C,0,,-,889,LEUCIS,徳島県,1580,EDF,徳島県,2683,TATZTO,徳島県,0,,-
-Rootage,Playing With Fire,0,,-,834,LEUCIS,徳島県,1520,EDF,徳島県,2280,NIGIRI,徳島県,0,,-
-Rootage,Painful Fate,0,,-,1216,SHU1,徳島県,2131,12EX57,徳島県,3227,NIGIRI,徳島県,0,,-
-Rootage,OVER TIME,0,,-,444,AKMIQN,徳島県,887,LEUCIS,徳島県,1537,KOUIKA,徳島県,0,,-
-Rootage,ONIGOROSHI,0,,-,1116,LEUCIS,徳島県,2021,12EX57,徳島県,2736,TATZTO,徳島県,0,,-
-Rootage,Night! Night! Night!,0,,-,1051,LEUCIS,徳島県,1647,EDF,徳島県,2992,NIGIRI,徳島県,0,,-
-Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,780,LEUCIS,徳島県,1591,12EX57,徳島県,2546,GRETEL,徳島県,0,,-
-Rootage,Necroxis Girl,0,,-,935,F*REAF,徳島県,1623,TAKA*,徳島県,2725,NIGIRI,徳島県,0,,-
-Rootage,Macho Monky,0,,-,1375,SHU1,徳島県,1927,12EX57,徳島県,2759,AROMA,徳島県,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,971,LEUCIS,徳島県,1833,AROMA,徳島県,3328,NIGIRI,徳島県,0,,-
-Rootage,Lift Us High,0,,-,856,LEUCIS,徳島県,1567,SHU1,徳島県,2396,ITALY3,徳島県,0,,-
-Rootage,Level One,0,,-,1056,LEUCIS,徳島県,2133,TAKE,徳島県,3214,NIGIRI,徳島県,0,,-
-Rootage,Lethal Weapon,0,,-,1054,LEUCIS,徳島県,1827,GOQURI,徳島県,3108,NIGIRI,徳島県,0,,-
-Rootage,Let me be your cure,0,,-,1004,LEUCIS,徳島県,1407,SHU1,徳島県,2648,NIGIRI,徳島県,0,,-
-Rootage,LADYBIRD,0,,-,1087,SHU1,徳島県,1643,CROSS,徳島県,2359,KOUIKA,徳島県,0,,-
-Rootage,L.F.O,0,,-,772,LEUCIS,徳島県,1762,NIGIRI,徳島県,3027,TATZTO,徳島県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1367,SHU1,徳島県,2081,AREST,徳島県,3574,L#...Y,徳島県,0,,-
-Rootage,IDOL syndrome.,0,,-,519,AKMIQN,徳島県,1406,SHU1,徳島県,2065,LKAR,徳島県,0,,-
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,1005,EDF,徳島県,1499,EDF,徳島県,2083,KOUIKA,徳島県,0,,-
-Rootage,Hurry Hurry,0,,-,504,DGT4U,徳島県,910,AKMIQN,徳島県,2054,NIGIRI,徳島県,0,,-
-Rootage,HOT LIMIT,388,NIGIRI,徳島県,926,LEUCIS,徳島県,1568,SHEEPG,徳島県,2430,AROMA,徳島県,0,,-
-Rootage,HEISEI,51,WASANS,徳島県,978,LEUCIS,徳島県,1764,NE.,徳島県,2523,NIGIRI,徳島県,0,,-
-Rootage,HARD BRAIN,0,,-,1169,DJDJDJ,徳島県,1953,12EX57,徳島県,3673,NIGIRI,徳島県,0,,-
-Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,701,MELT,徳島県,2197,AROMA,徳島県,3719,NIGIRI,徳島県,0,,-
-Rootage,Glory,0,,-,517,AKMIQN,徳島県,1578,SHU1,徳島県,2258,KOUIKA,徳島県,0,,-
-Rootage,GIGA THRASH,0,,-,1110,LEUCIS,徳島県,1767,LKAR,徳島県,2594,L#...Y,徳島県,0,,-
-Rootage,GENE,0,,-,1250,SHU1,徳島県,1862,TAKE,徳島県,4217,NIGIRI,徳島県,0,,-
-Rootage,Geirskogul,0,,-,940,LEUCIS,徳島県,1541,SHU1,徳島県,2138,KOUIKA,徳島県,0,,-
-Rootage,Garuda,0,,-,892,LEUCIS,徳島県,1509,EDF,徳島県,2534,L#...Y,徳島県,0,,-
-Rootage,EVANESCENT,0,,-,1198,SHU1,徳島県,2143,FELMA,徳島県,3423,NIGIRI,徳島県,0,,-
-Rootage,Ember Lights,0,,-,841,LEUCIS,徳島県,1505,EDF,徳島県,2673,NIGIRI,徳島県,0,,-
-Rootage,DRUNK MONKY,0,,-,906,SHU1,徳島県,1425,DG192,徳島県,2101,TATZTO,徳島県,0,,-
-Rootage,Drastic Dramatic,0,,-,1482,SHU1,徳島県,2390,AROMA,徳島県,3420,NIGIRI,徳島県,0,,-
-Rootage,Dr. Chemical & Killing Machine,0,,-,1075,SHU1,徳島県,1776,5039EX,徳島県,3315,NIGIRI,徳島県,0,,-
-Rootage,Digital Skipper,0,,-,702,AKMIQN,徳島県,1522,SHU1,徳島県,2104,AROMA,徳島県,0,,-
-Rootage,dAuntl3ss,0,,-,980,LEUCIS,徳島県,1875,AREST,徳島県,3273,KOUIKA,徳島県,0,,-
-Rootage,Cranberry City ft. Luschel,0,,-,767,LEUCIS,徳島県,1539,SHU1,徳島県,2310,TATZTO,徳島県,0,,-
-Rootage,COSMIC CYBER,0,,-,754,AKMIQN,徳島県,1469,QUE,徳島県,2827,KOUIKA,徳島県,0,,-
-Rootage,CoMAAAAAAA,0,,-,1054,LEUCIS,徳島県,1960,EDF,徳島県,2344,NIGIRI,徳島県,0,,-
-Rootage,CODE:0,0,,-,1287,LEUCIS,徳島県,2010,EDF,徳島県,2629,AROMA,徳島県,0,,-
-Rootage,Catch Our Fire!,0,,-,1184,LEUCIS,徳島県,1930,KOHE,徳島県,3421,TATZTO,徳島県,0,,-
-Rootage,Carry Me Away,520,LKAR,徳島県,1100,SHU1,徳島県,1728,LKAR,徳島県,3097,NIGIRI,徳島県,0,,-
-Rootage,Carmina,510,LKAR,徳島県,1127,F*REAF,徳島県,2311,12EX57,徳島県,3548,NIGIRI,徳島県,0,,-
-Rootage,BLOSSOM,0,,-,927,LEUCIS,徳島県,1545,SHU1,徳島県,2475,KOUIKA,徳島県,0,,-
-Rootage,BLACK JACKAL,0,,-,778,LEUCIS,徳島県,1505,EDF,徳島県,2295,L#...Y,徳島県,0,,-
-Rootage,Afterimage d'automne,0,,-,942,ORE,徳島県,1563,AREST,徳島県,2726,NIGIRI,徳島県,0,,-
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1148,LEUCIS,徳島県,1599,SHU1,徳島県,2522,TATZTO,徳島県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,973,LEUCIS,徳島県,1462,EDF,徳島県,2469,TATZTO,徳島県,0,,-
-Rootage,50th Memorial Songs -Flagship medley-,0,,-,735,LEUCIS,徳島県,1418,SHU1,徳島県,2202,NIGIRI,徳島県,0,,-
-Rootage,50th Memorial Songs -Beginning Story-,0,,-,729,LEUCIS,徳島県,1611,SHU1,徳島県,2481,RINNEY,徳島県,0,,-
-Rootage,& Intelligence,0,,-,990,LEUCIS,徳島県,1757,EDF,徳島県,3114,NIGIRI,徳島県,0,,-
 CastHour,黒紅掬い,0,,-,652,LKAR,徳島県,1196,5039EX,徳島県,1807,NIGIRI,徳島県,0,,-
 CastHour,青の洞窟,0,,-,871,SHU1,徳島県,2007,CROSS,徳島県,3082,NIGIRI,徳島県,0,,-
 CastHour,雪上断火,0,,-,976,LKAR,徳島県,1768,MOC...,徳島県,2826,L#...Y,徳島県,0,,-
