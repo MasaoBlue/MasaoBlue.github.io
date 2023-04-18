@@ -13,6 +13,13 @@
 1st&substream,deep in you,0,,-,476,R301,滋賀県,492,-SB-,滋賀県,645,8VSZU4,滋賀県,0,,-
 1st&substream,5.1.1.,0,,-,198,8VSZU4,滋賀県,972,GOGO*,滋賀県,1566,KORSK,滋賀県,0,,-
 1st&substream,22DUNK,0,,-,309,0.9N,滋賀県,508,OGI,滋賀県,654,NOCCHI,滋賀県,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,488,3*ZU,滋賀県,561,SHANA8,滋賀県,642,YU,滋賀県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,570,NOCCHI,滋賀県,864,KORSK,滋賀県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,772,AI-R,滋賀県,860,SHANA8,滋賀県,1221,IIDX77,滋賀県,0,,-
+2nd style,I Was The One,0,,-,475,SHANA8,滋賀県,575,17N7-L,滋賀県,691,R.K.,滋賀県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,358,MEG,滋賀県,917,3*ZU,滋賀県,1051,8VSZU4,滋賀県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,603,T-109,滋賀県,891,SHANA8,滋賀県,1120,R.K.,滋賀県,0,,-
+2nd style,.59,0,,-,590,T-109,滋賀県,946,XEFF.K,滋賀県,1147,KORSK,滋賀県,0,,-
 3rd style,THE SAFARI,258,FREDY,滋賀県,1076,MG0,滋賀県,1771,KORSK,滋賀県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,155,ABCDEF,滋賀県,396,R.K.,滋賀県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,0,,-,875,OGI,滋賀県,1232,R.K.,滋賀県,0,,-
@@ -25,13 +32,6 @@
 3rd style,era (nostalmix),0,,-,758,T-109,滋賀県,1077,NOCCHI,滋賀県,1528,NOCCHI,滋賀県,0,,-
 3rd style,Don't Stop!,0,,-,0,,-,847,8VSZU4,滋賀県,898,R.K.,滋賀県,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,589,TREK,滋賀県,1237,#52#,滋賀県,0,,-,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,488,3*ZU,滋賀県,561,SHANA8,滋賀県,642,YU,滋賀県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,570,NOCCHI,滋賀県,864,KORSK,滋賀県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,772,AI-R,滋賀県,860,SHANA8,滋賀県,1221,IIDX77,滋賀県,0,,-
-2nd style,I Was The One,0,,-,475,SHANA8,滋賀県,575,17N7-L,滋賀県,691,R.K.,滋賀県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,358,MEG,滋賀県,917,3*ZU,滋賀県,1051,8VSZU4,滋賀県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,603,T-109,滋賀県,891,SHANA8,滋賀県,1120,R.K.,滋賀県,0,,-
-2nd style,.59,0,,-,590,T-109,滋賀県,946,XEFF.K,滋賀県,1147,KORSK,滋賀県,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,864,3*ZU,滋賀県,1178,KOTA3,滋賀県,1313,R.K.,滋賀県,0,,-
 4th style,SWEET LAB,0,,-,257,SOUYA,滋賀県,734,KIRYU,滋賀県,1319,24,滋賀県,0,,-
 4th style,starmine,378,SHERA,滋賀県,865,N,滋賀県,1367,8VSZU4,滋賀県,1563,TSSK,滋賀県,0,,-
@@ -302,7 +302,7 @@ DistorteD,Power of Love,0,,-,857,SHANA8,滋賀県,1591,XEFF.K,滋賀県,2126,NOC
 DistorteD,MOON,0,,-,743,SHANA8,滋賀県,2083,-SB-,滋賀県,2194,-111-,滋賀県,0,,-
 DistorteD,MINT,0,,-,0,,-,1664,SHI4TO,滋賀県,2289,KORSK,滋賀県,0,,-
 DistorteD,Leaving...,0,,-,0,,-,1364,TEMIKO,滋賀県,2139,HIKO,滋賀県,0,,-
-DistorteD,INFERNO,0,,-,1043,SHANA8,滋賀県,1064,???,滋賀県,1989,KORSK,滋賀県,0,,-
+DistorteD,INFERNO,0,,-,1043,SHANA8,,1064,???,滋賀県,1989,KORSK,滋賀県,0,,-
 DistorteD,Heavenly Sun (IIDX VERSION),0,,-,0,,-,1470,XEFF.K,滋賀県,2082,#52#,滋賀県,0,,-
 DistorteD,Harmony and Lovely,0,,-,0,,-,1642,FALCON,滋賀県,2200,NOCCHI,滋賀県,0,,-
 DistorteD,Ganymede,0,,-,925,HIKU*,滋賀県,1685,24,滋賀県,2296,NOCCHI,滋賀県,2586,RD,滋賀県
@@ -511,63 +511,6 @@ SIRIUS,bass 2 bass,170,MMMMM,滋賀県,660,SHANA8,滋賀県,1252,TSSK,滋賀県,
 SIRIUS,Bad Maniacs,0,,-,1183,FALCON,滋賀県,1794,24,滋賀県,3215,DMINIK,滋賀県,0,,-
 SIRIUS,Almagest,0,,-,1032,B-RABI,滋賀県,2183,NOCCHI,滋賀県,3111,KORSK,滋賀県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,350,KIGUMA,滋賀県,1118,N,滋賀県,1518,AA,滋賀県,2331,-111-,滋賀県,2971,KORSK,滋賀県
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,722,SHANA8,滋賀県,2084,TSSK,滋賀県,3392,KORSK,滋賀県,0,,-
-Resort Anthem,灼熱Beach Side Bunny,542,D,滋賀県,1037,NABE-3,滋賀県,1961,KORSK,滋賀県,3063,IIDX77,滋賀県,0,,-
-Resort Anthem,旅人リラン,0,,-,931,MR.814,滋賀県,1869,TEMIKO,滋賀県,2612,KORSK,滋賀県,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,893,SHANA8,滋賀県,2006,-SB-,滋賀県,2810,KORSK,滋賀県,0,,-
-Resort Anthem,中華急行,0,,-,328,TEMIKO,滋賀県,1515,KOTA3,滋賀県,2320,-111-,滋賀県,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,381,YUKI,滋賀県,781,SHANA8,滋賀県,1305,RIPOPO,滋賀県,1914,KORSK,滋賀県,0,,-
-Resort Anthem,おおきなこえで,0,,-,427,N,滋賀県,943,8VSZU4,滋賀県,1494,R.K.,滋賀県,2155,KORSK,滋賀県
-Resort Anthem,ZETA～素数の世界と超越者～,298,17N7-L,滋賀県,501,SHANA8,滋賀県,2166,NOCCHI,滋賀県,3113,RD,滋賀県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,767,MIRI,滋賀県,1738,8VSZU4,滋賀県,2748,KORSK,滋賀県,0,,-
-Resort Anthem,Wuv U,0,,-,394,K-NEKO,滋賀県,1295,TSSK,滋賀県,1707,RD,滋賀県,0,,-
-Resort Anthem,WISE UP!,172,KURO,滋賀県,299,K,滋賀県,1127,XEFF.K,滋賀県,1576,TSSK,滋賀県,2610,KORSK,滋賀県
-Resort Anthem,Watch Out Pt.2,0,,-,952,SHANA8,滋賀県,1908,TSSK,滋賀県,2855,IIDX77,滋賀県,0,,-
-Resort Anthem,Vermillion,0,,-,291,AIR,滋賀県,983,D,滋賀県,2031,YUHEY.,滋賀県,0,,-
-Resort Anthem,Tropical April,0,,-,1448,CHALA?,滋賀県,2212,24,滋賀県,2743,KORSK,滋賀県,0,,-
-Resort Anthem,THE FALLEN,0,,-,834,SHANA8,滋賀県,1340,FU,滋賀県,2679,RD,滋賀県,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,761,SHANA8,滋賀県,1545,YUKI.,滋賀県,2167,KORSK,滋賀県,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,894,N,滋賀県,2018,24,滋賀県,2932,KORSK,滋賀県,0,,-
-Resort Anthem,STELLAR WIND,247,KKKKKK,滋賀県,578,MR.814,滋賀県,1739,TEMIKO,滋賀県,2676,KORSK,滋賀県,0,,-
-Resort Anthem,Stay my side,0,,-,592,SHANA8,滋賀県,823,UNAGI,滋賀県,1323,HIKO,滋賀県,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,673,HIYORI,滋賀県,1387,FU,滋賀県,2977,KORSK,滋賀県,0,,-
-Resort Anthem,Space Time,0,,-,553,SHANA8,滋賀県,1616,INRTIA,滋賀県,2209,KORSK,滋賀県,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,701,SHANA8,滋賀県,2311,24,滋賀県,3606,KORSK,滋賀県,0,,-
-Resort Anthem,sakura storm,0,,-,975,SHANA8,滋賀県,1342,B-RABI,滋賀県,2404,KORSK,滋賀県,0,,-
-Resort Anthem,Sakura Reflection,0,,-,475,HARE-L,滋賀県,1585,CAFEX,滋賀県,2370,KORSK,滋賀県,0,,-
-Resort Anthem,SABER WING,0,,-,512,-111-,滋賀県,1751,TINDER,滋賀県,2809,NOCCHI,滋賀県,0,,-
-Resort Anthem,Rock Da House,0,,-,771,SHANA8,滋賀県,1619,24,滋賀県,2201,-111-,滋賀県,0,,-
-Resort Anthem,reunion,481,UMOSHI,滋賀県,1323,JOE,滋賀県,2389,-111-,滋賀県,3227,KORSK,滋賀県,0,,-
-Resort Anthem,Programmed Life,0,,-,910,GYOFUN,滋賀県,1392,OGI,滋賀県,2266,R.K.,滋賀県,0,,-
-Resort Anthem,perditus†paradisus,0,,-,1188,MDHIME,滋賀県,2422,#52#,滋賀県,3839,KORSK,滋賀県,0,,-
-Resort Anthem,passionate fate,0,,-,1113,YUKI.,滋賀県,1637,8VSZU4,滋賀県,2110,IIDX77,滋賀県,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1353,YUKI.,滋賀県,2290,-111-,滋賀県,3264,KORSK,滋賀県,0,,-
-Resort Anthem,New Castle Legions,0,,-,810,SHANA8,滋賀県,1816,N.KJ,滋賀県,2648,WOLFEN,滋賀県,0,,-
-Resort Anthem,Never Fade Away,0,,-,550,MANA,滋賀県,1676,24,滋賀県,3028,KORSK,滋賀県,0,,-
-Resort Anthem,Mermaid girl,455,UNAGI,滋賀県,948,D,滋賀県,1702,LAMY,滋賀県,2205,#52#,滋賀県,0,,-
-Resort Anthem,Medicine of love,0,,-,657,OMEGA.,滋賀県,1106,XEFF.K,滋賀県,1728,-111-,滋賀県,0,,-
-Resort Anthem,Let The Track Flow,0,,-,764,YUKIHO,滋賀県,1478,AI-R,滋賀県,2641,KORSK,滋賀県,0,,-
-Resort Anthem,Kailua,0,,-,481,SHANA8,滋賀県,1348,TEMIKO,滋賀県,2156,KORSK,滋賀県,0,,-
-Resort Anthem,I FIGHT ME,0,,-,459,SYU.,滋賀県,1396,HARE-L,滋賀県,2131,B-RABI,滋賀県,0,,-
-Resort Anthem,Golden Palms,0,,-,660,SHANA8,滋賀県,1454,YUHEY.,滋賀県,2028,KORSK,滋賀県,2400,KORSK,滋賀県
-Resort Anthem,Fantasia,147,NEO,滋賀県,393,N,滋賀県,1535,XEFF.K,滋賀県,2234,KORSK,滋賀県,0,,-
-Resort Anthem,Everlasting Resort,0,,-,813,SHANA8,滋賀県,1314,-SB-,滋賀県,1867,R.K.,滋賀県,0,,-
-Resort Anthem,Eternal Tears,0,,-,435,ES.,滋賀県,989,D,滋賀県,1356,-111-,滋賀県,0,,-
-Resort Anthem,Energy Drive,0,,-,626,???,滋賀県,1063,CHALA?,滋賀県,2222,KORSK,滋賀県,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,830,MANA,滋賀県,1796,SHUKA,滋賀県,2401,NOCCHI,滋賀県,0,,-
-Resort Anthem,Destiny Sword,0,,-,788,SHANA8,滋賀県,1779,TSSK,滋賀県,2395,KORSK,滋賀県,0,,-
-Resort Anthem,DAYDREAMER,0,,-,1115,D,滋賀県,1665,GU,滋賀県,2523,-111-,滋賀県,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1253,RIPOPO,滋賀県,2118,TEMIKO,滋賀県,3124,KORSK,滋賀県,0,,-
-Resort Anthem,BROKEN EDEN,0,,-,855,T-109,滋賀県,1451,XEFF.K,滋賀県,2333,KORSK,滋賀県,0,,-
-Resort Anthem,Broken,0,,-,1048,TREK,滋賀県,2046,N.KJ,滋賀県,3146,KORSK,滋賀県,0,,-
-Resort Anthem,Breaking the ground,0,,-,1117,YUKI.,滋賀県,1746,YUKI.,滋賀県,2500,YUHEY.,滋賀県,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,949,SHANA8,滋賀県,1503,FU,滋賀県,2442,DMINIK,滋賀県,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,728,SHANA8,滋賀県,1522,N.KJ,滋賀県,2134,KORSK,滋賀県,0,,-
-Resort Anthem,Believe In Me,0,,-,1000,TREK,滋賀県,1844,8VSZU4,滋賀県,2371,NOCCHI,滋賀県,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,908,NABE-3,滋賀県,1939,R.K.,滋賀県,2898,NOCCHI,滋賀県,0,,-
-Resort Anthem,Answer,0,,-,689,SHANA8,滋賀県,1431,XEFF.K,滋賀県,2420,KORSK,滋賀県,0,,-
-Resort Anthem,ALBIDA,343,LINGY,滋賀県,1120,B-RABI,滋賀県,1881,WINTER,滋賀県,2986,KORSK,滋賀県,0,,-
-Resort Anthem,Aegis,0,,-,582,???,滋賀県,1332,TSSK,滋賀県,2329,KORSK,滋賀県,0,,-
 Lincle,陽炎,0,,-,361,NEO,滋賀県,1128,RIPOPO,滋賀県,1993,KORSK,滋賀県,0,,-
 Lincle,衰色小町メランコリア,0,,-,729,SHANA8,滋賀県,1353,XEFF.K,滋賀県,2325,R.K.,滋賀県,0,,-
 Lincle,蛇神,296,GUREN$,滋賀県,705,TYRAN,滋賀県,1428,FALCON,滋賀県,2789,KORSK,滋賀県,0,,-
@@ -633,6 +576,63 @@ Lincle,ANAGRAMS I to Y,0,,-,830,SHANA8,滋賀県,1589,XEFF.K,滋賀県,2473,-111
 Lincle,Almace,0,,-,793,SHANA8,滋賀県,1253,WINTER,滋賀県,1973,R.K.,滋賀県,0,,-
 Lincle,532nm,0,,-,510,MR.814,滋賀県,1161,XEFF.K,滋賀県,2653,KORSK,滋賀県,0,,-
 Lincle,24th Century BOY,0,,-,810,RIPOPO,滋賀県,1834,CHII-8,滋賀県,2871,KORSK,滋賀県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,722,SHANA8,滋賀県,2084,TSSK,滋賀県,3392,KORSK,滋賀県,0,,-
+Resort Anthem,灼熱Beach Side Bunny,542,D,滋賀県,1037,NABE-3,滋賀県,1961,KORSK,滋賀県,3063,IIDX77,滋賀県,0,,-
+Resort Anthem,旅人リラン,0,,-,931,MR.814,滋賀県,1869,TEMIKO,滋賀県,2612,KORSK,滋賀県,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,893,SHANA8,滋賀県,2006,-SB-,滋賀県,2810,KORSK,滋賀県,0,,-
+Resort Anthem,中華急行,0,,-,328,TEMIKO,滋賀県,1515,KOTA3,滋賀県,2320,-111-,滋賀県,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,381,YUKI,滋賀県,781,SHANA8,滋賀県,1305,RIPOPO,滋賀県,1914,KORSK,滋賀県,0,,-
+Resort Anthem,おおきなこえで,0,,-,427,N,滋賀県,943,8VSZU4,滋賀県,1494,R.K.,滋賀県,2155,KORSK,滋賀県
+Resort Anthem,ZETA～素数の世界と超越者～,298,17N7-L,滋賀県,501,SHANA8,滋賀県,2166,NOCCHI,滋賀県,3113,RD,滋賀県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,767,MIRI,滋賀県,1738,8VSZU4,滋賀県,2748,KORSK,滋賀県,0,,-
+Resort Anthem,Wuv U,0,,-,394,K-NEKO,滋賀県,1295,TSSK,滋賀県,1707,RD,滋賀県,0,,-
+Resort Anthem,WISE UP!,172,KURO,滋賀県,299,K,滋賀県,1127,XEFF.K,滋賀県,1576,TSSK,滋賀県,2610,KORSK,滋賀県
+Resort Anthem,Watch Out Pt.2,0,,-,952,SHANA8,滋賀県,1908,TSSK,滋賀県,2855,IIDX77,滋賀県,0,,-
+Resort Anthem,Vermillion,0,,-,291,AIR,滋賀県,983,D,滋賀県,2031,YUHEY.,滋賀県,0,,-
+Resort Anthem,Tropical April,0,,-,1448,CHALA?,滋賀県,2212,24,滋賀県,2743,KORSK,滋賀県,0,,-
+Resort Anthem,THE FALLEN,0,,-,834,SHANA8,滋賀県,1340,FU,滋賀県,2679,RD,滋賀県,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,761,SHANA8,滋賀県,1545,YUKI.,滋賀県,2167,KORSK,滋賀県,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,894,N,滋賀県,2018,24,滋賀県,2932,KORSK,滋賀県,0,,-
+Resort Anthem,STELLAR WIND,247,KKKKKK,滋賀県,578,MR.814,滋賀県,1739,TEMIKO,滋賀県,2676,KORSK,滋賀県,0,,-
+Resort Anthem,Stay my side,0,,-,592,SHANA8,滋賀県,823,UNAGI,滋賀県,1323,HIKO,滋賀県,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,673,HIYORI,滋賀県,1387,FU,滋賀県,2977,KORSK,滋賀県,0,,-
+Resort Anthem,Space Time,0,,-,553,SHANA8,滋賀県,1616,INRTIA,滋賀県,2209,KORSK,滋賀県,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,701,SHANA8,滋賀県,2311,24,滋賀県,3606,KORSK,滋賀県,0,,-
+Resort Anthem,sakura storm,0,,-,975,SHANA8,滋賀県,1342,B-RABI,滋賀県,2404,KORSK,滋賀県,0,,-
+Resort Anthem,Sakura Reflection,0,,-,475,HARE-L,滋賀県,1585,CAFEX,滋賀県,2370,KORSK,滋賀県,0,,-
+Resort Anthem,SABER WING,0,,-,512,-111-,滋賀県,1751,TINDER,滋賀県,2809,NOCCHI,滋賀県,0,,-
+Resort Anthem,Rock Da House,0,,-,771,SHANA8,滋賀県,1619,24,滋賀県,2201,-111-,滋賀県,0,,-
+Resort Anthem,reunion,481,UMOSHI,滋賀県,1323,JOE,滋賀県,2389,-111-,滋賀県,3227,KORSK,滋賀県,0,,-
+Resort Anthem,Programmed Life,0,,-,910,GYOFUN,滋賀県,1392,OGI,滋賀県,2266,R.K.,滋賀県,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1188,MDHIME,滋賀県,2422,#52#,滋賀県,3839,KORSK,滋賀県,0,,-
+Resort Anthem,passionate fate,0,,-,1113,YUKI.,滋賀県,1637,8VSZU4,滋賀県,2110,IIDX77,滋賀県,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1353,YUKI.,滋賀県,2290,-111-,滋賀県,3264,KORSK,滋賀県,0,,-
+Resort Anthem,New Castle Legions,0,,-,810,SHANA8,滋賀県,1816,N.KJ,滋賀県,2648,WOLFEN,滋賀県,0,,-
+Resort Anthem,Never Fade Away,0,,-,550,MANA,滋賀県,1676,24,滋賀県,3028,KORSK,滋賀県,0,,-
+Resort Anthem,Mermaid girl,455,UNAGI,滋賀県,948,D,滋賀県,1702,LAMY,滋賀県,2205,#52#,滋賀県,0,,-
+Resort Anthem,Medicine of love,0,,-,657,OMEGA.,滋賀県,1106,XEFF.K,滋賀県,1728,-111-,滋賀県,0,,-
+Resort Anthem,Let The Track Flow,0,,-,764,YUKIHO,滋賀県,1478,AI-R,滋賀県,2641,KORSK,滋賀県,0,,-
+Resort Anthem,Kailua,0,,-,481,SHANA8,滋賀県,1348,TEMIKO,滋賀県,2156,KORSK,滋賀県,0,,-
+Resort Anthem,I FIGHT ME,0,,-,459,SYU.,滋賀県,1396,HARE-L,滋賀県,2131,B-RABI,滋賀県,0,,-
+Resort Anthem,Golden Palms,0,,-,660,SHANA8,滋賀県,1454,YUHEY.,滋賀県,2028,KORSK,滋賀県,2400,KORSK,滋賀県
+Resort Anthem,Fantasia,147,NEO,滋賀県,393,N,滋賀県,1535,XEFF.K,滋賀県,2234,KORSK,滋賀県,0,,-
+Resort Anthem,Everlasting Resort,0,,-,813,SHANA8,滋賀県,1314,-SB-,滋賀県,1867,R.K.,滋賀県,0,,-
+Resort Anthem,Eternal Tears,0,,-,435,ES.,滋賀県,989,D,滋賀県,1356,-111-,滋賀県,0,,-
+Resort Anthem,Energy Drive,0,,-,626,???,滋賀県,1063,CHALA?,滋賀県,2222,KORSK,滋賀県,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,830,MANA,滋賀県,1796,SHUKA,滋賀県,2401,NOCCHI,滋賀県,0,,-
+Resort Anthem,Destiny Sword,0,,-,788,SHANA8,滋賀県,1779,TSSK,滋賀県,2395,KORSK,滋賀県,0,,-
+Resort Anthem,DAYDREAMER,0,,-,1115,D,滋賀県,1665,GU,滋賀県,2523,-111-,滋賀県,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1253,RIPOPO,滋賀県,2118,TEMIKO,滋賀県,3124,KORSK,滋賀県,0,,-
+Resort Anthem,BROKEN EDEN,0,,-,855,T-109,滋賀県,1451,XEFF.K,滋賀県,2333,KORSK,滋賀県,0,,-
+Resort Anthem,Broken,0,,-,1048,TREK,滋賀県,2046,N.KJ,滋賀県,3146,KORSK,滋賀県,0,,-
+Resort Anthem,Breaking the ground,0,,-,1117,YUKI.,滋賀県,1746,YUKI.,滋賀県,2500,YUHEY.,滋賀県,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,949,SHANA8,滋賀県,1503,FU,滋賀県,2442,DMINIK,滋賀県,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,728,SHANA8,滋賀県,1522,N.KJ,滋賀県,2134,KORSK,滋賀県,0,,-
+Resort Anthem,Believe In Me,0,,-,1000,TREK,滋賀県,1844,8VSZU4,滋賀県,2371,NOCCHI,滋賀県,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,908,NABE-3,滋賀県,1939,R.K.,滋賀県,2898,NOCCHI,滋賀県,0,,-
+Resort Anthem,Answer,0,,-,689,SHANA8,滋賀県,1431,XEFF.K,滋賀県,2420,KORSK,滋賀県,0,,-
+Resort Anthem,ALBIDA,343,LINGY,滋賀県,1120,B-RABI,滋賀県,1881,WINTER,滋賀県,2986,KORSK,滋賀県,0,,-
+Resort Anthem,Aegis,0,,-,582,???,滋賀県,1332,TSSK,滋賀県,2329,KORSK,滋賀県,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,738,MR.814,滋賀県,1545,CHEF,滋賀県,2993,RD,滋賀県,3379,KORSK,滋賀県
 tricoro,音楽,0,,-,764,SHI4TO,滋賀県,1954,ONOKEN,滋賀県,2776,RD,滋賀県,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,825,KR0,滋賀県,2198,JIMMY,滋賀県,3643,KORSK,滋賀県,0,,-
@@ -704,7 +704,7 @@ tricoro,examination leave,0,,-,1119,TREK,滋賀県,1727,XECTY1,滋賀県,3403,II
 tricoro,Elemental Creation,240,JOE,滋賀県,1339,D,滋賀県,2204,SPIRIT,滋賀県,4088,KORSK,滋賀県,0,,-
 tricoro,Devilz Staircase,0,,-,610,RUTE,滋賀県,2083,INRTIA,滋賀県,3259,KORSK,滋賀県,0,,-
 tricoro,DAY DREAM,0,,-,512,CAFEX,滋賀県,1219,AUSAKA,滋賀県,2020,KORSK,滋賀県,0,,-
-tricoro,Cookie Bouquets,0,,-,799,SHANA8,滋賀県,1936,NAWONO,滋賀県,3384,DMINIK,滋賀県,0,,-
+,Cookie Bouquets,0,,-,799,SHANA8,滋賀県,1936,NAWONO,滋賀県,3384,DMINIK,滋賀県,0,,-
 tricoro,connective,0,,-,274,N,滋賀県,864,MANA,滋賀県,1598,R.K.,滋賀県,0,,-
 tricoro,Confiserie,0,,-,897,MDHIME,滋賀県,2055,TSSK,滋賀県,3514,RD,滋賀県,0,,-
 tricoro,CONCEPTUAL,0,,-,807,SHIKI,滋賀県,1335,24,滋賀県,2734,KORSK,滋賀県,0,,-
@@ -950,6 +950,92 @@ copula,AO-1,0,,-,998,RIPOPO,滋賀県,1943,-111-,滋賀県,2797,KORSK,滋賀県,
 copula,Angelic Jelly,0,,-,1071,WINTER,滋賀県,1938,CHII-8,滋賀県,2759,NOCCHI,滋賀県,0,,-
 copula,Acid Pumper,0,,-,622,SHANA8,滋賀県,1503,CHII-8,滋賀県,2474,KORSK,滋賀県,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,632,SHANA8,滋賀県,1612,TSSK,滋賀県,2401,IIDX77,滋賀県,0,,-
+CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,701,YUKI.,滋賀県,1235,24,滋賀県,2307,KORSK,滋賀県,0,,-
+CANNON BALLERS,純真可憐デザイア,168,RURU,滋賀県,789,RIPOPO,滋賀県,1643,B-RABI,滋賀県,2340,-111-,滋賀県,0,,-
+CANNON BALLERS,神謳 -RESONANCE-,0,,-,1328,TREK,滋賀県,2451,TEMIKO,滋賀県,4010,KORSK,滋賀県,0,,-
+CANNON BALLERS,東京神話,436,SHANA8,滋賀県,1056,B-RABI,滋賀県,1705,24,滋賀県,2860,KORSK,滋賀県,0,,-
+CANNON BALLERS,命の標本,0,,-,626,MANA,滋賀県,1569,KDM-C,滋賀県,2639,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,共犯へヴンズコード,0,,-,61,IWASAN,滋賀県,1291,FALCON,滋賀県,2278,KORSK,滋賀県,0,,-
+CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,546,YUKI,滋賀県,1586,8VSZU4,滋賀県,2144,LAMY,滋賀県,0,,-
+CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1024,YUKI.,滋賀県,1793,CHII-8,滋賀県,2723,-111-,滋賀県,0,,-
+CANNON BALLERS,バスルーム ロマンス,0,,-,886,D,滋賀県,1326,YUKI.,滋賀県,2425,IIDX77,滋賀県,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,827,YUKI.,滋賀県,1717,YUKI.,滋賀県,2531,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,810,SHANA8,滋賀県,1548,24,滋賀県,2455,KORSK,滋賀県,0,,-
+CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,1010,YUKI.,滋賀県,1546,B-RABI,滋賀県,2079,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1428,B-RABI,滋賀県,2268,RAIN,滋賀県,3463,KORSK,滋賀県,0,,-
+CANNON BALLERS,エディブルフラワーの独白,0,,-,0,,-,1542,24,滋賀県,2200,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,836,ASSIMA,滋賀県,1231,UNT1!!,滋賀県,2511,KORSK,滋賀県,0,,-
+CANNON BALLERS,Xperanza,516,17N7-L,滋賀県,1398,B-RABI,滋賀県,2395,OMEGA.,滋賀県,3164,KORSK,滋賀県,0,,-
+CANNON BALLERS,Usual Days-remix,0,,-,1105,8VSZU4,滋賀県,1486,#52#,滋賀県,2668,IIDX77,滋賀県,0,,-
+CANNON BALLERS,UMMU,253,KKKKKK,滋賀県,1247,B-RABI,滋賀県,2059,#52#,滋賀県,3098,KORSK,滋賀県,0,,-
+CANNON BALLERS,The Revolution (VIP Mix),0,,-,750,SHANA8,滋賀県,1291,KAO,滋賀県,1825,8VSZU4,滋賀県,0,,-
+CANNON BALLERS,The Chase,0,,-,694,YUKI.,滋賀県,1283,Z.O.O,滋賀県,2178,IIDX77,滋賀県,0,,-
+CANNON BALLERS,THE CANNONBALLER,453,SOUNDT,滋賀県,1468,YUKI.,滋賀県,2444,KORSK,滋賀県,3429,KORSK,滋賀県,0,,-
+CANNON BALLERS,Temple of Anubis,0,,-,928,MR.814,滋賀県,1465,YUKI.,滋賀県,2655,IIDX77,滋賀県,0,,-
+CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,894,SHANA8,滋賀県,1533,SMIX*,滋賀県,2658,-111-,滋賀県,0,,-
+CANNON BALLERS,Static State,0,,-,1015,YUKI.,滋賀県,1600,N,滋賀県,2333,KORSK,滋賀県,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,614,SYARO,滋賀県,1612,#52#,滋賀県,2287,KORSK,滋賀県,0,,-
+CANNON BALLERS,SPEED DEMON,0,,-,696,SHANA8,滋賀県,1312,$5,滋賀県,2251,6KKA,滋賀県,0,,-
+CANNON BALLERS,Slipstream,0,,-,1045,YUKI.,滋賀県,1943,TEMIKO,滋賀県,3536,KORSK,滋賀県,0,,-
+CANNON BALLERS,Sleepless days,0,,-,510,N.KJ,滋賀県,889,KANATA,滋賀県,1575,DMINIK,滋賀県,0,,-
+CANNON BALLERS,REVOLVER,0,,-,917,YUKI.,滋賀県,1411,FALCON,滋賀県,2707,NOCCHI,滋賀県,3152,KORSK,滋賀県
+CANNON BALLERS,Raspberry Railgun,0,,-,1319,YUKI.,滋賀県,2226,YU,滋賀県,3161,KORSK,滋賀県,0,,-
+CANNON BALLERS,Rampage,0,,-,1263,YUKI.,滋賀県,2467,#52#,滋賀県,3617,KORSK,滋賀県,0,,-
+CANNON BALLERS,Persephone,0,,-,0,,-,1890,NOSRI,滋賀県,2982,KORSK,滋賀県,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,1153,YUKI.,滋賀県,1989,HIMO-Q,滋賀県,2904,KORSK,滋賀県,0,,-
+CANNON BALLERS,Only for now,0,,-,832,SHANA8,滋賀県,1444,YUKI.,滋賀県,2257,KORSK,滋賀県,0,,-
+CANNON BALLERS,O/D*20,0,,-,1131,YUKI.,滋賀県,1656,KOTA3,滋賀県,2132,KORSK,滋賀県,0,,-
+CANNON BALLERS,Nothing but Theory,0,,-,979,SHANA8,滋賀県,1520,4690,滋賀県,2837,-111-,滋賀県,0,,-
+CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,793,MR.814,滋賀県,1453,YUKI.,滋賀県,2313,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1336,YUKI.,滋賀県,1910,24,滋賀県,3631,KORSK,滋賀県,0,,-
+CANNON BALLERS,n'pa pa BBQ,0,,-,788,MR.814,滋賀県,1683,SPIRIT,滋賀県,2768,KORSK,滋賀県,0,,-
+CANNON BALLERS,Midnight Lady,0,,-,568,MR.814,滋賀県,1035,SHANA8,滋賀県,1942,#52#,滋賀県,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,777,N,滋賀県,1252,YUKI.,滋賀県,2456,IIDX77,滋賀県,0,,-
+CANNON BALLERS,LUV DRIVE,0,,-,819,YUKI.,滋賀県,1358,B-RABI,滋賀県,2098,WA2.99,滋賀県,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,902,CHUN,滋賀県,1865,24,滋賀県,3411,KORSK,滋賀県,0,,-
+CANNON BALLERS,Initiation,488,KANAME,滋賀県,1446,YUKI.,滋賀県,2470,#52#,滋賀県,3924,KORSK,滋賀県,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1140,TREK,滋賀県,2171,24,滋賀県,3530,KORSK,滋賀県,0,,-
+CANNON BALLERS,I Love You,0,,-,992,NABE-3,滋賀県,1881,LAMY,滋賀県,2716,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,HYPE THE CORE,0,,-,904,MR.814,滋賀県,1957,24,滋賀県,3005,KORSK,滋賀県,0,,-
+CANNON BALLERS,Hella Deep,0,,-,576,SHANA8,滋賀県,934,DTKC,滋賀県,1845,IIDX77,滋賀県,0,,-
+CANNON BALLERS,HAT TRICK,0,,-,831,YUKI.,滋賀県,1394,YUKI.,滋賀県,2216,IIDX77,滋賀県,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,488,T-109,滋賀県,1229,24,滋賀県,1910,KORSK,滋賀県,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,868,SHIKI,滋賀県,1331,NABE-3,滋賀県,2230,RD,滋賀県,0,,-
+CANNON BALLERS,From Time To Time,0,,-,401,SOUYA,滋賀県,1753,SHIFT,滋賀県,2504,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,FREEDOM,0,,-,916,SHIKI,滋賀県,1496,$5,滋賀県,2895,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,Fervidex,0,,-,863,B-RABI,滋賀県,1719,JIMMY,滋賀県,2709,KORSK,滋賀県,0,,-
+CANNON BALLERS,Expanded !!,0,,-,642,SHANA8,滋賀県,1442,NABE-3,滋賀県,2576,R.K.,滋賀県,0,,-
+CANNON BALLERS,Exhaust Hype,0,,-,1013,YUKI.,滋賀県,1803,TEMIKO,滋賀県,2816,KORSK,滋賀県,0,,-
+CANNON BALLERS,encounter,0,,-,847,MR.814,滋賀県,1745,24,滋賀県,3290,KORSK,滋賀県,0,,-
+CANNON BALLERS,EMERALDAS,442,MALUKU,滋賀県,1287,FALCON,滋賀県,2443,KORSK,滋賀県,3465,KORSK,滋賀県,0,,-
+CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,965,YUKI.,滋賀県,1259,CONRAD,滋賀県,2573,KORSK,滋賀県,0,,-
+CANNON BALLERS,DropZ-Line-,0,,-,1083,SHANA8,滋賀県,1975,24,滋賀県,3171,KORSK,滋賀県,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1339,YUKI.,滋賀県,2371,24,滋賀県,3990,KORSK,滋賀県,0,,-
+CANNON BALLERS,DEADHEAT,0,,-,860,MOL,滋賀県,1960,24,滋賀県,3329,RD,滋賀県,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,436,KIGUMA,滋賀県,1425,B-RABI,滋賀県,2080,LAMY,滋賀県,0,,-
+CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1144,TREK,滋賀県,1928,#52#,滋賀県,2646,KORSK,滋賀県,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,838,B-RABI,滋賀県,1478,B-RABI,滋賀県,2120,-111-,滋賀県,0,,-
+CANNON BALLERS,ChaserXX,0,,-,897,MR.814,滋賀県,1849,#52#,滋賀県,2850,KORSK,滋賀県,0,,-
+CANNON BALLERS,Break Stasis,0,,-,1274,N,滋賀県,1826,SPIRIT,滋賀県,2511,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,Boomy and The Boost,393,AI-R,滋賀県,870,TORA,滋賀県,1985,-SB-,滋賀県,3534,KORSK,滋賀県,0,,-
+CANNON BALLERS,Best of Me,0,,-,628,MANA,滋賀県,1394,YAYO84,滋賀県,2216,KORSK,滋賀県,0,,-
+CANNON BALLERS,Beast mode,0,,-,728,96BOX,滋賀県,1400,XECTY1,滋賀県,2725,IIDX77,滋賀県,0,,-
+CANNON BALLERS,Be a Hero!,0,,-,766,YUKI.,滋賀県,1798,N,滋賀県,3094,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,Battleground,0,,-,1031,CHALA?,滋賀県,1735,SMIX*,滋賀県,2669,KORSK,滋賀県,0,,-
+CANNON BALLERS,Back Spin Sweeper,0,,-,765,TREK,滋賀県,1400,LAMY,滋賀県,2281,KORSK,滋賀県,0,,-
+CANNON BALLERS,Around the Future,0,,-,665,JELLY,滋賀県,1576,SMIX*,滋賀県,2600,KORSK,滋賀県,0,,-
+CANNON BALLERS,Arca,0,,-,630,FREDY,滋賀県,1804,CHII-8,滋賀県,3124,KORSK,滋賀県,0,,-
+CANNON BALLERS,Antigravity,0,,-,998,TREK,滋賀県,1935,24,滋賀県,3072,KORSK,滋賀県,0,,-
+CANNON BALLERS,ANCHOR,0,,-,1289,TREK,滋賀県,2511,#52#,滋賀県,3582,KORSK,滋賀県,0,,-
+CANNON BALLERS,ANAGMA,0,,-,915,SHANA8,滋賀県,1639,FALCON,滋賀県,2628,KORSK,滋賀県,0,,-
+CANNON BALLERS,Amor De Verao,0,,-,719,SHANA8,滋賀県,1369,4690,滋賀県,2338,KORSK,滋賀県,0,,-
+CANNON BALLERS,Alpheratz,0,,-,416,YUKI.,滋賀県,1016,YUKI.,滋賀県,2081,NOCCHI,滋賀県,0,,-
+CANNON BALLERS,ACCELERATE,0,,-,1042,NYET,滋賀県,1480,$5,滋賀県,2481,-111-,滋賀県,0,,-
+CANNON BALLERS,Abraxas,0,,-,745,SHANA8,滋賀県,1495,YAYO84,滋賀県,2434,KORSK,滋賀県,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1123,RIPOPO,滋賀県,2344,24,滋賀県,3573,KORSK,滋賀県,0,,-
+CANNON BALLERS,255,0,,-,888,3*ZU,滋賀県,1573,24,滋賀県,3238,KORSK,滋賀県,0,,-
+CANNON BALLERS,2 Player,0,,-,690,JUT#AI,滋賀県,1205,D,滋賀県,2491,TSSK,滋賀県,0,,-
+CANNON BALLERS,1001 -ESCAPE-,0,,-,990,FKAKEN,滋賀県,1568,SPIRIT,滋賀県,2634,KORSK,滋賀県,0,,-
 SINOBUZ,鴉,0,,-,1453,SHIKI,滋賀県,2171,24,滋賀県,2698,-111-,滋賀県,0,,-
 SINOBUZ,童話回廊,0,,-,844,TREK,滋賀県,1741,24,滋賀県,3110,KORSK,滋賀県,0,,-
 SINOBUZ,禍根,0,,-,750,D,滋賀県,1268,TEMIKO,滋賀県,2490,YUHEY.,滋賀県,0,,-
@@ -1039,193 +1125,6 @@ SINOBUZ,Amazing Mirage,297,ABC,滋賀県,861,TREK,滋賀県,1751,LAMY,滋賀県,
 SINOBUZ,(This Is Not) The Angels,0,,-,593,KORSK,滋賀県,1311,999999,滋賀県,2685,KORSK,滋賀県,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,843,???,滋賀県,1970,YUHEY.,滋賀県,3421,KORSK,滋賀県,0,,-
 SINOBUZ,!Viva!,0,,-,874,SHANA8,滋賀県,1618,8VSZU4,滋賀県,1993,R.K.,滋賀県,0,,-
-CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,701,YUKI.,滋賀県,1235,24,滋賀県,2307,KORSK,滋賀県,0,,-
-CANNON BALLERS,純真可憐デザイア,168,RURU,滋賀県,789,RIPOPO,滋賀県,1643,B-RABI,滋賀県,2340,-111-,滋賀県,0,,-
-CANNON BALLERS,神謳 -RESONANCE-,0,,-,1328,TREK,滋賀県,2451,TEMIKO,滋賀県,4010,KORSK,滋賀県,0,,-
-CANNON BALLERS,東京神話,436,SHANA8,滋賀県,1056,B-RABI,滋賀県,1705,24,滋賀県,2860,KORSK,滋賀県,0,,-
-CANNON BALLERS,命の標本,0,,-,626,MANA,滋賀県,1569,KDM-C,滋賀県,2639,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,共犯へヴンズコード,0,,-,61,IWASAN,滋賀県,1291,FALCON,滋賀県,2278,KORSK,滋賀県,0,,-
-CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,546,YUKI,滋賀県,1586,8VSZU4,滋賀県,2144,LAMY,滋賀県,0,,-
-CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1024,YUKI.,滋賀県,1793,CHII-8,滋賀県,2723,-111-,滋賀県,0,,-
-CANNON BALLERS,バスルーム ロマンス,0,,-,886,D,滋賀県,1326,YUKI.,滋賀県,2425,IIDX77,滋賀県,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,827,YUKI.,滋賀県,1717,YUKI.,滋賀県,2531,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,810,SHANA8,滋賀県,1548,24,滋賀県,2455,KORSK,滋賀県,0,,-
-CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,1010,YUKI.,滋賀県,1546,B-RABI,滋賀県,2079,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1428,B-RABI,滋賀県,2268,RAIN,滋賀県,3463,KORSK,滋賀県,0,,-
-CANNON BALLERS,エディブルフラワーの独白,0,,-,0,,-,1542,24,滋賀県,2200,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,836,ASSIMA,滋賀県,1231,UNT1!!,滋賀県,2511,KORSK,滋賀県,0,,-
-CANNON BALLERS,Xperanza,516,17N7-L,滋賀県,1398,B-RABI,滋賀県,2395,OMEGA.,滋賀県,3164,KORSK,滋賀県,0,,-
-CANNON BALLERS,Usual Days-remix,0,,-,1105,8VSZU4,滋賀県,1486,#52#,滋賀県,2668,IIDX77,滋賀県,0,,-
-CANNON BALLERS,UMMU,253,KKKKKK,滋賀県,1247,B-RABI,滋賀県,2059,#52#,滋賀県,3098,KORSK,滋賀県,0,,-
-CANNON BALLERS,The Revolution (VIP Mix),0,,-,750,SHANA8,滋賀県,1291,KAO,滋賀県,1825,8VSZU4,滋賀県,0,,-
-CANNON BALLERS,The Chase,0,,-,694,YUKI.,滋賀県,1283,Z.O.O,滋賀県,2178,IIDX77,滋賀県,0,,-
-CANNON BALLERS,THE CANNONBALLER,453,SOUNDT,滋賀県,1468,YUKI.,滋賀県,2444,KORSK,滋賀県,3429,KORSK,滋賀県,0,,-
-CANNON BALLERS,Temple of Anubis,0,,-,928,MR.814,滋賀県,1465,YUKI.,滋賀県,2655,IIDX77,滋賀県,0,,-
-CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,894,SHANA8,滋賀県,1533,SMIX*,滋賀県,2658,-111-,滋賀県,0,,-
-CANNON BALLERS,Static State,0,,-,1015,YUKI.,滋賀県,1600,N,滋賀県,2333,KORSK,滋賀県,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,614,SYARO,滋賀県,1612,#52#,滋賀県,2287,KORSK,滋賀県,0,,-
-CANNON BALLERS,SPEED DEMON,0,,-,696,SHANA8,滋賀県,1312,$5,滋賀県,2251,6KKA,滋賀県,0,,-
-CANNON BALLERS,Slipstream,0,,-,1045,YUKI.,滋賀県,1943,TEMIKO,滋賀県,3536,KORSK,滋賀県,0,,-
-CANNON BALLERS,Sleepless days,0,,-,510,N.KJ,滋賀県,889,KANATA,滋賀県,1575,DMINIK,滋賀県,0,,-
-CANNON BALLERS,REVOLVER,0,,-,917,YUKI.,滋賀県,1411,FALCON,滋賀県,2707,NOCCHI,滋賀県,3152,KORSK,滋賀県
-CANNON BALLERS,Raspberry Railgun,0,,-,1319,YUKI.,滋賀県,2226,YU,滋賀県,3161,KORSK,滋賀県,0,,-
-CANNON BALLERS,Rampage,0,,-,1263,YUKI.,滋賀県,2467,#52#,滋賀県,3617,KORSK,滋賀県,0,,-
-CANNON BALLERS,Persephone,0,,-,0,,-,1890,NOSRI,滋賀県,2982,KORSK,滋賀県,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,1153,YUKI.,滋賀県,1989,HIMO-Q,滋賀県,2904,KORSK,滋賀県,0,,-
-CANNON BALLERS,Only for now,0,,-,832,SHANA8,滋賀県,1444,YUKI.,滋賀県,2257,KORSK,滋賀県,0,,-
-CANNON BALLERS,O/D*20,0,,-,1131,YUKI.,滋賀県,1656,KOTA3,滋賀県,2132,KORSK,滋賀県,0,,-
-CANNON BALLERS,Nothing but Theory,0,,-,979,SHANA8,滋賀県,1520,4690,滋賀県,2837,-111-,滋賀県,0,,-
-CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,793,MR.814,滋賀県,1453,YUKI.,滋賀県,2313,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1336,YUKI.,滋賀県,1910,24,滋賀県,3631,KORSK,滋賀県,0,,-
-CANNON BALLERS,n'pa pa BBQ,0,,-,788,MR.814,滋賀県,1683,SPIRIT,滋賀県,2768,KORSK,滋賀県,0,,-
-CANNON BALLERS,Midnight Lady,0,,-,568,MR.814,滋賀県,1035,SHANA8,滋賀県,1942,#52#,滋賀県,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,777,N,滋賀県,1252,YUKI.,滋賀県,2456,IIDX77,滋賀県,0,,-
-CANNON BALLERS,LUV DRIVE,0,,-,819,YUKI.,滋賀県,1358,B-RABI,滋賀県,2098,WA2.99,滋賀県,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,902,CHUN,滋賀県,1865,24,滋賀県,3411,KORSK,滋賀県,0,,-
-CANNON BALLERS,Initiation,488,KANAME,滋賀県,1446,YUKI.,滋賀県,2470,#52#,滋賀県,3924,KORSK,滋賀県,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1140,TREK,滋賀県,2171,24,滋賀県,3530,KORSK,滋賀県,0,,-
-CANNON BALLERS,I Love You,0,,-,992,NABE-3,滋賀県,1881,LAMY,滋賀県,2716,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,HYPE THE CORE,0,,-,904,MR.814,滋賀県,1957,24,滋賀県,3005,KORSK,滋賀県,0,,-
-CANNON BALLERS,Hella Deep,0,,-,576,SHANA8,滋賀県,934,DTKC,滋賀県,1845,IIDX77,滋賀県,0,,-
-CANNON BALLERS,HAT TRICK,0,,-,831,YUKI.,滋賀県,1394,YUKI.,滋賀県,2216,IIDX77,滋賀県,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,488,T-109,滋賀県,1229,24,滋賀県,1910,KORSK,滋賀県,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,868,SHIKI,滋賀県,1331,NABE-3,滋賀県,2230,RD,滋賀県,0,,-
-CANNON BALLERS,From Time To Time,0,,-,401,SOUYA,滋賀県,1753,SHIFT,滋賀県,2504,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,FREEDOM,0,,-,916,SHIKI,滋賀県,1496,$5,滋賀県,2895,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,Fervidex,0,,-,863,B-RABI,滋賀県,1719,JIMMY,滋賀県,2709,KORSK,滋賀県,0,,-
-CANNON BALLERS,Expanded !!,0,,-,642,SHANA8,滋賀県,1442,NABE-3,滋賀県,2576,R.K.,滋賀県,0,,-
-CANNON BALLERS,Exhaust Hype,0,,-,1013,YUKI.,滋賀県,1803,TEMIKO,滋賀県,2816,KORSK,滋賀県,0,,-
-CANNON BALLERS,encounter,0,,-,847,MR.814,滋賀県,1745,24,滋賀県,3290,KORSK,滋賀県,0,,-
-CANNON BALLERS,EMERALDAS,442,MALUKU,滋賀県,1287,FALCON,滋賀県,2443,KORSK,滋賀県,3465,KORSK,滋賀県,0,,-
-CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,965,YUKI.,滋賀県,1259,CONRAD,滋賀県,2573,KORSK,滋賀県,0,,-
-CANNON BALLERS,DropZ-Line-,0,,-,1083,SHANA8,滋賀県,1975,24,滋賀県,3171,KORSK,滋賀県,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1339,YUKI.,滋賀県,2371,24,滋賀県,3990,KORSK,滋賀県,0,,-
-CANNON BALLERS,DEADHEAT,0,,-,860,MOL,滋賀県,1960,24,滋賀県,3329,RD,滋賀県,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,436,KIGUMA,滋賀県,1425,B-RABI,滋賀県,2080,LAMY,滋賀県,0,,-
-CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1144,TREK,滋賀県,1928,#52#,滋賀県,2646,KORSK,滋賀県,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,838,B-RABI,滋賀県,1478,B-RABI,滋賀県,2120,-111-,滋賀県,0,,-
-CANNON BALLERS,ChaserXX,0,,-,897,MR.814,滋賀県,1849,#52#,滋賀県,2850,KORSK,滋賀県,0,,-
-CANNON BALLERS,Break Stasis,0,,-,1274,N,滋賀県,1826,SPIRIT,滋賀県,2511,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,Boomy and The Boost,393,AI-R,滋賀県,870,TORA,滋賀県,1985,-SB-,滋賀県,3534,KORSK,滋賀県,0,,-
-CANNON BALLERS,Best of Me,0,,-,628,MANA,滋賀県,1394,YAYO84,滋賀県,2216,KORSK,滋賀県,0,,-
-CANNON BALLERS,Beast mode,0,,-,728,96BOX,滋賀県,1400,XECTY1,滋賀県,2725,IIDX77,滋賀県,0,,-
-CANNON BALLERS,Be a Hero!,0,,-,766,YUKI.,滋賀県,1798,N,滋賀県,3094,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,Battleground,0,,-,1031,CHALA?,滋賀県,1735,SMIX*,滋賀県,2669,KORSK,滋賀県,0,,-
-CANNON BALLERS,Back Spin Sweeper,0,,-,765,TREK,滋賀県,1400,LAMY,滋賀県,2281,KORSK,滋賀県,0,,-
-CANNON BALLERS,Around the Future,0,,-,665,JELLY,滋賀県,1576,SMIX*,滋賀県,2600,KORSK,滋賀県,0,,-
-CANNON BALLERS,Arca,0,,-,630,FREDY,滋賀県,1804,CHII-8,滋賀県,3124,KORSK,滋賀県,0,,-
-CANNON BALLERS,Antigravity,0,,-,998,TREK,滋賀県,1935,24,滋賀県,3072,KORSK,滋賀県,0,,-
-CANNON BALLERS,ANCHOR,0,,-,1289,TREK,滋賀県,2511,#52#,滋賀県,3582,KORSK,滋賀県,0,,-
-CANNON BALLERS,ANAGMA,0,,-,915,SHANA8,滋賀県,1639,FALCON,滋賀県,2628,KORSK,滋賀県,0,,-
-CANNON BALLERS,Amor De Verao,0,,-,719,SHANA8,滋賀県,1369,4690,滋賀県,2338,KORSK,滋賀県,0,,-
-CANNON BALLERS,Alpheratz,0,,-,416,YUKI.,滋賀県,1016,YUKI.,滋賀県,2081,NOCCHI,滋賀県,0,,-
-CANNON BALLERS,ACCELERATE,0,,-,1042,NYET,滋賀県,1480,$5,滋賀県,2481,-111-,滋賀県,0,,-
-CANNON BALLERS,Abraxas,0,,-,745,SHANA8,滋賀県,1495,YAYO84,滋賀県,2434,KORSK,滋賀県,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1123,RIPOPO,滋賀県,2344,24,滋賀県,3573,KORSK,滋賀県,0,,-
-CANNON BALLERS,255,0,,-,888,3*ZU,滋賀県,1573,24,滋賀県,3238,KORSK,滋賀県,0,,-
-CANNON BALLERS,2 Player,0,,-,690,JUT#AI,滋賀県,1205,D,滋賀県,2491,TSSK,滋賀県,0,,-
-CANNON BALLERS,1001 -ESCAPE-,0,,-,990,FKAKEN,滋賀県,1568,SPIRIT,滋賀県,2634,KORSK,滋賀県,0,,-
-Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1094,YUKI.,滋賀県,2262,8VSZU4,滋賀県,3191,KORSK,滋賀県,0,,-
-Rootage,金野火織の金色提言,0,,-,1166,NABE-3,滋賀県,2196,24,滋賀県,3094,RD,滋賀県,0,,-
-Rootage,花冠 feat.Aikapin,0,,-,717,MR.814,滋賀県,1666,TSSK,滋賀県,2580,KORSK,滋賀県,0,,-
-Rootage,爆ゼニ☆がってんワーカー,0,,-,1212,YUKI.,滋賀県,1720,TYRAN,滋賀県,2662,-111-,滋賀県,0,,-
-Rootage,深愛のリグレット,0,,-,714,MANA,滋賀県,1207,8VSZU4,滋賀県,2381,NOCCHI,滋賀県,0,,-
-Rootage,泰東ノ翠霞,0,,-,296,U,滋賀県,638,17N7-L,滋賀県,1751,-111-,滋賀県,0,,-
-Rootage,最小三倍完全数,0,,-,852,D,滋賀県,1601,ASSIMA,滋賀県,2530,KORSK,滋賀県,0,,-
-Rootage,抱きしめてモナムール,0,,-,1284,YUKI.,滋賀県,2246,24,滋賀県,4130,RD,滋賀県,0,,-
-Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,628,YUKIHO,滋賀県,1518,24,滋賀県,2552,KORSK,滋賀県,0,,-
-Rootage,ミッドナイト☆WAR,0,,-,817,YUKI.,滋賀県,1542,4690,滋賀県,2495,NOCCHI,滋賀県,0,,-
-Rootage,ミストレス・アンに花束を,0,,-,326,NZ,滋賀県,905,D,滋賀県,1424,R.K.,滋賀県,0,,-
-Rootage,ハードベース・フェスタ,0,,-,1080,MDHIME,滋賀県,1678,CHEF,滋賀県,2854,KORSK,滋賀県,0,,-
-Rootage,セカンドピアス,0,,-,362,SYU.,滋賀県,1090,24,滋賀県,2018,KORSK,滋賀県,0,,-
-Rootage,サクラあっぱれーしょん,203,BAK4,滋賀県,604,MDHIME,滋賀県,1520,24,滋賀県,2322,IIDX77,滋賀県,0,,-
-Rootage,グラナダの風,0,,-,761,SHIKI,滋賀県,1142,JIMMY,滋賀県,1856,KORSK,滋賀県,0,,-
-Rootage,お菓子の王国,0,,-,1423,N.KJ,滋賀県,2259,24,滋賀県,4063,RD,滋賀県,0,,-
-Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1085,YUKI.,滋賀県,1930,24,滋賀県,2908,NOCCHI,滋賀県,0,,-
-Rootage,ZENDEGI DANCE,0,,-,1172,YUKI.,滋賀県,1837,LAMY,滋賀県,2756,KORSK,滋賀県,0,,-
-Rootage,Yum Yum Jelly,0,,-,744,JOE,滋賀県,1534,-SB-,滋賀県,2374,KORSK,滋賀県,0,,-
-Rootage,Xlo,0,,-,1304,CHALA?,滋賀県,2428,24,滋賀県,3775,KORSK,滋賀県,0,,-
-Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1115,XEFF.K,滋賀県,1575,FALCON,滋賀県,3008,KORSK,滋賀県,0,,-
-Rootage,X-DEN,0,,-,1493,YUKI.,滋賀県,2700,NOCCHI,滋賀県,4030,KORSK,滋賀県,0,,-
-Rootage,Wonderland,0,,-,1001,SHIKI,滋賀県,1672,YUKI.,滋賀県,2709,TSSK,滋賀県,0,,-
-Rootage,Won(*3*)Chu KissMe!,244,SHO-J*,滋賀県,903,YUKI.,滋賀県,1396,KOTA3,滋賀県,2478,-111-,滋賀県,0,,-
-Rootage,Wolf 1061,0,,-,996,YUKI.,滋賀県,1680,OMEGA.,滋賀県,3095,KORSK,滋賀県,0,,-
-Rootage,Wing of Hearts,0,,-,1046,SHANA8,滋賀県,1735,WINTER,滋賀県,2925,-111-,滋賀県,0,,-
-Rootage,voltississimo,0,,-,919,MR.814,滋賀県,2073,24,滋賀県,3614,KORSK,滋賀県,0,,-
-Rootage,Visterhv,0,,-,1276,B-RABI,滋賀県,2126,Z.O.O,滋賀県,3687,KORSK,滋賀県,0,,-
-Rootage,Urban Constellations,0,,-,627,MR.814,滋賀県,1281,NABE-3,滋賀県,2287,KORSK,滋賀県,0,,-
-Rootage,UNDERWORLD HOLOGRAPHY,0,,-,412,URU,滋賀県,1902,SHI4TO,滋賀県,3249,KORSK,滋賀県,0,,-
-Rootage,Unbelief,0,,-,984,SHANA8,滋賀県,2102,#52#,滋賀県,3178,KORSK,滋賀県,0,,-
-Rootage,U.S.A.,370,KAIMA9,滋賀県,837,RUTE,滋賀県,1710,YUKI.,滋賀県,2900,NOCCHI,滋賀県,0,,-
-Rootage,Twilight Warp,0,,-,915,N,滋賀県,1352,SHUKA,滋賀県,2151,KORSK,滋賀県,0,,-
-Rootage,Trill auf G,0,,-,1027,AA,滋賀県,2124,#52#,滋賀県,3201,KORSK,滋賀県,0,,-
-Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,0,,-,1421,CPU2,滋賀県,2260,LAMY,滋賀県,0,,-
-Rootage,toy boxer,0,,-,652,SHANA8,滋賀県,1303,D,滋賀県,2233,KORSK,滋賀県,0,,-
-Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,771,SHANA8,滋賀県,1263,YU.,滋賀県,2201,NOCCHI,滋賀県,0,,-
-Rootage,The Rebellion of Sequencer,0,,-,961,CHALA?,滋賀県,1836,3*ZU,滋賀県,3094,KORSK,滋賀県,0,,-
-Rootage,THE DAY OF JUBILATIONS,0,,-,1201,CHALA?,滋賀県,2392,#52#,滋賀県,3424,RD,滋賀県,0,,-
-Rootage,The Best of Both Worlds,0,,-,582,YUKI.,滋賀県,1130,KIOSK,滋賀県,2198,KORSK,滋賀県,0,,-
-Rootage,Technicolour Dreams,0,,-,909,YUKI.,滋賀県,1327,YAYO84,滋賀県,2382,NOCCHI,滋賀県,0,,-
-Rootage,SPEED ROCKER,0,,-,811,SHANA8,滋賀県,1469,FALCON,滋賀県,2274,KORSK,滋賀県,0,,-
-Rootage,Six String Proof,0,,-,747,MANA,滋賀県,1540,TEMIKO,滋賀県,2539,KORSK,滋賀県,0,,-
-Rootage,Serious?,0,,-,302,YOSSY,滋賀県,1154,XEFF.K,滋賀県,2221,IIDX77,滋賀県,0,,-
-Rootage,R∞tAge,498,SHO-J*,滋賀県,972,SHANA8,滋賀県,1549,SHUKA,滋賀県,2959,KORSK,滋賀県,0,,-
-Rootage,ruin of opals,0,,-,0,,-,1776,24,滋賀県,3112,KORSK,滋賀県,0,,-
-Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,916,TREK,滋賀県,1694,AMAMYA,滋賀県,2755,KORSK,滋賀県,0,,-
-Rootage,REPLAY,0,,-,518,NZ,滋賀県,1474,YU.,滋賀県,2255,IIDX77,滋賀県,0,,-
-Rootage,Red. by Jack Trance,0,,-,1425,YUKI.,滋賀県,2110,-111-,滋賀県,3523,IIDX77,滋賀県,0,,-
-Rootage,Psycho Sheep Riddim,0,,-,235,NZ,滋賀県,957,YUKI.,滋賀県,1664,DMINIK,滋賀県,2212,IIDX77,滋賀県
-Rootage,Please Welcome Mr.C,0,,-,1078,N,滋賀県,1603,SMIX*,滋賀県,2948,KORSK,滋賀県,0,,-
-Rootage,Playing With Fire,0,,-,972,N,滋賀県,1593,24,滋賀県,2342,NOCCHI,滋賀県,0,,-
-Rootage,Painful Fate,0,,-,1078,KAO,滋賀県,2150,24,滋賀県,3300,KORSK,滋賀県,0,,-
-Rootage,OVER TIME,0,,-,538,MR.814,滋賀県,852,KIRYU,滋賀県,1549,#52#,滋賀県,0,,-
-Rootage,ONIGOROSHI,0,,-,999,MR.814,滋賀県,1941,24,滋賀県,2969,KORSK,滋賀県,0,,-
-Rootage,Night! Night! Night!,0,,-,1048,MR.814,滋賀県,1742,SHIFT,滋賀県,3028,KORSK,滋賀県,0,,-
-Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,860,SHIKI,滋賀県,1499,TYRAN,滋賀県,2721,NOCCHI,滋賀県,0,,-
-Rootage,Necroxis Girl,0,,-,926,SHANA8,滋賀県,1724,SMIX*,滋賀県,2813,KORSK,滋賀県,0,,-
-Rootage,Macho Monky,0,,-,1363,NABE-3,滋賀県,2044,24,滋賀県,3009,KORSK,滋賀県,0,,-
-Rootage,LOST TECHNOLOGIE,0,,-,997,SHANA8,滋賀県,1873,#52#,滋賀県,3463,KORSK,滋賀県,0,,-
-Rootage,Lift Us High,0,,-,954,YUKI.,滋賀県,1556,24,滋賀県,2441,NOCCHI,滋賀県,0,,-
-Rootage,Level One,0,,-,1236,YUKI.,滋賀県,2190,24,滋賀県,3480,IIDX77,滋賀県,0,,-
-Rootage,Lethal Weapon,0,,-,1042,SHANA8,滋賀県,1874,-111-,滋賀県,3202,KORSK,滋賀県,0,,-
-Rootage,Let me be your cure,0,,-,1146,B-RABI,滋賀県,1372,NABE-3,滋賀県,2657,RD,滋賀県,0,,-
-Rootage,LADYBIRD,0,,-,829,SHANA8,滋賀県,1448,ASSIMA,滋賀県,2389,R.K.,滋賀県,0,,-
-Rootage,L.F.O,0,,-,853,TREK,滋賀県,1745,YUHEY.,滋賀県,3296,KORSK,滋賀県,0,,-
-Rootage,KILL EACH OTHER,0,,-,1354,XEFF.K,滋賀県,2399,24,滋賀県,3815,KORSK,滋賀県,0,,-
-Rootage,IDOL syndrome.,0,,-,661,SHANA8,滋賀県,1455,8VSZU4,滋賀県,2189,KORSK,滋賀県,0,,-
-Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,936,CPU2,滋賀県,1510,#52#,滋賀県,2182,KORSK,滋賀県,0,,-
-Rootage,Hurry Hurry,0,,-,750,YUKI.,滋賀県,1021,24,滋賀県,2078,#52#,滋賀県,0,,-
-Rootage,HOT LIMIT,312,B,滋賀県,949,MR.814,滋賀県,1670,YUKI.,滋賀県,2512,-111-,滋賀県,0,,-
-Rootage,HEISEI,360,YAYO84,滋賀県,1084,YUKI.,滋賀県,1865,24,滋賀県,2550,NOCCHI,滋賀県,0,,-
-Rootage,HARD BRAIN,0,,-,1301,SHIKI,滋賀県,1930,SHIFT,滋賀県,3774,KORSK,滋賀県,0,,-
-Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,1048,YUKI.,滋賀県,2188,24,滋賀県,3886,RD,滋賀県,0,,-
-Rootage,Glory,0,,-,690,SHANA8,滋賀県,1598,KOTA3,滋賀県,2342,KORSK,滋賀県,0,,-
-Rootage,GIGA THRASH,0,,-,1148,SHIKI,滋賀県,1852,#52#,滋賀県,2734,KORSK,滋賀県,0,,-
-Rootage,GENE,0,,-,1299,R.K.,滋賀県,1936,24,滋賀県,4306,KORSK,滋賀県,0,,-
-Rootage,Geirskogul,0,,-,1040,SHIKI,滋賀県,1489,RIPOPO,滋賀県,2203,LEONIE,滋賀県,0,,-
-Rootage,Garuda,0,,-,999,SHIKI,滋賀県,1488,GUMTN,滋賀県,2593,KORSK,滋賀県,0,,-
-Rootage,EVANESCENT,0,,-,1137,TREK,滋賀県,2173,24,滋賀県,3583,KORSK,滋賀県,0,,-
-Rootage,Ember Lights,0,,-,866,SHANA8,滋賀県,1647,#52#,滋賀県,2719,KORSK,滋賀県,0,,-
-Rootage,DRUNK MONKY,0,,-,985,KANATA,滋賀県,1548,-SB-,滋賀県,2261,KORSK,滋賀県,0,,-
-Rootage,Drastic Dramatic,0,,-,1462,YUKI.,滋賀県,2409,#52#,滋賀県,3498,KORSK,滋賀県,0,,-
-Rootage,Dr. Chemical & Killing Machine,0,,-,1067,SHIKI,滋賀県,1793,24,滋賀県,3353,KORSK,滋賀県,0,,-
-Rootage,Digital Skipper,0,,-,972,YUKI.,滋賀県,1290,NYET,滋賀県,2110,AUSAKA,滋賀県,0,,-
-Rootage,dAuntl3ss,0,,-,842,???,滋賀県,1812,JIMMY,滋賀県,3497,KORSK,滋賀県,0,,-
-Rootage,Cranberry City ft. Luschel,0,,-,525,NZ,滋賀県,1461,TYRAN,滋賀県,2403,KORSK,滋賀県,0,,-
-Rootage,COSMIC CYBER,0,,-,1017,SHIKI,滋賀県,1564,JIMMY,滋賀県,2909,KORSK,滋賀県,0,,-
-Rootage,CoMAAAAAAA,0,,-,1203,YUKI.,滋賀県,1869,YUKI.,滋賀県,2383,IIDX77,滋賀県,0,,-
-Rootage,CODE:0,0,,-,1362,SHIKI,滋賀県,1832,YU.,滋賀県,2827,KORSK,滋賀県,0,,-
-Rootage,Catch Our Fire!,0,,-,1277,YUKI.,滋賀県,2246,24,滋賀県,3687,KORSK,滋賀県,0,,-
-Rootage,Carry Me Away,533,B-RABI,滋賀県,1140,B-RABI,滋賀県,1694,WINTER,滋賀県,3173,KORSK,滋賀県,0,,-
-Rootage,Carmina,524,B-RABI,滋賀県,1330,B-RABI,滋賀県,2388,-111-,滋賀県,3719,KORSK,滋賀県,0,,-
-Rootage,BLOSSOM,0,,-,1069,YUKI.,滋賀県,1505,TREK,滋賀県,2554,KORSK,滋賀県,0,,-
-Rootage,BLACK JACKAL,0,,-,838,YUKI.,滋賀県,1426,YUKI.,滋賀県,2324,IIDX77,滋賀県,0,,-
-Rootage,Afterimage d'automne,0,,-,987,YUKI.,滋賀県,1569,YUKI.,滋賀県,2841,KORSK,滋賀県,0,,-
-Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1203,SHIKI,滋賀県,1590,CHII-8,滋賀県,2606,IIDX77,滋賀県,0,,-
-Rootage,50th Memorial Songs -The BEMANI History-,0,,-,840,MANA,滋賀県,1522,SMIX*,滋賀県,2635,KORSK,滋賀県,0,,-
-Rootage,50th Memorial Songs -Flagship medley-,0,,-,784,SHANA8,滋賀県,1062,GU,滋賀県,2229,DMINIK,滋賀県,0,,-
-Rootage,50th Memorial Songs -Beginning Story-,0,,-,721,MANA,滋賀県,1529,YUKI.,滋賀県,2622,6KKA,滋賀県,0,,-
-Rootage,& Intelligence,0,,-,1058,SHANA8,滋賀県,2058,TEMIKO,滋賀県,3176,KORSK,滋賀県,0,,-
 HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,935,B-RABI,滋賀県,1734,TEMIKO,滋賀県,3066,KORSK,滋賀県,0,,-
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1121,YUKI.,滋賀県,1639,YUKI.,滋賀県,2860,NOCCHI,滋賀県,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1056,YUKI.,滋賀県,1744,YUKI.,滋賀県,3198,KORSK,滋賀県,0,,-
@@ -1332,6 +1231,107 @@ HEROIC VERSE,And-RoiD,0,,-,670,SHANA8,滋賀県,1315,24,滋賀県,2001,NOCCHI,�
 HEROIC VERSE,AKASHIC BREAK,0,,-,1203,N,滋賀県,2332,YU,滋賀県,3546,NOCCHI,滋賀県,0,,-
 HEROIC VERSE,Advent Infamous,0,,-,1006,WA2.99,滋賀県,1660,#52#,滋賀県,2851,KORSK,滋賀県,0,,-
 HEROIC VERSE,27th style,0,,-,1157,YUKI.,滋賀県,1740,8VSZU4,滋賀県,2543,IIDX77,滋賀県,0,,-
+Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1094,YUKI.,滋賀県,2262,8VSZU4,滋賀県,3191,KORSK,滋賀県,0,,-
+Rootage,金野火織の金色提言,0,,-,1166,NABE-3,滋賀県,2196,24,滋賀県,3094,RD,滋賀県,0,,-
+Rootage,花冠 feat.Aikapin,0,,-,717,MR.814,滋賀県,1666,TSSK,滋賀県,2580,KORSK,滋賀県,0,,-
+Rootage,爆ゼニ☆がってんワーカー,0,,-,1212,YUKI.,滋賀県,1720,TYRAN,滋賀県,2662,-111-,滋賀県,0,,-
+Rootage,深愛のリグレット,0,,-,714,MANA,滋賀県,1207,8VSZU4,滋賀県,2381,NOCCHI,滋賀県,0,,-
+Rootage,泰東ノ翠霞,0,,-,296,U,滋賀県,638,17N7-L,滋賀県,1751,-111-,滋賀県,0,,-
+Rootage,最小三倍完全数,0,,-,852,D,滋賀県,1601,ASSIMA,滋賀県,2530,KORSK,滋賀県,0,,-
+Rootage,抱きしめてモナムール,0,,-,1284,YUKI.,滋賀県,2246,24,滋賀県,4130,RD,滋賀県,0,,-
+Rootage,夏の匂い。キミの残像。 ft. Kanae Asaba,0,,-,628,YUKIHO,滋賀県,1518,24,滋賀県,2552,KORSK,滋賀県,0,,-
+Rootage,ミッドナイト☆WAR,0,,-,817,YUKI.,滋賀県,1542,4690,滋賀県,2495,NOCCHI,滋賀県,0,,-
+Rootage,ミストレス・アンに花束を,0,,-,326,NZ,滋賀県,905,D,滋賀県,1424,R.K.,滋賀県,0,,-
+Rootage,ハードベース・フェスタ,0,,-,1080,MDHIME,滋賀県,1678,CHEF,滋賀県,2854,KORSK,滋賀県,0,,-
+Rootage,セカンドピアス,0,,-,362,SYU.,滋賀県,1090,24,滋賀県,2018,KORSK,滋賀県,0,,-
+Rootage,サクラあっぱれーしょん,203,BAK4,滋賀県,604,MDHIME,滋賀県,1520,24,滋賀県,2322,IIDX77,滋賀県,0,,-
+Rootage,グラナダの風,0,,-,761,SHIKI,滋賀県,1142,JIMMY,滋賀県,1856,KORSK,滋賀県,0,,-
+Rootage,お菓子の王国,0,,-,1423,N.KJ,滋賀県,2259,24,滋賀県,4063,RD,滋賀県,0,,-
+Rootage,おーまい！らぶりー！すうぃーてぃ！だーりん！,0,,-,1085,YUKI.,滋賀県,1930,24,滋賀県,2908,NOCCHI,滋賀県,0,,-
+Rootage,ZENDEGI DANCE,0,,-,1172,YUKI.,滋賀県,1837,LAMY,滋賀県,2756,KORSK,滋賀県,0,,-
+Rootage,Yum Yum Jelly,0,,-,744,JOE,滋賀県,1534,-SB-,滋賀県,2374,KORSK,滋賀県,0,,-
+Rootage,Xlo,0,,-,1304,CHALA?,滋賀県,2428,24,滋賀県,3775,KORSK,滋賀県,0,,-
+Rootage,XENON II ～TOMOYUKIの野望～,0,,-,1115,XEFF.K,滋賀県,1575,FALCON,滋賀県,3008,KORSK,滋賀県,0,,-
+Rootage,X-DEN,0,,-,1493,YUKI.,滋賀県,2700,NOCCHI,滋賀県,4030,KORSK,滋賀県,0,,-
+Rootage,Wonderland,0,,-,1001,SHIKI,滋賀県,1672,YUKI.,滋賀県,2709,TSSK,滋賀県,0,,-
+Rootage,Won(*3*)Chu KissMe!,244,SHO-J*,滋賀県,903,YUKI.,滋賀県,1396,KOTA3,滋賀県,2478,-111-,滋賀県,0,,-
+Rootage,Wolf 1061,0,,-,996,YUKI.,滋賀県,1680,OMEGA.,滋賀県,3095,KORSK,滋賀県,0,,-
+Rootage,Wing of Hearts,0,,-,1046,SHANA8,滋賀県,1735,WINTER,滋賀県,2925,-111-,滋賀県,0,,-
+Rootage,voltississimo,0,,-,919,MR.814,滋賀県,2073,24,滋賀県,3614,KORSK,滋賀県,0,,-
+Rootage,Visterhv,0,,-,1276,B-RABI,滋賀県,2126,Z.O.O,滋賀県,3687,KORSK,滋賀県,0,,-
+Rootage,Urban Constellations,0,,-,627,MR.814,滋賀県,1281,NABE-3,滋賀県,2287,KORSK,滋賀県,0,,-
+Rootage,UNDERWORLD HOLOGRAPHY,0,,-,412,URU,滋賀県,1902,SHI4TO,滋賀県,3249,KORSK,滋賀県,0,,-
+Rootage,Unbelief,0,,-,984,SHANA8,滋賀県,2102,#52#,滋賀県,3178,KORSK,滋賀県,0,,-
+Rootage,U.S.A.,370,KAIMA9,滋賀県,837,RUTE,滋賀県,1710,YUKI.,滋賀県,2900,NOCCHI,滋賀県,0,,-
+Rootage,Twilight Warp,0,,-,915,N,滋賀県,1352,SHUKA,滋賀県,2151,KORSK,滋賀県,0,,-
+Rootage,Trill auf G,0,,-,1027,AA,滋賀県,2124,#52#,滋賀県,3201,KORSK,滋賀県,0,,-
+Rootage,ToyCube Pf.(RX-Ver.S.P.L.),0,,-,0,,-,1421,CPU2,滋賀県,2260,LAMY,滋賀県,0,,-
+Rootage,toy boxer,0,,-,652,SHANA8,滋賀県,1303,D,滋賀県,2233,KORSK,滋賀県,0,,-
+Rootage,The Sealer ～ア・ミリアとミリアの民～,0,,-,771,SHANA8,滋賀県,1263,YU.,滋賀県,2201,NOCCHI,滋賀県,0,,-
+Rootage,The Rebellion of Sequencer,0,,-,961,CHALA?,滋賀県,1836,3*ZU,滋賀県,3094,KORSK,滋賀県,0,,-
+Rootage,THE DAY OF JUBILATIONS,0,,-,1201,CHALA?,滋賀県,2392,#52#,滋賀県,3424,RD,滋賀県,0,,-
+Rootage,The Best of Both Worlds,0,,-,582,YUKI.,滋賀県,1130,KIOSK,滋賀県,2198,KORSK,滋賀県,0,,-
+Rootage,Technicolour Dreams,0,,-,909,YUKI.,滋賀県,1327,YAYO84,滋賀県,2382,NOCCHI,滋賀県,0,,-
+Rootage,SPEED ROCKER,0,,-,811,SHANA8,滋賀県,1469,FALCON,滋賀県,2274,KORSK,滋賀県,0,,-
+Rootage,Six String Proof,0,,-,747,MANA,滋賀県,1540,TEMIKO,滋賀県,2539,KORSK,滋賀県,0,,-
+Rootage,Serious?,0,,-,302,YOSSY,滋賀県,1154,XEFF.K,滋賀県,2221,IIDX77,滋賀県,0,,-
+Rootage,R∞tAge,498,SHO-J*,滋賀県,972,SHANA8,滋賀県,1549,SHUKA,滋賀県,2959,KORSK,滋賀県,0,,-
+Rootage,ruin of opals,0,,-,0,,-,1776,24,滋賀県,3112,KORSK,滋賀県,0,,-
+Rootage,"ROCK女 feat. 大山愛未, Ken",0,,-,916,TREK,滋賀県,1694,AMAMYA,滋賀県,2755,KORSK,滋賀県,0,,-
+Rootage,REPLAY,0,,-,518,NZ,滋賀県,1474,YU.,滋賀県,2255,IIDX77,滋賀県,0,,-
+Rootage,Red. by Jack Trance,0,,-,1425,YUKI.,滋賀県,2110,-111-,滋賀県,3523,IIDX77,滋賀県,0,,-
+Rootage,Psycho Sheep Riddim,0,,-,235,NZ,滋賀県,957,YUKI.,滋賀県,1664,DMINIK,滋賀県,2212,IIDX77,滋賀県
+Rootage,Please Welcome Mr.C,0,,-,1078,N,滋賀県,1603,SMIX*,滋賀県,2948,KORSK,滋賀県,0,,-
+Rootage,Playing With Fire,0,,-,972,N,滋賀県,1593,24,滋賀県,2342,NOCCHI,滋賀県,0,,-
+Rootage,Painful Fate,0,,-,1078,KAO,滋賀県,2150,24,滋賀県,3300,KORSK,滋賀県,0,,-
+Rootage,OVER TIME,0,,-,538,MR.814,滋賀県,852,KIRYU,滋賀県,1549,#52#,滋賀県,0,,-
+Rootage,ONIGOROSHI,0,,-,999,MR.814,滋賀県,1941,24,滋賀県,2969,KORSK,滋賀県,0,,-
+Rootage,Night! Night! Night!,0,,-,1048,MR.814,滋賀県,1742,SHIFT,滋賀県,3028,KORSK,滋賀県,0,,-
+Rootage,"Next Tales 2 Oath (IIDX 20th Anniv ""Ring"" Theme)",0,,-,860,SHIKI,滋賀県,1499,TYRAN,滋賀県,2721,NOCCHI,滋賀県,0,,-
+Rootage,Necroxis Girl,0,,-,926,SHANA8,滋賀県,1724,SMIX*,滋賀県,2813,KORSK,滋賀県,0,,-
+Rootage,Macho Monky,0,,-,1363,NABE-3,滋賀県,2044,24,滋賀県,3009,KORSK,滋賀県,0,,-
+Rootage,LOST TECHNOLOGIE,0,,-,997,SHANA8,滋賀県,1873,#52#,滋賀県,3463,KORSK,滋賀県,0,,-
+Rootage,Lift Us High,0,,-,954,YUKI.,滋賀県,1556,24,滋賀県,2441,NOCCHI,滋賀県,0,,-
+Rootage,Level One,0,,-,1236,YUKI.,滋賀県,2190,24,滋賀県,3480,IIDX77,滋賀県,0,,-
+Rootage,Lethal Weapon,0,,-,1042,SHANA8,滋賀県,1874,-111-,滋賀県,3202,KORSK,滋賀県,0,,-
+Rootage,Let me be your cure,0,,-,1146,B-RABI,滋賀県,1372,NABE-3,滋賀県,2657,RD,滋賀県,0,,-
+Rootage,LADYBIRD,0,,-,829,SHANA8,滋賀県,1448,ASSIMA,滋賀県,2389,R.K.,滋賀県,0,,-
+Rootage,L.F.O,0,,-,853,TREK,滋賀県,1745,YUHEY.,滋賀県,3296,KORSK,滋賀県,0,,-
+Rootage,KILL EACH OTHER,0,,-,1354,XEFF.K,滋賀県,2399,24,滋賀県,3815,KORSK,滋賀県,0,,-
+Rootage,IDOL syndrome.,0,,-,661,SHANA8,滋賀県,1455,8VSZU4,滋賀県,2189,KORSK,滋賀県,0,,-
+Rootage,IDC feat.REVERBEE (Mo'Cuts Ver),0,,-,936,CPU2,滋賀県,1510,#52#,滋賀県,2182,KORSK,滋賀県,0,,-
+Rootage,Hurry Hurry,0,,-,750,YUKI.,滋賀県,1021,24,滋賀県,2078,#52#,滋賀県,0,,-
+Rootage,HOT LIMIT,312,B,滋賀県,949,MR.814,滋賀県,1670,YUKI.,滋賀県,2512,-111-,滋賀県,0,,-
+Rootage,HEISEI,360,YAYO84,滋賀県,1084,YUKI.,滋賀県,1865,24,滋賀県,2550,NOCCHI,滋賀県,0,,-
+Rootage,HARD BRAIN,0,,-,1301,SHIKI,滋賀県,1930,SHIFT,滋賀県,3774,KORSK,滋賀県,0,,-
+Rootage,GO OVER WITH GLARE -ROOTAGE 26-,0,,-,1048,YUKI.,滋賀県,2188,24,滋賀県,3886,RD,滋賀県,0,,-
+Rootage,Glory,0,,-,690,SHANA8,滋賀県,1598,KOTA3,滋賀県,2342,KORSK,滋賀県,0,,-
+Rootage,GIGA THRASH,0,,-,1148,SHIKI,滋賀県,1852,#52#,滋賀県,2734,KORSK,滋賀県,0,,-
+Rootage,GENE,0,,-,1299,R.K.,滋賀県,1936,24,滋賀県,4306,KORSK,滋賀県,0,,-
+Rootage,Geirskogul,0,,-,1040,SHIKI,滋賀県,1489,RIPOPO,滋賀県,2203,LEONIE,滋賀県,0,,-
+Rootage,Garuda,0,,-,999,SHIKI,滋賀県,1488,GUMTN,滋賀県,2593,KORSK,滋賀県,0,,-
+Rootage,EVANESCENT,0,,-,1137,TREK,滋賀県,2173,24,滋賀県,3583,KORSK,滋賀県,0,,-
+Rootage,Ember Lights,0,,-,866,SHANA8,滋賀県,1647,#52#,滋賀県,2719,KORSK,滋賀県,0,,-
+Rootage,DRUNK MONKY,0,,-,985,KANATA,滋賀県,1548,-SB-,滋賀県,2261,KORSK,滋賀県,0,,-
+Rootage,Drastic Dramatic,0,,-,1462,YUKI.,滋賀県,2409,#52#,滋賀県,3498,KORSK,滋賀県,0,,-
+Rootage,Dr. Chemical & Killing Machine,0,,-,1067,SHIKI,滋賀県,1793,24,滋賀県,3353,KORSK,滋賀県,0,,-
+Rootage,Digital Skipper,0,,-,972,YUKI.,滋賀県,1290,NYET,滋賀県,2110,AUSAKA,滋賀県,0,,-
+Rootage,dAuntl3ss,0,,-,842,???,滋賀県,1812,JIMMY,滋賀県,3497,KORSK,滋賀県,0,,-
+Rootage,Cranberry City ft. Luschel,0,,-,525,NZ,滋賀県,1461,TYRAN,滋賀県,2403,KORSK,滋賀県,0,,-
+Rootage,COSMIC CYBER,0,,-,1017,SHIKI,滋賀県,1564,JIMMY,滋賀県,2909,KORSK,滋賀県,0,,-
+Rootage,CoMAAAAAAA,0,,-,1203,YUKI.,滋賀県,1869,YUKI.,滋賀県,2383,IIDX77,滋賀県,0,,-
+Rootage,CODE:0,0,,-,1362,SHIKI,滋賀県,1832,YU.,滋賀県,2827,KORSK,滋賀県,0,,-
+Rootage,Catch Our Fire!,0,,-,1277,YUKI.,滋賀県,2246,24,滋賀県,3687,KORSK,滋賀県,0,,-
+Rootage,Carry Me Away,533,B-RABI,滋賀県,1140,B-RABI,滋賀県,1694,WINTER,滋賀県,3173,KORSK,滋賀県,0,,-
+Rootage,Carmina,524,B-RABI,滋賀県,1330,B-RABI,滋賀県,2388,-111-,滋賀県,3719,KORSK,滋賀県,0,,-
+Rootage,BLOSSOM,0,,-,1069,YUKI.,滋賀県,1505,TREK,滋賀県,2554,KORSK,滋賀県,0,,-
+Rootage,BLACK JACKAL,0,,-,838,YUKI.,滋賀県,1426,YUKI.,滋賀県,2324,IIDX77,滋賀県,0,,-
+Rootage,Afterimage d'automne,0,,-,987,YUKI.,滋賀県,1569,YUKI.,滋賀県,2841,KORSK,滋賀県,0,,-
+Rootage,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,0,,-,1203,SHIKI,滋賀県,1590,CHII-8,滋賀県,2606,IIDX77,滋賀県,0,,-
+Rootage,50th Memorial Songs -The BEMANI History-,0,,-,840,MANA,滋賀県,1522,SMIX*,滋賀県,2635,KORSK,滋賀県,0,,-
+Rootage,50th Memorial Songs -Flagship medley-,0,,-,784,SHANA8,滋賀県,1062,GU,滋賀県,2229,DMINIK,滋賀県,0,,-
+Rootage,50th Memorial Songs -Beginning Story-,0,,-,721,MANA,滋賀県,1529,YUKI.,滋賀県,2622,6KKA,滋賀県,0,,-
+Rootage,& Intelligence,0,,-,1058,SHANA8,滋賀県,2058,TEMIKO,滋賀県,3176,KORSK,滋賀県,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,779,SHANA8,滋賀県,1681,KORSK,滋賀県,2763,KORSK,滋賀県,0,,-
 BISTROVER,霧幻メモリア,0,,-,913,JOE,滋賀県,1320,RIPOPO,滋賀県,1980,8VSZU4,滋賀県,0,,-
 BISTROVER,閠槞彁の願い,0,,-,1015,YUKI.,滋賀県,2032,24,滋賀県,3123,KORSK,滋賀県,0,,-
