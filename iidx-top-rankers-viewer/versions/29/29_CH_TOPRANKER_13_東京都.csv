@@ -13,13 +13,6 @@
 1st&substream,deep in you,0,,-,494,04*,東京都,494,KURO,東京都,666,DINASO,東京都,0,,-
 1st&substream,5.1.1.,0,,-,198,1SE,東京都,1020,DINASO,東京都,1571,DINASO,東京都,0,,-
 1st&substream,22DUNK,0,,-,523,04*,東京都,645,1048,東京都,656,1048,東京都,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,505,04*,東京都,611,NOE4S,東京都,648,1048,東京都,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,577,04*,東京都,866,1048,東京都,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,884,PICO,東京都,1069,COTTON,東京都,1229,MIKAMO,東京都,0,,-
-2nd style,I Was The One,0,,-,536,R,東京都,647,04*,東京都,696,PICO,東京都,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,767,04*,東京都,918,EKS,東京都,1068,BGI#45,東京都,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,725,04*,東京都,1064,ERAKIS,東京都,1132,DINASO,東京都,0,,-
-2nd style,.59,0,,-,718,PICO,東京都,998,31NO71,東京都,1166,DINASO,東京都,0,,-
 3rd style,THE SAFARI,360,YU,東京都,1209,DELAY,東京都,1791,MIKAMO,東京都,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,281,04*,東京都,396,DINASO,東京都,0,,-,0,,-
 3rd style,Skyscraper,0,,-,744,PICO,東京都,1179,LILY,東京都,1255,1048,東京都,0,,-
@@ -32,6 +25,13 @@
 3rd style,era (nostalmix),0,,-,847,04*,東京都,1104,NO4XTK,東京都,1559,NIKE.,東京都,0,,-
 3rd style,Don't Stop!,0,,-,764,04*,東京都,849,04*,東京都,906,DINASO,東京都,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,610,04*,東京都,1261,DINASO,東京都,0,,-,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,505,04*,東京都,611,NOE4S,東京都,648,1048,東京都,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,577,04*,東京都,866,1048,東京都,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,884,PICO,東京都,1069,COTTON,東京都,1229,MIKAMO,東京都,0,,-
+2nd style,I Was The One,0,,-,536,R,東京都,647,04*,東京都,696,PICO,東京都,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,767,04*,東京都,918,EKS,東京都,1068,BGI#45,東京都,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,725,04*,東京都,1064,ERAKIS,東京都,1132,DINASO,東京都,0,,-
+2nd style,.59,0,,-,718,PICO,東京都,998,31NO71,東京都,1166,DINASO,東京都,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,952,PICO,東京都,1243,MIKAMO,東京都,1335,U76NER,東京都,0,,-
 4th style,SWEET LAB,0,,-,553,PICO,東京都,982,PICO,東京都,1378,MIKAMO,東京都,0,,-
 4th style,starmine,445,LASNET,東京都,900,04*,東京都,1394,KOSSY,東京都,1597,NIKE.,東京都,0,,-
@@ -97,6 +97,7 @@
 7th style,Tomorrow Perfume,0,,-,1308,04*,東京都,1952,SHINPO,東京都,2151,TETSUO,東京都,0,,-
 7th style,stoic,0,,-,1741,PICO,東京都,2464,PICO,東京都,2588,MIKAMO,東京都,0,,-
 7th style,Spica,0,,-,654,04*,東京都,1528,PICO,東京都,2280,8S.,東京都,0,,-
+7th style,Somebody Like You,0,,-,752,PICO,東京都,1207,PICO,東京都,1847,U76NER,東京都,0,,-
 7th style,Love Me Do,0,,-,1142,PICO,東京都,1714,PICO,東京都,2116,PICO,東京都,0,,-
 7th style,Let the Snow Paint Me,0,,-,855,04*,東京都,1038,MA2RI,東京都,1248,TETSUO,東京都,0,,-
 7th style,Last Message,0,,-,1018,ATIA,東京都,1355,PICO,東京都,1629,DINASO,東京都,0,,-
@@ -110,6 +111,34 @@
 7th style,Bad Routine,0,,-,1027,04*,東京都,1383,DOFLES,東京都,1925,TETSUO,東京都,0,,-
 7th style,AVE DE RAPINA,0,,-,1411,PICO,東京都,1732,PICO,東京都,1845,NO4XTK,東京都,0,,-
 7th style,A,0,,-,1290,04*,東京都,2167,DICE,東京都,2501,NO4XTK,東京都,0,,-
+8th style,蒼い衝動,0,,-,930,04*,東京都,1371,ATIA,東京都,1604,*TA93N,東京都,0,,-
+8th style,桜,0,,-,1050,SHINPO,東京都,1541,SHINPO,東京都,2176,DINASO,東京都,0,,-
+8th style,xenon,0,,-,1140,PICO,東京都,1699,DICE,東京都,2754,MIKAMO,東京都,0,,-
+8th style,World Wide Love,0,,-,703,04*,東京都,1040,PICO,東京都,1118,405,東京都,0,,-
+8th style,WAR GAME,0,,-,964,04*,東京都,1576,PICO,東京都,2153,MIKAMO,東京都,0,,-
+8th style,thunder,0,,-,1210,PICO,東京都,1584,DICE,東京都,1907,MIKAMO,東京都,0,,-
+8th style,symbolic,0,,-,1459,PICO,東京都,1850,DICE,東京都,2267,MIKAMO,東京都,0,,-
+8th style,rainbow flyer,0,,-,834,PICO,東京都,1635,NEOP.,東京都,2149,54GAYA,東京都,0,,-
+8th style,PLEASE DON'T GO,0,,-,1009,PICO,東京都,1425,PICO,東京都,2471,MIKAMO,東京都,0,,-
+8th style,MUSIC TO YOUR HEAD,0,,-,819,04*,東京都,1409,&#9996,東京都,1691,1048,東京都,0,,-
+8th style,murmur twins,0,,-,1132,DINASO,東京都,1694,PICO,東京都,2408,MIKAMO,東京都,0,,-
+8th style,Monkey Dance,0,,-,820,04*,東京都,1369,DICE,東京都,1988,TETSUO,東京都,0,,-
+8th style,memories,0,,-,1123,04*,東京都,2096,PICO,東京都,2292,TETSUO,東京都,0,,-
+8th style,Luv 2 Feel Your Body,0,,-,873,PICO,東京都,1079,PICO,東京都,1672,MIKAMO,東京都,0,,-
+8th style,LOVE IS ORANGE,0,,-,791,04*,東京都,1026,04*,東京都,1802,NIKE.,東京都,2111,TETSUO,東京都
+8th style,LAB,0,,-,1066,ATIA,東京都,2031,DICE,東京都,2146,MIKAMO,東京都,0,,-
+8th style,HYPER BOUNDARY GATE,0,,-,1223,KIKO,東京都,1950,PICO,東京都,2228,NIKE.,東京都,0,,-
+8th style,Halfway of promise,0,,-,960,DICE,東京都,1554,PICO,東京都,1846,1048,東京都,0,,-
+8th style,Giudecca,0,,-,921,04*,東京都,1925,OYAT,東京都,2719,MIKAMO,東京都,0,,-
+8th style,dual control,0,,-,776,04*,東京都,1491,SHINPO,東京都,1914,NIKE.,東京都,0,,-
+8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,1170,ATIA,東京都,2023,ATIA,東京都,2196,TETSUO,東京都,0,,-
+8th style,CELEBRATE NITE,0,,-,942,PICO,東京都,1182,PICO,東京都,1425,NIKE.,東京都,0,,-
+8th style,Blame,0,,-,1221,PICO,東京都,1569,PICO,東京都,1951,MIKAMO,東京都,0,,-
+8th style,bit mania,0,,-,912,PICO,東京都,1279,PICO,東京都,1868,NIKE.,東京都,0,,-
+8th style,Attitude,0,,-,1045,PICO,東京都,1393,04*,東京都,1762,MIKAMO,東京都,0,,-
+8th style,ALL RIGHT,0,,-,886,04*,東京都,1299,ATIA,東京都,1624,TETSUO,東京都,0,,-
+8th style,airflow,0,,-,574,04*,東京都,795,SHINPO,東京都,1438,1048,東京都,0,,-
+8th style,abstract,0,,-,1315,PICO,東京都,1656,PICO,東京都,1917,PICO,東京都,0,,-
 9th style,真夏の花・真夏の夢,0,,-,831,04*,東京都,1140,DXR*27,東京都,1493,DINASO,東京都,0,,-
 9th style,ライオン好き,0,,-,652,04*,東京都,1168,YU,東京都,1508,1048,東京都,0,,-
 9th style,SWEETEST SAVAGE,0,,-,669,PICO,東京都,1401,PICO,東京都,1850,NIKE.,東京都,0,,-
@@ -142,34 +171,38 @@
 9th style,ATOMIC AGE,0,,-,364,04*,東京都,679,PICO,東京都,1338,TETSUO,東京都,0,,-
 9th style,ACT,0,,-,1048,04*,東京都,1721,1048,東京都,1867,1048,東京都,0,,-
 9th style,Abyss -The Heavens Remix-,565,SQUARE,東京都,1531,PICO,東京都,1873,PICO,東京都,2376,MIKAMO,東京都,0,,-
-8th style,蒼い衝動,0,,-,930,04*,東京都,1371,ATIA,東京都,1604,*TA93N,東京都,0,,-
-8th style,桜,0,,-,1050,SHINPO,東京都,1541,SHINPO,東京都,2176,DINASO,東京都,0,,-
-8th style,xenon,0,,-,1140,PICO,東京都,1699,DICE,東京都,2754,MIKAMO,東京都,0,,-
-8th style,World Wide Love,0,,-,703,04*,東京都,1040,PICO,東京都,1118,405,東京都,0,,-
-8th style,WAR GAME,0,,-,964,04*,東京都,1576,PICO,東京都,2153,MIKAMO,東京都,0,,-
-8th style,thunder,0,,-,1210,PICO,東京都,1584,DICE,東京都,1907,MIKAMO,東京都,0,,-
-8th style,symbolic,0,,-,1459,PICO,東京都,1850,DICE,東京都,2267,MIKAMO,東京都,0,,-
-8th style,rainbow flyer,0,,-,834,PICO,東京都,1635,NEOP.,東京都,2149,54GAYA,東京都,0,,-
-8th style,PLEASE DON'T GO,0,,-,1009,PICO,東京都,1425,PICO,東京都,2471,MIKAMO,東京都,0,,-
-8th style,MUSIC TO YOUR HEAD,0,,-,819,04*,東京都,1409,&#9996,東京都,1691,1048,東京都,0,,-
-8th style,murmur twins,0,,-,1132,DINASO,東京都,1694,PICO,東京都,2408,MIKAMO,東京都,0,,-
-8th style,Monkey Dance,0,,-,820,04*,東京都,1369,DICE,東京都,1988,TETSUO,東京都,0,,-
-8th style,memories,0,,-,1123,04*,東京都,2096,PICO,東京都,2292,TETSUO,東京都,0,,-
-8th style,Luv 2 Feel Your Body,0,,-,873,PICO,東京都,1079,PICO,東京都,1672,MIKAMO,東京都,0,,-
-8th style,LOVE IS ORANGE,0,,-,791,04*,東京都,1026,04*,東京都,1802,NIKE.,東京都,2111,TETSUO,東京都
-8th style,LAB,0,,-,1066,ATIA,東京都,2031,DICE,東京都,2146,MIKAMO,東京都,0,,-
-8th style,HYPER BOUNDARY GATE,0,,-,1223,KIKO,東京都,1950,PICO,東京都,2228,NIKE.,東京都,0,,-
-8th style,Halfway of promise,0,,-,960,DICE,東京都,1554,PICO,東京都,1846,1048,東京都,0,,-
-8th style,Giudecca,0,,-,921,04*,東京都,1925,OYAT,東京都,2719,MIKAMO,東京都,0,,-
-8th style,dual control,0,,-,776,04*,東京都,1491,SHINPO,東京都,1914,NIKE.,東京都,0,,-
-8th style,Colors -Y&Co. Eurobeat Remix-,0,,-,1170,ATIA,東京都,2023,ATIA,東京都,2196,TETSUO,東京都,0,,-
-8th style,CELEBRATE NITE,0,,-,942,PICO,東京都,1182,PICO,東京都,1425,NIKE.,東京都,0,,-
-8th style,Blame,0,,-,1221,PICO,東京都,1569,PICO,東京都,1951,MIKAMO,東京都,0,,-
-8th style,bit mania,0,,-,912,PICO,東京都,1279,PICO,東京都,1868,NIKE.,東京都,0,,-
-8th style,Attitude,0,,-,1045,PICO,東京都,1393,04*,東京都,1762,MIKAMO,東京都,0,,-
-8th style,ALL RIGHT,0,,-,886,04*,東京都,1299,ATIA,東京都,1624,TETSUO,東京都,0,,-
-8th style,airflow,0,,-,574,04*,東京都,795,SHINPO,東京都,1438,1048,東京都,0,,-
-8th style,abstract,0,,-,1315,PICO,東京都,1656,PICO,東京都,1917,PICO,東京都,0,,-
+10th style,雪月花,0,,-,1199,FLYING,東京都,1931,PICO,東京都,2559,MIKAMO,東京都,0,,-
+10th style,システムロマンス,0,,-,914,PICO,東京都,1790,PICO,東京都,2044,MIKAMO,東京都,0,,-
+10th style,SPACE FIGHT,0,,-,649,04*,東京都,1532,PICO,東京都,2258,MIKAMO,東京都,0,,-
+10th style,SHOOTING STAR,0,,-,1267,04*,東京都,1568,IIDX25,東京都,2286,MIKAMO,東京都,0,,-
+10th style,SCORE,0,,-,1188,ATIA,東京都,1619,PICO,東京都,2103,MIKAMO,東京都,0,,-
+10th style,Rise'n Beauty,0,,-,1300,ATIA,東京都,1669,SHINPO,東京都,2178,NIKE.,東京都,0,,-
+10th style,rainbow rainbow,0,,-,1572,*SHO5*,東京都,2253,DICE,東京都,2743,MIKAMO,東京都,0,,-
+10th style,pandora,0,,-,898,04*,東京都,1680,SHINPO,東京都,1858,MIKAMO,東京都,0,,-
+10th style,One More Lovely,0,,-,862,04*,東京都,1661,PICO,東京都,2864,KUNMAA,東京都,0,,-
+10th style,No.13,0,,-,1706,PICO,東京都,2671,DICE,東京都,3200,MIKAMO,東京都,0,,-
+10th style,Narcissus At Oasis,0,,-,775,04*,東京都,1586,MIKAMO,東京都,1671,MIKAMO,東京都,0,,-
+10th style,Lucy,0,,-,965,04*,東京都,1798,PICO,東京都,2333,MIKAMO,東京都,0,,-
+10th style,Love Is Eternity,0,,-,1155,CARROT,東京都,1933,MASA,東京都,2422,8S.,東京都,0,,-
+10th style,Innocent Walls,0,,-,1688,PICO,東京都,2532,MIKAMO,東京都,2855,MIKAMO,東京都,0,,-
+10th style,HIGH,0,,-,940,ATIA,東京都,1942,1048,東京都,2173,TETSUO,東京都,0,,-
+10th style,GRADIUS -FULL SPEED-,0,,-,732,RYU,東京都,1173,T.I,東京都,2131,U76NER,東京都,0,,-
+10th style,GHOST REVIVAL,0,,-,923,04*,東京都,1996,1KCAL,東京都,2599,MIKAMO,東京都,0,,-
+10th style,Freezing atmosphere,0,,-,795,04*,東京都,1143,PICO,東京都,1533,TETSUO,東京都,0,,-
+10th style,FEEL IT,0,,-,933,04*,東京都,1771,PICO,東京都,2016,NIKE.,東京都,0,,-
+10th style,Feedback,0,,-,1092,1048,東京都,1660,1048,東京都,1988,U76NER,東京都,0,,-
+10th style,EXE,0,,-,844,04*,東京都,1611,NESS,東京都,2258,1048,東京都,0,,-
+10th style,DoLL,347,LASNET,東京都,932,04*,東京都,1241,DICE,東京都,1620,MIKAMO,東京都,0,,-
+10th style,desolation,0,,-,484,04*,東京都,657,SHINPO,東京都,767,ZNDMON,東京都,0,,-
+10th style,Debtty Daddy,0,,-,1064,ATIA,東京都,2010,PICO,東京都,2729,NIKE.,東京都,0,,-
+10th style,Daisuke,470,SQUARE,東京都,1225,ATIA,東京都,1664,&#9996,東京都,2409,MIKAMO,東京都,0,,-
+10th style,CARRY ON NIGHT (English version),0,,-,1016,PICO,東京都,1365,DICE,東京都,2064,343434,東京都,0,,-
+10th style,Boundary,0,,-,878,ATIA,東京都,1849,DICE,東京都,2060,NIKE.,東京都,0,,-
+10th style,Back Into The Light,0,,-,1192,*SHO5*,東京都,1607,SLEEP,東京都,2167,MIKAMO,東京都,0,,-
+10th style,BABY LOVE,0,,-,1185,04*,東京都,1725,PICO,東京都,2168,MIKAMO,東京都,0,,-
+10th style,ASTRAL VOYAGE,0,,-,1002,04*,東京都,1379,T.I,東京都,1936,U76NER,東京都,0,,-
+10th style,ALIEN TEMPLE,0,,-,1007,ATIA,東京都,1627,R,東京都,2036,1048,東京都,0,,-
+10th style,1st Samurai,0,,-,1080,04*,東京都,2021,1048,東京都,2744,MIKAMO,東京都,0,,-
 IIDX RED,ＵＬＴｉＭΛＴＥ,0,,-,959,ATIA,東京都,1479,ATIA,東京都,2007,1048,東京都,0,,-
 IIDX RED,太陽～T・A・I・Y・O～,0,,-,838,PICO,東京都,1440,PICO,東京都,1759,MIKAMO,東京都,0,,-
 IIDX RED,大桟橋,0,,-,484,04*,東京都,1105,SILVA.,東京都,1864,*TA93N,東京都,0,,-
@@ -202,37 +235,6 @@ IIDX RED,awakening,0,,-,1105,PICO,東京都,1496,PICO,東京都,1726,MIKAMO,東�
 IIDX RED,ANDROMEDA,0,,-,1021,04*,東京都,1885,DELAY,東京都,2891,DINASO,東京都,0,,-
 IIDX RED,AGEHA,600,WLEN7,東京都,1059,04*,東京都,1711,P.L.H.,東京都,1893,NIKE.,東京都,2460,MIKAMO,東京都
 IIDX RED,AA,0,,-,1281,ATIA,東京都,2740,U76NER,東京都,3643,MIKAMO,東京都,0,,-
-10th style,雪月花,0,,-,1199,FLYING,東京都,1931,PICO,東京都,2559,MIKAMO,東京都,0,,-
-10th style,システムロマンス,0,,-,914,PICO,東京都,1790,PICO,東京都,2044,MIKAMO,東京都,0,,-
-10th style,SPACE FIGHT,0,,-,649,04*,東京都,1532,PICO,東京都,2258,MIKAMO,東京都,0,,-
-10th style,SHOOTING STAR,0,,-,1267,04*,東京都,1568,IIDX25,東京都,2286,MIKAMO,東京都,0,,-
-10th style,Rise'n Beauty,0,,-,1300,ATIA,東京都,1669,SHINPO,東京都,2178,NIKE.,東京都,0,,-
-10th style,rainbow rainbow,0,,-,1572,*SHO5*,東京都,2253,DICE,東京都,2743,MIKAMO,東京都,0,,-
-10th style,pandora,0,,-,898,04*,東京都,1680,SHINPO,東京都,1858,MIKAMO,東京都,0,,-
-10th style,One More Lovely,0,,-,862,04*,東京都,1661,PICO,東京都,2864,KUNMAA,東京都,0,,-
-10th style,No.13,0,,-,1706,PICO,東京都,2671,DICE,東京都,3200,MIKAMO,東京都,0,,-
-10th style,Narcissus At Oasis,0,,-,775,04*,東京都,1586,MIKAMO,東京都,1671,MIKAMO,東京都,0,,-
-10th style,Lucy,0,,-,965,04*,東京都,1798,PICO,東京都,2333,MIKAMO,東京都,0,,-
-10th style,Love Is Eternity,0,,-,1155,CARROT,東京都,1933,MASA,東京都,2422,8S.,東京都,0,,-
-10th style,Innocent Walls,0,,-,1688,PICO,東京都,2532,MIKAMO,東京都,2855,MIKAMO,東京都,0,,-
-10th style,HIGH,0,,-,940,ATIA,東京都,1942,1048,東京都,2173,TETSUO,東京都,0,,-
-10th style,GRADIUS -FULL SPEED-,0,,-,732,RYU,東京都,1173,T.I,東京都,2131,U76NER,東京都,0,,-
-10th style,GHOST REVIVAL,0,,-,923,04*,東京都,1996,1KCAL,東京都,2599,MIKAMO,東京都,0,,-
-10th style,Freezing atmosphere,0,,-,795,04*,東京都,1143,PICO,東京都,1533,TETSUO,東京都,0,,-
-10th style,FEEL IT,0,,-,933,04*,東京都,1771,PICO,東京都,2016,NIKE.,東京都,0,,-
-10th style,Feedback,0,,-,1092,1048,東京都,1660,1048,東京都,1988,U76NER,東京都,0,,-
-10th style,EXE,0,,-,844,04*,東京都,1611,NESS,東京都,2258,1048,東京都,0,,-
-10th style,DoLL,347,LASNET,東京都,932,04*,東京都,1241,DICE,東京都,1620,MIKAMO,東京都,0,,-
-10th style,desolation,0,,-,484,04*,東京都,657,SHINPO,東京都,767,ZNDMON,東京都,0,,-
-10th style,Debtty Daddy,0,,-,1064,ATIA,東京都,2010,PICO,東京都,2729,NIKE.,東京都,0,,-
-10th style,Daisuke,470,SQUARE,東京都,1225,ATIA,東京都,1664,&#9996,東京都,2409,MIKAMO,東京都,0,,-
-10th style,CARRY ON NIGHT (English version),0,,-,1016,PICO,東京都,1365,DICE,東京都,2064,343434,東京都,0,,-
-10th style,Boundary,0,,-,878,ATIA,東京都,1849,DICE,東京都,2060,NIKE.,東京都,0,,-
-10th style,Back Into The Light,0,,-,1192,*SHO5*,東京都,1607,SLEEP,東京都,2167,MIKAMO,東京都,0,,-
-10th style,BABY LOVE,0,,-,1185,04*,東京都,1725,PICO,東京都,2168,MIKAMO,東京都,0,,-
-10th style,ASTRAL VOYAGE,0,,-,1002,04*,東京都,1379,T.I,東京都,1936,U76NER,東京都,0,,-
-10th style,ALIEN TEMPLE,0,,-,1007,ATIA,東京都,1627,R,東京都,2036,1048,東京都,0,,-
-10th style,1st Samurai,0,,-,1080,04*,東京都,2021,1048,東京都,2744,MIKAMO,東京都,0,,-
 HAPPY SKY,月光,0,,-,910,PICO,東京都,1795,PICO,東京都,2485,MIKAMO,東京都,0,,-
 HAPPY SKY,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),0,,-,1127,ATIA,東京都,1606,PICO,東京都,1941,8S.,東京都,0,,-
 HAPPY SKY,冥,589,T.I,東京都,1063,YSK439,東京都,2182,MIKAMO,東京都,3907,A.HYSK,東京都,0,,-
@@ -257,6 +259,7 @@ HAPPY SKY,Pollinosis,0,,-,805,ATIA,東京都,1179,PICO,東京都,2551,MIKAMO,東
 HAPPY SKY,PLASMA,0,,-,952,04*,東京都,1653,SHINPO,東京都,2288,NIKE.,東京都,0,,-
 HAPPY SKY,Pink Rose,0,,-,594,PICO,東京都,965,SLEEP,東京都,1415,NIKE.,東京都,0,,-
 HAPPY SKY,MOON RACE,0,,-,866,PICO,東京都,1189,PICO,東京都,1906,TETSUO,東京都,0,,-
+HAPPY SKY,mind the gap,0,,-,769,DICE,東京都,1046,PICO,東京都,1648,DINASO,東京都,0,,-
 HAPPY SKY,Love Magic,0,,-,1030,PICO,東京都,1783,PICO,東京都,1970,MIKAMO,東京都,0,,-
 HAPPY SKY,Little Little Princess,0,,-,1081,04*,東京都,2225,PICO,東京都,2811,MIKAMO,東京都,3819,DINASO,東京都
 HAPPY SKY,LESSON 5,0,,-,1304,PICO,東京都,1827,NESS,東京都,2509,NIKE.,東京都,0,,-
@@ -271,6 +274,7 @@ HAPPY SKY,First Resolution,0,,-,842,PICO,東京都,1544,TM-1,東京都,2150,NIKE
 HAPPY SKY,EMPTY OF THE SKY,0,,-,666,04*,東京都,1052,PICO,東京都,1686,TETSUO,東京都,0,,-
 HAPPY SKY,EDEN,0,,-,1297,04*,東京都,1903,DANTAG,東京都,2725,NIKE.,東京都,0,,-
 HAPPY SKY,double thrash,0,,-,1016,04*,東京都,2112,PICO,東京都,2402,DINASO,東京都,0,,-
+HAPPY SKY,Don't let it go,0,,-,719,PICO,東京都,1268,XAB,東京都,1702,1048,東京都,0,,-
 HAPPY SKY,Catch Me,0,,-,809,PICO,東京都,1345,PICO,東京都,1844,MIKAMO,東京都,0,,-
 HAPPY SKY,CaptivAte～浄化～,0,,-,1081,PICO,東京都,1887,PICO,東京都,2485,MIKAMO,東京都,0,,-
 HAPPY SKY,Aurora,0,,-,1426,PICO,東京都,2185,PICO,東京都,2553,MIKAMO,東京都,0,,-
@@ -356,6 +360,8 @@ GOLD,Candy Galy,0,,-,1599,PICO,東京都,2526,1KCAL,東京都,3575,DINASO,東京
 GOLD,"Blind Justice ～Torn souls, Hurt Faiths ～",0,,-,1355,PICO,東京都,1995,PICO,東京都,2487,NIKE.,東京都,0,,-
 GOLD,ANDROMEDA II,0,,-,995,ATIA,東京都,1947,PICO,東京都,2497,8S.,東京都,0,,-
 GOLD,Air Bell,0,,-,998,PICO,東京都,1374,PICO,東京都,1730,DINASO,東京都,0,,-
+GOLD,2hot2eat,0,,-,600,IKE,東京都,1169,SHINPO,東京都,1692,DINASO,東京都,0,,-
+DJ TROOPERS,高高度降下低高度開傘,0,,-,926,Y13,東京都,1515,DATTO,東京都,2007,ZUBU,東京都,0,,-
 DJ TROOPERS,走馬灯 -The Last Song-,0,,-,510,04*,東京都,903,TOBI*R,東京都,1340,DINASO,東京都,0,,-
 DJ TROOPERS,華爛漫 -Flowers-,337,LASNET,東京都,1019,ATIA,東京都,1607,PICO,東京都,2056,DINASO,東京都,3187,MIKAMO,東京都
 DJ TROOPERS,少年A,0,,-,1247,04*,東京都,2172,1KCAL,東京都,2854,MIKAMO,東京都,0,,-
@@ -419,6 +425,7 @@ EMPRESS,"You'll say ""Now!""",0,,-,1253,ATIA,東京都,1908,1048,東京都,2533,
 EMPRESS,Y&Co. is dead or alive,0,,-,1081,AGEPOY,東京都,1775,DICE,東京都,2807,NAGISA,東京都,0,,-
 EMPRESS,V2,792,X-JIN,東京都,1500,ATIA,東京都,3182,PICO,東京都,3587,MIKAMO,東京都,0,,-
 EMPRESS,Turii ～Panta rhei～,371,LASNET,東京都,890,04*,東京都,2018,TRI2TY,東京都,2688,MIKAMO,東京都,0,,-
+EMPRESS,thunder HOUSE NATION Remix,0,,-,1070,XAB,東京都,1655,PICO,東京都,2480,NIKE.,東京都,3900,TETSUO,東京都
 EMPRESS,THANK YOU FOR PLAYING,0,,-,797,CH!Z8F,東京都,1636,OYAT,東京都,2170,MIKAMO,東京都,3015,NAGISA,東京都
 EMPRESS,SOLITON BEAM,0,,-,1476,ATIA,東京都,2102,DICE,東京都,2370,NIKE.,東京都,0,,-
 EMPRESS,smooooch・∀・,397,LEONE,東京都,835,DICE,東京都,1647,DICE,東京都,2171,MIKAMO,東京都,0,,-
@@ -431,6 +438,7 @@ EMPRESS,neogenesis,0,,-,995,04*,東京都,1338,SILVA.,東京都,1727,MIKAMO,東�
 EMPRESS,naughty girl@Queen's Palace,0,,-,863,ATIA,東京都,1708,DICE,東京都,2160,MIKAMO,東京都,2739,MIKAMO,東京都
 EMPRESS,Monkey Dance '09,0,,-,870,04*,東京都,1786,PICO,東京都,2280,MIKAMO,東京都,0,,-
 EMPRESS,Mind Mapping,518,LASNET,東京都,878,04*,東京都,1218,1SE,東京都,1840,8S.,東京都,2263,TETSUO,東京都
+EMPRESS,Marie Antoinette,0,,-,1107,PICO,東京都,1994,PICO,東京都,2609,MIKAMO,東京都,3206,MIKAMO,東京都
 EMPRESS,Kung-fu Empire,0,,-,1520,PICO,東京都,2611,PICO,東京都,3285,TANMEN,東京都,3952,TETSUO,東京都
 EMPRESS,Just a Little Smile,0,,-,827,PICO,東京都,1362,NO4XTK,東京都,2515,MIKAMO,東京都,0,,-
 EMPRESS,Jack,0,,-,930,PICO,東京都,1428,PICO,東京都,2172,MIKAMO,東京都,0,,-
@@ -489,6 +497,7 @@ SIRIUS,Empire State Glory,0,,-,1105,RYU,東京都,1839,PICO,東京都,2653,MIKAM
 SIRIUS,Elisha,429,LASNET,東京都,883,XERIA,東京都,1487,KT4ER1,東京都,2292,DINASO,東京都,0,,-
 SIRIUS,DROP,0,,-,863,04*,東京都,2158,PICO,東京都,2659,MIKAMO,東京都,0,,-
 SIRIUS,DOMINION,0,,-,1260,DELAY,東京都,2355,DICE,東京都,3247,MIKAMO,東京都,0,,-
+SIRIUS,Do Back Burn,0,,-,726,PICO,東京都,1453,PICO,東京都,2149,MIKAMO,東京都,0,,-
 SIRIUS,DESIRE,0,,-,954,ATIA,東京都,2003,PICO,東京都,2877,DINASO,東京都,0,,-
 SIRIUS,Dazzlin' Darlin-秋葉工房mix-,0,,-,805,04*,東京都,1463,R,東京都,2102,NIKE.,東京都,0,,-
 SIRIUS,DAWN -THE NEXT ENDEAVOUR-,0,,-,1610,ANY,東京都,2559,ZUBERG,東京都,3148,MIKAMO,東京都,0,,-
@@ -607,6 +616,7 @@ Lincle,Infinite cave,0,,-,1056,PICO,東京都,1565,PICO,東京都,2081,TETSUO,�
 Lincle,In the Blackest Den,0,,-,869,RYU,東京都,1623,MIKAMO,東京都,2669,MIKAMO,東京都,0,,-
 Lincle,I'm so Happy,316,LASNET,東京都,422,04*,東京都,1416,PICO,東京都,2369,MIKAMO,東京都,0,,-
 Lincle,HAERETICUS,0,,-,876,PICO,東京都,1971,PICO,東京都,3090,MIKAMO,東京都,0,,-
+Lincle,GIGANT,0,,-,593,MIKAMO,東京都,1202,PICO,東京都,1772,PICO,東京都,2949,MIKAMO,東京都
 Lincle,Follow Tomorrow,0,,-,908,04*,東京都,1502,*SHO5*,東京都,2274,PICO,東京都,0,,-
 Lincle,Flip Flap,278,LASNET,東京都,585,04*,東京都,1411,PICO,東京都,2269,TETSUO,東京都,0,,-
 Lincle,fffff,0,,-,862,PICO,東京都,2191,PICO,東京都,3187,MIKAMO,東京都,0,,-
@@ -940,6 +950,92 @@ copula,AO-1,0,,-,1245,T.I,東京都,1976,PICO,東京都,2840,MIKAMO,東京都,0,
 copula,Angelic Jelly,0,,-,1109,MA2RI,東京都,2049,AYTK,東京都,2806,MIKAMO,東京都,0,,-
 copula,Acid Pumper,0,,-,694,PICO,東京都,1589,GEORGE,東京都,2506,MIKAMO,東京都,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,718,ATIA,東京都,1725,PICO,東京都,2423,MIKAMO,東京都,0,,-
+CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,701,04*,東京都,1211,FLYING,東京都,2338,MIKAMO,東京都,0,,-
+CANNON BALLERS,純真可憐デザイア,251,MA2RI,東京都,835,04*,東京都,1644,PICO,東京都,2344,MIKAMO,東京都,0,,-
+CANNON BALLERS,神謳 -RESONANCE-,0,,-,1404,PICO,東京都,2533,DICE,東京都,4053,MIKAMO,東京都,0,,-
+CANNON BALLERS,東京神話,470,DICE,東京都,1050,PICO,東京都,1814,PICO,東京都,2900,MIKAMO,東京都,0,,-
+CANNON BALLERS,命の標本,0,,-,736,04*,東京都,1589,K.JO,東京都,2699,8S.,東京都,0,,-
+CANNON BALLERS,共犯へヴンズコード,0,,-,515,DICE,東京都,1392,PICO,東京都,2291,MIKAMO,東京都,0,,-
+CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,859,PICO,東京都,1599,PICO,東京都,2206,MIKAMO,東京都,0,,-
+CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1054,PICO,東京都,1916,DELAY,東京都,2810,NIKE.,東京都,0,,-
+CANNON BALLERS,バスルーム ロマンス,0,,-,978,04*,東京都,1431,CERKA,東京都,2453,MIKAMO,東京都,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,834,04*,東京都,1841,PICO,東京都,2574,NIKE.,東京都,0,,-
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,873,HR-SIO,東京都,1557,ATIA,東京都,2460,MIKAMO,東京都,0,,-
+CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,1031,04*,東京都,1542,PICO,東京都,2094,MIKAMO,東京都,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1432,PICO,東京都,2378,DICE,東京都,3519,8S.,東京都,0,,-
+CANNON BALLERS,エディブルフラワーの独白,0,,-,818,04*,東京都,1549,SLEEP,東京都,2216,NIKE.,東京都,0,,-
+CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,924,YU,東京都,1586,MARU-N,東京都,2541,8S.,東京都,0,,-
+CANNON BALLERS,Xperanza,546,LASNET,東京都,1372,MEW,東京都,2457,NAOTIN,東京都,3235,MIKAMO,東京都,0,,-
+CANNON BALLERS,Usual Days-remix,0,,-,1116,PICO,東京都,1519,PICO,東京都,2710,MIKAMO,東京都,0,,-
+CANNON BALLERS,UMMU,433,LASNET,東京都,1250,ATIA,東京都,2123,PICO,東京都,3150,MIKAMO,東京都,0,,-
+CANNON BALLERS,The Revolution (VIP Mix),0,,-,799,04*,東京都,1489,ECHZEN,東京都,1872,8S.,東京都,0,,-
+CANNON BALLERS,The Chase,0,,-,713,DICE,東京都,1392,DICE,東京都,2220,MIKAMO,東京都,0,,-
+CANNON BALLERS,THE CANNONBALLER,478,HICH,東京都,1538,ATIA,東京都,2447,NAGACH,東京都,3480,MIKAMO,東京都,0,,-
+CANNON BALLERS,Temple of Anubis,0,,-,1031,DINASO,東京都,1516,SLEEP,東京都,2675,MIKAMO,東京都,0,,-
+CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1234,PICO,東京都,1797,PICO,東京都,2688,8S.,東京都,0,,-
+CANNON BALLERS,Static State,0,,-,1051,04*,東京都,1717,VASUKI,東京都,2415,MIKAMO,東京都,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,905,PICO,東京都,1628,NIKE.,東京都,2300,MIKAMO,東京都,0,,-
+CANNON BALLERS,SPEED DEMON,0,,-,754,PICO,東京都,1471,PICO,東京都,2375,MIKAMO,東京都,0,,-
+CANNON BALLERS,Slipstream,0,,-,1074,04*,東京都,2047,&#9996,東京都,3607,MIKAMO,東京都,0,,-
+CANNON BALLERS,Sleepless days,0,,-,507,04*,東京都,908,KEBAB.,東京都,1576,MIKAMO,東京都,0,,-
+CANNON BALLERS,REVOLVER,0,,-,940,ATIA,東京都,1597,284KYO,東京都,2788,MIKAMO,東京都,3351,ZUBU,東京都
+CANNON BALLERS,Raspberry Railgun,0,,-,1436,PICO,東京都,2288,PICO,東京都,3198,DINASO,東京都,0,,-
+CANNON BALLERS,Rampage,0,,-,1306,PICO,東京都,2501,NAOTIN,東京都,3642,8S.,東京都,0,,-
+CANNON BALLERS,Persephone,0,,-,1378,PICO,東京都,2010,PICO,東京都,3042,DINASO,東京都,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,1228,PICO,東京都,2113,PICO,東京都,2951,MIKAMO,東京都,0,,-
+CANNON BALLERS,Only for now,0,,-,912,04*,東京都,1579,ATIA,東京都,2271,NIKE.,東京都,0,,-
+CANNON BALLERS,O/D*20,0,,-,1158,PICO,東京都,1702,PICO,東京都,2136,DINASO,東京都,0,,-
+CANNON BALLERS,Nothing but Theory,0,,-,1109,ATIA,東京都,1583,CERKA,東京都,2868,MIKAMO,東京都,0,,-
+CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,981,04*,東京都,1566,PICO,東京都,2357,TETSUO,東京都,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1417,PICO,東京都,2070,DICE,東京都,3706,MIKAMO,東京都,0,,-
+CANNON BALLERS,n'pa pa BBQ,0,,-,932,DICE,東京都,1747,DICE,東京都,2803,MIKAMO,東京都,0,,-
+CANNON BALLERS,Midnight Lady,0,,-,640,04*,東京都,1167,R,東京都,1954,TETSUO,東京都,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,824,ATIA,東京都,1491,PICO,東京都,2497,8S.,東京都,0,,-
+CANNON BALLERS,LUV DRIVE,0,,-,837,PICO,東京都,1356,PICO,東京都,2144,MIKAMO,東京都,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1268,ORNG,東京都,1943,PICO,東京都,3506,MIKAMO,東京都,0,,-
+CANNON BALLERS,Initiation,653,PICO,東京都,1520,PICO,東京都,2538,PICO,東京都,3985,MIKAMO,東京都,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1318,MEW,東京都,2277,KT4ER1,東京都,3570,MIKAMO,東京都,0,,-
+CANNON BALLERS,I Love You,0,,-,1077,NO4XTK,東京都,1924,PICO,東京都,2750,DINASO,東京都,0,,-
+CANNON BALLERS,HYPE THE CORE,0,,-,1128,PICO,東京都,2032,DICE,東京都,3046,MIKAMO,東京都,0,,-
+CANNON BALLERS,Hella Deep,0,,-,640,04*,東京都,1049,ERAKIS,東京都,1896,MIKAMO,東京都,0,,-
+CANNON BALLERS,HAT TRICK,0,,-,873,ATIA,東京都,1441,PICO,東京都,2227,DINASO,東京都,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,589,WLEN7,東京都,1286,PICO,東京都,1920,TETSUO,東京都,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,920,04*,東京都,1466,KOJO.P,東京都,2272,NIKE.,東京都,0,,-
+CANNON BALLERS,From Time To Time,0,,-,807,04*,東京都,1882,MIRA*,東京都,2571,MIKAMO,東京都,0,,-
+CANNON BALLERS,FREEDOM,0,,-,990,04*,東京都,1673,WLEN7,東京都,2947,1048,東京都,0,,-
+CANNON BALLERS,Fervidex,0,,-,855,04*,東京都,1813,PICO,東京都,2714,MIKAMO,東京都,0,,-
+CANNON BALLERS,Expanded !!,0,,-,675,04*,東京都,1507,YU,東京都,2645,NIKE.,東京都,0,,-
+CANNON BALLERS,Exhaust Hype,0,,-,1040,04*,東京都,1948,&#9996,東京都,2830,MIKAMO,東京都,0,,-
+CANNON BALLERS,encounter,0,,-,979,04*,東京都,1789,PICO,東京都,3316,TETSUO,東京都,0,,-
+CANNON BALLERS,EMERALDAS,525,PICO,東京都,1403,PICO,東京都,2467,8S.,東京都,3596,A.HYSK,東京都,0,,-
+CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,979,04*,東京都,1441,PICO,東京都,2615,DINASO,東京都,0,,-
+CANNON BALLERS,DropZ-Line-,0,,-,1383,PICO,東京都,2174,PICO,東京都,3225,MIKAMO,東京都,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1419,PICO,東京都,2508,PICO,東京都,4084,MIKAMO,東京都,0,,-
+CANNON BALLERS,DEADHEAT,0,,-,1206,PICO,東京都,2103,DICE,東京都,3392,MIKAMO,東京都,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,774,04*,東京都,1412,MAC,東京都,2095,NIKE.,東京都,0,,-
+CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1305,04*,東京都,1877,CLAZZI,東京都,2672,TETSUO,東京都,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,836,*SHO5*,東京都,1472,KUNMAA,東京都,2153,NIKE.,東京都,0,,-
+CANNON BALLERS,ChaserXX,0,,-,1106,PICO,東京都,1910,PICO,東京都,2879,MIKAMO,東京都,0,,-
+CANNON BALLERS,Break Stasis,0,,-,1346,PICO,東京都,1957,PICO,東京都,2540,8S.,東京都,0,,-
+CANNON BALLERS,Boomy and The Boost,422,IKKI,東京都,1076,ATIA,東京都,2077,KT4ER1,東京都,3605,MIKAMO,東京都,0,,-
+CANNON BALLERS,Best of Me,0,,-,824,04*,東京都,1543,KPMK,東京都,2245,NIKE.,東京都,0,,-
+CANNON BALLERS,Beast mode,0,,-,1054,04*,東京都,1605,PICO,東京都,2780,NIKE.,東京都,0,,-
+CANNON BALLERS,Be a Hero!,0,,-,768,04*,東京都,2003,PICO,東京都,3160,MIKAMO,東京都,0,,-
+CANNON BALLERS,Battleground,0,,-,1184,DICE,東京都,1920,PICO,東京都,2708,1048,東京都,0,,-
+CANNON BALLERS,Back Spin Sweeper,0,,-,831,ATIA,東京都,1401,AMHQ,東京都,2299,1048,東京都,0,,-
+CANNON BALLERS,Around the Future,0,,-,1093,04*,東京都,1729,1KCAL,東京都,2629,DINASO,東京都,0,,-
+CANNON BALLERS,Arca,0,,-,927,04*,東京都,1896,GE,東京都,3160,TETSUO,東京都,0,,-
+CANNON BALLERS,Antigravity,0,,-,1058,MEW,東京都,2036,DICE,東京都,3123,MIKAMO,東京都,0,,-
+CANNON BALLERS,ANCHOR,0,,-,1357,PICO,東京都,2532,PICO,東京都,3630,MIKAMO,東京都,0,,-
+CANNON BALLERS,ANAGMA,0,,-,1044,ATIA,東京都,1779,S.S.H.,東京都,2661,NIKE.,東京都,0,,-
+CANNON BALLERS,Amor De Verao,0,,-,803,DICE,東京都,1448,PICO,東京都,2373,MIKAMO,東京都,0,,-
+CANNON BALLERS,Alpheratz,0,,-,436,04*,東京都,1037,DICE,東京都,2098,MIKAMO,東京都,0,,-
+CANNON BALLERS,ACCELERATE,0,,-,1194,PICO,東京都,1787,PICO,東京都,2518,NIKE.,東京都,0,,-
+CANNON BALLERS,Abraxas,0,,-,790,04*,東京都,1657,SHINPO,東京都,2460,MIKAMO,東京都,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1290,PICO,東京都,2429,PICO,東京都,3616,MIKAMO,東京都,0,,-
+CANNON BALLERS,255,0,,-,922,04*,東京都,1623,KT4ER1,東京都,3301,DINASO,東京都,0,,-
+CANNON BALLERS,2 Player,0,,-,988,SOBO9O,東京都,1535,OSUCCI,東京都,2585,DINASO,東京都,0,,-
+CANNON BALLERS,1001 -ESCAPE-,0,,-,1042,04*,東京都,1684,7CHOMO,東京都,2650,MIKAMO,東京都,0,,-
 SINOBUZ,鴉,0,,-,1514,PICO,東京都,2263,DICE,東京都,2708,EXIT,東京都,0,,-
 SINOBUZ,童話回廊,0,,-,968,PICO,東京都,1793,PICO,東京都,3140,TETSUO,東京都,0,,-
 SINOBUZ,禍根,0,,-,816,04*,東京都,1400,PICO,東京都,2645,MIKAMO,東京都,0,,-
@@ -1029,92 +1125,6 @@ SINOBUZ,Amazing Mirage,374,LASNET,東京都,904,RYU,東京都,1775,DINASO,東京
 SINOBUZ,(This Is Not) The Angels,0,,-,606,PICO,東京都,1465,DINASO,東京都,2721,DINASO,東京都,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,1172,MEW,東京都,1979,KT4ER1,東京都,3467,MIKAMO,東京都,0,,-
 SINOBUZ,!Viva!,0,,-,955,RYU,東京都,1566,SLEEP,東京都,2019,TETSUO,東京都,0,,-
-CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,701,04*,東京都,1211,FLYING,東京都,2338,MIKAMO,東京都,0,,-
-CANNON BALLERS,純真可憐デザイア,251,MA2RI,東京都,835,04*,東京都,1644,PICO,東京都,2344,MIKAMO,東京都,0,,-
-CANNON BALLERS,神謳 -RESONANCE-,0,,-,1404,PICO,東京都,2533,DICE,東京都,4053,MIKAMO,東京都,0,,-
-CANNON BALLERS,東京神話,470,DICE,東京都,1050,PICO,東京都,1814,PICO,東京都,2900,MIKAMO,東京都,0,,-
-CANNON BALLERS,命の標本,0,,-,736,04*,東京都,1589,K.JO,東京都,2699,8S.,東京都,0,,-
-CANNON BALLERS,共犯へヴンズコード,0,,-,515,DICE,東京都,1392,PICO,東京都,2291,MIKAMO,東京都,0,,-
-CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,859,PICO,東京都,1599,PICO,東京都,2206,MIKAMO,東京都,0,,-
-CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,1054,PICO,東京都,1916,DELAY,東京都,2810,NIKE.,東京都,0,,-
-CANNON BALLERS,バスルーム ロマンス,0,,-,978,04*,東京都,1431,CERKA,東京都,2453,MIKAMO,東京都,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,834,04*,東京都,1841,PICO,東京都,2574,NIKE.,東京都,0,,-
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,873,HR-SIO,東京都,1557,ATIA,東京都,2460,MIKAMO,東京都,0,,-
-CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,1031,04*,東京都,1542,PICO,東京都,2094,MIKAMO,東京都,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1432,PICO,東京都,2378,DICE,東京都,3519,8S.,東京都,0,,-
-CANNON BALLERS,エディブルフラワーの独白,0,,-,818,04*,東京都,1549,SLEEP,東京都,2216,NIKE.,東京都,0,,-
-CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,924,YU,東京都,1586,MARU-N,東京都,2541,8S.,東京都,0,,-
-CANNON BALLERS,Xperanza,546,LASNET,東京都,1372,MEW,東京都,2457,NAOTIN,東京都,3235,MIKAMO,東京都,0,,-
-CANNON BALLERS,Usual Days-remix,0,,-,1116,PICO,東京都,1519,PICO,東京都,2710,MIKAMO,東京都,0,,-
-CANNON BALLERS,UMMU,433,LASNET,東京都,1250,ATIA,東京都,2123,PICO,東京都,3150,MIKAMO,東京都,0,,-
-CANNON BALLERS,The Revolution (VIP Mix),0,,-,799,04*,東京都,1489,ECHZEN,東京都,1872,8S.,東京都,0,,-
-CANNON BALLERS,The Chase,0,,-,713,DICE,東京都,1392,DICE,東京都,2220,MIKAMO,東京都,0,,-
-CANNON BALLERS,THE CANNONBALLER,478,HICH,東京都,1538,ATIA,東京都,2447,NAGACH,東京都,3480,MIKAMO,東京都,0,,-
-CANNON BALLERS,Temple of Anubis,0,,-,1031,DINASO,東京都,1516,SLEEP,東京都,2675,MIKAMO,東京都,0,,-
-CANNON BALLERS,SUNLiGHT (IIDX Mix),0,,-,1234,PICO,東京都,1797,PICO,東京都,2688,8S.,東京都,0,,-
-CANNON BALLERS,Static State,0,,-,1051,04*,東京都,1717,VASUKI,東京都,2415,MIKAMO,東京都,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,905,PICO,東京都,1628,NIKE.,東京都,2300,MIKAMO,東京都,0,,-
-CANNON BALLERS,SPEED DEMON,0,,-,754,PICO,東京都,1471,PICO,東京都,2375,MIKAMO,東京都,0,,-
-CANNON BALLERS,Slipstream,0,,-,1074,04*,東京都,2047,&#9996,東京都,3607,MIKAMO,東京都,0,,-
-CANNON BALLERS,Sleepless days,0,,-,507,04*,東京都,908,KEBAB.,東京都,1576,MIKAMO,東京都,0,,-
-CANNON BALLERS,REVOLVER,0,,-,940,ATIA,東京都,1597,284KYO,東京都,2788,MIKAMO,東京都,3351,ZUBU,東京都
-CANNON BALLERS,Raspberry Railgun,0,,-,1436,PICO,東京都,2288,PICO,東京都,3198,DINASO,東京都,0,,-
-CANNON BALLERS,Rampage,0,,-,1306,PICO,東京都,2501,NAOTIN,東京都,3642,8S.,東京都,0,,-
-CANNON BALLERS,Persephone,0,,-,1378,PICO,東京都,2010,PICO,東京都,3042,DINASO,東京都,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,1228,PICO,東京都,2113,PICO,東京都,2951,MIKAMO,東京都,0,,-
-CANNON BALLERS,Only for now,0,,-,912,04*,東京都,1579,ATIA,東京都,2271,NIKE.,東京都,0,,-
-CANNON BALLERS,O/D*20,0,,-,1158,PICO,東京都,1702,PICO,東京都,2136,DINASO,東京都,0,,-
-CANNON BALLERS,Nothing but Theory,0,,-,1109,ATIA,東京都,1583,CERKA,東京都,2868,MIKAMO,東京都,0,,-
-CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,981,04*,東京都,1566,PICO,東京都,2357,TETSUO,東京都,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1417,PICO,東京都,2070,DICE,東京都,3706,MIKAMO,東京都,0,,-
-CANNON BALLERS,n'pa pa BBQ,0,,-,932,DICE,東京都,1747,DICE,東京都,2803,MIKAMO,東京都,0,,-
-CANNON BALLERS,Midnight Lady,0,,-,640,04*,東京都,1167,R,東京都,1954,TETSUO,東京都,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,824,ATIA,東京都,1491,PICO,東京都,2497,8S.,東京都,0,,-
-CANNON BALLERS,LUV DRIVE,0,,-,837,PICO,東京都,1356,PICO,東京都,2144,MIKAMO,東京都,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,1268,ORNG,東京都,1943,PICO,東京都,3506,MIKAMO,東京都,0,,-
-CANNON BALLERS,Initiation,653,PICO,東京都,1520,PICO,東京都,2538,PICO,東京都,3985,MIKAMO,東京都,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1318,MEW,東京都,2277,KT4ER1,東京都,3570,MIKAMO,東京都,0,,-
-CANNON BALLERS,I Love You,0,,-,1077,NO4XTK,東京都,1924,PICO,東京都,2750,DINASO,東京都,0,,-
-CANNON BALLERS,HYPE THE CORE,0,,-,1128,PICO,東京都,2032,DICE,東京都,3046,MIKAMO,東京都,0,,-
-CANNON BALLERS,Hella Deep,0,,-,640,04*,東京都,1049,ERAKIS,東京都,1896,MIKAMO,東京都,0,,-
-CANNON BALLERS,HAT TRICK,0,,-,873,ATIA,東京都,1441,PICO,東京都,2227,DINASO,東京都,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,589,WLEN7,東京都,1286,PICO,東京都,1920,TETSUO,東京都,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,920,04*,東京都,1466,KOJO.P,東京都,2272,NIKE.,東京都,0,,-
-CANNON BALLERS,From Time To Time,0,,-,807,04*,東京都,1882,MIRA*,東京都,2571,MIKAMO,東京都,0,,-
-CANNON BALLERS,FREEDOM,0,,-,990,04*,東京都,1673,WLEN7,東京都,2947,1048,東京都,0,,-
-CANNON BALLERS,Fervidex,0,,-,855,04*,東京都,1813,PICO,東京都,2714,MIKAMO,東京都,0,,-
-CANNON BALLERS,Expanded !!,0,,-,675,04*,東京都,1507,YU,東京都,2645,NIKE.,東京都,0,,-
-CANNON BALLERS,Exhaust Hype,0,,-,1040,04*,東京都,1948,&#9996,東京都,2830,MIKAMO,東京都,0,,-
-CANNON BALLERS,encounter,0,,-,979,04*,東京都,1789,PICO,東京都,3316,TETSUO,東京都,0,,-
-CANNON BALLERS,EMERALDAS,525,PICO,東京都,1403,PICO,東京都,2467,8S.,東京都,3596,A.HYSK,東京都,0,,-
-CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,979,04*,東京都,1441,PICO,東京都,2615,DINASO,東京都,0,,-
-CANNON BALLERS,DropZ-Line-,0,,-,1383,PICO,東京都,2174,PICO,東京都,3225,MIKAMO,東京都,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1419,PICO,東京都,2508,PICO,東京都,4084,MIKAMO,東京都,0,,-
-CANNON BALLERS,DEADHEAT,0,,-,1206,PICO,東京都,2103,DICE,東京都,3392,MIKAMO,東京都,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,774,04*,東京都,1412,MAC,東京都,2095,NIKE.,東京都,0,,-
-CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1305,04*,東京都,1877,CLAZZI,東京都,2672,TETSUO,東京都,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,836,*SHO5*,東京都,1472,KUNMAA,東京都,2153,NIKE.,東京都,0,,-
-CANNON BALLERS,ChaserXX,0,,-,1106,PICO,東京都,1910,PICO,東京都,2879,MIKAMO,東京都,0,,-
-CANNON BALLERS,Break Stasis,0,,-,1346,PICO,東京都,1957,PICO,東京都,2540,8S.,東京都,0,,-
-CANNON BALLERS,Boomy and The Boost,422,IKKI,東京都,1076,ATIA,東京都,2077,KT4ER1,東京都,3605,MIKAMO,東京都,0,,-
-CANNON BALLERS,Best of Me,0,,-,824,04*,東京都,1543,KPMK,東京都,2245,NIKE.,東京都,0,,-
-CANNON BALLERS,Beast mode,0,,-,1054,04*,東京都,1605,PICO,東京都,2780,NIKE.,東京都,0,,-
-CANNON BALLERS,Be a Hero!,0,,-,768,04*,東京都,2003,PICO,東京都,3160,MIKAMO,東京都,0,,-
-CANNON BALLERS,Battleground,0,,-,1184,DICE,東京都,1920,PICO,東京都,2708,1048,東京都,0,,-
-CANNON BALLERS,Back Spin Sweeper,0,,-,831,ATIA,東京都,1401,AMHQ,東京都,2299,1048,東京都,0,,-
-CANNON BALLERS,Around the Future,0,,-,1093,04*,東京都,1729,1KCAL,東京都,2629,DINASO,東京都,0,,-
-CANNON BALLERS,Arca,0,,-,927,04*,東京都,1896,GE,東京都,3160,TETSUO,東京都,0,,-
-CANNON BALLERS,Antigravity,0,,-,1058,MEW,東京都,2036,DICE,東京都,3123,MIKAMO,東京都,0,,-
-CANNON BALLERS,ANCHOR,0,,-,1357,PICO,東京都,2532,PICO,東京都,3630,MIKAMO,東京都,0,,-
-CANNON BALLERS,ANAGMA,0,,-,1044,ATIA,東京都,1779,S.S.H.,東京都,2661,NIKE.,東京都,0,,-
-CANNON BALLERS,Amor De Verao,0,,-,803,DICE,東京都,1448,PICO,東京都,2373,MIKAMO,東京都,0,,-
-CANNON BALLERS,Alpheratz,0,,-,436,04*,東京都,1037,DICE,東京都,2098,MIKAMO,東京都,0,,-
-CANNON BALLERS,ACCELERATE,0,,-,1194,PICO,東京都,1787,PICO,東京都,2518,NIKE.,東京都,0,,-
-CANNON BALLERS,Abraxas,0,,-,790,04*,東京都,1657,SHINPO,東京都,2460,MIKAMO,東京都,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1290,PICO,東京都,2429,PICO,東京都,3616,MIKAMO,東京都,0,,-
-CANNON BALLERS,255,0,,-,922,04*,東京都,1623,KT4ER1,東京都,3301,DINASO,東京都,0,,-
-CANNON BALLERS,2 Player,0,,-,988,SOBO9O,東京都,1535,OSUCCI,東京都,2585,DINASO,東京都,0,,-
-CANNON BALLERS,1001 -ESCAPE-,0,,-,1042,04*,東京都,1684,7CHOMO,東京都,2650,MIKAMO,東京都,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,1128,RYU,東京都,2332,MIKAMO,東京都,3221,NO4XTK,東京都,0,,-
 Rootage,金野火織の金色提言,0,,-,1254,XAB,東京都,2291,DICE,東京都,3141,DINASO,東京都,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,970,RYU,東京都,1683,SHINPO,東京都,2679,EXIT,東京都,0,,-
@@ -1220,19 +1230,26 @@ HEROIC VERSE,魅惑のYUMMYスイーツ,0,,-,934,1048,東京都,1789,DICE,東京
 HEROIC VERSE,開きたまえ！Next stAge！,0,,-,1134,T.I,東京都,1671,VEX,東京都,2906,NIKE.,東京都,0,,-
 HEROIC VERSE,錬成人間トリコロイダー,0,,-,1057,DICE,東京都,1790,F.MAXX,東京都,3217,MIKAMO,東京都,0,,-
 HEROIC VERSE,華麗なる大犬円舞曲,0,,-,1392,SHINPO,東京都,2135,DICE,東京都,3580,MIKAMO,東京都,0,,-
+HEROIC VERSE,眠りの国のステラ,0,,-,1173,#PERAO,東京都,1823,1KCAL,東京都,2768,8S.,東京都,0,,-
+HEROIC VERSE,狂水一華,0,,-,965,LASNET,東京都,1769,PICO,東京都,2717,MOBU,東京都,0,,-
 HEROIC VERSE,灼熱Beach Side Bunny (Masayoshi Iimori Remix),0,,-,666,RYU,東京都,1155,DICE,東京都,1845,MIKAMO,東京都,0,,-
 HEROIC VERSE,深淵に捧ぐレクイエム,0,,-,842,MEW,東京都,1654,PICO,東京都,3040,MIKAMO,東京都,0,,-
 HEROIC VERSE,曼荼羅恋々,0,,-,1079,LASNET,東京都,1723,1KCAL,東京都,2777,NIKE.,東京都,0,,-
 HEROIC VERSE,俺ら東京さ行ぐだ,252,LASNET,東京都,647,RYU,東京都,1313,T.I,東京都,1997,DINASO,東京都,0,,-
+HEROIC VERSE,令和(1991RAVE REMIX),351,LASNET,東京都,571,PICO,東京都,1356,LASNET,東京都,2211,DINASO,東京都,0,,-
 HEROIC VERSE,ランカーキラーガール,0,,-,1146,LASNET,東京都,1906,PICO,東京都,2945,MIKAMO,東京都,0,,-
+HEROIC VERSE,ラブキラ☆スプラッシュ,0,,-,1125,S.S.H.,東京都,1671,PICO,東京都,2532,NIKE.,東京都,0,,-
 HEROIC VERSE,ピアノ協奏曲第1番”蠍火” (BlackY Remix),0,,-,1039,MEW,東京都,2121,PICO,東京都,3772,MIKAMO,東京都,0,,-
+HEROIC VERSE,バッドエンド・シンドローム,0,,-,1053,LASNET,東京都,1774,PICO,東京都,2992,TETSUO,東京都,0,,-
 HEROIC VERSE,セピアの軌跡 ft. 天宮みや(少女フラクタル),379,RYU,東京都,803,LEONE,東京都,1471,ATIA,東京都,2403,NIKE.,東京都,0,,-
+HEROIC VERSE,シャムシールの舞,0,,-,839,LASNET,東京都,1504,DINASO,東京都,2570,NIKE.,東京都,0,,-
 HEROIC VERSE,ガヴリールドロップキック,413,.,東京都,789,PICO,東京都,1706,PICO,東京都,2708,ZUBU,東京都,0,,-
 HEROIC VERSE,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,0,,-,1567,DELAY,東京都,2727,KUNMAA,東京都,4271,MIKAMO,東京都,0,,-
 HEROIC VERSE,Ypsilon,0,,-,1134,ATIA,東京都,1794,&#9996,東京都,2912,8S.,東京都,3572,MIKAMO,東京都
 HEROIC VERSE,Voo Doo Bamboleo,0,,-,907,RYU,東京都,1556,PICO,東京都,2519,MIKAMO,東京都,0,,-
 HEROIC VERSE,Volcanic Dragon,0,,-,1095,ATIA,東京都,1802,*SHO5*,東京都,2988,MIKAMO,東京都,0,,-
 HEROIC VERSE,Virus Funk,0,,-,785,RYU,東京都,1530,PICO,東京都,2233,TETSUO,東京都,0,,-
+HEROIC VERSE,Vinculum stellarum,0,,-,932,#PERAO,東京都,2440,NAOTIN,東京都,3694,DINASO,東京都,0,,-
 HEROIC VERSE,VIBRΛ,0,,-,924,DATTO,東京都,1329,PICO,東京都,1875,MIKAMO,東京都,0,,-
 HEROIC VERSE,VALKYRIAS -英雄誕生-,467,LASNET,東京都,1044,MEW,東京都,1754,PICO,東京都,2769,MIKAMO,東京都,0,,-
 HEROIC VERSE,UNITE THE HEART,0,,-,1492,MEW,東京都,2606,DICE,東京都,3336,TETSUO,東京都,0,,-
@@ -1242,6 +1259,7 @@ HEROIC VERSE,The Sky of Sadness,0,,-,885,Y13,東京都,1534,PICO,東京都,2417,
 HEROIC VERSE,THE F∀UST,0,,-,1377,PICO,東京都,2296,DICE,東京都,3642,MIKAMO,東京都,0,,-
 HEROIC VERSE,THE BRAVE MUST DIE,0,,-,1423,MEW,東京都,2542,NAOTIN,東京都,4103,MIKAMO,東京都,0,,-
 HEROIC VERSE,TECHNO Style Essentials,0,,-,1031,ATIA,東京都,1655,PICO,東京都,2883,MIKAMO,東京都,0,,-
+HEROIC VERSE,take me higher,0,,-,812,BUXY.,東京都,1291,PICO,東京都,2020,EGPT,東京都,0,,-
 HEROIC VERSE,T-REX vs Velociraptor (In the Far east euphoria),0,,-,1423,PICO,東京都,1876,PICO,東京都,3250,MIKAMO,東京都,0,,-
 HEROIC VERSE,Sugar Drippin',0,,-,773,RYU,東京都,1369,LASNET,東京都,2120,TETSUO,東京都,0,,-
 HEROIC VERSE,STOIC HYPOTHESIS,0,,-,1118,MEW,東京都,1794,Y13,東京都,2870,MIKAMO,東京都,0,,-
@@ -1260,14 +1278,18 @@ HEROIC VERSE,Rainstorm,0,,-,994,04*,東京都,1527,&#9996,東京都,2289,1048,�
 HEROIC VERSE,Queen Kaguya,0,,-,971,LASNET,東京都,1850,1KCAL,東京都,2646,8S.,東京都,0,,-
 HEROIC VERSE,Punching Down (IIDX Mix),0,,-,665,04*,東京都,1151,ECHZEN,東京都,1878,MIKAMO,東京都,0,,-
 HEROIC VERSE,Primitive Vibes,588,LASNET,東京都,1170,ATIA,東京都,1998,PICO,東京都,3109,DINASO,東京都,0,,-
+HEROIC VERSE,POP TEAM EPIC(kors k Remix),327,RYU,東京都,537,04*,東京都,1287,T.I,東京都,2149,1048,東京都,0,,-
 HEROIC VERSE,PHASE SHIFT MANEUVER,0,,-,1267,Y13,東京都,1753,PICO,東京都,2871,8S.,東京都,0,,-
 HEROIC VERSE,Override,0,,-,953,MEW,東京都,1611,&#9996,東京都,2932,MIKAMO,東京都,4324,MIKAMO,東京都
 HEROIC VERSE,OUTER PLANETS,0,,-,670,RYU,東京都,1426,DICE,東京都,2190,NIKE.,東京都,0,,-
+HEROIC VERSE,ORCA,0,,-,1351,Y13,東京都,2440,NAOTIN,東京都,3543,MIKAMO,東京都,0,,-
+HEROIC VERSE,Ohayo!,0,,-,968,DATTO,東京都,1561,LASNET,東京都,2443,DINASO,東京都,0,,-
 HEROIC VERSE,NRG STAR '86 feat. 大山愛未,0,,-,1028,Y13,東京都,1489,TIKTOK,東京都,2661,8S.,東京都,0,,-
 HEROIC VERSE,NEWALONE,0,,-,601,04*,東京都,1313,PICO,東京都,2018,TETSUO,東京都,0,,-
 HEROIC VERSE,Nasty Techniques,0,,-,988,PICO,東京都,1697,PICO,東京都,2660,MIKAMO,東京都,0,,-
 HEROIC VERSE,Moving on,0,,-,1046,PICO,東京都,1925,&#9996,東京都,2997,1048,東京都,0,,-
 HEROIC VERSE,Mel,0,,-,787,Y13,東京都,1502,LASNET,東京都,2175,KT4ER1,東京都,0,,-
+HEROIC VERSE,Megalara Garuda,0,,-,1507,Y13,東京都,1994,DICE,東京都,3068,MIKAMO,東京都,0,,-
 HEROIC VERSE,Matt Silver,0,,-,1193,ATIA,東京都,2182,PICO,東京都,3377,NO4XTK,東京都,0,,-
 HEROIC VERSE,Lost Souls,0,,-,701,04*,東京都,1712,PICO,東京都,2463,8S.,東京都,0,,-
 HEROIC VERSE,Lords Of The Roundtable,0,,-,1072,ATIA,東京都,1867,PICO,東京都,3077,ZUBU,東京都,0,,-
@@ -1275,6 +1297,8 @@ HEROIC VERSE,Like+it!,0,,-,1068,DICE,東京都,1748,1KCAL,東京都,2385,DINASO,
 HEROIC VERSE,LIGHTNING STRIKES,472,IKKI,東京都,941,04*,東京都,1706,MIKAMO,東京都,3267,8S.,東京都,0,,-
 HEROIC VERSE,Level 2,0,,-,965,ATIA,東京都,1740,SHINPO,東京都,2924,MIKAMO,東京都,0,,-
 HEROIC VERSE,LASER CRUSTER (IGNITE REMIX),0,,-,791,04*,東京都,1794,TAKMI,東京都,3597,MIKAMO,東京都,0,,-
+HEROIC VERSE,Jetcoaster Windy,0,,-,821,LASNET,東京都,1439,PICO,東京都,2305,TETSUO,東京都,0,,-
+HEROIC VERSE,Into The Madness,0,,-,996,BUXY.,東京都,1627,PICO,東京都,2554,MIKAMO,東京都,0,,-
 HEROIC VERSE,Infinity Mirror,0,,-,864,Y13,東京都,1407,DICE,東京都,2322,MIKAMO,東京都,0,,-
 HEROIC VERSE,Inferno of Fomalhaut,0,,-,1030,RYU,東京都,1932,PICO,東京都,3248,MIKAMO,東京都,0,,-
 HEROIC VERSE,If,0,,-,779,P.L.H.,東京都,1333,&#9996,東京都,1914,MIKAMO,東京都,0,,-
@@ -1284,8 +1308,11 @@ HEROIC VERSE,Hold My Hand,0,,-,934,04*,東京都,1705,DICE,東京都,2489,343434
 HEROIC VERSE,GIGA VIOLATE,0,,-,1129,PICO,東京都,1648,PICO,東京都,2771,MIKAMO,東京都,0,,-
 HEROIC VERSE,GHOST,0,,-,843,Y13,東京都,1476,T.I,東京都,2789,MIKAMO,東京都,0,,-
 HEROIC VERSE,Friction[!]Function,0,,-,1117,ATIA,東京都,1807,BUXY.,東京都,3239,MIKAMO,東京都,0,,-
+HEROIC VERSE,Forgetting Machine,0,,-,729,DICE,東京都,1257,DICE,東京都,1732,MIKAMO,東京都,0,,-
 HEROIC VERSE,Fly Above (Vicissitude Remix),0,,-,882,04*,東京都,1531,&#9996,東京都,2393,343434,東京都,0,,-
 HEROIC VERSE,fairy cocktail,0,,-,457,04*,東京都,1108,PICO,東京都,1649,NIKE.,東京都,0,,-
+HEROIC VERSE,EXCITE,332,RYU,東京都,829,LEONE,東京都,1354,LASNET,東京都,2242,DINASO,東京都,0,,-
+HEROIC VERSE,Everlasting Message,0,,-,1275,PICO,東京都,2359,PICO,東京都,3829,MIKAMO,東京都,0,,-
 HEROIC VERSE,EROICA,0,,-,1405,PICO,東京都,2370,PICO,東京都,3950,A.HYSK,東京都,0,,-
 HEROIC VERSE,Duration,0,,-,541,04*,東京都,1019,04*,東京都,1953,MIKAMO,東京都,0,,-
 HEROIC VERSE,Drop It,0,,-,1334,LASNET,東京都,2020,SHINPO,東京都,2807,MIKAMO,東京都,0,,-
@@ -1307,109 +1334,206 @@ HEROIC VERSE,Advent Infamous,0,,-,1005,RYU,東京都,1665,DICE,東京都,2884,MI
 HEROIC VERSE,27th style,0,,-,1175,INOSKE,東京都,1813,MIKAMO,東京都,2584,MIKAMO,東京都,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,892,MIKAMO,東京都,1680,KEBAB.,東京都,2836,MIKAMO,東京都,0,,-
 BISTROVER,霧幻メモリア,0,,-,951,Y13,東京都,1444,PICO,東京都,2047,EXIT,東京都,0,,-
+BISTROVER,閠槞彁の願い,0,,-,1047,MEW,東京都,2171,SHINPO,東京都,3156,MIKAMO,東京都,0,,-
 BISTROVER,紅蓮華,158,1SE,東京都,525,DICE,東京都,956,LASNET,東京都,1496,MIKAMO,東京都,0,,-
 BISTROVER,犬に雨傘,0,,-,932,DICE,東京都,1477,PICO,東京都,2127,MIKAMO,東京都,0,,-
+BISTROVER,無意識のフィロソフィア,0,,-,1134,BUXY.,東京都,2261,BUXY.,東京都,3353,8S.,東京都,0,,-
 BISTROVER,涙のテ・エストラーニョ・ムーチョ,0,,-,1358,284KYO,東京都,2044,BUXY.,東京都,2830,MIKAMO,東京都,0,,-
 BISTROVER,水鏡の異界,0,,-,898,Y13,東京都,1745,DICE,東京都,3256,MIKAMO,東京都,0,,-
 BISTROVER,水無月の雫 ft. 小林まな,0,,-,1265,ATIA,東京都,1804,ATIA,東京都,2624,MIKAMO,東京都,0,,-
 BISTROVER,新宝島,526,LASNET,東京都,789,04*,東京都,1399,PICO,東京都,2366,54GAYA,東京都,0,,-
+BISTROVER,儚き恋の華,0,,-,1066,P.L.H.,東京都,1865,Y13,東京都,3019,MIKAMO,東京都,0,,-
+BISTROVER,伐折羅-vajra-,0,,-,1158,MEW,東京都,2140,DICE,東京都,3704,DINASO,東京都,0,,-
+BISTROVER,二人ノ廃城幽踊宴,0,,-,1227,IKE,東京都,2316,DICE,東京都,3667,TETSUO,東京都,0,,-
+BISTROVER,乱膳の舞姫,0,,-,1062,284KYO,東京都,1824,Y13,東京都,2749,8S.,東京都,0,,-
 BISTROVER,世界の果てに約束の凱歌を -ReUnion-,0,,-,1187,M-KIRA,東京都,1892,&#9996,東京都,3908,MIKAMO,東京都,0,,-
+BISTROVER,バッド・スイーツ、バッド・ドリーム,0,,-,1121,PICO,東京都,1880,PICO,東京都,3639,MIKAMO,東京都,0,,-
+BISTROVER,ディスコルディア,0,,-,1395,Y13,東京都,2374,NAOTIN,東京都,3985,MIKAMO,東京都,0,,-
+BISTROVER,スーパー戦湯ババンバーン,0,,-,1290,PICO,東京都,2159,PICO,東京都,3468,8S.,東京都,0,,-
 BISTROVER,ここからよろしく大作戦143,268,LEONE,東京都,970,LEONE,東京都,1779,PICO,東京都,2528,MIKAMO,東京都,0,,-
 BISTROVER,∀,606,PICO,東京都,1326,MEW,東京都,2256,NAOTIN,東京都,3582,A.HYSK,東京都,0,,-
+BISTROVER,Zenith,0,,-,834,LASNET,東京都,1458,TOSHI,東京都,2203,MIKAMO,東京都,0,,-
 BISTROVER,X-ray binary,0,,-,996,ATIA,東京都,1941,DICE,東京都,2824,DINASO,東京都,0,,-
+BISTROVER,Winner's Proof ft. KANASA from bless4,275,LASNET,東京都,769,Y13,東京都,1390,*SHO5*,東京都,2229,MIKAMO,東京都,0,,-
 BISTROVER,When I Met U,0,,-,899,DICE,東京都,1282,DBJACK,東京都,2063,MIKAMO,東京都,0,,-
 BISTROVER,WAKE UP NOW,0,,-,956,04*,東京都,1438,284KYO,東京都,2015,DINASO,東京都,0,,-
 BISTROVER,Vitrum,0,,-,1102,DICE,東京都,1788,PICO,東京都,3643,MIKAMO,東京都,0,,-
+BISTROVER,Viridian,0,,-,1104,ATIA,東京都,2033,PICO,東京都,3374,MIKAMO,東京都,0,,-
 BISTROVER,TOMORROW,449,ECHZEN,東京都,791,DICE,東京都,1545,BUXY.,東京都,2277,TETSUO,東京都,0,,-
+BISTROVER,Tiempo Loco,0,,-,1084,MEW,東京都,2040,DICE,東京都,3728,MIKAMO,東京都,0,,-
 BISTROVER,The Wind of China Express(The 4th Mashup),0,,-,1009,Y13,東京都,1696,PICO,東京都,2565,MIKAMO,東京都,0,,-
+BISTROVER,THE PEERLESS UNDER HEAVEN,0,,-,1189,PICO,東京都,2096,PICO,東京都,3505,MIKAMO,東京都,0,,-
+BISTROVER,That Feeling,0,,-,726,DICE,東京都,1251,DICE,東京都,1939,MIKAMO,東京都,0,,-
 BISTROVER,Tell me what you wish feat.らっぷびと,0,,-,1135,ALPHA,東京都,1628,BUXY.,東京都,2864,MIKAMO,東京都,0,,-
 BISTROVER,Swarm Of Scarabs,0,,-,1054,DICE,東京都,1558,PICO,東京都,2408,NIKE.,東京都,0,,-
+BISTROVER,Sugarplum,0,,-,886,04*,東京都,1876,PICO,東京都,2529,MIKAMO,東京都,0,,-
+BISTROVER,SOLID STATE SQUAD -RISEN RELIC REMIX-,0,,-,1316,Y13,東京都,2309,DICE,東京都,3314,MIKAMO,東京都,0,,-
 BISTROVER,So Punky,0,,-,892,343434,東京都,1662,7CHOMO,東京都,2591,TETSUO,東京都,0,,-
 BISTROVER,"smooooch・∀・ (Snail's House Remix) ",0,,-,883,04*,東京都,1581,T-GEL*,東京都,2376,DINASO,東京都,0,,-
+BISTROVER,Sinus Iridum,0,,-,1256,P-TAN,東京都,2167,MIKAMO,東京都,3393,MIKAMO,東京都,0,,-
+BISTROVER,Scandal,0,,-,979,DICE,東京都,1953,1KCAL,東京都,2929,MIKAMO,東京都,0,,-
 BISTROVER,S-Bahn,0,,-,982,ATIA,東京都,1595,ATIA,東京都,2183,8S.,東京都,0,,-
 BISTROVER,Rubrum Piano,0,,-,979,ATIA,東京都,1728,BUXY.,東京都,2492,8S.,東京都,0,,-
 BISTROVER,Rub-a Dub-a,0,,-,941,LASNET,東京都,1528,Y13,東京都,2198,TETSUO,東京都,0,,-
 BISTROVER,Rowdy,0,,-,1036,LASNET,東京都,1566,KURA,東京都,2509,NIKE.,東京都,0,,-
+BISTROVER,Rosa azuL,0,,-,900,P-TAN,東京都,1801,Y13,東京都,2804,MIKAMO,東京都,0,,-
 BISTROVER,rommmo,0,,-,1223,ATIA,東京都,1830,TOSHI,東京都,3493,MIKAMO,東京都,0,,-
 BISTROVER,Romanticが止まらない,392,RYU,東京都,957,RYU,東京都,1692,PICO,東京都,2734,MIKAMO,東京都,0,,-
+BISTROVER,Ritual of Anubis,0,,-,1177,DELAY,東京都,1873,BUXY.,東京都,2835,TETSUO,東京都,0,,-
+BISTROVER,Rejection Girl,0,,-,1021,MEW,東京都,1675,NAOTIN,東京都,2688,MIKAMO,東京都,0,,-
 BISTROVER,POLKAMANIA,435,DICE,東京都,1006,PICO,東京都,1910,PICO,東京都,2975,MIKAMO,東京都,0,,-
+BISTROVER,Playball,0,,-,693,04*,東京都,931,Y13,東京都,1382,TETSUO,東京都,0,,-
+BISTROVER,Parvati,0,,-,1021,IKE,東京都,1855,NO4XTK,東京都,2880,MIKAMO,東京都,0,,-
 BISTROVER,Party Starter,0,,-,999,DICE,東京都,1548,SHINPO,東京都,2329,DINASO,東京都,0,,-
 BISTROVER,Para siempre,0,,-,969,DICE,東京都,1562,PICO,東京都,2910,DINASO,東京都,0,,-
 BISTROVER,Overslept,0,,-,1161,ATIA,東京都,1758,DELAY,東京都,2585,TETSUO,東京都,0,,-
+BISTROVER,OTOKOZAKA,0,,-,1066,MEW,東京都,1915,Y13,東京都,2933,54GAYA,東京都,0,,-
 BISTROVER,of the first magnitude,0,,-,1041,04*,東京都,1925,&#9996,東京都,2991,MIKAMO,東京都,0,,-
 BISTROVER,Ocean Blue feat. Luschel,0,,-,861,DICE,東京都,1450,284KYO,東京都,2483,NIKE.,東京都,0,,-
 BISTROVER,Neo Heritage,0,,-,948,RYU,東京都,1695,PICO,東京都,2888,MIKAMO,東京都,0,,-
+BISTROVER,MOVE! (We Keep It Movin'),0,,-,772,DICE,東京都,1379,8S.,東京都,2213,TETSUO,東京都,0,,-
 BISTROVER,Midnight Drive,0,,-,608,DICE,東京都,1321,PICO,東京都,2006,MIKAMO,東京都,0,,-
+BISTROVER,MEGAERA,0,,-,1487,PICO,東京都,2190,NAOTIN,東京都,3537,A.HYSK,東京都,0,,-
+BISTROVER,MA・TSU・RI,0,,-,1102,DICE,東京都,1874,*SHO5*,東京都,2593,TETSUO,東京都,0,,-
 BISTROVER,Mars beach,0,,-,617,DICE,東京都,1341,LASNET,東京都,2249,1048,東京都,0,,-
 BISTROVER,Lovely Howdy Cowboy!!,0,,-,1083,XAB,東京都,1881,NAGACH,東京都,2793,8S.,東京都,0,,-
+BISTROVER,LOCUS OF THE TRAVEL,0,,-,1118,LEONE,東京都,2512,DICE,東京都,3738,MIKAMO,東京都,0,,-
+BISTROVER,LIKE A VAMPIRE,0,,-,1062,IKE,東京都,1798,343434,東京都,2819,DINASO,東京都,0,,-
+BISTROVER,Level 3,0,,-,1181,ATIA,東京都,2306,NAOTIN,東京都,3580,MIKAMO,東京都,0,,-
 BISTROVER,LAST DAY,0,,-,1150,DICE,東京都,1767,PICO,東京都,3078,TETSUO,東京都,0,,-
+BISTROVER,Jungle Eater,0,,-,1023,DICE,東京都,1821,MEW,東京都,3020,8S.,東京都,0,,-
+BISTROVER,innocent revolver,0,,-,1140,PICO,東京都,2385,PICO,東京都,3891,TETSUO,東京都,0,,-
 BISTROVER,IIDX RED Ending (Ryu☆Remix),0,,-,649,DICE,東京都,1197,284KYO,東京都,1874,1048,東京都,0,,-
+BISTROVER,Ignis†Irae,0,,-,1097,LASNET,東京都,2436,NAOTIN,東京都,3815,MIKAMO,東京都,0,,-
 BISTROVER,HIGH VOLTAGE,0,,-,838,ATIA,東京都,1459,PICO,東京都,2275,MIKAMO,東京都,0,,-
 BISTROVER,Here We Are,401,LASNET,東京都,1093,DICE,東京都,1714,&#9996,東京都,2481,8S.,東京都,0,,-
 BISTROVER,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",0,,-,1151,ATIA,東京都,1799,PICO,東京都,2406,TETSUO,東京都,0,,-
+BISTROVER,Globe Glitter,0,,-,1075,ATIA,東京都,1696,PICO,東京都,2719,DINASO,東京都,0,,-
 BISTROVER,GIGA RAID,0,,-,979,DICE,東京都,1896,PICO,東京都,2437,MIKAMO,東京都,0,,-
+BISTROVER,Frisk And Squeak,0,,-,813,DICE,東京都,1588,DICE,東京都,2447,MIKAMO,東京都,0,,-
+BISTROVER,Fire Beat,0,,-,1126,PICO,東京都,1849,PICO,東京都,2743,DINASO,東京都,0,,-
 BISTROVER,Farewell to Marrakech,0,,-,913,DICE,東京都,1559,MIKAMO,東京都,2288,DINASO,東京都,0,,-
+BISTROVER,Explorer feat. ぷにぷに電機,0,,-,762,DICE,東京都,1296,LASNET,東京都,2160,NIKE.,東京都,0,,-
 BISTROVER,Euphoric Lagoon,0,,-,896,DICE,東京都,1614,Y13,東京都,2612,MIKAMO,東京都,0,,-
 BISTROVER,Empire of Fury,0,,-,1396,PICO,東京都,2204,NAOTIN,東京都,3355,MIKAMO,東京都,0,,-
 BISTROVER,DUAL STRIKER,0,,-,1198,MEW,東京都,2480,DICE,東京都,3888,MIKAMO,東京都,0,,-
 BISTROVER,Don't Stop The Music feat. Kanae Asaba,0,,-,698,PICO,東京都,1347,PICO,東京都,1885,TETSUO,東京都,0,,-
+BISTROVER,DENIM,0,,-,606,DICE,東京都,1322,MIRA*,東京都,1758,MIKAMO,東京都,0,,-
+BISTROVER,Dawn Saga,0,,-,955,DICE,東京都,1657,DICE,東京都,2745,MIKAMO,東京都,0,,-
+BISTROVER,Danza Aestas,0,,-,1007,DICE,東京都,1757,Y13,東京都,3027,8S.,東京都,0,,-
+BISTROVER,Crazy Jackpot,0,,-,1006,DICE,東京都,1691,PICO,東京都,2884,MIKAMO,東京都,0,,-
+BISTROVER,COSMIC RAY,0,,-,1328,PICO,東京都,2204,NAOTIN,東京都,2969,MIKAMO,東京都,0,,-
 BISTROVER,CONNECT-,0,,-,1029,DICE,東京都,1841,&#9996,東京都,2955,MIKAMO,東京都,0,,-
 BISTROVER,Chewingood!!!,306,LEONE,東京都,870,LEONE,東京都,1522,PICO,東京都,2629,DINASO,東京都,0,,-
+BISTROVER,Burning Flame,0,,-,1215,ATIA,東京都,1866,PICO,東京都,2929,DINASO,東京都,0,,-
 BISTROVER,Breakin' Rules,0,,-,1275,284KYO,東京都,1820,PICO,東京都,2784,8S.,東京都,0,,-
+BISTROVER,Brahma,0,,-,1232,P.L.H.,東京都,1788,55TEA*,東京都,2904,NIKE.,東京都,0,,-
+BISTROVER,BLACK or WHITE?,0,,-,1301,MEW,東京都,2543,ZNDMON,東京都,3979,MIKAMO,東京都,0,,-
 BISTROVER,BIGソムタム,567,LEONE,東京都,1271,PICO,東京都,1903,*SHO5*,東京都,3363,MIKAMO,東京都,0,,-
 BISTROVER,BEMANI PRO LEAGUE Theme,0,,-,783,LEONE,東京都,1407,DICE,東京都,1990,TETSUO,東京都,0,,-
+BISTROVER,ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS),0,,-,1080,BUXY.,東京都,1897,ZNDMON,東京都,3409,DINASO,東京都,0,,-
+BISTROVER,As You Want,0,,-,856,04*,東京都,1469,Y13,東京都,2477,8S.,東京都,0,,-
 BISTROVER,apo:llioth,0,,-,1229,DICE,東京都,2094,PICO,東京都,2986,MIKAMO,東京都,0,,-
 BISTROVER,AMRITA -不滅ノ花-,0,,-,906,DICE,東京都,1610,&#9996,東京都,2786,MIKAMO,東京都,0,,-
 BISTROVER,Ah Hah Yeah,0,,-,716,NORI,東京都,1440,DICE,東京都,2193,NIKE.,東京都,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,948,DICE,東京都,1537,TOSHI,東京都,2651,MIKAMO,東京都,0,,-
 BISTROVER,3!dolon Forc3,0,,-,981,AGEPOY,東京都,1582,DICE,東京都,2974,MIKAMO,東京都,0,,-
+BISTROVER,-65℃,0,,-,1395,CUFFS,東京都,2259,DICE,東京都,3767,MIKAMO,東京都,0,,-
+CastHour,黒紅掬い,0,,-,669,ALPHA,東京都,1221,DICE,東京都,1827,*TA93N,東京都,0,,-
+CastHour,青の洞窟,0,,-,908,DICE,東京都,2034,DICE,東京都,3178,MIKAMO,東京都,0,,-
+CastHour,雪上断火,0,,-,1010,DICE,東京都,1842,XAB,東京都,3006,U76NER,東京都,0,,-
+CastHour,逆月,0,,-,1520,PICO,東京都,2378,PICO,東京都,3795,MIKAMO,東京都,0,,-
 CastHour,踊,184,BODY,東京都,366,ATS,東京都,830,PICO,東京都,1635,U76NER,東京都,0,,-
+CastHour,禊,0,,-,1086,DICE,東京都,2322,PICO,東京都,3224,MIKAMO,東京都,0,,-
+CastHour,烽火連天の刃,0,,-,1146,DICE,東京都,2336,DICE,東京都,3471,MIKAMO,東京都,0,,-
 CastHour,月とミルク,0,,-,1000,PICO,東京都,1600,PICO,東京都,2796,MIKAMO,東京都,0,,-
 CastHour,愛しくてラヴィンユー ft. マナ,0,,-,814,PICO,東京都,1514,KT4ER1,東京都,2414,NO4XTK,東京都,0,,-
 CastHour,怪物,348,LASNET,東京都,752,LEONE,東京都,1204,LEONE,東京都,2410,DINASO,東京都,0,,-
+CastHour,天邪鬼,0,,-,1000,PICO,東京都,1739,KT4ER1,東京都,3351,MIKAMO,東京都,0,,-
 CastHour,口カラ凸ゲキ,0,,-,938,PICO,東京都,1551,PICO,東京都,2422,MIKAMO,東京都,0,,-
 CastHour,ミュージック・アワー,548,DICE,東京都,1219,PICO,東京都,2164,PICO,東京都,3019,DINASO,東京都,0,,-
+CastHour,"ピアノ独奏無言歌 ""灰燼""",0,,-,1199,NO4XTK,東京都,2405,DICE,東京都,3780,A.HYSK,東京都,0,,-
 CastHour,ハイテックトキオ,0,,-,1118,PICO,東京都,1957,PICO,東京都,2721,MIKAMO,東京都,0,,-
+CastHour,ナイトフィクション,0,,-,730,LEONE,東京都,1575,DICE,東京都,2163,DINASO,東京都,0,,-
 CastHour,デモーニッシュ,264,GEORGE,東京都,942,PICO,東京都,1487,PICO,東京都,2394,MIKAMO,東京都,0,,-
 CastHour,シル・ヴ・プレジデント,304,.,東京都,656,.,東京都,1222,.,東京都,1802,MIKAMO,東京都,0,,-
 CastHour,グッバイ宣言,586,LASNET,東京都,1108,PICO,東京都,1809,KT4ER1,東京都,3108,MIOPAN,東京都,0,,-
 CastHour,オールトの雲,0,,-,1233,PICO,東京都,2026,PICO,東京都,2661,MIKAMO,東京都,0,,-
 CastHour,オドループ,516,LEONE,東京都,1116,PICO,東京都,1584,PICO,東京都,2350,NIKE.,東京都,0,,-
 CastHour,ウツシミウツシ,0,,-,1280,PICO,東京都,2089,PICO,東京都,3180,DINASO,東京都,0,,-
+CastHour,アクマフカ,0,,-,764,DICE,東京都,1554,PICO,東京都,2317,DINASO,東京都,0,,-
+CastHour,めでてえ,0,,-,1124,PICO,東京都,1748,PICO,東京都,2669,PICO,東京都,0,,-
 CastHour,ぐだふわエブリデー,266,KAN,東京都,692,PICO,東京都,1330,PICO,東京都,2317,DINASO,東京都,0,,-
 CastHour,あいつら全員同窓会,369,DICE,東京都,654,PICO,東京都,1248,PICO,東京都,2056,DINASO,東京都,0,,-
+CastHour,《GRANDMASTER》,0,,-,994,DICE,東京都,1855,PICO,東京都,2987,MIKAMO,東京都,0,,-
 CastHour,Xyndrome,0,,-,976,*SHO5*,東京都,1673,PICO,東京都,2968,MIKAMO,東京都,0,,-
 CastHour,Wonderful Escape,0,,-,975,PICO,東京都,1486,DICE,東京都,2101,DINASO,東京都,0,,-
+CastHour,WHA,0,,-,1253,PICO,東京都,2362,PICO,東京都,3706,MIKAMO,東京都,0,,-
 CastHour,VR - Virtual Reality (prod.by Snail's House),315,DICE,東京都,624,PICO,東京都,1178,PICO,東京都,1833,MIKAMO,東京都,0,,-
 CastHour,Votania Beat,0,,-,1081,PICO,東京都,1655,PICO,東京都,2559,DINASO,東京都,0,,-
 CastHour,Victory Of Ravers,0,,-,1034,PICO,東京都,1786,PICO,東京都,2594,DINASO,東京都,0,,-
 CastHour,Ventriloquist,0,,-,792,YANO.Y,東京都,1544,PICO,東京都,2453,8S.,東京都,0,,-
 CastHour,Triple Cross,594,LEONE,東京都,1136,PICO,東京都,2335,NO4XTK,東京都,3307,MIKAMO,東京都,0,,-
+CastHour,TOMAHAWK,0,,-,1381,DICE,東京都,2376,PICO,東京都,3580,A.HYSK,東京都,0,,-
 CastHour,Tail Lights,0,,-,1112,NO4XTK,東京都,1979,PICO,東京都,3145,8S.,東京都,0,,-
+CastHour,Stepper,0,,-,710,DICE,東京都,1554,KT4ER1,東京都,2207,DINASO,東京都,0,,-
+CastHour,SPARK IN THE NIGHT,0,,-,868,DICE,東京都,1451,DICE,東京都,2274,NO4XTK,東京都,0,,-
 CastHour,Souhait bleu,0,,-,913,YOSSY,東京都,1951,PICO,東京都,2791,MIKAMO,東京都,0,,-
 CastHour,SOLID WYVERN,0,,-,1230,PICO,東京都,2010,PICO,東京都,2656,MIKAMO,東京都,0,,-
+CastHour,Smalt #28598F,0,,-,1104,ATIA,東京都,2382,1048,東京都,3422,MIKAMO,東京都,0,,-
 CastHour,Skreaming for Salvation,0,,-,842,PICO,東京都,2088,MIKAMO,東京都,3219,MIKAMO,東京都,0,,-
+CastHour,Silver Bullet,0,,-,1188,DICE,東京都,2023,KEBAB.,東京都,3243,MIKAMO,東京都,0,,-
+CastHour,RAGE feat.H14 of LEONAIR,0,,-,1108,P-TAN,東京都,2268,DICE,東京都,3610,ZUBU,東京都,0,,-
+CastHour,Push on Beats!～音ゲの国のeX-ストリーマー～,0,,-,1248,DICE,東京都,1987,DICE,東京都,3429,MIKAMO,東京都,0,,-
 CastHour,Purple Perplex,0,,-,1169,PICO,東京都,1941,PICO,東京都,3088,MIKAMO,東京都,0,,-
 CastHour,Prohibited Props,0,,-,1054,PICO,東京都,1600,PICO,東京都,2282,1048,東京都,0,,-
+CastHour,Pout,0,,-,1084,PICO,東京都,1782,PICO,東京都,2620,NIKE.,東京都,0,,-
+CastHour,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,0,,-,1484,DICE,東京都,2679,NAOTIN,東京都,4499,MIKAMO,東京都,0,,-
 CastHour,PIRATES BLADE,0,,-,928,PICO,東京都,1527,PICO,東京都,2175,ZUBU,東京都,0,,-
 CastHour,P.O.W.E.R.,0,,-,1072,PICO,東京都,1790,PICO,東京都,2365,ZUBU,東京都,0,,-
 CastHour,Onyx,0,,-,932,PICO,東京都,1527,PICO,東京都,2424,MIKAMO,東京都,0,,-
+CastHour,One for All,0,,-,1028,DICE,東京都,1804,DICE,東京都,3231,MIKAMO,東京都,0,,-
 CastHour,Non Stop Rock,0,,-,806,DICE,東京都,1342,PICO,東京都,1894,MIKAMO,東京都,0,,-
+CastHour,Nocturnal 2097,0,,-,958,ATIA,東京都,1955,DICE,東京都,2942,8S.,東京都,0,,-
 CastHour,No Day But Today!,444,PICO,東京都,752,PICO,東京都,1359,PICO,東京都,1996,MIKAMO,東京都,0,,-
+CastHour,n/a,0,,-,1246,PICO,東京都,2017,KUNMAA,東京都,3588,ZUBU,東京都,0,,-
 CastHour,N.O.,0,,-,845,PICO,東京都,1533,PICO,東京都,2540,1048,東京都,0,,-
 CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1634,PICO,東京都,2547,KT4ER1,東京都,3864,MIKAMO,東京都,0,,-
+CastHour,Legendary Treasures,0,,-,1151,DICE,東京都,1794,DICE,東京都,2895,8S.,東京都,0,,-
 CastHour,Lawes's Parotia,0,,-,908,PICO,東京都,1764,PICO,東京都,2582,MIKAMO,東京都,0,,-
+CastHour,kors k's How to make OTOGE CORE,0,,-,815,DICE,東京都,1554,DICE,東京都,2339,MIKAMO,東京都,0,,-
 CastHour,ILAYZA,0,,-,1199,PICO,東京都,2090,PICO,東京都,2846,MIKAMO,東京都,0,,-
 CastHour,HEARTACHE,0,,-,502,PICO,東京都,1205,PICO,東京都,1856,MIKAMO,東京都,0,,-
+CastHour,Hat Surprise,0,,-,696,DICE,東京都,1644,DICE,東京都,2465,EXIT,東京都,0,,-
+CastHour,Harmonia,0,,-,751,04*,東京都,1255,PICO,東京都,2025,MIKAMO,東京都,0,,-
+CastHour,hard-wired,0,,-,1637,PICO,東京都,2338,DICE,東京都,3660,MIKAMO,東京都,0,,-
+CastHour,GRAVITON,0,,-,1187,DICE,東京都,2077,PICO,東京都,3501,MIKAMO,東京都,0,,-
 CastHour,GiGaGaHell,0,,-,1394,PICO,東京都,2141,PICO,東京都,3260,MIKAMO,東京都,0,,-
+CastHour,"Get set, Go! feat.Kanae Asaba",0,,-,850,PICO,東京都,1480,PICO,東京都,2130,EGPT,東京都,0,,-
+CastHour,Game Changers,0,,-,760,XAB,東京都,1465,54GAYA,東京都,2756,NIKE.,東京都,0,,-
+CastHour,Flying Castle,0,,-,1096,ATIA,東京都,2308,PICO,東京都,3703,MIKAMO,東京都,0,,-
 CastHour,FINALLY BLAZE,0,,-,938,PICO,東京都,1801,PICO,東京都,2836,MIKAMO,東京都,0,,-
 CastHour,Fegrix,0,,-,1280,PICO,東京都,2333,MIKAMO,東京都,3333,MIKAMO,東京都,0,,-
 CastHour,Fantastic Merry-Go-Round,0,,-,1086,PICO,東京都,1514,PICO,東京都,2121,MIKAMO,東京都,0,,-
+CastHour,Ergosphere,0,,-,1008,DICE,東京都,1886,PICO,東京都,2759,8S.,東京都,0,,-
+CastHour,EMOTiON TRiPPER,0,,-,950,DICE,東京都,1487,*SHO5*,東京都,2195,MIKAMO,東京都,0,,-
+CastHour,Emera,0,,-,900,ATIA,東京都,1652,*SHO5*,東京都,2346,MIKAMO,東京都,0,,-
 CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1096,PICO,東京都,1838,PICO,東京都,2730,MIKAMO,東京都,0,,-
 CastHour,Don't believe the hype,0,,-,1175,PICO,東京都,2257,PICO,東京都,3277,MIKAMO,東京都,0,,-
+CastHour,Divine Heaven,0,,-,951,DICE,東京都,2005,PICO,東京都,2996,MIKAMO,東京都,0,,-
 CastHour,DISPARATE,0,,-,1047,PICO,東京都,1847,PICO,東京都,2473,MIKAMO,東京都,0,,-
+CastHour,Brave Spirits,0,,-,722,XAB,東京都,1433,DICE,東京都,2496,MIKAMO,東京都,0,,-
 CastHour,Blue Bird feat. Kanae Asaba,0,,-,662,PICO,東京都,1125,PICO,東京都,1798,PICO,東京都,0,,-
+CastHour,Binary Black Hole,0,,-,1352,DICE,東京都,2320,PICO,東京都,3920,MIKAMO,東京都,0,,-
+CastHour,Banger Banger Banger Banger,0,,-,986,DICE,東京都,1796,KT4ER1,東京都,2979,MIKAMO,東京都,0,,-
+CastHour,Arkadia,0,,-,1182,ATIA,東京都,2132,1048,東京都,3710,MIKAMO,東京都,0,,-
 CastHour,Ariah,0,,-,722,PICO,東京都,1506,PICO,東京都,2180,MIKAMO,東京都,0,,-
 CastHour,Angel's Ladder,0,,-,1090,*SHO5*,東京都,2296,MIKAMO,東京都,3525,DINASO,東京都,0,,-
+CastHour,ANEMONE,0,,-,779,T.I,東京都,1609,PICO,東京都,2138,KT4ER1,東京都,0,,-
+CastHour,AMICABLE,0,,-,1038,ATIA,東京都,1610,DICE,東京都,2494,1048,東京都,0,,-
+CastHour,ALTERNATOR,0,,-,1365,DICE,東京都,2554,54GAYA,東京都,3782,MIKAMO,東京都,0,,-
 CastHour,Aftermath,0,,-,1234,Y13,東京都,2428,PICO,東京都,3619,DINASO,東京都,0,,-
+CastHour,ABSOLUTE EVIL,0,,-,1203,Y13,東京都,2254,54GAYA,東京都,3503,A.HYSK,東京都,0,,-
 CastHour,808monkey,0,,-,770,PICO,東京都,1210,PICO,東京都,1826,54GAYA,東京都,0,,-
+CastHour,2 Beasts Unchained,0,,-,1517,PICO,東京都,2268,DICE,東京都,3479,MIKAMO,東京都,0,,-
+CastHour,10000 MILES AWAY,0,,-,1047,ATIA,東京都,1680,PICO,東京都,2952,8S.,東京都,0,,-
