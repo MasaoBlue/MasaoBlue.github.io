@@ -1,0 +1,1 @@
+window.lastGetDate = '11/8(金) 22:04頃';
