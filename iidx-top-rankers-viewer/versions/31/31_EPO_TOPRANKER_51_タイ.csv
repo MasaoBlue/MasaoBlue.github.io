@@ -13,6 +13,13 @@
 1st&substream,deep in you,0,,-,224,KITA,タイ,276,LAMPY,タイ,660,GOLUSI,タイ,0,,-
 1st&substream,5.1.1.,0,,-,126,DB2K,タイ,932,SSEG3X,タイ,1562,GOLUSI,タイ,0,,-
 1st&substream,22DUNK,0,,-,290,DB2K,タイ,105,PEACH,タイ,653,GOLUSI,タイ,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,272,HARUTO,タイ,248,1,タイ,631,T-BACK,タイ,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,294,INOE,タイ,853,GOLUSI,タイ,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,282,CAYLA,タイ,0,,-,1223,GOLUSI,タイ,0,,-
+2nd style,I Was The One,0,,-,464,DUO,タイ,610,GUINEA,タイ,692,GOLUSI,タイ,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,662,SIMON,タイ,1065,GOLUSI,タイ,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,276,DB2K,タイ,1028,T-BACK,タイ,1118,GOLUSI,タイ,0,,-
+2nd style,.59,0,,-,571,DUO,タイ,557,NONAME,タイ,1153,GOLUSI,タイ,0,,-
 3rd style,THE SAFARI,233,NASPCT,タイ,907,BINBOU,タイ,1743,GOLUSI,タイ,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,193,SIMON,タイ,379,T-BACK,タイ,0,,-,0,,-
 3rd style,Skyscraper,0,,-,0,,-,855,CHM,タイ,1238,GOLUSI,タイ,0,,-
@@ -25,13 +32,6 @@
 3rd style,era (nostalmix),0,,-,735,DUO,タイ,992,B0YDTR,タイ,1505,GOLUSI,タイ,0,,-
 3rd style,Don't Stop!,0,,-,493,SXR,タイ,0,,-,900,GOLUSI,タイ,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,429,DANMUN,タイ,1254,GOLUSI,タイ,0,,-,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,272,HARUTO,タイ,248,1,タイ,631,T-BACK,タイ,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,294,INOE,タイ,853,GOLUSI,タイ,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,282,CAYLA,タイ,0,,-,1223,GOLUSI,タイ,0,,-
-2nd style,I Was The One,0,,-,464,DUO,タイ,610,GUINEA,タイ,692,GOLUSI,タイ,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,0,,-,662,SIMON,タイ,1065,GOLUSI,タイ,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,276,DB2K,タイ,1028,T-BACK,タイ,1118,GOLUSI,タイ,0,,-
-2nd style,.59,0,,-,571,DUO,タイ,557,NONAME,タイ,1153,GOLUSI,タイ,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,853,J,タイ,1237,GOLUSI,タイ,1325,GOLUSI,タイ,0,,-
 4th style,SWEET LAB,0,,-,200,SOL,タイ,907,T-BACK,タイ,1355,GOLUSI,タイ,0,,-
 4th style,starmine,363,SXR,タイ,604,LOLWUT,タイ,1410,GOLUSI,タイ,1583,GOLUSI,タイ,0,,-
@@ -517,6 +517,63 @@ SIRIUS,bass 2 bass,268,SWEETS,タイ,614,DUO,タイ,1105,RIORIO,タイ,1866,AYA.
 SIRIUS,Bad Maniacs,0,,-,1224,KK.MTC,タイ,1867,SXR,タイ,3185,AYA.K,タイ,0,,-
 SIRIUS,Almagest,0,,-,1016,SXR,タイ,2049,SWEETS,タイ,3128,AYA.K,タイ,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,469,SIMON,タイ,729,NONAME,タイ,1721,CHAMP*,タイ,2322,GOLUSI,タイ,2962,AYA.K,タイ
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,0,,-,2057,SXR,タイ,3406,GOLUSI,タイ,0,,-
+Resort Anthem,灼熱Beach Side Bunny,551,S-RAN.,タイ,1058,VOID!!,タイ,1898,SXR,タイ,3059,OCTA8T,タイ,0,,-
+Resort Anthem,旅人リラン,0,,-,789,ELI,タイ,1908,SXR,タイ,2602,AYA.K,タイ,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,587,KOTO,タイ,1935,CHAMP*,タイ,2788,GOLUSI,タイ,0,,-
+Resort Anthem,中華急行,0,,-,308,AZVW-2,タイ,1508,CHAMP*,タイ,2315,GOLUSI,タイ,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,290,KANA,タイ,0,,-,1324,GUN!HP,タイ,1909,GOLUSI,タイ,0,,-
+Resort Anthem,おおきなこえで,0,,-,428,KRN!!?,タイ,945,!EKIPS,タイ,1474,GOLUSI,タイ,2142,GOLUSI,タイ
+Resort Anthem,ZETA～素数の世界と超越者～,300,DUO,タイ,503,DUO,タイ,2063,SXR,タイ,3085,AYA.K,タイ,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,751,QI,タイ,1728,!EKIPS,タイ,2739,GOLUSI,タイ,0,,-
+Resort Anthem,Wuv U,0,,-,330,BMC,タイ,1299,SXR,タイ,1669,SXR,タイ,0,,-
+Resort Anthem,WISE UP!,276,SIMON,タイ,332,CLOWN,タイ,1160,SXR,タイ,1569,SXR,タイ,2586,GOLUSI,タイ
+Resort Anthem,Watch Out Pt.2,0,,-,766,NONAME,タイ,1840,!EKIPS,タイ,2740,GOLUSI,タイ,0,,-
+Resort Anthem,Vermillion,0,,-,379,ENVY,タイ,821,EARTH!,タイ,2053,GOLUSI,タイ,0,,-
+Resort Anthem,Tropical April,0,,-,1570,CHAMP*,タイ,2205,SXR,タイ,2737,GOLUSI,タイ,0,,-
+Resort Anthem,THE FALLEN,0,,-,603,DOGMAN,タイ,1387,CHAMP*,タイ,2680,GOLUSI,タイ,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,533,DB2K,タイ,1145,CHM,タイ,2169,AYA.K,タイ,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,536,W,タイ,2064,SXR,タイ,2888,GOLUSI,タイ,0,,-
+Resort Anthem,STELLAR WIND,300,SIMON,タイ,627,GUN!HP,タイ,1718,CHAMP*,タイ,2659,GOLUSI,タイ,0,,-
+Resort Anthem,Stay my side,0,,-,0,,-,0,,-,1306,82KASU,タイ,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,427,ESCAPE,タイ,1417,AZVW-2,タイ,2978,GOLUSI,タイ,0,,-
+Resort Anthem,Space Time,0,,-,441,KADOEN,タイ,1070,EARTH!,タイ,2164,AYA.K,タイ,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,536,XXXXXX,タイ,2253,SXR,タイ,3519,AYA.K,タイ,0,,-
+Resort Anthem,sakura storm,0,,-,826,QI,タイ,1240,HINA.S,タイ,2408,GOLUSI,タイ,0,,-
+Resort Anthem,Sakura Reflection,0,,-,426,DUO,タイ,1582,YORU!M,タイ,2370,GOLUSI,タイ,0,,-
+Resort Anthem,SABER WING,0,,-,431,BINBOU,タイ,1788,!EKIPS,タイ,2798,GOLUSI,タイ,0,,-
+Resort Anthem,Rock Da House,0,,-,0,,-,1601,T-BACK,タイ,2230,GOLUSI,タイ,0,,-
+Resort Anthem,reunion,483,SIMON,タイ,1362,CHAMP*,タイ,2380,GOLUSI,タイ,3205,AYA.K,タイ,0,,-
+Resort Anthem,Programmed Life,0,,-,661,BINBOU,タイ,1737,SXR,タイ,2369,GOLUSI,タイ,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1237,!EKIPS,タイ,2495,GOLUSI,タイ,3873,AYA.K,タイ,0,,-
+Resort Anthem,passionate fate,0,,-,791,HASE0,タイ,1541,C*SHIN,タイ,2111,AYA.K,タイ,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1431,GOLUSI,タイ,2106,SWEETS,タイ,3263,AYA.K,タイ,0,,-
+Resort Anthem,New Castle Legions,0,,-,580,SIMON,タイ,1812,T-BACK,タイ,2707,GOLUSI,タイ,0,,-
+Resort Anthem,Never Fade Away,0,,-,525,DOGMAN,タイ,1370,SOMPAT,タイ,3006,GOLUSI,タイ,0,,-
+Resort Anthem,Mermaid girl,548,KRN!!?,タイ,810,DUO,タイ,1600,C*SHIN,タイ,2220,GOLUSI,タイ,0,,-
+Resort Anthem,Medicine of love,0,,-,495,DOGMAN,タイ,908,NONAME,タイ,1728,GOLUSI,タイ,0,,-
+Resort Anthem,Let The Track Flow,0,,-,679,SIMON,タイ,1791,!EKIPS,タイ,2635,GOLUSI,タイ,0,,-
+Resort Anthem,Kailua,0,,-,426,SXR,タイ,1316,T-BACK,タイ,2178,GOLUSI,タイ,0,,-
+Resort Anthem,I FIGHT ME,0,,-,355,DAIXES,タイ,1099,DONUT,タイ,2125,GOLUSI,タイ,0,,-
+Resort Anthem,Golden Palms,0,,-,598,YAMI-K,タイ,1422,SXR,タイ,2034,GOLUSI,タイ,2397,GOLUSI,タイ
+Resort Anthem,Fantasia,183,ARGONT,タイ,317,SIMON,タイ,1522,T-BACK,タイ,2242,GOLUSI,タイ,0,,-
+Resort Anthem,Everlasting Resort,0,,-,548,HEN**,タイ,1111,PMILF,タイ,1902,GOLUSI,タイ,0,,-
+Resort Anthem,Eternal Tears,0,,-,425,PADTAI,タイ,1031,HANI.S,タイ,1371,GOLUSI,タイ,0,,-
+Resort Anthem,Energy Drive,0,,-,654,UNCHMN,タイ,1432,CHAMP*,タイ,2201,GOLUSI,タイ,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,737,SIMON,タイ,1888,SXR,タイ,2401,GOLUSI,タイ,0,,-
+Resort Anthem,Destiny Sword,0,,-,0,,-,1660,CHAMP*,タイ,2312,SXR,タイ,0,,-
+Resort Anthem,DAYDREAMER,0,,-,1057,RIORIO,タイ,1713,CHAMP*,タイ,2523,GOLUSI,タイ,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1418,!EKIPS,タイ,2234,SXR,タイ,3095,AYA.K,タイ,3967,AYA.K,タイ
+Resort Anthem,BROKEN EDEN,0,,-,725,NONAME,タイ,1721,SXR,タイ,2296,GOLUSI,タイ,0,,-
+Resort Anthem,Broken,0,,-,875,SIMON,タイ,2044,SXR,タイ,3135,AYA.K,タイ,0,,-
+Resort Anthem,Breaking the ground,0,,-,581,PAT88,タイ,1757,SXR,タイ,2500,GOLUSI,タイ,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,0,,-,1598,SXR,タイ,2370,GOLUSI,タイ,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,638,SIMON,タイ,1551,SXR,タイ,2086,GOLUSI,タイ,2574,GOLUSI,タイ
+Resort Anthem,Believe In Me,0,,-,669,ELI,タイ,1710,CHAMP*,タイ,2379,GOLUSI,タイ,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,713,SIMON,タイ,1903,SXR,タイ,2935,GOLUSI,タイ,0,,-
+Resort Anthem,Answer,0,,-,589,STRV03,タイ,1361,RIORIO,タイ,2408,GOLUSI,タイ,0,,-
+Resort Anthem,ALBIDA,441,SIMON,タイ,1058,AZVW-2,タイ,1948,SXR,タイ,2991,GOLUSI,タイ,0,,-
+Resort Anthem,Aegis,0,,-,557,SIMON,タイ,1395,SXR,タイ,2321,GOLUSI,タイ,0,,-
 Lincle,陽炎,0,,-,334,H1NAE,タイ,849,BINBOU,タイ,2007,GOLUSI,タイ,0,,-
 Lincle,衰色小町メランコリア,0,,-,483,SXR,タイ,1291,RIORIO,タイ,2359,GOLUSI,タイ,0,,-
 Lincle,蛇神,361,SIMON,タイ,583,KOTO,タイ,1489,!EKIPS,タイ,2813,GOLUSI,タイ,0,,-
@@ -582,63 +639,6 @@ Lincle,ANAGRAMS I to Y,0,,-,709,SIMON,タイ,1415,RIORIO,タイ,2471,AYA.K,タ�
 Lincle,Almace,0,,-,559,SXR,タイ,1284,!EKIPS,タイ,1995,GOLUSI,タイ,0,,-
 Lincle,532nm,0,,-,433,ENVY,タイ,1178,AZVW-2,タイ,2630,GOLUSI,タイ,0,,-
 Lincle,24th Century BOY,0,,-,709,XXXXXX,タイ,1643,AZVW-2,タイ,2852,GOLUSI,タイ,0,,-
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,0,,-,2057,SXR,タイ,3406,GOLUSI,タイ,0,,-
-Resort Anthem,灼熱Beach Side Bunny,551,S-RAN.,タイ,1058,VOID!!,タイ,1898,SXR,タイ,3059,OCTA8T,タイ,0,,-
-Resort Anthem,旅人リラン,0,,-,789,ELI,タイ,1908,SXR,タイ,2602,AYA.K,タイ,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,587,KOTO,タイ,1935,CHAMP*,タイ,2788,GOLUSI,タイ,0,,-
-Resort Anthem,中華急行,0,,-,308,AZVW-2,タイ,1508,CHAMP*,タイ,2315,GOLUSI,タイ,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,290,KANA,タイ,0,,-,1324,GUN!HP,タイ,1909,GOLUSI,タイ,0,,-
-Resort Anthem,おおきなこえで,0,,-,428,KRN!!?,タイ,945,!EKIPS,タイ,1474,GOLUSI,タイ,2142,GOLUSI,タイ
-Resort Anthem,ZETA～素数の世界と超越者～,300,DUO,タイ,503,DUO,タイ,2063,SXR,タイ,3085,AYA.K,タイ,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,751,QI,タイ,1728,!EKIPS,タイ,2739,GOLUSI,タイ,0,,-
-Resort Anthem,Wuv U,0,,-,330,BMC,タイ,1299,SXR,タイ,1669,SXR,タイ,0,,-
-Resort Anthem,WISE UP!,276,SIMON,タイ,332,CLOWN,タイ,1160,SXR,タイ,1569,SXR,タイ,2586,GOLUSI,タイ
-Resort Anthem,Watch Out Pt.2,0,,-,766,NONAME,タイ,1840,!EKIPS,タイ,2740,GOLUSI,タイ,0,,-
-Resort Anthem,Vermillion,0,,-,379,ENVY,タイ,821,EARTH!,タイ,2053,GOLUSI,タイ,0,,-
-Resort Anthem,Tropical April,0,,-,1570,CHAMP*,タイ,2205,SXR,タイ,2737,GOLUSI,タイ,0,,-
-Resort Anthem,THE FALLEN,0,,-,603,DOGMAN,タイ,1387,CHAMP*,タイ,2680,GOLUSI,タイ,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,533,DB2K,タイ,1145,CHM,タイ,2169,AYA.K,タイ,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,536,W,タイ,2064,SXR,タイ,2888,GOLUSI,タイ,0,,-
-Resort Anthem,STELLAR WIND,300,SIMON,タイ,627,GUN!HP,タイ,1718,CHAMP*,タイ,2659,GOLUSI,タイ,0,,-
-Resort Anthem,Stay my side,0,,-,0,,-,0,,-,1306,82KASU,タイ,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,427,ESCAPE,タイ,1417,AZVW-2,タイ,2978,GOLUSI,タイ,0,,-
-Resort Anthem,Space Time,0,,-,441,KADOEN,タイ,1070,EARTH!,タイ,2164,AYA.K,タイ,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,536,XXXXXX,タイ,2253,SXR,タイ,3519,AYA.K,タイ,0,,-
-Resort Anthem,sakura storm,0,,-,826,QI,タイ,1240,HINA.S,タイ,2408,GOLUSI,タイ,0,,-
-Resort Anthem,Sakura Reflection,0,,-,426,DUO,タイ,1582,YORU!M,タイ,2370,GOLUSI,タイ,0,,-
-Resort Anthem,SABER WING,0,,-,431,BINBOU,タイ,1788,!EKIPS,タイ,2798,GOLUSI,タイ,0,,-
-Resort Anthem,Rock Da House,0,,-,0,,-,1601,T-BACK,タイ,2230,GOLUSI,タイ,0,,-
-Resort Anthem,reunion,483,SIMON,タイ,1362,CHAMP*,タイ,2380,GOLUSI,タイ,3205,AYA.K,タイ,0,,-
-Resort Anthem,Programmed Life,0,,-,661,BINBOU,タイ,1737,SXR,タイ,2369,GOLUSI,タイ,0,,-
-Resort Anthem,perditus†paradisus,0,,-,1237,!EKIPS,タイ,2495,GOLUSI,タイ,3873,AYA.K,タイ,0,,-
-Resort Anthem,passionate fate,0,,-,791,HASE0,タイ,1541,C*SHIN,タイ,2111,AYA.K,タイ,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1431,GOLUSI,タイ,2106,SWEETS,タイ,3263,AYA.K,タイ,0,,-
-Resort Anthem,New Castle Legions,0,,-,580,SIMON,タイ,1812,T-BACK,タイ,2707,GOLUSI,タイ,0,,-
-Resort Anthem,Never Fade Away,0,,-,525,DOGMAN,タイ,1370,SOMPAT,タイ,3006,GOLUSI,タイ,0,,-
-Resort Anthem,Mermaid girl,548,KRN!!?,タイ,810,DUO,タイ,1600,C*SHIN,タイ,2220,GOLUSI,タイ,0,,-
-Resort Anthem,Medicine of love,0,,-,495,DOGMAN,タイ,908,NONAME,タイ,1728,GOLUSI,タイ,0,,-
-Resort Anthem,Let The Track Flow,0,,-,679,SIMON,タイ,1791,!EKIPS,タイ,2635,GOLUSI,タイ,0,,-
-Resort Anthem,Kailua,0,,-,426,SXR,タイ,1316,T-BACK,タイ,2178,GOLUSI,タイ,0,,-
-Resort Anthem,I FIGHT ME,0,,-,355,DAIXES,タイ,1099,DONUT,タイ,2125,GOLUSI,タイ,0,,-
-Resort Anthem,Golden Palms,0,,-,598,YAMI-K,タイ,1422,SXR,タイ,2034,GOLUSI,タイ,2397,GOLUSI,タイ
-Resort Anthem,Fantasia,183,ARGONT,タイ,317,SIMON,タイ,1522,T-BACK,タイ,2242,GOLUSI,タイ,0,,-
-Resort Anthem,Everlasting Resort,0,,-,548,HEN**,タイ,1111,PMILF,タイ,1902,GOLUSI,タイ,0,,-
-Resort Anthem,Eternal Tears,0,,-,425,PADTAI,タイ,1031,HANI.S,タイ,1371,GOLUSI,タイ,0,,-
-Resort Anthem,Energy Drive,0,,-,654,UNCHMN,タイ,1432,CHAMP*,タイ,2201,GOLUSI,タイ,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,737,SIMON,タイ,1888,SXR,タイ,2401,GOLUSI,タイ,0,,-
-Resort Anthem,Destiny Sword,0,,-,0,,-,1660,CHAMP*,タイ,2312,SXR,タイ,0,,-
-Resort Anthem,DAYDREAMER,0,,-,1057,RIORIO,タイ,1713,CHAMP*,タイ,2523,GOLUSI,タイ,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1418,!EKIPS,タイ,2234,SXR,タイ,3095,AYA.K,タイ,3967,AYA.K,タイ
-Resort Anthem,BROKEN EDEN,0,,-,725,NONAME,タイ,1721,SXR,タイ,2296,GOLUSI,タイ,0,,-
-Resort Anthem,Broken,0,,-,875,SIMON,タイ,2044,SXR,タイ,3135,AYA.K,タイ,0,,-
-Resort Anthem,Breaking the ground,0,,-,581,PAT88,タイ,1757,SXR,タイ,2500,GOLUSI,タイ,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,0,,-,1598,SXR,タイ,2370,GOLUSI,タイ,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,638,SIMON,タイ,1551,SXR,タイ,2086,GOLUSI,タイ,2574,GOLUSI,タイ
-Resort Anthem,Believe In Me,0,,-,669,ELI,タイ,1710,CHAMP*,タイ,2379,GOLUSI,タイ,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,713,SIMON,タイ,1903,SXR,タイ,2935,GOLUSI,タイ,0,,-
-Resort Anthem,Answer,0,,-,589,STRV03,タイ,1361,RIORIO,タイ,2408,GOLUSI,タイ,0,,-
-Resort Anthem,ALBIDA,441,SIMON,タイ,1058,AZVW-2,タイ,1948,SXR,タイ,2991,GOLUSI,タイ,0,,-
-Resort Anthem,Aegis,0,,-,557,SIMON,タイ,1395,SXR,タイ,2321,GOLUSI,タイ,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,672,SIMON,タイ,1699,GOLUSI,タイ,3001,GOLUSI,タイ,3343,GOLUSI,タイ
 tricoro,音楽,0,,-,0,,-,1943,ARISU,タイ,2717,AYA.K,タイ,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,1103,PMILF,タイ,2435,SXR,タイ,3545,GOLUSI,タイ,0,,-
@@ -793,86 +793,6 @@ SPADA,ATHER,0,,-,740,DOGMAN,タイ,1566,!EKIPS,タイ,2785,GOLUSI,タイ,3166,GO
 SPADA,Ancient Scapes,0,,-,868,XXXXXX,タイ,1943,T-BACK,タイ,3456,GOLUSI,タイ,4215,AYA.K,タイ
 SPADA,ALBA -黎明-,0,,-,494,PAT88,タイ,1545,SXR,タイ,3223,GOLUSI,タイ,0,,-
 SPADA,Adularia,155,AAAHHH,タイ,666,SIMON,タイ,1857,SXR,タイ,2829,AYA.K,タイ,0,,-
-copula,麗 ～うらら～,166,MRBOYE,タイ,751,QI,タイ,1755,SXR,タイ,2618,GOLUSI,タイ,0,,-
-copula,駅猫のワルツ,0,,-,775,GAIA,タイ,2093,SXR,タイ,2763,AYA.K,タイ,0,,-
-copula,量子の海のリントヴルム,0,,-,916,GUN!HP,タイ,1759,ARISU,タイ,2980,GOLUSI,タイ,0,,-
-copula,追想快晴テーマパーク,0,,-,673,KOTO,タイ,0,,-,3065,GOLUSI,タイ,0,,-
-copula,紫陽花 -AZISAI-,374,SIMON,タイ,876,SNNN.,タイ,2068,!EKIPS,タイ,2774,GOLUSI,タイ,3234,AYA.K,タイ
-copula,真 地獄超特急 -HELL or HELL-,0,,-,1234,CHM,タイ,2173,SXR,タイ,3205,AYA.K,タイ,0,,-
-copula,灼熱 Pt.2 Long Train Running,0,,-,1135,YOBBO,タイ,2017,SXR,タイ,3206,OCTA8T,タイ,0,,-
-copula,朝焼けから始まるボクらの小さな旅,0,,-,725,ERJC,タイ,1668,T-BACK,タイ,2485,GOLUSI,タイ,0,,-
-copula,星屑ディスタンシア,0,,-,467,KOTO,タイ,902,DANMUN,タイ,2010,SXR,タイ,0,,-
-copula,明鏡止水,0,,-,652,DUO,タイ,1720,C*SHIN,タイ,2757,GOLUSI,タイ,0,,-
-copula,少女アリスと箱庭幻想コンチェルト,0,,-,0,,-,1441,CHAMP*,タイ,2155,GOLUSI,タイ,0,,-
-copula,セロトニン,0,,-,775,SIMON,タイ,1760,SXR,タイ,2287,GOLUSI,タイ,0,,-
-copula,シュッパツシンコウ・シサカンコ,0,,-,864,KOTO,タイ,1740,CHAMP*,タイ,2441,GOLUSI,タイ,0,,-
-copula,ギョギョっと人魚 爆婚ブライダル,0,,-,631,YAMI-K,タイ,1407,T-BACK,タイ,2373,GOLUSI,タイ,0,,-
-copula,オルタネイトβ,0,,-,607,DOGMAN,タイ,1322,HINA.S,タイ,2256,AYA.K,タイ,0,,-
-copula,めいさいアイドル☆あいむちゃん♪,0,,-,1012,B-RAX,タイ,2186,T-BACK,タイ,3314,GOLUSI,タイ,0,,-
-copula,か・し・ま・し☆PUMP UP！,0,,-,780,UNCHMN,タイ,1735,T-BACK,タイ,2824,GOLUSI,タイ,0,,-
-copula,ZEPHYRANTHES,0,,-,0,,-,1772,CHAMP*,タイ,2866,SXR,タイ,3858,AYA.K,タイ
-copula,X,0,,-,1405,THUN,タイ,2447,SXR,タイ,3814,AYA.K,タイ,0,,-
-copula,Welcome,0,,-,770,NN!,タイ,1809,SXR,タイ,2653,AYA.K,タイ,3292,GOLUSI,タイ
-copula,Violet Rose,0,,-,690,STRV03,タイ,1871,CHAMP*,タイ,2501,PADTAI,タイ,0,,-
-copula,Violet Pulse,0,,-,345,SIMON,タイ,1681,!EKIPS,タイ,2300,SXR,タイ,3907,GOLUSI,タイ
-copula,Uh-Oh,0,,-,832,SIMON,タイ,1665,CHAMP*,タイ,2373,AYA.K,タイ,0,,-
-copula,Triple Counter,0,,-,1264,DLSITE,タイ,2230,SXR,タイ,3864,AYA.K,タイ,0,,-
-copula,Tori-no-kimochi,0,,-,0,,-,1259,T-BACK,タイ,1999,GOLUSI,タイ,0,,-
-copula,SURVIVOR,0,,-,551,YAMI-K,タイ,1278,SXR,タイ,1996,GOLUSI,タイ,0,,-
-copula,Super Duper Racers,0,,-,0,,-,1554,CHAMP*,タイ,2174,T-BACK,タイ,0,,-
-copula,StrayedCatz,0,,-,773,SIMON,タイ,1899,T-BACK,タイ,2718,AYA.K,タイ,0,,-
-copula,STARLIGHT DANCEHALL,0,,-,967,ZINK,タイ,1760,CHAMP*,タイ,2616,GOLUSI,タイ,3304,GOLUSI,タイ
-copula,STARLiGHT,0,,-,730,UNCHMN,タイ,1777,SXR,タイ,2700,AYA.K,タイ,0,,-
-copula,SHELTER OF THE MIND,0,,-,952,SIMON,タイ,1992,SXR,タイ,3041,GOLUSI,タイ,0,,-
-copula,Set U Free feat. Kanae Asaba,0,,-,657,SIMON,タイ,1237,PMILF,タイ,2530,GOLUSI,タイ,0,,-
-copula,Sephirot,0,,-,701,WORMS,タイ,1647,ARISU,タイ,2336,GOLUSI,タイ,0,,-
-copula,Routing,0,,-,713,XXXXXX,タイ,1468,HANI.S,タイ,2473,GOLUSI,タイ,0,,-
-copula,Rock It,0,,-,864,BINBOU,タイ,1591,HANI.S,タイ,2951,AYA.K,タイ,0,,-
-copula,refrain,0,,-,1154,SHIGO,タイ,2270,SWEETS,タイ,3585,AYA.K,タイ,0,,-
-copula,quick master (reform version),0,,-,141,DUO,タイ,343,T-BACK,タイ,524,GOLUSI,タイ,0,,-
-copula,POSSESSION,413,SKYE,タイ,1342,SWEETS,タイ,2141,SXR,タイ,2940,AYA.K,タイ,0,,-
-copula,Outbreak,0,,-,943,SIMON,タイ,1828,SXR,タイ,3011,AYA.K,タイ,0,,-
-copula,On the FM,0,,-,715,ERJC,タイ,1543,CHAMP*,タイ,2765,GOLUSI,タイ,0,,-
-copula,NZM,0,,-,950,WAF,タイ,1585,SXR,タイ,3425,AYA.K,タイ,0,,-
-copula,Nowhere,0,,-,397,REINA,タイ,1001,GAIA,タイ,2023,SXR,タイ,0,,-
-copula,NO LIMIT -オレ達に限界は無い-,0,,-,604,HEN**,タイ,1158,PMILF,タイ,2260,GOLUSI,タイ,0,,-
-copula,NINJA IS DEAD IIDX ver.,0,,-,782,SIMON,タイ,1796,T-BACK,タイ,2967,GOLUSI,タイ,0,,-
-copula,Nightmare before oversleep,0,,-,921,S8894,タイ,1861,SXR,タイ,2933,AYA.K,タイ,0,,-
-copula,NANAIRO,0,,-,761,QI,タイ,1724,SXR,タイ,2571,GOLUSI,タイ,0,,-
-copula,Musik LoverZ,0,,-,758,BDN?,タイ,1238,JMLJML,タイ,2445,GOLUSI,タイ,0,,-
-copula,M4K3 1T B0UNC3,0,,-,997,ONGEKI,タイ,2036,T-BACK,タイ,2971,GOLUSI,タイ,0,,-
-copula,La dolce primavera,0,,-,490,SIMON,タイ,1084,IIDX31,タイ,2116,ARISU,タイ,0,,-
-copula,Konzert V,0,,-,892,ERJC,タイ,2180,T-BACK,タイ,3307,GOLUSI,タイ,0,,-
-copula,Journey,0,,-,615,SIMON,タイ,1246,T-BACK,タイ,1876,GOLUSI,タイ,3107,GOLUSI,タイ
-copula,Inner Spirit,0,,-,570,BDN?,タイ,1845,SXR,タイ,2726,GOLUSI,タイ,0,,-
-copula,Highcharge Divolt,0,,-,828,ON22KI,タイ,1682,SXR,タイ,2735,GOLUSI,タイ,0,,-
-copula,Grand Chariot,0,,-,991,RIORIO,タイ,1877,PADTAI,タイ,3269,PADTAI,タイ,0,,-
-copula,Godspeed,0,,-,824,CG505,タイ,1849,YORU!M,タイ,3090,GOLUSI,タイ,0,,-
-copula,GOBBLE,0,,-,290,W,タイ,675,!EKIPS,タイ,1684,GOLUSI,タイ,0,,-
-copula,Go Faraway,0,,-,0,,-,1345,HINA.S,タイ,2413,ASSY..,タイ,0,,-
-copula,Glitch Nerds,0,,-,711,ERJC,タイ,1409,T-BACK,タイ,2143,!EKIPS,タイ,0,,-
-copula,GENERATE feat.綾倉盟,0,,-,862,BINBOU,タイ,1752,SXR,タイ,2355,GOLUSI,タイ,0,,-
-copula,Exchange Place,0,,-,591,KM-OOM,タイ,1134,PMILF,タイ,1796,GOLUSI,タイ,0,,-
-copula,Everlasting Last,0,,-,459,DOM,タイ,1603,CHAMP*,タイ,2225,AYA.K,タイ,0,,-
-copula,Dynamite,436,BMC,タイ,1110,PMILF,タイ,2422,SXR,タイ,3832,AYA.K,タイ,0,,-
-copula,Donkey Donk,0,,-,733,SIMON,タイ,1404,AZVW-2,タイ,2262,GOLUSI,タイ,0,,-
-copula,do the thing feat. Kanae Asaba,0,,-,360,SOL,タイ,1302,YOBBO,タイ,2318,GOLUSI,タイ,0,,-
-copula,DIAMOND CROSSING,0,,-,907,PMILF,タイ,1698,CHAMP*,タイ,3014,AYA.K,タイ,0,,-
-copula,Devil's Gear,0,,-,1028,KK.MTC,タイ,2188,SXR,タイ,3427,AYA.K,タイ,0,,-
-copula,Derelict Star feat. Ryu*,0,,-,0,,-,1798,SXR,タイ,2628,GOLUSI,タイ,0,,-
-copula,Damage Per Second,0,,-,582,TNT,タイ,1142,CANUCK,タイ,2004,SXR,タイ,2248,SXR,タイ
-copula,Daily Lunch Special,0,,-,953,CHM,タイ,2102,SXR,タイ,2946,AYA.K,タイ,0,,-
-copula,CODE:1 [revision1.0.1],0,,-,819,YAMI-K,タイ,1695,SXR,タイ,3034,GOLUSI,タイ,0,,-
-copula,chaos eater -IIDX edition-,0,,-,824,BINBOU,タイ,1666,CHAMP*,タイ,2617,GOLUSI,タイ,0,,-
-copula,Central Station,0,,-,589,DOGMAN,タイ,1437,CHAMP*,タイ,2405,GOLUSI,タイ,0,,-
-copula,Blue Spring Express,0,,-,1265,SXR,タイ,1988,!EKIPS,タイ,3249,GOLUSI,タイ,0,,-
-copula,Battle Train -IIDX Edition-,0,,-,436,SXR,タイ,2323,CHAMP*,タイ,3191,GOLUSI,タイ,0,,-
-copula,Aublia,0,,-,682,SIMON,タイ,1480,SXR,タイ,2544,AYA.K,タイ,0,,-
-copula,Arcana,0,,-,1010,ON22KI,タイ,1696,YORU!M,タイ,2217,SXR,タイ,0,,-
-copula,AO-1,0,,-,772,RIORIO,タイ,1834,T-BACK,タイ,2760,GOLUSI,タイ,0,,-
-copula,Angelic Jelly,0,,-,995,CHM,タイ,2028,SWEETS,タイ,2751,AYA.K,タイ,0,,-
-copula,Acid Pumper,0,,-,464,TNT,タイ,1493,CHAMP*,タイ,2425,GOLUSI,タイ,0,,-
-copula,199024club -Re:BounceKiller-,0,,-,657,GUN!HP,タイ,1604,!EKIPS,タイ,2319,AYA.K,タイ,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,689,KOTO,タイ,1734,!EKIPS,タイ,2893,GOLUSI,タイ,0,,-
 PENDUAL,鬼天,0,,-,635,STRV03,タイ,1614,SXR,タイ,2457,GOLUSI,タイ,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,914,UNCHMN,タイ,1923,T-BACK,タイ,2664,GOLUSI,タイ,4032,AYA.K,タイ
@@ -956,6 +876,86 @@ PENDUAL,Beyond The Earth,0,,-,834,SXR,タイ,2040,SXR,タイ,3151,GOLUSI,タイ,
 PENDUAL,Beat Radiance,0,,-,736,SIMON,タイ,1627,SXR,タイ,2629,GOLUSI,タイ,3559,GOLUSI,タイ
 PENDUAL,AFRO KNUCKLE,0,,-,602,T1FAKE,タイ,1746,SXR,タイ,2387,GOLUSI,タイ,0,,-
 PENDUAL,#The_Relentless,0,,-,1083,PREE,タイ,1983,SXR,タイ,2858,SXR,タイ,0,,-
+copula,麗 ～うらら～,166,MRBOYE,タイ,751,QI,タイ,1755,SXR,タイ,2618,GOLUSI,タイ,0,,-
+copula,駅猫のワルツ,0,,-,775,GAIA,タイ,2093,SXR,タイ,2763,AYA.K,タイ,0,,-
+copula,量子の海のリントヴルム,0,,-,916,GUN!HP,タイ,1759,ARISU,タイ,2980,GOLUSI,タイ,0,,-
+copula,追想快晴テーマパーク,0,,-,673,KOTO,タイ,0,,-,3065,GOLUSI,タイ,0,,-
+copula,紫陽花 -AZISAI-,374,SIMON,タイ,876,SNNN.,タイ,2068,!EKIPS,タイ,2774,GOLUSI,タイ,3234,AYA.K,タイ
+copula,真 地獄超特急 -HELL or HELL-,0,,-,1234,CHM,タイ,2173,SXR,タイ,3205,AYA.K,タイ,0,,-
+copula,灼熱 Pt.2 Long Train Running,0,,-,1135,YOBBO,タイ,2017,SXR,タイ,3206,OCTA8T,タイ,0,,-
+copula,朝焼けから始まるボクらの小さな旅,0,,-,725,ERJC,タイ,1668,T-BACK,タイ,2485,GOLUSI,タイ,0,,-
+copula,星屑ディスタンシア,0,,-,467,KOTO,タイ,902,DANMUN,タイ,2010,SXR,タイ,0,,-
+copula,明鏡止水,0,,-,652,DUO,タイ,1720,C*SHIN,タイ,2757,GOLUSI,タイ,0,,-
+copula,少女アリスと箱庭幻想コンチェルト,0,,-,0,,-,1441,CHAMP*,タイ,2155,GOLUSI,タイ,0,,-
+copula,セロトニン,0,,-,775,SIMON,タイ,1760,SXR,タイ,2287,GOLUSI,タイ,0,,-
+copula,シュッパツシンコウ・シサカンコ,0,,-,864,KOTO,タイ,1740,CHAMP*,タイ,2441,GOLUSI,タイ,0,,-
+copula,ギョギョっと人魚 爆婚ブライダル,0,,-,631,YAMI-K,タイ,1407,T-BACK,タイ,2373,GOLUSI,タイ,0,,-
+copula,オルタネイトβ,0,,-,607,DOGMAN,タイ,1322,HINA.S,タイ,2256,AYA.K,タイ,0,,-
+copula,めいさいアイドル☆あいむちゃん♪,0,,-,1012,B-RAX,タイ,2186,T-BACK,タイ,3314,GOLUSI,タイ,0,,-
+copula,か・し・ま・し☆PUMP UP！,0,,-,780,UNCHMN,タイ,1735,T-BACK,タイ,2824,GOLUSI,タイ,0,,-
+copula,ZEPHYRANTHES,0,,-,0,,-,1772,CHAMP*,タイ,2866,SXR,タイ,3858,AYA.K,タイ
+copula,X,0,,-,1405,THUN,タイ,2447,SXR,タイ,3814,AYA.K,タイ,0,,-
+copula,Welcome,0,,-,770,NN!,タイ,1809,SXR,タイ,2653,AYA.K,タイ,3292,GOLUSI,タイ
+copula,Violet Rose,0,,-,690,STRV03,タイ,1871,CHAMP*,タイ,2501,PADTAI,タイ,0,,-
+copula,Violet Pulse,0,,-,345,SIMON,タイ,1681,!EKIPS,タイ,2300,SXR,タイ,3907,GOLUSI,タイ
+copula,Uh-Oh,0,,-,832,SIMON,タイ,1665,CHAMP*,タイ,2373,AYA.K,タイ,0,,-
+copula,Triple Counter,0,,-,1264,DLSITE,タイ,2230,SXR,タイ,3864,AYA.K,タイ,0,,-
+copula,Tori-no-kimochi,0,,-,0,,-,1259,T-BACK,タイ,1999,GOLUSI,タイ,0,,-
+copula,SURVIVOR,0,,-,551,YAMI-K,タイ,1278,SXR,タイ,1996,GOLUSI,タイ,0,,-
+copula,Super Duper Racers,0,,-,0,,-,1554,CHAMP*,タイ,2174,T-BACK,タイ,0,,-
+copula,StrayedCatz,0,,-,773,SIMON,タイ,1899,T-BACK,タイ,2718,AYA.K,タイ,0,,-
+copula,STARLIGHT DANCEHALL,0,,-,967,ZINK,タイ,1760,CHAMP*,タイ,2616,GOLUSI,タイ,3304,GOLUSI,タイ
+copula,STARLiGHT,0,,-,730,UNCHMN,タイ,1777,SXR,タイ,2700,AYA.K,タイ,0,,-
+copula,SHELTER OF THE MIND,0,,-,952,SIMON,タイ,1992,SXR,タイ,3041,GOLUSI,タイ,0,,-
+copula,Set U Free feat. Kanae Asaba,0,,-,657,SIMON,タイ,1237,PMILF,タイ,2530,GOLUSI,タイ,0,,-
+copula,Sephirot,0,,-,701,WORMS,タイ,1647,ARISU,タイ,2336,GOLUSI,タイ,0,,-
+copula,Routing,0,,-,713,XXXXXX,タイ,1468,HANI.S,タイ,2473,GOLUSI,タイ,0,,-
+copula,Rock It,0,,-,864,BINBOU,タイ,1591,HANI.S,タイ,2951,AYA.K,タイ,0,,-
+copula,refrain,0,,-,1154,SHIGO,タイ,2270,SWEETS,タイ,3585,AYA.K,タイ,0,,-
+copula,quick master (reform version),0,,-,141,DUO,タイ,343,T-BACK,タイ,524,GOLUSI,タイ,0,,-
+copula,POSSESSION,413,SKYE,タイ,1342,SWEETS,タイ,2141,SXR,タイ,2940,AYA.K,タイ,0,,-
+copula,Outbreak,0,,-,943,SIMON,タイ,1828,SXR,タイ,3011,AYA.K,タイ,0,,-
+copula,On the FM,0,,-,715,ERJC,タイ,1543,CHAMP*,タイ,2765,GOLUSI,タイ,0,,-
+copula,NZM,0,,-,950,WAF,タイ,1585,SXR,タイ,3425,AYA.K,タイ,0,,-
+copula,Nowhere,0,,-,397,REINA,タイ,1001,GAIA,タイ,2023,SXR,タイ,0,,-
+copula,NO LIMIT -オレ達に限界は無い-,0,,-,604,HEN**,タイ,1158,PMILF,タイ,2260,GOLUSI,タイ,0,,-
+copula,NINJA IS DEAD IIDX ver.,0,,-,782,SIMON,タイ,1796,T-BACK,タイ,2967,GOLUSI,タイ,0,,-
+copula,Nightmare before oversleep,0,,-,921,S8894,タイ,1861,SXR,タイ,2933,AYA.K,タイ,0,,-
+copula,NANAIRO,0,,-,761,QI,タイ,1724,SXR,タイ,2571,GOLUSI,タイ,0,,-
+copula,Musik LoverZ,0,,-,758,BDN?,タイ,1238,JMLJML,タイ,2445,GOLUSI,タイ,0,,-
+copula,M4K3 1T B0UNC3,0,,-,997,ONGEKI,タイ,2036,T-BACK,タイ,2971,GOLUSI,タイ,0,,-
+copula,La dolce primavera,0,,-,490,SIMON,タイ,1084,IIDX31,タイ,2116,ARISU,タイ,0,,-
+copula,Konzert V,0,,-,892,ERJC,タイ,2180,T-BACK,タイ,3307,GOLUSI,タイ,0,,-
+copula,Journey,0,,-,615,SIMON,タイ,1246,T-BACK,タイ,1876,GOLUSI,タイ,3107,GOLUSI,タイ
+copula,Inner Spirit,0,,-,570,BDN?,タイ,1845,SXR,タイ,2726,GOLUSI,タイ,0,,-
+copula,Highcharge Divolt,0,,-,828,ON22KI,タイ,1682,SXR,タイ,2735,GOLUSI,タイ,0,,-
+copula,Grand Chariot,0,,-,991,RIORIO,タイ,1877,PADTAI,タイ,3269,PADTAI,タイ,0,,-
+copula,Godspeed,0,,-,824,CG505,タイ,1849,YORU!M,タイ,3090,GOLUSI,タイ,0,,-
+copula,GOBBLE,0,,-,290,W,タイ,675,!EKIPS,タイ,1684,GOLUSI,タイ,0,,-
+copula,Go Faraway,0,,-,0,,-,1345,HINA.S,タイ,2413,ASSY..,タイ,0,,-
+copula,Glitch Nerds,0,,-,711,ERJC,タイ,1409,T-BACK,タイ,2143,!EKIPS,タイ,0,,-
+copula,GENERATE feat.綾倉盟,0,,-,862,BINBOU,タイ,1752,SXR,タイ,2355,GOLUSI,タイ,0,,-
+copula,Exchange Place,0,,-,591,KM-OOM,タイ,1134,PMILF,タイ,1796,GOLUSI,タイ,0,,-
+copula,Everlasting Last,0,,-,459,DOM,タイ,1603,CHAMP*,タイ,2225,AYA.K,タイ,0,,-
+copula,Dynamite,436,BMC,タイ,1110,PMILF,タイ,2422,SXR,タイ,3832,AYA.K,タイ,0,,-
+copula,Donkey Donk,0,,-,733,SIMON,タイ,1404,AZVW-2,タイ,2262,GOLUSI,タイ,0,,-
+copula,do the thing feat. Kanae Asaba,0,,-,360,SOL,タイ,1302,YOBBO,タイ,2318,GOLUSI,タイ,0,,-
+copula,DIAMOND CROSSING,0,,-,907,PMILF,タイ,1698,CHAMP*,タイ,3014,AYA.K,タイ,0,,-
+copula,Devil's Gear,0,,-,1028,KK.MTC,タイ,2188,SXR,タイ,3427,AYA.K,タイ,0,,-
+copula,Derelict Star feat. Ryu*,0,,-,0,,-,1798,SXR,タイ,2628,GOLUSI,タイ,0,,-
+copula,Damage Per Second,0,,-,582,TNT,タイ,1142,CANUCK,タイ,2004,SXR,タイ,2248,SXR,タイ
+copula,Daily Lunch Special,0,,-,953,CHM,タイ,2102,SXR,タイ,2946,AYA.K,タイ,0,,-
+copula,CODE:1 [revision1.0.1],0,,-,819,YAMI-K,タイ,1695,SXR,タイ,3034,GOLUSI,タイ,0,,-
+copula,chaos eater -IIDX edition-,0,,-,824,BINBOU,タイ,1666,CHAMP*,タイ,2617,GOLUSI,タイ,0,,-
+copula,Central Station,0,,-,589,DOGMAN,タイ,1437,CHAMP*,タイ,2405,GOLUSI,タイ,0,,-
+copula,Blue Spring Express,0,,-,1265,SXR,タイ,1988,!EKIPS,タイ,3249,GOLUSI,タイ,0,,-
+copula,Battle Train -IIDX Edition-,0,,-,436,SXR,タイ,2323,CHAMP*,タイ,3191,GOLUSI,タイ,0,,-
+copula,Aublia,0,,-,682,SIMON,タイ,1480,SXR,タイ,2544,AYA.K,タイ,0,,-
+copula,Arcana,0,,-,1010,ON22KI,タイ,1696,YORU!M,タイ,2217,SXR,タイ,0,,-
+copula,AO-1,0,,-,772,RIORIO,タイ,1834,T-BACK,タイ,2760,GOLUSI,タイ,0,,-
+copula,Angelic Jelly,0,,-,995,CHM,タイ,2028,SWEETS,タイ,2751,AYA.K,タイ,0,,-
+copula,Acid Pumper,0,,-,464,TNT,タイ,1493,CHAMP*,タイ,2425,GOLUSI,タイ,0,,-
+copula,199024club -Re:BounceKiller-,0,,-,657,GUN!HP,タイ,1604,!EKIPS,タイ,2319,AYA.K,タイ,0,,-
 SINOBUZ,鴉,0,,-,1489,!EKIPS,タイ,2229,SXR,タイ,2683,GOLUSI,タイ,0,,-
 SINOBUZ,童話回廊,0,,-,740,SIMON,タイ,1712,SXR,タイ,3030,GOLUSI,タイ,0,,-
 SINOBUZ,禍根,0,,-,635,SXR,タイ,1340,SXR,タイ,2541,GOLUSI,タイ,0,,-

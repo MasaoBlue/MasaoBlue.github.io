@@ -13,6 +13,13 @@
 1st&substream,deep in you,0,,-,491,SENJU.,栃木県,507,SENJU.,栃木県,643,SENJU.,栃木県,0,,-
 1st&substream,5.1.1.,0,,-,191,NAGON,栃木県,971,HARUMI,栃木県,1568,HERMIT,栃木県,0,,-
 1st&substream,22DUNK,0,,-,522,SENJU.,栃木県,577,KAIO-G,栃木県,641,SENJU.,栃木県,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,502,SENJU.,栃木県,621,44TAKA,栃木県,642,SENJU.,栃木県,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,355,UMA,栃木県,844,PAPAIA,栃木県,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,796,PAERIA,栃木県,1024,TASSO*,栃木県,1220,SLEEPY,栃木県,0,,-
+2nd style,I Was The One,0,,-,534,SENJU.,栃木県,617,KONOE,栃木県,693,SLEEPY,栃木県,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,379,TARO,栃木県,890,TASSO*,栃木県,1066,SLEEPY,栃木県,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,602,CODER,栃木県,938,INDIGO,栃木県,1116,SLEEPY,栃木県,0,,-
+2nd style,.59,0,,-,584,CODER,栃木県,1010,44TAKA,栃木県,1151,HERMIT,栃木県,0,,-
 3rd style,THE SAFARI,357,44TAKA,栃木県,1101,PDIDDY,栃木県,1764,SLEEPY,栃木県,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,277,M-ZERO,栃木県,393,SENJU.,栃木県,0,,-,0,,-
 3rd style,Skyscraper,0,,-,510,NASU,栃木県,1121,TASSO*,栃木県,1245,SLEEPY,栃木県,0,,-
@@ -25,13 +32,6 @@
 3rd style,era (nostalmix),0,,-,778,H.S,栃木県,1046,26,栃木県,1525,SLEEPY,栃木県,0,,-
 3rd style,Don't Stop!,0,,-,774,SENJU.,栃木県,837,TAKATH,栃木県,896,DAIMON,栃木県,0,,-
 3rd style,CAN'T STOP FALLIN'IN LOVE,0,,-,418,TARO,栃木県,1259,SLEEPY,栃木県,0,,-,0,,-
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,502,SENJU.,栃木県,621,44TAKA,栃木県,642,SENJU.,栃木県,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,355,UMA,栃木県,844,PAPAIA,栃木県,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,796,PAERIA,栃木県,1024,TASSO*,栃木県,1220,SLEEPY,栃木県,0,,-
-2nd style,I Was The One,0,,-,534,SENJU.,栃木県,617,KONOE,栃木県,693,SLEEPY,栃木県,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,379,TARO,栃木県,890,TASSO*,栃木県,1066,SLEEPY,栃木県,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,602,CODER,栃木県,938,INDIGO,栃木県,1116,SLEEPY,栃木県,0,,-
-2nd style,.59,0,,-,584,CODER,栃木県,1010,44TAKA,栃木県,1151,HERMIT,栃木県,0,,-
 4th style,Voltage (feat. Hidemaru),0,,-,849,SMILE*,栃木県,1239,SLEEPY,栃木県,1327,DAIKI.,栃木県,0,,-
 4th style,SWEET LAB,0,,-,478,RYUDRA,栃木県,879,CHOBB,栃木県,1342,MIKAN.,栃木県,0,,-
 4th style,starmine,419,PAERIA,栃木県,645,IZAYOI,栃木県,1424,SLEEPY,栃木県,1584,HERMIT,栃木県,0,,-
@@ -416,6 +416,54 @@ DJ TROOPERS,Be OK,0,,-,740,LATTE,栃木県,1682,PDIDDY,栃木県,2410,SLEEPY,栃
 DJ TROOPERS,avant-guerre,0,,-,450,CHIKU,栃木県,1223,TASSO*,栃木県,1927,SLEEPY,栃木県,0,,-
 DJ TROOPERS,"Anisakis -somatic mutation type""Forza""-",0,,-,1215,TASSO*,栃木県,2089,CLL,栃木県,2866,HERMIT,栃木県,3870,HERMIT,栃木県
 DJ TROOPERS,2 tribe 4 K,0,,-,878,SENJU.,栃木県,1303,PDIDDY,栃木県,2754,SLEEPY,栃木県,0,,-
+EMPRESS,鉄甲乙女-under the steel-,0,,-,892,RAVEN,栃木県,1556,TASSO*,栃木県,2179,DAIMON,栃木県,0,,-
+EMPRESS,翼,0,,-,896,TASSO*,栃木県,1481,FLB,栃木県,1972,SLEEPY,栃木県,2504,SLEEPY,栃木県
+EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,635,RYUDRA,栃木県,1350,1SHI8,栃木県,2057,SLEEPY,栃木県,0,,-
+EMPRESS,天空脳番長危機十六連打,0,,-,1000,CHOBB,栃木県,2061,XELPHA,栃木県,2585,SLEEPY,栃木県,0,,-
+EMPRESS,卑弥呼,0,,-,1224,TASSO*,栃木県,2617,DAIMON,栃木県,4001,SLEEPY,栃木県,0,,-
+EMPRESS,凛として咲く花の如く,344,SEVEN,栃木県,1293,A2KI.2,栃木県,2131,CLL,栃木県,2786,SLEEPY,栃木県,3186,SLEEPY,栃木県
+EMPRESS,不沈艦CANDY,491,99225?,栃木県,1009,RYUDRA,栃木県,1882,MINATO,栃木県,3333,HERMIT,栃木県,0,,-
+EMPRESS,ミッドナイト堕天使,0,,-,937,NAOTO,栃木県,1467,SASAMI,栃木県,2778,SLEEPY,栃木県,0,,-
+EMPRESS,ハリツヤランデヴー,0,,-,927,SMILE*,栃木県,1990,PDIDDY,栃木県,2479,SLEEPY,栃木県,0,,-
+EMPRESS,まほろば,0,,-,745,H.S,栃木県,1348,TASSO*,栃木県,2054,SLEEPY,栃木県,0,,-
+EMPRESS,"You'll say ""Now!""",0,,-,1143,CHOBB,栃木県,1751,MILA,栃木県,2520,SLEEPY,栃木県,0,,-
+EMPRESS,Y&Co. is dead or alive,0,,-,1037,FLB,栃木県,1729,FL4V1A,栃木県,2784,SLEEPY,栃木県,0,,-
+EMPRESS,V2,750,R*ZERO,栃木県,1423,TASSO*,栃木県,2971,XELPHA,栃木県,3590,HERMIT,栃木県,0,,-
+EMPRESS,Turii ～Panta rhei～,350,HARUMI,栃木県,887,FLB,栃木県,1957,XELPHA,栃木県,2679,SLEEPY,栃木県,0,,-
+EMPRESS,thunder HOUSE NATION Remix,0,,-,961,M-ZERO,栃木県,1596,PDIDDY,栃木県,2451,SLEEPY,栃木県,3876,HERMIT,栃木県
+EMPRESS,THE SHINING POLARIS(kors k mix),0,,-,1283,SENJU.,栃木県,2026,XELPHA,栃木県,3247,HERMIT,栃木県,0,,-
+EMPRESS,THANK YOU FOR PLAYING,0,,-,763,H.S,栃木県,1581,MINATO,栃木県,2113,SLEEPY,栃木県,2998,SLEEPY,栃木県
+EMPRESS,SOLITON BEAM,0,,-,1202,SAIL,栃木県,1880,USAINU,栃木県,2355,SLEEPY,栃木県,0,,-
+EMPRESS,smooooch・∀・,393,TEREYA,栃木県,815,KONOE,栃木県,1618,XELPHA,栃木県,2149,SLEEPY,栃木県,0,,-
+EMPRESS,Secrets,0,,-,1141,SASAMI,栃木県,2151,PDIDDY,栃木県,3150,HERMIT,栃木県,4061,YASUNA,栃木県
+EMPRESS,Queen's Tragedy,0,,-,803,CHOBB,栃木県,1545,WIZARD,栃木県,2231,SLEEPY,栃木県,0,,-
+EMPRESS,Punch Love 仮面,0,,-,1078,SMILE*,栃木県,1702,FLB,栃木県,2515,TSKASA,栃木県,0,,-
+EMPRESS,Programmed World,0,,-,926,44TAKA,栃木県,1739,XOXO,栃木県,2302,SLEEPY,栃木県,0,,-
+EMPRESS,NΦ CRIME,293,SENJU.,栃木県,824,ANABB,栃木県,1417,KI4DA,栃木県,1892,TSKASA,栃木県,2406,SLEEPY,栃木県
+EMPRESS,neogenesis,0,,-,859,HINE,栃木県,1280,TASSO*,栃木県,1695,GA9BRU,栃木県,2311,M2,栃木県
+EMPRESS,naughty girl@Queen's Palace,0,,-,809,SMILE*,栃木県,1605,MINATO,栃木県,2122,SLEEPY,栃木県,2608,SLEEPY,栃木県
+EMPRESS,Monkey Dance '09,0,,-,831,1SHI8,栃木県,1652,PDIDDY,栃木県,2272,SLEEPY,栃木県,0,,-
+EMPRESS,Mind Mapping,492,CHOBB,栃木県,773,CODER,栃木県,1216,PDIDDY,栃木県,1827,SLEEPY,栃木県,2242,SLEEPY,栃木県
+EMPRESS,Marie Antoinette,0,,-,768,KRDR*C,栃木県,1882,DESIRE,栃木県,2501,DAIKI.,栃木県,3175,SLEEPY,栃木県
+EMPRESS,Kung-fu Empire,0,,-,1491,44TAKA,栃木県,2516,XELPHA,栃木県,3247,SLEEPY,栃木県,3921,SLEEPY,栃木県
+EMPRESS,Just a Little Smile,0,,-,585,TENRYU,栃木県,1264,KI4DA,栃木県,2417,SLEEPY,栃木県,0,,-
+EMPRESS,Jack,0,,-,571,NARUTO,栃木県,1357,TASSO*,栃木県,2169,HERMIT,栃木県,0,,-
+EMPRESS,I'm Screaming LOVE,0,,-,610,TASSO*,栃木県,1273,SMILE*,栃木県,1700,SLEEPY,栃木県,0,,-
+EMPRESS,HYPERION,0,,-,863,TARO,栃木県,1972,U,栃木県,2737,YASUNA,栃木県,0,,-
+EMPRESS,Go Beyond!!,540,CHOBB,栃木県,1051,PDIDDY,栃木県,1652,A1C11,栃木県,2230,HERMIT,栃木県,0,,-
+EMPRESS,Fly Above,0,,-,954,XYZ,栃木県,1616,KOZI04,栃木県,2032,SLEEPY,栃木県,0,,-
+EMPRESS,Flash Back 90's,0,,-,755,SRKR,栃木県,1735,PDIDDY,栃木県,2334,SLEEPY,栃木県,2887,SLEEPY,栃木県
+EMPRESS,Cyber Force -DJ Yoshitaka Remix-,0,,-,1025,SMILE*,栃木県,1792,XELPHA,栃木県,2519,SLEEPY,栃木県,0,,-
+EMPRESS,Colorful Cookie,653,M-ZERO,栃木県,1003,YU,栃木県,2222,GF8300,栃木県,3525,HERMIT,栃木県,0,,-
+EMPRESS,CaptivAte2～覚醒～,246,AL1$A.,栃木県,1078,FLB,栃木県,1617,E.XIA,栃木県,2417,SLEEPY,栃木県,0,,-
+EMPRESS,BRIDAL FESTIVAL !!!,0,,-,790,KONO,栃木県,1451,PDIDDY,栃木県,2142,SLEEPY,栃木県,0,,-
+EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1110,SLEEPY,栃木県,2244,SLEEPY,栃木県,3942,HERMIT,栃木県,0,,-
+EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1062,SENJU.,栃木県,1912,777,栃木県,2620,SLEEPY,栃木県,3254,SLEEPY,栃木県
+EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1130,SMILE*,栃木県,2269,777,栃木県,3577,SLEEPY,栃木県,4620,HERMIT,栃木県
+EMPRESS,Arabian Rave Night,0,,-,1149,YUNE,栃木県,2169,MILA,栃木県,2948,SLEEPY,栃木県,3680,HERMIT,栃木県
+EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,891,JURY,栃木県,1737,U,栃木県,2597,HERMIT,栃木県,0,,-
+EMPRESS,ALL I NEED YOUR LOVE,0,,-,840,LATTE,栃木県,1617,PDIDDY,栃木県,2125,SLEEPY,栃木県,0,,-
+EMPRESS,3y3s,500,TARO,栃木県,1441,TASSO*,栃木県,2435,1234,栃木県,3575,HERMIT,栃木県,0,,-
 SIRIUS,"水上の提督(Short mix from ""幻想水滸伝V"")",0,,-,595,TARO,栃木県,1560,R*,栃木県,2094,SLEEPY,栃木県,0,,-
 SIRIUS,未来のプリズム,0,,-,660,SMILE*,栃木県,1325,10.,栃木県,1770,SLEEPY,栃木県,0,,-
 SIRIUS,ワルツ第17番 ト短調”大犬のワルツ”,0,,-,1162,SRKR,栃木県,2270,SLEEPY,栃木県,3167,SLEEPY,栃木県,0,,-
@@ -469,54 +517,63 @@ SIRIUS,bass 2 bass,282,AL1$A.,栃木県,682,RAVEN,栃木県,1223,PDIDDY,栃木�
 SIRIUS,Bad Maniacs,0,,-,1270,KONOE,栃木県,1814,CLL,栃木県,3276,HERMIT,栃木県,0,,-
 SIRIUS,Almagest,0,,-,1014,FLB,栃木県,2219,SLEEPY,栃木県,3144,SLEEPY,栃木県,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,525,CHOBB,栃木県,1151,PDIDDY,栃木県,1806,SENJU.,栃木県,2337,SLEEPY,栃木県,2997,HERMIT,栃木県
-EMPRESS,鉄甲乙女-under the steel-,0,,-,892,RAVEN,栃木県,1556,TASSO*,栃木県,2179,DAIMON,栃木県,0,,-
-EMPRESS,翼,0,,-,896,TASSO*,栃木県,1481,FLB,栃木県,1972,SLEEPY,栃木県,2504,SLEEPY,栃木県
-EMPRESS,山岡晃の「クイズ！家事都合！」,0,,-,635,RYUDRA,栃木県,1350,1SHI8,栃木県,2057,SLEEPY,栃木県,0,,-
-EMPRESS,天空脳番長危機十六連打,0,,-,1000,CHOBB,栃木県,2061,XELPHA,栃木県,2585,SLEEPY,栃木県,0,,-
-EMPRESS,卑弥呼,0,,-,1224,TASSO*,栃木県,2617,DAIMON,栃木県,4001,SLEEPY,栃木県,0,,-
-EMPRESS,凛として咲く花の如く,344,SEVEN,栃木県,1293,A2KI.2,栃木県,2131,CLL,栃木県,2786,SLEEPY,栃木県,3186,SLEEPY,栃木県
-EMPRESS,不沈艦CANDY,491,99225?,栃木県,1009,RYUDRA,栃木県,1882,MINATO,栃木県,3333,HERMIT,栃木県,0,,-
-EMPRESS,ミッドナイト堕天使,0,,-,937,NAOTO,栃木県,1467,SASAMI,栃木県,2778,SLEEPY,栃木県,0,,-
-EMPRESS,ハリツヤランデヴー,0,,-,927,SMILE*,栃木県,1990,PDIDDY,栃木県,2479,SLEEPY,栃木県,0,,-
-EMPRESS,まほろば,0,,-,745,H.S,栃木県,1348,TASSO*,栃木県,2054,SLEEPY,栃木県,0,,-
-EMPRESS,"You'll say ""Now!""",0,,-,1143,CHOBB,栃木県,1751,MILA,栃木県,2520,SLEEPY,栃木県,0,,-
-EMPRESS,Y&Co. is dead or alive,0,,-,1037,FLB,栃木県,1729,FL4V1A,栃木県,2784,SLEEPY,栃木県,0,,-
-EMPRESS,V2,750,R*ZERO,栃木県,1423,TASSO*,栃木県,2971,XELPHA,栃木県,3590,HERMIT,栃木県,0,,-
-EMPRESS,Turii ～Panta rhei～,350,HARUMI,栃木県,887,FLB,栃木県,1957,XELPHA,栃木県,2679,SLEEPY,栃木県,0,,-
-EMPRESS,thunder HOUSE NATION Remix,0,,-,961,M-ZERO,栃木県,1596,PDIDDY,栃木県,2451,SLEEPY,栃木県,3876,HERMIT,栃木県
-EMPRESS,THE SHINING POLARIS(kors k mix),0,,-,1283,SENJU.,栃木県,2026,XELPHA,栃木県,3247,HERMIT,栃木県,0,,-
-EMPRESS,THANK YOU FOR PLAYING,0,,-,763,H.S,栃木県,1581,MINATO,栃木県,2113,SLEEPY,栃木県,2998,SLEEPY,栃木県
-EMPRESS,SOLITON BEAM,0,,-,1202,SAIL,栃木県,1880,USAINU,栃木県,2355,SLEEPY,栃木県,0,,-
-EMPRESS,smooooch・∀・,393,TEREYA,栃木県,815,KONOE,栃木県,1618,XELPHA,栃木県,2149,SLEEPY,栃木県,0,,-
-EMPRESS,Secrets,0,,-,1141,SASAMI,栃木県,2151,PDIDDY,栃木県,3150,HERMIT,栃木県,4061,YASUNA,栃木県
-EMPRESS,Queen's Tragedy,0,,-,803,CHOBB,栃木県,1545,WIZARD,栃木県,2231,SLEEPY,栃木県,0,,-
-EMPRESS,Punch Love 仮面,0,,-,1078,SMILE*,栃木県,1702,FLB,栃木県,2515,TSKASA,栃木県,0,,-
-EMPRESS,Programmed World,0,,-,926,44TAKA,栃木県,1739,XOXO,栃木県,2302,SLEEPY,栃木県,0,,-
-EMPRESS,NΦ CRIME,293,SENJU.,栃木県,824,ANABB,栃木県,1417,KI4DA,栃木県,1892,TSKASA,栃木県,2406,SLEEPY,栃木県
-EMPRESS,neogenesis,0,,-,859,HINE,栃木県,1280,TASSO*,栃木県,1695,GA9BRU,栃木県,2311,M2,栃木県
-EMPRESS,naughty girl@Queen's Palace,0,,-,809,SMILE*,栃木県,1605,MINATO,栃木県,2122,SLEEPY,栃木県,2608,SLEEPY,栃木県
-EMPRESS,Monkey Dance '09,0,,-,831,1SHI8,栃木県,1652,PDIDDY,栃木県,2272,SLEEPY,栃木県,0,,-
-EMPRESS,Mind Mapping,492,CHOBB,栃木県,773,CODER,栃木県,1216,PDIDDY,栃木県,1827,SLEEPY,栃木県,2242,SLEEPY,栃木県
-EMPRESS,Marie Antoinette,0,,-,768,KRDR*C,栃木県,1882,DESIRE,栃木県,2501,DAIKI.,栃木県,3175,SLEEPY,栃木県
-EMPRESS,Kung-fu Empire,0,,-,1491,44TAKA,栃木県,2516,XELPHA,栃木県,3247,SLEEPY,栃木県,3921,SLEEPY,栃木県
-EMPRESS,Just a Little Smile,0,,-,585,TENRYU,栃木県,1264,KI4DA,栃木県,2417,SLEEPY,栃木県,0,,-
-EMPRESS,Jack,0,,-,571,NARUTO,栃木県,1357,TASSO*,栃木県,2169,HERMIT,栃木県,0,,-
-EMPRESS,I'm Screaming LOVE,0,,-,610,TASSO*,栃木県,1273,SMILE*,栃木県,1700,SLEEPY,栃木県,0,,-
-EMPRESS,HYPERION,0,,-,863,TARO,栃木県,1972,U,栃木県,2737,YASUNA,栃木県,0,,-
-EMPRESS,Go Beyond!!,540,CHOBB,栃木県,1051,PDIDDY,栃木県,1652,A1C11,栃木県,2230,HERMIT,栃木県,0,,-
-EMPRESS,Fly Above,0,,-,954,XYZ,栃木県,1616,KOZI04,栃木県,2032,SLEEPY,栃木県,0,,-
-EMPRESS,Flash Back 90's,0,,-,755,SRKR,栃木県,1735,PDIDDY,栃木県,2334,SLEEPY,栃木県,2887,SLEEPY,栃木県
-EMPRESS,Cyber Force -DJ Yoshitaka Remix-,0,,-,1025,SMILE*,栃木県,1792,XELPHA,栃木県,2519,SLEEPY,栃木県,0,,-
-EMPRESS,Colorful Cookie,653,M-ZERO,栃木県,1003,YU,栃木県,2222,GF8300,栃木県,3525,HERMIT,栃木県,0,,-
-EMPRESS,CaptivAte2～覚醒～,246,AL1$A.,栃木県,1078,FLB,栃木県,1617,E.XIA,栃木県,2417,SLEEPY,栃木県,0,,-
-EMPRESS,BRIDAL FESTIVAL !!!,0,,-,790,KONO,栃木県,1451,PDIDDY,栃木県,2142,SLEEPY,栃木県,0,,-
-EMPRESS,BITTER CHOCOLATE STRIKER,0,,-,1110,SLEEPY,栃木県,2244,SLEEPY,栃木県,3942,HERMIT,栃木県,0,,-
-EMPRESS,Bahram Attack-猫叉Master Remix-,0,,-,1062,SENJU.,栃木県,1912,777,栃木県,2620,SLEEPY,栃木県,3254,SLEEPY,栃木県
-EMPRESS,B4U(BEMANI FOR YOU MIX),0,,-,1130,SMILE*,栃木県,2269,777,栃木県,3577,SLEEPY,栃木県,4620,HERMIT,栃木県
-EMPRESS,Arabian Rave Night,0,,-,1149,YUNE,栃木県,2169,MILA,栃木県,2948,SLEEPY,栃木県,3680,HERMIT,栃木県
-EMPRESS,ALL MY TURN -このターンに、オレの全てを賭ける-,0,,-,891,JURY,栃木県,1737,U,栃木県,2597,HERMIT,栃木県,0,,-
-EMPRESS,ALL I NEED YOUR LOVE,0,,-,840,LATTE,栃木県,1617,PDIDDY,栃木県,2125,SLEEPY,栃木県,0,,-
-EMPRESS,3y3s,500,TARO,栃木県,1441,TASSO*,栃木県,2435,1234,栃木県,3575,HERMIT,栃木県,0,,-
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,808,TASSO*,栃木県,2026,CLL,栃木県,3454,HERMIT,栃木県,0,,-
+Resort Anthem,灼熱Beach Side Bunny,566,PAERIA,栃木県,1071,PDIDDY,栃木県,2001,SLEEPY,栃木県,3011,SLEEPY,栃木県,0,,-
+Resort Anthem,旅人リラン,0,,-,1104,SMILE*,栃木県,1849,MINATO,栃木県,2645,SLEEPY,栃木県,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,774,TA58KI,栃木県,1965,XELPHA,栃木県,2824,HERMIT,栃木県,0,,-
+Resort Anthem,中華急行,0,,-,327,TASSO*,栃木県,1519,SENJU.,栃木県,2323,SLEEPY,栃木県,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,515,M-ZERO,栃木県,678,JYUSU,栃木県,1322,10.,栃木県,1866,FLB,栃木県,0,,-
+Resort Anthem,おおきなこえで,0,,-,324,KANON*,栃木県,971,TASSO*,栃木県,1463,MINATO,栃木県,2161,HERMIT,栃木県
+Resort Anthem,ZETA～素数の世界と超越者～,317,M-ZERO,栃木県,546,H.S,栃木県,2037,MINATO,栃木県,3081,SLEEPY,栃木県,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,920,RAVEN,栃木県,1695,PDIDDY,栃木県,2749,SLEEPY,栃木県,0,,-
+Resort Anthem,Wuv U,0,,-,403,SMILE*,栃木県,1245,R*,栃木県,1713,HERMIT,栃木県,0,,-
+Resort Anthem,WISE UP!,332,M-ZERO,栃木県,478,FLB,栃木県,1117,PDIDDY,栃木県,1574,GA9BRU,栃木県,2613,SLEEPY,栃木県
+Resort Anthem,Watch Out Pt.2,0,,-,1098,TASSO*,栃木県,1899,XELPHA,栃木県,2786,SLEEPY,栃木県,0,,-
+Resort Anthem,Vermillion,0,,-,0,,-,1108,PDIDDY,栃木県,2053,SLEEPY,栃木県,0,,-
+Resort Anthem,Tropical April,0,,-,1551,PDIDDY,栃木県,2245,MILA,栃木県,2748,HERMIT,栃木県,0,,-
+Resort Anthem,THE FALLEN,0,,-,911,TASSO*,栃木県,1415,TASSO*,栃木県,2711,HERMIT,栃木県,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,699,SANRIN,栃木県,1625,E.XIA,栃木県,2183,HERMIT,栃木県,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,884,SMILE*,栃木県,2013,A1C11,栃木県,2926,SLEEPY,栃木県,0,,-
+Resort Anthem,STELLAR WIND,372,PAERIA,栃木県,459,INPLS,栃木県,1716,XIAO*,栃木県,2699,HERMIT,栃木県,0,,-
+Resort Anthem,Stay my side,0,,-,381,VIOLA.,栃木県,1061,TASSO*,栃木県,1345,DAIMON,栃木県,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,700,FLB,栃木県,1607,MINATO,栃木県,2991,SLEEPY,栃木県,0,,-
+Resort Anthem,Space Time,0,,-,461,JESUS,栃木県,1617,FLB,栃木県,2195,HERMIT,栃木県,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,763,44TAKA,栃木県,2348,539LO,栃木県,3645,HERMIT,栃木県,0,,-
+Resort Anthem,sakura storm,0,,-,1024,SMILE*,栃木県,1318,WRT?,栃木県,2428,HERMIT,栃木県,0,,-
+Resort Anthem,Sakura Reflection,0,,-,477,TASSO*,栃木県,1600,GF8300,栃木県,2370,SLEEPY,栃木県,0,,-
+Resort Anthem,SABER WING,0,,-,504,NASU,栃木県,1822,L393,栃木県,2824,HERMIT,栃木県,0,,-
+Resort Anthem,Rock Da House,0,,-,800,NASU,栃木県,1566,PDIDDY,栃木県,2237,SLEEPY,栃木県,0,,-
+Resort Anthem,reunion,557,44TAKA,栃木県,1359,GF8300,栃木県,2446,SLEEPY,栃木県,3236,SLEEPY,栃木県,0,,-
+Resort Anthem,Programmed Life,0,,-,1015,MO2KIN,栃木県,1635,XIAO*,栃木県,2366,SLEEPY,栃木県,0,,-
+Resort Anthem,perditus†paradisus,0,,-,1227,MINATO,栃木県,2395,L393,栃木県,3906,HERMIT,栃木県,0,,-
+Resort Anthem,passionate fate,0,,-,1125,SMILE*,栃木県,1591,YUKKO!,栃木県,2129,SLEEPY,栃木県,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1295,PDIDDY,栃木県,2333,SLEEPY,栃木県,3384,HERMIT,栃木県,0,,-
+Resort Anthem,New Castle Legions,0,,-,916,FLB,栃木県,1891,XELPHA,栃木県,2752,SLEEPY,栃木県,0,,-
+Resort Anthem,Never Fade Away,0,,-,790,1SHI8,栃木県,1721,SENJU.,栃木県,3034,HERMIT,栃木県,0,,-
+Resort Anthem,Mermaid girl,550,CHOBB,栃木県,976,TASSO*,栃木県,1689,XELPHA,栃木県,2220,SLEEPY,栃木県,0,,-
+Resort Anthem,Medicine of love,0,,-,639,CHOBB,栃木県,1105,SENJU.,栃木県,1731,SLEEPY,栃木県,0,,-
+Resort Anthem,Let The Track Flow,0,,-,1012,H.S,栃木県,1784,MINATO,栃木県,2661,HERMIT,栃木県,0,,-
+Resort Anthem,Kailua,0,,-,505,WRT?,栃木県,1350,XELPHA,栃木県,2188,SLEEPY,栃木県,0,,-
+Resort Anthem,I FIGHT ME,0,,-,581,CODER,栃木県,1418,SENJU.,栃木県,2128,DAIKI.,栃木県,0,,-
+Resort Anthem,Golden Palms,0,,-,721,SMILE*,栃木県,1376,1SHI8,栃木県,2030,SLEEPY,栃木県,2388,FL4V1A,栃木県
+Resort Anthem,Fantasia,226,TECH!O,栃木県,401,TASSO*,栃木県,1528,DJMAAX,栃木県,2240,SLEEPY,栃木県,0,,-
+Resort Anthem,Everlasting Resort,0,,-,870,44TAKA,栃木県,1302,HIRO&C,栃木県,1895,SLEEPY,栃木県,0,,-
+Resort Anthem,Eternal Tears,0,,-,421,CHOBB,栃木県,1085,NAGON,栃木県,1373,SLEEPY,栃木県,0,,-
+Resort Anthem,Energy Drive,0,,-,884,44TAKA,栃木県,1424,1SHI8,栃木県,2204,SLEEPY,栃木県,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,1100,FLB,栃木県,1858,KAGOME,栃木県,2400,SLEEPY,栃木県,0,,-
+Resort Anthem,Destiny Sword,0,,-,708,JYUSU,栃木県,1703,PDIDDY,栃木県,2396,SLEEPY,栃木県,0,,-
+Resort Anthem,DAYDREAMER,0,,-,1048,KRDR*C,栃木県,1747,DAIKI.,栃木県,2529,HERMIT,栃木県,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,1405,PDIDDY,栃木県,2197,MINATO,栃木県,3111,YASUNA,栃木県,4045,YASUNA,栃木県
+Resort Anthem,BROKEN EDEN,0,,-,1026,FLB,栃木県,1707,PDIDDY,栃木県,2339,SLEEPY,栃木県,0,,-
+Resort Anthem,Broken,0,,-,1043,TASSO*,栃木県,1995,CLL,栃木県,3170,SLEEPY,栃木県,0,,-
+Resort Anthem,Breaking the ground,0,,-,1135,SMILE*,栃木県,1719,5MOON*,栃木県,2514,DAIMON,栃木県,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,914,NASU,栃木県,1682,777,栃木県,2453,SLEEPY,栃木県,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,815,44TAKA,栃木県,1474,0,栃木県,2109,DAIMON,栃木県,2609,HERMIT,栃木県
+Resort Anthem,Believe In Me,0,,-,1005,SMILE*,栃木県,1737,XIAO*,栃木県,2401,SLEEPY,栃木県,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,951,44TAKA,栃木県,1869,WIZARD,栃木県,2958,SLEEPY,栃木県,0,,-
+Resort Anthem,Answer,0,,-,700,RYUDRA,栃木県,1435,N-NBR7,栃木県,2433,SLEEPY,栃木県,0,,-
+Resort Anthem,ALBIDA,533,SENJU.,栃木県,1051,R*,栃木県,1908,XELPHA,栃木県,3038,HERMIT,栃木県,0,,-
+Resort Anthem,Aegis,0,,-,891,44TAKA,栃木県,1356,FLB,栃木県,2335,SLEEPY,栃木県,0,,-
 Lincle,陽炎,0,,-,499,IZAYOI,栃木県,1141,TASSO*,栃木県,2009,SLEEPY,栃木県,0,,-
 Lincle,衰色小町メランコリア,0,,-,793,TASSO*,栃木県,1389,PDIDDY,栃木県,2364,SLEEPY,栃木県,0,,-
 Lincle,蛇神,401,CHOBB,栃木県,722,FLB,栃木県,1498,TASSO*,栃木県,2822,SLEEPY,栃木県,0,,-
@@ -582,63 +639,6 @@ Lincle,ANAGRAMS I to Y,0,,-,900,ANABB,栃木県,1643,XELPHA,栃木県,2476,DAIMO
 Lincle,Almace,0,,-,852,44TAKA,栃木県,1311,XELPHA,栃木県,2009,SLEEPY,栃木県,0,,-
 Lincle,532nm,0,,-,493,TARO,栃木県,1239,PDIDDY,栃木県,2682,HERMIT,栃木県,0,,-
 Lincle,24th Century BOY,0,,-,758,LATTE,栃木県,1846,PDIDDY,栃木県,2871,SLEEPY,栃木県,0,,-
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,808,TASSO*,栃木県,2026,CLL,栃木県,3454,HERMIT,栃木県,0,,-
-Resort Anthem,灼熱Beach Side Bunny,566,PAERIA,栃木県,1071,PDIDDY,栃木県,2001,SLEEPY,栃木県,3011,SLEEPY,栃木県,0,,-
-Resort Anthem,旅人リラン,0,,-,1104,SMILE*,栃木県,1849,MINATO,栃木県,2645,SLEEPY,栃木県,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,774,TA58KI,栃木県,1965,XELPHA,栃木県,2824,HERMIT,栃木県,0,,-
-Resort Anthem,中華急行,0,,-,327,TASSO*,栃木県,1519,SENJU.,栃木県,2323,SLEEPY,栃木県,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,515,M-ZERO,栃木県,678,JYUSU,栃木県,1322,10.,栃木県,1866,FLB,栃木県,0,,-
-Resort Anthem,おおきなこえで,0,,-,324,KANON*,栃木県,971,TASSO*,栃木県,1463,MINATO,栃木県,2161,HERMIT,栃木県
-Resort Anthem,ZETA～素数の世界と超越者～,317,M-ZERO,栃木県,546,H.S,栃木県,2037,MINATO,栃木県,3081,SLEEPY,栃木県,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,920,RAVEN,栃木県,1695,PDIDDY,栃木県,2749,SLEEPY,栃木県,0,,-
-Resort Anthem,Wuv U,0,,-,403,SMILE*,栃木県,1245,R*,栃木県,1713,HERMIT,栃木県,0,,-
-Resort Anthem,WISE UP!,332,M-ZERO,栃木県,478,FLB,栃木県,1117,PDIDDY,栃木県,1574,GA9BRU,栃木県,2613,SLEEPY,栃木県
-Resort Anthem,Watch Out Pt.2,0,,-,1098,TASSO*,栃木県,1899,XELPHA,栃木県,2786,SLEEPY,栃木県,0,,-
-Resort Anthem,Vermillion,0,,-,0,,-,1108,PDIDDY,栃木県,2053,SLEEPY,栃木県,0,,-
-Resort Anthem,Tropical April,0,,-,1551,PDIDDY,栃木県,2245,MILA,栃木県,2748,HERMIT,栃木県,0,,-
-Resort Anthem,THE FALLEN,0,,-,911,TASSO*,栃木県,1415,TASSO*,栃木県,2711,HERMIT,栃木県,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,699,SANRIN,栃木県,1625,E.XIA,栃木県,2183,HERMIT,栃木県,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,884,SMILE*,栃木県,2013,A1C11,栃木県,2926,SLEEPY,栃木県,0,,-
-Resort Anthem,STELLAR WIND,372,PAERIA,栃木県,459,INPLS,栃木県,1716,XIAO*,栃木県,2699,HERMIT,栃木県,0,,-
-Resort Anthem,Stay my side,0,,-,381,VIOLA.,栃木県,1061,TASSO*,栃木県,1345,DAIMON,栃木県,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,700,FLB,栃木県,1607,MINATO,栃木県,2991,SLEEPY,栃木県,0,,-
-Resort Anthem,Space Time,0,,-,461,JESUS,栃木県,1617,FLB,栃木県,2195,HERMIT,栃木県,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,763,44TAKA,栃木県,2348,539LO,栃木県,3645,HERMIT,栃木県,0,,-
-Resort Anthem,sakura storm,0,,-,1024,SMILE*,栃木県,1318,WRT?,栃木県,2428,HERMIT,栃木県,0,,-
-Resort Anthem,Sakura Reflection,0,,-,477,TASSO*,栃木県,1600,GF8300,栃木県,2370,SLEEPY,栃木県,0,,-
-Resort Anthem,SABER WING,0,,-,504,NASU,栃木県,1822,L393,栃木県,2824,HERMIT,栃木県,0,,-
-Resort Anthem,Rock Da House,0,,-,800,NASU,栃木県,1566,PDIDDY,栃木県,2237,SLEEPY,栃木県,0,,-
-Resort Anthem,reunion,557,44TAKA,栃木県,1359,GF8300,栃木県,2446,SLEEPY,栃木県,3236,SLEEPY,栃木県,0,,-
-Resort Anthem,Programmed Life,0,,-,1015,MO2KIN,栃木県,1635,XIAO*,栃木県,2366,SLEEPY,栃木県,0,,-
-Resort Anthem,perditus†paradisus,0,,-,1227,MINATO,栃木県,2395,L393,栃木県,3906,HERMIT,栃木県,0,,-
-Resort Anthem,passionate fate,0,,-,1125,SMILE*,栃木県,1591,YUKKO!,栃木県,2129,SLEEPY,栃木県,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1295,PDIDDY,栃木県,2333,SLEEPY,栃木県,3384,HERMIT,栃木県,0,,-
-Resort Anthem,New Castle Legions,0,,-,916,FLB,栃木県,1891,XELPHA,栃木県,2752,SLEEPY,栃木県,0,,-
-Resort Anthem,Never Fade Away,0,,-,790,1SHI8,栃木県,1721,SENJU.,栃木県,3034,HERMIT,栃木県,0,,-
-Resort Anthem,Mermaid girl,550,CHOBB,栃木県,976,TASSO*,栃木県,1689,XELPHA,栃木県,2220,SLEEPY,栃木県,0,,-
-Resort Anthem,Medicine of love,0,,-,639,CHOBB,栃木県,1105,SENJU.,栃木県,1731,SLEEPY,栃木県,0,,-
-Resort Anthem,Let The Track Flow,0,,-,1012,H.S,栃木県,1784,MINATO,栃木県,2661,HERMIT,栃木県,0,,-
-Resort Anthem,Kailua,0,,-,505,WRT?,栃木県,1350,XELPHA,栃木県,2188,SLEEPY,栃木県,0,,-
-Resort Anthem,I FIGHT ME,0,,-,581,CODER,栃木県,1418,SENJU.,栃木県,2128,DAIKI.,栃木県,0,,-
-Resort Anthem,Golden Palms,0,,-,721,SMILE*,栃木県,1376,1SHI8,栃木県,2030,SLEEPY,栃木県,2388,FL4V1A,栃木県
-Resort Anthem,Fantasia,226,TECH!O,栃木県,401,TASSO*,栃木県,1528,DJMAAX,栃木県,2240,SLEEPY,栃木県,0,,-
-Resort Anthem,Everlasting Resort,0,,-,870,44TAKA,栃木県,1302,HIRO&C,栃木県,1895,SLEEPY,栃木県,0,,-
-Resort Anthem,Eternal Tears,0,,-,421,CHOBB,栃木県,1085,NAGON,栃木県,1373,SLEEPY,栃木県,0,,-
-Resort Anthem,Energy Drive,0,,-,884,44TAKA,栃木県,1424,1SHI8,栃木県,2204,SLEEPY,栃木県,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,1100,FLB,栃木県,1858,KAGOME,栃木県,2400,SLEEPY,栃木県,0,,-
-Resort Anthem,Destiny Sword,0,,-,708,JYUSU,栃木県,1703,PDIDDY,栃木県,2396,SLEEPY,栃木県,0,,-
-Resort Anthem,DAYDREAMER,0,,-,1048,KRDR*C,栃木県,1747,DAIKI.,栃木県,2529,HERMIT,栃木県,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,1405,PDIDDY,栃木県,2197,MINATO,栃木県,3111,YASUNA,栃木県,4045,YASUNA,栃木県
-Resort Anthem,BROKEN EDEN,0,,-,1026,FLB,栃木県,1707,PDIDDY,栃木県,2339,SLEEPY,栃木県,0,,-
-Resort Anthem,Broken,0,,-,1043,TASSO*,栃木県,1995,CLL,栃木県,3170,SLEEPY,栃木県,0,,-
-Resort Anthem,Breaking the ground,0,,-,1135,SMILE*,栃木県,1719,5MOON*,栃木県,2514,DAIMON,栃木県,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,914,NASU,栃木県,1682,777,栃木県,2453,SLEEPY,栃木県,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,815,44TAKA,栃木県,1474,0,栃木県,2109,DAIMON,栃木県,2609,HERMIT,栃木県
-Resort Anthem,Believe In Me,0,,-,1005,SMILE*,栃木県,1737,XIAO*,栃木県,2401,SLEEPY,栃木県,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,951,44TAKA,栃木県,1869,WIZARD,栃木県,2958,SLEEPY,栃木県,0,,-
-Resort Anthem,Answer,0,,-,700,RYUDRA,栃木県,1435,N-NBR7,栃木県,2433,SLEEPY,栃木県,0,,-
-Resort Anthem,ALBIDA,533,SENJU.,栃木県,1051,R*,栃木県,1908,XELPHA,栃木県,3038,HERMIT,栃木県,0,,-
-Resort Anthem,Aegis,0,,-,891,44TAKA,栃木県,1356,FLB,栃木県,2335,SLEEPY,栃木県,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,830,CHOBB,栃木県,1695,SLEEPY,栃木県,3005,HERMIT,栃木県,3375,SLEEPY,栃木県
 tricoro,音楽,0,,-,861,TASSO*,栃木県,1903,NAGON,栃木県,2788,SLEEPY,栃木県,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,1213,44TAKA,栃木県,2435,XELPHA,栃木県,3666,HERMIT,栃木県,0,,-
@@ -1321,103 +1321,6 @@ HEROIC VERSE,And-RoiD,0,,-,693,K*KUMA,栃木県,1282,XELPHA,栃木県,1982,26,�
 HEROIC VERSE,AKASHIC BREAK,0,,-,1243,FLB,栃木県,2320,XELPHA,栃木県,3597,HERMIT,栃木県,0,,-
 HEROIC VERSE,Advent Infamous,0,,-,895,DAM,栃木県,1631,FLB,栃木県,2858,SLEEPY,栃木県,0,,-
 HEROIC VERSE,27th style,0,,-,1134,44TAKA,栃木県,1714,RYO-XI,栃木県,2535,HERMIT,栃木県,0,,-
-CastHour,黒紅掬い,0,,-,655,44TAKA,栃木県,1183,A2KI.2,栃木県,1827,HERMIT,栃木県,0,,-
-CastHour,青の洞窟,0,,-,873,TASSO*,栃木県,1970,XELPHA,栃木県,3152,SLEEPY,栃木県,0,,-
-CastHour,雪上断火,0,,-,923,H.S,栃木県,1826,MINATO,栃木県,2959,SLEEPY,栃木県,0,,-
-CastHour,逆月,0,,-,1422,PDIDDY,栃木県,2361,HERMIT,栃木県,3759,HERMIT,栃木県,0,,-
-CastHour,踊,184,PAERIA,栃木県,353,H.S,栃木県,814,TASSO*,栃木県,1623,SLEEPY,栃木県,2084,SLEEPY,栃木県
-CastHour,禊,0,,-,1066,FLB,栃木県,2152,1234,栃木県,3153,SLEEPY,栃木県,0,,-
-CastHour,烽火連天の刃,0,,-,1117,44TAKA,栃木県,2212,DJSENA,栃木県,3433,HERMIT,栃木県,0,,-
-CastHour,月とミルク,0,,-,984,FLB,栃木県,1583,XELPHA,栃木県,2792,HERMIT,栃木県,0,,-
-CastHour,愛しくてラヴィンユー ft. マナ,0,,-,739,SAIL,栃木県,1466,GF8300,栃木県,2389,SLEEPY,栃木県,0,,-
-CastHour,怪物,346,SLEEPY,栃木県,738,TASSO*,栃木県,1198,HIRO&C,栃木県,2407,HERMIT,栃木県,0,,-
-CastHour,天邪鬼,0,,-,920,INDIGO,栃木県,1713,XELPHA,栃木県,3319,HERMIT,栃木県,0,,-
-CastHour,口カラ凸ゲキ,0,,-,855,A2KI.2,栃木県,1435,PDIDDY,栃木県,2381,SLEEPY,栃木県,0,,-
-CastHour,ミュージック・アワー,534,PAERIA,栃木県,1158,KANATA,栃木県,2063,GF8300,栃木県,2990,SLEEPY,栃木県,0,,-
-CastHour,"ピアノ独奏無言歌 ""灰燼""",0,,-,1159,L393,栃木県,2398,SLEEPY,栃木県,3627,SLEEPY,栃木県,0,,-
-CastHour,ハイテックトキオ,0,,-,1021,HINE,栃木県,1869,XELPHA,栃木県,2630,YASUNA,栃木県,3225,SLEEPY,栃木県
-CastHour,ナイトフィクション,0,,-,495,AU,栃木県,1504,CLL,栃木県,2147,SLEEPY,栃木県,0,,-
-CastHour,デモーニッシュ,261,M-ZERO,栃木県,846,PAERIA,栃木県,1441,XELPHA,栃木県,2379,SLEEPY,栃木県,3099,SLEEPY,栃木県
-CastHour,シル・ヴ・プレジデント,292,WISRE,栃木県,649,TASSO*,栃木県,1212,HIRO&C,栃木県,1796,HERMIT,栃木県,2576,SLEEPY,栃木県
-CastHour,グッバイ宣言,564,H.S,栃木県,1074,FLB,栃木県,1769,GF8300,栃木県,3107,HERMIT,栃木県,0,,-
-CastHour,オールトの雲,0,,-,1135,R*ZERO,栃木県,1993,XELPHA,栃木県,2639,SLEEPY,栃木県,0,,-
-CastHour,オドループ,491,WISRE,栃木県,1091,TASSO*,栃木県,1531,R*,栃木県,2346,SLEEPY,栃木県,2996,TSKASA,栃木県
-CastHour,ウツシミウツシ,0,,-,1034,MMMMMM,栃木県,1963,PDIDDY,栃木県,3170,HERMIT,栃木県,0,,-
-CastHour,アクマフカ,0,,-,747,FLB,栃木県,1442,PDIDDY,栃木県,2288,SLEEPY,栃木県,0,,-
-CastHour,めでてえ,0,,-,1019,R*ZERO,栃木県,1656,GF8300,栃木県,2653,HERMIT,栃木県,0,,-
-CastHour,あいつら全員同窓会,351,AZKI,栃木県,606,HINE,栃木県,1174,5MOON*,栃木県,2034,SLEEPY,栃木県,0,,-
-CastHour,《GRANDMASTER》,0,,-,968,44TAKA,栃木県,1682,XIAO*,栃木県,2924,SLEEPY,栃木県,0,,-
-CastHour,Xyndrome,0,,-,949,FLB,栃木県,1631,XELPHA,栃木県,2916,SLEEPY,栃木県,0,,-
-CastHour,Wonderful Escape,0,,-,469,.TR,栃木県,1380,5MOON*,栃木県,2080,SLEEPY,栃木県,0,,-
-CastHour,WHA,0,,-,1175,PDIDDY,栃木県,2170,XELPHA,栃木県,3564,SLEEPY,栃木県,0,,-
-CastHour,VR - Virtual Reality (prod.by Snail's House),298,WISRE,栃木県,603,H.S,栃木県,1145,TASSO*,栃木県,1833,HERMIT,栃木県,2460,SLEEPY,栃木県
-CastHour,Votania Beat,0,,-,1034,S.TKNS,栃木県,1555,WIZARD,栃木県,2482,IIDX31,栃木県,0,,-
-CastHour,Victory Of Ravers,0,,-,808,SAIL,栃木県,1686,PDIDDY,栃木県,2580,SLEEPY,栃木県,0,,-
-CastHour,Ventriloquist,0,,-,491,OMAME*,栃木県,1490,XELPHA,栃木県,2429,SLEEPY,栃木県,0,,-
-CastHour,Triple Cross,586,PAERIA,栃木県,1107,DJSENA,栃木県,2257,XELPHA,栃木県,3301,HERMIT,栃木県,0,,-
-CastHour,TOMAHAWK,0,,-,1267,S.TKNS,栃木県,2381,HERMIT,栃木県,3455,HERMIT,栃木県,0,,-
-CastHour,Tail Lights,0,,-,1062,SMILE*,栃木県,1901,MINATO,栃木県,3116,SLEEPY,栃木県,0,,-
-CastHour,Stepper,0,,-,690,H.S,栃木県,1436,PDIDDY,栃木県,2189,SLEEPY,栃木県,0,,-
-CastHour,SPARK IN THE NIGHT,0,,-,863,HIRO&C,栃木県,1439,MINATO,栃木県,2269,HERMIT,栃木県,0,,-
-CastHour,Souhait bleu,0,,-,838,H.S,栃木県,1876,XELPHA,栃木県,2761,HERMIT,栃木県,0,,-
-CastHour,SOLID WYVERN,0,,-,1183,44TAKA,栃木県,1888,E.XIA,栃木県,2619,SLEEPY,栃木県,3913,HERMIT,栃木県
-CastHour,Smalt #28598F,0,,-,1036,H.S,栃木県,2264,XELPHA,栃木県,3377,HERMIT,栃木県,0,,-
-CastHour,Skreaming for Salvation,0,,-,821,FLB,栃木県,1869,WIZARD,栃木県,3080,FL4V1A,栃木県,0,,-
-CastHour,Silver Bullet,0,,-,1125,HIRO&C,栃木県,1940,A1C11,栃木県,3199,HERMIT,栃木県,0,,-
-CastHour,RAGE feat.H14 of LEONAIR,443,HIRO&C,栃木県,1058,S.TKNS,栃木県,2194,MINATO,栃木県,3428,SLEEPY,栃木県,0,,-
-CastHour,Push on Beats!～音ゲの国のeX-ストリーマー～,0,,-,1142,S.TKNS,栃木県,1883,XELPHA,栃木県,3369,SLEEPY,栃木県,0,,-
-CastHour,Purple Perplex,0,,-,1128,PDIDDY,栃木県,1846,XELPHA,栃木県,2974,SLEEPY,栃木県,0,,-
-CastHour,Prohibited Props,0,,-,885,CODER,栃木県,1511,XIAO*,栃木県,2265,SLEEPY,栃木県,0,,-
-CastHour,Pout,0,,-,953,PA2KIN,栃木県,1722,PDIDDY,栃木県,2606,HERMIT,栃木県,0,,-
-CastHour,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,433,RYO-XI,栃木県,1462,FLB,栃木県,2541,GF8300,栃木県,4470,HERMIT,栃木県,0,,-
-CastHour,PIRATES BLADE,0,,-,899,S.TKNS,栃木県,1482,KI4DA,栃木県,2152,DAIMON,栃木県,0,,-
-CastHour,P.O.W.E.R.,0,,-,984,SMILE*,栃木県,1644,IST-EL,栃木県,2337,SLEEPY,栃木県,0,,-
-CastHour,Onyx,0,,-,841,S.TKNS,栃木県,1467,MINATO,栃木県,2387,SLEEPY,栃木県,0,,-
-CastHour,One for All,0,,-,932,H.S,栃木県,1761,FL4V1A,栃木県,3150,SLEEPY,栃木県,0,,-
-CastHour,Non Stop Rock,0,,-,747,H.S,栃木県,1274,MINATO,栃木県,1879,HERMIT,栃木県,0,,-
-CastHour,Nocturnal 2097,0,,-,949,FLB,栃木県,1905,XELPHA,栃木県,2932,HERMIT,栃木県,0,,-
-CastHour,No Day But Today!,430,44TAKA,栃木県,512,SHIRO,栃木県,1229,TASSO*,栃木県,1978,SLEEPY,栃木県,0,,-
-CastHour,n/a,0,,-,1196,44TAKA,栃木県,1945,FL4V1A,栃木県,3483,SLEEPY,栃木県,0,,-
-CastHour,N.O.,0,,-,787,S.TKNS,栃木県,1448,10.,栃木県,2527,SLEEPY,栃木県,0,,-
-CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1596,PDIDDY,栃木県,2521,COLCA,栃木県,3861,HERMIT,栃木県,0,,-
-CastHour,Legendary Treasures,0,,-,1107,0R4N63,栃木県,1667,ZE2MAR,栃木県,2878,HERMIT,栃木県,0,,-
-CastHour,Lawes's Parotia,0,,-,856,H.S,栃木県,1696,GF8300,栃木県,2560,SLEEPY,栃木県,0,,-
-CastHour,kors k's How to make OTOGE CORE,0,,-,712,S.TKNS,栃木県,1468,CHOT6Q,栃木県,2322,SLEEPY,栃木県,0,,-
-CastHour,ILAYZA,0,,-,1111,INDIGO,栃木県,1925,MINATO,栃木県,2811,SLEEPY,栃木県,0,,-
-CastHour,HEARTACHE,0,,-,482,FLB,栃木県,1140,HIRO&C,栃木県,1829,SLEEPY,栃木県,0,,-
-CastHour,Hat Surprise,0,,-,561,JYUSU,栃木県,1589,XELPHA,栃木県,2452,SLEEPY,栃木県,0,,-
-CastHour,Harmonia,0,,-,711,HARUMI,栃木県,1200,TASSO*,栃木県,2023,HERMIT,栃木県,0,,-
-CastHour,hard-wired,0,,-,1558,MINATO,栃木県,2255,FLB,栃木県,3602,HERMIT,栃木県,0,,-
-CastHour,GRAVITON,0,,-,1146,S.TKNS,栃木県,2023,XELPHA,栃木県,3493,HERMIT,栃木県,0,,-
-CastHour,GiGaGaHell,0,,-,1326,FLB,栃木県,1923,MINATO,栃木県,3101,SLEEPY,栃木県,0,,-
-CastHour,"Get set, Go! feat.Kanae Asaba",0,,-,800,S.TKNS,栃木県,1391,XIAO*,栃木県,2125,HERMIT,栃木県,0,,-
-CastHour,Game Changers,0,,-,709,KANATA,栃木県,1417,MINATO,栃木県,2723,SLEEPY,栃木県,0,,-
-CastHour,Flying Castle,0,,-,1052,S.TKNS,栃木県,2186,RYO-XI,栃木県,3621,SLEEPY,栃木県,0,,-
-CastHour,FINALLY BLAZE,0,,-,725,LIZ,栃木県,1762,XELPHA,栃木県,2818,HERMIT,栃木県,0,,-
-CastHour,Fegrix,0,,-,1231,ZABTON,栃木県,2214,XELPHA,栃木県,3279,SLEEPY,栃木県,0,,-
-CastHour,Fantastic Merry-Go-Round,0,,-,1037,AZKI,栃木県,1458,TASSO*,栃木県,2114,SLEEPY,栃木県,0,,-
-CastHour,Ergosphere,0,,-,949,DDRMIX,栃木県,1795,XELPHA,栃木県,2720,SLEEPY,栃木県,0,,-
-CastHour,EMOTiON TRiPPER,0,,-,867,H.S,栃木県,1480,XELPHA,栃木県,2191,HERMIT,栃木県,0,,-
-CastHour,Emera,0,,-,774,CODER,栃木県,1577,1SHI8,栃木県,2324,SLEEPY,栃木県,0,,-
-CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1050,FLB,栃木県,1761,XELPHA,栃木県,2702,SLEEPY,栃木県,0,,-
-CastHour,Don't believe the hype,0,,-,1066,GON,栃木県,2190,XELPHA,栃木県,3176,SLEEPY,栃木県,0,,-
-CastHour,Divine Heaven,0,,-,810,JYUSU,栃木県,1934,XELPHA,栃木県,2982,HERMIT,栃木県,0,,-
-CastHour,DISPARATE,0,,-,1013,NAOTO,栃木県,1768,XELPHA,栃木県,2454,HERMIT,栃木県,0,,-
-CastHour,Brave Spirits,0,,-,703,S.TKNS,栃木県,1383,MINATO,栃木県,2437,SLEEPY,栃木県,0,,-
-CastHour,Blue Bird feat. Kanae Asaba,0,,-,485,VIOLA.,栃木県,1078,TASSO*,栃木県,1789,SLEEPY,栃木県,0,,-
-CastHour,Binary Black Hole,0,,-,1272,H.S,栃木県,2253,XELPHA,栃木県,3855,SLEEPY,栃木県,0,,-
-CastHour,Banger Banger Banger Banger,0,,-,878,HINE,栃木県,1732,M,栃木県,2947,HERMIT,栃木県,0,,-
-CastHour,Arkadia,0,,-,1170,SENJU.,栃木県,2086,XELPHA,栃木県,3699,HERMIT,栃木県,0,,-
-CastHour,Ariah,0,,-,707,44TAKA,栃木県,1484,44TAKA,栃木県,2174,HERMIT,栃木県,0,,-
-CastHour,Angel's Ladder,0,,-,1002,R*,栃木県,2088,MINATO,栃木県,3468,HERMIT,栃木県,0,,-
-CastHour,ANEMONE,221,SENJU.,栃木県,777,TASSO*,栃木県,1597,XELPHA,栃木県,2138,SLEEPY,栃木県,0,,-
-CastHour,AMICABLE,0,,-,986,S.TKNS,栃木県,1545,XIAO*,栃木県,2481,SLEEPY,栃木県,0,,-
-CastHour,ALTERNATOR,0,,-,1325,PDIDDY,栃木県,2471,XELPHA,栃木県,3748,HERMIT,栃木県,0,,-
-CastHour,Aftermath,0,,-,1163,H.S,栃木県,2334,SENJU.,栃木県,3612,HERMIT,栃木県,0,,-
-CastHour,ABSOLUTE EVIL,254,HIRO&C,栃木県,1109,XYZ,栃木県,2192,XELPHA,栃木県,3472,HERMIT,栃木県,0,,-
-CastHour,808monkey,0,,-,661,H.S,栃木県,1105,PDIDDY,栃木県,1808,SLEEPY,栃木県,0,,-
-CastHour,2 Beasts Unchained,0,,-,1402,10.,栃木県,2206,XELPHA,栃木県,3412,HERMIT,栃木県,0,,-
-CastHour,10000 MILES AWAY,0,,-,1041,BOTMJ*,栃木県,1645,XELPHA,栃木県,2950,HERMIT,栃木県,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,748,K*KUMA,栃木県,1653,GA9BRU,栃木県,2760,SLEEPY,栃木県,0,,-
 BISTROVER,霧幻メモリア,0,,-,787,LATTE,栃木県,1425,FLB,栃木県,2019,YASUNA,栃木県,0,,-
 BISTROVER,閠槞彁の願い,0,,-,961,HINE,栃木県,2042,XELPHA,栃木県,3112,HERMIT,栃木県,0,,-
@@ -1517,6 +1420,103 @@ BISTROVER,AMRITA -不滅ノ花-,0,,-,893,44TAKA,栃木県,1586,GF8300,栃木県,
 BISTROVER,Ah Hah Yeah,0,,-,669,K*KUMA,栃木県,1326,XELPHA,栃木県,2134,HERMIT,栃木県,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,870,DAM,栃木県,1493,XELPHA,栃木県,2621,SLEEPY,栃木県,0,,-
 BISTROVER,-65℃,0,,-,1387,N,栃木県,2186,CLL,栃木県,3736,HERMIT,栃木県,0,,-
+CastHour,黒紅掬い,0,,-,655,44TAKA,栃木県,1183,A2KI.2,栃木県,1827,HERMIT,栃木県,0,,-
+CastHour,青の洞窟,0,,-,873,TASSO*,栃木県,1970,XELPHA,栃木県,3152,SLEEPY,栃木県,0,,-
+CastHour,雪上断火,0,,-,923,H.S,栃木県,1826,MINATO,栃木県,2959,SLEEPY,栃木県,0,,-
+CastHour,逆月,0,,-,1422,PDIDDY,栃木県,2361,HERMIT,栃木県,3759,HERMIT,栃木県,0,,-
+CastHour,踊,184,PAERIA,栃木県,353,H.S,栃木県,814,TASSO*,栃木県,1623,SLEEPY,栃木県,2084,SLEEPY,栃木県
+CastHour,禊,0,,-,1066,FLB,栃木県,2152,1234,栃木県,3153,SLEEPY,栃木県,0,,-
+CastHour,烽火連天の刃,0,,-,1117,44TAKA,栃木県,2212,DJSENA,栃木県,3433,HERMIT,栃木県,0,,-
+CastHour,月とミルク,0,,-,984,FLB,栃木県,1583,XELPHA,栃木県,2792,HERMIT,栃木県,0,,-
+CastHour,愛しくてラヴィンユー ft. マナ,0,,-,739,SAIL,栃木県,1466,GF8300,栃木県,2389,SLEEPY,栃木県,0,,-
+CastHour,怪物,346,SLEEPY,栃木県,738,TASSO*,栃木県,1198,HIRO&C,栃木県,2407,HERMIT,栃木県,0,,-
+CastHour,天邪鬼,0,,-,920,INDIGO,栃木県,1713,XELPHA,栃木県,3319,HERMIT,栃木県,0,,-
+CastHour,口カラ凸ゲキ,0,,-,855,A2KI.2,栃木県,1435,PDIDDY,栃木県,2381,SLEEPY,栃木県,0,,-
+CastHour,ミュージック・アワー,534,PAERIA,栃木県,1158,KANATA,栃木県,2063,GF8300,栃木県,2990,SLEEPY,栃木県,0,,-
+CastHour,"ピアノ独奏無言歌 ""灰燼""",0,,-,1159,L393,栃木県,2398,SLEEPY,栃木県,3627,SLEEPY,栃木県,0,,-
+CastHour,ハイテックトキオ,0,,-,1021,HINE,栃木県,1869,XELPHA,栃木県,2630,YASUNA,栃木県,3225,SLEEPY,栃木県
+CastHour,ナイトフィクション,0,,-,495,AU,栃木県,1504,CLL,栃木県,2147,SLEEPY,栃木県,0,,-
+CastHour,デモーニッシュ,261,M-ZERO,栃木県,846,PAERIA,栃木県,1441,XELPHA,栃木県,2379,SLEEPY,栃木県,3099,SLEEPY,栃木県
+CastHour,シル・ヴ・プレジデント,292,WISRE,栃木県,649,TASSO*,栃木県,1212,HIRO&C,栃木県,1796,HERMIT,栃木県,2576,SLEEPY,栃木県
+CastHour,グッバイ宣言,564,H.S,栃木県,1074,FLB,栃木県,1769,GF8300,栃木県,3107,HERMIT,栃木県,0,,-
+CastHour,オールトの雲,0,,-,1135,R*ZERO,栃木県,1993,XELPHA,栃木県,2639,SLEEPY,栃木県,0,,-
+CastHour,オドループ,491,WISRE,栃木県,1091,TASSO*,栃木県,1531,R*,栃木県,2346,SLEEPY,栃木県,2996,TSKASA,栃木県
+CastHour,ウツシミウツシ,0,,-,1034,MMMMMM,栃木県,1963,PDIDDY,栃木県,3170,HERMIT,栃木県,0,,-
+CastHour,アクマフカ,0,,-,747,FLB,栃木県,1442,PDIDDY,栃木県,2288,SLEEPY,栃木県,0,,-
+CastHour,めでてえ,0,,-,1019,R*ZERO,栃木県,1656,GF8300,栃木県,2653,HERMIT,栃木県,0,,-
+CastHour,あいつら全員同窓会,351,AZKI,栃木県,606,HINE,栃木県,1174,5MOON*,栃木県,2034,SLEEPY,栃木県,0,,-
+CastHour,《GRANDMASTER》,0,,-,968,44TAKA,栃木県,1682,XIAO*,栃木県,2924,SLEEPY,栃木県,0,,-
+CastHour,Xyndrome,0,,-,949,FLB,栃木県,1631,XELPHA,栃木県,2916,SLEEPY,栃木県,0,,-
+CastHour,Wonderful Escape,0,,-,469,.TR,栃木県,1380,5MOON*,栃木県,2080,SLEEPY,栃木県,0,,-
+CastHour,WHA,0,,-,1175,PDIDDY,栃木県,2170,XELPHA,栃木県,3564,SLEEPY,栃木県,0,,-
+CastHour,VR - Virtual Reality (prod.by Snail's House),298,WISRE,栃木県,603,H.S,栃木県,1145,TASSO*,栃木県,1833,HERMIT,栃木県,2460,SLEEPY,栃木県
+CastHour,Votania Beat,0,,-,1034,S.TKNS,栃木県,1555,WIZARD,栃木県,2482,IIDX31,栃木県,0,,-
+CastHour,Victory Of Ravers,0,,-,808,SAIL,栃木県,1686,PDIDDY,栃木県,2580,SLEEPY,栃木県,0,,-
+CastHour,Ventriloquist,0,,-,491,OMAME*,栃木県,1490,XELPHA,栃木県,2429,SLEEPY,栃木県,0,,-
+CastHour,Triple Cross,586,PAERIA,栃木県,1107,DJSENA,栃木県,2257,XELPHA,栃木県,3301,HERMIT,栃木県,0,,-
+CastHour,TOMAHAWK,0,,-,1267,S.TKNS,栃木県,2381,HERMIT,栃木県,3455,HERMIT,栃木県,0,,-
+CastHour,Tail Lights,0,,-,1062,SMILE*,栃木県,1901,MINATO,栃木県,3116,SLEEPY,栃木県,0,,-
+CastHour,Stepper,0,,-,690,H.S,栃木県,1436,PDIDDY,栃木県,2189,SLEEPY,栃木県,0,,-
+CastHour,SPARK IN THE NIGHT,0,,-,863,HIRO&C,栃木県,1439,MINATO,栃木県,2269,HERMIT,栃木県,0,,-
+CastHour,Souhait bleu,0,,-,838,H.S,栃木県,1876,XELPHA,栃木県,2761,HERMIT,栃木県,0,,-
+CastHour,SOLID WYVERN,0,,-,1183,44TAKA,栃木県,1888,E.XIA,栃木県,2619,SLEEPY,栃木県,3913,HERMIT,栃木県
+CastHour,Smalt #28598F,0,,-,1036,H.S,栃木県,2264,XELPHA,栃木県,3377,HERMIT,栃木県,0,,-
+CastHour,Skreaming for Salvation,0,,-,821,FLB,栃木県,1869,WIZARD,栃木県,3080,FL4V1A,栃木県,0,,-
+CastHour,Silver Bullet,0,,-,1125,HIRO&C,栃木県,1940,A1C11,栃木県,3199,HERMIT,栃木県,0,,-
+CastHour,RAGE feat.H14 of LEONAIR,443,HIRO&C,栃木県,1058,S.TKNS,栃木県,2194,MINATO,栃木県,3428,SLEEPY,栃木県,0,,-
+CastHour,Push on Beats!～音ゲの国のeX-ストリーマー～,0,,-,1142,S.TKNS,栃木県,1883,XELPHA,栃木県,3369,SLEEPY,栃木県,0,,-
+CastHour,Purple Perplex,0,,-,1128,PDIDDY,栃木県,1846,XELPHA,栃木県,2974,SLEEPY,栃木県,0,,-
+CastHour,Prohibited Props,0,,-,885,CODER,栃木県,1511,XIAO*,栃木県,2265,SLEEPY,栃木県,0,,-
+CastHour,Pout,0,,-,953,PA2KIN,栃木県,1722,PDIDDY,栃木県,2606,HERMIT,栃木県,0,,-
+CastHour,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,433,RYO-XI,栃木県,1462,FLB,栃木県,2541,GF8300,栃木県,4470,HERMIT,栃木県,0,,-
+CastHour,PIRATES BLADE,0,,-,899,S.TKNS,栃木県,1482,KI4DA,栃木県,2152,DAIMON,栃木県,0,,-
+CastHour,P.O.W.E.R.,0,,-,984,SMILE*,栃木県,1644,IST-EL,栃木県,2337,SLEEPY,栃木県,0,,-
+CastHour,Onyx,0,,-,841,S.TKNS,栃木県,1467,MINATO,栃木県,2387,SLEEPY,栃木県,0,,-
+CastHour,One for All,0,,-,932,H.S,栃木県,1761,FL4V1A,栃木県,3150,SLEEPY,栃木県,0,,-
+CastHour,Non Stop Rock,0,,-,747,H.S,栃木県,1274,MINATO,栃木県,1879,HERMIT,栃木県,0,,-
+CastHour,Nocturnal 2097,0,,-,949,FLB,栃木県,1905,XELPHA,栃木県,2932,HERMIT,栃木県,0,,-
+CastHour,No Day But Today!,430,44TAKA,栃木県,512,SHIRO,栃木県,1229,TASSO*,栃木県,1978,SLEEPY,栃木県,0,,-
+CastHour,n/a,0,,-,1196,44TAKA,栃木県,1945,FL4V1A,栃木県,3483,SLEEPY,栃木県,0,,-
+CastHour,N.O.,0,,-,787,S.TKNS,栃木県,1448,10.,栃木県,2527,SLEEPY,栃木県,0,,-
+CastHour,LIVE DRIVING!! feat. 花たん,0,,-,1596,PDIDDY,栃木県,2521,COLCA,栃木県,3861,HERMIT,栃木県,0,,-
+CastHour,Legendary Treasures,0,,-,1107,0R4N63,栃木県,1667,ZE2MAR,栃木県,2878,HERMIT,栃木県,0,,-
+CastHour,Lawes's Parotia,0,,-,856,H.S,栃木県,1696,GF8300,栃木県,2560,SLEEPY,栃木県,0,,-
+CastHour,kors k's How to make OTOGE CORE,0,,-,712,S.TKNS,栃木県,1468,CHOT6Q,栃木県,2322,SLEEPY,栃木県,0,,-
+CastHour,ILAYZA,0,,-,1111,INDIGO,栃木県,1925,MINATO,栃木県,2811,SLEEPY,栃木県,0,,-
+CastHour,HEARTACHE,0,,-,482,FLB,栃木県,1140,HIRO&C,栃木県,1829,SLEEPY,栃木県,0,,-
+CastHour,Hat Surprise,0,,-,561,JYUSU,栃木県,1589,XELPHA,栃木県,2452,SLEEPY,栃木県,0,,-
+CastHour,Harmonia,0,,-,711,HARUMI,栃木県,1200,TASSO*,栃木県,2023,HERMIT,栃木県,0,,-
+CastHour,hard-wired,0,,-,1558,MINATO,栃木県,2255,FLB,栃木県,3602,HERMIT,栃木県,0,,-
+CastHour,GRAVITON,0,,-,1146,S.TKNS,栃木県,2023,XELPHA,栃木県,3493,HERMIT,栃木県,0,,-
+CastHour,GiGaGaHell,0,,-,1326,FLB,栃木県,1923,MINATO,栃木県,3101,SLEEPY,栃木県,0,,-
+CastHour,"Get set, Go! feat.Kanae Asaba",0,,-,800,S.TKNS,栃木県,1391,XIAO*,栃木県,2125,HERMIT,栃木県,0,,-
+CastHour,Game Changers,0,,-,709,KANATA,栃木県,1417,MINATO,栃木県,2723,SLEEPY,栃木県,0,,-
+CastHour,Flying Castle,0,,-,1052,S.TKNS,栃木県,2186,RYO-XI,栃木県,3621,SLEEPY,栃木県,0,,-
+CastHour,FINALLY BLAZE,0,,-,725,LIZ,栃木県,1762,XELPHA,栃木県,2818,HERMIT,栃木県,0,,-
+CastHour,Fegrix,0,,-,1231,ZABTON,栃木県,2214,XELPHA,栃木県,3279,SLEEPY,栃木県,0,,-
+CastHour,Fantastic Merry-Go-Round,0,,-,1037,AZKI,栃木県,1458,TASSO*,栃木県,2114,SLEEPY,栃木県,0,,-
+CastHour,Ergosphere,0,,-,949,DDRMIX,栃木県,1795,XELPHA,栃木県,2720,SLEEPY,栃木県,0,,-
+CastHour,EMOTiON TRiPPER,0,,-,867,H.S,栃木県,1480,XELPHA,栃木県,2191,HERMIT,栃木県,0,,-
+CastHour,Emera,0,,-,774,CODER,栃木県,1577,1SHI8,栃木県,2324,SLEEPY,栃木県,0,,-
+CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,1050,FLB,栃木県,1761,XELPHA,栃木県,2702,SLEEPY,栃木県,0,,-
+CastHour,Don't believe the hype,0,,-,1066,GON,栃木県,2190,XELPHA,栃木県,3176,SLEEPY,栃木県,0,,-
+CastHour,Divine Heaven,0,,-,810,JYUSU,栃木県,1934,XELPHA,栃木県,2982,HERMIT,栃木県,0,,-
+CastHour,DISPARATE,0,,-,1013,NAOTO,栃木県,1768,XELPHA,栃木県,2454,HERMIT,栃木県,0,,-
+CastHour,Brave Spirits,0,,-,703,S.TKNS,栃木県,1383,MINATO,栃木県,2437,SLEEPY,栃木県,0,,-
+CastHour,Blue Bird feat. Kanae Asaba,0,,-,485,VIOLA.,栃木県,1078,TASSO*,栃木県,1789,SLEEPY,栃木県,0,,-
+CastHour,Binary Black Hole,0,,-,1272,H.S,栃木県,2253,XELPHA,栃木県,3855,SLEEPY,栃木県,0,,-
+CastHour,Banger Banger Banger Banger,0,,-,878,HINE,栃木県,1732,M,栃木県,2947,HERMIT,栃木県,0,,-
+CastHour,Arkadia,0,,-,1170,SENJU.,栃木県,2086,XELPHA,栃木県,3699,HERMIT,栃木県,0,,-
+CastHour,Ariah,0,,-,707,44TAKA,栃木県,1484,44TAKA,栃木県,2174,HERMIT,栃木県,0,,-
+CastHour,Angel's Ladder,0,,-,1002,R*,栃木県,2088,MINATO,栃木県,3468,HERMIT,栃木県,0,,-
+CastHour,ANEMONE,221,SENJU.,栃木県,777,TASSO*,栃木県,1597,XELPHA,栃木県,2138,SLEEPY,栃木県,0,,-
+CastHour,AMICABLE,0,,-,986,S.TKNS,栃木県,1545,XIAO*,栃木県,2481,SLEEPY,栃木県,0,,-
+CastHour,ALTERNATOR,0,,-,1325,PDIDDY,栃木県,2471,XELPHA,栃木県,3748,HERMIT,栃木県,0,,-
+CastHour,Aftermath,0,,-,1163,H.S,栃木県,2334,SENJU.,栃木県,3612,HERMIT,栃木県,0,,-
+CastHour,ABSOLUTE EVIL,254,HIRO&C,栃木県,1109,XYZ,栃木県,2192,XELPHA,栃木県,3472,HERMIT,栃木県,0,,-
+CastHour,808monkey,0,,-,661,H.S,栃木県,1105,PDIDDY,栃木県,1808,SLEEPY,栃木県,0,,-
+CastHour,2 Beasts Unchained,0,,-,1402,10.,栃木県,2206,XELPHA,栃木県,3412,HERMIT,栃木県,0,,-
+CastHour,10000 MILES AWAY,0,,-,1041,BOTMJ*,栃木県,1645,XELPHA,栃木県,2950,HERMIT,栃木県,0,,-
 RESIDENT,響花水月,0,,-,1138,TASSO*,栃木県,1904,XELPHA,栃木県,2928,SLEEPY,栃木県,0,,-
 RESIDENT,雨のちパノラマセカイ,0,,-,817,44TAKA,栃木県,1403,XIAO*,栃木県,2212,SLEEPY,栃木県,0,,-
 RESIDENT,輪廻の鴉,0,,-,994,XYZ,栃木県,1766,FLB,栃木県,2777,HERMIT,栃木県,0,,-

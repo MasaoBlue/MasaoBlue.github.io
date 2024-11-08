@@ -1,11 +1,4 @@
 バージョン,タイトル,BEGINNER EXスコア,BEGINNER DJName,BEGINNER 都道府県,NORMAL EXスコア,NORMAL DJName,NORMAL 都道府県,HYPER EXスコア,HYPER DJName,HYPER 都道府県,ANOTHER EXスコア,ANOTHER DJName,ANOTHER 都道府県,LEGGENDARIA EXスコア,LEGGENDARIA DJName,LEGGENDARIA 都道府県
-2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,0,,-,290,RONNIE,フィリピン,601,PU.,フィリピン,0,,-
-2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,391,ELVIRA,フィリピン,781,HIMIKO,フィリピン,0,,-,0,,-
-2nd style,Indigo Vision(full flavour hide around mix),0,,-,210,777777,フィリピン,262,000000,フィリピン,1199,YUKI,フィリピン,0,,-
-2nd style,I Was The One,0,,-,206,NACK,フィリピン,479,CJ.IW,フィリピン,687,YUKI,フィリピン,0,,-
-2nd style,Electro Tuned(the SubS mix),0,,-,429,JUGLR*,フィリピン,0,,-,911,PU.,フィリピン,0,,-
-2nd style,Digital MinD(A/T Libra mix),0,,-,271,JOGO,フィリピン,0,,-,1062,HIMIKO,フィリピン,0,,-
-2nd style,.59,0,,-,121,NOBU,フィリピン,993,VE62CA,フィリピン,1146,YUKI,フィリピン,0,,-
 1st&substream,THE EARTH LIGHT,0,,-,0,,-,990,HIMIKO,フィリピン,1090,CPU69,フィリピン,0,,-
 1st&substream,RUGGED ASH,0,,-,103,777777,フィリピン,0,,-,1041,CH0P41,フィリピン,1969,YUKI,フィリピン
 1st&substream,R3,0,,-,546,000000,フィリピン,414,ELVIRA,フィリピン,902,YUKI,フィリピン,0,,-
@@ -20,6 +13,13 @@
 1st&substream,deep in you,0,,-,259,JOGO,フィリピン,0,,-,646,YUKI,フィリピン,0,,-
 1st&substream,5.1.1.,0,,-,109,000000,フィリピン,689,000000,フィリピン,1511,VE62CA,フィリピン,0,,-
 1st&substream,22DUNK,0,,-,426,000000,フィリピン,608,KORIL,フィリピン,618,ANYA.F,フィリピン,0,,-
+2nd style,SP-TRIP MACHINE(for beatmania II),0,,-,0,,-,290,RONNIE,フィリピン,601,PU.,フィリピン,0,,-
+2nd style,PUT YOUR FAITH IN ME(for beatmania II),0,,-,391,ELVIRA,フィリピン,781,HIMIKO,フィリピン,0,,-,0,,-
+2nd style,Indigo Vision(full flavour hide around mix),0,,-,210,777777,フィリピン,262,000000,フィリピン,1199,YUKI,フィリピン,0,,-
+2nd style,I Was The One,0,,-,206,NACK,フィリピン,479,CJ.IW,フィリピン,687,YUKI,フィリピン,0,,-
+2nd style,Electro Tuned(the SubS mix),0,,-,429,JUGLR*,フィリピン,0,,-,911,PU.,フィリピン,0,,-
+2nd style,Digital MinD(A/T Libra mix),0,,-,271,JOGO,フィリピン,0,,-,1062,HIMIKO,フィリピン,0,,-
+2nd style,.59,0,,-,121,NOBU,フィリピン,993,VE62CA,フィリピン,1146,YUKI,フィリピン,0,,-
 3rd style,THE SAFARI,136,BUMMML,フィリピン,1130,KORIL,フィリピン,1729,YUKI,フィリピン,0,,-,0,,-
 3rd style,Tangerine Stream,0,,-,0,,-,382,CPU69,フィリピン,0,,-,0,,-
 3rd style,Skyscraper,0,,-,0,,-,0,,-,1192,HIMIKO,フィリピン,0,,-
@@ -516,6 +516,63 @@ SIRIUS,bass 2 bass,178,MOOMOO,フィリピン,599,NANAMI,フィリピン,1226,65
 SIRIUS,Bad Maniacs,0,,-,1263,HIMIKO,フィリピン,1754,CH0P41,フィリピン,3145,VE62CA,フィリピン,0,,-
 SIRIUS,Almagest,0,,-,990,HIMIKO,フィリピン,2003,CH0P41,フィリピン,2974,VE62CA,フィリピン,0,,-
 SIRIUS,AIR RAID FROM THA UNDAGROUND,356,KARTJH,フィリピン,1150,HIMIKO,フィリピン,1485,OTKPH,フィリピン,2120,FANZA,フィリピン,2857,VE62CA,フィリピン
+Resort Anthem,黒髪乱れし修羅となりて,0,,-,510,YMN.C,フィリピン,1974,CH0P41,フィリピン,3379,YUKI,フィリピン,0,,-
+Resort Anthem,灼熱Beach Side Bunny,469,FLUFF,フィリピン,1069,HIMIKO,フィリピン,1826,*#06#,フィリピン,2750,65A-B,フィリピン,0,,-
+Resort Anthem,旅人リラン,0,,-,973,TISATO,フィリピン,1883,CH0P41,フィリピン,2568,VE62CA,フィリピン,0,,-
+Resort Anthem,夕焼け ～Fading Day～,0,,-,724,NANAMI,フィリピン,1772,4,フィリピン,2710,VE62CA,フィリピン,0,,-
+Resort Anthem,中華急行,0,,-,192,RILEY,フィリピン,1495,CH0P41,フィリピン,2317,YUKI,フィリピン,0,,-
+Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,0,,-,864,HIMIKO,フィリピン,1319,HIMIKO,フィリピン,1741,CH0P41,フィリピン,0,,-
+Resort Anthem,おおきなこえで,0,,-,241,NANAMI,フィリピン,609,SANDAL,フィリピン,1476,YUKI,フィリピン,2049,HIMIKO,フィリピン
+Resort Anthem,ZETA～素数の世界と超越者～,0,,-,0,,-,1973,FANZA,フィリピン,3032,YUKI,フィリピン,0,,-
+Resort Anthem,XANADU OF TWO,0,,-,786,MARIKA,フィリピン,1673,HIMIKO,フィリピン,2717,YUKI,フィリピン,0,,-
+Resort Anthem,Wuv U,0,,-,385,THOMAS,フィリピン,1244,HIMIKO,フィリピン,1660,YUKI,フィリピン,0,,-
+Resort Anthem,WISE UP!,0,,-,317,JOGO,フィリピン,1129,HIMIKO,フィリピン,1510,ANYA.F,フィリピン,2588,YUKI,フィリピン
+Resort Anthem,Watch Out Pt.2,0,,-,882,JIMMY,フィリピン,1522,OTKPH,フィリピン,2525,HAPPY,フィリピン,0,,-
+Resort Anthem,Vermillion,0,,-,0,,-,0,,-,1923,ANYA.F,フィリピン,0,,-
+Resort Anthem,Tropical April,0,,-,1355,######,フィリピン,2181,CPU69,フィリピン,2672,YUKI,フィリピン,0,,-
+Resort Anthem,THE FALLEN,0,,-,0,,-,1148,LINEUP,フィリピン,2523,HAPPY,フィリピン,0,,-
+Resort Anthem,THE DOOR INTO RAINBOW,0,,-,425,TOSTR,フィリピン,1637,HIMIKO,フィリピン,2024,CH0P41,フィリピン,0,,-
+Resort Anthem,THE BLACK KNIGHT,0,,-,703,000000,フィリピン,1956,CH0P41,フィリピン,2814,65A-B,フィリピン,0,,-
+Resort Anthem,STELLAR WIND,0,,-,475,YMN.C,フィリピン,1494,RANDOM,フィリピン,2547,VE62CA,フィリピン,0,,-
+Resort Anthem,Stay my side,0,,-,0,,-,0,,-,1348,YUKI,フィリピン,0,,-
+Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,0,,-,1593,HIMIKO,フィリピン,2917,VE62CA,フィリピン,0,,-
+Resort Anthem,Space Time,0,,-,0,,-,1319,MTKMCH,フィリピン,2109,HAPPY,フィリピン,0,,-
+Resort Anthem,Session 9 -Chronicles-,0,,-,632,000000,フィリピン,2203,CPU69,フィリピン,3483,VE62CA,フィリピン,0,,-
+Resort Anthem,sakura storm,0,,-,695,JOGO,フィリピン,1320,HIMIKO,フィリピン,2338,VE62CA,フィリピン,0,,-
+Resort Anthem,Sakura Reflection,0,,-,374,JOGO,フィリピン,1603,CH0P41,フィリピン,2359,YUKI,フィリピン,0,,-
+Resort Anthem,SABER WING,0,,-,318,D-UD,フィリピン,1741,HIMIKO,フィリピン,2771,YUKI,フィリピン,0,,-
+Resort Anthem,Rock Da House,0,,-,668,JOGO,フィリピン,1569,CH0P41,フィリピン,2128,CH0P41,フィリピン,0,,-
+Resort Anthem,reunion,310,USA,フィリピン,1258,MARIKA,フィリピン,2393,VE62CA,フィリピン,3112,VE62CA,フィリピン,0,,-
+Resort Anthem,Programmed Life,0,,-,0,,-,1729,CH0P41,フィリピン,2173,*#06#,フィリピン,0,,-
+Resort Anthem,perditus†paradisus,0,,-,922,65536,フィリピン,2392,HAPPY,フィリピン,3682,65A-B,フィリピン,0,,-
+Resort Anthem,passionate fate,0,,-,1143,HIMIKO,フィリピン,1580,HIMIKO,フィリピン,2040,CH0P41,フィリピン,0,,-
+Resort Anthem,PARADISE LOST,0,,-,1292,HIMIKO,フィリピン,2000,RF2CUL,フィリピン,3184,VE62CA,フィリピン,0,,-
+Resort Anthem,New Castle Legions,0,,-,0,,-,1701,FANZA,フィリピン,2093,*0218,フィリピン,0,,-
+Resort Anthem,Never Fade Away,0,,-,0,,-,1720,HIMIKO,フィリピン,2951,VE62CA,フィリピン,0,,-
+Resort Anthem,Mermaid girl,519,MARIKA,フィリピン,795,JOGO,フィリピン,1664,HIMIKO,フィリピン,2213,YUKI,フィリピン,0,,-
+Resort Anthem,Medicine of love,0,,-,0,,-,0,,-,1725,YUKI,フィリピン,0,,-
+Resort Anthem,Let The Track Flow,0,,-,600,ELVIRA,フィリピン,1449,OTKPH,フィリピン,2547,VE62CA,フィリピン,0,,-
+Resort Anthem,Kailua,0,,-,463,THOMAS,フィリピン,1265,4,フィリピン,2145,YUKI,フィリピン,0,,-
+Resort Anthem,I FIGHT ME,0,,-,0,,-,0,,-,2126,YUKI,フィリピン,0,,-
+Resort Anthem,Golden Palms,0,,-,717,HIMIKO,フィリピン,1408,HIMIKO,フィリピン,2022,YUKI,フィリピン,2277,VE62CA,フィリピン
+Resort Anthem,Fantasia,133,A.E.,フィリピン,264,JUGLR*,フィリピン,1533,HIMIKO,フィリピン,2238,YUKI,フィリピン,0,,-
+Resort Anthem,Everlasting Resort,0,,-,0,,-,1296,HIMIKO,フィリピン,1781,ANYA.F,フィリピン,0,,-
+Resort Anthem,Eternal Tears,0,,-,439,S-RAN,フィリピン,0,,-,1337,HIMIKO,フィリピン,0,,-
+Resort Anthem,Energy Drive,0,,-,0,,-,1442,HIMIKO,フィリピン,2157,VE62CA,フィリピン,0,,-
+Resort Anthem,DM STAR～関西 energy style～,0,,-,0,,-,1871,CH0P41,フィリピン,2398,YUKI,フィリピン,0,,-
+Resort Anthem,Destiny Sword,0,,-,0,,-,1554,FANZA,フィリピン,2213,CH0P41,フィリピン,0,,-
+Resort Anthem,DAYDREAMER,0,,-,0,,-,1738,HIMIKO,フィリピン,2518,YUKI,フィリピン,0,,-
+Resort Anthem,Dances with Snow Fairies,0,,-,283,000000,フィリピン,1936,PU.,フィリピン,2884,HAPPY,フィリピン,3665,VE62CA,フィリピン
+Resort Anthem,BROKEN EDEN,0,,-,663,SANDAL,フィリピン,1698,CH0P41,フィリピン,2254,VE62CA,フィリピン,0,,-
+Resort Anthem,Broken,0,,-,706,ELVIRA,フィリピン,1927,AL-C,フィリピン,3082,YUKI,フィリピン,0,,-
+Resort Anthem,Breaking the ground,0,,-,845,JOGO,フィリピン,1753,HIMIKO,フィリピン,2442,HAPPY,フィリピン,0,,-
+Resort Anthem,Bounce Bounce Bounce,0,,-,0,,-,1638,HIMIKO,フィリピン,2288,VE62CA,フィリピン,0,,-
+Resort Anthem,BLUST OF WIND,0,,-,546,JOGO,フィリピン,1500,HIMIKO,フィリピン,2006,ANYA.F,フィリピン,2583,YUKI,フィリピン
+Resort Anthem,Believe In Me,0,,-,0,,-,1527,######,フィリピン,2260,HAPPY,フィリピン,0,,-
+Resort Anthem,ANTHEM LANDING,0,,-,0,,-,1882,CH0P41,フィリピン,2937,YUKI,フィリピン,0,,-
+Resort Anthem,Answer,0,,-,0,,-,1453,HIMIKO,フィリピン,2420,YUKI,フィリピン,0,,-
+Resort Anthem,ALBIDA,410,CHAN**,フィリピン,997,JIMMY,フィリピン,1847,KORIL,フィリピン,2916,VE62CA,フィリピン,0,,-
+Resort Anthem,Aegis,0,,-,569,QS36,フィリピン,1356,HIMIKO,フィリピン,2239,VE62CA,フィリピン,0,,-
 Lincle,陽炎,0,,-,296,777777,フィリピン,844,YUU-!!,フィリピン,2007,YUKI,フィリピン,0,,-
 Lincle,衰色小町メランコリア,0,,-,0,,-,1380,HIMIKO,フィリピン,2323,YUKI,フィリピン,0,,-
 Lincle,蛇神,232,777777,フィリピン,236,777777,フィリピン,1477,HIMIKO,フィリピン,2750,VE62CA,フィリピン,0,,-
@@ -581,135 +638,6 @@ Lincle,ANAGRAMS I to Y,0,,-,601,JOGO,フィリピン,1646,HIMIKO,フィリピン
 Lincle,Almace,0,,-,670,QS36,フィリピン,1284,CH0P41,フィリピン,1993,YUKI,フィリピン,0,,-
 Lincle,532nm,0,,-,226,777777,フィリピン,1078,FANZA,フィリピン,2627,VE62CA,フィリピン,0,,-
 Lincle,24th Century BOY,0,,-,0,,-,1840,*#06#,フィリピン,2845,YUKI,フィリピン,0,,-
-Resort Anthem,黒髪乱れし修羅となりて,0,,-,510,YMN.C,フィリピン,1974,CH0P41,フィリピン,3379,YUKI,フィリピン,0,,-
-Resort Anthem,灼熱Beach Side Bunny,469,FLUFF,フィリピン,1069,HIMIKO,フィリピン,1826,*#06#,フィリピン,2750,65A-B,フィリピン,0,,-
-Resort Anthem,旅人リラン,0,,-,973,TISATO,フィリピン,1883,CH0P41,フィリピン,2568,VE62CA,フィリピン,0,,-
-Resort Anthem,夕焼け ～Fading Day～,0,,-,724,NANAMI,フィリピン,1772,4,フィリピン,2710,VE62CA,フィリピン,0,,-
-Resort Anthem,中華急行,0,,-,192,RILEY,フィリピン,1495,CH0P41,フィリピン,2317,YUKI,フィリピン,0,,-
-Resort Anthem,かげぬい ～ Ver.BENIBOTAN ～,0,,-,864,HIMIKO,フィリピン,1319,HIMIKO,フィリピン,1741,CH0P41,フィリピン,0,,-
-Resort Anthem,おおきなこえで,0,,-,241,NANAMI,フィリピン,609,SANDAL,フィリピン,1476,YUKI,フィリピン,2049,HIMIKO,フィリピン
-Resort Anthem,ZETA～素数の世界と超越者～,0,,-,0,,-,1973,FANZA,フィリピン,3032,YUKI,フィリピン,0,,-
-Resort Anthem,XANADU OF TWO,0,,-,786,MARIKA,フィリピン,1673,HIMIKO,フィリピン,2717,YUKI,フィリピン,0,,-
-Resort Anthem,Wuv U,0,,-,385,THOMAS,フィリピン,1244,HIMIKO,フィリピン,1660,YUKI,フィリピン,0,,-
-Resort Anthem,WISE UP!,0,,-,317,JOGO,フィリピン,1129,HIMIKO,フィリピン,1510,ANYA.F,フィリピン,2588,YUKI,フィリピン
-Resort Anthem,Watch Out Pt.2,0,,-,882,JIMMY,フィリピン,1522,OTKPH,フィリピン,2525,HAPPY,フィリピン,0,,-
-Resort Anthem,Vermillion,0,,-,0,,-,0,,-,1923,ANYA.F,フィリピン,0,,-
-Resort Anthem,Tropical April,0,,-,1355,######,フィリピン,2181,CPU69,フィリピン,2672,YUKI,フィリピン,0,,-
-Resort Anthem,THE FALLEN,0,,-,0,,-,1148,LINEUP,フィリピン,2523,HAPPY,フィリピン,0,,-
-Resort Anthem,THE DOOR INTO RAINBOW,0,,-,425,TOSTR,フィリピン,1637,HIMIKO,フィリピン,2024,CH0P41,フィリピン,0,,-
-Resort Anthem,THE BLACK KNIGHT,0,,-,703,000000,フィリピン,1956,CH0P41,フィリピン,2814,65A-B,フィリピン,0,,-
-Resort Anthem,STELLAR WIND,0,,-,475,YMN.C,フィリピン,1494,RANDOM,フィリピン,2547,VE62CA,フィリピン,0,,-
-Resort Anthem,Stay my side,0,,-,0,,-,0,,-,1348,YUKI,フィリピン,0,,-
-Resort Anthem,SPECIAL SUMMER CAMPAIGN!,0,,-,0,,-,1593,HIMIKO,フィリピン,2917,VE62CA,フィリピン,0,,-
-Resort Anthem,Space Time,0,,-,0,,-,1319,MTKMCH,フィリピン,2109,HAPPY,フィリピン,0,,-
-Resort Anthem,Session 9 -Chronicles-,0,,-,632,000000,フィリピン,2203,CPU69,フィリピン,3483,VE62CA,フィリピン,0,,-
-Resort Anthem,sakura storm,0,,-,695,JOGO,フィリピン,1320,HIMIKO,フィリピン,2338,VE62CA,フィリピン,0,,-
-Resort Anthem,Sakura Reflection,0,,-,374,JOGO,フィリピン,1603,CH0P41,フィリピン,2359,YUKI,フィリピン,0,,-
-Resort Anthem,SABER WING,0,,-,318,D-UD,フィリピン,1741,HIMIKO,フィリピン,2771,YUKI,フィリピン,0,,-
-Resort Anthem,Rock Da House,0,,-,668,JOGO,フィリピン,1569,CH0P41,フィリピン,2128,CH0P41,フィリピン,0,,-
-Resort Anthem,reunion,310,USA,フィリピン,1258,MARIKA,フィリピン,2393,VE62CA,フィリピン,3112,VE62CA,フィリピン,0,,-
-Resort Anthem,Programmed Life,0,,-,0,,-,1729,CH0P41,フィリピン,2173,*#06#,フィリピン,0,,-
-Resort Anthem,perditus†paradisus,0,,-,922,65536,フィリピン,2392,HAPPY,フィリピン,3682,65A-B,フィリピン,0,,-
-Resort Anthem,passionate fate,0,,-,1143,HIMIKO,フィリピン,1580,HIMIKO,フィリピン,2040,CH0P41,フィリピン,0,,-
-Resort Anthem,PARADISE LOST,0,,-,1292,HIMIKO,フィリピン,2000,RF2CUL,フィリピン,3184,VE62CA,フィリピン,0,,-
-Resort Anthem,New Castle Legions,0,,-,0,,-,1701,FANZA,フィリピン,2093,*0218,フィリピン,0,,-
-Resort Anthem,Never Fade Away,0,,-,0,,-,1720,HIMIKO,フィリピン,2951,VE62CA,フィリピン,0,,-
-Resort Anthem,Mermaid girl,519,MARIKA,フィリピン,795,JOGO,フィリピン,1664,HIMIKO,フィリピン,2213,YUKI,フィリピン,0,,-
-Resort Anthem,Medicine of love,0,,-,0,,-,0,,-,1725,YUKI,フィリピン,0,,-
-Resort Anthem,Let The Track Flow,0,,-,600,ELVIRA,フィリピン,1449,OTKPH,フィリピン,2547,VE62CA,フィリピン,0,,-
-Resort Anthem,Kailua,0,,-,463,THOMAS,フィリピン,1265,4,フィリピン,2145,YUKI,フィリピン,0,,-
-Resort Anthem,I FIGHT ME,0,,-,0,,-,0,,-,2126,YUKI,フィリピン,0,,-
-Resort Anthem,Golden Palms,0,,-,717,HIMIKO,フィリピン,1408,HIMIKO,フィリピン,2022,YUKI,フィリピン,2277,VE62CA,フィリピン
-Resort Anthem,Fantasia,133,A.E.,フィリピン,264,JUGLR*,フィリピン,1533,HIMIKO,フィリピン,2238,YUKI,フィリピン,0,,-
-Resort Anthem,Everlasting Resort,0,,-,0,,-,1296,HIMIKO,フィリピン,1781,ANYA.F,フィリピン,0,,-
-Resort Anthem,Eternal Tears,0,,-,439,S-RAN,フィリピン,0,,-,1337,HIMIKO,フィリピン,0,,-
-Resort Anthem,Energy Drive,0,,-,0,,-,1442,HIMIKO,フィリピン,2157,VE62CA,フィリピン,0,,-
-Resort Anthem,DM STAR～関西 energy style～,0,,-,0,,-,1871,CH0P41,フィリピン,2398,YUKI,フィリピン,0,,-
-Resort Anthem,Destiny Sword,0,,-,0,,-,1554,FANZA,フィリピン,2213,CH0P41,フィリピン,0,,-
-Resort Anthem,DAYDREAMER,0,,-,0,,-,1738,HIMIKO,フィリピン,2518,YUKI,フィリピン,0,,-
-Resort Anthem,Dances with Snow Fairies,0,,-,283,000000,フィリピン,1936,PU.,フィリピン,2884,HAPPY,フィリピン,3665,VE62CA,フィリピン
-Resort Anthem,BROKEN EDEN,0,,-,663,SANDAL,フィリピン,1698,CH0P41,フィリピン,2254,VE62CA,フィリピン,0,,-
-Resort Anthem,Broken,0,,-,706,ELVIRA,フィリピン,1927,AL-C,フィリピン,3082,YUKI,フィリピン,0,,-
-Resort Anthem,Breaking the ground,0,,-,845,JOGO,フィリピン,1753,HIMIKO,フィリピン,2442,HAPPY,フィリピン,0,,-
-Resort Anthem,Bounce Bounce Bounce,0,,-,0,,-,1638,HIMIKO,フィリピン,2288,VE62CA,フィリピン,0,,-
-Resort Anthem,BLUST OF WIND,0,,-,546,JOGO,フィリピン,1500,HIMIKO,フィリピン,2006,ANYA.F,フィリピン,2583,YUKI,フィリピン
-Resort Anthem,Believe In Me,0,,-,0,,-,1527,######,フィリピン,2260,HAPPY,フィリピン,0,,-
-Resort Anthem,ANTHEM LANDING,0,,-,0,,-,1882,CH0P41,フィリピン,2937,YUKI,フィリピン,0,,-
-Resort Anthem,Answer,0,,-,0,,-,1453,HIMIKO,フィリピン,2420,YUKI,フィリピン,0,,-
-Resort Anthem,ALBIDA,410,CHAN**,フィリピン,997,JIMMY,フィリピン,1847,KORIL,フィリピン,2916,VE62CA,フィリピン,0,,-
-Resort Anthem,Aegis,0,,-,569,QS36,フィリピン,1356,HIMIKO,フィリピン,2239,VE62CA,フィリピン,0,,-
-SPADA,轟け！恋のビーンボール！！,0,,-,916,NRG*,フィリピン,1849,CPU69,フィリピン,3407,VE62CA,フィリピン,0,,-
-SPADA,超!!遠距離らぶメ～ル,0,,-,326,810,フィリピン,1118,23,フィリピン,2371,005,フィリピン,0,,-
-SPADA,罪と罰,0,,-,629,USA,フィリピン,1345,HIMIKO,フィリピン,2055,65A-B,フィリピン,0,,-
-SPADA,疾風迅雷,0,,-,815,######,フィリピン,1958,*#06#,フィリピン,2716,VE62CA,フィリピン,3136,65A-B,フィリピン
-SPADA,牧神笛吹きて,0,,-,611,000000,フィリピン,1331,HIMIKO,フィリピン,2010,VE62CA,フィリピン,0,,-
-SPADA,煉獄のエルフェリア,0,,-,1218,RANDOM,フィリピン,2221,CH0P41,フィリピン,3671,YUKI,フィリピン,0,,-
-SPADA,海神,0,,-,1120,HIMIKO,フィリピン,1966,CH0P41,フィリピン,3033,VE62CA,フィリピン,3355,VE62CA,フィリピン
-SPADA,旋律のドグマ～Miserables～,0,,-,801,QS36,フィリピン,2310,PU.,フィリピン,3812,VE62CA,フィリピン,0,,-
-SPADA,廿,0,,-,0,,-,1656,HIMIKO,フィリピン,2127,CH0P41,フィリピン,2903,65A-B,フィリピン
-SPADA,バンブーソード・ガール,138,810,フィリピン,0,,-,1549,FANZA,フィリピン,2224,VE62CA,フィリピン,0,,-
-SPADA,デッドボヲルdeホームラン,0,,-,255,777777,フィリピン,1522,CH0P41,フィリピン,2634,VE62CA,フィリピン,0,,-
-SPADA,アルストロメリア,128,GOOPYQ,フィリピン,824,MARIKA,フィリピン,1489,CH0P41,フィリピン,2487,YUKI,フィリピン,0,,-
-SPADA,お願いアインシュタイン,0,,-,863,HIMIKO,フィリピン,1445,HIMIKO,フィリピン,2093,YUKI,フィリピン,0,,-
-SPADA,Wonder Girl feat. Kanae Asaba,0,,-,438,JUGLR*,フィリピン,981,LINEUP,フィリピン,2770,YUKI,フィリピン,0,,-
-SPADA,VOX UP,0,,-,1153,.EBISU,フィリピン,2435,*#06#,フィリピン,3456,VE62CA,フィリピン,0,,-
-SPADA,Verflucht,0,,-,1030,MARIKA,フィリピン,1969,CH0P41,フィリピン,3424,65A-B,フィリピン,4402,65A-B,フィリピン
-SPADA,Valgus,0,,-,0,,-,1332,HIMIKO,フィリピン,2334,VE62CA,フィリピン,0,,-
-SPADA,Unicorn tail,0,,-,0,,-,1998,CH0P41,フィリピン,3024,VE62CA,フィリピン,0,,-
-SPADA,THE DETONATOR,0,,-,1436,RANDOM,フィリピン,2370,CH0P41,フィリピン,3114,VE62CA,フィリピン,0,,-
-SPADA,Squeeze,0,,-,0,,-,1410,HIMIKO,フィリピン,2381,HAPPY,フィリピン,0,,-
-SPADA,Sigmund,0,,-,1484,HIMIKO,フィリピン,1917,PU.,フィリピン,3550,VE62CA,フィリピン,3930,YUKI,フィリピン
-SPADA,SCHWARZSCHILD FIELD,0,,-,661,TAYA,フィリピン,1379,KAIJIN,フィリピン,2002,CPU69,フィリピン,0,,-
-SPADA,RIZING YOU UP,0,,-,0,,-,1728,NOIL,フィリピン,2451,CH0P41,フィリピン,0,,-
-SPADA,RISE,0,,-,0,,-,1329,HIMIKO,フィリピン,1818,VE62CA,フィリピン,0,,-
-SPADA,refractive index,0,,-,452,JOGO,フィリピン,1105,MTKMCH,フィリピン,2619,VE62CA,フィリピン,0,,-
-SPADA,Recollection,0,,-,0,,-,0,,-,2232,YUKI,フィリピン,0,,-
-SPADA,rainbow guitar weeps,0,,-,0,,-,1787,CH0P41,フィリピン,2703,VE62CA,フィリピン,0,,-
-SPADA,ra'am,0,,-,1167,KORIL,フィリピン,1726,CH0P41,フィリピン,2668,VE62CA,フィリピン,0,,-
-SPADA,PUNISHER,0,,-,0,,-,2050,CH0P41,フィリピン,3441,VE62CA,フィリピン,0,,-
-SPADA,Pharaoh,0,,-,0,,-,890,PEENOR,フィリピン,2237,CPU69,フィリピン,0,,-
-SPADA,Overload Frontier,0,,-,0,,-,1747,CH0P41,フィリピン,2419,HAPPY,フィリピン,0,,-
-SPADA,Odin,0,,-,0,,-,1375,HIMIKO,フィリピン,1945,CPU69,フィリピン,0,,-
-SPADA,NPC World,0,,-,0,,-,1548,CH0P41,フィリピン,2180,CH0P41,フィリピン,0,,-
-SPADA,Miracle 5ympho X,0,,-,653,THOMAS,フィリピン,1303,HIMIKO,フィリピン,2535,VE62CA,フィリピン,2662,VE62CA,フィリピン
-SPADA,MAGIC & LOVE,0,,-,0,,-,1410,H0M0,フィリピン,2715,CH0P41,フィリピン,0,,-
-SPADA,MAD ATTACK,0,,-,629,*YUKI*,フィリピン,1270,HIMIKO,フィリピン,1838,*#06#,フィリピン,2320,VE62CA,フィリピン
-SPADA,m1dy Deluxe,0,,-,695,PEENOR,フィリピン,1587,MOB,フィリピン,2465,VE62CA,フィリピン,0,,-
-SPADA,M.D.Injection,0,,-,0,,-,1211,HIMIKO,フィリピン,2210,HIMIKO,フィリピン,0,,-
-SPADA,Lighting Shower,0,,-,0,,-,1316,HIMIKO,フィリピン,2143,CPU69,フィリピン,0,,-
-SPADA,Last Dance,0,,-,1173,HIMIKO,フィリピン,1765,MOB,フィリピン,3081,VE62CA,フィリピン,0,,-
-SPADA,KHAMEN BREAK,0,,-,423,RONNIE,フィリピン,1243,AL-C,フィリピン,2387,VE62CA,フィリピン,0,,-
-SPADA,KAISER PHOENIX,0,,-,1214,RANDOM,フィリピン,2149,*#06#,フィリピン,3124,VE62CA,フィリピン,3682,YUKI,フィリピン
-SPADA,IX,0,,-,1078,000000,フィリピン,2235,CH0P41,フィリピン,3642,VE62CA,フィリピン,0,,-
-SPADA,invoker,0,,-,0,,-,1815,CPU69,フィリピン,3140,VE62CA,フィリピン,3391,VE62CA,フィリピン
-SPADA,into the battlefield,0,,-,0,,-,1030,.EBISU,フィリピン,2314,VE62CA,フィリピン,0,,-
-SPADA,INSOMNIA,0,,-,707,THOMAS,フィリピン,1763,HIMIKO,フィリピン,3065,VE62CA,フィリピン,0,,-
-SPADA,Insane Techniques,0,,-,540,THOMAS,フィリピン,1258,HIMIKO,フィリピン,2226,CPU69,フィリピン,0,,-
-SPADA,Idola,0,,-,956,000000,フィリピン,2242,65A-B,フィリピン,3488,VE62CA,フィリピン,0,,-
-SPADA,I will be back -オレは帰ってきた-,0,,-,968,AL-C,フィリピン,1853,CH0P41,フィリピン,2906,YUKI,フィリピン,0,,-
-SPADA,Hypersonik,0,,-,657,JOGO,フィリピン,1676,HIMIKO,フィリピン,2473,VE62CA,フィリピン,0,,-
-SPADA,HYENA,0,,-,958,MARIKA,フィリピン,1879,HIMIKO,フィリピン,2559,CH0P41,フィリピン,0,,-
-SPADA,Funny shuffle,0,,-,360,*FER*,フィリピン,666,JUGLR*,フィリピン,2198,VE62CA,フィリピン,0,,-
-SPADA,Feel The Beat,0,,-,956,MTKMCH,フィリピン,2038,HIMIKO,フィリピン,3286,HAPPY,フィリピン,4111,VE62CA,フィリピン
-SPADA,EXTREME MACH COLLIDER,0,,-,0,,-,1434,HIMIKO,フィリピン,2415,YUKI,フィリピン,0,,-
-SPADA,Engraved Mark,0,,-,480,QS36,フィリピン,1318,HIMIKO,フィリピン,2235,VE62CA,フィリピン,0,,-
-SPADA,Element of SPADA,0,,-,602,THOMAS,フィリピン,1273,RANDOM,フィリピン,2083,YUKI,フィリピン,3070,VE62CA,フィリピン
-SPADA,Elektrick U-Phoria,0,,-,0,,-,1767,FANZA,フィリピン,2948,HAPPY,フィリピン,3867,VE62CA,フィリピン
-SPADA,diagram,0,,-,362,AZURE,フィリピン,1237,CPU69,フィリピン,2741,VE62CA,フィリピン,0,,-
-SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,0,,-,1781,CH0P41,フィリピン,2425,VE62CA,フィリピン,0,,-
-SPADA,DARK LEGACY,0,,-,449,CCHIN5,フィリピン,1773,PU.,フィリピン,3512,YUKI,フィリピン,0,,-
-SPADA,Dark Fall,0,,-,0,,-,1523,HIMIKO,フィリピン,2518,HAPPY,フィリピン,0,,-
-SPADA,Critical Crystal,116,MASH,フィリピン,932,NANAMI,フィリピン,1806,HIMIKO,フィリピン,2809,65A-B,フィリピン,0,,-
-SPADA,Close the World feat.a☆ru,0,,-,900,000000,フィリピン,1982,CH0P41,フィリピン,3280,VE62CA,フィリピン,3709,VE62CA,フィリピン
-SPADA,Cleopatrysm,0,,-,430,YMN.C,フィリピン,1403,HIMIKO,フィリピン,2504,VE62CA,フィリピン,0,,-
-SPADA,Claiomh Solais,0,,-,0,,-,961,CHIPSS,フィリピン,2024,CH0P41,フィリピン,0,,-
-SPADA,BRAVE OUT,0,,-,0,,-,719,00!!!8,フィリピン,2070,HAPPY,フィリピン,0,,-
-SPADA,BRAINSTORM,0,,-,0,,-,1840,CH0P41,フィリピン,2669,VE62CA,フィリピン,0,,-
-SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1274,######,フィリピン,2183,CH0P41,フィリピン,3207,VE62CA,フィリピン,0,,-
-SPADA,ATHER,0,,-,552,A,フィリピン,1565,HIMIKO,フィリピン,2560,CH0P41,フィリピン,2785,HIMIKO,フィリピン
-SPADA,Ancient Scapes,0,,-,753,######,フィリピン,1882,CH0P41,フィリピン,3331,VE62CA,フィリピン,4041,VE62CA,フィリピン
-SPADA,ALBA -黎明-,0,,-,514,######,フィリピン,1490,HIMIKO,フィリピン,3198,YUKI,フィリピン,0,,-
-SPADA,Adularia,169,######,フィリピン,454,QS36,フィリピン,1689,KORIL,フィリピン,2786,VE62CA,フィリピン,0,,-
 tricoro,龍と少女とデコヒーレンス,0,,-,833,HIMIKO,フィリピン,1605,KORIL,フィリピン,2896,VE62CA,フィリピン,3164,VE62CA,フィリピン
 tricoro,音楽,0,,-,0,,-,1892,HIMIKO,フィリピン,2713,YUKI,フィリピン,0,,-
 tricoro,狂イ咲ケ焔ノ華,0,,-,723,K4IRI,フィリピン,2116,FANZA,フィリピン,3497,VE62CA,フィリピン,0,,-
@@ -792,6 +720,78 @@ tricoro,Beastie Starter,0,,-,291,JKARNA,フィリピン,1206,HIMIKO,フィリピ
 tricoro,Ascalon,0,,-,712,CCHIN5,フィリピン,1155,BLOO,フィリピン,2129,CH0P41,フィリピン,0,,-
 tricoro,8bit Princess,0,,-,487,JOGO,フィリピン,1149,NRG*,フィリピン,2629,YUKI,フィリピン,0,,-
 tricoro,405nm (Ryu☆mix),0,,-,556,VAJRA,フィリピン,1566,*#06#,フィリピン,2487,65A-B,フィリピン,0,,-
+SPADA,轟け！恋のビーンボール！！,0,,-,916,NRG*,フィリピン,1849,CPU69,フィリピン,3407,VE62CA,フィリピン,0,,-
+SPADA,超!!遠距離らぶメ～ル,0,,-,326,810,フィリピン,1118,23,フィリピン,2371,005,フィリピン,0,,-
+SPADA,罪と罰,0,,-,629,USA,フィリピン,1345,HIMIKO,フィリピン,2055,65A-B,フィリピン,0,,-
+SPADA,疾風迅雷,0,,-,815,######,フィリピン,1958,*#06#,フィリピン,2716,VE62CA,フィリピン,3136,65A-B,フィリピン
+SPADA,牧神笛吹きて,0,,-,611,000000,フィリピン,1331,HIMIKO,フィリピン,2010,VE62CA,フィリピン,0,,-
+SPADA,煉獄のエルフェリア,0,,-,1218,RANDOM,フィリピン,2221,CH0P41,フィリピン,3671,YUKI,フィリピン,0,,-
+SPADA,海神,0,,-,1120,HIMIKO,フィリピン,1966,CH0P41,フィリピン,3033,VE62CA,フィリピン,3355,VE62CA,フィリピン
+SPADA,旋律のドグマ～Miserables～,0,,-,801,QS36,フィリピン,2310,PU.,フィリピン,3812,VE62CA,フィリピン,0,,-
+SPADA,廿,0,,-,0,,-,1656,HIMIKO,フィリピン,2127,CH0P41,フィリピン,2903,65A-B,フィリピン
+SPADA,バンブーソード・ガール,138,810,フィリピン,0,,-,1549,FANZA,フィリピン,2224,VE62CA,フィリピン,0,,-
+SPADA,デッドボヲルdeホームラン,0,,-,255,777777,フィリピン,1522,CH0P41,フィリピン,2634,VE62CA,フィリピン,0,,-
+SPADA,アルストロメリア,128,GOOPYQ,フィリピン,824,MARIKA,フィリピン,1489,CH0P41,フィリピン,2487,YUKI,フィリピン,0,,-
+SPADA,お願いアインシュタイン,0,,-,863,HIMIKO,フィリピン,1445,HIMIKO,フィリピン,2093,YUKI,フィリピン,0,,-
+SPADA,Wonder Girl feat. Kanae Asaba,0,,-,438,JUGLR*,フィリピン,981,LINEUP,フィリピン,2770,YUKI,フィリピン,0,,-
+SPADA,VOX UP,0,,-,1153,.EBISU,フィリピン,2435,*#06#,フィリピン,3456,VE62CA,フィリピン,0,,-
+SPADA,Verflucht,0,,-,1030,MARIKA,フィリピン,1969,CH0P41,フィリピン,3424,65A-B,フィリピン,4402,65A-B,フィリピン
+SPADA,Valgus,0,,-,0,,-,1332,HIMIKO,フィリピン,2334,VE62CA,フィリピン,0,,-
+SPADA,Unicorn tail,0,,-,0,,-,1998,CH0P41,フィリピン,3024,VE62CA,フィリピン,0,,-
+SPADA,THE DETONATOR,0,,-,1436,RANDOM,フィリピン,2370,CH0P41,フィリピン,3114,VE62CA,フィリピン,0,,-
+SPADA,Squeeze,0,,-,0,,-,1410,HIMIKO,フィリピン,2381,HAPPY,フィリピン,0,,-
+SPADA,Sigmund,0,,-,1484,HIMIKO,フィリピン,1917,PU.,フィリピン,3550,VE62CA,フィリピン,3930,YUKI,フィリピン
+SPADA,SCHWARZSCHILD FIELD,0,,-,661,TAYA,フィリピン,1379,KAIJIN,フィリピン,2002,CPU69,フィリピン,0,,-
+SPADA,RIZING YOU UP,0,,-,0,,-,1728,NOIL,フィリピン,2451,CH0P41,フィリピン,0,,-
+SPADA,RISE,0,,-,0,,-,1329,HIMIKO,フィリピン,1818,VE62CA,フィリピン,0,,-
+SPADA,refractive index,0,,-,452,JOGO,フィリピン,1105,MTKMCH,フィリピン,2619,VE62CA,フィリピン,0,,-
+SPADA,Recollection,0,,-,0,,-,0,,-,2232,YUKI,フィリピン,0,,-
+SPADA,rainbow guitar weeps,0,,-,0,,-,1787,CH0P41,フィリピン,2703,VE62CA,フィリピン,0,,-
+SPADA,ra'am,0,,-,1167,KORIL,フィリピン,1726,CH0P41,フィリピン,2668,VE62CA,フィリピン,0,,-
+SPADA,PUNISHER,0,,-,0,,-,2050,CH0P41,フィリピン,3441,VE62CA,フィリピン,0,,-
+SPADA,Pharaoh,0,,-,0,,-,890,PEENOR,フィリピン,2237,CPU69,フィリピン,0,,-
+SPADA,Overload Frontier,0,,-,0,,-,1747,CH0P41,フィリピン,2419,HAPPY,フィリピン,0,,-
+SPADA,Odin,0,,-,0,,-,1375,HIMIKO,フィリピン,1945,CPU69,フィリピン,0,,-
+SPADA,NPC World,0,,-,0,,-,1548,CH0P41,フィリピン,2180,CH0P41,フィリピン,0,,-
+SPADA,Miracle 5ympho X,0,,-,653,THOMAS,フィリピン,1303,HIMIKO,フィリピン,2535,VE62CA,フィリピン,2662,VE62CA,フィリピン
+SPADA,MAGIC & LOVE,0,,-,0,,-,1410,H0M0,フィリピン,2715,CH0P41,フィリピン,0,,-
+SPADA,MAD ATTACK,0,,-,629,*YUKI*,フィリピン,1270,HIMIKO,フィリピン,1838,*#06#,フィリピン,2320,VE62CA,フィリピン
+SPADA,m1dy Deluxe,0,,-,695,PEENOR,フィリピン,1587,MOB,フィリピン,2465,VE62CA,フィリピン,0,,-
+SPADA,M.D.Injection,0,,-,0,,-,1211,HIMIKO,フィリピン,2210,HIMIKO,フィリピン,0,,-
+SPADA,Lighting Shower,0,,-,0,,-,1316,HIMIKO,フィリピン,2143,CPU69,フィリピン,0,,-
+SPADA,Last Dance,0,,-,1173,HIMIKO,フィリピン,1765,MOB,フィリピン,3081,VE62CA,フィリピン,0,,-
+SPADA,KHAMEN BREAK,0,,-,423,RONNIE,フィリピン,1243,AL-C,フィリピン,2387,VE62CA,フィリピン,0,,-
+SPADA,KAISER PHOENIX,0,,-,1214,RANDOM,フィリピン,2149,*#06#,フィリピン,3124,VE62CA,フィリピン,3682,YUKI,フィリピン
+SPADA,IX,0,,-,1078,000000,フィリピン,2235,CH0P41,フィリピン,3642,VE62CA,フィリピン,0,,-
+SPADA,invoker,0,,-,0,,-,1815,CPU69,フィリピン,3140,VE62CA,フィリピン,3391,VE62CA,フィリピン
+SPADA,into the battlefield,0,,-,0,,-,1030,.EBISU,フィリピン,2314,VE62CA,フィリピン,0,,-
+SPADA,INSOMNIA,0,,-,707,THOMAS,フィリピン,1763,HIMIKO,フィリピン,3065,VE62CA,フィリピン,0,,-
+SPADA,Insane Techniques,0,,-,540,THOMAS,フィリピン,1258,HIMIKO,フィリピン,2226,CPU69,フィリピン,0,,-
+SPADA,Idola,0,,-,956,000000,フィリピン,2242,65A-B,フィリピン,3488,VE62CA,フィリピン,0,,-
+SPADA,I will be back -オレは帰ってきた-,0,,-,968,AL-C,フィリピン,1853,CH0P41,フィリピン,2906,YUKI,フィリピン,0,,-
+SPADA,Hypersonik,0,,-,657,JOGO,フィリピン,1676,HIMIKO,フィリピン,2473,VE62CA,フィリピン,0,,-
+SPADA,HYENA,0,,-,958,MARIKA,フィリピン,1879,HIMIKO,フィリピン,2559,CH0P41,フィリピン,0,,-
+SPADA,Funny shuffle,0,,-,360,*FER*,フィリピン,666,JUGLR*,フィリピン,2198,VE62CA,フィリピン,0,,-
+SPADA,Feel The Beat,0,,-,956,MTKMCH,フィリピン,2038,HIMIKO,フィリピン,3286,HAPPY,フィリピン,4111,VE62CA,フィリピン
+SPADA,EXTREME MACH COLLIDER,0,,-,0,,-,1434,HIMIKO,フィリピン,2415,YUKI,フィリピン,0,,-
+SPADA,Engraved Mark,0,,-,480,QS36,フィリピン,1318,HIMIKO,フィリピン,2235,VE62CA,フィリピン,0,,-
+SPADA,Element of SPADA,0,,-,602,THOMAS,フィリピン,1273,RANDOM,フィリピン,2083,YUKI,フィリピン,3070,VE62CA,フィリピン
+SPADA,Elektrick U-Phoria,0,,-,0,,-,1767,FANZA,フィリピン,2948,HAPPY,フィリピン,3867,VE62CA,フィリピン
+SPADA,diagram,0,,-,362,AZURE,フィリピン,1237,CPU69,フィリピン,2741,VE62CA,フィリピン,0,,-
+SPADA,Devilz Sacrifice -贖罪の羊-,0,,-,0,,-,1781,CH0P41,フィリピン,2425,VE62CA,フィリピン,0,,-
+SPADA,DARK LEGACY,0,,-,449,CCHIN5,フィリピン,1773,PU.,フィリピン,3512,YUKI,フィリピン,0,,-
+SPADA,Dark Fall,0,,-,0,,-,1523,HIMIKO,フィリピン,2518,HAPPY,フィリピン,0,,-
+SPADA,Critical Crystal,116,MASH,フィリピン,932,NANAMI,フィリピン,1806,HIMIKO,フィリピン,2809,65A-B,フィリピン,0,,-
+SPADA,Close the World feat.a☆ru,0,,-,900,000000,フィリピン,1982,CH0P41,フィリピン,3280,VE62CA,フィリピン,3709,VE62CA,フィリピン
+SPADA,Cleopatrysm,0,,-,430,YMN.C,フィリピン,1403,HIMIKO,フィリピン,2504,VE62CA,フィリピン,0,,-
+SPADA,Claiomh Solais,0,,-,0,,-,961,CHIPSS,フィリピン,2024,CH0P41,フィリピン,0,,-
+SPADA,BRAVE OUT,0,,-,0,,-,719,00!!!8,フィリピン,2070,HAPPY,フィリピン,0,,-
+SPADA,BRAINSTORM,0,,-,0,,-,1840,CH0P41,フィリピン,2669,VE62CA,フィリピン,0,,-
+SPADA,BLUE DRAGON(雷龍RemixIIDX),0,,-,1274,######,フィリピン,2183,CH0P41,フィリピン,3207,VE62CA,フィリピン,0,,-
+SPADA,ATHER,0,,-,552,A,フィリピン,1565,HIMIKO,フィリピン,2560,CH0P41,フィリピン,2785,HIMIKO,フィリピン
+SPADA,Ancient Scapes,0,,-,753,######,フィリピン,1882,CH0P41,フィリピン,3331,VE62CA,フィリピン,4041,VE62CA,フィリピン
+SPADA,ALBA -黎明-,0,,-,514,######,フィリピン,1490,HIMIKO,フィリピン,3198,YUKI,フィリピン,0,,-
+SPADA,Adularia,169,######,フィリピン,454,QS36,フィリピン,1689,KORIL,フィリピン,2786,VE62CA,フィリピン,0,,-
 PENDUAL,Ｘ↑Ｘ↓,0,,-,808,THOMAS,フィリピン,1685,HIMIKO,フィリピン,2716,HAPPY,フィリピン,0,,-
 PENDUAL,鬼天,0,,-,511,QS36,フィリピン,1602,CH0P41,フィリピン,2405,65A-B,フィリピン,0,,-
 PENDUAL,超青少年ノ為ノ超多幸ナ超古典的超舞曲,0,,-,811,THOMAS,フィリピン,1909,CPU69,フィリピン,2691,YUKI,フィリピン,3828,VE62CA,フィリピン
@@ -955,88 +955,6 @@ copula,AO-1,0,,-,1039,######,フィリピン,1818,CH0P41,フィリピン,2757,VE
 copula,Angelic Jelly,0,,-,904,MTKMCH,フィリピン,1898,FANZA,フィリピン,2361,CH0P41,フィリピン,0,,-
 copula,Acid Pumper,0,,-,495,QS36,フィリピン,1367,OTKPH,フィリピン,2345,VE62CA,フィリピン,0,,-
 copula,199024club -Re:BounceKiller-,0,,-,443,JOGO,フィリピン,1538,*#06#,フィリピン,2202,65A-B,フィリピン,0,,-
-CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,243,777777,フィリピン,1059,JIMMY,フィリピン,2289,YUKI,フィリピン,0,,-
-CANNON BALLERS,純真可憐デザイア,0,,-,731,CAHAN*,フィリピン,1604,CH0P41,フィリピン,2267,CH0P41,フィリピン,0,,-
-CANNON BALLERS,神謳 -RESONANCE-,0,,-,1114,65536,フィリピン,2366,CH0P41,フィリピン,3934,VE62CA,フィリピン,0,,-
-CANNON BALLERS,東京神話,438,005,フィリピン,791,PETER,フィリピン,1600,PU.,フィリピン,2694,VE62CA,フィリピン,0,,-
-CANNON BALLERS,命の標本,0,,-,0,,-,1643,HIMIKO,フィリピン,2609,VE62CA,フィリピン,0,,-
-CANNON BALLERS,共犯ヘヴンズコード,0,,-,210,MINT,フィリピン,998,JIMMY,フィリピン,2257,YUKI,フィリピン,0,,-
-CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,0,,-,1566,HIMIKO,フィリピン,2058,HAPPY,フィリピン,0,,-
-CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,0,,-,1668,FANZA,フィリピン,2497,CPU69,フィリピン,0,,-
-CANNON BALLERS,バスルーム ロマンス,0,,-,816,000000,フィリピン,887,THOMAS,フィリピン,2417,YUKI,フィリピン,0,,-
-CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,774,2PDAYO,フィリピン,1415,NRG*,フィリピン,2314,CH0P41,フィリピン,0,,-
-CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,569,D-UD,フィリピン,1099,000000,フィリピン,2361,HAPPY,フィリピン,0,,-
-CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,720,YAMADA,フィリピン,1293,JIMMY,フィリピン,2089,YUKI,フィリピン,0,,-
-CANNON BALLERS,シムルグの目醒め,0,,-,1399,HIMIKO,フィリピン,2176,CH0P41,フィリピン,3280,VE62CA,フィリピン,0,,-
-CANNON BALLERS,エディブルフラワーの独白,0,,-,0,,-,1522,CH0P41,フィリピン,2179,65A-B,フィリピン,0,,-
-CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,0,,-,1558,HIMIKO,フィリピン,2307,RDYVJ1,フィリピン,0,,-
-CANNON BALLERS,Xperanza,211,777777,フィリピン,1222,SH1R0!,フィリピン,2325,CPU69,フィリピン,3000,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Usual Days-remix,0,,-,362,000000,フィリピン,1460,*0218,フィリピン,2603,YUKI,フィリピン,0,,-
-CANNON BALLERS,UMMU,277,R,フィリピン,1051,FLUFF,フィリピン,1953,*#06#,フィリピン,2921,VE62CA,フィリピン,0,,-
-CANNON BALLERS,The Chase,0,,-,510,NANAMI,フィリピン,1294,KORIL,フィリピン,2046,65A-B,フィリピン,0,,-
-CANNON BALLERS,THE CANNONBALLER,0,,-,1142,NANAMI,フィリピン,2192,LEA*,フィリピン,3317,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Temple of Anubis,0,,-,737,000000,フィリピン,1478,HIMIKO,フィリピン,2499,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Static State,0,,-,0,,-,1368,*YUKI*,フィリピン,2057,HAPPY,フィリピン,0,,-
-CANNON BALLERS,STARLIGHT JUNCTION,0,,-,766,CHAN**,フィリピン,1544,CH0P41,フィリピン,2162,LEA*,フィリピン,2847,VE62CA,フィリピン
-CANNON BALLERS,SPEED DEMON,0,,-,374,SQUIDY,フィリピン,1343,MOB,フィリピン,2257,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Slipstream,0,,-,0,,-,1771,FANZA,フィリピン,3352,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Sleepless days,0,,-,0,,-,0,,-,1576,YUKI,フィリピン,0,,-
-CANNON BALLERS,REVOLVER,0,,-,714,MARIKA,フィリピン,1530,HIMIKO,フィリピン,2426,CH0P41,フィリピン,3086,VE62CA,フィリピン
-CANNON BALLERS,Raspberry Railgun,0,,-,1271,FANZA,フィリピン,1918,PU.,フィリピン,2997,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Rampage,0,,-,1153,JIMMY,フィリピン,2406,CH0P41,フィリピン,3573,YUKI,フィリピン,0,,-
-CANNON BALLERS,Persephone,0,,-,681,ELVIRA,フィリピン,1869,CH0P41,フィリピン,2838,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Papilio ulysses,0,,-,841,Z3KE9,フィリピン,1945,*#06#,フィリピン,2755,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Only for now,0,,-,0,,-,1511,HIMIKO,フィリピン,2205,65A-B,フィリピン,0,,-
-CANNON BALLERS,O/D*20,0,,-,0,,-,1574,FANZA,フィリピン,2101,YUKI,フィリピン,3709,VE62CA,フィリピン
-CANNON BALLERS,Nothing but Theory,0,,-,840,TEMPY,フィリピン,1391,FANZA,フィリピン,2847,YUKI,フィリピン,0,,-
-CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,588,HIKAMA,フィリピン,1489,HIMIKO,フィリピン,2262,VE62CA,フィリピン,0,,-
-CANNON BALLERS,NITROUS CANNON,0,,-,1072,NANAMI,フィリピン,1916,CH0P41,フィリピン,3450,VE62CA,フィリピン,0,,-
-CANNON BALLERS,n'pa pa BBQ,0,,-,814,CHAN**,フィリピン,1693,HIMIKO,フィリピン,2766,YUKI,フィリピン,0,,-
-CANNON BALLERS,Midnight Lady,0,,-,460,ASHYYY,フィリピン,610,ASHYYY,フィリピン,1942,YUKI,フィリピン,0,,-
-CANNON BALLERS,MAXIVCORD,0,,-,706,NRG*,フィリピン,1265,FANZA,フィリピン,2183,CH0P41,フィリピン,0,,-
-CANNON BALLERS,LUV DRIVE,0,,-,613,JOGO,フィリピン,1026,NRG*,フィリピン,2064,VE62CA,フィリピン,0,,-
-CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,494,ELVIRA,フィリピン,1860,HIMIKO,フィリピン,3370,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Initiation,421,EZ,フィリピン,1387,HIMIKO,フィリピン,2346,CH0P41,フィリピン,3810,YUKI,フィリピン,0,,-
-CANNON BALLERS,Illusionary Waterlily,0,,-,1279,HIMIKO,フィリピン,1934,KORIL,フィリピン,3375,VE62CA,フィリピン,0,,-
-CANNON BALLERS,I Love You,0,,-,790,TOASTR,フィリピン,1388,NOIL,フィリピン,2721,YUKI,フィリピン,0,,-
-CANNON BALLERS,HYPE THE CORE,0,,-,774,######,フィリピン,1688,IIDX31,フィリピン,2912,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Hella Deep,0,,-,487,TOASTR,フィリピン,806,.EBISU,フィリピン,1727,YUKI,フィリピン,0,,-
-CANNON BALLERS,HAT TRICK,0,,-,581,JOGO,フィリピン,1365,CH0P41,フィリピン,2081,CH0P41,フィリピン,0,,-
-CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,369,EZ,フィリピン,696,MARIKA,フィリピン,1854,VE62CA,フィリピン,0,,-
-CANNON BALLERS,FUTURE is Dead,0,,-,607,JOGO,フィリピン,1435,HIMIKO,フィリピン,1907,CH0P41,フィリピン,0,,-
-CANNON BALLERS,From Time To Time,0,,-,0,,-,1552,OTKPH,フィリピン,2527,YUKI,フィリピン,0,,-
-CANNON BALLERS,FREEDOM,0,,-,705,NANAMI,フィリピン,1686,HIMIKO,フィリピン,2685,CH0P41,フィリピン,0,,-
-CANNON BALLERS,Fervidex,0,,-,748,CAHAN*,フィリピン,1784,65A-B,フィリピン,2660,YUKI,フィリピン,0,,-
-CANNON BALLERS,Expanded !!,0,,-,0,,-,1533,HIMIKO,フィリピン,2309,POOCHY,フィリピン,0,,-
-CANNON BALLERS,Exhaust Hype,0,,-,0,,-,1835,CH0P41,フィリピン,2714,VE62CA,フィリピン,0,,-
-CANNON BALLERS,encounter,0,,-,543,YMN.C,フィリピン,1522,PU.,フィリピン,3170,VE62CA,フィリピン,0,,-
-CANNON BALLERS,EMERALDAS,349,RONNIE,フィリピン,1322,HIMIKO,フィリピン,2299,HAPPY,フィリピン,3295,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,0,,-,1381,HIMIKO,フィリピン,2476,VE62CA,フィリピン,0,,-
-CANNON BALLERS,DropZ-Line-,0,,-,1255,HIMIKO,フィリピン,1861,CH0P41,フィリピン,3032,VE62CA,フィリピン,0,,-
-CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1167,MTKMCH,フィリピン,2028,FANZA,フィリピン,3898,YUKI,フィリピン,4131,VE62CA,フィリピン
-CANNON BALLERS,DEADHEAT,0,,-,928,CCHIN5,フィリピン,1950,CH0P41,フィリピン,3176,VE62CA,フィリピン,0,,-
-CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,469,JOGO,フィリピン,1370,HIMIKO,フィリピン,2089,YUKI,フィリピン,0,,-
-CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1134,######,フィリピン,1840,CH0P41,フィリピン,2609,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Chemical Cookie,0,,-,629,TISATO,フィリピン,1415,HIMIKO,フィリピン,1981,LEA*,フィリピン,0,,-
-CANNON BALLERS,ChaserXX,0,,-,688,ENNA?,フィリピン,1650,DBB,フィリピン,2675,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Break Stasis,0,,-,793,BUTTER,フィリピン,1769,FANZA,フィリピン,2367,CH0P41,フィリピン,0,,-
-CANNON BALLERS,Boomy and The Boost,0,,-,768,PETER,フィリピン,1963,CH0P41,フィリピン,3413,YUKI,フィリピン,0,,-
-CANNON BALLERS,Best of Me,0,,-,544,JOGO,フィリピン,1525,HIMIKO,フィリピン,2202,YUKI,フィリピン,0,,-
-CANNON BALLERS,Be a Hero!,0,,-,664,MARIKA,フィリピン,1845,HIMIKO,フィリピン,2663,CH0P41,フィリピン,0,,-
-CANNON BALLERS,Battleground,0,,-,720,LEMON,フィリピン,1782,CH0P41,フィリピン,2614,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Back Spin Sweeper,0,,-,623,######,フィリピン,1141,FANZA,フィリピン,2180,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Around the Future,0,,-,759,THOMAS,フィリピン,1643,CH0P41,フィリピン,2483,VE62CA,フィリピン,0,,-
-CANNON BALLERS,Arca,0,,-,561,BUTTER,フィリピン,1657,FANZA,フィリピン,3022,YUKI,フィリピン,0,,-
-CANNON BALLERS,Antigravity,0,,-,859,TEMPY,フィリピン,1698,PU.,フィリピン,2956,VE62CA,フィリピン,0,,-
-CANNON BALLERS,ANCHOR,0,,-,1242,######,フィリピン,2327,CH0P41,フィリピン,3458,VE62CA,フィリピン,0,,-
-CANNON BALLERS,ANAGMA,0,,-,0,,-,1729,HIMIKO,フィリピン,2311,CPU69,フィリピン,0,,-
-CANNON BALLERS,Amor De Verao,0,,-,477,ASHYYY,フィリピン,1119,######,フィリピン,2315,YUKI,フィリピン,0,,-
-CANNON BALLERS,Alpheratz,0,,-,0,,-,590,JOGO,フィリピン,2040,VE62CA,フィリピン,0,,-
-CANNON BALLERS,ACCELERATE,0,,-,935,JIMMY,フィリピン,1692,HIMIKO,フィリピン,2337,CPU69,フィリピン,0,,-
-CANNON BALLERS,Abraxas,0,,-,650,H0M0,フィリピン,1544,CH0P41,フィリピン,2352,65A-B,フィリピン,0,,-
-CANNON BALLERS,AA -rebuild-,0,,-,1205,HIMIKO,フィリピン,2037,KORIL,フィリピン,3474,VE62CA,フィリピン,0,,-
-CANNON BALLERS,255,0,,-,619,QS36,フィリピン,1287,OTKPH,フィリピン,3134,VE62CA,フィリピン,0,,-
-CANNON BALLERS,1001 -ESCAPE-,0,,-,0,,-,1630,HIMIKO,フィリピン,2233,FANZA,フィリピン,0,,-
 SINOBUZ,鴉,0,,-,1292,MTKMCH,フィリピン,2138,65A-B,フィリピン,2633,65A-B,フィリピン,0,,-
 SINOBUZ,童話回廊,0,,-,698,JUGLR*,フィリピン,1309,######,フィリピン,2964,VE62CA,フィリピン,0,,-
 SINOBUZ,禍根,0,,-,650,######,フィリピン,1191,MARIKA,フィリピン,2525,VE62CA,フィリピン,0,,-
@@ -1125,6 +1043,88 @@ SINOBUZ,Amazing Mirage,268,SH1R0!,フィリピン,643,######,フィリピン,139
 SINOBUZ,(This Is Not) The Angels,0,,-,575,65A-B,フィリピン,1372,HIMIKO,フィリピン,2669,YUKI,フィリピン,0,,-
 SINOBUZ,#MAGiCVLGiRL_TRVP_B3VTZ,0,,-,929,JUGLR*,フィリピン,1881,KORIL,フィリピン,3306,VE62CA,フィリピン,0,,-
 SINOBUZ,!Viva!,0,,-,771,TISATO,フィリピン,1543,HIMIKO,フィリピン,2005,YUKI,フィリピン,0,,-
+CANNON BALLERS,草原の王女-軌跡を辿って-,0,,-,243,777777,フィリピン,1059,JIMMY,フィリピン,2289,YUKI,フィリピン,0,,-
+CANNON BALLERS,純真可憐デザイア,0,,-,731,CAHAN*,フィリピン,1604,CH0P41,フィリピン,2267,CH0P41,フィリピン,0,,-
+CANNON BALLERS,神謳 -RESONANCE-,0,,-,1114,65536,フィリピン,2366,CH0P41,フィリピン,3934,VE62CA,フィリピン,0,,-
+CANNON BALLERS,東京神話,438,005,フィリピン,791,PETER,フィリピン,1600,PU.,フィリピン,2694,VE62CA,フィリピン,0,,-
+CANNON BALLERS,命の標本,0,,-,0,,-,1643,HIMIKO,フィリピン,2609,VE62CA,フィリピン,0,,-
+CANNON BALLERS,共犯ヘヴンズコード,0,,-,210,MINT,フィリピン,998,JIMMY,フィリピン,2257,YUKI,フィリピン,0,,-
+CANNON BALLERS,ラストセンチュリーメランコリック,0,,-,0,,-,1566,HIMIKO,フィリピン,2058,HAPPY,フィリピン,0,,-
+CANNON BALLERS,パラドキシカル・タイムリープトライアル(Short Ver.),0,,-,0,,-,1668,FANZA,フィリピン,2497,CPU69,フィリピン,0,,-
+CANNON BALLERS,バスルーム ロマンス,0,,-,816,000000,フィリピン,887,THOMAS,フィリピン,2417,YUKI,フィリピン,0,,-
+CANNON BALLERS,バ→ビ→ブ→Bomb!,0,,-,774,2PDAYO,フィリピン,1415,NRG*,フィリピン,2314,CH0P41,フィリピン,0,,-
+CANNON BALLERS,ハイ*ビスカス ft. Kanae Asaba,0,,-,569,D-UD,フィリピン,1099,000000,フィリピン,2361,HAPPY,フィリピン,0,,-
+CANNON BALLERS,ナイトシティー・アヴァンチュール,0,,-,720,YAMADA,フィリピン,1293,JIMMY,フィリピン,2089,YUKI,フィリピン,0,,-
+CANNON BALLERS,シムルグの目醒め,0,,-,1399,HIMIKO,フィリピン,2176,CH0P41,フィリピン,3280,VE62CA,フィリピン,0,,-
+CANNON BALLERS,エディブルフラワーの独白,0,,-,0,,-,1522,CH0P41,フィリピン,2179,65A-B,フィリピン,0,,-
+CANNON BALLERS,うさ☆かめ 大戦争！,0,,-,0,,-,1558,HIMIKO,フィリピン,2307,RDYVJ1,フィリピン,0,,-
+CANNON BALLERS,Xperanza,211,777777,フィリピン,1222,SH1R0!,フィリピン,2325,CPU69,フィリピン,3000,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Usual Days-remix,0,,-,362,000000,フィリピン,1460,*0218,フィリピン,2603,YUKI,フィリピン,0,,-
+CANNON BALLERS,UMMU,277,R,フィリピン,1051,FLUFF,フィリピン,1953,*#06#,フィリピン,2921,VE62CA,フィリピン,0,,-
+CANNON BALLERS,The Chase,0,,-,510,NANAMI,フィリピン,1294,KORIL,フィリピン,2046,65A-B,フィリピン,0,,-
+CANNON BALLERS,THE CANNONBALLER,0,,-,1142,NANAMI,フィリピン,2192,LEA*,フィリピン,3317,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Temple of Anubis,0,,-,737,000000,フィリピン,1478,HIMIKO,フィリピン,2499,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Static State,0,,-,0,,-,1368,*YUKI*,フィリピン,2057,HAPPY,フィリピン,0,,-
+CANNON BALLERS,STARLIGHT JUNCTION,0,,-,766,CHAN**,フィリピン,1544,CH0P41,フィリピン,2162,LEA*,フィリピン,2847,VE62CA,フィリピン
+CANNON BALLERS,SPEED DEMON,0,,-,374,SQUIDY,フィリピン,1343,MOB,フィリピン,2257,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Slipstream,0,,-,0,,-,1771,FANZA,フィリピン,3352,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Sleepless days,0,,-,0,,-,0,,-,1576,YUKI,フィリピン,0,,-
+CANNON BALLERS,REVOLVER,0,,-,714,MARIKA,フィリピン,1530,HIMIKO,フィリピン,2426,CH0P41,フィリピン,3086,VE62CA,フィリピン
+CANNON BALLERS,Raspberry Railgun,0,,-,1271,FANZA,フィリピン,1918,PU.,フィリピン,2997,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Rampage,0,,-,1153,JIMMY,フィリピン,2406,CH0P41,フィリピン,3573,YUKI,フィリピン,0,,-
+CANNON BALLERS,Persephone,0,,-,681,ELVIRA,フィリピン,1869,CH0P41,フィリピン,2838,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Papilio ulysses,0,,-,841,Z3KE9,フィリピン,1945,*#06#,フィリピン,2755,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Only for now,0,,-,0,,-,1511,HIMIKO,フィリピン,2205,65A-B,フィリピン,0,,-
+CANNON BALLERS,O/D*20,0,,-,0,,-,1574,FANZA,フィリピン,2101,YUKI,フィリピン,3709,VE62CA,フィリピン
+CANNON BALLERS,Nothing but Theory,0,,-,840,TEMPY,フィリピン,1391,FANZA,フィリピン,2847,YUKI,フィリピン,0,,-
+CANNON BALLERS,No Limit 2 dAnce feat. 大山愛未,0,,-,588,HIKAMA,フィリピン,1489,HIMIKO,フィリピン,2262,VE62CA,フィリピン,0,,-
+CANNON BALLERS,NITROUS CANNON,0,,-,1072,NANAMI,フィリピン,1916,CH0P41,フィリピン,3450,VE62CA,フィリピン,0,,-
+CANNON BALLERS,n'pa pa BBQ,0,,-,814,CHAN**,フィリピン,1693,HIMIKO,フィリピン,2766,YUKI,フィリピン,0,,-
+CANNON BALLERS,Midnight Lady,0,,-,460,ASHYYY,フィリピン,610,ASHYYY,フィリピン,1942,YUKI,フィリピン,0,,-
+CANNON BALLERS,MAXIVCORD,0,,-,706,NRG*,フィリピン,1265,FANZA,フィリピン,2183,CH0P41,フィリピン,0,,-
+CANNON BALLERS,LUV DRIVE,0,,-,613,JOGO,フィリピン,1026,NRG*,フィリピン,2064,VE62CA,フィリピン,0,,-
+CANNON BALLERS,"Life Is A Game ft.DD""ナカタ""Metal",0,,-,494,ELVIRA,フィリピン,1860,HIMIKO,フィリピン,3370,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Initiation,421,EZ,フィリピン,1387,HIMIKO,フィリピン,2346,CH0P41,フィリピン,3810,YUKI,フィリピン,0,,-
+CANNON BALLERS,Illusionary Waterlily,0,,-,1279,HIMIKO,フィリピン,1934,KORIL,フィリピン,3375,VE62CA,フィリピン,0,,-
+CANNON BALLERS,I Love You,0,,-,790,TOASTR,フィリピン,1388,NOIL,フィリピン,2721,YUKI,フィリピン,0,,-
+CANNON BALLERS,HYPE THE CORE,0,,-,774,######,フィリピン,1688,IIDX31,フィリピン,2912,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Hella Deep,0,,-,487,TOASTR,フィリピン,806,.EBISU,フィリピン,1727,YUKI,フィリピン,0,,-
+CANNON BALLERS,HAT TRICK,0,,-,581,JOGO,フィリピン,1365,CH0P41,フィリピン,2081,CH0P41,フィリピン,0,,-
+CANNON BALLERS,Get Up! feat. Kanae Asaba,0,,-,369,EZ,フィリピン,696,MARIKA,フィリピン,1854,VE62CA,フィリピン,0,,-
+CANNON BALLERS,FUTURE is Dead,0,,-,607,JOGO,フィリピン,1435,HIMIKO,フィリピン,1907,CH0P41,フィリピン,0,,-
+CANNON BALLERS,From Time To Time,0,,-,0,,-,1552,OTKPH,フィリピン,2527,YUKI,フィリピン,0,,-
+CANNON BALLERS,FREEDOM,0,,-,705,NANAMI,フィリピン,1686,HIMIKO,フィリピン,2685,CH0P41,フィリピン,0,,-
+CANNON BALLERS,Fervidex,0,,-,748,CAHAN*,フィリピン,1784,65A-B,フィリピン,2660,YUKI,フィリピン,0,,-
+CANNON BALLERS,Expanded !!,0,,-,0,,-,1533,HIMIKO,フィリピン,2309,POOCHY,フィリピン,0,,-
+CANNON BALLERS,Exhaust Hype,0,,-,0,,-,1835,CH0P41,フィリピン,2714,VE62CA,フィリピン,0,,-
+CANNON BALLERS,encounter,0,,-,543,YMN.C,フィリピン,1522,PU.,フィリピン,3170,VE62CA,フィリピン,0,,-
+CANNON BALLERS,EMERALDAS,349,RONNIE,フィリピン,1322,HIMIKO,フィリピン,2299,HAPPY,フィリピン,3295,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Eine Haube ～聖地の果てにあるもの～,0,,-,0,,-,1381,HIMIKO,フィリピン,2476,VE62CA,フィリピン,0,,-
+CANNON BALLERS,DropZ-Line-,0,,-,1255,HIMIKO,フィリピン,1861,CH0P41,フィリピン,3032,VE62CA,フィリピン,0,,-
+CANNON BALLERS,DEATH†ZIGOQ ～怒りの高速爆走野郎～,0,,-,1167,MTKMCH,フィリピン,2028,FANZA,フィリピン,3898,YUKI,フィリピン,4131,VE62CA,フィリピン
+CANNON BALLERS,DEADHEAT,0,,-,928,CCHIN5,フィリピン,1950,CH0P41,フィリピン,3176,VE62CA,フィリピン,0,,-
+CANNON BALLERS,COSMIC☆WONDER☆REVOLUTION,0,,-,469,JOGO,フィリピン,1370,HIMIKO,フィリピン,2089,YUKI,フィリピン,0,,-
+CANNON BALLERS,City Never Sleeps (IIDX Edition),0,,-,1134,######,フィリピン,1840,CH0P41,フィリピン,2609,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Chemical Cookie,0,,-,629,TISATO,フィリピン,1415,HIMIKO,フィリピン,1981,LEA*,フィリピン,0,,-
+CANNON BALLERS,ChaserXX,0,,-,688,ENNA?,フィリピン,1650,DBB,フィリピン,2675,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Break Stasis,0,,-,793,BUTTER,フィリピン,1769,FANZA,フィリピン,2367,CH0P41,フィリピン,0,,-
+CANNON BALLERS,Boomy and The Boost,0,,-,768,PETER,フィリピン,1963,CH0P41,フィリピン,3413,YUKI,フィリピン,0,,-
+CANNON BALLERS,Best of Me,0,,-,544,JOGO,フィリピン,1525,HIMIKO,フィリピン,2202,YUKI,フィリピン,0,,-
+CANNON BALLERS,Be a Hero!,0,,-,664,MARIKA,フィリピン,1845,HIMIKO,フィリピン,2663,CH0P41,フィリピン,0,,-
+CANNON BALLERS,Battleground,0,,-,720,LEMON,フィリピン,1782,CH0P41,フィリピン,2614,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Back Spin Sweeper,0,,-,623,######,フィリピン,1141,FANZA,フィリピン,2180,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Around the Future,0,,-,759,THOMAS,フィリピン,1643,CH0P41,フィリピン,2483,VE62CA,フィリピン,0,,-
+CANNON BALLERS,Arca,0,,-,561,BUTTER,フィリピン,1657,FANZA,フィリピン,3022,YUKI,フィリピン,0,,-
+CANNON BALLERS,Antigravity,0,,-,859,TEMPY,フィリピン,1698,PU.,フィリピン,2956,VE62CA,フィリピン,0,,-
+CANNON BALLERS,ANCHOR,0,,-,1242,######,フィリピン,2327,CH0P41,フィリピン,3458,VE62CA,フィリピン,0,,-
+CANNON BALLERS,ANAGMA,0,,-,0,,-,1729,HIMIKO,フィリピン,2311,CPU69,フィリピン,0,,-
+CANNON BALLERS,Amor De Verao,0,,-,477,ASHYYY,フィリピン,1119,######,フィリピン,2315,YUKI,フィリピン,0,,-
+CANNON BALLERS,Alpheratz,0,,-,0,,-,590,JOGO,フィリピン,2040,VE62CA,フィリピン,0,,-
+CANNON BALLERS,ACCELERATE,0,,-,935,JIMMY,フィリピン,1692,HIMIKO,フィリピン,2337,CPU69,フィリピン,0,,-
+CANNON BALLERS,Abraxas,0,,-,650,H0M0,フィリピン,1544,CH0P41,フィリピン,2352,65A-B,フィリピン,0,,-
+CANNON BALLERS,AA -rebuild-,0,,-,1205,HIMIKO,フィリピン,2037,KORIL,フィリピン,3474,VE62CA,フィリピン,0,,-
+CANNON BALLERS,255,0,,-,619,QS36,フィリピン,1287,OTKPH,フィリピン,3134,VE62CA,フィリピン,0,,-
+CANNON BALLERS,1001 -ESCAPE-,0,,-,0,,-,1630,HIMIKO,フィリピン,2233,FANZA,フィリピン,0,,-
 Rootage,龍王の霊廟(Mausoleum Of The Primal Dragon),0,,-,897,JIMMY,フィリピン,2207,CPU69,フィリピン,2943,CH0P41,フィリピン,3823,VE62CA,フィリピン
 Rootage,金野火織の金色提言,0,,-,838,Z3KE9,フィリピン,2126,HIMIKO,フィリピン,2940,VE62CA,フィリピン,0,,-
 Rootage,花冠 feat.Aikapin,0,,-,0,,-,954,JIMMY,フィリピン,2333,KORIL,フィリピン,0,,-
@@ -1320,103 +1320,6 @@ HEROIC VERSE,And-RoiD,0,,-,500,######,フィリピン,1184,######,フィリピ�
 HEROIC VERSE,AKASHIC BREAK,0,,-,1108,######,フィリピン,2098,PU.,フィリピン,3484,VE62CA,フィリピン,0,,-
 HEROIC VERSE,Advent Infamous,0,,-,802,000000,フィリピン,1627,HIMIKO,フィリピン,2670,HAPPY,フィリピン,0,,-
 HEROIC VERSE,27th style,0,,-,0,,-,1716,CH0P41,フィリピン,2472,YUKI,フィリピン,0,,-
-CastHour,黒紅掬い,0,,-,461,YMN.C,フィリピン,1117,FANZA,フィリピン,1825,YUKI,フィリピン,0,,-
-CastHour,青の洞窟,0,,-,0,,-,1890,CPU69,フィリピン,3047,YUKI,フィリピン,0,,-
-CastHour,雪上断火,0,,-,804,JIMMY,フィリピン,1755,*#06#,フィリピン,2764,65A-B,フィリピン,0,,-
-CastHour,逆月,0,,-,1404,005,フィリピン,2230,CH0P41,フィリピン,3636,YUKI,フィリピン,0,,-
-CastHour,踊,163,VEETEE,フィリピン,252,RILEY,フィリピン,649,CJ.IW,フィリピン,1622,YUKI,フィリピン,2075,YUKI,フィリピン
-CastHour,禊,0,,-,841,000000,フィリピン,2096,CPU69,フィリピン,3060,VE62CA,フィリピン,0,,-
-CastHour,烽火連天の刃,0,,-,603,QS36,フィリピン,2176,CPU69,フィリピン,3296,YUKI,フィリピン,0,,-
-CastHour,月とミルク,0,,-,740,CCHIN5,フィリピン,1538,MOB,フィリピン,2753,YUKI,フィリピン,0,,-
-CastHour,愛しくてラヴィンユー ft. マナ,0,,-,444,YAMADA,フィリピン,1234,JIMMY,フィリピン,2397,YUKI,フィリピン,0,,-
-CastHour,怪物,319,*YUKI*,フィリピン,633,TOASTR,フィリピン,1160,65A-B,フィリピン,2403,YUKI,フィリピン,0,,-
-CastHour,天邪鬼,0,,-,814,MTKMCH,フィリピン,1613,CH0P41,フィリピン,3212,YUKI,フィリピン,0,,-
-CastHour,口カラ凸ゲキ,0,,-,747,MARIKA,フィリピン,1475,HIMIKO,フィリピン,2263,YUKI,フィリピン,0,,-
-CastHour,ミュージック・アワー,518,2PDAYO,フィリピン,808,65A-B,フィリピン,2052,CH0P41,フィリピン,2983,YUKI,フィリピン,0,,-
-CastHour,"ピアノ独奏無言歌 ""灰燼""",0,,-,840,Z3KE9,フィリピン,2177,HAPPY,フィリピン,3301,YUKI,フィリピン,0,,-
-CastHour,ハイテックトキオ,0,,-,1065,HIMIKO,フィリピン,1830,CH0P41,フィリピン,2625,VE62CA,フィリピン,3150,VE62CA,フィリピン
-CastHour,ナイトフィクション,0,,-,585,CAHAN*,フィリピン,1518,65A-B,フィリピン,2093,VE62CA,フィリピン,0,,-
-CastHour,デモーニッシュ,138,OOFIE,フィリピン,0,,-,1320,FANZA,フィリピン,2235,HIMIKO,フィリピン,2764,*0218,フィリピン
-CastHour,シル・ヴ・プレジデント,278,FANZA,フィリピン,579,K1R1T0,フィリピン,1197,HIMIKO,フィリピン,1795,YUKI,フィリピン,2540,YUKI,フィリピン
-CastHour,グッバイ宣言,422,ZUKO,フィリピン,1033,*YUKI*,フィリピン,1728,CH0P41,フィリピン,3092,YUKI,フィリピン,0,,-
-CastHour,オールトの雲,0,,-,891,CCHIN5,フィリピン,1779,MARIKA,フィリピン,2611,YUKI,フィリピン,0,,-
-CastHour,オドループ,479,*YUKI*,フィリピン,990,JIMMY,フィリピン,1385,MARIKA,フィリピン,2347,YUKI,フィリピン,2992,YUKI,フィリピン
-CastHour,ウツシミウツシ,0,,-,0,,-,2002,CH0P41,フィリピン,2892,CH0P41,フィリピン,0,,-
-CastHour,アクマフカ,0,,-,0,,-,1313,MARIKA,フィリピン,2245,YUKI,フィリピン,0,,-
-CastHour,めでてえ,0,,-,880,PETER,フィリピン,1539,FANZA,フィリピン,2443,65A-B,フィリピン,0,,-
-CastHour,あいつら全員同窓会,359,*YUKI*,フィリピン,621,*YUKI*,フィリピン,1197,HIMIKO,フィリピン,2039,YUKI,フィリピン,0,,-
-CastHour,《GRANDMASTER》,0,,-,763,######,フィリピン,1627,MOB,フィリピン,2268,KAIJIN,フィリピン,0,,-
-CastHour,Xyndrome,0,,-,571,ELVIRA,フィリピン,1555,CH0P41,フィリピン,2791,VE62CA,フィリピン,0,,-
-CastHour,Wonderful Escape,0,,-,0,,-,1033,SHIRO*,フィリピン,2042,VE62CA,フィリピン,0,,-
-CastHour,WHA,0,,-,1030,96,フィリピン,2039,CPU69,フィリピン,3407,VE62CA,フィリピン,0,,-
-CastHour,VR - Virtual Reality (prod.by Snail's House),171,M12KE,フィリピン,412,ZUKO,フィリピン,1066,IIDX28,フィリピン,1822,YUKI,フィリピン,2435,YUKI,フィリピン
-CastHour,Votania Beat,0,,-,0,,-,1217,H0M0,フィリピン,2264,FANZA,フィリピン,0,,-
-CastHour,Victory Of Ravers,0,,-,0,,-,1370,SH1R0!,フィリピン,2422,RDYVJ1,フィリピン,0,,-
-CastHour,Ventriloquist,0,,-,551,SANDAL,フィリピン,1469,CH0P41,フィリピン,2415,YUKI,フィリピン,0,,-
-CastHour,Triple Cross,412,JOGO,フィリピン,898,JOGO,フィリピン,2187,CH0P41,フィリピン,3226,VE62CA,フィリピン,0,,-
-CastHour,TOMAHAWK,0,,-,991,THOMAS,フィリピン,2213,HIMIKO,フィリピン,3313,YUKI,フィリピン,0,,-
-CastHour,Tail Lights,0,,-,775,MNL100,フィリピン,1855,CH0P41,フィリピン,3056,65A-B,フィリピン,0,,-
-CastHour,Stepper,0,,-,571,TOASTR,フィリピン,1297,FLUFF,フィリピン,2145,YUKI,フィリピン,0,,-
-CastHour,SPARK IN THE NIGHT,0,,-,0,,-,1377,CH0P41,フィリピン,2116,65A-B,フィリピン,0,,-
-CastHour,Souhait bleu,0,,-,718,MARIKA,フィリピン,1769,CH0P41,フィリピン,2621,VE62CA,フィリピン,0,,-
-CastHour,SOLID WYVERN,0,,-,1181,HIMIKO,フィリピン,1887,CH0P41,フィリピン,2575,VE62CA,フィリピン,3763,VE62CA,フィリピン
-CastHour,Smalt #28598F,0,,-,0,,-,2154,CH0P41,フィリピン,3176,VE62CA,フィリピン,0,,-
-CastHour,Skreaming for Salvation,0,,-,817,HIMIKO,フィリピン,1968,CH0P41,フィリピン,2959,YUKI,フィリピン,0,,-
-CastHour,Silver Bullet,0,,-,685,D-UD,フィリピン,1876,CPU69,フィリピン,3056,YUKI,フィリピン,0,,-
-CastHour,RAGE feat.H14 of LEONAIR,419,HIMIKO,フィリピン,921,96,フィリピン,2105,KORIL,フィリピン,3193,YUKI,フィリピン,0,,-
-CastHour,Push on Beats!～音ゲの国のeX-ストリーマー～,0,,-,870,YUU-!!,フィリピン,1834,CH0P41,フィリピン,2896,CPU69,フィリピン,0,,-
-CastHour,Purple Perplex,0,,-,775,KAYA*,フィリピン,1771,KORIL,フィリピン,2849,YUKI,フィリピン,0,,-
-CastHour,Prohibited Props,0,,-,0,,-,1509,HIMIKO,フィリピン,2162,CH0P41,フィリピン,0,,-
-CastHour,Pout,0,,-,902,000000,フィリピン,1686,CH0P41,フィリピン,2568,YUKI,フィリピン,0,,-
-CastHour,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,424,HIMIKO,フィリピン,1204,LEA*,フィリピン,2443,CH0P41,フィリピン,4301,YUKI,フィリピン,0,,-
-CastHour,PIRATES BLADE,0,,-,0,,-,1483,CH0P41,フィリピン,2058,CH0P41,フィリピン,0,,-
-CastHour,P.O.W.E.R.,0,,-,596,JOGO,フィリピン,1674,HIMIKO,フィリピン,2115,CH0P41,フィリピン,0,,-
-CastHour,Onyx,0,,-,550,ELVIRA,フィリピン,1448,HIMIKO,フィリピン,2365,YUKI,フィリピン,0,,-
-CastHour,One for All,0,,-,772,JOGO,フィリピン,1685,CH0P41,フィリピン,3133,VE62CA,フィリピン,0,,-
-CastHour,Non Stop Rock,0,,-,573,TOASTR,フィリピン,1194,MOB,フィリピン,1691,HAPPY,フィリピン,0,,-
-CastHour,Nocturnal 2097,0,,-,662,QS36,フィリピン,1793,KORIL,フィリピン,2882,YUKI,フィリピン,0,,-
-CastHour,No Day But Today!,0,,-,0,,-,852,JIMMY,フィリピン,1617,OTKPH,フィリピン,0,,-
-CastHour,n/a,0,,-,863,000000,フィリピン,1818,HIMIKO,フィリピン,3098,VE62CA,フィリピン,0,,-
-CastHour,N.O.,0,,-,571,D-UD,フィリピン,1220,MTKMCH,フィリピン,2320,CPU69,フィリピン,0,,-
-CastHour,LIVE DRIVING!! feat. 花たん,0,,-,0,,-,2438,CH0P41,フィリピン,3723,VE62CA,フィリピン,0,,-
-CastHour,Legendary Treasures,0,,-,0,,-,1073,.EBISU,フィリピン,2723,CH0P41,フィリピン,0,,-
-CastHour,Lawes's Parotia,0,,-,552,USA,フィリピン,1685,CH0P41,フィリピン,2487,VE62CA,フィリピン,0,,-
-CastHour,kors k's How to make OTOGE CORE,0,,-,555,THOMAS,フィリピン,1249,MOB,フィリピン,2215,YUKI,フィリピン,0,,-
-CastHour,ILAYZA,0,,-,1143,HIMIKO,フィリピン,1961,CH0P41,フィリピン,2751,VE62CA,フィリピン,0,,-
-CastHour,HEARTACHE,0,,-,346,JAYMEL,フィリピン,1111,FANZA,フィリピン,1796,YUKI,フィリピン,0,,-
-CastHour,Hat Surprise,0,,-,346,JOGO,フィリピン,1363,RANDOM,フィリピン,2450,YUKI,フィリピン,0,,-
-CastHour,Harmonia,0,,-,471,SANDAL,フィリピン,1236,65A-B,フィリピン,2016,YUKI,フィリピン,0,,-
-CastHour,hard-wired,0,,-,1178,PEENOR,フィリピン,2110,*#06#,フィリピン,3370,VE62CA,フィリピン,0,,-
-CastHour,GRAVITON,0,,-,671,THIEF,フィリピン,1951,CH0P41,フィリピン,3443,YUKI,フィリピン,0,,-
-CastHour,GiGaGaHell,0,,-,1308,HIMIKO,フィリピン,1855,HIMIKO,フィリピン,2495,CPU69,フィリピン,0,,-
-CastHour,"Get set, Go! feat.Kanae Asaba",0,,-,718,FLUFF,フィリピン,1168,JIMMY,フィリピン,2025,CPU69,フィリピン,0,,-
-CastHour,Game Changers,0,,-,621,FLUFF,フィリピン,1321,DBB,フィリピン,2543,CPU69,フィリピン,0,,-
-CastHour,Flying Castle,0,,-,800,JOGO,フィリピン,2110,CH0P41,フィリピン,3473,VE62CA,フィリピン,0,,-
-CastHour,FINALLY BLAZE,0,,-,632,JOGO,フィリピン,1562,QUILLY,フィリピン,2689,VE62CA,フィリピン,0,,-
-CastHour,Fegrix,0,,-,1232,HIMIKO,フィリピン,2108,CH0P41,フィリピン,3162,VE62CA,フィリピン,0,,-
-CastHour,Fantastic Merry-Go-Round,0,,-,0,,-,1374,2PDAYO,フィリピン,2039,CH0P41,フィリピン,0,,-
-CastHour,Ergosphere,0,,-,725,JOGO,フィリピン,1694,CH0P41,フィリピン,2668,VE62CA,フィリピン,0,,-
-CastHour,EMOTiON TRiPPER,0,,-,0,,-,1444,CH0P41,フィリピン,2163,YUKI,フィリピン,0,,-
-CastHour,Emera,0,,-,644,JOGO,フィリピン,1565,CH0P41,フィリピン,2257,VE62CA,フィリピン,0,,-
-CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,0,,-,1597,FANZA,フィリピン,2679,YUKI,フィリピン,0,,-
-CastHour,Don't believe the hype,0,,-,874,MARIKA,フィリピン,1899,FANZA,フィリピン,2990,YUKI,フィリピン,0,,-
-CastHour,Divine Heaven,0,,-,0,,-,1880,CH0P41,フィリピン,2919,VE62CA,フィリピン,0,,-
-CastHour,DISPARATE,0,,-,635,######,フィリピン,1526,RANDOM,フィリピン,2354,VE62CA,フィリピン,0,,-
-CastHour,Brave Spirits,0,,-,637,FLUFF,フィリピン,1375,HIMIKO,フィリピン,2411,YUKI,フィリピン,0,,-
-CastHour,Blue Bird feat. Kanae Asaba,0,,-,398,JOGO,フィリピン,601,QS36,フィリピン,1769,YUKI,フィリピン,0,,-
-CastHour,Binary Black Hole,0,,-,999,JUGLR*,フィリピン,2131,HANABI,フィリピン,3691,VE62CA,フィリピン,0,,-
-CastHour,Banger Banger Banger Banger,0,,-,866,JIMMY,フィリピン,1638,MOB,フィリピン,2811,VE62CA,フィリピン,0,,-
-CastHour,Arkadia,0,,-,929,MARIKA,フィリピン,2076,65A-B,フィリピン,3518,VE62CA,フィリピン,0,,-
-CastHour,Ariah,0,,-,510,USA,フィリピン,1477,65A-B,フィリピン,2147,YUKI,フィリピン,0,,-
-CastHour,Angel's Ladder,0,,-,924,CAHAN*,フィリピン,1966,FANZA,フィリピン,3191,VE62CA,フィリピン,0,,-
-CastHour,ANEMONE,214,HIMIKO,フィリピン,608,YAMADA,フィリピン,1450,######,フィリピン,2137,YUKI,フィリピン,0,,-
-CastHour,AMICABLE,0,,-,782,MINATO,フィリピン,1563,CH0P41,フィリピン,2378,CH0P41,フィリピン,0,,-
-CastHour,ALTERNATOR,0,,-,1220,MARIKA,フィリピン,2437,CH0P41,フィリピン,3588,VE62CA,フィリピン,0,,-
-CastHour,Aftermath,0,,-,708,QS36,フィリピン,2275,CH0P41,フィリピン,3512,VE62CA,フィリピン,0,,-
-CastHour,ABSOLUTE EVIL,241,HIMIKO,フィリピン,904,TAIRA,フィリピン,2117,CPU69,フィリピン,3337,VE62CA,フィリピン,0,,-
-CastHour,808monkey,0,,-,593,TOASTR,フィリピン,878,SIREN,フィリピン,1803,YUKI,フィリピン,0,,-
-CastHour,2 Beasts Unchained,0,,-,1093,PEENOR,フィリピン,1958,FANZA,フィリピン,3195,VE62CA,フィリピン,0,,-
-CastHour,10000 MILES AWAY,0,,-,722,JOGO,フィリピン,1601,CH0P41,フィリピン,2838,VE62CA,フィリピン,0,,-
 BISTROVER,魔法のかくれんぼ,0,,-,605,SANDAL,フィリピン,1426,005,フィリピン,2628,VE62CA,フィリピン,0,,-
 BISTROVER,霧幻メモリア,0,,-,445,YAMADA,フィリピン,1183,NOIL,フィリピン,1935,CH0P41,フィリピン,0,,-
 BISTROVER,閠槞彁の願い,0,,-,0,,-,2029,CH0P41,フィリピン,3002,65A-B,フィリピン,0,,-
@@ -1516,6 +1419,103 @@ BISTROVER,AMRITA -不滅ノ花-,0,,-,826,JIMMY,フィリピン,1567,CPU69,フィ
 BISTROVER,Ah Hah Yeah,0,,-,521,TOASTR,フィリピン,1214,HIMIKO,フィリピン,2097,YUKI,フィリピン,0,,-
 BISTROVER,ABSOLUTE (kors k Remix),0,,-,823,THOMAS,フィリピン,1504,HIMIKO,フィリピン,2368,CH0P41,フィリピン,0,,-
 BISTROVER,-65℃,0,,-,0,,-,1998,OTKPH,フィリピン,3638,VE62CA,フィリピン,0,,-
+CastHour,黒紅掬い,0,,-,461,YMN.C,フィリピン,1117,FANZA,フィリピン,1825,YUKI,フィリピン,0,,-
+CastHour,青の洞窟,0,,-,0,,-,1890,CPU69,フィリピン,3047,YUKI,フィリピン,0,,-
+CastHour,雪上断火,0,,-,804,JIMMY,フィリピン,1755,*#06#,フィリピン,2764,65A-B,フィリピン,0,,-
+CastHour,逆月,0,,-,1404,005,フィリピン,2230,CH0P41,フィリピン,3636,YUKI,フィリピン,0,,-
+CastHour,踊,163,VEETEE,フィリピン,252,RILEY,フィリピン,649,CJ.IW,フィリピン,1622,YUKI,フィリピン,2075,YUKI,フィリピン
+CastHour,禊,0,,-,841,000000,フィリピン,2096,CPU69,フィリピン,3060,VE62CA,フィリピン,0,,-
+CastHour,烽火連天の刃,0,,-,603,QS36,フィリピン,2176,CPU69,フィリピン,3296,YUKI,フィリピン,0,,-
+CastHour,月とミルク,0,,-,740,CCHIN5,フィリピン,1538,MOB,フィリピン,2753,YUKI,フィリピン,0,,-
+CastHour,愛しくてラヴィンユー ft. マナ,0,,-,444,YAMADA,フィリピン,1234,JIMMY,フィリピン,2397,YUKI,フィリピン,0,,-
+CastHour,怪物,319,*YUKI*,フィリピン,633,TOASTR,フィリピン,1160,65A-B,フィリピン,2403,YUKI,フィリピン,0,,-
+CastHour,天邪鬼,0,,-,814,MTKMCH,フィリピン,1613,CH0P41,フィリピン,3212,YUKI,フィリピン,0,,-
+CastHour,口カラ凸ゲキ,0,,-,747,MARIKA,フィリピン,1475,HIMIKO,フィリピン,2263,YUKI,フィリピン,0,,-
+CastHour,ミュージック・アワー,518,2PDAYO,フィリピン,808,65A-B,フィリピン,2052,CH0P41,フィリピン,2983,YUKI,フィリピン,0,,-
+CastHour,"ピアノ独奏無言歌 ""灰燼""",0,,-,840,Z3KE9,フィリピン,2177,HAPPY,フィリピン,3301,YUKI,フィリピン,0,,-
+CastHour,ハイテックトキオ,0,,-,1065,HIMIKO,フィリピン,1830,CH0P41,フィリピン,2625,VE62CA,フィリピン,3150,VE62CA,フィリピン
+CastHour,ナイトフィクション,0,,-,585,CAHAN*,フィリピン,1518,65A-B,フィリピン,2093,VE62CA,フィリピン,0,,-
+CastHour,デモーニッシュ,138,OOFIE,フィリピン,0,,-,1320,FANZA,フィリピン,2235,HIMIKO,フィリピン,2764,*0218,フィリピン
+CastHour,シル・ヴ・プレジデント,278,FANZA,フィリピン,579,K1R1T0,フィリピン,1197,HIMIKO,フィリピン,1795,YUKI,フィリピン,2540,YUKI,フィリピン
+CastHour,グッバイ宣言,422,ZUKO,フィリピン,1033,*YUKI*,フィリピン,1728,CH0P41,フィリピン,3092,YUKI,フィリピン,0,,-
+CastHour,オールトの雲,0,,-,891,CCHIN5,フィリピン,1779,MARIKA,フィリピン,2611,YUKI,フィリピン,0,,-
+CastHour,オドループ,479,*YUKI*,フィリピン,990,JIMMY,フィリピン,1385,MARIKA,フィリピン,2347,YUKI,フィリピン,2992,YUKI,フィリピン
+CastHour,ウツシミウツシ,0,,-,0,,-,2002,CH0P41,フィリピン,2892,CH0P41,フィリピン,0,,-
+CastHour,アクマフカ,0,,-,0,,-,1313,MARIKA,フィリピン,2245,YUKI,フィリピン,0,,-
+CastHour,めでてえ,0,,-,880,PETER,フィリピン,1539,FANZA,フィリピン,2443,65A-B,フィリピン,0,,-
+CastHour,あいつら全員同窓会,359,*YUKI*,フィリピン,621,*YUKI*,フィリピン,1197,HIMIKO,フィリピン,2039,YUKI,フィリピン,0,,-
+CastHour,《GRANDMASTER》,0,,-,763,######,フィリピン,1627,MOB,フィリピン,2268,KAIJIN,フィリピン,0,,-
+CastHour,Xyndrome,0,,-,571,ELVIRA,フィリピン,1555,CH0P41,フィリピン,2791,VE62CA,フィリピン,0,,-
+CastHour,Wonderful Escape,0,,-,0,,-,1033,SHIRO*,フィリピン,2042,VE62CA,フィリピン,0,,-
+CastHour,WHA,0,,-,1030,96,フィリピン,2039,CPU69,フィリピン,3407,VE62CA,フィリピン,0,,-
+CastHour,VR - Virtual Reality (prod.by Snail's House),171,M12KE,フィリピン,412,ZUKO,フィリピン,1066,IIDX28,フィリピン,1822,YUKI,フィリピン,2435,YUKI,フィリピン
+CastHour,Votania Beat,0,,-,0,,-,1217,H0M0,フィリピン,2264,FANZA,フィリピン,0,,-
+CastHour,Victory Of Ravers,0,,-,0,,-,1370,SH1R0!,フィリピン,2422,RDYVJ1,フィリピン,0,,-
+CastHour,Ventriloquist,0,,-,551,SANDAL,フィリピン,1469,CH0P41,フィリピン,2415,YUKI,フィリピン,0,,-
+CastHour,Triple Cross,412,JOGO,フィリピン,898,JOGO,フィリピン,2187,CH0P41,フィリピン,3226,VE62CA,フィリピン,0,,-
+CastHour,TOMAHAWK,0,,-,991,THOMAS,フィリピン,2213,HIMIKO,フィリピン,3313,YUKI,フィリピン,0,,-
+CastHour,Tail Lights,0,,-,775,MNL100,フィリピン,1855,CH0P41,フィリピン,3056,65A-B,フィリピン,0,,-
+CastHour,Stepper,0,,-,571,TOASTR,フィリピン,1297,FLUFF,フィリピン,2145,YUKI,フィリピン,0,,-
+CastHour,SPARK IN THE NIGHT,0,,-,0,,-,1377,CH0P41,フィリピン,2116,65A-B,フィリピン,0,,-
+CastHour,Souhait bleu,0,,-,718,MARIKA,フィリピン,1769,CH0P41,フィリピン,2621,VE62CA,フィリピン,0,,-
+CastHour,SOLID WYVERN,0,,-,1181,HIMIKO,フィリピン,1887,CH0P41,フィリピン,2575,VE62CA,フィリピン,3763,VE62CA,フィリピン
+CastHour,Smalt #28598F,0,,-,0,,-,2154,CH0P41,フィリピン,3176,VE62CA,フィリピン,0,,-
+CastHour,Skreaming for Salvation,0,,-,817,HIMIKO,フィリピン,1968,CH0P41,フィリピン,2959,YUKI,フィリピン,0,,-
+CastHour,Silver Bullet,0,,-,685,D-UD,フィリピン,1876,CPU69,フィリピン,3056,YUKI,フィリピン,0,,-
+CastHour,RAGE feat.H14 of LEONAIR,419,HIMIKO,フィリピン,921,96,フィリピン,2105,KORIL,フィリピン,3193,YUKI,フィリピン,0,,-
+CastHour,Push on Beats!～音ゲの国のeX-ストリーマー～,0,,-,870,YUU-!!,フィリピン,1834,CH0P41,フィリピン,2896,CPU69,フィリピン,0,,-
+CastHour,Purple Perplex,0,,-,775,KAYA*,フィリピン,1771,KORIL,フィリピン,2849,YUKI,フィリピン,0,,-
+CastHour,Prohibited Props,0,,-,0,,-,1509,HIMIKO,フィリピン,2162,CH0P41,フィリピン,0,,-
+CastHour,Pout,0,,-,902,000000,フィリピン,1686,CH0P41,フィリピン,2568,YUKI,フィリピン,0,,-
+CastHour,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,424,HIMIKO,フィリピン,1204,LEA*,フィリピン,2443,CH0P41,フィリピン,4301,YUKI,フィリピン,0,,-
+CastHour,PIRATES BLADE,0,,-,0,,-,1483,CH0P41,フィリピン,2058,CH0P41,フィリピン,0,,-
+CastHour,P.O.W.E.R.,0,,-,596,JOGO,フィリピン,1674,HIMIKO,フィリピン,2115,CH0P41,フィリピン,0,,-
+CastHour,Onyx,0,,-,550,ELVIRA,フィリピン,1448,HIMIKO,フィリピン,2365,YUKI,フィリピン,0,,-
+CastHour,One for All,0,,-,772,JOGO,フィリピン,1685,CH0P41,フィリピン,3133,VE62CA,フィリピン,0,,-
+CastHour,Non Stop Rock,0,,-,573,TOASTR,フィリピン,1194,MOB,フィリピン,1691,HAPPY,フィリピン,0,,-
+CastHour,Nocturnal 2097,0,,-,662,QS36,フィリピン,1793,KORIL,フィリピン,2882,YUKI,フィリピン,0,,-
+CastHour,No Day But Today!,0,,-,0,,-,852,JIMMY,フィリピン,1617,OTKPH,フィリピン,0,,-
+CastHour,n/a,0,,-,863,000000,フィリピン,1818,HIMIKO,フィリピン,3098,VE62CA,フィリピン,0,,-
+CastHour,N.O.,0,,-,571,D-UD,フィリピン,1220,MTKMCH,フィリピン,2320,CPU69,フィリピン,0,,-
+CastHour,LIVE DRIVING!! feat. 花たん,0,,-,0,,-,2438,CH0P41,フィリピン,3723,VE62CA,フィリピン,0,,-
+CastHour,Legendary Treasures,0,,-,0,,-,1073,.EBISU,フィリピン,2723,CH0P41,フィリピン,0,,-
+CastHour,Lawes's Parotia,0,,-,552,USA,フィリピン,1685,CH0P41,フィリピン,2487,VE62CA,フィリピン,0,,-
+CastHour,kors k's How to make OTOGE CORE,0,,-,555,THOMAS,フィリピン,1249,MOB,フィリピン,2215,YUKI,フィリピン,0,,-
+CastHour,ILAYZA,0,,-,1143,HIMIKO,フィリピン,1961,CH0P41,フィリピン,2751,VE62CA,フィリピン,0,,-
+CastHour,HEARTACHE,0,,-,346,JAYMEL,フィリピン,1111,FANZA,フィリピン,1796,YUKI,フィリピン,0,,-
+CastHour,Hat Surprise,0,,-,346,JOGO,フィリピン,1363,RANDOM,フィリピン,2450,YUKI,フィリピン,0,,-
+CastHour,Harmonia,0,,-,471,SANDAL,フィリピン,1236,65A-B,フィリピン,2016,YUKI,フィリピン,0,,-
+CastHour,hard-wired,0,,-,1178,PEENOR,フィリピン,2110,*#06#,フィリピン,3370,VE62CA,フィリピン,0,,-
+CastHour,GRAVITON,0,,-,671,THIEF,フィリピン,1951,CH0P41,フィリピン,3443,YUKI,フィリピン,0,,-
+CastHour,GiGaGaHell,0,,-,1308,HIMIKO,フィリピン,1855,HIMIKO,フィリピン,2495,CPU69,フィリピン,0,,-
+CastHour,"Get set, Go! feat.Kanae Asaba",0,,-,718,FLUFF,フィリピン,1168,JIMMY,フィリピン,2025,CPU69,フィリピン,0,,-
+CastHour,Game Changers,0,,-,621,FLUFF,フィリピン,1321,DBB,フィリピン,2543,CPU69,フィリピン,0,,-
+CastHour,Flying Castle,0,,-,800,JOGO,フィリピン,2110,CH0P41,フィリピン,3473,VE62CA,フィリピン,0,,-
+CastHour,FINALLY BLAZE,0,,-,632,JOGO,フィリピン,1562,QUILLY,フィリピン,2689,VE62CA,フィリピン,0,,-
+CastHour,Fegrix,0,,-,1232,HIMIKO,フィリピン,2108,CH0P41,フィリピン,3162,VE62CA,フィリピン,0,,-
+CastHour,Fantastic Merry-Go-Round,0,,-,0,,-,1374,2PDAYO,フィリピン,2039,CH0P41,フィリピン,0,,-
+CastHour,Ergosphere,0,,-,725,JOGO,フィリピン,1694,CH0P41,フィリピン,2668,VE62CA,フィリピン,0,,-
+CastHour,EMOTiON TRiPPER,0,,-,0,,-,1444,CH0P41,フィリピン,2163,YUKI,フィリピン,0,,-
+CastHour,Emera,0,,-,644,JOGO,フィリピン,1565,CH0P41,フィリピン,2257,VE62CA,フィリピン,0,,-
+CastHour,DREAM OF SPACE UFO ABDUCTION,0,,-,0,,-,1597,FANZA,フィリピン,2679,YUKI,フィリピン,0,,-
+CastHour,Don't believe the hype,0,,-,874,MARIKA,フィリピン,1899,FANZA,フィリピン,2990,YUKI,フィリピン,0,,-
+CastHour,Divine Heaven,0,,-,0,,-,1880,CH0P41,フィリピン,2919,VE62CA,フィリピン,0,,-
+CastHour,DISPARATE,0,,-,635,######,フィリピン,1526,RANDOM,フィリピン,2354,VE62CA,フィリピン,0,,-
+CastHour,Brave Spirits,0,,-,637,FLUFF,フィリピン,1375,HIMIKO,フィリピン,2411,YUKI,フィリピン,0,,-
+CastHour,Blue Bird feat. Kanae Asaba,0,,-,398,JOGO,フィリピン,601,QS36,フィリピン,1769,YUKI,フィリピン,0,,-
+CastHour,Binary Black Hole,0,,-,999,JUGLR*,フィリピン,2131,HANABI,フィリピン,3691,VE62CA,フィリピン,0,,-
+CastHour,Banger Banger Banger Banger,0,,-,866,JIMMY,フィリピン,1638,MOB,フィリピン,2811,VE62CA,フィリピン,0,,-
+CastHour,Arkadia,0,,-,929,MARIKA,フィリピン,2076,65A-B,フィリピン,3518,VE62CA,フィリピン,0,,-
+CastHour,Ariah,0,,-,510,USA,フィリピン,1477,65A-B,フィリピン,2147,YUKI,フィリピン,0,,-
+CastHour,Angel's Ladder,0,,-,924,CAHAN*,フィリピン,1966,FANZA,フィリピン,3191,VE62CA,フィリピン,0,,-
+CastHour,ANEMONE,214,HIMIKO,フィリピン,608,YAMADA,フィリピン,1450,######,フィリピン,2137,YUKI,フィリピン,0,,-
+CastHour,AMICABLE,0,,-,782,MINATO,フィリピン,1563,CH0P41,フィリピン,2378,CH0P41,フィリピン,0,,-
+CastHour,ALTERNATOR,0,,-,1220,MARIKA,フィリピン,2437,CH0P41,フィリピン,3588,VE62CA,フィリピン,0,,-
+CastHour,Aftermath,0,,-,708,QS36,フィリピン,2275,CH0P41,フィリピン,3512,VE62CA,フィリピン,0,,-
+CastHour,ABSOLUTE EVIL,241,HIMIKO,フィリピン,904,TAIRA,フィリピン,2117,CPU69,フィリピン,3337,VE62CA,フィリピン,0,,-
+CastHour,808monkey,0,,-,593,TOASTR,フィリピン,878,SIREN,フィリピン,1803,YUKI,フィリピン,0,,-
+CastHour,2 Beasts Unchained,0,,-,1093,PEENOR,フィリピン,1958,FANZA,フィリピン,3195,VE62CA,フィリピン,0,,-
+CastHour,10000 MILES AWAY,0,,-,722,JOGO,フィリピン,1601,CH0P41,フィリピン,2838,VE62CA,フィリピン,0,,-
 RESIDENT,響花水月,0,,-,825,CCHIN5,フィリピン,1807,CH0P41,フィリピン,2661,CH0P41,フィリピン,0,,-
 RESIDENT,雨のちパノラマセカイ,0,,-,377,BATTEN,フィリピン,1404,HIMIKO,フィリピン,2215,YUKI,フィリピン,0,,-
 RESIDENT,輪廻の鴉,0,,-,1017,HIMIKO,フィリピン,1656,PU.,フィリピン,2706,VE62CA,フィリピン,0,,-
